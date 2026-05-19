@@ -391,7 +391,7 @@
     <p class="page-eyebrow">LongTechVision · Dịch & Tổng hợp</p>
     <h1 class="page-title">Tin Công Nghệ<br><em>Thế Giới</em></h1>
     <p class="page-subtitle">Tổng hợp và dịch các tin tức công nghệ nổi bật từ The Verge, MacRumors, Gizmochina và các nguồn quốc tế uy tín.</p>
-    <p class="page-updated"><!-- LAST_UPDATED -->Cập nhật lần cuối: 18/05/2026 — 7 bài mới: Google I/O 2026 Gemini 4 Omni, WWDC 2026 iOS 27 Siri 2.0, OpenAI+Dell Codex Enterprise, Samsung Galaxy Z Fold 8 &amp; Flip 8, NVIDIA RTX 5090 Ti, macOS 27 Liquid Glass, Osaurus local AI cho Mac<!-- /LAST_UPDATED --></p>
+    <p class="page-updated"><!-- LAST_UPDATED -->Cập nhật lần cuối: 19/05/2026 — Bài mới: NVIDIA GTC 2026 Vera Rubin &amp; DGX Station, Samsung Galaxy Glasses, Google I/O 2026 Gemini 4 Omni, WWDC 2026 iOS 27 Siri 2.0<!-- /LAST_UPDATED --></p>
 
     <!-- Search bar -->
     <div class="search-bar">
@@ -417,6 +417,21 @@
 
     <!-- BLOG ARTICLES START -->
     <div class="blog-grid" id="blog-grid">
+
+      <a href="/articles/nvidia-gtc-2026-vera-rubin-dgx-station.html" class="blog-card" data-cat="ai">
+        <div class="card-top">
+          <span class="card-cat">AI</span>
+          <span class="card-source">NVIDIA Blog / CNBC</span>
+        </div>
+        <img class="card-thumb" src="https://blogs.nvidia.com/wp-content/uploads/2026/03/gtcsj26-keynote-DEB35142-scaled.jpg" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" alt="NVIDIA GTC 2026 Jensen Huang keynote" loading="lazy">
+        <div class="card-thumb-placeholder" style="display:none">🟢</div>
+        <h2 class="card-title">NVIDIA GTC 2026: Vera Rubin ra mắt, DGX Station cho mọi nhà, Jensen tuyên bố 1 nghìn tỷ USD</h2>
+        <p class="card-excerpt">Tổng hợp GTC 2026: chip Vera Rubin 336 tỷ transistor mạnh gấp 10x Blackwell, DGX Station Spark $3,000 cho AI cá nhân, Groq 3 LPU, kiến trúc rack Kyber 144 GPU, robot AI, và dự báo doanh thu 1 nghìn tỷ USD đến 2027.</p>
+        <div class="card-footer">
+          <span class="card-date">19/05/2026</span>
+          <span class="card-read">Đọc thêm</span>
+        </div>
+      </a>
 
       <a href="/articles/samsung-galaxy-glasses-july-2026.html" class="blog-card" data-cat="wearable">
         <div class="card-top">
@@ -832,7 +847,7 @@
         if (!m) return;
         const cardDate = new Date(+m[3], +m[2] - 1, +m[1]);
         const days = (today - cardDate) / (1000 * 60 * 60 * 24);
-        if (days >= 0 && days < 7) {
+        if (days >= 0 && days < 3) {
           const badge = document.createElement('div');
           badge.className = 'new-badge';
           badge.textContent = 'Mới';
