@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Credentials — Nguyễn Tấn Thiên Long</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link rel="icon" type="image/jpeg" href="uploads/favicon-avatar.jpg">
+  <link rel="apple-touch-icon" href="uploads/favicon-avatar.jpg">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:      #f5f2ed;
+      --text:    #1c1a17;
+      --accent:  #c0392b;
+      --muted:   rgba(28,26,23,0.82);
+      --dim:     rgba(28,26,23,0.58);
+      --line:    rgba(28,26,23,0.10);
+      --serif:   'Playfair Display', Georgia, serif;
+      --sans:    'DM Sans', Helvetica, sans-serif;
+    }
+
+    body.dark {
+      --bg:    #111010;
+      --text:  #f0ede8;
+      --muted: rgba(240,237,232,0.88);
+      --dim:   rgba(240,237,232,0.62);
+      --line:  rgba(240,237,232,0.10);
+    }
+    body.dark .top-bar { background: rgba(17,16,16,0.90); }
+    body.dark .cert-card { background: rgba(240,237,232,0.04); }
+    body.dark .cert-card:hover { background: rgba(240,237,232,0.07); }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
+      font-weight: 400;
+      line-height: 1.75;
+      overflow-x: hidden;
+      transition: background .3s, color .3s;
+    }
+
+    /* ── Top bar ── */
+    .top-bar {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 200;
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 1.4rem 4rem;
+      border-bottom: 1px solid var(--line);
+      background: rgba(245,242,237,0.90);
+      backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+      transition: background .3s;
+    }
+    .back-link {
+      font-family: var(--sans); font-size: 0.72rem; font-weight: 400;
+      letter-spacing: 0.14em; text-transform: uppercase;
+      color: var(--muted); text-decoration: none;
+      display: flex; align-items: center; gap: 0.5rem;
+      transition: color .2s;
+    }
+    .back-link:hover { color: var(--accent); }
+    .back-link::before { content: '←'; font-size: 1rem; line-height: 1; }
+    .page-label {
+      font-family: var(--serif); font-size: 0.9rem; font-weight: 400;
+      font-style: italic; color: var(--dim);
+    }
+
+    /* ── Main layout ── */
+    main {
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 9rem 2rem 6rem;
+    }
+
+    /* ── Hero ── */
+    .page-eyebrow {
+      font-size: 0.65rem; letter-spacing: 0.22em; text-transform: uppercase;
+      color: var(--accent); margin-bottom: 1.25rem;
+    }
+    .page-title {
+      font-family: var(--serif); font-size: clamp(2.2rem, 5vw, 3.5rem);
+      font-weight: 400; line-height: 1.08; margin-bottom: 1rem;
+    }
+    .page-subtitle {
+      font-size: 0.97rem; color: var(--muted); max-width: 520px; margin-bottom: 3.5rem;
+    }
+
+    /* ── Group heading ── */
+    .cert-group { margin-bottom: 3rem; }
+    .cert-group-label {
+      font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--dim); margin-bottom: 1.25rem;
+      padding-bottom: 0.75rem; border-bottom: 1px solid var(--line);
+    }
+
+    /* ── Certificate card ── */
+    .cert-card {
+      display: flex; align-items: flex-start; gap: 1.5rem;
+      padding: 1.5rem 1.25rem;
+      border-bottom: 1px solid var(--line);
+      text-decoration: none; color: var(--text);
+      background: transparent;
+      transition: background .2s;
+      border-radius: 2px;
+    }
+    .cert-card:first-of-type { border-top: 1px solid var(--line); }
+    .cert-card:hover { background: rgba(28,26,23,0.03); }
+
+    .cert-issuer-logo {
+      flex-shrink: 0; width: 2.75rem; height: 2.75rem;
+      border-radius: 6px; border: 1px solid var(--line);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.6rem; font-weight: 500; letter-spacing: 0.05em;
+      text-transform: uppercase; color: var(--dim);
+      background: var(--bg); transition: background .3s;
+    }
+    .cert-issuer-logo svg { width: 1.5rem; height: 1.5rem; }
+
+    .cert-body { flex: 1; }
+    .cert-name {
+      font-family: var(--serif); font-size: 1.05rem; font-weight: 400;
+      line-height: 1.3; margin-bottom: 0.35rem;
+      transition: color .2s;
+    }
+    .cert-card:hover .cert-name { color: var(--accent); }
+    .cert-meta {
+      font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase;
+      color: var(--dim); display: flex; gap: 1rem; flex-wrap: wrap;
+    }
+    .cert-meta span::before { content: '·'; margin-right: 0.5rem; }
+    .cert-meta span:first-child::before { content: ''; margin-right: 0; }
+
+    .cert-verify {
+      flex-shrink: 0; align-self: center;
+      font-size: 0.62rem; letter-spacing: 0.12em; text-transform: uppercase;
+      color: var(--dim); white-space: nowrap;
+      display: flex; align-items: center; gap: 0.3rem;
+      transition: color .2s;
+    }
+    .cert-card:hover .cert-verify { color: var(--accent); }
+    .cert-verify::after { content: '→'; }
+
+    /* ── Dark toggle ── */
+    .dark-toggle {
+      position: fixed; bottom: 2rem; left: 2rem; z-index: 500;
+      width: 2.4rem; height: 2.4rem;
+      border: 1px solid var(--line); border-radius: 50%;
+      background: var(--bg); color: var(--text);
+      cursor: pointer; display: flex; align-items: center; justify-content: center;
+      font-size: 1rem; line-height: 1;
+      transition: background .3s, color .3s, border-color .3s;
+      opacity: 0.7;
+    }
+    .dark-toggle:hover { opacity: 1; }
+
+    /* ── Footer ── */
+    footer {
+      max-width: 820px; margin: 0 auto;
+      padding: 2rem 2rem 3rem;
+      border-top: 1px solid var(--line);
+      display: flex; justify-content: space-between; align-items: center;
+      gap: 1rem; flex-wrap: wrap;
+    }
+    .footer-copy { font-size: 0.7rem; color: var(--dim); letter-spacing: 0.06em; }
+    .footer-back {
+      font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase;
+      color: var(--dim); text-decoration: none; transition: color .2s;
+    }
+    .footer-back:hover { color: var(--accent); }
+
+    /* ── Responsive ── */
+    @media (max-width: 640px) {
+      .top-bar { padding: 1.2rem 1.5rem; }
+      main { padding: 7rem 1.5rem 4rem; }
+      .cert-verify { display: none; }
+      footer { padding: 2rem 1.5rem; flex-direction: column; text-align: center; gap: 0.75rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top bar -->
+  <nav class="top-bar">
+    <a href="/" class="back-link">techvision.click</a>
+    <span class="page-label">Credentials</span>
+  </nav>
+
+  <main>
+    <p class="page-eyebrow">Nguyễn Tấn Thiên Long</p>
+    <h1 class="page-title">Credentials &amp;<br>Certifications</h1>
+    <p class="page-subtitle">Các chứng chỉ được cấp bởi tổ chức quốc tế qua nền tảng Coursera. Mỗi chứng chỉ có thể xác minh trực tiếp.</p>
+
+    <!-- Group: Data Science -->
+    <div class="cert-group">
+      <div class="cert-group-label">Data Science — IBM · Coursera</div>
+
+      <a href="https://coursera.org/verify/D21OADFQOY7Q" target="_blank" rel="noopener" class="cert-card">
+        <div class="cert-issuer-logo">
+          <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="32" height="32" rx="4" fill="#1F70C1"/>
+            <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="11" font-family="sans-serif" font-weight="600">IBM</text>
+          </svg>
+        </div>
+        <div class="cert-body">
+          <div class="cert-name">Python for Data Science, AI &amp; Development</div>
+          <div class="cert-meta">
+            <span>IBM</span>
+            <span>Coursera</span>
+            <span>Apr 2026</span>
+          </div>
+        </div>
+        <div class="cert-verify">Verify</div>
+      </a>
+
+      <a href="https://coursera.org/verify/Q85FUM6RMYS0" target="_blank" rel="noopener" class="cert-card">
+        <div class="cert-issuer-logo">
+          <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="32" height="32" rx="4" fill="#1F70C1"/>
+            <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="11" font-family="sans-serif" font-weight="600">IBM</text>
+          </svg>
+        </div>
+        <div class="cert-body">
+          <div class="cert-name">Data Science Methodology</div>
+          <div class="cert-meta">
+            <span>IBM</span>
+            <span>Coursera</span>
+            <span>Feb 2026</span>
+          </div>
+        </div>
+        <div class="cert-verify">Verify</div>
+      </a>
+
+      <a href="https://coursera.org/verify/YPLGF6YVPOXJ" target="_blank" rel="noopener" class="cert-card">
+        <div class="cert-issuer-logo">
+          <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="32" height="32" rx="4" fill="#1F70C1"/>
+            <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="11" font-family="sans-serif" font-weight="600">IBM</text>
+          </svg>
+        </div>
+        <div class="cert-body">
+          <div class="cert-name">Tools for Data Science</div>
+          <div class="cert-meta">
+            <span>IBM</span>
+            <span>Coursera</span>
+            <span>Feb 2026</span>
+          </div>
+        </div>
+        <div class="cert-verify">Verify</div>
+      </a>
+
+      <a href="https://coursera.org/verify/GQ68VEFURETG" target="_blank" rel="noopener" class="cert-card">
+        <div class="cert-issuer-logo">
+          <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="32" height="32" rx="4" fill="#1F70C1"/>
+            <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="11" font-family="sans-serif" font-weight="600">IBM</text>
+          </svg>
+        </div>
+        <div class="cert-body">
+          <div class="cert-name">What is Data Science?</div>
+          <div class="cert-meta">
+            <span>IBM</span>
+            <span>Coursera</span>
+            <span>Jan 2026</span>
+          </div>
+        </div>
+        <div class="cert-verify">Verify</div>
+      </a>
+    </div>
+
+    <!-- Group: Programming -->
+    <div class="cert-group">
+      <div class="cert-group-label">Programming — University of Michigan · Coursera</div>
+
+      <a href="https://coursera.org/verify/XKMZK739QN0Z" target="_blank" rel="noopener" class="cert-card">
+        <div class="cert-issuer-logo">
+          <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="32" height="32" rx="4" fill="#00274C"/>
+            <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" fill="#FFCB05" font-size="7.5" font-family="sans-serif" font-weight="700">UMich</text>
+          </svg>
+        </div>
+        <div class="cert-body">
+          <div class="cert-name">Programming for Everybody — Getting Started with Python</div>
+          <div class="cert-meta">
+            <span>University of Michigan</span>
+            <span>Coursera</span>
+            <span>Jan 2026</span>
+          </div>
+        </div>
+        <div class="cert-verify">Verify</div>
+      </a>
+    </div>
+
+    <!-- Group: Language -->
+    <div class="cert-group">
+      <div class="cert-group-label">Language — Voxy · Coursera</div>
+
+      <a href="https://coursera.org/verify/4R8L8B94RLH5" target="_blank" rel="noopener" class="cert-card">
+        <div class="cert-issuer-logo">
+          <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="32" height="32" rx="4" fill="#2C9C6A"/>
+            <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="9" font-family="sans-serif" font-weight="600">Voxy</text>
+          </svg>
+        </div>
+        <div class="cert-body">
+          <div class="cert-name">Beginner English: Personal Information</div>
+          <div class="cert-meta">
+            <span>Voxy</span>
+            <span>Coursera</span>
+            <span>Feb 2026</span>
+          </div>
+        </div>
+        <div class="cert-verify">Verify</div>
+      </a>
+    </div>
+
+  </main>
+
+  <footer>
+    <span class="footer-copy">© 2026 Nguyễn Tấn Thiên Long · LongTechVision</span>
+    <a href="/" class="footer-back">← techvision.click</a>
+  </footer>
+
+  <button class="dark-toggle" id="darkToggle" aria-label="Toggle dark mode">🌙</button>
+
+  <script>
+    (function() {
+      const btn = document.getElementById('darkToggle');
+      const apply = (dark) => {
+        document.body.classList.toggle('dark', dark);
+        btn.textContent = dark ? '☀' : '🌙';
+      };
+      const stored = localStorage.getItem('theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      apply(stored === 'dark' || (!stored && prefersDark));
+      btn.addEventListener('click', () => {
+        const isDark = !document.body.classList.contains('dark');
+        apply(isDark);
+        localStorage.setItem('theme', isDark ? 'dark' : 'light');
+      });
+    })();
+  </script>
+
+</body>
+</html>

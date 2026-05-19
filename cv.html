@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV & Portfolio — Nguyễn Tấn Thiên Long</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="icon" type="image/jpeg" href="uploads/favicon-avatar.jpg">
+  <link rel="apple-touch-icon" href="uploads/favicon-avatar.jpg">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400&family=DM+Sans:opsz,wght@9..40,400;9..40,500&display=swap" rel="stylesheet">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:      #f5f2ed;
+      --text:    #1c1a17;
+      --accent:  #c0392b;
+      --muted:   rgba(28,26,23,0.82);
+      --dim:     rgba(28,26,23,0.58);
+      --line:    rgba(28,26,23,0.10);
+      --serif:   'Playfair Display', Georgia, serif;
+      --sans:    'DM Sans', Helvetica, sans-serif;
+    }
+
+    body.dark {
+      --bg:    #111010;
+      --text:  #f0ede8;
+      --muted: rgba(240,237,232,0.88);
+      --dim:   rgba(240,237,232,0.62);
+      --line:  rgba(240,237,232,0.10);
+    }
+    body.dark nav.top-bar { background: rgba(17,16,16,0.88); }
+    body.dark #grain { opacity: 0.015; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
+      font-weight: 400;
+      line-height: 1.75;
+      overflow-x: hidden;
+    }
+
+    /* ── Grain ── */
+    #grain {
+      position: fixed; inset: 0;
+      pointer-events: none; z-index: 9999; opacity: 0.03;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='280' height='280'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.73' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='280' height='280' filter='url(%23g)'/%3E%3C/svg%3E");
+    }
+
+    /* ── Top Bar ── */
+    nav.top-bar {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 200;
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 1.4rem 4rem;
+      border-bottom: 1px solid var(--line);
+      background: rgba(245,242,237,0.88);
+      backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+    }
+    .top-bar-back {
+      font-family: var(--sans); font-size: 0.72rem; font-weight: 400;
+      letter-spacing: 0.12em; text-transform: uppercase;
+      color: var(--muted); text-decoration: none;
+      transition: color 0.2s;
+    }
+    .top-bar-back:hover { color: var(--accent); }
+    .top-bar-label {
+      font-family: var(--serif); font-style: italic; font-size: 0.92rem;
+      color: var(--dim); letter-spacing: 0.02em;
+    }
+
+    /* ── Dark toggle ── */
+    .dark-toggle {
+      position: fixed; bottom: 2rem; left: 2rem; z-index: 500;
+      width: 2.4rem; height: 2.4rem;
+      border: 1px solid var(--line); border-radius: 50%;
+      background: var(--bg); color: var(--text);
+      cursor: pointer; display: flex; align-items: center; justify-content: center;
+      font-size: 1rem; line-height: 1;
+      transition: background .3s, color .3s, border-color .3s;
+      opacity: 0.7;
+    }
+    .dark-toggle:hover { opacity: 1; }
+
+    /* ── Fade-up ── */
+    .fu { opacity: 0; transform: translateY(18px); transition: opacity 0.6s ease, transform 0.6s ease; }
+    .fu.in { opacity: 1; transform: translateY(0); }
+    .fu.d1 { transition-delay: 0.1s; }
+    .fu.d2 { transition-delay: 0.2s; }
+    .fu.d3 { transition-delay: 0.3s; }
+    .fu.d4 { transition-delay: 0.4s; }
+
+    /* ── Section Base ── */
+    section {
+      border-top: 1px solid var(--line);
+    }
+    .section-inner {
+      max-width: 860px; margin: 0 auto; padding: 6rem 2rem;
+    }
+
+    .section-tag {
+      display: flex; align-items: center; gap: 1.25rem; margin-bottom: 3.5rem;
+      font-family: var(--sans); font-size: 0.65rem; font-weight: 400;
+      letter-spacing: 0.22em; text-transform: uppercase; color: var(--dim);
+    }
+    .section-tag::after { content: ''; width: 48px; height: 1px; background: var(--line); flex-shrink: 0; }
+
+    /* ══════════════════════════════
+       HERO
+    ══════════════════════════════ */
+    #hero {
+      border-top: none;
+      padding-top: 9rem;
+    }
+    #hero .section-inner {
+      padding-top: 4rem; padding-bottom: 5rem;
+    }
+
+    .hero-eyebrow {
+      font-size: 0.68rem; font-weight: 400; letter-spacing: 0.22em;
+      text-transform: uppercase; color: var(--accent);
+      margin-bottom: 1.5rem;
+      font-family: var(--sans);
+    }
+
+    .hero-h1 {
+      font-family: var(--serif);
+      font-size: clamp(3rem, 8vw, 5.5rem);
+      font-weight: 400; line-height: 1.05;
+      letter-spacing: -0.01em;
+      margin-bottom: 2rem;
+    }
+
+    .hero-contact {
+      display: flex; flex-wrap: wrap; gap: 0.5rem 1.75rem;
+      align-items: center; margin-bottom: 1.5rem;
+      font-size: 0.78rem; color: var(--muted);
+    }
+    .hero-contact a {
+      color: var(--muted); text-decoration: none;
+      transition: color 0.2s;
+    }
+    .hero-contact a:hover { color: var(--accent); }
+    .hero-contact span { display: inline-flex; align-items: center; gap: 0.4rem; }
+
+    .hero-tagline {
+      font-family: var(--sans); font-size: 0.97rem; color: var(--muted);
+      line-height: 1.7; max-width: 580px;
+      border-left: 2px solid var(--accent); padding-left: 1.1rem;
+      margin-top: 0.5rem;
+    }
+
+    /* Hero layout with photo */
+    .hero-layout {
+      display: flex; align-items: flex-start;
+      gap: 4rem; justify-content: space-between;
+    }
+    .hero-content { flex: 1; min-width: 0; }
+    .hero-photo-wrap { flex-shrink: 0; }
+    .hero-photo-wrap img {
+      width: 200px; height: 200px;
+      object-fit: cover; object-position: center top;
+      border-radius: 2px;
+      filter: grayscale(8%);
+      display: block;
+    }
+    @media (max-width: 640px) {
+      .hero-layout { flex-direction: column-reverse; gap: 2rem; }
+      .hero-photo-wrap img { width: 110px; height: 110px; }
+    }
+
+    /* ══════════════════════════════
+       EXPERIENCE — TIMELINE
+    ══════════════════════════════ */
+    .timeline { display: flex; flex-direction: column; gap: 3.5rem; }
+
+    .timeline-item {
+      display: grid;
+      grid-template-columns: 140px 1fr;
+      gap: 0 2.5rem;
+      position: relative;
+    }
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: 140px;
+      top: 0.4rem;
+      bottom: -3.5rem;
+      width: 1px;
+      background: var(--line);
+    }
+    .timeline-item:last-child::before { display: none; }
+
+    .timeline-date {
+      font-family: var(--sans); font-size: 0.64rem; font-weight: 400;
+      letter-spacing: 0.18em; text-transform: uppercase;
+      color: var(--accent); padding-top: 0.3rem; text-align: right;
+      line-height: 1.5;
+    }
+
+    .timeline-body { padding-left: 2rem; position: relative; }
+    .timeline-body::before {
+      content: '';
+      position: absolute;
+      left: -0.5rem; top: 0.42rem;
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      background: var(--accent);
+      border: 2px solid var(--bg);
+      box-shadow: 0 0 0 1px var(--accent);
+    }
+
+    .timeline-company {
+      font-family: var(--serif); font-size: 1.05rem; font-weight: 400;
+      color: var(--text); margin-bottom: 0.25rem; line-height: 1.4;
+    }
+    .timeline-role {
+      font-family: var(--sans); font-size: 0.64rem; font-weight: 400;
+      letter-spacing: 0.16em; text-transform: uppercase;
+      color: var(--dim); margin-bottom: 0.85rem;
+    }
+    .timeline-bullets {
+      list-style: none; display: flex; flex-direction: column; gap: 0.4rem;
+    }
+    .timeline-bullets li {
+      font-size: 0.93rem; color: var(--muted); line-height: 1.65;
+      padding-left: 1.1rem; position: relative;
+    }
+    .timeline-bullets li::before {
+      content: '—'; position: absolute; left: 0;
+      color: var(--dim); font-size: 0.7rem; top: 0.25rem;
+    }
+
+    /* ══════════════════════════════
+       EDUCATION
+    ══════════════════════════════ */
+    .edu-item {
+      display: flex; flex-direction: column; gap: 0.25rem;
+    }
+    .edu-school {
+      font-family: var(--serif); font-size: 1.1rem; font-weight: 400;
+      color: var(--text);
+    }
+    .edu-year {
+      font-size: 0.64rem; letter-spacing: 0.18em; text-transform: uppercase;
+      color: var(--accent); font-family: var(--sans); margin-bottom: 0.2rem;
+    }
+    .edu-major {
+      font-size: 0.9rem; color: var(--muted);
+    }
+
+    /* ══════════════════════════════
+       SKILLS
+    ══════════════════════════════ */
+    .skills-grid {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem;
+    }
+    .skill-group-label {
+      font-size: 0.64rem; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--dim); margin-bottom: 1rem; font-family: var(--sans);
+    }
+    .skill-tags {
+      display: flex; flex-wrap: wrap; gap: 0.5rem;
+    }
+    .skill-tag {
+      border: 1px solid var(--line);
+      padding: 0.3rem 0.9rem;
+      border-radius: 100px;
+      font-size: 0.72rem;
+      color: var(--muted);
+      font-family: var(--sans);
+      transition: border-color 0.2s, color 0.2s;
+    }
+    .skill-tag:hover {
+      border-color: var(--accent); color: var(--text);
+    }
+
+    /* ══════════════════════════════
+       PORTFOLIO
+    ══════════════════════════════ */
+    .portfolio-grid {
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;
+    }
+
+    .portfolio-card {
+      border: 1px solid var(--line);
+      padding: 1.75rem;
+      transition: border-color 0.25s;
+      display: flex; flex-direction: column; gap: 0.85rem;
+    }
+    .portfolio-card:hover { border-color: var(--accent); }
+
+    .portfolio-card-tag {
+      font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--accent); font-family: var(--sans);
+    }
+    .portfolio-card-title {
+      font-family: var(--serif); font-size: 1rem; font-weight: 400;
+      color: var(--text); line-height: 1.4;
+    }
+    .portfolio-card-role {
+      font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase;
+      color: var(--dim); font-family: var(--sans);
+    }
+    .portfolio-card-content {
+      font-size: 0.88rem; color: var(--muted); line-height: 1.7;
+      flex: 1;
+    }
+    .portfolio-card-result {
+      display: inline-block;
+      font-size: 0.68rem; letter-spacing: 0.1em;
+      color: var(--accent); font-family: var(--sans);
+      border: 1px solid currentColor; border-radius: 100px;
+      padding: 0.2rem 0.75rem; margin-top: 0.25rem;
+      width: fit-content;
+    }
+
+    /* ══════════════════════════════
+       PARTNERS
+    ══════════════════════════════ */
+    .partner-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 1.25rem;
+    }
+    .partner-card {
+      display: flex; flex-direction: column; align-items: center; gap: 0.65rem;
+      text-align: center; text-decoration: none; color: var(--text);
+      padding: 1.25rem 0.75rem;
+      border: 1px solid var(--line);
+      transition: border-color .25s;
+    }
+    .partner-card:hover { border-color: var(--accent); }
+    .partner-avatar {
+      width: 56px; height: 56px; border-radius: 50%;
+      object-fit: cover; display: block;
+      filter: grayscale(15%); transition: filter .3s;
+    }
+    .partner-card:hover .partner-avatar { filter: grayscale(0%); }
+    .partner-initials {
+      width: 56px; height: 56px; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      background: var(--line); font-family: var(--serif); font-size: 0.95rem;
+      color: var(--muted); flex-shrink: 0;
+    }
+    .partner-name {
+      font-size: 0.68rem; letter-spacing: 0.06em; color: var(--muted);
+      line-height: 1.3;
+    }
+    .partner-group-label {
+      font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--dim); margin-bottom: 1rem; font-family: var(--sans);
+    }
+    @media (max-width: 860px) {
+      .partner-grid { grid-template-columns: repeat(3, 1fr); }
+    }
+    @media (max-width: 480px) {
+      .partner-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    /* ══════════════════════════════
+       FOOTER
+    ══════════════════════════════ */
+    footer {
+      border-top: 1px solid var(--line);
+    }
+    footer .section-inner {
+      padding-top: 2.5rem; padding-bottom: 2.5rem;
+      display: flex; justify-content: space-between; align-items: center;
+      flex-wrap: wrap; gap: 1rem;
+    }
+    .footer-copy {
+      font-size: 0.72rem; letter-spacing: 0.1em; color: var(--dim);
+      font-family: var(--sans);
+    }
+    .footer-link {
+      font-size: 0.72rem; letter-spacing: 0.1em; color: var(--dim);
+      font-family: var(--sans); text-decoration: none;
+      transition: color 0.2s;
+    }
+    .footer-link:hover { color: var(--accent); }
+
+    /* ══════════════════════════════
+       RESPONSIVE
+    ══════════════════════════════ */
+    @media (max-width: 860px) {
+      nav.top-bar { padding: 1.2rem 1.5rem; }
+
+      .section-inner { padding: 4rem 1.5rem; }
+
+      .hero-h1 { font-size: clamp(2.4rem, 10vw, 3.6rem); }
+
+      .timeline-item {
+        grid-template-columns: 1fr;
+        gap: 0.25rem;
+      }
+      .timeline-item::before { display: none; }
+      .timeline-date { text-align: left; }
+      .timeline-body { padding-left: 0; }
+      .timeline-body::before { display: none; }
+
+      .skills-grid { grid-template-columns: 1fr; gap: 2rem; }
+
+      .portfolio-grid { grid-template-columns: 1fr; }
+
+      footer .section-inner { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+    }
+
+    @media (max-width: 540px) {
+      nav.top-bar { padding: 1rem 1.25rem; }
+      .top-bar-label { display: none; }
+      .dark-toggle { bottom: 1.25rem; left: 1.25rem; }
+    }
+
+    /* ── Print ── */
+    @media print {
+      .top-bar, .dark-toggle, #grain { display: none; }
+      body { background: white; color: black; }
+      #hero { padding-top: 2rem; }
+      .fu { opacity: 1; transform: none; }
+      section { border-top: 1px solid #ddd; }
+    }
+  </style>
+</head>
+<body>
+
+<div id="grain" aria-hidden="true"></div>
+
+<!-- Top Bar -->
+<nav class="top-bar" role="navigation" aria-label="Page navigation">
+  <a href="/" class="top-bar-back" aria-label="Back to techvision.click">← techvision.click</a>
+  <span class="top-bar-label">CV &amp; Portfolio</span>
+</nav>
+
+<!-- Dark Mode Toggle -->
+<button class="dark-toggle" id="darkToggle" aria-label="Toggle dark mode">🌙</button>
+
+<!-- ══ HERO ══ -->
+<section id="hero">
+  <div class="section-inner">
+    <div class="hero-layout">
+      <div class="hero-content">
+        <p class="hero-eyebrow fu">Nguyễn Tấn Thiên Long</p>
+        <h1 class="hero-h1 fu d1">CV &amp;<br>Portfolio</h1>
+
+        <div class="hero-contact fu d2">
+          <span>📧 <a href="mailto:longnguyenreview@gmail.com">longnguyenreview@gmail.com</a></span>
+          <span>📞 0375 988 545</span>
+          <span>📍 Tân Phú, TP.HCM</span>
+          <span>🌐 <a href="https://techvision.click" target="_blank" rel="noopener">techvision.click</a></span>
+        </div>
+
+        <p class="hero-tagline fu d3">Senior Communication Executive · Tech Content Strategist · 5+ năm kinh nghiệm thực chiến trong Tech &amp; Service</p>
+      </div>
+
+      <div class="hero-photo-wrap fu d2">
+        <img src="uploads/portrait.jpg" alt="Nguyễn Tấn Thiên Long">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ EXPERIENCE ══ -->
+<section id="experience">
+  <div class="section-inner">
+    <div class="section-tag fu">— Kinh nghiệm</div>
+
+    <div class="timeline">
+
+      <!-- Job 1 -->
+      <div class="timeline-item fu">
+        <div class="timeline-date">01/2024 – 01/2026</div>
+        <div class="timeline-body">
+          <div class="timeline-company">Fastcare Việt Nam — TP. Hồ Chí Minh</div>
+          <div class="timeline-role">Senior Communication Executive &amp; Brand Development</div>
+          <ul class="timeline-bullets">
+            <li>Dẫn dắt dự án hợp tác Apple Independent Repair Provider (IRP) — xử lý hồ sơ pháp lý, đảm bảo 100% tuân thủ tiêu chuẩn Apple</li>
+            <li>Tối ưu chi phí CPV giảm 15–20% qua đàm phán dựa trên dữ liệu; quản lý mạng lưới KOLs (Vật Vờ Studio, Vui Vẻ...)</li>
+            <li>Triển khai Campus Tour / Brand Activation tại các ĐH lớn TP.HCM, PR Booking Tier-1 media</li>
+            <li>Vận hành hệ thống Social Listening, phát hiện sớm rủi ro truyền thông</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Job 2 -->
+      <div class="timeline-item fu d1">
+        <div class="timeline-date">2020 – 2026</div>
+        <div class="timeline-body">
+          <div class="timeline-company">Senior Tech Content Reviewer &amp; Channel Growth</div>
+          <div class="timeline-role">Freelance / Independent</div>
+          <ul class="timeline-bullets">
+            <li>Xây dựng chiến lược Deep-dive reviews &amp; Teardown, đưa kênh đạt <strong>55.4K Subscribers · 26.7M Likes</strong></li>
+            <li>Lên kịch bản, dẫn chương trình trước ống kính, tối ưu quy trình sản xuất</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Job 3 -->
+      <div class="timeline-item fu d2">
+        <div class="timeline-date">2020 – 2021</div>
+        <div class="timeline-body">
+          <div class="timeline-company">Ngọc Trần Studio — TP. Hồ Chí Minh</div>
+          <div class="timeline-role">Tech Content Reviewer</div>
+          <ul class="timeline-bullets">
+            <li>Review Smartphone, Laptop theo xu hướng; On-camera Talent, Scripting, Product Styling</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Job 4 -->
+      <div class="timeline-item fu d3">
+        <div class="timeline-date">2019 – 2020</div>
+        <div class="timeline-body">
+          <div class="timeline-company">Thế Giới Di Động (MWG) — TP. Hồ Chí Minh</div>
+          <div class="timeline-role">Tech Writer / Content Collaborator</div>
+          <ul class="timeline-bullets">
+            <li>Viết 18 bài đánh giá sản phẩm &amp; tin tức công nghệ chuẩn SEO, đáp ứng tiêu chuẩn biên tập khắt khe của tập đoàn</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══ EDUCATION ══ -->
+<section id="education">
+  <div class="section-inner">
+    <div class="section-tag fu">— Học vấn</div>
+
+    <div class="edu-item fu d1">
+      <div class="edu-year">2023</div>
+      <div class="edu-school">ĐH Bách Khoa TP.HCM (HCMUT)</div>
+      <div class="edu-major">Chuyên ngành: Công nghệ Sinh học — Khoa Kỹ thuật Hóa học</div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ SKILLS ══ -->
+<section id="skills">
+  <div class="section-inner">
+    <div class="section-tag fu">— Năng lực</div>
+
+    <div class="skills-grid">
+      <div class="fu d1">
+        <div class="skill-group-label">Hard Skills</div>
+        <div class="skill-tags">
+          <span class="skill-tag">Strategic Partnership</span>
+          <span class="skill-tag">Integrated Marketing (Offline &amp; Online PR)</span>
+          <span class="skill-tag">Influencer Marketing &amp; Booking</span>
+          <span class="skill-tag">Social Listening &amp; Crisis Management</span>
+          <span class="skill-tag">Tech Review</span>
+          <span class="skill-tag">Python &amp; AI Tools</span>
+        </div>
+      </div>
+
+      <div class="fu d2">
+        <div class="skill-group-label">Soft Skills</div>
+        <div class="skill-tags">
+          <span class="skill-tag">Problem Solving</span>
+          <span class="skill-tag">Negotiation</span>
+          <span class="skill-tag">Project Management</span>
+          <span class="skill-tag">Thích ứng công nghệ mới</span>
+          <span class="skill-tag">Tiếng Anh (Working Proficiency)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ PORTFOLIO ══ -->
+<section id="portfolio">
+  <div class="section-inner">
+    <div class="section-tag fu">— Portfolio</div>
+
+    <div class="portfolio-grid">
+
+      <!-- Card 1 -->
+      <div class="portfolio-card fu d1">
+        <div class="portfolio-card-tag">Global Partnership</div>
+        <div class="portfolio-card-title">Apple Independent Repair Provider (IRP)</div>
+        <div class="portfolio-card-role">Project Lead &amp; Point of Contact</div>
+        <div class="portfolio-card-content">Đưa doanh nghiệp địa phương đáp ứng tiêu chuẩn vận hành toàn cầu của Apple — xây dựng quy trình pháp lý, chuẩn hóa chuỗi cung ứng linh kiện, đào tạo nhân sự.</div>
+        <div class="portfolio-card-result">100% Apple compliance</div>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="portfolio-card fu d2">
+        <div class="portfolio-card-tag">Content Strategy</div>
+        <div class="portfolio-card-title">Tăng trưởng Kênh YouTube Fastcare VN</div>
+        <div class="portfolio-card-role">Content Strategist &amp; Producer</div>
+        <div class="portfolio-card-content">Chuyển đổi định vị từ "tin tức tổng hợp" sang "chuyên gia kỹ thuật" qua các video Teardown/Deep-dive. Setup góc quay cinematic, tối ưu quy trình sản xuất.</div>
+        <div class="portfolio-card-result">55.4K Subscribers · 26.7M Likes</div>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="portfolio-card fu d3">
+        <div class="portfolio-card-tag">Brand Activation</div>
+        <div class="portfolio-card-title">Campus Tour &amp; Integrated PR Campaign</div>
+        <div class="portfolio-card-role">Campaign Coordinator</div>
+        <div class="portfolio-card-content">Chuỗi sự kiện trải nghiệm tại các trường ĐH TP.HCM kết hợp PR Booking (GenK, Thanh Niên...) — tối đa hóa điểm chạm thương hiệu với tệp Gen Z.</div>
+        <div class="portfolio-card-result">Brand Awareness ↑ Gen Z</div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══ PARTNERS ══ -->
+<section id="partners">
+  <div class="section-inner">
+    <div class="section-tag fu">— Đối tác</div>
+
+    <!-- KOL & Content -->
+    <div class="partner-group-label fu">KOL / Content Creators</div>
+    <div class="partner-grid fu d1">
+
+      <a href="https://www.youtube.com/@realvatvostudio" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-vatvostudio.jpg" alt="Vật Vờ Studio" class="partner-avatar">
+        <span class="partner-name">Vật Vờ Studio</span>
+      </a>
+
+      <a href="https://www.youtube.com/@vinhxo69" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-vinhxo.jpg" alt="Vinh Xô" class="partner-avatar">
+        <span class="partner-name">Vinh Xô</span>
+      </a>
+
+      <a href="https://www.youtube.com/@vuive" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-vuive.jpg" alt="Vui Vẻ" class="partner-avatar">
+        <span class="partner-name">Vui Vẻ</span>
+      </a>
+
+      <a href="https://www.youtube.com/@TuanTienTi2911" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-tuantienri.jpg" alt="Tuấn Tiền Tỉ" class="partner-avatar">
+        <span class="partner-name">Tuấn Tiền Tỉ</span>
+      </a>
+
+      <a href="https://www.youtube.com/@thinkview" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-thinkview.jpg" alt="ThinkView" class="partner-avatar">
+        <span class="partner-name">ThinkView</span>
+      </a>
+
+      <a href="https://www.youtube.com/@rcn_201" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-ruongcn.jpg" alt="Rương Công Nghệ" class="partner-avatar">
+        <span class="partner-name">Rương CN</span>
+      </a>
+
+      <a href="https://www.youtube.com/@TheReviewerrrrr" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-thereviewer.jpg" alt="The Reviewer" class="partner-avatar">
+        <span class="partner-name">The Reviewer</span>
+      </a>
+
+      <a href="https://www.youtube.com/@meimeioi" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-meimei.jpg" alt="Mei Mei Ơi" class="partner-avatar">
+        <span class="partner-name">Mei Mei Oi</span>
+      </a>
+
+      <a href="https://younetmedia.com" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-younetmedia.png" alt="Younet Media" class="partner-avatar" style="border-radius:6px;object-fit:contain;background:#fff;padding:4px;">
+        <span class="partner-name">Younet Media</span>
+      </a>
+
+    </div>
+
+    <!-- Media / PR / Event / OOH -->
+    <div class="partner-group-label fu" style="margin-top:2.5rem">Media · Sự kiện · OOH</div>
+    <div class="partner-grid fu d1" style="grid-template-columns:repeat(3,1fr)">
+
+      <a href="https://vccorp.vn" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-vccorp.png" alt="VCCorp" class="partner-avatar" style="border-radius:6px;object-fit:contain;background:#fff;padding:8px;">
+        <span class="partner-name">VCCorp</span>
+      </a>
+
+      <a href="https://www.facebook.com/SponsorshipChannelVN" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-sponsorshipchannel.png" alt="Sponsorship Channel" class="partner-avatar" style="border-radius:6px;object-fit:contain;background:#fff;padding:6px;">
+        <span class="partner-name">Sponsorship Channel</span>
+      </a>
+
+      <a href="https://goldenasia.vn" target="_blank" rel="noopener" class="partner-card">
+        <img src="uploads/p-goldenasia.png" alt="Golden Asia" class="partner-avatar" style="border-radius:6px;object-fit:cover;">
+        <span class="partner-name">Golden Asia</span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══ FOOTER ══ -->
+<footer>
+  <div class="section-inner">
+    <span class="footer-copy">© 2026 Nguyễn Tấn Thiên Long · LongTechVision</span>
+    <a href="/" class="footer-link">← techvision.click</a>
+  </div>
+</footer>
+
+<script>
+  // ── Dark mode ──
+  const toggle = document.getElementById('darkToggle');
+  const body = document.body;
+
+  function applyTheme(dark) {
+    body.classList.toggle('dark', dark);
+    toggle.textContent = dark ? '☀' : '🌙';
+  }
+
+  const saved = localStorage.getItem('theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(saved ? saved === 'dark' : prefersDark);
+
+  toggle.addEventListener('click', () => {
+    const isDark = body.classList.contains('dark');
+    applyTheme(!isDark);
+    localStorage.setItem('theme', !isDark ? 'dark' : 'light');
+  });
+
+  // ── Fade-up on scroll ──
+  const fus = document.querySelectorAll('.fu');
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('in');
+        io.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.12 });
+
+  fus.forEach(el => io.observe(el));
+</script>
+
+</body>
+</html>

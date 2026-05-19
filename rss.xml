@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LongTechVision Tech News</title>
+    <atom:link href="https://techvision.click/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://techvision.click/blog.html</link>
+    <description>Tin công nghệ quốc tế dịch tiếng Việt — cập nhật hàng tuần. AI, smartphone, laptop, camera, wearable.</description>
+    <language>vi-VN</language>
+    <managingEditor>longnguyenreview@gmail.com (Nguyễn Tấn Thiên Long)</managingEditor>
+    <webMaster>longnguyenreview@gmail.com (LongTechVision)</webMaster>
+    <lastBuildDate>Sat, 16 May 2026 14:00:00 +0700</lastBuildDate>
+    <image>
+      <url>https://techvision.click/uploads/favicon-avatar.jpg</url>
+      <title>LongTechVision Tech News</title>
+      <link>https://techvision.click/blog.html</link>
+    </image>
+
+    <item>
+      <title>OpenAI chuẩn bị KIỆN Apple — drama AI lớn nhất 2026</title>
+      <link>https://techvision.click/articles/openai-apple-lawsuit-may-2026.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/openai-apple-lawsuit-may-2026.html</guid>
+      <pubDate>Fri, 15 May 2026 18:00:00 +0700</pubDate>
+      <category>AI</category>
+      <description><![CDATA[OpenAI đang làm việc với hãng luật để chuẩn bị kiện Apple vì tích hợp ChatGPT trong iPhone bị "kìm hãm" suốt 2 năm. Apple đã chọn Google Gemini thay ChatGPT cho Siri.]]></description>
+    </item>
+
+    <item>
+      <title>Google I/O 2026 sắp khai mạc 19/5 — chờ đợi Gemini 3.2, Android Lifeline</title>
+      <link>https://techvision.click/articles/google-io-2026-preview.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/google-io-2026-preview.html</guid>
+      <pubDate>Sat, 16 May 2026 10:00:00 +0700</pubDate>
+      <category>AI</category>
+      <description><![CDATA[Lễ khai mạc Google I/O 2026 diễn ra 0h ngày 20/5 giờ Việt Nam. Kỳ vọng: Gemini 3.2 Flash (đã leak 5/5), preview Gemini 4, Android Lifeline, Pixel Fold 2, Googlebooks AI-first.]]></description>
+    </item>
+
+    <item>
+      <title>Apple mở iOS 27 cho AI agents bên thứ 3 — bước ngoặt lớn từ "walled garden"</title>
+      <link>https://techvision.click/articles/apple-ios-27-third-party-ai-agents.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/apple-ios-27-third-party-ai-agents.html</guid>
+      <pubDate>Sat, 16 May 2026 11:00:00 +0700</pubDate>
+      <category>Smartphone</category>
+      <description><![CDATA[Apple sẽ cho phép Claude, Perplexity, Grok tích hợp sâu vào iOS 27. Người dùng chọn AI mặc định tương tự chọn browser. Công bố tại WWDC 6/2026.]]></description>
+    </item>
+
+    <item>
+      <title>AI Agents triển khai trong doanh nghiệp quy mô lớn — cuộc cách mạng workflow</title>
+      <link>https://techvision.click/articles/ai-agents-enterprise-deployment-2026.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/ai-agents-enterprise-deployment-2026.html</guid>
+      <pubDate>Sat, 16 May 2026 12:00:00 +0700</pubDate>
+      <category>AI</category>
+      <description><![CDATA[Salesforce 5.000 agents, JPMorgan 2.000 AI engineers. AI tự làm việc như nhân viên thực sự. 2026 là 1999 của AI Agents — cơ hội lớn cho người Việt.]]></description>
+    </item>
+
+    <item>
+      <title>Google ra mắt "Gemini Intelligence" trên Android 17 — tuyên chiến trực diện với Apple</title>
+      <link>https://techvision.click/articles/google-gemini-intelligence-android-17.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/google-gemini-intelligence-android-17.html</guid>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0700</pubDate>
+      <category>AI</category>
+      <description><![CDATA[Google preview Android 17 với lớp AI mới mang tên Gemini Intelligence, tung đòn ngay trước thềm Apple WWDC. Dịch từ MacRumors.]]></description>
+    </item>
+
+    <item>
+      <title>Xiaomi Band 10 Pro: vòng đeo tay thông minh với màn hình cong, dây cao su mềm</title>
+      <link>https://techvision.click/articles/xiaomi-band-10-pro.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/xiaomi-band-10-pro.html</guid>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0700</pubDate>
+      <category>Wearable</category>
+      <description><![CDATA[Xiaomi Band 10 Pro với màn hình AMOLED cong nhẹ, mỏng 9.7mm, nhẹ 21.6g, pin 21 ngày. Dịch từ iGeekPhone.]]></description>
+    </item>
+
+    <item>
+      <title>Sony A7R VI: máy ảnh mirrorless 67MP đỉnh cao mới của Sony</title>
+      <link>https://techvision.click/articles/sony-a7r-vi-67mp-camera.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/sony-a7r-vi-67mp-camera.html</guid>
+      <pubDate>Thu, 14 May 2026 08:00:00 +0700</pubDate>
+      <category>Camera</category>
+      <description><![CDATA[Sony A7R VI — máy ảnh full-frame mirrorless 67MP fully-stacked đầu tiên, 16 stops dynamic range. Dịch từ TechRadar.]]></description>
+    </item>
+
+    <item>
+      <title>Google đàm phán với SpaceX đưa trung tâm dữ liệu lên quỹ đạo</title>
+      <link>https://techvision.click/articles/google-spacex-orbital-data-centers.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/google-spacex-orbital-data-centers.html</guid>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0700</pubDate>
+      <category>AI</category>
+      <description><![CDATA[Google đàm phán với SpaceX phóng data center lên quỹ đạo, định vị là hạ tầng AI rẻ nhất. Dịch từ TechStartups.]]></description>
+    </item>
+
+    <item>
+      <title>Tháng 5/2026: Vivo X300 Ultra, OnePlus Nord CE6, Oppo Find X9 Ultra cùng ra mắt</title>
+      <link>https://techvision.click/articles/may-2026-smartphone-launches.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/may-2026-smartphone-launches.html</guid>
+      <pubDate>Wed, 13 May 2026 08:00:00 +0700</pubDate>
+      <category>Smartphone</category>
+      <description><![CDATA[Cuộc đua flagship: Vivo X300 Ultra (ZEISS 200MP), OnePlus Nord CE6 (pin 8000mAh), Oppo X9 Ultra (Hasselblad). Dịch từ Deccan Herald.]]></description>
+    </item>
+
+    <item>
+      <title>Big Tech chi 725 tỷ USD cho AI năm 2026 — tăng 75% so với năm ngoái</title>
+      <link>https://techvision.click/articles/big-tech-725-billion-ai-2026.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/big-tech-725-billion-ai-2026.html</guid>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0700</pubDate>
+      <category>AI</category>
+      <description><![CDATA[Meta, Amazon, Microsoft, Alphabet cam kết 725 tỷ USD cho AI 2026 — phần lớn cho data center, chip, GPU. Dịch từ TechStartups.]]></description>
+    </item>
+
+  </channel>
+</rss>

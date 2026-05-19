@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 — Không tìm thấy trang · LongTechVision</title>
+  <meta name="theme-color" content="#c0392b">
+  <meta name="robots" content="noindex">
+  <link rel="icon" type="image/jpeg" href="/uploads/favicon-avatar.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg:#f5f2ed; --text:#1c1a17; --accent:#c0392b;
+      --muted:rgba(28,26,23,0.82); --dim:rgba(28,26,23,0.58); --line:rgba(28,26,23,0.10);
+      --serif:'Playfair Display',Georgia,serif; --sans:'DM Sans',Helvetica,sans-serif;
+    }
+    body.dark { --bg:#111010; --text:#f0ede8; --muted:rgba(240,237,232,0.88); --dim:rgba(240,237,232,0.62); --line:rgba(240,237,232,0.10); }
+    body {
+      background: var(--bg); color: var(--text);
+      font-family: var(--sans); line-height: 1.7;
+      min-height: 100vh;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      padding: 2rem; text-align: center;
+      transition: background .3s, color .3s;
+    }
+    .e404 {
+      font-family: var(--serif); font-size: clamp(8rem, 22vw, 16rem);
+      font-weight: 400; line-height: 1; color: var(--accent);
+      letter-spacing: -0.04em;
+      margin-bottom: 0.5rem;
+    }
+    .e-eyebrow {
+      font-size: 0.65rem; letter-spacing: 0.22em; text-transform: uppercase;
+      color: var(--dim); margin-bottom: 1rem;
+    }
+    .e-title {
+      font-family: var(--serif); font-size: clamp(1.6rem, 4vw, 2.5rem);
+      font-weight: 400; line-height: 1.2; margin-bottom: 1.2rem;
+      max-width: 560px;
+    }
+    .e-title em { font-style: italic; }
+    .e-desc {
+      max-width: 480px; color: var(--muted); margin-bottom: 2.5rem;
+      font-size: 0.97rem;
+    }
+    .e-actions { display: flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center; }
+    .e-btn {
+      display: inline-flex; align-items: center; gap: 0.4rem;
+      padding: 0.85rem 1.4rem;
+      font-family: var(--sans); font-size: 0.75rem;
+      letter-spacing: 0.12em; text-transform: uppercase; font-weight: 500;
+      text-decoration: none; border-radius: 4px;
+      transition: all .2s; border: 1px solid var(--line);
+    }
+    .e-btn.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+    .e-btn.primary:hover { background: #a32f23; border-color: #a32f23; }
+    .e-btn.ghost { background: transparent; color: var(--text); }
+    .e-btn.ghost:hover { border-color: var(--accent); color: var(--accent); }
+    .e-suggest {
+      margin-top: 3.5rem; padding-top: 2rem;
+      border-top: 1px solid var(--line);
+      width: 100%; max-width: 480px;
+    }
+    .e-suggest-label {
+      font-size: 0.6rem; letter-spacing: 0.22em; text-transform: uppercase;
+      color: var(--dim); margin-bottom: 1rem;
+    }
+    .e-suggest-grid { display: flex; gap: 0.6rem; flex-wrap: wrap; justify-content: center; }
+    .e-pill {
+      font-size: 0.7rem; padding: 0.45rem 0.95rem;
+      border: 1px solid var(--line); border-radius: 2rem;
+      color: var(--muted); text-decoration: none;
+      transition: all .2s;
+    }
+    .e-pill:hover { border-color: var(--accent); color: var(--accent); }
+  </style>
+</head>
+<body>
+  <p class="e-eyebrow">404 · Lỗi</p>
+  <div class="e404">404</div>
+  <h1 class="e-title">Trang anh tìm <em>đã biến mất giữa các vì sao.</em></h1>
+  <p class="e-desc">Đường dẫn không tồn tại — có thể đã bị di chuyển, đổi tên hoặc anh gõ sai. Quay về trang chủ để khám phá nội dung mới nhất nhé.</p>
+
+  <div class="e-actions">
+    <a href="/" class="e-btn primary">← Quay về trang chủ</a>
+    <a href="/blog.html" class="e-btn ghost">Đọc Tech News</a>
+  </div>
+
+  <div class="e-suggest">
+    <div class="e-suggest-label">Đề xuất khám phá</div>
+    <div class="e-suggest-grid">
+      <a href="/" class="e-pill">Trang chủ</a>
+      <a href="/blog.html" class="e-pill">Tech News</a>
+      <a href="/reviews.html" class="e-pill">Reviews</a>
+      <a href="/cv.html" class="e-pill">CV</a>
+      <a href="/certificates.html" class="e-pill">Credentials</a>
+      <a href="/#contact" class="e-pill">Liên hệ</a>
+    </div>
+  </div>
+
+  <script>
+    const stored = localStorage.getItem('theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (stored === 'dark' || (!stored && prefersDark)) document.body.classList.add('dark');
+  </script>
+</body>
+</html>
