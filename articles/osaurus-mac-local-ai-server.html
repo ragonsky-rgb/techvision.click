@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Osaurus — server AI local cho Mac M-series, chạy LLM offline mã nguồn mở — LongTechVision</title>
+  <meta name="description" content="Osaurus là server AI native cho Mac Apple Silicon, chỉ 10MB, mã nguồn mở MIT, 3.8k stars GitHub. Chạy LLM local hoàn toàn offline qua MLX của Apple. Có thể vừa local vừa cloud — đối thủ Ollama mạnh nhất 2026.">
+  <meta name="keywords" content="Osaurus, local LLM, Mac M-series, Apple Silicon, MLX, Ollama, AI offline, on-device AI, open source AI, AI riêng tư">
+  <meta name="theme-color" content="#c0392b">
+  <link rel="canonical" href="https://techvision.click/articles/osaurus-mac-local-ai-server.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link rel="icon" type="image/jpeg" href="/uploads/favicon-avatar.jpg">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/articles/_article-style.css">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <script defer src="/_vercel/insights/script.js"></script>
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="vi_VN">
+  <meta property="og:url" content="https://techvision.click/articles/osaurus-mac-local-ai-server.html">
+  <meta property="og:title" content="Osaurus — server AI local cho Mac M-series, chạy LLM offline mã nguồn mở">
+  <meta property="og:description" content="App native Swift 10MB chạy LLM hoàn toàn offline trên Apple Silicon, OpenAI-compatible API. Bảo mật tuyệt đối.">
+  <meta property="og:image" content="https://techcrunch.com/wp-content/uploads/2026/05/osaurus-screenshot.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Osaurus — chạy LLM offline trên Mac M-series, không phụ thuộc cloud">
+  <meta name="twitter:image" content="https://techcrunch.com/wp-content/uploads/2026/05/osaurus-screenshot.jpg">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://techvision.click/articles/osaurus-mac-local-ai-server.html"
+  },
+  "headline": "Osaurus — server AI local cho Mac M-series, chạy LLM offline mã nguồn mở",
+  "description": "Osaurus là server AI native cho Mac Apple Silicon, chỉ 10MB, mã nguồn mở MIT, 3.8k stars GitHub. Chạy LLM local hoàn toàn offline qua MLX của Apple. Có thể vừa local vừa cloud — đối thủ Ollama mạnh nhất 2026.",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/osaurus-screenshot.jpg",
+  "datePublished": "2026-05-15T12:00:00+07:00",
+  "dateModified": "2026-05-15T12:00:00+07:00",
+  "author": {
+    "@type": "Person",
+    "name": "Nguyễn Tấn Thiên Long",
+    "url": "https://techvision.click/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LongTechVision",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://techvision.click/uploads/favicon-avatar.jpg"
+    }
+  },
+  "articleSection": "AI",
+  "inLanguage": "vi-VN",
+  "keywords": "Osaurus, local LLM, Mac M-series, MLX, Ollama, AI offline"
+}
+</script>
+</head>
+<body>
+
+  <div class="read-progress"><div class="read-progress-bar" id="progressBar"></div></div>
+
+  <nav class="top-bar">
+    <a href="/blog.html" class="back-link">Tech News</a>
+    <span class="page-label">Bài viết</span>
+  </nav>
+
+  <article>
+    <div class="art-meta">
+      <span class="cat">AI</span>
+      <span class="sep">·</span>
+      <span>Dịch từ TechCrunch</span>
+      <span class="sep">·</span>
+      <span>15/05/2026</span>
+      <span class="sep">·</span>
+      <span>📖 <span id="readingTime">...</span></span>
+    </div>
+
+    <h1 class="art-title">Osaurus — server AI local cho Mac M-series: chạy LLM hoàn toàn offline, mã nguồn mở</h1>
+    <p class="art-deck">Trong lúc Big Tech đua cloud AI hàng trăm tỷ USD, một startup nhỏ ra mắt Osaurus — server AI 10MB chạy native trên Apple Silicon, dùng MLX của Apple. Tất cả LLM chạy ngay trên Mac của bạn, không một byte dữ liệu nào rời máy. Đối thủ nặng ký nhất của Ollama 2026.</p>
+
+    <img class="art-hero" src="https://techcrunch.com/wp-content/uploads/2026/05/osaurus-screenshot.jpg" alt="Osaurus local AI server Mac Apple Silicon MLX LLM offline" loading="lazy">
+    <p class="art-hero-caption">Ảnh: TechCrunch — Giao diện SwiftUI của Osaurus</p>
+
+    <div class="art-tldr">
+      <div class="tldr-label">Tóm tắt nhanh</div>
+      <p>Osaurus (osaurus-ai/osaurus) là app native macOS viết bằng Swift, chỉ 10MB, chạy LLM local hoàn toàn offline trên Apple Silicon M1+. Dùng MLX framework của Apple — nhanh hơn llama.cpp trên Mac. Mã nguồn mở MIT, 3.8k GitHub stars, 112,000+ downloads. OpenAI-compatible API endpoint — dễ thay thế ChatGPT trong code có sẵn. Hỗ trợ vừa local vừa cloud (OpenAI, Anthropic) qua một interface. Cần tối thiểu 64GB RAM để chạy mượt. Đối thủ trực tiếp của Ollama, LM Studio.</p>
+    </div>
+
+    <div class="art-body">
+
+<p>Theo TechCrunch (15/5/2026), Osaurus đang nhanh chóng trở thành <strong>"Ollama của Mac"</strong> — nhưng tốt hơn ở nhiều khía cạnh. Founder Terence Pae (cựu kỹ sư Tesla, Netflix) đã âm thầm phát triển Osaurus suốt năm qua sau khi nhận ra Mac M-series có tiềm năng chạy LLM mạnh hơn người ta nghĩ.</p>
+
+<h2>1. Osaurus là gì?</h2>
+
+<p>Osaurus là một <strong>server AI native cho macOS</strong> với những điểm khác biệt:</p>
+
+<ul>
+  <li><strong>Native Swift</strong> — không phải Python wrapper, không Electron — chạy như app Mac thuần</li>
+  <li><strong>Chỉ 10MB</strong> — Ollama là 200MB, LM Studio là 1GB+</li>
+  <li><strong>Apple Silicon only</strong> — chỉ chạy trên M1, M2, M3, M4 — KHÔNG hỗ trợ Intel Mac</li>
+  <li><strong>Dùng MLX framework</strong> — framework AI riêng của Apple, tối ưu cho Neural Engine + Unified Memory</li>
+  <li><strong>OpenAI-compatible API</strong> — code đang dùng <code>openai.com/v1/chat/completions</code> chỉ cần đổi URL sang <code>localhost:11434</code> là chạy</li>
+</ul>
+
+<h2>2. Tại sao đáng quan tâm?</h2>
+
+<p><strong>1. Bảo mật tuyệt đối.</strong> Không một byte dữ liệu nào rời khỏi Mac của bạn. Phù hợp:</p>
+<ul>
+  <li>Luật sư — đọc hợp đồng nhạy cảm</li>
+  <li>Bác sĩ — phân tích bệnh án theo HIPAA</li>
+  <li>Doanh nghiệp — xử lý source code, tài liệu nội bộ</li>
+  <li>Nhà báo — bảo vệ nguồn tin</li>
+</ul>
+
+<p><strong>2. Không phải trả tiền theo token.</strong> Một lần mua Mac (đã có), không phí API mỗi tháng. Người dùng nặng ChatGPT Plus ($20/tháng) hoàn toàn có thể chuyển sang Osaurus + Llama 3 70B.</p>
+
+<p><strong>3. Hoạt động khi mất mạng.</strong> Đi tàu, máy bay, vùng sâu vùng xa — vẫn dùng AI bình thường.</p>
+
+<h2>3. Tính năng "Bridge" — vừa local vừa cloud</h2>
+
+<p>Đây là điểm <strong>khác biệt lớn nhất so với Ollama</strong>. Osaurus có chế độ "Bridge":</p>
+
+<ul>
+  <li>Bạn cấu hình các provider (Local Llama 3, OpenAI GPT-4, Claude Opus)</li>
+  <li>Tất cả gọi qua <em>cùng một endpoint</em></li>
+  <li>App của bạn không cần biết — chỉ gọi <code>localhost:11434</code></li>
+  <li>Osaurus tự định tuyến: nếu offline → dùng local; nếu cần model mạnh → dùng cloud</li>
+</ul>
+
+<p>Đặc biệt hữu ích cho dev: build app AI mà không cần lo về fallback logic.</p>
+
+<h2>4. MLX — vũ khí bí mật của Apple</h2>
+
+<p>Osaurus chạy trên <strong>MLX</strong> — framework AI mà Apple công bố cuối 2023. Khác với llama.cpp (đa nền tảng), MLX:</p>
+
+<ul>
+  <li>Tận dụng Unified Memory — không phân biệt RAM/VRAM như NVIDIA</li>
+  <li>Tận dụng Neural Engine (NPU) song song với GPU</li>
+  <li>Quantization tối ưu cho ARM</li>
+  <li>Tốc độ inference Llama 3 8B: <strong>40–60 tokens/s</strong> trên M4 Pro</li>
+</ul>
+
+<p>Trong benchmark độc lập, Osaurus + MLX <strong>nhanh hơn 30%</strong> so với Ollama (dùng llama.cpp) trên cùng phần cứng M-series.</p>
+
+<h2>5. Yêu cầu phần cứng</h2>
+
+<p>Để chạy mượt model 70B (như Llama 3 70B), bạn cần:</p>
+<ul>
+  <li><strong>Tối thiểu 64GB RAM</strong> — Mac Studio M2 Max trở lên, MacBook Pro M3 Max 64GB</li>
+  <li>Ổ SSD trống ~40GB cho model</li>
+</ul>
+
+<p>Cho model nhỏ hơn (Llama 3 8B, Qwen 7B):</p>
+<ul>
+  <li>16GB RAM là đủ — MacBook Air M2/M3/M4 đều chạy được</li>
+  <li>Phù hợp đại đa số người dùng</li>
+</ul>
+
+<h2>6. Mã nguồn mở và community</h2>
+
+<p>Osaurus open source <strong>MIT license</strong>:</p>
+<ul>
+  <li>Repo chính: <code>github.com/osaurus-ai/osaurus</code></li>
+  <li>3.8k GitHub stars (5/2026)</li>
+  <li>112,000+ downloads từ ngày phát hành (gần 1 năm)</li>
+  <li>57,300 downloads trong 3/2026 (tăng tốc)</li>
+</ul>
+
+<blockquote>Khi Apple công bố MLX, ai cũng nghĩ Apple sẽ làm Ollama riêng. Hoá ra, một developer độc lập đã làm trước — và còn tốt hơn.</blockquote>
+
+<h2>Góc nhìn TechVision: ai nên dùng Osaurus?</h2>
+
+<p><strong>1. Nếu bạn có Mac M-series:</strong> Nên thử ngay. Miễn phí, 10MB, không ảnh hưởng gì hệ thống. Cài xong vài phút là chạy được.</p>
+
+<p><strong>2. Nếu bạn là developer:</strong> Cực thích hợp để test app AI mà không tốn tiền API. Build prototype với Osaurus, sản xuất chuyển sang cloud.</p>
+
+<p><strong>3. Nếu bạn quan tâm bảo mật:</strong> Lựa chọn an toàn nhất. Ngay cả công ty bạn cấm dùng ChatGPT, Osaurus chạy local không bị phát hiện.</p>
+
+<p><strong>4. Nếu bạn dùng Windows/Linux:</strong> Osaurus không hỗ trợ. Hãy dùng Ollama hoặc LM Studio.</p>
+
+<h2>Cách cài đặt nhanh</h2>
+
+<p>Cách 1 — tải app:</p>
+<ol>
+  <li>Vào <code>github.com/osaurus-ai/osaurus/releases</code></li>
+  <li>Tải file <code>.dmg</code> mới nhất</li>
+  <li>Cài như app Mac thường</li>
+  <li>Mở app, chọn model trong list (Llama 3, Qwen, Mistral...) — tự download</li>
+  <li>Bắt đầu chat ngay trong app, hoặc gọi qua API <code>localhost:11434</code></li>
+</ol>
+
+<p>Cách 2 — qua Homebrew:</p>
+<pre><code>brew install --cask osaurus</code></pre>
+
+<p>Người Việt nên thử để hiểu AI local — cuộc đua 2026 không chỉ là cloud, mà cả on-device.</p>
+
+    </div>
+
+    <a href="https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/" target="_blank" rel="noopener" class="source-card">
+      <div class="source-card-label">Bài gốc tiếng Anh</div>
+      <div class="source-card-name">Osaurus brings both local and cloud AI models to your Mac</div>
+      <div class="source-card-url">techcrunch.com</div>
+    </a>
+
+    <div class="share-section">
+      <div class="share-label">Chia sẻ bài viết</div>
+      <div class="share-buttons">
+        <a href="#" data-share="facebook" class="share-btn" aria-label="Share on Facebook">
+          <svg viewBox="0 0 24 24"><path d="M9.198 21.5h4v-8.01h3.604l.396-3.98h-4V7.5a1 1 0 011-1h3v-4h-3a5 5 0 00-5 5v2.01h-2l-.396 3.98h2.396v8.01z"/></svg>
+          Facebook
+        </a>
+        <a href="#" data-share="twitter" class="share-btn" aria-label="Share on X">
+          <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          X (Twitter)
+        </a>
+        <button data-share="copy" class="share-btn" aria-label="Copy link">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"/></svg>
+          Copy link
+        </button>
+      </div>
+    </div>
+
+    <div class="related-section">
+      <div class="related-label">Bài liên quan</div>
+      <div class="related-grid">
+        <a href="/articles/macos-27-liquid-glass-safari-ai.html" class="related-card">
+          <div class="related-cat">Laptop &amp; PC</div>
+          <div class="related-title">macOS 27 leak: Apple sửa lỗi Liquid Glass + Safari thêm AI Organize Tabs</div>
+        </a>
+        <a href="/articles/openai-dell-codex-enterprise-may-2026.html" class="related-card">
+          <div class="related-cat">AI</div>
+          <div class="related-title">OpenAI bắt tay Dell — đem Codex AI vào enterprise on-premise</div>
+        </a>
+      </div>
+    </div>
+
+    <div class="art-nav">
+      <a href="/blog.html">← Quay lại Tech News</a>
+      <a href="/">techvision.click</a>
+    </div>
+  </article>
+
+  <button class="dark-toggle" id="darkToggle" aria-label="Toggle dark mode">🌙</button>
+  <button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+  <button class="bookmark-btn" id="bookmarkBtn" aria-label="Lưu bài này">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+    </svg>
+  </button>
+  <div class="bookmarks-panel" id="bookmarksPanel" role="dialog" aria-label="Bài đã lưu">
+    <div class="bookmarks-title">📑 Bài đã lưu</div>
+    <div id="bookmarksList"></div>
+  </div>
+
+  <script src="/articles/_article.js"></script>
+</body>
+</html>
