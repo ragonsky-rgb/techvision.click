@@ -184,4 +184,67 @@
       }
     });
   }
+  // ── Auto Table of Contents ──
+  (function() {
+    const tocBox = document.getElementById('toc');
+    if (!tocBox) return;
+    const artBody = document.querySelector('.art-body');
+    if (!artBody) return;
+
+    const headings = Array.from(artBody.querySelectorAll('h2'));
+    if (headings.length < 2) { tocBox.style.display = 'none'; return; }
+
+    // Assign IDs if missing
+    headings.forEach(function(h, i) {
+      if (!h.id) h.id = 'toc-s' + (i + 1);
+    });
+
+    // Build list
+    const tocBody = tocBox.querySelector('.toc-body');
+    const ul = document.createElement('ul');
+    ul.className = 'toc-list';
+    headings.forEach(function(h, i) {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.className = 'toc-link';
+      a.href = '#' + h.id;
+      a.innerHTML = '<span class="toc-num">' + (i + 1) + '.</span>' + h.textContent.trim();
+      a.addEventListener('click', function(e) {
+        e.preventDefault();
+        const target = document.getElementById(h.id);
+        if (target) {
+          const offset = 80; // top-bar height
+          const top = target.getBoundingClientRect().top + window.scrollY - offset;
+          window.scrollTo({ top: top, behavior: 'smooth' });
+          history.pushState(null, '', '#' + h.id);
+        }
+      });
+      li.appendChild(a);
+      ul.appendChild(li);
+    });
+    if (tocBody) tocBody.appendChild(ul);
+
+    // Toggle collapse
+    const toggleBtn = tocBox.querySelector('.toc-toggle');
+    const tocBodyEl = tocBox.querySelector('.toc-body');
+    if (toggleBtn && tocBodyEl) {
+      toggleBtn.addEventListener('click', function() {
+        const collapsed = tocBodyEl.classList.toggle('collapsed');
+        toggleBtn.textContent = collapsed ? '▶ Mở rộng' : '▲ Thu gọn';
+      });
+    }
+
+    // Scroll spy — highlight active section
+    if ('IntersectionObserver' in window) {
+      const tocLinks = tocBox.querySelectorAll('.toc-link');
+      const observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          const link = tocBox.querySelector('a[href="#' + entry.target.id + '"]');
+          if (link) link.classList.toggle('toc-active', entry.isIntersecting);
+        });
+      }, { rootMargin: '-12% 0px -72% 0px' });
+      headings.forEach(function(h) { observer.observe(h); });
+    }
+  })();
+
 })();
