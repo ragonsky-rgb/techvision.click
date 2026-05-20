@@ -55,6 +55,124 @@
   "keywords": "iPhone Fold, iPhone gập, Apple foldable, iPhone 18, A20 chip"
 }
 </script>
+  <style>
+    /* ── Figure & caption ── */
+    figure {
+      margin: 2rem 0;
+      text-align: center;
+    }
+    figure img {
+      width: 100%;
+      max-width: 820px;
+      border-radius: 10px;
+      display: block;
+      margin: 0 auto;
+    }
+    figcaption {
+      margin-top: .6rem;
+      font-size: .78rem;
+      color: var(--dim);
+      font-style: italic;
+      font-family: var(--sans);
+    }
+
+    /* ── Video embed ── */
+    .art-video-wrap {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      border-radius: 10px;
+      margin: 2rem 0;
+      background: #000;
+    }
+    .art-video-wrap iframe {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      border: 0;
+    }
+    .art-video-label {
+      font-size: .72rem;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+      color: var(--dim);
+      margin-bottom: .5rem;
+      font-family: var(--sans);
+    }
+
+    /* ── Stats cards ── */
+    .art-stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    @media (max-width: 540px) {
+      .art-stats { grid-template-columns: repeat(2, 1fr); }
+    }
+    .art-stat-card {
+      background: var(--surface, #f7f7f7);
+      border: 1px solid var(--line, #e8e8e8);
+      border-radius: 10px;
+      padding: 1rem .9rem;
+      text-align: center;
+    }
+    .art-stat-card .stat-num {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--accent, #c0392b);
+      font-family: var(--sans);
+      line-height: 1.1;
+    }
+    .art-stat-card .stat-label {
+      font-size: .72rem;
+      color: var(--dim);
+      margin-top: .25rem;
+      font-family: var(--sans);
+    }
+
+    /* ── Tags ── */
+    .art-tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      margin: 1.5rem 0 2rem;
+    }
+    .art-tag {
+      font-size: .72rem;
+      font-family: var(--sans);
+      padding: .25rem .7rem;
+      border-radius: 20px;
+      border: 1px solid var(--line, #e8e8e8);
+      color: var(--dim);
+      text-decoration: none;
+      transition: border-color .2s, color .2s;
+    }
+    .art-tag:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* ── Compare table ── */
+    .compare-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: .85rem;
+      font-family: var(--sans);
+    }
+    .compare-table th {
+      background: var(--surface, #f7f7f7);
+      padding: .6rem .8rem;
+      text-align: left;
+      font-weight: 600;
+      border-bottom: 2px solid var(--line, #e8e8e8);
+    }
+    .compare-table td {
+      padding: .6rem .8rem;
+      border-bottom: 1px solid var(--line, #e8e8e8);
+    }
+    .compare-table tr:last-child td { border-bottom: none; }
+    .compare-table .winner { color: var(--accent); font-weight: 600; }
+  </style>
 </head>
 <body>
 
@@ -66,6 +184,14 @@
   </nav>
 
   <article>
+    <nav class="art-breadcrumb">
+      <a href="/">Home</a>
+      <span>›</span>
+      <a href="/blog.html">Tech News</a>
+      <span>›</span>
+      <span>Smartphone</span>
+    </nav>
+
     <div class="art-meta">
       <span class="cat">Smartphone</span>
       <span class="sep">·</span>
@@ -88,9 +214,55 @@
       <p>iPhone Fold ra mắt tháng 9/2026 cùng iPhone 18 Pro/Pro Max — lần đầu tiên Apple có điện thoại gập. Thiết kế book-style, mở ra 7.8 inch (ngang iPad mini), đóng lại 5.5 inch. Mỏng chỉ 4.5mm khi mở — thiết bị mỏng nhất lịch sử Apple. Chip A20 (2nm), Touch ID (không có Face ID), pin 5,400–5,800 mAh, eSIM only, không có telephoto. Giá khởi điểm ước tính từ $1,800, bản 256GB khoảng $2,320.</p>
     </div>
 
+    <div class="art-tag-row">
+      <a href="#" class="art-tag">#iPhoneFold</a>
+      <a href="#" class="art-tag">#Apple</a>
+      <a href="#" class="art-tag">#FoldablePhone</a>
+      <a href="#" class="art-tag">#iPhone18</a>
+      <a href="#" class="art-tag">#A20Chip</a>
+      <a href="#" class="art-tag">#Smartphone2026</a>
+    </div>
+
+    <!-- Mục lục tự động từ H2 -->
+    <div class="toc-box" id="toc">
+      <div class="toc-header">
+        <span class="toc-eyebrow">📋 Nội dung bài viết</span>
+        <button class="toc-toggle">▲ Thu gọn</button>
+      </div>
+      <div class="toc-body"></div>
+    </div>
+
     <div class="art-body">
 
 <p>Trong suốt 5 năm qua, Samsung đã bán hàng triệu chiếc Z Fold trong khi Apple im lặng. Giờ thì tất cả sắp thay đổi. Theo MacRumors, 9to5Mac và The Information (cập nhật tháng 5/2026), <strong>iPhone Fold sẽ ra mắt tháng 9/2026</strong> — cùng lúc với iPhone 18 Pro và Pro Max — đánh dấu bước ngoặt lịch sử của Apple trong phân khúc màn hình gập.</p>
+
+<!-- Thống số nổi bật -->
+<div class="art-stats">
+  <div class="art-stat-card">
+    <div class="stat-num">7.8"</div>
+    <div class="stat-label">Màn hình khi mở</div>
+  </div>
+  <div class="art-stat-card">
+    <div class="stat-num">4.5mm</div>
+    <div class="stat-label">Độ dày khi mở</div>
+  </div>
+  <div class="art-stat-card">
+    <div class="stat-num">$2,000+</div>
+    <div class="stat-label">Giá khởi điểm (ước tính)</div>
+  </div>
+  <div class="art-stat-card">
+    <div class="stat-num">5,800mAh</div>
+    <div class="stat-label">Dung lượng pin</div>
+  </div>
+  <div class="art-stat-card">
+    <div class="stat-num">12GB</div>
+    <div class="stat-label">RAM (ngang Pro)</div>
+  </div>
+  <div class="art-stat-card">
+    <div class="stat-num">48MP</div>
+    <div class="stat-label">Camera chính</div>
+  </div>
+</div>
 
 <h2>Thiết kế: mỏng nhất lịch sử Apple</h2>
 
@@ -105,6 +277,13 @@
   <li><strong>Bản lề:</strong> Liquid metal — nếp gấp gần như vô hình</li>
   <li><strong>Màu sắc:</strong> Chưa xác nhận — nhiều khả năng Titanium White, Space Black, và một màu mới</li>
 </ul>
+
+<figure>
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1200"
+       onerror="this.src='https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=800';this.onerror=null"
+       alt="iPhone Fold màu tím — concept render" loading="lazy">
+  <figcaption>iPhone Fold concept render phiên bản màu tím — nguồn: 9to5Mac</figcaption>
+</figure>
 
 <h2>Chip A20 và RAM: ngang Pro, hơn mọi Android</h2>
 
@@ -123,11 +302,18 @@
 <ul>
   <li><strong>Camera chính:</strong> 48MP — cùng cảm biến với iPhone 18 Pro</li>
   <li><strong>Ultra-wide:</strong> 12MP</li>
-  <li><strong>Camera dưới màn:</strong> Dùng cho Face ID... à không, Touch ID — Apple dùng <strong>under-display camera</strong> kết hợp Touch ID trên nút nguồn</li>
+  <li><strong>Camera dưới màn:</strong> Dùng kết hợp Touch ID trên nút nguồn thay vì Face ID</li>
   <li><strong>Camera ngoài:</strong> Selfie thứ hai khi gập lại</li>
 </ul>
 
 <p>Không có zoom quang học. Nếu bạn cần zoom 5x hay 10x, vẫn phải lên iPhone 18 Pro Max. Nhưng bù lại, màn 7.8 inch sẽ là màn hình chụp ảnh to nhất mọi iPhone — preview ảnh và edit sẽ cực đã.</p>
+
+<figure>
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1200"
+       onerror="this.src='https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=800';this.onerror=null"
+       alt="iPhone Fold màu xanh — góc nhìn camera" loading="lazy">
+  <figcaption>iPhone Fold concept màu xanh — cụm camera sau không có telephoto do giới hạn độ mỏng — nguồn: 9to5Mac</figcaption>
+</figure>
 
 <h2>Touch ID thay Face ID — vì sao?</h2>
 
@@ -141,6 +327,18 @@
 
 <p>Thực tế thì màn hình lớn hơn cũng ngốn pin hơn — nên thời lượng pin thực tế khả năng tương đương Pro Max, không vượt trội. Nhưng ít nhất người dùng sẽ không lo hết pin giữa ngày dù dùng màn 7.8 inch liên tục.</p>
 
+<!-- Video embed -->
+<div class="art-video-label">🎬 Video: iPhone Fold — Tất cả những gì đã biết</div>
+<div class="art-video-wrap">
+  <iframe
+    src="https://www.youtube.com/embed/RG5eDmpSk8s?rel=0&modestbranding=1"
+    title="iPhone Fold 2026 — Everything We Know"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+</div>
+
 <h2>eSIM only — không có khe SIM vật lý</h2>
 
 <p>Giống iPhone 15/16 bản Mỹ, iPhone Fold sẽ <strong>eSIM only toàn cầu</strong> — không có khe SIM vật lý. Đây là hướng đi Apple đang đẩy mạnh để giảm độ dày và tăng kháng nước.</p>
@@ -151,15 +349,45 @@
 
 <p>Theo các nhà phân tích, iPhone Fold sẽ có giá <strong>khởi điểm từ $1,800</strong> — bản phổ biến nhất (256GB) ước tính <strong>$2,320</strong>. Bản 512GB có thể lên đến $2,500+.</p>
 
-<p>So sánh:</p>
-
-<ul>
-  <li><strong>iPhone Fold 256GB:</strong> ~$2,320 (~58 triệu VNĐ)</li>
-  <li><strong>Samsung Galaxy Z Fold 8 256GB:</strong> ~$1,999 (~50 triệu VNĐ)</li>
-  <li><strong>iPhone 18 Pro Max 256GB:</strong> ~$1,199 (~30 triệu VNĐ)</li>
-</ul>
+<table class="compare-table">
+  <thead>
+    <tr>
+      <th>Sản phẩm</th>
+      <th>Màn hình</th>
+      <th>Chip</th>
+      <th>Giá (256GB)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="winner">iPhone Fold</td>
+      <td>7.8" (mở) / 5.5" (đóng)</td>
+      <td class="winner">A20 2nm</td>
+      <td>~$2,320 (~58tr VNĐ)</td>
+    </tr>
+    <tr>
+      <td>Samsung Galaxy Z Fold 8</td>
+      <td>7.6" (mở) / 6.3" (đóng)</td>
+      <td>Snapdragon 8 Elite 2</td>
+      <td>~$1,999 (~50tr VNĐ)</td>
+    </tr>
+    <tr>
+      <td>iPhone 18 Pro Max</td>
+      <td>6.9"</td>
+      <td>A20 2nm</td>
+      <td>~$1,199 (~30tr VNĐ)</td>
+    </tr>
+  </tbody>
+</table>
 
 <p>Apple đặt iPhone Fold ở trên cả Pro Max — đây là sản phẩm halo product, không nhắm vào đại chúng. Ít nhất trong năm đầu, supply sẽ bị hạn chế và người mua cần kiên nhẫn chờ hàng.</p>
+
+<figure>
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1200"
+       onerror="this.src='https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=800';this.onerror=null"
+       alt="iPhone Fold màu đỏ — concept render" loading="lazy">
+  <figcaption>iPhone Fold concept render phiên bản màu đỏ — giá dự kiến từ $1,800 — nguồn: 9to5Mac</figcaption>
+</figure>
 
 <h2>iPhone 18 Pro và Pro Max đi kèm: nâng cấp gì?</h2>
 
@@ -184,6 +412,15 @@
 
 <p>Dù vậy, không thể phủ nhận: <strong>iPhone Fold là sản phẩm quan trọng nhất Apple ra mắt từ khi có Vision Pro</strong>. Đây là câu trả lời của Apple cho câu hỏi "điện thoại gập có thực sự cần thiết không?" — và câu trả lời sẽ xác định hướng đi của cả ngành smartphone trong 5 năm tới.</p>
 
+    </div>
+
+    <!-- Author card -->
+    <div class="art-author-card">
+      <img class="author-avatar" src="/uploads/favicon-avatar.jpg" alt="Long TechVision" loading="lazy">
+      <div class="author-info">
+        <div class="author-name">Nguyễn Tấn Thiên Long</div>
+        <div class="author-bio">Founder LongTechVision · Theo dõi công nghệ hơn 10 năm · Đặc biệt quan tâm đến Apple, AI và tương lai của smartphone.</div>
+      </div>
     </div>
 
     <a href="https://www.macrumors.com/roundup/iphone-fold/" target="_blank" rel="noopener" class="source-card">
@@ -217,9 +454,9 @@
           <div class="related-cat">Smartphone</div>
           <div class="related-title">Samsung Galaxy Z Fold 8 &amp; Flip 8 — full leak specs trước Unpacked London 22/7</div>
         </a>
-        <a href="/articles/wwdc-2026-ios-27-siri-redesign.html" class="related-card">
-          <div class="related-cat">iOS</div>
-          <div class="related-title">WWDC 2026: iOS 27 ra mắt với Siri thiết kế lại và Apple Intelligence thế hệ 2</div>
+        <a href="/articles/ray-ban-meta-vs-samsung-galaxy-glasses-so-sanh-2026.html" class="related-card">
+          <div class="related-cat">Wearable</div>
+          <div class="related-title">Ray-Ban Meta vs Samsung Galaxy Glasses — So sánh 2 kính AI hot nhất 2026</div>
         </a>
       </div>
     </div>
