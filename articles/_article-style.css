@@ -537,6 +537,68 @@ body.dark .art-spec-box { background: rgba(240,237,232,0.04); }
 }
 
 /* ── Print stylesheet ── */
+/* ── Breadcrumb nav ── */
+.art-breadcrumb {
+  display: flex; align-items: center; flex-wrap: wrap; gap: 0.25rem;
+  font-family: var(--sans); font-size: 0.72rem; font-weight: 400;
+  letter-spacing: 0.04em; color: var(--dim);
+  margin: 7rem auto 0; padding: 0.6rem 0 0;
+  max-width: 740px;
+}
+.art-breadcrumb a {
+  color: var(--dim); text-decoration: none;
+  transition: color .2s;
+}
+.art-breadcrumb a:hover { color: var(--accent); }
+.bc-sep { color: var(--dim); opacity: 0.5; margin: 0 0.1rem; }
+.bc-cat { color: var(--muted); font-weight: 500; }
+@media (max-width: 820px) {
+  .art-breadcrumb { padding: 0.6rem 1.2rem 0; margin-top: 5.5rem; }
+}
+
+/* ── Author bio card ── */
+.art-author-card {
+  display: flex; gap: 1.1rem; align-items: flex-start;
+  margin: 2.4rem auto 0;
+  max-width: 740px;
+  padding: 1.4rem 1.6rem;
+  background: rgba(28,26,23,0.04);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 10px 10px 0;
+}
+body.dark .art-author-card { background: rgba(240,237,232,0.05); }
+.author-avatar {
+  width: 54px; height: 54px;
+  border-radius: 50%; object-fit: cover;
+  flex-shrink: 0;
+  border: 2px solid var(--line);
+}
+.author-info { display: flex; flex-direction: column; gap: 0.2rem; }
+.author-name {
+  font-family: var(--sans); font-size: 0.88rem; font-weight: 600;
+  color: var(--text); letter-spacing: 0.01em;
+}
+.author-role {
+  font-family: var(--sans); font-size: 0.72rem; font-weight: 400;
+  color: var(--dim); letter-spacing: 0.06em; text-transform: uppercase;
+}
+.author-bio {
+  font-family: var(--sans); font-size: 0.82rem; line-height: 1.6;
+  color: var(--muted); margin-top: 0.35rem;
+}
+.author-links { margin-top: 0.5rem; display: flex; gap: 0.8rem; }
+.author-links a {
+  font-family: var(--sans); font-size: 0.72rem; font-weight: 500;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--accent); text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s;
+}
+.author-links a:hover { border-bottom-color: var(--accent); }
+@media (max-width: 560px) {
+  .art-author-card { flex-direction: column; gap: 0.8rem; padding: 1.1rem 1rem; }
+}
+
 @media print {
   :root { --bg: #fff; --text: #000; --muted: #333; --dim: #666; --line: #ccc; }
   body { background: #fff !important; color: #000 !important; font-size: 11pt; line-height: 1.5; }
