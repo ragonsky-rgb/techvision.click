@@ -8,8 +8,8 @@
   --muted:   rgba(28,26,23,0.82);
   --dim:     rgba(28,26,23,0.58);
   --line:    rgba(28,26,23,0.10);
-  --serif:   'Playfair Display', Georgia, serif;
-  --sans:    'DM Sans', Helvetica, sans-serif;
+  --serif:   'Lora', Georgia, serif;
+  --sans:    'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 body.dark {
