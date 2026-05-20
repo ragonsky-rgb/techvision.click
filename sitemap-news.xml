@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://techvision.click/articles/google-io-2026-recap-gemini-omni-android-xr.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T08:00:00+07:00</news:publication_date>
+      <news:title>Google I/O 2026: Gemini Omni, kính AR Android XR, và Search AI thiết kế lại lớn nhất 25 năm</news:title>
+      <news:keywords>Google IO 2026, Gemini Omni, Android XR, Project Astra, Google Search AI</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/samsung-galaxy-glasses-july-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T14:00:00+07:00</news:publication_date>
+      <news:title>Samsung Galaxy Glasses ra mắt tháng 7/2026 — kính AI 12MP, chạy Gemini, đối đầu Ray-Ban Meta</news:title>
+      <news:keywords>Samsung Galaxy Glasses, Android XR, Gemini, kính thông minh, Unpacked 2026</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/nvidia-gtc-2026-vera-rubin-dgx-station.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T10:00:00+07:00</news:publication_date>
+      <news:title>NVIDIA GTC 2026: Vera Rubin ra mắt, DGX Station cho mọi nhà, Jensen tuyên bố doanh thu 1 nghìn tỷ USD</news:title>
+      <news:keywords>NVIDIA GTC 2026, Vera Rubin GPU, DGX Station, Jensen Huang, AI chip</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/google-io-2026-day-1-gemini-4-omni.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T11:00:00+07:00</news:publication_date>
+      <news:title>Google I/O 2026 mở màn 19/5: Gemini 4 Omni, Aluminium OS, Android XR glasses</news:title>
+      <news:keywords>Google IO 2026, Gemini 4 Omni, Android XR, Aluminium OS, Project Aura</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/wwdc-2026-ios-27-siri-redesign.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T08:00:00+07:00</news:publication_date>
+      <news:title>WWDC 2026: iOS 27 với Siri 2.0 redesign — app Siri độc lập, Dynamic Island mới, 5G vệ tinh</news:title>
+      <news:keywords>WWDC 2026, iOS 27, Siri redesign, Dynamic Island, iPhone 18 Pro, 5G satellite</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/openai-dell-codex-enterprise-may-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T14:00:00+07:00</news:publication_date>
+      <news:title>OpenAI bắt tay Dell — đem Codex AI vào enterprise on-premise: đối thủ GitHub Copilot</news:title>
+      <news:keywords>OpenAI Codex, Dell PowerEdge, enterprise AI, GitHub Copilot, on-premise AI</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/samsung-galaxy-z-fold-8-flip-8-unpacked-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T10:00:00+07:00</news:publication_date>
+      <news:title>Samsung Galaxy Z Fold 8 và Flip 8 — full leak specs trước Unpacked London 22/7</news:title>
+      <news:keywords>Samsung Galaxy Z Fold 8, Galaxy Flip 8, Unpacked 2026, Snapdragon 8 Elite, foldable phone</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T13:00:00+07:00</news:publication_date>
+      <news:title>NVIDIA RTX 5090 Ti rumor — GPU flagship mới với 48GB GDDR7, Q3/2026</news:title>
+      <news:keywords>NVIDIA RTX 5090 Ti, GDDR7, GPU 2026, Computex, RTX 50 SUPER</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T09:00:00+07:00</news:publication_date>
+      <news:title>macOS 27 leak: Apple sửa lỗi Liquid Glass — Safari thêm AI Organize Tabs</news:title>
+      <news:keywords>macOS 27, Liquid Glass, Safari AI, Organize Tabs, macOS Tahoe, Apple Silicon</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/google-io-2026-preview.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T10:00:00+07:00</news:publication_date>
+      <news:title>Google I/O 2026 sắp khai mạc 19/5 — chờ đợi Gemini 3.2, Android Lifeline</news:title>
+      <news:keywords>Google IO 2026, Gemini 3.2, Android Lifeline, Pixel Fold 2, Google AI</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/apple-ios-27-third-party-ai-agents.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T11:00:00+07:00</news:publication_date>
+      <news:title>Apple mở iOS 27 cho AI agents bên thứ 3 — bước ngoặt lớn từ walled garden</news:title>
+      <news:keywords>iOS 27, Apple AI agents, Claude, Perplexity, Grok, WWDC 2026, third-party AI</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/ai-agents-enterprise-deployment-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T12:00:00+07:00</news:publication_date>
+      <news:title>AI Agents triển khai trong doanh nghiệp quy mô lớn — cuộc cách mạng workflow 2026</news:title>
+      <news:keywords>AI agents enterprise, Salesforce AI, JPMorgan AI, workflow automation, agentic AI 2026</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/osaurus-mac-local-ai-server.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T12:00:00+07:00</news:publication_date>
+      <news:title>Osaurus — server AI local cho Mac M-series: chạy LLM offline, mã nguồn mở</news:title>
+      <news:keywords>Osaurus, local AI server, Apple Silicon, MLX, LLM offline, open source AI, Mac M-series</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/openai-apple-lawsuit-may-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T18:00:00+07:00</news:publication_date>
+      <news:title>OpenAI chuẩn bị kiện Apple — drama AI lớn nhất 2026</news:title>
+      <news:keywords>OpenAI kiện Apple, ChatGPT iPhone, Apple Siri AI, Google Gemini, OpenAI lawsuit</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/big-tech-725-billion-ai-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T08:00:00+07:00</news:publication_date>
+      <news:title>Big Tech chi 725 tỷ USD cho AI năm 2026 — tăng 75% so với năm ngoái</news:title>
+      <news:keywords>Big Tech AI investment, Meta AI, Amazon AI, Microsoft AI, Alphabet AI, data center 2026</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/google-spacex-orbital-data-centers.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T08:00:00+07:00</news:publication_date>
+      <news:title>Google đàm phán với SpaceX đưa trung tâm dữ liệu lên quỹ đạo</news:title>
+      <news:keywords>Google SpaceX, orbital data center, cloud computing space, AI infrastructure, satellite data</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/xiaomi-band-10-pro.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T08:00:00+07:00</news:publication_date>
+      <news:title>Xiaomi Band 10 Pro: màn hình cong AMOLED 1.74 inch, pin 21 ngày</news:title>
+      <news:keywords>Xiaomi Band 10 Pro, smartband, AMOLED, wearable 2026, pin lâu</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/sony-a7r-vi-67mp-camera.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-14T08:00:00+07:00</news:publication_date>
+      <news:title>Sony A7R VI: cảm biến 67MP stacked đầu tiên, 16 stops dynamic range</news:title>
+      <news:keywords>Sony A7R VI, 67MP mirrorless, full-frame camera, Sony Alpha, dynamic range, stacked sensor</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/may-2026-smartphone-launches.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T08:00:00+07:00</news:publication_date>
+      <news:title>Tháng 5/2026: Vivo X300 Ultra, OnePlus Nord CE6, Oppo Find X9 Ultra cùng ra mắt</news:title>
+      <news:keywords>smartphone tháng 5 2026, Vivo X300 Ultra, OnePlus Nord CE6, Oppo Find X9 Ultra, Hasselblad</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/google-gemini-intelligence-android-17.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T08:00:00+07:00</news:publication_date>
+      <news:title>Google ra mắt Gemini Intelligence trên Android 17 — tuyên chiến trực diện với Apple Intelligence</news:title>
+      <news:keywords>Gemini Intelligence, Android 17, Google AI, Apple Intelligence, Android AI features</news:keywords>
+    </news:news>
+  </url>
+
+</urlset>
