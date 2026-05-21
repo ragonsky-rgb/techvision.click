@@ -1,0 +1,57 @@
+# LongTechVision — techvision.click
+
+> Tin công nghệ quốc tế tổng hợp tiếng Việt. Tác giả: Nguyễn Tấn Thiên Long (Long Nguyễn), Founder TechVision. Chuyên về AI, smartphone, laptop, camera và wearable từ các nguồn uy tín quốc tế (TechCrunch, The Verge, MacRumors, CNBC, 9to5Mac).
+
+## Về trang web
+
+- **Tên:** LongTechVision / TechVision
+- **URL:** https://techvision.click/
+- **Ngôn ngữ:** Tiếng Việt (vi-VN)
+- **Tác giả:** Nguyễn Tấn Thiên Long
+- **Email:** longnguyenreview@gmail.com
+- **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp — phi thương mại, phi quảng cáo
+
+## Trang chính
+
+- Trang chủ: https://techvision.click/
+- Danh sách bài viết: https://techvision.click/blog.html
+- Hồ sơ tác giả: https://techvision.click/cv.html
+- Chứng chỉ: https://techvision.click/certificates.html
+- RSS Feed: https://techvision.click/rss.xml
+- Sitemap: https://techvision.click/sitemap.xml
+
+## Bài viết nổi bật (2026)
+
+- iPhone Fold ra mắt — mỏng 4.5mm, màn 7.8 inch, giá từ $2,000: https://techvision.click/articles/iphone-fold-2026-apple-foldable.html
+- iOS 27 Leak Toàn Tập trước WWDC 8/6: https://techvision.click/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html
+- Google I/O 2026 Recap — Gemini Omni, Android XR, Search AI mới: https://techvision.click/articles/google-io-2026-recap-gemini-omni-android-xr.html
+- Google I/O 2026 Day 2 — Antigravity 2.0, vibe coding, Managed Agents: https://techvision.click/articles/google-io-2026-day2-developer-keynote-vibe-coding-antigravity.html
+- Microsoft Build 2026 — Copilot+ Phase 2, Windows AI Studio, GitHub Copilot Workspace: https://techvision.click/articles/microsoft-build-2026-copilot-plus-windows-ai-studio-github-copilot-workspace.html
+- Computex 2026 — AMD Ryzen AI 400, Snapdragon X2 Elite, ASUS ROG: https://techvision.click/articles/computex-2026-amd-ryzen-ai-400-qualcomm-snapdragon-x2-elite-asus-rog.html
+- NVIDIA GTC 2026 — Vera Rubin GPU, DGX Station: https://techvision.click/articles/nvidia-gtc-2026-vera-rubin-dgx-station.html
+- AI Agents triển khai doanh nghiệp 2026 — cuộc cách mạng workflow: https://techvision.click/articles/ai-agents-enterprise-deployment-2026.html
+- Ray-Ban Meta vs Samsung Galaxy Glasses 2026 — so sánh toàn diện: https://techvision.click/articles/ray-ban-meta-vs-samsung-galaxy-glasses-so-sanh-2026.html
+- Samsung Galaxy Z Fold 8 & Flip 8 — full leak trước Unpacked: https://techvision.click/articles/samsung-galaxy-z-fold-8-flip-8-unpacked-2026.html
+- Big Tech chi 725 tỷ USD cho AI năm 2026: https://techvision.click/articles/big-tech-725-billion-ai-2026.html
+- macOS 27 Liquid Glass, Safari AI Organize Tabs: https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html
+- WWDC 2026 — iOS 27, Siri 2.0 redesign: https://techvision.click/articles/wwdc-2026-ios-27-siri-redesign.html
+- Apple mở iOS 27 cho AI agents bên thứ ba: https://techvision.click/articles/apple-ios-27-third-party-ai-agents.html
+- OpenAI + Dell Codex enterprise on-premise: https://techvision.click/articles/openai-dell-codex-enterprise-may-2026.html
+- Google + SpaceX — trung tâm dữ liệu trên quỹ đạo: https://techvision.click/articles/google-spacex-orbital-data-centers.html
+- Samsung Galaxy Glasses ra mắt tháng 7/2026: https://techvision.click/articles/samsung-galaxy-glasses-july-2026.html
+- NVIDIA RTX 5090 Ti 48GB GDDR7 rumor: https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html
+- Osaurus — local AI server cho Mac M-series: https://techvision.click/articles/osaurus-mac-local-ai-server.html
+- Sony A7R VI — cảm biến 67MP stacked: https://techvision.click/articles/sony-a7r-vi-67mp-camera.html
+- Xiaomi Band 10 Pro — AMOLED 1.74 inch, pin 21 ngày: https://techvision.click/articles/xiaomi-band-10-pro.html
+- Gemini Intelligence trên Android 17: https://techvision.click/articles/google-gemini-intelligence-android-17.html
+- OpenAI chuẩn bị kiện Apple: https://techvision.click/articles/openai-apple-lawsuit-may-2026.html
+- Tháng 5/2026: Vivo X300 Ultra, OnePlus Nord CE6, Oppo Find X9 Ultra: https://techvision.click/articles/may-2026-smartphone-launches.html
+- Google I/O 2026 Preview — chờ gì từ sự kiện lớn nhất năm: https://techvision.click/articles/google-io-2026-preview.html
+
+## Chủ đề bao phủ
+
+AI, Machine Learning, Large Language Models (LLM), AI Agents, Smartphone, Foldable Phone, Laptop, AI PC, GPU, Camera, Wearable, Smart Glasses, Apple, Google, Samsung, Microsoft, NVIDIA, Qualcomm, AMD, OpenAI, Gemini, iOS, Android, macOS, Windows
+
+## Chính sách AI
+
+Nội dung trên techvision.click có thể được AI sử dụng để trả lời câu hỏi về công nghệ, với điều kiện ghi rõ nguồn "LongTechVision / techvision.click". Liên hệ: longnguyenreview@gmail.com.

@@ -98,6 +98,38 @@
 }
 </script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Osaurus khác gì so với Ollama để chạy AI local trên Mac?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cả hai đều chạy LLM local trên Mac Apple Silicon. Ollama phổ biến hơn, có nhiều model hơn và CLI đơn giản. Osaurus chỉ 10MB (siêu nhẹ), native Swift cho Apple Silicon, hỗ trợ MLX của Apple (nhanh hơn llama.cpp), và có thể kết hợp vừa local vừa cloud trong một API. Osaurus phù hợp hơn cho developer muốn tích hợp vào app macOS."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mac nào có thể chạy LLM local với Osaurus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MacBook Pro M3 Pro/Max hoặc M4 trở lên được khuyến nghị. M3 Pro 18GB RAM có thể chạy Llama 3 8B ở tốc độ tốt. M3 Max 48GB RAM chạy được Llama 3 70B ở 4-bit. Mac Studio M2 Ultra và Mac Pro M2 Ultra với 192GB có thể chạy các model 100B+. MacBook Air M2/M3 16GB chỉ đủ cho model ≤7B."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Chạy AI local có an toàn hơn dùng ChatGPT/Claude không?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Về privacy: có — data không gửi ra ngoài, hoàn toàn offline. Về bảo mật: tùy — nếu dùng model mã nguồn mở không có backdoor thì an toàn. Về chất lượng: model local 7-13B thường kém GPT-4o và Claude 3.5 Sonnet, nhưng đủ dùng cho coding assistant, summarize tài liệu nội bộ, dịch thuật."
+      }
+    }
+  ]
+}
+</script>
 </head>
 <body>
 

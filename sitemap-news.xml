@@ -4,6 +4,84 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T16:00:00+07:00</news:publication_date>
+      <news:title>iOS 27 Leak Toàn Tập Trước WWDC 8/6 — Siri 2.0, Camera mới, iPhone Fold, AI bên thứ ba</news:title>
+      <news:keywords>iOS 27, iOS 27 tính năng, iOS 27 leak, WWDC 2026, Siri 2.0, iPhone Fold iOS, iOS 27 Gemini</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/google-io-2026-day2-developer-keynote-vibe-coding-antigravity.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T14:00:00+07:00</news:publication_date>
+      <news:title>Google I/O 2026 Day 2: Antigravity 2.0, Managed Agents, Firebase AI — hạ tầng cho vibe coder</news:title>
+      <news:keywords>Google IO 2026 Day 2, vibe coding, Antigravity 2.0, Managed Agents, Firebase AI, WebMCP</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/ray-ban-meta-vs-samsung-galaxy-glasses-so-sanh-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T11:00:00+07:00</news:publication_date>
+      <news:title>Ray-Ban Meta Gen 3 vs Samsung Galaxy Glasses 2026: So sánh toàn diện kính AI đáng mua nhất năm</news:title>
+      <news:keywords>Ray-Ban Meta Gen 3, Samsung Galaxy Glasses, kính thông minh AI 2026, so sánh smart glasses</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/microsoft-build-2026-copilot-plus-windows-ai-studio-github-copilot-workspace.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T10:00:00+07:00</news:publication_date>
+      <news:title>Microsoft Build 2026: Copilot+ Phase 2, Windows AI Studio 2.0 và GitHub Copilot Workspace GA</news:title>
+      <news:keywords>Microsoft Build 2026, Copilot Plus, Windows AI Studio, GitHub Copilot Workspace, Azure AI</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/iphone-fold-2026-apple-foldable.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T09:00:00+07:00</news:publication_date>
+      <news:title>iPhone Fold: Apple ra mắt điện thoại gập đầu tiên — mỏng 4.5mm, màn 7.8 inch, giá từ $2,000</news:title>
+      <news:keywords>iPhone Fold, iPhone gập, Apple foldable, iPhone Fold 2026, A20 chip, iPhone Ultra</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://techvision.click/articles/computex-2026-amd-ryzen-ai-400-qualcomm-snapdragon-x2-elite-asus-rog.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T09:00:00+07:00</news:publication_date>
+      <news:title>Computex 2026: AMD Ryzen AI 400 NPU 50 TOPS, Snapdragon X2 Elite 45W và ASUS ROG bùng nổ tại Taipei</news:title>
+      <news:keywords>Computex 2026, AMD Ryzen AI 400, Snapdragon X2 Elite, ASUS ROG Zephyrus G18, AI PC</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/google-io-2026-recap-gemini-omni-android-xr.html</loc>
     <news:news>
       <news:publication>
