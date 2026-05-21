@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/macbook-neo-599-review-sau-2-thang-ai-vibe-coding.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>TechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T10:00:00+07:00</news:publication_date>
+      <news:title>MacBook Neo $599 sau 2 tháng: Máy rẻ nhất Apple có làm việc được không — và vibe code AI ra sao?</news:title>
+      <news:keywords>MacBook Neo review, MacBook Neo A18 Pro, vibe coding, AI laptop, MacBook $599</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html</loc>
     <news:news>
       <news:publication>
