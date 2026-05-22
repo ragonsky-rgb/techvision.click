@@ -18,6 +18,97 @@
   <link rel="preload" as="image" href="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-citrus-0000.jpg?quality=82&strip=all&w=1600" fetchpriority="high">
   <link rel="stylesheet" href="/articles/_article-style.css">
   <link rel="manifest" href="/manifest.webmanifest">
+  <style>
+  /* ── TTS Player ── */
+  .tts-trigger {
+    display: inline-flex; align-items: center; gap: 0.45rem;
+    padding: 0.42rem 1rem;
+    background: transparent;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    border-radius: 99px;
+    font-family: var(--sans); font-size: 0.7rem; font-weight: 500;
+    letter-spacing: 0.06em; cursor: pointer;
+    transition: background .2s, color .2s;
+    margin-top: 1.1rem; margin-bottom: 0.2rem;
+  }
+  .tts-trigger:hover { background: var(--accent); color: #fff; }
+  .tts-trigger svg { width: 13px; height: 13px; flex-shrink: 0; }
+  .tts-trigger.tts-unsupported { display: none; }
+
+  .tts-player {
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 990;
+    background: rgba(14,12,11,0.97);
+    backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border-top: 1px solid rgba(255,255,255,0.07);
+    padding: 0.85rem 2rem 1rem;
+    transform: translateY(100%);
+    transition: transform .32s cubic-bezier(.32,.72,0,1);
+  }
+  .tts-player.tts-visible { transform: translateY(0); }
+  .tts-inner { max-width: 760px; margin: 0 auto; display: flex; flex-direction: column; gap: 0.55rem; }
+
+  .tts-row1 { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+  .tts-badge {
+    font-size: 0.58rem; letter-spacing: 0.2em; text-transform: uppercase;
+    color: var(--accent); font-weight: 700;
+  }
+  .tts-preview {
+    font-size: 0.76rem; color: rgba(240,237,232,0.5);
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    max-width: 420px; flex: 1; text-align: right;
+  }
+
+  .tts-bar {
+    width: 100%; height: 2px;
+    background: rgba(255,255,255,0.1); border-radius: 2px; overflow: hidden;
+  }
+  .tts-fill {
+    height: 100%; background: var(--accent); border-radius: 2px;
+    transition: width .4s linear; width: 0%;
+  }
+
+  .tts-row2 { display: flex; align-items: center; gap: 0.75rem; }
+  .tts-play {
+    width: 34px; height: 34px; border-radius: 50%;
+    background: var(--accent); border: none; cursor: pointer;
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+    transition: transform .15s, opacity .15s;
+  }
+  .tts-play:hover { transform: scale(1.1); }
+  .tts-play:active { opacity: 0.75; }
+  .tts-play svg { width: 13px; height: 13px; fill: #fff; margin-left: 1px; }
+  .tts-play.is-paused svg { margin-left: 0; }
+
+  .tts-counter {
+    font-size: 0.68rem; color: rgba(240,237,232,0.35);
+    font-variant-numeric: tabular-nums; min-width: 3rem;
+  }
+  .tts-speeds { display: flex; gap: 0.3rem; margin-left: auto; }
+  .tts-spd {
+    padding: 0.18rem 0.48rem;
+    border: 1px solid rgba(255,255,255,0.13);
+    background: transparent; color: rgba(240,237,232,0.4);
+    border-radius: 4px; font-size: 0.66rem; cursor: pointer;
+    transition: border-color .15s, color .15s;
+    font-family: var(--sans);
+  }
+  .tts-spd.active { border-color: var(--accent); color: var(--accent); }
+  .tts-close {
+    width: 26px; height: 26px; border-radius: 50%;
+    background: rgba(255,255,255,0.07); border: none;
+    color: rgba(240,237,232,0.45); font-size: 0.85rem; cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    transition: background .15s, color .15s;
+  }
+  .tts-close:hover { background: rgba(255,255,255,0.14); color: rgba(240,237,232,0.9); }
+
+  @media (max-width: 640px) {
+    .tts-player { padding: 0.75rem 1.2rem 0.9rem; }
+    .tts-preview { display: none; }
+    .tts-spd { padding: 0.18rem 0.4rem; font-size: 0.62rem; }
+  }
+  </style>
   <script defer src="/_vercel/insights/script.js"></script>
   <meta property="og:type" content="article">
   <meta property="og:locale" content="vi_VN">
@@ -152,6 +243,15 @@
       <span class="sep">·</span>
       <span>📖 <span id="readingTime">...</span></span>
     </div>
+
+    <button class="tts-trigger" id="ttsTrigger" onclick="TTS.start()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+        <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+        <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+      </svg>
+      Nghe bài viết
+    </button>
 
     <h1 class="art-title">MacBook Neo $599 sau 2 tháng: Máy rẻ nhất Apple có thực sự làm việc được không — và vibe code AI ở mức cá nhân thì sao?</h1>
     <p class="art-deck">Apple ra mắt MacBook Neo ngày 4/3/2026 và nó gần như thay đổi cuộc chơi laptop phổ thông. Chip A18 Pro từ iPhone 16 Pro trong một chiếc laptop $599 — nghe hấp dẫn đến mức khó tin. Nhưng sau 2 tháng, người dùng thực tế đang nói gì? Và quan trọng hơn — nếu anh/em đang vibe code, dùng AI tools hàng ngày, thì máy này có chịu nổi không?</p>
@@ -418,5 +518,136 @@
   </article>
 
   <script src="/articles/_article.js"></script>
+
+  <!-- TTS Floating Player -->
+  <div class="tts-player" id="ttsPlayer" role="region" aria-label="Trình đọc bài viết">
+    <div class="tts-inner">
+      <div class="tts-row1">
+        <span class="tts-badge">🎧 AI Đọc Bài</span>
+        <span class="tts-preview" id="ttsPreview">MacBook Neo $599 sau 2 tháng…</span>
+      </div>
+      <div class="tts-bar"><div class="tts-fill" id="ttsFill"></div></div>
+      <div class="tts-row2">
+        <button class="tts-play" id="ttsPlayBtn" onclick="TTS.toggle()" aria-label="Phát / Tạm dừng">
+          <svg id="ttsIcon" viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+        </button>
+        <span class="tts-counter" id="ttsCounter">0 / 0</span>
+        <div class="tts-speeds">
+          <button class="tts-spd active" data-rate="1"   onclick="TTS.setRate(1)">1×</button>
+          <button class="tts-spd"        data-rate="1.5" onclick="TTS.setRate(1.5)">1.5×</button>
+          <button class="tts-spd"        data-rate="2"   onclick="TTS.setRate(2)">2×</button>
+        </div>
+        <button class="tts-close" onclick="TTS.close()" aria-label="Đóng">✕</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+  const TTS = (() => {
+    if (!('speechSynthesis' in window)) {
+      document.getElementById('ttsTrigger')?.classList.add('tts-unsupported');
+      return { start(){}, toggle(){}, setRate(){}, close(){} };
+    }
+
+    let segs = [], idx = 0, playing = false, rate = 1, utt = null;
+
+    /* ── Extract readable segments ── */
+    function extract() {
+      const out = [];
+      const push = t => { t = t?.trim(); if (t && t.length > 5) out.push(t); };
+
+      push(document.querySelector('.art-title')?.textContent);
+      push(document.querySelector('.art-deck')?.textContent);
+
+      // TLDR
+      const tldr = document.querySelector('.art-tldr p');
+      if (tldr) push('Tóm tắt nhanh. ' + tldr.textContent);
+
+      // Body paragraphs & headings — skip figure captions, video, spec-box table, related, comments
+      document.querySelectorAll('.art-body p, .art-body h2, .art-body h3').forEach(el => {
+        if (el.closest('figure, .art-video, .art-spec-box, .art-internal-link, .source-card')) return;
+        push(el.textContent);
+      });
+
+      return out;
+    }
+
+    /* ── UI helpers ── */
+    const $ = id => document.getElementById(id);
+    function ui() {
+      const pct = segs.length ? (idx / segs.length * 100) : 0;
+      $('ttsFill').style.width = pct + '%';
+      $('ttsCounter').textContent = idx + ' / ' + segs.length;
+      if (segs[idx]) $('ttsPreview').textContent = segs[idx].substring(0, 70) + '…';
+      // play / pause icon
+      $('ttsIcon').innerHTML = playing
+        ? '<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>'
+        : '<polygon points="5 3 19 12 5 21 5 3"/>';
+      $('ttsPlayBtn').classList.toggle('is-paused', !playing);
+    }
+
+    /* ── Speak one segment ── */
+    function speak() {
+      if (idx >= segs.length) { reset(); return; }
+      speechSynthesis.cancel();
+      utt = new SpeechSynthesisUtterance(segs[idx]);
+      utt.lang = 'vi-VN';
+      utt.rate = rate;
+      utt.onstart = () => { playing = true; ui(); };
+      utt.onend   = () => { idx++; speak(); };
+      utt.onerror = e => { if (e.error !== 'interrupted') console.warn('TTS:', e.error); };
+      speechSynthesis.speak(utt);
+      ui();
+    }
+
+    /* ── Chrome 15-second bug workaround ── */
+    setInterval(() => {
+      if (playing && speechSynthesis.speaking && !speechSynthesis.paused) {
+        speechSynthesis.pause(); speechSynthesis.resume();
+      }
+    }, 12000);
+
+    /* ── Pause when tab hidden ── */
+    document.addEventListener('visibilitychange', () => {
+      if (!segs.length) return;
+      if (document.hidden && playing) { speechSynthesis.pause(); playing = false; ui(); }
+      else if (!document.hidden && !playing && speechSynthesis.paused) { speechSynthesis.resume(); playing = true; ui(); }
+    });
+
+    function reset() {
+      playing = false; idx = 0;
+      $('ttsFill').style.width = '0%';
+      $('ttsCounter').textContent = 'Xong ✓';
+      $('ttsIcon').innerHTML = '<polygon points="5 3 19 12 5 21 5 3"/>';
+    }
+
+    return {
+      start() {
+        segs = extract(); idx = 0; playing = true;
+        $('ttsPlayer').classList.add('tts-visible');
+        $('ttsTrigger').style.display = 'none';
+        speak();
+      },
+      toggle() {
+        if (playing) { speechSynthesis.pause(); playing = false; }
+        else         { speechSynthesis.resume(); playing = true; }
+        ui();
+      },
+      setRate(r) {
+        rate = r;
+        document.querySelectorAll('.tts-spd').forEach(b =>
+          b.classList.toggle('active', parseFloat(b.dataset.rate) === r));
+        if (playing) { const i = idx; speechSynthesis.cancel(); idx = i; speak(); }
+      },
+      close() {
+        speechSynthesis.cancel();
+        playing = false; idx = 0;
+        $('ttsPlayer').classList.remove('tts-visible');
+        $('ttsTrigger').style.display = '';
+        $('ttsFill').style.width = '0%';
+      }
+    };
+  })();
+  </script>
 </body>
 </html>
