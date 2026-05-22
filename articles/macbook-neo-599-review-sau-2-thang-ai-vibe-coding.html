@@ -565,7 +565,10 @@
       return { start(){}, toggle(){}, setRate(){}, close(){} };
     }
 
-    let segs = [], idx = 0, playing = false, rateVal = 1, voice = null;
+    // gen = generation counter: any utterance from an older gen is silently ignored
+    let segs = [], idx = 0, playing = false, rateVal = 1, voice = null, gen = 0;
+    let rateTimer = null;
+    const Q = 4; // utterances pre-queued ahead
 
     /* ── Pick best Vietnamese voice (async-safe) ── */
     function loadVoice() {
@@ -584,7 +587,6 @@
       const push = t => {
         t = t?.trim();
         if (!t || t.length < 5) return;
-        // Split long paragraphs at sentence boundaries → more natural pauses
         if (t.length > 220) {
           const sentences = t.match(/[^.!?]+[.!?…]+\s*/g) || [t];
           sentences.forEach(s => { if (s.trim().length > 5) out.push(s.trim()); });
@@ -605,108 +607,53 @@
 
     /* ── UI helpers ── */
     const $ = id => document.getElementById(id);
-    function ui() {
-      const pct = segs.length ? (idx / segs.length * 100) : 0;
+    function ui(overrideIdx) {
+      const i = overrideIdx ?? idx;
+      const pct = segs.length ? (i / segs.length * 100) : 0;
       $('ttsFill').style.width = pct + '%';
-      $('ttsCounter').textContent = idx + ' / ' + segs.length;
-      if (segs[idx]) $('ttsPreview').textContent = segs[idx].substring(0, 70) + '…';
-      // play / pause icon
+      $('ttsCounter').textContent = i + ' / ' + segs.length;
+      if (segs[i]) $('ttsPreview').textContent = segs[i].substring(0, 70) + '…';
       $('ttsIcon').innerHTML = playing
         ? '<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>'
         : '<polygon points="5 3 19 12 5 21 5 3"/>';
       $('ttsPlayBtn').classList.toggle('is-paused', !playing);
     }
 
-    /* ── Seekable progress bar ── */
-    function seekTo(pct) {
-      if (!segs.length) return;
-      const target = Math.min(segs.length - 1, Math.max(0, Math.round(pct * segs.length)));
-      speakFrom(target);
-    }
-
-    function barPct(e, bar) {
-      const rect = bar.getBoundingClientRect();
-      return Math.min(1, Math.max(0, (e.clientX - rect.left) / rect.width));
-    }
-
-    let seekInited = false;
-    function initSeekBar() {
-      if (seekInited) return; seekInited = true;
-      const bar = $('ttsBar');
-      const fill = $('ttsFill');
-      let dragging = false;
-
-      bar.addEventListener('mousedown', e => {
-        if (!segs.length) return;
-        dragging = true;
-        bar.classList.add('dragging');
-        fill.style.transition = 'none';
-        seekTo(barPct(e, bar));
-      });
-      document.addEventListener('mousemove', e => {
-        if (!dragging) return;
-        seekTo(barPct(e, $('ttsBar')));
-      });
-      document.addEventListener('mouseup', () => {
-        if (!dragging) return;
-        dragging = false;
-        $('ttsBar').classList.remove('dragging');
-        $('ttsFill').style.transition = '';
-      });
-
-      // Touch support
-      bar.addEventListener('touchstart', e => {
-        if (!segs.length) return;
-        dragging = true;
-        bar.classList.add('dragging');
-        fill.style.transition = 'none';
-        seekTo(barPct(e.touches[0], bar));
-        e.preventDefault();
-      }, { passive: false });
-      document.addEventListener('touchmove', e => {
-        if (!dragging) return;
-        seekTo(barPct(e.touches[0], $('ttsBar')));
-        e.preventDefault();
-      }, { passive: false });
-      document.addEventListener('touchend', () => {
-        if (!dragging) return;
-        dragging = false;
-        $('ttsBar').classList.remove('dragging');
-        $('ttsFill').style.transition = '';
-      });
-    }
-
-    /* ── Build utterance with pre-queue pattern ── */
-    function makeUtt(i) {
+    /* ── Build utterance — generation-guarded ── */
+    function makeUtt(i, g) {
       if (i >= segs.length) return null;
       const utt = new SpeechSynthesisUtterance(segs[i]);
       if (voice) utt.voice = voice;
-      utt.lang = 'vi-VN';
-      utt.rate = rateVal;
-      utt.onstart = () => { idx = i; ui(); };
-      utt.onend = () => {
-        if (!playing) return;
+      utt.lang  = 'vi-VN';
+      utt.rate  = rateVal;
+      utt.onstart = () => { if (gen === g) { idx = i; ui(); } };
+      utt.onend   = () => {
+        if (gen !== g || !playing) return; // stale generation → silent no-op
         idx = i + 1;
         ui();
-        if (i + 2 < segs.length) speechSynthesis.speak(makeUtt(i + 2));
+        // keep queue full: add the utterance that is Q steps ahead
+        if (i + Q < segs.length) speechSynthesis.speak(makeUtt(i + Q, g));
         if (idx >= segs.length) done();
       };
       utt.onerror = e => {
         if (e.error !== 'interrupted' && e.error !== 'canceled')
-          console.warn('TTS:', e.error);
+          console.warn('TTS err:', e.error);
       };
       return utt;
     }
 
     /* ── Start from segment index ── */
     function speakFrom(startIdx) {
+      gen++;                          // invalidate all previous utterances
+      const g = gen;
       speechSynthesis.cancel();
       idx = startIdx;
       playing = true;
       ui();
       if (idx >= segs.length) { done(); return; }
-      speechSynthesis.speak(makeUtt(idx));
-      if (idx + 1 < segs.length) speechSynthesis.speak(makeUtt(idx + 1));
+      // Pre-load Q utterances at once for gapless start
+      const end = Math.min(idx + Q, segs.length);
+      for (let i = idx; i < end; i++) speechSynthesis.speak(makeUtt(i, g));
     }
 
     /* ── Chrome 15-second bug workaround ── */
@@ -732,6 +679,62 @@
       $('ttsIcon').innerHTML = '<polygon points="5 3 19 12 5 21 5 3"/>';
     }
 
+    /* ── Seekable progress bar ── */
+    // Key insight: during drag we only UPDATE THE VISUAL (no cancel/speak).
+    // speakFrom() is called ONCE on mouseup/touchend → zero stutter while dragging.
+    function barPct(clientX) {
+      const rect = $('ttsBar').getBoundingClientRect();
+      return Math.min(1, Math.max(0, (clientX - rect.left) / rect.width));
+    }
+    function previewAt(pct) {
+      // Visual-only update during drag — no audio change
+      const i = Math.min(segs.length - 1, Math.max(0, Math.round(pct * segs.length)));
+      $('ttsFill').style.width = (segs.length ? i / segs.length * 100 : 0) + '%';
+      $('ttsCounter').textContent = i + ' / ' + segs.length;
+      if (segs[i]) $('ttsPreview').textContent = segs[i].substring(0, 70) + '…';
+      return i;
+    }
+
+    let seekInited = false;
+    function initSeekBar() {
+      if (seekInited) return; seekInited = true;
+      const bar  = $('ttsBar');
+      const fill = $('ttsFill');
+      let dragging = false, pendingIdx = null;
+
+      bar.addEventListener('mousedown', e => {
+        if (!segs.length) return;
+        dragging = true; bar.classList.add('dragging'); fill.style.transition = 'none';
+        pendingIdx = previewAt(barPct(e.clientX));
+      });
+      document.addEventListener('mousemove', e => {
+        if (!dragging) return;
+        pendingIdx = previewAt(barPct(e.clientX));
+      });
+      document.addEventListener('mouseup', () => {
+        if (!dragging) return;
+        dragging = false; bar.classList.remove('dragging'); fill.style.transition = '';
+        if (pendingIdx !== null) { speakFrom(pendingIdx); pendingIdx = null; }
+      });
+
+      bar.addEventListener('touchstart', e => {
+        if (!segs.length) return;
+        dragging = true; bar.classList.add('dragging'); fill.style.transition = 'none';
+        pendingIdx = previewAt(barPct(e.touches[0].clientX));
+        e.preventDefault();
+      }, { passive: false });
+      document.addEventListener('touchmove', e => {
+        if (!dragging) return;
+        pendingIdx = previewAt(barPct(e.touches[0].clientX));
+        e.preventDefault();
+      }, { passive: false });
+      document.addEventListener('touchend', () => {
+        if (!dragging) return;
+        dragging = false; bar.classList.remove('dragging'); fill.style.transition = '';
+        if (pendingIdx !== null) { speakFrom(pendingIdx); pendingIdx = null; }
+      });
+    }
+
     return {
       start() {
         segs = extract();
@@ -742,16 +745,19 @@
       },
       toggle() {
         if (playing) { speechSynthesis.pause(); playing = false; }
-        else { speechSynthesis.resume(); playing = true; }
+        else         { speechSynthesis.resume(); playing = true; }
         ui();
       },
       setRate(r) {
         rateVal = r;
         document.querySelectorAll('.tts-spd').forEach(b =>
           b.classList.toggle('active', parseFloat(b.dataset.rate) === r));
-        if (playing) speakFrom(idx);
+        // Debounce: restart only after user finishes clicking (not mid-double-tap)
+        clearTimeout(rateTimer);
+        rateTimer = setTimeout(() => { if (playing) speakFrom(idx); }, 120);
       },
       close() {
+        gen++;                        // stale all queued utterances
         speechSynthesis.cancel();
         playing = false; idx = 0;
         $('ttsPlayer').classList.remove('tts-visible');
