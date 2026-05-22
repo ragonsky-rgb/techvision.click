@@ -17,6 +17,30 @@
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/articles/_article-style.css">
   <link rel="manifest" href="/manifest.webmanifest">
+  <style>
+    .score-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.9rem;
+    }
+    .score-table th {
+      text-align: left;
+      font-size: 0.65rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--dim);
+      padding: 0.5rem 0.8rem;
+      border-bottom: 1px solid var(--line);
+    }
+    .score-table td {
+      padding: 0.7rem 0.8rem;
+      border-bottom: 1px solid var(--line);
+      color: var(--muted);
+    }
+    .score-table tr:last-child td { border-bottom: none; }
+    .score-table .highlight td { color: var(--text); font-weight: 500; }
+  </style>
   <script defer src="/_vercel/insights/script.js"></script>
 
   <!-- OG / Twitter -->
