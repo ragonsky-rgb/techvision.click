@@ -18,6 +18,56 @@
   <link rel="stylesheet" href="/articles/_article-style.css">
   <link rel="manifest" href="/manifest.webmanifest">
   <style>
+    .art-stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    .art-stat-card {
+      background: rgba(192,57,43,0.06);
+      border: 1px solid rgba(192,57,43,0.15);
+      border-radius: 8px;
+      padding: 1.2rem 1rem;
+      text-align: center;
+    }
+    body.dark .art-stat-card {
+      background: rgba(192,57,43,0.10);
+      border-color: rgba(192,57,43,0.25);
+    }
+    .art-stat-number {
+      font-family: var(--serif);
+      font-size: 1.7rem;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1.1;
+      display: block;
+    }
+    .art-stat-label {
+      font-size: 0.7rem;
+      color: var(--dim);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-top: 0.4rem;
+      display: block;
+      line-height: 1.4;
+    }
+    .art-callout {
+      border-left: 3px solid var(--accent);
+      padding: 1rem 1.4rem;
+      margin: 2rem 0;
+      background: rgba(192,57,43,0.04);
+      border-radius: 0 6px 6px 0;
+    }
+    body.dark .art-callout { background: rgba(192,57,43,0.08); }
+    .art-callout p {
+      margin: 0;
+      font-size: 0.97rem;
+      line-height: 1.75;
+      color: var(--muted);
+      font-style: italic;
+    }
+    .art-callout strong { color: var(--text); font-style: normal; }
     .score-table {
       width: 100%;
       border-collapse: collapse;
