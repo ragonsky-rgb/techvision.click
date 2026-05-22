@@ -567,7 +567,7 @@
 
     // gen = generation counter: any utterance from an older gen is silently ignored
     let segs = [], idx = 0, playing = false, rateVal = 1, voice = null, gen = 0;
-    let rateTimer = null;
+    let rateTimer = null, lastActivity = 0;
     const Q = 4; // utterances pre-queued ahead
 
     /* ── Pick best Vietnamese voice (async-safe) ── */
@@ -626,9 +626,10 @@
       if (voice) utt.voice = voice;
       utt.lang  = 'vi-VN';
       utt.rate  = rateVal;
-      utt.onstart = () => { if (gen === g) { idx = i; ui(); } };
+      utt.onstart = () => { if (gen === g) { idx = i; lastActivity = Date.now(); ui(); } };
       utt.onend   = () => {
         if (gen !== g || !playing) return; // stale generation → silent no-op
+        lastActivity = Date.now();
         idx = i + 1;
         ui();
         // keep queue full: add the utterance that is Q steps ahead
@@ -649,6 +650,7 @@
       speechSynthesis.cancel();
       idx = startIdx;
       playing = true;
+      lastActivity = Date.now();      // reset watchdog timer
       ui();
       if (idx >= segs.length) { done(); return; }
       // Pre-load Q utterances at once for gapless start
@@ -656,12 +658,14 @@
       for (let i = idx; i < end; i++) speechSynthesis.speak(makeUtt(i, g));
     }
 
-    /* ── Chrome 15-second bug workaround ── */
+    /* ── Watchdog: Chrome silently kills the queue after ~15s ── */
+    // Instead of the noisy pause/resume trick (which itself causes audible stutter),
+    // we track the last onstart/onend timestamp. If >2.5s of unexpected silence
+    // while playing, Chrome stalled → restart from current segment silently.
     setInterval(() => {
-      if (playing && speechSynthesis.speaking && !speechSynthesis.paused) {
-        speechSynthesis.pause(); speechSynthesis.resume();
-      }
-    }, 10000);
+      if (!playing || speechSynthesis.paused || idx >= segs.length) return;
+      if (Date.now() - lastActivity > 2500) speakFrom(idx);
+    }, 1000);
 
     /* ── Pause when tab hidden ── */
     document.addEventListener('visibilitychange', () => {
