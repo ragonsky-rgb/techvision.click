@@ -459,6 +459,8 @@ body.dark .related-card:hover { background: rgba(240,237,232,0.04); }
 }
 .art-body figure img {
   width: 100%;
+  max-height: 480px;
+  object-fit: cover;
   border-radius: 4px;
   display: block;
   background: var(--line);
