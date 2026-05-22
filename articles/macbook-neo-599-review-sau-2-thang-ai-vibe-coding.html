@@ -665,11 +665,13 @@
     }
 
     /* ── Watchdog: browser silently kills the queue ── */
-    // Tracks last onstart/onend. If playing but silent > STALL_MS → stalled → restart.
-    // STALL_MS is longer on mobile (slower synthesis engine).
+    // Every 1s: if speaking is active → refresh lastActivity (long utterance, not stalled).
+    // Only restart when truly silent (speaking=false) for longer than STALL_MS.
+    // Without the speaking check, a single long utterance (>STALL_MS) would loop forever.
     setInterval(() => {
       if (!playing || speechSynthesis.paused || idx >= segs.length) return;
-      if (Date.now() - lastActivity > STALL_MS) speakFrom(idx);
+      if (speechSynthesis.speaking) { lastActivity = Date.now(); return; } // actively speaking
+      if (Date.now() - lastActivity > STALL_MS) speakFrom(idx);            // truly stalled
     }, 1000);
 
     /* ── Visibility / screen-lock handling ── */
