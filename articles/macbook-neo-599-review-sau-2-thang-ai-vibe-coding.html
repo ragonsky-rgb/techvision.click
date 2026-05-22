@@ -567,8 +567,14 @@
 
     // gen = generation counter: any utterance from an older gen is silently ignored
     let segs = [], idx = 0, playing = false, rateVal = 1, voice = null, gen = 0;
-    let rateTimer = null, lastActivity = 0;
-    const Q = 4; // utterances pre-queued ahead
+    let rateTimer = null, lastActivity = 0, wasPlaying = false;
+
+    // iOS pre-queues poorly (only reliably speaks 1 utterance at a time).
+    // Android/desktop handles Q=4 fine. Stall threshold also longer on mobile.
+    const isIOS    = /iPad|iPhone|iPod/.test(navigator.userAgent);
+    const isMobile = isIOS || /Android|Mobi/i.test(navigator.userAgent);
+    const Q        = isIOS ? 1 : 4;
+    const STALL_MS = isMobile ? 4000 : 2500;
 
     /* ── Pick best Vietnamese voice (async-safe) ── */
     function loadVoice() {
@@ -658,21 +664,32 @@
       for (let i = idx; i < end; i++) speechSynthesis.speak(makeUtt(i, g));
     }
 
-    /* ── Watchdog: Chrome silently kills the queue after ~15s ── */
-    // Instead of the noisy pause/resume trick (which itself causes audible stutter),
-    // we track the last onstart/onend timestamp. If >2.5s of unexpected silence
-    // while playing, Chrome stalled → restart from current segment silently.
+    /* ── Watchdog: browser silently kills the queue ── */
+    // Tracks last onstart/onend. If playing but silent > STALL_MS → stalled → restart.
+    // STALL_MS is longer on mobile (slower synthesis engine).
     setInterval(() => {
       if (!playing || speechSynthesis.paused || idx >= segs.length) return;
-      if (Date.now() - lastActivity > 2500) speakFrom(idx);
+      if (Date.now() - lastActivity > STALL_MS) speakFrom(idx);
     }, 1000);
 
-    /* ── Pause when tab hidden ── */
+    /* ── Visibility / screen-lock handling ── */
+    // Desktop: pause() → resume() works fine.
+    // iOS/Android: locking screen kills synthesis without pausing → resume() is a no-op.
+    // Fix: track wasPlaying; on return, if synthesis isn't in paused state, restart instead.
     document.addEventListener('visibilitychange', () => {
       if (!segs.length) return;
-      if (document.hidden && playing) { speechSynthesis.pause(); playing = false; ui(); }
-      else if (!document.hidden && !playing && speechSynthesis.paused) {
-        speechSynthesis.resume(); playing = true; ui();
+      if (document.hidden) {
+        wasPlaying = playing;
+        if (playing) { speechSynthesis.pause(); playing = false; ui(); }
+      } else if (wasPlaying) {
+        wasPlaying = false;
+        if (speechSynthesis.paused) {
+          // Normal desktop/Android resume
+          speechSynthesis.resume(); playing = true; ui();
+        } else {
+          // iOS killed it silently — restart from where we were
+          speakFrom(idx);
+        }
       }
     });
 
@@ -748,9 +765,13 @@
         speakFrom(0);
       },
       toggle() {
-        if (playing) { speechSynthesis.pause(); playing = false; }
-        else         { speechSynthesis.resume(); playing = true; }
-        ui();
+        if (playing) {
+          speechSynthesis.pause(); playing = false; ui();
+        } else {
+          // On iOS, synthesis may be dead (not paused) — resume() would be a no-op
+          if (speechSynthesis.paused) { speechSynthesis.resume(); playing = true; ui(); }
+          else { speakFrom(idx); }
+        }
       },
       setRate(r) {
         rateVal = r;
