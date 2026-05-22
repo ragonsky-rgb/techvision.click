@@ -544,32 +544,34 @@
 
   <script>
   const TTS = (() => {
-    if (!('speechSynthesis' in window)) {
-      document.getElementById('ttsTrigger')?.classList.add('tts-unsupported');
-      return { start(){}, toggle(){}, setRate(){}, close(){} };
-    }
-
-    let segs = [], idx = 0, playing = false, rate = 1, utt = null;
+    // Azure TTS via /api/tts Edge Function
+    let segs = [], idx = 0, playing = false, rateKey = '1';
+    let audioEl = null, prefetch = null, prefetchIdx = -1, gen = 0;
 
     /* ── Extract readable segments ── */
     function extract() {
       const out = [];
       const push = t => { t = t?.trim(); if (t && t.length > 5) out.push(t); };
-
       push(document.querySelector('.art-title')?.textContent);
       push(document.querySelector('.art-deck')?.textContent);
-
-      // TLDR
       const tldr = document.querySelector('.art-tldr p');
       if (tldr) push('Tóm tắt nhanh. ' + tldr.textContent);
-
-      // Body paragraphs & headings — skip figure captions, video, spec-box table, related, comments
       document.querySelectorAll('.art-body p, .art-body h2, .art-body h3').forEach(el => {
         if (el.closest('figure, .art-video, .art-spec-box, .art-internal-link, .source-card')) return;
         push(el.textContent);
       });
-
       return out;
+    }
+
+    /* ── Fetch MP3 blob from Edge Function ── */
+    async function fetchBlob(text, rate) {
+      const r = await fetch('/api/tts', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text, rate }),
+      });
+      if (!r.ok) throw new Error('TTS API ' + r.status);
+      return r.blob();
     }
 
     /* ── UI helpers ── */
@@ -586,36 +588,73 @@
       $('ttsPlayBtn').classList.toggle('is-paused', !playing);
     }
 
-    /* ── Speak one segment ── */
-    function speak() {
-      if (idx >= segs.length) { reset(); return; }
-      speechSynthesis.cancel();
-      utt = new SpeechSynthesisUtterance(segs[idx]);
-      utt.lang = 'vi-VN';
-      utt.rate = rate;
-      utt.onstart = () => { playing = true; ui(); };
-      utt.onend   = () => { idx++; speak(); };
-      utt.onerror = e => { if (e.error !== 'interrupted') console.warn('TTS:', e.error); };
-      speechSynthesis.speak(utt);
-      ui();
+    function setBusy(on) {
+      $('ttsPlayBtn').disabled = on;
+      $('ttsPlayBtn').style.opacity = on ? '0.45' : '1';
     }
+    function setStatus(msg) { $('ttsPreview').textContent = msg; }
 
-    /* ── Chrome 15-second bug workaround ── */
-    setInterval(() => {
-      if (playing && speechSynthesis.speaking && !speechSynthesis.paused) {
-        speechSynthesis.pause(); speechSynthesis.resume();
+    /* ── Play segment i with generation guard ── */
+    async function play(i, g) {
+      if (g !== gen || i >= segs.length) { if (i >= segs.length) done(); return; }
+
+      setBusy(true);
+      setStatus('⏳ Đang tải giọng đọc…');
+
+      let blob;
+      try {
+        // Use prefetched blob if available
+        if (prefetch && prefetchIdx === i) {
+          blob = await prefetch;
+          prefetch = null; prefetchIdx = -1;
+        } else {
+          blob = await fetchBlob(segs[i], rateKey);
+        }
+      } catch (e) {
+        if (g !== gen) return;
+        setBusy(false); playing = false;
+        setStatus('⚠️ Không tải được audio — kiểm tra kết nối mạng.');
+        ui(); return;
       }
-    }, 12000);
+
+      if (g !== gen || !playing) return;
+
+      const url = URL.createObjectURL(blob);
+      const audio = new Audio(url);
+      audioEl = audio;
+
+      audio.oncanplay   = () => { setBusy(false); ui(); };
+      audio.onended     = () => {
+        URL.revokeObjectURL(url);
+        if (g !== gen || !playing) return;
+        idx++; ui(); play(idx, g);
+      };
+      audio.onerror     = () => {
+        if (g !== gen) return;
+        setBusy(false); playing = false;
+        setStatus('⚠️ Lỗi phát audio.'); ui();
+      };
+
+      try { await audio.play(); } catch (_) {}
+
+      // Pre-fetch next segment in background
+      if (i + 1 < segs.length && g === gen) {
+        prefetchIdx = i + 1;
+        prefetch = fetchBlob(segs[i + 1], rateKey).catch(() => null);
+      }
+    }
 
     /* ── Pause when tab hidden ── */
     document.addEventListener('visibilitychange', () => {
-      if (!segs.length) return;
-      if (document.hidden && playing) { speechSynthesis.pause(); playing = false; ui(); }
-      else if (!document.hidden && !playing && speechSynthesis.paused) { speechSynthesis.resume(); playing = true; ui(); }
+      if (!segs.length || !audioEl) return;
+      if (document.hidden && playing)  { audioEl.pause(); playing = false; ui(); }
+      else if (!document.hidden && !playing && audioEl.paused && idx < segs.length) {
+        audioEl.play(); playing = true; ui();
+      }
     });
 
-    function reset() {
-      playing = false; idx = 0;
+    function done() {
+      playing = false; idx = 0; audioEl = null;
       $('ttsFill').style.width = '0%';
       $('ttsCounter').textContent = 'Xong ✓';
       $('ttsIcon').innerHTML = '<polygon points="5 3 19 12 5 21 5 3"/>';
@@ -624,27 +663,35 @@
     return {
       start() {
         segs = extract(); idx = 0; playing = true;
+        gen++; audioEl = null; prefetch = null; prefetchIdx = -1;
         $('ttsPlayer').classList.add('tts-visible');
         $('ttsTrigger').style.display = 'none';
-        speak();
+        play(0, gen);
       },
       toggle() {
-        if (playing) { speechSynthesis.pause(); playing = false; }
-        else         { speechSynthesis.resume(); playing = true; }
-        ui();
+        if (playing && audioEl)  { audioEl.pause(); playing = false; ui(); }
+        else if (!playing && audioEl) { audioEl.play(); playing = true; ui(); }
+        else if (playing && !audioEl) { gen++; playing = false; setBusy(false); ui(); } // cancel loading
       },
       setRate(r) {
-        rate = r;
+        rateKey = String(r);
         document.querySelectorAll('.tts-spd').forEach(b =>
           b.classList.toggle('active', parseFloat(b.dataset.rate) === r));
-        if (playing) { const i = idx; speechSynthesis.cancel(); idx = i; speak(); }
+        if (playing) {
+          gen++;
+          if (audioEl) { audioEl.pause(); audioEl = null; }
+          prefetch = null; prefetchIdx = -1;
+          play(idx, gen);
+        }
       },
       close() {
-        speechSynthesis.cancel();
-        playing = false; idx = 0;
+        gen++;
+        if (audioEl) { audioEl.pause(); audioEl = null; }
+        playing = false; idx = 0; prefetch = null;
         $('ttsPlayer').classList.remove('tts-visible');
         $('ttsTrigger').style.display = '';
         $('ttsFill').style.width = '0%';
+        setBusy(false);
       }
     };
   })();
