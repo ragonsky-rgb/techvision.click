@@ -170,6 +170,31 @@
 
 <p>Hai tháng sau khi ra mắt, cộng đồng người dùng đã có đủ thời gian để dùng thật, không phải demo. Đây là những gì họ — và các reviewer nghiêm túc — đang nói.</p>
 
+<div class="art-spec-box">
+  <div class="spec-title">📋 MacBook Neo — Thông số kỹ thuật đầy đủ</div>
+  <table>
+    <thead>
+      <tr><th>Thông số</th><th>Chi tiết</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Chip</td><td>Apple A18 Pro (6-core CPU: 2P+4E, 5-core GPU, 16-core Neural Engine)</td></tr>
+      <tr><td>RAM</td><td>8GB Unified Memory — không nâng cấp được</td></tr>
+      <tr><td>Bộ nhớ trong</td><td>256GB SSD NVMe ($599) / 512GB ($799)</td></tr>
+      <tr><td>Màn hình</td><td>13.6" Liquid Retina, 2560×1664, 224ppi, 500 nits, 60Hz</td></tr>
+      <tr><td>Camera</td><td>12MP Center Stage (xoay theo người)</td></tr>
+      <tr><td>Cổng kết nối</td><td>MagSafe 3 · USB-C USB 3.2 Gen 2 · USB-C USB 2.0 · Jack 3.5mm</td></tr>
+      <tr><td>Màn hình ngoài</td><td>Tối đa 1 màn hình, 4K/60Hz hoặc 5K/60Hz</td></tr>
+      <tr><td>Pin</td><td>~54Wh · Tuyên bố 16 giờ sử dụng web</td></tr>
+      <tr><td>Kết nối không dây</td><td>Wi-Fi 6E (802.11ax) · Bluetooth 5.3</td></tr>
+      <tr><td>Trọng lượng</td><td>1.24 kg</td></tr>
+      <tr><td>Kích thước</td><td>304.1 × 215.1 × 11.5 mm</td></tr>
+      <tr><td>Màu sắc</td><td>Silver, Midnight, Starlight, Sky Blue, Citrus</td></tr>
+      <tr><td>Không có</td><td>Backlit keyboard · Thunderbolt · Touch ID (model $599) · True Tone · P3</td></tr>
+      <tr><td>Giá khởi điểm</td><td>$599 (8GB/256GB) · Ra mắt 4/3/2026</td></tr>
+    </tbody>
+  </table>
+</div>
+
 <h2>1. Tại sao Apple làm được MacBook giá $599?</h2>
 
 <p>Câu trả lời đơn giản: <strong>Apple dùng chip A18 Pro — chip từ iPhone 16 Pro</strong>, không phải M-series chip vốn được thiết kế cho Mac. Đây là lần đầu tiên Apple đưa chip iPhone vào laptop, và đây cũng là lý do máy rẻ được.</p>
@@ -187,6 +212,16 @@
   <li>8GB RAM không nâng cấp được — mãi mãi</li>
 </ul>
 
+<figure>
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo10005.jpg" alt="MacBook Neo bàn phím không backlit — nhìn sạch nhưng gõ tối mù" loading="lazy" width="1200" height="800">
+  <figcaption>Bàn phím MacBook Neo — không có backlit, không có Touch ID ở model $599. Nhìn sạch nhưng gõ ban đêm là thách thức. Ảnh: 9to5Mac</figcaption>
+</figure>
+
+<figure>
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/Screenshot-2026-03-10-at-7.49.24-AM.png" alt="MacBook Neo cổng kết nối — USB-C bên trái và phải tốc độ khác nhau" loading="lazy" width="1200" height="600">
+  <figcaption>Hai cổng USB-C của MacBook Neo — một USB 3.2 Gen 2, một USB 2.0. Cắm nhầm cổng copy dữ liệu là cảm nhận ngay sự chênh lệch tốc độ. Ảnh: 9to5Mac</figcaption>
+</figure>
+
 <h2>2. Hiệu năng thực tế — con số biết nói</h2>
 
 <p>Benchmark Geekbench 6 của MacBook Neo khá ấn tượng về <strong>single-core</strong>:</p>
@@ -201,6 +236,16 @@
 <p>Vấn đề quan trọng hơn benchmark: <strong>thermal throttling</strong>. Theo Tom's Hardware và jdhodges.com (đã test thực tế), MacBook Neo bắt đầu giảm hiệu năng sau khoảng 60 giây sustained load — hiệu năng single-core có thể giảm tới 87% sau 5 phút stress test liên tục. Đây là thiết kế có chủ đích vì máy không có quạt tản nhiệt — giống MacBook Air nhưng với chip có nhiệt ngưỡng thấp hơn nhiều.</p>
 
 <p>Trong đời thực: gõ code, duyệt web, xem YouTube, họp Zoom — không bao giờ chạm tới thermal limit. Compile một project React vừa, build Docker image nặng, render video dài — bắt đầu thấy chậm.</p>
+
+<figure>
+  <img src="https://www.jdhodges.com/wp-content/uploads/2026/03/01-single-core-benchmark-831x550.png" alt="MacBook Neo Geekbench single-core benchmark so sánh M1, M3, M4" loading="lazy" width="831" height="550">
+  <figcaption>Single-core benchmark: MacBook Neo (A18 Pro) ngang M3, nhanh hơn M1 47%. Nhưng multi-core bị tụt lại đáng kể do TDP thấp và fanless. Nguồn: jdhodges.com</figcaption>
+</figure>
+
+<figure>
+  <img src="https://www.jdhodges.com/wp-content/uploads/2026/04/macbook-neo-thermal-cliff-timeline.png" alt="MacBook Neo thermal throttle timeline — hiệu năng giảm sau 60 giây sustained load" loading="lazy" width="900" height="500">
+  <figcaption>Thermal cliff của MacBook Neo: hiệu năng bắt đầu giảm sau ~60 giây sustained load, có thể xuống còn 87% sau 5 phút stress test liên tục. Fanless là con dao hai lưỡi. Nguồn: jdhodges.com</figcaption>
+</figure>
 
 <h2>3. Sau 2 tháng — người dùng thực sự nói gì?</h2>
 
@@ -224,6 +269,11 @@
 </ul>
 
 <p>AppleInsider sau 2 tháng sử dụng kết luận: <em>"Almost a MacBook Pro beater"</em> — gần như ngang MacBook Pro trong phần lớn tác vụ hàng ngày, nhưng chữ "almost" đó rất quan trọng với người dùng nặng.</p>
+
+<div class="art-video">
+  <iframe src="https://www.youtube.com/embed/McaN1_6O6bY" title="I Tested and Reviewed the $599 MacBook Neo… Here's the Truth" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video: Trải nghiệm thực tế MacBook Neo $599 sau khi dùng thật — những điều reviewer nói thẳng mà trang sản phẩm không nói.</p>
 
 <h2>4. Vibe coding và AI — đây mới là câu hỏi thực sự</h2>
 
@@ -266,6 +316,11 @@
   <li>Docker compose với 2-3 service: <strong>RAM là vấn đề</strong>, máy swap nhiều</li>
   <li>Chạy test suite song song: <strong>cảm nhận được sự chậm</strong> sau vài phút</li>
 </ul>
+
+<div class="art-video">
+  <iframe src="https://www.youtube.com/embed/jW9IjBrMvW8" title="I Replaced My $5,000 PC with a $599 MacBook Neo (30 Days Later)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video: Developer dùng MacBook Neo $599 thay PC $5,000 trong 30 ngày — kết quả thực tế như thế nào với workflow dev hàng ngày?</p>
 
 <h2>5. Ai nên mua — và ai không nên</h2>
 
