@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/lenovo-ideapad-slim-5i-2026-wildcat-lake-man-120hz-pin-22h.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-25T09:00:00+07:00</news:publication_date>
+      <news:title>Lenovo IdeaPad Slim 5i 2026: Intel Wildcat Lake, màn 120Hz 16:10, pin 22.8 giờ - Đối thủ thật sự của MacBook Neo?</news:title>
+      <news:keywords>Lenovo IdeaPad Slim 5i, IdeaPad Slim 5i 2026, Intel Wildcat Lake, laptop pin trâu, MacBook Neo đối thủ, laptop AI PC 2026</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/macbook-neo-599-review-sau-2-thang-ai-vibe-coding.html</loc>
     <news:news>
       <news:publication>

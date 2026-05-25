@@ -234,4 +234,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://techvision.click/articles/lenovo-ideapad-slim-5i-2026-wildcat-lake-man-120hz-pin-22h.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
