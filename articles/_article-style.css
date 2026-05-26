@@ -563,7 +563,7 @@ body.dark .art-spec-box { background: rgba(240,237,232,0.04); }
   color: var(--text); margin-bottom: 0.45rem; cursor: default;
   line-height: 1.45;
 }
-.faq-q::before {
+div.faq-q::before {
   content: "Q ";
   color: var(--accent); font-weight: 700; margin-right: 0.15rem;
 }
