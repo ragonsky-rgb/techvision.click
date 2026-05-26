@@ -1,0 +1,253 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>iClarified - 404 Page Not Found</title>
+<meta name="KEYWORDS" content="404, iclarified, apple, iphone, news, mac, support, tutorials, 
+rumors, macintosh, mac help, ipod, iphone help, appletv, appletv help, ipod touch, ipad, osx, jailbreak, unlock, ipsw, dfu, apple watch, instructions, how to" />
+<meta name="DESCRIPTION" content="Sorry we could not find the page you were looking for. 404. Page Not Found." />
+<meta name="AUTHOR" content="iClarified" />
+<meta name="verify-v1" content="fm2m+CZNQGmv74b5GglrmKseh/IGuAzY+1Io9azG/9Y=" /> 
+<meta name="apple-itunes-app" content="app-id=388040325, affiliate-data=11l655, app-argument=">
+<meta name="robots" content="noindex">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HHEKZ89QFE"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-HHEKZ89QFE');
+  gtag('config', 'UA-26104836-1');
+</script>
+
+<script> (function(w, d) { w.adthrive = w.adthrive || {}; w.adthrive.cmd = w.adthrive.cmd || [];
+w.adthrive.plugin = "adthrive-ads-manual"; w.adthrive.host = "ads.adthrive.com"; var s = d.createElement("script"); s.async = true; s.referrerpolicy="no-referrer-when-downgrade"; s.src = "https://" + w.adthrive.host + "/sites/638fb6272da1940f88364b18/ads.min.js?referrer=" + w.encodeURIComponent(w.location.href) + "&cb=" + (Math.floor(Math.random() * 100) + 1); var n = d.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); })(window, document); </script>
+
+<style>
+	@media only screen and (min-width : 0px) {
+		.adthrive-placeholder-video {min-height: 250px;}
+		.adthrive-placeholder-video .adthrive-collapse-player { border-top: 0 !important; border-bottom: 0 !important; }
+		.adthrive-placeholder-sticky-sidebar { display: none; }
+		.adthrive-placeholder-content { min-height: 250px; } 
+		.adthrive-placeholder-content .adthrive-ad { padding: 0; margin: 0; }
+		.adthrive-placeholder-below-post { min-height: 250px; }
+		.adthrive-placeholder-below-post .adthrive-ad { padding: 0 !important; margin: 0 !important; }
+		.adthrive-sticky.adthrive-footer {background: none !important; border: 0 !important;}
+	}
+	@media only screen and (min-width : 1390px) {
+		.adthrive-placeholder-sticky-sidebar { display: block;}
+		.adthrive-placeholder-sticky-sidebar .adthrive-ad{ padding: 0 !important; margin: 0 !important;}
+		.adthrive-stuck.adthrive-sticky.adthrive-sidebar { top: 60px !important; }
+		.adthrive-player-position.adthrive-collapse-float.adthrive-collapse-bottom-right { right: 40px !important;}
+	}
+	
+</style>
+
+<style>
+	@font-face { font-family: "system-ui"; font-style: normal; font-weight: 300; src: local(".SFNS-Light"), local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Segoe UI Light"), local("Ubuntu Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");}
+	@font-face { font-family: "system-ui"; font-style: italic; font-weight: 300; src: local(".SFNS-LightItalic"), local(".SFNSText-LightItalic"), local(".HelveticaNeueDeskInterface-Italic"), local(".LucidaGrandeUI"), local("Segoe UI Light Italic"), local("Ubuntu Light Italic"), local("Roboto-LightItalic"), local("DroidSans"), local("Tahoma"); }
+	@font-face { font-family: "system-ui"; font-style: normal; font-weight: 400; src: local(".SFNS-Regular"), local(".SFNSText-Regular"), local(".HelveticaNeueDeskInterface-Regular"), local(".LucidaGrandeUI"), local("Segoe UI"), local("Ubuntu"), local("Roboto-Regular"), local("DroidSans"), local("Tahoma"); }
+	@font-face { font-family: "system-ui"; font-style: italic; font-weight: 400; src: local(".SFNS-Italic"), local(".SFNSText-Italic"), local(".HelveticaNeueDeskInterface-Italic"), local(".LucidaGrandeUI"), local("Segoe UI Italic"), local("Ubuntu Italic"), local("Roboto-Italic"), local("DroidSans"), local("Tahoma"); }
+	@font-face { font-family: "system-ui"; font-style: normal; font-weight: 500; src: local(".SFNS-Medium"), local(".SFNSText-Medium"), local(".HelveticaNeueDeskInterface-MediumP4"), local(".LucidaGrandeUI"), local("Segoe UI Semibold"), local("Ubuntu Medium"), local("Roboto-Medium"), local("DroidSans-Bold"), local("Tahoma Bold"); }
+	@font-face { font-family: "system-ui"; font-style: italic; font-weight: 500; src: local(".SFNS-MediumItalic"), local(".SFNSText-MediumItalic"), local(".HelveticaNeueDeskInterface-MediumItalicP4"), local(".LucidaGrandeUI"), local("Segoe UI Semibold Italic"), local("Ubuntu Medium Italic"), local("Roboto-MediumItalic"), local("DroidSans-Bold"), local("Tahoma Bold"); }
+	@font-face { font-family: "system-ui"; font-style: normal; font-weight: 700; src: local(".SFNS-Bold"), local(".SFNSText-Bold"), local(".HelveticaNeueDeskInterface-Bold"), local(".LucidaGrandeUI"), local("Segoe UI Bold"), local("Ubuntu Bold"), local("Roboto-Bold"), local("DroidSans-Bold"), local("Tahoma Bold"); }
+	@font-face { font-family: "system-ui"; font-style: italic; font-weight: 700; src: local(".SFNS-BoldItalic"), local(".SFNSText-BoldItalic"), local(".HelveticaNeueDeskInterface-BoldItalic"), local(".LucidaGrandeUI"), local("Segoe UI Bold Italic"), local("Ubuntu Bold Italic"), local("Roboto-BoldItalic"), local("DroidSans-Bold"), local("Tahoma Bold"); }
+</style>
+
+<style>
+	*, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; } 
+	body { background-color: #fff; border: 0; margin: 0; font-family: system-ui, sans-serif; overscroll-behavior-x: contain;} 
+	a { text-decoration: none; color: #007aff; } 
+	input, select, textarea, button{font-family:inherit;} .clear { clear: both; }
+	@media (prefers-color-scheme: dark) {
+		body { background-color: #000; }	
+	}
+</style>
+
+<style>
+	.header { position: relative; width: 100%;}
+	
+	.header_date { position: absolute; left: 20px; bottom: 51px; font-size: 12px; font-weight: 400; color: #ccc; }
+	
+	#header_logo { position: absolute; left: 20px; bottom: 10px; width: 156px; height: 37px; }
+	
+	#header_facebook_icon { position: absolute; right: 50px; top:20px; height: 20px; width: 20px; cursor: pointer; background-size: contain;}
+	.header_facebook_icon_off { background-image: url(/images/index/facebook-initial-gray-60x60.svg); }
+	.header_facebook_icon_off:hover{ background-image: url(/images/index/facebook-initial-60x60.svg); }
+	
+	#header_twitter_icon { position: absolute; right: 80px; top:20px; height: 20px; width: 20px; cursor: pointer; background-size: contain; }
+	.header_twitter_icon_off { background-image: url(/images/index/twitter-initial-gray-60x60.svg); }
+	.header_twitter_icon_off:hover{ background-image: url(/images/index/twitter-initial-60x60.svg); }
+	
+	#header_search_icon { position: absolute; right: 66px; bottom: 10px; height: 36px; width: 36px; cursor: pointer; background-size: contain; }
+	.header_search_icon_off { background-image: url(/images/index/search-icon-circle-gray-80x80.svg); }
+	
+	#header_account_icon { position: absolute; right: 20px; top:20px; height: 20px; width: 20px; cursor: pointer; background-size: contain; }
+	.header_account_icon_on { background-image: url(/images/index/account-icon-on-blue-80x80.svg); }
+	.header_account_icon_off { background-image: url(/images/index/account-icon-off-gray-80x80.svg); }
+	.header_account_icon_off:hover{ background-image: url(/images/index/account-icon-hover-blue-80x80.svg); }
+	
+	.header_ad1 { position: relative; padding-top: 50px; display: block; text-align: center; min-height: 150px;}
+	
+	@media only screen and (min-width : 0px) { 
+		.header { min-height: 90px; } 
+		.header_ad1 {display: none; }
+		.header_date { display: block; left: 10px; } 
+		#header_logo { display: block; left: 10px; }
+		#header_account_icon { top: auto; bottom: 10px; height: 36px; width: 36px; right: 10px; } 
+		.header_account_icon_off { background-image: url(/images/index/account-icon-hover-blue-80x80.svg); }
+		#header_facebook_icon { display: none; }
+		#header_twitter_icon { display: none; }
+		#header_search_icon { display: block; right: 56px; }
+	}
+	@media only screen and (min-width : 360px) { 
+		.header_ad1 {display: none; }
+		.header_date { left: 20px; }
+		#header_logo { left: 20px; }
+		#header_account_icon { right: 20px; }
+		#header_search_icon { right: 66px; }
+	}
+	@media only screen and (min-width : 768px) { 
+		.header { min-height: 40px; } 
+		.header_ad1 {display: block; }
+		.header_date { display: none; } 
+		#header_logo { display: none; }
+		#header_account_icon { top:20px; height: 20px; width: 20px; } 
+		.header_account_icon_off { background-image: url(/images/index/account-icon-off-gray-80x80.svg); }
+		#header_facebook_icon { display: block; }
+		#header_twitter_icon { display: block; }
+		#header_search_icon { display: none; }
+	}
+	@media only screen and (min-width : 1190px) { .header_ad1 { min-height: 155px; padding-top: 10px;} }
+</style>
+
+<style>
+	.menu { position: sticky; top: -1px; width: 100%; height: 60px; text-align: center; z-index: 1000; background-color: rgba(255, 255, 255, 0.96); border-bottom: 0px; }
+	
+	.menu_items { display: inline-block; text-align: justify; }
+	.menu_items:after { content: ''; width: 100%; display: inline-block; }
+	.menu_item { display:inline-block; font-size: 15px; line-height: 64px; font-weight: 500; color: #000; }
+	.menu_item a { color: #000; }
+	.menu_item a:hover { color: #007aff; }
+	.menu_item_selected { display:inline-block; font-size: 15px; line-height: 64px; font-weight: 500; color: #007aff; }
+	.menu_item_selected a { color: #007aff; }
+	.menu_item_selected a:hover { color: #007aff; }
+	
+	.menu_logo_box { display: none; position: absolute; left: 70px; top: 8px; height: 44px; cursor: pointer; text-align:left; }
+	.menu_logo_box.stuck { top: 12px; height: 36px; }
+	#menu_logo { position: absolute; top: 0px; border: 0; height: 100%; left: 0px; }
+	.menu_search_icon_box  { position: absolute; right: 70px; top: 20px; width: 20px; height: 20px; cursor: pointer; }
+	#menu_search_icon { border: 0; width: 20px; height: 20px; }
+	#menu_search_field { position: absolute; display: none; width: 500px; height: 100%; border: 0; background-color: white; font-size: 17px; font-weight: 300; background-image: url(/images/index/search-icon-blue-80x80.svg); background-position: left; background-repeat: no-repeat; background-size: 20px 20px; padding-left: 30px; outline: none; z-index:10000; }
+	
+	@media only screen and (min-width : 0px) { 
+		.menu { position: relative; height: 30px; top: 0px; background-color: #f6f6f6; text-align: justify; padding-left: 10px; padding-right: 10px;}
+		.menu_logo_box {display: none; } 
+		.menu_search_icon_box {display: none; } 
+		.menu_items { width: 100%; }
+		.menu_item { font-size: 11px; font-weight: 600; line-height: 30px; }
+		.menu_item_selected { font-size: 11px; font-weight: 600; line-height: 30px; }
+	}
+	@media only screen and (min-width : 360px) {
+		.menu { padding-left: 20px; padding-right: 20px; }
+		.menu_item { font-size: 13px; font-weight: 600; line-height: 30px; }
+		.menu_item_selected { font-size: 13px; font-weight: 600; line-height: 30px; }
+	}
+	@media only screen and (min-width : 480px) { 
+		.menu_logo_box {display: none; } 
+	}
+	@media only screen and (min-width : 768px) { 
+		.menu { position: sticky; height: 60px; top: -1px; background-color: rgba(255, 255, 255, 0.96); text-align: center; padding: 0; }
+		.menu_logo_box  { display: block; left: 32px; top: 12px; height: 36px; } 
+		.menu_search_icon_box  { display: block; right: 32px; } 
+		.menu_items { width: 360px; }
+		.menu_item { font-size: 15px; font-weight: 500; line-height: 64px;} 
+		.menu_item_selected { font-size: 15px; font-weight: 500; line-height: 64px;} 
+		#menu_search_field { width: 360px; left: calc((100% - 360px)/2);} 
+	}
+	@media only screen and (min-width : 1024px) { 
+		.menu_logo_box  { display: block; left: 32px; top: 8px; height: 44px; } 
+		.menu_items { width: 500px; }
+		#menu_search_field { width: 566px; left: calc((100% - 566px)/2); } 
+	}
+	@media only screen and (min-width : 1260px) { 
+		.menu_logo_box  { left: 64px; } 
+		.menu_search_icon_box  { right: 64px; } 
+	}
+	@media (prefers-color-scheme: dark) {
+		@media only screen and (min-width : 0px) {
+			.menu { background-color: rgba(40, 40, 40, 0.96); }	
+		}
+		@media only screen and (min-width : 768px) {
+			.menu { background-color: rgba(0, 0, 0, 0.96); }	
+		}
+		.menu_item a { color: #fff; }
+		#menu_search_field { background-color: #000; color: #fff; }
+	}
+</style>
+
+<style>
+	.ad_break_container { position: relative; width:100%; background-color: #f6f6f6; margin-top: 0px; text-align: center;}
+	.ad_break_box_ad1 { position: relative; width: 100%; height: 250px;}
+	@media only screen and (min-width : 0px) { .ad_break_container { padding-top: 10px; padding-bottom: 40px; }} 
+	@media only screen and (min-width : 360px) { .ad_break_container { padding-top: 10px; padding-bottom: 40px;}} 
+	@media only screen and (min-width : 768px) { .ad_break_container { padding-top: 20px; padding-bottom: 60px; }}
+	@media (prefers-color-scheme: dark) {
+		.ad_break_container { background-color: #000; }
+	}
+</style>
+
+<style>
+	.footer_container{position: relative; width: 100%; background-color: #ffffff; min-height: 170px; padding-top: 20px;}
+	.footer_container a{text-decoration: none; color: #999;}
+	.footer_container a:hover{text-decoration: none; color: #007aff;}
+	.footer_table{display: table; position: relative; width: 100%;}
+	.footer_table a{text-decoration: none; color: #333;}
+	.footer_table_mobile{display: table; position: relative; width: 100%;}
+	.footer_table_mobile a{text-decoration: none; color: #333;}
+	.footer_table_row{display: table-row;}
+	.footer_table_cell{display: table-cell; font-size: 18px; line-height: 20px; font-weight: 300; color: #007aff; vertical-align: top; text-align: center;}
+	.footer_table_cell_mobile{display: table-cell; font-size: 18px; line-height: 20px; color: #007aff; vertical-align: top; text-align: left; padding-bottom: 20px;}
+	.footer_table_section{display: inline-block; text-align: left;}
+	.footer_table_section_title{width: 100%; margin-bottom: 4px;}
+	.footer_table_section_description{font-size: 14px; line-height: 20px; color: #333; max-width: 160px; margin-bottom: 4px;}
+	.footer_table_section_description_mobile{font-size: 14px; line-height: 20px; color: #333; margin-bottom: 4px;}
+	.footer_table_section_links{font-size: 14px; line-height: 20px; color: #333;}.footer_table_section_links_mobile{font-size: 14px; line-height: 30px; color: #333;}.footer_legal{display:block; position: relative; width: 100%; margin-top: 00px; margin-bottom: 20px;}.footer_legal_logo{position: relative; float: right; width: 100px; height: 24px; background-image: url(/images/index/iclarified-logo-640x150.svg); background-position: right; background-size: contain; background-repeat: no-repeat;}.footer_legal_links{position: relative; float: right; width: 300px; clear:right; text-align: right; font-size: 12px; line-height: 18px; color: #999; margin-top: 4px;}.footer_spacer{position: relative; width:100%; height: 20px;}.footer_facebook{background-image: url(/images/index/facebook-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; width: 100%; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_facebook_mobile{display:inline-block; width: 100px; background-image: url(/images/index/facebook-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; height: 24px; font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 6px;}.footer_twitter{background-image: url(/images/index/twitter-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; width: 100%; position: relative; padding-left: 30px; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_twitter_mobile{display:inline-block; width: 100px; background-image: url(/images/index/twitter-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 6px;}.footer_pinterest{background-image: url(/images/index/pinterest-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; width: 100%; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_pinterest_mobile{display: inline-block; width: 100px; background-image: url(/images/index/pinterest-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 6px;}.footer_linkedin{background-image: url(/images/index/linkedin-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; width: 100%; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_linkedin_mobile{display: inline-block; width: 100px; background-image: url(/images/index/linkedin-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 6px;}.footer_youtube{background-image: url(/images/index/youtube-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; width: 100%; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_youtube_mobile{display: inline-block; width: 100px; background-image: url(/images/index/youtube-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 6px;}.footer_rss{background-image: url(/images/index/rss-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; width: 100%; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_rss_mobile{display: inline-block; width: 100px; background-image: url(/images/index/rss-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 6px;}.footer_appstore{background-image: url(/images/index/appstore-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; width: 100%; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_appstore_mobile{display: inline-block; width: 100px; background-image: url(/images/index/appstore-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_macappstore{background-image: url(/images/index/macappstore-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; width: 100%; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_macappstore_mobile{display: inline-block; width: 160px; background-image: url(/images/index/macappstore-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_newsletter{background-image: url(/images/index/newsletter-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; width: 100%; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;}.footer_newsletter_mobile{display: inline-block; width: 160px; background-image: url(/images/index/newsletter-icon-64x64.svg); background-position: left; background-size: contain; background-repeat: no-repeat; position: relative; padding-left: 30px; height: 24px;font-size: 14px; line-height: 24px; color: #333; text-align: left; margin-bottom: 4px;} @media only screen and (min-width : 0px) { .footer_container { padding-left: 10px; padding-right: 10px; } .footer_table_mobile {display: inline-table; } .footer_table {display: none; } } @media only screen and (min-width : 480px) { .footer_container { padding-left: 20px; padding-right: 20px; } } @media only screen and (min-width : 768px) { .footer_container { padding-left: 32px; padding-right: 32px; } .footer_table_mobile {display: none; } .footer_table {display: inline-table; }} @media only screen and (min-width: 1260px){ .footer_container { padding-left: 40px; padding-right: 40px; } } @media (prefers-color-scheme: dark) {
+	.footer_container {background-color: #000; color: #fff;} .footer_table a {color: #eee;} .footer_table_mobile a {color: #eee;} .footer_table_section_description {color: #eee;} .footer_table_section_description_mobile {color: #eee;} .footer_legal_logo{ background-image: url(/images/index/iclarified-logo-white-640x150.svg);} }
+</style>
+
+</head>
+<body>
+	
+<header class="header"> <div class="header_date">'.date("F j, Y").'</div> <a href="https://www.facebook.com/iclarified" title="Follow iClarified on Facebook"> <div id="header_facebook_icon" class="header_facebook_icon_off" title="Follow iClarified on Facebook"></div> </a> <a href="https://www.twitter.com/iclarified" title="Follow iClarified on Twitter"> <div id="header_twitter_icon" class="header_twitter_icon_off" title="Follow iClarified on Twitter"></div> </a> <a href="/search" title="Search iClarified"> <div id="header_search_icon" class="header_search_icon_off" title="Search iClarified"></div> </a> 
+<a href="/login.php" title="Login"> <div id="header_account_icon" class="header_account_icon_off" title="Login"></div> </a>
+</header>
+
+<nav id="menu" class="menu"><div id="menu_logo_box" class="menu_logo_box"><a href="/" title="iClarified - Apple News and Tutorials"><picture>
+	<source srcset="/images/index/iclarified-logo-white-640x150.svg" media="(prefers-color-scheme: dark)">
+	<img id="menu_logo" src="/images/index/iclarified-logo-640x150.svg" alt="iClarified - Apple News and Tutorials" title="iClarified - Apple News and Tutorials"></picture></a></div><!--menu_logo_box-->
+	<input id="menu_search_field" placeholder="Search" onkeyup="livesearch(event);">
+	<div class="menu_items"> 
+		<div class="menu_item"><a href="/news" title="Apple News">NEWS</a></div> <div class="menu_item"><a href="/tutorials" title="Apple Tutorials">TUTORIALS</a></div> <div class="menu_item"><a href="/wizards" title="Apple Wizards">WIZARDS</a></div> <div class="menu_item"><a href="/answers" title="Apple Answers">ANSWERS</a></div> <div class="menu_item"><a href="/shop" title="Shop Apple">SHOP</a></div> </div> <div class="menu_search_icon_box"><img id="menu_search_icon" src="/images/index/search-icon-blue-80x80.svg" alt="Search iClarified" title="Search iClarified" onclick="search_button(this);">
+		</div><!--menu_search_icon_box-->
+</nav>
+	
+<style>
+.section_container{position:relative;width:100%;height:173px;background-color:#c00;overflow:hidden;padding-top:25px;padding-bottom:10px; text-align: center; color: #ccc;}
+.section_h1{margin: 0; padding: 0; position: relative; font-size: 42px; line-height: 46px; font-weight: normal; text-align:center; padding-left: 15%; padding-right: 15%; color: #fff;}
+@media only screen and (min-width : 0px) { .section_h1 { font-size: 32px; line-height: 36px; padding-left: 5%; padding-right:5%;}} 
+@media only screen and (min-width : 480px) { .section_h1 { padding-left: 10%; padding-right:10%;} } 
+@media only screen and (min-width : 768px) { .section_h1 { font-size: 42px; line-height: 46px; padding-left: 15%; padding-right:15%;} }
+@media only screen and (min-width: 1260px){ .section_h1 { padding-left: 40px; padding-right: 40px; } } 
+</style>
+
+<section id="section_container" class="section_container"><h1 class="section_h1">404. Page Not Found</h1><BR>Sorry, we could not find the page you were looking for!<!--section_h1-->
+</section><!--section_container-->
+
+<div class="ad_break_container">
+		<div class="adthrive-placeholder-below-post" style="min-height:250px;"></div>
+</div><!--ad_break_container-->
+
+<footer class="footer_container"><div class="footer_table"> <div class="footer_table_row"><div class="footer_table_cell"> <div class="footer_table_section"> <div class="footer_table_section_title">Follow iClarified</div><div class="footer_facebook"><a href="https://www.facebook.com/iClarified" target="_blank" title="Follow iClarified on Facebook">Facebook</a></div><div class="footer_twitter"><a href="https://www.twitter.com/iClarified" target="_blank" title="Follow iClarified on Twitter">Twitter</a></div><div class="footer_pinterest"><a href="https://www.pinterest.com/iClarified" target="_blank" title="Follow iClarified on Pinterest">Pinterest</a></div><div class="footer_linkedin"><a href="https://www.linkedin.com/company/iclarified" target="_blank" title="Follow iClarified on LinkedIn">LinkedIn</a></div><div class="footer_youtube"><a href="https://www.youtube.com/iClarified" target="_blank" title="Follow iClarified on YouTube">YouTube</a></div><div class="footer_rss"><a href="https://www.iclarified.com/rss/rss.xml" target="_blank" title="Follow iClarified on RSS">RSS</a></div></div></div><div class="footer_table_cell"> <div class="footer_table_section"> <div class="footer_table_section_title">Download iClarified</div><div class="footer_table_section_description">Get the iClarified app for iPhone, iPad, iPod touch, Mac OS X, and Apple Watch!</div><div class="footer_appstore"><a href="https://itunes.apple.com/us/app/iclarified/id388040325?mt=8" target="_blank" title="Download iClarified for iOS">App Store</a></div><div class="footer_macappstore"><a href="https://itunes.apple.com/us/app/iclarified/id491200486?mt=12" target="_blank" title="Download iClarified for OS X">Mac App Store</a></div></div></div><div class="footer_table_cell"> <div class="footer_table_section"> <div class="footer_table_section_title">Subscribe to iClarified</div><div class="footer_table_section_description">Get the iClarified newsletter right to your email!</div><div class="footer_newsletter"><a href="https://www.iclarified.com/newsletter" target="_blank" title="Get the iClarified Newsletter">Subscribe Now</a></div></div></div><div id="footer_explore" class="footer_table_cell"> <div class="footer_table_section"> <div class="footer_table_section_title">Explore iClarified</div><div class="footer_table_section_links"> <a href="/finder" title="Finder">Finder</a><BR> <a href="/news" title="Apple News">News</a><BR> <a href="/tutorials" title="Apple Tutorials">Tutorials</a><BR> <a href="/answers" title="Answers">Answers</a><BR> <a href="/wizards" title="iPhone Jailbreak and Unlock Wizards">Wizards</a><BR> <a href="/shop" title="Shop Apple">Shop</a><BR> <a href="/search" title="Search iClarified">Search</a><BR> <a href="/calendar" title="Calendar">Calendar</a> </div></div></div><div id="footer_contact" class="footer_table_cell"> <div class="footer_table_section"> <div class="footer_table_section_title">Contact iClarified</div><div class="footer_table_section_links"> <a href="/advertising" title="Advertise on iClarified">Advertise on iClarified</a><BR> <a href="/tips" title="Send Us a Tip">Send Us a Tip</a><BR> <a href="/contactus" title="Contact iClarified">Contact Us</a> </div></div></div></div></div><div class="footer_table_mobile"> <div class="footer_table_row"><div class="footer_table_cell_mobile"> <div class="footer_table_section_title">Follow iClarified</div><div class="footer_facebook_mobile"><a href="https://www.facebook.com/iClarified" target="_blank" title="Follow iClarified on Facebook">Facebook</a></div><div class="footer_twitter_mobile"><a href="https://www.twitter.com/iClarified" target="_blank" title="Follow iClarified on Twitter">Twitter</a></div><div class="footer_pinterest_mobile"><a href="https://www.pinterest.com/iClarified" target="_blank" title="Follow iClarified on Pinterest">Pinterest</a></div><div class="footer_linkedin_mobile"><a href="https://www.linkedin.com/company/iclarified" target="_blank" title="Follow iClarified on LinkedIn">LinkedIn</a></div><div class="footer_youtube_mobile"><a href="https://www.youtube.com/iClarified" target="_blank" title="Follow iClarified on YouTube">YouTube</a></div><div class="footer_rss_mobile"><a href="https://www.iclarified.com/rss/rss.xml" target="_blank" title="Follow iClarified on RSS">RSS</a></div></div></div><div class="footer_table_row"> <div class="footer_table_cell_mobile"> <div class="footer_table_section_title">Download iClarified</div><div class="footer_table_section_description_mobile">Get the iClarified app for iPhone, iPad, iPod touch, Mac OS X, and Apple Watch!</div><div class="footer_appstore_mobile"><a href="https://itunes.apple.com/us/app/iclarified/id388040325?mt=8" target="_blank" title="Download iClarified for iOS">App Store</a></div><div class="footer_macappstore_mobile"><a href="https://itunes.apple.com/us/app/iclarified/id491200486?mt=12" target="_blank" title="Download iClarified for OS X">Mac App Store</a></div></div></div><div class="footer_table_row"> <div class="footer_table_cell_mobile"> <div class="footer_table_section_title">Subscribe to iClarified</div><div class="footer_table_section_description_mobile">Get the iClarified newsletter right to your email!</div><div class="footer_newsletter_mobile"><a href="https://www.iclarified.com/newsletter" target="_blank" title="Get the iClarified Newsletter">Subscribe Now</a></div></div></div><div class="footer_table_row"> <div class="footer_table_cell_mobile"> <div class="footer_table_section_title">Explore iClarified</div><div class="footer_table_section_links_mobile"> <a href="/finder" title="Finder">Finder</a>, <a href="/news" title="Apple News">News</a>, <a href="/tutorials" title="Apple Tutorials">Tutorials</a>, <a href="/answers" title="Answers">Answers</a>, <a href="/wizards" title="iPhone Jailbreak and Unlock Wizards">Wizards</a>, <a href="/shop" title="Shop Apple">Shop</a>, <a href="/search" title="Search iClarified">Search</a>, <a href="/calendar" title="Calendar">Calendar</a> </div></div></div><div class="footer_table_row"> <div class="footer_table_cell_mobile"> <div class="footer_table_section_title">Contact iClarified</div><div class="footer_table_section_links_mobile"> <a href="/advertising" title="Advertise on iClarified">Advertise on iClarified</a>, <a href="/tips" title="Send Us a Tip">Send Us a Tip</a>, <a href="/contactus" title="Contact iClarified">Contact Us</a> </div></div></div></div><div class="footer_legal"> <div class="footer_legal_logo"></div><div class="footer_legal_links"> Copyright © iClarified. All rights reserved. <a href="https://www.iclarified.com/about/privacy.php" title="iClarified Privacy Policy">Privacy</a>. </div><div class="clear"></div></div><div class="footer_spacer"></div></footer>
+
+<div class="adthrive-placeholder-footer" style="min-height:90px;"></div>
+</body></html>
