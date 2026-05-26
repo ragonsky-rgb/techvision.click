@@ -542,6 +542,22 @@ body.dark .art-spec-box { background: rgba(240,237,232,0.04); }
   .art-spec-box th, .art-spec-box td { padding: 0.4rem 0.5rem; }
 }
 
+/* ── Art Stats grid ── */
+.art-stats {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 2rem 0;
+}
+@media (max-width: 540px) { .art-stats { grid-template-columns: repeat(2, 1fr); } }
+.art-stat-card {
+  background: var(--surface, #f7f7f7); border: 1px solid var(--line, #e8e8e8);
+  border-radius: 10px; padding: 1rem .9rem; text-align: center;
+}
+.art-stat-card .stat-num {
+  font-size: 1.4rem; font-weight: 700; color: var(--accent); font-family: var(--sans); line-height: 1.1;
+}
+.art-stat-card .stat-label {
+  font-size: .72rem; color: var(--dim); margin-top: .25rem; font-family: var(--sans);
+}
+
 /* ── FAQ section ── */
 .art-faq {
   margin: 2.8rem 0 0.5rem;
