@@ -87,6 +87,29 @@
           showToast('Đã copy link!');
         });
         return;
+      } else if (type === 'ai') {
+        const h1 = document.querySelector('h1.art-title');
+        const titleText = h1 ? h1.innerText.trim() : document.title;
+        const rawUrl = window.location.href;
+        const skipSels = ['.art-author-card','.share-section','.related-section','.comments-section','.art-breadcrumb','.art-meta','.art-stats','.compare-strip','.rival-grid','.art-faq'];
+        const lines = [`# ${titleText}`, `URL: ${rawUrl}`, '---', ''];
+        document.querySelectorAll('article h2, article h3, article p, article li').forEach(el => {
+          for (const sel of skipSels) { if (el.closest(sel)) return; }
+          const tag = el.tagName.toLowerCase();
+          const text = el.innerText.trim();
+          if (!text || text.length < 5) return;
+          if (tag === 'h2') lines.push('', `## ${text}`);
+          else if (tag === 'h3') lines.push(`### ${text}`);
+          else if (tag === 'li') lines.push(`- ${text}`);
+          else lines.push(text);
+        });
+        navigator.clipboard.writeText(lines.join('\n')).then(() => {
+          const origHtml = btn.innerHTML;
+          btn.textContent = '✓ Copied!';
+          showToast('Đã copy bài viết cho AI!');
+          setTimeout(() => { btn.innerHTML = origHtml; }, 2000);
+        });
+        return;
       }
       if (shareUrl) window.open(shareUrl, '_blank', 'width=600,height=500');
     });
