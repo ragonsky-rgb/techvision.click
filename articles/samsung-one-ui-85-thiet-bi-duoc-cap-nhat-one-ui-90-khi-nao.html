@@ -123,11 +123,12 @@
   <style>
     .update-table { border: 1px solid var(--line, #e8e8e8); border-radius: 10px; overflow: hidden; margin: 1.5rem 0; font-family: var(--sans); }
     .update-table-title { background: var(--surface, #f7f7f7); padding: .7rem 1.2rem; font-weight: 700; font-size: .82rem; border-bottom: 1px solid var(--line, #e8e8e8); display: flex; align-items: center; gap: .5rem; }
-    .update-table table { width: 100%; border-collapse: collapse; font-size: .82rem; }
-    .update-table th { background: var(--surface, #f7f7f7); padding: .5rem 1rem; text-align: left; font-weight: 600; color: var(--dim); border-bottom: 1px solid var(--line, #e8e8e8); font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; }
+    .update-table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .update-table table { width: 100%; border-collapse: collapse; font-size: .82rem; min-width: 360px; }
+    .update-table th { background: var(--surface, #f7f7f7); padding: .5rem 1rem; text-align: left; font-weight: 600; color: var(--dim); border-bottom: 1px solid var(--line, #e8e8e8); font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; white-space: nowrap; }
     .update-table td { padding: .5rem 1rem; border-bottom: 1px solid var(--line, #e8e8e8); vertical-align: top; line-height: 1.55; }
     .update-table tr:last-child td { border-bottom: none; }
-    .update-table td:first-child { font-weight: 600; white-space: nowrap; }
+    .update-table td:first-child { font-weight: 600; word-break: break-word; }
     .badge-yes { display: inline-block; background: #e8f5e9; color: #2e7d32; font-size: .68rem; padding: .1rem .45rem; border-radius: 4px; font-weight: 700; }
     .badge-no { display: inline-block; background: #fce4e4; color: #c62828; font-size: .68rem; padding: .1rem .45rem; border-radius: 4px; font-weight: 700; }
     .badge-soon { display: inline-block; background: #fff8e1; color: #e65100; font-size: .68rem; padding: .1rem .45rem; border-radius: 4px; font-weight: 700; }
@@ -309,6 +310,7 @@
 
       <div class="update-table">
         <div class="update-table-title">🟢 Galaxy S Series — One UI 8.5</div>
+        <div class="update-table-scroll">
         <table>
           <tr><th>Dòng máy</th><th>Trạng thái</th><th>Ghi chú</th></tr>
           <tr><td>Galaxy S25, S25+, S25 Ultra, S25 Edge</td><td><span class="badge-yes">Có</span></td><td>Ra mắt kèm One UI 8.5</td></tr>
@@ -319,10 +321,12 @@
           <tr><td>Galaxy S21 FE</td><td><span class="badge-yes">Có</span></td><td>Ngoại lệ duy nhất dòng S21</td></tr>
           <tr><td>Galaxy S21, S21+, S21 Ultra</td><td><span class="badge-no">Không</span></td><td>Hết vòng đời cập nhật OS</td></tr>
         </table>
+        </div>
       </div>
 
       <div class="update-table">
         <div class="update-table-title">🟢 Galaxy Z Series (Foldable) — One UI 8.5</div>
+        <div class="update-table-scroll">
         <table>
           <tr><th>Dòng máy</th><th>Trạng thái</th></tr>
           <tr><td>Galaxy Z Fold 7, Z Flip 7, Z Flip 7 FE</td><td><span class="badge-yes">Có</span></td></tr>
@@ -332,10 +336,12 @@
           <tr><td>Galaxy Z Fold 4, Z Flip 4</td><td><span class="badge-yes">Có</span></td></tr>
           <tr><td>Galaxy Z Fold 3, Z Flip 3 và cũ hơn</td><td><span class="badge-no">Không</span></td></tr>
         </table>
+        </div>
       </div>
 
       <div class="update-table">
         <div class="update-table-title">🟢 Galaxy A / M / F Series — One UI 8.5</div>
+        <div class="update-table-scroll">
         <table>
           <tr><th>Dòng máy</th><th>Trạng thái</th><th>Ghi chú</th></tr>
           <tr><td>Galaxy A56, A36, A26, A16</td><td><span class="badge-yes">Có</span></td><td>Thế hệ mới nhất</td></tr>
@@ -344,6 +350,7 @@
           <tr><td>Galaxy A53, A33 và cũ hơn (trước 2023)</td><td><span class="badge-no">Không</span></td><td>Đã kết thúc hỗ trợ</td></tr>
           <tr><td>Galaxy M và F Series tương đương</td><td><span class="badge-yes">Có</span></td><td>Các máy M55/M35/M15 và F55/F35</td></tr>
         </table>
+        </div>
       </div>
 
       <img class="art-hero"
