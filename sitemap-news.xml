@@ -484,4 +484,17 @@
     </news:news>
   </url>
 
+  <url>
+    <loc>https://techvision.click/articles/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>TechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T10:00:00+07:00</news:publication_date>
+      <news:title>OpenAI Phone 2027: Không app, AI agent thay mọi thứ — Đối thủ iPhone?</news:title>
+      <news:keywords>OpenAI phone 2027, điện thoại AI OpenAI, ChatGPT phone, AI agent phone, Jony Ive OpenAI, MediaTek Dimensity 9600, điện thoại không có app, io OpenAI device</news:keywords>
+    </news:news>
+  </url>
+
 </urlset>
