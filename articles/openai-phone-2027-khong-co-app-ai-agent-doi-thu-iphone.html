@@ -44,6 +44,14 @@
     .timeline-list li:last-child { border-bottom:none; }
     .timeline-date { font-size:0.75rem; font-weight:700; color:var(--accent); min-width:80px; padding-top:0.1rem; font-family:var(--sans); }
     .timeline-text { font-size:0.92rem; color:var(--muted); line-height:1.6; }
+    /* YouTube embed */
+    .yt-embed-wrap { position:relative; padding-bottom:56.25%; height:0; overflow:hidden; margin:2rem 0; border-radius:10px; box-shadow:0 4px 20px rgba(0,0,0,0.12); }
+    .yt-embed-wrap iframe { position:absolute; top:0; left:0; width:100%; height:100%; border:0; border-radius:10px; }
+    .yt-embed-label { font-size:0.72rem; color:var(--dim); text-align:center; margin-top:-1.2rem; margin-bottom:1.5rem; font-style:italic; }
+    /* Figure + caption */
+    .art-figure { margin:2rem 0; }
+    .art-figure img { width:100%; border-radius:8px; display:block; }
+    .art-figcaption { font-size:0.78rem; color:var(--dim); margin-top:0.5rem; text-align:center; font-style:italic; line-height:1.5; }
   </style>
 
   <!-- GEO targeting -->
@@ -61,10 +69,10 @@
   <meta property="og:url" content="https://techvision.click/articles/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone.html">
   <meta property="og:title" content="OpenAI Phone 2027: Không app, AI agent làm mọi thứ — Đối thủ iPhone?">
   <meta property="og:description" content="OpenAI fast-track điện thoại AI 2027: chip MediaTek Dimensity 9600 N2P, dual-NPU, không có app store, AI agents thay thế hoàn toàn. Jony Ive thiết kế. Người Việt mua được không?">
-  <meta property="og:image" content="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?w=1200">
+  <meta property="og:image" content="https://techvision.click/images/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone/sam-altman-jony-ive-emerson.jpg">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="OpenAI Phone 2027: Không app, AI agent thay mọi thứ">
-  <meta name="twitter:image" content="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?w=1200">
+  <meta name="twitter:image" content="https://techvision.click/images/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone/sam-altman-jony-ive-emerson.jpg">
 
   <script type="application/ld+json">
   {
@@ -73,7 +81,7 @@
     "mainEntityOfPage": { "@type": "WebPage", "@id": "https://techvision.click/articles/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone.html" },
     "headline": "OpenAI Phone 2027: Chiếc điện thoại không có app — AI agent làm mọi thứ thay người dùng",
     "description": "OpenAI đang phát triển điện thoại AI 2027 với chip MediaTek Dimensity 9600 N2P, không có app store, AI agents thay thế hoàn toàn. Jony Ive thiết kế, Luxshare sản xuất độc quyền.",
-    "image": { "@type": "ImageObject", "url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?w=1200", "width": 1200, "height": 800 },
+    "image": { "@type": "ImageObject", "url": "https://techvision.click/images/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone/sam-altman-jony-ive-emerson.jpg", "width": 1280, "height": 720 },
     "datePublished": "2026-05-27T10:00:00+07:00",
     "dateModified": "2026-05-27T10:00:00+07:00",
     "author": { "@type": "Person", "name": "Nguyễn Tấn Thiên Long", "url": "https://techvision.click/" },
@@ -192,9 +200,10 @@
 
   <p class="art-deck">Không có App Store. Không có icon ứng dụng. Không có màn hình home quen thuộc. OpenAI đang fast-track một chiếc điện thoại hoàn toàn mới — nơi AI agent thay thế mọi app từng tồn tại.</p>
 
-  <img src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?w=1200"
-       alt="OpenAI Phone 2027 - điện thoại AI không có app truyền thống"
-       class="art-hero-img" loading="eager" width="1200" height="675">
+  <img src="/images/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone/openai-device-hero.jpg"
+       alt="OpenAI Phone 2027 - chiếc điện thoại AI không có app truyền thống, Sam Altman và Jony Ive"
+       class="art-hero-img" loading="eager" width="1280" height="720"
+       onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/_E0ITsOgJDk/maxresdefault.jpg';">
 
   <div class="art-tldr">
     <h2>TLDR — 4 điểm cần biết</h2>
@@ -254,9 +263,24 @@
 
     <p>Chỉ một tháng sau, Kuo cập nhật: dự án đã được <strong>fast-track</strong>. Thay vì timeline 2028 ban đầu, OpenAI đang nhắm tới sản xuất đại trà trong H1 2027 — thúc đẩy bởi hai lý do: chuẩn bị narrative cho kế hoạch IPO và áp lực cạnh tranh ngày càng gay gắt trong phân khúc AI agent phone.</p>
 
-    <img src="https://images.macrumors.com/article-new/2025/12/openai-logo-orange.jpg"
-         alt="OpenAI - công ty đứng sau ChatGPT đang phát triển điện thoại AI đầu tiên"
-         loading="lazy" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+    <figure class="art-figure">
+      <img src="/images/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone/sam-altman-jony-ive-emerson.jpg"
+           alt="Sam Altman và Jony Ive tại Emerson Collective Demo Day 2025 — cuộc trò chuyện về thiết bị AI đầu tiên của OpenAI"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/bkCe6gpNutU/maxresdefault.jpg';">
+      <figcaption class="art-figcaption">Sam Altman (CEO OpenAI) và Jony Ive tại Emerson Collective Demo Day 2025 — lần đầu tiên hai người xác nhận công khai đã có prototype. Ảnh: Emerson Collective / YouTube</figcaption>
+    </figure>
+
+    <!-- VIDEO: Phỏng vấn chính thức Sam Altman + Jony Ive tại Emerson Collective -->
+    <div class="yt-embed-wrap">
+      <iframe
+        src="https://www.youtube.com/embed/bkCe6gpNutU"
+        title="In conversation: Sam Altman và Jony Ive về thiết bị AI đầu tiên của OpenAI — Emerson Collective Demo Day 2025"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen loading="lazy">
+      </iframe>
+    </div>
+    <p class="yt-embed-label">▶ Phỏng vấn chính thức: Sam Altman & Jony Ive nói về dự án phần cứng AI — Emerson Collective Demo Day 2025</p>
 
     <p>Đây không chỉ là một chiếc Android khác với ChatGPT tích hợp. Kuo mô tả thiết bị này sẽ dùng <strong>hệ điều hành tùy chỉnh riêng</strong> — được thiết kế lại từ đầu cho UX dựa trên AI agent, thay vì dán thêm AI lên một OS điện thoại cũ.</p>
 
@@ -325,6 +349,17 @@
 
     <p>Theo Kuo, thiết bị này sẽ được thiết kế để <strong>liên tục hiểu context của người dùng</strong> — vị trí, hoạt động, lịch sử giao tiếp, thói quen. Đây chính xác là lý do OpenAI muốn làm <em>phone</em> thay vì chỉ làm app: để có quyền truy cập sâu hơn vào dữ liệu mà không app nào trên iOS hay Android có được.</p>
 
+    <!-- VIDEO: Phân tích AI Phone thay thế app -->
+    <div class="yt-embed-wrap">
+      <iframe
+        src="https://www.youtube.com/embed/DU25TeipfCM"
+        title="The Screenless OpenAI Device That Could Replace Your Phone — Sam Altman AI device analysis"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen loading="lazy">
+      </iframe>
+    </div>
+    <p class="yt-embed-label">▶ Phân tích: Thiết bị screenless của OpenAI có thể thay thế smartphone không?</p>
+
     <h2>Jony Ive và ngôn ngữ thiết kế Apple trong một thiết bị không phải Apple</h2>
 
     <p>Năm 2025, OpenAI mua lại <strong>io</strong> — startup phần cứng của Jony Ive, cựu Chief Design Officer Apple — với giá <strong>6,5 tỷ USD</strong>. Đây là một trong những thương vụ M&A lớn nhất trong lịch sử ngành thiết kế phần cứng.</p>
@@ -332,6 +367,25 @@
     <p>Jony Ive là người đứng sau thiết kế của MacBook Air siêu mỏng đầu tiên, iPhone, iPad, Apple Watch và AirPods. Ngôn ngữ thiết kế của ông — tối giản, vật liệu cao cấp, cảm giác cầm tay hoàn hảo — đã định hình cả một thập kỷ phần cứng tiêu dùng.</p>
 
     <p>Thiết bị đầu tiên của io cho OpenAI được báo cáo là một <strong>smart speaker có camera</strong> (dự kiến đầu 2027). Phone là sản phẩm song song, được phát triển bởi team phần cứng riêng của OpenAI. Nhưng ảnh hưởng về thiết kế từ io sẽ thẩm thấu vào toàn bộ dòng sản phẩm.</p>
+
+    <figure class="art-figure">
+      <img src="/images/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone/openai-kills-iphone.jpg"
+           alt="OpenAI AI Phone — đối thủ thực sự mà Apple cần lo ngại trong năm 2027"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/4owjkxAGHTg/maxresdefault.jpg';">
+      <figcaption class="art-figcaption">OpenAI đang xây dựng chiếc điện thoại mà Apple cần thực sự lo ngại — không phải về specs, mà về paradigm UX hoàn toàn khác biệt. Ảnh: YouTube / Tech Analysis</figcaption>
+    </figure>
+
+    <!-- VIDEO: OpenAI Phone - Đối thủ của Apple -->
+    <div class="yt-embed-wrap">
+      <iframe
+        src="https://www.youtube.com/embed/4owjkxAGHTg"
+        title="OpenAI Is Building The AI Phone Apple Should Fear"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen loading="lazy">
+      </iframe>
+    </div>
+    <p class="yt-embed-label">▶ Tại sao OpenAI Phone là mối đe dọa thực sự nhất Apple từng đối mặt kể từ Android</p>
 
     <h2>Timeline: Khi nào có thể cầm trên tay?</h2>
 
