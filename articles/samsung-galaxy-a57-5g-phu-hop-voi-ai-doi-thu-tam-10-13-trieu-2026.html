@@ -545,7 +545,19 @@
   </article>
 
   <div id="site-footer-placeholder"></div>
-  <script src="/articles/_article.js"></script>
+    <button class="dark-toggle" id="darkToggle" aria-label="Toggle dark mode">🌙</button>
+  <button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+  <button class="bookmark-btn" id="bookmarkBtn" aria-label="Lưu bài này">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+    </svg>
+  </button>
+  <div class="bookmarks-panel" id="bookmarksPanel" role="dialog" aria-label="Bài đã lưu">
+    <div class="bookmarks-title">📑 Bài đã lưu</div>
+    <div id="bookmarksList"></div>
+  </div>
+
+<script src="/articles/_article.js"></script>
 
   <!-- TTS Floating Player -->
   <div class="tts-player" id="ttsPlayer" role="region" aria-label="Trình đọc bài viết">
