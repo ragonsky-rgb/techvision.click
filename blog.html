@@ -346,6 +346,9 @@
       opacity: 0.7;
     }
     .dark-toggle:hover { opacity: 1; }
+    @media (max-width: 640px) {
+      .dark-toggle { bottom: 1.6rem; left: 1rem; width: 2.75rem; height: 2.75rem; }
+    }
 
     /* ── Reading progress bar ── */
     .read-progress {
@@ -392,7 +395,18 @@
     .bookmark-item:last-child { border-bottom: none; }
     .bookmark-item:hover { color: var(--accent); }
     .bookmarks-empty { font-size: 0.82rem; color: var(--dim); font-style: italic; padding: 1rem 0; }
-    @media (max-width: 640px) { .bookmarks-btn-list { bottom: 1.5rem; right: 4.4rem; } }
+    @media (max-width: 640px) {
+      .bookmarks-btn-list {
+        bottom: 1.6rem;
+        right: calc(1rem + 2.75rem + 0.55rem);
+        width: 2.75rem; height: 2.75rem;
+      }
+      .bookmarks-panel {
+        right: 1rem;
+        width: calc(100vw - 2rem);
+        bottom: calc(1.6rem + 2.75rem + 0.5rem);
+      }
+    }
 
     /* ── Back-to-top ── */
     .back-to-top {
@@ -407,6 +421,9 @@
     }
     .back-to-top.show { opacity: 0.75; pointer-events: auto; transform: translateY(0); }
     .back-to-top:hover { opacity: 1; background: var(--accent); color: #fff; border-color: var(--accent); }
+    @media (max-width: 640px) {
+      .back-to-top { bottom: 1.6rem; right: 1rem; width: 2.75rem; height: 2.75rem; }
+    }
 
     /* ── Footer ── */
     footer {
