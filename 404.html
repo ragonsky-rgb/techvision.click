@@ -3,108 +3,351 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>404 — Không tìm thấy trang · LongTechVision</title>
+  <title>404 — Trang không tồn tại · LongTechVision</title>
   <meta name="theme-color" content="#c0392b">
   <meta name="robots" content="noindex">
   <link rel="icon" type="image/jpeg" href="/uploads/favicon-avatar.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Be+Vietnam+Pro:wght@300;400;500;600&display=swap" rel="stylesheet">
   <style>
-    *,*::before,*::after { box-sizing: border-box; margin: 0; padding: 0; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
     :root {
-      --bg:#f5f2ed; --text:#1c1a17; --accent:#c0392b;
-      --muted:rgba(28,26,23,0.82); --dim:rgba(28,26,23,0.58); --line:rgba(28,26,23,0.10);
-      --serif:'Playfair Display',Georgia,serif; --sans:'DM Sans',Helvetica,sans-serif;
+      --bg:      #f5f2ed;
+      --text:    #1c1a17;
+      --accent:  #c0392b;
+      --muted:   rgba(28,26,23,0.72);
+      --dim:     rgba(28,26,23,0.45);
+      --line:    rgba(28,26,23,0.10);
+      --serif:   'Lora', Georgia, serif;
+      --sans:    'Be Vietnam Pro', -apple-system, sans-serif;
     }
-    body.dark { --bg:#111010; --text:#f0ede8; --muted:rgba(240,237,232,0.88); --dim:rgba(240,237,232,0.62); --line:rgba(240,237,232,0.10); }
+    body.dark {
+      --bg:    #111010;
+      --text:  #f0ede8;
+      --muted: rgba(240,237,232,0.80);
+      --dim:   rgba(240,237,232,0.50);
+      --line:  rgba(240,237,232,0.10);
+    }
+
+    html { scroll-behavior: smooth; }
+
     body {
-      background: var(--bg); color: var(--text);
-      font-family: var(--sans); line-height: 1.7;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
       min-height: 100vh;
-      display: flex; flex-direction: column; align-items: center; justify-content: center;
-      padding: 2rem; text-align: center;
+      display: flex;
+      flex-direction: column;
       transition: background .3s, color .3s;
+      overflow-x: hidden;
     }
-    .e404 {
-      font-family: var(--serif); font-size: clamp(8rem, 22vw, 16rem);
-      font-weight: 400; line-height: 1; color: var(--accent);
-      letter-spacing: -0.04em;
-      margin-bottom: 0.5rem;
+
+    /* ── Top bar ── */
+    .top-bar {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 200;
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 1.2rem 2.5rem;
+      border-bottom: 1px solid var(--line);
+      background: rgba(245,242,237,0.92);
+      backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+      transition: background .3s;
     }
-    .e-eyebrow {
-      font-size: 0.65rem; letter-spacing: 0.22em; text-transform: uppercase;
-      color: var(--dim); margin-bottom: 1rem;
+    body.dark .top-bar { background: rgba(17,16,16,0.92); }
+    .top-logo {
+      font-family: var(--serif); font-size: 0.88rem; font-weight: 700;
+      color: var(--text); text-decoration: none; letter-spacing: 0.02em;
     }
-    .e-title {
-      font-family: var(--serif); font-size: clamp(1.6rem, 4vw, 2.5rem);
-      font-weight: 400; line-height: 1.2; margin-bottom: 1.2rem;
-      max-width: 560px;
+    .top-logo span { color: var(--accent); }
+    .top-nav { display: flex; gap: 1.6rem; align-items: center; }
+    .top-nav a {
+      font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase;
+      color: var(--dim); text-decoration: none; transition: color .2s;
     }
-    .e-title em { font-style: italic; }
-    .e-desc {
-      max-width: 480px; color: var(--muted); margin-bottom: 2.5rem;
-      font-size: 0.97rem;
+    .top-nav a:hover { color: var(--accent); }
+
+    /* ── Main content ── */
+    .main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 8rem 2rem 4rem;
+      text-align: center;
+      position: relative;
     }
-    .e-actions { display: flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center; }
-    .e-btn {
+
+    /* ── 404 watermark ── */
+    .ghost-num {
+      position: absolute;
+      top: 50%; left: 50%;
+      transform: translate(-50%, -58%);
+      font-family: var(--serif);
+      font-size: clamp(16rem, 40vw, 28rem);
+      font-weight: 700;
+      line-height: 1;
+      color: transparent;
+      -webkit-text-stroke: 1.5px var(--line);
+      letter-spacing: -0.06em;
+      user-select: none;
+      pointer-events: none;
+      animation: ghost-drift 8s ease-in-out infinite;
+    }
+    @keyframes ghost-drift {
+      0%, 100% { transform: translate(-50%, -58%); }
+      50%       { transform: translate(-50%, -60%); }
+    }
+
+    /* ── Icon ── */
+    .err-icon {
+      width: 64px; height: 64px;
+      margin-bottom: 1.5rem;
+      position: relative; z-index: 1;
+      animation: icon-float 4s ease-in-out infinite;
+    }
+    @keyframes icon-float {
+      0%, 100% { transform: translateY(0); }
+      50%       { transform: translateY(-8px); }
+    }
+    .err-icon svg { width: 100%; height: 100%; }
+
+    /* ── Text ── */
+    .err-eyebrow {
+      font-size: 0.6rem; letter-spacing: 0.28em; text-transform: uppercase;
+      color: var(--accent); font-weight: 600;
+      margin-bottom: 1rem;
+      position: relative; z-index: 1;
+    }
+    .err-title {
+      font-family: var(--serif);
+      font-size: clamp(1.8rem, 5vw, 2.8rem);
+      font-weight: 400; line-height: 1.2;
+      max-width: 520px; margin-bottom: 1.2rem;
+      position: relative; z-index: 1;
+    }
+    .err-title em { font-style: italic; color: var(--accent); }
+    .err-desc {
+      max-width: 420px; color: var(--muted);
+      font-size: 0.92rem; line-height: 1.75;
+      margin-bottom: 2.5rem;
+      position: relative; z-index: 1;
+    }
+
+    /* ── Buttons ── */
+    .err-actions {
+      display: flex; gap: 0.7rem; flex-wrap: wrap; justify-content: center;
+      margin-bottom: 4rem;
+      position: relative; z-index: 1;
+    }
+    .err-btn {
       display: inline-flex; align-items: center; gap: 0.4rem;
-      padding: 0.85rem 1.4rem;
-      font-family: var(--sans); font-size: 0.75rem;
-      letter-spacing: 0.12em; text-transform: uppercase; font-weight: 500;
+      padding: 0.8rem 1.5rem;
+      font-family: var(--sans); font-size: 0.72rem;
+      letter-spacing: 0.1em; text-transform: uppercase; font-weight: 500;
       text-decoration: none; border-radius: 4px;
-      transition: all .2s; border: 1px solid var(--line);
+      transition: all .2s; border: 1px solid transparent;
     }
-    .e-btn.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
-    .e-btn.primary:hover { background: #a32f23; border-color: #a32f23; }
-    .e-btn.ghost { background: transparent; color: var(--text); }
-    .e-btn.ghost:hover { border-color: var(--accent); color: var(--accent); }
-    .e-suggest {
-      margin-top: 3.5rem; padding-top: 2rem;
-      border-top: 1px solid var(--line);
-      width: 100%; max-width: 480px;
+    .err-btn.primary {
+      background: var(--accent); color: #fff;
+      border-color: var(--accent);
     }
-    .e-suggest-label {
-      font-size: 0.6rem; letter-spacing: 0.22em; text-transform: uppercase;
-      color: var(--dim); margin-bottom: 1rem;
+    .err-btn.primary:hover { background: #a32f23; border-color: #a32f23; transform: translateY(-1px); }
+    .err-btn.ghost {
+      background: transparent; color: var(--text);
+      border-color: var(--line);
     }
-    .e-suggest-grid { display: flex; gap: 0.6rem; flex-wrap: wrap; justify-content: center; }
-    .e-pill {
-      font-size: 0.7rem; padding: 0.45rem 0.95rem;
-      border: 1px solid var(--line); border-radius: 2rem;
-      color: var(--muted); text-decoration: none;
+    .err-btn.ghost:hover { border-color: var(--accent); color: var(--accent); transform: translateY(-1px); }
+
+    /* ── Divider ── */
+    .err-divider {
+      width: 100%; max-width: 680px;
+      border: none; border-top: 1px solid var(--line);
+      margin: 0 0 3rem;
+      position: relative; z-index: 1;
+    }
+
+    /* ── Recent articles ── */
+    .recent-section {
+      width: 100%; max-width: 680px;
+      position: relative; z-index: 1;
+      text-align: left;
+    }
+    .recent-label {
+      font-size: 0.58rem; letter-spacing: 0.26em; text-transform: uppercase;
+      color: var(--dim); margin-bottom: 1.4rem; text-align: center;
+    }
+    .recent-grid {
+      display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;
+    }
+    .recent-card {
+      display: block; text-decoration: none; color: var(--text);
+      padding: 1.1rem 1.2rem;
+      border: 1px solid var(--line); border-radius: 6px;
+      background: transparent;
       transition: all .2s;
     }
-    .e-pill:hover { border-color: var(--accent); color: var(--accent); }
+    .recent-card:hover {
+      border-color: var(--accent);
+      background: rgba(192,57,43,0.03);
+      transform: translateY(-2px);
+    }
+    body.dark .recent-card:hover { background: rgba(192,57,43,0.06); }
+    .rc-cat {
+      font-size: 0.56rem; letter-spacing: 0.18em; text-transform: uppercase;
+      color: var(--accent); font-weight: 600; margin-bottom: 0.4rem;
+    }
+    .rc-title {
+      font-family: var(--serif); font-size: 0.88rem;
+      line-height: 1.45; color: var(--text);
+      transition: color .2s;
+    }
+    .recent-card:hover .rc-title { color: var(--accent); }
+    .rc-date {
+      font-size: 0.65rem; color: var(--dim);
+      margin-top: 0.5rem;
+    }
+
+    /* ── Dark toggle ── */
+    .dark-toggle {
+      position: fixed; bottom: 1.6rem; left: 1rem; z-index: 500;
+      width: 2.4rem; height: 2.4rem;
+      border: 1px solid var(--line); border-radius: 50%;
+      background: var(--bg); color: var(--text);
+      cursor: pointer; display: flex; align-items: center; justify-content: center;
+      font-size: 1rem; line-height: 1;
+      transition: background .3s, color .3s, border-color .3s;
+      opacity: 0.7;
+    }
+    .dark-toggle:hover { opacity: 1; }
+
+    /* ── Footer ── */
+    footer {
+      padding: 1.5rem 2.5rem;
+      border-top: 1px solid var(--line);
+      display: flex; justify-content: space-between; align-items: center;
+      gap: 1rem; flex-wrap: wrap;
+    }
+    .footer-copy { font-size: 0.65rem; color: var(--dim); letter-spacing: 0.05em; }
+    .footer-link { font-size: 0.65rem; color: var(--dim); text-decoration: none; transition: color .2s; }
+    .footer-link:hover { color: var(--accent); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .top-bar { padding: 1rem 1.5rem; }
+      .top-nav { gap: 1rem; }
+      .recent-grid { grid-template-columns: 1fr; }
+      .ghost-num { font-size: 55vw; }
+      footer { flex-direction: column; text-align: center; padding: 1.2rem 1.5rem; }
+    }
   </style>
 </head>
 <body>
-  <p class="e-eyebrow">404 · Lỗi</p>
-  <div class="e404">404</div>
-  <h1 class="e-title">Trang anh tìm <em>đã biến mất giữa các vì sao.</em></h1>
-  <p class="e-desc">Đường dẫn không tồn tại — có thể đã bị di chuyển, đổi tên hoặc anh gõ sai. Quay về trang chủ để khám phá nội dung mới nhất nhé.</p>
 
-  <div class="e-actions">
-    <a href="/" class="e-btn primary">← Quay về trang chủ</a>
-    <a href="/blog.html" class="e-btn ghost">Đọc Tech News</a>
-  </div>
-
-  <div class="e-suggest">
-    <div class="e-suggest-label">Đề xuất khám phá</div>
-    <div class="e-suggest-grid">
-      <a href="/" class="e-pill">Trang chủ</a>
-      <a href="/blog.html" class="e-pill">Tech News</a>
-      <a href="/reviews.html" class="e-pill">Reviews</a>
-      <a href="/cv.html" class="e-pill">CV</a>
-      <a href="/certificates.html" class="e-pill">Credentials</a>
-      <a href="/#contact" class="e-pill">Liên hệ</a>
+  <nav class="top-bar">
+    <a href="/" class="top-logo">Long<span>Tech</span>Vision</a>
+    <div class="top-nav">
+      <a href="/blog.html">Tech News</a>
+      <a href="/reviews.html">Reviews</a>
+      <a href="/cv.html">About</a>
     </div>
-  </div>
+  </nav>
+
+  <main class="main">
+
+    <div class="ghost-num" aria-hidden="true">404</div>
+
+    <!-- Floating broken-link icon -->
+    <div class="err-icon" aria-hidden="true">
+      <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="32" cy="32" r="30" stroke="var(--line)" stroke-width="1.5"/>
+        <!-- signal bars fading -->
+        <rect x="18" y="38" width="5" height="8" rx="1.5" fill="var(--accent)" opacity="0.9"/>
+        <rect x="26" y="32" width="5" height="14" rx="1.5" fill="var(--accent)" opacity="0.5"/>
+        <rect x="34" y="25" width="5" height="21" rx="1.5" fill="var(--line)"/>
+        <rect x="42" y="18" width="5" height="28" rx="1.5" fill="var(--line)"/>
+        <!-- x mark over the signal -->
+        <line x1="36" y1="16" x2="48" y2="28" stroke="var(--accent)" stroke-width="2" stroke-linecap="round"/>
+        <line x1="48" y1="16" x2="36" y2="28" stroke="var(--accent)" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+    </div>
+
+    <p class="err-eyebrow">Lỗi 404 · Không tìm thấy</p>
+
+    <h1 class="err-title">Trang này <em>không còn tồn tại</em> nữa rồi.</h1>
+
+    <p class="err-desc">
+      Đường dẫn đã bị xóa, đổi tên hoặc chưa từng tồn tại.
+      Thử quay về trang chủ hoặc đọc một trong các bài mới nhất bên dưới.
+    </p>
+
+    <div class="err-actions">
+      <a href="/" class="err-btn primary">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+        Trang chủ
+      </a>
+      <a href="/blog.html" class="err-btn ghost">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+        Đọc Tech News
+      </a>
+    </div>
+
+    <hr class="err-divider">
+
+    <section class="recent-section">
+      <p class="recent-label">Bài viết mới nhất</p>
+      <div class="recent-grid">
+        <a href="/articles/dreame-h16-pro-triforce-ra-mat-viet-nam-28-5-2026.html" class="recent-card">
+          <div class="rc-cat">Smart Home</div>
+          <div class="rc-title">Dreame H16 Pro TriForce ra mắt Việt Nam: 3-in-1 đầu tiên thế giới, 19.99 triệu</div>
+          <div class="rc-date">28/05/2026</div>
+        </a>
+        <a href="/articles/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone.html" class="recent-card">
+          <div class="rc-cat">AI</div>
+          <div class="rc-title">OpenAI Phone 2027: Không có app — AI agent thay thế hoàn toàn</div>
+          <div class="rc-date">27/05/2026</div>
+        </a>
+        <a href="/articles/anthropic-900-ty-vuot-openai-vong-goi-von-2026.html" class="recent-card">
+          <div class="rc-cat">AI</div>
+          <div class="rc-title">Anthropic gọi vốn 900 tỷ, vượt OpenAI trong vòng đầu tư 2026</div>
+          <div class="rc-date">26/05/2026</div>
+        </a>
+        <a href="/articles/iphone-fold-2026-apple-foldable.html" class="recent-card">
+          <div class="rc-cat">Apple</div>
+          <div class="rc-title">iPhone Fold 2026: mọi thứ đã biết về chiếc iPhone gập đầu tiên</div>
+          <div class="rc-date">20/05/2026</div>
+        </a>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <span class="footer-copy">© 2026 LongTechVision · techvision.click</span>
+    <a href="/blog.html" class="footer-link">← Về trang Tech News</a>
+  </footer>
+
+  <button class="dark-toggle" id="darkToggle" aria-label="Toggle dark mode">🌙</button>
 
   <script>
-    const stored = localStorage.getItem('theme');
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    if (stored === 'dark' || (!stored && prefersDark)) document.body.classList.add('dark');
+    // Dark mode
+    (function() {
+      const stored = localStorage.getItem('theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (stored === 'dark' || (!stored && prefersDark)) document.body.classList.add('dark');
+    })();
+
+    document.getElementById('darkToggle').addEventListener('click', function() {
+      const isDark = document.body.classList.toggle('dark');
+      localStorage.setItem('theme', isDark ? 'dark' : 'light');
+      this.textContent = isDark ? '☀️' : '🌙';
+    });
+
+    // Set correct icon on load
+    if (document.body.classList.contains('dark')) {
+      document.getElementById('darkToggle').textContent = '☀️';
+    }
   </script>
 </body>
 </html>
