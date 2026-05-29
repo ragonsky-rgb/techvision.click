@@ -210,7 +210,7 @@
       <span>📖 <span id="readingTime">...</span></span>
     </div>
 
-    <button class="tts-trigger" id="ttsTrigger" onclick="TTS.start()">
+    <button class="tts-trigger" id="ttsTrigger">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
         <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
@@ -471,112 +471,26 @@
   </footer>
 
   <button class="dark-toggle" id="darkToggle" aria-label="Toggle dark mode">🌙</button>
-  <button class="back-to-top" id="backToTop" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
-  <button class="bookmark-btn" id="bookmarkBtn" aria-label="Bookmark article">🔖</button>
+  <button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+  <button class="bookmark-btn" id="bookmarkBtn" aria-label="Lưu bài này">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+    </svg>
+  </button>
+  <div class="bookmarks-panel" id="bookmarksPanel" role="dialog" aria-label="Bài đã lưu">
+    <div class="bookmarks-title">📑 Bài đã lưu</div>
+    <div id="bookmarksList"></div>
+  </div>
 
+  <script src="/articles/_article.js"></script>
   <script>
-    // Dark mode
-    (function(){
-      const s = localStorage.getItem('theme');
-      const d = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      if(s==='dark'||(!s&&d)) document.body.classList.add('dark');
-    })();
-    document.getElementById('darkToggle').addEventListener('click', function(){
-      const dark = document.body.classList.toggle('dark');
-      localStorage.setItem('theme', dark ? 'dark' : 'light');
-      this.textContent = dark ? '☀️' : '🌙';
-    });
-    if(document.body.classList.contains('dark')) document.getElementById('darkToggle').textContent='☀️';
-
-    // Reading progress
-    window.addEventListener('scroll', function(){
-      const el = document.getElementById('progressBar');
-      const h = document.documentElement;
-      const pct = (h.scrollTop / (h.scrollHeight - h.clientHeight)) * 100;
-      el.style.width = Math.min(pct,100) + '%';
-    });
-
-    // Back to top
-    const btt = document.getElementById('backToTop');
-    window.addEventListener('scroll', function(){
-      btt.classList.toggle('visible', window.scrollY > 400);
-    });
-
-    // Reading time
     (function(){
       const body = document.querySelector('.art-body');
       if(!body) return;
       const words = body.innerText.trim().split(/\s+/).length;
-      const mins = Math.ceil(words / 200);
+      const mins = Math.max(1, Math.round(words / 200));
       const el = document.getElementById('readingTime');
       if(el) el.textContent = mins + ' phút đọc';
-    })();
-
-    // Bookmark
-    (function(){
-      const btn = document.getElementById('bookmarkBtn');
-      const key = 'bm_apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026';
-      const saved = JSON.parse(localStorage.getItem('bookmarks')||'{}');
-      if(saved[key]) btn.textContent='★';
-      btn.addEventListener('click', function(){
-        const bm = JSON.parse(localStorage.getItem('bookmarks')||'{}');
-        if(bm[key]){ delete bm[key]; btn.textContent='🔖'; }
-        else { bm[key]={title:'iPhone sẽ tự khóa ngay khi bị giật khỏi tay: Apple phát triển tính năng chống cướp giật thế hệ mới',url:window.location.href,date:new Date().toLocaleDateString('vi-VN')}; btn.textContent='★'; }
-        localStorage.setItem('bookmarks', JSON.stringify(bm));
-      });
-    })();
-
-    // TTS
-    const TTS = (function(){
-      let utt=null, chunks=[], idx=0, rate=1, running=false;
-      function getChunks(){
-        const el = document.querySelector('.art-body');
-        if(!el) return [];
-        return [...el.querySelectorAll('p,h2,h3,li')]
-          .map(e=>e.innerText.trim()).filter(Boolean);
-      }
-      function updateUI(){
-        const fill = document.getElementById('ttsFill');
-        const counter = document.getElementById('ttsCounter');
-        const preview = document.getElementById('ttsPreview');
-        const playBtn = document.getElementById('ttsPlayBtn');
-        if(fill) fill.style.width = chunks.length ? (idx/chunks.length*100)+'%' : '0%';
-        if(counter) counter.textContent = idx + '/' + chunks.length;
-        if(preview && chunks[idx]) preview.textContent = chunks[idx].substring(0,60)+'…';
-        if(playBtn) playBtn.classList.toggle('is-paused', !running);
-      }
-      function speak(){
-        if(idx>=chunks.length){ stop(); return; }
-        utt = new SpeechSynthesisUtterance(chunks[idx]);
-        utt.lang='vi-VN'; utt.rate=rate;
-        utt.onend=function(){ idx++; updateUI(); speak(); };
-        speechSynthesis.speak(utt);
-        running=true; updateUI();
-      }
-      return {
-        start: function(){
-          speechSynthesis.cancel();
-          chunks=getChunks(); idx=0;
-          document.getElementById('ttsPlayer').classList.add('tts-visible');
-          speak();
-        },
-        toggle: function(){
-          if(speechSynthesis.paused){ speechSynthesis.resume(); running=true; }
-          else if(speechSynthesis.speaking){ speechSynthesis.pause(); running=false; }
-          else { this.start(); }
-          updateUI();
-        },
-        stop: function(){
-          speechSynthesis.cancel(); running=false;
-          document.getElementById('ttsPlayer').classList.remove('tts-visible');
-        },
-        setSpeed: function(s){
-          rate=s;
-          document.querySelectorAll('.tts-spd').forEach(b=>b.classList.remove('active'));
-          event.target.classList.add('active');
-          if(speechSynthesis.speaking){ const ci=idx; this.stop(); idx=ci; speak(); }
-        }
-      };
     })();
   </script>
 </body>
