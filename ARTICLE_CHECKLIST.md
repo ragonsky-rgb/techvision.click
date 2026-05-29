@@ -155,7 +155,71 @@
 
 ---
 
-## ✅ 10. Sau khi viết xong — Cập nhật 3 file bắt buộc
+## ✅ 10. Comments — Giscus (PHẢI có, đặt trước art-nav)
+
+```html
+<!-- 14. Comments -->
+<div class="comments-section" style="margin-top:3rem;padding-top:2rem;border-top:1px solid var(--line);">
+  <div style="font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--dim);margin-bottom:1rem;">Bình luận</div>
+  <script src="https://giscus.app/client.js"
+    data-repo="ragonsky-rgb/techvision.click"
+    data-repo-id="R_kgDOShbzSw"
+    data-category="General"
+    data-category-id="DIC_kwDOShbzS84C9hJr"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="preferred_color_scheme"
+    data-lang="vi"
+    data-loading="lazy"
+    crossorigin="anonymous"
+    async>
+  </script>
+  <noscript>Bật JavaScript để xem bình luận.</noscript>
+</div>
+```
+
+> ❌ Lỗi hay gặp: quên hoàn toàn phần bình luận → bài không có comment box
+
+---
+
+## ✅ 11. Bottom Navigation Bar — `art-nav` (PHẢI có, đặt sau comments)
+
+```html
+<!-- 15. Bottom Nav -->
+<div class="art-nav">
+  <a href="/blog.html" class="art-nav-prev">← QUAY LẠI TECH NEWS</a>
+  <span class="art-nav-next">TECHVISION.CLICK</span>
+</div>
+```
+
+> ✅ Hiển thị: `← QUAY LẠI TECH NEWS` bên trái · `TECHVISION.CLICK` bên phải  
+> ❌ Lỗi hay gặp: dùng `<footer class="site-footer">` thay vì `art-nav` → sai format
+
+---
+
+## ✅ 12. Thứ tự cuối bài — Đúng thứ tự các block
+
+```
+1. Related posts (.related-section)
+2. Comments (.comments-section + Giscus)
+3. Bottom nav (.art-nav)
+</article>
+4. TTS player (#ttsPlayer)
+5. Dark toggle button
+6. Back-to-top button
+7. Bookmark button + panel
+8. <script src="/articles/_article.js">
+9. Reading time inline script
+```
+
+> ❌ Không để `site-footer` thay thế `art-nav` — hai thứ khác nhau
+
+---
+
+## ✅ 13. Sau khi viết xong — Cập nhật 3 file bắt buộc
 
 | File | Việc cần làm |
 |------|-------------|
@@ -167,7 +231,7 @@
 
 ---
 
-## ✅ 11. Commit & Push
+## ✅ 14. Commit & Push
 
 ```bash
 git add articles/{slug}.html blog.html sitemap.xml
@@ -214,3 +278,5 @@ git push origin main
 7. **Quên update `blog.html`** → bài mới không hiện trên trang danh sách
 8. **Quên update `sitemap.xml`** → Google chậm index bài mới
 9. **Xưng hô "anh/bạn"** → vi phạm phong cách báo chí trung tính
+10. **Quên Giscus comments** → bài không có phần bình luận
+11. **Dùng `site-footer` thay `art-nav`** → footer sai format, thiếu "← QUAY LẠI TECH NEWS / TECHVISION.CLICK"
