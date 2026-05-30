@@ -5,6 +5,73 @@
 
 ---
 
+## TEMPLATE STRUCTURE — Skeleton HTML bắt buộc
+
+> Cấu trúc dưới đây được xác minh từ các bài hoạt động đúng (ví dụ: `xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html`).  
+> Mọi bài mới PHẢI tuân theo đúng thứ tự và class này. Không thay thế hay đổi tên class.
+
+```html
+<div class="read-progress"><div class="read-progress-bar" id="progressBar"></div></div>
+
+<nav class="top-bar">
+  <a href="/blog.html" class="back-link">Tech News</a>
+  <span class="page-label">Bài viết</span>
+</nav>
+
+<article>
+  <nav class="art-breadcrumb">...</nav>
+  <div class="art-meta"><span class="cat">...</span><span class="sep">·</span>...</div>
+
+  <button class="tts-trigger" id="ttsTrigger" onclick="TTS.start()">...</button>  <!-- TRƯỚC h1 -->
+
+  <h1 class="art-title">...</h1>
+  <p class="art-deck">...</p>
+  <img class="art-hero" ...>
+  <div class="art-tldr">...</div>
+
+  <div class="art-body">
+    ... nội dung bài ...
+    ... giscus comments ...
+  </div>
+
+  <div class="art-nav">
+    <a href="/blog.html">← Quay lại Tech News</a>
+    <a href="/">techvision.click</a>
+  </div>
+</article>
+
+<button class="dark-toggle" id="darkToggle">🌙</button>
+<button class="back-to-top" id="backToTop">↑</button>
+<button class="bookmark-btn" id="bookmarkBtn">...</button>
+<div class="bookmarks-panel" id="bookmarksPanel">...</div>
+
+<script src="/articles/_article.js"></script>
+<script>/* FAQ JS inline */</script>
+
+<div class="tts-player" id="ttsPlayer">...</div>
+<script>const TTS = (()=>{...})();</script>
+```
+
+### ❌ Class SAI — không bao giờ dùng
+
+| Class sai | Class đúng thay thế |
+|-----------|-------------------|
+| `site-header` | `top-bar` |
+| `nav-inner` | *(không cần, dùng trực tiếp `top-bar`)* |
+| `article-hero` | `art-hero` |
+| `art-meta-top` | `art-meta` |
+| `art-cat` | `cat` *(bên trong `art-meta`)* |
+| `art-dot` | `sep` |
+| `art-actions` | *(không tồn tại)* |
+| `art-bookmark` | `bookmark-btn` |
+| `article-intro` | `art-deck` |
+| `art-read` | *(không tồn tại)* |
+| `art-nav-prev` | `art-nav` + `<a href="/blog.html">` |
+| `art-nav-next` | `art-nav` + `<a href="/">` |
+| `progress-bar` *(standalone)* | `read-progress` + `read-progress-bar` |
+
+---
+
 ## ✅ 1. HTML Head — Meta & SEO
 
 - [ ] `<title>` — có keyword chính, kết thúc bằng `— LongTechVision`
@@ -280,3 +347,4 @@ git push origin main
 9. **Xưng hô "anh/bạn"** → vi phạm phong cách báo chí trung tính
 10. **Quên Giscus comments** → bài không có phần bình luận
 11. **Dùng `site-footer` thay `art-nav`** → footer sai format, thiếu "← QUAY LẠI TECH NEWS / TECHVISION.CLICK"
+12. **Dùng sai class template** → `site-header`, `nav-inner`, `article-hero`, `art-meta-top`, `art-cat`, `art-dot`, `art-actions`, `art-bookmark`, `article-intro`, `art-read`, `art-nav-prev`, `art-nav-next`, `progress-bar` (standalone) đều **không tồn tại** trong `_article-style.css`. Dùng đúng: `top-bar`, `art-meta`, `art-title`, `art-deck`, `art-hero`, `read-progress` / `read-progress-bar`
