@@ -22,6 +22,7 @@
 
 ## Bài viết nổi bật (2026)
 
+- Google Gemini Spark — trợ lý AI 24/7 tự làm việc thay người dùng (Gemini 3.5, chạy nền cả khi khóa máy, độc quyền Google AI Ultra, ra mắt I/O 2026): https://techvision.click/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html
 - iQOO 15T: Specs & Đánh giá — Dimensity 9500 Monster, pin 8000mAh, camera 200MP: https://techvision.click/articles/iqoo-15t-review-specs-dimensity-9500-monster-pin-8000mah-2026.html
 - Sam Altman thừa nhận sai về "AI cướp việc làm": "Tôi vui vì đã nhầm": https://techvision.click/articles/sam-altman-sai-ve-ai-cuop-viec-lam-delighted-wrong-2026.html
 - Xiaomi 17T ra mắt chính thức Việt Nam (giá từ 18.99 triệu, đặt trước 29/5–5/6, mở bán 6/6) — HyperOS 4 & MiClaw AI: https://techvision.click/articles/xiaomi-17t-hyperos-4-miclaw-ai-viet-nam-2026.html

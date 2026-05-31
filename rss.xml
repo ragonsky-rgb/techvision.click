@@ -8,13 +8,22 @@
     <language>vi-VN</language>
     <managingEditor>longnguyenreview@gmail.com (Nguyễn Tấn Thiên Long)</managingEditor>
     <webMaster>longnguyenreview@gmail.com (LongTechVision)</webMaster>
-    <lastBuildDate>Fri, 29 May 2026 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 11:00:00 +0700</lastBuildDate>
     <image>
       <url>https://techvision.click/uploads/favicon-avatar.jpg</url>
       <title>LongTechVision Tech News</title>
       <link>https://techvision.click/blog.html</link>
     </image>
 
+
+    <item>
+      <title>Google Gemini Spark: trợ lý AI 24/7 tự làm việc thay người dùng</title>
+      <link>https://techvision.click/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html</link>
+      <guid isPermaLink="true">https://techvision.click/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html</guid>
+      <pubDate>Sat, 30 May 2026 11:00:00 +0700</pubDate>
+      <category>AI</category>
+      <description><![CDATA[Google ra mắt Gemini Spark tại I/O 2026 — AI agent 24/7 chạy trên Gemini 3.5, tự làm tác vụ xuyên ứng dụng (Gmail, Docs, Workspace), chạy nền cả khi khóa máy và hỏi trước khi tiêu tiền hay gửi email. Độc quyền gói Google AI Ultra.]]></description>
+    </item>
 
     <item>
       <title>iQOO 15T: Specs &amp; Đánh giá — Dimensity 9500 Monster, pin 8000mAh, camera 200MP</title>
