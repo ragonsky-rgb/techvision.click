@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/galaxy-z-fold-8-thiet-ke-camera-kep-lo-dien-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T16:00:00+07:00</news:publication_date>
+      <news:title>Camera Galaxy Z Fold 8 lộ diện: cụm camera kép, bỏ tele, thân rộng hơn</news:title>
+      <news:keywords>Galaxy Z Fold 8, camera Z Fold 8, Z Fold 8 Ultra, foldable Samsung, Galaxy Unpacked 2026</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html</loc>
     <news:news>
       <news:publication>
