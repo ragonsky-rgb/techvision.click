@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/nvidia-gtc-taipei-2026-vera-rubin-dai-loan-ha-tang-ai.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T20:00:00+07:00</news:publication_date>
+      <news:title>NVIDIA GTC Taipei 2026: Đài Loan tăng tốc hạ tầng AI Vera Rubin</news:title>
+      <news:keywords>NVIDIA, Vera Rubin, GTC Taipei 2026, MGX, AI factory, TSMC, Foxconn</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/macbook-pro-m6-oled-cam-ung-thiet-ke-moi-2026.html</loc>
     <news:news>
       <news:publication>
