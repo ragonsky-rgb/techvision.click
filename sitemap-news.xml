@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/nvidia-n1x-n1-chip-arm-laptop-computex-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T21:30:00+07:00</news:publication_date>
+      <news:title>NVIDIA N1X và N1: chip ARM cho laptop, đồ họa ngang RTX 5070</news:title>
+      <news:keywords>NVIDIA N1X, NVIDIA N1, chip NVIDIA cho laptop, GB10 Grace Blackwell, Windows on Arm, COMPUTEX 2026</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/nvidia-gtc-taipei-2026-vera-rubin-dai-loan-ha-tang-ai.html</loc>
     <news:news>
       <news:publication>
