@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/dell-xps-13-699-usd-2026-dau-macbook.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T23:30:00+07:00</news:publication_date>
+      <news:title>Dell XPS 13 mới giá 699 USD: đấu trực tiếp MacBook</news:title>
+      <news:keywords>Dell XPS 13 2026, Dell XPS 13 giá, Dell XPS 13 vs MacBook, Intel Wildcat Lake, laptop giá rẻ 2026</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html</loc>
     <news:news>
       <news:publication>
