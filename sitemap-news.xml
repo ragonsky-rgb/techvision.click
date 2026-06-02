@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T22:30:00+07:00</news:publication_date>
+      <news:title>Khủng hoảng bộ nhớ 2026: RAM, SSD tăng giá vì AI gom hàng</news:title>
+      <news:keywords>giá RAM 2026, khủng hoảng bộ nhớ, DRAM shortage, giá SSD, giá laptop tăng, HBM AI</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/nvidia-n1x-n1-chip-arm-laptop-computex-2026.html</loc>
     <news:news>
       <news:publication>
