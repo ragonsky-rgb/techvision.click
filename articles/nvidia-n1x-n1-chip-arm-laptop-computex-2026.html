@@ -111,6 +111,11 @@
     figure img { width: 100%; max-width: 820px; border-radius: 10px; display: block; margin: 0 auto; }
     figcaption { margin-top: .6rem; font-size: .78rem; color: var(--dim); font-style: italic; font-family: var(--sans); }
 
+    .art-video-wrap { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 10px; margin: 2rem 0; background: #000; }
+    .art-video-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+    .art-video-label { font-size: .72rem; letter-spacing: .16em; text-transform: uppercase; color: var(--dim); margin-bottom: .5rem; font-family: var(--sans); }
+    .art-video-caption { font-size: .72rem; color: var(--dim); font-style: italic; text-align: center; margin-top: .5rem; font-family: var(--sans); }
+
     .art-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 2rem 0; }
     @media (max-width: 540px) { .art-stats { grid-template-columns: repeat(2, 1fr); } }
     .art-stat-card { background: var(--surface, #f7f7f7); border: 1px solid var(--line, #e8e8e8); border-radius: 10px; padding: 1rem .9rem; text-align: center; }
@@ -323,6 +328,21 @@
   💻 <strong>Vì sao đáng chú ý:</strong> Nếu đồ họa tích hợp thực sự ngang RTX 5070, một chiếc laptop mỏng nhẹ dùng N1X có thể chơi game và dựng nội dung tốt mà không cần GPU rời. Đây là điều mà chip tích hợp hiện nay chưa làm được.
 </div>
 
+<div class="art-callout">
+  ✅ <strong>Cập nhật chính thức:</strong> Tại keynote COMPUTEX 2026 ngày 1/6, NVIDIA và Microsoft đã xác nhận nền tảng này, với tên thương mại <strong>NVIDIA RTX Spark</strong>. Bản cao cấp có GPU Blackwell <strong>6.144 nhân CUDA</strong>, CPU 20 nhân, tới 128GB bộ nhớ hợp nhất, hỗ trợ trọn hệ sinh thái CUDA và RTX. Máy sẽ đến từ <strong>Microsoft Surface, Dell, HP, Lenovo, ASUS, MSI</strong> vào <strong>mùa thu 2026</strong>. CEO Jensen Huang nói: "PC đang được tái sinh. Với RTX Spark và Windows, bạn ra lệnh, chiếc PC làm phần việc còn lại."
+</div>
+
+<div class="art-video-label">VIDEO · Kỷ nguyên PC mới: chip N1X và N1 của NVIDIA</div>
+<div class="art-video-wrap">
+  <iframe
+    src="https://www.youtube.com/embed/fR-7PLu7DEg"
+    title="A New Era of PC ft NVIDIA N1X and N1 laptop chip"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen loading="lazy">
+  </iframe>
+</div>
+<p class="art-video-caption">Tổng quan dòng chip N1X và N1 của NVIDIA cho laptop. Nguồn: YouTube</p>
+
 <h2>N1X bản top chính là GB10 Grace Blackwell phiên bản phổ thông</h2>
 
 <p>Theo bài phân tích, bản N1X cao nhất về cơ bản là một phiên bản đổi tên của GB10. GB10 Grace Blackwell là siêu chip mà NVIDIA dùng trong cỗ máy AI để bàn DGX Spark. Việc đưa nền tảng này xuống laptop và mini PC cho người dùng phổ thông là một bước đi đáng chú ý.</p>
@@ -344,10 +364,28 @@
 
 <figure>
   <img
+    src="https://iprsoftwaremedia.com/219/files/202605/154ea89a7177c7d568f2f4916c7fd53a/6a1c9d873d6332761e1d64a8_nvidia-rtx-spark/nvidia-rtx-spark_mid.png"
+    alt="NVIDIA RTX Spark tên thương mại chính thức của nền tảng N1X cho laptop" loading="lazy">
+  <figcaption>NVIDIA RTX Spark là tên thương mại chính thức của nền tảng chip N1X cho laptop Windows. Nguồn: NVIDIA</figcaption>
+</figure>
+
+<figure>
+  <img
     src="https://iprsoftwaremedia.com/219/files/202606/7907c7315b24f829edb76885ee032bc2/6a1d12933d6332c72cdf62de_robotics-factory-ai-computer-1280x680-5259650-842x450/robotics-factory-ai-computer-1280x680-5259650-842x450_mid.jpg"
     alt="NVIDIA đưa nền tảng tính toán AI Blackwell xuống thiết bị người dùng" loading="lazy">
   <figcaption>NVIDIA mở rộng nền tảng tính toán Blackwell từ trung tâm dữ liệu xuống thiết bị người dùng. Nguồn: NVIDIA</figcaption>
 </figure>
+
+<div class="art-video-label">VIDEO · Tìm hiểu NVIDIA RTX Spark</div>
+<div class="art-video-wrap">
+  <iframe
+    src="https://www.youtube.com/embed/aTI0AKT-7Jc"
+    title="Let's talk about the NVIDIA RTX Spark"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen loading="lazy">
+  </iframe>
+</div>
+<p class="art-video-caption">Phân tích nền tảng NVIDIA RTX Spark. Nguồn: YouTube</p>
 
 <h2>N1X và N1: chọn bản nào?</h2>
 
@@ -371,6 +409,17 @@
     Phù hợp công việc văn phòng, học tập, AI cơ bản
   </div>
 </div>
+
+<div class="art-video-label">VIDEO · Keynote Jensen Huang tại COMPUTEX 2026</div>
+<div class="art-video-wrap">
+  <iframe
+    src="https://www.youtube.com/embed/gxgi6D-Cf9I"
+    title="Nvidia CEO Jensen Huang keynote Computex 2026"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen loading="lazy">
+  </iframe>
+</div>
+<p class="art-video-caption">Keynote đầy đủ của CEO Jensen Huang tại COMPUTEX 2026. Nguồn: YouTube</p>
 
 <h2>Đối thủ: Snapdragon X2 Elite, Apple M và x86</h2>
 
