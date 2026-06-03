@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T00:30:00+07:00</news:publication_date>
+      <news:title>WWDC 2026 (8/6): Siri mới chạy Google Gemini, preview iOS 27</news:title>
+      <news:keywords>WWDC 2026, Siri Gemini, Apple Google Gemini, Siri 2.0, iOS 27, Apple Intelligence</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/dell-xps-13-699-usd-2026-dau-macbook.html</loc>
     <news:news>
       <news:publication>
