@@ -518,8 +518,9 @@
     .side-list { display: flex; flex-direction: column; }
     .side-item { display: flex; gap: 0.85rem; align-items: flex-start; text-decoration: none; color: var(--text); padding: 0.8rem 0; border-bottom: 1px solid var(--line); }
     .side-item:last-child { border-bottom: none; }
-    .side-item .si-num { font-family: var(--serif); font-size: 1.35rem; font-weight: 700; color: var(--accent); line-height: 1; flex-shrink: 0; width: 1.5rem; }
-    .side-item .si-title { font-size: 0.86rem; line-height: 1.4; transition: color .2s; }
+    .side-item .si-num { font-family: var(--serif); font-size: 1.35rem; font-weight: 700; color: var(--accent); line-height: 1; flex-shrink: 0; width: 1.2rem; }
+    .side-item .si-thumb { width: 66px; height: 46px; object-fit: cover; border-radius: 4px; flex-shrink: 0; background: var(--line); }
+    .side-item .si-title { font-size: 0.86rem; line-height: 1.4; transition: color .2s; text-wrap: pretty; }
     .side-item:hover .si-title { color: var(--accent); }
     .side-newsletter { background: rgba(192,57,43,0.05); border: 1px solid rgba(192,57,43,0.18); border-radius: 10px; padding: 1.3rem; }
     .side-newsletter h3 { font-family: var(--serif); font-size: 1.05rem; font-weight: 500; margin: 0 0 0.5rem; }
@@ -1505,22 +1506,34 @@
           <div class="side-title">Đáng chú ý</div>
           <div class="side-list">
             <a class="side-item" href="/articles/anthropic-900-ty-vuot-openai-vong-goi-von-2026.html">
-              <span class="si-num">1</span><span class="si-title">Anthropic định giá $900 tỷ, vượt OpenAI thành AI startup giá trị nhất</span>
+              <span class="si-num">1</span>
+              <img class="si-thumb" src="https://techvision.click/images/anthropic-900-ty-vuot-openai-vong-goi-von-2026/anthropic-hero.jpg" alt="Anthropic định giá 900 tỷ USD" loading="lazy">
+              <span class="si-title">Anthropic định giá $900 tỷ, vượt OpenAI thành AI startup giá trị nhất</span>
             </a>
             <a class="side-item" href="/articles/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone.html">
-              <span class="si-num">2</span><span class="si-title">OpenAI Phone 2027: điện thoại không có app, AI agent thay tất cả</span>
+              <span class="si-num">2</span>
+              <img class="si-thumb" src="https://techvision.click/images/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone/sam-altman-jony-ive-emerson.jpg" alt="OpenAI Phone 2027" loading="lazy">
+              <span class="si-title">OpenAI Phone 2027: điện thoại không có app, AI agent thay tất cả</span>
             </a>
             <a class="side-item" href="/articles/samsung-vuot-apple-acsi-2026-galaxy-ai.html">
-              <span class="si-num">3</span><span class="si-title">Samsung vượt Apple lần đầu trong ACSI 2026 nhờ Galaxy AI</span>
+              <span class="si-num">3</span>
+              <img class="si-thumb" src="https://techvision.click/images/samsung-vuot-apple-acsi-2026-galaxy-ai/acsi-2026-hero.jpg" alt="Samsung vượt Apple ACSI 2026" loading="lazy">
+              <span class="si-title">Samsung vượt Apple lần đầu trong ACSI 2026 nhờ Galaxy AI</span>
             </a>
             <a class="side-item" href="/articles/spacex-ipo-2026-lon-nhat-lich-su-spcx-nguoi-viet-mua-duoc-khong.html">
-              <span class="si-num">4</span><span class="si-title">SpaceX IPO 2026: người Việt có mua được cổ phiếu SPCX không?</span>
+              <span class="si-num">4</span>
+              <img class="si-thumb" src="https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starship-flt12-stacking-e1779315687989.webp?fit=1200%2C800&ssl=1" alt="SpaceX IPO 2026" loading="lazy">
+              <span class="si-title">SpaceX IPO 2026: người Việt có mua được cổ phiếu SPCX không?</span>
             </a>
             <a class="side-item" href="/articles/sam-altman-sai-ve-ai-cuop-viec-lam-delighted-wrong-2026.html">
-              <span class="si-num">5</span><span class="si-title">Sam Altman thừa nhận sai về "AI cướp việc làm"</span>
+              <span class="si-num">5</span>
+              <img class="si-thumb" src="https://i.ytimg.com/vi/OUHNsQzAz_M/maxresdefault.jpg" alt="Sam Altman thừa nhận sai về AI cướp việc làm" loading="lazy">
+              <span class="si-title">Sam Altman thừa nhận sai về "AI cướp việc làm"</span>
             </a>
             <a class="side-item" href="/articles/dreame-h16-pro-triforce-ra-mat-viet-nam-28-5-2026.html">
-              <span class="si-num">6</span><span class="si-title">Dreame H16 Pro TriForce ra mắt Việt Nam, giá 19.99 triệu</span>
+              <span class="si-num">6</span>
+              <img class="si-thumb" src="https://dreametech.vn/wp-content/uploads/2026/05/DreameUwantwhitebackground_12_800x.webp" alt="Dreame H16 Pro TriForce" loading="lazy">
+              <span class="si-title">Dreame H16 Pro TriForce ra mắt Việt Nam, giá 19.99 triệu</span>
             </a>
           </div>
         </div>
