@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T09:00:00+07:00</news:publication_date>
+      <news:title>Project Glasswing: AI Claude Mythos của Anthropic tìm hơn 10.000 lỗ hổng bảo mật</news:title>
+      <news:keywords>Project Glasswing, Claude Mythos, Anthropic an ninh mạng, AI tìm lỗ hổng, zero-day AI</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/anthropic-nop-ho-so-ipo-2026-vuot-openai-965-ty.html</loc>
     <news:news>
       <news:publication>
