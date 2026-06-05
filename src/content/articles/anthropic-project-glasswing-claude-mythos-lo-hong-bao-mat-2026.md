@@ -1,4 +1,5 @@
 ---
+slug: "anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026"
 title: "Project Glasswing: AI Claude Mythos của Anthropic tìm hơn 10.000 lỗ hổng bảo mật"
 description: "Anthropic mở rộng Project Glasswing tới khoảng 150 tổ chức ở hơn 15 quốc gia. Model Claude Mythos đã tìm ra hơn 10.000 lỗ hổng nghiêm trọng, gồm cả zero-day tồn tại 27 năm, để bảo vệ hạ tầng trọng yếu."
 keywords: "Project Glasswing, Claude Mythos, Anthropic an ninh mạng, AI tìm lỗ hổng, zero-day AI, lỗ hổng bảo mật 2026, Claude cybersecurity"

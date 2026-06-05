@@ -4,6 +4,8 @@ import { glob } from 'astro/loaders';
 const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
   schema: z.object({
+    // Slug (tên file, = URL) - chỉ để CMS đặt tên file, Astro lấy slug từ tên file
+    slug: z.string().optional(),
     // Core SEO
     title: z.string(),                         // <h1> + <title> (suffix added automatically)
     description: z.string(),                   // meta description (120-160 chars)

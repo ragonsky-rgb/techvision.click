@@ -1,0 +1,153 @@
+# Pages CMS config — https://pagescms.org
+# Kết nối repo tại https://app.pagescms.org (đăng nhập GitHub) để có giao diện soạn bài.
+
+media:
+  - name: uploads
+    label: Ảnh tải lên
+    input: public/uploads
+    output: /uploads
+    extensions: [jpg, jpeg, png, webp, gif, svg, avif]
+
+content:
+  - name: articles
+    label: Bài viết
+    type: collection
+    path: src/content/articles
+    filename: '{fields.slug}.md'
+    icon: file-text
+    view:
+      fields: [title, category, datePublished]
+      primary: title
+      sort: [datePublished, title]
+      default:
+        sort: datePublished
+        order: desc
+    fields:
+      - name: slug
+        label: Slug (tên file = đường dẫn URL)
+        type: string
+        required: true
+        description: 'Không dấu, không khoảng trắng. Ví dụ: nvidia-cosmos-3-physical-ai-omnimodel-mo-2026'
+        pattern:
+          regex: '^[a-z0-9]+(?:-[a-z0-9]+)*$'
+          message: 'Chỉ chữ thường, số và dấu gạch ngang.'
+
+      - name: title
+        label: Tiêu đề (H1)
+        type: string
+        required: true
+
+      - name: description
+        label: Mô tả SEO (120-160 ký tự)
+        type: text
+        required: true
+
+      - name: keywords
+        label: Từ khoá (cách nhau bằng dấu phẩy)
+        type: string
+        required: true
+
+      - name: category
+        label: Chuyên mục
+        type: select
+        default: AI
+        options:
+          values: [AI, Apple, Smartphone, Laptop, Android, Camera, Wearable, Khác]
+
+      - name: datePublished
+        label: Ngày đăng (ISO)
+        type: string
+        required: true
+        description: 'Định dạng: 2026-06-05T09:00:00+07:00'
+
+      - name: dateModified
+        label: Ngày cập nhật (ISO, để trống nếu trùng ngày đăng)
+        type: string
+
+      - name: deck
+        label: Đoạn dẫn (sapo dưới tiêu đề)
+        type: text
+        required: true
+
+      - name: heroImage
+        label: Ảnh hero (URL)
+        type: string
+        required: true
+        description: 'Vd thumbnail YouTube: https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg'
+
+      - name: heroAlt
+        label: Alt cho ảnh hero
+        type: string
+
+      - name: heroCaption
+        label: Caption dưới ảnh hero
+        type: string
+
+      - name: tldr
+        label: Tóm tắt nhanh (cho phép thẻ <strong>)
+        type: text
+        required: true
+
+      - name: tags
+        label: Tags (không có dấu #)
+        type: string
+        list: true
+
+      - name: stats
+        label: Thẻ số liệu (lưới đầu bài)
+        type: object
+        list: true
+        fields:
+          - { name: num, label: Số, type: string }
+          - { name: label, label: Nhãn, type: string }
+
+      - name: videos
+        label: Video YouTube chèn vào bài
+        type: object
+        list: true
+        fields:
+          - { name: id, label: YouTube ID, type: string }
+          - { name: label, label: Nhãn video (VIDEO · ...), type: string }
+          - { name: caption, label: Caption dưới video, type: string }
+
+      - name: faq
+        label: Câu hỏi thường gặp (tối thiểu 3)
+        type: object
+        list: true
+        fields:
+          - { name: q, label: Câu hỏi, type: string }
+          - { name: a, label: Trả lời, type: text }
+
+      - name: sourceUrl
+        label: Link nguồn tham khảo
+        type: string
+
+      - name: sourceName
+        label: Tên bài nguồn
+        type: string
+
+      - name: sourceDomains
+        label: Các domain nguồn (cách nhau bằng ·)
+        type: string
+
+      - name: related
+        label: Bài liên quan
+        type: object
+        list: true
+        fields:
+          - { name: href, label: Đường dẫn, type: string }
+          - { name: cat, label: Chuyên mục, type: string, default: AI }
+          - { name: title, label: Tiêu đề, type: string }
+
+      - name: about
+        label: 'JSON-LD about[] (tên thực thể, dùng Thing)'
+        type: string
+        list: true
+
+      - name: authorBio
+        label: Tiểu sử tác giả (để trống dùng mặc định)
+        type: text
+
+      - name: body
+        label: Nội dung bài (Markdown, các mục H2)
+        type: rich-text
