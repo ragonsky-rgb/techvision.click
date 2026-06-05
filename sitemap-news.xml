@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/nvidia-cosmos-3-physical-ai-omnimodel-mo-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T09:00:00+07:00</news:publication_date>
+      <news:title>NVIDIA Cosmos 3: model nền mở đầu tiên cho physical AI</news:title>
+      <news:keywords>NVIDIA Cosmos 3, physical AI, omnimodel, world foundation model, AI robot 2026</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html</loc>
     <news:news>
       <news:publication>
