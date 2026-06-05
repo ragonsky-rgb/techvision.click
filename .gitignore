@@ -9,3 +9,8 @@ node_modules/
 .vscode/
 *.swp
 *.swo
+
+# Astro
+dist/
+.astro/
+public/
