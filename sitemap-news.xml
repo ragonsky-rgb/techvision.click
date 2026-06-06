@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/microsoft-mai-7-model-tu-lam-thoat-openai-build-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T09:00:00+07:00</news:publication_date>
+      <news:title>Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT</news:title>
+      <news:keywords>Microsoft MAI, MAI-Thinking-1, Microsoft tự làm AI, Microsoft thoát OpenAI, Build 2026</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/nvidia-cosmos-3-physical-ai-omnimodel-mo-2026.html</loc>
     <news:news>
       <news:publication>
