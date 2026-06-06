@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /articles/_article-style.css
+Disallow: /articles/_article.js
+
+Sitemap: https://techvision.click/sitemap.xml
+Sitemap: https://techvision.click/sitemap-news.xml

@@ -1,0 +1,43 @@
+{
+  "name": "LongTechVision — Nguyễn Tấn Thiên Long",
+  "short_name": "LongTechVision",
+  "description": "Trang cá nhân Nguyễn Tấn Thiên Long. Marketing Lead, AI Builder, Tech Creator.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f2ed",
+  "theme_color": "#c0392b",
+  "lang": "vi-VN",
+  "scope": "/",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/uploads/favicon-avatar.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/uploads/favicon-avatar.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Tech News",
+      "url": "/blog.html",
+      "description": "Tin công nghệ dịch tiếng Việt"
+    },
+    {
+      "name": "Reviews",
+      "url": "/reviews.html",
+      "description": "Sản phẩm đang dùng"
+    },
+    {
+      "name": "Liên hệ",
+      "url": "/#contact",
+      "description": "Email, Messenger, Zalo"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "$ref": "#/definitions/articles",
+  "definitions": {
+    "articles": {
+      "type": "object",
+      "properties": {
+        "slug": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "keywords": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string",
+          "default": "AI"
+        },
+        "datePublished": {
+          "type": "string"
+        },
+        "dateModified": {
+          "type": "string"
+        },
+        "deck": {
+          "type": "string"
+        },
+        "heroImage": {
+          "type": "string"
+        },
+        "heroAlt": {
+          "type": "string"
+        },
+        "heroCaption": {
+          "type": "string"
+        },
+        "tldr": {
+          "type": "string"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "stats": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "num": {
+                "type": "string"
+              },
+              "label": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "num",
+              "label"
+            ],
+            "additionalProperties": false
+          },
+          "default": []
+        },
+        "videos": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "label": {
+                "type": "string"
+              },
+              "caption": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "id"
+            ],
+            "additionalProperties": false
+          },
+          "default": []
+        },
+        "faq": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "q": {
+                "type": "string"
+              },
+              "a": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "q",
+              "a"
+            ],
+            "additionalProperties": false
+          },
+          "default": []
+        },
+        "sourceUrl": {
+          "type": "string"
+        },
+        "sourceName": {
+          "type": "string"
+        },
+        "sourceDomains": {
+          "type": "string"
+        },
+        "related": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "href": {
+                "type": "string"
+              },
+              "cat": {
+                "type": "string",
+                "default": "AI"
+              },
+              "title": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "href",
+              "title"
+            ],
+            "additionalProperties": false
+          },
+          "default": []
+        },
+        "about": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "authorBio": {
+          "type": "string"
+        },
+        "featured": {
+          "type": "boolean",
+          "default": false
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "description",
+        "keywords",
+        "datePublished",
+        "deck",
+        "heroImage",
+        "tldr"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

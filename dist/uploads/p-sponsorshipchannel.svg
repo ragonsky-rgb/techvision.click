@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <!-- Full-logo gradient: blue top-right → purple mid → cyan bottom-left -->
+    <linearGradient id="sg" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#1e8ef8"/>
+      <stop offset="30%"  stop-color="#1a5ce8"/>
+      <stop offset="58%"  stop-color="#9b30e8"/>
+      <stop offset="75%"  stop-color="#c030c8"/>
+      <stop offset="100%" stop-color="#00c8dc"/>
+    </linearGradient>
+    <!-- Mask: upper ribbon passes OVER lower at cross zone -->
+    <clipPath id="upper-clip">
+      <!-- upper ribbon region including the crossover zone -->
+      <rect x="0" y="0" width="200" height="130"/>
+    </clipPath>
+  </defs>
+
+  <!-- Light-gray background matching brand photo -->
+  <rect width="200" height="200" fill="#eaeaea"/>
+
+  <!-- ── Lower blade: sweeps from upper-center down to lower-left tip ── -->
+  <path fill="url(#sg)"
+    d="
+      M 148,95
+      C 136,100 120,112 105,130
+        90,148  75,162  60,172
+      C 52,177  46,177  44,172
+      C 42,167  46,160  54,154
+      C 66,146  80,134  95,114
+      C 110,94 120,80 126,72
+      Z
+    "/>
+
+  <!-- ── Upper blade: sweeps from lower-center up to upper-right tip ── -->
+  <path fill="url(#sg)"
+    d="
+      M 52,105
+      C 64,100 80,88  95,70
+       110,52 125,38 140,28
+      C 148,23 154,23 156,28
+      C 158,33 154,40 146,46
+      C 134,54 120,66 105,86
+      C  90,106 80,120 74,128
+      Z
+    "/>
+</svg>

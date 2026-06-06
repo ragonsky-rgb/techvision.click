@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google I/O 2026 Day 2: Antigravity, Vibe Coding, Firebase AI — LongTechVision</title>
+  <meta name="description" content="Google I/O 2026 Day 2 dành riêng cho developer và vibe coder: Antigravity 2.0, Managed Agents, Firebase AI Logic, WebMCP, Android vibe coding.">
+  <meta name="keywords" content="Google IO 2026, vibe coding, Antigravity 2.0, Managed Agents, Firebase AI, WebMCP, developer keynote, AI agent coding">
+  <meta name="theme-color" content="#c0392b">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <link rel="canonical" href="https://techvision.click/articles/google-io-2026-day2-developer-keynote-vibe-coding-antigravity.html">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link rel="icon" type="image/jpeg" href="/uploads/favicon-avatar.jpg">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/articles/_article-style.css">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <script defer src="/_vercel/insights/script.js"></script>
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="vi_VN">
+  <meta property="og:site_name" content="LongTechVision">
+  <meta property="og:url" content="https://techvision.click/articles/google-io-2026-day2-developer-keynote-vibe-coding-antigravity.html">
+  <meta property="og:title" content="Google I/O 2026 Day 2: Google xây hạ tầng cho vibe coder, Antigravity 2.0, Managed Agents, Firebase AI">
+  <meta property="og:description" content="Antigravity 2.0, Managed Agents, Firebase AI Logic, WebMCP, Google vừa ra 6 tool mới cho người code bằng AI agent. Giải thích theo ngôn ngữ đời thường cho vibe coder.">
+  <meta property="og:image" content="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOCollection_hero.width-1600.format-webp.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Google I/O 2026 Day 2: Toàn bộ tool mới cho vibe coder giải thích đời thường">
+  <meta name="twitter:image" content="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOCollection_hero.width-1600.format-webp.webp">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://techvision.click/articles/google-io-2026-day2-developer-keynote-vibe-coding-antigravity.html"
+  },
+  "headline": "Google I/O 2026 Day 2: Google xây hạ tầng cho vibe coder, Antigravity 2.0, Managed Agents, Firebase AI",
+  "description": "Google I/O 2026 Day 2 dành riêng cho developer và vibe coder: Antigravity 2.0, Managed Agents, Firebase AI Logic, WebMCP, Android vibe coding. Tất cả giải thích bằng ngôn ngữ đời thường.",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [".art-title", ".art-deck"]
+  },
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOCollection_hero.width-1600.format-webp.webp",
+  "datePublished": "2026-05-20T14:00:00+07:00",
+  "dateModified": "2026-05-20T14:00:00+07:00",
+  "author": {
+    "@type": "Person",
+    "name": "Nguyễn Tấn Thiên Long",
+    "url": "https://techvision.click/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LongTechVision",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://techvision.click/uploads/favicon-avatar.jpg"
+    }
+  },
+  "articleSection": "AI & Developer",
+  "inLanguage": "vi-VN",
+  "keywords": "Google IO 2026, vibe coding, Antigravity, Managed Agents, Firebase AI Logic, WebMCP"
+}
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Vibe coding là gì?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vibe coding là cách code bằng ngôn ngữ tự nhiên, bạn mô tả ý tưởng, AI agent (như Claude, Cursor, Google Antigravity) tự viết code cho bạn. Bạn không cần biết sâu về lập trình, chỉ cần biết mình muốn gì và biết kiểm tra kết quả. Google I/O 2026 chính thức hóa vibe coding thành quy trình phát triển sản phẩm được hỗ trợ đầy đủ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Antigravity 2.0 là gì và dùng để làm gì?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Antigravity 2.0 là ứng dụng desktop của Google, hoạt động như một 'project manager AI', bạn giao việc, nó tự tạo ra nhiều AI agent nhỏ để làm song song. Ví dụ: bạn nói 'build tôi landing page này', Antigravity sẽ tự chia thành agent viết HTML, agent viết CSS, agent test, agent deploy, tất cả chạy cùng lúc không cần bạn giám sát từng bước."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Managed Agents trong Gemini API là gì?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Managed Agents là tính năng mới trong Gemini API cho phép tạo ra một AI agent hoạt động hoàn chỉnh chỉ bằng một lệnh gọi API duy nhất. Agent này có thể suy nghĩ, dùng công cụ và chạy code trong môi trường Linux cách ly, không cần bạn tự thiết lập server hay infrastructure. Với vibe coder, điều này có nghĩa là bạn có thể nhúng AI agent vào sản phẩm của mình mà không cần biết devops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Firebase AI Logic có gì mới ở Google I/O 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Firebase AI Logic chính thức ra mắt (GA, tức là dùng được cho production, không còn beta). SDK này cho phép gọi Gemini trực tiếp từ app mobile hoặc web mà không cần tự viết backend server, với bảo mật theo chuẩn Firestore, tự động quản lý API key và giám sát usage. Vibe coder có thể nhúng AI vào app chỉ bằng vài dòng code Firebase quen thuộc."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "WebMCP là gì?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "WebMCP là chuẩn web mới Google đề xuất, cho phép các trang web 'nói chuyện' với AI agent trong trình duyệt. Cụ thể: một website có thể xuất ra các 'công cụ' (functions, form) để AI agent tự động thực hiện thay người dùng, ví dụ AI có thể tự điền form, tự bấm nút, tự lấy dữ liệu từ trang web mà không cần bạn làm thủ công. Chrome 149 đang thử nghiệm tính năng này."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Google AI Studio có thể build Android app bằng vibe coding không?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Có. Google I/O 2026 công bố Google AI Studio hỗ trợ native Kotlin, nghĩa là bạn có thể mô tả app Android muốn làm bằng tiếng tự nhiên, AI tự viết code Kotlin, sau đó deploy thẳng lên Cloud Run với Firebase tích hợp sẵn. Toàn bộ quy trình từ ý tưởng đến app chạy được có thể thực hiện mà không cần rời khỏi Google AI Studio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Android Studio Migration Agent làm được gì?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Migration Agent là công cụ AI trong Android Studio có thể tự động convert app viết bằng React Native, web framework, hoặc iOS sang code Kotlin Android native, việc trước đây mất vài tuần lập trình thủ công, nay chỉ mất vài giờ. Với vibe coder đã build app bằng framework khác và muốn đưa lên Android, đây là cách ngắn nhất."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Google AI Ultra $100/tháng có đáng dùng không?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google AI Ultra ($100/tháng) cho phép dùng Antigravity và Gemini API với usage gấp 5 lần gói thường, phù hợp cho developer hay vibe coder build sản phẩm thật, chạy agent nhiều tác vụ liên tục. Nếu chỉ dùng thỉnh thoảng để prototype, gói thường hoặc miễn phí vẫn đủ. Google cũng công bố hackathon 'Build with Gemini XPRIZE' với tổng giải thưởng $2 triệu."
+      }
+    }
+  ]
+}
+</script>
+  <style>
+    /* ── Figure & caption ── */
+    figure {
+      margin: 2rem 0;
+      text-align: center;
+    }
+    figure img {
+      width: 100%;
+      max-width: 820px;
+      border-radius: 10px;
+      display: block;
+      margin: 0 auto;
+    }
+    figcaption {
+      margin-top: .6rem;
+      font-size: .78rem;
+      color: var(--dim);
+      font-style: italic;
+      font-family: var(--sans);
+    }
+
+    /* ── Video embed ── */
+    .art-video-wrap {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      border-radius: 10px;
+      margin: 2rem 0;
+      background: #000;
+    }
+    .art-video-wrap iframe {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      border: 0;
+    }
+    .art-video-label {
+      font-size: .72rem;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+      color: var(--dim);
+      margin-bottom: .5rem;
+      font-family: var(--sans);
+    }
+
+    /* ── Stats cards ── */
+    .art-stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    @media (max-width: 540px) {
+      .art-stats { grid-template-columns: repeat(2, 1fr); }
+    }
+    .art-stat-card {
+      background: var(--surface, #f7f7f7);
+      border: 1px solid var(--line, #e8e8e8);
+      border-radius: 10px;
+      padding: 1rem .9rem;
+      text-align: center;
+    }
+    .art-stat-card .stat-num {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--accent, #c0392b);
+      font-family: var(--sans);
+      line-height: 1.1;
+    }
+    .art-stat-card .stat-label {
+      font-size: .72rem;
+      color: var(--dim);
+      margin-top: .25rem;
+      font-family: var(--sans);
+    }
+
+    /* ── Tags ── */
+    .art-tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      margin: 1.5rem 0 2rem;
+    }
+    .art-tag {
+      font-size: .72rem;
+      font-family: var(--sans);
+      padding: .25rem .7rem;
+      border-radius: 20px;
+      border: 1px solid var(--line, #e8e8e8);
+      color: var(--dim);
+      text-decoration: none;
+      transition: border-color .2s, color .2s;
+    }
+    .art-tag:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* ── Tool card, highlight box cho mỗi tool ── */
+    .tool-card {
+      border-left: 3px solid var(--accent, #c0392b);
+      background: var(--surface, #f7f7f7);
+      border-radius: 0 8px 8px 0;
+      padding: 1rem 1.2rem;
+      margin: 1.5rem 0;
+      font-family: var(--sans);
+    }
+    .tool-card .tool-name {
+      font-size: .65rem;
+      letter-spacing: .2em;
+      text-transform: uppercase;
+      color: var(--accent, #c0392b);
+      font-weight: 600;
+      margin-bottom: .3rem;
+    }
+    .tool-card .tool-vibe {
+      font-size: .92rem;
+      font-weight: 600;
+      color: var(--text, #111);
+      margin-bottom: .4rem;
+    }
+    .tool-card .tool-desc {
+      font-size: .85rem;
+      color: var(--body, #444);
+      line-height: 1.65;
+    }
+
+    /* ── FAQ accordion ── */
+    .art-faq { margin: 2.5rem 0; }
+    .art-faq-label {
+      font-size: .62rem;
+      letter-spacing: .22em;
+      text-transform: uppercase;
+      color: var(--dim);
+      font-family: var(--sans);
+      margin-bottom: 1rem;
+    }
+    .faq-item { border-bottom: 1px solid var(--line, #e8e8e8); }
+    .faq-item:first-of-type { border-top: 1px solid var(--line, #e8e8e8); }
+    .faq-q {
+      width: 100%;
+      background: none;
+      border: none;
+      padding: 1rem 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      cursor: pointer;
+      font-size: .95rem;
+      font-weight: 600;
+      font-family: var(--sans);
+      color: var(--text, #111);
+      text-align: left;
+    }
+    .faq-q .faq-icon {
+      flex-shrink: 0;
+      font-size: 1.1rem;
+      color: var(--accent, #c0392b);
+      transition: transform .25s;
+    }
+    .faq-item.open .faq-q .faq-icon { transform: rotate(45deg); }
+    .faq-a {
+      display: none;
+      padding: 0 0 1rem;
+      font-size: .88rem;
+      line-height: 1.7;
+      color: var(--body, #333);
+      font-family: var(--sans);
+    }
+    .faq-item.open .faq-a { display: block; }
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Trang chủ",
+        "item": "https://techvision.click/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Tech News",
+        "item": "https://techvision.click/blog.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Google I/O 2026 Day 2: Google vừa xây xong hạ tầng cho người code bằng suy nghĩ",
+        "item": "https://techvision.click/articles/google-io-2026-day2-developer-keynote-vibe-coding-antigravity.html"
+      }
+    ]
+  }
+  </script>
+  <meta name="geo.region" content="VN">
+  <meta name="geo.placename" content="Vietnam">
+  <meta name="geo.position" content="14.0583;108.2772">
+  <meta name="ICBM" content="14.0583, 108.2772">
+</head>
+<body>
+
+  <div class="read-progress"><div class="read-progress-bar" id="progressBar"></div></div>
+
+  <nav class="top-bar">
+    <a href="/blog.html" class="back-link">Tech News</a>
+    <span class="page-label">Bài viết</span>
+  </nav>
+
+  <article>
+    <nav class="art-breadcrumb">
+      <a href="/">Home</a>
+      <span>›</span>
+      <a href="/blog.html">Tech News</a>
+      <span>›</span>
+      <span>AI &amp; Developer</span>
+    </nav>
+
+    <div class="art-meta">
+      <span class="cat">AI &amp; Developer</span>
+      <span class="sep">·</span>
+      <span>Google Developers Blog</span>
+      <span class="sep">·</span>
+      <span>20/05/2026</span>
+      <span class="sep">·</span>
+      <span>📖 <span id="readingTime">...</span></span>
+    </div>
+
+    <h1 class="art-title">Google I/O 2026 Day 2: Google vừa xây xong hạ tầng cho người code bằng suy nghĩ</h1>
+
+    <p class="art-deck">Antigravity 2.0, Managed Agents, Firebase AI, WebMCP, nếu bạn đang dùng AI để code thay vì tự gõ từng dòng, Day 2 của Google I/O 2026 là ngày dành riêng cho bạn. Đây là tất cả, giải thích không cần biết lập trình.</p>
+
+    <img class="art-hero"
+      src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOCollection_hero.width-1600.format-webp.webp"
+      onerror="this.src='https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO_Dev_Highlights.width-600.format-webp.webp';this.onerror=null"
+      alt="Google I/O 2026 Developer Keynote" loading="lazy">
+    <p class="art-hero-caption">Google I/O 2026 Developer Keynote, nguồn: Google</p>
+
+    <div class="art-tldr">
+      <div class="tldr-label">Tóm tắt nhanh</div>
+      <p>Day 2 Google I/O 2026 tập trung vào developer và vibe coder: <strong>Antigravity 2.0</strong>, desktop app quản lý nhiều AI agent chạy song song; <strong>Managed Agents</strong>, nhúng agent vào sản phẩm chỉ 1 lệnh API; <strong>Firebase AI Logic GA</strong>, gọi Gemini thẳng trong app không cần backend; <strong>vibe code Android</strong> từ AI Studio; <strong>WebMCP</strong>, chuẩn mở cho browser dùng AI agent; <strong>Migration Agent</strong>, chuyển app cũ sang Kotlin trong vài giờ. Google chính thức hóa "vibe coding" thành quy trình phát triển sản phẩm được hỗ trợ đầy đủ.</p>
+    </div>
+
+    <div class="art-tag-row">
+      <a href="#" class="art-tag">#GoogleIO2026</a>
+      <a href="#" class="art-tag">#VibeCoding</a>
+      <a href="#" class="art-tag">#Antigravity</a>
+      <a href="#" class="art-tag">#GeminiAPI</a>
+      <a href="#" class="art-tag">#FirebaseAI</a>
+      <a href="#" class="art-tag">#AIAgent</a>
+    </div>
+
+    <!-- TOC tự động -->
+    <div class="toc-box" id="toc">
+      <div class="toc-header">
+        <span class="toc-eyebrow">📋 Nội dung bài viết</span>
+        <button class="toc-toggle">▲ Thu gọn</button>
+      </div>
+      <div class="toc-body"></div>
+    </div>
+
+    <div class="art-body">
+
+<p>Nếu <a href="/articles/google-io-2026-recap-gemini-omni-android-xr.html">Day 1 của Google I/O 2026</a> là buổi ra mắt dành cho người dùng (kính AR, Gemini 3.5, AI Search), thì Day 2 là buổi Google nói thẳng với những người đang <strong>dùng AI để build sản phẩm</strong>, không phân biệt bạn là lập trình viên 10 năm hay người vừa bắt đầu code bằng Claude/Cursor tuần trước.</p>
+
+<p>Từ khoá chủ đạo của Day 2 chỉ có một: <strong>"từ ý tưởng đến production, không cần rời khỏi hệ sinh thái Google."</strong></p>
+
+<!-- Stats -->
+<div class="art-stats">
+  <div class="art-stat-card">
+    <div class="stat-num">6</div>
+    <div class="stat-label">Tool mới cho vibe coder</div>
+  </div>
+  <div class="art-stat-card">
+    <div class="stat-num">4×</div>
+    <div class="stat-label">Gemini 3.5 Flash nhanh hơn model cũ</div>
+  </div>
+  <div class="art-stat-card">
+    <div class="stat-num">1 call</div>
+    <div class="stat-label">Managed Agents, 1 API call = agent đầy đủ</div>
+  </div>
+  <div class="art-stat-card">
+    <div class="stat-num">$2M</div>
+    <div class="stat-label">Giải thưởng hackathon Build with Gemini XPRIZE</div>
+  </div>
+  <div class="art-stat-card">
+    <div class="stat-num">100+</div>
+    <div class="stat-label">Use case trong Modern Web Guidance</div>
+  </div>
+  <div class="art-stat-card">
+    <div class="stat-num">$100/tháng</div>
+    <div class="stat-label">Google AI Ultra, usage gấp 5 lần</div>
+  </div>
+</div>
+
+<h2>Antigravity 2.0, khi bạn có "trưởng nhóm AI" quản lý cả đội agent</h2>
+
+<p>Hãy tưởng tượng thế này: thay vì bạn phải ngồi chat với AI từng bước một, "viết header này", "sửa lỗi kia", "thêm tính năng nọ", bạn chỉ cần nói <em>"build cho tôi app này"</em>, rồi <strong>Antigravity tự tạo ra một nhóm AI agent nhỏ, phân công công việc và chạy song song</strong> cho đến khi xong.</p>
+
+<p>Đó chính xác là Antigravity 2.0, desktop app mới của Google ra mắt tại I/O 2026.</p>
+
+<div class="tool-card">
+  <div class="tool-name">🧠 Antigravity 2.0, Vibe coder cần biết</div>
+  <div class="tool-vibe">Giải thích đời thường: "Project manager AI cho đội agent của bạn"</div>
+  <div class="tool-desc">Bạn giao task → Antigravity tự tách thành nhiều việc nhỏ → tạo nhiều agent chuyên biệt → chạy song song → trả kết quả. Có thêm CLI (gõ lệnh từ terminal) và SDK (tích hợp vào công cụ riêng) cho ai muốn đi sâu hơn. Bảo mật tích hợp sẵn: sandbox cách ly, ẩn credentials, policy Git cứng.</div>
+</div>
+
+<p>Điểm khác biệt với Cursor hay Claude là Antigravity được thiết kế để chạy <strong>nhiều agent song song, tự động hoá toàn bộ workflow</strong>, không phải hỏi-đáp từng bước. Nó đặt lịch, chạy background task, và tích hợp thẳng với Android Studio lẫn Firebase.</p>
+
+<figure>
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO_Dev_Highlights.width-600.format-webp.webp"
+       onerror="this.src='https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOCollection_hero.width-600.format-webp.webp';this.onerror=null"
+       alt="Google I/O 2026 Developer Highlights, Antigravity và Gemini API" loading="lazy">
+  <figcaption>Antigravity 2.0 và Gemini API là trọng tâm của Developer Keynote, nguồn: Google Developers Blog</figcaption>
+</figure>
+
+<h2>Managed Agents, nhúng AI agent vào sản phẩm chỉ bằng 1 lệnh</h2>
+
+<p>Trước đây, nếu bạn muốn nhúng một <a href="/articles/ai-agents-enterprise-deployment-2026.html">AI agent thông minh</a> vào app của mình, kiểu agent tự suy nghĩ, tự dùng công cụ, tự chạy code, bạn phải tự dựng server, tự cấu hình môi trường, tự xử lý bảo mật. Với người vibe code, đây là bức tường khó vượt nhất.</p>
+
+<p>Google vừa phá bức tường đó bằng <strong>Managed Agents trong Gemini API</strong>.</p>
+
+<div class="tool-card">
+  <div class="tool-name">⚡ Managed Agents, Vibe coder cần biết</div>
+  <div class="tool-vibe">Giải thích đời thường: "Gọi 1 dòng code, nhận về 1 AI agent đầy đủ chức năng"</div>
+  <div class="tool-desc">Bạn gọi API → Google tự tạo ra agent có khả năng suy nghĩ, dùng tools, chạy code Python/JS trong môi trường Linux cách ly hoàn toàn → trả kết quả về cho app của bạn. Không cần dựng server, không cần lo infrastructure, không cần biết devops.</div>
+</div>
+
+<p>Nói đơn giản hơn: nếu trước đây bạn phải tự nấu ăn từ nguyên liệu thô, giờ Google đặt sẵn bếp, dao, nồi, và nguyên liệu, bạn chỉ cần nói "nấu món này" là có.</p>
+
+<figure>
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Introducing_Managed_Agents_in_the.width-600.format-webp.webp"
+       onerror="this.src='https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOCollection_social.width-600.format-webp.webp';this.onerror=null"
+       alt="Managed Agents trong Gemini API, Google I/O 2026" loading="lazy">
+  <figcaption>Managed Agents: spin up agent đầy đủ chỉ bằng một API call, nguồn: Google</figcaption>
+</figure>
+
+<h2>Vibe code Android app thẳng từ AI Studio, deploy 1 click</h2>
+
+<p>Đây là thứ nhiều vibe coder đang chờ: khả năng <strong>mô tả app Android bằng tiếng tự nhiên, AI tự viết Kotlin, và deploy thẳng lên production</strong>, tất cả trong một nơi.</p>
+
+<div class="tool-card">
+  <div class="tool-name">📱 Android Vibe Coding, Vibe coder cần biết</div>
+  <div class="tool-vibe">Giải thích đời thường: "Nói điều bạn muốn, nhận về app Android chạy được trên điện thoại"</div>
+  <div class="tool-desc">Google AI Studio giờ hỗ trợ native Kotlin, bạn prompt bằng tiếng Việt hoặc tiếng Anh, AI tự viết code Android chuẩn. Sau đó 1-click deploy lên Cloud Run với Firebase tích hợp sẵn. Không cần cài Android Studio, không cần biết Java hay Kotlin từ trước.</div>
+</div>
+
+<p>Google còn thêm tích hợp Google Play Console, nghĩa là từ lúc có ý tưởng đến lúc app xuất hiện trên Google Play, toàn bộ có thể làm từ AI Studio mà không cần cài thêm tool nào khác.</p>
+
+<figure>
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Dark_Mode.width-600.format-webp.webp"
+       onerror="this.src='https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOCollection_hero.width-600.format-webp.webp';this.onerror=null"
+       alt="Vibe coding Android app trong Google AI Studio" loading="lazy">
+  <figcaption>Vibe code Android app trong Google AI Studio, từ prompt đến app chạy được chỉ trong một nơi, nguồn: Google</figcaption>
+</figure>
+
+<h2>Firebase AI Logic, nhúng Gemini vào app không cần viết backend</h2>
+
+<p>Firebase là nền tảng nhiều vibe coder đã quen dùng để lưu data, xác thực user. Giờ Google thêm AI vào thẳng Firebase, và đây là GA (General Availability), tức là <strong>dùng được cho sản phẩm thật, không phải beta nữa</strong>.</p>
+
+<div class="tool-card">
+  <div class="tool-name">🔥 Firebase AI Logic, Vibe coder cần biết</div>
+  <div class="tool-vibe">Giải thích đời thường: "Gọi Gemini trong app như gọi Firestore, không cần server riêng"</div>
+  <div class="tool-desc">SDK Firebase mới cho phép gọi Gemini trực tiếp từ app iOS, Android hoặc web. Bảo mật theo đúng chuẩn Firebase (security rules), tự động quản lý API key, tự theo dõi usage. App của bạn connect thẳng Gemini với đúng 1 SDK quen thuộc, không cần dựng thêm backend Node.js hay Python.</div>
+</div>
+
+<p>Ngoài ra, bạn có thể kết nối app vibe-code từ AI Studio với dữ liệu Google Workspace (Docs, Sheets, Gmail), tức là app AI của bạn có thể đọc file Google Docs của công ty, trả lời email, tóm tắt dữ liệu từ Sheets mà không cần code thêm gì phức tạp.</p>
+
+<!-- Video embed -->
+<div class="art-video-label">🎬 Google I/O 2026, Developer Keynote đầy đủ</div>
+<div class="art-video-wrap">
+  <iframe
+    src="https://www.youtube.com/embed/aqmpZocmR8o?rel=0&modestbranding=1"
+    title="Developer Keynote, Google I/O 2026"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+</div>
+
+<h2>WebMCP, trình duyệt của bạn sắp biết "nói chuyện" với AI agent</h2>
+
+<p>Đây là thứ ít được nhắc đến nhưng có thể ảnh hưởng lớn nhất về lâu dài. WebMCP là <strong>chuẩn web mở</strong>, không phải sản phẩm của riêng Google, cho phép website "xuất ra" các công cụ để AI agent trong trình duyệt sử dụng.</p>
+
+<div class="tool-card">
+  <div class="tool-name">🌐 WebMCP, Vibe coder cần biết</div>
+  <div class="tool-vibe">Giải thích đời thường: "Website có thể giao công cụ cho AI agent của bạn dùng tự động"</div>
+  <div class="tool-desc">Ví dụ thực tế: một trang thương mại điện tử hỗ trợ WebMCP → AI agent của bạn có thể tự tìm sản phẩm, thêm giỏ hàng, điền thông tin giao hàng mà không cần bạn click từng bước. Đang thử nghiệm trên Chrome 149. Với vibe coder: nếu build web app, hỗ trợ WebMCP sẽ là lợi thế lớn khi AI agent ngày càng phổ biến.</div>
+</div>
+
+<h2>Android Studio Migration Agent, convert app cũ sang Kotlin trong vài giờ</h2>
+
+<p>Nhiều vibe coder đã build app bằng React Native, web framework (Next.js, Vue) hoặc từng code iOS, và giờ muốn đưa lên Android native. Trước đây đây là việc mất cả tháng. Google vừa rút ngắn xuống còn <strong>vài giờ</strong> bằng AI.</p>
+
+<div class="tool-card">
+  <div class="tool-name">🔄 Migration Agent, Vibe coder cần biết</div>
+  <div class="tool-vibe">Giải thích đời thường: "Đưa app React Native / iOS vào, nhận về app Android Kotlin chuẩn"</div>
+  <div class="tool-desc">Migration Agent trong Android Studio tự phân tích toàn bộ codebase hiện tại (React Native, web framework, hoặc iOS Swift), viết lại thành Kotlin Android native, và báo cáo từng bước. Việc trước đây cần team dev 3-4 người làm cả tháng, giờ 1 người vibe code có thể tự làm trong buổi chiều.</div>
+</div>
+
+<h2>Góc nhìn TechVision: Google đang bet lớn vào vibe coder</h2>
+
+<p>Nhìn tổng thể Day 2, có một điều rõ ràng: <strong>Google không còn xem vibe coding là "cách code lazy" nữa</strong>. Họ đang xây toàn bộ pipeline, từ prototype (AI Studio) → agent infrastructure (Antigravity, Managed Agents) → backend AI (Firebase AI Logic) → deploy (Cloud Run, Google Play), để một người duy nhất với ý tưởng tốt có thể đưa sản phẩm lên tay người dùng mà không cần team kỹ thuật.</p>
+
+<p>Đây cũng là câu trả lời trực tiếp của Google cho Cursor, Claude Code, <a href="/articles/microsoft-build-2026-copilot-plus-windows-ai-studio-github-copilot-workspace.html">GitHub Copilot Workspace</a>, và OpenAI Codex. Thay vì cạnh tranh trên từng tool đơn lẻ, Google đang cố gắng <strong>sở hữu toàn bộ hệ sinh thái</strong>, nếu bạn bắt đầu với AI Studio, bạn ở lại với Antigravity, Firebase, Cloud Run, Google Play.</p>
+
+<blockquote>
+  "Scaling vibe-coded prototypes into production requires a new class of tools.", Google I/O 2026 Developer Keynote
+</blockquote>
+
+<p>Câu này Google nói thẳng trong keynote, và toàn bộ Day 2 là câu trả lời cho nó. Nếu bạn đang trong hành trình từ "người dùng AI để code" lên "người build sản phẩm thật", đây là thời điểm tốt nhất từ trước đến nay.</p>
+
+    </div>
+
+    <!-- FAQ GEO -->
+    <div class="art-faq">
+      <div class="art-faq-label">❓ Câu hỏi thường gặp</div>
+
+      <div class="faq-item">
+        <button class="faq-q">Vibe coding là gì? <span class="faq-icon">+</span></button>
+        <div class="faq-a">Vibe coding là cách lập trình bằng ngôn ngữ tự nhiên, bạn mô tả ý tưởng, AI agent tự viết code cho bạn. Bạn không cần biết sâu về lập trình, chỉ cần biết mình muốn gì và biết kiểm tra kết quả. Google I/O 2026 chính thức hóa vibe coding thành quy trình phát triển sản phẩm được hỗ trợ đầy đủ từ prototype đến production.</div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q">Antigravity 2.0 khác gì Cursor hay Claude Code? <span class="faq-icon">+</span></button>
+        <div class="faq-a">Cursor và Claude Code giỏi ở chỗ hỏi-đáp từng bước (bạn hỏi, AI trả lời, bạn quyết định). Antigravity 2.0 thiết kế để <strong>tự chạy nhiều agent song song</strong> mà không cần bạn giám sát từng bước, phù hợp cho workflow phức tạp hoặc khi bạn muốn "giao cả dự án" thay vì "giao từng file". Cũng tích hợp sâu hơn với Android, Firebase và Google Cloud.</div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q">Managed Agents trong Gemini API là gì? <span class="faq-icon">+</span></button>
+        <div class="faq-a">Một tính năng mới cho phép tạo AI agent hoàn chỉnh bằng <strong>1 lệnh API duy nhất</strong>. Agent này tự suy nghĩ, dùng công cụ và chạy code trong Linux sandbox, bạn không cần tự dựng server hay cấu hình môi trường. Với vibe coder: bạn có thể nhúng agent thông minh vào app mà không cần biết devops.</div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q">Firebase AI Logic có gì mới? Dùng miễn phí không? <span class="faq-icon">+</span></button>
+        <div class="faq-a">Firebase AI Logic vừa ra mắt bản chính thức (GA), gọi Gemini trực tiếp từ app iOS/Android/web với bảo mật Firebase, không cần backend riêng. Về giá: Firebase có gói miễn phí (Spark) cho prototype, gói trả phí (Blaze) theo usage cho production. Gemini API calls tính theo số token, rẻ hơn đáng kể so với tự dựng server.</div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q">WebMCP là gì và ảnh hưởng đến người dùng thông thường ra sao? <span class="faq-icon">+</span></button>
+        <div class="faq-a">WebMCP là chuẩn web mới cho phép AI agent trong trình duyệt tự động thao tác trên website, điền form, click nút, lấy dữ liệu, thay bạn. Với người dùng thông thường: trong tương lai, bạn có thể bảo AI agent "đặt vé máy bay cho tôi" và nó tự làm toàn bộ trên các trang web hỗ trợ WebMCP. Đang thử nghiệm trên Chrome 149.</div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q">Có cần trả tiền để dùng Antigravity 2.0 không? <span class="faq-icon">+</span></button>
+        <div class="faq-a">Antigravity có gói miễn phí để thử, và gói <strong>Google AI Ultra $100/tháng</strong> cho usage gấp 5 lần, phù hợp với vibe coder đang build sản phẩm thật và cần chạy nhiều agent liên tục. Google cũng có hackathon <strong>Build with Gemini XPRIZE</strong> tổng giải thưởng $2 triệu, cơ hội tốt để vừa học vừa build.</div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q">Android Studio Migration Agent chuyển được app nào? <span class="faq-icon">+</span></button>
+        <div class="faq-a">Migration Agent hỗ trợ chuyển từ <strong>React Native, web frameworks (Next.js, Vue…) và iOS (Swift)</strong> sang Kotlin Android native. Việc trước đây mất vài tuần của cả team dev, giờ một người có thể làm trong vài giờ. Tính năng đang ở giai đoạn preview, cần cài Android Studio phiên bản mới nhất để dùng.</div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q">Google I/O 2026 Day 2 có gì cho người không phải developer? <span class="faq-icon">+</span></button>
+        <div class="faq-a">Day 2 chủ yếu dành cho người build sản phẩm. Nếu bạn là người dùng thông thường, điểm đáng chú ý nhất là <strong>WebMCP</strong> (trình duyệt thông minh hơn với AI agent) và <strong>vibe coding Android</strong> (app AI ngày càng nhiều và chất lượng hơn vì developer có tool tốt hơn). Tin tức dành cho người dùng thông thường tập trung ở Day 1.</div>
+      </div>
+
+    </div>
+
+    <!-- Author card -->
+    <div class="art-author-card">
+      <img class="author-avatar" src="/uploads/favicon-avatar.jpg" alt="Nguyễn Tấn Thiên Long" loading="lazy">
+      <div class="author-info">
+        <div class="author-name">Nguyễn Tấn Thiên Long</div>
+        <div class="author-role">Founder TechVision</div>
+        <p class="author-bio">Theo dõi công nghệ quốc tế từ năm 2018. Chuyên tổng hợp và dịch tin AI, smartphone, phần cứng từ các nguồn uy tín như TechCrunch, MacRumors, The Verge, CNBC.</p>
+        <div class="author-links">
+          <a href="https://techvision.click/cv.html" rel="author">About</a>
+          <a href="https://techvision.click/blog.html">Tech News</a>
+        </div>
+      </div>
+    </div>
+
+    <a href="https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/" target="_blank" rel="noopener" class="source-card">
+      <div class="source-card-label">Nguồn gốc</div>
+      <div class="source-card-name">All the news from the Google I/O 2026 Developer keynote</div>
+      <div class="source-card-url">developers.googleblog.com</div>
+    </a>
+
+    <div class="share-section">
+      <div class="share-label">Chia sẻ bài viết</div>
+      <div class="share-buttons">
+        <a href="#" data-share="facebook" class="share-btn" aria-label="Share on Facebook">
+          <svg viewBox="0 0 24 24"><path d="M9.198 21.5h4v-8.01h3.604l.396-3.98h-4V7.5a1 1 0 011-1h3v-4h-3a5 5 0 00-5 5v2.01h-2l-.396 3.98h2.396v8.01z"/></svg>
+          Facebook
+        </a>
+        <a href="#" data-share="twitter" class="share-btn" aria-label="Share on X">
+          <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          X (Twitter)
+        </a>
+        <button data-share="copy" class="share-btn" aria-label="Copy link">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"/></svg>
+          Copy link
+        </button>
+      </div>
+    </div>
+
+    <div class="related-section">
+      <div class="related-label">Bài liên quan</div>
+      <div class="related-grid">
+        <a href="/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html" class="related-card">
+          <div class="related-cat">AI</div>
+          <div class="related-title">Gemini Spark: trợ lý AI 24/7 tự làm việc thay người dùng, agentic, chạy nền xuyên Gmail/Docs</div>
+        </a>
+        <a href="/articles/google-io-2026-recap-gemini-omni-android-xr.html" class="related-card">
+          <div class="related-cat">AI</div>
+          <div class="related-title">Google I/O 2026 Day 1: Gemini 3.5, kính Android XR và mọi thứ Google công bố</div>
+        </a>
+        <a href="/articles/microsoft-build-2026-copilot-plus-windows-ai-studio-github-copilot-workspace.html" class="related-card">
+          <div class="related-cat">AI &amp; Developer</div>
+          <div class="related-title">Microsoft Build 2026: Copilot+, Windows AI Studio và GitHub Copilot Workspace</div>
+        </a>
+      </div>
+    </div>
+
+    <div class="comments-section" style="margin-top:3rem;padding-top:2rem;border-top:1px solid var(--line);">
+      <div style="font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--dim);margin-bottom:1rem;">Bình luận</div>
+      <script src="https://giscus.app/client.js"
+        data-repo="ragonsky-rgb/techvision.click"
+        data-repo-id="R_kgDOShbzSw"
+        data-category="General"
+        data-category-id="DIC_kwDOShbzS84C9hJr"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="vi"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+      </script>
+      <noscript>Bật JavaScript để xem bình luận.</noscript>
+    </div>
+
+    <div class="art-nav">
+      <a href="/blog.html">← Quay lại Tech News</a>
+      <a href="/">techvision.click</a>
+    </div>
+  </article>
+
+  <button class="dark-toggle" id="darkToggle" aria-label="Toggle dark mode">🌙</button>
+  <button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+  <button class="bookmark-btn" id="bookmarkBtn" aria-label="Lưu bài này">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+    </svg>
+  </button>
+  <div class="bookmarks-panel" id="bookmarksPanel" role="dialog" aria-label="Bài đã lưu">
+    <div class="bookmarks-title">📑 Bài đã lưu</div>
+    <div id="bookmarksList"></div>
+  </div>
+
+  <script src="/articles/_article.js"></script>
+  <script>
+    document.querySelectorAll('.faq-q').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const item = btn.closest('.faq-item');
+        const isOpen = item.classList.contains('open');
+        document.querySelectorAll('.faq-item.open').forEach(el => el.classList.remove('open'));
+        if (!isOpen) item.classList.add('open');
+      });
+    });
+  </script>
+</body>
+</html>

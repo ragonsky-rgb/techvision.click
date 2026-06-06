@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>iOS 27: Camera tùy biến, AI Extend, Enhance, Reframe — LongTechVision</title>
+  <meta name="description" content="iOS 27 nâng cấp Camera app tùy biến hoàn toàn, Visual Intelligence vào thẳng app qua Siri mode, Photos AI Extend và Enhance Reframe xử lý ảnh mạnh hơn.">
+  <meta name="keywords" content="iOS 27 camera app, iOS 27 tính năng mới, Photos Extend iOS 27, Visual Intelligence iOS 27, iOS 27 chỉnh ảnh AI, Camera app tùy biến, iOS 27 WWDC 2026, Enhance Reframe iOS 27">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <meta name="theme-color" content="#c0392b">
+  <link rel="canonical" href="https://techvision.click/articles/ios-27-camera-app-moi-photos-ai-extend-enhance-reframe.html">
+  <link rel="dns-prefetch" href="//9to5mac.com">
+  <link rel="preload" as="image" href="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/camera-photos-app-icons-ios-26.jpg?quality=82&strip=all&w=1600" fetchpriority="high">
+  <link rel="icon" type="image/jpeg" href="/uploads/favicon-avatar.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/articles/_article-style.css">
+  <link rel="manifest" href="/manifest.webmanifest">
+
+  <style>
+    .art-stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    .art-stat-card {
+      background: rgba(192,57,43,0.06);
+      border: 1px solid rgba(192,57,43,0.15);
+      border-radius: 8px;
+      padding: 1.2rem 1rem;
+      text-align: center;
+    }
+    body.dark .art-stat-card {
+      background: rgba(192,57,43,0.10);
+      border-color: rgba(192,57,43,0.25);
+    }
+    .art-stat-number {
+      font-family: var(--serif);
+      font-size: 1.7rem;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1.1;
+      display: block;
+    }
+    .art-stat-label {
+      font-size: 0.7rem;
+      color: var(--dim);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-top: 0.4rem;
+      display: block;
+      line-height: 1.4;
+    }
+    .art-callout {
+      border-left: 3px solid var(--accent);
+      padding: 1rem 1.4rem;
+      margin: 2rem 0;
+      background: rgba(192,57,43,0.04);
+      border-radius: 0 6px 6px 0;
+    }
+    body.dark .art-callout { background: rgba(192,57,43,0.08); }
+    .art-callout p {
+      margin: 0;
+      font-size: 0.97rem;
+      line-height: 1.75;
+      color: var(--muted);
+      font-style: italic;
+    }
+    .art-callout strong { color: var(--text); font-style: normal; }
+    .feature-card {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 1.4rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+    .feature-card-title {
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .feature-badge {
+      font-size: 0.55rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      padding: 0.2rem 0.55rem;
+      border-radius: 3px;
+      background: rgba(192,57,43,0.12);
+      color: var(--accent);
+      font-family: var(--sans);
+    }
+    .feature-badge.warn {
+      background: rgba(243,156,18,0.12);
+      color: #d68910;
+    }
+    .feature-card p {
+      font-size: 0.9rem;
+      line-height: 1.7;
+      color: var(--muted);
+      margin: 0;
+    }
+  </style>
+
+  <script defer src="/_vercel/insights/script.js"></script>
+
+  <!-- OG / Twitter -->
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="vi_VN">
+  <meta property="og:site_name" content="LongTechVision">
+  <meta property="og:url" content="https://techvision.click/articles/ios-27-camera-app-moi-photos-ai-extend-enhance-reframe.html">
+  <meta property="og:title" content="iOS 27: Camera App Tùy Biến Hoàn Toàn + 3 Tính Năng AI Ảnh Mới: Extend, Enhance, Reframe">
+  <meta property="og:description" content="iOS 27 cho phép tùy biến Camera app theo ý muốn, Visual Intelligence vào thẳng app qua Siri mode, và 3 AI photo tools mới: trong đó Extend hoạt động như Photoshop generative fill.">
+  <meta property="og:image" content="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/camera-photos-app-icons-ios-26.jpg?quality=82&strip=all&w=1200">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="iOS 27: Camera App tùy biến + AI Extend/Enhance/Reframe trong Photos">
+  <meta name="twitter:image" content="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/camera-photos-app-icons-ios-26.jpg?quality=82&strip=all&w=1200">
+
+  <!-- JSON-LD: NewsArticle -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://techvision.click/articles/ios-27-camera-app-moi-photos-ai-extend-enhance-reframe.html"
+    },
+    "headline": "iOS 27: Camera App Tùy Biến Hoàn Toàn, Visual Intelligence Vào Thẳng App, 3 Tính Năng AI Chỉnh Ảnh Mới",
+    "description": "iOS 27 nâng cấp Camera app tùy biến hoàn toàn, Visual Intelligence qua Siri mode, và 3 AI photo tools: Extend, Enhance, Reframe. Ra mắt WWDC 8/6/2026.",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/camera-photos-app-icons-ios-26.jpg?quality=82&strip=all&w=1200",
+      "width": 1200,
+      "height": 675
+    },
+    "datePublished": "2026-05-24T10:00:00+07:00",
+    "dateModified": "2026-05-24T10:00:00+07:00",
+    "author": {
+      "@type": "Person",
+      "name": "Nguyễn Tấn Thiên Long",
+      "url": "https://techvision.click/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "LongTechVision",
+      "url": "https://techvision.click/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://techvision.click/uploads/favicon-avatar.jpg"
+      }
+    },
+    "articleSection": "iOS",
+    "inLanguage": "vi-VN",
+    "keywords": ["iOS 27 Camera", "Photos Extend iOS 27", "Visual Intelligence iOS 27", "iOS 27 WWDC 2026", "AI chỉnh ảnh iPhone"],
+    "wordCount": 1300,
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [".art-title", ".art-deck", ".art-tldr"]
+    },
+    "isPartOf": {
+      "@type": "Blog",
+      "name": "LongTechVision Tech News",
+      "url": "https://techvision.click/blog.html"
+    }
+  }
+  </script>
+
+  <!-- JSON-LD: FAQPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "iOS 27 có tính năng Camera mới gì?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "iOS 27 cho phép tùy biến Camera app hoàn toàn: người dùng tự chọn các control xuất hiện (flash, exposure, timer, resolution) và vị trí đặt chúng. Nút toggle controls chuyển từ góc trên phải sang ngay cạnh nút chụp. Visual Intelligence cũng được tích hợp thẳng vào Camera app qua một Siri mode mới, không cần dùng Camera Control như trước."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Tính năng Extend trong iOS 27 là gì?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Extend là tính năng AI trong Photos app của iOS 27 cho phép tạo nội dung ngoài khung ảnh gốc: tương tự Photoshop Generative Fill hay Google Photos Magic Eraser mở rộng. Tuy nhiên, theo nguồn tin 9to5Mac, Extend hiện chưa hoạt động đáng tin cậy và có thể bị delay sang iOS 27.1 thay vì ra cùng bản đầu tiên."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Visual Intelligence trong iOS 27 khác gì iOS 26?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Trên iOS 26 (hiện tại), Visual Intelligence chủ yếu truy cập qua nút Camera Control vật lý trên iPhone 16 series. iOS 27 đưa tính năng này thẳng vào Camera app qua Siri mode, giúp nhiều người dùng hơn tiếp cận được: kể cả người không có iPhone 16. Thêm hai khả năng mới: scan nhãn dinh dưỡng thực phẩm và đọc danh thiếp để tạo contact."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Tính năng Reframe trong iOS 27 dùng để làm gì?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Reframe là tính năng AI trong Photos app iOS 27 cho phép điều chỉnh góc nhìn (perspective) của ảnh không gian (spatial photos) sau khi đã chụp xong. Phù hợp với người dùng Apple Vision Pro. Tương tự Extend, Reframe cũng đang trong quá trình hoàn thiện và có thể không kịp ra mắt cùng iOS 27.0."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "iOS 27 ra mắt khi nào?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "iOS 27 dự kiến được Apple công bố tại WWDC ngày 8/6/2026 với bản developer beta đầu tiên. Bản chính thức thường ra cùng iPhone mới vào tháng 9/2026. iOS 27 = phiên bản tiếp theo sau iOS 26 (Apple đổi sang đặt tên theo năm từ WWDC 2025)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "iOS 27 có nâng cấp gì cho Photography chuyên nghiệp?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Camera app iOS 27 hướng đến professional photographers với khả năng tùy biến interface theo workflow cá nhân: tự xếp các control như flash, exposure, timer, resolution theo thứ tự ưu tiên. Đây là thay đổi đầu tiên lớn của Camera app về mặt UI kể từ nhiều năm: người dùng phổ thông cũng hưởng lợi nhưng dân photography chuyên nghiệp sẽ thấy rõ nhất."
+        }
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Trang chủ",
+        "item": "https://techvision.click/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Tech News",
+        "item": "https://techvision.click/blog.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "iOS 27: Camera App Tùy Biến Hoàn Toàn, Visual Intelligence Vào Thẳng App, 3 Tính Năng AI Chỉnh Ảnh Mới: Extend, Enhance, Reframe",
+        "item": "https://techvision.click/articles/ios-27-camera-app-moi-photos-ai-extend-enhance-reframe.html"
+      }
+    ]
+  }
+  </script>
+  <meta name="geo.region" content="VN">
+  <meta name="geo.placename" content="Vietnam">
+  <meta name="geo.position" content="14.0583;108.2772">
+  <meta name="ICBM" content="14.0583, 108.2772">
+</head>
+
+<body>
+<div class="read-progress" id="readProgress"></div>
+
+<nav class="top-bar">
+  <a href="/blog.html" class="back-link">Tech News</a>
+  <span class="page-label">iOS</span>
+</nav>
+
+<article>
+
+  <!-- 1. Breadcrumb -->
+  <nav class="art-breadcrumb" aria-label="breadcrumb">
+    <a href="/">Trang chủ</a>
+    <span class="bc-sep">›</span>
+    <a href="/blog.html">Tech News</a>
+    <span class="bc-sep">›</span>
+    <span>iOS 27 Camera &amp; Photos</span>
+  </nav>
+
+  <!-- 2. Meta row -->
+  <div class="art-meta">
+    <span class="cat">iOS</span>
+    <span class="sep">&#183;</span>
+    <time datetime="2026-05-24">24/05/2026</time>
+    <span class="sep">&#183;</span>
+    <span id="readingTime">đang tính...</span>
+  </div>
+
+  <!-- 3. Title + Deck -->
+  <h1 class="art-title">iOS 27: Camera App Tùy Biến Hoàn Toàn, Visual Intelligence Vào Thẳng App, 3 Tính Năng AI Chỉnh Ảnh Mới: Extend, Enhance, Reframe</h1>
+  <p class="art-deck">Leak mới nhất từ 9to5Mac trước WWDC 8/6: iOS 27 cho phép người dùng tự sắp xếp Camera app theo ý muốn như một bộ controls pro, đưa Visual Intelligence vào thẳng app Camera qua Siri mode, và thêm 3 công cụ AI trong Photos: trong đó Extend hoạt động như Photoshop Generative Fill ngay trên iPhone.</p>
+
+  <!-- 4. Hero Image -->
+  <img
+    class="art-hero"
+    src="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/camera-photos-app-icons-ios-26.jpg?quality=82&strip=all&w=1600"
+    onerror="this.onerror=null;this.src='https://9to5mac.com/wp-content/uploads/sites/6/2026/05/camera-photos-app-icons-ios-26.jpg?quality=82&strip=all&w=800';"
+    alt="iOS 27 Camera app và Photos app icons cải tiến"
+    width="1600" height="900"
+    loading="eager" fetchpriority="high">
+  <p class="art-hero-caption">iOS 27 nâng cấp cả Camera lẫn Photos app: ra mắt WWDC 8/6/2026 · Ảnh: 9to5Mac</p>
+
+  <!-- 5. TL;DR -->
+  <div class="art-tldr">
+    <div class="tldr-label">Tóm tắt nhanh</div>
+    <p>
+      Theo leak từ <strong>9to5Mac</strong> (23/5/2026), iOS 27 sẽ nâng cấp Camera và Photos app với:<br>
+      <strong>Camera app:</strong> tùy biến controls hoàn toàn (flash, exposure, timer, resolution), nút toggle chuyển cạnh shutter button.<br>
+      <strong>Visual Intelligence:</strong> tích hợp vào Camera qua <strong>Siri mode</strong> mới, thêm scan nhãn dinh dưỡng + đọc danh thiếp tạo contact.<br>
+      <strong>Photos AI:</strong> 3 tính năng mới: <strong>Extend</strong> (generative fill ngoài khung ảnh), <strong>Enhance</strong> (cải thiện màu sắc &amp; ánh sáng), <strong>Reframe</strong> (chỉnh góc nhìn spatial photos).<br>
+      <strong>Lưu ý:</strong> Extend và Reframe chưa hoạt động ổn định, có thể delay sang iOS 27.1.
+    </p>
+  </div>
+
+  <!-- 6. Tags -->
+  <div class="art-tag-row">
+    <span class="art-tag">iOS 27</span>
+    <span class="art-tag">Camera App</span>
+    <span class="art-tag">Visual Intelligence</span>
+    <span class="art-tag">Photos AI</span>
+    <span class="art-tag">Extend</span>
+    <span class="art-tag">WWDC 2026</span>
+    <span class="art-tag">Apple Intelligence</span>
+  </div>
+
+  <!-- 7. TOC -->
+  <div class="toc-box" id="toc">
+    <div class="toc-header">
+      <span class="toc-eyebrow">&#128203; Nội dung bài viết</span>
+      <button class="toc-toggle">&#9650; Thu gọn</button>
+    </div>
+    <div class="toc-body"></div>
+  </div>
+
+  <!-- 8. Article Body -->
+  <div class="art-body">
+
+    <h2>Bối cảnh: iOS 27 ra mắt WWDC 8/6: đây là leak lớn nhất tuần này</h2>
+    <p>Chỉ còn hơn 2 tuần trước WWDC 2026 (ngày 8/6), các leak về iOS 27 đang đến dày đặc. Sau loạt tin về <a href="/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html">Siri 2.0, Liquid Glass fix và AI bên thứ ba</a>, 9to5Mac vừa tiết lộ hai mảng nâng cấp quan trọng tiếp theo: <strong>Camera app được tùy biến hoàn toàn</strong> và <strong>Photos app có 3 công cụ AI mới</strong>: bao gồm tính năng generative fill chưa từng có trên iPhone.</p>
+
+    <p>Nhắc lại để không nhầm: <strong>iOS 26</strong> là hệ điều hành hiện tại trên iPhone (Apple đổi sang đặt tên theo năm từ WWDC 2025). <strong>iOS 27</strong> là phiên bản tiếp theo, công bố tháng 6/2026 và ra chính thức cùng iPhone 17 series vào tháng 9/2026.</p>
+
+    <div class="art-stats">
+      <div class="art-stat-card">
+        <span class="art-stat-number">3</span>
+        <span class="art-stat-label">AI tools mới<br>trong Photos app</span>
+      </div>
+      <div class="art-stat-card">
+        <span class="art-stat-number">2</span>
+        <span class="art-stat-label">nâng cấp<br>Visual Intelligence</span>
+      </div>
+      <div class="art-stat-card">
+        <span class="art-stat-number">8/6</span>
+        <span class="art-stat-label">WWDC 2026<br>ngày công bố</span>
+      </div>
+      <div class="art-stat-card">
+        <span class="art-stat-number">Pro</span>
+        <span class="art-stat-label">Camera app<br>hướng đến</span>
+      </div>
+    </div>
+
+    <figure>
+      <img src="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-02.jpg?quality=82&strip=all&w=1024"
+           onerror="this.onerror=null;this.src='https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27.jpg?quality=82&strip=all&w=800';"
+           alt="iOS 27 concept design trước WWDC 2026"
+           loading="lazy">
+      <figcaption>iOS 27: phiên bản iOS tiếp theo, dự kiến ra mắt tại WWDC ngày 8/6/2026 · Ảnh: 9to5Mac</figcaption>
+    </figure>
+
+    <h2>Camera App: Tùy biến như một máy ảnh chuyên nghiệp</h2>
+    <p>Thay đổi lớn nhất của Camera app trong iOS 27 là <strong>khả năng tùy biến interface hoàn toàn</strong>. Lần đầu tiên, người dùng có thể tự chọn <em>control nào xuất hiện</em> trong app và <em>đặt ở vị trí nào</em>. Các control có thể sắp xếp bao gồm:</p>
+    <ul>
+      <li><strong>Flash</strong>: bật/tắt hoặc chế độ tự động</li>
+      <li><strong>Exposure</strong>: chỉnh độ phơi sáng nhanh</li>
+      <li><strong>Timer</strong>: hẹn giờ tự chụp</li>
+      <li><strong>Resolution</strong>: chuyển nhanh giữa ProRAW, HEIF, JPEG</li>
+    </ul>
+
+    <p>Đặc biệt, <strong>nút toggle controls sẽ di chuyển từ góc trên bên phải xuống ngay cạnh nút chụp</strong>: thay đổi nhỏ nhưng hợp lý hơn nhiều khi cầm máy một tay. Theo 9to5Mac, Apple thiết kế những nâng cấp này <em>"để phục vụ các nhiếp ảnh gia chuyên nghiệp với các tùy chọn nâng cao"</em>: nhưng người dùng phổ thông cũng hưởng lợi từ UI gọn gàng hơn.</p>
+
+    <div class="art-callout">
+      <p><strong>So sánh nhanh:</strong> Camera app của Android (đặc biệt Samsung Pro Mode, Google Camera) đã có tùy biến controls từ lâu. Apple đang theo kịp sau nhiều năm giữ interface Camera cực kỳ minimalist. Với iOS 27, lần đầu tiên người dùng iPhone có thể set up Camera app như một máy ảnh mirrorless: đặt các control theo workflow chụp riêng của mình.</p>
+    </div>
+
+    <figure>
+      <img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/This-could-be-the-best-thing-to-ever-happen-to-Apples-Camera-app.jpg?quality=82&strip=all&w=1024"
+           onerror="this.onerror=null;this.src='https://9to5mac.com/wp-content/uploads/sites/6/2025/08/camera-app-ios-26-icon.jpg?quality=82&strip=all&w=800';"
+           alt="Camera app iOS 27 tùy biến controls chuyên nghiệp: thay đổi lớn nhất trong nhiều năm"
+           loading="lazy">
+      <figcaption>Camera app iOS 27: lần đầu tiên Apple cho phép tùy biến controls theo workflow cá nhân: hướng đến nhiếp ảnh gia chuyên nghiệp · Ảnh: 9to5Mac</figcaption>
+    </figure>
+
+    <h2>Visual Intelligence: Vào thẳng Camera app, không cần Camera Control</h2>
+
+    <figure>
+      <img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/visual-intelligence-plant-lookup.jpg?quality=82&strip=all&w=1024"
+           onerror="this.onerror=null;this.src='https://9to5mac.com/wp-content/uploads/sites/6/2026/05/camera-photos-app-icons-ios-26.jpg?quality=82&strip=all&w=800';"
+           alt="Visual Intelligence nhận diện cây cối trong iOS 27"
+           loading="lazy">
+      <figcaption>Visual Intelligence trên iOS 27: tích hợp thẳng vào Camera qua Siri mode, không cần nút Camera Control vật lý · Ảnh: 9to5Mac</figcaption>
+    </figure>
+
+    <p>Trên iOS 26 hiện tại, <strong>Visual Intelligence</strong> (nhận dạng đối tượng bằng camera thời gian thực) chủ yếu truy cập qua <strong>nút Camera Control vật lý</strong>: tức là chỉ người dùng iPhone 16 series mới dùng được dễ dàng. iOS 27 thay đổi điều này: Visual Intelligence sẽ được <strong>tích hợp thẳng vào Camera app qua một Siri mode mới</strong>, không cần hardware đặc biệt.</p>
+
+    <p>Cùng với đó, hai khả năng mới được bổ sung vào Visual Intelligence:</p>
+    <ul>
+      <li><strong>Scan nhãn dinh dưỡng thực phẩm</strong>: chỉ cần giơ camera vào bao bì, iOS tự nhận diện và ghi lại thông tin calories, protein, carbs vào ứng dụng sức khỏe</li>
+      <li><strong>Đọc danh thiếp (business card)</strong>: quét danh thiếp bất kỳ, iOS tự tạo contact đầy đủ trong Contacts app, không cần nhập tay</li>
+    </ul>
+
+    <p>Hai tính năng này nghe đơn giản nhưng cực kỳ thực dụng: đặc biệt với người hay đi sự kiện, hội nghị, hoặc đang theo dõi chế độ ăn uống.</p>
+
+    <h2>Photos App: 3 Công Cụ AI Mới: Extend, Enhance, Reframe</h2>
+    <p>Đây là phần đáng chú ý nhất. iOS 27 bổ sung <strong>ba tính năng AI chỉnh ảnh</strong> vào Photos app, tất cả chạy on-device bằng Apple Intelligence:</p>
+
+    <div class="feature-card">
+      <div class="feature-card-title">
+        ✨ Extend
+        <span class="feature-badge">Mới hoàn toàn</span>
+        <span class="feature-badge warn">Có thể delay</span>
+      </div>
+      <p>Tính năng AI tạo ra nội dung <strong>ngoài khung ảnh gốc</strong>: tức là "mở rộng" bức ảnh ra ngoài biên giới ban đầu. Nguyên lý giống với <strong>Photoshop Generative Fill</strong> (Adobe) hay <strong>Magic Eraser / Best Take</strong> (Google Photos). Ví dụ: bạn có ảnh chân dung nhưng bị cắt hơi sát: Extend sẽ "vẽ thêm" phông nền tự nhiên ra hai bên. Đây là tính năng lần đầu xuất hiện trên iPhone nhưng theo 9to5Mac, Extend hiện <strong>chưa hoạt động đáng tin cậy</strong> và có thể bị trì hoãn sang iOS 27.1.</p>
+    </div>
+
+    <div class="feature-card">
+      <div class="feature-card-title">
+        🎨 Enhance
+        <span class="feature-badge">Mới hoàn toàn</span>
+      </div>
+      <p>Cải thiện tổng thể chất lượng ảnh bằng AI: <strong>màu sắc, ánh sáng và chất lượng hình ảnh</strong> được tối ưu tự động. Khác với nút "Auto" hiện có trong Photos (chỉ chỉnh exposure/contrast đơn giản), Enhance của iOS 27 dùng mô hình AI để phân tích toàn bức ảnh và áp dụng chỉnh sửa chi tiết hơn: tiệm cận với những gì Lightroom AI hay Google Photos Magic Photo làm. Đây là tính năng khả năng ra mắt ổn định nhất trong ba.</p>
+    </div>
+
+    <div class="feature-card">
+      <div class="feature-card-title">
+        🔲 Reframe
+        <span class="feature-badge">Mới hoàn toàn</span>
+        <span class="feature-badge warn">Có thể delay</span>
+      </div>
+      <p>Điều chỉnh <strong>góc nhìn (perspective) của ảnh không gian (spatial photos)</strong> sau khi đã chụp: tức là ảnh 3D chụp bằng iPhone 15 Pro/16 series hoặc Apple Vision Pro. Cho phép thay đổi góc nhìn của cảnh như thể bạn đang đứng ở vị trí khác khi chụp. Tính năng thú vị nhưng niche, phục vụ người dùng đã có spatial content. Cũng đang trong trạng thái <strong>chưa ổn định</strong> theo nguồn tin.</p>
+    </div>
+
+    <figure>
+      <img src="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro-orange.jpg?quality=82&strip=all&w=1024"
+           onerror="this.onerror=null;this.src='https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-intelligence-liquid-glass.jpg?quality=82&strip=all&w=800';"
+           alt="Apple Intelligence trên iPhone: Photos AI tools iOS 27 Extend Enhance Reframe"
+           loading="lazy">
+      <figcaption>Apple Intelligence chạy on-device trên iPhone: nền tảng cho ba tính năng AI mới trong Photos app iOS 27 · Ảnh: 9to5Mac</figcaption>
+    </figure>
+
+    <h2>Lưu ý quan trọng: Extend và Reframe có thể không kịp iOS 27.0</h2>
+    <p>9to5Mac nhấn mạnh rằng cả <strong>Extend</strong> và <strong>Reframe</strong> hiện <em>"chưa hoạt động đáng tin cậy"</em>. Apple vẫn còn hơn 3 tháng để hoàn thiện (iOS 27.0 dự kiến tháng 9/2026), nhưng rủi ro delay là có thật. Lịch sử gần đây cho thấy Apple không ngại cắt tính năng khỏi bản public release nếu chưa đạt chất lượng: Apple Intelligence trên iOS 18.0 ban đầu cũng thiếu nhiều tính năng so với công bố tại WWDC.</p>
+
+    <div class="art-callout">
+      <p><strong>Kịch bản thực tế nhất:</strong> <strong>Enhance</strong> ra cùng iOS 27.0 vào tháng 9/2026. <strong>Extend</strong> và <strong>Reframe</strong> có thể ra theo trong iOS 27.1 hoặc 27.2 vào cuối năm: giống cách Apple Intelligence rollout theo từng đợt trên iOS 18/18.1/18.2.</p>
+    </div>
+
+    <div class="art-video">
+      <iframe src="https://www.youtube.com/embed/laIYOAKogPs"
+              title="iOS 27: Tất cả tính năng mới leak trước WWDC 2026"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen loading="lazy"></iframe>
+    </div>
+    <p class="art-video-caption">Tổng hợp các tính năng iOS 27 được leak trước WWDC 8/6/2026: bao gồm Camera app, Photos AI và nhiều hơn nữa · Video: 9to5Mac / YouTube</p>
+
+  </div><!-- end art-body -->
+
+  <!-- 9. Source card -->
+  <a href="https://9to5mac.com/2026/05/23/new-camera-app-and-photos-editing-features-coming-to-ios-27/" target="_blank" rel="noopener" class="source-card">
+    <div class="source-card-label">Nguồn tham khảo chính</div>
+    <div class="source-card-name">New Camera app and Photos editing features coming to iOS 27</div>
+    <div class="source-card-url">9to5mac.com</div>
+  </a>
+
+  <!-- 10. Internal links -->
+  <div class="art-footer-links">
+    <p class="art-footer-links-label">Đọc thêm trên TechVision</p>
+    <a href="/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html" class="art-internal-link">
+      <span class="art-internal-link-icon">&#128279;</span>
+      <div>
+        <div class="art-internal-link-label">Liên quan · iOS 27</div>
+        <div class="art-internal-link-title">iOS 27 Leak Toàn Tập Trước WWDC 8/6: Siri 2.0, Camera mới, iPhone Fold, AI bên thứ ba</div>
+      </div>
+    </a>
+    <a href="/articles/wwdc-2026-ios-27-siri-redesign.html" class="art-internal-link">
+      <span class="art-internal-link-icon">&#128279;</span>
+      <div>
+        <div class="art-internal-link-label">Liên quan · WWDC</div>
+        <div class="art-internal-link-title">WWDC 2026: iOS 27 Siri 2.0 redesign, 5G vệ tinh và những gì Apple chuẩn bị</div>
+      </div>
+    </a>
+    <a href="/articles/iphone-fold-2026-apple-foldable.html" class="art-internal-link">
+      <span class="art-internal-link-icon">&#128279;</span>
+      <div>
+        <div class="art-internal-link-label">Liên quan · Apple</div>
+        <div class="art-internal-link-title">iPhone Fold 2026: Apple chính thức gia nhập cuộc đua điện thoại gập: mỏng 4.5mm, màn 7.8 inch</div>
+      </div>
+    </a>
+  </div>
+
+  <!-- 11. FAQ HTML -->
+  <div class="art-faq">
+    <h2>Câu hỏi thường gặp</h2>
+    <div class="faq-item">
+      <div class="faq-q">iOS 27 có tính năng Camera mới gì?</div>
+      <div class="faq-a">Camera app iOS 27 cho phép tùy biến controls hoàn toàn: chọn flash, exposure, timer, resolution xuất hiện ở đâu và thứ tự nào. Nút toggle controls cũng chuyển cạnh shutter button. Visual Intelligence tích hợp vào Camera qua Siri mode mới: không cần nút Camera Control vật lý.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Tính năng Extend trong iOS 27 là gì?</div>
+      <div class="faq-a">Extend là AI tool trong Photos app cho phép tạo nội dung ngoài khung ảnh gốc: giống Photoshop Generative Fill. Tuy nhiên theo 9to5Mac, Extend chưa hoạt động ổn định và có thể delay sang iOS 27.1 thay vì ra cùng bản 27.0 tháng 9/2026.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">iOS 27 ra mắt khi nào?</div>
+      <div class="faq-a">Apple công bố iOS 27 tại WWDC ngày 8/6/2026 kèm developer beta. Bản chính thức ra vào tháng 9/2026 cùng iPhone 17 series. iOS 27 là phiên bản tiếp theo của iOS 26 (hiện tại): Apple đặt tên theo năm từ WWDC 2025.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Visual Intelligence iOS 27 khác gì iOS 26?</div>
+      <div class="faq-a">iOS 26: Visual Intelligence chủ yếu qua Camera Control vật lý (chỉ iPhone 16). iOS 27: tích hợp thẳng vào Camera app qua Siri mode (mọi iPhone hỗ trợ), thêm scan nhãn dinh dưỡng và đọc danh thiếp tạo contact tự động.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Ba tính năng AI mới trong Photos iOS 27 là gì?</div>
+      <div class="faq-a">Extend (tạo nội dung ngoài khung ảnh: có thể delay), Enhance (cải thiện màu sắc và ánh sáng tự động) và Reframe (điều chỉnh góc nhìn spatial photos: có thể delay). Enhance là tính năng ổn định nhất và khả năng cao ra cùng iOS 27.0.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">iPhone nào hỗ trợ tính năng AI mới trong iOS 27?</div>
+      <div class="faq-a">Các tính năng Apple Intelligence (bao gồm Extend, Enhance, Reframe) yêu cầu iPhone 15 Pro trở lên hoặc iPhone 16 series: cần chip A17 Pro hoặc A18 trở lên. iPhone 15 thường trở xuống không hỗ trợ Apple Intelligence.</div>
+    </div>
+  </div>
+
+  <!-- 12. Author card -->
+  <div class="art-author-card">
+    <img class="author-avatar" src="/uploads/favicon-avatar.jpg" alt="Nguyễn Tấn Thiên Long" loading="lazy">
+    <div class="author-info">
+      <div class="author-name">Nguyễn Tấn Thiên Long</div>
+      <div class="author-role">Founder TechVision</div>
+      <p class="author-bio">Theo dõi công nghệ quốc tế từ năm 2018. Chuyên tổng hợp và dịch tin AI, smartphone, phần cứng từ các nguồn uy tín như 9to5Mac, MacRumors, The Verge, TechCrunch.</p>
+      <div class="author-links">
+        <a href="https://techvision.click/cv.html" rel="author">About</a>
+        <a href="https://techvision.click/blog.html">Tech News</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 13. Related articles -->
+  <div class="related-section">
+    <div class="related-label">Bài liên quan</div>
+    <div class="related-grid">
+      <a href="/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html" class="related-card">
+        <div class="related-cat">iOS 27</div>
+        <div class="related-title">iOS 27 Leak Toàn Tập: Siri 2.0, Camera mới, iPhone Fold, AI bên thứ ba</div>
+      </a>
+      <a href="/articles/wwdc-2026-ios-27-siri-redesign.html" class="related-card">
+        <div class="related-cat">WWDC 2026</div>
+        <div class="related-title">WWDC 2026: iOS 27 Siri 2.0 redesign, 5G vệ tinh và những gì Apple chuẩn bị</div>
+      </a>
+      <a href="/articles/iphone-fold-2026-apple-foldable.html" class="related-card">
+        <div class="related-cat">Apple</div>
+        <div class="related-title">iPhone Fold 2026: Mỏng 4.5mm, màn 7.8 inch, Touch ID, giá từ $2,000</div>
+      </a>
+    </div>
+  </div>
+
+  <!-- 14. Comments -->
+  <div class="comments-section" style="margin-top:3rem;padding-top:2rem;border-top:1px solid var(--line);">
+    <div style="font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--dim);margin-bottom:1rem;">Bình luận</div>
+    <script src="https://giscus.app/client.js"
+      data-repo="ragonsky-rgb/techvision.click"
+      data-repo-id="R_kgDOShbzSw"
+      data-category="General"
+      data-category-id="DIC_kwDOShbzS84C9hJr"
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="top"
+      data-theme="preferred_color_scheme"
+      data-lang="vi"
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async>
+    </script>
+    <noscript>Bật JavaScript để xem bình luận.</noscript>
+  </div>
+
+  <!-- 15. Prev/Next Nav -->
+  <div class="art-nav">
+    <a href="/articles/anker-soundcore-liberty-5-pro-max-thus-ai-chip-amoled-2026.html" class="art-nav-prev">← Soundcore Liberty 5 Pro Max: Chip AI 150x, AMOLED, 8 Micro Guinness</a>
+    <a href="/blog.html" class="art-nav-next">Tất cả bài viết →</a>
+  </div>
+
+  <!-- 16. Share section -->
+  <div class="share-section">
+    <div class="share-label">Chia sẻ bài viết</div>
+    <div class="share-buttons">
+      <a href="#" data-share="facebook" class="share-btn" aria-label="Share on Facebook">
+        <svg viewBox="0 0 24 24"><path d="M9.198 21.5h4v-8.01h3.604l.396-3.98h-4V7.5a1 1 0 011-1h3v-4h-3a5 5 0 00-5 5v2.01h-2l-.396 3.98h2.396v8.01z"/></svg>
+        Facebook
+      </a>
+      <a href="#" data-share="twitter" class="share-btn" aria-label="Share on X">
+        <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        X (Twitter)
+      </a>
+      <button data-share="copy" class="share-btn" aria-label="Copy link">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"/></svg>
+        Copy link
+      </button>
+    </div>
+  </div>
+
+</article>
+
+<button class="dark-toggle" id="darkToggle" aria-label="Toggle dark mode">🌙</button>
+<button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+<button class="bookmark-btn" id="bookmarkBtn" aria-label="Lưu bài này">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+  </svg>
+</button>
+<div class="bookmarks-panel" id="bookmarksPanel" role="dialog" aria-label="Bài đã lưu">
+  <div class="bookmarks-title">📑 Bài đã lưu</div>
+  <div id="bookmarksList"></div>
+</div>
+
+<script src="/articles/_article.js"></script>
+</body>
+</html>
