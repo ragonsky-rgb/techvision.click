@@ -17,20 +17,26 @@ const displayDate = (() => {
 })();
 const bio = authorBio || 'Founder LongTechVision. Theo dõi tin tức công nghệ quốc tế, chọn lọc và dịch sang tiếng Việt cho độc giả trong nước.';
 
+// Ảnh hero dạng ImageObject (thêm kích thước khi là thumbnail YouTube maxresdefault)
+const isYtMaxres = heroImage.includes('ytimg.com') && heroImage.includes('maxresdefault');
+const heroImageObject = isYtMaxres
+  ? { '@type': 'ImageObject', url: heroImage, width: 1280, height: 720 }
+  : { '@type': 'ImageObject', url: heroImage };
+
 const newsLd = {
   '@context': 'https://schema.org',
   '@type': 'NewsArticle',
   mainEntityOfPage: { '@type': 'WebPage', '@id': url },
   headline: title,
   description,
-  image: heroImage,
+  image: heroImageObject,
   datePublished,
   dateModified: modified,
-  author: { '@type': 'Person', name: 'Nguyễn Tấn Thiên Long', url: `${SITE}/` },
+  author: { '@type': 'Person', '@id': `${SITE}/#person`, name: 'Nguyễn Tấn Thiên Long', url: `${SITE}/cv.html` },
   publisher: {
     '@type': 'Organization',
     name: 'LongTechVision',
-    logo: { '@type': 'ImageObject', url: `${SITE}/uploads/favicon-avatar.jpg` },
+    logo: { '@type': 'ImageObject', url: `${SITE}/uploads/favicon-avatar.jpg`, width: 60, height: 60 },
   },
   articleSection: category,
   inLanguage: 'vi-VN',
@@ -68,6 +74,8 @@ const breadcrumbLd = {
   <meta name="theme-color" content="#c0392b" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
   <link rel="canonical" href={url} />
+  <link rel="alternate" hreflang="vi" href={url} />
+  <link rel="alternate" hreflang="x-default" href={url} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
   <link rel="icon" type="image/jpeg" href="/uploads/favicon-avatar.jpg" />
@@ -84,6 +92,7 @@ const breadcrumbLd = {
   <meta property="og:image" content={heroImage} />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={heroImage} />
   <script type="application/ld+json" set:html={JSON.stringify(newsLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />
@@ -225,7 +234,7 @@ const breadcrumbLd = {
 
     <p class="art-deck">{deck}</p>
 
-    <img class="art-hero" src={heroImage} alt={heroAlt || title} loading="lazy" />
+    <img class="art-hero" src={heroImage} alt={heroAlt || title} loading="lazy" width={isYtMaxres ? 1280 : undefined} height={isYtMaxres ? 720 : undefined} />
     {heroCaption && <p class="art-hero-caption">{heroCaption}</p>}
 
     <div class="art-tldr">
