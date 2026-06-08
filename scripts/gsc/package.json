@@ -1,0 +1,16 @@
+{
+  "name": "techvision-gsc",
+  "private": true,
+  "type": "module",
+  "description": "Công cụ nội bộ: kết nối Google Search Console API cho techvision.click (không deploy, chỉ chạy local).",
+  "scripts": {
+    "auth": "node auth.mjs",
+    "report": "node gsc.mjs report",
+    "inspect": "node gsc.mjs inspect",
+    "sitemap": "node gsc.mjs sitemap"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0",
+    "open": "^10.1.0"
+  }
+}

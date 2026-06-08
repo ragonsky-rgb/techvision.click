@@ -9,3 +9,8 @@ node_modules/
 .vscode/
 *.swp
 *.swo
+
+# GSC API secrets (local only, không bao giờ commit)
+scripts/gsc/client_secret.json
+scripts/gsc/token.json
+scripts/gsc/node_modules/
