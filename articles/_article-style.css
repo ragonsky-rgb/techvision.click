@@ -699,3 +699,31 @@ body.dark .art-author-card { background: rgba(240,237,232,0.05); }
   a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 9pt; color: #555; }
 }
 
+
+/* ── Nút "Xem thêm" thu gọn thân bài ── */
+.art-body.art-collapsed {
+  max-height: 1100px;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(180deg, #000 76%, transparent 100%);
+  mask-image: linear-gradient(180deg, #000 76%, transparent 100%);
+}
+.art-readmore {
+  display: flex; align-items: center; gap: 0.4rem;
+  margin: -0.5rem auto 2rem; padding: 0.6rem 1.7rem;
+  background: var(--accent); color: #fff; border: none;
+  border-radius: 99px; font-family: var(--sans);
+  font-size: 0.82rem; font-weight: 600; letter-spacing: 0.02em;
+  cursor: pointer; transition: opacity .2s, transform .15s;
+}
+.art-readmore:hover { transform: translateY(-1px); opacity: 0.92; }
+.art-readmore span { font-size: 1rem; line-height: 1; }
+
+/* ── Chân trang bài viết ── */
+.art-footer {
+  margin: 2.5rem 0 1.5rem; padding-top: 1.6rem;
+  border-top: 1px solid var(--line); text-align: center; font-family: var(--sans);
+}
+.art-footer-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 1.4rem; margin-bottom: 0.8rem; }
+.art-footer-links a { font-size: 0.8rem; color: var(--dim); text-decoration: none; transition: color .2s; }
+.art-footer-links a:hover { color: var(--accent); }
+.art-footer-copy { font-size: 0.72rem; color: var(--dim); letter-spacing: 0.04em; }
