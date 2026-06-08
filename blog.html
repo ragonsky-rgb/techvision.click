@@ -442,6 +442,15 @@
     }
     .search-empty.show { display: block; }
 
+    /* ── Nút "Xem thêm" cho grid ── */
+    .blog-more {
+      display: block; margin: 2.5rem auto 0; padding: 0.72rem 2rem;
+      background: var(--accent); color: #fff; border: none; border-radius: 99px;
+      font-family: var(--sans); font-size: 0.85rem; font-weight: 600; letter-spacing: 0.02em;
+      cursor: pointer; transition: opacity .2s, transform .15s;
+    }
+    .blog-more:hover { transform: translateY(-1px); opacity: 0.92; }
+
     /* ── New badge ── */
     .new-badge {
       position: absolute; top: 1.2rem; right: 1.2rem;
@@ -813,17 +822,17 @@
     <div class="news-head">
       <p class="nh-eyebrow">TechVision · Tin công nghệ quốc tế, dịch tiếng Việt</p>
       <h1>Tin Công Nghệ <em>TechVision</em></h1>
-      <p class="nh-updated"><!-- LAST_UPDATED -->Cập nhật 06/06/2026, Bài mới: Microsoft tự làm 7 model MAI (thoát phụ thuộc OpenAI), NVIDIA Cosmos 3 omnimodel mở cho physical AI<!-- /LAST_UPDATED --></p>
+      <p class="nh-updated"><!-- LAST_UPDATED -->Cập nhật 08/06/2026, Bài mới: WWDC 2026 đêm nay (0h 9/6, iOS 27 & Siri mới), Microsoft tự làm 7 model MAI<!-- /LAST_UPDATED --></p>
     </div>
 
     <!-- HERO: tin chủ đạo + tin nổi bật -->
     <section class="news-hero" aria-label="Tin nổi bật">
-      <a class="hero-lead" href="/articles/microsoft-mai-7-model-tu-lam-thoat-openai-build-2026.html">
-        <img class="hl-thumb" src="https://i.ytimg.com/vi/OvLIae4HCeM/maxresdefault.jpg" alt="Microsoft công bố 7 model MAI tự làm tại Build 2026" loading="eager">
-        <span class="hl-cat">AI · Tiêu điểm</span>
-        <h2 class="hl-title">Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT</h2>
-        <p class="hl-sapo">Tại Build 2026, Microsoft công bố 7 model AI tự huấn luyện họ MAI, dẫn đầu là MAI-Thinking-1 (1 nghìn tỷ tham số, 256K context). Bước chuyển từ thuê model OpenAI sang tự sở hữu, đưa AI riêng vào Copilot, VS Code, PowerPoint.</p>
-        <span class="hl-date">06/06/2026</span>
+      <a class="hero-lead" href="/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html">
+        <img class="hl-thumb" src="https://i.ytimg.com/vi/AnDphCR0b_M/maxresdefault.jpg" alt="WWDC 2026 keynote Apple iOS 27 và Siri mới" loading="eager">
+        <span class="hl-cat">Apple · Tiêu điểm</span>
+        <h2 class="hl-title">WWDC 2026 đêm nay: xem ở đâu, mấy giờ, chờ đợi gì (iOS 27, Siri mới)</h2>
+        <p class="hl-sapo">Keynote WWDC 2026 diễn ra 0h rạng sáng 9/6 giờ Việt Nam. Hướng dẫn xem trực tiếp và những gì chờ đợi: iOS 27, Siri làm lại thành chatbot, Apple Intelligence và 5 hệ điều hành mới.</p>
+        <span class="hl-date">08/06/2026</span>
       </a>
       <div class="hero-side">
         <div class="hero-side-label">Nổi bật</div>
@@ -850,6 +859,20 @@
 
     <!-- BLOG ARTICLES START -->
     <div class="blog-grid" id="blog-grid">
+
+      <a href="/articles/microsoft-mai-7-model-tu-lam-thoat-openai-build-2026.html" class="blog-card" data-cat="ai">
+        <span class="new-badge">NEW</span>
+        <div class="card-top">
+          <span class="card-cat">AI</span>
+          <span class="card-date">06/06/2026</span>
+        </div>
+        <div class="card-thumb-wrap">
+          <img class="card-thumb" src="https://i.ytimg.com/vi/OvLIae4HCeM/maxresdefault.jpg" alt="Microsoft công bố 7 model MAI tự làm tại Build 2026" loading="lazy">
+        </div>
+        <h2 class="card-title">Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT</h2>
+        <p class="card-desc">Tại Build 2026, Microsoft công bố 7 model AI tự huấn luyện họ MAI, dẫn đầu MAI-Thinking-1 (1 nghìn tỷ tham số, 256K context). Bước thoát phụ thuộc OpenAI.</p>
+        <span class="card-read">Đọc thêm</span>
+      </a>
 
       <a href="/articles/nvidia-cosmos-3-physical-ai-omnimodel-mo-2026.html" class="blog-card" data-cat="ai">
         <span class="new-badge">NEW</span>
@@ -1878,9 +1901,18 @@
         apple: ['apple', 'ios'],
         khac: ['audio', 'smarthome', 'reviews', 'phan-tich']
       };
+      // "Xem thêm": chỉ hiện PAGE bài đầu, bấm để tải thêm (ảnh card ẩn không load -> nhanh hơn)
+      const PAGE = 12;
+      let limit = PAGE;
+      const grid = document.getElementById('blog-grid');
+      const moreBtn = document.createElement('button');
+      moreBtn.type = 'button';
+      moreBtn.className = 'blog-more';
+      if (grid) grid.insertAdjacentElement('afterend', moreBtn);
+
       function applyFilters() {
         const q = activeQuery.toLowerCase().trim();
-        let visible = 0;
+        let matched = 0, shown = 0;
         cards.forEach(card => {
           const cat = card.dataset.cat;
           const group = CAT_GROUPS[activeCat];
@@ -1889,29 +1921,42 @@
                        (card.querySelector('.card-excerpt')?.textContent || '') + ' ' +
                        (card.querySelector('.card-desc')?.textContent || '');
           const matchQuery = !q || text.toLowerCase().includes(q);
-          const show = matchCat && matchQuery;
-          card.style.display = show ? '' : 'none';
-          if (show) visible++;
+          if (matchCat && matchQuery) {
+            matched++;
+            const show = shown < limit;
+            card.style.display = show ? '' : 'none';
+            if (show) shown++;
+          } else {
+            card.style.display = 'none';
+          }
         });
-        searchEmpty.classList.toggle('show', visible === 0);
+        searchEmpty.classList.toggle('show', matched === 0);
         searchClear.classList.toggle('show', !!q);
+        const remaining = matched - shown;
+        moreBtn.style.display = remaining > 0 ? '' : 'none';
+        moreBtn.textContent = 'Xem thêm bài viết (' + remaining + ')';
       }
+
+      moreBtn.addEventListener('click', () => { limit += PAGE; applyFilters(); });
 
       document.querySelectorAll('.filter-btn').forEach(btn => {
         btn.addEventListener('click', () => {
           document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
           btn.classList.add('active');
           activeCat = btn.dataset.cat;
+          limit = PAGE;
           applyFilters();
         });
       });
 
       searchInput.addEventListener('input', (e) => {
         activeQuery = e.target.value;
+        limit = PAGE;
         applyFilters();
       });
       searchClear.addEventListener('click', () => {
         searchInput.value = ''; activeQuery = '';
+        limit = PAGE;
         searchInput.focus(); applyFilters();
       });
 
@@ -1921,8 +1966,8 @@
       if (initialQ) {
         searchInput.value = initialQ;
         activeQuery = initialQ;
-        applyFilters();
       }
+      applyFilters(); // luôn chạy lúc tải để áp giới hạn "Xem thêm"
 
       // Bookmarks panel (read-only on blog listing)
       const bmListBtn = document.getElementById('bookmarksListBtn');

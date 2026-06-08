@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T15:00:00+07:00</news:publication_date>
+      <news:title>WWDC 2026 đêm nay: xem ở đâu, mấy giờ, chờ đợi gì (iOS 27, Siri mới)</news:title>
+      <news:keywords>WWDC 2026, iOS 27, Siri mới, Apple Intelligence, xem WWDC 2026</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/microsoft-mai-7-model-tu-lam-thoat-openai-build-2026.html</loc>
     <news:news>
       <news:publication>
@@ -13,32 +26,6 @@
       <news:publication_date>2026-06-06T09:00:00+07:00</news:publication_date>
       <news:title>Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT</news:title>
       <news:keywords>Microsoft MAI, MAI-Thinking-1, Microsoft tự làm AI, Microsoft thoát OpenAI, Build 2026</news:keywords>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://techvision.click/articles/nvidia-cosmos-3-physical-ai-omnimodel-mo-2026.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LongTechVision</news:name>
-        <news:language>vi</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T09:00:00+07:00</news:publication_date>
-      <news:title>NVIDIA Cosmos 3: model nền mở đầu tiên cho physical AI</news:title>
-      <news:keywords>NVIDIA Cosmos 3, physical AI, omnimodel, world foundation model, AI robot 2026</news:keywords>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://techvision.click/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>LongTechVision</news:name>
-        <news:language>vi</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-04T09:00:00+07:00</news:publication_date>
-      <news:title>Project Glasswing: AI Claude Mythos của Anthropic tìm hơn 10.000 lỗ hổng bảo mật</news:title>
-      <news:keywords>Project Glasswing, Claude Mythos, Anthropic an ninh mạng, AI tìm lỗ hổng, zero-day AI</news:keywords>
     </news:news>
   </url>
 
