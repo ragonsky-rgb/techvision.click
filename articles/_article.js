@@ -272,24 +272,6 @@
 
 })();
 
-/* ── Nút "Xem thêm" thu gọn thân bài (đỡ phải kéo dài) ── */
-(function() {
-  var body = document.querySelector('.art-body');
-  if (!body) return;
-  var LIMIT = 1100;                     // chiều cao hiển thị khi thu gọn (px)
-  if (body.scrollHeight <= LIMIT + 350) return;  // bài ngắn thì để nguyên
-  body.classList.add('art-collapsed');
-  var btn = document.createElement('button');
-  btn.type = 'button';
-  btn.className = 'art-readmore';
-  btn.innerHTML = 'Xem thêm <span aria-hidden="true">▾</span>';
-  body.insertAdjacentElement('afterend', btn);
-  btn.addEventListener('click', function() {
-    body.classList.remove('art-collapsed');
-    btn.remove();
-  });
-})();
-
 /* ── Chân trang bài viết: Trang chủ · Tech News · Giới thiệu · Chính sách ── */
 (function() {
   var article = document.querySelector('article');
