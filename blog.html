@@ -723,6 +723,16 @@
     .hero-lead .hl-date { font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); margin-top: 0.7rem; }
     .hero-side { display: flex; flex-direction: column; gap: 1rem; }
     .hero-side-label { font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text); font-weight: 700; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); }
+    /* Banner sự kiện trực tiếp -> trang sự kiện WWDC */
+    .live-banner { display: flex; align-items: center; gap: 0.85rem; margin: 0 0 1.6rem; padding: 0.85rem 1.1rem; border-radius: 12px; text-decoration: none; color: var(--text); background: linear-gradient(120deg, rgba(41,151,255,0.14), rgba(41,151,255,0.04)); border: 1px solid rgba(41,151,255,0.35); transition: border-color .2s, transform .15s, background .2s; }
+    .live-banner:hover { border-color: rgba(41,151,255,0.65); transform: translateY(-1px); background: linear-gradient(120deg, rgba(41,151,255,0.2), rgba(41,151,255,0.06)); }
+    .live-banner .lb-dot { width: 9px; height: 9px; border-radius: 50%; background: #2997ff; flex-shrink: 0; box-shadow: 0 0 0 0 rgba(41,151,255,.6); animation: lbpulse 2s infinite; }
+    @keyframes lbpulse { 0% { box-shadow: 0 0 0 0 rgba(41,151,255,.55); } 70% { box-shadow: 0 0 0 9px rgba(41,151,255,0); } 100% { box-shadow: 0 0 0 0 rgba(41,151,255,0); } }
+    .live-banner .lb-text { font-size: 0.9rem; line-height: 1.4; flex: 1; }
+    .live-banner .lb-text strong { font-weight: 700; }
+    .live-banner .lb-cta { font-size: 0.82rem; font-weight: 600; color: #2997ff; white-space: nowrap; flex-shrink: 0; }
+    @media (max-width: 560px) { .live-banner .lb-cta { display: none; } }
+    @media (prefers-reduced-motion: reduce) { .live-banner .lb-dot { animation: none; } }
     .hs-item { display: flex; gap: 0.85rem; text-decoration: none; color: var(--text); padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
     .hs-item:last-child { border-bottom: none; padding-bottom: 0; }
     .hs-item img { width: 88px; height: 62px; object-fit: cover; border-radius: 4px; flex-shrink: 0; }
@@ -819,6 +829,11 @@
   </header>
 
   <main>
+    <a class="live-banner" href="/su-kien/wwdc-2026.html">
+      <span class="lb-dot"></span>
+      <span class="lb-text"><strong>WWDC 2026 đêm nay</strong> · Trang sự kiện: đếm ngược tới keynote (0h 9/6), lịch xem và diễn biến trực tiếp</span>
+      <span class="lb-cta">Vào trang sự kiện →</span>
+    </a>
     <div class="news-head">
       <p class="nh-eyebrow">TechVision · Tin công nghệ quốc tế, dịch tiếng Việt</p>
       <h1>Tin Công Nghệ <em>TechVision</em></h1>
