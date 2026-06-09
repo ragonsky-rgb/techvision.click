@@ -4,6 +4,19 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://techvision.click/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>LongTechVision</news:name>
+        <news:language>vi</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T08:30:00+07:00</news:publication_date>
+      <news:title>WWDC 2026 có gì mới? Siri AI, iOS 27, macOS Golden Gate và toàn bộ công bố</news:title>
+      <news:keywords>WWDC 2026, Siri AI, iOS 27, macOS Golden Gate, Apple Intelligence, Liquid Glass</news:keywords>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://techvision.click/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html</loc>
     <news:news>
       <news:publication>
