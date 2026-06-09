@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sự kiện công nghệ | LongTechVision</title>
+  <meta name="description" content="Mục Sự kiện của LongTechVision: trang theo dõi và tổng hợp các sự kiện công nghệ lớn như Apple WWDC, Samsung Galaxy Unpacked, Google I/O. Đếm ngược, lịch xem và diễn biến trực tiếp.">
+  <meta name="theme-color" content="#f5f2ed">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="canonical" href="https://techvision.click/su-kien/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="icon" type="image/jpeg" href="/uploads/favicon-avatar.jpg">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Be+Vietnam+Pro:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <script defer src="/_vercel/insights/script.js"></script>
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="vi_VN">
+  <meta property="og:url" content="https://techvision.click/su-kien/">
+  <meta property="og:site_name" content="LongTechVision">
+  <meta property="og:title" content="Sự kiện công nghệ | LongTechVision">
+  <meta property="og:description" content="Theo dõi và tổng hợp các sự kiện công nghệ lớn: Apple WWDC, Samsung Galaxy Unpacked, Google I/O và nhiều hơn nữa.">
+  <meta property="og:image" content="https://i.ytimg.com/vi/AnDphCR0b_M/maxresdefault.jpg">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Sự kiện công nghệ",
+    "description": "Trang tổng hợp các sự kiện công nghệ lớn trên LongTechVision.",
+    "url": "https://techvision.click/su-kien/",
+    "isPartOf": { "@type": "WebSite", "name": "LongTechVision", "url": "https://techvision.click/" }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://techvision.click/" },
+      { "@type": "ListItem", "position": 2, "name": "Sự kiện", "item": "https://techvision.click/su-kien/" }
+    ]
+  }
+  </script>
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root{
+      --bg:#f5f2ed; --text:#1c1a17; --accent:#c0392b;
+      --surface:#fbf9f5; --muted:rgba(28,26,23,0.82); --dim:rgba(28,26,23,0.56);
+      --line:rgba(28,26,23,0.12);
+      --serif:'Lora',Georgia,serif; --sans:'Be Vietnam Pro',-apple-system,BlinkMacSystemFont,sans-serif;
+      --max:1180px;
+    }
+    @media(prefers-color-scheme:dark){:root{
+      --bg:#111010; --text:#f0ede8; --accent:#e0563f;
+      --surface:#1a1917; --muted:rgba(240,237,232,0.86); --dim:rgba(240,237,232,0.56);
+      --line:rgba(240,237,232,0.12);
+    }}
+    html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+    body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.6;-webkit-font-smoothing:antialiased}
+    a{color:inherit;text-decoration:none}
+    .wrap{max-width:var(--max);margin:0 auto;padding:0 2rem}
+    @media(max-width:640px){.wrap{padding:0 1.2rem}}
+
+    /* masthead */
+    .masthead{position:fixed;top:0;left:0;right:0;z-index:200;background:rgba(245,242,237,0.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+    @media(prefers-color-scheme:dark){.masthead{background:rgba(17,16,16,0.93)}}
+    .mast-top{max-width:var(--max);margin:0 auto;display:flex;align-items:center;gap:1.4rem;padding:0.8rem 2rem}
+    .mast-logo{display:flex;align-items:center;gap:0.6rem;flex-shrink:0}
+    .mast-logo img{width:34px;height:34px;border-radius:50%}
+    .mast-logo .ml-name{font-family:var(--serif);font-size:1.18rem;font-weight:700;color:var(--text)}
+    .mast-logo .ml-name em{color:var(--accent);font-style:normal}
+    .mast-nav{margin-left:auto;display:flex;gap:1.4rem;align-items:center}
+    .mast-nav a{font-size:0.66rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--dim);transition:color .2s}
+    .mast-nav a:hover,.mast-nav a.active{color:var(--accent)}
+    @media(max-width:560px){.mast-nav{gap:1rem}.mast-logo .ml-name{font-size:1rem}}
+
+    /* hero */
+    .page-hero{padding:7rem 0 2.5rem;border-bottom:1px solid var(--line)}
+    .ph-eyebrow{font-size:0.66rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--accent);font-weight:600;margin-bottom:0.7rem}
+    .page-hero h1{font-family:var(--serif);font-size:clamp(2.1rem,5vw,3.2rem);font-weight:700;letter-spacing:-0.02em;line-height:1.08}
+    .page-hero p{margin-top:0.9rem;max-width:60ch;color:var(--muted);font-size:1.02rem}
+
+    /* events grid */
+    .events{padding:2.5rem 0 4rem}
+    .ev-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1.4rem}
+    @media(max-width:760px){.ev-grid{grid-template-columns:1fr}}
+    .ev-card{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-radius:16px;overflow:hidden;transition:border-color .2s,transform .15s,box-shadow .2s}
+    .ev-card:hover{border-color:rgba(192,57,43,0.45);transform:translateY(-3px);box-shadow:0 14px 40px -22px rgba(28,26,23,0.4)}
+    .ev-thumb{position:relative;aspect-ratio:16/9;overflow:hidden;background:#000}
+    .ev-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+    .ev-badge{position:absolute;top:0.8rem;left:0.8rem;font-size:0.64rem;font-weight:700;letter-spacing:0.06em;text-transform:uppercase;padding:0.3rem 0.7rem;border-radius:99px;backdrop-filter:blur(6px)}
+    .ev-badge.done{background:rgba(28,26,23,0.72);color:#fff}
+    .ev-badge.soon{background:rgba(192,57,43,0.92);color:#fff}
+    .ev-body{padding:1.3rem 1.4rem 1.5rem;display:flex;flex-direction:column;flex:1}
+    .ev-meta{font-size:0.68rem;letter-spacing:0.04em;text-transform:uppercase;color:var(--dim);font-weight:600;margin-bottom:0.5rem}
+    .ev-title{font-family:var(--serif);font-size:1.3rem;font-weight:700;line-height:1.2;letter-spacing:-0.01em}
+    .ev-desc{margin-top:0.6rem;font-size:0.92rem;color:var(--muted);line-height:1.6;flex:1}
+    .ev-cta{margin-top:1rem;font-size:0.82rem;font-weight:600;color:var(--accent)}
+
+    /* placeholder card */
+    .ev-card.placeholder{border-style:dashed;background:transparent;align-items:center;justify-content:center;text-align:center;padding:2.5rem 1.5rem;min-height:200px}
+    .ev-card.placeholder:hover{transform:none;box-shadow:none;border-color:var(--line)}
+    .ev-card.placeholder .pl-title{font-family:var(--serif);font-size:1.1rem;font-weight:600;color:var(--muted)}
+    .ev-card.placeholder .pl-desc{margin-top:0.5rem;font-size:0.86rem;color:var(--dim);max-width:34ch}
+
+    /* footer */
+    footer{border-top:1px solid var(--line);padding:2.5rem 0;text-align:center}
+    .foot-links{display:flex;gap:1.4rem;justify-content:center;flex-wrap:wrap;margin-bottom:0.9rem}
+    .foot-links a{font-size:0.82rem;color:var(--dim);transition:color .2s}
+    .foot-links a:hover{color:var(--accent)}
+    .foot-copy{font-size:0.74rem;color:var(--dim)}
+  </style>
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="mast-top">
+      <a href="/" class="mast-logo">
+        <img src="/uploads/favicon-avatar.jpg" alt="TechVision">
+        <span class="ml-name">Tech<em>Vision</em></span>
+      </a>
+      <nav class="mast-nav">
+        <a href="/">Trang chủ</a>
+        <a href="/blog.html">Tech News</a>
+        <a href="/su-kien/" class="active">Sự kiện</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <div class="wrap">
+        <p class="ph-eyebrow">LongTechVision</p>
+        <h1>Sự kiện công nghệ</h1>
+        <p>Trang theo dõi và tổng hợp các sự kiện công nghệ lớn: keynote, ra mắt sản phẩm và hội nghị nhà phát triển. Mỗi sự kiện có trang riêng với đếm ngược, lịch xem theo giờ Việt Nam và diễn biến cập nhật.</p>
+      </div>
+    </section>
+
+    <section class="events">
+      <div class="wrap">
+        <div class="ev-grid">
+
+          <a class="ev-card" href="/su-kien/wwdc-2026.html">
+            <div class="ev-thumb">
+              <img src="https://i.ytimg.com/vi/AnDphCR0b_M/maxresdefault.jpg" alt="Apple WWDC 2026" loading="eager">
+              <span class="ev-badge done">Đã kết thúc</span>
+            </div>
+            <div class="ev-body">
+              <div class="ev-meta">Apple · 9/6/2026</div>
+              <div class="ev-title">WWDC 2026</div>
+              <p class="ev-desc">Keynote nhà phát triển của Apple. Tâm điểm Siri AI làm lại chạy nền tảng Google Gemini, iOS 27, macOS Golden Gate và nâng cấp Apple Intelligence.</p>
+              <span class="ev-cta">Xem trang sự kiện →</span>
+            </div>
+          </a>
+
+          <div class="ev-card placeholder">
+            <div>
+              <div class="pl-title">Sự kiện tiếp theo sẽ xuất hiện ở đây</div>
+              <p class="pl-desc">Samsung Galaxy Unpacked, Google I/O, sự kiện iPhone tháng 9 và nhiều hơn nữa. Mỗi sự kiện sẽ có trang riêng khi tới gần ngày diễn ra.</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="foot-links">
+      <a href="/">Trang chủ</a>
+      <a href="/blog.html">Tech News</a>
+      <a href="/cv.html">Giới thiệu</a>
+      <a href="/chinh-sach.html">Chính sách</a>
+    </div>
+    <div class="foot-copy">© 2026 Nguyễn Tấn Thiên Long · LongTechVision</div>
+  </footer>
+
+</body>
+</html>
