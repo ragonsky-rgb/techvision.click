@@ -5,6 +5,8 @@ export async function GET() {
   const staticPages = [
     { loc: `${SITE}/`, cf: 'weekly', pri: '1.0' },
     { loc: `${SITE}/blog.html`, cf: 'weekly', pri: '0.9' },
+    { loc: `${SITE}/su-kien/`, cf: 'weekly', pri: '0.7' },
+    { loc: `${SITE}/su-kien/wwdc-2026.html`, cf: 'weekly', pri: '0.8' },
     { loc: `${SITE}/cv.html`, cf: 'monthly', pri: '0.5' },
     { loc: `${SITE}/chinh-sach.html`, cf: 'yearly', pri: '0.4' },
   ];

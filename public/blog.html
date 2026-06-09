@@ -714,6 +714,16 @@
     .hero-lead .hl-date { font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); margin-top: 0.7rem; }
     .hero-side { display: flex; flex-direction: column; gap: 1rem; }
     .hero-side-label { font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text); font-weight: 700; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); }
+    /* Banner sự kiện -> trang sự kiện */
+    .live-banner { display: flex; align-items: center; gap: 0.85rem; margin: 0 0 1.6rem; padding: 0.85rem 1.1rem; border-radius: 12px; text-decoration: none; color: var(--text); background: linear-gradient(120deg, rgba(41,151,255,0.14), rgba(41,151,255,0.04)); border: 1px solid rgba(41,151,255,0.35); transition: border-color .2s, transform .15s, background .2s; }
+    .live-banner:hover { border-color: rgba(41,151,255,0.65); transform: translateY(-1px); background: linear-gradient(120deg, rgba(41,151,255,0.2), rgba(41,151,255,0.06)); }
+    .live-banner .lb-dot { width: 9px; height: 9px; border-radius: 50%; background: #2997ff; flex-shrink: 0; box-shadow: 0 0 0 0 rgba(41,151,255,.6); animation: lbpulse 2s infinite; }
+    @keyframes lbpulse { 0% { box-shadow: 0 0 0 0 rgba(41,151,255,.55); } 70% { box-shadow: 0 0 0 9px rgba(41,151,255,0); } 100% { box-shadow: 0 0 0 0 rgba(41,151,255,0); } }
+    .live-banner .lb-text { font-size: 0.9rem; line-height: 1.4; flex: 1; }
+    .live-banner .lb-text strong { font-weight: 700; }
+    .live-banner .lb-cta { font-size: 0.82rem; font-weight: 600; color: #2997ff; white-space: nowrap; flex-shrink: 0; }
+    @media (max-width: 560px) { .live-banner .lb-cta { display: none; } }
+    @media (prefers-reduced-motion: reduce) { .live-banner .lb-dot { animation: none; } }
     .hs-item { display: flex; gap: 0.85rem; text-decoration: none; color: var(--text); padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
     .hs-item:last-child { border-bottom: none; padding-bottom: 0; }
     .hs-item img { width: 88px; height: 62px; object-fit: cover; border-radius: 4px; flex-shrink: 0; }
@@ -793,6 +803,7 @@
         <input type="search" id="searchInput" placeholder="Tìm bài viết theo từ khoá..." autocomplete="off">
         <button class="search-clear" id="searchClear" aria-label="Xoá tìm kiếm">×</button>
       </div>
+      <a href="/su-kien/" class="mast-home">Sự kiện</a>
       <a href="/" class="mast-home">Trang chủ</a>
     </div>
     <nav class="mast-cats">
@@ -810,34 +821,39 @@
   </header>
 
   <main>
+    <a class="live-banner" href="/su-kien/wwdc-2026.html">
+      <span class="lb-dot"></span>
+      <span class="lb-text"><strong>WWDC 2026 đã kết thúc</strong> · Trang sự kiện: diễn biến keynote và toàn bộ công bố Siri AI, iOS 27, macOS Golden Gate</span>
+      <span class="lb-cta">Vào trang sự kiện →</span>
+    </a>
     <div class="news-head">
       <p class="nh-eyebrow">TechVision · Tin công nghệ quốc tế, dịch tiếng Việt</p>
       <h1>Tin Công Nghệ <em>TechVision</em></h1>
-      <p class="nh-updated"><!-- LAST_UPDATED -->Cập nhật 06/06/2026, Bài mới: Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT, NVIDIA Cosmos 3: model nền mở đầu tiên cho physical AI<!-- /LAST_UPDATED --></p>
+      <p class="nh-updated"><!-- LAST_UPDATED -->Cập nhật 09/06/2026, Bài mới: WWDC 2026 có gì mới? Siri AI, iOS 27, macOS Golden Gate và toàn bộ công bố, WWDC 2026 mấy giờ Việt Nam? Xem ở đâu, iOS 27 và Siri mới<!-- /LAST_UPDATED --></p>
     </div>
 
     <!-- HERO: tin chủ đạo + tin nổi bật -->
     <section class="news-hero" aria-label="Tin nổi bật">
-      <a class="hero-lead" href="/articles/microsoft-mai-7-model-tu-lam-thoat-openai-build-2026.html">
-        <img class="hl-thumb" src="https://i.ytimg.com/vi/OvLIae4HCeM/maxresdefault.jpg" alt="Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT" loading="eager">
-        <span class="hl-cat">AI · Tiêu điểm</span>
-        <h2 class="hl-title">Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT</h2>
-        <p class="hl-sapo">Tại Build 2026 ngày 2/6, Microsoft công bố 7 model AI tự huấn luyện họ MAI, dẫn đầu là MAI-Thinking-1 với khoảng 1 nghìn tỷ tham số và 256K context. Bước đi giảm phụ thuộc OpenAI.</p>
-        <span class="hl-date">06/06/2026</span>
+      <a class="hero-lead" href="/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html">
+        <img class="hl-thumb" src="https://i.ytimg.com/vi/AnDphCR0b_M/maxresdefault.jpg" alt="WWDC 2026 có gì mới? Siri AI, iOS 27, macOS Golden Gate và toàn bộ công bố" loading="eager">
+        <span class="hl-cat">Apple · Tiêu điểm</span>
+        <h2 class="hl-title">WWDC 2026 có gì mới? Siri AI, iOS 27, macOS Golden Gate và toàn bộ công bố</h2>
+        <p class="hl-sapo">Tổng hợp WWDC 2026: Siri AI mới chạy nền tảng hợp tác Google Gemini, iOS 27 hỗ trợ tới iPhone 11, macOS Golden Gate 27, Liquid Glass có thanh trượt, Apple Intelligence nâng cấp. Tim Cook đọc lời chia tay.</p>
+        <span class="hl-date">09/06/2026</span>
       </a>
       <div class="hero-side">
         <div class="hero-side-label">Nổi bật</div>
+        <a class="hs-item" href="/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html">
+          <img src="https://i.ytimg.com/vi/AnDphCR0b_M/maxresdefault.jpg" alt="WWDC 2026 mấy giờ Việt Nam? Xem ở đâu, iOS 27 và Siri mới" loading="lazy">
+          <div><span class="hs-cat">Apple</span><div class="hs-title">WWDC 2026 mấy giờ Việt Nam? Xem ở đâu, iOS 27 và Siri mới</div></div>
+        </a>
+        <a class="hs-item" href="/articles/microsoft-mai-7-model-tu-lam-thoat-openai-build-2026.html">
+          <img src="https://i.ytimg.com/vi/OvLIae4HCeM/maxresdefault.jpg" alt="Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT" loading="lazy">
+          <div><span class="hs-cat">AI</span><div class="hs-title">Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT</div></div>
+        </a>
         <a class="hs-item" href="/articles/nvidia-cosmos-3-physical-ai-omnimodel-mo-2026.html">
           <img src="https://i.ytimg.com/vi/-HfCFTvihjo/maxresdefault.jpg" alt="NVIDIA Cosmos 3: model nền mở đầu tiên cho physical AI" loading="lazy">
           <div><span class="hs-cat">AI</span><div class="hs-title">NVIDIA Cosmos 3: model nền mở đầu tiên cho physical AI</div></div>
-        </a>
-        <a class="hs-item" href="/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html">
-          <img src="https://i.ytimg.com/vi/INGOC6-LLv0/maxresdefault.jpg" alt="Project Glasswing của Anthropic dùng AI Claude Mythos bảo vệ phần mềm trọng yếu" loading="lazy">
-          <div><span class="hs-cat">AI</span><div class="hs-title">Project Glasswing: AI Claude Mythos của Anthropic tìm hơn 10.000 lỗ hổng bảo mật</div></div>
-        </a>
-        <a class="hs-item" href="/articles/anthropic-nop-ho-so-ipo-2026-vuot-openai-965-ty.html">
-          <img src="https://i.ytimg.com/vi/KjnrFdy4M8s/maxresdefault.jpg" alt="Anthropic nộp hồ sơ IPO, định giá $965 tỷ: vượt OpenAI ra sàn" loading="lazy">
-          <div><span class="hs-cat">AI</span><div class="hs-title">Anthropic nộp hồ sơ IPO, định giá $965 tỷ: vượt OpenAI ra sàn</div></div>
         </a>
       </div>
     </section>
@@ -851,8 +867,35 @@
     <!-- BLOG ARTICLES START -->
     <div class="blog-grid" id="blog-grid">
 
-      <a href="/articles/nvidia-cosmos-3-physical-ai-omnimodel-mo-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html" class="blog-card" data-cat="apple">
         <span class="new-badge">NEW</span>
+        <div class="card-top">
+          <span class="card-cat">Apple</span>
+          <span class="card-date">08/06/2026</span>
+        </div>
+        <div class="card-thumb-wrap">
+          <img class="card-thumb" src="https://i.ytimg.com/vi/AnDphCR0b_M/maxresdefault.jpg" alt="WWDC 2026 mấy giờ Việt Nam? Xem ở đâu, iOS 27 và Siri mới" loading="lazy">
+        </div>
+        <h2 class="card-title">WWDC 2026 mấy giờ Việt Nam? Xem ở đâu, iOS 27 và Siri mới</h2>
+        <p class="card-desc">Keynote WWDC 2026 diễn ra 0h ngày 9/6 giờ Việt Nam (10h sáng 8/6 giờ Thái Bình Dương). Hướng dẫn xem trực tiếp và những gì chờ đợi: iOS 27, Siri làm lại, Apple Intelligence.</p>
+        <span class="card-read">Đọc thêm</span>
+      </a>
+
+      <a href="/articles/microsoft-mai-7-model-tu-lam-thoat-openai-build-2026.html" class="blog-card" data-cat="ai">
+        <span class="new-badge">NEW</span>
+        <div class="card-top">
+          <span class="card-cat">AI</span>
+          <span class="card-date">06/06/2026</span>
+        </div>
+        <div class="card-thumb-wrap">
+          <img class="card-thumb" src="https://i.ytimg.com/vi/OvLIae4HCeM/maxresdefault.jpg" alt="Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT" loading="lazy">
+        </div>
+        <h2 class="card-title">Microsoft tự làm 7 model MAI: thoát phụ thuộc OpenAI, đối đầu ChatGPT</h2>
+        <p class="card-desc">Tại Build 2026 ngày 2/6, Microsoft công bố 7 model AI tự huấn luyện họ MAI, dẫn đầu là MAI-Thinking-1 với khoảng 1 nghìn tỷ tham số và 256K context. Bước đi giảm phụ thuộc OpenAI.</p>
+        <span class="card-read">Đọc thêm</span>
+      </a>
+
+      <a href="/articles/nvidia-cosmos-3-physical-ai-omnimodel-mo-2026.html" class="blog-card" data-cat="ai">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">05/06/2026</span>
@@ -866,7 +909,6 @@
       </a>
 
       <a href="/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html" class="blog-card" data-cat="ai">
-        <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">04/06/2026</span>
@@ -1628,35 +1670,35 @@
         <div class="side-box">
           <div class="side-title">Đáng chú ý</div>
           <div class="side-list">
-            <a class="side-item" href="/articles/alphabet-google-80-ty-usd-co-phieu-ha-tang-ai-2026.html">
+            <a class="side-item" href="/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html">
               <span class="si-num">1</span>
+              <img class="si-thumb" src="https://i.ytimg.com/vi/INGOC6-LLv0/maxresdefault.jpg" alt="Project Glasswing: AI Claude Mythos của Anthropic tìm hơn 10.000 lỗ hổng bảo mật" loading="lazy">
+              <span class="si-title">Project Glasswing: AI Claude Mythos của Anthropic tìm hơn 10.000 lỗ hổng bảo mật</span>
+            </a>
+            <a class="side-item" href="/articles/anthropic-nop-ho-so-ipo-2026-vuot-openai-965-ty.html">
+              <span class="si-num">2</span>
+              <img class="si-thumb" src="https://i.ytimg.com/vi/KjnrFdy4M8s/maxresdefault.jpg" alt="Anthropic nộp hồ sơ IPO, định giá $965 tỷ: vượt OpenAI ra sàn" loading="lazy">
+              <span class="si-title">Anthropic nộp hồ sơ IPO, định giá $965 tỷ: vượt OpenAI ra sàn</span>
+            </a>
+            <a class="side-item" href="/articles/alphabet-google-80-ty-usd-co-phieu-ha-tang-ai-2026.html">
+              <span class="si-num">3</span>
               <img class="si-thumb" src="https://i.ytimg.com/vi/y5KUpqwWJOY/maxresdefault.jpg" alt="Alphabet huy động 80 tỷ USD cho AI: lần phát hành cổ phiếu đầu tiên từ 2005" loading="lazy">
               <span class="si-title">Alphabet huy động 80 tỷ USD cho AI: lần phát hành cổ phiếu đầu tiên từ 2005</span>
             </a>
             <a class="side-item" href="/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html">
-              <span class="si-num">2</span>
+              <span class="si-num">4</span>
               <img class="si-thumb" src="https://i.ytimg.com/vi/uXkjXH_bBwM/maxresdefault.jpg" alt="WWDC 2026 (8/6): Siri mới chạy Google Gemini, preview iOS 27" loading="lazy">
               <span class="si-title">WWDC 2026 (8/6): Siri mới chạy Google Gemini, preview iOS 27</span>
             </a>
             <a class="side-item" href="/articles/dell-xps-13-699-usd-2026-dau-macbook.html">
-              <span class="si-num">3</span>
+              <span class="si-num">5</span>
               <img class="si-thumb" src="https://i.ytimg.com/vi/U-TK3Xh4dp8/maxresdefault.jpg" alt="Dell XPS 13 mới giá 699 USD: đấu trực tiếp MacBook" loading="lazy">
               <span class="si-title">Dell XPS 13 mới giá 699 USD: đấu trực tiếp MacBook</span>
             </a>
             <a class="side-item" href="/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html">
-              <span class="si-num">4</span>
+              <span class="si-num">6</span>
               <img class="si-thumb" src="https://i.ytimg.com/vi/PEuvslSm1Ow/maxresdefault.jpg" alt="Khủng hoảng bộ nhớ 2026: RAM, SSD tăng giá vì AI gom hàng" loading="lazy">
               <span class="si-title">Khủng hoảng bộ nhớ 2026: RAM, SSD tăng giá vì AI gom hàng</span>
-            </a>
-            <a class="side-item" href="/articles/nvidia-n1x-n1-chip-arm-laptop-computex-2026.html">
-              <span class="si-num">5</span>
-              <img class="si-thumb" src="https://cdn.mos.cms.futurecdn.net/BTBLXoJ6tF2ZZnoNuABN2F.jpg" alt="NVIDIA N1X và N1: chip ARM cho laptop, đồ họa ngang RTX 5070" loading="lazy">
-              <span class="si-title">NVIDIA N1X và N1: chip ARM cho laptop, đồ họa ngang RTX 5070</span>
-            </a>
-            <a class="side-item" href="/articles/nvidia-gtc-taipei-2026-vera-rubin-dai-loan-ha-tang-ai.html">
-              <span class="si-num">6</span>
-              <img class="si-thumb" src="https://iprsoftwaremedia.com/219/files/202606/9c840c0218512eb93e4d605fa65dc016/6a1d12513d6332c634daedb8_5172450_TechMontage_32x9_60fps_H264_-v35-2/5172450_TechMontage_32x9_60fps_H264_-v35-2_mid.jpg" alt="NVIDIA GTC Taipei 2026: Đài Loan tăng tốc hạ tầng AI Vera Rubin" loading="lazy">
-              <span class="si-title">NVIDIA GTC Taipei 2026: Đài Loan tăng tốc hạ tầng AI Vera Rubin</span>
             </a>
           </div>
         </div>

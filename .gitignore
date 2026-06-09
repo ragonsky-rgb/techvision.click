@@ -13,3 +13,8 @@ node_modules/
 # Astro
 dist/
 .astro/
+
+# GSC API secrets (local only, không bao giờ commit)
+scripts/gsc/client_secret.json
+scripts/gsc/token.json
+scripts/gsc/node_modules/
