@@ -6,6 +6,8 @@ backend:
   name: github
   repo: ragonsky-rgb/techvision.click
   branch: main
+  base_url: https://techvision.click
+  auth_endpoint: api/auth
 
 # Ảnh tải lên đi vào public/uploads, tham chiếu trong bài bằng /uploads/...
 media_folder: public/uploads
