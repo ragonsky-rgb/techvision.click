@@ -1,0 +1,90 @@
+# Sveltia CMS — https://sveltiacms.app
+# Git-based: lưu bài trong UI -> commit .md vào repo -> Vercel build (Astro) -> lên web.
+# Đăng nhập: dùng GitHub Personal Access Token (admin solo) trên màn hình login.
+
+backend:
+  name: github
+  repo: ragonsky-rgb/techvision.click
+  branch: main
+
+# Ảnh tải lên đi vào public/uploads, tham chiếu trong bài bằng /uploads/...
+media_folder: public/uploads
+public_folder: /uploads
+
+# Giao diện
+locale: vi
+site_url: https://techvision.click
+display_url: https://techvision.click
+
+collections:
+  - name: articles
+    label: Bài viết
+    label_singular: Bài viết
+    folder: src/content/articles
+    create: true
+    extension: md
+    format: yaml-frontmatter
+    slug: "{{fields.slug}}"
+    identifier_field: title
+    summary: "{{datePublished}} · {{title}}"
+    sortable_fields: [datePublished, title]
+    view_filters:
+      - { label: AI, field: category, pattern: AI }
+      - { label: Apple, field: category, pattern: Apple }
+      - { label: Smartphone, field: category, pattern: Smartphone }
+      - { label: Laptop, field: category, pattern: Laptop }
+    fields:
+      - { name: slug, label: "Slug (tên file = URL)", widget: string, hint: "Không dấu, không khoảng trắng. Vd: nvidia-cosmos-3-physical-ai-omnimodel-mo-2026", pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', 'Chỉ chữ thường, số và dấu gạch ngang'] }
+      - { name: title, label: "Tiêu đề (H1)", widget: string }
+      - { name: description, label: "Mô tả SEO (120-160 ký tự)", widget: text }
+      - { name: keywords, label: "Từ khoá (cách nhau bằng dấu phẩy)", widget: string }
+      - name: category
+        label: "Chuyên mục"
+        widget: select
+        default: AI
+        options: [AI, Apple, Smartphone, Laptop, Android, Camera, Wearable, Khác]
+      - { name: datePublished, label: "Ngày đăng (ISO)", widget: string, hint: "Định dạng: 2026-06-09T09:00:00+07:00" }
+      - { name: dateModified, label: "Ngày cập nhật (ISO, để trống nếu trùng ngày đăng)", widget: string, required: false }
+      - { name: deck, label: "Đoạn dẫn (sapo dưới tiêu đề)", widget: text }
+      - { name: heroImage, label: "Ảnh hero (URL)", widget: string, hint: "Vd thumbnail YouTube: https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg" }
+      - { name: heroAlt, label: "Alt cho ảnh hero", widget: string, required: false }
+      - { name: heroCaption, label: "Caption dưới ảnh hero", widget: string, required: false }
+      - { name: tldr, label: "Tóm tắt nhanh (cho phép thẻ <strong>)", widget: text }
+      - { name: tags, label: "Tags (không có dấu #)", widget: list, required: false }
+      - name: stats
+        label: "Thẻ số liệu (lưới đầu bài)"
+        widget: list
+        required: false
+        fields:
+          - { name: num, label: "Số", widget: string }
+          - { name: label, label: "Nhãn", widget: string }
+      - name: videos
+        label: "Video YouTube chèn vào bài"
+        widget: list
+        required: false
+        fields:
+          - { name: id, label: "YouTube ID", widget: string }
+          - { name: label, label: "Nhãn video (VIDEO · ...)", widget: string, required: false }
+          - { name: caption, label: "Caption dưới video", widget: string, required: false }
+      - name: faq
+        label: "Câu hỏi thường gặp (tối thiểu 3)"
+        widget: list
+        required: false
+        fields:
+          - { name: q, label: "Câu hỏi", widget: string }
+          - { name: a, label: "Trả lời", widget: text }
+      - { name: sourceUrl, label: "Link nguồn tham khảo", widget: string, required: false }
+      - { name: sourceName, label: "Tên bài nguồn", widget: string, required: false }
+      - { name: sourceDomains, label: "Các domain nguồn (cách nhau bằng ·)", widget: string, required: false }
+      - name: related
+        label: "Bài liên quan"
+        widget: list
+        required: false
+        fields:
+          - { name: href, label: "Đường dẫn", widget: string }
+          - { name: cat, label: "Chuyên mục", widget: string, default: AI }
+          - { name: title, label: "Tiêu đề", widget: string }
+      - { name: about, label: "JSON-LD about[] (tên thực thể, dùng Thing)", widget: list, required: false }
+      - { name: authorBio, label: "Tiểu sử tác giả (để trống dùng mặc định)", widget: text, required: false }
+      - { name: featured, label: "Đưa lên hero trang chủ", widget: boolean, default: false, required: false }
+      - { name: body, label: "Nội dung bài (Markdown, các mục H2)", widget: markdown }
