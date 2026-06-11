@@ -7,9 +7,9 @@ category: "AI"
 datePublished: "2026-06-09T11:00:00+07:00"
 dateModified: "2026-06-09T11:00:00+07:00"
 deck: "Anthropic vừa ra mắt Claude Fable 5, model mạnh nhất từ trước tới nay của hãng và là phiên bản dùng công khai đầu tiên của lớp Mythos, vốn đứng trên cả dòng Opus. Fable 5 nhắm tới lập trình kiểu agent và các tác vụ tự chủ kéo dài nhiều ngày, với cửa sổ ngữ cảnh 1 triệu token."
-heroImage: "https://i.ytimg.com/vi/INGOC6-LLv0/maxresdefault.jpg"
-heroAlt: "Claude Fable 5, model Mythos-class mới nhất của Anthropic, mạnh hơn Opus 4.8"
-heroCaption: "Claude Fable 5 là phiên bản dùng công khai của lớp model Mythos. Nguồn: Anthropic / YouTube"
+heroImage: "https://i.ytimg.com/vi/Y9Wz2PV404E/maxresdefault.jpg"
+heroAlt: "Anthropic giới thiệu Claude Fable 5, model Mythos-class mạnh hơn Opus 4.8"
+heroCaption: "Anthropic chính thức giới thiệu Claude Fable 5 ngày 9/6/2026. Nguồn: Anthropic / YouTube"
 tldr: "<strong>Claude Fable 5</strong> ra mắt ngày <strong>9/6/2026</strong>, là model <strong>Mythos-class</strong> đầu tiên dùng công khai của Anthropic, đứng trên dòng Opus. Điểm mạnh nhất là lập trình kiểu agent: đạt <strong>80,3% SWE-Bench Pro</strong> (so với 69,2% của Opus 4.8) và có thể chạy tác vụ tự chủ kéo dài <strong>nhiều ngày</strong>. Cửa sổ ngữ cảnh <strong>1 triệu token</strong>, xuất tối đa 128.000 token mỗi phản hồi. Giá <strong>10 USD</strong> mỗi triệu token đầu vào và <strong>50 USD</strong> đầu ra, gấp đôi Opus 4.8. <strong>Miễn phí tới 22/6</strong> cho người dùng Pro, Max, Team và Enterprise."
 tags: ["ClaudeFable5", "Anthropic", "ClaudeMythos", "Opus48", "AgenticCoding", "AI"]
 about: ["Claude Fable 5", "Anthropic", "Claude Mythos", "Opus 4.8"]
@@ -25,9 +25,9 @@ stats:
   - { num: "Nhiều ngày", label: "Chạy agent lập trình tự chủ liên tục" }
   - { num: "22/6", label: "Miễn phí tới ngày này cho người dùng trả phí" }
 videos:
-  - id: "INGOC6-LLv0"
-    label: "VIDEO · Lớp model Mythos của Anthropic"
-    caption: "Bối cảnh model Mythos, nền tảng của Claude Fable 5. Nguồn: YouTube"
+  - id: "9aNqqJGFGZg"
+    label: "VIDEO · Đánh giá Claude Fable 5 và Mythos 5"
+    caption: "Phân tích nhanh Claude Fable 5 và Mythos 5. Nguồn: YouTube"
   - id: "IZ-iCJ1GnGI"
     label: "VIDEO · Anthropic và Claude Mythos"
     caption: "Vì sao Anthropic giữ kín bản Mythos đầy đủ. Nguồn: YouTube"
