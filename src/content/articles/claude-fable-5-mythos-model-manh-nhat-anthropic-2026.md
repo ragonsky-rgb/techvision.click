@@ -101,7 +101,7 @@ Một chi tiết đáng chú ý về an toàn: các câu hỏi chạm tới an n
 
 Với lập trình viên, Fable 5 mở ra khả năng giao cho AI những việc lớn hơn nhiều so với trước: không chỉ gợi ý từng dòng mà tự hoàn thành cả luồng tác vụ kéo dài. Điều này có thể thay đổi cách các nhóm nhỏ làm sản phẩm, khi một người có thể điều phối nhiều agent chạy song song.
 
-Với người dùng phổ thông, model đắt như Fable 5 thường không dùng cho hội thoại hằng ngày, nhưng nó định hình mặt bằng năng lực mà các bản rẻ hơn sẽ kế thừa trong tương lai. Bối cảnh tài chính đứng sau những bước đi này được nói rõ hơn trong bài [Anthropic nộp hồ sơ IPO, định giá $965 tỷ](/articles/anthropic-nop-ho-so-ipo-2026-vuot-openai-965-ty.html).
+Với người dùng phổ thông, model đắt như Fable 5 thường không dùng cho hội thoại hằng ngày, nhưng nó định hình mặt bằng năng lực mà các bản rẻ hơn sẽ kế thừa trong tương lai. Bối cảnh tài chính đứng sau những bước đi này được nói rõ hơn trong bài [Anthropic nộp hồ sơ IPO, định giá $965 tỷ](/articles/anthropic-nop-ho-so-ipo-2026-vuot-openai-965-ty.html). Đáng chú ý, không phải hãng nào cũng theo hướng agent tự hành này: [Apple đang nói không với agentic AI](/articles/apple-noi-khong-agentic-ai-wwdc-2026-siri-than-trong.html) vì lo ngại rủi ro ảo giác.
 
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết dựa trên thông báo ra mắt Claude Fable 5 ngày 9/6/2026. LongTechVision sẽ bổ sung khi có thêm benchmark độc lập và phản hồi thực tế từ người dùng.
