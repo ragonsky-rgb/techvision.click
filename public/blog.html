@@ -314,6 +314,7 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link rel="preconnect" href="https://i.ytimg.com">
   <link rel="icon" type="image/jpeg" href="uploads/favicon-avatar.jpg">
   <link rel="apple-touch-icon" href="uploads/favicon-avatar.jpg">
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
@@ -714,6 +715,13 @@
     .hero-lead .hl-date { font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); margin-top: 0.7rem; }
     .hero-side { display: flex; flex-direction: column; gap: 1rem; }
     .hero-side-label { font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text); font-weight: 700; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); }
+    .blog-more {
+      display: block; margin: 2.5rem auto 0; padding: 0.72rem 2rem;
+      background: var(--accent); color: #fff; border: none; border-radius: 99px;
+      font-family: var(--sans); font-size: 0.85rem; font-weight: 600; letter-spacing: 0.02em;
+      cursor: pointer; transition: opacity .2s, transform .15s;
+    }
+    .blog-more:hover { transform: translateY(-1px); opacity: 0.92; }
     /* Banner sự kiện -> trang sự kiện */
     .live-banner { display: flex; align-items: center; gap: 0.85rem; margin: 0 0 1.6rem; padding: 0.85rem 1.1rem; border-radius: 12px; text-decoration: none; color: var(--text); background: linear-gradient(120deg, rgba(41,151,255,0.14), rgba(41,151,255,0.04)); border: 1px solid rgba(41,151,255,0.35); transition: border-color .2s, transform .15s, background .2s; }
     .live-banner:hover { border-color: rgba(41,151,255,0.65); transform: translateY(-1px); background: linear-gradient(120deg, rgba(41,151,255,0.2), rgba(41,151,255,0.06)); }
@@ -1841,9 +1849,17 @@
         apple: ['apple', 'ios'],
         khac: ['audio', 'smarthome', 'reviews', 'phan-tich']
       };
+      // "Xem thêm": chỉ hiện PAGE bài đầu, ảnh card ẩn không load -> nhanh hơn
+      const PAGE = 12;
+      let limit = PAGE;
+      const grid = document.getElementById('blog-grid');
+      const moreBtn = document.createElement('button');
+      moreBtn.type = 'button';
+      moreBtn.className = 'blog-more';
+      if (grid) grid.insertAdjacentElement('afterend', moreBtn);
       function applyFilters() {
         const q = activeQuery.toLowerCase().trim();
-        let visible = 0;
+        let matched = 0, shown = 0;
         cards.forEach(card => {
           const cat = card.dataset.cat;
           const group = CAT_GROUPS[activeCat];
@@ -1852,29 +1868,42 @@
                        (card.querySelector('.card-excerpt')?.textContent || '') + ' ' +
                        (card.querySelector('.card-desc')?.textContent || '');
           const matchQuery = !q || text.toLowerCase().includes(q);
-          const show = matchCat && matchQuery;
-          card.style.display = show ? '' : 'none';
-          if (show) visible++;
+          if (matchCat && matchQuery) {
+            matched++;
+            const show = shown < limit;
+            card.style.display = show ? '' : 'none';
+            if (show) shown++;
+          } else {
+            card.style.display = 'none';
+          }
         });
-        searchEmpty.classList.toggle('show', visible === 0);
+        searchEmpty.classList.toggle('show', matched === 0);
         searchClear.classList.toggle('show', !!q);
+        const remaining = matched - shown;
+        moreBtn.style.display = remaining > 0 ? '' : 'none';
+        moreBtn.textContent = 'Xem thêm bài viết (' + remaining + ')';
       }
+
+      moreBtn.addEventListener('click', () => { limit += PAGE; applyFilters(); });
 
       document.querySelectorAll('.filter-btn').forEach(btn => {
         btn.addEventListener('click', () => {
           document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
           btn.classList.add('active');
           activeCat = btn.dataset.cat;
+          limit = PAGE;
           applyFilters();
         });
       });
 
       searchInput.addEventListener('input', (e) => {
         activeQuery = e.target.value;
+        limit = PAGE;
         applyFilters();
       });
       searchClear.addEventListener('click', () => {
         searchInput.value = ''; activeQuery = '';
+        limit = PAGE;
         searchInput.focus(); applyFilters();
       });
 
@@ -1884,8 +1913,8 @@
       if (initialQ) {
         searchInput.value = initialQ;
         activeQuery = initialQ;
-        applyFilters();
       }
+      applyFilters(); // luôn chạy lúc tải để áp giới hạn Xem thêm
 
       // Bookmarks panel (read-only on blog listing)
       const bmListBtn = document.getElementById('bookmarksListBtn');

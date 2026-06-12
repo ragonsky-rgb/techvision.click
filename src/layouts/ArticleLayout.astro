@@ -78,6 +78,7 @@ const breadcrumbLd = {
   <link rel="alternate" hreflang="x-default" href={url} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+  <link rel="preconnect" href="https://i.ytimg.com" />
   <link rel="icon" type="image/jpeg" href="/uploads/favicon-avatar.jpg" />
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/articles/_article-style.css" />
@@ -241,7 +242,7 @@ const breadcrumbLd = {
 
     <p class="art-deck">{deck}</p>
 
-    <img class="art-hero" src={heroImage} alt={heroAlt || title} loading="lazy" width={isYtMaxres ? 1280 : undefined} height={isYtMaxres ? 720 : undefined} />
+    <img class="art-hero" src={heroImage} alt={heroAlt || title} loading="eager" fetchpriority="high" width={isYtMaxres ? 1280 : undefined} height={isYtMaxres ? 720 : undefined} />
     {heroCaption && <p class="art-hero-caption">{heroCaption}</p>}
 
     <div class="art-tldr">
