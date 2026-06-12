@@ -49,11 +49,11 @@ OUTLINE & AM — [tên bài]
 5. AM        IN ← 2-3 bài cũ trỏ về (bài + anchor text)
              OUT → 2-3 bài cùng cụm (anchor text)
              HUB → chuyên mục / trang sự kiện
-6. MEDIA     ≥5 (hero RIÊNG không trùng + video + bảng/stats)
+6. MEDIA     ≥5, RẢI ĐỀU giữa các H2: hero riêng + 3-4 ảnh + CHỈ 1-2 video (KHÔNG dồn cụm; bài CMS không dùng frontmatter videos, chèn thẳng vào body)
 7. SCHEMA    NewsArticle + FAQPage (4-6 FAQ), about[] dùng Thing
 ```
 
-Quy tắc kèm: 0 em-dash · hero không tái dùng ảnh bài khác · bài mới tự lên hero Tiêu điểm qua build · sau đăng: nộp news sitemap (node gsc.mjs sitemap) + yêu cầu index trong GSC UI.
+Quy tắc kèm: 0 em-dash · hero không tái dùng ảnh bài khác · ưu tiên ảnh hơn video (1-2 video/bài) · bài mới tự lên hero Tiêu điểm qua build · sau đăng: nộp news sitemap (node gsc.mjs sitemap) + yêu cầu index trong GSC UI.
 
 ## 5. Brief sẵn cho 2 bài ưu tiên
 

@@ -24,16 +24,6 @@ stats:
   - { num: "$10 / $50", label: "Giá mỗi triệu token vào / ra, gấp đôi Opus 4.8" }
   - { num: "Nhiều ngày", label: "Chạy agent lập trình tự chủ liên tục" }
   - { num: "22/6", label: "Miễn phí tới ngày này cho người dùng trả phí" }
-videos:
-  - id: "9aNqqJGFGZg"
-    label: "VIDEO · Đánh giá Claude Fable 5 và Mythos 5"
-    caption: "Phân tích nhanh Claude Fable 5 và Mythos 5. Nguồn: YouTube"
-  - id: "IZ-iCJ1GnGI"
-    label: "VIDEO · Anthropic và Claude Mythos"
-    caption: "Vì sao Anthropic giữ kín bản Mythos đầy đủ. Nguồn: YouTube"
-  - id: "DNhjITZy7cQ"
-    label: "VIDEO · Mythos có ý nghĩa gì với lập trình viên"
-    caption: "Tác động của lớp model Mythos tới giới phát triển phần mềm. Nguồn: YouTube"
 faq:
   - q: "Claude Fable 5 là gì?"
     a: "Claude Fable 5 là model AI mạnh nhất của Anthropic tính tới ngày 9/6/2026, và là phiên bản dùng công khai đầu tiên của lớp Mythos, đứng trên dòng Opus. Model nhắm tới lập trình kiểu agent, tác vụ tự chủ kéo dài, thị giác và nghiên cứu phức tạp."
@@ -73,7 +63,11 @@ Claude Fable 5 là model nền tảng mới của Anthropic, được xếp vào
 
 Khác biệt đáng chú ý nằm ở khả năng tự chủ. Theo các báo cáo, Fable 5 có thể nhận một mục tiêu lập trình rồi tự lập kế hoạch và thực thi qua nhiều bước trong thời gian dài, được mô tả là tính bằng ngày, thay vì cần con người nhắc từng bước. Đây là hướng đi mà cả ngành đang theo đuổi: chuyển AI từ công cụ trả lời sang lực lượng làm việc thực thụ.
 
-<div class="art-video-label">VIDEO · Lớp model Mythos của Anthropic</div>
+<div class="art-video-label">VIDEO · Đánh giá Claude Fable 5 và Mythos 5</div>
+<div class="art-video-wrap">
+  <iframe src="https://www.youtube.com/embed/9aNqqJGFGZg" title="Đánh giá Claude Fable 5 và Mythos 5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Phân tích nhanh năng lực Claude Fable 5. Nguồn: YouTube</p>
 
 ## Claude Fable 5 mạnh hơn Opus 4.8 thế nào?
 
@@ -87,7 +81,10 @@ Fable 5 và Claude Mythos 5 dùng chung một model nền, nhưng tồn tại �
 
 Cái tên Mythos không xa lạ với độc giả LongTechVision. Đây chính là model lõi của sáng kiến an ninh mạng được nói tới trong bài [Project Glasswing: AI Claude Mythos tìm hơn 10.000 lỗ hổng bảo mật](/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html). Việc đưa Mythos ra công chúng dưới tên Fable 5 cho thấy Anthropic đã đủ tự tin về các biện pháp an toàn để mở rộng quyền truy cập.
 
-<div class="art-video-label">VIDEO · Anthropic và Claude Mythos</div>
+<figure>
+  <img src="https://i.ytimg.com/vi/IZ-iCJ1GnGI/maxresdefault.jpg" alt="Anthropic giữ kín bản Claude Mythos đầy đủ" loading="lazy" width="1280" height="720">
+  <figcaption>Bản Mythos 5 đầy đủ chỉ mở cho nhà nghiên cứu được xét duyệt. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Giá Claude Fable 5 bao nhiêu, dùng ở đâu?
 
@@ -96,6 +93,11 @@ Fable 5 có giá 10 USD mỗi triệu token đầu vào và 50 USD mỗi triệu
 Người dùng trả phí gồm Claude Pro, Max, Team và Enterprise được dùng miễn phí trong cửa sổ giới thiệu từ 9/6 đến 22/6/2026. Về nền tảng, model có mặt trên Claude API với mã claude-fable-5, ứng dụng Claude, cùng Amazon Bedrock, Vertex AI và Microsoft Foundry ngay từ ngày ra mắt.
 
 Một chi tiết đáng chú ý về an toàn: các câu hỏi chạm tới an ninh mạng, vũ khí sinh học hoặc chưng cất model sẽ được tự động chuyển sang Opus 4.8 an toàn hơn, dự kiến ảnh hưởng dưới 5% số phiên.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/DNhjITZy7cQ/maxresdefault.jpg" alt="Tác động của model Mythos tới lập trình viên" loading="lazy" width="1280" height="720">
+  <figcaption>Lớp model Mythos thay đổi cách lập trình viên giao việc cho AI. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Ý nghĩa với người dùng và lập trình viên Việt Nam
 

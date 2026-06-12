@@ -24,16 +24,6 @@ stats:
   - { num: "58%", label: "Mức giảm click cho top page khi có AI Overviews (Ahrefs)" }
   - { num: "1%", label: "Tỷ lệ AI Overviews dẫn tới click vào nguồn (Pew)" }
   - { num: "3/6/2026", label: "Ngày CMA công bố quy định" }
-videos:
-  - id: "rtrLA42XRog"
-    label: "VIDEO · AI Overviews và lưu lượng báo chí"
-    caption: "Phân tích tác động của AI Overviews tới các nhà xuất bản. Nguồn: YouTube"
-  - id: "f7WjqI90zzM"
-    label: "VIDEO · Google AI Overviews và zero-click"
-    caption: "AI Overviews thay đổi cách người dùng bấm vào nguồn. Nguồn: YouTube"
-  - id: "bhTo8fDmr5I"
-    label: "VIDEO · Báo chí thích nghi ra sao với AI search"
-    caption: "Các nhà xuất bản đối phó với sụt giảm lưu lượng. Nguồn: YouTube"
 faq:
   - q: "CMA buộc Google làm gì với AI Overviews?"
     a: "CMA buộc Google cho phép các tòa soạn từ chối để nội dung của họ bị dùng trong AI Overviews, AI Mode và các dịch vụ AI tạo sinh gồm cả Gemini và Vertex AI. Việc chặn có thể làm ở cấp thư mục lẫn từng trang, và quan trọng nhất là không được làm tụt thứ hạng trên tìm kiếm thường."
@@ -72,17 +62,33 @@ Theo quy định, Google phải trao cho các nhà xuất bản quyền kiểm s
 
 Ngoài quyền từ chối, Google còn phải dẫn nguồn nội dung của tòa soạn bằng các liên kết rõ ràng trong kết quả AI, và cho phép họ rút nội dung khỏi quá trình tinh chỉnh model. Google có khoảng chín tháng để triển khai, với Anh là nơi áp dụng đầu tiên trước khi mở rộng ra toàn cầu.
 
+<figure>
+  <img src="https://i.ytimg.com/vi/f7WjqI90zzM/maxresdefault.jpg" alt="AI Overviews trả lời ngay trên trang kết quả tìm kiếm" loading="lazy" width="1280" height="720">
+  <figcaption>AI Overviews khiến người dùng ít bấm vào trang nguồn hơn hẳn. Nguồn: YouTube</figcaption>
+</figure>
+
 ## Vì sao quy định này quan trọng với báo chí?
 
 Vấn đề lớn nhất lâu nay là tòa soạn gần như không có lựa chọn ở giữa. Muốn nội dung không bị AI Overviews dùng, họ phải chặn Google lập chỉ mục, đồng nghĩa biến mất khỏi tìm kiếm và mất luôn nguồn lưu lượng sống còn. Quy định mới tách bạch hai việc: một trang giờ có thể nói không với AI mà vẫn giữ thứ hạng tìm kiếm thường.
 
 Bối cảnh là cuộc khủng hoảng zero-click. Khi bản tóm tắt AI trả lời ngay trên trang kết quả, người dùng ít bấm vào nguồn hơn hẳn. Các số liệu cho thấy mức độ nghiêm trọng: tìm kiếm zero-click hiện chiếm khoảng 69% lượt tìm, một nghiên cứu của Ahrefs ghi nhận click giảm tới 58% với các trang top khi xuất hiện AI Overviews, còn Pew thấy chỉ khoảng 1% lượt AI Overviews dẫn tới một cú click vào nguồn.
 
+<div class="art-video-label">VIDEO · AI Overviews và lưu lượng báo chí</div>
+<div class="art-video-wrap">
+  <iframe src="https://www.youtube.com/embed/rtrLA42XRog" title="AI Overviews và lưu lượng báo chí" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Tác động của AI Overviews tới các nhà xuất bản. Nguồn: YouTube</p>
+
 ## Hệ quả thực tế với các nhà xuất bản
 
 Tác động lên doanh thu và lưu lượng đã hiện rõ trước cả khi có quy định. Nhiều tòa soạn báo cáo lượt truy cập từ Google sụt mạnh, một số trang nhỏ thậm chí phải đóng cửa khi lưu lượng bốc hơi phần lớn sau khi AI Overviews phổ biến. Với những đơn vị sống nhờ quảng cáo hiển thị, mất click đồng nghĩa mất nguồn thu trực tiếp.
 
 Đáng chú ý, trong số ít những nguồn được AI Overviews dẫn link, YouTube, Wikipedia và Reddit chiếm phần lớn. Điều này khiến nhiều tòa soạn buộc phải dồn công sức sang các nền tảng như YouTube, thay vì trông chờ vào tìm kiếm truyền thống.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/bhTo8fDmr5I/maxresdefault.jpg" alt="Các tòa soạn tìm cách thích nghi với AI search" loading="lazy" width="1280" height="720">
+  <figcaption>Nhiều tòa soạn chuyển hướng đầu tư sang YouTube và kênh riêng. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Tiền lệ toàn cầu và điều cần theo dõi
 

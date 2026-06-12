@@ -24,16 +24,6 @@ stats:
   - { num: "WWDC 2026", label: "Nơi triết lý thận trọng lộ rõ" }
   - { num: "Gemini", label: "Nền tảng model hợp tác của Siri AI" }
   - { num: "Ảo giác", label: "Rủi ro khiến Apple chưa trao quyền tự hành" }
-videos:
-  - id: "c6HGJJabr_4"
-    label: "VIDEO · Chiến lược AI của Apple sau WWDC 2026"
-    caption: "Phân tích hướng đi AI thận trọng của Apple. Nguồn: YouTube"
-  - id: "wpBgdV0hx0w"
-    label: "VIDEO · Siri AI làm được gì và chưa làm được gì"
-    caption: "Giới hạn có chủ đích của Siri AI. Nguồn: YouTube"
-  - id: "hF8swzNR1-o"
-    label: "VIDEO · Cuộc đua AI agent của các ông lớn"
-    caption: "Bối cảnh cuộc đua agentic AI trong ngành. Nguồn: YouTube"
 faq:
   - q: "Agentic AI là gì?"
     a: "Agentic AI (AI tác tử) là loại AI được trao quyền tự thực thi chuỗi tác vụ đa bước để đạt một mục tiêu, ví dụ tự tìm chuyến bay, so giá rồi đặt vé, mà không cần con người duyệt từng bước. Khác với chatbot chỉ trả lời, AI agent tự lập kế hoạch và hành động."
@@ -71,17 +61,33 @@ Trong khi đối thủ trình diễn các agent tự đặt vé, tự viết bá
 
 Điểm chung của tất cả các tính năng đó: người dùng luôn là người bấm nút. Siri tổng hợp, tìm kiếm và trả lời, nhưng không tự khởi phát bất kỳ hành động nào. Toàn cảnh các công bố được tổng hợp trong bài [WWDC 2026: Siri AI, iOS 27 và toàn bộ công bố](/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html).
 
+<figure>
+  <img src="https://i.ytimg.com/vi/wpBgdV0hx0w/maxresdefault.jpg" alt="Siri AI chỉ thực thi khi người dùng ra lệnh" loading="lazy" width="1280" height="720">
+  <figcaption>Siri AI hiểu ngữ cảnh sâu nhưng luôn chờ lệnh người dùng. Nguồn: YouTube</figcaption>
+</figure>
+
 ## Vì sao Apple thận trọng với AI agent?
 
 Câu trả lời nằm ở một từ: ảo giác. Các model ngôn ngữ hiện tại, kể cả những model mạnh nhất, vẫn có thể bịa thông tin sai một cách đầy tự tin. Với chatbot, hậu quả là một câu trả lời sai mà người dùng có thể kiểm chứng. Với một agent được trao quyền hành động, hậu quả là hành vi sai được thực thi thật: đặt nhầm vé, gửi nhầm email, hay như cây bút của Engadget viết thẳng, nỗi lo "nó dọn sạch tài khoản ngân hàng của tôi".
 
 Bài bình luận trên Engadget gọi việc thả các agent tự hành trên nền model hiện tại là điều liều lĩnh, và khen ngợi sự kiềm chế của Apple. Thay vì chạy theo kỳ vọng của giới đầu tư như cách Microsoft và Google đã nhồi AI vào mọi sản phẩm, Apple chọn chỉ ship những gì đủ ổn định để người dùng phổ thông tin tưởng.
 
+<div class="art-video-label">VIDEO · Chiến lược AI của Apple sau WWDC 2026</div>
+<div class="art-video-wrap">
+  <iframe src="https://www.youtube.com/embed/c6HGJJabr_4" title="Chiến lược AI của Apple sau WWDC 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Phân tích hướng đi AI thận trọng của Apple. Nguồn: YouTube</p>
+
 ## Thận trọng có khiến Apple tụt lại không?
 
 Nhìn ngắn hạn, có thể. Trên các bài đo năng lực agent, những model như [Claude Fable 5 đã chạy được tác vụ lập trình tự chủ kéo dài nhiều ngày](/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html), còn doanh nghiệp đã bắt đầu [triển khai AI agent vào vận hành thực tế](/articles/ai-agents-enterprise-deployment-2026.html). Khoảng cách tính năng giữa Apple và phần còn lại là có thật.
 
 Nhưng nhìn dài hạn, đây là kịch bản quen thuộc của Apple: vào sau, vào chắc. Bằng cách quan sát những vấp ngã của Copilot và các agent đời đầu, Apple có dữ liệu thật về chỗ nào AI hỏng, chỗ nào người dùng thực sự cần. Khi model nền tảng đủ tin cậy, hãng có thể bật khả năng agent trên chính kiến trúc Siri AI hiện tại, vốn đã hiểu ngữ cảnh cá nhân sâu hơn bất kỳ đối thủ nào nhờ nằm sẵn trong hệ điều hành.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/hF8swzNR1-o/maxresdefault.jpg" alt="Cuộc đua AI agent giữa các ông lớn công nghệ" loading="lazy" width="1280" height="720">
+  <figcaption>Microsoft, Google và NVIDIA đều đặt cược lớn vào agent tự hành. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Người dùng nên nhìn cuộc đua này thế nào?
 
