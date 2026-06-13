@@ -1,4 +1,4 @@
-# Chiến lược nội dung & Topical map — techvision.click
+# Chiến lược nội dung & Topical map - techvision.click
 
 > Lập ngày 10/6/2026, dựa trên audit 64 bài + GSC 90 ngày. Cập nhật mỗi quý.
 
@@ -6,8 +6,8 @@
 
 - 64 bài: AI & model 27 · Di động & gadget 17 · PC & chip 9 · Apple & iOS 6 · lẻ 5
 - GSC 28 ngày: ~42 click, trang chủ chiếm 26 (CTR 44%, vị trí 1.4); 23 trang indexed / 7 chưa
-- Lệch cung–cầu: viết nhiều về AI nhưng demand thật đến từ phần cứng (cụm RTX 5090) và Apple (macOS 27, Siri WWDC)
-- 7 bài ở vị trí 6–11 (quick-win): RTX 5090 Ti (11.1/31 impr, đã tối ưu 9/6), Samsung Glasses (6.5/19, đã tối ưu 9/6), macOS 27 (7.9/18), AI agents enterprise (9.3/16), OpenAI Dell (6.4/14), Google I/O day1 (8.1/14), Osaurus (8.0/12)
+- Lệch cung-cầu: viết nhiều về AI nhưng demand thật đến từ phần cứng (cụm RTX 5090) và Apple (macOS 27, Siri WWDC)
+- 7 bài ở vị trí 6-11 (quick-win): RTX 5090 Ti (11.1/31 impr, đã tối ưu 9/6), Samsung Glasses (6.5/19, đã tối ưu 9/6), macOS 27 (7.9/18), AI agents enterprise (9.3/16), OpenAI Dell (6.4/14), Google I/O day1 (8.1/14), Osaurus (8.0/12)
 - Hạ tầng: Astro CMS (Sveltia), sitemap/news/rss tự sinh, hub Sự kiện, GA4 (G-Z5JS5HS5LK), GSC API tooling (scripts/gsc)
 
 ## 2. Định vị & nguyên tắc
@@ -15,15 +15,15 @@
 **Định vị:** Tin công nghệ quốc tế nhanh bằng tiếng Việt, kèm góc nhìn cho người dùng Việt (giá VN, mua được không, tiếng Việt khi nào có).
 
 **3 nguyên tắc:**
-1. Viết theo cụm, không viết lẻ — mỗi bài thuộc 1 cụm trong topical map, có AM (anchor map) rõ.
-2. Tin nóng nuôi evergreen — mỗi event nóng kéo theo 1–2 bài evergreen giữ traffic lâu dài.
-3. Tối ưu hằng tuần — chạy GSC API (scripts/gsc), bài vị trí 5–15 nhiều hiển thị thì chỉnh title/meta/link.
+1. Viết theo cụm, không viết lẻ - mỗi bài thuộc 1 cụm trong topical map, có AM (anchor map) rõ.
+2. Tin nóng nuôi evergreen - mỗi event nóng kéo theo 1-2 bài evergreen giữ traffic lâu dài.
+3. Tối ưu hằng tuần - chạy GSC API (scripts/gsc), bài vị trí 5-15 nhiều hiển thị thì chỉnh title/meta/link.
 
-**Nhịp:** 3–4 bài/tuần = 2 tin nóng + 1 evergreen + 1 lượt tối ưu bài cũ.
+**Nhịp:** 3-4 bài/tuần = 2 tin nóng + 1 evergreen + 1 lượt tối ưu bài cũ.
 
 **Event playbook (đã chứng minh với WWDC):** trang sự kiện trước ~2 tuần → bài preview → live → recap → evergreen ăn theo. Kế tiếp: Samsung Unpacked 22/7 (dựng trang ~8/7), iPhone tháng 9.
 
-**KPI 90 ngày:** indexed 23 → 50+ · click 42 → 150–200/28 ngày · 3 bài mới top 10 · CTR bài top > 5%.
+**KPI 90 ngày:** indexed 23 → 50+ · click 42 → 150-200/28 ngày · 3 bài mới top 10 · CTR bài top > 5%.
 
 ## 3. Topical map (5 trụ)
 
@@ -35,12 +35,12 @@
 | Apple & iOS (6) | blog?cat=apple | WWDC/iOS 27 · Siri AI · Mac | **Siri AI tiếng Việt khi nào** · Cách cài iOS 27 beta |
 | Sự kiện | /su-kien/ | Trang từng event | Unpacked 22/7 → iPhone 9/2026 |
 
-Ưu tiên viết gap theo thứ tự: (1) Giá RTX 5090 VN — query đã xuất hiện trong GSC; (2) Siri AI tiếng Việt; (3) Unpacked 22/7; (4) Cài iOS 27 beta; (5) Fable 5 vs GPT vs Gemini; (6) RTX Spark laptop; (7) AI Overviews là gì.
+Ưu tiên viết gap theo thứ tự: (1) Giá RTX 5090 VN - query đã xuất hiện trong GSC; (2) Siri AI tiếng Việt; (3) Unpacked 22/7; (4) Cài iOS 27 beta; (5) Fable 5 vs GPT vs Gemini; (6) RTX Spark laptop; (7) AI Overviews là gì.
 
 ## 4. Template OUTLINE & AM (áp cho mọi bài)
 
 ```
-OUTLINE & AM — [tên bài]
+OUTLINE & AM - [tên bài]
 1. ĐỊNH VỊ   Trụ → Cụm → vai trò (hub/spoke)
 2. KEYWORD   1 chính + 3-5 phụ + intent (tin tức/hướng dẫn/so sánh/giá)
 3. TITLE     ≤60 ký tự, keyword đứng đầu, có hook (số/ngày/giá)
@@ -76,6 +76,6 @@ Quy tắc kèm: 0 em-dash · hero không tái dùng ảnh bài khác · ưu tiê
 
 ## 6. Vận hành đo lường
 
-- Thứ 2 hằng tuần: `cd scripts/gsc && node gsc.mjs report 28` → lọc vị trí 5–15, impr cao → tối ưu 1-2 bài
+- Thứ 2 hằng tuần: `cd scripts/gsc && node gsc.mjs report 28` → lọc vị trí 5-15, impr cao → tối ưu 1-2 bài
 - GA4 (sau 2-4 tuần đủ data): xem trang giữ chân tốt → đặt related/banner dẫn về
 - Mỗi quý: cập nhật file này (đếm lại bài, đổi gap, review KPI)
