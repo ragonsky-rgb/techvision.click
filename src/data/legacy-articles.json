@@ -1,5 +1,15 @@
 [
   {
+    "slug": "google-io-2026-day-1-gemini-4-omni",
+    "title": "Google I/O 2026, Gemini 4 Omni, Aluminium OS, Android XR glasses (preview 18/5)",
+    "description": "Google I/O 2026 mở màn 19/5 (0h ngày 20/5 giờ VN). Tổng hợp tất cả leak và xác nhận: Gemini 4 Omni đa phương thức, Aluminium OS thay ChromeOS, Android XR glasses Project Aura, Create My Widget trên Android 17.",
+    "category": "AI",
+    "datePublished": "2026-06-13T16:30:00+07:00",
+    "dateModified": "2026-06-13T16:30:00+07:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/firefox_s8o3dPlxYY.jpg?w=1200",
+    "keywords": "Google I/O 2026, Gemini 4 Omni, Aluminium OS, Android XR, Project Aura"
+  },
+  {
     "slug": "wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate",
     "title": "WWDC 2026 có gì mới? Siri AI, iOS 27, macOS Golden Gate và toàn bộ công bố",
     "description": "Tổng hợp WWDC 2026: Siri AI mới chạy nền tảng hợp tác Google Gemini, iOS 27 hỗ trợ tới iPhone 11, macOS Golden Gate 27, Liquid Glass có thanh trượt, Apple Intelligence nâng cấp. Tim Cook đọc lời chia tay.",
@@ -450,16 +460,6 @@
     "keywords": "OpenAI Codex, Dell, enterprise AI, on-premise AI, GitHub Copilot, Cursor"
   },
   {
-    "slug": "google-io-2026-day-1-gemini-4-omni",
-    "title": "Google I/O 2026, Gemini 4 Omni, Aluminium OS, Android XR glasses (preview 18/5)",
-    "description": "Google I/O 2026 mở màn 19/5 (0h ngày 20/5 giờ VN). Tổng hợp tất cả leak và xác nhận: Gemini 4 Omni đa phương thức, Aluminium OS thay ChromeOS, Android XR glasses Project Aura, Create My Widget trên Android 17.",
-    "category": "AI",
-    "datePublished": "2026-05-18T11:00:00+07:00",
-    "dateModified": "2026-05-18T11:00:00+07:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/firefox_s8o3dPlxYY.jpg?w=1200",
-    "keywords": "Google I/O 2026, Gemini 4 Omni, Aluminium OS, Android XR, Project Aura"
-  },
-  {
     "slug": "wwdc-2026-ios-27-siri-redesign",
     "title": "WWDC 2026, iOS 27 với Siri 2.0 redesign, app Siri độc lập, 5G vệ tinh",
     "description": "Leak từ MacRumors trước WWDC 8/6: iOS 27 sẽ có Siri redesign hoàn toàn, Dynamic Island chuyển thành 'Search or Ask', app Siri độc lập với Extensions, hỗ trợ 5G vệ tinh trên iPhone 18 Pro. Tương thích từ iPhone 12.",
@@ -475,7 +475,7 @@
     "description": "RTX 5090 Ti 48GB GDDR7: GPU đỉnh mới của NVIDIA, VRAM gấp đôi RTX 5090, nhắm AI và sáng tạo. Thông số, hiệu năng kỳ vọng và ngày ra mắt dự kiến.",
     "category": "Laptop",
     "datePublished": "2026-05-17T13:00:00+07:00",
-    "dateModified": "2026-06-12T11:00:00+07:00",
+    "dateModified": "2026-06-13T16:30:00+07:00",
     "image": "https://tech4gamers.com/wp-content/uploads/2025/01/Nvidia-GeForce-RTX-5090-Founders-Edition-GPU.jpg",
     "keywords": "NVIDIA RTX 5090 Ti, RTX Titan, GDDR7 48GB, GPU flagship 2026, Computex 2026"
   },
@@ -505,7 +505,7 @@
     "description": "Không còn là demo trong phòng thí nghiệm. AI agents, hệ thống tự lập kế hoạch, dùng tools, browse web, viết code và hoàn thành tasks đa bước, đang được triển khai thực tế trong các tập đoàn lớn. 2026 là năm AI bắt đầu \"đi làm\" thật.",
     "category": "AI",
     "datePublished": "2026-05-16T08:00:00+07:00",
-    "dateModified": "2026-06-12T11:00:00+07:00",
+    "dateModified": "2026-06-13T16:30:00+07:00",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/googlebook.png?resize=1200,843",
     "keywords": ""
   },
