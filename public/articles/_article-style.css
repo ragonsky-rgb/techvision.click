@@ -100,7 +100,7 @@ article {
 }
 
 .art-hero {
-  width: 100%; aspect-ratio: 16/9; object-fit: contain;
+  width: 100%; height: auto; aspect-ratio: 16/9; object-fit: cover;
   border-radius: 4px; margin-bottom: 0.6rem;
   display: block;
   background: var(--line);
@@ -455,7 +455,7 @@ body.dark .related-card:hover { background: rgba(240,237,232,0.04); }
   .art-title { font-size: 1.9rem; }
   .art-deck { font-size: 1.05rem; }
   .art-body { font-size: 0.98rem; }
-  .art-hero { object-fit: contain; }
+  .art-hero { object-fit: cover; }
   .related-grid { grid-template-columns: 1fr; }
   .share-buttons { gap: 0.4rem; }
   .share-btn { padding: 0.5rem 0.9rem; font-size: 0.65rem; }
@@ -489,8 +489,9 @@ body.dark .related-card:hover { background: rgba(240,237,232,0.04); }
 }
 .art-body figure img {
   width: 100%;
-  max-height: 480px;
-  object-fit: contain;
+  height: auto;
+  aspect-ratio: 16/9;
+  object-fit: cover;
   border-radius: 4px;
   display: block;
   background: var(--line);
@@ -566,7 +567,7 @@ body.dark .art-spec-box { background: rgba(240,237,232,0.04); }
 
 @media (max-width: 640px) {
   .art-body figure { margin: 1.5rem 0; }
-  .art-body figure img { max-height: 280px; object-fit: contain; }
+  .art-body figure img { object-fit: cover; }
   .art-spec-box { padding: 1rem; }
   .art-spec-box table { font-size: 0.82rem; }
   .art-spec-box th, .art-spec-box td { padding: 0.4rem 0.5rem; }
