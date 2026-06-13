@@ -99,7 +99,7 @@ Lãnh đạo Qualcomm mô tả đây là bước chuẩn bị cho giai đoạn t
 <p class="art-video-caption">CEO Qualcomm chia sẻ về định hướng chuẩn bị cho giai đoạn tăng trưởng tiếp theo của data center AI. Nguồn: YouTube</p>
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-fKmLOTKipY/maxresdefault.jpg" alt="Cổ phiếu Qualcomm tăng mạnh sau công bố chip AI data center" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/-fKmLOTKipY/hqdefault.jpg" alt="Cổ phiếu Qualcomm tăng mạnh sau công bố chip AI data center" loading="lazy" width="480" height="360">
   <figcaption>Cổ phiếu Qualcomm bật tăng mạnh ngay khi hãng công bố tham vọng data center. Nguồn: YouTube</figcaption>
 </figure>
 
