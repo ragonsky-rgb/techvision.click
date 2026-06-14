@@ -4,6 +4,17 @@
 
 **Mục tiêu 30 ngày:** click 42 → 90+/28 ngày · indexed 23 → 35+ · 8 bài mới · 8 lượt tối ưu quick-win. (Hướng tới KPI 90 ngày: click 150-200, indexed 50+.)
 
+## Tiến độ thực hiện (cập nhật 14/6)
+
+- ✅ **Tuần 1**: bài Giá RTX 5090 VN (ưu tiên #1) + tối ưu 3 quick-win (RTX 5090 Ti, AI agents, Google I/O day1) + nộp sitemap.
+- ✅ **Tuần 2**: bài Siri AI tiếng Việt (evergreen) + Cách cài iOS 27 beta (how-to) + tối ưu macOS 27, OpenAI Dell.
+- ✅ **Tuần 3 (làm sớm)**: bài AI Overviews là gì (evergreen) + bài feature Atlas + Gemini Robotics (physical AI) + đo GSC giữa kỳ + tối ưu Osaurus, Gemini Intelligence.
+- ✅ **QA metadata toàn site (bonus)**: vá 10 meta description bị cụt/hỏng + 5 og:description dính dấu nháy lọt (CTR + social preview). Sửa lỗi datePublished bị đổi nhầm ở 2 bài.
+- ✅ **Sửa layout**: hero/figure dùng height:auto + aspect-ratio 16/9 (hết cắt ảnh toàn site).
+- ✅ **Bài mới đã đăng phiên này**: Qualcomm AI200/AI250, Claude Fable 5 bị chặn, Giá RTX 5090 VN, Siri AI tiếng Việt, Cài iOS 27 beta, AI Overviews là gì, Atlas+Gemini Robotics.
+
+**Còn lại theo kế hoạch:** RTX Spark laptop (kiểm tra trùng N1X trước), Cài iOS 27 beta đã xong; Tuần 4 dựng trang sự kiện Samsung Unpacked 22/7.
+
 ## Phase 1 · Tuần 1 (13-19/6) — Hứng demand có sẵn
 - ✍️ **Giá RTX 5090/5090 Ti tại VN** (ưu tiên #1, query đã ở vị trí 17, chưa có bài hứng). Research xong: FE từ ~63tr, AIB 73-100tr+ do thiếu GDDR7, An Phát từ 83tr (gearvn.com, anphatpc.com.vn).
 - 🔧 Tối ưu 3 quick-win cao nhất: RTX 5090 Ti (11.1 impr), AI agents enterprise (9.3), Google I/O day 1 (8.1).
