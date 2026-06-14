@@ -42,7 +42,7 @@ related:
 featured: true
 ---
 
-Ngày 3/6/2026, Cơ quan Cạnh tranh và Thị trường Anh (CMA) ra quy định buộc Google cho phép các tòa soạn báo từ chối để nội dung của họ bị đưa vào AI Overviews và các tính năng tìm kiếm AI. Điểm then chốt: việc từ chối này không được làm trang web bị tụt hạng trên tìm kiếm thường. Đây là quy định đầu tiên kiểu này trên thế giới, được ban hành theo Đạo luật Thị trường Kỹ thuật số, Cạnh tranh và Người tiêu dùng 2024.
+Ngày 3/6/2026, Cơ quan Cạnh tranh và Thị trường Anh (CMA) ra quy định buộc Google cho phép các tòa soạn báo từ chối để nội dung của họ bị đưa vào AI Overviews và các tính năng tìm kiếm AI. Điểm then chốt: việc từ chối này không được làm trang web bị tụt hạng trên tìm kiếm thường. Đây là quy định đầu tiên kiểu này trên thế giới, được ban hành theo Đạo luật Thị trường Kỹ thuật số, Cạnh tranh và Người tiêu dùng 2024. Với độc giả chưa rõ khái niệm, có thể xem trước [AI Overviews là gì và ảnh hưởng tới website](/articles/ai-overviews-la-gi-cach-hoat-dong-anh-huong-website.html).
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Quy định CMA · Thông tin nhanh</div>

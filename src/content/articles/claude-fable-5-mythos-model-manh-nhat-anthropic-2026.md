@@ -44,6 +44,8 @@ featured: true
 
 Ngày 9/6/2026, Anthropic ra mắt **Claude Fable 5**, model mạnh nhất từ trước tới nay của hãng. Đây là phiên bản dùng công khai đầu tiên của lớp **Mythos**, tầng model đứng trên cả dòng Opus. Điểm nhấn lớn nhất là khả năng lập trình kiểu agent và tự chủ kéo dài: Fable 5 có thể chạy các tác vụ viết code liên tục trong nhiều ngày với rất ít can thiệp của con người.
 
+> **Cập nhật:** Chỉ ba ngày sau khi ra mắt, Fable 5 cùng Mythos 5 đã bị gỡ trên toàn cầu theo lệnh của chính phủ Mỹ. Chi tiết trong bài [Claude Fable 5 bị chặn: Mỹ ra lệnh, Anthropic gỡ toàn cầu](/articles/claude-fable-5-bi-chan-my-ra-lenh-cam-anthropic-go-toan-cau.html).
+
 <div class="spec-box">
   <div class="spec-box-title">📋 Claude Fable 5 · Thông tin nhanh</div>
   <table>
