@@ -1,15 +1,5 @@
 [
   {
-    "slug": "google-io-2026-day-1-gemini-4-omni",
-    "title": "Google I/O 2026, Gemini 4 Omni, Aluminium OS, Android XR glasses (preview 18/5)",
-    "description": "Google I/O 2026 mở màn 19/5 (0h ngày 20/5 giờ VN). Tổng hợp tất cả leak và xác nhận: Gemini 4 Omni đa phương thức, Aluminium OS thay ChromeOS, Android XR glasses Project Aura, Create My Widget trên Android 17.",
-    "category": "AI",
-    "datePublished": "2026-06-13T16:30:00+07:00",
-    "dateModified": "2026-06-13T16:30:00+07:00",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/firefox_s8o3dPlxYY.jpg?w=1200",
-    "keywords": "Google I/O 2026, Gemini 4 Omni, Aluminium OS, Android XR, Project Aura"
-  },
-  {
     "slug": "wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate",
     "title": "WWDC 2026 có gì mới? Siri AI, iOS 27, macOS Golden Gate và toàn bộ công bố",
     "description": "Tổng hợp WWDC 2026: Siri AI mới chạy nền tảng hợp tác Google Gemini, iOS 27 hỗ trợ tới iPhone 11, macOS Golden Gate 27, Liquid Glass có thanh trượt, Apple Intelligence nâng cấp. Tim Cook đọc lời chia tay.",
@@ -455,9 +445,19 @@
     "description": "Ngày 18/5/2026, OpenAI và Dell Technologies công bố hợp tác chiến lược đưa Codex (AI code generation) chạy trực tiếp on-premise trong hệ thống doanh nghiệp. Đe doạ trực tiếp GitHub Copilot Enterprise và Cursor.",
     "category": "AI",
     "datePublished": "2026-05-18T14:00:00+07:00",
-    "dateModified": "2026-05-18T14:00:00+07:00",
+    "dateModified": "2026-06-14T13:30:00+07:00",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Dell_PowerEdge_servers.jpg",
     "keywords": "OpenAI Codex, Dell, enterprise AI, on-premise AI, GitHub Copilot, Cursor"
+  },
+  {
+    "slug": "google-io-2026-day-1-gemini-4-omni",
+    "title": "Google I/O 2026, Gemini 4 Omni, Aluminium OS, Android XR glasses (preview 18/5)",
+    "description": "Google I/O 2026 mở màn 19/5 (0h ngày 20/5 giờ VN). Tổng hợp tất cả leak và xác nhận: Gemini 4 Omni đa phương thức, Aluminium OS thay ChromeOS, Android XR glasses Project Aura, Create My Widget trên Android 17.",
+    "category": "AI",
+    "datePublished": "2026-05-18T11:00:00+07:00",
+    "dateModified": "2026-06-13T16:30:00+07:00",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/firefox_s8o3dPlxYY.jpg?w=1200",
+    "keywords": "Google I/O 2026, Gemini 4 Omni, Aluminium OS, Android XR, Project Aura"
   },
   {
     "slug": "wwdc-2026-ios-27-siri-redesign",
@@ -495,7 +495,7 @@
     "description": "Leak macOS 27 trước WWDC 2026 (8/6): Apple sẽ vá những lỗi readability của Liquid Glass từ macOS Tahoe, đồng thời Safari được tích hợp AI tự gom nhóm tab tương tự Arc. Có cả app Siri độc lập trên Mac.",
     "category": "Laptop",
     "datePublished": "2026-05-17T09:00:00+07:00",
-    "dateModified": "2026-06-12T11:00:00+07:00",
+    "dateModified": "2026-06-14T13:30:00+07:00",
     "image": "https://images.macrumors.com/t/ymiGIu_kmpqsu1C9P0Uqtqj_L3Q=/1600x0/article-new/2026/02/macOS-Liquid-Glass-Icon.jpg",
     "keywords": "macOS 27, Liquid Glass, Safari AI, Organize Tabs, WWDC 2026"
   },
