@@ -13,7 +13,9 @@
 - ✅ **Sửa layout**: hero/figure dùng height:auto + aspect-ratio 16/9 (hết cắt ảnh toàn site).
 - ✅ **Bài mới đã đăng phiên này**: Qualcomm AI200/AI250, Claude Fable 5 bị chặn, Giá RTX 5090 VN, Siri AI tiếng Việt, Cài iOS 27 beta, AI Overviews là gì, Atlas+Gemini Robotics.
 
-**Còn lại theo kế hoạch:** RTX Spark laptop (kiểm tra trùng N1X trước), Cài iOS 27 beta đã xong; Tuần 4 dựng trang sự kiện Samsung Unpacked 22/7.
+- ✅ **Tuần 4 (làm sớm)**: dựng xong [trang sự kiện Samsung Galaxy Unpacked 22/7/2026](/su-kien/samsung-galaxy-unpacked-2026.html) (countdown active, schema BroadcastEvent, ev-card trên hub, vào sitemap, inlink từ bài Z Fold 8 + Glasses) + bài feature Atlas + Gemini Robotics.
+
+**Còn lại / vòng sau:** RTX Spark laptop (kiểm tra trùng N1X trước); cập nhật trang Unpacked khi Samsung xác nhận giờ chính thức; sau 22/7 viết recap; theo dõi GSC hằng tuần để tối ưu bài vị trí 5-15; chuẩn bị sự kiện iPhone tháng 9.
 
 ## Phase 1 · Tuần 1 (13-19/6) — Hứng demand có sẵn
 - ✍️ **Giá RTX 5090/5090 Ti tại VN** (ưu tiên #1, query đã ở vị trí 17, chưa có bài hứng). Research xong: FE từ ~63tr, AIB 73-100tr+ do thiếu GDDR7, An Phát từ 83tr (gearvn.com, anphatpc.com.vn).
