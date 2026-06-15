@@ -83,7 +83,7 @@ Nghịch lý nằm ở chỗ một sản phẩm ra mắt đã lâu đáng lẽ p
 
 Nhiều người chờ RTX 5090 Ti với 48GB bộ nhớ như một lựa chọn mạnh hơn, nhưng cần nói rõ: đây vẫn chỉ là tin đồn. NVIDIA chưa công bố cũng chưa mở bán chính thức phiên bản này. Các thông tin đang lan truyền về cấu hình và thời điểm ra mắt mới dừng ở mức suy đoán, được tổng hợp trong bài [tin đồn RTX 5090 Ti 48GB GDDR7](/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html).
 
-Quan trọng hơn, trong bối cảnh GDDR7 đang khan hiếm, một card tăng tới 48GB bộ nhớ nếu ra mắt nhiều khả năng sẽ có giá rất cao và nhắm tới nhóm người dùng chuyên nghiệp về AI, render và sáng tạo nội dung hơn là game thủ phổ thông. Người chỉ chơi game không nên chờ đợi phiên bản này, vì thời điểm và mức giá đều chưa có gì chắc chắn.
+Quan trọng hơn, trong bối cảnh GDDR7 đang khan hiếm, một card tăng tới 48GB bộ nhớ nếu ra mắt nhiều khả năng sẽ có giá rất cao và nhắm tới nhóm người dùng chuyên nghiệp về AI, render và sáng tạo nội dung hơn là game thủ phổ thông. Người chỉ chơi game không nên chờ đợi phiên bản này, vì thời điểm và mức giá đều chưa có gì chắc chắn. Để cân nhắc kỹ hơn, xem bài [so sánh RTX 5090 và 5090 Ti 48GB: nên mua bản nào](/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html).
 
 <figure>
   <img src="https://i.ytimg.com/vi/-5M-h0REurY/maxresdefault.jpg" alt="Có nên hoảng loạn vì giá RTX 5090 tăng cao hay không" loading="lazy" width="1280" height="720">
