@@ -1,7 +1,7 @@
 ---
 slug: "claude-fable-5-bi-chan-my-ra-lenh-cam-anthropic-go-toan-cau"
 title: "Claude Fable 5 bị chặn: Mỹ ra lệnh, Anthropic gỡ toàn cầu"
-description: "Chính phủ Mỹ ra lệnh cấm người nước ngoài truy cập Claude Fable 5 và Mythos 5 vì lý do an ninh quốc gia, chỉ 3 ngày sau khi Fable 5 ra mắt. Anthropic buộc phải gỡ cả hai mô hình cho toàn bộ khách hàng toàn cầu."
+description: "Chính phủ Mỹ ra lệnh cấm người nước ngoài truy cập Claude Fable 5 và Mythos 5 vì an ninh quốc gia. Anthropic buộc gỡ cả hai mô hình cho toàn bộ khách hàng."
 keywords: "Claude Fable 5 bị chặn, Mythos 5, Anthropic, lệnh cấm AI Mỹ, an ninh quốc gia AI, jailbreak Fable 5, kiểm soát xuất khẩu AI, Howard Lutnick"
 category: "AI"
 datePublished: "2026-06-14T09:00:00+07:00"

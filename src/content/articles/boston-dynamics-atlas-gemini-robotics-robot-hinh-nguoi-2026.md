@@ -1,7 +1,7 @@
 ---
 slug: "boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026"
 title: "Atlas dùng Gemini Robotics: robot hình người biết suy nghĩ"
-description: "Boston Dynamics bắt tay Google DeepMind đưa mô hình nền Gemini Robotics vào robot hình người Atlas chạy điện hoàn toàn. Tìm hiểu Gemini 3 cho robot, Atlas thế hệ mới và kế hoạch triển khai trong nhà máy năm 2026."
+description: "Boston Dynamics bắt tay Google DeepMind đưa Gemini Robotics vào robot hình người Atlas chạy điện. Gemini 3 cho robot, sản xuất 2026, đầu tiên về Hyundai."
 keywords: "Boston Dynamics Atlas, Gemini Robotics, Google DeepMind robot, robot hình người, physical AI, Gemini 3, robot công nghiệp 2026, humanoid robot"
 category: "AI"
 datePublished: "2026-06-14T17:00:00+07:00"

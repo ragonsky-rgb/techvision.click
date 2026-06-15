@@ -1,7 +1,7 @@
 ---
 slug: "ai-overviews-la-gi-cach-hoat-dong-anh-huong-website"
 title: "AI Overviews là gì? Cách hoạt động và ảnh hưởng tới web"
-description: "AI Overviews là bản tóm tắt do AI tạo nằm đầu kết quả tìm kiếm Google. Bài viết giải thích AI Overviews là gì, hoạt động ra sao, khác Featured Snippets thế nào và ảnh hưởng tới traffic website cùng cách tối ưu để được trích dẫn."
+description: "AI Overviews là bản tóm tắt do AI tạo nằm đầu kết quả Google. Giải thích cách hoạt động, khác Featured Snippets thế nào và ảnh hưởng tới traffic website."
 keywords: "AI Overviews là gì, Google AI Overviews, AI Overviews hoạt động, AI Overviews vs Featured Snippets, zero click search, GEO, tối ưu AI Overviews"
 category: "AI"
 datePublished: "2026-06-14T15:00:00+07:00"

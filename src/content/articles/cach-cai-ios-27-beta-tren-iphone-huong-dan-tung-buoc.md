@@ -1,7 +1,7 @@
 ---
 slug: "cach-cai-ios-27-beta-tren-iphone-huong-dan-tung-buoc"
 title: "Cách cài iOS 27 beta trên iPhone: hướng dẫn từng bước"
-description: "Hướng dẫn cài iOS 27 beta trên iPhone từng bước: phân biệt developer beta và public beta, chuẩn bị sao lưu, các bước cài qua Cài đặt và cách gỡ về bản chính thức an toàn."
+description: "Hướng dẫn cài iOS 27 beta trên iPhone từng bước: phân biệt developer và public beta, sao lưu trước khi cài và cách gỡ về bản chính thức an toàn."
 keywords: "cách cài iOS 27 beta, iOS 27 developer beta, iOS 27 public beta, cài iOS 27 beta iPhone, hướng dẫn iOS 27 beta, gỡ iOS 27 beta"
 category: "Apple"
 datePublished: "2026-06-14T13:00:00+07:00"

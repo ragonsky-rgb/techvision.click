@@ -1,7 +1,7 @@
 ---
 slug: "siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27"
 title: "Siri AI có tiếng Việt không? Lộ trình và máy nào dùng được"
-description: "Siri AI có hỗ trợ tiếng Việt. Apple Intelligence đã có tiếng Việt và Siri AI mới đến cùng iOS 27 vào mùa thu 2026. Bài viết giải đáp khi nào có, iPhone nào dùng được và dùng gì trong lúc chờ."
+description: "Siri AI có hỗ trợ tiếng Việt. Apple Intelligence đã có tiếng Việt và Siri AI mới đến cùng iOS 27 mùa thu 2026. Khi nào có và iPhone nào dùng được."
 keywords: "Siri AI tiếng Việt, Apple Intelligence tiếng Việt, Siri AI iOS 27, Siri AI khi nào có, iPhone nào dùng Siri AI, Apple Intelligence ngôn ngữ"
 category: "Apple"
 datePublished: "2026-06-14T11:00:00+07:00"

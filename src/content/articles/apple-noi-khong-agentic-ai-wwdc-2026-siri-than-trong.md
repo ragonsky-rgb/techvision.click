@@ -1,7 +1,7 @@
 ---
 slug: "apple-noi-khong-agentic-ai-wwdc-2026-siri-than-trong"
 title: "Vì sao Apple nói không với Agentic AI tại WWDC 2026?"
-description: "Trong khi Microsoft, Google và NVIDIA đặt cược lớn vào AI agent tự hành, Apple chọn hướng ngược tại WWDC 2026: Siri AI chỉ làm việc khi người dùng ra lệnh, không tự chạy luồng đa bước. Vì sao thận trọng này có thể là nước đi khôn ngoan?"
+description: "Apple chọn cách thận trọng với agentic AI tại WWDC 2026, để Siri đi đường an toàn thay vì chạy đua tự động hóa như Google và OpenAI. Vì sao Apple đi chậm?"
 keywords: "Apple agentic AI, agentic AI là gì, Siri AI, AI agent, WWDC 2026, hallucination AI, Apple Intelligence, AI tự hành"
 category: "Apple"
 datePublished: "2026-06-12T10:00:00+07:00"

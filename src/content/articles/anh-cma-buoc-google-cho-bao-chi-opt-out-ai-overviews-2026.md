@@ -1,7 +1,7 @@
 ---
 slug: "anh-cma-buoc-google-cho-bao-chi-opt-out-ai-overviews-2026"
 title: "Anh buộc Google cho báo chí 'cấm cửa' AI Overviews, không được phạt SEO"
-description: "Cơ quan Cạnh tranh và Thị trường Anh (CMA) ra quy định đầu tiên trên thế giới: Google phải cho các tòa soạn từ chối để nội dung bị dùng trong AI Overviews, mà không bị tụt hạng tìm kiếm. Google có 9 tháng để tuân thủ."
+description: "Cơ quan CMA của Anh buộc Google cho báo chí opt-out khỏi AI Overviews mà không bị tụt hạng tìm kiếm. Quy định đầu tiên kiểu này trên thế giới."
 keywords: "CMA Google AI Overviews, opt-out AI Overviews, báo chí AI, zero-click search, Google AI search Anh, DMCCA, tin tức AI 2026"
 category: "AI"
 datePublished: "2026-06-09T16:00:00+07:00"
