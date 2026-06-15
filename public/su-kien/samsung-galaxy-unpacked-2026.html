@@ -355,7 +355,7 @@
 
       var lk=['fold8','wide','flip8','watch9','glasses'];
       document.getElementById('galleryList').innerHTML = t.lineup.map(function(x,i){
-        var media = x.img ? '<img class="tile-img" src="'+x.img+'" alt="'+esc(x.name)+'" loading="lazy" width="320" height="130">' : '<div class="tile-ph">'+esc(x.name)+'</div>';
+        var media = x.img ? '<img class="tile-img" src="'+x.img+'" alt="'+esc(x.name)+'" loading="eager" decoding="async" width="320" height="130">' : '<div class="tile-ph">'+esc(x.name)+'</div>';
         return '<div class="tile">'+media+'<div class="tile-num">'+pad(i+1)+'</div><div class="tile-name">'+esc(x.name)+'</div><div class="tile-note">'+esc(x.note)+'</div></div>';
       }).join('');
 
