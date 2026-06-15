@@ -69,7 +69,7 @@
     @keyframes orbC{0%,100%{transform:translate(0,0) scale(1)}50%{transform:translate(40px,40px) scale(1.2)}}
     @keyframes gridPan{0%{background-position:0 0}100%{background-position:0 56px}}
     @keyframes shimmer{0%{background-position:0% 50%}100%{background-position:200% 50%}}
-    @keyframes blink{0%,100%{opacity:1}50%{opacity:.2}}
+    @keyframes secPulse{0%,100%{opacity:1}50%{opacity:.62}}
     @keyframes pulseDot{0%{box-shadow:0 0 0 0 rgba(70,230,255,.5)}70%{box-shadow:0 0 0 10px rgba(70,230,255,0)}100%{box-shadow:0 0 0 0 rgba(70,230,255,0)}}
 
     nav.bar{position:fixed;top:0;left:0;right:0;z-index:50;display:flex;align-items:center;justify-content:space-between;padding:16px clamp(20px,5vw,48px);background:rgba(6,7,15,.55);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border-bottom:1px solid rgba(255,255,255,.07)}
@@ -107,7 +107,7 @@
     .cd-cell .ln{position:absolute;top:0;left:50%;transform:translateX(-50%);width:60%;height:2px;background:linear-gradient(90deg,transparent,#46E6FF,transparent)}
     .cd-cell:nth-child(2) .ln,.cd-cell:nth-child(4) .ln{background:linear-gradient(90deg,transparent,#8E7CFF,transparent)}
     .cd-num{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:clamp(38px,8vw,72px);line-height:1;background:linear-gradient(180deg,#FFFFFF,#9FB6E6);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent;font-variant-numeric:tabular-nums}
-    .cd-cell:nth-child(4) .cd-num{background:linear-gradient(180deg,#FFFFFF,#46E6FF);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;animation:blink 1s steps(2,end) infinite}
+    .cd-cell:nth-child(4) .cd-num{background:linear-gradient(180deg,#FFFFFF,#46E6FF);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;animation:secPulse 2s ease-in-out infinite}
     .cd-lab{margin-top:10px;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#7E879C;font-weight:600}
     .date-note{margin:26px 0 0;font-size:14px;color:#8E96AC;max-width:560px}
     .cta-row{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;margin:32px 0 0}
