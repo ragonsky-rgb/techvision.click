@@ -22,6 +22,19 @@
 
 ## Bài viết nổi bật (2026)
 
+- 18 triệu SIM bị khóa từ 15/6/2026 tại Việt Nam - cách xác thực SIM chính chủ qua VNeID, lộ trình khóa một chiều, hai chiều, thu hồi số (Thông tư 08/2026): https://techvision.click/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html
+- AI khiến gần 88.000 người Mỹ mất việc 5 tháng đầu 2026, vượt cả năm 2025 (báo cáo Challenger Gray Christmas, agentic AI): https://techvision.click/articles/ai-88000-nguoi-my-mat-viec-5-thang-dau-2026-challenger.html
+- Claude Fable 5 bị chính phủ Mỹ ra lệnh chặn, Anthropic gỡ Fable 5 và Mythos 5 toàn cầu vì an ninh quốc gia: https://techvision.click/articles/claude-fable-5-bi-chan-my-ra-lenh-cam-anthropic-go-toan-cau.html
+- Giá RTX 5090 tại Việt Nam tháng 6/2026 - bảng giá theo hãng (63 tới hơn 100 triệu), khủng hoảng GDDR7, nên mua hay chờ: https://techvision.click/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html
+- RTX 5090 vs RTX 5090 Ti 48GB - khác biệt VRAM, hiệu năng, giá, gamer nên mua bản nào ai nên chờ bản 48GB: https://techvision.click/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html
+- Qualcomm tung chip AI200 và AI250 đấu Nvidia ở mảng suy luận data center (768GB nhớ mỗi card, near-memory): https://techvision.click/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html
+- Siri AI có tiếng Việt không - Apple Intelligence hỗ trợ tiếng Việt, Siri AI đến cùng iOS 27 mùa thu 2026, máy nào dùng được: https://techvision.click/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html
+- Cách cài iOS 27 beta trên iPhone từng bước - developer beta vs public beta, sao lưu, cách gỡ về bản chính thức: https://techvision.click/articles/cach-cai-ios-27-beta-tren-iphone-huong-dan-tung-buoc.html
+- AI Overviews là gì - bản tóm tắt AI đầu kết quả Google, cách hoạt động RAG, khác Featured Snippets, ảnh hưởng traffic, cách tối ưu GEO: https://techvision.click/articles/ai-overviews-la-gi-cach-hoat-dong-anh-huong-website.html
+- Atlas dùng Gemini Robotics - Boston Dynamics và Google DeepMind đưa Gemini 3 vào robot hình người, sản xuất 2026 về Hyundai: https://techvision.click/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html
+- HONOR 600 ra mắt Việt Nam giá 17.990.000 đồng - camera 200MP, pin 7.000mAh sạc 80W, AI Image to Video 2.0: https://techvision.click/articles/honor-600-series-camera-200mp-ai-image-to-video-2026.html
+- Insta360 Luna Ultra ra mắt - gimbal camera kép Leica quay 8K, màn OLED tháo rời, giá Việt Nam 19,99 tới 24,99 triệu: https://techvision.click/articles/insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket.html
+- Anh buộc Google cho báo chí opt-out khỏi AI Overviews mà không bị tụt hạng tìm kiếm (CMA, quy định đầu tiên thế giới): https://techvision.click/articles/anh-cma-buoc-google-cho-bao-chi-opt-out-ai-overviews-2026.html
 - Google Gemini Spark - trợ lý AI 24/7 tự làm việc thay người dùng (Gemini 3.5, chạy nền cả khi khóa máy, độc quyền Google AI Ultra, ra mắt I/O 2026): https://techvision.click/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html
 - iQOO 15T: Specs & Đánh giá - Dimensity 9500 Monster, pin 8000mAh, camera 200MP: https://techvision.click/articles/iqoo-15t-review-specs-dimensity-9500-monster-pin-8000mah-2026.html
 - Sam Altman thừa nhận sai về "AI cướp việc làm": "Tôi vui vì đã nhầm": https://techvision.click/articles/sam-altman-sai-ve-ai-cuop-viec-lam-delighted-wrong-2026.html
