@@ -76,7 +76,7 @@ Theo các con số công bố ban đầu, người dùng cá nhân tại Việt 
 Đây là mức cao hơn nhiều lần so với internet cáp quang phổ thông tại Việt Nam, vốn chỉ vài trăm nghìn đồng mỗi tháng. Cần lưu ý đây mới là mức dự kiến từ phía doanh nghiệp, giá chính thức sẽ được xác định và công bố theo quy định khi dịch vụ bắt đầu cung cấp, phụ thuộc vào tiến độ hoàn thiện hệ thống trạm gateway và chi phí vận hành thực tế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/QN9kKQ5MGGM/maxresdefault.jpg" alt="Trải nghiệm tốc độ và độ trễ của internet vệ tinh Starlink tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/QSyL_NhCwO4/maxresdefault.jpg" alt="Trải nghiệm tốc độ và độ trễ của internet vệ tinh Starlink tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Starlink dùng vệ tinh quỹ đạo thấp cho độ trễ thấp hơn vệ tinh truyền thống. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,11 +86,11 @@ Nhờ chùm vệ tinh bay ở quỹ đạo thấp, Starlink đạt độ trễ t
 
 Đại diện Hội Vô tuyến Điện tử Việt Nam nhận định internet vệ tinh không nhắm tới người tiêu dùng phổ thông, mà phát huy giá trị ở những nơi hạ tầng mặt đất khó vươn tới như đánh bắt xa bờ, phát triển IoT trên giàn khoan và logistics hàng hải. Nói cách khác, Starlink bổ sung cho cáp quang ở vùng trắng sóng, chứ không thay thế cáp quang ở thành phố.
 
-<div class="art-video-label">VIDEO · Xài thử Starlink Mini giữa núi rừng</div>
+<div class="art-video-label">VIDEO · Internet vệ tinh Starlink phù hợp cho ai ở Việt Nam</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/4IzVKNjcQ4s" title="Xài thử Starlink Mini internet vệ tinh giữa núi rừng" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/NBCbYqeupO8" title="Internet vệ tinh Starlink phù hợp cho ai ở Việt Nam" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
-<p class="art-video-caption">Thử nghiệm Starlink Mini ở khu vực không có sóng di động. Nguồn: YouTube</p>
+<p class="art-video-caption">Phân tích Starlink phù hợp với đối tượng nào tại Việt Nam. Nguồn: YouTube</p>
 
 ## Ai ở Việt Nam thực sự nên dùng Starlink?
 
