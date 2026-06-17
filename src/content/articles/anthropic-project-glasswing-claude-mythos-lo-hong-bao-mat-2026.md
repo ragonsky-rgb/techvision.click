@@ -65,6 +65,11 @@ Sáng kiến tập hợp một danh sách đối tác hiếm thấy trong ngành
 
 Đứng sau Project Glasswing là Claude Mythos, model AI mạnh nhất của Anthropic tính tới hiện tại. Khác với các phiên bản Claude thông thường, Mythos được giữ kín và không mở cho công chúng. Mô hình có khả năng tự động tìm ra hàng nghìn lỗ hổng zero-day chỉ trong vài tuần, một tốc độ vượt xa năng lực của đội ngũ con người.
 
+<figure>
+  <img src="https://i.ytimg.com/vi/Y9Wz2PV404E/maxresdefault.jpg" alt="Claude Mythos, model AI mạnh nhất của Anthropic đứng sau Project Glasswing" loading="lazy" width="1280" height="720">
+  <figcaption>Mythos là model mạnh nhất của Anthropic, được giữ kín thay vì phát hành công khai do lo ngại bị lạm dụng. Nguồn: YouTube</figcaption>
+</figure>
+
 Trên bộ tiêu chuẩn đánh giá năng lực tìm lỗ hổng CyberGym, Mythos đạt 83,1% so với 66,6% của các model đời trước. Anthropic cho biết model cũng vượt trội ở các tác vụ lập trình theo kiểu agent, tức tự lập kế hoạch và thực thi nhiều bước để hoàn thành mục tiêu.
 
 <div class="spec-box">
@@ -86,6 +91,11 @@ Anthropic nói thẳng lý do không phát hành Mythos: cùng năng lực giúp
 
 Theo Anthropic, các đối tác Project Glasswing đã xác định hơn 10.000 lỗ hổng mức cao hoặc nghiêm trọng trong phần mềm trọng yếu. Trong đó có những zero-day tồn tại suốt hàng chục năm, kể cả một lỗ hổng đã ẩn mình 27 năm, nằm trong gần như mọi hệ điều hành và trình duyệt phổ biến.
 
+<figure>
+  <img src="https://i.ytimg.com/vi/KKnYbdQZM2A/maxresdefault.jpg" alt="AI tự động phát hiện lỗ hổng zero-day ẩn trong phần mềm trọng yếu" loading="lazy" width="1280" height="720">
+  <figcaption>AI có thể phát hiện các lỗ hổng zero-day ẩn mình nhiều năm trong những phần mềm dùng hằng ngày. Nguồn: YouTube</figcaption>
+</figure>
+
 Ở mảng mã nguồn mở, Anthropic quét hơn 1.000 dự án bằng Mythos và phát hiện 23.019 vấn đề, trong đó 6.202 là lỗ hổng mức cao hoặc nghiêm trọng. Đáng chú ý, hơn 90% số này được các đơn vị nghiên cứu bảo mật độc lập xác nhận là lỗi thật, một tỷ lệ chính xác cao bất thường với công cụ tự động.
 
 Đây là bước đi mới nhất trong chuỗi động thái lớn của Anthropic năm 2026, sau khi hãng đạt định giá kỷ lục và chuẩn bị lên sàn. Bối cảnh tài chính của công ty được nói chi tiết trong bài [Anthropic nộp hồ sơ IPO, định giá $965 tỷ, vượt OpenAI ra sàn](/articles/anthropic-nop-ho-so-ipo-2026-vuot-openai-965-ty.html).
@@ -93,5 +103,10 @@ Theo Anthropic, các đối tác Project Glasswing đã xác định hơn 10.000
 ## Ý nghĩa với ngành và người dùng
 
 Project Glasswing cho thấy AI đang chuyển vai trò trong an ninh mạng, từ công cụ hỗ trợ sang lực lượng phòng thủ chủ động ở quy mô lớn. Nếu các lỗ hổng được vá trước khi bị khai thác, hàng triệu người dùng phần mềm phổ biến được hưởng lợi gián tiếp mà không cần làm gì.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/Fg9hCKH1sYs/maxresdefault.jpg" alt="AI chuyển sang vai trò phòng thủ chủ động trong an ninh mạng" loading="lazy" width="1280" height="720">
+  <figcaption>An ninh mạng bước vào giai đoạn AI vừa là vũ khí phòng thủ vừa là rủi ro nếu rơi vào tay kẻ xấu. Nguồn: YouTube</figcaption>
+</figure>
 
 Tuy nhiên, sáng kiến cũng đặt ra câu hỏi về cán cân tấn công và phòng thủ. Một model có thể tìm lỗ hổng nhanh đến vậy sẽ rất nguy hiểm nếu rơi vào tay kẻ xấu, và đó chính là lý do Anthropic chọn cách giữ kín. Các báo cáo công khai từ đối tác dự kiến được công bố sau 90 ngày, hứa hẹn cung cấp bức tranh đầy đủ hơn về tác động thực tế.
