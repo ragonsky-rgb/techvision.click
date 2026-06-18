@@ -4,5 +4,6 @@ Disallow: /articles/_article-style.css
 Disallow: /articles/_article.js
 Disallow: /admin/
 
+Sitemap: https://techvision.click/sitemap-index.xml
 Sitemap: https://techvision.click/sitemap.xml
 Sitemap: https://techvision.click/sitemap-news.xml
