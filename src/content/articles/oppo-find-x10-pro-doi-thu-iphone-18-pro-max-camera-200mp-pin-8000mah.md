@@ -7,7 +7,7 @@ category: "Smartphone"
 datePublished: "2026-06-19T10:00:00+07:00"
 dateModified: "2026-06-19T10:00:00+07:00"
 deck: "Hàng loạt rò rỉ mới hé lộ Oppo Find X10 Pro, mẫu đầu bảng được cho là vũ khí của Oppo nhắm thẳng vào iPhone 18 Pro Max nửa cuối 2026. Máy mang cấu hình gây choáng: chip Dimensity 9600 trên tiến trình 2nm, cụm camera 200MP kép hợp tác Hasselblad và viên pin lên tới khoảng 8000mAh. Toàn bộ vẫn là tin đồn chưa được Oppo xác nhận, nhưng đủ để vẽ ra một đối thủ Android nặng ký."
-heroImage: "https://i.ytimg.com/vi/hDjU8qpYVsw/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/xFzux2bfprA/maxresdefault.jpg"
 heroAlt: "Rò rỉ Oppo Find X10 Pro với camera 200MP kép và pin 8000mAh"
 heroCaption: "Oppo Find X10 Pro qua các rò rỉ, dự kiến ra mắt cuối 2026. Nguồn: YouTube"
 tldr: "Theo các rò rỉ, <strong>Oppo Find X10 Pro</strong> dùng chip <strong>MediaTek Dimensity 9600</strong> tiến trình <strong>2nm</strong>, màn OLED LTPO 6.78 inch 1.5K tấm nền Tianma mới. Điểm nhấn là cụm <strong>camera 200MP kép</strong> hợp tác Hasselblad: chính 200MP cảm biến 1/1.3 inch và tele 200MP cảm biến lớn, kèm cảm biến đa phổ. Pin được cho là quanh <strong>8000mAh</strong>, sạc <strong>100W</strong> và sạc không dây, chuẩn kháng nước IP68 cùng IP69. Dự kiến ra mắt <strong>quý 4/2026</strong>, giá tham khảo bản Pro khoảng <strong>30 tới 35 triệu đồng</strong> khi về Việt Nam. Tất cả là tin đồn, chưa được Oppo xác nhận."
@@ -65,7 +65,7 @@ Theo các nguồn rò rỉ từ GSMArena, Android Headlines và Gizmochina, Find
 
 <div class="art-video-label">VIDEO · Rò rỉ và nhận định Oppo Find X10 Pro</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/hDjU8qpYVsw" title="Rò rỉ Oppo Find X10 Pro camera 200MP" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/xFzux2bfprA" title="Rò rỉ Oppo Find X10 Pro camera 200MP" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Tổng hợp rò rỉ thông số và thiết kế Find X10 Pro. Nguồn: YouTube</p>
 
@@ -76,7 +76,7 @@ Theo các nguồn rò rỉ từ GSMArena, Android Headlines và Gizmochina, Find
 Ở chiều ngược lại, iPhone 18 Pro Max được cho là dùng chip A20 Pro 2nm thường dẫn đầu về hiệu năng đơn nhân và tối ưu phần mềm, cùng thế mạnh quen thuộc về quay video, độ ổn định, khả năng giữ giá và hệ sinh thái iOS. Người quan tâm tới biến động giá iPhone đời mới có thể xem thêm bài [iPhone 18 tăng giá vì bộ nhớ AI](/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/JKDetARCdyY/hqdefault.jpg" alt="Rò rỉ cụm camera ba ống 200MP trên Oppo Find X10 Pro Max" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/v3P5Buwiy1k/maxresdefault.jpg" alt="Rò rỉ cụm camera ba ống 200MP trên Oppo Find X10 Pro Max" loading="lazy" width="1280" height="720">
   <figcaption>Bản Pro Max được đồn còn nâng lên cụm camera 200MP nhiều ống. Nguồn: YouTube</figcaption>
 </figure>
 
