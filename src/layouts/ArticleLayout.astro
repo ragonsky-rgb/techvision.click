@@ -419,12 +419,14 @@ const breadcrumbLd = {
       const el = document.getElementById('readingTime');
       if(el) el.textContent = mins + ' phút đọc';
     })();
-    // Ảnh YouTube thiếu bản maxresdefault thì tự lùi về hqdefault (luôn tồn tại)
+    // Ảnh YouTube: lùi về hqdefault khi maxresdefault lỗi 404 hoặc trả ảnh xám placeholder (~120px)
     (function(){
       document.querySelectorAll('img[src*="maxresdefault"]').forEach(function(img){
         function fb(){ if(img.src.indexOf('maxresdefault')>-1){ img.src = img.src.replace('maxresdefault','hqdefault'); } }
-        if(img.complete && img.naturalWidth === 0){ fb(); }
-        else { img.addEventListener('error', fb, { once: true }); }
+        function check(){ if(img.naturalWidth > 0 && img.naturalWidth <= 120){ fb(); } }
+        if(img.complete){ if(img.naturalWidth === 0){ fb(); } else { check(); } }
+        img.addEventListener('error', fb, { once: true });
+        img.addEventListener('load', check, { once: true });
       });
     })();
   </script>

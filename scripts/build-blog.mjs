@@ -48,6 +48,9 @@ articles.sort((a, b) => (b.datePublished || '').localeCompare(a.datePublished ||
 const esc = (s) => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const dmy = (iso) => { const d = (iso || '').slice(0, 10).split('-'); return d.length === 3 ? `${d[2]}/${d[1]}/${d[0]}` : ''; };
 const dataCat = (c) => String(c || 'AI').toLowerCase().replace(/\s+/g, '');
+// Thumbnail YouTube: dùng hqdefault (luôn tạo từ khung hình thật cho video còn sống),
+// tránh maxresdefault vốn trả ảnh xám placeholder với nhiều video không có bản HD.
+const thumb = (u) => esc(String(u || '').replace('maxresdefault', 'hqdefault'));
 const url = (a) => `/articles/${a.slug}.html`;
 const newestTime = articles.length ? new Date(articles[0].datePublished).getTime() : 0;
 const isNew = (a) => newestTime - new Date(a.datePublished).getTime() <= 3 * 86400000; // trong 3 ngày so với bài mới nhất
@@ -60,7 +63,7 @@ const picks = articles.slice(4, 10);        // Đáng chú ý: 6 bài tiếp the
 // --- Sinh HTML ---
 const heroHtml = `
       <a class="hero-lead" href="${url(hero)}">
-        <img class="hl-thumb" src="${esc(hero.image)}" alt="${esc(hero.heroAlt || hero.title)}" loading="eager" onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')">
+        <img class="hl-thumb" src="${thumb(hero.image)}" alt="${esc(hero.heroAlt || hero.title)}" loading="eager" onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')">
         <span class="hl-cat">${esc(hero.category)} · Tiêu điểm</span>
         <h2 class="hl-title">${esc(hero.title)}</h2>
         <p class="hl-sapo">${esc(hero.description)}</p>
@@ -69,7 +72,7 @@ const heroHtml = `
       <div class="hero-side">
         <div class="hero-side-label">Nổi bật</div>
 ${featured.map((a) => `        <a class="hs-item" href="${url(a)}">
-          <img src="${esc(a.image)}" alt="${esc(a.heroAlt || a.title)}" loading="lazy" onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')">
+          <img src="${thumb(a.image)}" alt="${esc(a.heroAlt || a.title)}" loading="lazy" onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')">
           <div><span class="hs-cat">${esc(a.category)}</span><div class="hs-title">${esc(a.title)}</div></div>
         </a>`).join('\n')}
       </div>
@@ -81,7 +84,7 @@ ${isNew(a) ? '        <span class="new-badge">NEW</span>\n' : ''}        <div cl
           <span class="card-date">${dmy(a.datePublished)}</span>
         </div>
         <div class="card-thumb-wrap">
-          <img class="card-thumb" src="${esc(a.image)}" alt="${esc(a.heroAlt || a.title)}" loading="lazy" onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')">
+          <img class="card-thumb" src="${thumb(a.image)}" alt="${esc(a.heroAlt || a.title)}" loading="lazy" onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')">
         </div>
         <h2 class="card-title">${esc(a.title)}</h2>
         <p class="card-desc">${esc(a.description)}</p>
@@ -98,7 +101,7 @@ ${grid.map(card).join('\n\n')}
 const picksHtml = `
 ${picks.map((a, i) => `            <a class="side-item" href="${url(a)}">
               <span class="si-num">${i + 1}</span>
-              <img class="si-thumb" src="${esc(a.image)}" alt="${esc(a.title)}" loading="lazy" onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')">
+              <img class="si-thumb" src="${thumb(a.image)}" alt="${esc(a.title)}" loading="lazy" onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')">
               <span class="si-title">${esc(a.title)}</span>
             </a>`).join('\n')}
           `;
