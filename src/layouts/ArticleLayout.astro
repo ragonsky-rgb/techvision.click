@@ -242,7 +242,7 @@ const breadcrumbLd = {
 
     <p class="art-deck">{deck}</p>
 
-    <img class="art-hero" src={heroImage} alt={heroAlt || title} loading="eager" fetchpriority="high" width={isYtMaxres ? 1280 : undefined} height={isYtMaxres ? 720 : undefined} />
+    <img class="art-hero" src={heroImage} alt={heroAlt || title} loading="eager" fetchpriority="high" width={isYtMaxres ? 1280 : undefined} height={isYtMaxres ? 720 : undefined} onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')" />
     {heroCaption && <p class="art-hero-caption">{heroCaption}</p>}
 
     <div class="art-tldr">
@@ -418,6 +418,14 @@ const breadcrumbLd = {
       const mins = Math.max(1, Math.round(words / 200));
       const el = document.getElementById('readingTime');
       if(el) el.textContent = mins + ' phút đọc';
+    })();
+    // Ảnh YouTube thiếu bản maxresdefault thì tự lùi về hqdefault (luôn tồn tại)
+    (function(){
+      document.querySelectorAll('img[src*="maxresdefault"]').forEach(function(img){
+        function fb(){ if(img.src.indexOf('maxresdefault')>-1){ img.src = img.src.replace('maxresdefault','hqdefault'); } }
+        if(img.complete && img.naturalWidth === 0){ fb(); }
+        else { img.addEventListener('error', fb, { once: true }); }
+      });
     })();
   </script>
 
