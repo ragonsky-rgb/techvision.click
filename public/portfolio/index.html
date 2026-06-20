@@ -55,9 +55,9 @@
       --max:1180px;
     }
     @media(prefers-color-scheme:dark){:root{
-      --bg:#111010; --text:#f0ede8; --accent:#e0563f;
-      --surface:#1a1917; --muted:rgba(240,237,232,0.86); --dim:rgba(240,237,232,0.56);
-      --line:rgba(240,237,232,0.12);
+      --bg:#f5f2ed; --text:#1c1a17; --accent:#c0392b;
+      --surface:#fbf9f5; --muted:rgba(28,26,23,0.82); --dim:rgba(28,26,23,0.56);
+      --line:rgba(28,26,23,0.12);
     }}
     html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
     body{background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.6;-webkit-font-smoothing:antialiased}
@@ -66,7 +66,7 @@
     @media(max-width:640px){.wrap{padding:0 1.2rem}}
 
     .masthead{position:fixed;top:0;left:0;right:0;z-index:200;background:rgba(245,242,237,0.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
-    @media(prefers-color-scheme:dark){.masthead{background:rgba(17,16,16,0.93)}}
+    @media(prefers-color-scheme:dark){.masthead{background:rgba(245,242,237,0.93)}}
     .mast-top{max-width:var(--max);margin:0 auto;display:flex;align-items:center;gap:1.4rem;padding:0.8rem 2rem}
     .mast-logo{display:flex;align-items:center;gap:0.6rem;flex-shrink:0}
     .mast-logo img{width:34px;height:34px;border-radius:50%}
@@ -84,6 +84,11 @@
     .ph-stats{margin-top:1.3rem;display:flex;gap:2rem;flex-wrap:wrap}
     .ph-stat .n{font-family:var(--serif);font-size:1.6rem;font-weight:700;color:var(--accent)}
     .ph-stat .l{font-size:0.74rem;color:var(--dim);text-transform:uppercase;letter-spacing:0.08em}
+    .ph-cta-row{margin-top:1.5rem;display:flex;gap:0.8rem;flex-wrap:wrap}
+    .ph-cta{display:inline-block;font-size:0.82rem;font-weight:600;color:#fff;background:var(--accent);padding:0.6rem 1.25rem;border-radius:99px;transition:opacity .2s}
+    .ph-cta:hover{opacity:0.88}
+    .ph-cta.alt{color:var(--accent);background:transparent;border:1px solid var(--accent)}
+    .ph-cta.alt:hover{background:var(--accent);color:#fff;opacity:1}
 
     .controls{position:sticky;top:53px;z-index:150;background:var(--bg);border-bottom:1px solid var(--line);padding:0.9rem 0}
     .pills{display:flex;gap:0.5rem;flex-wrap:wrap}
@@ -153,6 +158,10 @@
           <div class="ph-stat"><div class="n">13</div><div class="l">Bài báo PR</div></div>
           <div class="ph-stat"><div class="n">1</div><div class="l">Nhãn hàng</div></div>
           <div class="ph-stat"><div class="n">7</div><div class="l">Đầu báo</div></div>
+        </div>
+        <div class="ph-cta-row">
+          <a class="ph-cta" href="/cv.html">📄 Xem CV &amp; hồ sơ năng lực →</a>
+          <a class="ph-cta alt" href="/blog.html">Đọc Tech News →</a>
         </div>
       </div>
     </section>
