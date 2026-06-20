@@ -34,7 +34,7 @@ sourceUrl, sourceName, sourceDomains, stats (6 mục), faq (5 Q&A), related (3 b
 - Callout: `<div class="art-callout">💡 <strong>...:</strong> ...</div>`
 
 ## 4. Quy tắc media (ảnh/video)
-- Thumbnail YouTube: `https://i.ytimg.com/vi/<ID>/maxresdefault.jpg`. **Bắt buộc verify HTTP 200** trước khi dùng (maxres có thể không tồn tại → ảnh xám). Nếu maxres lỗi, dùng `hqdefault.jpg`.
+- Thumbnail YouTube: `https://i.ytimg.com/vi/<ID>/maxresdefault.jpg`. **Verify bằng KÍCH THƯỚC, không chỉ HTTP 200**: video không có maxres vẫn trả ảnh xám với status 200 (size chỉ ~1KB). Coi là hợp lệ khi `size_download > 8000` bytes (maxres thật ~50-250KB). Nếu xám, đổi sang `hqdefault.jpg` (luôn có, 480x360) hoặc chọn video khác có maxres thật.
 - Video embed phải **cho phép nhúng** (check `"playableInEmbed":true` ở trang watch) và **còn sống** (oEmbed trả JSON).
 - Tránh kênh nhạy cảm chính trị / spam / AI reupload (vd Việt Tân, "Amazon Shopping"...). Ưu tiên kênh công nghệ uy tín hoặc báo chính thống.
 - Ảnh báo nước ngoài (9to5mac, macrumors...) lấy từ `og:image`, verify 200 trước khi dùng.
@@ -63,10 +63,11 @@ node scripts/gsc/gsc.mjs sitemap sitemap-news.xml   # nếu có token
 
 ## 8. Snippets verify nhanh (chạy ở /tmp)
 ```bash
-# Verify thumbnail YouTube 200 + lấy kênh/tiêu đề
+# Verify thumbnail YouTube THẬT (bắt ảnh xám) + kênh/tiêu đề
 for v in <ID1> <ID2>; do
-  echo "[$(curl -s -o /dev/null -w '%{http_code}' -A 'Mozilla/5.0' https://i.ytimg.com/vi/$v/maxresdefault.jpg)] $v"
-  curl -s "https://www.youtube.com/oembed?url=https://youtu.be/$v&format=json" | python3 -c "import sys,json;d=json.load(sys.stdin);print(' ',d.get('author_name'),'|',d.get('title')[:50])"
+  sz=$(curl -s -A 'Mozilla/5.0' "https://i.ytimg.com/vi/$v/maxresdefault.jpg" -o /dev/null -w '%{size_download}')
+  [ "$sz" -lt 8000 ] && echo "⚠️ XÁM ($sz b) -> dùng hqdefault: $v" || echo "✅ maxres ok ($sz b): $v"
+  curl -s "https://www.youtube.com/oembed?url=https://youtu.be/$v&format=json" | python3 -c "import sys,json;d=json.load(sys.stdin);print('  ',d.get('author_name'),'|',d.get('title')[:50])"
 done
 
 # Đo bài đủ chuẩn chưa (số từ thân + media)

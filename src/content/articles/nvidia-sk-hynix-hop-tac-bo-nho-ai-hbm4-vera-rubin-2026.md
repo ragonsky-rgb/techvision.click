@@ -75,7 +75,7 @@ GPU AI như Vera Rubin cần băng thông bộ nhớ cực lớn để nuôi cá
 Cuộc đua HBM kéo theo hệ quả dây chuyền. Các nhà sản xuất bộ nhớ dồn phần lớn năng lực sang HBM và DRAM máy chủ vì lợi nhuận cao, khiến RAM tiêu dùng khan hiếm. Giá DRAM đã tăng khoảng 90% trong quý 1/2026, và áp lực này lan thẳng tới giá máy tính cũng như điện thoại. Đây là cùng một câu chuyện được phân tích trong bài [khủng hoảng bộ nhớ và giá RAM tăng vì data center AI](/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html), và nó cũng là lý do [giá laptop tăng tới 30%](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html) trong năm nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/m9DtRlTg6XY/maxresdefault.jpg" alt="SK hynix giới thiệu bộ nhớ AI và HBM4 thế hệ mới" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/GTw_tbsxXmY/maxresdefault.jpg" alt="HBM4 với cách tiếp cận kiến trúc bộ nhớ hoàn toàn mới" loading="lazy" width="1280" height="720">
   <figcaption>HBM4 là tâm điểm cạnh tranh giữa các nhà sản xuất bộ nhớ. Nguồn: YouTube</figcaption>
 </figure>
 
