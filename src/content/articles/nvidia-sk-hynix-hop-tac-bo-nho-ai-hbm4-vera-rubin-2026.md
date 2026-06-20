@@ -7,7 +7,7 @@ category: "AI"
 datePublished: "2026-06-19T11:00:00+07:00"
 dateModified: "2026-06-19T11:00:00+07:00"
 deck: "Nvidia và SK hynix vừa nâng quan hệ nhà cung cấp lâu năm thành một hợp tác chiến lược nhiều năm để cùng phát triển bộ nhớ thế hệ mới cho các nhà máy AI. Trọng tâm là HBM4, loại bộ nhớ băng thông cao đang trở thành nút thắt số một của hạ tầng AI và cũng là lý do khiến giá RAM tiêu dùng tại Việt Nam chưa hạ nhiệt."
-heroImage: "https://i.ytimg.com/vi/lt18EbfW6uk/maxresdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/eOEatkpESzo/maxresdefault.jpg"
 heroAlt: "Nvidia và SK hynix hợp tác phát triển bộ nhớ AI HBM4 cho nền tảng Vera Rubin"
 heroCaption: "SK hynix nắm phần lớn nguồn cung HBM4 cho Nvidia Vera Rubin. Nguồn: YouTube"
 tldr: "Ngày <strong>7/6/2026</strong>, <strong>Nvidia</strong> và <strong>SK hynix</strong> công bố hợp tác công nghệ nhiều năm để đồng phát triển bộ nhớ thế hệ mới cho nhà máy AI, trọng tâm là <strong>HBM4</strong>. SK hynix đã sản xuất hàng loạt module <strong>SOCAMM2 192GB</strong> tối ưu cho nền tảng <strong>Vera Rubin</strong>. Hợp tác phủ bốn nền tảng: Vera Rubin, Vera CPU, RTX Spark và Jetson Thor. SK hynix được cho là nắm khoảng <strong>60 tới 70% nguồn cung HBM4</strong> cho Vera Rubin. Bối cảnh: giá DRAM tăng khoảng <strong>90% trong quý 1/2026</strong> do các hãng dồn năng lực sang bộ nhớ AI, kéo giá RAM, PC và điện thoại đi lên."
@@ -72,12 +72,30 @@ Hợp tác phủ tới bốn nền tảng của Nvidia: siêu máy tính AI Vera
 
 GPU AI như Vera Rubin cần băng thông bộ nhớ cực lớn để nuôi các mô hình hàng nghìn tỷ tham số. HBM4 giải bài toán đó bằng cách xếp chồng nhiều lớp DRAM ngay sát GPU. Khi thiếu HBM, GPU rơi vào cảnh đói dữ liệu và không chạy hết công suất, nên đây là điểm nghẽn quan trọng nhất của cả ngành AI hiện nay.
 
-Cuộc đua HBM kéo theo hệ quả dây chuyền. Các nhà sản xuất bộ nhớ dồn phần lớn năng lực sang HBM và DRAM máy chủ vì lợi nhuận cao, khiến RAM tiêu dùng khan hiếm. Giá DRAM đã tăng khoảng 90% trong quý 1/2026, và áp lực này lan thẳng tới giá máy tính cũng như điện thoại. Đây là cùng một câu chuyện được phân tích trong bài [khủng hoảng bộ nhớ và giá RAM tăng vì data center AI](/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html).
+Cuộc đua HBM kéo theo hệ quả dây chuyền. Các nhà sản xuất bộ nhớ dồn phần lớn năng lực sang HBM và DRAM máy chủ vì lợi nhuận cao, khiến RAM tiêu dùng khan hiếm. Giá DRAM đã tăng khoảng 90% trong quý 1/2026, và áp lực này lan thẳng tới giá máy tính cũng như điện thoại. Đây là cùng một câu chuyện được phân tích trong bài [khủng hoảng bộ nhớ và giá RAM tăng vì data center AI](/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html), và nó cũng là lý do [giá laptop tăng tới 30%](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html) trong năm nay.
 
 <figure>
   <img src="https://i.ytimg.com/vi/m9DtRlTg6XY/maxresdefault.jpg" alt="SK hynix giới thiệu bộ nhớ AI và HBM4 thế hệ mới" loading="lazy" width="1280" height="720">
   <figcaption>HBM4 là tâm điểm cạnh tranh giữa các nhà sản xuất bộ nhớ. Nguồn: YouTube</figcaption>
 </figure>
+
+HBM4 không chỉ nhanh hơn mà còn thay đổi cách bộ nhớ kết nối với GPU. Thế hệ này tăng số kênh truyền dữ liệu và nâng băng thông lên mức cao chưa từng có, đồng thời tích hợp một phần logic điều khiển ngay trong chip nhớ. Việc các nhà sản xuất bước vào giai đoạn sản xuất hàng loạt HBM4 cho thấy cuộc đua đã chuyển từ phòng thí nghiệm sang quy mô thương mại, nơi ai chốt được nguồn cung sẽ nắm lợi thế lớn trong mảng phần cứng AI.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/-_PE2gCRryU/maxresdefault.jpg" alt="Sản xuất hàng loạt bộ nhớ HBM4 thế hệ mới cho chip AI" loading="lazy" width="1280" height="720">
+  <figcaption>HBM4 bước vào giai đoạn sản xuất hàng loạt, định hình nguồn cung bộ nhớ AI. Nguồn: YouTube</figcaption>
+</figure>
+
+## Vera Rubin: nền tảng AI mà HBM4 phục vụ
+
+Đích đến của HBM4 là Vera Rubin, nền tảng siêu máy tính AI thế hệ kế tiếp của Nvidia, đặt theo tên nhà thiên văn học Vera Rubin. Đây là bước nhảy sau dòng Blackwell, hướng tới các trung tâm dữ liệu AI quy mô lớn với nhu cầu băng thông bộ nhớ khổng lồ. Module SOCAMM2 192GB mà SK hynix sản xuất chính là để nuôi các hệ thống này.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/Lk-tipAlW1Q/maxresdefault.jpg" alt="Nvidia công bố nền tảng chip AI thế hệ mới Vera Rubin" loading="lazy" width="1280" height="720">
+  <figcaption>Vera Rubin là nền tảng AI thế hệ kế tiếp của Nvidia, cần lượng HBM4 rất lớn. Nguồn: YouTube</figcaption>
+</figure>
+
+Việc Nvidia kéo SK hynix vào tận khâu thiết kế bộ nhớ cho thấy bộ nhớ giờ quan trọng ngang con chip tính toán. Trong kiến trúc AI hiện đại, GPU mạnh tới đâu cũng vô nghĩa nếu không có đủ băng thông bộ nhớ để nạp dữ liệu, nên ai kiểm soát được HBM4 gần như kiểm soát nhịp độ phát triển của cả ngành.
 
 ## Ý nghĩa với người dùng Việt Nam
 

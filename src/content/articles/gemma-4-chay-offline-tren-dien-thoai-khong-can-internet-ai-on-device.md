@@ -76,15 +76,24 @@ So với thế hệ trước, Gemma 4 nâng cửa sổ ngữ cảnh từ 128K l�
 Gemma 4 cũng thêm chế độ suy luận Thinking Mode trên các bản E4B và 31B, cải thiện rõ khả năng viết mã và gọi công cụ tự động. Về đa phương thức, mọi bản đều nhận đầu vào ảnh và video, riêng E2B và E4B nhận thêm âm thanh, mở đường cho các ứng dụng trợ lý giọng nói chạy ngay trên máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/iB5POKmXfWY/maxresdefault.jpg" alt="Xây dựng ứng dụng AI on-device với Gemma 4" loading="lazy" width="1280" height="720">
-  <figcaption>Gemma 4 hướng tới các ứng dụng AI agentic chạy ngay trên thiết bị. Nguồn: YouTube</figcaption>
+  <img src="https://i.ytimg.com/vi/d0gTthacB5c/maxresdefault.jpg" alt="Gemma 4 chạy cục bộ trên iPhone không cần kết nối Internet" loading="lazy" width="1280" height="720">
+  <figcaption>Gemma 4 chạy được ngay trên điện thoại, kể cả iPhone, hoàn toàn ngoại tuyến. Nguồn: YouTube</figcaption>
 </figure>
+
+Khả năng đa phương thức là điểm khiến Gemma 4 vượt khỏi vai trò một chatbot văn bản đơn thuần. Việc nhận đầu vào ảnh, video và cả âm thanh ở các bản nhỏ mở đường cho những ứng dụng như đọc và tóm tắt ảnh chụp tài liệu, mô tả khung cảnh cho người khiếm thị, hay trợ lý giọng nói chạy ngay trên máy. Tất cả diễn ra cục bộ, nên vừa nhanh vừa không lộ dữ liệu ra ngoài.
 
 ## Vì sao AI chạy trên máy lại quan trọng?
 
 AI chạy trên thiết bị giải quyết ba điểm yếu cố hữu của AI đám mây: độ trễ, quyền riêng tư và chi phí. Khi model nằm sẵn trong máy, phản hồi gần như tức thì và không phụ thuộc chất lượng mạng. Dữ liệu nhạy cảm như ảnh, ghi âm hay tài liệu cá nhân được xử lý tại chỗ, không gửi đi đâu cả.
 
 Xu hướng này cũng giảm gánh nặng chi phí vận hành máy chủ cho nhà phát triển ứng dụng. Thay vì trả tiền cho mỗi lượt gọi API lên đám mây, ứng dụng có thể dùng model chạy ngay trên máy người dùng. Với một model mã nguồn mở, nhẹ và đa ngôn ngữ như Gemma 4, rào cản để tích hợp AI vào sản phẩm hạ thấp đáng kể.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/O6499i4TFYA/maxresdefault.jpg" alt="Google giới thiệu Gemma 4 và AI Edge Gallery cho AI chạy trên thiết bị" loading="lazy" width="1280" height="720">
+  <figcaption>Google đẩy mạnh AI on-device qua Gemma 4 và bộ công cụ AI Edge. Nguồn: YouTube</figcaption>
+</figure>
+
+AI chạy trên máy không thay thế hoàn toàn AI đám mây, mà bổ sung cho nhau. Các tác vụ nhẹ, cần riêng tư hoặc cần phản hồi tức thì hợp với model chạy cục bộ, còn những bài toán rất lớn vẫn cần sức mạnh của model đám mây. Sự kết hợp này, gọi là hybrid AI, nhiều khả năng là hướng đi chính của ứng dụng AI trong vài năm tới, và Gemma 4 là một mảnh ghép quan trọng cho phần chạy trên thiết bị.
 
 <div class="art-video-label">VIDEO · Xây dựng AI on-device với Gemma 4</div>
 <div class="art-video-wrap">

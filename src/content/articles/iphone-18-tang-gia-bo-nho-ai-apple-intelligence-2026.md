@@ -7,7 +7,7 @@ category: "Apple"
 datePublished: "2026-06-19T14:00:00+07:00"
 dateModified: "2026-06-19T14:00:00+07:00"
 deck: "Cơn khát bộ nhớ của các trung tâm dữ liệu AI đang tràn sang gadget tiêu dùng, và iPhone 18 là một trong những sản phẩm chịu sức ép giá rõ nhất. Tin đồn cho thấy cả dòng iPhone 18 lên 12GB RAM để chạy Apple Intelligence, trong khi bản Pro có thể phải đắt thêm gần 270 USD để giữ biên lợi nhuận. Câu hỏi của người dùng Việt: nên mua ngay hay chờ?"
-heroImage: "https://i.ytimg.com/vi/T0zVP08LL9k/maxresdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/VSA0j9IMjBw/maxresdefault.jpg"
 heroAlt: "iPhone 18 tin đồn 12GB RAM và sức ép tăng giá vì chi phí bộ nhớ AI"
 heroCaption: "iPhone 18 được đồn nâng lên 12GB RAM cho Apple Intelligence. Nguồn: YouTube"
 tldr: "Chi phí bộ nhớ tăng vọt do nhu cầu AI khiến <strong>iPhone 18</strong> chịu sức ép giá. Tin đồn cho thấy cả dòng nâng lên <strong>12GB RAM</strong> (tăng 50% so với bản thường iPhone 17), mức tối thiểu để chạy <strong>Apple Intelligence</strong> và Siri AI mới trong iOS 27. Theo ước tính của hãng phân tích, chi phí RAM của bản Pro nhảy từ khoảng 39 USD lên <strong>145 USD</strong>, khiến giá bán có thể đắt thêm gần <strong>270 USD</strong>, lên quanh <strong>1.299 USD</strong>. Bản thường được cho là có thể giữ giá <strong>799 USD</strong>. CEO Tim Cook thừa nhận sức ép tăng giá là khó tránh. Tất cả con số là ước tính, Apple chưa công bố giá chính thức."
@@ -62,6 +62,13 @@ Gốc rễ nằm ở cơn sốt AI. Các nhà sản xuất bộ nhớ lớn dồ
 
 Với iPhone 18, các hãng phân tích ước tính chi phí RAM của bản Pro nhảy từ khoảng 39 USD lên 145 USD, kéo tổng chi phí linh kiện toàn máy tăng đáng kể. Để giữ biên lợi nhuận, bản Pro có thể phải tăng giá khoảng 270 USD, lên quanh mức 1.299 USD. Trong khi đó, nhiều nguồn cho rằng Apple có thể cố giữ giá khởi điểm 799 USD cho bản thường bằng cách ép chi phí ở các linh kiện khác như màn hình và camera.
 
+<figure>
+  <img src="https://i.ytimg.com/vi/A_WH6M6bDww/maxresdefault.jpg" alt="Giá iPhone leo thang khi khủng hoảng chip nhớ siết nguồn cung" loading="lazy" width="1280" height="720">
+  <figcaption>Giới tài chính quốc tế nói về việc giá iPhone leo thang vì thiếu hụt chip nhớ. Nguồn: YouTube</figcaption>
+</figure>
+
+Đây không phải lựa chọn riêng của Apple mà là sức ép chung của cả ngành. Chính Tim Cook cũng thừa nhận hãng đang đối mặt các đợt tăng giá rất lớn từ chuỗi cung ứng. Riêng với bản cao nhất, mức tăng còn rõ hơn, được phân tích kỹ trong bài [iPhone 18 Pro Max 1.399 USD và toan tính của Apple](/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html). Cùng cơn bão giá bộ nhớ này cũng đang đẩy [giá laptop tăng tới 30%](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html), cho thấy không riêng iPhone bị ảnh hưởng.
+
 <div class="art-video-label">VIDEO · iPhone 18 và tin đồn 12GB RAM</div>
 <div class="art-video-wrap">
   <iframe src="https://www.youtube.com/embed/T0zVP08LL9k" title="iPhone 18 Pro tin đồn 12GB RAM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
@@ -84,6 +91,13 @@ Cách định vị này có hai mặt. Một mặt, nó cho người dùng lý d
 Tại Việt Nam, chưa có giá chính thức. Lấy mốc iPhone 17 Pro 256GB khoảng 34,99 triệu đồng, nếu áp mức tăng theo chi phí linh kiện, iPhone 18 Pro có thể chạm gần 45 triệu đồng cho bản dung lượng nền. Nếu Apple giữ giá 799 USD cho bản thường, dòng này có thể không tăng sốc bằng bản Pro, và vẫn được 12GB RAM để chạy Apple Intelligence, nên là lựa chọn đáng tiền hơn cho đa số người dùng.
 
 Về thời điểm mua, người đang dùng iPhone đời cũ và cần máy gấp có thể cân nhắc mua iPhone 17 trong giai đoạn xả hàng trước khi iPhone 18 ra mắt mùa thu. Người muốn trải nghiệm AI mới nên chờ iPhone 18, ưu tiên bản thường để tối ưu chi phí. Xu hướng chung là chu kỳ nâng cấp đang dài ra khi giá linh kiện khó hạ trước 2027 tới 2028, nên mua trả góp hoặc chọn cấu hình vừa đủ là cách giảm áp lực tài chính.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/yoCKshUJJCs/maxresdefault.jpg" alt="Những điều cần biết về iPhone 18 trước khi quyết định mua" loading="lazy" width="1280" height="720">
+  <figcaption>Cân nhắc nhu cầu thực và dung lượng cần mua trước khi chọn iPhone 18. Nguồn: YouTube</figcaption>
+</figure>
+
+Một lưu ý về dung lượng: khi chi phí bộ nhớ tăng, khoảng cách giá giữa các mức dung lượng cũng có thể nới rộng. Nếu bạn lưu nhiều ảnh, video hoặc chạy nhiều ứng dụng nặng, nên cân nhắc chọn bản dung lượng phù hợp ngay từ đầu, vì nâng cấp về sau bằng cách đổi máy sẽ ngày càng đắt. Ngược lại, với người dùng phổ thông, bản dung lượng nền cùng 12GB RAM đã đủ cho cả nhu cầu thường ngày lẫn các tính năng AI cơ bản.
 
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Apple chưa công bố giá iPhone 18 chính thức. Con số 12GB RAM và mức tăng 270 USD là tin đồn và ước tính của hãng phân tích. Phát biểu về sức ép tăng giá khó tránh là của lãnh đạo Apple, không phải bảng giá sản phẩm. LongTechVision sẽ cập nhật khi Apple ra mắt iPhone 18.
