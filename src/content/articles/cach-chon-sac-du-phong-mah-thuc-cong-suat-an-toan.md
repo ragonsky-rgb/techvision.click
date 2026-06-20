@@ -1,7 +1,7 @@
 ---
 slug: "cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan"
 title: "Cách chọn sạc dự phòng: dung lượng thực, công suất và an toàn"
-description: "Hướng dẫn chọn sạc dự phòng đúng: vì sao dung lượng thực thấp hơn ghi trên vỏ, cách tính số lần sạc, chọn công suất sạc nhanh, số cổng, an toàn và quy định mang lên máy bay."
+description: "Hướng dẫn chọn sạc dự phòng đúng: vì sao dung lượng thực thấp hơn ghi trên vỏ, cách tính số lần sạc, chọn công suất sạc nhanh, số cổng, an toàn và quy định"
 keywords: "cách chọn sạc dự phòng, dung lượng thực pin dự phòng, mAh thực, sạc dự phòng sạc nhanh, pin dự phòng tốt, sạc dự phòng mang lên máy bay, sạc dự phòng an toàn"
 category: "Smartphone"
 datePublished: "2026-06-20T15:00:00+07:00"

@@ -1,7 +1,7 @@
 ---
 slug: "tai-nghe-chong-on-anc-la-gi-co-nen-mua"
 title: "Chống ồn ANC trên tai nghe là gì? Có nên mua tai nghe chống ồn?"
-description: "Chống ồn chủ động ANC là gì, khác chống ồn thụ động thế nào, chế độ xuyên âm ra sao và có nên mua tai nghe chống ồn? Giải thích dễ hiểu và mẹo chọn tai nghe ANC."
+description: "Chống ồn chủ động ANC là gì, khác chống ồn thụ động thế nào, chế độ xuyên âm ra sao và có nên mua tai nghe chống ồn? Giải thích dễ hiểu và mẹo chọn tai nghe"
 keywords: "chống ồn ANC là gì, tai nghe chống ồn chủ động, chống ồn thụ động, chế độ xuyên âm, transparency mode, có nên mua tai nghe chống ồn, tai nghe ANC"
 category: "Audio"
 datePublished: "2026-06-20T23:00:00+07:00"

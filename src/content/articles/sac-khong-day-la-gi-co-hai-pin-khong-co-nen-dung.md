@@ -1,7 +1,7 @@
 ---
 slug: "sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung"
 title: "Sạc không dây là gì? Có hại pin không và có nên dùng?"
-description: "Sạc không dây hoạt động thế nào, chuẩn Qi và MagSafe khác gì, có làm nóng máy và hại pin không, và có nên dùng thay sạc dây? Giải đáp và mẹo sạc không dây hiệu quả."
+description: "Sạc không dây hoạt động thế nào, chuẩn Qi và MagSafe khác gì, có làm nóng máy và hại pin không, và có nên dùng thay sạc dây? Giải đáp và mẹo sạc không dây"
 keywords: "sạc không dây là gì, sạc không dây có hại pin không, chuẩn Qi, MagSafe, Qi2, sạc không dây có nên dùng, sạc không dây chậm, mẹo sạc không dây"
 category: "Smartphone"
 datePublished: "2026-06-20T20:00:00+07:00"

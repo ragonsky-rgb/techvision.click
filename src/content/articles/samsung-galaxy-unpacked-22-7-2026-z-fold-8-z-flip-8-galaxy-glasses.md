@@ -1,7 +1,7 @@
 ---
 slug: "samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses"
 title: "Galaxy Unpacked 22/7/2026: chờ đợi gì ở Z Fold 8, Z Flip 8 và Galaxy Glasses"
-description: "Samsung Galaxy Unpacked dự kiến 22/7/2026 tại London: Galaxy Z Fold 8, Z Fold 8 Wide, Z Flip 8, Galaxy Watch 9 và Galaxy Glasses. Tổng hợp tin đồn cấu hình và giá."
+description: "Samsung Galaxy Unpacked dự kiến 22/7/2026 tại London: Galaxy Z Fold 8, Z Fold 8 Wide, Z Flip 8, Galaxy Watch 9 và Galaxy Glasses. Tổng hợp tin đồn cấu hình"
 keywords: "Galaxy Unpacked 2026, Galaxy Z Fold 8, Galaxy Z Flip 8, Galaxy Z Fold 8 Wide, Galaxy Glasses, Galaxy Watch 9, Samsung gập 2026, Snapdragon 8 Elite Gen 5"
 category: "Smartphone"
 datePublished: "2026-06-19T17:00:00+07:00"

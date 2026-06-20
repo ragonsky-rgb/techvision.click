@@ -1,7 +1,7 @@
 ---
 slug: "tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong"
 title: "Tần số quét 60Hz, 90Hz, 120Hz là gì? Có thực sự cần thiết?"
-description: "Tần số quét màn hình 60Hz, 90Hz, 120Hz là gì, khác gì tần số quét cảm ứng, có làm tốn pin không và có thực sự cần thiết khi chọn điện thoại? Giải thích dễ hiểu kèm mẹo."
+description: "Tần số quét màn hình 60Hz, 90Hz, 120Hz là gì, khác gì tần số quét cảm ứng, có làm tốn pin không và có thực sự cần thiết khi chọn điện thoại? Giải thích dễ"
 keywords: "tần số quét màn hình, 120Hz là gì, 60Hz vs 120Hz, tần số quét cảm ứng, refresh rate, màn hình 120Hz có cần không, LTPO, chọn điện thoại"
 category: "Smartphone"
 datePublished: "2026-06-20T09:00:00+07:00"

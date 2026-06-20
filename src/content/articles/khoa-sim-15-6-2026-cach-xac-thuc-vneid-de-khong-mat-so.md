@@ -1,7 +1,7 @@
 ---
 slug: "khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so"
 title: "18 triệu SIM bị khóa từ 15/6: cách xác thực VNeID giữ số"
-description: "Gần 18 triệu thuê bao chưa xác thực bị khóa một chiều từ 15/6/2026 theo Thông tư 08/2026. Hướng dẫn xác thực SIM chính chủ qua VNeID, lộ trình khóa và cách giữ số."
+description: "Gần 18 triệu thuê bao chưa xác thực bị khóa một chiều từ 15/6/2026 theo Thông tư 08/2026. Hướng dẫn xác thực SIM chính chủ qua VNeID, lộ trình khóa và cách"
 keywords: "khóa SIM 2026, xác thực thuê bao VNeID, bị khóa SIM phải làm gì, khóa SIM một chiều, xác thực SIM chính chủ, Thông tư 08/2026, khóa SIM 15/6"
 category: "Smartphone"
 datePublished: "2026-06-15T18:00:00+07:00"

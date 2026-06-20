@@ -1,7 +1,7 @@
 ---
 slug: "man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon"
 title: "Màn hình OLED, AMOLED, LCD khác gì nhau? Loại nào tốt hơn?"
-description: "Phân biệt màn hình OLED, AMOLED, LCD, IPS và LTPO trên điện thoại: ưu nhược điểm, burn-in, nhấp nháy PWM, tiết kiệm pin. Loại nào tốt hơn và nên chọn theo nhu cầu nào?"
+description: "Phân biệt màn hình OLED, AMOLED, LCD, IPS và LTPO trên điện thoại: ưu nhược điểm, burn-in, nhấp nháy PWM, tiết kiệm pin. Loại nào tốt hơn và nên chọn theo"
 keywords: "màn hình OLED, AMOLED là gì, OLED vs LCD, IPS LCD, Super AMOLED, LTPO, burn-in màn hình, chọn màn hình điện thoại, màn hình nào tốt"
 category: "Smartphone"
 datePublished: "2026-06-20T08:00:00+07:00"

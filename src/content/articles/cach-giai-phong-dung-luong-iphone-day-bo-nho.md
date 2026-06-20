@@ -1,7 +1,7 @@
 ---
 slug: "cach-giai-phong-dung-luong-iphone-day-bo-nho"
 title: "Cách giải phóng dung lượng iPhone khi đầy bộ nhớ: 8 mẹo hiệu quả"
-description: "iPhone báo đầy bộ nhớ? 8 cách giải phóng dung lượng iPhone hiệu quả: dọn app, ảnh video, cache Safari, tin nhắn cũ và hiểu về dung lượng hệ thống Khác. Không cần xoá hết ảnh."
+description: "iPhone báo đầy bộ nhớ? 8 cách giải phóng dung lượng iPhone hiệu quả: dọn app, ảnh video, cache Safari, tin nhắn cũ và hiểu về dung lượng hệ thống Khác. Không"
 keywords: "giải phóng dung lượng iPhone, iPhone đầy bộ nhớ, xoá bộ nhớ Khác iPhone, dung lượng hệ thống iPhone, dọn dung lượng iPhone, iPhone hết dung lượng phải làm sao"
 category: "Apple"
 datePublished: "2026-06-21T08:00:00+07:00"

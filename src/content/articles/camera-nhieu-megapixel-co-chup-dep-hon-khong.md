@@ -1,7 +1,7 @@
 ---
 slug: "camera-nhieu-megapixel-co-chup-dep-hon-khong"
 title: "Camera nhiều megapixel có chụp đẹp hơn không? Sự thật về 50MP, 200MP"
-description: "Camera 50MP, 108MP, 200MP có chụp đẹp hơn 12MP không? Giải thích megapixel là gì, pixel binning, vai trò cảm biến và xử lý ảnh, và cách chọn điện thoại chụp ảnh đẹp thật sự."
+description: "Camera 50MP, 108MP, 200MP có chụp đẹp hơn 12MP không? Giải thích megapixel là gì, pixel binning, vai trò cảm biến và xử lý ảnh, và cách chọn điện thoại chụp"
 keywords: "camera megapixel, 200MP có tốt không, 50MP vs 12MP, megapixel là gì, pixel binning, chọn điện thoại chụp ảnh đẹp, cảm biến camera, độ phân giải máy ảnh"
 category: "Camera"
 datePublished: "2026-06-20T14:00:00+07:00"

@@ -1,7 +1,7 @@
 ---
 slug: "iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026"
 title: "iPhone 18 tăng giá vì bộ nhớ AI: 12GB RAM, nên mua hay chờ?"
-description: "Giá iPhone 18 chịu sức ép vì chi phí bộ nhớ cho AI tăng vọt. Tin đồn 12GB RAM toàn dòng, bản Pro có thể đắt thêm gần 270 USD. Apple dựa vào Apple Intelligence để thuyết phục nâng cấp."
+description: "Giá iPhone 18 chịu sức ép vì chi phí bộ nhớ cho AI tăng vọt. Tin đồn 12GB RAM toàn dòng, bản Pro có thể đắt thêm gần 270 USD. Apple dựa vào Apple"
 keywords: "giá iPhone 18, iPhone 18 tăng giá, iPhone 18 RAM 12GB, iPhone 18 Pro Max giá bao nhiêu, iPhone 18 Apple Intelligence, giá iPhone 18 tại Việt Nam, chi phí bộ nhớ AI, có nên mua iPhone 18"
 category: "Apple"
 datePublished: "2026-06-19T14:00:00+07:00"

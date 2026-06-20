@@ -1,7 +1,7 @@
 ---
 slug: "cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026"
 title: "Cách kiểm tra iPhone cũ trước khi mua: checklist 10 bước tránh bị lừa"
-description: "Hướng dẫn kiểm tra iPhone cũ trước khi mua: tình trạng pin, iCloud lock, Face ID, màn hình, máy dựng và lịch sử thay linh kiện. Checklist 10 bước để không mua nhầm máy lỗi."
+description: "Hướng dẫn kiểm tra iPhone cũ trước khi mua: tình trạng pin, iCloud lock, Face ID, màn hình, máy dựng và lịch sử thay linh kiện. Checklist 10 bước để không"
 keywords: "cách kiểm tra iPhone cũ, kiểm tra iPhone cũ trước khi mua, check iCloud iPhone, kiểm tra pin iPhone, iPhone dựng, máy lock, mua iPhone cũ, test iPhone cũ"
 category: "Apple"
 datePublished: "2026-06-19T18:00:00+07:00"

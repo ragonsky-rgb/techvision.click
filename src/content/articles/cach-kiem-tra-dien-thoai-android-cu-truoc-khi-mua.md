@@ -1,7 +1,7 @@
 ---
 slug: "cach-kiem-tra-dien-thoai-android-cu-truoc-khi-mua"
 title: "Cách kiểm tra điện thoại Android cũ trước khi mua: checklist đầy đủ"
-description: "Hướng dẫn kiểm tra điện thoại Android cũ Samsung, Xiaomi, Oppo trước khi mua: tài khoản Google, FRP, IMEI, mã test ẩn, pin, màn hình, cảm ứng. Checklist tránh mua máy lỗi."
+description: "Hướng dẫn kiểm tra điện thoại Android cũ Samsung, Xiaomi, Oppo trước khi mua: tài khoản Google, FRP, IMEI, mã test ẩn, pin, màn hình, cảm ứng. Checklist"
 keywords: "kiểm tra điện thoại Android cũ, test máy Samsung cũ, kiểm tra Xiaomi cũ, mã test điện thoại, FRP là gì, mua điện thoại Android cũ, check máy cũ"
 category: "Smartphone"
 datePublished: "2026-06-20T18:00:00+07:00"

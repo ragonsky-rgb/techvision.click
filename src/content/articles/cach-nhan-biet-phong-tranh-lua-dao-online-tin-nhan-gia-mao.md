@@ -1,7 +1,7 @@
 ---
 slug: "cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao"
 title: "Cách nhận biết và phòng tránh lừa đảo online, tin nhắn giả mạo"
-description: "Nhận biết các chiêu lừa đảo online phổ biến: tin nhắn giả mạo ngân hàng, giả danh công an, trúng thưởng, việc nhẹ lương cao. Dấu hiệu cảnh báo và cách phòng tránh mất tiền oan."
+description: "Nhận biết các chiêu lừa đảo online phổ biến: tin nhắn giả mạo ngân hàng, giả danh công an, trúng thưởng, việc nhẹ lương cao. Dấu hiệu cảnh báo và cách phòng"
 keywords: "lừa đảo online, tin nhắn giả mạo ngân hàng, giả danh công an, cách phòng tránh lừa đảo, lừa đảo qua mạng, chiếm đoạt tài khoản, an ninh mạng, không cung cấp OTP"
 category: "Internet"
 datePublished: "2026-06-20T19:00:00+07:00"

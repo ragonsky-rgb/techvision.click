@@ -1,7 +1,7 @@
 ---
 slug: "cach-tang-toc-dien-thoai-android-cham-lag-muot-hon-2026"
 title: "Cách tăng tốc điện thoại Android bị chậm, lag: 9 mẹo không cần cài app"
-description: "Điện thoại Android chậm, giật lag sau thời gian dùng? 9 mẹo tăng tốc đơn giản: dọn bộ nhớ, gỡ app thừa, giảm hiệu ứng, chặn app chạy nền, cập nhật hệ thống. Không cần cài app."
+description: "Điện thoại Android chậm, giật lag sau thời gian dùng? 9 mẹo tăng tốc đơn giản: dọn bộ nhớ, gỡ app thừa, giảm hiệu ứng, chặn app chạy nền, cập nhật hệ thống"
 keywords: "tăng tốc điện thoại Android, điện thoại Android bị lag, cách làm điện thoại mượt hơn, dọn bộ nhớ Android, điện thoại chậm phải làm sao, tắt hiệu ứng Android, Android giật lag"
 category: "Smartphone"
 datePublished: "2026-06-19T20:00:00+07:00"

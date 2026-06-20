@@ -1,7 +1,7 @@
 ---
 slug: "codec-bluetooth-aac-aptx-ldac-la-gi-chon-tai-nghe-khong-day"
 title: "Codec Bluetooth AAC, aptX, LDAC là gì? Chọn tai nghe không dây sao cho đúng"
-description: "Codec Bluetooth SBC, AAC, aptX, LDAC, LC3 là gì, khác nhau thế nào và ảnh hưởng ra sao tới chất lượng âm thanh tai nghe không dây? Cách chọn tai nghe hợp điện thoại của bạn."
+description: "Codec Bluetooth SBC, AAC, aptX, LDAC, LC3 là gì, khác nhau thế nào và ảnh hưởng ra sao tới chất lượng âm thanh tai nghe không dây? Cách chọn tai nghe hợp"
 keywords: "codec Bluetooth, AAC aptX LDAC là gì, codec tai nghe không dây, LDAC là gì, aptX Adaptive, LC3, chọn tai nghe bluetooth, chất lượng âm thanh bluetooth"
 category: "Audio"
 datePublished: "2026-06-20T16:00:00+07:00"
