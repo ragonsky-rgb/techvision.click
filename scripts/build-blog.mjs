@@ -117,3 +117,19 @@ html = html.replace(/(<div class="side-list">)[\s\S]*?(<\/div>)/, () => `<div cl
 
 writeFileSync(BLOG, html);
 console.log(`✅ blog.html cập nhật: hero=${hero.slug}, grid=${grid.length} bài, picks=${picks.length}, tổng=${articles.length}`);
+
+// --- Cập nhật mục "Tin mới nhất" trên trang chủ index.html (5 bài mới nhất) ---
+const HOME = 'public/index.html';
+if (existsSync(HOME)) {
+  let home = readFileSync(HOME, 'utf-8');
+  if (/<!-- HOME POSTS START -->/.test(home)) {
+    const homePosts = articles.slice(0, 5).map((a) => `        <a href="${url(a)}" class="post-item fu">
+          <div class="post-date">${dmy(a.datePublished)} · ${esc(a.category)}</div>
+          <div class="post-excerpt">${esc(a.description)}</div>
+          <span class="post-read-more">Đọc bài →</span>
+        </a>`).join('\n');
+    home = home.replace(/(<!-- HOME POSTS START -->)[\s\S]*?(<!-- HOME POSTS END -->)/, () => `<!-- HOME POSTS START -->\n${homePosts}\n        <!-- HOME POSTS END -->`);
+    writeFileSync(HOME, home);
+    console.log(`✅ index.html cập nhật: 5 bài mới nhất trên trang chủ`);
+  }
+}
