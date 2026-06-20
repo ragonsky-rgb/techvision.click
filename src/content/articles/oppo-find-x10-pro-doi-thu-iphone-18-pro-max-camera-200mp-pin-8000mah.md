@@ -7,7 +7,7 @@ category: "Smartphone"
 datePublished: "2026-06-19T10:00:00+07:00"
 dateModified: "2026-06-19T10:00:00+07:00"
 deck: "Hàng loạt rò rỉ mới hé lộ Oppo Find X10 Pro, mẫu đầu bảng được cho là vũ khí của Oppo nhắm thẳng vào iPhone 18 Pro Max nửa cuối 2026. Máy mang cấu hình gây choáng: chip Dimensity 9600 trên tiến trình 2nm, cụm camera 200MP kép hợp tác Hasselblad và viên pin lên tới khoảng 8000mAh. Toàn bộ vẫn là tin đồn chưa được Oppo xác nhận, nhưng đủ để vẽ ra một đối thủ Android nặng ký."
-heroImage: "https://i.ytimg.com/vi/xFzux2bfprA/maxresdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/x9JJE2M-4Lc/maxresdefault.jpg"
 heroAlt: "Rò rỉ Oppo Find X10 Pro với camera 200MP kép và pin 8000mAh"
 heroCaption: "Oppo Find X10 Pro qua các rò rỉ, dự kiến ra mắt cuối 2026. Nguồn: YouTube"
 tldr: "Theo các rò rỉ, <strong>Oppo Find X10 Pro</strong> dùng chip <strong>MediaTek Dimensity 9600</strong> tiến trình <strong>2nm</strong>, màn OLED LTPO 6.78 inch 1.5K tấm nền Tianma mới. Điểm nhấn là cụm <strong>camera 200MP kép</strong> hợp tác Hasselblad: chính 200MP cảm biến 1/1.3 inch và tele 200MP cảm biến lớn, kèm cảm biến đa phổ. Pin được cho là quanh <strong>8000mAh</strong>, sạc <strong>100W</strong> và sạc không dây, chuẩn kháng nước IP68 cùng IP69. Dự kiến ra mắt <strong>quý 4/2026</strong>, giá tham khảo bản Pro khoảng <strong>30 tới 35 triệu đồng</strong> khi về Việt Nam. Tất cả là tin đồn, chưa được Oppo xác nhận."
@@ -63,6 +63,15 @@ Theo các nguồn rò rỉ từ GSMArena, Android Headlines và Gizmochina, Find
 
 Điểm gây chú ý nhất là cụm camera. Máy được cho là trang bị bộ đôi 200MP hiếm thấy: camera chính 200MP cảm biến 1/1.3 inch và một ống tele cũng 200MP cảm biến lớn, kèm cảm biến đa phổ phục vụ cân bằng màu. Cụm camera tiếp nối hợp tác với Hasselblad từ các đời Find X trước, hướng tới nhóm người dùng coi nhiếp ảnh là ưu tiên hàng đầu.
 
+Cảm biến tele 200MP là điểm đáng chú ý nhất về mặt thông số, bởi rất ít flagship hiện nay dùng ống tele độ phân giải cao đến vậy. Nếu rò rỉ chính xác, Find X10 Pro có thể chụp xa và cắt cúp ảnh tele mà vẫn giữ chi tiết tốt, một thế mạnh mà nhiều máy Android lẫn iPhone chưa làm được ở mức này. Cảm biến đa phổ đi kèm giúp đo màu chính xác hơn, cho ra ảnh trung thực hơn dưới ánh sáng phức tạp.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/kJfdQakqezQ/maxresdefault.jpg" alt="So sánh camera 200MP của Oppo Find X10 Pro với đối thủ Android cao cấp" loading="lazy" width="1280" height="720">
+  <figcaption>Cụm camera 200MP kép đặt Find X10 Pro vào nhóm flagship chụp ảnh hàng đầu. Nguồn: YouTube</figcaption>
+</figure>
+
+Về phần còn lại, máy được đồn dùng màn OLED LTPO 6.78 inch độ phân giải 1.5K tấm nền Tianma mới, kháng nước chuẩn IP68 và IP69, cảm biến vân tay siêu âm trong màn. Đáng kể nhất là viên pin khoảng 8000mAh đi cùng sạc có dây 100W và sạc không dây, hứa hẹn thời lượng dùng vượt trội so với mặt bằng flagship hiện nay vốn quanh 5000mAh.
+
 <div class="art-video-label">VIDEO · Rò rỉ và nhận định Oppo Find X10 Pro</div>
 <div class="art-video-wrap">
   <iframe src="https://www.youtube.com/embed/xFzux2bfprA" title="Rò rỉ Oppo Find X10 Pro camera 200MP" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
@@ -80,11 +89,24 @@ Theo các nguồn rò rỉ từ GSMArena, Android Headlines và Gizmochina, Find
   <figcaption>Bản Pro Max được đồn còn nâng lên cụm camera 200MP nhiều ống. Nguồn: YouTube</figcaption>
 </figure>
 
+## Bản Pro Max và những nâng cấp được đồn
+
+Bên cạnh Find X10 Pro, các nguồn rò rỉ còn nhắc tới một bản Find X10 Pro Max cao cấp hơn, được cho là nâng cụm camera lên nhiều ống với tổng độ phân giải rất lớn. Đây sẽ là lần đầu Oppo tách riêng phiên bản Pro Max, đi theo hướng mà Apple và Samsung đã làm để phục vụ nhóm người dùng sẵn sàng chi nhiều hơn cho camera và màn hình đỉnh nhất.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/l2Wi8w-oKUk/maxresdefault.jpg" alt="Bản Oppo Find X10 Pro Max được đồn nâng cấp camera lên độ phân giải rất cao" loading="lazy" width="1280" height="720">
+  <figcaption>Bản Pro Max được đồn nâng cấp mạnh về camera so với bản Pro tiêu chuẩn. Nguồn: YouTube</figcaption>
+</figure>
+
+Nếu chiến lược hai bản là thật, người dùng Việt sẽ có thêm lựa chọn rõ ràng: bản Pro cân bằng giữa giá và cấu hình, còn bản Pro Max nhắm tới người muốn cao cấp tối đa. Tuy vậy, như mọi thông tin khác trong bài, đây vẫn là tin đồn và cần chờ Oppo xác nhận.
+
 ## Giá và thời điểm về Việt Nam
 
 Dòng Find X10 được rò rỉ ra mắt tại Trung Quốc vào quý 4/2026, nhiều nguồn dự đoán tháng 10, với bản toàn cầu theo sau vài tuần. Oppo chưa công bố lịch chính thức nên mốc thời gian này vẫn có thể thay đổi.
 
 Về giá, chưa có con số chính thức. Tham chiếu Find X9 Pro ra mắt Việt Nam tháng 10/2025 với giá 33 triệu đồng cho bản 16GB/512GB, Find X10 Pro nhiều khả năng cũng về Việt Nam quanh mốc 30 tới 35 triệu đồng, dự kiến cuối 2026 hoặc đầu 2027. Người dùng nên chờ thông tin chính thức trước khi quyết định.
+
+So với iPhone 18 Pro Max được đồn khởi điểm tới 1.399 USD, tức quá ba mươi mấy triệu đồng khi về Việt Nam, Find X10 Pro nếu giữ quanh mốc 30 tới 35 triệu có thể là lựa chọn đáng cân nhắc cho người muốn cấu hình mạnh, camera và pin lớn mà chi phí mềm hơn. Diễn biến giá iPhone 18 Pro Max được phân tích kỹ trong bài [iPhone 18 Pro Max 1.399 USD và toan tính của Apple](/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html).
 
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Toàn bộ thông số, giá và ngày ra mắt trong bài là tin đồn và rò rỉ, chưa được Oppo xác nhận. LongTechVision sẽ cập nhật khi Oppo công bố chính thức Find X10 Pro.
