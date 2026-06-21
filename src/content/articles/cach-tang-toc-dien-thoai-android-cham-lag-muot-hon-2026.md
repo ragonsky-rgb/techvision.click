@@ -66,7 +66,7 @@ Bộ nhớ trong gần đầy là một trong những nguyên nhân hàng đầu
 
 <div class="art-video-label">VIDEO · Mẹo giúp Android chạy mượt, ít giật lag</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/Ibjkar05mQU" title="Mẹo tăng tốc điện thoại Android" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/WOf5vQpFfcc" title="Mẹo làm điện thoại Android mượt hơn từ A đến Z" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Tổng hợp các mẹo giúp thiết bị Android chạy mượt hơn. Nguồn: YouTube</p>
 
@@ -86,6 +86,28 @@ Tiếp theo, kiểm soát ứng dụng chạy nền. Vào Cài đặt, mục Pin
 Luôn cập nhật hệ điều hành và ứng dụng lên bản mới nhất, vì các bản vá thường tối ưu hiệu năng và sửa lỗi gây chậm. Đồng thời, hãy khởi động lại máy vài ngày một lần. Thao tác đơn giản này giải phóng bộ nhớ tạm và đóng các tiến trình treo, giúp máy trở lại trạng thái mượt mà.
 
 Nếu đã làm mọi cách mà máy vẫn ì sau nhiều năm dùng, biện pháp mạnh nhất là khôi phục cài đặt gốc. Cách này xóa toàn bộ dữ liệu và phần mềm tích tụ, đưa máy về như mới. Nhớ sao lưu dữ liệu quan trọng trước khi thực hiện. Khi nâng cấp máy mới, có thể tham khảo các lựa chọn đáng chú ý như [Oppo Find X10 Pro](/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html) hoặc dòng gập sắp ra tại [Galaxy Unpacked](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html).
+
+## Quản lý widget, hình nền động và thông báo
+
+Màn hình chính tưởng chừng vô hại nhưng lại là nơi ngốn tài nguyên âm thầm. Mỗi widget thời tiết, lịch hay tin tức đều tự làm mới dữ liệu theo chu kỳ, chạy ngầm và chiếm RAM ngay cả khi máy đang khóa. Nếu màn hình chính có quá nhiều widget, hãy giữ lại vài cái thực sự cần và gỡ phần còn lại. Tương tự, hình nền động và các hiệu ứng chuyển trang cầu kỳ buộc bộ xử lý đồ họa hoạt động liên tục, gây hao pin và giật nhẹ khi vuốt. Chuyển sang hình nền tĩnh là cách đơn giản để máy nhẹ nhàng hơn rõ rệt.
+
+Thông báo dồn dập cũng làm máy chậm theo cách ít ai để ý. Mỗi lần một ứng dụng đẩy thông báo, nó phải đánh thức tiến trình nền, kết nối mạng và hiển thị nội dung. Hàng chục app cùng làm việc này mỗi giờ sẽ tạo gánh nặng đáng kể. Vào Cài đặt, mục Thông báo để tắt thông báo của những app không quan trọng như game, mua sắm hay mạng xã hội phụ. Máy không chỉ mượt hơn mà pin cũng bền hơn, và bạn cũng bớt bị làm phiền.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/7opD3smOayw/maxresdefault.jpg" alt="Tinh chỉnh màn hình chính và thông báo để Android chạy nhẹ hơn" loading="lazy" width="1280" height="720">
+  <figcaption>Gỡ bớt widget và hình nền động giúp giao diện phản hồi nhanh hơn. Nguồn: YouTube</figcaption>
+</figure>
+
+## Kiểm tra phần cứng và thói quen sạc pin
+
+Đôi khi máy chậm không hẳn vì phần mềm mà do phần cứng xuống cấp, đặc biệt là pin chai. Khi pin yếu, một số dòng máy tự động giảm xung nhịp bộ xử lý để tránh sập nguồn đột ngột, khiến hiệu năng tụt rõ. Nếu thời lượng pin giảm mạnh kèm hiện tượng tự tắt máy ở mức 20 tới 30%, rất có thể đã đến lúc thay pin. Một viên pin mới thường khôi phục lại cảm giác nhanh nhạy như thuở đầu với chi phí thấp hơn nhiều so với đổi máy.
+
+Thói quen sử dụng hằng ngày cũng ảnh hưởng tới độ bền. Tránh để máy nóng lâu khi vừa sạc vừa chơi game nặng, vì nhiệt độ cao đẩy nhanh quá trình chai pin và có thể gây giảm hiệu năng tạm thời. Giữ máy ở nơi thoáng, tháo ốp khi sạc lâu và không để pin cạn sạch thường xuyên là những thói quen nhỏ giúp thiết bị giữ phong độ lâu hơn. Kết hợp các mẹo phần mềm ở trên với việc chăm sóc phần cứng đúng cách, một chiếc Android dùng vài năm vẫn có thể chạy mượt cho nhu cầu hằng ngày.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/Ok3yL9VUhBg/maxresdefault.jpg" alt="Kiểm tra tình trạng pin và phần cứng điện thoại Android" loading="lazy" width="1280" height="720">
+  <figcaption>Pin chai là nguyên nhân thường gặp khiến máy cũ chậm đi. Nguồn: YouTube</figcaption>
+</figure>
 
 <div class="art-callout">
   ✅ <strong>Mẹo:</strong> Làm theo đúng thứ tự từ dọn bộ nhớ tới giảm hiệu ứng trước, vì đây là hai nhóm cho hiệu quả nhanh nhất. Chỉ khôi phục cài đặt gốc khi thực sự cần và đã sao lưu đầy đủ.
