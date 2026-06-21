@@ -4,6 +4,7 @@ title: "Giá RTX 5090 tại Việt Nam tháng 6/2026: bảng giá, có nên mua?
 description: "Giá RTX 5090 tại Việt Nam tháng 6/2026 dao động 63 tới hơn 100 triệu đồng tùy bản, tăng vì khủng hoảng GDDR7. Bảng giá theo hãng và nên mua hay chờ."
 keywords: "giá RTX 5090, giá RTX 5090 Việt Nam, RTX 5090 Ti 48GB, giá GPU 2026, RTX 5090 bao nhiêu tiền, card đồ họa RTX 5090, GDDR7 thiếu hàng"
 category: "Laptop"
+type: "tin-tuc"
 datePublished: "2026-06-13T16:00:00+07:00"
 dateModified: "2026-06-13T16:00:00+07:00"
 deck: "Hơn một năm sau khi ra mắt, RTX 5090 vẫn là tấm card chơi game mạnh nhất thị trường, nhưng giá tại Việt Nam lại đang đi ngược kỳ vọng. Thay vì hạ nhiệt, giá bật tăng trở lại từ đầu 2026 vì khủng hoảng bộ nhớ GDDR7. Bài viết tổng hợp bảng giá thực tế theo từng hãng, làm rõ tin đồn RTX 5090 Ti 48GB và trả lời thẳng câu hỏi nên mua bây giờ hay chờ."

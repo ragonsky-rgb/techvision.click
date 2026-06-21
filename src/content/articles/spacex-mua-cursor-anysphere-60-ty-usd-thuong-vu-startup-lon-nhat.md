@@ -4,6 +4,7 @@ title: "SpaceX mua Cursor (Anysphere) 60 tỷ USD: thương vụ thâu tóm star
 description: "SpaceX chi 60 tỷ USD toàn cổ phiếu mua Anysphere, công ty mẹ Cursor, ngay sau khi IPO. Đây là vụ thâu tóm startup được rót vốn mạo hiểm lớn nhất từ trước tới"
 keywords: "SpaceX mua Cursor, Anysphere, thương vụ 60 tỷ USD, Cursor AI, công cụ lập trình AI, Elon Musk, xAI, AI coding, mua startup lớn nhất"
 category: "AI"
+type: "tin-tuc"
 datePublished: "2026-06-16T20:00:00+07:00"
 dateModified: "2026-06-16T20:00:00+07:00"
 deck: "Chỉ vài ngày sau khi lên sàn, SpaceX công bố thương vụ gây chấn động: chi 60 tỷ USD bằng cổ phiếu để thâu tóm Anysphere, công ty mẹ của công cụ lập trình AI đình đám Cursor. Đây được xem là vụ mua lại một startup được rót vốn mạo hiểm lớn nhất trong lịch sử, đưa đế chế của Elon Musk lấn sâu vào cuộc đua AI doanh nghiệp với Anthropic và OpenAI."

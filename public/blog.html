@@ -459,7 +459,7 @@
     .filter-bar {
       display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 2.5rem;
     }
-    .filter-btn {
+    .filter-btn, .type-btn {
       font-size: 0.65rem; letter-spacing: 0.14em; text-transform: uppercase;
       font-family: var(--sans); font-weight: 500;
       padding: 0.4rem 1rem; border-radius: 2rem;
@@ -467,9 +467,11 @@
       background: rgba(28,26,23,0.05); color: var(--dim);
       cursor: pointer; transition: all .2s;
     }
-    .filter-btn.active, .filter-btn:hover {
+    .filter-btn.active, .filter-btn:hover, .type-btn.active, .type-btn:hover {
       background: var(--accent); color: #fff; border-color: var(--accent);
     }
+    .mast-types .mast-cats-inner { border-bottom: 1px solid var(--line); }
+    .type-btn { font-weight: 600; }
 
     /* ── Blog grid ── */
     .blog-grid {
@@ -816,6 +818,13 @@
       <a href="/tai-nguyen/" class="mast-home">Tài nguyên</a>
       <a href="/" class="mast-home">Trang chủ</a>
     </div>
+    <nav class="mast-cats mast-types" aria-label="Lọc theo loại bài">
+      <div class="mast-cats-inner">
+        <button class="type-btn active" data-type="all">Tất cả</button>
+        <button class="type-btn" data-type="tin-tuc">📰 Tin tức</button>
+        <button class="type-btn" data-type="cam-nang">📖 Cẩm nang</button>
+      </div>
+    </nav>
     <nav class="mast-cats">
       <div class="mast-cats-inner">
         <button class="filter-btn active" data-cat="all">Tất cả</button>
@@ -877,7 +886,7 @@
     <!-- BLOG ARTICLES START -->
     <div class="blog-grid" id="blog-grid">
 
-      <a href="/articles/michael-truell-thien-tai-dung-sau-cursor-spacex-mua-60-ty-usd.html" class="blog-card" data-cat="ai">
+      <a href="/articles/michael-truell-thien-tai-dung-sau-cursor-spacex-mua-60-ty-usd.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">AI</span>
@@ -891,7 +900,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-giai-phong-dung-luong-iphone-day-bo-nho.html" class="blog-card" data-cat="apple">
+      <a href="/articles/cach-giai-phong-dung-luong-iphone-day-bo-nho.html" class="blog-card" data-cat="apple" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Apple</span>
@@ -905,7 +914,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/tai-nghe-chong-on-anc-la-gi-co-nen-mua.html" class="blog-card" data-cat="audio">
+      <a href="/articles/tai-nghe-chong-on-anc-la-gi-co-nen-mua.html" class="blog-card" data-cat="audio" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Audio</span>
@@ -919,7 +928,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html" class="blog-card" data-cat="laptop" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Laptop</span>
@@ -933,7 +942,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/meo-chup-anh-dep-bang-dien-thoai-bo-cuc-anh-sang.html" class="blog-card" data-cat="camera">
+      <a href="/articles/meo-chup-anh-dep-bang-dien-thoai-bo-cuc-anh-sang.html" class="blog-card" data-cat="camera" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Camera</span>
@@ -947,7 +956,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung.html" class="blog-card" data-cat="smartphone" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -961,7 +970,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html" class="blog-card" data-cat="internet">
+      <a href="/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html" class="blog-card" data-cat="internet" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Internet</span>
@@ -975,7 +984,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-kiem-tra-dien-thoai-android-cu-truoc-khi-mua.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/cach-kiem-tra-dien-thoai-android-cu-truoc-khi-mua.html" class="blog-card" data-cat="smartphone" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -989,7 +998,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/chuan-khang-nuoc-ip68-ip67-ip69-la-gi-dien-thoai-chong-nuoc-that-khong.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/chuan-khang-nuoc-ip68-ip67-ip69-la-gi-dien-thoai-chong-nuoc-that-khong.html" class="blog-card" data-cat="smartphone" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1003,7 +1012,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/codec-bluetooth-aac-aptx-ldac-la-gi-chon-tai-nghe-khong-day.html" class="blog-card" data-cat="audio">
+      <a href="/articles/codec-bluetooth-aac-aptx-ldac-la-gi-chon-tai-nghe-khong-day.html" class="blog-card" data-cat="audio" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Audio</span>
@@ -1017,7 +1026,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan.html" class="blog-card" data-cat="smartphone" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1031,7 +1040,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/camera-nhieu-megapixel-co-chup-dep-hon-khong.html" class="blog-card" data-cat="camera">
+      <a href="/articles/camera-nhieu-megapixel-co-chup-dep-hon-khong.html" class="blog-card" data-cat="camera" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Camera</span>
@@ -1045,7 +1054,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html" class="blog-card" data-cat="ai" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">AI</span>
@@ -1059,7 +1068,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html" class="blog-card" data-cat="internet">
+      <a href="/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html" class="blog-card" data-cat="internet" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Internet</span>
@@ -1073,7 +1082,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/wifi-7-la-gi-co-nen-nang-cap-router-wifi-7.html" class="blog-card" data-cat="internet">
+      <a href="/articles/wifi-7-la-gi-co-nen-nang-cap-router-wifi-7.html" class="blog-card" data-cat="internet" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Internet</span>
@@ -1087,7 +1096,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset.html" class="blog-card" data-cat="smartphone" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1101,7 +1110,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong.html" class="blog-card" data-cat="smartphone" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1115,7 +1124,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html" class="blog-card" data-cat="apple">
+      <a href="/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html" class="blog-card" data-cat="apple" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Apple</span>
@@ -1129,7 +1138,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon.html" class="blog-card" data-cat="smartphone" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1143,7 +1152,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/sac-nhanh-co-hai-pin-khong-cach-sac-dung-keo-dai-tuoi-tho-pin.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/sac-nhanh-co-hai-pin-khong-cach-sac-dung-keo-dai-tuoi-tho-pin.html" class="blog-card" data-cat="smartphone" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1157,7 +1166,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/dien-thoai-can-bao-nhieu-ram-la-du-2026.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/dien-thoai-can-bao-nhieu-ram-la-du-2026.html" class="blog-card" data-cat="smartphone" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1171,7 +1180,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/esim-la-gi-cach-chuyen-sim-vat-ly-sang-esim-viet-nam.html" class="blog-card" data-cat="viễnthông">
+      <a href="/articles/esim-la-gi-cach-chuyen-sim-vat-ly-sang-esim-viet-nam.html" class="blog-card" data-cat="viễnthông" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Viễn thông</span>
@@ -1185,7 +1194,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-tang-toc-dien-thoai-android-cham-lag-muot-hon-2026.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/cach-tang-toc-dien-thoai-android-cham-lag-muot-hon-2026.html" class="blog-card" data-cat="smartphone" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1199,7 +1208,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Laptop</span>
@@ -1213,7 +1222,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html" class="blog-card" data-cat="apple">
+      <a href="/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html" class="blog-card" data-cat="apple" data-type="cam-nang">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Apple</span>
@@ -1227,7 +1236,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1241,7 +1250,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/google-pixel-11-pro-tensor-g6-2nm-pixel-glow-camera-ai-2026.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/google-pixel-11-pro-tensor-g6-2nm-pixel-glow-camera-ai-2026.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1255,7 +1264,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html" class="blog-card" data-cat="apple">
+      <a href="/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html" class="blog-card" data-cat="apple" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Apple</span>
@@ -1269,7 +1278,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">AI</span>
@@ -1283,7 +1292,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
@@ -1297,7 +1306,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/gemma-4-chay-offline-tren-dien-thoai-khong-can-internet-ai-on-device.html" class="blog-card" data-cat="ai">
+      <a href="/articles/gemma-4-chay-offline-tren-dien-thoai-khong-can-internet-ai-on-device.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">AI</span>
@@ -1311,7 +1320,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Laptop</span>
@@ -1325,7 +1334,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html" class="blog-card" data-cat="côngnghệ">
+      <a href="/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html" class="blog-card" data-cat="côngnghệ" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">Công nghệ</span>
@@ -1339,7 +1348,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/ai-agent-tu-dong-hoa-may-tinh-crewai-autogen-huong-dan-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/ai-agent-tu-dong-hoa-may-tinh-crewai-autogen-huong-dan-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <span class="new-badge">NEW</span>
         <div class="card-top">
           <span class="card-cat">AI</span>
@@ -1353,7 +1362,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/dji-osmo-pocket-4-pro-4p-ra-mat-camera-kep-3x-zoom-gia-viet-nam.html" class="blog-card" data-cat="camera">
+      <a href="/articles/dji-osmo-pocket-4-pro-4p-ra-mat-camera-kep-3x-zoom-gia-viet-nam.html" class="blog-card" data-cat="camera" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Camera</span>
           <span class="card-date">18/06/2026</span>
@@ -1366,7 +1375,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/spacex-mua-cursor-anysphere-60-ty-usd-thuong-vu-startup-lon-nhat.html" class="blog-card" data-cat="ai">
+      <a href="/articles/spacex-mua-cursor-anysphere-60-ty-usd-thuong-vu-startup-lon-nhat.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">16/06/2026</span>
@@ -1379,7 +1388,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html" class="blog-card" data-cat="internet">
+      <a href="/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html" class="blog-card" data-cat="internet" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Internet</span>
           <span class="card-date">16/06/2026</span>
@@ -1392,7 +1401,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet.html" class="blog-card" data-cat="apple">
+      <a href="/articles/ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet.html" class="blog-card" data-cat="apple" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Apple</span>
           <span class="card-date">16/06/2026</span>
@@ -1405,7 +1414,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">15/06/2026</span>
@@ -1418,7 +1427,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/ai-88000-nguoi-my-mat-viec-5-thang-dau-2026-challenger.html" class="blog-card" data-cat="ai">
+      <a href="/articles/ai-88000-nguoi-my-mat-viec-5-thang-dau-2026-challenger.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">15/06/2026</span>
@@ -1431,7 +1440,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">15/06/2026</span>
@@ -1444,7 +1453,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">14/06/2026</span>
@@ -1457,7 +1466,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/ai-overviews-la-gi-cach-hoat-dong-anh-huong-website.html" class="blog-card" data-cat="ai">
+      <a href="/articles/ai-overviews-la-gi-cach-hoat-dong-anh-huong-website.html" class="blog-card" data-cat="ai" data-type="cam-nang">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">14/06/2026</span>
@@ -1470,7 +1479,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/cach-cai-ios-27-beta-tren-iphone-huong-dan-tung-buoc.html" class="blog-card" data-cat="apple">
+      <a href="/articles/cach-cai-ios-27-beta-tren-iphone-huong-dan-tung-buoc.html" class="blog-card" data-cat="apple" data-type="cam-nang">
         <div class="card-top">
           <span class="card-cat">Apple</span>
           <span class="card-date">14/06/2026</span>
@@ -1483,7 +1492,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html" class="blog-card" data-cat="apple">
+      <a href="/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html" class="blog-card" data-cat="apple" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Apple</span>
           <span class="card-date">14/06/2026</span>
@@ -1496,7 +1505,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/claude-fable-5-bi-chan-my-ra-lenh-cam-anthropic-go-toan-cau.html" class="blog-card" data-cat="ai">
+      <a href="/articles/claude-fable-5-bi-chan-my-ra-lenh-cam-anthropic-go-toan-cau.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">14/06/2026</span>
@@ -1509,7 +1518,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">13/06/2026</span>
@@ -1522,7 +1531,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">13/06/2026</span>
@@ -1535,7 +1544,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket.html" class="blog-card" data-cat="camera">
+      <a href="/articles/insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket.html" class="blog-card" data-cat="camera" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Camera</span>
           <span class="card-date">12/06/2026</span>
@@ -1548,7 +1557,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/apple-noi-khong-agentic-ai-wwdc-2026-siri-than-trong.html" class="blog-card" data-cat="apple">
+      <a href="/articles/apple-noi-khong-agentic-ai-wwdc-2026-siri-than-trong.html" class="blog-card" data-cat="apple" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Apple</span>
           <span class="card-date">12/06/2026</span>
@@ -1561,7 +1570,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/anh-cma-buoc-google-cho-bao-chi-opt-out-ai-overviews-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/anh-cma-buoc-google-cho-bao-chi-opt-out-ai-overviews-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">09/06/2026</span>
@@ -1574,7 +1583,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">09/06/2026</span>
@@ -1587,7 +1596,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html" class="blog-card" data-cat="apple">
+      <a href="/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html" class="blog-card" data-cat="apple" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Apple</span>
           <span class="card-date">09/06/2026</span>
@@ -1600,7 +1609,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html" class="blog-card" data-cat="apple">
+      <a href="/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html" class="blog-card" data-cat="apple" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Apple</span>
           <span class="card-date">08/06/2026</span>
@@ -1613,7 +1622,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/microsoft-mai-7-model-tu-lam-thoat-openai-build-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/microsoft-mai-7-model-tu-lam-thoat-openai-build-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">06/06/2026</span>
@@ -1626,7 +1635,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/nvidia-cosmos-3-physical-ai-omnimodel-mo-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/nvidia-cosmos-3-physical-ai-omnimodel-mo-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">05/06/2026</span>
@@ -1639,7 +1648,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">04/06/2026</span>
@@ -1652,7 +1661,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/anthropic-nop-ho-so-ipo-2026-vuot-openai-965-ty.html" class="blog-card" data-cat="ai">
+      <a href="/articles/anthropic-nop-ho-so-ipo-2026-vuot-openai-965-ty.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">02/06/2026</span>
@@ -1665,7 +1674,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/alphabet-google-80-ty-usd-co-phieu-ha-tang-ai-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/alphabet-google-80-ty-usd-co-phieu-ha-tang-ai-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">02/06/2026</span>
@@ -1678,7 +1687,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html" class="blog-card" data-cat="apple">
+      <a href="/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html" class="blog-card" data-cat="apple" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Apple</span>
           <span class="card-date">02/06/2026</span>
@@ -1691,7 +1700,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/dell-xps-13-699-usd-2026-dau-macbook.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/dell-xps-13-699-usd-2026-dau-macbook.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">01/06/2026</span>
@@ -1704,7 +1713,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">01/06/2026</span>
@@ -1717,7 +1726,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/nvidia-n1x-n1-chip-arm-laptop-computex-2026.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/nvidia-n1x-n1-chip-arm-laptop-computex-2026.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">01/06/2026</span>
@@ -1730,7 +1739,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/nvidia-gtc-taipei-2026-vera-rubin-dai-loan-ha-tang-ai.html" class="blog-card" data-cat="ai">
+      <a href="/articles/nvidia-gtc-taipei-2026-vera-rubin-dai-loan-ha-tang-ai.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">01/06/2026</span>
@@ -1743,7 +1752,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/macbook-pro-m6-oled-cam-ung-thiet-ke-moi-2026.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/macbook-pro-m6-oled-cam-ung-thiet-ke-moi-2026.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">01/06/2026</span>
@@ -1756,7 +1765,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/galaxy-z-fold-8-thiet-ke-camera-kep-lo-dien-2026.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/galaxy-z-fold-8-thiet-ke-camera-kep-lo-dien-2026.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">01/06/2026</span>
@@ -1769,7 +1778,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">30/05/2026</span>
@@ -1782,7 +1791,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/iqoo-15t-review-specs-dimensity-9500-monster-pin-8000mah-2026.html" class="blog-card" data-cat="reviews">
+      <a href="/articles/iqoo-15t-review-specs-dimensity-9500-monster-pin-8000mah-2026.html" class="blog-card" data-cat="reviews" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Reviews</span>
           <span class="card-date">29/05/2026</span>
@@ -1795,7 +1804,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/sam-altman-sai-ve-ai-cuop-viec-lam-delighted-wrong-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/sam-altman-sai-ve-ai-cuop-viec-lam-delighted-wrong-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">29/05/2026</span>
@@ -1808,7 +1817,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html" class="blog-card" data-cat="apple">
+      <a href="/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html" class="blog-card" data-cat="apple" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Apple</span>
           <span class="card-date">29/05/2026</span>
@@ -1821,7 +1830,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/xiaomi-17t-hyperos-4-miclaw-ai-viet-nam-2026.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/xiaomi-17t-hyperos-4-miclaw-ai-viet-nam-2026.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">29/05/2026</span>
@@ -1834,7 +1843,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/ai-sa-thai-134000-nhan-su-tech-wix-meta-cisco-intuit-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/ai-sa-thai-134000-nhan-su-tech-wix-meta-cisco-intuit-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">29/05/2026</span>
@@ -1847,7 +1856,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/dreame-h16-pro-triforce-ra-mat-viet-nam-28-5-2026.html" class="blog-card" data-cat="smarthome">
+      <a href="/articles/dreame-h16-pro-triforce-ra-mat-viet-nam-28-5-2026.html" class="blog-card" data-cat="smarthome" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smart Home</span>
           <span class="card-date">28/05/2026</span>
@@ -1860,7 +1869,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone.html" class="blog-card" data-cat="ai">
+      <a href="/articles/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">27/05/2026</span>
@@ -1873,7 +1882,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/anthropic-900-ty-vuot-openai-vong-goi-von-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/anthropic-900-ty-vuot-openai-vong-goi-von-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">26/05/2026</span>
@@ -1886,7 +1895,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/samsung-vuot-apple-acsi-2026-galaxy-ai.html" class="blog-card" data-cat="android">
+      <a href="/articles/samsung-vuot-apple-acsi-2026-galaxy-ai.html" class="blog-card" data-cat="android" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Android</span>
           <span class="card-date">26/05/2026</span>
@@ -1899,7 +1908,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/samsung-one-ui-85-thiet-bi-duoc-cap-nhat-one-ui-90-khi-nao.html" class="blog-card" data-cat="android">
+      <a href="/articles/samsung-one-ui-85-thiet-bi-duoc-cap-nhat-one-ui-90-khi-nao.html" class="blog-card" data-cat="android" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Android</span>
           <span class="card-date">26/05/2026</span>
@@ -1912,7 +1921,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/honor-600-series-camera-200mp-ai-image-to-video-2026.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/honor-600-series-camera-200mp-ai-image-to-video-2026.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">26/05/2026</span>
@@ -1925,7 +1934,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/samsung-galaxy-a57-5g-phu-hop-voi-ai-doi-thu-tam-10-13-trieu-2026.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/samsung-galaxy-a57-5g-phu-hop-voi-ai-doi-thu-tam-10-13-trieu-2026.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">25/05/2026</span>
@@ -1938,7 +1947,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">25/05/2026</span>
@@ -1951,7 +1960,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/lenovo-ideapad-slim-5i-2026-wildcat-lake-man-120hz-pin-22h.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/lenovo-ideapad-slim-5i-2026-wildcat-lake-man-120hz-pin-22h.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">25/05/2026</span>
@@ -1964,7 +1973,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/ios-27-camera-app-moi-photos-ai-extend-enhance-reframe.html" class="blog-card" data-cat="ios">
+      <a href="/articles/ios-27-camera-app-moi-photos-ai-extend-enhance-reframe.html" class="blog-card" data-cat="ios" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">iOS</span>
           <span class="card-date">24/05/2026</span>
@@ -1977,7 +1986,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/iphone-20-thiet-ke-bezel-less-quad-curved-2027.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/iphone-20-thiet-ke-bezel-less-quad-curved-2027.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">24/05/2026</span>
@@ -1990,7 +1999,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/anker-soundcore-liberty-5-pro-max-thus-ai-chip-amoled-2026.html" class="blog-card" data-cat="audio">
+      <a href="/articles/anker-soundcore-liberty-5-pro-max-thus-ai-chip-amoled-2026.html" class="blog-card" data-cat="audio" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Audio</span>
           <span class="card-date">24/05/2026</span>
@@ -2003,7 +2012,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/meta-cat-8000-nhan-su-chien-luoc-ai-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/meta-cat-8000-nhan-su-chien-luoc-ai-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">22/05/2026</span>
@@ -2016,7 +2025,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/spacex-ipo-2026-lon-nhat-lich-su-spcx-nguoi-viet-mua-duoc-khong.html" class="blog-card" data-cat="phântích">
+      <a href="/articles/spacex-ipo-2026-lon-nhat-lich-su-spcx-nguoi-viet-mua-duoc-khong.html" class="blog-card" data-cat="phântích" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Phân tích</span>
           <span class="card-date">22/05/2026</span>
@@ -2029,7 +2038,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/xiaomi-17-max-pin-8000mah-camera-200mp-leica-gia-viet-nam-2026.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/xiaomi-17-max-pin-8000mah-camera-200mp-leica-gia-viet-nam-2026.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">22/05/2026</span>
@@ -2042,7 +2051,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/macbook-neo-599-review-sau-2-thang-ai-vibe-coding.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/macbook-neo-599-review-sau-2-thang-ai-vibe-coding.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">21/05/2026</span>
@@ -2055,7 +2064,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html" class="blog-card" data-cat="ios">
+      <a href="/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html" class="blog-card" data-cat="ios" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">iOS</span>
           <span class="card-date">20/05/2026</span>
@@ -2068,7 +2077,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/google-io-2026-day2-developer-keynote-vibe-coding-antigravity.html" class="blog-card" data-cat="ai&developer">
+      <a href="/articles/google-io-2026-day2-developer-keynote-vibe-coding-antigravity.html" class="blog-card" data-cat="ai&developer" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI &amp; Developer</span>
           <span class="card-date">20/05/2026</span>
@@ -2081,7 +2090,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/ray-ban-meta-vs-samsung-galaxy-glasses-so-sanh-2026.html" class="blog-card" data-cat="wearable">
+      <a href="/articles/ray-ban-meta-vs-samsung-galaxy-glasses-so-sanh-2026.html" class="blog-card" data-cat="wearable" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Wearable</span>
           <span class="card-date">20/05/2026</span>
@@ -2094,7 +2103,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/microsoft-build-2026-copilot-plus-windows-ai-studio-github-copilot-workspace.html" class="blog-card" data-cat="ai">
+      <a href="/articles/microsoft-build-2026-copilot-plus-windows-ai-studio-github-copilot-workspace.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">20/05/2026</span>
@@ -2107,7 +2116,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/computex-2026-amd-ryzen-ai-400-qualcomm-snapdragon-x2-elite-asus-rog.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/computex-2026-amd-ryzen-ai-400-qualcomm-snapdragon-x2-elite-asus-rog.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">20/05/2026</span>
@@ -2120,7 +2129,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/iphone-fold-2026-apple-foldable.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/iphone-fold-2026-apple-foldable.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">20/05/2026</span>
@@ -2133,7 +2142,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/google-io-2026-recap-gemini-omni-android-xr.html" class="blog-card" data-cat="ai">
+      <a href="/articles/google-io-2026-recap-gemini-omni-android-xr.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">20/05/2026</span>
@@ -2146,7 +2155,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/nvidia-gtc-2026-vera-rubin-dgx-station.html" class="blog-card" data-cat="ai">
+      <a href="/articles/nvidia-gtc-2026-vera-rubin-dgx-station.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">19/05/2026</span>
@@ -2159,7 +2168,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/samsung-galaxy-glasses-july-2026.html" class="blog-card" data-cat="wearable">
+      <a href="/articles/samsung-galaxy-glasses-july-2026.html" class="blog-card" data-cat="wearable" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Wearable</span>
           <span class="card-date">19/05/2026</span>
@@ -2172,7 +2181,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/openai-dell-codex-enterprise-may-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/openai-dell-codex-enterprise-may-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">18/05/2026</span>
@@ -2185,7 +2194,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/google-io-2026-day-1-gemini-4-omni.html" class="blog-card" data-cat="ai">
+      <a href="/articles/google-io-2026-day-1-gemini-4-omni.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">18/05/2026</span>
@@ -2198,7 +2207,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/wwdc-2026-ios-27-siri-redesign.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/wwdc-2026-ios-27-siri-redesign.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">18/05/2026</span>
@@ -2211,7 +2220,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">17/05/2026</span>
@@ -2224,7 +2233,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/samsung-galaxy-z-fold-8-flip-8-unpacked-2026.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/samsung-galaxy-z-fold-8-flip-8-unpacked-2026.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">17/05/2026</span>
@@ -2237,7 +2246,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/macos-27-liquid-glass-safari-ai.html" class="blog-card" data-cat="laptop">
+      <a href="/articles/macos-27-liquid-glass-safari-ai.html" class="blog-card" data-cat="laptop" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Laptop</span>
           <span class="card-date">17/05/2026</span>
@@ -2250,7 +2259,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/ai-agents-enterprise-deployment-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/ai-agents-enterprise-deployment-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">16/05/2026</span>
@@ -2263,7 +2272,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/apple-ios-27-third-party-ai-agents.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/apple-ios-27-third-party-ai-agents.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">16/05/2026</span>
@@ -2276,7 +2285,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/google-io-2026-preview.html" class="blog-card" data-cat="ai">
+      <a href="/articles/google-io-2026-preview.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">16/05/2026</span>
@@ -2289,7 +2298,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/osaurus-mac-local-ai-server.html" class="blog-card" data-cat="ai">
+      <a href="/articles/osaurus-mac-local-ai-server.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">15/05/2026</span>
@@ -2302,7 +2311,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/big-tech-725-billion-ai-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/big-tech-725-billion-ai-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">15/05/2026</span>
@@ -2315,7 +2324,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/google-spacex-orbital-data-centers.html" class="blog-card" data-cat="ai">
+      <a href="/articles/google-spacex-orbital-data-centers.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">15/05/2026</span>
@@ -2328,7 +2337,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/openai-apple-lawsuit-may-2026.html" class="blog-card" data-cat="ai">
+      <a href="/articles/openai-apple-lawsuit-may-2026.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">15/05/2026</span>
@@ -2341,7 +2350,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/xiaomi-band-10-pro.html" class="blog-card" data-cat="wearable">
+      <a href="/articles/xiaomi-band-10-pro.html" class="blog-card" data-cat="wearable" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Wearable</span>
           <span class="card-date">15/05/2026</span>
@@ -2354,7 +2363,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/sony-a7r-vi-67mp-camera.html" class="blog-card" data-cat="camera">
+      <a href="/articles/sony-a7r-vi-67mp-camera.html" class="blog-card" data-cat="camera" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Camera</span>
           <span class="card-date">14/05/2026</span>
@@ -2367,7 +2376,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/may-2026-smartphone-launches.html" class="blog-card" data-cat="smartphone">
+      <a href="/articles/may-2026-smartphone-launches.html" class="blog-card" data-cat="smartphone" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">Smartphone</span>
           <span class="card-date">13/05/2026</span>
@@ -2380,7 +2389,7 @@
         <span class="card-read">Đọc thêm</span>
       </a>
 
-      <a href="/articles/google-gemini-intelligence-android-17.html" class="blog-card" data-cat="ai">
+      <a href="/articles/google-gemini-intelligence-android-17.html" class="blog-card" data-cat="ai" data-type="tin-tuc">
         <div class="card-top">
           <span class="card-cat">AI</span>
           <span class="card-date">12/05/2026</span>
@@ -2512,6 +2521,7 @@
       const searchClear = document.getElementById('searchClear');
       const searchEmpty = document.getElementById('searchEmpty');
       let activeCat = 'all';
+      let activeType = 'all';
       let activeQuery = '';
 
       const CAT_GROUPS = {
@@ -2534,11 +2544,12 @@
           const cat = card.dataset.cat;
           const group = CAT_GROUPS[activeCat];
           const matchCat = activeCat === 'all' || cat === activeCat || (group && group.includes(cat));
+          const matchType = activeType === 'all' || (card.dataset.type || 'tin-tuc') === activeType;
           const text = (card.querySelector('.card-title')?.textContent || '') + ' ' +
                        (card.querySelector('.card-excerpt')?.textContent || '') + ' ' +
                        (card.querySelector('.card-desc')?.textContent || '');
           const matchQuery = !q || text.toLowerCase().includes(q);
-          if (matchCat && matchQuery) {
+          if (matchCat && matchType && matchQuery) {
             matched++;
             const show = shown < limit;
             card.style.display = show ? '' : 'none';
@@ -2561,6 +2572,16 @@
           document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
           btn.classList.add('active');
           activeCat = btn.dataset.cat;
+          limit = PAGE;
+          applyFilters();
+        });
+      });
+
+      document.querySelectorAll('.type-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.type-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          activeType = btn.dataset.type;
           limit = PAGE;
           applyFilters();
         });

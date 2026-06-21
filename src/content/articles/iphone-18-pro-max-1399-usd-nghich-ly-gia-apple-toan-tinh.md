@@ -4,6 +4,7 @@ title: "iPhone 18 Pro Max 1.399 USD: nghịch lý giá và toan tính của Appl
 description: "iPhone 18 Pro Max dự kiến 1.399 USD, tăng khoảng 300 USD vì khủng hoảng RAM do AI. Vì sao Apple tăng giá mạnh 2026 và toan tính giữ giá cho iPhone 20 năm 2027?"
 keywords: "iPhone 18 Pro Max, giá iPhone 18 Pro Max, iPhone 18 Pro 1399 USD, Apple tăng giá iPhone, iPhone 18 giá bao nhiêu, khủng hoảng RAM iPhone, iPhone 18 Pro Max ra mắt"
 category: "Apple"
+type: "tin-tuc"
 datePublished: "2026-06-20T08:00:00+07:00"
 dateModified: "2026-06-20T08:00:00+07:00"
 deck: "Theo nhiều nguồn tin nước ngoài, iPhone 18 Pro Max có thể khởi điểm tới 1.399 USD, tăng khoảng 300 USD so với đời trước. Nhưng nghịch lý nằm ở chỗ Apple không tăng giá đơn thuần để kiếm lời, mà là một nước cờ tính toán kỹ giữa cơn bão chi phí bộ nhớ do AI và kế hoạch dài hơi cho năm 2027. Bài viết tổng hợp số liệu từ báo chí quốc tế và phân tích Apple thực sự toan tính gì."

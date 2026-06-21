@@ -4,6 +4,7 @@ title: "Galaxy Unpacked 22/7/2026: chờ đợi gì ở Z Fold 8, Z Flip 8 và G
 description: "Samsung Galaxy Unpacked dự kiến 22/7/2026 tại London: Galaxy Z Fold 8, Z Fold 8 Wide, Z Flip 8, Galaxy Watch 9 và Galaxy Glasses. Tổng hợp tin đồn cấu hình"
 keywords: "Galaxy Unpacked 2026, Galaxy Z Fold 8, Galaxy Z Flip 8, Galaxy Z Fold 8 Wide, Galaxy Glasses, Galaxy Watch 9, Samsung gập 2026, Snapdragon 8 Elite Gen 5"
 category: "Smartphone"
+type: "tin-tuc"
 datePublished: "2026-06-19T17:00:00+07:00"
 dateModified: "2026-06-19T17:00:00+07:00"
 deck: "Mùa Unpacked giữa năm của Samsung đang tới gần. Theo loạt rò rỉ, sự kiện diễn ra ngày 22/7/2026 tại London, nơi Samsung dự kiến trình làng thế hệ điện thoại gập mới gồm Galaxy Z Fold 8, bản Z Fold 8 Wide rộng hơn và Z Flip 8, cùng Galaxy Watch 9 và cặp kính thông minh Galaxy Glasses. Tất cả vẫn là tin đồn cho tới khi Samsung chốt lịch chính thức."
@@ -64,7 +65,7 @@ Bên cạnh điện thoại, sự kiện dự kiến giới thiệu đồng hồ
 
 <div class="art-video-label">VIDEO · Rò rỉ Galaxy Z Fold 8 và Unpacked 2026</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/Fp-f-GzgpU0" title="Rò rỉ Samsung Galaxy Z Fold 8 Unpacked 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/hox3NR6Qv4s" title="Rò rỉ Samsung Galaxy Z Fold 8 Unpacked 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Tổng hợp rò rỉ sản phẩm và thời điểm Unpacked 2026. Nguồn: YouTube</p>
 
@@ -84,6 +85,30 @@ Về cấu hình, dòng Z Fold 8 được cho là dùng chip Snapdragon 8 Elite 
 Giá khởi điểm bản Fold được đồn giữ quanh mức 1.999 USD, tương đương đời trước. Samsung thường đưa dòng gập về Việt Nam khá nhanh sau Unpacked, kèm các chương trình đặt trước hấp dẫn. Giá bán chính thức tại Việt Nam sẽ được công bố tại hoặc ngay sau sự kiện.
 
 Người quan tâm có thể theo dõi diễn biến sự kiện tại trang [Sự kiện Galaxy Unpacked 2026](/su-kien/samsung-galaxy-unpacked-2026.html) của LongTechVision. Trước khi đặt cọc hay nâng cấp, nên chờ thông số và giá chính thức, vì mọi thông tin hiện tại vẫn là tin đồn.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/S4s2w4WAcqw/maxresdefault.jpg" alt="Rò rỉ cấu hình và thiết kế Samsung Galaxy Z Fold 8" loading="lazy" width="1280" height="720">
+  <figcaption>Z Fold 8 được đồn dùng Snapdragon 8 Elite Gen 5 và pin lớn hơn. Nguồn: YouTube</figcaption>
+</figure>
+
+## Galaxy Watch 9 và Galaxy Glasses có gì đáng chú ý?
+
+Bên cạnh điện thoại gập, hai sản phẩm đeo được nhắc tới nhiều là Galaxy Watch 9 và kính thông minh Galaxy Glasses. Galaxy Watch 9 dự kiến tiếp tục nâng cấp cảm biến sức khỏe và thời lượng pin, đồng thời tích hợp sâu hơn các tính năng Galaxy AI để phân tích giấc ngủ, vận động và nhắc nhở chủ động. Đây là mảng Samsung đang đầu tư mạnh nhằm giữ chân người dùng trong hệ sinh thái.
+
+Galaxy Glasses mới là ẩn số thú vị nhất. Trong bối cảnh kính AI nóng trở lại với sự tham gia của nhiều ông lớn, một cặp kính thông minh của Samsung kết hợp trợ lý AI, camera và hiển thị thông tin có thể mở ra hướng thiết bị đeo hoàn toàn mới. Nếu Samsung thực sự ra mắt Galaxy Glasses tại sự kiện, đây sẽ là tâm điểm được giới công nghệ mổ xẻ, dù mức độ hoàn thiện và giá bán vẫn là dấu hỏi lớn ở thời điểm hiện tại.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/2Pw8abzJES4/maxresdefault.jpg" alt="Rò rỉ Samsung Galaxy Z Fold 8 Wide và hệ sinh thái thiết bị" loading="lazy" width="1280" height="720">
+  <figcaption>Samsung mở rộng hệ sinh thái với đồng hồ và kính thông minh. Nguồn: YouTube</figcaption>
+</figure>
+
+## Galaxy Unpacked nói gì về hướng đi của Samsung?
+
+Nhìn tổng thể, kỳ Unpacked này cho thấy Samsung đang đi theo hai hướng song song. Một là làm sâu dòng gập với việc tách nhánh thiết kế qua bản Z Fold 8 Wide, thay vì chỉ chạy đua mỏng nhẹ như mọi năm. Hai là mở rộng hệ sinh thái thiết bị đeo, từ đồng hồ tới kính thông minh, để tạo trải nghiệm liền mạch giữa các sản phẩm và giữ người dùng gắn bó lâu dài.
+
+Với người dùng Việt Nam, dòng gập của Samsung luôn có sức hút riêng nhờ thương hiệu và mạng lưới bảo hành rộng. Tuy nhiên mức giá khởi điểm gần 2.000 USD đặt các máy này vào nhóm cao cấp, nên người mua cần cân nhắc nhu cầu thực tế. Ai thích trải nghiệm màn lớn gập mở và sẵn sàng chi trả sẽ chờ đợi, còn người dùng phổ thông có thể tham khảo thêm các flagship thanh khác để so sánh giá trị trước khi quyết định.
+
+Tóm lại, Galaxy Unpacked 22/7 hứa hẹn là một trong những sự kiện di động đáng chú ý nhất nửa cuối năm, với điểm nhấn là dòng gập đa dạng hơn và bước tiến vào mảng kính thông minh. Người quan tâm nên chờ thông số cùng giá chính thức từ Samsung, đồng thời theo dõi các đánh giá thực tế sau sự kiện để đánh giá đúng giá trị trước khi xuống tiền, thay vì chỉ dựa vào tin đồn ở giai đoạn này.
 
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Ngày tổ chức, danh sách sản phẩm, cấu hình và giá trong bài đều là tin đồn, chưa được Samsung xác nhận chính thức. LongTechVision sẽ cập nhật khi Samsung phát thư mời và công bố tại Galaxy Unpacked.

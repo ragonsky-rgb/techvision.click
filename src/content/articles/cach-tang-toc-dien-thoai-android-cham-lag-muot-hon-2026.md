@@ -4,6 +4,7 @@ title: "Cách tăng tốc điện thoại Android bị chậm, lag: 9 mẹo khô
 description: "Điện thoại Android chậm, giật lag sau thời gian dùng? 9 mẹo tăng tốc đơn giản: dọn bộ nhớ, gỡ app thừa, giảm hiệu ứng, chặn app chạy nền, cập nhật hệ thống"
 keywords: "tăng tốc điện thoại Android, điện thoại Android bị lag, cách làm điện thoại mượt hơn, dọn bộ nhớ Android, điện thoại chậm phải làm sao, tắt hiệu ứng Android, Android giật lag"
 category: "Smartphone"
+type: "cam-nang"
 datePublished: "2026-06-19T20:00:00+07:00"
 dateModified: "2026-06-19T20:00:00+07:00"
 deck: "Sau một thời gian sử dụng, hầu hết điện thoại Android đều chậm dần: vuốt không mượt, mở ứng dụng lâu, đa nhiệm hay khựng. Phần lớn nguyên nhân đến từ bộ nhớ đầy, ứng dụng chạy nền và dữ liệu rác tích tụ. Chín mẹo dưới đây giúp máy chạy nhanh và mượt hơn rõ rệt, đa phần không cần cài thêm ứng dụng nào."

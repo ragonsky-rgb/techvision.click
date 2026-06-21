@@ -4,6 +4,7 @@ title: "Quỹ Đổi mới công nghệ quốc gia khảo sát doanh nghiệp v�
 description: "Quỹ Đổi mới công nghệ quốc gia (NATIF) khảo sát doanh nghiệp 17-30/6/2026 để lên kế hoạch tài trợ 2027: hỗ trợ lãi suất, voucher và tài trợ trực tiếp."
 keywords: "Quỹ Đổi mới công nghệ quốc gia, NATIF, hỗ trợ doanh nghiệp công nghệ, tài trợ đổi mới công nghệ, khảo sát NATIF, hỗ trợ lãi suất, voucher đổi mới sáng tạo, Bộ Khoa học và Công nghệ"
 category: "Công nghệ"
+type: "tin-tuc"
 datePublished: "2026-06-18T16:00:00+07:00"
 dateModified: "2026-06-18T16:00:00+07:00"
 deck: "Quỹ Đổi mới công nghệ quốc gia (NATIF) thuộc Bộ Khoa học và Công nghệ đang mở khảo sát nhu cầu của các tổ chức và doanh nghiệp từ ngày 17 tới 30/6/2026. Kết quả khảo sát sẽ là cơ sở để quỹ tổng hợp nhu cầu thực tiễn và đề xuất kế hoạch tài trợ, hỗ trợ cho năm 2027. Với ba hình thức hỗ trợ gồm hỗ trợ lãi suất, voucher và tài trợ trực tiếp, đây là cơ hội đáng chú ý cho doanh nghiệp công nghệ đang cần vốn để đổi mới."

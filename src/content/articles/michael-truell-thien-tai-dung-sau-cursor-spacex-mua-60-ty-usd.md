@@ -4,6 +4,7 @@ title: "Michael Truell: thiên tài 25 tuổi đứng sau Cursor được SpaceX
 description: "Chân dung Michael Truell, CEO 25 tuổi bỏ học MIT sáng lập Cursor, công cụ lập trình AI vừa được SpaceX mua lại 60 tỷ USD."
 keywords: "Michael Truell, nhà sáng lập Cursor, Anysphere, Cursor AI, SpaceX mua Cursor, CEO Cursor, bỏ học MIT khởi nghiệp, công cụ lập trình AI"
 category: "AI"
+type: "tin-tuc"
 datePublished: "2026-06-21T09:00:00+07:00"
 dateModified: "2026-06-21T09:00:00+07:00"
 deck: "Đằng sau thương vụ 60 tỷ USD chấn động làng công nghệ là một chàng trai 25 tuổi từng bỏ học sau một năm tại MIT. Michael Truell, đồng sáng lập kiêm CEO của Cursor, đã biến một trình soạn thảo mã thành công cụ AI tăng trưởng nhanh bậc nhất lịch sử, và nay sắp về tay đế chế của Elon Musk. Đây là chân dung người trẻ đứng sau hiện tượng đó."

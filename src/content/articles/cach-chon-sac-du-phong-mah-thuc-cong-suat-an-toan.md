@@ -4,6 +4,7 @@ title: "Cách chọn sạc dự phòng: dung lượng thực, công suất và a
 description: "Hướng dẫn chọn sạc dự phòng đúng: vì sao dung lượng thực thấp hơn ghi trên vỏ, cách tính số lần sạc, chọn công suất sạc nhanh, số cổng, an toàn và quy định"
 keywords: "cách chọn sạc dự phòng, dung lượng thực pin dự phòng, mAh thực, sạc dự phòng sạc nhanh, pin dự phòng tốt, sạc dự phòng mang lên máy bay, sạc dự phòng an toàn"
 category: "Smartphone"
+type: "cam-nang"
 datePublished: "2026-06-20T15:00:00+07:00"
 dateModified: "2026-06-20T15:00:00+07:00"
 deck: "Sạc dự phòng 10.000mAh nhưng sạc đầy điện thoại chưa được hai lần? Đó không hẳn là hàng dởm, mà do cách tính dung lượng. Hiểu đúng về dung lượng thực, công suất và an toàn sẽ giúp bạn chọn được cục sạc dự phòng đáng tiền, hợp nhu cầu và không gặp rủi ro. Bài viết tổng hợp những tiêu chí quan trọng nhất."

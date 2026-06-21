@@ -34,6 +34,7 @@ if (existsSync(mdDir)) {
       title: fm.title || '',
       description: fm.description || fm.deck || '',
       category: fm.category || 'AI',
+      type: fm.type || 'tin-tuc',
       datePublished: fm.datePublished || null,
       image: fm.heroImage || '',
       heroAlt: fm.heroAlt || fm.title || '',
@@ -78,7 +79,7 @@ ${featured.map((a) => `        <a class="hs-item" href="${url(a)}">
       </div>
     `;
 
-const card = (a) => `      <a href="${url(a)}" class="blog-card" data-cat="${dataCat(a.category)}">
+const card = (a) => `      <a href="${url(a)}" class="blog-card" data-cat="${dataCat(a.category)}" data-type="${a.type || 'tin-tuc'}">
 ${isNew(a) ? '        <span class="new-badge">NEW</span>\n' : ''}        <div class="card-top">
           <span class="card-cat">${esc(a.category)}</span>
           <span class="card-date">${dmy(a.datePublished)}</span>

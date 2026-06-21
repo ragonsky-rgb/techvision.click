@@ -4,6 +4,7 @@ title: "Cách sao lưu dữ liệu điện thoại trước khi đổi máy ho�
 description: "Hướng dẫn sao lưu dữ liệu điện thoại trước khi đổi máy hoặc khôi phục cài đặt gốc: iCloud, iTunes, Google One, Smart Switch, chuyển trực tiếp. Checklist để"
 keywords: "sao lưu dữ liệu điện thoại, backup iPhone, sao lưu Android, chuyển dữ liệu sang máy mới, sao lưu iCloud, Google One backup, Smart Switch, reset điện thoại"
 category: "Smartphone"
+type: "cam-nang"
 datePublished: "2026-06-20T10:00:00+07:00"
 dateModified: "2026-06-20T10:00:00+07:00"
 deck: "Đổi máy mới hay khôi phục cài đặt gốc mà quên sao lưu là cách nhanh nhất để mất sạch ảnh, danh bạ và dữ liệu quan trọng. Tin tốt là cả iPhone lẫn Android đều có sẵn nhiều cách sao lưu và chuyển dữ liệu dễ dàng. Bài viết hướng dẫn từng cách kèm checklist cần làm trước khi reset để không mất gì."

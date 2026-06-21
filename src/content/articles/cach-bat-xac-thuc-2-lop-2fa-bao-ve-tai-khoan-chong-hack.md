@@ -4,6 +4,7 @@ title: "Cách bật xác thực 2 lớp (2FA) bảo vệ tài khoản khỏi hac
 description: "Hướng dẫn bật xác thực 2 lớp (2FA) cho Google, Facebook và các tài khoản quan trọng: chọn phương thức an toàn, dùng app authenticator, lưu mã dự phòng và"
 keywords: "xác thực 2 lớp, 2FA là gì, bảo mật 2 lớp Facebook, xác minh 2 bước Google, app authenticator, chống hack tài khoản, mã dự phòng, bảo vệ tài khoản"
 category: "Internet"
+type: "cam-nang"
 datePublished: "2026-06-20T12:00:00+07:00"
 dateModified: "2026-06-20T12:00:00+07:00"
 deck: "Mật khẩu mạnh thôi chưa đủ. Khi rò rỉ dữ liệu và lừa đảo ngày càng tinh vi, xác thực 2 lớp là tấm khiên quan trọng nhất giúp tài khoản an toàn ngay cả khi lộ mật khẩu. Bài viết hướng dẫn bật 2FA đúng cách cho các tài khoản quan trọng, chọn phương thức an toàn và tránh những sai lầm khiến 2FA mất tác dụng."

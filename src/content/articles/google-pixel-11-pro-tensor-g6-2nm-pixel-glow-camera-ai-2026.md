@@ -4,6 +4,7 @@ title: "Google Pixel 11 Pro lộ diện: Tensor G6 2nm, camera bar phát sáng, 
 description: "Rò rỉ Google Pixel 11 series: chip Tensor G6 trên tiến trình 2nm, camera bar RGB Pixel Glow, Night Sight Video 2.0 chạy on-device. Dự kiến ra mắt tháng 8/2026."
 keywords: "Google Pixel 11, Pixel 11 Pro, Tensor G6, Pixel 11 Pro XL, Pixel Glow, Night Sight Video, Pixel 11 ngày ra mắt, Pixel 11 giá, điện thoại Google 2026"
 category: "Smartphone"
+type: "tin-tuc"
 datePublished: "2026-06-19T16:00:00+07:00"
 dateModified: "2026-06-19T16:00:00+07:00"
 deck: "Google chưa nói gì, nhưng hàng loạt rò rỉ đã phác họa khá đầy đủ dòng Pixel 11. Tâm điểm là con chip Tensor G6 lần đầu lên tiến trình 2nm, một camera bar biết phát sáng và loạt tính năng camera AI chạy thẳng trên máy. Nếu đúng như đồn đoán, đây là bước nâng cấp đáng kể nhất của Pixel trong vài năm, đặc biệt ở hiệu năng và nhiếp ảnh tính toán."

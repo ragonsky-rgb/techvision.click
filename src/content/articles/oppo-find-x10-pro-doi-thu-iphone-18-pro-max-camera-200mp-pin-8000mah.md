@@ -4,6 +4,7 @@ title: "Oppo Find X10 Pro lộ diện: camera 200MP kép, pin 8000mAh đấu iPh
 description: "Rò rỉ Oppo Find X10 Pro: chip Dimensity 9600 2nm, camera 200MP kép Hasselblad, pin khoảng 8000mAh sạc 100W. Đối thủ đáng gờm của iPhone 18 Pro Max cuối 2026."
 keywords: "Oppo Find X10 Pro, Oppo Find X10 Pro giá bao nhiêu, Oppo Find X10 Pro vs iPhone 18 Pro Max, camera 200MP, Dimensity 9600, Oppo Find X10 Pro Việt Nam, điện thoại Oppo flagship 2026"
 category: "Smartphone"
+type: "tin-tuc"
 datePublished: "2026-06-19T10:00:00+07:00"
 dateModified: "2026-06-19T10:00:00+07:00"
 deck: "Hàng loạt rò rỉ mới hé lộ Oppo Find X10 Pro, mẫu đầu bảng được cho là vũ khí của Oppo nhắm thẳng vào iPhone 18 Pro Max nửa cuối 2026. Máy mang cấu hình gây choáng: chip Dimensity 9600 trên tiến trình 2nm, cụm camera 200MP kép hợp tác Hasselblad và viên pin lên tới khoảng 8000mAh. Toàn bộ vẫn là tin đồn chưa được Oppo xác nhận, nhưng đủ để vẽ ra một đối thủ Android nặng ký."

@@ -4,6 +4,7 @@ title: "Starlink Việt Nam: giá cước, tốc độ và ai thực sự nên d
 description: "Starlink được cấp phép thí điểm tại Việt Nam: tháng đầu khoảng 11,5 triệu, cước 2,2 triệu mỗi tháng, dịch vụ dự kiến từ giữa 2026. Ai nên dùng internet vệ tinh?"
 keywords: "Starlink Việt Nam, giá cước Starlink, internet vệ tinh, SpaceX Việt Nam, Starlink giá bao nhiêu, đăng ký Starlink, internet vệ tinh quỹ đạo thấp, Starlink Mini"
 category: "Internet"
+type: "tin-tuc"
 datePublished: "2026-06-16T11:00:00+07:00"
 dateModified: "2026-06-16T11:00:00+07:00"
 deck: "Sau khi được Cục Viễn thông cấp phép thí điểm hồi tháng 2/2026, internet vệ tinh Starlink của SpaceX đang tiến gần tới ngày cung cấp dịch vụ thương mại tại Việt Nam, dự kiến từ giữa năm nay. Mức giá tháng đầu quanh 11,5 triệu đồng và cước duy trì 2,2 triệu đồng mỗi tháng đặt ra câu hỏi thực tế: ai ở Việt Nam thực sự cần tới internet từ vệ tinh."

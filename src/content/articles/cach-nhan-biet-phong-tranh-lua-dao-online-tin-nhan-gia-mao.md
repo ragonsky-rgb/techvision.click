@@ -4,6 +4,7 @@ title: "Cách nhận biết và phòng tránh lừa đảo online, tin nhắn gi
 description: "Nhận biết các chiêu lừa đảo online phổ biến: tin nhắn giả mạo ngân hàng, giả danh công an, trúng thưởng, việc nhẹ lương cao. Dấu hiệu cảnh báo và cách phòng"
 keywords: "lừa đảo online, tin nhắn giả mạo ngân hàng, giả danh công an, cách phòng tránh lừa đảo, lừa đảo qua mạng, chiếm đoạt tài khoản, an ninh mạng, không cung cấp OTP"
 category: "Internet"
+type: "cam-nang"
 datePublished: "2026-06-20T19:00:00+07:00"
 dateModified: "2026-06-20T19:00:00+07:00"
 deck: "Lừa đảo trên mạng ngày càng tinh vi: tin nhắn giả mạo ngân hàng, cuộc gọi giả danh công an, lời mời việc nhẹ lương cao hay trúng thưởng bất ngờ. Chỉ một lần bấm nhầm link hay đọc mã OTP cho người lạ là có thể mất sạch tiền trong tài khoản. Bài viết tổng hợp các chiêu phổ biến, dấu hiệu nhận biết và cách phòng tránh để bảo vệ chính mình và người thân."

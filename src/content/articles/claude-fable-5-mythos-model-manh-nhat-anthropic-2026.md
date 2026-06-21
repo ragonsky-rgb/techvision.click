@@ -4,6 +4,7 @@ title: "Claude Fable 5 ra mắt: model mạnh nhất của Anthropic, đứng tr
 description: "Anthropic ra mắt Claude Fable 5 ngày 9/6/2026, model Mythos đầu tiên dùng công khai, mạnh hơn Opus 4.8. SWE-Bench Pro 80,3%, chạy agent lập trình nhiều ngày."
 keywords: "Claude Fable 5, Anthropic, Claude Mythos, model AI mới, Opus 4.8, SWE-Bench Pro, agentic coding, claude-fable-5, AI lập trình 2026"
 category: "AI"
+type: "tin-tuc"
 datePublished: "2026-06-09T11:00:00+07:00"
 dateModified: "2026-06-09T11:00:00+07:00"
 deck: "Anthropic vừa ra mắt Claude Fable 5, model mạnh nhất từ trước tới nay của hãng và là phiên bản dùng công khai đầu tiên của lớp Mythos, vốn đứng trên cả dòng Opus. Fable 5 nhắm tới lập trình kiểu agent và các tác vụ tự chủ kéo dài nhiều ngày, với cửa sổ ngữ cảnh 1 triệu token."

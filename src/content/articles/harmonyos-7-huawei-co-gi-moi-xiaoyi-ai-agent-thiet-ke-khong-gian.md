@@ -4,6 +4,7 @@ title: "HarmonyOS 7 của Huawei có gì mới: trợ lý Xiaoyi thành AI agent
 description: "HarmonyOS 7 ra mắt tại HDC 2026: Xiaoyi thành AI agent cấp hệ thống, thiết kế không gian 3D, hiệu năng tăng 15% và mô hình openPangu 2.0."
 keywords: "HarmonyOS 7, Huawei HarmonyOS 7, Xiaoyi AI agent, HDC 2026, thiết kế không gian HarmonyOS, openPangu 2.0, HarmonyOS có gì mới, hệ điều hành Huawei"
 category: "Smartphone"
+type: "tin-tuc"
 datePublished: "2026-06-21T10:00:00+07:00"
 dateModified: "2026-06-21T10:00:00+07:00"
 deck: "Tại Hội nghị các nhà phát triển HDC 2026, Huawei trình làng HarmonyOS 7 với tham vọng đưa AI thành lõi của hệ điều hành. Trợ lý Xiaoyi được nâng thành AI agent cấp hệ thống, giao diện chuyển sang ngôn ngữ thiết kế không gian ba chiều, kèm hàng loạt nâng cấp về hiệu năng và bảo mật. Đây là tổng hợp những gì mới đáng chú ý nhất."

@@ -4,6 +4,7 @@ title: "Cách viết prompt AI hiệu quả: công thức cho ChatGPT, Gemini v�
 description: "Hướng dẫn viết prompt AI hiệu quả với công thức vai trò, bối cảnh, nhiệm vụ và định dạng. Mẹo dùng ChatGPT, Gemini, Claude cho viết content, học tập và công"
 keywords: "cách viết prompt, prompt AI hiệu quả, prompt ChatGPT, viết prompt Gemini, công thức prompt, mẹo dùng AI, prompt là gì, kỹ năng dùng AI"
 category: "AI"
+type: "cam-nang"
 datePublished: "2026-06-20T13:00:00+07:00"
 dateModified: "2026-06-20T13:00:00+07:00"
 deck: "Cùng một công cụ AI, người biết viết prompt nhận kết quả vượt trội so với người chỉ hỏi qua loa. Prompt tốt không cần kỹ thuật cao siêu, mà cần rõ ràng và có cấu trúc. Bài viết chia sẻ công thức viết prompt hiệu quả áp dụng cho ChatGPT, Gemini, Claude và hầu hết trợ lý AI, kèm ví dụ và những lỗi nên tránh."

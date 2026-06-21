@@ -4,6 +4,7 @@ title: "Cách chọn laptop sinh viên, văn phòng 2026: 7 tiêu chí cần nh�
 description: "Kinh nghiệm chọn laptop sinh viên, văn phòng 2026: chọn theo nhu cầu, chip, RAM, ổ SSD, màn hình, pin và ngân sách. Lưu ý giá RAM tăng để chọn cấu hình vừa"
 keywords: "cách chọn laptop sinh viên, laptop văn phòng 2026, tiêu chí chọn laptop, laptop cho sinh viên nên mua, chọn cấu hình laptop, RAM SSD laptop, laptop mỏng nhẹ pin trâu"
 category: "Laptop"
+type: "cam-nang"
 datePublished: "2026-06-20T22:00:00+07:00"
 dateModified: "2026-06-20T22:00:00+07:00"
 deck: "Chọn laptop cho học tập và làm việc không nhất thiết phải đắt, mà cần đúng nhu cầu. Mua máy quá yếu sẽ ì ạch, mua quá mạnh lại lãng phí. Năm 2026, giá RAM tăng càng khiến việc cân nhắc cấu hình quan trọng hơn. Bài viết tổng hợp 7 tiêu chí cốt lõi giúp sinh viên và dân văn phòng chọn được chiếc laptop bền, đủ dùng và hợp túi tiền."

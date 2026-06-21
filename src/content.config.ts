@@ -11,6 +11,7 @@ const articles = defineCollection({
     description: z.string(),                   // meta description (120-160 chars)
     keywords: z.string(),                      // comma-separated
     category: z.string().default('AI'),        // hiển thị: AI, Apple, Smartphone, Laptop...
+    type: z.string().default('tin-tuc'),       // 'tin-tuc' hoặc 'cam-nang' (chia mục)
     datePublished: z.string(),                 // ISO, vd "2026-06-04T09:00:00+07:00"
     dateModified: z.string().optional(),
 

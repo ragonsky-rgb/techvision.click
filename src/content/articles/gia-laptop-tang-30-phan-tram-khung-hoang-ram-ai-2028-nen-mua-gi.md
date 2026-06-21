@@ -4,6 +4,7 @@ title: "Giá laptop tăng tới 30% vì RAM: khủng hoảng AI kéo dài tới 
 description: "Giá laptop tăng 15-30% vì RAM khan hiếm do AI ngốn bộ nhớ, dự báo kéo dài tới 2028. Phân tích nguyên nhân, món hời MacBook Neo và lời khuyên nên mua gì lúc này."
 keywords: "giá laptop tăng, khủng hoảng RAM, giá RAM tăng 2026, DRAM tăng giá AI, laptop tăng giá 2026, MacBook Neo giá rẻ, nên mua laptop nào, RAM DDR5 tăng giá"
 category: "Laptop"
+type: "tin-tuc"
 datePublished: "2026-06-18T18:00:00+07:00"
 dateModified: "2026-06-18T18:00:00+07:00"
 deck: "Giá laptop đang tăng mạnh trên toàn cầu, có dòng đội thêm tới 30%, và thủ phạm chính là RAM. Cơn khát bộ nhớ từ các trung tâm dữ liệu AI đã đẩy giá DRAM lên gấp nhiều lần, kéo theo giá máy tính cá nhân, và dự báo tình trạng này còn kéo dài tới năm 2028. Bài viết phân tích vì sao giá tăng, vì sao một chiếc MacBook Neo giá quanh 13 triệu trên Shopee lại thành món hời, và lời khuyên thực tế cho người đang định mua laptop."

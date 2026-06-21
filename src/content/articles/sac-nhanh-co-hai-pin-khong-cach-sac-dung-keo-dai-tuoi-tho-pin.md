@@ -4,6 +4,7 @@ title: "Sạc nhanh có hại pin không? Cách sạc đúng để pin bền lâ
 description: "Sạc nhanh có hại pin điện thoại không, có nên sạc qua đêm, có cần xả cạn 0%? Giải đáp và 8 mẹo sạc đúng cách giúp pin Li-ion bền lâu, hạn chế chai pin."
 keywords: "sạc nhanh có hại pin không, cách sạc pin đúng cách, kéo dài tuổi thọ pin, sạc qua đêm có hại không, chai pin, pin Li-ion, giới hạn sạc 80%, mẹo sạc pin"
 category: "Smartphone"
+type: "cam-nang"
 datePublished: "2026-06-19T23:00:00+07:00"
 dateModified: "2026-06-19T23:00:00+07:00"
 deck: "Sạc nhanh có làm chai pin? Có nên sạc qua đêm, có cần xả cạn rồi mới sạc? Đây là những câu hỏi gây tranh cãi nhất về pin điện thoại. Hiểu đúng cách pin Li-ion hoạt động sẽ giúp bạn dùng máy bền hơn mà không cần kiêng khem cực đoan. Bài viết tổng hợp lời giải và các mẹo sạc đúng."

@@ -4,6 +4,7 @@ title: "AI Agent tự động hóa máy tính: bắt đầu với CrewAI và Aut
 description: "AI Agent là gì, khác chatbot ra sao? Cách bắt đầu tự động hóa máy tính với CrewAI và AutoGen: agent tự chia task, research, viết báo cáo và cần chuẩn bị gì."
 keywords: "AI Agent, tự động hóa máy tính, CrewAI, AutoGen, AI agent là gì, multi-agent, agentic AI, framework AI agent, agent tự động"
 category: "AI"
+type: "tin-tuc"
 datePublished: "2026-06-18T14:00:00+07:00"
 dateModified: "2026-06-18T14:00:00+07:00"
 deck: "Năm 2026 đánh dấu bước dịch chuyển lớn của AI, từ những chatbot chỉ trả lời câu hỏi sang các AI Agent biết tự lập kế hoạch và hành động trên máy tính. Thay vì hỏi đáp từng câu, bạn giao cho agent một mục tiêu rồi để nó tự chia việc, tự research, tự viết code và trả về kết quả hoàn chỉnh. Bài viết giải thích AI Agent là gì, điểm mặt các framework mạnh như CrewAI và AutoGen, và hướng dẫn những thứ cần chuẩn bị để bắt đầu tự động hóa."

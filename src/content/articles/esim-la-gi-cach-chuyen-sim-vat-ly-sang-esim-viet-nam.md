@@ -4,6 +4,7 @@ title: "eSIM là gì? Cách chuyển SIM vật lý sang eSIM tại nhà ở Vi�
 description: "eSIM là gì, ưu nhược điểm so với SIM thường, điện thoại nào hỗ trợ và cách chuyển SIM vật lý sang eSIM ngay tại nhà qua app nhà mạng Việt Nam. Hướng dẫn dễ"
 keywords: "eSIM là gì, cách chuyển eSIM, đổi sim sang esim, eSIM Viettel, eSIM Vinaphone, eSIM Mobifone, điện thoại hỗ trợ eSIM, kích hoạt eSIM iPhone"
 category: "Viễn thông"
+type: "cam-nang"
 datePublished: "2026-06-19T21:00:00+07:00"
 dateModified: "2026-06-19T21:00:00+07:00"
 deck: "eSIM đang dần thay thế chiếc SIM nhựa quen thuộc: gọn hơn, dễ dùng hai số một máy và đặc biệt tiện khi đi nước ngoài. Tại Việt Nam, các nhà mạng lớn đều đã hỗ trợ chuyển sang eSIM ngay tại nhà qua ứng dụng, không cần ra cửa hàng. Bài viết giải thích eSIM là gì, máy nào dùng được và cách chuyển đổi an toàn."

@@ -4,6 +4,7 @@ title: "Chuẩn kháng nước IP68, IP67, IP69 là gì? Điện thoại có ch�
 description: "Giải thích chuẩn kháng nước IP67, IP68, IP69 và IPX4 trên điện thoại: ý nghĩa từng con số, khác biệt kháng nước và chống nước, và những lưu ý để không làm"
 keywords: "chuẩn kháng nước IP68, IP67 là gì, IP69, IPX4, điện thoại chống nước, kháng nước smartphone, IP rating, điện thoại vào nước"
 category: "Smartphone"
+type: "cam-nang"
 datePublished: "2026-06-20T17:00:00+07:00"
 dateModified: "2026-06-20T17:00:00+07:00"
 deck: "IP67, IP68, IP69: các con số kháng nước xuất hiện trên hầu hết điện thoại đời mới khiến nhiều người yên tâm mang máy ra mưa hay xuống hồ bơi. Nhưng kháng nước không đồng nghĩa với chống nước tuyệt đối, và hiểu sai có thể khiến máy hỏng oan mà không được bảo hành. Bài viết giải thích ý nghĩa từng chuẩn và những lưu ý quan trọng."
