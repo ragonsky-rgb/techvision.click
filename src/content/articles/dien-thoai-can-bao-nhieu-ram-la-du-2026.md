@@ -65,7 +65,7 @@ Quan trọng là cách mỗi hệ điều hành dùng RAM rất khác nhau. iOS 
 
 <div class="art-video-label">VIDEO · So sánh RAM 8GB và 12GB thực tế</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/uKnActQI2Ko" title="So sánh RAM 8GB vs 12GB trên điện thoại" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/TG9J7oucd-M" title="So sánh RAM 8GB vs 12GB trên điện thoại" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Test thực tế đa nhiệm và chơi game giữa máy RAM 8GB và 12GB. Nguồn: YouTube</p>
 
@@ -80,11 +80,35 @@ Mức 12 tới 16GB phù hợp với máy đầu bảng, người dùng nặng v
   <figcaption>Với đa số người dùng, 8 tới 12GB RAM đã dư dùng. Nguồn: YouTube</figcaption>
 </figure>
 
+## RAM nhiều có ảnh hưởng tới pin và độ bền máy không?
+
+Một hiểu lầm phổ biến là RAM càng lớn thì pin càng tốt. Thực tế RAM lớn chỉ giúp giữ ứng dụng trong nền lâu hơn, hạn chế việc tải lại, chứ bản thân dung lượng RAM không tự kéo dài thời lượng pin. Thời lượng sử dụng phụ thuộc nhiều hơn vào dung lượng pin, hiệu suất của chip xử lý và mức độ tối ưu của phần mềm. Một số trường hợp RAM lớn còn tiêu thụ thêm điện năng ở chế độ chờ, dù mức chênh lệch rất nhỏ và khó nhận ra trong sử dụng hằng ngày.
+
+Về độ bền theo thời gian, RAM dư một chút sẽ giúp máy dùng được lâu hơn trước khi cảm thấy chậm, bởi các phiên bản hệ điều hành và ứng dụng mới thường tiêu tốn bộ nhớ nhiều hơn theo từng năm. Đây là lý do người có ý định giữ máy bốn tới năm năm nên cân nhắc mức RAM nhỉnh hơn nhu cầu hiện tại một bậc, thay vì chọn đúng mức tối thiểu vừa đủ ở thời điểm mua.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/Mbq5LfxfQNA/maxresdefault.jpg" alt="Điện thoại RAM 12GB chơi game có mượt hơn 8GB không" loading="lazy" width="1280" height="720">
+  <figcaption>RAM lớn giúp giữ game trong nền, nhưng độ mượt còn phụ thuộc chip và tối ưu. Nguồn: YouTube</figcaption>
+</figure>
+
+## Cách kiểm tra mức RAM máy thực sự dùng
+
+Trước khi quyết định lên bản RAM cao hơn, nên quan sát cách máy hiện tại sử dụng bộ nhớ. Trên Android, mục thông tin nhà phát triển có phần thống kê bộ nhớ, cho biết trung bình máy dùng bao nhiêu RAM và còn trống bao nhiêu trong vài giờ qua. Nếu máy thường xuyên còn trống vài GB ngay cả khi mở nhiều ứng dụng, việc nâng lên mức RAM cao hơn sẽ ít mang lại khác biệt thực tế.
+
+Trên iPhone, hệ thống không hiển thị mức RAM cho người dùng phổ thông vì iOS quản lý bộ nhớ tự động. Dấu hiệu dễ nhận biết là khi chuyển nhanh giữa nhiều ứng dụng nặng mà chúng phải tải lại từ đầu, đó là lúc bộ nhớ đang thiếu. Tuy nhiên với cách tối ưu của iOS, hiện tượng này hiếm xảy ra ở các đời iPhone gần đây, kể cả bản có dung lượng RAM thấp hơn máy Android cùng phân khúc.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/JGlwmrNxw-0/maxresdefault.jpg" alt="RAM nhiều có hiệu quả không, bao nhiêu RAM là đủ" loading="lazy" width="1280" height="720">
+  <figcaption>Quan sát mức RAM máy thực dùng giúp chọn cấu hình hợp lý hơn. Nguồn: YouTube</figcaption>
+</figure>
+
 ## RAM ảo và lời khuyên khi giá RAM tăng
 
 Nhiều máy Android quảng cáo tính năng RAM ảo hay RAM mở rộng, lấy một phần bộ nhớ lưu trữ làm RAM tạm. Tính năng này giúp giữ thêm vài ứng dụng trong nền, nhưng tốc độ bộ nhớ lưu trữ chậm hơn RAM thật rất nhiều, nên chỉ hỗ trợ nhẹ chứ không thay thế được RAM vật lý. Đừng coi RAM ảo là lý do chính để chọn máy.
 
 Trong bối cảnh giá RAM đang tăng mạnh và kéo giá điện thoại lẫn laptop đi lên, lời khuyên thực tế là chọn mức RAM vừa đủ nhu cầu thay vì cố mua bản cao nhất. Khoản chênh lệch cho bản RAM lớn có thể đáng kể, trong khi phần lớn người dùng không khai thác hết. Hãy ưu tiên ngân sách cho chip, pin và chất lượng màn hình, vốn ảnh hưởng tới trải nghiệm hằng ngày rõ hơn con số RAM.
+
+Một điểm nữa cần lưu ý là khả năng tối ưu phần mềm của từng hãng. Hai máy cùng dung lượng RAM nhưng chạy hệ điều hành tối ưu khác nhau có thể cho cảm giác mượt rất khác. Vì vậy, ngoài con số RAM, nên tham khảo đánh giá thực tế về độ ổn định đa nhiệm của từng dòng máy trước khi mua, thay vì chỉ so sánh thông số trên giấy.
 
 <div class="art-callout">
   ✅ <strong>Tóm lại:</strong> Đừng chạy theo con số RAM lớn nhất. Xác định đúng nhu cầu, chọn mức vừa đủ, và dành tiền cho những yếu tố ảnh hưởng trực tiếp tới trải nghiệm như chip, pin và màn hình.

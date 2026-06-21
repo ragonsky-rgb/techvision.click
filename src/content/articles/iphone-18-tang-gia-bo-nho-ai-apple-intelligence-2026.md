@@ -98,7 +98,13 @@ Về thời điểm mua, người đang dùng iPhone đời cũ và cần máy g
   <figcaption>Cân nhắc nhu cầu thực và dung lượng cần mua trước khi chọn iPhone 18. Nguồn: YouTube</figcaption>
 </figure>
 
-Một lưu ý về dung lượng: khi chi phí bộ nhớ tăng, khoảng cách giá giữa các mức dung lượng cũng có thể nới rộng. Nếu bạn lưu nhiều ảnh, video hoặc chạy nhiều ứng dụng nặng, nên cân nhắc chọn bản dung lượng phù hợp ngay từ đầu, vì nâng cấp về sau bằng cách đổi máy sẽ ngày càng đắt. Ngược lại, với người dùng phổ thông, bản dung lượng nền cùng 12GB RAM đã đủ cho cả nhu cầu thường ngày lẫn các tính năng AI cơ bản.
+Một lưu ý về dung lượng: khi chi phí bộ nhớ tăng, khoảng cách giá giữa các mức dung lượng cũng có thể nới rộng. Người dùng lưu nhiều ảnh, video hoặc chạy nhiều ứng dụng nặng nên cân nhắc chọn bản dung lượng phù hợp ngay từ đầu, vì nâng cấp về sau bằng cách đổi máy sẽ ngày càng đắt. Ngược lại, với người dùng phổ thông, bản dung lượng nền cùng 12GB RAM đã đủ cho cả nhu cầu thường ngày lẫn các tính năng AI cơ bản.
+
+## Bối cảnh chuỗi cung ứng và triển vọng giá năm 2027
+
+Để hiểu vì sao iPhone 18 khó tránh khỏi sức ép giá, cần nhìn vào bức tranh chuỗi cung ứng bộ nhớ toàn cầu. Ba nhà sản xuất DRAM lớn nhất thế giới đang ưu tiên các đơn hàng trung tâm dữ liệu vì lợi nhuận trên mỗi chip cao hơn nhiều so với chip dành cho thiết bị di động. Hệ quả là các hãng điện thoại, kể cả Apple với sức mua khổng lồ, cũng phải cạnh tranh gay gắt để bảo đảm nguồn cung và chấp nhận đơn giá cao hơn so với các chu kỳ trước.
+
+Triển vọng hạ nhiệt giá trong ngắn hạn không sáng sủa. Các phân tích chuỗi cung ứng cho rằng tình trạng căng thẳng nguồn cung bộ nhớ có thể kéo dài tới năm 2027 hoặc 2028, khi năng lực sản xuất mới đi vào hoạt động ổn định. Trong giai đoạn này, người dùng nên xác định tâm lý rằng giá thiết bị công nghệ cao cấp khó quay lại mức cũ, và việc lập kế hoạch mua sắm theo nhu cầu thực tế thay vì chạy theo từng đời máy mới sẽ giúp tối ưu chi tiêu. Đối với thị trường Việt Nam, nơi giá iPhone luôn nằm trong nhóm cao so với thu nhập trung bình, xu hướng này càng củng cố vai trò của các kênh mua máy cũ chính hãng và chương trình thu cũ đổi mới.
 
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Apple chưa công bố giá iPhone 18 chính thức. Con số 12GB RAM và mức tăng 270 USD là tin đồn và ước tính của hãng phân tích. Phát biểu về sức ép tăng giá khó tránh là của lãnh đạo Apple, không phải bảng giá sản phẩm. LongTechVision sẽ cập nhật khi Apple ra mắt iPhone 18.

@@ -65,7 +65,7 @@ Lợi thế lớn nhất của nền tảng ARM vẫn là thời lượng pin v�
 
 <div class="art-video-label">VIDEO · Benchmark Snapdragon X2 Elite trên laptop 2026</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/rSgo-kDQ6Og" title="Benchmark Snapdragon X2 Elite laptop 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/hlGrDZfeheA" title="Benchmark Snapdragon X2 Elite laptop 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Đo hiệu năng và thử nghiệm thực tế chip Snapdragon X2 Elite. Nguồn: YouTube</p>
 
@@ -78,6 +78,28 @@ Không chỉ Microsoft, Lenovo giới thiệu Yoga Slim 7x với bản X2 Elite 
 <figure>
   <img src="https://i.ytimg.com/vi/gkEiRcxA2kM/maxresdefault.jpg" alt="Đánh giá hiệu năng chip Snapdragon X2 Elite trên laptop" loading="lazy" width="1280" height="720">
   <figcaption>Snapdragon X2 Elite gây ấn tượng về hiệu năng lẫn thời lượng pin. Nguồn: YouTube</figcaption>
+</figure>
+
+## NPU 80 TOPS dùng để làm gì trong thực tế?
+
+Con số 80 TOPS của NPU thường bị xem là thông số marketing, nhưng nó có ý nghĩa thực tế với trải nghiệm Windows AI. Microsoft đặt ngưỡng 40 TOPS để một máy được gắn nhãn Copilot+ PC, mở khóa các tính năng như Recall ghi nhớ hoạt động, Live Captions dịch phụ đề thời gian thực, Cocreator tạo ảnh trong Paint và các bộ lọc camera xử lý ngay trên máy. Với 80 TOPS, X2 Elite có dư địa chạy đồng thời nhiều mô hình AI mà không làm chậm tác vụ chính.
+
+Lợi thế của việc xử lý AI cục bộ là dữ liệu không phải rời khỏi máy, giảm độ trễ và bảo vệ quyền riêng tư tốt hơn so với xử lý trên đám mây. Khi các mô hình ngôn ngữ nhỏ chạy trực tiếp trên thiết bị ngày càng phổ biến, một NPU mạnh sẽ là yếu tố giúp laptop dùng được lâu hơn trước khi lỗi thời về khả năng AI. Đây cũng là điểm Qualcomm nhấn mạnh để cạnh tranh với chip Intel Core Ultra và AMD Ryzen AI cùng phân khúc.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/Qu76JY0RjU4/maxresdefault.jpg" alt="Snapdragon X2 Elite so sánh hiệu năng với MacBook" loading="lazy" width="1280" height="720">
+  <figcaption>X2 Elite được so sánh trực tiếp với chip Apple Silicon về hiệu năng. Nguồn: YouTube</figcaption>
+</figure>
+
+## So sánh với chip Apple Silicon và Intel
+
+Trong nhóm chip ARM cho laptop, đối thủ trực tiếp của Snapdragon X2 Elite vẫn là dòng Apple Silicon trên MacBook. Apple có lợi thế về tối ưu phần mềm khép kín và hệ sinh thái ứng dụng native phong phú, trong khi Qualcomm phải dựa vào nền tảng Windows vốn vẫn còn nhiều ứng dụng x86. Tuy nhiên, ở các bài đo hiệu năng đa nhân, X2 Elite bản cao đã thu hẹp đáng kể khoảng cách và thậm chí vượt một số cấu hình MacBook Air ở tác vụ nặng.
+
+So với chip x86 truyền thống của Intel và AMD, ưu thế của X2 Elite nằm ở thời lượng pin và nhiệt độ thấp khi tải nhẹ, đổi lại là rủi ro tương thích phần mềm. Người dùng cần cân nhắc giữa hai nhóm ưu tiên: nếu coi trọng pin và độ mát thì nền ARM hấp dẫn hơn, còn nếu cần chạy mọi phần mềm chuyên dụng không gặp trở ngại thì nền x86 vẫn an toàn hơn ở thời điểm hiện tại.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/efXmm7aeGO4/maxresdefault.jpg" alt="Qualcomm Snapdragon X2 Elite 18 nhân 5GHz 80 TOPS" loading="lazy" width="1280" height="720">
+  <figcaption>X2 Elite với 18 nhân, xung tới 5GHz và NPU 80 TOPS. Nguồn: YouTube</figcaption>
 </figure>
 
 ## Điểm cần cân nhắc: tương thích phần mềm

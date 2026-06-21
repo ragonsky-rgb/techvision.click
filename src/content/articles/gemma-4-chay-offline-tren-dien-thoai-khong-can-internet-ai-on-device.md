@@ -108,6 +108,12 @@ Với hỗ trợ tiếng Việt sẵn có, Gemma 4 mở ra nhiều ứng dụng 
 
 Lợi ích này rõ nhất khi đi vùng sóng yếu, ra nước ngoài hay dùng gói data hạn chế. Với người lo ngại lộ thông tin, việc dữ liệu không rời thiết bị là điểm cộng lớn. Doanh nghiệp nhỏ cũng có thể dựng chatbot nội bộ chạy cục bộ để bảo mật, không phụ thuộc dịch vụ đám mây. Đây là hướng đi bổ sung cho các trợ lý đám mây như [Google Gemini Spark](/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html), phục vụ những tình huống cần offline và riêng tư.
 
+## Cấu hình thiết bị và những điều cần lưu ý
+
+Dù Gemma 4 được thiết kế để chạy trên thiết bị phổ thông, trải nghiệm thực tế vẫn phụ thuộc nhiều vào phần cứng. Bản nhỏ E2B với dung lượng khoảng 1GB phù hợp với phần lớn điện thoại tầm trung đời mới, trong khi các bản lớn hơn như E4B đòi hỏi nhiều RAM và chip mạnh hơn để giữ tốc độ phản hồi ổn định. Trên các máy cấu hình thấp, người dùng có thể gặp tình trạng phản hồi chậm hơn hoặc thiết bị nóng lên khi xử lý liên tục, nên việc chọn đúng bản model theo cấu hình máy là yếu tố quan trọng.
+
+Ngoài ra, vì model chạy cục bộ không tự cập nhật như dịch vụ đám mây, người dùng cần chủ động tải bản mới khi Google phát hành cải tiến. Khả năng đa ngôn ngữ với tiếng Việt nằm trong nhóm hỗ trợ sẵn là lợi thế lớn cho thị trường trong nước, song chất lượng đầu ra với các tác vụ chuyên sâu vẫn nên được kiểm chứng trước khi dùng cho công việc quan trọng. Việc AI mã nguồn mở chạy ngoại tuyến trở nên phổ biến cũng đặt ra yêu cầu mới về kỹ năng số, khi người dùng dần quen với việc tự quản lý và lựa chọn công cụ AI ngay trên thiết bị cá nhân.
+
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Một số con số kỹ thuật như mức RAM cụ thể và tốc độ phản hồi đến từ thử nghiệm cộng đồng và có thể thay đổi theo thiết bị. Người dùng nên xem model card chính thức của Google để nắm thông số và điều khoản giấy phép chuẩn xác nhất.
 </div>

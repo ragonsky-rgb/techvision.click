@@ -65,7 +65,7 @@ Ngược lại, màn OLED có các điểm ảnh tự phát sáng độc lập. 
 
 <div class="art-video-label">VIDEO · Các loại màn hình điện thoại được giải thích</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/bCQ8SnX4EsU" title="Các loại màn hình điện thoại LCD OLED AMOLED LTPO" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/h9MnXNDbHVM" title="Các loại màn hình điện thoại LCD OLED AMOLED LTPO" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Tổng quan các công nghệ màn hình từ LCD tới LTPO. Nguồn: YouTube</p>
 
@@ -79,6 +79,28 @@ LTPO là một bước tiến của OLED cao cấp. Công nghệ này cho phép 
   <img src="https://i.ytimg.com/vi/e5njdxHfB7M/maxresdefault.jpg" alt="So sánh trực tiếp màn hình AMOLED và LCD" loading="lazy" width="1280" height="720">
   <figcaption>AMOLED cho màu đen sâu và tương phản cao hơn LCD. Nguồn: YouTube</figcaption>
 </figure>
+
+<figure>
+  <img src="https://i.ytimg.com/vi/DgEFVwN3YTY/maxresdefault.jpg" alt="So sánh ưu nhược điểm OLED và LCD trên điện thoại" loading="lazy" width="1280" height="720">
+  <figcaption>OLED không phải lúc nào cũng vượt trội tuyệt đối so với LCD. Nguồn: YouTube</figcaption>
+</figure>
+
+## Độ sáng, tần số quét và những thông số đi kèm
+
+Tên gọi loại màn chỉ là một phần câu chuyện. Hai chiếc máy cùng dùng AMOLED vẫn có thể cho trải nghiệm khác xa nhau vì khác biệt ở độ sáng tối đa, tần số quét và độ phân giải. Độ sáng đo bằng đơn vị nit quyết định khả năng nhìn rõ ngoài trời nắng gắt. Các flagship hiện nay thường công bố độ sáng đỉnh vài nghìn nit ở chế độ HDR, trong khi máy phổ thông chỉ đạt vài trăm nit, dẫn tới việc đọc nội dung ngoài trời chênh lệch rõ rệt dù hai máy cùng là OLED.
+
+Tần số quét, tính bằng Hz, cho biết màn cập nhật hình ảnh bao nhiêu lần mỗi giây. Màn 60Hz là mức cơ bản, còn 90Hz, 120Hz hay 144Hz cho cảm giác cuộn trang và chơi game mượt hơn hẳn. Đây cũng là nơi LTPO phát huy giá trị, khi hạ tần số quét xuống mức rất thấp lúc hiển thị tĩnh để tiết kiệm pin. Độ phân giải và mật độ điểm ảnh, đo bằng ppi, ảnh hưởng tới độ sắc nét, đặc biệt quan trọng với màn lớn hoặc khi dùng kính thực tế ảo. Khi đọc thông số, nên xem các con số này cùng nhau thay vì chỉ nhìn tên công nghệ.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/jbjiO9GKNyo/maxresdefault.jpg" alt="Thử nghiệm AMOLED tiết kiệm pin hơn IPS LCD" loading="lazy" width="1280" height="720">
+  <figcaption>AMOLED tiết kiệm pin hơn khi hiển thị nền tối nhờ điểm ảnh tắt hẳn. Nguồn: YouTube</figcaption>
+</figure>
+
+## Vì sao AMOLED tiết kiệm pin ở giao diện tối
+
+Một thế mạnh thực tế của OLED và AMOLED là tiết kiệm điện khi hiển thị nội dung tối. Vì mỗi điểm ảnh tự phát sáng, khi cần màu đen điểm ảnh tắt hẳn và gần như không tiêu thụ điện. Ngược lại, màn LCD luôn phải bật đèn nền toàn khung dù hiển thị nền đen, nên không tiết kiệm được theo cách này. Đây là lý do chế độ nền tối trên máy OLED giúp kéo dài thời lượng pin, còn trên máy LCD thì lợi ích chủ yếu là dễ chịu cho mắt chứ không tiết kiệm điện nhiều.
+
+Hiểu điều này giúp người dùng tận dụng phần cứng đúng cách. Trên máy OLED, bật giao diện tối toàn hệ thống và chọn hình nền tối có thể giảm lượng điện màn hình tiêu thụ, vốn là thành phần ngốn pin lớn nhất. Tuy nhiên, lợi ích còn phụ thuộc vào độ sáng và tỷ lệ vùng tối trên màn hình, nên đừng kỳ vọng con số quá lớn. Khi cân nhắc giữa thời lượng pin và chất lượng hiển thị, có thể tham khảo thêm các yếu tố cấu hình khác trong bài [điện thoại cần bao nhiêu RAM là đủ](/articles/dien-thoai-can-bao-nhieu-ram-la-du-2026.html) để có cái nhìn tổng thể trước khi chọn máy.
 
 ## Nhược điểm của OLED cần biết
 
