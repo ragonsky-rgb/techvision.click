@@ -1,7 +1,7 @@
 ---
 slug: "pinterest-ask-pinterest-ung-dung-ai-hoi-dap-tim-kiem-2026"
 title: "Pinterest ra mắt Ask Pinterest: tìm kiếm bằng hội thoại AI thay vì ảnh"
-description: "Pinterest giới thiệu Ask Pinterest, ứng dụng thử nghiệm dùng AI hội thoại để khám phá sản phẩm bằng ngôn ngữ tự nhiên thay vì tìm theo ảnh"
+description: "Pinterest vừa giới thiệu Ask Pinterest, một ứng dụng thử nghiệm độc lập chuyển cách khám phá sản phẩm từ tìm kiếm bằng hình ảnh sang trò chuyện bằng ngôn ngữ."
 keywords: "Ask Pinterest, Pinterest AI, tìm kiếm hội thoại, Pinterest ứng dụng mới, AI khám phá sản phẩm, Taste Graph, Pinterest 2026"
 category: "AI"
 type: "tin-tuc"
@@ -76,7 +76,7 @@ Yếu tố giúp Ask Pinterest khác biệt là kho dữ liệu sở thích Tast
 Lợi thế dữ liệu là điều khó sao chép, và Pinterest đang tận dụng nó như một điểm khác biệt cạnh tranh. Trong khi nhiều công cụ AI mạnh về ngôn ngữ nhưng thiếu hiểu biết sâu về sở thích trực quan của người dùng, Pinterest có cả hai. Sự kết hợp giữa khả năng hội thoại của AI và chiều sâu dữ liệu sở thích có thể tạo ra trải nghiệm khám phá sản phẩm vừa tự nhiên vừa đúng gu, đặc biệt trong các lĩnh vực như thời trang, trang trí và phong cách sống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/nSMNDEGHjyY/maxresdefault.jpg" alt="Công cụ AI mới trên Pinterest hỗ trợ khám phá sản phẩm" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/nSMNDEGHjyY/hqdefault.jpg" alt="Công cụ AI mới trên Pinterest hỗ trợ khám phá sản phẩm" loading="lazy" width="1280" height="720">
   <figcaption>Pinterest kết hợp AI hội thoại với kho dữ liệu sở thích người dùng. Nguồn: YouTube</figcaption>
 </figure>
 

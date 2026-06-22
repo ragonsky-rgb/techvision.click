@@ -1,7 +1,7 @@
 ---
 slug: "usb-c-la-gi-chuan-cap-sac-nhanh-pd-phan-biet-day-cap-2026"
 title: "USB-C là gì? Hiểu chuẩn sạc nhanh PD và cách phân biệt dây cáp 2026"
-description: "USB-C là gì, vì sao cùng cổng nhưng cáp lại khác nhau? Giải thích chuẩn sạc nhanh PD, PPS, tốc độ truyền dữ liệu và cách chọn dây cáp USB-C đúng nhu cầu"
+description: "USB-C đã trở thành cổng kết nối chung trên điện thoại, laptop và phụ kiện, nhưng cùng một hình dáng cổng lại ẩn chứa nhiều khả năng rất khác nhau."
 keywords: "USB-C là gì, chuẩn sạc nhanh PD, PPS là gì, phân biệt cáp USB-C, cáp sạc nhanh, USB-C xuất hình, chọn dây cáp USB-C, Thunderbolt USB-C"
 category: "Công nghệ"
 type: "cam-nang"

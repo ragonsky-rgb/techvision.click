@@ -1,7 +1,7 @@
 ---
 slug: "snap-specs-kinh-ar-2026-ra-mat-gia-2195-usd-doi-thu-apple-vision-pro"
 title: "Snap ra mắt kính AR Specs giá 2.195 USD: đối thủ mới của Apple Vision Pro"
-description: "Snap ra mắt kính thực tế tăng cường Specs tại AWE 2026, giá 2.195 USD, kính nhìn xuyên tích hợp AI. Hỗ trợ app dùng Claude, Codex, Cursor, đấu Apple Vision Pro"
+description: "Snap chính thức ra mắt kính thực tế tăng cường tiêu dùng mới mang tên Specs tại sự kiện Augmented World Expo 2026, mức giá 2.195 USD."
 keywords: "Snap Specs, kính AR Snap, Snap Spectacles 2026, kính thực tế tăng cường, kính AR giá bao nhiêu, Apple Vision Pro đối thủ, kính AI, AWE 2026"
 category: "Công nghệ"
 type: "tin-tuc"

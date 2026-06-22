@@ -1,7 +1,7 @@
 ---
 slug: "cach-bao-ve-tai-khoan-facebook-khong-bi-hack-chiem-nick-2026"
 title: "Cách bảo vệ tài khoản Facebook không bị hack, chiếm nick: 9 bước cần làm"
-description: "Sợ mất tài khoản Facebook vào tay hacker? 9 bước bảo vệ: bật xác thực 2 lớp, đặt mật khẩu mạnh, kiểm tra phiên đăng nhập, cảnh giác link lạ và app lạ"
+description: "Tài khoản Facebook gắn với danh tính, bạn bè và nhiều dịch vụ khác, nên là mục tiêu hàng đầu của kẻ xấu."
 keywords: "bảo vệ tài khoản Facebook, Facebook bị hack, chống hack nick Facebook, xác thực 2 lớp Facebook, lấy lại tài khoản Facebook, bảo mật Facebook, mật khẩu Facebook mạnh"
 category: "Internet"
 type: "cam-nang"

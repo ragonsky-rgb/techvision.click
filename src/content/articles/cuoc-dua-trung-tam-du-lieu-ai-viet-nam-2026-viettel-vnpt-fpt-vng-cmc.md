@@ -1,7 +1,7 @@
 ---
 slug: "cuoc-dua-trung-tam-du-lieu-ai-viet-nam-2026-viettel-vnpt-fpt-vng-cmc"
 title: "Cuộc đua trung tâm dữ liệu AI Việt Nam: Viettel dẫn đầu, TP.HCM bứt phá"
-description: "Cuộc đua trung tâm dữ liệu AI tại Việt Nam nóng lên năm 2026: Viettel dẫn đầu 41% thị phần, kế đến VNPT, CMC, FPT, VNG. TP.HCM nổi lên thành cực tăng trưởng mới"
+description: "Cuộc đua xây dựng trung tâm dữ liệu phục vụ AI tại Việt Nam đang nóng lên trong năm 2026, với Viettel dẫn đầu thị phần, theo sau là VNPT, CMC, FPT và VNG."
 keywords: "trung tâm dữ liệu Việt Nam, data center AI, Viettel data center, thị phần data center, FPT VNPT VNG CMC, hạ tầng AI Việt Nam, cloud Việt Nam 2026"
 category: "Internet"
 type: "tin-tuc"

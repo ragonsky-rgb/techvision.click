@@ -1,7 +1,7 @@
 ---
 slug: "cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026"
 title: "Cách tăng tốc laptop Windows bị chậm, lag: 10 cách không cần cài phần mềm"
-description: "Laptop Windows chậm, giật lag, khởi động lâu? 10 cách tăng tốc đơn giản: tắt app khởi động cùng máy, dọn ổ đĩa, nâng RAM và SSD, gỡ phần mềm thừa"
+description: "Laptop chạy Windows thường chậm dần theo thời gian: khởi động lâu, mở ứng dụng ì ạch, đa nhiệm giật khựng."
 keywords: "tăng tốc laptop Windows, laptop bị chậm lag, cách làm laptop chạy nhanh hơn, tối ưu Windows 11, laptop khởi động chậm, dọn ổ đĩa Windows, tắt ứng dụng khởi động cùng máy"
 category: "Laptop"
 type: "cam-nang"
@@ -99,7 +99,7 @@ Nếu đã làm hết các bước phần mềm mà máy vẫn chậm, rất có
 Nâng RAM là bước tiếp theo nếu bạn thường mở nhiều ứng dụng hoặc hàng chục tab trình duyệt cùng lúc và thấy máy hay đầy bộ nhớ, ổ đĩa hoạt động liên tục. Trước khi mua, nên kiểm tra loại RAM và số khe cắm máy hỗ trợ, vì một số laptop mỏng nhẹ hàn chết RAM và không nâng được. Khi cả SSD lẫn RAM đều đã ổn mà máy vẫn ì sau nhiều năm, biện pháp mạnh nhất là cài lại Windows để xóa sạch phần mềm tích tụ, nhớ sao lưu dữ liệu quan trọng trước khi thực hiện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Zquy1N65Dv0/maxresdefault.jpg" alt="Mẹo giảm lag và chậm máy trên Windows 11" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/Zquy1N65Dv0/hqdefault.jpg" alt="Mẹo giảm lag và chậm máy trên Windows 11" loading="lazy" width="1280" height="720">
   <figcaption>Nâng SSD và RAM giúp máy cũ chạy nhẹ nhàng hơn hẳn. Nguồn: YouTube</figcaption>
 </figure>
 

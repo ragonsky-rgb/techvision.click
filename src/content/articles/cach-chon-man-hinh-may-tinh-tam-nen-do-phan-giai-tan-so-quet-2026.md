@@ -1,7 +1,7 @@
 ---
 slug: "cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026"
 title: "Cách chọn màn hình máy tính: tấm nền, độ phân giải, tần số quét 2026"
-description: "Cách chọn màn hình máy tính chuẩn nhu cầu: phân biệt tấm nền IPS, VA, TN, OLED; chọn độ phân giải Full HD, 2K, 4K và tần số quét phù hợp để làm việc, chơi game"
+description: "Một màn hình tốt ảnh hưởng tới trải nghiệm hằng ngày nhiều hơn nhiều người nghĩ, từ độ rõ chữ, độ chính xác màu tới độ mượt khi chơi game."
 keywords: "cách chọn màn hình máy tính, tấm nền IPS VA TN, độ phân giải màn hình 2K 4K, tần số quét màn hình, màn hình cho dân văn phòng, màn hình chơi game, chọn màn hình đồ họa"
 category: "Laptop"
 type: "cam-nang"

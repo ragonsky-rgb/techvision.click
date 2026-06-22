@@ -1,7 +1,7 @@
 ---
 slug: "nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai"
 title: "Nintendo Switch 2 sau một năm: gần 20 triệu máy nhưng đà bán chậm lại"
-description: "Nintendo Switch 2 đạt 19,86 triệu máy sau năm đầu, vượt PS5 một quý và là console bán nhanh nhất của Nintendo, nhưng hãng dự báo năm thứ hai chậm lại rõ rệt"
+description: "Sau một năm bán ra, Nintendo Switch 2 đạt gần 20 triệu máy, trở thành máy chơi game bán nhanh nhất lịch sử Nintendo và có quý vượt cả PS5."
 keywords: "Nintendo Switch 2, doanh số Switch 2, Switch 2 bán chạy, Switch 2 vượt PS5, Switch 2 cấu hình, Mario Kart World, console Nintendo 2026"
 category: "Công nghệ"
 type: "tin-tuc"

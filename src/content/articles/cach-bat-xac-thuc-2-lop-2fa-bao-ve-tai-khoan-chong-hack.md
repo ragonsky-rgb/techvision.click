@@ -1,7 +1,7 @@
 ---
 slug: "cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack"
 title: "Cách bật xác thực 2 lớp (2FA) bảo vệ tài khoản khỏi hack"
-description: "Hướng dẫn bật xác thực 2 lớp (2FA) cho Google, Facebook và các tài khoản quan trọng: chọn phương thức an toàn, dùng app authenticator, lưu mã dự phòng và"
+description: "Mật khẩu mạnh thôi chưa đủ."
 keywords: "xác thực 2 lớp, 2FA là gì, bảo mật 2 lớp Facebook, xác minh 2 bước Google, app authenticator, chống hack tài khoản, mã dự phòng, bảo vệ tài khoản"
 category: "Internet"
 type: "cam-nang"

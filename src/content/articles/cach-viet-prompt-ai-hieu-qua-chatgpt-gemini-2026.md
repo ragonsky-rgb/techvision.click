@@ -1,7 +1,7 @@
 ---
 slug: "cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026"
 title: "Cách viết prompt AI hiệu quả: công thức cho ChatGPT, Gemini và Claude"
-description: "Hướng dẫn viết prompt AI hiệu quả với công thức vai trò, bối cảnh, nhiệm vụ và định dạng. Mẹo dùng ChatGPT, Gemini, Claude cho viết content, học tập và công"
+description: "Cùng một công cụ AI, người biết viết prompt nhận kết quả vượt trội so với người chỉ hỏi qua loa."
 keywords: "cách viết prompt, prompt AI hiệu quả, prompt ChatGPT, viết prompt Gemini, công thức prompt, mẹo dùng AI, prompt là gì, kỹ năng dùng AI"
 category: "AI"
 type: "cam-nang"
@@ -76,7 +76,7 @@ Một mẹo mạnh là cho ví dụ mẫu. Khi bạn dán một đoạn viết t
 Mẹo thứ hai là chia nhiệm vụ lớn thành các bước nhỏ. Thay vì yêu cầu viết cả một kế hoạch dài trong một lần, hãy đi từng bước: lập dàn ý trước, duyệt dàn ý, rồi mới viết từng phần. Đừng kỳ vọng prompt đầu tiên cho kết quả hoàn hảo. Hãy xem đây là cuộc trò chuyện, tinh chỉnh dần qua nhiều lượt, yêu cầu AI sửa lại chỗ chưa ưng, cho tới khi đạt ý.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bxzlOB9k-F4/maxresdefault.jpg" alt="Tư duy viết prompt cho người mới bắt đầu" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/bxzlOB9k-F4/hqdefault.jpg" alt="Tư duy viết prompt cho người mới bắt đầu" loading="lazy" width="1280" height="720">
   <figcaption>Viết prompt là kỹ năng rèn được qua thực hành và tinh chỉnh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Công thức prompt nền tảng áp dụng tốt cho hầu hết trợ lý AI, 
 Một lưu ý là độ dài và cách trình bày prompt có thể khác nhau giữa các mô hình. Với những tác vụ phức tạp, việc nói rõ từng bước và yêu cầu AI trình bày quá trình suy luận thường cho kết quả tốt hơn. Quan trọng nhất vẫn là thực hành đều đặn để cảm nhận cách mỗi công cụ phản hồi, từ đó rút ra cách viết prompt phù hợp với phong cách làm việc của riêng mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sSfiaefWtUo/maxresdefault.jpg" alt="Kỹ thuật viết prompt cho Gemini AI trong công việc" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/sSfiaefWtUo/hqdefault.jpg" alt="Kỹ thuật viết prompt cho Gemini AI trong công việc" loading="lazy" width="1280" height="720">
   <figcaption>Mỗi công cụ AI có thế mạnh riêng khi xử lý prompt. Nguồn: YouTube</figcaption>
 </figure>
 

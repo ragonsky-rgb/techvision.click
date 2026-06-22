@@ -1,7 +1,7 @@
 ---
 slug: "cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset"
 title: "Cách sao lưu dữ liệu điện thoại trước khi đổi máy hoặc reset (iPhone & Android)"
-description: "Hướng dẫn sao lưu dữ liệu điện thoại trước khi đổi máy hoặc khôi phục cài đặt gốc: iCloud, iTunes, Google One, Smart Switch, chuyển trực tiếp. Checklist để"
+description: "Đổi máy mới hay khôi phục cài đặt gốc mà quên sao lưu là cách nhanh nhất để mất sạch ảnh, danh bạ và dữ liệu quan trọng."
 keywords: "sao lưu dữ liệu điện thoại, backup iPhone, sao lưu Android, chuyển dữ liệu sang máy mới, sao lưu iCloud, Google One backup, Smart Switch, reset điện thoại"
 category: "Smartphone"
 type: "cam-nang"

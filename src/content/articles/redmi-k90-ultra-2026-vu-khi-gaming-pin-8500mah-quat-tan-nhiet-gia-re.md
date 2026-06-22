@@ -1,7 +1,7 @@
 ---
 slug: "redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re"
 title: "Redmi K90 Ultra lộ diện: vũ khí gaming pin 8500mAh, quạt tản nhiệt, giá rẻ"
-description: "Redmi K90 Ultra dự kiến ra mắt cuối tháng 6/2026: Snapdragon 8 Elite, pin 8500mAh, sạc 100W, màn 165Hz, quạt tản nhiệt chủ động, giá khởi điểm hấp dẫn"
+description: "Redmi chuẩn bị ra mắt K90 Ultra, mẫu điện thoại được định vị là vũ khí gaming giá phải chăng với cấu hình gây chú ý: chip Snapdragon 8 Elite, pin 8500mAh, sạc."
 keywords: "Redmi K90 Ultra, Redmi K90 Ultra giá, Redmi K90 Ultra cấu hình, điện thoại gaming 2026, pin 8500mAh, Snapdragon 8 Elite, quạt tản nhiệt điện thoại"
 category: "Smartphone"
 type: "tin-tuc"
@@ -98,7 +98,7 @@ Redmi K90 Ultra bước vào một thị trường điện thoại Android cạn
 So với các máy như Oppo Find X10 Pro thiên về nhiếp ảnh, K90 Ultra hướng rõ tới game thủ và người dùng cần hiệu năng thô cùng thời lượng pin, thay vì camera đỉnh cao. Đây là chiến lược phân khúc quen thuộc và hiệu quả của Redmi, nhắm tới nhóm khách hàng trẻ, mê game và nhạy cảm về giá. Người quan tâm có thể tham khảo thêm một đối thủ Android cao cấp khác trong bài [Oppo Find X10 Pro](/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zqAY-72okWk/maxresdefault.jpg" alt="Thông tin rò rỉ dòng Redmi K90 với pin lớn và sạc nhanh" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/zqAY-72okWk/hqdefault.jpg" alt="Thông tin rò rỉ dòng Redmi K90 với pin lớn và sạc nhanh" loading="lazy" width="1280" height="720">
   <figcaption>Pin lớn và sạc nhanh đang là xu hướng trên flagship Android. Nguồn: YouTube</figcaption>
 </figure>
 

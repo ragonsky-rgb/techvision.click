@@ -1,7 +1,7 @@
 ---
 slug: "nvidia-rtx-spark-superchip-pc-arm-computex-2026-doi-dau-intel-amd"
 title: "Nvidia RTX Spark: superchip ARM cho PC, đối đầu Intel và AMD"
-description: "Nvidia ra mắt RTX Spark Superchip tại Computex 2026: chip ARM cho laptop và PC với GPU Blackwell, 128GB bộ nhớ, chạy model AI lớn ngay trên máy, đấu Intel, AMD"
+description: "Nvidia chính thức bước vào thị trường vi xử lý PC với RTX Spark Superchip công bố tại Computex 2026."
 keywords: "Nvidia RTX Spark, RTX Spark Superchip, Nvidia N1X, chip PC Nvidia, Nvidia ARM laptop, Computex 2026, Nvidia đối đầu Intel AMD, AI PC"
 category: "Laptop"
 type: "tin-tuc"

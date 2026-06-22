@@ -1,7 +1,7 @@
 ---
 slug: "anthropic-openai-nop-ho-so-ipo-2026-lan-song-giga-ipo-ai"
 title: "Anthropic và OpenAI nộp hồ sơ IPO: làn sóng giga-IPO ngành AI 2026"
-description: "Anthropic nộp hồ sơ IPO mật ngày 1/6/2026 ở định giá 965 tỷ USD, vượt OpenAI lần đầu. OpenAI cũng nộp hồ sơ, nhắm lên sàn tháng 9. Làn sóng giga-IPO AI bùng nổ"
+description: "Anthropic, công ty tạo ra Claude, đã nộp hồ sơ IPO mật ngày 1/6/2026 ở mức định giá 965 tỷ USD, lần đầu vượt qua OpenAI."
 keywords: "Anthropic IPO, OpenAI IPO, IPO ngành AI 2026, Anthropic định giá 965 tỷ USD, giga-IPO, Claude Anthropic, AI lên sàn chứng khoán"
 category: "AI"
 type: "tin-tuc"
