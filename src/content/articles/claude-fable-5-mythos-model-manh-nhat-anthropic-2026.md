@@ -102,6 +102,19 @@ Một chi tiết đáng chú ý về an toàn: các câu hỏi chạm tới an n
   <figcaption>Lớp model Mythos thay đổi cách lập trình viên giao việc cho AI. Nguồn: YouTube</figcaption>
 </figure>
 
+## Lập trình kiểu agent là gì và vì sao quan trọng?
+
+Để hiểu vì sao điểm số trên SWE-Bench Pro lại đáng chú ý, cần nắm khái niệm lập trình kiểu agent. Khác với cách dùng AI truyền thống, nơi con người đặt từng câu hỏi và nhận từng câu trả lời, một agent lập trình nhận một mục tiêu lớn rồi tự chia thành các bước, viết code, chạy thử, đọc lỗi và sửa lại trong nhiều vòng lặp mà không cần con người can thiệp liên tục. Đây là sự chuyển dịch từ AI như một công cụ gợi ý sang AI như một thành viên có thể tự hoàn thành nhiệm vụ.
+
+SWE-Bench Pro là một trong những bộ chuẩn đo phổ biến cho năng lực này, dựa trên các lỗi và yêu cầu thực tế lấy từ các kho mã nguồn mở. Một model muốn đạt điểm cao phải hiểu được bối cảnh dự án, định vị đúng đoạn code cần sửa và đưa ra thay đổi vượt qua các bài kiểm thử tự động. Vì lý do đó, điểm số trên bộ chuẩn này được xem là chỉ dấu sát với khả năng làm việc thực tế hơn so với các bài đố lập trình ngắn.
+
+Khả năng tự chủ kéo dài cũng đặt ra những thách thức mới về độ tin cậy và an toàn. Một agent chạy nhiều bước có thể tích lũy sai sót qua từng vòng, hoặc thực hiện hành động ngoài ý muốn nếu không có giới hạn rõ ràng. Đây là lý do các hãng phát triển model mạnh thường đi kèm các lớp kiểm soát, và là bối cảnh chung mà ngành AI đang cân nhắc khi trao thêm quyền tự hành cho phần mềm.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/h0gZf1hL4D4/maxresdefault.jpg" alt="Đánh giá thực tế năng lực lập trình của model AI Anthropic" loading="lazy" width="1280" height="720">
+  <figcaption>Lập trình kiểu agent là khả năng AI tự hoàn thành chuỗi tác vụ thay vì gợi ý từng dòng. Nguồn: YouTube</figcaption>
+</figure>
+
 ## Ý nghĩa với người dùng và lập trình viên Việt Nam
 
 Với lập trình viên, Fable 5 mở ra khả năng giao cho AI những việc lớn hơn nhiều so với trước: không chỉ gợi ý từng dòng mà tự hoàn thành cả luồng tác vụ kéo dài. Điều này có thể thay đổi cách các nhóm nhỏ làm sản phẩm, khi một người có thể điều phối nhiều agent chạy song song.

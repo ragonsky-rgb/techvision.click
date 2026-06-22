@@ -73,6 +73,12 @@ Sáng kiến tập hợp một danh sách đối tác hiếm thấy trong ngành
 
 Trên bộ tiêu chuẩn đánh giá năng lực tìm lỗ hổng CyberGym, Mythos đạt 83,1% so với 66,6% của các model đời trước. Anthropic cho biết model cũng vượt trội ở các tác vụ lập trình theo kiểu agent, tức tự lập kế hoạch và thực thi nhiều bước để hoàn thành mục tiêu.
 
+<div class="art-video-label">VIDEO · Cỗ máy tìm zero-day của Anthropic</div>
+<div class="art-video-wrap">
+  <iframe src="https://www.youtube.com/embed/mrZssKmmzLA" title="Vì sao cỗ máy tìm zero-day của Anthropic khiến ngành bảo mật lo ngại" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Phân tích vì sao năng lực tìm zero-day của Mythos vừa hấp dẫn vừa đáng lo. Nguồn: YouTube</p>
+
 <div class="spec-box">
   <div class="spec-box-title">📋 Project Glasswing · Các con số chính</div>
   <table>
@@ -111,3 +117,15 @@ Project Glasswing cho thấy AI đang chuyển vai trò trong an ninh mạng, t�
 </figure>
 
 Tuy nhiên, sáng kiến cũng đặt ra câu hỏi về cán cân tấn công và phòng thủ. Một model có thể tìm lỗ hổng nhanh đến vậy sẽ rất nguy hiểm nếu rơi vào tay kẻ xấu, và đó chính là lý do Anthropic chọn cách giữ kín. Các báo cáo công khai từ đối tác dự kiến được công bố sau 90 ngày, hứa hẹn cung cấp bức tranh đầy đủ hơn về tác động thực tế.
+
+## Zero-day và bài toán công bố lỗ hổng
+
+Để hiểu vì sao một zero-day tồn tại 27 năm lại đáng chú ý đến vậy, cần nắm khái niệm cơ bản. Zero-day là lỗ hổng mà nhà phát triển phần mềm chưa biết tới và do đó chưa có bản vá, nghĩa là kẻ tấn công nếu phát hiện trước có thể khai thác mà không gặp hàng phòng thủ nào. Một lỗ hổng nằm im trong các thành phần dùng chung suốt nhiều năm sẽ ảnh hưởng tới vô số sản phẩm xây trên nền đó, khiến phạm vi tác động lan rộng hơn nhiều so với một lỗi đơn lẻ.
+
+Việc một công cụ tự động tìm ra hàng nghìn lỗ hổng cũng làm nổi bật một quy trình lâu đời trong ngành, gọi là công bố có trách nhiệm. Theo thông lệ này, người phát hiện lỗ hổng thông báo riêng cho nhà sản xuất và dành cho họ thời gian vá trước khi tiết lộ công khai, thường là quanh mốc 90 ngày. Việc Anthropic và các đối tác cho biết báo cáo chi tiết sẽ ra sau 90 ngày phù hợp với khung thời gian quen thuộc đó, nhằm bảo đảm các lỗ hổng được vá trước khi thông tin có thể bị lợi dụng.
+
+## Vị trí của Glasswing trong xu hướng AI an ninh mạng
+
+Project Glasswing là một phần của xu hướng rộng hơn, khi AI dần chuyển từ vai trò hỗ trợ phân tích sang trực tiếp tham gia chu trình tìm và vá lỗi. Trong nhiều năm, các công cụ quét bảo mật tự động vốn nổi tiếng với tỷ lệ báo nhầm cao, buộc chuyên gia con người mất nhiều thời gian sàng lọc. Tỷ lệ xác nhận đúng trên 90% mà Anthropic nêu, nếu được kiểm chứng độc lập, là điểm khác biệt đáng kể so với thế hệ công cụ trước.
+
+Dù vậy, một sáng kiến do một nhà phát triển model dẫn dắt cũng đặt ra câu hỏi về sự tập trung năng lực. Khi công cụ phòng thủ mạnh nhất nằm sau cánh cửa đóng và chỉ chia sẻ cho nhóm đối tác chọn lọc, ranh giới giữa bảo vệ hạ tầng chung và lợi thế cạnh tranh riêng cần được theo dõi. Đây là lý do các báo cáo minh bạch và việc kiểm chứng từ bên thứ ba sẽ quyết định mức độ tin cậy mà mô hình hợp tác kiểu Glasswing nhận được trong dài hạn.

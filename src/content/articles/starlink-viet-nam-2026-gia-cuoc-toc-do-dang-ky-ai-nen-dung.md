@@ -66,9 +66,9 @@ Giấy phép đi kèm nhiều điều kiện ràng buộc: giai đoạn thí đi
 
 <div class="art-video-label">VIDEO · Tất cả về internet vệ tinh Starlink tại Việt Nam</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/jcbxLftdbtQ" title="Tất cả về internet vệ tinh Starlink tại Việt Nam" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/_eZigigPzus" title="Tất cả về internet vệ tinh Starlink tại Việt Nam" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
-<p class="art-video-caption">Tổng quan về Starlink tại Việt Nam: vì sao bạn cần và không cần nó. Nguồn: YouTube</p>
+<p class="art-video-caption">Tổng quan về Starlink tại Việt Nam và mức giá cước so với cáp quang. Nguồn: YouTube</p>
 
 ## Giá cước Starlink tại Việt Nam là bao nhiêu?
 
@@ -98,6 +98,17 @@ Nhờ chùm vệ tinh bay ở quỹ đạo thấp, Starlink đạt độ trễ t
 Với mức giá hiện tại, Starlink hợp lý nhất cho các nhóm có nhu cầu kết nối ở nơi không có lựa chọn nào khác. Đó là hộ dân và đồn trú ở vùng sâu vùng xa, miền núi và hải đảo, ngư dân đánh bắt xa bờ, các đội tác nghiệp dã ngoại, cứu hộ cứu nạn, cùng doanh nghiệp cần kết nối dự phòng khi cáp quang gặp sự cố.
 
 Với phiên bản thiết bị nhỏ gọn Starlink Mini tích hợp router, giá tham khảo quốc tế khoảng 269 USD, nhóm người dùng lưu động như nhà sáng tạo nội dung quay phim ngoài trời hay người làm việc di chuyển liên tục cũng có thêm một lựa chọn kết nối. Người mua nên tìm hiểu tốc độ thực tế tại khu vực của mình và cân nhắc kỹ chi phí trước khi quyết định. Bối cảnh kinh doanh rộng hơn của SpaceX cũng đáng theo dõi, có thể xem thêm về [thương vụ IPO SpaceX 2026](/articles/spacex-ipo-2026-lon-nhat-lich-su-spcx-nguoi-viet-mua-duoc-khong.html).
+
+## Cần chuẩn bị gì trước khi lắp Starlink?
+
+Trước khi quyết định, người dùng nên đánh giá vài yếu tố thực tế. Đầu tiên là vị trí lắp đặt: chảo thu phát của Starlink cần khoảng trời thoáng, không bị nhà cao tầng hay tán cây lớn che chắn, vì vật cản làm gián đoạn tín hiệu. Ở vùng nhiều mây mưa, tốc độ và độ ổn định có thể dao động hơn so với cáp quang, dù công nghệ quỹ đạo thấp đã cải thiện đáng kể độ trễ.
+
+Tiếp theo là chi phí tổng thể và nhu cầu sử dụng. Với mức đầu tư thiết bị ban đầu cùng cước thuê bao hằng tháng cao hơn nhiều cáp quang, Starlink chỉ thực sự đáng tiền khi không có lựa chọn kết nối nào khác hoặc cần phương án dự phòng cho công việc quan trọng. Người dùng cũng nên tìm hiểu chính sách bảo hành, hỗ trợ kỹ thuật và điều kiện sử dụng trong giai đoạn thí điểm, vì đây là dịch vụ còn mới tại Việt Nam và khung pháp lý vẫn đang hoàn thiện.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/jcbxLftdbtQ/maxresdefault.jpg" alt="Tất cả về internet vệ tinh Starlink tại Việt Nam vì sao cần và không cần" loading="lazy" width="1280" height="720">
+  <figcaption>Cần khoảng trời thoáng và cân nhắc chi phí trước khi lắp Starlink. Nguồn: YouTube</figcaption>
+</figure>
 
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết dựa trên giấy phép thí điểm ngày 14/2/2026 và các mức giá dự kiến do doanh nghiệp công bố. LongTechVision sẽ cập nhật khi Starlink công bố giá chính thức và thời điểm cung cấp dịch vụ tại Việt Nam.

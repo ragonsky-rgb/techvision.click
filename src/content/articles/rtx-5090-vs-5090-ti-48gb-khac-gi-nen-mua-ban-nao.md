@@ -106,7 +106,19 @@ Nói cách khác, nếu cần card ngay bây giờ, RTX 5090 là lựa chọn du
 
 Quyết định gói gọn trong một câu hỏi: bạn cần card để làm gì. Nếu mục đích chính là chơi game hoặc làm việc thông thường, hãy mua RTX 5090 ngay. 32GB đã quá đủ, bản Ti không cải thiện game đáng kể, và bạn có máy mạnh để dùng liền thay vì chờ đợi.
 
-Nếu bạn chạy mô hình AI cục bộ, dựng video 8K hoặc cần dung lượng nhớ tối đa cho công việc sáng tạo, chờ bản 48GB có thể xứng đáng. Nhóm này thực sự tận dụng được 48GB và sẵn sàng trả giá cao để có nó. Với tất cả những người còn lại, RTX 5090 vẫn là điểm cân bằng tốt nhất giữa sức mạnh, giá và tính sẵn có ngay lúc này.
+Với nhóm chạy mô hình AI cục bộ, dựng video 8K hoặc cần dung lượng nhớ tối đa cho công việc sáng tạo, chờ bản 48GB có thể xứng đáng. Nhóm này thực sự tận dụng được 48GB và sẵn sàng trả giá cao để có nó. Với tất cả những người còn lại, RTX 5090 vẫn là điểm cân bằng tốt nhất giữa sức mạnh, giá và tính sẵn có ngay lúc này.
+
+## Vì sao dung lượng VRAM lại quan trọng với AI
+
+Để hiểu vì sao bản 48GB lại được nhóm AI mong đợi, cần nắm vai trò của bộ nhớ đồ họa khi chạy mô hình. Một mô hình ngôn ngữ lớn gồm hàng tỷ tham số, và mỗi tham số chiếm một lượng bộ nhớ nhất định tùy theo độ chính xác được dùng. Khi toàn bộ trọng số của mô hình nạp vừa vào VRAM, card đồ họa xử lý liền mạch ở tốc độ cao. Nếu mô hình vượt quá dung lượng nhớ, phần dữ liệu dư phải tràn sang RAM hệ thống hoặc ổ cứng, khiến tốc độ giảm mạnh và trải nghiệm trở nên ì ạch.
+
+Đây là lý do thêm 16GB từ 32GB lên 48GB có thể là ranh giới giữa việc chạy được hay không chạy được một mô hình cỡ nhất định ngay trên máy cá nhân. Các kỹ thuật nén như lượng tử hóa giúp giảm dung lượng cần thiết, nhưng đi kèm đánh đổi về độ chính xác. Với người làm việc nghiêm túc với AI tạo sinh, dựng cảnh 3D phức tạp hay biên tập video độ phân giải siêu cao, dung lượng VRAM nhiều hơn đồng nghĩa với khả năng xử lý các dự án lớn hơn mà không vướng giới hạn phần cứng.
+
+## Bối cảnh thị trường GPU cao cấp hiện nay
+
+Việc một bản Ti dung lượng lớn xuất hiện trong tin đồn không phải ngẫu nhiên. Nhu cầu phần cứng phục vụ AI bùng nổ đã thay đổi cách các hãng định vị sản phẩm cao cấp. Trước đây dòng card mạnh nhất chủ yếu hướng tới game thủ và một bộ phận nhỏ người dựng phim, nhưng nay nhóm người dùng chạy mô hình AI ngay tại nhà hoặc trong phòng nghiên cứu nhỏ ngày càng đông. Họ cần nhiều bộ nhớ nhưng không muốn trả mức giá của card chuyên dụng cho trung tâm dữ liệu, vốn đắt gấp nhiều lần.
+
+Một bản card tiêu dùng với dung lượng nhớ lớn vì vậy lấp đúng khoảng trống đó, nếu nó thực sự ra mắt. Tuy nhiên giá bộ nhớ đang chịu sức ép vì nhu cầu từ trung tâm dữ liệu, nên giá bán cuối cùng của một bản 48GB hoàn toàn có thể cao hơn dự kiến. Bức tranh này khiến quyết định mua trở thành bài toán cân nhắc giữa nhu cầu thực tế, ngân sách và mức độ sẵn sàng chờ đợi, thay vì chỉ đơn thuần chọn con số thông số cao hơn.
 
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Thông số RTX 5090 Ti trong bài dựa trên tin đồn từ các nguồn phần cứng, chưa được NVIDIA xác nhận. LongTechVision sẽ cập nhật khi RTX 5090 Ti ra mắt chính thức cùng giá bán và hiệu năng thực tế.

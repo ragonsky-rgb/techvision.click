@@ -75,7 +75,7 @@ Bài bình luận trên Engadget gọi việc thả các agent tự hành trên 
 
 <div class="art-video-label">VIDEO · Chiến lược AI của Apple sau WWDC 2026</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/c6HGJJabr_4" title="Chiến lược AI của Apple sau WWDC 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/Uhc2-a_y9x4" title="Chiến lược AI của Apple sau WWDC 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Phân tích hướng đi AI thận trọng của Apple. Nguồn: YouTube</p>
 
@@ -95,6 +95,23 @@ Nhưng nhìn dài hạn, đây là kịch bản quen thuộc của Apple: vào s
 Với người dùng phổ thông, sự thận trọng của Apple là một lớp bảo vệ. AI trên iPhone sẽ ít gây bất ngờ khó chịu hơn, đổi lại ít phép màu tự động hơn. Với người thích công nghệ mới, các agent của Google, Microsoft hay Anthropic mới là nơi diễn ra những thử nghiệm táo bạo nhất, kèm theo rủi ro tương xứng.
 
 Câu hỏi đáng theo dõi không phải là ai có nhiều tính năng agent hơn trong năm nay, mà là ai xây được lòng tin trước: bên làm nhanh rồi sửa, hay bên chờ đủ chín rồi mới làm. WWDC 2026 cho thấy Apple đã chọn xong phe.
+
+## Ảo giác AI là gì và vì sao khó xử lý?
+
+Để hiểu lập trường của Apple, cần làm rõ khái niệm ảo giác. Các mô hình ngôn ngữ lớn hoạt động bằng cách dự đoán chuỗi từ có xác suất cao tiếp theo dựa trên dữ liệu huấn luyện, chứ không tra cứu sự thật từ một cơ sở dữ liệu chắc chắn. Vì thế, khi gặp câu hỏi nằm ngoài vùng dữ liệu quen thuộc, mô hình vẫn có thể tạo ra câu trả lời nghe rất trôi chảy và tự tin nhưng sai về bản chất. Đây không phải lỗi vặt có thể vá bằng một bản cập nhật, mà là đặc tính gắn liền với cách công nghệ này vận hành.
+
+Với một trợ lý chỉ trả lời, người dùng còn cơ hội đọc lại và kiểm chứng trước khi tin. Với một agent được trao quyền hành động thay người, lớp kiểm chứng đó biến mất nếu hệ thống tự thực thi mà không dừng lại hỏi. Đó là lý do độ tin cậy, chứ không phải sự thông minh thuần túy, mới là rào cản thật sự để giao quyền tự hành. Cách Apple giữ con người ở vị trí ra quyết định cuối cùng phản ánh đánh giá rằng công nghệ hiện tại chưa vượt qua rào cản này một cách an toàn cho người dùng phổ thông.
+
+## Vai trò của lớp tích hợp hệ điều hành
+
+Một yếu tố ít được nhắc tới nhưng quan trọng là lợi thế của Apple ở lớp hệ điều hành. Vì Siri nằm sẵn trong iOS và có quyền truy cập ngữ cảnh trên thiết bị như tin nhắn, lịch, ảnh và ứng dụng, hãng có thể cung cấp các tính năng cá nhân hóa sâu mà không cần đẩy dữ liệu nhạy cảm ra ngoài hay trao quyền hành động rộng. Cách tiếp cận này cho phép Apple tạo cảm giác trợ lý hiểu người dùng mà vẫn giữ phạm vi hành động trong tầm kiểm soát.
+
+Khi độ tin cậy của mô hình nền cải thiện theo thời gian, chính kiến trúc này có thể trở thành bệ phóng để bật dần các khả năng tự chủ, từ những tác vụ rủi ro thấp tới phức tạp hơn. Nói cách khác, sự thận trọng hiện tại không loại trừ tham vọng agent trong tương lai, mà chỉ trì hoãn tới khi nền tảng đủ vững. Đây là khác biệt giữa việc chưa làm và việc không thể làm, một phân biệt quan trọng khi đánh giá vị thế dài hạn của Apple trong cuộc đua AI.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/BAX0s5nhMN4/maxresdefault.jpg" alt="Những cập nhật Apple đáng chú ý tại WWDC 2026" loading="lazy" width="1280" height="720">
+  <figcaption>Các cập nhật AI tại WWDC 2026 nghiêng về tiện ích an toàn hơn là tự hành. Nguồn: YouTube</figcaption>
+</figure>
 
 <div class="art-callout">
   ✅ <strong>Góc nhìn:</strong> Bài viết tổng hợp từ bình luận của Engadget và các công bố chính thức tại WWDC 2026. LongTechVision sẽ cập nhật khi Apple hé lộ lộ trình agent cho Siri.

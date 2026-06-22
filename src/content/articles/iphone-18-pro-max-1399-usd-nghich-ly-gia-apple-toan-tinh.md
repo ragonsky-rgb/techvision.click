@@ -98,6 +98,12 @@ Cụ thể, theo các ước tính được dẫn lại, chi phí RAM trên mộ
 
 Nhưng toan tính dài hơi nằm ở năm 2027. Đó là dịp kỷ niệm 20 năm iPhone, thời điểm Apple nhiều khả năng tung ra một sản phẩm mang tính biểu tượng. Bằng cách tăng giá mạnh ngay năm 2026, Apple tạo ra một mặt bằng giá cao mới. Sang năm 2027, nếu hãng giữ nguyên giá cho đời máy kỷ niệm, người dùng sẽ cảm nhận đó là sự hào phóng, một điểm cộng truyền thông, dù thực tế mức giá vốn đã rất cao. Đây chính là nghịch lý: tăng giá hôm nay để được khen vì không tăng giá vào ngày mai.
 
+## Lịch sử định giá dòng Pro Max và tâm lý người mua
+
+Để hiểu vì sao một mức tăng được tính toán kỹ đến vậy, cần nhìn lại cách Apple định giá dòng cao cấp qua thời gian. Kể từ khi tách dòng Pro, hãng thường giữ giá khởi điểm ổn định qua vài thế hệ rồi mới điều chỉnh, nhằm tránh gây sốc cho người mua trung thành. Mỗi lần thay đổi giá đều đi kèm thông điệp về nâng cấp phần cứng tương xứng, để mức tăng được nhìn nhận là hợp lý thay vì đơn thuần là đắt hơn. Đó là lý do các đợt tăng giá hiếm khi diễn ra đột ngột mà thường có bước đệm.
+
+Tâm lý người mua cũng đóng vai trò lớn trong chiến lược này. Một con số kết thúc bằng 99 USD tạo cảm giác dễ chịu hơn về mặt tâm lý so với một con số tròn cao hơn, dù chênh lệch thực tế rất nhỏ. Việc neo giá ở một mặt bằng cao còn tạo hiệu ứng so sánh: khi đã quen với mức giá mới, các lựa chọn cũ hoặc thấp hơn lập tức trở nên hấp dẫn về giá trị. Cơ chế tâm lý này giải thích vì sao một thương hiệu có thể tăng giá mà vẫn duy trì được lượng khách hàng trung thành, miễn là người mua tin rằng họ nhận lại giá trị xứng đáng.
+
 ## Người dùng Việt nên nhìn nhận thế nào?
 
 Với người dùng Việt, đợt tăng giá này là lời nhắc rằng smartphone cao cấp đang bước vào chu kỳ đắt đỏ hơn, và nguyên nhân gốc là chi phí bộ nhớ chứ không phải Apple tự ý. Xu hướng này không chỉ ở iPhone: Samsung Galaxy S26 đã tăng khoảng 100 USD, nhiều dòng Xiaomi cũng nhích giá. Sức ép giá linh kiện là bài toán chung của cả ngành, bắt nguồn từ cơn khát bộ nhớ của AI như phân tích trong bài [khủng hoảng bộ nhớ RAM vì trung tâm dữ liệu AI](/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html).

@@ -65,7 +65,7 @@ Nhìn vào danh sách này, bạn sẽ nhanh chóng nhận ra thủ phạm, thư
 
 <div class="art-video-label">VIDEO · Giải phóng dung lượng iPhone, xoá bộ nhớ Khác</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/2f1kRJOtUYY" title="Cách giải phóng dung lượng iPhone xoá bộ nhớ Khác" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/vcQy8tH_t9Q" title="Cách giải phóng dung lượng iPhone xoá bộ nhớ Khác" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Hướng dẫn giải phóng dung lượng và xoá bộ nhớ Khác trên iPhone. Nguồn: YouTube</p>
 
@@ -85,6 +85,28 @@ Với ứng dụng, hãy tận dụng tính năng offload, tức gỡ phần ứ
 Nhiều người bối rối khi thấy một phần lớn dung lượng được gắn nhãn Khác hoặc dữ liệu hệ thống. Đây là nơi chứa cache hệ thống, file tạm, dữ liệu Siri, log và các thành phần không thuộc ảnh, app hay nhạc rõ ràng. Phần này thường phình to theo thời gian sử dụng và rất khó xoá thủ công.
 
 Cách giảm phần này gồm xoá cache và lịch sử Safari trong Cài đặt, dọn cache các app bằng cách cài lại, và khởi động lại máy để hệ thống tự dọn file tạm. Nếu phần Khác quá lớn bất thường và máy đã dùng lâu, biện pháp triệt để là sao lưu đầy đủ rồi thiết lập lại iPhone, cách này thường đưa dung lượng hệ thống về mức hợp lý. Nhớ sao lưu trước, như đã hướng dẫn trong bài [sao lưu dữ liệu trước khi đổi máy hoặc reset](/articles/cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset.html).
+
+<figure>
+  <img src="https://i.ytimg.com/vi/EvTm9SJjcSM/maxresdefault.jpg" alt="Bốn cách giải phóng bộ nhớ iPhone khi dung lượng đầy" loading="lazy" width="1280" height="720">
+  <figcaption>Nhiều mẹo dọn dung lượng có thể làm ngay mà không cần cài thêm ứng dụng. Nguồn: YouTube</figcaption>
+</figure>
+
+## Dọn cache ứng dụng và các tệp tải về
+
+Một nguồn ngốn bộ nhớ âm thầm là cache của các ứng dụng dùng nhiều. Trình duyệt, mạng xã hội và ứng dụng phát nhạc, phát video tích lũy dữ liệu tạm để chạy nhanh hơn, nhưng theo thời gian phần này có thể phình lên hàng gigabyte. Một số app có nút xoá cache ngay trong phần cài đặt của chúng, còn với app không có tùy chọn đó, cách hiệu quả là gỡ rồi cài lại để dữ liệu tạm được làm sạch hoàn toàn.
+
+Bên cạnh cache, các tệp tải về thường bị quên lãng. Phim, tập podcast, bài hát hay tài liệu đã tải để xem offline vẫn nằm trong máy kể cả khi đã xem xong. Mở từng ứng dụng phát nội dung, vào mục đã tải và xoá những gì không còn cần. Ứng dụng nhắn tin cũng lưu lại ảnh, video và tệp gửi nhận, nên rà soát và xoá các cuộc trò chuyện nặng cũng giải phóng được lượng lớn dung lượng.
+
+## Quản lý email, ghi chú và bản ghi âm
+
+Nhiều người không ngờ hộp thư cũng chiếm khá nhiều dung lượng. Email kèm tệp đính kèm lớn, ảnh độ phân giải cao hay nhiều thư quảng cáo tích lũy lâu ngày đều góp phần làm đầy máy. Đặt ứng dụng Mail chỉ tải tiêu đề thay vì toàn bộ nội dung, hoặc giảm khoảng thời gian đồng bộ thư, giúp tiết kiệm bộ nhớ rõ rệt cho người dùng nhiều tài khoản email.
+
+Ứng dụng Ghi chú, Ghi âm và các app làm việc khác cũng cần được dọn định kỳ. Ghi chú chứa nhiều ảnh và bản vẽ tay sẽ nặng hơn nhiều so với ghi chú chỉ có chữ. Các bản ghi âm dài và file quét tài liệu cũng tích tụ nhanh. Rà soát những mục này, xoá nội dung trùng hoặc đã hết giá trị, là một thói quen đơn giản nhưng giúp duy trì khoảng trống ổn định trên máy.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/le6owiMdTHg/maxresdefault.jpg" alt="Cách giải phóng và dọn bộ nhớ iPhone hiệu quả" loading="lazy" width="1280" height="720">
+  <figcaption>Dọn email, ghi chú và bản ghi âm cũng giải phóng được nhiều dung lượng. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Thói quen giúp iPhone luôn còn chỗ trống
 

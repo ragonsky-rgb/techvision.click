@@ -65,7 +65,7 @@ Khác biệt lớn nhất nằm ở sự tiện lợi. Vì không cần khay SIM
 
 <div class="art-video-label">VIDEO · Chuyển SIM vật lý sang eSIM tại nhà</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/wa143by14Cs" title="Hướng dẫn chuyển sang eSIM tại nhà" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/o1uDCQiJkjQ" title="Hướng dẫn chuyển sang eSIM tại nhà" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Các bước chuyển SIM vật lý sang eSIM ngay tại nhà. Nguồn: YouTube</p>
 
@@ -80,6 +80,19 @@ Nên kiểm tra kỹ điều này trước khi chuyển đổi, vì sau khi chuy
   <figcaption>Nhiều nhà mạng cho phép chuyển eSIM trực tuyến qua ứng dụng. Nguồn: YouTube</figcaption>
 </figure>
 
+## Ưu và nhược điểm của eSIM so với SIM nhựa
+
+Lợi thế dễ thấy nhất của eSIM là sự gọn nhẹ và linh hoạt. Vì không cần khay vật lý, nhà sản xuất tiết kiệm được không gian bên trong để dành cho pin hoặc linh kiện khác, đồng thời giảm một điểm hở dễ vào nước và bụi. Người dùng có thể lưu nhiều hồ sơ eSIM trên một máy và chuyển đổi giữa chúng trong phần cài đặt, thuận tiện cho ai cần tách số công việc và số cá nhân, hoặc thường xuyên đổi gói cước.
+
+Khả năng kích hoạt từ xa cũng là điểm cộng lớn. Thay vì phải ra cửa hàng nhận SIM nhựa, người dùng có thể đăng ký và nhận hồ sơ eSIM hoàn toàn trực tuyến, đặc biệt tiện khi mua gói data du lịch trước chuyến đi nước ngoài. Một số dịch vụ eSIM quốc tế cho phép cài và kích hoạt chỉ trong vài phút ngay khi vừa đáp sân bay, thường rẻ hơn rõ rệt so với cước chuyển vùng quốc tế truyền thống.
+
+Đổi lại, eSIM có vài hạn chế cần cân nhắc. Thứ nhất, không phải máy nào cũng hỗ trợ, nên người hay dùng máy đời cũ hoặc thường xuyên mượn, đổi máy qua lại sẽ thấy SIM nhựa tiện hơn vì chỉ cần tháo lắp. Thứ hai, khi máy hỏng nặng không mở được, việc lấy lại thuê bao trên eSIM phức tạp hơn so với rút SIM nhựa sang máy khác. Thứ ba, quy trình chuyển eSIM giữa các máy đôi khi phụ thuộc vào chính sách nhà mạng, có thể cần xác thực lại. Hiểu rõ những điểm này giúp quyết định chuyển đổi phù hợp với thói quen sử dụng.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/QmsvtsQoulQ/maxresdefault.jpg" alt="Hướng dẫn đổi từ sim vật lý sang esim qua app nhà mạng Việt Nam" loading="lazy" width="1280" height="720">
+  <figcaption>Các nhà mạng lớn tại Việt Nam đều hỗ trợ chuyển eSIM ngay trong ứng dụng. Nguồn: YouTube</figcaption>
+</figure>
+
 ## Cách chuyển sang eSIM ngay tại nhà
 
 Cách nhanh nhất là dùng ứng dụng của nhà mạng. Với Viettel là My Viettel, VinaPhone là My VNPT, MobiFone là My MobiFone. Trong ứng dụng, tìm mục chuyển đổi hoặc đăng ký eSIM, xác thực thông tin thuê bao theo hướng dẫn, sau đó hệ thống cấp một mã QR. Người dùng vào phần cài đặt SIM của máy, chọn thêm eSIM và quét mã QR đó để kích hoạt.
@@ -91,6 +104,19 @@ Nếu không tự làm được hoặc thuê bao cần xác thực thêm, có th
 Điểm khác biệt cần nhớ so với SIM nhựa là khi đổi máy mới hoặc khôi phục cài đặt gốc, eSIM không tự chuyển theo mà cần kích hoạt lại. Một số dòng máy có tính năng chuyển eSIM nhanh sang thiết bị mới, hoặc người dùng có thể tự cấp lại qua ứng dụng nhà mạng. Nếu gặp khó, liên hệ tổng đài để được hỗ trợ.
 
 Nhìn chung, eSIM là bước tiến đáng dùng với đa số người, nhất là ai thường đi nước ngoài hoặc cần hai số một máy. Chỉ cần máy hỗ trợ và nắm rõ cách kích hoạt lại khi đổi máy, trải nghiệm sẽ gọn gàng hơn hẳn so với SIM nhựa truyền thống.
+
+## Những lỗi thường gặp khi chuyển eSIM và cách xử lý
+
+Một số tình huống hay xảy ra trong quá trình chuyển đổi mà người dùng nên biết trước. Phổ biến nhất là mã QR không quét được hoặc báo lỗi kích hoạt, thường do mạng yếu hoặc hồ sơ eSIM đã được dùng trước đó. Trong trường hợp này, nên kết nối Wi-Fi ổn định, thử lại, hoặc liên hệ nhà mạng để cấp mã mới. Mỗi mã QR eSIM thường chỉ kích hoạt được một lần, nên không nên quét thử nhiều máy.
+
+Một lỗi khác là máy nhận eSIM nhưng không có sóng hoặc không vào được mạng dữ liệu. Lúc này nên kiểm tra xem eSIM đã được đặt làm dòng chính cho thoại và dữ liệu chưa, đồng thời bật lại chế độ trên máy bay vài giây để máy tìm sóng lại. Nếu vẫn không được, khởi động lại máy hoặc đặt lại cài đặt mạng thường khắc phục được.
+
+Quan trọng nhất, tuyệt đối không vứt bỏ SIM nhựa cũ cho tới khi xác nhận eSIM hoạt động đầy đủ, gồm cả nghe gọi, nhắn tin và truy cập dữ liệu. Sau khi chuyển, SIM vật lý cũ sẽ bị vô hiệu, nhưng giữ lại vài ngày để đối chiếu vẫn an toàn hơn. Việc giữ thuê bao chính chủ và xác thực đúng thông tin cũng rất quan trọng để tránh rủi ro mất số, một chủ đề được phân tích kỹ trong bài [Starlink Việt Nam và lựa chọn kết nối](/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html) khi nói về hạ tầng viễn thông trong nước.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/jwV9kOFbxws/maxresdefault.jpg" alt="Chuyển đổi eSIM online đơn giản không cần ra cửa hàng" loading="lazy" width="1280" height="720">
+  <figcaption>Xác nhận eSIM nghe gọi và vào mạng được trước khi bỏ SIM vật lý cũ. Nguồn: YouTube</figcaption>
+</figure>
 
 <div class="art-callout">
   ✅ <strong>Mẹo:</strong> Trước khi chuyển sang eSIM, hãy chắc chắn máy hỗ trợ và thuê bao đang chính chủ. Sau khi kích hoạt, thử gọi và vào mạng để xác nhận eSIM hoạt động trước khi bỏ SIM vật lý cũ.

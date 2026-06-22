@@ -112,6 +112,12 @@ Tính theo mốc 15/6, thời điểm khóa hai chiều rơi vào khoảng giữ
   <figcaption>Bỏ lỡ các mốc thời gian có thể khiến thuê bao bị thu hồi vĩnh viễn. Nguồn: YouTube</figcaption>
 </figure>
 
+## Vì sao siết quản lý SIM chính chủ lại quan trọng
+
+Yêu cầu xác thực thuê bao chính chủ không phải thủ tục hành chính đơn thuần mà gắn với một vấn đề nhức nhối nhiều năm: SIM rác và lừa đảo qua điện thoại. Số điện thoại từ lâu đóng vai trò như một danh tính số, được dùng để nhận mã xác thực ngân hàng, đăng nhập tài khoản và xác minh giao dịch. Khi một SIM không gắn với người dùng có thật, nó trở thành công cụ thuận tiện cho các hành vi mạo danh, gọi quấy rối và phát tán tin nhắn lừa đảo mà rất khó truy vết người đứng sau.
+
+Việc mỗi thuê bao gắn với một danh tính được định danh điện tử giúp thu hẹp đáng kể khoảng trống đó. Khi thông tin SIM khớp với căn cước công dân và dữ liệu sinh trắc học, cơ quan chức năng có cơ sở để lần ra nguồn gốc các cuộc gọi hay tin nhắn vi phạm, đồng thời người dân cũng được bảo vệ tốt hơn trước tình trạng bị lấy cắp số hoặc bị đăng ký SIM bằng giấy tờ của mình mà không hay biết. Đây là lý do quá trình chuẩn hóa được triển khai trên diện rộng dù gây bất tiện tạm thời cho một bộ phận người dùng.
+
 ## Nên làm gì ngay hôm nay?
 
 Việc cần làm ngay là kiểm tra trạng thái thuê bao của chính bạn và người thân trên app nhà mạng hoặc VNeID. Nếu thấy cảnh báo chưa xác thực, hãy hoàn tất xác thực trong hôm nay để tránh gián đoạn liên lạc. Thao tác chỉ mất vài phút nếu thông tin đã khớp với căn cước.

@@ -66,7 +66,7 @@ Tiếp theo, bấm *#06# để hiện số IMEI rồi đối chiếu với số 
 
 <div class="art-video-label">VIDEO · Các bước kiểm tra cơ bản khi mua iPhone cũ</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/Dou0r_e9fqE" title="Hướng dẫn kiểm tra iPhone cũ trước khi mua" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/VXPidGY10FQ" title="Hướng dẫn kiểm tra iPhone cũ trước khi mua" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Hướng dẫn các bước kiểm tra cơ bản khi mua iPhone đã qua sử dụng. Nguồn: YouTube</p>
 
@@ -86,6 +86,28 @@ Với màn hình, mở một ảnh nền trắng và một ảnh nền đen toà
 Sau phần phần mềm, hãy test lần lượt các chức năng phần cứng. Kiểm tra Face ID hoặc Touch ID xem có nhận diện nhanh và ổn định không. Chụp thử cả camera trước và sau, quay một đoạn video ngắn để nghe lại tiếng từ mic và loa. Gọi thử một cuộc để kiểm tra sóng và loa thoại, bật wifi và Bluetooth để chắc chắn kết nối hoạt động.
 
 Cuối cùng, cắm sạc để xem cổng còn nhận tốt không, bấm thử các nút nguồn, âm lượng, gạt rung, và quan sát kỹ ngoại hình quanh viền, mặt lưng, cụm camera xem có dấu cạy mở hay không. Một chiếc máy zin, đủ chức năng và ngoại hình khớp với mức giá là tín hiệu đáng tin để xuống tiền.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/leeYlkWTGto/maxresdefault.jpg" alt="Bảy bước kiểm tra iPhone cũ đơn giản để tránh bị lừa" loading="lazy" width="1280" height="720">
+  <figcaption>Kiểm tra lần lượt từng chức năng giúp không bỏ sót lỗi tiềm ẩn. Nguồn: YouTube</figcaption>
+</figure>
+
+## Phân biệt máy zin, máy dựng và máy lên đời số
+
+Trên thị trường iPhone cũ, ngoài máy zin nguyên bản còn có máy dựng, tức máy được lắp ghép từ nhiều linh kiện của các xác máy khác nhau, và máy bị thay vỏ hoặc lên đời số để giả làm phiên bản cao hơn. Máy dựng thường chạy chập chờn, hao pin nhanh, nóng bất thường và dễ hỏng do linh kiện không đồng bộ. Dấu hiệu nhận biết gồm mức giá rẻ bất thường, các con ốc và keo viền có dấu cạy mở, màu sắc các chi tiết không đồng đều.
+
+Một mẹo hữu ích là đối chiếu thông tin phần mềm với ngoại hình. Vào Cài đặt, Giới thiệu để xem dung lượng, số model và đời máy, rồi so với con số in trên thân hoặc khay SIM. Nếu phần mềm khai báo một đời máy nhưng kiểu dáng vỏ lại thuộc đời khác, nhiều khả năng máy đã bị thay vỏ hoặc can thiệp. Việc đối chiếu chéo như vậy giúp phát hiện sớm những chiếc máy đã bị dựng hoặc làm giả thông số.
+
+## Thương lượng giá và giấy tờ kèm theo
+
+Sau khi kiểm tra kỹ, kết quả thu được chính là cơ sở để thương lượng giá hợp lý. Một chiếc máy có dung lượng pin tối đa dưới mức tốt, đã thay vài linh kiện không chính hãng, hoặc trầy xước nhiều đều là lý do chính đáng để đề nghị giảm giá hoặc yêu cầu thay pin trước khi mua. Ngược lại, máy còn zin, pin khỏe và đầy đủ chức năng xứng đáng với mức giá cao hơn đôi chút vì độ bền và sự yên tâm.
+
+Đừng quên hỏi về giấy tờ và phụ kiện đi kèm. Hóa đơn mua hàng, hộp, cáp sạc nguyên bản và lịch sử bảo hành nếu còn đều làm tăng độ tin cậy của giao dịch. Với máy còn trong thời gian bảo hành chính hãng, hãy kiểm tra ngày hết hạn bằng số serial trên công cụ tra cứu chính thức. Một bộ giấy tờ rõ ràng không chỉ giúp yên tâm về nguồn gốc mà còn thuận lợi nếu sau này cần bán lại máy.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/GBBZeTgfmk0/maxresdefault.jpg" alt="Bí mật kiểm tra iPhone cũ ai cũng cần biết" loading="lazy" width="1280" height="720">
+  <figcaption>Đối chiếu thông tin phần mềm với ngoại hình giúp lộ ra máy dựng. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Một vài lưu ý để mua an toàn hơn
 

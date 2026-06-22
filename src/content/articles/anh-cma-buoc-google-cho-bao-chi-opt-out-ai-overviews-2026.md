@@ -97,6 +97,23 @@ Việc Anh đi trước tạo ra một khuôn mẫu mà các cơ quan quản lý
 
 Với người làm nội dung tại Việt Nam, đây là tín hiệu đáng theo dõi. Các nền tảng AI tìm kiếm cũng đang định hình lại cách người đọc tiếp cận thông tin trong nước. Bức tranh chiến lược AI của Google được nói thêm trong bài [Google I/O 2026: Gemini Omni, Android XR và toàn bộ công bố](/articles/google-io-2026-recap-gemini-omni-android-xr.html).
 
+<figure>
+  <img src="https://i.ytimg.com/vi/kOnsqqVbIeY/maxresdefault.jpg" alt="Google trình bày hướng đi AI Mode và AI Overviews trong tìm kiếm" loading="lazy" width="1280" height="720">
+  <figcaption>Google đang dồn trọng tâm tìm kiếm vào AI Mode và AI Overviews. Nguồn: YouTube</figcaption>
+</figure>
+
+## Cơ sở pháp lý của quy định nằm ở đâu?
+
+Quy định của CMA không xuất hiện đơn lẻ mà dựa trên Đạo luật Thị trường Kỹ thuật số, Cạnh tranh và Người tiêu dùng 2024, thường gọi tắt là DMCCA. Đạo luật này trao cho CMA quyền chỉ định một số nền tảng lớn là doanh nghiệp có vị thế thị trường chiến lược, từ đó áp các nghĩa vụ hành vi riêng để bảo đảm cạnh tranh công bằng. Khi Google bị đặt vào diện này trong mảng tìm kiếm, cơ quan quản lý có thể yêu cầu những thay đổi cụ thể về cách hãng vận hành, thay vì chỉ phạt sau khi vi phạm xảy ra.
+
+Cách tiếp cận chủ động đó là điểm khác biệt so với mô hình quản lý cạnh tranh truyền thống. Thay vì chờ tổn hại tích tụ rồi mới điều tra trong nhiều năm, khung DMCCA cho phép đặt ra quy tắc trước và buộc nền tảng tuân thủ trong một mốc thời gian xác định. Đây là lý do quyền opt-out không phạt thứ hạng có thể được triển khai trong khoảng chín tháng, một tốc độ hiếm thấy với các vụ liên quan tới Big Tech.
+
+## Báo chí có những lựa chọn thích nghi nào?
+
+Bên cạnh việc chờ cơ chế opt-out, nhiều tòa soạn đã chủ động điều chỉnh chiến lược nội dung từ trước. Một hướng là tập trung vào những thứ AI Overviews khó tóm tắt thay thế, như phóng sự điều tra, bình luận có quan điểm, dữ liệu độc quyền và nội dung gắn chặt với thương hiệu. Hướng khác là giảm phụ thuộc vào tìm kiếm bằng cách xây kênh trực tiếp với độc giả qua bản tin email, ứng dụng riêng và cộng đồng thành viên trả phí.
+
+Quyền từ chối mà CMA mang lại vì thế nên được nhìn như một công cụ trong bộ công cụ rộng hơn, chứ không phải lời giải duy nhất. Một tòa soạn có thể chọn cấm hoàn toàn, cho phép có điều kiện kèm yêu cầu dẫn nguồn, hoặc thử nghiệm từng phần để đo tác động tới lưu lượng trước khi quyết định. Chính khả năng lựa chọn này, vốn trước đây gần như không tồn tại, mới là thay đổi cốt lõi mà quy định tạo ra cho ngành nội dung.
+
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết dựa trên quy định CMA công bố ngày 3/6/2026. LongTechVision sẽ theo dõi tiến trình Google triển khai trong 9 tháng tới và khả năng nhân rộng ra ngoài Anh.
 </div>

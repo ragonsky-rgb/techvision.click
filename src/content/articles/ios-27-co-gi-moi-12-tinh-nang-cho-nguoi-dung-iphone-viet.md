@@ -114,6 +114,8 @@ Câu trả lời tùy nhu cầu. Nếu dùng iPhone cho công việc và liên l
 
 Nếu muốn trải nghiệm sớm và có máy phụ, có thể cài beta một cách an toàn theo [hướng dẫn cài iOS 27 beta từng bước](/articles/cach-cai-ios-27-beta-tren-iphone-huong-dan-tung-buoc.html), nhớ sao lưu trước khi cài. Với phần lớn người dùng, chờ bản hoàn thiện vẫn là lựa chọn hợp lý nhất để vừa có tính năng mới vừa giữ máy ổn định.
 
+Một lưu ý nữa cho người dùng Việt là nên kiểm tra mức độ tương thích của các ứng dụng ngân hàng, ví điện tử và dịch vụ công thường dùng trước khi cập nhật, vì các app này đôi khi cần thời gian để hỗ trợ phiên bản hệ điều hành mới. Sau khi lên iOS 27, dành ít phút khám phá các thiết lập Siri AI và quyền riêng tư cũng giúp khai thác tốt hơn những tính năng mới mà vẫn kiểm soát được dữ liệu cá nhân.
+
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết dựa trên công bố của Apple tại WWDC 2026 ngày 9/6. Danh sách tính năng và máy tương thích có thể được Apple điều chỉnh. LongTechVision sẽ cập nhật khi iOS 27 bản chính thức phát hành và Apple Intelligence tiếng Việt chính thức tới tay người dùng.
 </div>

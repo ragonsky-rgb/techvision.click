@@ -61,11 +61,16 @@ Sạc nhanh có làm chai pin? Có nên sạc qua đêm, có cần xả cạn r�
 
 Câu trả lời ngắn gọn: trên các máy đời mới được hãng tối ưu, sạc nhanh ít gây hại. Điện thoại hiện đại có hệ thống quản lý sạc thông minh, tự điều tiết dòng điện và theo dõi nhiệt độ để bảo vệ pin. Máy thường sạc nhanh ở giai đoạn đầu khi pin còn thấp, rồi giảm tốc khi gần đầy để hạn chế áp lực lên pin.
 
-Yếu tố thực sự làm pin xuống cấp nhanh là nhiệt độ cao. Khi sạc nhanh mà máy nóng lên rõ rệt, nhất là lúc vừa sạc vừa chơi game nặng, pin sẽ chịu áp lực lớn hơn. Vì vậy, thay vì sợ sạc nhanh, hãy chú ý giữ máy mát: tháo ốp lưng nếu thấy nóng, đặt máy nơi thoáng và tránh sạc dưới gối hay chăn.
+Yếu tố thực sự làm pin xuống cấp nhanh là nhiệt độ cao. Khi sạc nhanh mà máy nóng lên rõ rệt, nhất là lúc vừa sạc vừa chơi game nặng, pin sẽ chịu áp lực lớn hơn. Vì vậy, thay vì sợ sạc nhanh, điều nên làm là giữ máy mát: tháo ốp lưng nếu thấy nóng, đặt máy nơi thoáng và tránh sạc dưới gối hay chăn.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/-u3bLFKjx0w/maxresdefault.jpg" alt="Trải nghiệm dùng sạc nhanh nhiều năm và độ chai pin thực tế" loading="lazy" width="1280" height="720">
+  <figcaption>Sạc nhanh trên máy đời mới ít ảnh hưởng tuổi thọ pin nếu kiểm soát nhiệt tốt. Nguồn: YouTube</figcaption>
+</figure>
 
 <div class="art-video-label">VIDEO · Sự thật về sạc nhanh và pin</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/YmDJk6QoRts" title="Sạc nhanh có hại pin điện thoại không" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/tw1fMk6384U" title="Sạc nhanh có hại pin điện thoại không" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Phân tích tác động thật sự của sạc nhanh lên tuổi thọ pin. Nguồn: YouTube</p>
 
@@ -85,6 +90,27 @@ Về chuyện xả cạn, đây là quan niệm cũ từ thời pin NiMH và kh�
 Trước hết, hãy dùng củ sạc và cáp chính hãng hoặc đạt chuẩn, vì phụ kiện kém chất lượng dễ gây nóng và không ổn định điện áp. Nếu thường cắm sạc lâu hoặc qua đêm, bật tính năng giới hạn sạc 80% có trên cả iPhone và nhiều máy Android để giảm thời gian pin ở mức cao.
 
 Bên cạnh đó, tránh để máy nóng khi sạc, không vừa sạc vừa chơi game nặng, và cố gắng không để pin tụt về 0% rồi để đó lâu. Những thói quen nhỏ này cộng lại giúp làm chậm quá trình chai pin. Nếu muốn máy chạy mượt và bền hơn nói chung, có thể tham khảo thêm bài [cách tăng tốc điện thoại Android](/articles/cach-tang-toc-dien-thoai-android-cham-lag-muot-hon-2026.html).
+
+## Hiểu cơ chế pin Li-ion để dùng đúng
+
+Để biết vì sao các lời khuyên ở trên có cơ sở, cần hiểu sơ về cách pin Li-ion vận hành. Pin lithium-ion lưu trữ năng lượng bằng cách dịch chuyển các ion lithium giữa hai cực mỗi khi sạc và xả. Quá trình này lặp đi lặp lại tạo nên một chu kỳ sạc, và sau nhiều chu kỳ, các phản ứng hóa học bên trong khiến dung lượng giữ điện giảm dần. Đó là lý do tuổi thọ pin thường được đo bằng số chu kỳ chứ không phải số lần cắm sạc.
+
+Một chu kỳ được tính khi tổng lượng điện đã dùng đạt 100% dung lượng, chứ không phải mỗi lần cắm sạc là một chu kỳ. Ví dụ, dùng hết 50% pin hôm nay rồi sạc đầy, dùng tiếp 50% hôm sau rồi sạc đầy, mới tính là một chu kỳ trọn vẹn. Hiểu điều này giúp giải tỏa nỗi lo phải sạc nhiều lần trong ngày: sạc bổ sung vài lần không làm hao chu kỳ nhanh hơn so với một lần xả sâu rồi sạc đầy.
+
+Hai trạng thái gây áp lực lớn nhất cho pin Li-ion là để ở mức quá cao (gần 100% trong thời gian dài) và quá thấp (sát 0%). Khi pin nằm lâu ở hai cực này, điện áp trong tế bào pin lệch khỏi vùng ổn định nhất, đẩy nhanh quá trình lão hóa. Đây chính là cơ sở khoa học cho khuyến nghị duy trì pin trong khoảng 20 tới 80% và bật giới hạn sạc khi hay cắm sạc lâu.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/Wg7ukwL2lDE/maxresdefault.jpg" alt="Cách pin lithium-ion phản ứng khi sạc nhanh và sinh nhiệt" loading="lazy" width="1280" height="720">
+  <figcaption>Pin Li-ion chịu áp lực lớn nhất khi nóng và khi nằm lâu ở mức quá cao hoặc quá thấp. Nguồn: YouTube</figcaption>
+</figure>
+
+## Những hiểu lầm phổ biến về sạc pin
+
+Quanh chuyện pin có nhiều quan niệm đã lỗi thời nhưng vẫn được truyền tai. Hiểu lầm phổ biến nhất là phải sạc đầy 100% rồi mới rút, hoặc phải xả cạn hoàn toàn để pin được hiệu chỉnh lại. Cả hai đều xuất phát từ đặc tính của pin NiMH và NiCd thế hệ cũ, vốn có hiện tượng nhớ dung lượng. Pin Li-ion hiện đại không có hiện tượng này, nên không cần và không nên áp dụng các thói quen đó.
+
+Một hiểu lầm khác là sạc không dây luôn hại pin hơn sạc có dây. Thực tế, sạc không dây có thể sinh nhiệt nhiều hơn nếu đặt lệch hoặc dùng đế kém chất lượng, nhưng các đế sạc tốt có cơ chế tản nhiệt và điều tiết công suất hợp lý. Vấn đề cốt lõi vẫn là kiểm soát nhiệt độ chứ không phải bản thân công nghệ sạc. Tương tự, không cần tắt máy khi sạc, vì điện thoại hiện đại quản lý dòng sạc tốt dù đang bật.
+
+Cuối cùng, nhiều người tin rằng dùng củ sạc công suất cao hơn mức khuyến nghị sẽ làm hỏng pin. Trên thực tế, điện thoại chỉ nhận đúng công suất mà mạch sạc của nó cho phép, nên cắm vào củ mạnh hơn không ép thêm dòng vào pin. Điều cần tránh là củ và cáp trôi nổi không đạt chuẩn, vì chúng có thể cấp điện áp không ổn định và tiềm ẩn rủi ro an toàn.
 
 ## Pin chai là điều tự nhiên
 

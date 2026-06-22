@@ -110,6 +110,8 @@ Với người dùng Việt Nam, dòng gập của Samsung luôn có sức hút 
 
 Tóm lại, Galaxy Unpacked 22/7 hứa hẹn là một trong những sự kiện di động đáng chú ý nhất nửa cuối năm, với điểm nhấn là dòng gập đa dạng hơn và bước tiến vào mảng kính thông minh. Người quan tâm nên chờ thông số cùng giá chính thức từ Samsung, đồng thời theo dõi các đánh giá thực tế sau sự kiện để đánh giá đúng giá trị trước khi xuống tiền, thay vì chỉ dựa vào tin đồn ở giai đoạn này.
 
+Với người định mua, một chiến lược hợp lý là chờ qua đợt mở bán đầu tiên để xem đánh giá thực tế về độ bền bản lề, thời lượng pin và chất lượng camera, vốn là những điểm chỉ bộc lộ rõ sau thời gian dùng. Các chương trình thu cũ đổi mới và ưu đãi đặt trước tại Việt Nam thường kéo dài vài tuần sau sự kiện, nên người mua không cần vội vàng mà có thể cân nhắc kỹ giữa các phiên bản Fold và Flip cho phù hợp nhu cầu.
+
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Ngày tổ chức, danh sách sản phẩm, cấu hình và giá trong bài đều là tin đồn, chưa được Samsung xác nhận chính thức. LongTechVision sẽ cập nhật khi Samsung phát thư mời và công bố tại Galaxy Unpacked.
 </div>

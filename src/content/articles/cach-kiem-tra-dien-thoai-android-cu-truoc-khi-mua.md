@@ -65,7 +65,7 @@ Tiếp theo, bấm *#06# để hiện số IMEI, đối chiếu với số in tr
 
 <div class="art-video-label">VIDEO · Các bước kiểm tra khi mua điện thoại cũ</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/UpNOf08omQU" title="Các bước kiểm tra khi mua điện thoại Android cũ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/dGdfZHTpocU" title="Các bước kiểm tra khi mua điện thoại Android cũ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Các bước kiểm tra nhanh khi đi mua điện thoại cũ. Nguồn: YouTube</p>
 
@@ -85,6 +85,28 @@ Bên cạnh mã test, hãy tự kiểm tra thủ công. Soi màn hình bằng m�
 Tình trạng pin trên Android khó xem trực tiếp như iPhone, nhưng vẫn có cách. Một số máy Samsung có công cụ chẩn đoán trong ứng dụng Samsung Members hoặc Device Care. Nhiều máy cho xem thông tin pin qua mã *#*#4636#*#* hoặc ứng dụng kiểm tra pin. Quan trọng là quan sát máy có tụt pin nhanh, nóng bất thường hay phồng lưng không.
 
 Đừng quên thử đủ các kết nối gồm wifi, Bluetooth và GPS định vị, vì đây là những lỗi hay gặp ở máy đã sửa. Cuối cùng, quan sát kỹ ngoại hình: viền màn có hở hay keo thừa không, các con ốc và khe máy có dấu cạy mở không. Android ít cảnh báo linh kiện hơn iPhone, nên ngoại hình và trải nghiệm thực tế là manh mối quan trọng để phát hiện máy đã can thiệp.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/J6dgD9AM3fc/maxresdefault.jpg" alt="Cách kiểm tra độ chai pin trên điện thoại Android" loading="lazy" width="1280" height="720">
+  <figcaption>Độ chai pin ảnh hưởng lớn tới giá trị và trải nghiệm của máy cũ. Nguồn: YouTube</figcaption>
+</figure>
+
+## Kiểm tra phiên bản phần mềm và khả năng cập nhật
+
+Một yếu tố nhiều người bỏ qua là tình trạng phần mềm của máy Android cũ. Vào Cài đặt, mục Thông tin điện thoại để xem phiên bản Android và bản vá bảo mật gần nhất. Máy đã quá cũ và không còn được hãng hỗ trợ cập nhật sẽ thiếu các bản vá lỗ hổng, tiềm ẩn rủi ro bảo mật và không chạy được một số ứng dụng mới. Mỗi hãng có chính sách cập nhật khác nhau, nên cùng một đời máy nhưng thương hiệu khác nhau có thể có vòng đời phần mềm chênh lệch đáng kể.
+
+Cũng nên cảnh giác với các máy đã can thiệp phần mềm sâu, ví dụ root, mở khóa bootloader hay cài ROM ngoài. Những thay đổi này đôi khi gây mất ổn định, không nhận cập nhật chính thức và làm mất một số tính năng bảo mật như thanh toán không tiếp xúc. Nếu giao diện máy trông khác lạ so với bản gốc của hãng, hãy hỏi rõ người bán và cân nhắc khôi phục về phần mềm nguyên bản trước khi sử dụng lâu dài.
+
+## Phân biệt hàng chính hãng, xách tay và máy hai SIM
+
+Trên thị trường Android cũ có nhiều nguồn gốc máy khác nhau, ảnh hưởng trực tiếp tới giá và trải nghiệm. Máy chính hãng phân phối trong nước thường có chế độ bảo hành rõ ràng và phần mềm tối ưu cho khu vực, trong khi máy xách tay có thể rẻ hơn nhưng đôi khi thiếu một số băng tần sóng, gặp hạn chế về tiếng Việt hoặc dịch vụ. Một số máy nội địa từ thị trường nước ngoài còn cài sẵn ứng dụng riêng và bị giới hạn tính năng.
+
+Khi mua, hãy hỏi rõ máy là bản quốc tế hay nội địa, hỗ trợ một hay hai SIM, có dùng được eSIM hay không nếu cần. Lắp thử SIM của mình để kiểm tra sóng nghe gọi và dữ liệu di động ngay tại chỗ là cách chắc chắn nhất. Một chiếc máy đúng nguồn gốc, đủ băng tần và còn nhận cập nhật sẽ bền giá trị hơn nhiều so với một máy giá rẻ nhưng kén sóng và sớm lỗi thời về phần mềm.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/YEaEVgoiIoM/maxresdefault.jpg" alt="Cách kiểm tra test điện thoại Android cũ đơn giản" loading="lazy" width="1280" height="720">
+  <figcaption>Lắp thử SIM và kiểm tra sóng giúp xác định đúng nguồn gốc máy. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Mua an toàn và chuẩn bị sau khi mua
 

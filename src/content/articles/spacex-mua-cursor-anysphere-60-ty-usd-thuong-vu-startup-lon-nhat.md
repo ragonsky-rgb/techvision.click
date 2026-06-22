@@ -76,7 +76,7 @@ Cursor là trình soạn thảo mã tích hợp AI, được xây dựng để t
 Dù mới ra đời năm 2022, Anysphere đã mở rộng quy mô với tốc độ hiếm thấy, đạt doanh thu quy năm khoảng 2,6 tỷ USD và mảng bán hàng cho doanh nghiệp tăng trưởng mạnh. Chính đà tăng trưởng và vị thế dẫn đầu trong nhóm công cụ lập trình AI là cơ sở để Cursor được định giá tới 60 tỷ USD.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vwme_LkfMgE/maxresdefault.jpg" alt="Phân tích lý do thực sự khiến SpaceX mua lại Cursor" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/6ZdxNaffL_A/maxresdefault.jpg" alt="Phân tích lý do thực sự khiến SpaceX mua lại Cursor" loading="lazy" width="1280" height="720">
   <figcaption>Giới phân tích mổ xẻ động cơ chiến lược phía sau thương vụ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -103,6 +103,13 @@ Thương vụ cũng cho thấy dòng tiền và sức ảnh hưởng đang dồn
 Tại Việt Nam, Cursor đã có lượng người dùng đáng kể trong cộng đồng lập trình viên và các đội phát triển sản phẩm. Trước mắt, công cụ vẫn hoạt động bình thường trong thời gian thương vụ chờ hoàn tất và phê duyệt pháp lý, nên không có thay đổi tức thì với người đang dùng.
 
 Về dài hạn, người dùng nên theo dõi các điều chỉnh có thể có sau khi Cursor về tay SpaceX, gồm chính sách giá, mô hình AI nền tảng và cách xử lý dữ liệu. Việc nắm thêm các lựa chọn thay thế cũng giúp chủ động hơn, có thể tham khảo các công cụ AI mã nguồn mở trong trang [Tài nguyên GitHub theo ngành nghề](/tai-nguyen/) của LongTechVision.
+
+Một điểm tích cực với cộng đồng là sự cạnh tranh gay gắt giữa các công cụ lập trình AI thường kéo theo nhiều cải tiến và chính sách giá hợp lý hơn cho người dùng cuối. Dù vậy, khi một công cụ phổ biến về tay tập đoàn lớn, các đội phát triển nên có thói quen không phụ thuộc hoàn toàn vào một nền tảng duy nhất, mà giữ khả năng chuyển đổi linh hoạt giữa các công cụ khi cần.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/CJzn_bVErnI/maxresdefault.jpg" alt="SpaceX sẽ mua công ty AI lập trình Cursor với giá 60 tỷ USD" loading="lazy" width="1280" height="720">
+  <figcaption>Thương vụ phản ánh dòng tiền khổng lồ đổ vào công cụ lập trình AI. Nguồn: YouTube</figcaption>
+</figure>
 
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết dựa trên công bố thương vụ ngày 16/6/2026. Giao dịch dự kiến hoàn tất quý 3/2026 và còn chờ phê duyệt của cơ quan quản lý. LongTechVision sẽ cập nhật khi có diễn biến mới.

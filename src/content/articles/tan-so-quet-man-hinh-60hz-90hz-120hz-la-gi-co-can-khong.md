@@ -63,9 +63,14 @@ Tần số quét là số lần màn hình làm mới hình ảnh trong một gi
 
 Khác biệt rõ nhất khi cuộn trang web, lướt mạng xã hội và chơi game. Ở 120Hz, nội dung trôi mượt và phản hồi tức thì hơn hẳn so với 60Hz. Với xem video hay các tác vụ tĩnh, khác biệt ít rõ hơn vì nội dung vốn không thay đổi nhanh. Tuy nhiên, khi đã quen với 120Hz, nhiều người thấy khó quay lại 60Hz.
 
+<figure>
+  <img src="https://i.ytimg.com/vi/bAziTE3mBE4/maxresdefault.jpg" alt="So sánh tần số quét 60Hz, 120Hz và 144Hz nên chọn mức nào" loading="lazy" width="1280" height="720">
+  <figcaption>Mức tần số quét phù hợp tùy vào nhu cầu chơi game, lướt nội dung hay tiết kiệm pin. Nguồn: YouTube</figcaption>
+</figure>
+
 <div class="art-video-label">VIDEO · Khác biệt giữa 120Hz và 60Hz</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/X40kcNaLHbU" title="So sánh tần số quét 120Hz và 60Hz trên điện thoại" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/iWSjS9WLd-g" title="So sánh tần số quét 120Hz và 60Hz trên điện thoại" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">So sánh trực quan độ mượt giữa màn 120Hz và 60Hz. Nguồn: YouTube</p>
 
@@ -85,6 +90,27 @@ Tần số quét cảm ứng quyết định độ nhạy và độ trễ khi ch
 Tần số quét cao đi kèm cái giá là tiêu thụ pin nhiều hơn, vì màn phải làm mới nhiều lần hơn mỗi giây. Đây là lý do nhiều máy cho phép chọn thủ công giữa 60Hz và tần số cao, để người dùng hạ xuống khi cần tiết kiệm pin.
 
 Giải pháp thông minh hơn là màn LTPO, công nghệ cho phép tự thay đổi tần số quét linh hoạt theo nội dung. Khi hiển thị màn hình tĩnh, máy hạ tần số xuống rất thấp để tiết kiệm điện, rồi nâng lên 120Hz khi cuộn hay chơi game. Nhờ đó, người dùng có cả độ mượt lẫn thời lượng pin tốt. LTPO thường đi cùng màn OLED cao cấp, như đã đề cập trong bài [màn hình OLED, AMOLED, LCD khác gì](/articles/man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon.html).
+
+## Tần số quét và số khung hình thực tế
+
+Một điểm quan trọng thường bị bỏ qua là màn 120Hz không tự động đồng nghĩa với việc mọi thứ đều chạy ở 120 khung hình mỗi giây. Tần số quét chỉ là khả năng tối đa của màn hình, còn số khung hình thực tế phụ thuộc vào nội dung và sức mạnh phần cứng. Giao diện hệ thống và cuộn nội dung dễ đạt mức cao, nhưng game nặng có thể chỉ chạy 60 hay 90 khung hình tùy cấu hình và mức tối ưu của tựa game.
+
+Phần lớn phim và video trên mạng được quay ở 24 tới 30 khung hình mỗi giây, nên khi xem nội dung này, màn 120Hz không làm phim mượt hơn vì bản thân nguồn không có thêm khung hình. Lợi ích của tần số quét cao chủ yếu nằm ở thao tác tương tác như cuộn, vuốt và chơi game, chứ không phải mọi loại nội dung. Hiểu rõ điều này giúp tránh kỳ vọng sai khi nhìn vào con số Hz trên tờ quảng cáo.
+
+Ngoài ra, để cảm giác mượt thật sự liền mạch, hệ thống cần duy trì khung hình ổn định chứ không chỉ đạt đỉnh cao. Một chiếc máy chạy ổn định ở 90 khung hình thường cho trải nghiệm dễ chịu hơn máy lúc vọt lên 120 lúc tụt xuống 60. Đây là lý do tối ưu phần mềm và sức mạnh chip cũng quan trọng không kém con số tần số quét trên giấy.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/vlfVSD78Kkg/maxresdefault.jpg" alt="Quay chậm cho thấy khác biệt độ mượt giữa màn 120Hz và 60Hz" loading="lazy" width="1280" height="720">
+  <figcaption>Quay chậm cho thấy chuyển động ở 120Hz liền mạch hơn rõ rệt so với 60Hz. Nguồn: YouTube</figcaption>
+</figure>
+
+## Tần số quét trên các thiết bị khác
+
+Tần số quét không chỉ là chuyện của điện thoại. Trên laptop và màn hình máy tính, các tấm nền 120Hz, 144Hz hay cao hơn từ lâu đã là tiêu chuẩn với người chơi game, nơi mỗi khung hình thêm vào có thể tạo lợi thế phản xạ. Máy tính bảng cao cấp cũng dần trang bị tần số quét cao để việc viết bằng bút cảm ứng và cuộn nội dung mượt hơn.
+
+Trên TV, tần số quét được quảng cáo đôi khi gây nhầm lẫn vì nhiều hãng dùng các con số nội suy thay vì tần số quét gốc của tấm nền. Người mua nên phân biệt tần số quét thật, thường là 60Hz hoặc 120Hz, với các thuật ngữ tiếp thị như chỉ số chuyển động được tính bằng phần mềm. Với máy chơi game thế hệ mới hỗ trợ 120Hz, một chiếc TV có tần số quét gốc 120Hz thực sự mới khai thác được lợi ích này.
+
+Điểm chung trên mọi thiết bị là tần số quét cao chỉ thật sự đáng giá khi đi cùng nội dung và phần cứng tương xứng. Một màn hình tần số cao gắn với nguồn phát yếu hay nội dung tĩnh sẽ lãng phí khả năng của nó, nên việc cân nhắc tổng thể hệ sinh thái thiết bị quan trọng hơn là chạy theo con số đơn lẻ.
 
 ## Vậy có cần màn 120Hz không?
 

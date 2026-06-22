@@ -108,6 +108,12 @@ Dù số liệu thuộc về thị trường Mỹ, xu hướng tự động hóa
 
 Bài học thực dụng nhất là chủ động làm chủ AI như công cụ tăng năng suất thay vì cạnh tranh trực tiếp với nó. Ưu tiên rèn các kỹ năng AI khó thay thế như tư duy phản biện, sáng tạo, giao tiếp và khả năng giải quyết vấn đề phức tạp. Quan trọng không kém là theo dõi sát cách công nghệ đang thay đổi chính ngành nghề của mình để thích nghi sớm thay vì bị động.
 
+## Cách đọc số liệu Challenger cho đúng
+
+Một điểm cần lưu ý khi diễn giải các con số này là cơ chế thu thập của Challenger. Báo cáo dựa trên thông báo cắt giảm mà doanh nghiệp công khai, kèm lý do do chính doanh nghiệp tự nêu. Vì thế, khi một công ty ghi lý do là AI, đó là cách họ mô tả quyết định của mình, chứ không nhất thiết phản ánh một phép đo độc lập về phần việc cụ thể nào đã bị máy thay. Nhiều nhà phân tích đặt câu hỏi liệu nhãn AI có khi nào được dùng để gói gọn cả những lý do khác như tái cơ cấu chi phí hay điều chỉnh sau giai đoạn tuyển dụng quá nóng.
+
+Bối cảnh dài hạn cũng đáng để đặt cạnh con số 2026. Làn sóng cắt giảm nhân sự công nghệ vốn đã kéo dài nhiều năm, ban đầu gắn với lãi suất cao và việc các hãng siết lại sau giai đoạn mở rộng thời đại dịch. Yếu tố AI xuất hiện như một lớp nguyên nhân mới chồng lên xu hướng sẵn có, chứ không thay thế hoàn toàn các động lực kinh tế truyền thống. Việc Challenger tách riêng AI thành một hạng mục lý do từ năm 2023 cho phép theo dõi chính phần đóng góp mới này theo thời gian, và đó là lý do dữ liệu năm 2026 được chú ý đến vậy: nó cho thấy một xu hướng vừa hình thành đang tăng tốc rõ rệt thay vì đi ngang.
+
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Số liệu dựa trên báo cáo của Challenger, Gray & Christmas tháng 5/2026 và tổng hợp từ Sherwood News, CNBC. Con số có thể được điều chỉnh trong các báo cáo sau. LongTechVision sẽ cập nhật khi có dữ liệu mới về tác động của AI lên việc làm.
 </div>

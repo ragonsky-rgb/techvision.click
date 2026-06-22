@@ -65,7 +65,7 @@ Cấu hình nhân được đồn khá lạ: 7 nhân thay vì 8, gồm một nh�
 
 <div class="art-video-label">VIDEO · Rò rỉ thiết kế và cấu hình Pixel 11 Pro</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/Ju0FOE1ljeQ" title="Rò rỉ Google Pixel 11 Pro Tensor G6" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/XpZkGWjqU7M" title="Rò rỉ Google Pixel 11 Pro Tensor G6" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Tổng hợp rò rỉ thiết kế, chip và modem của Pixel 11 Pro. Nguồn: YouTube</p>
 
@@ -80,6 +80,19 @@ Quan trọng hơn là phần mềm camera. Các tính năng rò rỉ gồm Night
   <figcaption>Bản Pro XL được đồn có ba camera 50MP và pin 5500mAh. Nguồn: YouTube</figcaption>
 </figure>
 
+## Tiến trình 2nm có ý nghĩa gì với chip di động?
+
+Để hiểu vì sao việc Tensor G6 được đồn lên tiến trình 2nm lại đáng chú ý, cần nắm khái niệm tiến trình sản xuất bán dẫn. Nói đơn giản, tiến trình nhỏ hơn cho phép xếp nhiều bóng bán dẫn hơn trên cùng diện tích, từ đó chip có thể mạnh hơn và tiết kiệm điện hơn ở cùng mức hiệu năng. Bước nhảy từ các tiến trình lớn hơn xuống 2nm về lý thuyết mang lại hiệu suất điện năng tốt hơn, điều đặc biệt quan trọng với điện thoại vốn bị giới hạn bởi pin và khả năng tản nhiệt.
+
+Các đời Tensor trước của Google thường bị đánh giá là yếu hơn về hiệu năng thô và nóng hơn so với chip Apple hay Snapdragon đầu bảng, một phần vì dựa trên tiến trình của Samsung. Việc chuyển sang tiến trình tiên tiến của TSMC, nếu các rò rỉ chính xác, được kỳ vọng thu hẹp khoảng cách đó. Tuy nhiên, cần nhấn mạnh rằng tiến trình chỉ là một yếu tố, còn thiết kế kiến trúc nhân, phần mềm tối ưu và chiến lược quản lý nhiệt mới quyết định hiệu năng cuối cùng mà người dùng cảm nhận.
+
+Đáng chú ý, thế mạnh truyền thống của Tensor không nằm ở hiệu năng thô mà ở khối xử lý AI chuyên dụng phục vụ nhiếp ảnh tính toán và các tính năng thông minh. Nếu TPU mới được đồn trên Tensor G6 thực sự mạnh hơn, đó có thể là điểm tạo khác biệt rõ nhất, vì nó hỗ trợ các tính năng AI chạy ngay trên máy mà Google đang theo đuổi. Tất cả những phân tích này vẫn dựa trên rò rỉ, và chỉ được kiểm chứng khi Google công bố chính thức.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/4Gpzrn42-tM/maxresdefault.jpg" alt="Rò rỉ Google Pixel 11 Pro với Tensor G6 2nm và thiết kế mới" loading="lazy" width="1280" height="720">
+  <figcaption>Tiến trình 2nm được đồn giúp Tensor G6 cải thiện hiệu năng và tiết kiệm điện. Nguồn: YouTube</figcaption>
+</figure>
+
 ## Pixel 11 cạnh tranh ra sao trong năm 2026?
 
 Nếu Tensor G6 thực sự thu hẹp khoảng cách hiệu năng với Apple A20 và Snapdragon đời mới, Pixel 11 Pro sẽ có vị thế tốt hơn hẳn trong nhóm đầu bảng. Thế mạnh truyền thống của Pixel vẫn là nhiếp ảnh tính toán và trải nghiệm phần mềm thuần Google, nay được củng cố bằng các tính năng AI chạy ngay trên thiết bị.
@@ -91,6 +104,19 @@ Nếu Tensor G6 thực sự thu hẹp khoảng cách hiệu năng với Apple A2
 Google chưa phân phối Pixel chính hãng tại Việt Nam, nên máy về chủ yếu theo đường xách tay. Người mua cần cân nhắc yếu tố bảo hành, mức độ hỗ trợ các tính năng AI theo khu vực và giá xách tay thường biến động mạnh trong giai đoạn đầu. Một số tính năng AI của Pixel cũng có thể giới hạn theo ngôn ngữ và quốc gia.
 
 Với người mê nhiếp ảnh điện thoại và hệ sinh thái Google, Pixel 11 vẫn là cái tên đáng theo dõi. Tuy nhiên, ở thời điểm này, mọi thông số và mức giá vẫn là tin đồn, nên cách hợp lý là chờ Google công bố chính thức vào tháng 8 trước khi quyết định.
+
+## Vì sao nhiếp ảnh tính toán là điểm mạnh của Pixel?
+
+Khác với nhiều hãng chạy đua tăng số chấm cảm biến, Pixel từ lâu nổi tiếng nhờ nhiếp ảnh tính toán, tức dùng phần mềm và AI để xử lý ảnh sau khi chụp. Cách tiếp cận này cho phép Pixel cho ra ảnh đẹp, cân bằng sáng tốt và màu sắc nhất quán ngay cả khi phần cứng camera không phải mạnh nhất trên giấy. Các tính năng như chụp đêm, xóa vật thể thừa hay làm nét khuôn mặt đều dựa trên sức mạnh xử lý này.
+
+Theo các rò rỉ, dòng Pixel 11 tiếp tục đẩy mạnh hướng đi đó với loạt tính năng AI xử lý ngay trên thiết bị thay vì gửi lên đám mây. Việc xử lý on-device mang lại hai lợi ích: nhanh hơn vì không chờ kết nối mạng, và riêng tư hơn vì dữ liệu không rời khỏi máy. Đây là xu hướng chung của ngành, cùng mạch với các model AI gọn nhẹ chạy offline như đã phân tích trong bài [Gemma 4 chạy offline trên điện thoại](/articles/gemma-4-chay-offline-tren-dien-thoai-khong-can-internet-ai-on-device.html).
+
+Tuy nhiên, cách tiếp cận thiên về phần mềm cũng có giới hạn. Một số tác vụ vẫn cần cảm biến lớn và ống kính tốt để thu đủ dữ liệu thô, nhất là khi zoom xa hay chụp trong điều kiện cực tối. Vì vậy, nếu các rò rỉ về camera mới và TPU mạnh hơn là đúng, Pixel 11 có thể kết hợp được cả hai thế mạnh. Dù vậy, cho tới khi Google công bố, mọi nhận định về camera vẫn chỉ là suy đoán dựa trên thông tin chưa kiểm chứng.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/rX7EZ3fRdKQ/maxresdefault.jpg" alt="Rò rỉ Google Pixel 11 Pro XL với nâng cấp modem và Tensor G6" loading="lazy" width="1280" height="720">
+  <figcaption>Nhiếp ảnh tính toán và xử lý AI trên máy vẫn là hướng đi đặc trưng của Pixel. Nguồn: YouTube</figcaption>
+</figure>
 
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Toàn bộ thông số, thiết kế và thời điểm ra mắt trong bài là tin đồn và rò rỉ, chưa được Google xác nhận. LongTechVision sẽ cập nhật khi Google chính thức trình làng dòng Pixel 11.

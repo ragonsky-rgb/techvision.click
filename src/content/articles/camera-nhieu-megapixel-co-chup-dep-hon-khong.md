@@ -65,7 +65,7 @@ Tuy nhiên, kích thước ảnh không đồng nghĩa với độ đẹp. Một
 
 <div class="art-video-label">VIDEO · Độ phân giải máy ảnh, chấm nhiều có tốt không</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/VaWEPkvvDAY" title="Megapixel camera chấm nhiều có chụp đẹp hơn không" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/BwNCQnFsqV8" title="Megapixel camera chấm nhiều có chụp đẹp hơn không" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Giải thích vì sao nhiều megapixel không tự khắc cho ảnh đẹp hơn. Nguồn: YouTube</p>
 
@@ -85,6 +85,28 @@ Bên cạnh phần cứng là khẩu độ ống kính, khả năng chống rung
 Đây là lý do nhiều camera 50MP hay 200MP vẫn xuất ảnh mặc định quanh 12 tới 16MP. Kỹ thuật pixel binning gộp nhiều điểm ảnh nhỏ liền kề thành một điểm ảnh lớn ảo, giúp thu sáng tốt hơn và giảm nhiễu. Kết quả là ảnh đời thường sạch và cân bằng hơn so với việc dùng trọn độ phân giải.
 
 Chế độ chụp ở độ phân giải tối đa vẫn có chỗ dùng, nhưng chỉ thực sự lợi khi đủ sáng và bạn cần độ chi tiết cao để cắt cúp hay in khổ lớn. Trong điều kiện thiếu sáng, ảnh full-res thường nhiều nhiễu hơn và dung lượng file rất nặng. Với đa số tình huống hằng ngày, chế độ mặc định đã được tối ưu là lựa chọn tốt nhất.
+
+## Nhiều megapixel có nhược điểm gì?
+
+Số chấm cao không chỉ tốn kém mà còn kéo theo một số bất tiện thực tế. Đầu tiên là dung lượng lưu trữ, mỗi tấm ảnh full-res có thể nặng gấp nhiều lần ảnh thường, nhanh chóng lấp đầy bộ nhớ máy nếu chụp liên tục ở độ phân giải tối đa. Việc sao lưu và chia sẻ những file lớn này cũng chậm và tốn dung lượng đám mây hơn.
+
+Bên cạnh đó, cảm biến nhiều megapixel nhưng kích thước vật lý không đổi buộc mỗi điểm ảnh phải nhỏ hơn, dễ nhiễu hơn khi thiếu sáng nếu không có pixel binning hỗ trợ. Ảnh độ phân giải cực cao cũng đòi tay máy chắc và lấy nét chính xác hơn, vì mọi rung lắc nhỏ đều lộ rõ khi phóng to. Đây là lý do với đa số người dùng phổ thông, chế độ mặc định được tối ưu sẵn cho trải nghiệm tốt hơn là cố chụp full-res mọi lúc.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/5wG_8ZAxDWU/maxresdefault.jpg" alt="Lầm tưởng về megapixel trên máy ảnh và điện thoại" loading="lazy" width="1280" height="720">
+  <figcaption>Nhiều megapixel kéo theo file nặng và yêu cầu cao hơn về tay máy. Nguồn: YouTube</figcaption>
+</figure>
+
+## Vì sao iPhone giữ mức megapixel thấp nhiều năm?
+
+Một ví dụ điển hình cho thấy megapixel không phải tất cả là việc nhiều dòng máy cao cấp từng giữ camera ở mức 12MP trong thời gian dài mà vẫn được khen chụp đẹp. Thay vì chạy đua số chấm, các hãng này tập trung vào cảm biến chất lượng, ống kính tốt và đặc biệt là khâu xử lý ảnh bằng phần mềm. Kết quả là ảnh có màu sắc tự nhiên, dải tương phản rộng và ổn định trong nhiều điều kiện.
+
+Điều này không có nghĩa là megapixel cao vô dụng. Khi đi kèm cảm biến lớn và xử lý tốt, độ phân giải cao mang lại lợi thế rõ khi cần cắt cúp hay zoom kỹ thuật số. Vấn đề chỉ nằm ở chỗ con số megapixel bị quảng cáo thổi phồng thành yếu tố quyết định, trong khi thực tế nó chỉ là một mảnh ghép. Hiểu đúng điều này giúp người mua không trả thêm tiền chỉ vì một con số ấn tượng trên giấy.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/BbvjMOUOkYA/maxresdefault.jpg" alt="Vì sao điện thoại bị chê chụp ảnh xấu nhưng vẫn được thích" loading="lazy" width="1280" height="720">
+  <figcaption>Xử lý ảnh và cảm biến quan trọng hơn con số megapixel. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Chọn điện thoại chụp ảnh thế nào cho đúng?
 

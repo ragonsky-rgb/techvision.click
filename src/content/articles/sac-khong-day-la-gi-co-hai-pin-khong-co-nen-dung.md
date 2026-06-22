@@ -65,7 +65,7 @@ Chuẩn phổ biến nhất là Qi, được hầu hết điện thoại hỗ tr
 
 <div class="art-video-label">VIDEO · Tìm hiểu về sạc không dây cho điện thoại</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/1IJJsvjQOiM" title="Sạc không dây cho điện thoại là gì" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/wFfjl8_QSuI" title="Sạc không dây cho điện thoại là gì" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Giải thích cách sạc không dây hoạt động và những điều cần biết. Nguồn: YouTube</p>
 
@@ -84,13 +84,41 @@ Tuy nhiên trên thực tế, mức ảnh hưởng không đáng kể nếu dùn
 
 Ưu điểm lớn nhất của sạc không dây là sự tiện lợi. Chỉ cần đặt máy lên đế là sạc, rất hợp khi đặt cố định trên bàn làm việc hay đầu giường, đồng thời tránh hao mòn cổng sạc do cắm rút nhiều lần. Với máy có kháng nước, hạn chế dùng cổng sạc cũng giúp giữ gioăng bền hơn.
 
-Nhược điểm là tốc độ thường chậm hơn sạc nhanh có dây và hiệu suất thấp hơn, tức tốn điện hơn một chút cho cùng lượng pin nạp vào. Sạc không dây cũng kén vị trí, đặt lệch là sạc chậm hoặc ngắt, và khó vừa sạc vừa cầm máy dùng. Đây là những đánh đổi cần cân nhắc tùy thói quen của bạn.
+Nhược điểm là tốc độ thường chậm hơn sạc nhanh có dây và hiệu suất thấp hơn, tức tốn điện hơn một chút cho cùng lượng pin nạp vào. Sạc không dây cũng kén vị trí, đặt lệch là sạc chậm hoặc ngắt, và khó vừa sạc vừa cầm máy dùng. Đây là những đánh đổi cần cân nhắc tùy theo thói quen sử dụng.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/mXgDRnh12FM/maxresdefault.jpg" alt="So sánh tốc độ sạc Qi, Qi2 và MagSafe" loading="lazy" width="1280" height="720">
+  <figcaption>So sánh tốc độ giữa Qi, Qi2 và MagSafe khi sạc không dây. Nguồn: YouTube</figcaption>
+</figure>
+
+## Qi, Qi2 và MagSafe khác nhau ra sao?
+
+Qi là chuẩn sạc không dây phổ biến nhất thế giới, do Wireless Power Consortium phát triển và được hầu hết điện thoại Android lẫn iPhone hỗ trợ. Chuẩn Qi truyền thống có nhược điểm là cuộn sạc trong đế và trong máy phải nằm gần nhau, nên đặt lệch tâm sẽ khiến tốc độ giảm hoặc ngắt sạc. Đây là lý do nhiều người than phiền sáng dậy thấy máy chưa đầy pin vì đặt không đúng chỗ.
+
+Qi2 ra đời để giải quyết chính vấn đề đó. Điểm cốt lõi của Qi2 là vòng nam châm bao quanh cuộn sạc, giúp điện thoại tự hút vào đúng tâm đế, loại bỏ tình trạng đặt lệch. Cơ chế nam châm này được phát triển dựa trên công nghệ MagSafe mà Apple đóng góp cho liên minh, nên về bản chất Qi2 và MagSafe rất giống nhau về cách căn chỉnh. MagSafe vẫn là hệ sạc nam châm riêng của Apple cho dòng iPhone, trong khi Qi2 là chuẩn mở dùng chung cho nhiều hãng. Nhờ căn chỉnh chính xác, các chuẩn có nam châm thường sạc ổn định và mát hơn so với Qi đời cũ, đồng thời mở ra hệ sinh thái phụ kiện gắn nam châm như đế đứng, ví và giá đỡ trên ô tô.
 
 ## Mẹo dùng và lời khuyên
 
 Để sạc không dây hiệu quả, hãy đặt máy đúng tâm đế sạc, ưu tiên các đế có nam châm như Qi2 hoặc MagSafe để căn chỉnh chuẩn. Nếu dùng ốp lưng quá dày hoặc ốp có thành phần kim loại, nên tháo ra hoặc chọn ốp tương thích sạc không dây, vì vật cản làm giảm hiệu quả và tăng nhiệt. Đặt đế ở nơi thoáng, tránh chỗ bí nóng.
 
 Lời khuyên chung là dùng kết hợp cả hai hình thức. Sạc không dây phù hợp cho sự tiện lợi ban ngày và qua đêm, còn khi cần đầy pin thật nhanh trước khi ra ngoài, sạc dây vẫn là lựa chọn tối ưu. Cách dùng linh hoạt này vừa tiện vừa giữ pin bền, tận dụng được điểm mạnh của mỗi kiểu sạc.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/wVmIeZtojvQ/maxresdefault.jpg" alt="Sạc không dây ảnh hưởng tới sức khỏe pin và mẹo dùng bền" loading="lazy" width="1280" height="720">
+  <figcaption>Giữ máy mát giúp sạc không dây không ảnh hưởng tới sức khỏe pin. Nguồn: YouTube</figcaption>
+</figure>
+
+## Hiệu suất và lượng điện tiêu thụ
+
+Một khía cạnh ít được nhắc tới là hiệu suất chuyển hóa năng lượng của sạc không dây. Khi truyền điện qua không khí bằng cảm ứng điện từ, một phần năng lượng bị hao hụt và biến thành nhiệt thay vì đi vào pin. Vì vậy để nạp cùng một lượng điện, sạc không dây thường tiêu thụ nhiều điện hơn sạc dây. Phần năng lượng hao hụt này cũng chính là nguyên nhân khiến máy ấm hơn khi sạc không dây so với cắm dây trực tiếp.
+
+Trên quy mô một thiết bị, khoản chênh lệch điện này không đáng kể trong hóa đơn tiền điện hằng tháng. Tuy nhiên với người quan tâm tới tiết kiệm năng lượng, đây là yếu tố cần biết. Để giảm hao hụt, nên chọn đế sạc chất lượng tốt từ thương hiệu uy tín, đặt máy đúng tâm cuộn sạc, và tránh sạc qua ốp lưng quá dày. Đế kém chất lượng có thể vừa sạc chậm, vừa nóng, vừa lãng phí điện. Một số đế còn tiếp tục tiêu thụ điện ở chế độ chờ ngay cả khi không có máy đặt lên, nên rút đế khi không dùng cũng là thói quen hợp lý.
+
+## Khi nào nên ưu tiên sạc không dây
+
+Sạc không dây phát huy giá trị nhất ở những vị trí cố định mà việc cắm rút dây gây phiền phức, chẳng hạn bàn làm việc, đầu giường hay bàn ăn. Đặt máy lên là sạc giúp thao tác nhanh gọn và bàn làm việc gọn gàng hơn, đồng thời giảm số lần cắm rút làm hao mòn cổng sạc theo thời gian. Với điện thoại có khả năng kháng nước, việc hạn chế mở cổng sạc cũng góp phần giữ gioăng chống nước bền hơn.
+
+Ngược lại, trong các tình huống cần nạp pin gấp hoặc khi đang di chuyển, sạc dây và sạc nhanh vẫn vượt trội. Người dùng cũng nên cân nhắc sạc dây khi muốn vừa sạc vừa dùng máy cho tác vụ nặng, vì sạc không dây sẽ sinh nhiệt nhiều và dễ bị ngắt khi nhấc máy lên. Nhìn tổng thể, sạc không dây không thay thế hoàn toàn sạc dây mà bổ sung cho nhau, và sự tiện lợi của nó đủ lớn để ngày càng nhiều mẫu điện thoại tầm trung được trang bị tính năng này.
 
 <div class="art-callout">
   ✅ <strong>Tóm lại:</strong> Sạc không dây tiện và an toàn cho pin nếu giữ máy mát, dù chậm và tốn điện hơn sạc dây đôi chút. Dùng đế có nam châm, tháo ốp dày khi cần, và kết hợp linh hoạt với sạc dây để có trải nghiệm tốt nhất.

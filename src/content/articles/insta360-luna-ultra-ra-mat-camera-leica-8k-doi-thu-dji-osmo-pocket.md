@@ -103,6 +103,14 @@ Pin 1550mAh cho thời gian hoạt động tới 4 giờ, sạc nhanh PD đạt 
   <figcaption>Luna Ultra nhắm tới nhà làm phim độc lập và vlogger chuyên nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
+## Hợp tác Leica trên thiết bị di động có ý nghĩa gì?
+
+Cái tên Leica gắn liền với truyền thống nhiếp ảnh cao cấp của Đức, nổi tiếng nhờ chất ảnh đặc trưng và hệ thống quang học được đánh giá cao. Trong vài năm gần đây, Leica mở rộng sang lĩnh vực di động qua các hợp tác với hãng điện thoại và camera, mang triết lý màu sắc cùng tiêu chuẩn quang học của hãng vào thiết bị nhỏ gọn. Việc Insta360 chọn hợp tác Leica cho Luna Ultra nằm trong xu hướng này, nhằm tạo điểm nhấn về chất ảnh để cạnh tranh trong phân khúc cao cấp.
+
+Trên thực tế, một hợp tác như vậy thường gồm hai phần: tinh chỉnh quang học và xử lý màu sắc. Về quang học, ống kính được thiết kế hoặc kiểm định theo tiêu chuẩn của Leica để đạt độ nét và kiểm soát quang sai tốt. Về màu sắc, các profile màu Leica mang lại tông màu đặc trưng mà nhiều người làm nội dung yêu thích, giúp video có chất riêng ngay từ khâu quay mà không cần chỉnh màu nhiều. Đây là giá trị cộng thêm bên cạnh các thông số phần cứng thuần túy.
+
+Tuy nhiên, người dùng cũng nên hiểu rằng nhãn hợp tác không tự động đảm bảo chất ảnh vượt trội trong mọi điều kiện. Cảm biến, thuật toán xử lý và phần mềm vẫn đóng vai trò lớn, và kết quả cuối cùng phụ thuộc vào cách cả hệ thống phối hợp. Vì vậy, với người cân nhắc Luna Ultra, yếu tố Leica là điểm cộng đáng chú ý, nhưng nên đánh giá tổng thể qua các bài quay thử thực tế thay vì chỉ dựa vào thương hiệu. Người quan tâm chất ảnh Leica trên thiết bị di động có thể tham khảo thêm [Xiaomi 17T Series với camera Leica](/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html) để có góc nhìn so sánh.
+
 ## Có đáng cân nhắc thay cho DJI Osmo Pocket?
 
 Luna Ultra là lời tuyên chiến trực tiếp và sòng phẳng nhất với dòng Osmo Pocket từ trước tới nay: cảm biến lớn hơn ở camera chính, có tele quang học, màn hình tháo rời và bộ codec chuyên nghiệp hơn. Đổi lại, mức giá khởi điểm gần 20 triệu đồng cao hơn hẳn, đặt máy vào phân khúc người dùng nghiêm túc với việc quay dựng.

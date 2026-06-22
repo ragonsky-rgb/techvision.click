@@ -61,19 +61,24 @@ Chọn laptop cho học tập và làm việc không nhất thiết phải đắ
 
 Sai lầm phổ biến là chọn laptop theo con số cấu hình trước khi biết mình thực sự cần gì. Hãy bắt đầu từ ngành học và công việc. Nếu chủ yếu soạn thảo, học trực tuyến, lướt web và xem phim, một máy văn phòng tầm trung là quá đủ, không cần card đồ họa rời hay chip mạnh nhất. Ngược lại, ngành đồ họa, kiến trúc, kỹ thuật hay dựng video đòi hỏi cấu hình cao và màn hình màu chuẩn.
 
-Xác định đúng nhu cầu giúp bạn không trả tiền cho thứ không dùng tới, đồng thời tránh mua máy quá yếu rồi nhanh chật vật. Một sinh viên ngành kinh tế và một sinh viên ngành thiết kế cần hai cấu hình rất khác nhau, nên đừng chạy theo lời khuyên chung chung mà hãy soi vào việc mình sẽ làm hằng ngày.
+Xác định đúng nhu cầu giúp người mua không trả tiền cho thứ không dùng tới, đồng thời tránh mua máy quá yếu rồi nhanh chật vật. Một sinh viên ngành kinh tế và một sinh viên ngành thiết kế cần hai cấu hình rất khác nhau, nên đừng chạy theo lời khuyên chung chung mà hãy soi vào việc thực tế phải làm hằng ngày.
 
 <div class="art-video-label">VIDEO · Tiêu chí chọn laptop sinh viên, văn phòng</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/YK7ZfzBZagA" title="Tiêu chí chọn mua laptop cho sinh viên dân văn phòng" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/-BxcajZxDgw" title="Tiêu chí chọn mua laptop cho sinh viên dân văn phòng" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Các tiêu chí quan trọng khi chọn laptop học tập và làm việc. Nguồn: YouTube</p>
 
 ## Chip, RAM và ổ cứng nên chọn ra sao?
 
-Về chip, các dòng đời mới như Intel Core Ultra, AMD Ryzen hay Snapdragon X đều xử lý tốt tác vụ văn phòng và học tập. Với máy chip Snapdragon X chạy Windows ARM, ưu điểm là pin rất lâu và mỏng nhẹ, nhưng hãy kiểm tra phần mềm chuyên ngành của bạn có tương thích không. RAM nên ở mức 16GB cho năm 2026 để đa nhiệm thoải mái và dùng bền vài năm, vì phần mềm ngày càng nặng.
+Về chip, các dòng đời mới như Intel Core Ultra, AMD Ryzen hay Snapdragon X đều xử lý tốt tác vụ văn phòng và học tập. Với máy chip Snapdragon X chạy Windows ARM, ưu điểm là pin rất lâu và mỏng nhẹ, nhưng cần kiểm tra phần mềm chuyên ngành có tương thích không. RAM nên ở mức 16GB cho năm 2026 để đa nhiệm thoải mái và dùng bền vài năm, vì phần mềm ngày càng nặng.
 
-Ổ cứng thì luôn ưu tiên SSD, vì nó nhanh hơn HDD nhiều lần và bền hơn. Dung lượng 512GB là thoải mái, còn 256GB vẫn ổn nếu ngân sách hạn chế và bạn lưu nhiều dữ liệu trên đám mây. Lưu ý quan trọng năm nay là giá RAM đang tăng, kéo giá các bản cấu hình cao lên, như đã phân tích trong bài [giá laptop tăng vì khủng hoảng RAM AI](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html). Vì vậy hãy chọn 16GB vừa đủ thay vì cố lên 32GB nếu không thực sự cần.
+Ổ cứng thì luôn ưu tiên SSD, vì nó nhanh hơn HDD nhiều lần và bền hơn. Dung lượng 512GB là thoải mái, còn 256GB vẫn ổn nếu ngân sách hạn chế và phần lớn dữ liệu được lưu trên đám mây. Lưu ý quan trọng năm nay là giá RAM đang tăng, kéo giá các bản cấu hình cao lên, như đã phân tích trong bài [giá laptop tăng vì khủng hoảng RAM AI](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html). Vì vậy nên chọn 16GB vừa đủ thay vì cố lên 32GB nếu không thực sự cần.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/WbTxRFUBDxA/maxresdefault.jpg" alt="Các mẫu laptop văn phòng tầm giá 15 triệu đáng mua 2026" loading="lazy" width="1280" height="720">
+  <figcaption>Phân khúc quanh 15 triệu có nhiều lựa chọn văn phòng đáng cân nhắc. Nguồn: YouTube</figcaption>
+</figure>
 
 <figure>
   <img src="https://i.ytimg.com/vi/BI_qjfi2C9s/maxresdefault.jpg" alt="Sinh viên đi mua laptop 5 điều cần lưu ý" loading="lazy" width="1280" height="720">
@@ -82,15 +87,28 @@ Về chip, các dòng đời mới như Intel Core Ultra, AMD Ryzen hay Snapdrag
 
 ## Màn hình, pin và tính di động
 
-Màn hình là thứ bạn nhìn vào hằng ngày nên đừng xem nhẹ. Hãy chọn tấm nền IPS cho góc nhìn rộng và màu tốt, độ phân giải tối thiểu Full HD, ưu tiên loại chống chói nếu hay dùng ngoài sáng. Sinh viên ngành thiết kế nên tìm màn phủ màu cao để làm việc chính xác.
+Màn hình là thứ phải nhìn vào hằng ngày nên đừng xem nhẹ. Hãy chọn tấm nền IPS cho góc nhìn rộng và màu tốt, độ phân giải tối thiểu Full HD, ưu tiên loại chống chói nếu hay dùng ngoài sáng. Sinh viên ngành thiết kế nên tìm màn phủ màu cao để làm việc chính xác.
 
 Nếu thường mang máy tới trường hay quán cà phê, pin và trọng lượng rất quan trọng. Một chiếc laptop mỏng nhẹ, pin cả ngày sẽ tiện hơn nhiều so với máy nặng phải cắm sạc liên tục. Cũng nên để ý cổng kết nối, đảm bảo có đủ USB, cổng xuất hình và lý tưởng là USB-C sạc tiện lợi. Đây là những yếu tố ảnh hưởng trực tiếp tới trải nghiệm dùng hằng ngày.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/x-ujmYJ4sZQ/maxresdefault.jpg" alt="Tư vấn laptop sinh viên chú trọng pin và độ mỏng nhẹ" loading="lazy" width="1280" height="720">
+  <figcaption>Pin lâu và trọng lượng nhẹ là tiêu chí quan trọng với người hay di chuyển. Nguồn: YouTube</figcaption>
+</figure>
+
+## Hệ điều hành và sai lầm thường gặp
+
+Ngoài cấu hình, việc chọn hệ điều hành cũng đáng cân nhắc theo nhu cầu. Windows phổ biến nhất, tương thích rộng với phần mềm chuyên ngành và dễ tìm máy ở mọi tầm giá. macOS trên dòng MacBook nổi bật về thời lượng pin, hiệu năng trên chip Apple và độ hoàn thiện, nhưng giá khởi điểm cao hơn và một số phần mềm chuyên dụng có thể không có bản tương ứng. ChromeOS trên Chromebook giá rẻ chỉ hợp với nhu cầu web và soạn thảo cơ bản, không phải lựa chọn cho công việc nặng.
+
+Một số sai lầm thường gặp khiến người mua tốn tiền không đáng. Thứ nhất là chạy theo card đồ họa rời khi nhu cầu chỉ là văn phòng, vừa đắt vừa hao pin mà ít khi dùng tới. Thứ hai là chọn máy chỉ vì mỏng đẹp mà bỏ qua bàn phím, nhiệt độ và khả năng nâng cấp. Thứ ba là bỏ qua chính sách bảo hành và dịch vụ hậu mãi, vốn quan trọng với một thiết bị dùng hằng ngày trong nhiều năm. Cân nhắc kỹ những điểm này giúp khoản đầu tư bền và đáng tiền hơn.
 
 ## Ngân sách và lời khuyên cuối
 
 Về ngân sách, phân khúc khoảng 12 tới 15 triệu đã cho nhiều lựa chọn laptop văn phòng tốt, đủ dùng bền cho sinh viên và dân văn phòng. Ngành nặng về đồ họa hay kỹ thuật cần đầu tư cao hơn cho chip mạnh, card rời và màn màu chuẩn. Hãy đặt một ngân sách thực tế rồi tìm máy cân bằng nhất trong tầm đó, thay vì cố vượt quá khả năng.
 
-Cuối cùng, cân nhắc giữa máy mới và máy cũ. Máy mới yên tâm về bảo hành, còn laptop cũ đời cao có thể đáng tiền nếu bạn biết kiểm tra và mua nơi uy tín. Dù chọn gì, hãy ưu tiên cấu hình vừa đủ nhu cầu và những yếu tố dùng hằng ngày như pin, màn hình và độ bền, đó mới là cách chi tiền khôn ngoan.
+Khi đã khoanh vùng được ngân sách, một mẹo hữu ích là so sánh vài mẫu cùng tầm giá trên các trang thông số kỹ thuật để đối chiếu chi tiết cấu hình, thay vì chỉ nghe tư vấn tại cửa hàng. Cần chú ý cả những điểm dễ bị bỏ qua như tốc độ và chuẩn của RAM, ổ SSD là loại NVMe nhanh hay SATA chậm hơn, dung lượng pin tính theo watt giờ, và máy có khe nâng cấp RAM hay ổ cứng về sau hay không. Hai chiếc laptop cùng giá nhưng khác nhau ở các chi tiết này có thể mang lại trải nghiệm chênh lệch rõ rệt sau một, hai năm sử dụng.
+
+Cuối cùng, cân nhắc giữa máy mới và máy cũ. Máy mới yên tâm về bảo hành, còn laptop cũ đời cao có thể đáng tiền với người biết kiểm tra và mua nơi uy tín. Dù chọn gì, hãy ưu tiên cấu hình vừa đủ nhu cầu và những yếu tố dùng hằng ngày như pin, màn hình và độ bền, đó mới là cách chi tiền khôn ngoan.
 
 <div class="art-callout">
   ✅ <strong>Tóm lại:</strong> Chọn laptop theo nhu cầu và ngành học, ưu tiên RAM 16GB và SSD, màn IPS Full HD, pin tốt nếu hay di chuyển. Trong bối cảnh giá RAM tăng, hãy chọn cấu hình vừa đủ và dồn ngân sách cho thứ thực sự dùng tới.

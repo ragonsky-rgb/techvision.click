@@ -65,7 +65,7 @@ Một nhóm khác là giả danh cơ quan chức năng. Kẻ lừa đảo đóng
 
 <div class="art-video-label">VIDEO · Cảnh giác lừa đảo qua tin nhắn</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/NkcT-2VFWrw" title="Cảnh giác lừa đảo qua tin nhắn giả mạo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/04zajgg_d50" title="Cảnh giác lừa đảo qua tin nhắn giả mạo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Các thủ đoạn lừa đảo qua tin nhắn ngày càng tinh vi. Nguồn: YouTube</p>
 
@@ -85,6 +85,28 @@ Dấu hiệu rõ ràng nhất là khi đối phương yêu cầu cung cấp mã 
 Có ba nguyên tắc cốt lõi giúp tránh hầu hết các vụ lừa đảo. Một là không bấm vào link lạ trong tin nhắn hay email không rõ nguồn, thay vào đó tự mở ứng dụng chính thức hoặc gõ địa chỉ web bằng tay. Hai là không bao giờ cung cấp mã OTP và mật khẩu cho bất kỳ ai, dù họ tự xưng là ai. Ba là không chuyển tiền khi bị hối thúc hay đe dọa, hãy luôn dừng lại để kiểm chứng.
 
 Khi nhận một thông báo đáng ngờ, cách an toàn nhất là tự gọi lại số tổng đài chính thức của ngân hàng hoặc cơ quan liên quan để xác minh, thay vì gọi lại số trong tin nhắn. Đồng thời, hãy bật xác thực 2 lớp cho các tài khoản quan trọng như đã hướng dẫn trong bài [bật xác thực 2 lớp 2FA](/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html), và không cài ứng dụng từ nguồn ngoài kho chính thức.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/nKCTcmira50/maxresdefault.jpg" alt="Vạch trần chiêu trò lừa đảo qua tin nhắn giả mạo ngân hàng" loading="lazy" width="1280" height="720">
+  <figcaption>Tự gọi lại tổng đài chính thức là cách xác minh an toàn nhất. Nguồn: YouTube</figcaption>
+</figure>
+
+## Cảnh giác với deepfake và cuộc gọi video giả mạo
+
+Một xu hướng lừa đảo mới đáng lo ngại là dùng trí tuệ nhân tạo để giả giọng nói và khuôn mặt người quen. Kẻ gian có thể chiếm tài khoản mạng xã hội của một người, rồi dùng công nghệ deepfake tạo cuộc gọi video ngắn với hình ảnh và giọng nói giống hệt người đó để mượn tiền gấp. Vì thấy mặt và nghe giọng quen, nạn nhân dễ tin và chuyển tiền ngay mà không kiểm chứng.
+
+Cách phòng tránh là không vội tin chỉ vì thấy mặt hay nghe giọng quen trong một cuộc gọi bất ngờ về tiền bạc. Hãy gọi lại bằng số điện thoại đã lưu từ trước, hoặc hỏi một thông tin riêng tư mà chỉ người thật mới biết để xác minh. Các cuộc gọi video deepfake thường có hình ảnh hơi giật, ánh sáng không tự nhiên, khẩu hình lệch so với lời nói hoặc kết nối bị ngắt quãng có chủ đích để che giấu khuyết điểm. Bình tĩnh và kiểm chứng qua một kênh khác luôn là biện pháp an toàn nhất.
+
+## Bảo vệ người lớn tuổi và trẻ em trong gia đình
+
+Người lớn tuổi và trẻ em là hai nhóm dễ trở thành mục tiêu nhất, do ít cập nhật về các chiêu trò mới hoặc dễ tin vào lời hứa hấp dẫn. Với người lớn tuổi, nên hướng dẫn vài nguyên tắc đơn giản, dễ nhớ như tuyệt đối không đọc mã OTP cho ai, không chuyển tiền khi có người lạ hối thúc, và luôn gọi cho con cháu để hỏi ý kiến trước mọi giao dịch bất thường. Cài sẵn số điện thoại tin cậy và bật các tính năng chặn cuộc gọi rác cũng giúp giảm rủi ro.
+
+Với trẻ em, cần dạy các em không cung cấp thông tin cá nhân, không cho mượn hay thuê tài khoản ngân hàng, và cảnh giác với những lời mời kiếm tiền dễ dàng trên mạng. Việc trao đổi cởi mở trong gia đình, chia sẻ các tình huống lừa đảo thực tế đã xảy ra, giúp mọi thành viên nhận diện nguy cơ sớm hơn. Một gia đình cùng cảnh giác và sẵn sàng hỏi ý kiến nhau trước khi hành động là tấm khiên hiệu quả nhất trước các chiêu trò ngày càng tinh vi.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/Jd_hwtYUASA/maxresdefault.jpg" alt="Cảnh báo giả mạo cán bộ ngân hàng hỗ trợ hoàn tiền" loading="lazy" width="1280" height="720">
+  <figcaption>Người lớn tuổi cần được hướng dẫn vài nguyên tắc đơn giản, dễ nhớ. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Nếu lỡ bị lừa, cần làm gì ngay?
 

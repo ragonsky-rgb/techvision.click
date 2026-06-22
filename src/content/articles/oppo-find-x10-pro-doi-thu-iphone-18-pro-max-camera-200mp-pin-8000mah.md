@@ -101,6 +101,12 @@ Bên cạnh Find X10 Pro, các nguồn rò rỉ còn nhắc tới một bản Fi
 
 Nếu chiến lược hai bản là thật, người dùng Việt sẽ có thêm lựa chọn rõ ràng: bản Pro cân bằng giữa giá và cấu hình, còn bản Pro Max nhắm tới người muốn cao cấp tối đa. Tuy vậy, như mọi thông tin khác trong bài, đây vẫn là tin đồn và cần chờ Oppo xác nhận.
 
+## Hành trình nhiếp ảnh của dòng Find X
+
+Việc cụm camera trở thành tâm điểm của Find X10 Pro không phải điều bất ngờ, mà tiếp nối định hướng nhiều năm của dòng Find X. Oppo từ lâu định vị đây là dòng sản phẩm trình diễn công nghệ cao nhất của hãng, nơi thử nghiệm những cảm biến lớn, ống kính tiềm vọng và thuật toán xử lý ảnh tiên tiến trước khi phổ biến xuống các dòng thấp hơn. Sự hợp tác với một thương hiệu máy ảnh giàu truyền thống mang lại cho dòng này hệ màu đặc trưng và bộ lọc mô phỏng phong cách nhiếp ảnh cổ điển, một yếu tố nhận diện được nhiều người yêu nhiếp ảnh di động đánh giá cao.
+
+Hướng đi đặt cược vào camera phản ánh xu thế chung của thị trường flagship, nơi chất lượng ảnh và khả năng zoom xa ngày càng trở thành yếu tố quyết định lựa chọn mua máy. Khi hiệu năng chip đã dư thừa cho hầu hết nhu cầu hằng ngày, camera trở thành mặt trận cạnh tranh rõ rệt nhất giữa các hãng đầu bảng, và đó là lý do mỗi thế hệ Find X đều đẩy giới hạn phần cứng nhiếp ảnh lên một bậc.
+
 ## Giá và thời điểm về Việt Nam
 
 Dòng Find X10 được rò rỉ ra mắt tại Trung Quốc vào quý 4/2026, nhiều nguồn dự đoán tháng 10, với bản toàn cầu theo sau vài tuần. Oppo chưa công bố lịch chính thức nên mốc thời gian này vẫn có thể thay đổi.

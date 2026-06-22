@@ -65,7 +65,7 @@ Kết quả là dung lượng thực sự nạp lại được cho thiết bị 
 
 <div class="art-video-label">VIDEO · Tiêu chí chọn sạc dự phòng</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/us-OJUd2kFY" title="Các tiêu chí khi chọn sạc dự phòng" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/9UfBg-IYuHk" title="Các tiêu chí khi chọn sạc dự phòng" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Những tiêu chí cơ bản khi chọn mua sạc dự phòng. Nguồn: YouTube</p>
 
@@ -85,6 +85,28 @@ Về cổng kết nối, nên ưu tiên loại có cổng USB-C hỗ trợ cả 
 An toàn là yếu tố không nên tiết kiệm. Sạc dự phòng tích trữ năng lượng lớn, nên hàng kém chất lượng dễ phồng pin, nóng quá mức hoặc thậm chí chập cháy. Hãy mua sản phẩm của thương hiệu uy tín, có tem chứng nhận và chế độ bảo hành rõ ràng, tránh hàng trôi nổi giá quá rẻ. Trong quá trình dùng, ngừng ngay nếu thấy cục sạc phồng hay nóng bất thường.
 
 Nếu hay đi máy bay, cần nhớ sạc dự phòng phải để trong hành lý xách tay, không được ký gửi, và thường bị giới hạn dung lượng tối đa 100Wh, tương đương khoảng 27.000mAh. Hãy xem thông số Wh in trên thân sạc và kiểm tra quy định của hãng bay trước chuyến đi để tránh bị giữ lại tại sân bay.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/DVHaDyQ03_E/maxresdefault.jpg" alt="Lưu ý sử dụng và chọn sạc dự phòng tương thích" loading="lazy" width="1280" height="720">
+  <figcaption>Hàng chính hãng có chứng nhận giúp giảm rủi ro phồng pin và chập cháy. Nguồn: YouTube</figcaption>
+</figure>
+
+## Cách đọc thông số Wh và quy đổi mAh
+
+Một con số dễ gây nhầm lẫn là Wh, đơn vị năng lượng in trên thân nhiều cục sạc. Wh được tính bằng dung lượng nhân với điện áp, nên cùng một mức mAh có thể cho ra mức Wh khác nhau tùy điện áp pin. Công thức quy đổi gần đúng là lấy số mAh chia 1.000 rồi nhân với 3,7V, điện áp danh định của pin lithium phổ biến. Theo cách này, cục 20.000mAh tương đương khoảng 74Wh, vẫn nằm trong ngưỡng 100Wh mà phần lớn hãng hàng không cho phép mang lên khoang.
+
+Hiểu cách đọc Wh giúp người dùng đối chiếu nhanh với quy định khi bay và so sánh sòng phẳng giữa các sản phẩm. Một số cục ghi dung lượng mAh rất lớn nhưng khi quy ra Wh lại không vượt trội, do nhà sản xuất tính theo điện áp thấp của lõi pin. Khi cần so sánh chính xác giữa hai cục sạc, nhìn vào Wh sẽ phản ánh đúng lượng năng lượng tích trữ hơn là chỉ nhìn con số mAh quảng cáo.
+
+## Sạc không dây, màn hình và các tính năng phụ
+
+Ngoài dung lượng và công suất, thị trường còn nhiều tính năng phụ đáng cân nhắc. Sạc dự phòng có sạc không dây tích hợp tiện cho người dùng điện thoại hỗ trợ chuẩn này, nhưng hiệu suất sạc không dây thường thấp hơn cắm dây và làm nóng máy hơn, nên phù hợp khi cần sự gọn gàng hơn là tốc độ. Một số mẫu gắn nam châm theo chuẩn MagSafe giúp cố định điện thoại chắc chắn trong lúc sạc.
+
+Màn hình hiển thị phần trăm pin còn lại là tiện ích nhỏ nhưng hữu ích, giúp biết chính xác còn bao nhiêu năng lượng thay vì đoán qua dãy đèn led. Tính năng sạc dòng thấp cho thiết bị nhỏ như tai nghe true wireless cũng đáng lưu tâm, vì nhiều cục công suất cao tự ngắt khi dòng tải quá thấp. Cuối cùng, trọng lượng và kích thước thực tế nên được cân nhắc cùng dung lượng, bởi một cục quá nặng sẽ ít khi được mang theo dù thông số ấn tượng.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/N5xBkMb_7PY/maxresdefault.jpg" alt="Tổng hợp sạc dự phòng nhỏ gọn nhiều thương hiệu" loading="lazy" width="1280" height="720">
+  <figcaption>Cân nhắc trọng lượng và tính năng phụ bên cạnh dung lượng và công suất. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Chọn dung lượng theo nhu cầu
 

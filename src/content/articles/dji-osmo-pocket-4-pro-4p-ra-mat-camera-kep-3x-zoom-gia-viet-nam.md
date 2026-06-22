@@ -66,7 +66,7 @@ Bên cạnh đó là camera tele hoàn toàn mới, dùng cảm biến 1/1.5 inc
 
 <div class="art-video-label">VIDEO · Mở hộp và trên tay DJI Osmo Pocket 4 Pro</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/obX-jrZ_9qs" title="Mở hộp và trên tay DJI Osmo Pocket 4 Pro" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/uewtK5utoOI" title="Mở hộp và trên tay DJI Osmo Pocket 4 Pro" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Trải nghiệm thực tế cụm camera kép và ống tele trên Pocket 4 Pro. Nguồn: YouTube</p>
 
@@ -95,9 +95,27 @@ Trên thị trường quốc tế, Osmo Pocket 4 Pro có giá quanh mức 729 US
 
 <div class="art-video-label">VIDEO · Pocket 4 Pro vs Pocket 4 vs Luna Ultra</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/sljOduPr_A8" title="So sánh DJI Osmo Pocket 4 Pro với Pocket 4 và Insta360 Luna Ultra" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/PNtNkheiI3o" title="So sánh DJI Osmo Pocket 4 Pro với Pocket 4 và Insta360 Luna Ultra" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">So kè camera và khả năng zoom giữa ba thiết bị quay bỏ túi đáng chú ý nhất 2026. Nguồn: YouTube</p>
+
+## Vì sao camera gimbal bỏ túi ngày càng được ưa chuộng?
+
+Sự nổi lên của dòng camera gimbal bỏ túi gắn liền với làn sóng sáng tạo nội dung trên mạng xã hội. Khác với máy ảnh truyền thống nặng nề hay điện thoại dễ rung tay, thiết bị này kết hợp gimbal cơ học giữ khung hình ổn định với cảm biến đủ lớn cho chất ảnh tốt, tất cả gói trong thân máy nằm gọn trong túi quần. Với người quay vlog du lịch, ẩm thực hay đời thường, sự gọn nhẹ và khả năng quay mượt khi di chuyển là yếu tố quyết định.
+
+Điểm cốt lõi của một chiếc camera gimbal là khả năng chống rung cơ học, tức dùng motor vật lý bù lại chuyển động của tay người quay, khác với chống rung điện tử vốn cắt cúp khung hình và đôi khi gây méo. Nhờ gimbal ba trục, người quay có thể vừa đi bộ vừa quay mà hình vẫn ổn định như đặt trên chân máy. Đây là lý do thể loại này được nhà sáng tạo độc lập ưa chuộng, khi họ thường tự quay một mình mà không có ê kíp hỗ trợ.
+
+Trong vài năm gần đây, cuộc cạnh tranh trong phân khúc này ngày càng gay gắt, với các hãng liên tục bổ sung cảm biến lớn hơn, khả năng zoom quang học và các tính năng bám chủ thể bằng AI. Sự xuất hiện cùng thời điểm của Pocket 4 Pro và [Insta360 Luna Ultra](/articles/insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket.html) cho thấy phân khúc camera bỏ túi cao cấp đang bước vào giai đoạn sôi động nhất từ trước tới nay, mang lại nhiều lựa chọn hơn cho người dùng.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/iGCalHw7Qx4/maxresdefault.jpg" alt="Đánh giá DJI Osmo Pocket 4 Pro so sánh với Pocket 4 và Pocket 3" loading="lazy" width="1280" height="720">
+  <figcaption>Camera gimbal bỏ túi kết hợp chống rung cơ học với cảm biến lớn trong thân máy nhỏ. Nguồn: YouTube</figcaption>
+</figure>
+
+<figure>
+  <img src="https://i.ytimg.com/vi/SCnK92hmv-c/maxresdefault.jpg" alt="So sánh trên tay DJI Osmo Pocket 4P và Pocket 4 về camera và zoom" loading="lazy" width="1280" height="720">
+  <figcaption>Phân khúc camera bỏ túi cao cấp đang cạnh tranh sôi động trong năm 2026. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Có đáng nâng cấp từ Osmo Pocket 4 thường?
 

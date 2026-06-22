@@ -65,7 +65,7 @@ Thứ ba là nhiệm vụ, phần quan trọng nhất, nói rõ bạn muốn AI 
 
 <div class="art-video-label">VIDEO · Cách viết prompt cho AI hiệu quả</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/JGPwSFftqgU" title="Cách viết prompt cho AI hiệu quả" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/RiPLeXEwIXE" title="Cách viết prompt cho AI hiệu quả" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Hướng dẫn viết prompt rõ ràng, dễ áp dụng cho người mới. Nguồn: YouTube</p>
 
@@ -85,6 +85,28 @@ Mẹo thứ hai là chia nhiệm vụ lớn thành các bước nhỏ. Thay vì 
 Lỗi phổ biến nhất là hỏi quá mơ hồ hoặc quá rộng. Khi prompt thiếu thông tin, AI buộc phải đưa câu trả lời chung chung và an toàn. Hãy nêu rõ đối tượng, mục tiêu, độ dài, giọng văn và bối cảnh để AI có cơ sở trả lời đúng trọng tâm.
 
 Một lỗi khác là tin hoàn toàn vào câu trả lời. AI có thể đưa thông tin sai một cách tự tin, nên với số liệu, dẫn chứng hay các nội dung quan trọng, hãy luôn kiểm chứng từ nguồn đáng tin cậy. Ngoài ra, đừng nhập dữ liệu nhạy cảm như mật khẩu, thông tin cá nhân hay bí mật kinh doanh vào các công cụ AI công khai. Nếu cần xử lý dữ liệu riêng tư, có thể cân nhắc AI chạy trên máy như trong bài [Gemma 4 chạy offline](/articles/gemma-4-chay-offline-tren-dien-thoai-khong-can-internet-ai-on-device.html).
+
+## Ví dụ prompt cụ thể theo từng nhu cầu
+
+Để dễ hình dung, hãy xem vài ví dụ áp dụng công thức trên. Với việc viết email, một prompt tốt có thể là đóng vai trợ lý hành chính, viết email từ chối lịch hẹn một cách lịch sự, ngắn gọn dưới 120 từ, giọng chuyên nghiệp nhưng thân thiện. Với học tập, có thể yêu cầu đóng vai gia sư, giải thích khái niệm lạm phát cho học sinh lớp 9 bằng ví dụ đời thường, kèm ba câu hỏi ôn tập ở cuối.
+
+Với công việc nội dung, prompt nên nêu rõ nền tảng đăng và đối tượng, ví dụ viết ba phiên bản tiêu đề cho bài đăng Facebook về khóa học tiếng Anh, hướng tới phụ huynh, mỗi tiêu đề dưới 15 từ. Điểm chung của các ví dụ này là đều có vai trò, bối cảnh, nhiệm vụ cụ thể và ràng buộc rõ ràng về độ dài hay giọng văn, nhờ đó AI cho kết quả sát ý ngay từ lượt đầu thay vì phải sửa nhiều lần.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/0TjAbMYlqEw/maxresdefault.jpg" alt="Cách viết prompt cho ChatGPT và Gemini kèm prompt mẫu" loading="lazy" width="1280" height="720">
+  <figcaption>Prompt có ràng buộc rõ ràng cho kết quả sát ý hơn. Nguồn: YouTube</figcaption>
+</figure>
+
+## Khác biệt nhỏ giữa các công cụ AI
+
+Công thức prompt nền tảng áp dụng tốt cho hầu hết trợ lý AI, nhưng mỗi công cụ vẫn có thế mạnh riêng. ChatGPT thường mạnh về viết và lập luận theo hội thoại, Gemini gắn kết tốt với hệ sinh thái Google và tìm kiếm thông tin, còn Claude được đánh giá cao ở các tác vụ văn bản dài và bám sát yêu cầu. Khi đổi qua lại giữa các công cụ, bạn không cần học lại từ đầu, chỉ cần tinh chỉnh đôi chút cho phù hợp.
+
+Một lưu ý là độ dài và cách trình bày prompt có thể khác nhau giữa các mô hình. Với những tác vụ phức tạp, việc nói rõ từng bước và yêu cầu AI trình bày quá trình suy luận thường cho kết quả tốt hơn. Quan trọng nhất vẫn là thực hành đều đặn để cảm nhận cách mỗi công cụ phản hồi, từ đó rút ra cách viết prompt phù hợp với phong cách làm việc của riêng mình.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/sSfiaefWtUo/maxresdefault.jpg" alt="Kỹ thuật viết prompt cho Gemini AI trong công việc" loading="lazy" width="1280" height="720">
+  <figcaption>Mỗi công cụ AI có thế mạnh riêng khi xử lý prompt. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Biến prompt thành kỹ năng hằng ngày
 

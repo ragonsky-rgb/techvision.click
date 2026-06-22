@@ -108,6 +108,12 @@ Thú vị là chính Apple cũng tích hợp Google Gemini vào Siri AI trên iO
   <figcaption>Trải nghiệm thực tế Siri AI trên iOS 27, chờ bản chính thức để đánh giá đầy đủ. Nguồn: YouTube</figcaption>
 </figure>
 
+## Siri AI tiếng Việt sẽ khác gì trợ lý hiện nay?
+
+Điểm được chờ đợi nhất ở Siri AI là khả năng hiểu ngữ cảnh và thực hiện thao tác liên ứng dụng bằng tiếng Việt, thay vì chỉ trả lời câu hỏi đơn lẻ như Siri cũ. Theo những gì Apple giới thiệu, trợ lý mới có thể nắm thông tin trên màn hình, ghi nhớ ngữ cảnh cuộc trò chuyện và xâu chuỗi nhiều bước, ví dụ tìm một địa chỉ trong tin nhắn rồi chỉ đường tới đó mà không cần thao tác thủ công nhiều lần.
+
+Khác biệt lớn so với việc dùng app ChatGPT hay Gemini riêng lẻ nằm ở mức độ tích hợp sâu vào hệ điều hành. Siri AI hoạt động xuyên suốt các ứng dụng hệ thống, tôn trọng quyền riêng tư theo hướng xử lý trên thiết bị với nhiều tác vụ, và chỉ chuyển lên đám mây khi cần năng lực tính toán lớn. Với người dùng Việt, chất lượng nhận diện và phản hồi tiếng Việt tự nhiên sẽ là yếu tố quyết định trợ lý này có thực sự hữu ích hằng ngày hay không, và đó cũng là điều cần chờ bản chính thức để đánh giá đầy đủ.
+
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết dựa trên thông tin Apple công bố tại WWDC 2026. Lộ trình và danh sách máy có thể được Apple điều chỉnh. LongTechVision sẽ cập nhật khi iOS 27 bản chính thức phát hành và Siri AI tiếng Việt chính thức đến tay người dùng.
 </div>
