@@ -1,7 +1,7 @@
 ---
 slug: "apple-wwdc-2026-tinh-nang-an-toan-tre-em-kiem-soat-cua-cha-me"
 title: "Apple WWDC 2026: loạt tính năng an toàn trẻ em và kiểm soát của cha mẹ"
-description: "Apple công bố tính năng an toàn trẻ em tại WWDC 2026: tài khoản trẻ em theo độ tuổi, Ask to Browse, Time Allowances, lọc nội dung bạo lực và chia sẻ khoảng tuổi"
+description: "Tại WWDC 2026, Apple công bố loạt tính năng an toàn trẻ em ở cấp thiết bị, giúp cha mẹ kiểm soát con truy cập gì, liên lạc với ai và dùng máy bao lâu."
 keywords: "Apple an toàn trẻ em, WWDC 2026 trẻ em, kiểm soát của cha mẹ iPhone, tài khoản trẻ em Apple, Ask to Browse, Screen Time iOS 27, Time Allowances"
 category: "Apple"
 type: "tin-tuc"

@@ -1,7 +1,7 @@
 ---
 slug: "gemma-4-chay-offline-tren-dien-thoai-khong-can-internet-ai-on-device"
 title: "Gemma 4 chạy offline trên điện thoại: AI không cần Internet, miễn phí"
-description: "Google Gemma 4 ra mắt 2/4/2026 cho phép chạy AI trực tiếp trên điện thoại và laptop, hoàn toàn offline qua AI Edge Gallery. Bản nhỏ chỉ khoảng 1GB, hỗ trợ"
+description: "Google vừa đưa AI tạo sinh ra khỏi đám mây và đặt thẳng vào túi quần người dùng."
 keywords: "Gemma 4, AI chạy offline điện thoại, Google Gemma 4 on-device, AI không cần Internet, Google AI Edge Gallery, AI offline miễn phí, Gemma 4 vs Gemma 3, model AI mã nguồn mở"
 category: "AI"
 type: "tin-tuc"

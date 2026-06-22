@@ -1,7 +1,7 @@
 ---
 slug: "wifi-7-la-gi-co-nen-nang-cap-router-wifi-7"
 title: "Wi-Fi 7 là gì? Có nên nâng cấp router Wi-Fi 7 năm 2026?"
-description: "Wi-Fi 7 là gì, khác gì Wi-Fi 6 và 6E, nhanh hơn bao nhiêu, có cần thiết bị hỗ trợ và có đáng nâng cấp router Wi-Fi 7 không? Giải thích dễ hiểu và lời khuyên"
+description: "Wi-Fi 7 được quảng cáo nhanh gấp nhiều lần Wi-Fi 6 và đang xuất hiện trên ngày càng nhiều router cùng điện thoại đầu bảng."
 keywords: "Wi-Fi 7 là gì, router Wi-Fi 7, Wi-Fi 7 vs Wi-Fi 6, có nên nâng cấp Wi-Fi 7, băng tần 6GHz, MLO, 802.11be, mạng không dây"
 category: "Internet"
 type: "cam-nang"

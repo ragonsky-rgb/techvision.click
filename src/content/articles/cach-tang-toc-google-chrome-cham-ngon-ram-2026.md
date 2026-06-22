@@ -1,7 +1,7 @@
 ---
 slug: "cach-tang-toc-google-chrome-cham-ngon-ram-2026"
 title: "Cách tăng tốc Google Chrome chậm, ngốn RAM: 8 mẹo cho máy nhẹ hơn"
-description: "Chrome chậm, ngốn RAM, lag máy? 8 mẹo tăng tốc: gỡ tiện ích thừa, bật tiết kiệm bộ nhớ, dọn cache, quản lý tab, tắt chạy nền, cập nhật và quét phần mềm rác"
+description: "Google Chrome là trình duyệt phổ biến nhất nhưng cũng nổi tiếng ngốn RAM, dễ làm máy chậm khi mở nhiều tab và tiện ích."
 keywords: "tăng tốc Google Chrome, Chrome ngốn RAM, Chrome bị chậm lag, giảm RAM Chrome, dọn cache Chrome, tiết kiệm bộ nhớ Chrome, gỡ tiện ích Chrome"
 category: "Internet"
 type: "cam-nang"
@@ -107,7 +107,7 @@ Ngoài các bước tối ưu một lần, thói quen hằng ngày quyết đị
 Bên cạnh đó, hãy cân nhắc trước khi cài thêm tiện ích mới, chỉ thêm khi thực sự cần và gỡ ngay khi không dùng nữa. Cài một trình chặn quảng cáo uy tín cũng giúp các trang nặng tải nhanh hơn và bớt tiêu tốn tài nguyên. Kết hợp việc tối ưu Chrome với việc tăng tốc toàn hệ thống sẽ cho hiệu quả tốt nhất, có thể tham khảo thêm bài [cách tăng tốc laptop Windows](/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html) để máy chạy mượt toàn diện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3JJQOetbwsM/maxresdefault.jpg" alt="Chữa bệnh ngốn RAM của Chrome và trình duyệt khác" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/3JJQOetbwsM/hqdefault.jpg" alt="Chữa bệnh ngốn RAM của Chrome và trình duyệt khác" loading="lazy" width="1280" height="720">
   <figcaption>Thói quen quản lý tab và tiện ích giúp trình duyệt luôn nhẹ. Nguồn: YouTube</figcaption>
 </figure>
 

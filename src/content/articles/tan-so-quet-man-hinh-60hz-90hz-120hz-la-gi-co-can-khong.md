@@ -1,7 +1,7 @@
 ---
 slug: "tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong"
 title: "Tần số quét 60Hz, 90Hz, 120Hz là gì? Có thực sự cần thiết?"
-description: "Tần số quét màn hình 60Hz, 90Hz, 120Hz là gì, khác gì tần số quét cảm ứng, có làm tốn pin không và có thực sự cần thiết khi chọn điện thoại? Giải thích dễ"
+description: "120Hz, 144Hz, tần số quét cảm ứng: các con số Hz xuất hiện dày đặc trong quảng cáo điện thoại, nhưng không phải ai cũng hiểu chúng nghĩa là gì và có đáng để."
 keywords: "tần số quét màn hình, 120Hz là gì, 60Hz vs 120Hz, tần số quét cảm ứng, refresh rate, màn hình 120Hz có cần không, LTPO, chọn điện thoại"
 category: "Smartphone"
 type: "cam-nang"
@@ -81,7 +81,7 @@ Một điểm gây nhầm lẫn phổ biến là giữa tần số quét màn h�
 Tần số quét cảm ứng quyết định độ nhạy và độ trễ khi chạm, nên cực kỳ quan trọng với game thủ cần thao tác nhanh và chính xác. Hai thông số này khác nhau, một chiếc máy có thể có màn 120Hz nhưng tần số quét cảm ứng cao hơn nhiều. Khi chọn máy chơi game, nên để ý cả hai chỉ số này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/YNKbQexB8wg/maxresdefault.jpg" alt="Tần số quét cảm ứng quan trọng khi chọn điện thoại chơi game" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/YNKbQexB8wg/hqdefault.jpg" alt="Tần số quét cảm ứng quan trọng khi chọn điện thoại chơi game" loading="lazy" width="1280" height="720">
   <figcaption>Tần số quét cảm ứng ảnh hưởng lớn tới trải nghiệm chơi game. Nguồn: YouTube</figcaption>
 </figure>
 

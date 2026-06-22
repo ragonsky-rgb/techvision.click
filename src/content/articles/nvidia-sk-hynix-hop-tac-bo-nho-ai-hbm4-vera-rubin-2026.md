@@ -1,7 +1,7 @@
 ---
 slug: "nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026"
 title: "Nvidia bắt tay SK hynix làm bộ nhớ AI HBM4: vì sao giá RAM còn tăng?"
-description: "Nvidia và SK hynix ký hợp tác nhiều năm đồng phát triển bộ nhớ AI thế hệ mới HBM4 cho nền tảng Vera Rubin. Tin công bố 7/6/2026, lý giải vì sao giá RAM tiếp"
+description: "Nvidia và SK hynix vừa nâng quan hệ nhà cung cấp lâu năm thành một hợp tác chiến lược nhiều năm để cùng phát triển bộ nhớ thế hệ mới cho các nhà máy AI."
 keywords: "Nvidia SK hynix hợp tác bộ nhớ AI, bộ nhớ HBM4, Nvidia Vera Rubin, khủng hoảng giá RAM 2026, bộ nhớ AI thế hệ mới, giá RAM tăng 2026, chip nhớ AI SK hynix, SOCAMM2"
 category: "AI"
 type: "tin-tuc"

@@ -1,7 +1,7 @@
 ---
 slug: "laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau"
 title: "Làn sóng laptop Snapdragon X2 Elite 2026: Surface mới, NPU 80 TOPS, pin cực trâu"
-description: "Snapdragon X2 Elite khởi động làn sóng laptop AI 2026: Surface Pro và Surface Laptop mới, NPU 80 TOPS, RAM tới 64GB, pin 20 tới 29 giờ. Hiệu năng CPU hơn 75%"
+description: "Năm 2026 được xem là năm của laptop AI, và chip Snapdragon X2 Elite đang dẫn đầu làn sóng đó."
 keywords: "Snapdragon X2 Elite, laptop AI 2026, Surface Laptop 8, NPU 80 TOPS, laptop Windows ARM, Lenovo Yoga Slim 7x, laptop pin trâu, Snapdragon X2 Plus"
 category: "Laptop"
 type: "tin-tuc"

@@ -1,7 +1,7 @@
 ---
 slug: "xai-grok-cap-nhat-thang-6-2026-grok-4-3-aws-grok-cho-word-mo-hinh-moi"
 title: "xAI Grok dồn dập cập nhật tháng 6/2026: lên AWS, vào Word, mô hình mới"
-description: "xAI tung loạt cập nhật Grok tháng 6/2026: Grok 4.3 lên AWS Bedrock với ngữ cảnh 1 triệu token, Grok Imagine Video 1.5, Grok cho Word và mô hình nền mới"
+description: "xAI của Elon Musk có một tháng 6/2026 bận rộn với loạt cập nhật cho trợ lý Grok."
 keywords: "xAI Grok, Grok 4.3, Grok cập nhật 2026, Grok cho Word, Grok Imagine Video, mô hình Grok mới, Elon Musk xAI"
 category: "AI"
 type: "tin-tuc"

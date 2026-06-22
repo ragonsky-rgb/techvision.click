@@ -1,7 +1,7 @@
 ---
 slug: "cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan"
 title: "Cách chọn sạc dự phòng: dung lượng thực, công suất và an toàn"
-description: "Hướng dẫn chọn sạc dự phòng đúng: vì sao dung lượng thực thấp hơn ghi trên vỏ, cách tính số lần sạc, chọn công suất sạc nhanh, số cổng, an toàn và quy định"
+description: "Sạc dự phòng 10.000mAh nhưng sạc đầy điện thoại chưa được hai lần? Đó không hẳn là hàng dởm, mà do cách tính dung lượng."
 keywords: "cách chọn sạc dự phòng, dung lượng thực pin dự phòng, mAh thực, sạc dự phòng sạc nhanh, pin dự phòng tốt, sạc dự phòng mang lên máy bay, sạc dự phòng an toàn"
 category: "Smartphone"
 type: "cam-nang"
@@ -87,7 +87,7 @@ An toàn là yếu tố không nên tiết kiệm. Sạc dự phòng tích trữ
 Nếu hay đi máy bay, cần nhớ sạc dự phòng phải để trong hành lý xách tay, không được ký gửi, và thường bị giới hạn dung lượng tối đa 100Wh, tương đương khoảng 27.000mAh. Hãy xem thông số Wh in trên thân sạc và kiểm tra quy định của hãng bay trước chuyến đi để tránh bị giữ lại tại sân bay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DVHaDyQ03_E/maxresdefault.jpg" alt="Lưu ý sử dụng và chọn sạc dự phòng tương thích" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/DVHaDyQ03_E/hqdefault.jpg" alt="Lưu ý sử dụng và chọn sạc dự phòng tương thích" loading="lazy" width="1280" height="720">
   <figcaption>Hàng chính hãng có chứng nhận giúp giảm rủi ro phồng pin và chập cháy. Nguồn: YouTube</figcaption>
 </figure>
 

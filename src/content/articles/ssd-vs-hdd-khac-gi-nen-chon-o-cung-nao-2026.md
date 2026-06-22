@@ -1,7 +1,7 @@
 ---
 slug: "ssd-vs-hdd-khac-gi-nen-chon-o-cung-nao-2026"
 title: "SSD và HDD khác gì nhau? Nên chọn ổ cứng nào cho laptop và PC 2026"
-description: "SSD và HDD khác nhau thế nào, nên chọn loại nào? So sánh tốc độ, độ bền, giá, dung lượng và gợi ý chọn ổ cứng theo nhu cầu lưu trữ, chơi game, làm việc"
+description: "SSD và HDD là hai loại ổ cứng phổ biến nhất, khác nhau cơ bản về cách lưu dữ liệu, tốc độ và độ bền."
 keywords: "SSD và HDD khác gì, nên chọn SSD hay HDD, so sánh SSD HDD, ổ cứng SSD là gì, nâng cấp SSD cho laptop, chọn ổ cứng máy tính, ổ SSD NVMe"
 category: "Laptop"
 type: "cam-nang"
@@ -87,7 +87,7 @@ Không phải mọi SSD đều giống nhau. SSD SATA dùng chung giao tiếp v�
 Về hình thức, SSD phổ biến ở hai dạng: dạng 2,5 inch giống ổ cứng laptop truyền thống dùng cổng SATA, và dạng thanh M.2 nhỏ gọn cắm trực tiếp lên bo mạch, thường dùng cho NVMe. Trước khi mua, cần kiểm tra máy hỗ trợ chuẩn và khe cắm nào để chọn đúng loại. Với phần lớn laptop và PC đời mới, SSD NVMe M.2 là lựa chọn cho hiệu năng tốt nhất trong tầm giá.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/01b3XqkROBc/maxresdefault.jpg" alt="Ổ cứng là gì và nhu cầu nào nên chọn SSD hay HDD" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/01b3XqkROBc/hqdefault.jpg" alt="Ổ cứng là gì và nhu cầu nào nên chọn SSD hay HDD" loading="lazy" width="1280" height="720">
   <figcaption>Chọn chuẩn SSD phù hợp giúp khai thác hết hiệu năng máy. Nguồn: YouTube</figcaption>
 </figure>
 

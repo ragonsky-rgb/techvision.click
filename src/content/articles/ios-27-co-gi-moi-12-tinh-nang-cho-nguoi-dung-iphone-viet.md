@@ -1,7 +1,7 @@
 ---
 slug: "ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet"
 title: "iOS 27 có gì mới? 12 tính năng cho người dùng iPhone Việt"
-description: "iOS 27 tại WWDC 2026: Siri AI cấp hệ điều hành, cross-app context, Liquid Glass chỉnh trong suốt, hiệu năng nhanh hơn 30%. 12 tính năng cho người dùng iPhone"
+description: "WWDC 2026 đã khép lại với iOS 27, bản cập nhật mà Apple đặt cược lớn vào AI."
 keywords: "iOS 27 tính năng mới, iOS 27 có gì mới, Siri AI 2026, Apple Intelligence Việt Nam, iOS 27 iPhone nào, Liquid Glass, nâng cấp iOS 27"
 category: "Apple"
 type: "tin-tuc"

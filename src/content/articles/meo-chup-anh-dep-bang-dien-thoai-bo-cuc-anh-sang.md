@@ -1,7 +1,7 @@
 ---
 slug: "meo-chup-anh-dep-bang-dien-thoai-bo-cuc-anh-sang"
 title: "Mẹo chụp ảnh đẹp bằng điện thoại: bố cục, ánh sáng và 9 thủ thuật"
-description: "9 mẹo chụp ảnh đẹp bằng điện thoại cho người mới: quy tắc bố cục một phần ba, tận dụng ánh sáng, khóa nét và phơi sáng, giữ máy chắc và hậu kỳ nhẹ. Không cần"
+description: "Một bức ảnh đẹp không phụ thuộc hoàn toàn vào chiếc điện thoại đắt tiền, mà nằm ở cách bạn nhìn và bắt khoảnh khắc."
 keywords: "mẹo chụp ảnh đẹp bằng điện thoại, bố cục chụp ảnh, quy tắc một phần ba, chụp ảnh ánh sáng, chụp ảnh điện thoại cho người mới, khóa nét phơi sáng, chụp ảnh chân dung"
 category: "Camera"
 type: "cam-nang"

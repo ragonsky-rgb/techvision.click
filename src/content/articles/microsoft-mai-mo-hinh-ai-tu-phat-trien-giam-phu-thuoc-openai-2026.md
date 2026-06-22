@@ -1,7 +1,7 @@
 ---
 slug: "microsoft-mai-mo-hinh-ai-tu-phat-trien-giam-phu-thuoc-openai-2026"
 title: "Microsoft tung loạt mô hình AI tự phát triển MAI, giảm phụ thuộc OpenAI"
-description: "Microsoft công bố các mô hình AI tự phát triển MAI tại Build 2026, gồm MAI-Code-1-Flash cho lập trình, nhằm giảm phụ thuộc OpenAI và hạ chi phí dịch vụ"
+description: "Microsoft công bố loạt mô hình AI do chính hãng tự phát triển dưới tên gọi MAI, trong đó có mô hình lập trình MAI-Code-1-Flash."
 keywords: "Microsoft MAI, mô hình AI Microsoft, MAI-Code-1-Flash, Microsoft giảm phụ thuộc OpenAI, Mustafa Suleyman, AI lập trình, Microsoft Build 2026"
 category: "AI"
 type: "tin-tuc"

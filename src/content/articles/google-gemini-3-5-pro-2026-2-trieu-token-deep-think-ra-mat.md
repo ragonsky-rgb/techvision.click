@@ -1,7 +1,7 @@
 ---
 slug: "google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat"
 title: "Google Gemini 3.5 Pro: cửa sổ 2 triệu token và chế độ Deep Think"
-description: "Google Gemini 3.5 Pro công bố tại I/O 2026, dự kiến mở rộng tháng 6: cửa sổ ngữ cảnh 2 triệu token, chế độ suy luận Deep Think và xử lý đa phương thức"
+description: "Google giới thiệu Gemini 3.5 Pro tại sự kiện I/O, mô hình AI đầu bảng mới với cửa sổ ngữ cảnh lên tới 2 triệu token, chế độ suy luận Deep Think và khả năng đa."
 keywords: "Gemini 3.5 Pro, Google Gemini 3.5, cửa sổ ngữ cảnh 2 triệu token, Deep Think Gemini, Gemini 3.5 Pro giá, mô hình AI Google 2026, Gemini I/O 2026"
 category: "AI"
 type: "tin-tuc"

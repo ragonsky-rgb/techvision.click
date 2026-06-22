@@ -22,6 +22,24 @@
 
 ## Bài viết nổi bật (2026)
 
+- Anthropic và OpenAI nộp hồ sơ IPO: làn sóng giga-IPO ngành AI 2026: https://techvision.click/articles/anthropic-openai-nop-ho-so-ipo-2026-lan-song-giga-ipo-ai.html
+- Snap ra mắt kính AR Specs giá 2.195 USD: đối thủ mới của Apple Vision Pro: https://techvision.click/articles/snap-specs-kinh-ar-2026-ra-mat-gia-2195-usd-doi-thu-apple-vision-pro.html
+- Redmi K90 Ultra lộ diện: vũ khí gaming pin 8500mAh, quạt tản nhiệt, giá rẻ: https://techvision.click/articles/redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re.html
+- Microsoft tung loạt mô hình AI tự phát triển MAI, giảm phụ thuộc OpenAI: https://techvision.click/articles/microsoft-mai-mo-hinh-ai-tu-phat-trien-giam-phu-thuoc-openai-2026.html
+- Google Gemini 3.5 Pro: cửa sổ 2 triệu token và chế độ Deep Think: https://techvision.click/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html
+- Nintendo Switch 2 sau một năm: gần 20 triệu máy nhưng đà bán chậm lại: https://techvision.click/articles/nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai.html
+- AI Thực chiến 2026: gameshow trí tuệ nhân tạo đầu tiên trên sóng VTV: https://techvision.click/articles/ai-thuc-chien-2026-vtv-gameshow-tri-tue-nhan-tao-dau-tien-viet-nam.html
+- Pinterest ra mắt Ask Pinterest: tìm kiếm bằng hội thoại AI thay vì ảnh: https://techvision.click/articles/pinterest-ask-pinterest-ung-dung-ai-hoi-dap-tim-kiem-2026.html
+- ChatGPT cập nhật tháng 6/2026: tác vụ hẹn giờ, phát âm 60+ ngôn ngữ: https://techvision.click/articles/chatgpt-cap-nhat-thang-6-2026-tac-vu-hen-gio-phat-am-ca-nhan-hoa.html
+- Apple WWDC 2026: loạt tính năng an toàn trẻ em và kiểm soát của cha mẹ: https://techvision.click/articles/apple-wwdc-2026-tinh-nang-an-toan-tre-em-kiem-soat-cua-cha-me.html
+- Tesla Optimus Gen 3: robot hình người hướng tới sản xuất, giá dưới 20.000 USD: https://techvision.click/articles/tesla-optimus-gen-3-robot-hinh-nguoi-2026-san-xuat-gia-duoi-20000-usd.html
+- Nvidia RTX Spark: superchip ARM cho PC, đối đầu Intel và AMD: https://techvision.click/articles/nvidia-rtx-spark-superchip-pc-arm-computex-2026-doi-dau-intel-amd.html
+- Cuộc đua trung tâm dữ liệu AI Việt Nam: Viettel dẫn đầu, TP.HCM bứt phá: https://techvision.click/articles/cuoc-dua-trung-tam-du-lieu-ai-viet-nam-2026-viettel-vnpt-fpt-vng-cmc.html
+- xAI Grok dồn dập cập nhật tháng 6/2026: lên AWS, vào Word, mô hình mới: https://techvision.click/articles/xai-grok-cap-nhat-thang-6-2026-grok-4-3-aws-grok-cho-word-mo-hinh-moi.html
+- Cách tăng tốc laptop Windows bị chậm, lag: 10 cách không cần cài phần mềm: https://techvision.click/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html
+- Cách kéo dài tuổi thọ pin laptop: 8 thói quen sạc đúng tránh chai pin: https://techvision.click/articles/cach-keo-dai-tuoi-tho-pin-laptop-sac-dung-cach-2026.html
+- Cách bảo vệ tài khoản Facebook không bị hack, chiếm nick: 9 bước cần làm: https://techvision.click/articles/cach-bao-ve-tai-khoan-facebook-khong-bi-hack-chiem-nick-2026.html
+- SSD và HDD khác gì nhau? Nên chọn ổ cứng nào cho laptop và PC 2026: https://techvision.click/articles/ssd-vs-hdd-khac-gi-nen-chon-o-cung-nao-2026.html
 - 18 triệu SIM bị khóa từ 15/6/2026 tại Việt Nam - cách xác thực SIM chính chủ qua VNeID, lộ trình khóa một chiều, hai chiều, thu hồi số (Thông tư 08/2026): https://techvision.click/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html
 - AI khiến gần 88.000 người Mỹ mất việc 5 tháng đầu 2026, vượt cả năm 2025 (báo cáo Challenger Gray Christmas, agentic AI): https://techvision.click/articles/ai-88000-nguoi-my-mat-viec-5-thang-dau-2026-challenger.html
 - Claude Fable 5 bị chính phủ Mỹ ra lệnh chặn, Anthropic gỡ Fable 5 và Mythos 5 toàn cầu vì an ninh quốc gia: https://techvision.click/articles/claude-fable-5-bi-chan-my-ra-lenh-cam-anthropic-go-toan-cau.html

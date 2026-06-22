@@ -1,7 +1,7 @@
 ---
 slug: "codec-bluetooth-aac-aptx-ldac-la-gi-chon-tai-nghe-khong-day"
 title: "Codec Bluetooth AAC, aptX, LDAC là gì? Chọn tai nghe không dây sao cho đúng"
-description: "Codec Bluetooth SBC, AAC, aptX, LDAC, LC3 là gì, khác nhau thế nào và ảnh hưởng ra sao tới chất lượng âm thanh tai nghe không dây? Cách chọn tai nghe hợp"
+description: "SBC, AAC, aptX, LDAC: bảng thông số tai nghe không dây đầy những cái tên codec khó hiểu."
 keywords: "codec Bluetooth, AAC aptX LDAC là gì, codec tai nghe không dây, LDAC là gì, aptX Adaptive, LC3, chọn tai nghe bluetooth, chất lượng âm thanh bluetooth"
 category: "Audio"
 type: "cam-nang"
@@ -114,7 +114,7 @@ LE Audio còn mở ra các tính năng mới ngoài chất lượng thuần túy
 Với người đang chọn mua tai nghe trong giai đoạn chuyển giao này, một thiết bị hỗ trợ cả các codec quen thuộc lẫn LC3 sẽ bền tương lai hơn. Dù vậy, cũng không cần vội thay tai nghe chỉ vì LC3, vì các codec hiện có vẫn cho trải nghiệm tốt và hệ sinh thái LE Audio cần thêm thời gian để đầy đủ. Tư duy chọn theo nhu cầu thực tế này cũng đúng khi cân nhắc cấu hình phần cứng nói chung, như khi quyết định [màn hình OLED hay LCD phù hợp hơn](/articles/man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zOaYhLgNV4E/maxresdefault.jpg" alt="Cách thiết lập codec âm thanh Bluetooth trên điện thoại Android" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/zOaYhLgNV4E/hqdefault.jpg" alt="Cách thiết lập codec âm thanh Bluetooth trên điện thoại Android" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều máy Android cho phép chọn codec Bluetooth trong phần cài đặt nhà phát triển. Nguồn: YouTube</figcaption>
 </figure>
 

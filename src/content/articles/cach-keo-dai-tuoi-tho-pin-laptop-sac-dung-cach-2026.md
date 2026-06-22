@@ -1,7 +1,7 @@
 ---
 slug: "cach-keo-dai-tuoi-tho-pin-laptop-sac-dung-cach-2026"
 title: "Cách kéo dài tuổi thọ pin laptop: 8 thói quen sạc đúng tránh chai pin"
-description: "Pin laptop nhanh chai, tụt nhanh? 8 thói quen sạc đúng cách giúp pin bền lâu: giữ pin ở mức 20-80%, tránh nóng, dùng sạc chính hãng, bật giới hạn sạc"
+description: "Pin là linh kiện hao mòn theo thời gian, nhưng cách dùng và sạc hằng ngày quyết định pin laptop bền được bao lâu."
 keywords: "kéo dài tuổi thọ pin laptop, pin laptop bị chai, cách sạc pin laptop đúng cách, giới hạn sạc pin laptop, pin laptop tụt nhanh, bảo vệ pin laptop, chai pin laptop"
 category: "Laptop"
 type: "cam-nang"

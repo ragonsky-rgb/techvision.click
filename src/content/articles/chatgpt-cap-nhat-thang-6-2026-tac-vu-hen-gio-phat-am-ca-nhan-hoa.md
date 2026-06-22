@@ -1,7 +1,7 @@
 ---
 slug: "chatgpt-cap-nhat-thang-6-2026-tac-vu-hen-gio-phat-am-ca-nhan-hoa"
 title: "ChatGPT cập nhật tháng 6/2026: tác vụ hẹn giờ, phát âm 60+ ngôn ngữ"
-description: "ChatGPT có loạt tính năng mới tháng 6/2026: tác vụ hẹn giờ chạy tự động, hướng dẫn phát âm 60+ ngôn ngữ, minh bạch bộ nhớ cá nhân hóa và học tập tương tác"
+description: "OpenAI tung loạt cập nhật cho ChatGPT trong tháng 6/2026, nổi bật là tác vụ hẹn giờ cho phép trợ lý tự chạy theo lịch, hướng dẫn phát âm hơn 60 ngôn ngữ kèm."
 keywords: "ChatGPT cập nhật 2026, ChatGPT tác vụ hẹn giờ, scheduled tasks ChatGPT, ChatGPT tính năng mới, ChatGPT phát âm, OpenAI tháng 6 2026, ChatGPT memory"
 category: "AI"
 type: "tin-tuc"
