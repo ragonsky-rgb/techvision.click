@@ -476,6 +476,7 @@
     .filter-btn.active, .filter-btn:hover, .type-btn.active, .type-btn:hover {
       background: var(--accent); color: #fff; border-color: var(--accent);
     }
+    .filter-btn:active, .type-btn:active { transform: scale(0.94); }
     .mast-types .mast-cats-inner { border-bottom: 1px solid var(--line); }
     .type-btn { font-weight: 600; }
 
@@ -492,7 +493,7 @@
       padding: 1.1rem 1.1rem 1.4rem;
       background: var(--card);
       border: 1px solid var(--line);
-      border-radius: 16px;
+      border-radius: 14px;
       box-shadow: var(--shadow);
       transition: transform .4s var(--ease), box-shadow .4s var(--ease), border-color .3s;
       will-change: transform;
@@ -502,6 +503,7 @@
       box-shadow: var(--shadow-hover);
       border-color: rgba(192,57,43,0.28);
     }
+    .blog-card:active { transform: translateY(-2px) scale(0.995); }
 
     .card-top {
       display: flex; justify-content: space-between; align-items: center;
@@ -520,11 +522,11 @@
     }
 
     .card-thumb-wrap {
-      overflow: hidden; border-radius: 8px; margin-bottom: 1.1rem;
+      overflow: hidden; border-radius: 10px; margin-bottom: 1.1rem;
     }
     .card-thumb {
       width: 100%; aspect-ratio: 16/9; object-fit: cover;
-      border-radius: 8px; display: block;
+      border-radius: 10px; display: block;
       transition: transform .55s cubic-bezier(.2,.7,.2,1);
     }
     .card-thumb-wrap .card-thumb { border-radius: 0; margin-bottom: 0; }
@@ -738,13 +740,14 @@
     }
     .blog-more:hover { transform: translateY(-1px); opacity: 0.92; }
     /* Banner sự kiện -> trang sự kiện */
-    .live-banner { display: flex; align-items: center; gap: 1.4rem; margin: 0 0 1.6rem; padding: 0.9rem 1.4rem; border-radius: 12px; text-decoration: none; color: var(--text); background: linear-gradient(120deg, rgba(41,151,255,0.14), rgba(41,151,255,0.04)); border: 1px solid rgba(41,151,255,0.35); transition: border-color .25s cubic-bezier(.2,.7,.2,1), transform .25s cubic-bezier(.2,.7,.2,1), background .25s; }
-    .live-banner:hover { border-color: rgba(41,151,255,0.65); transform: translateY(-1px); background: linear-gradient(120deg, rgba(41,151,255,0.2), rgba(41,151,255,0.06)); }
-    .live-banner .lb-dot { width: 9px; height: 9px; border-radius: 50%; background: #2997ff; flex-shrink: 0; box-shadow: 0 0 0 0 rgba(41,151,255,.6); animation: lbpulse 2s infinite; }
-    @keyframes lbpulse { 0% { box-shadow: 0 0 0 0 rgba(41,151,255,.55); } 70% { box-shadow: 0 0 0 9px rgba(41,151,255,0); } 100% { box-shadow: 0 0 0 0 rgba(41,151,255,0); } }
+    .live-banner { display: flex; align-items: center; gap: 1.4rem; margin: 0 0 1.6rem; padding: 0.9rem 1.4rem; border-radius: 14px; text-decoration: none; color: var(--text); background: linear-gradient(120deg, rgba(192,57,43,0.10), rgba(192,57,43,0.03)); border: 1px solid rgba(192,57,43,0.30); transition: border-color .25s var(--ease), transform .25s var(--ease), background .25s; }
+    .live-banner:hover { border-color: rgba(192,57,43,0.55); transform: translateY(-1px); background: linear-gradient(120deg, rgba(192,57,43,0.16), rgba(192,57,43,0.05)); }
+    .live-banner .lb-dot { width: 9px; height: 9px; border-radius: 50%; background: var(--accent); flex-shrink: 0; box-shadow: 0 0 0 0 rgba(192,57,43,.6); animation: lbpulse 2s infinite; }
+    @keyframes lbpulse { 0% { box-shadow: 0 0 0 0 rgba(192,57,43,.5); } 70% { box-shadow: 0 0 0 9px rgba(192,57,43,0); } 100% { box-shadow: 0 0 0 0 rgba(192,57,43,0); } }
     .live-banner .lb-text { font-size: 0.9rem; line-height: 1.4; flex: 1 1 auto; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
     .live-banner .lb-text strong { font-weight: 700; }
-    .live-banner .lb-cta { font-size: 0.82rem; font-weight: 600; color: #2997ff; white-space: nowrap; flex-shrink: 0; transition: transform .25s cubic-bezier(.2,.7,.2,1); }
+    .live-banner .lb-cta { font-size: 0.82rem; font-weight: 600; color: var(--accent); white-space: nowrap; flex-shrink: 0; transition: transform .25s var(--ease); }
+    .live-banner:hover .lb-cta { transform: translateX(3px); }
     .live-banner:hover .lb-cta { transform: translateX(3px); }
     @media (max-width: 560px) { .live-banner .lb-cta { display: none; } }
     @media (prefers-reduced-motion: reduce) { .live-banner .lb-dot { animation: none; } }
