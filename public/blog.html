@@ -739,18 +739,31 @@
       cursor: pointer; transition: opacity .2s, transform .15s;
     }
     .blog-more:hover { transform: translateY(-1px); opacity: 0.92; }
-    /* Banner sự kiện -> trang sự kiện */
-    .live-banner { display: flex; align-items: center; gap: 1.4rem; margin: 0 0 1.6rem; padding: 0.9rem 1.4rem; border-radius: 14px; text-decoration: none; color: var(--text); background: linear-gradient(120deg, rgba(192,57,43,0.10), rgba(192,57,43,0.03)); border: 1px solid rgba(192,57,43,0.30); transition: border-color .25s var(--ease), transform .25s var(--ease), background .25s; }
-    .live-banner:hover { border-color: rgba(192,57,43,0.55); transform: translateY(-1px); background: linear-gradient(120deg, rgba(192,57,43,0.16), rgba(192,57,43,0.05)); }
-    .live-banner .lb-dot { width: 9px; height: 9px; border-radius: 50%; background: var(--accent); flex-shrink: 0; box-shadow: 0 0 0 0 rgba(192,57,43,.6); animation: lbpulse 2s infinite; }
+    /* Khối Sự kiện nổi bật -> trang sự kiện */
     @keyframes lbpulse { 0% { box-shadow: 0 0 0 0 rgba(192,57,43,.5); } 70% { box-shadow: 0 0 0 9px rgba(192,57,43,0); } 100% { box-shadow: 0 0 0 0 rgba(192,57,43,0); } }
-    .live-banner .lb-text { font-size: 0.9rem; line-height: 1.4; flex: 1 1 auto; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .live-banner .lb-text strong { font-weight: 700; }
-    .live-banner .lb-cta { font-size: 0.82rem; font-weight: 600; color: var(--accent); white-space: nowrap; flex-shrink: 0; transition: transform .25s var(--ease); }
-    .live-banner:hover .lb-cta { transform: translateX(3px); }
-    .live-banner:hover .lb-cta { transform: translateX(3px); }
-    @media (max-width: 560px) { .live-banner .lb-cta { display: none; } }
-    @media (prefers-reduced-motion: reduce) { .live-banner .lb-dot { animation: none; } }
+    .event-spot { display: grid; grid-template-columns: 240px 1fr; gap: 1.5rem; align-items: stretch; margin: 0 0 1.8rem; border-radius: 14px; overflow: hidden; text-decoration: none; color: var(--text); background: var(--card); border: 1px solid rgba(192,57,43,0.28); box-shadow: var(--shadow); transition: transform .3s var(--ease), box-shadow .3s var(--ease), border-color .25s var(--ease); }
+    .event-spot:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); border-color: rgba(192,57,43,0.55); }
+    .event-spot:active { transform: translateY(-1px) scale(0.996); }
+    .es-media { position: relative; overflow: hidden; min-height: 168px; background: #1a1010; }
+    .es-media img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .45s var(--ease); }
+    .event-spot:hover .es-media img { transform: scale(1.06); }
+    .es-media::after { content: ""; position: absolute; inset: 0; background: linear-gradient(105deg, rgba(0,0,0,0) 55%, var(--card) 99%); }
+    @media (min-width: 721px) { .es-media::after { background: linear-gradient(100deg, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 40%, var(--card) 100%); } }
+    .es-body { padding: 1.3rem 1.5rem 1.3rem 0; display: flex; flex-direction: column; justify-content: center; min-width: 0; }
+    @media (max-width: 720px) { .es-body { padding: 1.2rem 1.3rem 1.4rem; } }
+    .es-kicker { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); }
+    .es-kicker .lb-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 0 rgba(192,57,43,.6); animation: lbpulse 2s infinite; }
+    .es-title { margin: 0.5rem 0 0.3rem; font-size: clamp(1.15rem, 2vw, 1.5rem); font-weight: 700; line-height: 1.2; letter-spacing: -0.01em; }
+    .es-sub { margin: 0 0 0.85rem; font-size: 0.9rem; line-height: 1.45; color: var(--muted); }
+    .es-foot { display: flex; align-items: center; gap: 1.1rem; flex-wrap: wrap; }
+    .es-count { display: flex; gap: 0.55rem; }
+    .es-count .u { display: flex; flex-direction: column; align-items: center; min-width: 42px; padding: 0.35rem 0.4rem; border-radius: 10px; background: rgba(192,57,43,0.08); border: 1px solid rgba(192,57,43,0.18); }
+    .es-count .n { font-size: 1.15rem; font-weight: 800; line-height: 1; font-variant-numeric: tabular-nums; color: var(--text); }
+    .es-count .l { font-size: 0.6rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); margin-top: 3px; }
+    .es-cta { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.86rem; font-weight: 700; color: #fff; background: var(--accent); padding: 0.55rem 1.05rem; border-radius: 10px; transition: transform .25s var(--ease), background .25s; }
+    .event-spot:hover .es-cta { transform: translateX(3px); }
+    @media (max-width: 720px) { .event-spot { grid-template-columns: 1fr; } .es-media { min-height: 150px; } }
+    @media (prefers-reduced-motion: reduce) { .es-kicker .lb-dot { animation: none; } .event-spot, .es-media img, .es-cta { transition: none; } }
     .hs-item { display: flex; gap: 0.85rem; text-decoration: none; color: var(--text); padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
     .hs-item:last-child { border-bottom: none; padding-bottom: 0; }
     .hs-item img { width: 88px; height: 62px; object-fit: cover; border-radius: 7px; flex-shrink: 0; }
@@ -889,10 +902,23 @@
       </div>
     </section>
 
-    <a class="live-banner" href="/su-kien/samsung-galaxy-unpacked-2026.html">
-      <span class="lb-dot"></span>
-      <span class="lb-text"><strong>Galaxy Unpacked 2026 · 22/7</strong> · Đếm ngược sự kiện mùa hè Samsung: Galaxy Z Fold 8, Z Flip 8, Galaxy Glasses và Watch 9</span>
-      <span class="lb-cta">Vào trang sự kiện →</span>
+    <a class="event-spot reveal" href="/su-kien/samsung-galaxy-unpacked-2026.html" aria-label="Sự kiện Samsung Galaxy Unpacked 2026">
+      <div class="es-media">
+        <img src="https://i.ytimg.com/vi/ScKe2awyzFE/maxresdefault.jpg" alt="Samsung Galaxy Unpacked 2026 tại London" loading="lazy" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/ScKe2awyzFE/hqdefault.jpg'">
+      </div>
+      <div class="es-body">
+        <span class="es-kicker"><span class="lb-dot"></span>Sự kiện sắp diễn ra</span>
+        <h2 class="es-title">Galaxy Unpacked 2026 · 22/7 tại London</h2>
+        <p class="es-sub">Đếm ngược sự kiện mùa hè của Samsung: Galaxy Z Fold 8, Z Flip 8, Galaxy Glasses và Watch 9.</p>
+        <div class="es-foot">
+          <div class="es-count" id="esCount" data-deadline="2026-07-22T10:00:00+01:00">
+            <div class="u"><span class="n" data-d>--</span><span class="l">Ngày</span></div>
+            <div class="u"><span class="n" data-h>--</span><span class="l">Giờ</span></div>
+            <div class="u"><span class="n" data-m>--</span><span class="l">Phút</span></div>
+          </div>
+          <span class="es-cta">Vào trang sự kiện →</span>
+        </div>
+      </div>
     </a>
 
     <!-- BỐ CỤC 2 CỘT -->
@@ -3816,7 +3842,7 @@
     (function () {
       if (!('IntersectionObserver' in window) ||
           window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-      var els = document.querySelectorAll('.news-hero, .blog-card, .side-box');
+      var els = document.querySelectorAll('.news-hero, .event-spot, .blog-card, .side-box');
       els.forEach(function (el) { el.classList.add('reveal'); });
       var io = new IntersectionObserver(function (entries) {
         entries.forEach(function (e) {
@@ -3824,6 +3850,27 @@
         });
       }, { rootMargin: '0px 0px -6% 0px', threshold: 0.04 });
       els.forEach(function (el) { io.observe(el); });
+    })();
+  </script>
+
+  <script>
+    /* Đếm ngược tới Galaxy Unpacked 22/7/2026 10:00 London */
+    (function () {
+      var box = document.getElementById('esCount');
+      if (!box) return;
+      var end = new Date(box.getAttribute('data-deadline')).getTime();
+      var dEl = box.querySelector('[data-d]'), hEl = box.querySelector('[data-h]'), mEl = box.querySelector('[data-m]');
+      var pad = function (n) { return n < 10 ? '0' + n : '' + n; };
+      function tick() {
+        var diff = end - Date.now();
+        if (diff <= 0) { dEl.textContent = mEl.textContent = hEl.textContent = '0'; return false; }
+        var d = Math.floor(diff / 864e5);
+        var h = Math.floor((diff % 864e5) / 36e5);
+        var m = Math.floor((diff % 36e5) / 6e4);
+        dEl.textContent = d; hEl.textContent = pad(h); mEl.textContent = pad(m);
+        return true;
+      }
+      if (tick()) setInterval(tick, 30000);
     })();
   </script>
 
