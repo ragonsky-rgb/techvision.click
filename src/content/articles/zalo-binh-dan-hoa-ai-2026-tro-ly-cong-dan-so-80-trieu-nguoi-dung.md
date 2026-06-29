@@ -97,7 +97,7 @@ Câu chuyện của Zalo phản ánh một hướng đi đáng chú ý trong là
 Tuy nhiên, để duy trì đà phát triển, Zalo cũng cần tiếp tục đầu tư vào chất lượng và độ chính xác của các trợ lý AI, đặc biệt với những tính năng liên quan tới thông tin pháp lý và hành chính, nơi sai sót có thể gây ảnh hưởng trực tiếp tới quyền lợi người dùng. Sự kết hợp giữa quy mô người dùng lớn, chiến lược rõ ràng và đầu tư công nghệ bài bản cho thấy Zalo đang đặt nền móng vững chắc để trở thành một trong những điểm sáng của ngành AI Việt Nam trong những năm tới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/pGjDsP9hLDY/hq2.jpg" alt="Zalo VNG chien luoc AI pho cap cho nguoi Viet 2026" loading="lazy" width="1280" height="480">
+  <img src="https://i.ytimg.com/vi/pGjDsP9hLDY/hqdefault.jpg" alt="Zalo VNG chien luoc AI pho cap cho nguoi Viet 2026" loading="lazy" width="1280" height="480">
   <figcaption>VNG đặt mục tiêu phổ cập AI rộng khắp thông qua Zalo. Nguồn: YouTube</figcaption>
 </figure>
 
