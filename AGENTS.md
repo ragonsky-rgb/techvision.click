@@ -48,6 +48,20 @@ node scripts/build-legacy-index.mjs && node scripts/build-blog.mjs && npx astro 
 - **Bài mới nhất (datePublished mới nhất) tự thành hero "Tiêu điểm"** trên trang chủ blog. Muốn bài nào lên hero thì cho `datePublished` mới nhất. (Standing rule: bài mới luôn lên top.)
 - Commit: chỉ add file nguồn + `public/blog.html` + `public/index.html` + `src/data/legacy-articles.json`. KHÔNG commit `dist/`.
 
+## 5b. NHÌN trang render thật (đừng đoán layout từ code)
+
+Trước khi kết luận một thay đổi giao diện ổn, hãy **xem pixel thật**, đừng dịch từ HTML/CSS (sẽ sót lỗi: nút quá nhỏ, chữ bị cắt, tràn ngang, header che nội dung).
+
+```
+npx astro build            # build trước để dist/ mới
+node scripts/shot.mjs /blog.html            # chụp 390px (mobile) + 1280px (PC)
+node scripts/shot.mjs /articles/<slug>.html 390    # chỉ 1 khổ
+```
+- Dùng **Chrome headless** có sẵn (không cần cài Playwright). Tự serve `dist/` ở root nên path tuyệt đối (`/articles/...`, `/_astro/...`) resolve đúng.
+- Ảnh lưu ở `.shots/<page>-<width>.png` (đã gitignore) → **mở/Read ảnh đó để nhìn**.
+- Luôn kiểm tra **cả 390px và 1280px**. Lỗi mobile hay gặp: menu category khó kéo (cần touch target ≥40px), `.art-meta`/hàng meta tràn ngang, header `position:fixed` che mất phần đầu nội dung (chỉnh padding-top của `main`).
+- Đo nhanh tràn ngang trong DevTools/eval: `document.documentElement.scrollWidth - document.documentElement.clientWidth` phải = 0.
+
 ## 6. Sau khi deploy: đẩy index
 ```
 node scripts/indexnow.mjs <url-bai> https://techvision.click/blog.html
