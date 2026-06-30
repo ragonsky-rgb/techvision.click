@@ -27,7 +27,8 @@ body.dark .page-label { color: rgba(240,237,232,0.62); }
 body.dark .source-card { background: rgba(240,237,232,0.04); }
 body.dark .source-card:hover { background: rgba(240,237,232,0.07); }
 
-html { scroll-behavior: smooth; scroll-padding-top: 5.5rem; }
+html { scroll-behavior: smooth; scroll-padding-top: 5.5rem; overflow-x: clip; }
+body { overflow-x: clip; }
 
 /* Keyboard focus ring — accessibility (WCAG) */
 a:focus-visible, button:focus-visible, .toc-link:focus-visible {
@@ -76,8 +77,8 @@ article {
 }
 
 .art-meta {
-  display: flex; gap: 1rem; align-items: center;
-  font-size: 0.65rem; letter-spacing: 0.18em; text-transform: uppercase;
+  display: flex; flex-wrap: wrap; gap: 0.4rem 0.85rem; align-items: center;
+  font-size: 0.65rem; letter-spacing: 0.16em; text-transform: uppercase;
   color: var(--dim); margin-bottom: 1.5rem;
 }
 .art-meta .cat { color: var(--accent); font-weight: 600; }
