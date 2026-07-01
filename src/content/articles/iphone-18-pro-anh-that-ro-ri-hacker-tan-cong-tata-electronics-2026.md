@@ -60,7 +60,7 @@ Theo các hãng tin lớn như Al Jazeera, CNBC và MacRumors, nhóm tin tặc m
 
 <div class="art-video-label">VIDEO · Chi tiết vụ rò rỉ iPhone 18 Pro từ dữ liệu Tata Electronics</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/99rZbBhsXYc" title="Tata Electronics data leak exposes iPhone 18 Pro details" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/Y4p_ZrP-2Gk" title="Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Nhiều hãng tin quốc tế đồng loạt đưa tin về vụ rò rỉ dữ liệu iPhone 18 Pro. Nguồn: YouTube</p>
 
@@ -83,6 +83,8 @@ Không chỉ dừng lại ở hình ảnh bên ngoài, kho dữ liệu bị rò 
   <img src="https://i.ytimg.com/vi/_5k2RLASWMI/hqdefault.jpg" alt="iPhone 18 Pro so do linh kien chip A20 Pro ro ri du lieu" loading="lazy" width="1280" height="480">
   <figcaption>Tài liệu rò rỉ chứa sơ đồ linh kiện chi tiết, bao gồm cả tên chip A20 Pro chưa công bố. Nguồn: YouTube</figcaption>
 </figure>
+
+Bên cạnh sơ đồ linh kiện, kho dữ liệu còn lộ danh sách cụ thể từng nhà cung ứng đảm nhận sản xuất linh kiện nào cho iPhone 18 Pro, một loại thông tin chuỗi cung ứng mà Apple luôn giữ kín để tránh đối thủ nắm được chiến lược lựa chọn đối tác của hãng. Việc để lộ chi tiết tới mức này khiến giới phân tích đánh giá đây không đơn thuần là rò rỉ hình ảnh sản phẩm như các vụ trước, mà là một sự cố an ninh mạng nghiêm trọng, ảnh hưởng trực tiếp tới bí mật vận hành chuỗi cung ứng toàn cầu của Apple.
 
 <figure>
   <img src="https://i.ytimg.com/vi/axrPfjkP4HQ/hqdefault.jpg" alt="iPhone 18 Pro danh sach nha cung ung bi lo tu vu hack Tata" loading="lazy" width="1280" height="480">
