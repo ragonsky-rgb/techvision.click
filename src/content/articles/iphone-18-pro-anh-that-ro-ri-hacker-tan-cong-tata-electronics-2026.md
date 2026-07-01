@@ -11,7 +11,7 @@ deck: "Một nhóm tin tặc vừa công bố hơn 630GB dữ liệu đánh cắ
 heroImage: "https://i.ytimg.com/vi/YBpl_ZvW7Pw/hqdefault.jpg"
 heroAlt: "iPhone 18 Pro anh that ro ri hacker tan cong Tata Electronics 2026"
 heroCaption: "Ảnh thử độ bền của iPhone 18 Pro bị rò rỉ sau vụ hacker tấn công Tata Electronics. Nguồn: YouTube"
-tldr: "Nhóm tin tặc <strong>World Leaks</strong> tấn công <strong>Tata Electronics</strong>, đối tác sản xuất của Apple tại Ấn Độ, đánh cắp và công bố hơn <strong>630GB</strong> dữ liệu với khoảng <strong>200.000 tệp tin</strong> lên dark web. Dữ liệu rò rỉ gồm ảnh và video thử độ bền (rơi vỡ) của <strong>iPhone 18 Pro</strong>, sơ đồ linh kiện, danh sách nhà cung ứng, thông tin chip trên bo mạch chính và cả chip <strong>A20 Pro</strong> chưa công bố. Hình ảnh cho thấy máy màu xám bạc, cụm 3 camera sau nhô cao hơn iPhone 17 Pro. Apple xác nhận đang điều tra, dự kiến iPhone 18 Pro ra mắt vào tháng 9/2026."
+tldr: "Nhóm tin tặc <strong>World Leaks</strong> tấn công <strong>Tata Electronics</strong>, đối tác sản xuất của Apple tại Ấn Độ, đánh cắp và công bố hơn <strong>630GB</strong> dữ liệu với khoảng <strong>200.000 tệp tin</strong> lên dark web. Dữ liệu rò rỉ gồm ảnh và video thử độ bền (rơi vỡ) của <strong>iPhone 18 Pro</strong>, sơ đồ linh kiện, danh sách nhà cung ứng, thông tin chip trên bo mạch chính và cả chip <strong>A20 Pro</strong> chưa công bố. Hình ảnh cho thấy máy màu xám bạc, cụm 3 camera sau nhô cao hơn iPhone 17 Pro, trong khi một video rò rỉ khác trên X còn cho thấy cụm <strong>Dynamic Island được thu nhỏ</strong>. Apple xác nhận đang điều tra, dự kiến iPhone 18 Pro ra mắt vào tháng 9/2026, còn bản tiêu chuẩn được đồn đoán có thể dời sang <strong>năm 2027</strong>."
 tags: ["Apple", "iPhone18Pro", "Hacker", "BaoMat", "TinTuc"]
 about: ["iPhone 18 Pro", "Tata Electronics", "World Leaks"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các sự kiện bảo mật, rò rỉ sản phẩm công nghệ lớn."
@@ -23,6 +23,7 @@ stats:
   - { num: "200.000+", label: "Số tệp tin bị công bố lên dark web" }
   - { num: "9/2026", label: "Thời điểm dự kiến iPhone 18 Pro ra mắt chính thức" }
   - { num: "A20 Pro", label: "Tên chip chưa công bố xuất hiện trong tài liệu rò rỉ" }
+  - { num: "2027", label: "Thời điểm iPhone 18 bản tiêu chuẩn được đồn đoán ra mắt" }
 faq:
   - q: "Vụ hacker làm lộ ảnh iPhone 18 Pro xảy ra như thế nào?"
     a: "Nhóm tin tặc World Leaks tấn công Tata Electronics, một trong những đối tác sản xuất quan trọng của Apple tại Ấn Độ, đánh cắp hơn 630GB dữ liệu rồi công bố lên dark web, bao gồm ảnh, video thử độ bền và tài liệu kỹ thuật của iPhone 18 Pro."
@@ -34,6 +35,10 @@ faq:
     a: "Apple xác nhận đang theo dõi và điều tra sự việc, trong khi Tata Electronics cho biết đã hạn chế quyền truy cập nội bộ và tiến hành điều tra pháp y để xác định phạm vi ảnh hưởng của vụ tấn công."
   - q: "Video thử độ bền iPhone 18 Pro lan truyền trên mạng xã hội có đáng tin không?"
     a: "Vụ tấn công vào Tata Electronics và việc dữ liệu bị công bố lên dark web là có thật, được nhiều hãng tin lớn xác nhận độc lập. Tuy nhiên một số đoạn video lan truyền trên mạng xã hội X sau đó chưa được xác minh đầy đủ có bị chỉnh sửa hay không, nên người dùng cần thận trọng khi xem các nguồn chia sẻ lại thứ cấp."
+  - q: "Dynamic Island trên iPhone 18 Pro có thay đổi gì không?"
+    a: "Một video rò rỉ trên X được cho là ghi lại quá trình thử nghiệm iPhone 18 Pro và Pro Max cho thấy cụm Dynamic Island đã được Apple thu nhỏ lại so với kích thước hiện tại trên iPhone 17 Pro, dù thông tin này vẫn cần chờ Apple xác nhận chính thức."
+  - q: "iPhone 18 bản tiêu chuẩn có ra mắt cùng lúc với bản Pro không?"
+    a: "Theo một số thông tin lan truyền trên X, iPhone 18 bản tiêu chuẩn có thể sẽ không ra mắt cùng thời điểm tháng 9/2026 với bản Pro và Pro Max, mà bị dời sang đầu năm 2027. Đây mới chỉ là tin đồn, chưa được Apple xác nhận chính thức."
 related:
   - { href: "/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html", cat: "Apple", title: "iPhone 18 Pro Max 1.399 USD: nghịch lý giá, toan tính của Apple" }
   - { href: "/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html", cat: "Apple", title: "iPhone 18 tăng giá, bộ nhớ, AI Apple Intelligence 2026" }
@@ -75,6 +80,16 @@ Phần gây chú ý nhất trong kho dữ liệu bị rò rỉ là những bức
 
 Với những ai đã theo dõi các tin đồn giá bán trước đó, việc thiết kế phần cứng gần như không đổi nhiều so với iPhone 17 Pro cũng phần nào lý giải thêm cho những toan tính về giá bán mà Apple có thể áp dụng cho thế hệ mới, như đã được phân tích trong bài viết về [iPhone 18 Pro Max giá 1.399 USD và nghịch lý định giá của Apple](/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html).
 
+## Video rò rỉ trên X: cụm Dynamic Island được thu nhỏ
+
+Bên cạnh những bức ảnh tĩnh, một đoạn video được cho là ghi lại quá trình thử nghiệm của cả iPhone 18 Pro lẫn Pro Max cũng đã lan truyền trên mạng xã hội X ngay sau khi vụ rò rỉ nổ ra. Điểm đáng chú ý nhất trong đoạn video này là cụm Dynamic Island ở phía trên màn hình, được cho là đã được Apple thu nhỏ lại so với kích thước hiện tại trên iPhone 17 Pro, tiếp nối xu hướng thu gọn dần khu vực này qua từng thế hệ máy kể từ khi tính năng ra mắt lần đầu.
+
+<div class="art-video-label">VIDEO · Thử nghiệm iPhone 18 Pro/Pro Max, cụm Dynamic Island thu nhỏ</div>
+<blockquote class="twitter-tweet"><a href="https://twitter.com/wall_of_tech/status/2071841053108531315"></a></blockquote>
+<p class="art-video-caption">Video rò rỉ quá trình thử nghiệm iPhone 18 Pro/Pro Max, cho thấy cụm Dynamic Island được thu nhỏ. Nguồn: X (@wall_of_tech)</p>
+
+Nếu thông tin này chính xác, đây sẽ là thay đổi thiết kế mặt trước đáng chú ý nhất trên dòng Pro năm nay, dù phần lớn các chi tiết khác của máy, như cụm camera sau hay khung viền, được ghi nhận là không thay đổi nhiều so với thế hệ trước.
+
 ## Lộ cả chip A20 Pro và sơ đồ linh kiện chi tiết
 
 Không chỉ dừng lại ở hình ảnh bên ngoài, kho dữ liệu bị rò rỉ còn chứa các tài liệu kỹ thuật chi tiết, bao gồm sơ đồ bo mạch chính, thông tin về pin, các module camera và danh sách cụ thể nhà cung ứng cho từng linh kiện. Đặc biệt, tài liệu được cho là có nhắc tới tên gọi chip A20 Pro, phiên bản chip xử lý mà Apple chưa từng công bố chính thức, dự kiến sẽ được trang bị cho dòng iPhone 18 Pro sắp ra mắt. Đây là loại thông tin mà Apple thường bảo mật nghiêm ngặt, hiếm khi để lộ ra bên ngoài trước ngày công bố sản phẩm chính thức.
@@ -92,6 +107,23 @@ Bên cạnh sơ đồ linh kiện, kho dữ liệu còn lộ danh sách cụ th�
 </figure>
 
 Với những dòng máy sắp ra mắt được trang bị chip mới và các tính năng AI nâng cao, việc lộ sớm thông tin phần cứng cũng làm dấy lên nhiều đồn đoán về khả năng xử lý AI trên thiết bị, một chủ đề đã được đề cập trong bài viết về [iPhone 18 tăng giá, bộ nhớ và các tính năng Apple Intelligence](/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html) trước đó.
+
+Ngoài phần cứng bên trong, một đoạn video khác lan truyền trên X còn cho thấy quá trình kiểm tra phụ kiện đi kèm iPhone 18, được cho là cũng nằm trong kho dữ liệu bị đánh cắp từ Tata Electronics. Đoạn video ghi lại các bước kiểm tra chất lượng phụ kiện trước khi xuất xưởng, một quy trình mà Apple thường thực hiện rất kín kẽ tại các nhà máy đối tác để đảm bảo đồng bộ tiêu chuẩn trước ngày ra mắt sản phẩm chính thức.
+
+<div class="art-video-label">VIDEO · Quá trình kiểm tra phụ kiện iPhone 18 rò rỉ trên X</div>
+<blockquote class="twitter-tweet"><a href="https://twitter.com/DeepseaIX/status/2070771280442478849"></a></blockquote>
+<p class="art-video-caption">Video rò rỉ cho thấy quá trình kiểm tra phụ kiện đi kèm iPhone 18. Nguồn: X (@DeepseaIX)</p>
+
+## iPhone 18 bản tiêu chuẩn: tin đồn dời sang năm 2027
+
+Một chi tiết đáng chú ý khác cũng xuất hiện trên X ngay sau vụ rò rỉ, cho rằng iPhone 18 bản tiêu chuẩn, tức phiên bản thường không phải Pro, có thể sẽ không ra mắt cùng thời điểm với iPhone 18 Pro và Pro Max vào tháng 9/2026 như thông lệ, mà bị dời sang đầu năm 2027. Nếu thông tin này chính xác, đây sẽ là lần đầu tiên Apple tách lịch ra mắt giữa bản tiêu chuẩn và bản Pro xa tới vậy, thay vì cùng công bố trong một sự kiện duy nhất như nhiều năm trước đây.
+
+<div class="art-video-label">VIDEO · iPhone 18 bản tiêu chuẩn được cho là dời sang 2027</div>
+<blockquote class="twitter-tweet"><a href="https://twitter.com/SpecScout_/status/2071943278254043302"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p class="art-video-caption">Video được cho là của iPhone 18 bản tiêu chuẩn, dự kiến ra mắt năm 2027. Nguồn: X (@SpecScout_)</p>
+
+Hiện chưa có xác nhận chính thức nào từ Apple về việc thay đổi lịch ra mắt này, và đây vẫn chỉ là thông tin lan truyền từ các tài khoản chuyên theo dõi tin đồn sản phẩm Apple trên mạng xã hội. Người dùng nên xem đây là thông tin tham khảo thêm bên cạnh những gì đã được xác nhận từ vụ rò rỉ dữ liệu Tata Electronics, thay vì xem là lịch trình chính thức đã được Apple công bố.
 
 ## Apple điều tra, cảnh báo về video chưa xác minh
 
