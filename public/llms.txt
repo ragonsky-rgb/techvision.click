@@ -13,86 +13,86 @@
 
 ## Trang chính
 
-- Trang chủ: https://techvision.click/
-- Danh sách bài viết: https://techvision.click/blog.html
-- Hồ sơ tác giả: https://techvision.click/cv.html
-- Chứng chỉ: https://techvision.click/certificates.html
-- RSS Feed: https://techvision.click/rss.xml
-- Sitemap: https://techvision.click/sitemap.xml
+- [Trang chủ](https://techvision.click/)
+- [Danh sách bài viết](https://techvision.click/blog.html)
+- [Hồ sơ tác giả](https://techvision.click/cv.html)
+- [Chứng chỉ](https://techvision.click/certificates.html)
+- [RSS Feed](https://techvision.click/rss.xml)
+- [Sitemap](https://techvision.click/sitemap.xml)
 
 ## Bài viết nổi bật (2026)
 
-- Anthropic và OpenAI nộp hồ sơ IPO: làn sóng giga-IPO ngành AI 2026: https://techvision.click/articles/anthropic-openai-nop-ho-so-ipo-2026-lan-song-giga-ipo-ai.html
-- Snap ra mắt kính AR Specs giá 2.195 USD: đối thủ mới của Apple Vision Pro: https://techvision.click/articles/snap-specs-kinh-ar-2026-ra-mat-gia-2195-usd-doi-thu-apple-vision-pro.html
-- Redmi K90 Ultra lộ diện: vũ khí gaming pin 8500mAh, quạt tản nhiệt, giá rẻ: https://techvision.click/articles/redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re.html
-- Microsoft tung loạt mô hình AI tự phát triển MAI, giảm phụ thuộc OpenAI: https://techvision.click/articles/microsoft-mai-mo-hinh-ai-tu-phat-trien-giam-phu-thuoc-openai-2026.html
-- Google Gemini 3.5 Pro: cửa sổ 2 triệu token và chế độ Deep Think: https://techvision.click/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html
-- Nintendo Switch 2 sau một năm: gần 20 triệu máy nhưng đà bán chậm lại: https://techvision.click/articles/nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai.html
-- AI Thực chiến 2026: gameshow trí tuệ nhân tạo đầu tiên trên sóng VTV: https://techvision.click/articles/ai-thuc-chien-2026-vtv-gameshow-tri-tue-nhan-tao-dau-tien-viet-nam.html
-- Pinterest ra mắt Ask Pinterest: tìm kiếm bằng hội thoại AI thay vì ảnh: https://techvision.click/articles/pinterest-ask-pinterest-ung-dung-ai-hoi-dap-tim-kiem-2026.html
-- ChatGPT cập nhật tháng 6/2026: tác vụ hẹn giờ, phát âm 60+ ngôn ngữ: https://techvision.click/articles/chatgpt-cap-nhat-thang-6-2026-tac-vu-hen-gio-phat-am-ca-nhan-hoa.html
-- Apple WWDC 2026: loạt tính năng an toàn trẻ em và kiểm soát của cha mẹ: https://techvision.click/articles/apple-wwdc-2026-tinh-nang-an-toan-tre-em-kiem-soat-cua-cha-me.html
-- Tesla Optimus Gen 3: robot hình người hướng tới sản xuất, giá dưới 20.000 USD: https://techvision.click/articles/tesla-optimus-gen-3-robot-hinh-nguoi-2026-san-xuat-gia-duoi-20000-usd.html
-- Nvidia RTX Spark: superchip ARM cho PC, đối đầu Intel và AMD: https://techvision.click/articles/nvidia-rtx-spark-superchip-pc-arm-computex-2026-doi-dau-intel-amd.html
-- Cuộc đua trung tâm dữ liệu AI Việt Nam: Viettel dẫn đầu, TP.HCM bứt phá: https://techvision.click/articles/cuoc-dua-trung-tam-du-lieu-ai-viet-nam-2026-viettel-vnpt-fpt-vng-cmc.html
-- xAI Grok dồn dập cập nhật tháng 6/2026: lên AWS, vào Word, mô hình mới: https://techvision.click/articles/xai-grok-cap-nhat-thang-6-2026-grok-4-3-aws-grok-cho-word-mo-hinh-moi.html
-- Cách tăng tốc laptop Windows bị chậm, lag: 10 cách không cần cài phần mềm: https://techvision.click/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html
-- Cách kéo dài tuổi thọ pin laptop: 8 thói quen sạc đúng tránh chai pin: https://techvision.click/articles/cach-keo-dai-tuoi-tho-pin-laptop-sac-dung-cach-2026.html
-- Cách bảo vệ tài khoản Facebook không bị hack, chiếm nick: 9 bước cần làm: https://techvision.click/articles/cach-bao-ve-tai-khoan-facebook-khong-bi-hack-chiem-nick-2026.html
-- SSD và HDD khác gì nhau? Nên chọn ổ cứng nào cho laptop và PC 2026: https://techvision.click/articles/ssd-vs-hdd-khac-gi-nen-chon-o-cung-nao-2026.html
-- 18 triệu SIM bị khóa từ 15/6/2026 tại Việt Nam - cách xác thực SIM chính chủ qua VNeID, lộ trình khóa một chiều, hai chiều, thu hồi số (Thông tư 08/2026): https://techvision.click/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html
-- AI khiến gần 88.000 người Mỹ mất việc 5 tháng đầu 2026, vượt cả năm 2025 (báo cáo Challenger Gray Christmas, agentic AI): https://techvision.click/articles/ai-88000-nguoi-my-mat-viec-5-thang-dau-2026-challenger.html
-- Claude Fable 5 bị chính phủ Mỹ ra lệnh chặn, Anthropic gỡ Fable 5 và Mythos 5 toàn cầu vì an ninh quốc gia: https://techvision.click/articles/claude-fable-5-bi-chan-my-ra-lenh-cam-anthropic-go-toan-cau.html
-- Giá RTX 5090 tại Việt Nam tháng 6/2026 - bảng giá theo hãng (63 tới hơn 100 triệu), khủng hoảng GDDR7, nên mua hay chờ: https://techvision.click/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html
-- RTX 5090 vs RTX 5090 Ti 48GB - khác biệt VRAM, hiệu năng, giá, gamer nên mua bản nào ai nên chờ bản 48GB: https://techvision.click/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html
-- Qualcomm tung chip AI200 và AI250 đấu Nvidia ở mảng suy luận data center (768GB nhớ mỗi card, near-memory): https://techvision.click/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html
-- Siri AI có tiếng Việt không - Apple Intelligence hỗ trợ tiếng Việt, Siri AI đến cùng iOS 27 mùa thu 2026, máy nào dùng được: https://techvision.click/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html
-- Cách cài iOS 27 beta trên iPhone từng bước - developer beta vs public beta, sao lưu, cách gỡ về bản chính thức: https://techvision.click/articles/cach-cai-ios-27-beta-tren-iphone-huong-dan-tung-buoc.html
-- AI Overviews là gì - bản tóm tắt AI đầu kết quả Google, cách hoạt động RAG, khác Featured Snippets, ảnh hưởng traffic, cách tối ưu GEO: https://techvision.click/articles/ai-overviews-la-gi-cach-hoat-dong-anh-huong-website.html
-- Atlas dùng Gemini Robotics - Boston Dynamics và Google DeepMind đưa Gemini 3 vào robot hình người, sản xuất 2026 về Hyundai: https://techvision.click/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html
-- HONOR 600 ra mắt Việt Nam giá 17.990.000 đồng - camera 200MP, pin 7.000mAh sạc 80W, AI Image to Video 2.0: https://techvision.click/articles/honor-600-series-camera-200mp-ai-image-to-video-2026.html
-- Insta360 Luna Ultra ra mắt - gimbal camera kép Leica quay 8K, màn OLED tháo rời, giá Việt Nam 19,99 tới 24,99 triệu: https://techvision.click/articles/insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket.html
-- Anh buộc Google cho báo chí opt-out khỏi AI Overviews mà không bị tụt hạng tìm kiếm (CMA, quy định đầu tiên thế giới): https://techvision.click/articles/anh-cma-buoc-google-cho-bao-chi-opt-out-ai-overviews-2026.html
-- Google Gemini Spark - trợ lý AI 24/7 tự làm việc thay người dùng (Gemini 3.5, chạy nền cả khi khóa máy, độc quyền Google AI Ultra, ra mắt I/O 2026): https://techvision.click/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html
-- iQOO 15T: Specs & Đánh giá - Dimensity 9500 Monster, pin 8000mAh, camera 200MP: https://techvision.click/articles/iqoo-15t-review-specs-dimensity-9500-monster-pin-8000mah-2026.html
-- Sam Altman thừa nhận sai về "AI cướp việc làm": "Tôi vui vì đã nhầm": https://techvision.click/articles/sam-altman-sai-ve-ai-cuop-viec-lam-delighted-wrong-2026.html
-- Xiaomi 17T ra mắt chính thức Việt Nam (giá từ 18.99 triệu, đặt trước 29/5-5/6, mở bán 6/6) - HyperOS 4 & MiClaw AI: https://techvision.click/articles/xiaomi-17t-hyperos-4-miclaw-ai-viet-nam-2026.html
-- iPhone sẽ tự khóa khi bị giật khỏi tay: Apple phát triển tính năng chống cướp giật mới: https://techvision.click/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html
-- Sa thải 134.000 nhân sự Tech 2026: Wix, Meta, Cisco, Intuit tái cấu trúc vì AI: https://techvision.click/articles/ai-sa-thai-134000-nhan-su-tech-wix-meta-cisco-intuit-2026.html
-- Dreame H16 Pro TriForce ra mắt Việt Nam: 3-in-1 steam + nước nóng + foam, giá 19.99 triệu: https://techvision.click/articles/dreame-h16-pro-triforce-ra-mat-viet-nam-28-5-2026.html
-- OpenAI Phone 2027: Không app, AI agent thay mọi thứ - Đối thủ thực sự của iPhone: https://techvision.click/articles/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone.html
-- Anthropic chốt vòng $30 tỷ, định giá $900 tỷ - vượt OpenAI thành AI startup giá trị nhất: https://techvision.click/articles/anthropic-900-ty-vuot-openai-vong-goi-von-2026.html
-- Samsung vượt Apple lần đầu trong ACSI 2026: Galaxy AI là yếu tố quyết định: https://techvision.click/articles/samsung-vuot-apple-acsi-2026-galaxy-ai.html
-- Samsung One UI 8.5: Máy nào được cập nhật và One UI 9.0 ra mắt khi nào: https://techvision.click/articles/samsung-one-ui-85-thiet-bi-duoc-cap-nhat-one-ui-90-khi-nao.html
-- Honor 600 Series: Camera 200MP biến ảnh tĩnh thành video bằng AI, pin 7.000mAh, IP69K: https://techvision.click/articles/honor-600-series-camera-200mp-ai-image-to-video-2026.html
-- Xiaomi 17T Series ra mắt 28/5: Leica 5x zoom lần đầu trên dòng T, pin 6.500mAh, giá từ 12.9 triệu tại Việt Nam: https://techvision.click/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html
-- Samsung Galaxy A57 5G: Phù hợp với ai và 4 đối thủ tầm 10-13 triệu sắp tới đáng chờ: https://techvision.click/articles/samsung-galaxy-a57-5g-phu-hop-voi-ai-doi-thu-tam-10-13-trieu-2026.html
-- Lenovo IdeaPad Slim 5i 2026: Intel Wildcat Lake, màn 120Hz 16:10, pin 22.8 giờ - đối thủ thực sự của MacBook Neo: https://techvision.click/articles/lenovo-ideapad-slim-5i-2026-wildcat-lake-man-120hz-pin-22h.html
-- iPhone Fold ra mắt - mỏng 4.5mm, màn 7.8 inch, giá từ $2,000: https://techvision.click/articles/iphone-fold-2026-apple-foldable.html
-- iOS 27 Leak Toàn Tập trước WWDC 8/6: https://techvision.click/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html
-- Google I/O 2026 Recap - Gemini Omni, Android XR, Search AI mới: https://techvision.click/articles/google-io-2026-recap-gemini-omni-android-xr.html
-- Google I/O 2026 Day 2 - Antigravity 2.0, vibe coding, Managed Agents: https://techvision.click/articles/google-io-2026-day2-developer-keynote-vibe-coding-antigravity.html
-- Microsoft Build 2026 - Copilot+ Phase 2, Windows AI Studio, GitHub Copilot Workspace: https://techvision.click/articles/microsoft-build-2026-copilot-plus-windows-ai-studio-github-copilot-workspace.html
-- Computex 2026 - AMD Ryzen AI 400, Snapdragon X2 Elite, ASUS ROG: https://techvision.click/articles/computex-2026-amd-ryzen-ai-400-qualcomm-snapdragon-x2-elite-asus-rog.html
-- NVIDIA GTC 2026 - Vera Rubin GPU, DGX Station: https://techvision.click/articles/nvidia-gtc-2026-vera-rubin-dgx-station.html
-- AI Agents triển khai doanh nghiệp 2026 - cuộc cách mạng workflow: https://techvision.click/articles/ai-agents-enterprise-deployment-2026.html
-- Ray-Ban Meta vs Samsung Galaxy Glasses 2026 - so sánh toàn diện: https://techvision.click/articles/ray-ban-meta-vs-samsung-galaxy-glasses-so-sanh-2026.html
-- Samsung Galaxy Z Fold 8 & Flip 8 - full leak trước Unpacked: https://techvision.click/articles/samsung-galaxy-z-fold-8-flip-8-unpacked-2026.html
-- Big Tech chi 725 tỷ USD cho AI năm 2026: https://techvision.click/articles/big-tech-725-billion-ai-2026.html
-- macOS 27 Liquid Glass, Safari AI Organize Tabs: https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html
-- WWDC 2026 - iOS 27, Siri 2.0 redesign: https://techvision.click/articles/wwdc-2026-ios-27-siri-redesign.html
-- Apple mở iOS 27 cho AI agents bên thứ ba: https://techvision.click/articles/apple-ios-27-third-party-ai-agents.html
-- OpenAI + Dell Codex enterprise on-premise: https://techvision.click/articles/openai-dell-codex-enterprise-may-2026.html
-- Google + SpaceX - trung tâm dữ liệu trên quỹ đạo: https://techvision.click/articles/google-spacex-orbital-data-centers.html
-- Samsung Galaxy Glasses ra mắt tháng 7/2026: https://techvision.click/articles/samsung-galaxy-glasses-july-2026.html
-- NVIDIA RTX 5090 Ti 48GB GDDR7 rumor: https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html
-- Osaurus - local AI server cho Mac M-series: https://techvision.click/articles/osaurus-mac-local-ai-server.html
-- Sony A7R VI - cảm biến 67MP stacked: https://techvision.click/articles/sony-a7r-vi-67mp-camera.html
-- Xiaomi Band 10 Pro - AMOLED 1.74 inch, pin 21 ngày: https://techvision.click/articles/xiaomi-band-10-pro.html
-- Gemini Intelligence trên Android 17: https://techvision.click/articles/google-gemini-intelligence-android-17.html
-- OpenAI chuẩn bị kiện Apple: https://techvision.click/articles/openai-apple-lawsuit-may-2026.html
-- Tháng 5/2026: Vivo X300 Ultra, OnePlus Nord CE6, Oppo Find X9 Ultra: https://techvision.click/articles/may-2026-smartphone-launches.html
-- Google I/O 2026 Preview - chờ gì từ sự kiện lớn nhất năm: https://techvision.click/articles/google-io-2026-preview.html
+- [Anthropic và OpenAI nộp hồ sơ IPO: làn sóng giga-IPO ngành AI 2026](https://techvision.click/articles/anthropic-openai-nop-ho-so-ipo-2026-lan-song-giga-ipo-ai.html)
+- [Snap ra mắt kính AR Specs giá 2.195 USD: đối thủ mới của Apple Vision Pro](https://techvision.click/articles/snap-specs-kinh-ar-2026-ra-mat-gia-2195-usd-doi-thu-apple-vision-pro.html)
+- [Redmi K90 Ultra lộ diện: vũ khí gaming pin 8500mAh, quạt tản nhiệt, giá rẻ](https://techvision.click/articles/redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re.html)
+- [Microsoft tung loạt mô hình AI tự phát triển MAI, giảm phụ thuộc OpenAI](https://techvision.click/articles/microsoft-mai-mo-hinh-ai-tu-phat-trien-giam-phu-thuoc-openai-2026.html)
+- [Google Gemini 3.5 Pro: cửa sổ 2 triệu token và chế độ Deep Think](https://techvision.click/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html)
+- [Nintendo Switch 2 sau một năm: gần 20 triệu máy nhưng đà bán chậm lại](https://techvision.click/articles/nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai.html)
+- [AI Thực chiến 2026: gameshow trí tuệ nhân tạo đầu tiên trên sóng VTV](https://techvision.click/articles/ai-thuc-chien-2026-vtv-gameshow-tri-tue-nhan-tao-dau-tien-viet-nam.html)
+- [Pinterest ra mắt Ask Pinterest: tìm kiếm bằng hội thoại AI thay vì ảnh](https://techvision.click/articles/pinterest-ask-pinterest-ung-dung-ai-hoi-dap-tim-kiem-2026.html)
+- [ChatGPT cập nhật tháng 6/2026: tác vụ hẹn giờ, phát âm 60+ ngôn ngữ](https://techvision.click/articles/chatgpt-cap-nhat-thang-6-2026-tac-vu-hen-gio-phat-am-ca-nhan-hoa.html)
+- [Apple WWDC 2026: loạt tính năng an toàn trẻ em và kiểm soát của cha mẹ](https://techvision.click/articles/apple-wwdc-2026-tinh-nang-an-toan-tre-em-kiem-soat-cua-cha-me.html)
+- [Tesla Optimus Gen 3: robot hình người hướng tới sản xuất, giá dưới 20.000 USD](https://techvision.click/articles/tesla-optimus-gen-3-robot-hinh-nguoi-2026-san-xuat-gia-duoi-20000-usd.html)
+- [Nvidia RTX Spark: superchip ARM cho PC, đối đầu Intel và AMD](https://techvision.click/articles/nvidia-rtx-spark-superchip-pc-arm-computex-2026-doi-dau-intel-amd.html)
+- [Cuộc đua trung tâm dữ liệu AI Việt Nam: Viettel dẫn đầu, TP.HCM bứt phá](https://techvision.click/articles/cuoc-dua-trung-tam-du-lieu-ai-viet-nam-2026-viettel-vnpt-fpt-vng-cmc.html)
+- [xAI Grok dồn dập cập nhật tháng 6/2026: lên AWS, vào Word, mô hình mới](https://techvision.click/articles/xai-grok-cap-nhat-thang-6-2026-grok-4-3-aws-grok-cho-word-mo-hinh-moi.html)
+- [Cách tăng tốc laptop Windows bị chậm, lag: 10 cách không cần cài phần mềm](https://techvision.click/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html)
+- [Cách kéo dài tuổi thọ pin laptop: 8 thói quen sạc đúng tránh chai pin](https://techvision.click/articles/cach-keo-dai-tuoi-tho-pin-laptop-sac-dung-cach-2026.html)
+- [Cách bảo vệ tài khoản Facebook không bị hack, chiếm nick: 9 bước cần làm](https://techvision.click/articles/cach-bao-ve-tai-khoan-facebook-khong-bi-hack-chiem-nick-2026.html)
+- [SSD và HDD khác gì nhau? Nên chọn ổ cứng nào cho laptop và PC 2026](https://techvision.click/articles/ssd-vs-hdd-khac-gi-nen-chon-o-cung-nao-2026.html)
+- [18 triệu SIM bị khóa từ 15/6/2026 tại Việt Nam - cách xác thực SIM chính chủ qua VNeID, lộ trình khóa một chiều, hai chiều, thu hồi số (Thông tư 08/2026)](https://techvision.click/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html)
+- [AI khiến gần 88.000 người Mỹ mất việc 5 tháng đầu 2026, vượt cả năm 2025 (báo cáo Challenger Gray Christmas, agentic AI)](https://techvision.click/articles/ai-88000-nguoi-my-mat-viec-5-thang-dau-2026-challenger.html)
+- [Claude Fable 5 bị chính phủ Mỹ ra lệnh chặn, Anthropic gỡ Fable 5 và Mythos 5 toàn cầu vì an ninh quốc gia](https://techvision.click/articles/claude-fable-5-bi-chan-my-ra-lenh-cam-anthropic-go-toan-cau.html)
+- [Giá RTX 5090 tại Việt Nam tháng 6/2026 - bảng giá theo hãng (63 tới hơn 100 triệu), khủng hoảng GDDR7, nên mua hay chờ](https://techvision.click/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html)
+- [RTX 5090 vs RTX 5090 Ti 48GB - khác biệt VRAM, hiệu năng, giá, gamer nên mua bản nào ai nên chờ bản 48GB](https://techvision.click/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html)
+- [Qualcomm tung chip AI200 và AI250 đấu Nvidia ở mảng suy luận data center (768GB nhớ mỗi card, near-memory)](https://techvision.click/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html)
+- [Siri AI có tiếng Việt không - Apple Intelligence hỗ trợ tiếng Việt, Siri AI đến cùng iOS 27 mùa thu 2026, máy nào dùng được](https://techvision.click/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html)
+- [Cách cài iOS 27 beta trên iPhone từng bước - developer beta vs public beta, sao lưu, cách gỡ về bản chính thức](https://techvision.click/articles/cach-cai-ios-27-beta-tren-iphone-huong-dan-tung-buoc.html)
+- [AI Overviews là gì - bản tóm tắt AI đầu kết quả Google, cách hoạt động RAG, khác Featured Snippets, ảnh hưởng traffic, cách tối ưu GEO](https://techvision.click/articles/ai-overviews-la-gi-cach-hoat-dong-anh-huong-website.html)
+- [Atlas dùng Gemini Robotics - Boston Dynamics và Google DeepMind đưa Gemini 3 vào robot hình người, sản xuất 2026 về Hyundai](https://techvision.click/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html)
+- [HONOR 600 ra mắt Việt Nam giá 17.990.000 đồng - camera 200MP, pin 7.000mAh sạc 80W, AI Image to Video 2.0](https://techvision.click/articles/honor-600-series-camera-200mp-ai-image-to-video-2026.html)
+- [Insta360 Luna Ultra ra mắt - gimbal camera kép Leica quay 8K, màn OLED tháo rời, giá Việt Nam 19,99 tới 24,99 triệu](https://techvision.click/articles/insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket.html)
+- [Anh buộc Google cho báo chí opt-out khỏi AI Overviews mà không bị tụt hạng tìm kiếm (CMA, quy định đầu tiên thế giới)](https://techvision.click/articles/anh-cma-buoc-google-cho-bao-chi-opt-out-ai-overviews-2026.html)
+- [Google Gemini Spark - trợ lý AI 24/7 tự làm việc thay người dùng (Gemini 3.5, chạy nền cả khi khóa máy, độc quyền Google AI Ultra, ra mắt I/O 2026)](https://techvision.click/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html)
+- [iQOO 15T: Specs & Đánh giá - Dimensity 9500 Monster, pin 8000mAh, camera 200MP](https://techvision.click/articles/iqoo-15t-review-specs-dimensity-9500-monster-pin-8000mah-2026.html)
+- [Sam Altman thừa nhận sai về "AI cướp việc làm": "Tôi vui vì đã nhầm"](https://techvision.click/articles/sam-altman-sai-ve-ai-cuop-viec-lam-delighted-wrong-2026.html)
+- [Xiaomi 17T ra mắt chính thức Việt Nam (giá từ 18.99 triệu, đặt trước 29/5-5/6, mở bán 6/6) - HyperOS 4 & MiClaw AI](https://techvision.click/articles/xiaomi-17t-hyperos-4-miclaw-ai-viet-nam-2026.html)
+- [iPhone sẽ tự khóa khi bị giật khỏi tay: Apple phát triển tính năng chống cướp giật mới](https://techvision.click/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html)
+- [Sa thải 134.000 nhân sự Tech 2026: Wix, Meta, Cisco, Intuit tái cấu trúc vì AI](https://techvision.click/articles/ai-sa-thai-134000-nhan-su-tech-wix-meta-cisco-intuit-2026.html)
+- [Dreame H16 Pro TriForce ra mắt Việt Nam: 3-in-1 steam + nước nóng + foam, giá 19.99 triệu](https://techvision.click/articles/dreame-h16-pro-triforce-ra-mat-viet-nam-28-5-2026.html)
+- [OpenAI Phone 2027: Không app, AI agent thay mọi thứ - Đối thủ thực sự của iPhone](https://techvision.click/articles/openai-phone-2027-khong-co-app-ai-agent-doi-thu-iphone.html)
+- [Anthropic chốt vòng $30 tỷ, định giá $900 tỷ - vượt OpenAI thành AI startup giá trị nhất](https://techvision.click/articles/anthropic-900-ty-vuot-openai-vong-goi-von-2026.html)
+- [Samsung vượt Apple lần đầu trong ACSI 2026: Galaxy AI là yếu tố quyết định](https://techvision.click/articles/samsung-vuot-apple-acsi-2026-galaxy-ai.html)
+- [Samsung One UI 8.5: Máy nào được cập nhật và One UI 9.0 ra mắt khi nào](https://techvision.click/articles/samsung-one-ui-85-thiet-bi-duoc-cap-nhat-one-ui-90-khi-nao.html)
+- [Honor 600 Series: Camera 200MP biến ảnh tĩnh thành video bằng AI, pin 7.000mAh, IP69K](https://techvision.click/articles/honor-600-series-camera-200mp-ai-image-to-video-2026.html)
+- [Xiaomi 17T Series ra mắt 28/5: Leica 5x zoom lần đầu trên dòng T, pin 6.500mAh, giá từ 12.9 triệu tại Việt Nam](https://techvision.click/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html)
+- [Samsung Galaxy A57 5G: Phù hợp với ai và 4 đối thủ tầm 10-13 triệu sắp tới đáng chờ](https://techvision.click/articles/samsung-galaxy-a57-5g-phu-hop-voi-ai-doi-thu-tam-10-13-trieu-2026.html)
+- [Lenovo IdeaPad Slim 5i 2026: Intel Wildcat Lake, màn 120Hz 16:10, pin 22.8 giờ - đối thủ thực sự của MacBook Neo](https://techvision.click/articles/lenovo-ideapad-slim-5i-2026-wildcat-lake-man-120hz-pin-22h.html)
+- [iPhone Fold ra mắt - mỏng 4.5mm, màn 7.8 inch, giá từ $2,000](https://techvision.click/articles/iphone-fold-2026-apple-foldable.html)
+- [iOS 27 Leak Toàn Tập trước WWDC 8/6](https://techvision.click/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html)
+- [Google I/O 2026 Recap - Gemini Omni, Android XR, Search AI mới](https://techvision.click/articles/google-io-2026-recap-gemini-omni-android-xr.html)
+- [Google I/O 2026 Day 2 - Antigravity 2.0, vibe coding, Managed Agents](https://techvision.click/articles/google-io-2026-day2-developer-keynote-vibe-coding-antigravity.html)
+- [Microsoft Build 2026 - Copilot+ Phase 2, Windows AI Studio, GitHub Copilot Workspace](https://techvision.click/articles/microsoft-build-2026-copilot-plus-windows-ai-studio-github-copilot-workspace.html)
+- [Computex 2026 - AMD Ryzen AI 400, Snapdragon X2 Elite, ASUS ROG](https://techvision.click/articles/computex-2026-amd-ryzen-ai-400-qualcomm-snapdragon-x2-elite-asus-rog.html)
+- [NVIDIA GTC 2026 - Vera Rubin GPU, DGX Station](https://techvision.click/articles/nvidia-gtc-2026-vera-rubin-dgx-station.html)
+- [AI Agents triển khai doanh nghiệp 2026 - cuộc cách mạng workflow](https://techvision.click/articles/ai-agents-enterprise-deployment-2026.html)
+- [Ray-Ban Meta vs Samsung Galaxy Glasses 2026 - so sánh toàn diện](https://techvision.click/articles/ray-ban-meta-vs-samsung-galaxy-glasses-so-sanh-2026.html)
+- [Samsung Galaxy Z Fold 8 & Flip 8 - full leak trước Unpacked](https://techvision.click/articles/samsung-galaxy-z-fold-8-flip-8-unpacked-2026.html)
+- [Big Tech chi 725 tỷ USD cho AI năm 2026](https://techvision.click/articles/big-tech-725-billion-ai-2026.html)
+- [macOS 27 Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
+- [WWDC 2026 - iOS 27, Siri 2.0 redesign](https://techvision.click/articles/wwdc-2026-ios-27-siri-redesign.html)
+- [Apple mở iOS 27 cho AI agents bên thứ ba](https://techvision.click/articles/apple-ios-27-third-party-ai-agents.html)
+- [OpenAI + Dell Codex enterprise on-premise](https://techvision.click/articles/openai-dell-codex-enterprise-may-2026.html)
+- [Google + SpaceX - trung tâm dữ liệu trên quỹ đạo](https://techvision.click/articles/google-spacex-orbital-data-centers.html)
+- [Samsung Galaxy Glasses ra mắt tháng 7/2026](https://techvision.click/articles/samsung-galaxy-glasses-july-2026.html)
+- [NVIDIA RTX 5090 Ti 48GB GDDR7 rumor](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
+- [Osaurus - local AI server cho Mac M-series](https://techvision.click/articles/osaurus-mac-local-ai-server.html)
+- [Sony A7R VI - cảm biến 67MP stacked](https://techvision.click/articles/sony-a7r-vi-67mp-camera.html)
+- [Xiaomi Band 10 Pro - AMOLED 1.74 inch, pin 21 ngày](https://techvision.click/articles/xiaomi-band-10-pro.html)
+- [Gemini Intelligence trên Android 17](https://techvision.click/articles/google-gemini-intelligence-android-17.html)
+- [OpenAI chuẩn bị kiện Apple](https://techvision.click/articles/openai-apple-lawsuit-may-2026.html)
+- [Tháng 5/2026: Vivo X300 Ultra, OnePlus Nord CE6, Oppo Find X9 Ultra](https://techvision.click/articles/may-2026-smartphone-launches.html)
+- [Google I/O 2026 Preview - chờ gì từ sự kiện lớn nhất năm](https://techvision.click/articles/google-io-2026-preview.html)
 
 ## Chủ đề bao phủ
 
