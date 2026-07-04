@@ -32,7 +32,17 @@ const newsLd = {
   image: heroImageObject,
   datePublished,
   dateModified: modified,
-  author: { '@type': 'Person', '@id': `${SITE}/#person`, name: 'Nguyễn Tấn Thiên Long', url: `${SITE}/cv.html` },
+  author: {
+    '@type': 'Person', '@id': `${SITE}/#person`, name: 'Nguyễn Tấn Thiên Long', url: `${SITE}/cv.html`,
+    jobTitle: 'Founder & Tech Content Strategist',
+    knowsAbout: ['Công nghệ', 'Trí tuệ nhân tạo', 'Smartphone', 'Laptop', 'Camera', 'Thiết bị đeo'],
+    sameAs: [
+      'https://www.youtube.com/@LongNguyenRV',
+      'https://www.tiktok.com/@fastcare.vn',
+      'https://www.facebook.com/longnguyen.longnguyenreview/',
+      'https://www.linkedin.com/in/nguy%E1%BB%85n-t%E1%BA%A5n-thi%C3%AAn-long-7110751a9/',
+    ],
+  },
   publisher: {
     '@type': 'Organization',
     name: 'LongTechVision',
