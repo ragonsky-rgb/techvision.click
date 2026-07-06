@@ -80,14 +80,14 @@ LTPO là một bước tiến của OLED cao cấp. Công nghệ này cho phép 
   <figcaption>AMOLED cho màu đen sâu và tương phản cao hơn LCD. Nguồn: YouTube</figcaption>
 </figure>
 
+## Độ sáng, tần số quét và những thông số đi kèm
+
+Tên gọi loại màn chỉ là một phần câu chuyện. Hai chiếc máy cùng dùng AMOLED vẫn có thể cho trải nghiệm khác xa nhau vì khác biệt ở độ sáng tối đa, tần số quét và độ phân giải. Độ sáng đo bằng đơn vị nit quyết định khả năng nhìn rõ ngoài trời nắng gắt. Các flagship hiện nay thường công bố độ sáng đỉnh vài nghìn nit ở chế độ HDR, trong khi máy phổ thông chỉ đạt vài trăm nit, dẫn tới việc đọc nội dung ngoài trời chênh lệch rõ rệt dù hai máy cùng là OLED.
+
 <figure>
   <img src="https://i.ytimg.com/vi/DgEFVwN3YTY/maxresdefault.jpg" alt="So sánh ưu nhược điểm OLED và LCD trên điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>OLED không phải lúc nào cũng vượt trội tuyệt đối so với LCD. Nguồn: YouTube</figcaption>
 </figure>
-
-## Độ sáng, tần số quét và những thông số đi kèm
-
-Tên gọi loại màn chỉ là một phần câu chuyện. Hai chiếc máy cùng dùng AMOLED vẫn có thể cho trải nghiệm khác xa nhau vì khác biệt ở độ sáng tối đa, tần số quét và độ phân giải. Độ sáng đo bằng đơn vị nit quyết định khả năng nhìn rõ ngoài trời nắng gắt. Các flagship hiện nay thường công bố độ sáng đỉnh vài nghìn nit ở chế độ HDR, trong khi máy phổ thông chỉ đạt vài trăm nit, dẫn tới việc đọc nội dung ngoài trời chênh lệch rõ rệt dù hai máy cùng là OLED.
 
 Tần số quét, tính bằng Hz, cho biết màn cập nhật hình ảnh bao nhiêu lần mỗi giây. Màn 60Hz là mức cơ bản, còn 90Hz, 120Hz hay 144Hz cho cảm giác cuộn trang và chơi game mượt hơn hẳn. Đây cũng là nơi LTPO phát huy giá trị, khi hạ tần số quét xuống mức rất thấp lúc hiển thị tĩnh để tiết kiệm pin. Độ phân giải và mật độ điểm ảnh, đo bằng ppi, ảnh hưởng tới độ sắc nét, đặc biệt quan trọng với màn lớn hoặc khi dùng kính thực tế ảo. Khi đọc thông số, nên xem các con số này cùng nhau thay vì chỉ nhìn tên công nghệ.
 

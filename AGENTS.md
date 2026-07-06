@@ -39,7 +39,8 @@ sourceUrl, sourceName, sourceDomains, stats (6 mục), faq (5 Q&A), related (3 b
 - Video embed phải **cho phép nhúng** (check `"playableInEmbed":true` ở trang watch) và **còn sống** (oEmbed trả JSON).
 - Tránh kênh nhạy cảm chính trị / spam / AI reupload (vd Việt Tân, "Amazon Shopping"...). Ưu tiên kênh công nghệ uy tín hoặc báo chính thống.
 - Ảnh báo nước ngoài (9to5mac, macrumors...) lấy từ `og:image`, verify 200 trước khi dùng.
-- Lệnh verify nhanh: xem mục Snippets cuối file.
+- **KHOẢNG CÁCH MEDIA (bắt buộc): không đặt 2 khối ảnh/video sát nhau.** Giữa 2 khối media (`<figure>`, `<img>`, `<div class="art-video-wrap">`) phải có **tối thiểu 1 đoạn văn thật (≥ ~35-40 từ)** hoặc 1 khối nội dung khác (`spec-box`, `art-stats`, `art-callout`). Lý tưởng: mỗi H2 chỉ 1 media, media rải đều cả bài, KHÔNG dồn cụm. Ảnh/video KHÔNG được đặt ngay dưới nhau chỉ cách 1 dòng trống.
+- Lệnh verify nhanh: xem mục Snippets cuối file (có script rà media lỗi + media dồn cụm).
 
 ## 5. Build & deploy (chạy đúng thứ tự)
 ```

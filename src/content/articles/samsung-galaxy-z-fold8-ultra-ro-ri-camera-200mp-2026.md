@@ -74,14 +74,14 @@ Bên cạnh màn hình, camera cũng là điểm nâng cấp đáng chú ý củ
   <figcaption>Nhiều nguồn tin gọi Fold8 Ultra là khởi đầu cho kỷ nguyên Ultra thực sự trên dòng điện thoại gập của Samsung. Nguồn: YouTube</figcaption>
 </figure>
 
+## Chip Snapdragon 8 Elite Gen 5 và giá bán dự kiến
+
+Theo rò rỉ, Fold8 Ultra sẽ trang bị chip Snapdragon 8 Elite Gen 5 mới nhất của Qualcomm, RAM tối đa 16GB cùng các tùy chọn bộ nhớ trong 256GB, 512GB hoặc 1TB, đáp ứng tốt nhu cầu đa nhiệm nặng trên màn hình lớn. Giá bán khởi điểm dự kiến khoảng 2.100 USD, biến Fold8 Ultra thành smartphone chính hãng đắt nhất trong danh mục sản phẩm phổ thông của Samsung, cao hơn đáng kể so với các thế hệ Fold trước đây, phản ánh xu hướng tăng giá linh kiện chung của toàn ngành di động trong năm 2026.
+
 <figure>
   <img src="https://i.ytimg.com/vi/4gry7j36MCs/hqdefault.jpg" alt="Samsung Galaxy Z Fold8 Ultra camera 200MP hinh anh chinh thuc" loading="lazy" width="1280" height="480">
   <figcaption>Cụm camera 200MP cùng camera góc siêu rộng mới là điểm nâng cấp đáng chú ý của Galaxy Z Fold8 Ultra. Nguồn: YouTube</figcaption>
 </figure>
-
-## Chip Snapdragon 8 Elite Gen 5 và giá bán dự kiến
-
-Theo rò rỉ, Fold8 Ultra sẽ trang bị chip Snapdragon 8 Elite Gen 5 mới nhất của Qualcomm, RAM tối đa 16GB cùng các tùy chọn bộ nhớ trong 256GB, 512GB hoặc 1TB, đáp ứng tốt nhu cầu đa nhiệm nặng trên màn hình lớn. Giá bán khởi điểm dự kiến khoảng 2.100 USD, biến Fold8 Ultra thành smartphone chính hãng đắt nhất trong danh mục sản phẩm phổ thông của Samsung, cao hơn đáng kể so với các thế hệ Fold trước đây, phản ánh xu hướng tăng giá linh kiện chung của toàn ngành di động trong năm 2026.
 
 Các màu sắc rò rỉ gồm Cream, Graphite, Green Shadow và Violet Shadow, cho thấy Samsung tiếp tục theo đuổi bảng màu trầm, sang trọng thay vì các gam màu sặc sỡ, phù hợp định vị sản phẩm cao cấp dành cho đối tượng khách hàng doanh nhân và người dùng chuyên nghiệp vốn là nhóm khách hàng chính của dòng Fold Ultra kể từ khi ra mắt.
 

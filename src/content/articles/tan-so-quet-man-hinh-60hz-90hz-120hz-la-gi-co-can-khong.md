@@ -68,15 +68,15 @@ Khác biệt rõ nhất khi cuộn trang web, lướt mạng xã hội và chơi
   <figcaption>Mức tần số quét phù hợp tùy vào nhu cầu chơi game, lướt nội dung hay tiết kiệm pin. Nguồn: YouTube</figcaption>
 </figure>
 
+## Đừng nhầm với tần số quét cảm ứng
+
+Một điểm gây nhầm lẫn phổ biến là giữa tần số quét màn hình và tần số quét cảm ứng. Tần số quét màn hình nói về số lần hiển thị làm mới mỗi giây. Trong khi đó, tần số quét cảm ứng, hay touch sampling rate, là số lần màn ghi nhận thao tác chạm mỗi giây, thường cao hơn nhiều, ví dụ 240Hz hay 480Hz.
+
 <div class="art-video-label">VIDEO · Khác biệt giữa 120Hz và 60Hz</div>
 <div class="art-video-wrap">
   <iframe src="https://www.youtube.com/embed/iWSjS9WLd-g" title="So sánh tần số quét 120Hz và 60Hz trên điện thoại" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">So sánh trực quan độ mượt giữa màn 120Hz và 60Hz. Nguồn: YouTube</p>
-
-## Đừng nhầm với tần số quét cảm ứng
-
-Một điểm gây nhầm lẫn phổ biến là giữa tần số quét màn hình và tần số quét cảm ứng. Tần số quét màn hình nói về số lần hiển thị làm mới mỗi giây. Trong khi đó, tần số quét cảm ứng, hay touch sampling rate, là số lần màn ghi nhận thao tác chạm mỗi giây, thường cao hơn nhiều, ví dụ 240Hz hay 480Hz.
 
 Tần số quét cảm ứng quyết định độ nhạy và độ trễ khi chạm, nên cực kỳ quan trọng với game thủ cần thao tác nhanh và chính xác. Hai thông số này khác nhau, một chiếc máy có thể có màn 120Hz nhưng tần số quét cảm ứng cao hơn nhiều. Khi chọn máy chơi game, nên để ý cả hai chỉ số này.
 

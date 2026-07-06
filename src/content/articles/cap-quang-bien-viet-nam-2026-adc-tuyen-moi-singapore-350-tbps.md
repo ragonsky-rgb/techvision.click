@@ -98,7 +98,7 @@ Tầm nhìn dài hạn của Việt Nam rất rõ ràng: triển khai ít nhất
 Dung lượng lớn và độ ổn định cao của hệ thống cáp là yếu tố then chốt để hỗ trợ các trung tâm dữ liệu, dịch vụ đám mây và ứng dụng AI đang phát triển nhanh tại Việt Nam. Hạ tầng cáp quang biển, mạng di động và trung tâm dữ liệu cùng tạo nên bộ khung cho nền kinh tế số. Sự đầu tư đồng bộ này gắn liền với làn sóng đầu tư hạ tầng công nghệ rộng hơn, chẳng hạn các dự án được nêu trong bài [trung tâm dữ liệu AI Việt Nam hút hơn 7 tỷ USD](/articles/trung-tam-du-lieu-ai-viet-nam-2026-von-dau-tu-7-ty-usd-ha-tang.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/uOhpjhPMWP8/maxresdefault.jpg" alt="Việt Nam mở rộng dung lượng cáp quang biển hướng tới 350 Tbps" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/GuQuIY4Pdds/hq720.jpg" alt="Việt Nam mở rộng dung lượng cáp quang biển hướng tới 350 Tbps" loading="lazy" width="1280" height="720">
   <figcaption>Việt Nam hướng tới tổng dung lượng cáp tối thiểu 350 Tbps. Nguồn: YouTube</figcaption>
 </figure>
 

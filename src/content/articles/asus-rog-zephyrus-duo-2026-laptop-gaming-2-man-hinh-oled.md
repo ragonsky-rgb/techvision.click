@@ -62,15 +62,15 @@ ASUS vừa chính thức trình làng thế hệ mới của ROG Zephyrus Duo, d
   <figcaption>Trải nghiệm thực tế bản lề gập 320 độ của màn hình phụ trên ASUS ROG Zephyrus Duo 2026. Nguồn: YouTube</figcaption>
 </figure>
 
+## RTX 5090 bị giới hạn công suất: đánh đổi vì thiết kế 2 màn hình
+
+Dù trang bị GPU RTX 5090 ở cấu hình cao cấp nhất, Zephyrus Duo 2026 lại không thể khai thác tối đa hiệu năng của con chip này do giới hạn về khả năng tản nhiệt trong thân máy vốn đã phải chứa thêm một màn hình phụ. Công suất GPU bị giới hạn ở mức 135W thay vì mức lý tưởng 150W, khiến hiệu năng thực tế thấp hơn khoảng 18% so với đối thủ MSI Titan 18HX trong bài test 3DMark Speed Way, một đánh đổi đáng cân nhắc với người dùng ưu tiên hiệu năng đồ họa thuần túy hơn tính năng màn hình kép độc đáo.
+
 <div class="art-video-label">VIDEO · Đánh giá chi tiết ASUS ROG Zephyrus Duo 2026</div>
 <div class="art-video-wrap">
   <iframe src="https://www.youtube.com/embed/u_wIAODovDw" title="ASUS ROG Zephyrus Duo 2026 Full Review" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Đánh giá chi tiết thiết kế, hiệu năng và trải nghiệm sử dụng thực tế của ASUS ROG Zephyrus Duo 2026. Nguồn: YouTube</p>
-
-## RTX 5090 bị giới hạn công suất: đánh đổi vì thiết kế 2 màn hình
-
-Dù trang bị GPU RTX 5090 ở cấu hình cao cấp nhất, Zephyrus Duo 2026 lại không thể khai thác tối đa hiệu năng của con chip này do giới hạn về khả năng tản nhiệt trong thân máy vốn đã phải chứa thêm một màn hình phụ. Công suất GPU bị giới hạn ở mức 135W thay vì mức lý tưởng 150W, khiến hiệu năng thực tế thấp hơn khoảng 18% so với đối thủ MSI Titan 18HX trong bài test 3DMark Speed Way, một đánh đổi đáng cân nhắc với người dùng ưu tiên hiệu năng đồ họa thuần túy hơn tính năng màn hình kép độc đáo.
 
 Theo các bài đánh giá thực tế, phần không gian tản nhiệt bị thu hẹp do phải nhường chỗ cho cơ chế bản lề và mạch điều khiển màn hình phụ là nguyên nhân chính khiến ASUS phải giới hạn công suất GPU thấp hơn các mẫu laptop gaming một màn hình cùng phân khúc giá. Đây là bài toán kỹ thuật khó, khi ASUS phải cân bằng giữa việc giữ tính năng màn hình kép độc đáo và tối ưu hiệu năng đồ họa tối đa cho GPU flagship.
 

@@ -87,7 +87,7 @@ Bên cạnh việc gỡ thủ công, hãy tận dụng các công cụ quét b�
 Một bước quan trọng khác là kiểm tra quyền của các ứng dụng. Nhiều app xin quyền vượt quá nhu cầu, ví dụ một app đèn pin lại xin quyền truy cập danh bạ, tin nhắn hay vị trí. Hãy rà soát và thu hồi các quyền bất thường, đặc biệt là quyền nhạy cảm như tin nhắn, danh bạ, micro và camera. Việc giới hạn quyền giúp giảm rủi ro ngay cả khi một app có ý đồ xấu. Quản lý quyền chặt chẽ là thói quen bảo mật tốt, song hành với việc bảo vệ các tài khoản quan trọng như nêu trong bài [cách bảo mật tài khoản Google](/articles/cach-bao-mat-tai-khoan-google-chong-hack-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/lIbc-Qjhegk/maxresdefault.jpg" alt="Quét bảo mật và kiểm tra quyền ứng dụng trên điện thoại" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/lIbc-Qjhegk/hqdefault.jpg" alt="Quét bảo mật và kiểm tra quyền ứng dụng trên điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Quét bảo mật và kiểm tra quyền giúp phát hiện mã độc. Nguồn: YouTube</figcaption>
 </figure>
 

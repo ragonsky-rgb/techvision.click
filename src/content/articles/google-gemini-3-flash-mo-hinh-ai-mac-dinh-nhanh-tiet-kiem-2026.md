@@ -98,7 +98,7 @@ Việc Google liên tục tung các bản Gemini 3 cho thấy cuộc đua mô h�
 Điểm đáng chú ý là chiến lược phân tầng mô hình, với dòng Flash nhanh và rẻ cho số đông, dòng Pro mạnh hơn cho tác vụ phức tạp, và chế độ Deep Think cho các bài toán khó nhất. Cách phân tầng này giúp tối ưu chi phí và trải nghiệm, để người dùng dùng đúng công cụ cho đúng việc. Đây cũng là xu hướng chung mà nhiều nhà cung cấp AI đang theo đuổi trong năm 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0gSf-ybLS2Y/maxresdefault.jpg" alt="Gemini 3 Flash khả năng thị giác agentic giải bài toán AI" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/0gSf-ybLS2Y/hqdefault.jpg" alt="Gemini 3 Flash khả năng thị giác agentic giải bài toán AI" loading="lazy" width="1280" height="720">
   <figcaption>Cuộc đua mô hình AI giữa các hãng lớn ngày càng nóng. Nguồn: YouTube</figcaption>
 </figure>
 

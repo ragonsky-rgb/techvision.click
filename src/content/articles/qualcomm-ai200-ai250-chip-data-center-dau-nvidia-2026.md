@@ -99,14 +99,14 @@ Lãnh đạo Qualcomm mô tả đây là bước chuẩn bị cho giai đoạn t
 </div>
 <p class="art-video-caption">CEO Qualcomm chia sẻ về định hướng chuẩn bị cho giai đoạn tăng trưởng tiếp theo của data center AI. Nguồn: YouTube</p>
 
+## Điều này có ý nghĩa gì với người dùng và doanh nghiệp Việt Nam?
+
+Trước mắt, AI200 và AI250 không phải sản phẩm người dùng cuối có thể mua, mà là phần cứng dành cho các nhà vận hành đám mây và trung tâm dữ liệu. Nhưng tác động sẽ chảy xuống theo thời gian. Mỗi dịch vụ AI mà người Việt đang dùng hằng ngày, từ chatbot, công cụ dịch, trợ lý ảo tới các tính năng AI trong ứng dụng, đều chạy trên hạ tầng suy luận như thế này.
+
 <figure>
   <img src="https://i.ytimg.com/vi/-fKmLOTKipY/hqdefault.jpg" alt="Cổ phiếu Qualcomm tăng mạnh sau công bố chip AI data center" loading="lazy" width="480" height="360">
   <figcaption>Cổ phiếu Qualcomm bật tăng mạnh ngay khi hãng công bố tham vọng data center. Nguồn: YouTube</figcaption>
 </figure>
-
-## Điều này có ý nghĩa gì với người dùng và doanh nghiệp Việt Nam?
-
-Trước mắt, AI200 và AI250 không phải sản phẩm người dùng cuối có thể mua, mà là phần cứng dành cho các nhà vận hành đám mây và trung tâm dữ liệu. Nhưng tác động sẽ chảy xuống theo thời gian. Mỗi dịch vụ AI mà người Việt đang dùng hằng ngày, từ chatbot, công cụ dịch, trợ lý ảo tới các tính năng AI trong ứng dụng, đều chạy trên hạ tầng suy luận như thế này.
 
 Khi Qualcomm, Nvidia và AMD cạnh tranh quyết liệt hơn ở tầng chip, chi phí vận hành mô hình có xu hướng giảm, và phần tiết kiệm đó dần phản ánh vào giá dịch vụ. Với doanh nghiệp Việt Nam đang cân nhắc triển khai AI, đây là tín hiệu tích cực: hạ tầng rẻ và đa dạng hơn đồng nghĩa rào cản chi phí thấp dần. Xu hướng này gắn chặt với làn sóng [AI agents triển khai trong doanh nghiệp năm 2026](/articles/ai-agents-enterprise-deployment-2026.html), nơi chi phí suy luận là yếu tố quyết định bài toán có khả thi hay không.
 

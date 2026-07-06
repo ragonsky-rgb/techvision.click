@@ -87,7 +87,7 @@ An toàn là yếu tố không nên tiết kiệm. Sạc dự phòng tích trữ
 Nếu hay đi máy bay, cần nhớ sạc dự phòng phải để trong hành lý xách tay, không được ký gửi, và thường bị giới hạn dung lượng tối đa 100Wh, tương đương khoảng 27.000mAh. Hãy xem thông số Wh in trên thân sạc và kiểm tra quy định của hãng bay trước chuyến đi để tránh bị giữ lại tại sân bay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DVHaDyQ03_E/hqdefault.jpg" alt="Lưu ý sử dụng và chọn sạc dự phòng tương thích" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/nyKRC0qlYxg/hq720.jpg" alt="Lưu ý sử dụng và chọn sạc dự phòng tương thích" loading="lazy" width="1280" height="720">
   <figcaption>Hàng chính hãng có chứng nhận giúp giảm rủi ro phồng pin và chập cháy. Nguồn: YouTube</figcaption>
 </figure>
 

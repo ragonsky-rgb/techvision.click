@@ -91,7 +91,7 @@ Với người dùng đang cân nhắc nâng cấp toàn bộ hệ thống lưu 
 Độ trễ CAS latency, thường ký hiệu CL kèm một con số, thể hiện số chu kỳ xung nhịp cần thiết để RAM phản hồi một yêu cầu truy xuất dữ liệu, chỉ số càng thấp càng phản hồi nhanh. Trên RAM DDR5 hiện nay, độ trễ phổ biến dao động CL30-CL40. Tuy nhiên, cần cân nhắc CAS latency cùng với tốc độ bus tổng thể, vì đôi khi RAM tốc độ bus cao nhưng CL cao vẫn có độ trễ thực tế (tính bằng nano giây) thấp hơn RAM tốc độ bus thấp nhưng CL rất thấp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gPUn4rx6Vdw/hqdefault.jpg" alt="Giai thich chi so CAS Latency CL tren RAM DDR5" loading="lazy" width="1280" height="480">
+  <img src="https://i.ytimg.com/vi/3JLHqdg0U0Q/hq720.jpg" alt="Giai thich chi so CAS Latency CL tren RAM DDR5" loading="lazy" width="1280" height="480">
   <figcaption>Giải thích chi tiết về chỉ số CAS Latency (CL) và cách nó ảnh hưởng tới hiệu năng thực tế của RAM DDR5. Nguồn: YouTube</figcaption>
 </figure>
 

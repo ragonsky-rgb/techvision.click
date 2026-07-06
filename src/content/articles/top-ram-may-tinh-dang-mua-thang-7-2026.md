@@ -83,14 +83,14 @@ Với nhu cầu hiệu năng cao nhất, RAM DDR5 tốc độ trên 7.000MT/s l�
   <figcaption>Hướng dẫn chọn RAM gaming tốc độ cao phù hợp cho game thủ và người dựng nội dung chuyên nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
-<figure>
-  <img src="https://i.ytimg.com/vi/gPUn4rx6Vdw/hqdefault.jpg" alt="Giai thich CAS Latency tren RAM DDR5 toc do cao" loading="lazy" width="1280" height="480">
-  <figcaption>Hiểu rõ chỉ số CAS Latency giúp người dùng chọn đúng RAM DDR5 tốc độ cao phù hợp nhu cầu. Nguồn: YouTube</figcaption>
-</figure>
-
 ## Kết hợp nâng cấp RAM với các linh kiện máy tính khác
 
 Nhiều người dùng hiện đang lên kế hoạch nâng cấp đồng bộ nhiều linh kiện máy tính cùng lúc, kết hợp cả RAM tốc độ cao lẫn ổ cứng SSD dung lượng lớn để tối ưu hóa toàn bộ hiệu năng hệ thống. Người dùng có thể tham khảo thêm [top ổ cứng SSD đáng mua tháng 7/2026](/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html) cùng [RTX 5090 giá tăng vọt do khủng hoảng DRAM](/articles/rtx-5090-gia-tang-vot-khung-hoang-dram-2026.html) để hiểu rõ hơn bối cảnh giá linh kiện chung trước khi lên kế hoạch nâng cấp toàn diện.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/zK1HNhlat_w/hq720.jpg" alt="Giai thich CAS Latency tren RAM DDR5 toc do cao" loading="lazy" width="1280" height="480">
+  <figcaption>Hiểu rõ chỉ số CAS Latency giúp người dùng chọn đúng RAM DDR5 tốc độ cao phù hợp nhu cầu. Nguồn: YouTube</figcaption>
+</figure>
 
 ## Lưu ý khi chốt mua RAM trong tháng 7/2026
 

@@ -97,14 +97,14 @@ Một nhóm dữ liệu khác hay bị quên là nội dung trong các ứng d�
   <figcaption>Kiểm tra dữ liệu trong từng ứng dụng giúp tránh bỏ sót khi sao lưu. Nguồn: YouTube</figcaption>
 </figure>
 
+## Checklist trước khi khôi phục cài đặt gốc
+
+Trước khi xóa máy, ngoài việc sao lưu đầy đủ, có vài bước quan trọng dễ bị quên. Đầu tiên, đăng xuất tài khoản iCloud trên iPhone hoặc xóa tài khoản Google trên Android để gỡ khóa kích hoạt, nếu không máy mới hoặc người mua lại sẽ không dùng được. Đây cũng là điều cần kiểm tra khi mua máy cũ, như đã nêu trong bài [cách kiểm tra iPhone cũ trước khi mua](/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html).
+
 <figure>
   <img src="https://i.ytimg.com/vi/Tctwm8GADKs/maxresdefault.jpg" alt="Cách sao lưu dữ liệu trên điện thoại Android" loading="lazy" width="1280" height="720">
   <figcaption>Bật sao lưu Google One giúp khôi phục nhanh khi đổi máy. Nguồn: YouTube</figcaption>
 </figure>
-
-## Checklist trước khi khôi phục cài đặt gốc
-
-Trước khi xóa máy, ngoài việc sao lưu đầy đủ, có vài bước quan trọng dễ bị quên. Đầu tiên, đăng xuất tài khoản iCloud trên iPhone hoặc xóa tài khoản Google trên Android để gỡ khóa kích hoạt, nếu không máy mới hoặc người mua lại sẽ không dùng được. Đây cũng là điều cần kiểm tra khi mua máy cũ, như đã nêu trong bài [cách kiểm tra iPhone cũ trước khi mua](/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html).
 
 Bước hay bị bỏ sót nhất là ứng dụng xác thực hai lớp. Các mã trong app authenticator gắn với thiết bị, nên nếu xóa máy mà chưa chuyển, bạn có thể mất quyền truy cập nhiều tài khoản. Hãy dùng tính năng chuyển sang máy mới của app authenticator hoặc bật sao lưu mã trước. Cuối cùng, nếu dùng eSIM, nhớ rằng eSIM cần kích hoạt lại trên máy mới, chi tiết có trong bài [eSIM là gì và cách chuyển đổi](/articles/esim-la-gi-cach-chuyen-sim-vat-ly-sang-esim-viet-nam.html).
 

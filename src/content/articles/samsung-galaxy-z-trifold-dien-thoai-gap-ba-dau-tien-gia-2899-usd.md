@@ -98,7 +98,7 @@ Galaxy Z TriFold là minh chứng cho việc Samsung tiếp tục dẫn đầu t
 Như nhiều sản phẩm đột phá thế hệ đầu, Galaxy Z TriFold mang tính trình diễn công nghệ nhiều hơn là một thiết bị đại chúng. Giá trị của nó nằm ở việc mở đường cho các thế hệ sau hoàn thiện hơn, rẻ hơn và phổ biến hơn. Người dùng phổ thông chưa cần vội, nhưng với người yêu công nghệ, đây là cột mốc thú vị đánh dấu sự tiến hóa của điện thoại gập. Samsung cũng đang chuẩn bị làm mới dòng gập đôi, chi tiết trong bài [Galaxy Unpacked 22/7](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zdCwzUW8fiM/maxresdefault.jpg" alt="Galaxy Z TriFold sau thời gian dùng các lưu ý trước khi mua" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/zdCwzUW8fiM/hqdefault.jpg" alt="Galaxy Z TriFold sau thời gian dùng các lưu ý trước khi mua" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z TriFold mở đường cho các thế hệ gập ba hoàn thiện hơn. Nguồn: YouTube</figcaption>
 </figure>
 

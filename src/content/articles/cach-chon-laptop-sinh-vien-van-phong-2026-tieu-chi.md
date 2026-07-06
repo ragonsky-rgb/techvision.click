@@ -80,14 +80,14 @@ Về chip, các dòng đời mới như Intel Core Ultra, AMD Ryzen hay Snapdrag
   <figcaption>Phân khúc quanh 15 triệu có nhiều lựa chọn văn phòng đáng cân nhắc. Nguồn: YouTube</figcaption>
 </figure>
 
+## Màn hình, pin và tính di động
+
+Màn hình là thứ phải nhìn vào hằng ngày nên đừng xem nhẹ. Hãy chọn tấm nền IPS cho góc nhìn rộng và màu tốt, độ phân giải tối thiểu Full HD, ưu tiên loại chống chói nếu hay dùng ngoài sáng. Sinh viên ngành thiết kế nên tìm màn phủ màu cao để làm việc chính xác.
+
 <figure>
   <img src="https://i.ytimg.com/vi/BI_qjfi2C9s/maxresdefault.jpg" alt="Sinh viên đi mua laptop 5 điều cần lưu ý" loading="lazy" width="1280" height="720">
   <figcaption>Chọn đúng RAM và ổ SSD giúp máy bền và đáng tiền. Nguồn: YouTube</figcaption>
 </figure>
-
-## Màn hình, pin và tính di động
-
-Màn hình là thứ phải nhìn vào hằng ngày nên đừng xem nhẹ. Hãy chọn tấm nền IPS cho góc nhìn rộng và màu tốt, độ phân giải tối thiểu Full HD, ưu tiên loại chống chói nếu hay dùng ngoài sáng. Sinh viên ngành thiết kế nên tìm màn phủ màu cao để làm việc chính xác.
 
 Nếu thường mang máy tới trường hay quán cà phê, pin và trọng lượng rất quan trọng. Một chiếc laptop mỏng nhẹ, pin cả ngày sẽ tiện hơn nhiều so với máy nặng phải cắm sạc liên tục. Cũng nên để ý cổng kết nối, đảm bảo có đủ USB, cổng xuất hình và lý tưởng là USB-C sạc tiện lợi. Đây là những yếu tố ảnh hưởng trực tiếp tới trải nghiệm dùng hằng ngày.
 

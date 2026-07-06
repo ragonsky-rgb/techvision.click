@@ -64,15 +64,15 @@ Ngoài chất liệu vải lưới, người mua ở phân khúc giá tốt cũn
   <figcaption>Xếp hạng các mẫu ghế gaming và ghế văn phòng tốt nhất theo từng mức giá khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
+## Tầm trung: tay vịn 4D, hỗ trợ thắt lưng tốt hơn
+
+Ở phân khúc tầm trung, các dòng ghế gaming nổi bật nhờ tay vịn điều chỉnh 4D linh hoạt, cho phép di chuyển lên xuống, trái phải, xoay và tiến lùi theo tư thế ngồi của từng người, kết hợp cơ chế hỗ trợ thắt lưng tốt hơn dòng phổ thông. Đây là lựa chọn phù hợp người dùng ngồi làm việc hoặc chơi game nhiều giờ mỗi ngày, cần sự thoải mái cao hơn so với ghế giá tốt cơ bản mà chưa cần đầu tư tới mức ghế cao cấp nhất.
+
 <div class="art-video-label">VIDEO · Hướng dẫn chọn ghế theo mọi chiều cao và ngân sách</div>
 <div class="art-video-wrap">
   <iframe src="https://www.youtube.com/embed/dMiE0l6ehRA" title="Best Chair Buying Guide for Every Height and Budget" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Hướng dẫn chọn ghế gaming phù hợp theo từng chiều cao và mức ngân sách khác nhau. Nguồn: YouTube</p>
-
-## Tầm trung: tay vịn 4D, hỗ trợ thắt lưng tốt hơn
-
-Ở phân khúc tầm trung, các dòng ghế gaming nổi bật nhờ tay vịn điều chỉnh 4D linh hoạt, cho phép di chuyển lên xuống, trái phải, xoay và tiến lùi theo tư thế ngồi của từng người, kết hợp cơ chế hỗ trợ thắt lưng tốt hơn dòng phổ thông. Đây là lựa chọn phù hợp người dùng ngồi làm việc hoặc chơi game nhiều giờ mỗi ngày, cần sự thoải mái cao hơn so với ghế giá tốt cơ bản mà chưa cần đầu tư tới mức ghế cao cấp nhất.
 
 Nhiều mẫu tầm trung hiện nay cũng đã tích hợp cơ chế lumbar điều chỉnh độ lồi ngay trên khung ghế thay vì chỉ dùng gối tựa rời, giúp hỗ trợ thắt lưng ổn định và đồng đều hơn suốt cả ngày làm việc. Đây là bước nâng cấp đáng giá so với phân khúc giá tốt, đặc biệt với người thường xuyên gặp vấn đề đau lưng dưới khi ngồi lâu.
 

@@ -59,7 +59,7 @@ Sau vài năm vắng bóng, LG gram chính thức quay lại thị trường Vi�
 
 <div class="art-video-label">VIDEO · Giới thiệu chính thức LG gram Pro AI 2026</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/rl9JmcrFw0o" title="LG gram Pro 16 inch Thin and Lightweight Dual AI Laptop Honest Review 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/szgzZrglNnw" title="LG gram Pro 16 inch Thin and Lightweight Dual AI Laptop Honest Review 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Phim giới thiệu chính thức của LG về dòng gram Pro AI 2026 với vật liệu Aerominum mới. Nguồn: YouTube</p>
 
@@ -92,7 +92,7 @@ Một điểm khác cần lưu ý là ba dòng sản phẩm gram Pro AI, gram AI
 Về mặt hệ sinh thái, LG gram AI 2026 còn tích hợp thêm tính năng gram Link, cho phép kết nối và chia sẻ màn hình, tài liệu dễ dàng giữa laptop, điện thoại và máy tính bảng, hỗ trợ cả hệ điều hành iOS, Android, Windows lẫn webOS. Đây là điểm cộng đáng chú ý cho người dùng sở hữu nhiều thiết bị từ các hãng khác nhau, không bị giới hạn trong một hệ sinh thái đóng như nhiều đối thủ cạnh tranh khác trên thị trường laptop cao cấp hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rl9JmcrFw0o/mqdefault.jpg" alt="LG gram Pro 16 inch can bang giua nhe va hieu nang 2026" loading="lazy" width="1280" height="480">
+  <img src="https://i.ytimg.com/vi/H6ucxpGxJE8/hq720.jpg" alt="LG gram Pro 16 inch can bang giua nhe va hieu nang 2026" loading="lazy" width="1280" height="480">
   <figcaption>LG gram Pro 16 inch giữ được sự cân bằng tốt giữa trọng lượng nhẹ và hiệu năng xử lý thực tế. Nguồn: YouTube</figcaption>
 </figure>
 

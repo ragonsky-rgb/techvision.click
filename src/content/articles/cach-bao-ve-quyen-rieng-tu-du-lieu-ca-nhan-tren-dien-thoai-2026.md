@@ -65,7 +65,7 @@ Tiếp theo là hạn chế theo dõi quảng cáo. Trên iPhone, vào phần qu
 
 <div class="art-video-label">VIDEO · Những thứ nên tắt để đảm bảo quyền riêng tư</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/tXljRhZxn2M" title="Tắt ngay những điều này để đảm bảo quyền riêng tư trên điện thoại" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/7sWGlQtbKCw" title="Tắt ngay những điều này để đảm bảo quyền riêng tư trên điện thoại" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Các thiết lập nên tắt để giảm thu thập dữ liệu trên điện thoại. Nguồn: YouTube</p>
 

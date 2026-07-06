@@ -108,18 +108,18 @@ Sự nổi lên của dòng camera gimbal bỏ túi gắn liền với làn són
 Trong vài năm gần đây, cuộc cạnh tranh trong phân khúc này ngày càng gay gắt, với các hãng liên tục bổ sung cảm biến lớn hơn, khả năng zoom quang học và các tính năng bám chủ thể bằng AI. Sự xuất hiện cùng thời điểm của Pocket 4 Pro và [Insta360 Luna Ultra](/articles/insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket.html) cho thấy phân khúc camera bỏ túi cao cấp đang bước vào giai đoạn sôi động nhất từ trước tới nay, mang lại nhiều lựa chọn hơn cho người dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/iGCalHw7Qx4/maxresdefault.jpg" alt="Đánh giá DJI Osmo Pocket 4 Pro so sánh với Pocket 4 và Pocket 3" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/DjNaJScp1PM/hq720.jpg" alt="Đánh giá DJI Osmo Pocket 4 Pro so sánh với Pocket 4 và Pocket 3" loading="lazy" width="1280" height="720">
   <figcaption>Camera gimbal bỏ túi kết hợp chống rung cơ học với cảm biến lớn trong thân máy nhỏ. Nguồn: YouTube</figcaption>
-</figure>
-
-<figure>
-  <img src="https://i.ytimg.com/vi/SCnK92hmv-c/maxresdefault.jpg" alt="So sánh trên tay DJI Osmo Pocket 4P và Pocket 4 về camera và zoom" loading="lazy" width="1280" height="720">
-  <figcaption>Phân khúc camera bỏ túi cao cấp đang cạnh tranh sôi động trong năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
 ## Có đáng nâng cấp từ Osmo Pocket 4 thường?
 
 Pocket 4 Pro là bước nhảy lớn nhất của dòng Osmo Pocket cho tới nay, nhưng không phải ai cũng cần. Với người chỉ quay vlog đời thường, du lịch và nội dung mạng xã hội ở góc rộng, bản Osmo Pocket 4 thường vẫn cho chất lượng dư dùng với mức giá dễ chịu hơn nhiều.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/SCnK92hmv-c/maxresdefault.jpg" alt="So sánh trên tay DJI Osmo Pocket 4P và Pocket 4 về camera và zoom" loading="lazy" width="1280" height="720">
+  <figcaption>Phân khúc camera bỏ túi cao cấp đang cạnh tranh sôi động trong năm 2026. Nguồn: YouTube</figcaption>
+</figure>
 
 Ngược lại, với vlogger chuyên nghiệp, nhà làm phim độc lập hay người sáng tạo cần cả góc rộng lẫn tele, khả năng xóa phông và quy trình màu chuyên sâu, cụm camera kép cùng 17 stop và D-Log 2 của bản Pro là khác biệt rõ rệt xứng đáng với khoản chênh lệch. Sức ép từ Pocket 4 Pro và [Insta360 Luna Ultra](/articles/insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket.html) cũng nhiều khả năng kéo mặt bằng giá phân khúc camera bỏ túi cao cấp về mức hợp lý hơn trong các tháng tới.
 

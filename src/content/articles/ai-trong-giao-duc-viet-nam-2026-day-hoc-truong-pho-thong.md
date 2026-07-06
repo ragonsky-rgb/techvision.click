@@ -98,7 +98,7 @@ Dù mở ra nhiều cơ hội, việc đưa AI vào giáo dục cũng đặt ra 
 Một lo ngại lớn khác là cách học sinh sử dụng AI. Nếu lạm dụng AI để làm bài thay vì học thật, công nghệ có thể phản tác dụng, làm giảm khả năng tư duy độc lập. Vì vậy, việc dạy học sinh dùng AI có trách nhiệm, kết hợp với rèn tư duy phản biện, là rất quan trọng. Ngoài ra, vấn đề bảo mật dữ liệu của học sinh khi dùng các nền tảng AI cũng cần được chú ý, liên quan tới các nguyên tắc trong bài [bảo vệ quyền riêng tư và dữ liệu cá nhân](/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/iRAIjfoV_4c/maxresdefault.jpg" alt="Ứng dụng AI nâng cao hiệu quả dạy học tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/FyOGHGrQ-GM/hq720.jpg" alt="Ứng dụng AI nâng cao hiệu quả dạy học tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>AI trong giáo dục mang lại cơ hội nhưng cũng đặt ra thách thức. Nguồn: YouTube</figcaption>
 </figure>
 
