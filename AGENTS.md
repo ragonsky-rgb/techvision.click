@@ -11,6 +11,13 @@
 - **Số liệu phải có nguồn thật** (báo/hãng), ghi rõ trong `sourceUrl` / `sourceDomains`. Tin đồn phải nói rõ là tin đồn.
 - **Mô hình nguồn 3 lớp cho bài tin (bắt buộc):** (1) *Radar* = báo lớn VN (VnExpress, Genk, Tinhte, CafeF, Znews) CHỈ để bắt chủ đề đang hot + search demand VN, KHÔNG lấy làm nguồn dữ kiện; (2) *Dữ kiện gốc* = nguồn quốc tế GỐC (The Verge, TechCrunch, MacRumors, 9to5Mac, Reuters), lấy số liệu/giá/ngày/quote chuẩn, ≥2 nguồn gốc + URL; (3) *Giá trị riêng* = phân tích + bối cảnh VN + so sánh + internal link. KHÔNG đua breaking news với VnExpress — định vị "giải thích đầy đủ nhất qua lăng kính quốc tế". Check SERP top Google VN trước khi viết để viết cho thắng, không echo lại.
 
+## 0b. Checklist chống lỗi trước khi commit (bắt buộc)
+Chạy đủ 4 bước này trước MỖI lần commit để máy/AI khác không tái tạo lỗi cũ:
+1. **`node scripts/check-media.mjs`** → phải ra **0 ảnh lỗi · 0 video lỗi · 0 bài media dồn cụm**. Script quét cả `src/content/articles`, `public/articles` và `public/su-kien`. Nếu có lỗi: sửa (thay thumbnail sống, hạ maxres→hqdefault, giãn media) rồi chạy lại tới khi sạch.
+2. **Build sạch** bằng lệnh ở §5, không warning/lỗi.
+3. **Ảnh/video mới**: verify HTTP 200 + kích thước thật (maxres có thể trả ảnh xám ~1KB status 200, xem §4). Video embed phải còn sống + cho nhúng. KHÔNG dán URL chưa kiểm tra.
+4. **Commit chỉ file nguồn**, KHÔNG commit `dist/`. Máy mới: set `git config user.email` trước (xem §7). Sau đó `git push origin main`.
+
 ## 1. Vị trí & định dạng bài
 - Bài mới: `src/content/articles/<slug>.md` (Astro content collection, render bởi `src/layouts/ArticleLayout.astro`).
 - Bài cũ dạng HTML: `public/articles/*.html` (legacy, chỉ sửa khi cần).

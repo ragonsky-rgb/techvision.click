@@ -7,11 +7,12 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const AR = path.join(ROOT, 'src/content/articles');
 const PB = path.join(ROOT, 'public/articles');
+const SK = path.join(ROOT, 'public/su-kien');
 const MIN_WORDS = 35; // tối thiểu số từ prose giữa 2 khối media
 const UA = { 'User-Agent': 'Mozilla/5.0' };
 
 const files = [];
-for (const r of [AR, PB]) if (fs.existsSync(r)) for (const f of fs.readdirSync(r)) if (/\.(md|html)$/.test(f)) files.push(path.join(r, f));
+for (const r of [AR, PB, SK]) if (fs.existsSync(r)) for (const f of fs.readdirSync(r)) if (/\.(md|html)$/.test(f)) files.push(path.join(r, f));
 
 // ---- 1. Broken media ----
 const imgUrls = new Map(), ytVideos = new Map();
