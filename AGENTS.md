@@ -1,6 +1,7 @@
 # AGENTS.md — Chuẩn viết bài & vận hành techvision.click
 
 > Đọc file này TRƯỚC khi viết hoặc sửa bài, ở bất kỳ máy nào. Tuân thủ để chất lượng đồng nhất như khi làm ở máy local.
+> ⚠️ Repo này là **techvision.click** — KHÔNG phải web `chamaiagency.website` (ai-agent-business-kit). Đó là repo KHÁC, đừng lẫn hai web.
 
 ## 0. Quy tắc vàng (bắt buộc)
 - **Không dùng em-dash (—)** ở bất kỳ đâu. Dùng dấu phẩy, "tức là", hoặc ngoặc đơn.
