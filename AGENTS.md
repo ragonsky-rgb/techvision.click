@@ -9,6 +9,7 @@
 - **Giọng trung lập**, không clickbait, không nhồi tính từ. Tiếng Việt là chính, kèm thuật ngữ tiếng Anh khi cần.
 - **Internal link rõ anchor text**: 2-3 link sang bài liên quan trong thân bài, anchor mô tả đúng đích (không dùng "tại đây").
 - **Số liệu phải có nguồn thật** (báo/hãng), ghi rõ trong `sourceUrl` / `sourceDomains`. Tin đồn phải nói rõ là tin đồn.
+- **Mô hình nguồn 3 lớp cho bài tin (bắt buộc):** (1) *Radar* = báo lớn VN (VnExpress, Genk, Tinhte, CafeF, Znews) CHỈ để bắt chủ đề đang hot + search demand VN, KHÔNG lấy làm nguồn dữ kiện; (2) *Dữ kiện gốc* = nguồn quốc tế GỐC (The Verge, TechCrunch, MacRumors, 9to5Mac, Reuters), lấy số liệu/giá/ngày/quote chuẩn, ≥2 nguồn gốc + URL; (3) *Giá trị riêng* = phân tích + bối cảnh VN + so sánh + internal link. KHÔNG đua breaking news với VnExpress — định vị "giải thích đầy đủ nhất qua lăng kính quốc tế". Check SERP top Google VN trước khi viết để viết cho thắng, không echo lại.
 
 ## 1. Vị trí & định dạng bài
 - Bài mới: `src/content/articles/<slug>.md` (Astro content collection, render bởi `src/layouts/ArticleLayout.astro`).
