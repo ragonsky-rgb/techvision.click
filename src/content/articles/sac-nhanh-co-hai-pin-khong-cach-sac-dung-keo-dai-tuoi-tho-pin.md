@@ -68,15 +68,15 @@ Yếu tố thực sự làm pin xuống cấp nhanh là nhiệt độ cao. Khi s
   <figcaption>Sạc nhanh trên máy đời mới ít ảnh hưởng tuổi thọ pin nếu kiểm soát nhiệt tốt. Nguồn: YouTube</figcaption>
 </figure>
 
+## Sạc qua đêm và chuyện xả cạn pin
+
+Nhiều người vẫn lo sạc qua đêm làm hỏng pin, nhưng với máy hiện đại, điều này khá an toàn. Khi pin đầy, máy tự ngắt sạc, và nhiều dòng có tính năng sạc tối ưu, giữ pin ở mức 80% qua đêm rồi mới sạc nốt gần giờ thức dậy. Điều này hạn chế thời gian pin nằm ở mức 100%, vốn không lý tưởng cho tuổi thọ.
+
 <div class="art-video-label">VIDEO · Sự thật về sạc nhanh và pin</div>
 <div class="art-video-wrap">
   <iframe src="https://www.youtube.com/embed/tw1fMk6384U" title="Sạc nhanh có hại pin điện thoại không" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Phân tích tác động thật sự của sạc nhanh lên tuổi thọ pin. Nguồn: YouTube</p>
-
-## Sạc qua đêm và chuyện xả cạn pin
-
-Nhiều người vẫn lo sạc qua đêm làm hỏng pin, nhưng với máy hiện đại, điều này khá an toàn. Khi pin đầy, máy tự ngắt sạc, và nhiều dòng có tính năng sạc tối ưu, giữ pin ở mức 80% qua đêm rồi mới sạc nốt gần giờ thức dậy. Điều này hạn chế thời gian pin nằm ở mức 100%, vốn không lý tưởng cho tuổi thọ.
 
 Về chuyện xả cạn, đây là quan niệm cũ từ thời pin NiMH và không còn đúng với pin Li-ion ngày nay. Pin Li-ion không cần xả cạn 0% rồi mới sạc, ngược lại để cạn kiệt thường xuyên còn làm pin xuống cấp nhanh hơn. Tốt nhất nên sạc khi pin còn khoảng 20% và rút khi gần đầy, duy trì pin trong khoảng 20 tới 80% nếu có thể.
 

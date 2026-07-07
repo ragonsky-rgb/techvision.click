@@ -77,7 +77,7 @@ Song song đó, MAX2 giờ đây hỗ trợ quay màu 10-bit, gấp 4 lần lư�
 Tính năng được giới làm phim chuyên nghiệp chờ đợi nhất trong bản cập nhật là chế độ màu GP-Log, một dạng color profile phẳng (flat) tương tự các chế độ Log có trên máy quay điện ảnh và máy ảnh cao cấp. Khi quay ở GP-Log, hình ảnh xuất ra sẽ có độ tương phản thấp, màu sắc nhạt hơn so với bình thường, nhưng đổi lại giữ được nhiều chi tiết hơn ở cả vùng sáng lẫn vùng tối, tạo dư địa lớn để người dựng video tinh chỉnh màu sắc, độ tương phản trong phần mềm hậu kỳ theo đúng phong cách mong muốn thay vì bị giới hạn bởi màu được xử lý sẵn trong máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/r8mLm6BYWwA/hqdefault.jpg" alt="GoPro Max 2 GP-Log mau phang dung mau chuyen nghiep" loading="lazy" width="1280" height="480">
+  <img src="https://i.ytimg.com/vi/nOjtdxtLCME/hq720.jpg" alt="GoPro Max 2 GP-Log mau phang dung mau chuyen nghiep" loading="lazy" width="1280" height="480">
   <figcaption>Chế độ GP-Log trên GoPro MAX2 cho phép dựng màu linh hoạt hơn trong hậu kỳ. Nguồn: YouTube</figcaption>
 </figure>
 

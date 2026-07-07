@@ -98,7 +98,7 @@ Một thách thức thường gặp là dung lượng đám mây miễn phí nha
 Khi nhu cầu vượt quá mức miễn phí, việc mua thêm dung lượng là hợp lý, với chi phí thường không cao so với giá trị dữ liệu được bảo vệ. Ngoài các dịch vụ lớn như Google và Apple, còn nhiều lựa chọn khác với dung lượng và mức giá đa dạng. Với các file lớn ít dùng tới, bạn có thể lưu vào ổ cứng ngoài để giảm gánh nặng cho đám mây. Nguyên tắc quan trọng là phân loại dữ liệu theo mức độ quan trọng, ưu tiên sao lưu kỹ những thứ không thể thay thế như ảnh kỷ niệm và tài liệu quan trọng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/G-5Wp5SnC_Q/maxresdefault.jpg" alt="Cách lưu hình ảnh và video bằng Google Photos và ứng dụng đám mây" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/G-5Wp5SnC_Q/hqdefault.jpg" alt="Cách lưu hình ảnh và video bằng Google Photos và ứng dụng đám mây" loading="lazy" width="1280" height="720">
   <figcaption>Quản lý dung lượng và phân loại dữ liệu giúp sao lưu hiệu quả. Nguồn: YouTube</figcaption>
 </figure>
 

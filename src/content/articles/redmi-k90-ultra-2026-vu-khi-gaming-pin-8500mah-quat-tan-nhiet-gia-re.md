@@ -98,7 +98,7 @@ Redmi K90 Ultra bước vào một thị trường điện thoại Android cạn
 So với các máy như Oppo Find X10 Pro thiên về nhiếp ảnh, K90 Ultra hướng rõ tới game thủ và người dùng cần hiệu năng thô cùng thời lượng pin, thay vì camera đỉnh cao. Đây là chiến lược phân khúc quen thuộc và hiệu quả của Redmi, nhắm tới nhóm khách hàng trẻ, mê game và nhạy cảm về giá. Người quan tâm có thể tham khảo thêm một đối thủ Android cao cấp khác trong bài [Oppo Find X10 Pro](/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zqAY-72okWk/hqdefault.jpg" alt="Thông tin rò rỉ dòng Redmi K90 với pin lớn và sạc nhanh" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/--8Qfciwej0/hq720.jpg" alt="Thông tin rò rỉ dòng Redmi K90 với pin lớn và sạc nhanh" loading="lazy" width="1280" height="720">
   <figcaption>Pin lớn và sạc nhanh đang là xu hướng trên flagship Android. Nguồn: YouTube</figcaption>
 </figure>
 

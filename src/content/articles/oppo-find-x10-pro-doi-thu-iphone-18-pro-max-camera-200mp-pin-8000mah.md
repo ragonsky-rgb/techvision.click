@@ -75,7 +75,7 @@ Về phần còn lại, máy được đồn dùng màn OLED LTPO 6.78 inch đ�
 
 <div class="art-video-label">VIDEO · Rò rỉ và nhận định Oppo Find X10 Pro</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/xFzux2bfprA" title="Rò rỉ Oppo Find X10 Pro camera 200MP" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/RgdUlyMdjcc" title="Rò rỉ Oppo Find X10 Pro camera 200MP" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Tổng hợp rò rỉ thông số và thiết kế Find X10 Pro. Nguồn: YouTube</p>
 

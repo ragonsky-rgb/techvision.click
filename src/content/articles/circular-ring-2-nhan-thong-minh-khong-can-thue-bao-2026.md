@@ -58,7 +58,7 @@ Circular, thương hiệu nhẫn thông minh khởi nghiệp từ chiến dịch
 
 <div class="art-video-label">VIDEO · Đánh giá chi tiết Circular Ring 2 sau thời gian sử dụng thực tế</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/d9aHdu--yuM" title="Circular Ring 2 after 30 Days Honest Smart Ring Review" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/v7CiALWtOiY" title="Circular Ring 2 after 30 Days Honest Smart Ring Review" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Circular Ring 2 được nhiều kênh đánh giá độc lập thử nghiệm kỹ lưỡng trong thời gian dài trước khi đưa ra kết luận. Nguồn: YouTube</p>
 

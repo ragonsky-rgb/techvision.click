@@ -8,7 +8,7 @@ type: "cam-nang"
 datePublished: "2026-06-20T19:00:00+07:00"
 dateModified: "2026-06-20T19:00:00+07:00"
 deck: "Lừa đảo trên mạng ngày càng tinh vi: tin nhắn giả mạo ngân hàng, cuộc gọi giả danh công an, lời mời việc nhẹ lương cao hay trúng thưởng bất ngờ. Chỉ một lần bấm nhầm link hay đọc mã OTP cho người lạ là có thể mất sạch tiền trong tài khoản. Bài viết tổng hợp các chiêu phổ biến, dấu hiệu nhận biết và cách phòng tránh để bảo vệ chính mình và người thân."
-heroImage: "https://i.ytimg.com/vi/NkcT-2VFWrw/maxresdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/NkcT-2VFWrw/hqdefault.jpg"
 heroAlt: "Cảnh giác các chiêu lừa đảo qua tin nhắn giả mạo"
 heroCaption: "Cảnh giác với tin nhắn và cuộc gọi lạ là cách phòng lừa đảo hiệu quả nhất. Nguồn: YouTube"
 tldr: "Các chiêu lừa đảo phổ biến gồm <strong>tin nhắn giả mạo ngân hàng</strong> kèm link lạ, <strong>giả danh công an</strong> hay viện kiểm sát để đe dọa, mời <strong>việc nhẹ lương cao</strong>, <strong>trúng thưởng</strong> và link độc. Dấu hiệu cảnh báo: đường link sai tên miền, lời lẽ hối thúc đe dọa, yêu cầu <strong>OTP, mật khẩu hoặc chuyển tiền</strong>. Nguyên tắc vàng: <strong>không bấm link lạ</strong>, <strong>không cung cấp OTP và mật khẩu</strong>, <strong>không chuyển tiền theo áp lực</strong>, và luôn gọi lại số tổng đài chính thức để xác minh. Hãy bật xác thực 2 lớp và cảnh giác mọi lời mời lợi nhuận cao bất thường."
@@ -87,7 +87,7 @@ Có ba nguyên tắc cốt lõi giúp tránh hầu hết các vụ lừa đảo.
 Khi nhận một thông báo đáng ngờ, cách an toàn nhất là tự gọi lại số tổng đài chính thức của ngân hàng hoặc cơ quan liên quan để xác minh, thay vì gọi lại số trong tin nhắn. Đồng thời, hãy bật xác thực 2 lớp cho các tài khoản quan trọng như đã hướng dẫn trong bài [bật xác thực 2 lớp 2FA](/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html), và không cài ứng dụng từ nguồn ngoài kho chính thức.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/nKCTcmira50/hqdefault.jpg" alt="Vạch trần chiêu trò lừa đảo qua tin nhắn giả mạo ngân hàng" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/mRTbcA5sAMs/hq720.jpg" alt="Vạch trần chiêu trò lừa đảo qua tin nhắn giả mạo ngân hàng" loading="lazy" width="1280" height="720">
   <figcaption>Tự gọi lại tổng đài chính thức là cách xác minh an toàn nhất. Nguồn: YouTube</figcaption>
 </figure>
 

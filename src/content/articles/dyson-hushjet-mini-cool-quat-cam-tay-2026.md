@@ -71,7 +71,7 @@ Bên trong thân máy nhỏ bé là động cơ DC không chổi than có thể 
 Một điểm cộng lớn khác của HushJet Mini Cool là khả năng sử dụng linh hoạt theo ba cách khác nhau nhờ vòi phun có thể xoay 360 độ. Người dùng có thể cầm trực tiếp trên tay khi cần làm mát nhanh, đặt đứng trên bàn làm việc như một chiếc quạt để bàn thu nhỏ, hoặc đeo trên người, ví dụ gắn vào dây đeo túi hoặc để trong túi áo với phần vòi phun hướng lên, biến chiếc quạt nhỏ này thành một thiết bị làm mát cá nhân đa dụng phù hợp nhiều hoàn cảnh sử dụng khác nhau trong ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sybALeydXVY/hqdefault.jpg" alt="Dyson HushJet Mini Cool 3 trong 1 cam tay de ban deo nguoi 2026" loading="lazy" width="1280" height="480">
+  <img src="https://i.ytimg.com/vi/KVe4C2F3zSA/hq720.jpg" alt="Dyson HushJet Mini Cool 3 trong 1 cam tay de ban deo nguoi 2026" loading="lazy" width="1280" height="480">
   <figcaption>Thiết kế 3 trong 1 giúp HushJet Mini Cool linh hoạt trong nhiều tình huống sử dụng khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

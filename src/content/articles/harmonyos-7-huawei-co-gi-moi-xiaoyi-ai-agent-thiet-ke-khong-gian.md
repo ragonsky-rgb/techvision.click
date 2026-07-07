@@ -80,14 +80,14 @@ Về giao diện, HarmonyOS 7 chuyển sang một ngôn ngữ thiết kế khôn
   <figcaption>Màn khóa không gian là một trong những điểm nhấn thị giác của HarmonyOS 7. Nguồn: YouTube</figcaption>
 </figure>
 
+## Hiệu năng và năm trụ cột nâng cấp
+
+Bên cạnh AI và giao diện, Huawei nhấn mạnh nâng cấp hiệu năng. Hãng công bố HarmonyOS 7 cho hiệu năng tổng thể cao hơn tới 15%, với app mở nhanh hơn, phản hồi nhạy hơn, chơi game tốt hơn và hoạt ảnh hệ thống mượt mà hơn. Đây là những cải thiện người dùng cảm nhận được hằng ngày, không chỉ nằm trên giấy.
+
 <figure>
   <img src="https://i.ytimg.com/vi/LacwBGMVQ9s/maxresdefault.jpg" alt="Huawei công bố HarmonyOS 7 tại HDC 2026" loading="lazy" width="1280" height="720">
   <figcaption>HarmonyOS 7 được công bố tại sự kiện HDC 2026 của Huawei. Nguồn: YouTube</figcaption>
 </figure>
-
-## Hiệu năng và năm trụ cột nâng cấp
-
-Bên cạnh AI và giao diện, Huawei nhấn mạnh nâng cấp hiệu năng. Hãng công bố HarmonyOS 7 cho hiệu năng tổng thể cao hơn tới 15%, với app mở nhanh hơn, phản hồi nhạy hơn, chơi game tốt hơn và hoạt ảnh hệ thống mượt mà hơn. Đây là những cải thiện người dùng cảm nhận được hằng ngày, không chỉ nằm trên giấy.
 
 Toàn bộ bản nâng cấp được Huawei tóm lược thành năm trụ cột, gồm tính toán không gian, trí tuệ, bảo mật, độ mượt và khả năng kết nối đa thiết bị. Trong đó, mảng bảo mật được bổ sung các tính năng chống lừa đảo, còn kết nối đa thiết bị tiếp tục là thế mạnh truyền thống của Huawei, giúp điện thoại, máy tính bảng, PC, thiết bị đeo và đồ gia dụng thông minh phối hợp mượt mà hơn trong cùng hệ sinh thái.
 

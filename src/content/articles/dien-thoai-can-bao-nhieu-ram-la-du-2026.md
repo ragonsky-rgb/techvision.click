@@ -87,7 +87,7 @@ Một hiểu lầm phổ biến là RAM càng lớn thì pin càng tốt. Thực
 Về độ bền theo thời gian, RAM dư một chút sẽ giúp máy dùng được lâu hơn trước khi cảm thấy chậm, bởi các phiên bản hệ điều hành và ứng dụng mới thường tiêu tốn bộ nhớ nhiều hơn theo từng năm. Đây là lý do người có ý định giữ máy bốn tới năm năm nên cân nhắc mức RAM nhỉnh hơn nhu cầu hiện tại một bậc, thay vì chọn đúng mức tối thiểu vừa đủ ở thời điểm mua.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Mbq5LfxfQNA/hqdefault.jpg" alt="Điện thoại RAM 12GB chơi game có mượt hơn 8GB không" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/Jvb_AJcd-Pc/hq720.jpg" alt="Điện thoại RAM 12GB chơi game có mượt hơn 8GB không" loading="lazy" width="1280" height="720">
   <figcaption>RAM lớn giúp giữ game trong nền, nhưng độ mượt còn phụ thuộc chip và tối ưu. Nguồn: YouTube</figcaption>
 </figure>
 

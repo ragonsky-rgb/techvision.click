@@ -71,7 +71,7 @@ Kết hợp với công nghệ xoay camera, thiết bị còn cung cấp góc nh
 Về chất lượng hình ảnh, eufy Video Doorbell S4 quay video ở độ phân giải 3K với tốc độ khung hình 24fps, cho hình ảnh sắc nét ngay cả khi phóng to để xem chi tiết khuôn mặt hoặc biển số xe. Hệ thống AI của thiết bị có khả năng nhận diện khuôn mặt người quen thuộc từ khoảng cách khoảng 26 feet, tương đương 8 mét, đồng thời phát hiện sự hiện diện của người lạ từ khoảng cách xa hơn nhiều, lên tới 78 feet, tương đương khoảng 24 mét. Thiết bị cũng có khả năng nhận diện các gói hàng được để lại trước cửa, gửi thông báo riêng biệt để chủ nhà phân biệt giữa khách ghé thăm và bưu kiện giao hàng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jh811XM-xMY/hqdefault.jpg" alt="eufy Video Doorbell S4 do phan giai 3K nhan dien khuon mat 2026" loading="lazy" width="1280" height="480">
+  <img src="https://i.ytimg.com/vi/REcs6E0gkwE/hq720.jpg" alt="eufy Video Doorbell S4 do phan giai 3K nhan dien khuon mat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Camera 3K của eufy Video Doorbell S4 cho hình ảnh sắc nét, hỗ trợ nhận diện khuôn mặt từ xa. Nguồn: YouTube</figcaption>
 </figure>
 

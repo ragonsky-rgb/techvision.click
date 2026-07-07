@@ -98,7 +98,7 @@ Dù tham vọng lớn, Tesla đối mặt với thực tế là lịch mở rộ
 Xe tự lái không người giám sát đòi hỏi độ an toàn rất cao, kiểm định nghiêm ngặt và phê duyệt pháp lý ở từng địa phương. Mỗi thành phố có điều kiện giao thông, luật lệ và yêu cầu riêng, khiến việc mở rộng không thể vội vàng. Cách tiếp cận thận trọng là cần thiết để đảm bảo an toàn và xây dựng niềm tin của công chúng. Việc cân bằng giữa tham vọng tăng trưởng và an toàn vận hành là bài toán mà Tesla cùng mọi hãng phát triển xe tự lái đều phải giải.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Rw0_kj_Cl0g/maxresdefault.jpg" alt="Tesla mở rộng Robotaxi từ Austin ra các thành phố Texas" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/Rw0_kj_Cl0g/hqdefault.jpg" alt="Tesla mở rộng Robotaxi từ Austin ra các thành phố Texas" loading="lazy" width="1280" height="720">
   <figcaption>Mở rộng xe tự lái đòi hỏi kiểm định an toàn và pháp lý chặt chẽ. Nguồn: YouTube</figcaption>
 </figure>
 

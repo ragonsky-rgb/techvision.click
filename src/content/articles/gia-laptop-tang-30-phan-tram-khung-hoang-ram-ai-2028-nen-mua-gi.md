@@ -81,13 +81,13 @@ Vấn đề nằm ở loại bộ nhớ tốc độ cao HBM mà chip AI cần. M
   <figcaption>HBM cho AI và DRAM cho PC dùng chung nguồn cung wafer, nên AI bùng nổ kéo giá RAM lên. Nguồn: YouTube</figcaption>
 </figure>
 
+Đây cũng là chủ đề từng được phân tích trong bài [khủng hoảng bộ nhớ RAM tăng giá vì trung tâm dữ liệu AI](/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html), cho thấy cơn sốt này không phải nhất thời mà mang tính cơ cấu.
+
 <div class="art-video-label">VIDEO · Theo dõi giá RAM, SSD và linh kiện máy tính</div>
 <div class="art-video-wrap">
   <iframe src="https://www.youtube.com/embed/IXGDL1xlTqg" title="Theo dõi giá RAM, SSD và linh kiện máy tính" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Giá RAM, SSD và linh kiện máy tính được theo dõi sát trong giai đoạn khan hiếm. Nguồn: YouTube</p>
-
-Đây cũng là chủ đề từng được phân tích trong bài [khủng hoảng bộ nhớ RAM tăng giá vì trung tâm dữ liệu AI](/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html), cho thấy cơn sốt này không phải nhất thời mà mang tính cơ cấu.
 
 ## Món hời MacBook Neo: vì sao đáng chú ý lúc này?
 
