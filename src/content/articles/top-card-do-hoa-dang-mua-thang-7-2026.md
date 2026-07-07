@@ -83,6 +83,8 @@ Với nhu cầu chơi game ở độ phân giải 4K hoặc làm việc dựng n
   <figcaption>Bảng xếp hạng các dòng GPU cao cấp mới nhất giúp người dùng dễ dàng so sánh trước khi đầu tư. Nguồn: YouTube</figcaption>
 </figure>
 
+Với ngân sách cho phân khúc cao cấp này, người dùng cũng nên cân nhắc thêm chi phí nâng cấp bộ nguồn máy tính công suất lớn hơn, vì các dòng GPU 16-24GB VRAM thường tiêu thụ điện năng đáng kể, đòi hỏi nguồn công suất tối thiểu 850-1000W để đảm bảo hệ thống hoạt động ổn định lâu dài.
+
 <figure>
   <img src="https://i.ytimg.com/vi/AVo2aX-Ip0A/hqdefault.jpg" alt="GPU tot nhat cho 4K gaming va dung noi dung" loading="lazy" width="1280" height="480">
   <figcaption>Gợi ý GPU cao cấp phù hợp cho chơi game 4K và các tác vụ dựng nội dung chuyên nghiệp. Nguồn: YouTube</figcaption>
