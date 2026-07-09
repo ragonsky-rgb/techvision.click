@@ -75,7 +75,7 @@ Ngoài camera tele, dòng Pura 90 còn trang bị camera chính độ phân gi�
 Về phần cứng, Pura 90 series sử dụng chip Kirin 9010s tự phát triển của Huawei, kết hợp RAM 16GB và bộ nhớ trong 512GB ở cấu hình cao nhất. Máy chạy hệ điều hành HarmonyOS 6.1 thay vì Android tiêu chuẩn, đồng nghĩa với việc không có sẵn các dịch vụ và ứng dụng Google như Play Store, Gmail hay Maps do lệnh cấm vận thương mại từ Mỹ vẫn còn hiệu lực với Huawei suốt nhiều năm qua. Đây tiếp tục là rào cản lớn nhất với người dùng ở các thị trường quen thuộc với hệ sinh thái Google, dù HarmonyOS đã phát triển kho ứng dụng riêng khá đầy đủ tại thị trường nội địa Trung Quốc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/eX7XcFXCFrg/hqdefault.jpg" alt="Huawei Pura 90 series danh gia tong quan thiet ke" loading="lazy" width="1280" height="480">
+  <img src="https://i.ytimg.com/vi/TOEs9wpNJoM/hqdefault.jpg" alt="Huawei Pura 90 series danh gia tong quan thiet ke" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá tổng quan thiết kế và trải nghiệm sử dụng toàn bộ dòng Huawei Pura 90 series. Nguồn: YouTube</figcaption>
 </figure>
 
