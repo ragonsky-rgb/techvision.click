@@ -4,6 +4,12 @@
   "outputDirectory": "dist",
   "redirects": [
     {
+      "source": "/",
+      "has": [{ "type": "host", "value": "www.techvision.click" }],
+      "destination": "https://techvision.click/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [{ "type": "host", "value": "www.techvision.click" }],
       "destination": "https://techvision.click/:path*",
