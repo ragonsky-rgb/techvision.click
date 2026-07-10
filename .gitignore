@@ -21,3 +21,4 @@ scripts/gsc/node_modules/
 
 # AI visual-review screenshots (local)
 .shots/
+scripts/gsc/not-indexed.json

@@ -71,8 +71,8 @@ Nên ưu tiên giá đỡ có khả năng nâng tối thiểu 6 inch, đủ đ�
 Chất liệu chế tạo ảnh hưởng trực tiếp tới độ bền và cảm giác sử dụng lâu dài. Nhôm cứng cáp hơn, tản nhiệt tốt và ít bị flex (uốn cong) khi gõ phím mạnh, mang lại cảm giác chắc chắn và cao cấp hơn, nhưng dễ trầy xước bề mặt theo thời gian và có giá thành cao hơn đáng kể so với giá đỡ nhựa. Nhựa nhẹ, giá rẻ và dễ vệ sinh hơn, nhưng thường dễ bị uốn cong gây rung lắc màn hình khi gõ phím mạnh, phù hợp người ưu tiên ngân sách tiết kiệm hơn là độ ổn định tuyệt đối.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/JZvW4Zw2UUE/hqdefault.jpg" alt="Roost V3 gia do laptop danh gia sau mot thang su dung" loading="lazy" width="1280" height="480">
-  <figcaption>Đánh giá chi tiết giá đỡ laptop Roost V3 sau một tháng sử dụng thực tế, chất liệu nhôm và độ bền. Nguồn: YouTube</figcaption>
+  <img src="https://i.ytimg.com/vi/4-RtorAZPps/hqdefault.jpg" alt="Roost V3 gia do laptop danh gia chi tiet chat lieu do ben" loading="lazy" width="1280" height="480">
+  <figcaption>Đánh giá chi tiết giá đỡ laptop Roost V3 trong sử dụng thực tế, chất liệu nhôm và độ bền. Nguồn: YouTube</figcaption>
 </figure>
 
 ## 3. Độ ổn định chống rung lắc
