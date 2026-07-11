@@ -66,9 +66,9 @@ Với thời lượng pin này, người dùng gần như không phải lo lắn
 
 <div class="art-video-label">VIDEO · HUAWEI Watch GT 6 mở hộp và trải nghiệm nhanh</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/AEI9qEl6RaA" title="Huawei Watch GT 6 - Unboxing and Hands-On Review, Battery Life, Fitness and Smart Features" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/wSFjMu59YYs" title="Huawei Watch GT6 - Scientific In-depth Review" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
-<p class="art-video-caption">Trải nghiệm mở hộp và đánh giá nhanh về pin, tính năng thể thao và thông minh của HUAWEI Watch GT 6. Nguồn: YouTube</p>
+<p class="art-video-caption">Đánh giá chuyên sâu độ chính xác cảm biến và pin HUAWEI Watch GT 6 từ kênh The Quantified Scientist. Nguồn: YouTube</p>
 
 ## Màn hình sáng 3000 nit và thiết kế viền vát 3D
 
@@ -93,7 +93,7 @@ Về tính năng thể thao, HUAWEI Watch GT 6 hỗ trợ hơn 100 chế độ t
 Về mặt sức khỏe, máy có thể đo chỉ số SpO2 để đánh giá tình trạng hô hấp bất cứ lúc nào, đồng thời tích hợp cảm biến PPG giúp cảnh báo kịp thời nguy cơ rung nhĩ (A-fib) và ngoại tâm thu, hai vấn đề tim mạch phổ biến mà nhiều người dùng, đặc biệt là nhóm trung niên và cao tuổi, cần theo dõi sát sao. Máy chạy trên nền tảng HarmonyOS 6.0 mới nhất của Huawei, mang lại giao diện trực quan, mượt mà cùng khả năng tùy biến mặt đồng hồ linh hoạt theo sở thích từng người dùng, giúp trải nghiệm tổng thể trở nên cá nhân hoá hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AEI9qEl6RaA/hqdefault.jpg" alt="Trải nghiệm thực tế pin và tính năng thông minh của HUAWEI Watch GT 6" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/of-q5a-Z4IA/maxresdefault.jpg" alt="Trải nghiệm thực tế pin và tính năng thông minh của HUAWEI Watch GT 6" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm sử dụng thực tế cho thấy HUAWEI Watch GT 6 đáp ứng tốt cả nhu cầu thể thao lẫn sử dụng hàng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
