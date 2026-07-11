@@ -95,8 +95,8 @@ Dù thống trị đấu trường Chung kết thế giới suốt nhiều mùa 
 Một số nhà phân tích và cựu tuyển thủ trong nước từng đặt dấu hỏi về chiến thuật cấm chọn của T1 trong các trận đấu vòng bảng, cho rằng đội có phần thử nghiệm quá nhiều thay vì chơi an toàn với đội hình quen thuộc đã giúp họ thành công tại Chung kết thế giới. Thất bại trước G2 Esports một lần nữa làm dấy lên tranh luận về việc liệu T1 có cần điều chỉnh lại cách tiếp cận chiến thuật khi bước vào các giải đấu quốc tế có format và mật độ thi đấu khác biệt so với Chung kết thế giới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/i1pjcJxlxoA/hqdefault.jpg" alt="Cộng đồng streamer phản ứng khi G2 loại T1 khỏi MSI 2026" loading="lazy" width="1280" height="720">
-  <figcaption>Cộng đồng streamer và người hâm mộ bất ngờ trước kết quả loại T1 khỏi giải. Nguồn: YouTube</figcaption>
+  <img src="https://i.ytimg.com/vi/PusV0BQhdvg/maxresdefault.jpg" alt="Highlights G2 vs T1 tại vòng phân nhánh MSI 2026" loading="lazy" width="1280" height="720">
+  <figcaption>Highlights loạt trận G2 vs T1 tại vòng phân nhánh MSI 2026 từ kênh LoL Esports VN. Nguồn: YouTube</figcaption>
 </figure>
 
 ## T1 sẽ đi về đâu sau cú sốc MSI 2026?
