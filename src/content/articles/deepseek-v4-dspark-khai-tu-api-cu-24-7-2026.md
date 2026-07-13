@@ -8,7 +8,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T15:00:00+07:00"
 dateModified: "2026-07-13T15:00:00+07:00"
 deck: "DeepSeek thông báo sẽ chính thức ngừng hỗ trợ hai API mô hình cũ deepseek-chat và deepseek-reasoner từ ngày 24/7/2026, buộc toàn bộ nhà phát triển đang tích hợp phải chuyển sang DeepSeek-V4. Đây là thời điểm thích hợp để nhìn lại sức mạnh thực sự của V4, từ kiến trúc Mixture-of-Experts khổng lồ, cửa sổ ngữ cảnh 1 triệu token, cho tới khung suy đoán giải mã DSpark vừa được mã nguồn mở giúp tăng tốc độ phản hồi tới 85%."
-heroImage: "https://i.ytimg.com/vi/cRdm0rDhplo/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/AC2jj_jfunQ/hqdefault.jpg"
 heroAlt: "DeepSeek V4 DSpark khai tử API cũ deepseek-chat deepseek-reasoner"
 heroCaption: "DeepSeek-V4 là mô hình AI mã nguồn mở đang tạo áp lực cạnh tranh giá lớn lên toàn ngành. Nguồn: YouTube"
 tldr: "<strong>DeepSeek</strong> thông báo sẽ ngừng hỗ trợ hoàn toàn hai API mô hình cũ <strong>deepseek-chat</strong> và <strong>deepseek-reasoner</strong> từ ngày <strong>24/7/2026</strong>, yêu cầu toàn bộ nhà phát triển chuyển sang dòng <strong>DeepSeek-V4</strong> ra mắt từ 24/4/2026. V4 gồm hai phiên bản V4-Pro (khoảng 1,6 nghìn tỷ tham số) và V4-Flash (284 tỷ tham số, 13 tỷ tham số kích hoạt), đều hỗ trợ cửa sổ ngữ cảnh mặc định lên tới <strong>1 triệu token</strong>. Ngày 27/6, DeepSeek tiếp tục ra mắt khung suy đoán giải mã <strong>DSpark</strong>, giúp tăng tốc độ sinh phản hồi tới <strong>85%</strong>, đồng thời mã nguồn mở toàn bộ nghiên cứu cùng bộ công cụ DeepSpec. Giá sử dụng V4-Flash chỉ từ 0,14 USD cho một triệu token đầu vào, tiếp tục gây áp lực cạnh tranh giá lên toàn ngành AI."
@@ -59,18 +59,18 @@ DeepSeek, startup AI mã nguồn mở gây chấn động toàn cầu vào đầ
 
 Với những đội ngũ kỹ thuật tại Việt Nam đang xây dựng sản phẩm dựa trên API deepseek-chat hoặc deepseek-reasoner, việc bỏ lỡ hạn chót 24/7 đồng nghĩa các lệnh gọi API sẽ ngừng hoạt động hoàn toàn, có thể gây gián đoạn dịch vụ đang chạy thực tế. DeepSeek khuyến nghị chuyển thẳng sang endpoint của V4-Flash cho các tác vụ cần tốc độ phản hồi nhanh và chi phí thấp, hoặc V4-Pro cho các bài toán suy luận phức tạp đòi hỏi độ chính xác cao hơn. Quá trình migrate được mô tả là tương đối đơn giản do V4 giữ nguyên định dạng API tương thích ngược ở phần lớn tham số cơ bản.
 
-<div class="art-video-label">VIDEO · Trực tiếp một trận đấu giải APL 2026, minh hoạ tốc độ triển khai hạ tầng livestream AI hỗ trợ tại Việt Nam</div>
+<div class="art-video-label">VIDEO · Trải nghiệm thực tế DeepSeek-V4 ngay sau khi mô hình mã nguồn mở này ra mắt</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/hUteJn8ALVE" title="MIC CHECK APL 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/eV3lAY77IpU" title="Deepseek v4: Best Opensource Model Ever? (Fully Tested)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
-<p class="art-video-caption">Hạ tầng suy luận AI giá rẻ như DeepSeek-V4 đang giúp nhiều dịch vụ số tại Việt Nam, từ chatbot tới công cụ phân tích dữ liệu thể thao, giảm đáng kể chi phí vận hành. Nguồn: YouTube</p>
+<p class="art-video-caption">DeepSeek-V4 được nhiều reviewer đánh giá là một trong những model mã nguồn mở toàn diện nhất hiện nay. Nguồn: YouTube</p>
 
 ## Kiến trúc Mixture-of-Experts và cửa sổ ngữ cảnh 1 triệu token
 
 DeepSeek-V4 được xây dựng trên kiến trúc Mixture-of-Experts, cơ chế chỉ kích hoạt một phần nhỏ mạng nơ-ron cho mỗi lượt xử lý thay vì toàn bộ mô hình, giúp tiết kiệm đáng kể tài nguyên tính toán so với model đặc (dense model) cùng quy mô tham số. Phiên bản V4-Pro sở hữu tổng cộng khoảng 1,6 nghìn tỷ tham số, trong khi V4-Flash gọn nhẹ hơn với 284 tỷ tham số tổng nhưng chỉ kích hoạt 13 tỷ tham số mỗi lượt suy luận. Cả hai đều hỗ trợ cửa sổ ngữ cảnh mặc định lên tới 1 triệu token, đủ để xử lý toàn bộ một cuốn sách dài hoặc kho mã nguồn cỡ trung bình trong một lượt gọi duy nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tuVAQOw7HC0/hqdefault.jpg" alt="Kiến trúc Mixture of Experts của DeepSeek V4 minh hoạ qua các thử nghiệm thực tế" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/XJUpuOBpT-4/hqdefault.jpg" alt="Kiến trúc Mixture of Experts của DeepSeek V4 minh hoạ qua các thử nghiệm thực tế" loading="lazy" width="1280" height="720">
   <figcaption>DeepSeek-V4 sử dụng kiến trúc lai kết hợp Compressed Sparse Attention và Heavily Compressed Attention để tối ưu hiệu suất xử lý ngữ cảnh dài. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ DeepSeek-V4 được xây dựng trên kiến trúc Mixture-of-Experts, cơ ch�
 Ngày 27/6/2026, DeepSeek tiếp tục gây bất ngờ khi công bố DSpark, một khung suy đoán giải mã (speculative decoding) được phát triển hợp tác cùng Đại học Bắc Kinh. Cơ chế của DSpark không thay đổi kiến trúc gốc của model, mà bổ sung một module giải mã tích hợp vào nền tảng V4-Pro để tối ưu hiệu suất vận hành. Kỹ thuật suy đoán giải mã hoạt động bằng cách dùng một model nhẹ tạo trước các phương án dự đoán token tiếp theo, sau đó model chính chỉ cần xác minh lại thay vì phải sinh tuần tự từng token, qua đó giảm đáng kể thời gian xử lý và lãng phí tính toán mà không làm thay đổi chất lượng câu trả lời cuối cùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gAC55Cesx3k/hqdefault.jpg" alt="So sánh tốc độ phản hồi trước và sau khi áp dụng DSpark trên DeepSeek V4" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/9UO1kjR1_0A/hqdefault.jpg" alt="So sánh tốc độ phản hồi trước và sau khi áp dụng DSpark trên DeepSeek V4" loading="lazy" width="1280" height="720">
   <figcaption>DeepSeek công bố tốc độ sinh phản hồi cho một người dùng có thể tăng từ 60% tới 85% ở cùng mức thông lượng khi áp dụng DSpark. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,8 +90,8 @@ Theo số liệu DeepSeek công bố, tốc độ sinh phản hồi cho một ng
 ## Giá rẻ tiếp tục là vũ khí cạnh tranh chính của DeepSeek
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hUteJn8ALVE/hqdefault.jpg" alt="Ứng dụng AI giá rẻ trong các dịch vụ số tại Việt Nam" loading="lazy" width="1280" height="720">
-  <figcaption>Giá suy luận rẻ của DeepSeek-V4 giúp nhiều startup và đội ngũ phát triển sản phẩm số tại Việt Nam giảm đáng kể chi phí vận hành AI. Nguồn: YouTube</figcaption>
+  <img src="https://i.ytimg.com/vi/1vTTIUugGr8/hqdefault.jpg" alt="Benchmark hiệu năng DeepSeek V4 Pro và Flash so với các model đối thủ" loading="lazy" width="1280" height="720">
+  <figcaption>Các bài test benchmark thực tế cho thấy DeepSeek-V4 duy trì tỷ lệ hiệu năng trên chi phí thuộc nhóm tốt nhất thị trường. Nguồn: YouTube</figcaption>
 </figure>
 
 Bên cạnh hiệu năng, yếu tố khiến DeepSeek-V4 tiếp tục gây áp lực lớn lên toàn ngành AI chính là mức giá. Phiên bản V4-Flash hiện được cung cấp với chi phí chỉ 0,14 USD cho mỗi một triệu token đầu vào và 0,28 USD cho mỗi một triệu token đầu ra, thấp hơn đáng kể so với phần lớn các model đóng nguồn cùng phân khúc hiệu năng từ những phòng lab lớn khác. Chiến lược định giá cực thấp này từng khiến cổ phiếu công nghệ toàn cầu chao đảo khi DeepSeek lần đầu gây chú ý vào đầu năm 2025, và với V4 cùng DSpark, hãng tiếp tục củng cố vị thế là lựa chọn có tỷ lệ hiệu năng trên chi phí hấp dẫn bậc nhất, đặc biệt phù hợp với các đội ngũ phát triển sản phẩm tại thị trường Việt Nam vốn nhạy cảm về chi phí vận hành AI. Đây cũng là một phần lý do khiến DeepSeek song song đầu tư mạnh vào [chip AI tự phát triển nhằm giảm phụ thuộc vào Nvidia](/articles/deepseek-tu-phat-trien-chip-ai-rieng-thach-thuc-nvidia-huawei-2026.html), hướng tới việc kiểm soát toàn bộ chuỗi chi phí từ phần cứng tới phần mềm.
