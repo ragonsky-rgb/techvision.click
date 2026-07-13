@@ -99,6 +99,20 @@ F=src/content/articles/<slug>.md
 echo "media: $(grep -cE '<img |<iframe' $F) | em-dash: $(grep -c '—' $F)"
 ```
 
+## 8b. SEO tiêu đề + refresh hàng tháng
+
+**Tiêu đề (title frontmatter):**
+- Dài **≤65 ký tự** (Google cắt sau ~60-65; thẻ `<title>` còn nối thêm `| TechVision`).
+- **Từ khóa chính đứng đầu**, viết theo cụm người Việt thật sự tìm: "giá bao nhiêu", "cách bật/cách chọn", "kết quả <giải>", "là gì". Không viết kiểu tít báo dài dòng.
+- Tiêu đề chỉ hứa những gì bài THẬT SỰ có (có mục giá mới ghi "giá").
+- Khi sửa title bài đã đăng: **giữ nguyên slug/URL**, chỉ đổi `title` + bump `dateModified`.
+
+**Refresh bài "tháng X" (đầu mỗi tháng):**
+```bash
+node scripts/list-monthly-refresh.mjs   # liệt kê bài top-*/cach-chon-* gắn tháng cũ
+```
+Với mỗi bài: cập nhật giá/sản phẩm còn bán, đổi "tháng X" trong title/description/thân bài sang tháng mới, bump `dateModified`. Giữ nguyên slug.
+
 ## 9. Tham chiếu
 - Chiến lược nội dung: `docs/chien-luoc-noi-dung-2026.md`
 - Lộ trình SEO/GEO: `docs/lo-trinh-seo-geo.md`

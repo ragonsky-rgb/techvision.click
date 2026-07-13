@@ -23,7 +23,7 @@ for (const file of files) {
   const img = typeof na.image === 'string' ? na.image : (na.image && na.image.url) || pick(/<meta property="og:image" content="([^"]+)"/, html);
   out.push({
     slug,
-    title: na.headline || pick(/<meta property="og:title" content="([^"]+)"/, html) || pick(/<title>([^<]*?)(?: - LongTechVision)?<\/title>/, html),
+    title: na.headline || pick(/<meta property="og:title" content="([^"]+)"/, html) || pick(/<title>([^<]*?)(?: - LongTechVision| \| TechVision)?<\/title>/, html),
     description: na.description || pick(/<meta name="description" content="([^"]+)"/, html) || '',
     category: na.articleSection || pick(/<span class="cat">([^<]+)<\/span>/, html) || 'AI',
     datePublished: na.datePublished || null,
