@@ -9,7 +9,7 @@ export async function GET() {
     <loc>${SITE}/articles/${a.slug}.html</loc>
     <news:news>
       <news:publication>
-        <news:name>LongTechVision</news:name>
+        <news:name>TechVision</news:name>
         <news:language>vi</news:language>
       </news:publication>
       <news:publication_date>${a.datePublished}</news:publication_date>

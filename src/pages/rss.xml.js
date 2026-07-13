@@ -17,7 +17,7 @@ export async function GET() {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LongTechVision — Tin công nghệ</title>
+    <title>TechVision — Tin công nghệ</title>
     <link>${SITE}/blog.html</link>
     <atom:link href="${SITE}/rss.xml" rel="self" type="application/rss+xml" />
     <description>Tin tức công nghệ quốc tế dịch tiếng Việt — AI, smartphone, laptop, camera, wearable.</description>
