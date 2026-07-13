@@ -288,7 +288,7 @@
     nav.main-nav {
       position: fixed; top: 0; left: 0; right: 0; z-index: 200;
       display: flex; justify-content: space-between; align-items: center;
-      padding: 1.4rem 4rem;
+      padding: 1.4rem 2.5rem; gap: 2rem;
       border-bottom: 1px solid var(--line);
       background: rgba(245,242,237,0.88);
       backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
@@ -297,8 +297,10 @@
       font-family: var(--serif); font-size: 0.92rem; font-weight: 400;
       letter-spacing: 0.1em; text-transform: uppercase;
       color: var(--text); text-decoration: none;
+      flex-shrink: 0; white-space: nowrap;
     }
-    .nav-links { display: flex; gap: 2.5rem; list-style: none; }
+    .nav-links { display: flex; gap: 1.7rem; list-style: none; flex-wrap: nowrap; }
+    @media (max-width: 1600px) { .nav-extra { display: none; } }
     .nav-links a {
       font-size: 0.72rem; font-weight: 400; letter-spacing: 0.14em;
       text-transform: uppercase; color: var(--muted); text-decoration: none;
@@ -792,9 +794,9 @@
       <li><a href="/blog.html" style="color:var(--accent)">Tech News ↗</a></li>
       <li><a href="/tai-nguyen/" style="color:var(--accent)">Tài nguyên ↗</a></li>
       <li><a href="/portfolio/" style="color:var(--accent)">Portfolio ↗</a></li>
-      <li><a href="/reviews.html" style="color:var(--accent)">Reviews ↗</a></li>
-      <li><a href="/certificates.html" style="color:var(--accent)">Credentials ↗</a></li>
-      <li><a href="/cv.html" style="color:var(--accent)">CV ↗</a></li>
+      <li class="nav-extra"><a href="/reviews.html" style="color:var(--accent)">Reviews ↗</a></li>
+      <li class="nav-extra"><a href="/certificates.html" style="color:var(--accent)">Credentials ↗</a></li>
+      <li class="nav-extra"><a href="/cv.html" style="color:var(--accent)">CV ↗</a></li>
     </ul>
     <div class="nav-burger" id="nav-burger" role="button" aria-label="Menu">
       <span></span><span></span><span></span>
@@ -1167,6 +1169,8 @@
     <span style="display:flex;gap:1.2rem;align-items:center;flex-wrap:wrap;font-size:0.7rem;">
       <a href="/chinh-sach.html" style="color:var(--dim);text-decoration:none;">Chính sách</a>
       <a href="/cv.html" style="color:var(--dim);text-decoration:none;">Giới thiệu</a>
+      <a href="/reviews.html" style="color:var(--dim);text-decoration:none;">Reviews</a>
+      <a href="/certificates.html" style="color:var(--dim);text-decoration:none;">Credentials</a>
     </span>
   </footer>
 
