@@ -19,6 +19,16 @@ Chạy đủ 4 bước này trước MỖI lần commit để máy/AI khác khô
 3. **Ảnh/video mới**: verify HTTP 200 + kích thước thật (maxres có thể trả ảnh xám ~1KB status 200, xem §4). Video embed phải còn sống + cho nhúng. KHÔNG dán URL chưa kiểm tra.
 4. **Commit chỉ file nguồn**, KHÔNG commit `dist/`. Máy mới: set `git config user.email` trước (xem §7). Sau đó `git push origin main`.
 
+## 0c. Cơ cấu một batch (mặc định)
+Khi được yêu cầu "viết tiếp"/"viết một batch", mặc định mỗi batch gồm **4 bài** theo tỷ lệ cố định:
+- **2 bài tin công nghệ** (AI, chip, smartphone, laptop, sản phẩm công nghệ quốc tế... theo mô hình nguồn 3 lớp §0).
+- **1 bài tin esports** (LMHT hoặc Liên Quân Mobile: giải đấu, kết quả, lịch thi đấu).
+- **1 bài sản phẩm mới ra mắt tại Việt Nam** (xe, đồ điện tử, gia dụng... có giá/ngày bán VN thật).
+
+Kèm theo (khi tới kỳ): refresh 1 bài "tháng cũ" sang tháng hiện tại theo §8b (giữ nguyên slug).
+
+Batch nhỏ hơn 4 bài CHỈ chấp nhận khi thật sự không kiếm đủ chủ đề mới, dedup sạch, video đã verify thật cho một thể loại. Khi đó ghi rõ lý do bỏ bớt bài nào.
+
 ## 1. Vị trí & định dạng bài
 - Bài mới: `src/content/articles/<slug>.md` (Astro content collection, render bởi `src/layouts/ArticleLayout.astro`).
 - Bài cũ dạng HTML: `public/articles/*.html` (legacy, chỉ sửa khi cần).
