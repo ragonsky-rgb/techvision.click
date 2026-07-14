@@ -115,6 +115,8 @@ html = html.replace(/<!-- LAST_UPDATED -->[\s\S]*?<!-- \/LAST_UPDATED -->/, () =
 html = html.replace(/(<section class="news-hero"[^>]*>)[\s\S]*?(<\/section>)/, () => `<section class="news-hero" aria-label="Tin nổi bật">${heroHtml}</section>`);
 html = html.replace(/(<!-- BLOG ARTICLES START -->)[\s\S]*?(<!-- BLOG ARTICLES END -->)/, () => `<!-- BLOG ARTICLES START -->${gridHtml}<!-- BLOG ARTICLES END -->`);
 html = html.replace(/(<div class="side-list">)[\s\S]*?(<\/div>)/, () => `<div class="side-list">${picksHtml}</div>`);
+// dateModified của schema Blog = ngày bài mới nhất (tự tươi mỗi lần build)
+html = html.replace(/"dateModified": "[^"]*"/, () => `"dateModified": "${hero.datePublished}"`);
 
 writeFileSync(BLOG, html);
 console.log(`✅ blog.html cập nhật: hero=${hero.slug}, grid=${grid.length} bài, picks=${picks.length}, tổng=${articles.length}`);
