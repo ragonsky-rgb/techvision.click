@@ -8,7 +8,7 @@ type: "tin-tuc"
 datePublished: "2026-07-11T23:15:00+07:00"
 dateModified: "2026-07-11T23:15:00+07:00"
 deck: "ZTE vừa chính thức xác nhận thương hiệu Nubia sẽ ra mắt chiếc smartphone tích hợp AI Agent ở cấp hệ điều hành đầu tiên trên thế giới tại sự kiện Hội nghị Trí tuệ nhân tạo Thế giới (WAIC 2026) diễn ra tại Thượng Hải từ ngày 17 đến 20/7. Khác với các trợ lý AI hiện nay chủ yếu trả lời câu hỏi, AI Agent trên thiết bị mới của Nubia được quảng bá có khả năng tự động thao tác ứng dụng, so sánh giá và hoàn tất thanh toán thay người dùng mà không cần chạm tay vào màn hình."
-heroImage: "https://i.ytimg.com/vi/cugV3y2VtCQ/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/aIM6ZVqD8to/maxresdefault.jpg"
 heroAlt: "Nubia ra mắt smartphone AI Agent đầu tiên thế giới tại WAIC 2026"
 heroCaption: "Smartphone AI Agent của Nubia hứa hẹn tự động hoàn thành các tác vụ nhiều bước mà không cần thao tác thủ công. Nguồn: YouTube"
 tldr: "<strong>ZTE</strong>, thông qua thương hiệu con <strong>Nubia</strong>, xác nhận sẽ ra mắt smartphone tích hợp <strong>AI Agent ở cấp hệ điều hành đầu tiên trên thế giới</strong> tại sự kiện <strong>WAIC 2026</strong> diễn ra ở Thượng Hải từ ngày <strong>17 đến 20/7/2026</strong>. Bộ não đứng sau trợ lý AI này là <strong>Doubao</strong>, mô hình AI nội bộ do <strong>ByteDance</strong>, công ty mẹ của TikTok, phát triển. Khác với Siri hay Gemini vốn chỉ trả lời câu hỏi, AI Agent trên thiết bị mới có thể tự động mở ứng dụng, so sánh giá, điền thông tin đặt chỗ và hoàn tất thanh toán mà không cần người dùng chạm tay vào màn hình. Sản phẩm được phát triển dựa trên nền tảng của mẫu thử nghiệm Nubia M153 ra mắt cuối năm 2025, từng bán hết 30.000 máy chỉ trong ngày đầu mở bán tại Trung Quốc."
@@ -60,7 +60,7 @@ Theo công bố của Ni Fei, Phó Chủ tịch cấp cao ZTE kiêm Chủ tịch
 
 <div class="art-video-label">VIDEO · Trải nghiệm mẫu thử nghiệm Nubia M153 với trợ lý AI Doubao</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/ircU1x02odc" title="ByteDance AI Phone Unboxing Review Nubia M153 with Doubao Assistant" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/dliyslRYqiw" title="ByteDance AI Phone Unboxing Review Nubia M153 with Doubao Assistant" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Mẫu thử nghiệm Nubia M153 từng gây chú ý khi cho phép điều khiển toàn bộ điện thoại bằng giọng nói. Nguồn: YouTube</p>
 
@@ -71,7 +71,7 @@ Ví dụ điển hình được ZTE đưa ra là khi người dùng yêu cầu �
 Công nghệ nền tảng cho khả năng AI Agent này đến từ Doubao, mô hình AI nội bộ do ByteDance, công ty mẹ của TikTok, phát triển. Đây không phải lần đầu ZTE và ByteDance hợp tác trong lĩnh vực này. Vào cuối năm 2025, hai công ty đã cùng giới thiệu mẫu thử nghiệm mang tên Nubia M153, cho phép điều khiển toàn bộ hệ thống Android bằng giọng nói, từ việc mở ứng dụng cho tới hoàn tất một giao dịch mua hàng trực tuyến. Dù chỉ giới hạn số lượng 30.000 máy, sản phẩm đã gây tiếng vang lớn khi bán hết sạch ngay trong ngày đầu tiên mở bán tại thị trường Trung Quốc, một tín hiệu tích cực cho thấy nhu cầu thực sự của người dùng đối với công nghệ AI Agent trên di động.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/cugV3y2VtCQ/hqdefault.jpg" alt="Nubia M153 sản phẩm thử nghiệm AI Agent gây sốt tại Trung Quốc" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/aIM6ZVqD8to/maxresdefault.jpg" alt="Nubia M153 sản phẩm thử nghiệm AI Agent gây sốt tại Trung Quốc" loading="lazy" width="1280" height="720">
   <figcaption>Nubia M153 nhanh chóng bán hết 30.000 máy chỉ trong ngày đầu ra mắt, tạo tiền đề cho phiên bản thương mại mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Tuy nhiên, trải nghiệm thực tế với Nubia M153 cũng bộc lộ không
 Sự kiện WAIC 2026 tại Thượng Hải, diễn ra từ ngày 17 đến 20/7, được xem là một trong những hội nghị trí tuệ nhân tạo lớn nhất châu Á trong năm nay, quy tụ nhiều công bố công nghệ đáng chú ý khác bên cạnh smartphone AI Agent của Nubia, bao gồm cụm máy tính AI Atlas 950 SuperPoD của Huawei, cho thấy Trung Quốc đang đẩy mạnh nỗ lực thể hiện năng lực cạnh tranh trong lĩnh vực trí tuệ nhân tạo ứng dụng trên diện rộng, từ trung tâm dữ liệu quy mô lớn cho tới thiết bị cá nhân hàng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ircU1x02odc/hqdefault.jpg" alt="Đánh giá chi tiết trải nghiệm AI Doubao trên smartphone Nubia" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/QJ04YP2c3I0/maxresdefault.jpg" alt="Đánh giá chi tiết trải nghiệm AI Doubao trên smartphone Nubia" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế cho thấy AI Agent xử lý khá nhanh các tác vụ đơn giản như tìm kiếm và điền thông tin. Nguồn: YouTube</figcaption>
 </figure>
 

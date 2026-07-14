@@ -77,7 +77,7 @@ Với người quay solo, điều này thay đổi cách làm việc: đặt má
 
 <div class="art-video-label">VIDEO · Trên tay Insta360 Luna Ultra</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/T65Rm8iFFeo" title="Trên tay Insta360 Luna Ultra" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/R2DfzJOFwpc" title="Đánh giá chi tiết Insta360 Luna Ultra" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Trải nghiệm thực tế Luna Ultra và màn hình tháo rời. Nguồn: YouTube</p>
 

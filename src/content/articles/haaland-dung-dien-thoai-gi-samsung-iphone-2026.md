@@ -60,7 +60,7 @@ Tháng 3/2021, Samsung Electronics Nordic chính thức công bố Erling Braut 
 
 <div class="art-video-label">VIDEO · Chiến dịch Galaxy S22 Series có sự xuất hiện của Erling Haaland</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/e_WcDdjKxlQ" title="Galaxy S22 Series x Erling Braut Haaland" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/rcTBAdKHjss" title="Galaxy S22 Series x Erling Braut Haaland" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Haaland xuất hiện trong quảng cáo chính thức của Samsung cho dòng Galaxy S22. Nguồn: YouTube</p>
 
