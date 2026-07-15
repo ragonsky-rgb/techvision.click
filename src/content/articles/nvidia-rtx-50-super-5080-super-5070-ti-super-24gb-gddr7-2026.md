@@ -1,17 +1,17 @@
 ---
 slug: "nvidia-rtx-50-super-5080-super-5070-ti-super-24gb-gddr7-2026"
-title: "NVIDIA RTX 50 Super lộ diện: RTX 5080 Super và 5070 Ti Super lên 24GB GDDR7"
-description: "Rò rỉ NVIDIA RTX 50 Super: RTX 5080 Super và 5070 Ti Super nâng lên 24GB GDDR7, RTX 5070 Super 18GB. Lịch ra mắt bị lùi vì khủng hoảng bộ nhớ 2026."
+title: "NVIDIA RTX 50 Super bị hủy vì khủng hoảng bộ nhớ GDDR7?"
+description: "Nhiều báo cáo cho rằng NVIDIA đã hủy dòng RTX 50 Super (5080, 5070 Ti, 5070 Super) vì thiếu chip nhớ GDDR7 3GB do AI hút hết nguồn cung. NVIDIA chưa xác nhận."
 keywords: "RTX 50 Super, RTX 5080 Super, RTX 5070 Ti Super 24GB, card do hoa Nvidia 2026, RTX 50 Super gia"
 category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-07-07T15:30:00+07:00"
-dateModified: "2026-07-07T15:30:00+07:00"
-deck: "Loạt rò rỉ mới nhất giữa năm 2026 cho thấy NVIDIA vẫn đang chuẩn bị dòng card đồ họa RTX 50 Super, bản làm mới giữa vòng đời của kiến trúc Blackwell. Điểm nâng cấp đáng chú ý nhất là dung lượng bộ nhớ: RTX 5080 Super và RTX 5070 Ti Super được cho là cùng lên 24GB GDDR7, còn RTX 5070 Super đạt 18GB, nhờ dùng chip nhớ mật độ cao 3GB mỗi module. Tuy nhiên khủng hoảng giá bộ nhớ toàn cầu đang đe dọa cả thời điểm ra mắt lẫn mức giá của dòng card này."
+dateModified: "2026-07-15T11:00:00+07:00"
+deck: "Sau nhiều tháng rò rỉ về dung lượng bộ nhớ nâng cấp mạnh, dòng card RTX 50 Super của NVIDIA giờ đối mặt tin xấu: nhiều báo cáo cho rằng cả loạt RTX 5080 Super, RTX 5070 Ti Super và RTX 5070 Super đã bị hủy. Nguyên nhân được nêu là khủng hoảng chip nhớ GDDR7 mật độ cao 3GB mỗi module, loại linh kiện mà bản Super phụ thuộc để nâng dung lượng lên 24GB, nay bị các hệ thống AI trong trung tâm dữ liệu hút gần hết nguồn cung. NVIDIA chưa đưa ra xác nhận chính thức, nên thông tin vẫn cần được nhìn nhận thận trọng."
 heroImage: "https://i.ytimg.com/vi/eA5lFiP3mrs/hqdefault.jpg"
 heroAlt: "NVIDIA RTX 50 Super 5080 Super 5070 Ti Super 24GB GDDR7 2026"
 heroCaption: "RTX 50 Super được kỳ vọng nâng mạnh dung lượng bộ nhớ trên kiến trúc Blackwell. Nguồn: YouTube"
-tldr: "Theo các nguồn rò rỉ, NVIDIA RTX 50 Super gồm <strong>RTX 5080 Super</strong> và <strong>RTX 5070 Ti Super</strong> cùng nâng lên <strong>24GB GDDR7</strong>, còn <strong>RTX 5070 Super</strong> lên <strong>18GB</strong> kèm tăng khoảng 4% nhân CUDA lên 6.400. Số nhân CUDA của 5080 Super và 5070 Ti Super được cho là giữ nguyên so với bản thường, nhưng điện năng tăng lần lượt lên <strong>415W</strong> và <strong>350W</strong>. Dung lượng nhớ lớn hơn nhờ chip <strong>3GB mỗi module</strong> mà không đổi độ rộng bus. Lịch ra mắt bị lùi, có nguồn nói cuối 2026, có nguồn dời sang CES 2027, và chưa được NVIDIA xác nhận."
+tldr: "Nhiều báo cáo giữa tháng 7/2026 cho rằng NVIDIA đã <strong>hủy toàn bộ dòng RTX 50 Super</strong> gồm RTX 5080 Super, RTX 5070 Ti Super và RTX 5070 Super. Lý do được nêu là <strong>khủng hoảng chip nhớ GDDR7 3GB mỗi module</strong>, thứ mà bản Super cần để nâng dung lượng lên <strong>24GB</strong>, nay bị nhu cầu AI ở trung tâm dữ liệu hút gần hết nguồn cung, khiến bản làm mới cho người dùng phổ thông thiếu linh kiện. Trước đó, các bản Super được đồn giữ nguyên nhân CUDA so với bản thường nhưng nâng mạnh bộ nhớ và tăng điện năng lên <strong>415W</strong> (5080 Super) và <strong>350W</strong> (5070 Ti Super). NVIDIA <strong>chưa xác nhận chính thức</strong>, một số nguồn nói dòng card có thể chỉ bị dời sang cuối 2026 hoặc CES 2027 thay vì hủy hẳn."
 tags: ["RTX50Super", "Nvidia", "CardDoHoa", "TinTuc"]
 about: ["NVIDIA RTX 5080 Super", "NVIDIA RTX 5070 Ti Super", "GeForce RTX 50 Super"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường card đồ họa và linh kiện PC, phân tích hiệu năng trên giá thành cho người dùng Việt."
@@ -41,7 +41,7 @@ related:
 featured: true
 ---
 
-Sau nhiều tháng bị hoài nghi về việc có tồn tại hay không, dòng card đồ họa NVIDIA RTX 50 Super một lần nữa được các nguồn rò rỉ khẳng định vẫn đang trong kế hoạch. Đây là bản làm mới giữa vòng đời của kiến trúc Blackwell, tương tự cách NVIDIA từng tung ra các bản Super cho thế hệ RTX 20 và RTX 40 trước đây. Điểm khiến giới chơi PC quan tâm nhất không nằm ở sức mạnh xử lý, mà ở dung lượng bộ nhớ được nâng cấp mạnh, thứ vốn là điểm yếu thường bị phàn nàn trên loạt RTX 50 hiện tại.
+Câu chuyện dòng card đồ họa NVIDIA RTX 50 Super vừa rẽ sang một hướng bất ngờ. Sau nhiều tháng rò rỉ về bản làm mới giữa vòng đời của kiến trúc Blackwell với điểm nhấn là bộ nhớ nâng cấp mạnh, hàng loạt báo cáo gần đây lại cho rằng NVIDIA đã hủy toàn bộ loạt sản phẩm này, gồm RTX 5080 Super, RTX 5070 Ti Super và RTX 5070 Super. Nguyên nhân trớ trêu nằm ở chính điểm bán hàng của chúng: dung lượng bộ nhớ. Bản Super phụ thuộc vào chip nhớ GDDR7 mật độ cao 3GB mỗi module để lên 24GB, đúng loại linh kiện đang bị cơn sốt AI hút gần hết nguồn cung. Cần nói rõ ngay: NVIDIA chưa xác nhận chính thức, một số nguồn cho rằng dòng card chỉ bị dời chứ chưa chắc hủy hẳn, nên đây vẫn là thông tin cần theo dõi thêm.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Rò rỉ thông số RTX 50 Super</div>
@@ -49,7 +49,7 @@ Sau nhiều tháng bị hoài nghi về việc có tồn tại hay không, dòng
     <tr><td>RTX 5080 Super</td><td>10.752 nhân CUDA, 24GB GDDR7 32Gbps, 415W</td></tr>
     <tr><td>RTX 5070 Ti Super</td><td>Giữ nhân CUDA bản thường, 24GB GDDR7 28Gbps, 350W</td></tr>
     <tr><td>RTX 5070 Super</td><td>6.400 nhân CUDA, 18GB, 275W</td></tr>
-    <tr><td>Ra mắt</td><td>Chưa rõ, đồn cuối 2026 tới CES 2027</td></tr>
+    <tr><td>Trạng thái mới nhất</td><td>Có báo cáo bị hủy, NVIDIA chưa xác nhận</td></tr>
   </table>
 </div>
 
