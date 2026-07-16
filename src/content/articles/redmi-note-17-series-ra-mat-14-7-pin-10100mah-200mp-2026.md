@@ -58,6 +58,8 @@ Dòng Redmi Note từ lâu là lựa chọn quốc dân ở phân khúc tầm tr
   </table>
 </div>
 
+<div class="art-callout">💡 <strong>Cập nhật 14/7:</strong> Redmi Note 17 và Note 17 Pro đã ra mắt chính thức tại Trung Quốc với thông số và giá bán cuối cùng (pin 9.000mAh, từ 1.599 tệ), một số chi tiết khác với tin đồn trong bài này. Xem <a href="/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html">bài tổng hợp ra mắt chính thức Redmi Note 17 Pro</a>.</div>
+
 ## Lần đầu Redmi Note có biến thể Pro Max
 
 Trong nhiều thế hệ, dòng Redmi Note chỉ gồm bản tiêu chuẩn và bản Pro. Việc Xiaomi bổ sung Redmi Note 17 Pro Max cho thấy hãng muốn kéo dãn dải sản phẩm lên cao hơn, tạo một bản đầu bảng thực sự trong phân khúc tầm trung. Đây là cách hãng vừa giữ chân người dùng phổ thông với bản giá rẻ, vừa hút thêm nhóm sẵn sàng chi nhiều hơn để có camera và pin tốt nhất.

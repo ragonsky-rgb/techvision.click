@@ -84,7 +84,7 @@ Về thời lượng sử dụng, Xiaomi công bố REDMI Watch 6 có thể ho�
 Sau khoảng thời gian đầu mở bán, REDMI Watch 6 đã nhận được nhiều phản hồi tích cực từ giới chuyên gia công nghệ lẫn người dùng thực tế, đặc biệt xoay quanh khả năng hiển thị ngoài trời và độ ổn định của cảm biến nhịp tim trong quá trình luyện tập cường độ cao. Nhiều bài đánh giá độc lập từ quốc tế cũng ghi nhận thiết kế mặt vuông mới của sản phẩm mang lại cảm giác hiện đại hơn so với thế hệ đồng hồ mặt tròn truyền thống, đồng thời giúp việc đọc thông báo và các chỉ số sức khỏe trở nên trực quan hơn nhờ diện tích hiển thị được tận dụng tối đa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/fmjEeczR7e4/hqdefault.jpg" alt="Đánh giá toàn diện REDMI Watch 6 bản phân phối toàn cầu" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/3LbKwtRLnek/maxresdefault.jpg" alt="Đánh giá toàn diện REDMI Watch 6 bản phân phối toàn cầu" loading="lazy" width="1280" height="720">
   <figcaption>Các bài đánh giá quốc tế đều đánh giá cao tỷ lệ giá trên hiệu năng của REDMI Watch 6. Nguồn: YouTube</figcaption>
 </figure>
 

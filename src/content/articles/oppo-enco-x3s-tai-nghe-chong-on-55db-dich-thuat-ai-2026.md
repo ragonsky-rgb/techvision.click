@@ -59,7 +59,7 @@ OPPO vừa chính thức ra mắt Enco X3s, tai nghe true wireless flagship mớ
 
 <div class="art-video-label">VIDEO · Đánh giá chi tiết OPPO Enco X3s: âm thanh cao cấp, chống ồn đỉnh cao</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/0JIxkmFgZJU" title="OPPO Enco X3s Review 2026 Earbuds Unboxing ANC Test and Overview" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/u20pqA2R5HU" title="TWS OPPO Enco X3s Release - Unboxing and Overview" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Đánh giá chi tiết cho thấy Enco X3s có chất lượng âm thanh và chống ồn cạnh tranh với các dòng tai nghe cao cấp. Nguồn: YouTube</p>
 
@@ -88,7 +88,7 @@ Với người dùng Việt Nam đang tìm kiếm một chiếc tai nghe true wi
 Ngoài ra, thị trường tai nghe true wireless flagship năm 2026 đang chứng kiến xu hướng chung là tích hợp thêm nhiều tính năng AI vượt ra ngoài phạm vi nghe nhạc thuần túy, từ khả năng dịch thuật cho tới các tính năng sức khỏe, thể thao thông minh. Người tiêu dùng nên cân nhắc kỹ những tính năng AI nào thực sự phù hợp với nhu cầu sử dụng hằng ngày của bản thân, thay vì chỉ chạy theo thông số kỹ thuật ấn tượng trên bao bì sản phẩm mà không thực sự tận dụng hết các tính năng đã trả tiền.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0JIxkmFgZJU/mqdefault.jpg" alt="OPPO Enco X3s kiem tra kha nang chong on thuc te" loading="lazy" width="1280" height="480">
+  <img src="https://i.ytimg.com/vi/aJxacYR8lKY/maxresdefault.jpg" alt="OPPO Enco X3s so găng cùng Samsung Galaxy Buds 3 FE" loading="lazy" width="1280" height="720">
   <figcaption>Kiểm tra thực tế cho thấy khả năng chống ồn của Enco X3s hoạt động hiệu quả trong nhiều môi trường khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

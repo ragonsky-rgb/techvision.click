@@ -94,7 +94,7 @@ Tại Việt Nam, chưa có giá chính thức. Lấy mốc iPhone 17 Pro 256GB 
 Về thời điểm mua, người đang dùng iPhone đời cũ và cần máy gấp có thể cân nhắc mua iPhone 17 trong giai đoạn xả hàng trước khi iPhone 18 ra mắt mùa thu. Người muốn trải nghiệm AI mới nên chờ iPhone 18, ưu tiên bản thường để tối ưu chi phí. Xu hướng chung là chu kỳ nâng cấp đang dài ra khi giá linh kiện khó hạ trước 2027 tới 2028, nên mua trả góp hoặc chọn cấu hình vừa đủ là cách giảm áp lực tài chính.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/yoCKshUJJCs/maxresdefault.jpg" alt="Những điều cần biết về iPhone 18 trước khi quyết định mua" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/bT_wF0c0Q_Q/maxresdefault.jpg" alt="Những điều cần biết về iPhone 18 trước khi quyết định mua" loading="lazy" width="1280" height="720">
   <figcaption>Cân nhắc nhu cầu thực và dung lượng cần mua trước khi chọn iPhone 18. Nguồn: YouTube</figcaption>
 </figure>
 
