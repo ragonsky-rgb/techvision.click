@@ -103,7 +103,7 @@ Chính khả năng chơi game này khiến chip xuất hiện trong nhiều dạ
 
 ## Giá bán và điều cần cân nhắc
 
-Sức mạnh của Ryzen AI Max+ 395 đi kèm mức giá không nhỏ, nhưng vẫn rẻ hơn nhiều so với máy trạm AI chuyên dụng. Mini PC GMKtec EVO-X2 dùng chip này có giá khởi điểm khoảng 1.499 USD cho bản bộ nhớ thấp, còn bản 128GB nằm quanh 2.199 USD. Bên cạnh đó còn có các lựa chọn như Framework Desktop hay các máy trạm mini khác. AMD cũng bán bản máy phát triển AI chính thức mang tên Ryzen AI Halo, mở đặt trước từ tháng 6/2026 với giá quanh 3.999 USD.
+Sức mạnh của Ryzen AI Max+ 395 đi kèm mức giá không nhỏ, nhưng vẫn rẻ hơn nhiều so với máy trạm AI chuyên dụng. Mini PC GMKtec EVO-X2 dùng chip này có giá khởi điểm khoảng 1.499 USD cho bản bộ nhớ thấp, còn bản 128GB nằm quanh 2.199 USD. Bên cạnh đó còn có các lựa chọn như Framework Desktop hay các máy trạm mini khác. AMD cũng bán bản máy phát triển AI chính thức mang tên Ryzen AI Halo, mở đặt trước từ tháng 6/2026 với giá quanh 3.999 USD. Đây là một phần trong chiến lược AI PC rộng lớn của AMD, bên cạnh các sản phẩm được giới thiệu tại [Computex 2026](/articles/amd-computex-2026-ryzen-7700x3d-radeon-rx-9070-gre-am4-am5.html).
 
 Người mua cần lưu ý một điểm quan trọng: do dùng bộ nhớ LPDDR5X hàn thẳng lên bo mạch để đạt băng thông cao, các máy dùng Strix Halo gần như không thể nâng cấp RAM sau khi mua. Vì vậy, việc chọn đúng dung lượng bộ nhớ ngay từ đầu là quyết định then chốt, đặc biệt với người có nhu cầu chạy AI cỡ lớn. Cân nhắc kỹ giữa nhu cầu, ngân sách và khả năng nâng cấp sẽ giúp chọn được cấu hình phù hợp nhất.
 

@@ -104,7 +104,7 @@ Tuy nhiên, nếu bạn cần một chiếc máy mạnh ngay cho công việc, M
 
 ## Người dùng Việt Nam nên lưu ý gì?
 
-Với người dùng Việt, MacBook luôn được ưa chuộng nhờ hiệu năng, thời lượng pin và độ bền. MacBook Pro M5 thường được bán chính hãng tại Việt Nam sau ít lâu so với quốc tế, với giá cao ở phân khúc chuyên nghiệp. Người mua nên theo dõi giá niêm yết và các chương trình ưu đãi, đồng thời xác định rõ nhu cầu để chọn giữa dòng Air và Pro cho phù hợp túi tiền.
+Với người dùng Việt, MacBook luôn được ưa chuộng nhờ hiệu năng, thời lượng pin và độ bền. MacBook Pro M5 thường được bán chính hãng tại Việt Nam sau ít lâu so với quốc tế, với giá cao ở phân khúc chuyên nghiệp. Người mua nên theo dõi giá niêm yết và các chương trình ưu đãi, đồng thời xác định rõ nhu cầu để chọn giữa dòng Air và Pro cho phù hợp túi tiền. Cần lưu ý rằng [Apple đã tăng giá MacBook, iPad và Mac Studio tại Việt Nam](/articles/apple-tang-gia-macbook-ipad-mac-studio-viet-nam-2026.html), nên việc canh thời điểm mua càng quan trọng.
 
 Trước khi mua, hãy cân nhắc kỹ liệu mình có thực sự cần sức mạnh của M5 Pro hay M5 Max hay không. Với phần lớn người dùng, một chiếc MacBook Air hoặc máy đời trước đã đáp ứng tốt nhu cầu với chi phí thấp hơn nhiều. Chỉ những ai làm công việc nặng về sáng tạo, lập trình hay AI mới khai thác hết sức mạnh của dòng Pro. Để chọn laptop phù hợp nói chung, có thể tham khảo bài [cách chọn laptop](/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html). LongTechVision sẽ cập nhật giá và đánh giá chi tiết tại Việt Nam.
 
