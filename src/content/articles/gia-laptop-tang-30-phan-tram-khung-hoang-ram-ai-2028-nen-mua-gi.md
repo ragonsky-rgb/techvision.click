@@ -102,7 +102,7 @@ Vì sao Neo đáng cân nhắc? Nó hợp nhóm người dùng phổ thông cầ
 
 ## Lời khuyên: nên mua laptop lúc này thế nào?
 
-Trong một thị trường giá đang lên và được dự báo còn lên tới 2027-2028, nguyên tắc đơn giản là: cần thật thì mua sớm, không cần thì khoan. Dưới đây là vài gợi ý cụ thể.
+Trong một thị trường giá đang lên và được dự báo còn lên tới 2027-2028, nguyên tắc đơn giản là: cần thật thì mua sớm, không cần thì khoan. Xu hướng này cũng được [Gartner cảnh báo với giá điện thoại, laptop tăng trong 2026](/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html). Dưới đây là vài gợi ý cụ thể.
 
 Nếu bạn cần máy ngay để làm việc hay học tập, đừng cố chờ giá giảm, vì khả năng cao giá còn tăng chứ chưa hạ. Khi chọn cấu hình, hãy ưu tiên đủ RAM ngay từ đầu, tối thiểu 16GB cho nhu cầu thông thường, và tránh các máy chỉ 8GB nếu công việc của bạn mở nhiều tab hoặc chạy phần mềm nặng. Với máy hàn chết RAM hoặc dùng bộ nhớ unified như MacBook, điều này càng quan trọng vì không có đường nâng cấp về sau.
 

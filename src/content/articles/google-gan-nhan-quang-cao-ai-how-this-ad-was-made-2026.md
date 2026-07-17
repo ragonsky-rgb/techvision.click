@@ -94,7 +94,7 @@ Sự khác biệt theo vùng này gắn chặt với áp lực pháp lý. Độn
 
 ## Ý nghĩa với người dùng Việt Nam
 
-Dù các lớp phủ trực quan bắt buộc chưa áp dụng cho Việt Nam, xu hướng minh bạch hóa nội dung AI vẫn có ý nghĩa với người dùng trong nước. Quảng cáo tạo bằng AI đang xuất hiện ngày càng nhiều trên các nền tảng số, và việc có thêm một công cụ để kiểm tra nguồn gốc, dù ở dạng tự nguyện, vẫn tốt hơn là không có gì. Người dùng nên hình thành thói quen kiểm tra thông tin quảng cáo khi nghi ngờ, đồng thời cảnh giác với những nội dung quá hoàn hảo hoặc quá giật gân.
+Dù các lớp phủ trực quan bắt buộc chưa áp dụng cho Việt Nam, xu hướng minh bạch hóa nội dung AI vẫn có ý nghĩa với người dùng trong nước. Quảng cáo tạo bằng AI đang xuất hiện ngày càng nhiều trên các nền tảng số, và việc có thêm một công cụ để kiểm tra nguồn gốc, dù ở dạng tự nguyện, vẫn tốt hơn là không có gì. Người dùng nên hình thành thói quen kiểm tra thông tin quảng cáo khi nghi ngờ, đồng thời cảnh giác với những nội dung quá hoàn hảo hoặc quá giật gân. Đây cũng là kỹ năng quan trọng để [nhận biết và phòng tránh lừa đảo online](/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html) trong thời đại nội dung AI tràn lan.
 
 <figure>
   <img src="https://i.ytimg.com/vi/bhTo8fDmr5I/hqdefault.jpg" alt="Người dùng Việt Nam kiểm tra nguồn gốc quảng cáo trên điện thoại" loading="lazy" width="1280" height="720">
