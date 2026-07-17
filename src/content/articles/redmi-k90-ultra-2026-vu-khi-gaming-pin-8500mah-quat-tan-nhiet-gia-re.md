@@ -104,7 +104,7 @@ So với các máy như Oppo Find X10 Pro thiên về nhiếp ảnh, K90 Ultra h
 
 ## Người dùng Việt Nam nên lưu ý gì?
 
-Với người dùng Việt, Redmi K90 Ultra là sản phẩm đáng theo dõi nếu ưu tiên hiệu năng gaming và thời lượng pin với chi phí hợp lý. Tuy nhiên, ở thời điểm hiện tại, mọi thông số vẫn là rò rỉ chưa được Xiaomi xác nhận chính thức, nên cần thận trọng. Máy cũng có thể chưa bán chính hãng ngay tại Việt Nam mà phải chờ một thời gian sau khi ra mắt ở Trung Quốc.
+Với người dùng Việt, Redmi K90 Ultra là sản phẩm đáng theo dõi nếu ưu tiên hiệu năng gaming và thời lượng pin với chi phí hợp lý. Tuy nhiên, ở thời điểm hiện tại, mọi thông số vẫn là rò rỉ chưa được Xiaomi xác nhận chính thức, nên cần thận trọng. Máy cũng có thể chưa bán chính hãng ngay tại Việt Nam mà phải chờ một thời gian sau khi ra mắt ở Trung Quốc. Trong phân khúc hiệu năng cao, người dùng còn có thể cân nhắc các đối thủ như [OnePlus 15R](/articles/oneplus-15r-flagship-killer-pin-7400mah-snapdragon-8-gen-5-2026.html) hay điện thoại gaming chuyên dụng [RedMagic 11 Pro](/articles/redmagic-11-pro-dien-thoai-gaming-tan-nhiet-long-snapdragon-8-elite-gen-5-2026.html).
 
 Lời khuyên là chờ lễ ra mắt chính thức để biết thông số và giá chuẩn xác, sau đó theo dõi các bài đánh giá thực tế về hiệu năng, độ ổn định nhiệt và chất lượng màn hình trước khi quyết định. Với các máy gaming, trải nghiệm thực tế khi chơi lâu mới phản ánh đúng giá trị, nên đừng vội đặt mua chỉ dựa trên thông số rò rỉ ở giai đoạn này.
 
