@@ -101,7 +101,7 @@ Với phiên bản thiết bị nhỏ gọn Starlink Mini tích hợp router, gi
 
 ## Cần chuẩn bị gì trước khi lắp Starlink?
 
-Trước khi quyết định, người dùng nên đánh giá vài yếu tố thực tế. Đầu tiên là vị trí lắp đặt: chảo thu phát của Starlink cần khoảng trời thoáng, không bị nhà cao tầng hay tán cây lớn che chắn, vì vật cản làm gián đoạn tín hiệu. Ở vùng nhiều mây mưa, tốc độ và độ ổn định có thể dao động hơn so với cáp quang, dù công nghệ quỹ đạo thấp đã cải thiện đáng kể độ trễ.
+Trước khi quyết định, người dùng nên đánh giá vài yếu tố thực tế. Đầu tiên là vị trí lắp đặt: chảo thu phát của Starlink cần khoảng trời thoáng, không bị nhà cao tầng hay tán cây lớn che chắn, vì vật cản làm gián đoạn tín hiệu. Ở vùng nhiều mây mưa, tốc độ và độ ổn định có thể dao động hơn so với cáp quang, dù công nghệ quỹ đạo thấp đã cải thiện đáng kể độ trễ. Thị trường internet vệ tinh ngày càng cạnh tranh, chẳng hạn [Rocket Lab mua Iridium để đối đầu Starlink](/articles/rocket-lab-mua-iridium-8-ty-usd-doi-dau-starlink-2026.html), trong khi ở đất liền, [mạng 5G tại Việt Nam](/articles/5g-viet-nam-2026-phu-song-92-phan-tram-viettel-vnpt-mo-rong.html) cũng là lựa chọn kết nối tốc độ cao.
 
 Tiếp theo là chi phí tổng thể và nhu cầu sử dụng. Với mức đầu tư thiết bị ban đầu cùng cước thuê bao hằng tháng cao hơn nhiều cáp quang, Starlink chỉ thực sự đáng tiền khi không có lựa chọn kết nối nào khác hoặc cần phương án dự phòng cho công việc quan trọng. Người dùng cũng nên tìm hiểu chính sách bảo hành, hỗ trợ kỹ thuật và điều kiện sử dụng trong giai đoạn thí điểm, vì đây là dịch vụ còn mới tại Việt Nam và khung pháp lý vẫn đang hoàn thiện.
 
