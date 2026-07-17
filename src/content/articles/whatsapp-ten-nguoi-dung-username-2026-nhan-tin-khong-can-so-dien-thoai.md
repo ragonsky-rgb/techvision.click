@@ -104,7 +104,7 @@ Với người dùng, đây là tín hiệu tích cực, khi các công cụ b�
 
 ## Người dùng Việt Nam nên lưu ý gì?
 
-Với người dùng Việt, dù WhatsApp không phổ biến bằng một số ứng dụng nội địa, tính năng tên người dùng vẫn đáng quan tâm, đặc biệt khi cần liên hệ với đối tác nước ngoài hoặc người lạ trong công việc. Khi tính năng mở rộng, người dùng nên cập nhật ứng dụng và thiết lập tên người dùng để tận dụng lớp bảo vệ này, hạn chế chia sẻ số điện thoại khi không cần thiết.
+Với người dùng Việt, dù WhatsApp không phổ biến bằng một số ứng dụng nội địa, tính năng tên người dùng vẫn đáng quan tâm, đặc biệt khi cần liên hệ với đối tác nước ngoài hoặc người lạ trong công việc. Khi tính năng mở rộng, người dùng nên cập nhật ứng dụng và thiết lập tên người dùng để tận dụng lớp bảo vệ này, hạn chế chia sẻ số điện thoại khi không cần thiết. Đây cũng là một phần của việc [bảo vệ quyền riêng tư dữ liệu cá nhân trên điện thoại](/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html).
 
 Quan trọng hơn, sự thay đổi này nhắc nhở rằng bảo vệ số điện thoại và dữ liệu cá nhân là việc nên làm trên mọi nền tảng. Người dùng có thể áp dụng tư duy tương tự với các ứng dụng khác, hạn chế công khai số điện thoại và thông tin nhạy cảm. Để hiểu thêm về cách phòng tránh rủi ro trực tuyến, có thể tham khảo bài [cách nhận biết và phòng tránh lừa đảo online](/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html).
 

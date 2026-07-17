@@ -108,7 +108,7 @@ Bên cạnh phần cứng cảm biến, các mẫu xe điện thế hệ mới c
 
 ## Giá và vị thế trong làn sóng xe điện Việt Nam
 
-Câu hỏi lớn nhất với người dùng Việt Nam lúc này vẫn là giá bán, và đây cũng là điểm cần nhấn mạnh: giá niêm yết chính thức của EX90 và ES90 tại Việt Nam chưa được Volvo công bố. Trên thị trường quốc tế, mức giá quy đổi của EX90 từng được ghi nhận quanh mốc gần 2 tỷ đồng, song con số này chỉ mang tính tham khảo và hoàn toàn có thể chênh lệch so với giá bán thực tế tại Việt Nam sau khi cộng các loại thuế, phí và chi phí phân phối.
+Câu hỏi lớn nhất với người dùng Việt Nam lúc này vẫn là giá bán, và đây cũng là điểm cần nhấn mạnh: giá niêm yết chính thức của EX90 và ES90 tại Việt Nam chưa được Volvo công bố. Trên thị trường quốc tế, mức giá quy đổi của EX90 từng được ghi nhận quanh mốc gần 2 tỷ đồng, song con số này chỉ mang tính tham khảo và hoàn toàn có thể chênh lệch so với giá bán thực tế tại Việt Nam sau khi cộng các loại thuế, phí và chi phí phân phối. Ở phân khúc xe điện giá rẻ hơn nhiều, thị trường Việt Nam có những lựa chọn như [VinFast VF2 giá 188 triệu đồng](/articles/vinfast-vf2-ra-mat-188-trieu-dong-xe-dien-mini-2026.html).
 
 Xét về vị thế, Volvo bước vào một sân chơi đang nóng lên từng ngày. Ở phân khúc cao cấp, hãng sẽ phải cạnh tranh trực tiếp với các mẫu điện của Mercedes-Benz và BMW, những thương hiệu Đức có tệp khách hàng trung thành sẵn có. Ở tầm nhìn rộng hơn về thị trường, có thể tham khảo thêm [bức tranh tăng trưởng và chiến lược của hãng xe điện nội địa VinFast trong quý 1/2026](/articles/vinfast-quy-1-2026-doanh-so-tang-truong-nvidia-tu-lai-xe-mot-trieu-xe-may.html), đối thủ đang phủ sóng nhanh dải sản phẩm thuần điện và định hình thói quen tiêu dùng xe điện tại Việt Nam.
 
