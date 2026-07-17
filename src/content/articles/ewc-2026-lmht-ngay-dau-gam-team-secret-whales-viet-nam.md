@@ -95,7 +95,7 @@ Nhắc tới T1, người hâm mộ hẳn chưa quên hành trình đáng thất
 
 ## Chặng đường phía trước và kỳ vọng
 
-Ở các cặp đấu còn lại, đại diện Trung Quốc Bilibili Gaming vượt qua Movistar KOI, trong khi G2 Esports thắng FURIA và AG.AL tạo bất ngờ khi hạ Dplus KIA. Bức tranh vòng bảng cho thấy khoảng cách trình độ giữa các khu vực đang thu hẹp, khi những cái tên ít được kỳ vọng cũng đủ sức gây khó cho các ông lớn. Đây là tín hiệu tốt cho tính hấp dẫn của giải, dù đồng nghĩa hành trình của hai đội Việt Nam sẽ càng nhiều chông gai.
+Ở các cặp đấu còn lại, đại diện Trung Quốc Bilibili Gaming vượt qua Movistar KOI, trong khi G2 Esports thắng FURIA và AG.AL tạo bất ngờ khi hạ Dplus KIA. Bức tranh vòng bảng cho thấy khoảng cách trình độ giữa các khu vực đang thu hẹp, khi những cái tên ít được kỳ vọng cũng đủ sức gây khó cho các ông lớn. Đây là tín hiệu tốt cho tính hấp dẫn của giải, dù đồng nghĩa hành trình của hai đội Việt Nam sẽ càng nhiều chông gai. Có thể xem [kết quả đầy đủ vòng bảng nhánh thắng, nhánh thua EWC 2026 LMHT](/articles/ewc-2026-lmht-ket-qua-vong-bang-nhanh-thang-nhanh-thua-cap-nhat.html) để nắm toàn cảnh giải đấu.
 
 <figure>
   <img src="https://i.ytimg.com/vi/rsWuS2mWagQ/hqdefault.jpg" alt="Không khí vòng bảng ngày đầu EWC 2026 bộ môn Liên Minh Huyền Thoại tại Paris" loading="lazy" width="1280" height="720">

@@ -107,7 +107,7 @@ Nhìn chung, eSIM là bước tiến đáng dùng với đa số người, nhấ
 
 ## Những lỗi thường gặp khi chuyển eSIM và cách xử lý
 
-Một số tình huống hay xảy ra trong quá trình chuyển đổi mà người dùng nên biết trước. Phổ biến nhất là mã QR không quét được hoặc báo lỗi kích hoạt, thường do mạng yếu hoặc hồ sơ eSIM đã được dùng trước đó. Trong trường hợp này, nên kết nối Wi-Fi ổn định, thử lại, hoặc liên hệ nhà mạng để cấp mã mới. Mỗi mã QR eSIM thường chỉ kích hoạt được một lần, nên không nên quét thử nhiều máy.
+Một số tình huống hay xảy ra trong quá trình chuyển đổi mà người dùng nên biết trước. Phổ biến nhất là mã QR không quét được hoặc báo lỗi kích hoạt, thường do mạng yếu hoặc hồ sơ eSIM đã được dùng trước đó. Trong trường hợp này, nên kết nối Wi-Fi ổn định, thử lại, hoặc liên hệ nhà mạng để cấp mã mới. Mỗi mã QR eSIM thường chỉ kích hoạt được một lần, nên không nên quét thử nhiều máy. Dù chuyển sang eSIM, việc xác thực thông tin thuê bao vẫn quan trọng, nhất là trong bối cảnh [13 triệu SIM bị khóa 2 chiều](/articles/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.html).
 
 Một lỗi khác là máy nhận eSIM nhưng không có sóng hoặc không vào được mạng dữ liệu. Lúc này nên kiểm tra xem eSIM đã được đặt làm dòng chính cho thoại và dữ liệu chưa, đồng thời bật lại chế độ trên máy bay vài giây để máy tìm sóng lại. Nếu vẫn không được, khởi động lại máy hoặc đặt lại cài đặt mạng thường khắc phục được.
 
