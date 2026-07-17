@@ -96,7 +96,7 @@ Viên pin là một trong những nâng cấp thầm lặng nhưng quan trọng.
 
 ## Giá bán và bối cảnh tại Việt Nam
 
-Về giá, nhiều nguồn độc lập đặt bản 256GB ở mức 1.999 USD, ngang giá khởi điểm của Z Fold 7, trong khi bản 512GB cao hơn khoảng 80 USD và bản 1TB có thể chạm 2.499 đến 2.799 USD. Đây là mức giá của một sản phẩm đầu bảng thực thụ, và tại Việt Nam giá bán chính hãng nhiều khả năng còn cao hơn do thuế, phí. Người dùng nên chờ Samsung công bố chính thức tại Unpacked ngày 22/7 trước khi cân nhắc đặt trước.
+Về giá, nhiều nguồn độc lập đặt bản 256GB ở mức 1.999 USD, ngang giá khởi điểm của Z Fold 7, trong khi bản 512GB cao hơn khoảng 80 USD và bản 1TB có thể chạm 2.499 đến 2.799 USD. Đây là mức giá của một sản phẩm đầu bảng thực thụ, và tại Việt Nam giá bán chính hãng nhiều khả năng còn cao hơn do thuế, phí. Người dùng nên chờ Samsung công bố chính thức tại Unpacked ngày 22/7 trước khi cân nhắc đặt trước. Trước sự kiện, [bộ ảnh render Galaxy Z Fold 8 và Flip 8 đã rò rỉ đầy đủ màu sắc](/articles/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026.html).
 
 <figure>
   <img src="https://i.ytimg.com/vi/hk6G8V5rxEc/hqdefault.jpg" alt="Galaxy Z Fold 8 Ultra đặt cạnh Galaxy S26 Ultra so sánh kích thước" loading="lazy" width="1280" height="720">

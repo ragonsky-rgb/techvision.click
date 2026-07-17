@@ -104,7 +104,7 @@ Tuy nhiên, không phải ai cũng cần tới tai nghe cao cấp như vậy. N�
 
 ## Người dùng Việt Nam nên lưu ý gì?
 
-Sony là thương hiệu tai nghe được ưa chuộng tại Việt Nam, nên WH-1000XM6 nhận nhiều quan tâm từ người mê âm thanh. Khi mua, nên chọn nơi bán uy tín, kiểm tra tem bảo hành chính hãng và chính sách đổi trả, vì đây là sản phẩm đắt tiền và có nhiều hàng giả, hàng nhái trên thị trường. Mua hàng chính hãng cũng đảm bảo được hỗ trợ phần mềm và bảo hành lâu dài.
+Sony là thương hiệu tai nghe được ưa chuộng tại Việt Nam, nên WH-1000XM6 nhận nhiều quan tâm từ người mê âm thanh. Khi mua, nên chọn nơi bán uy tín, kiểm tra tem bảo hành chính hãng và chính sách đổi trả, vì đây là sản phẩm đắt tiền và có nhiều hàng giả, hàng nhái trên thị trường. Mua hàng chính hãng cũng đảm bảo được hỗ trợ phần mềm và bảo hành lâu dài. Để hiểu rõ chất lượng âm thanh không dây, bạn có thể tham khảo [các codec Bluetooth như AAC, aptX, LDAC](/articles/codec-bluetooth-aac-aptx-ldac-la-gi-chon-tai-nghe-khong-day.html).
 
 Trước khi xuống tiền, hãy xác định rõ nhu cầu: nếu bạn thường xuyên di chuyển, làm việc nơi ồn và đề cao chất âm, XM6 rất đáng giá. Ngược lại, với nhu cầu nghe nhạc thông thường, các lựa chọn rẻ hơn có thể phù hợp hơn về giá trị. Nghe thử trực tiếp và đọc các đánh giá chi tiết sẽ giúp bạn đưa ra quyết định đúng. LongTechVision sẽ tiếp tục cập nhật về các sản phẩm âm thanh đáng chú ý.
 

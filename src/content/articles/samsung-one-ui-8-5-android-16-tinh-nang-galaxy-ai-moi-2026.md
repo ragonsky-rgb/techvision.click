@@ -104,7 +104,7 @@ One UI 8.5 cho thấy Samsung và Apple đang đi theo những hướng tương 
 
 ## Người dùng Việt Nam nên lưu ý gì?
 
-Samsung là thương hiệu điện thoại phổ biến hàng đầu tại Việt Nam, nên One UI 8.5 sẽ tới tay đông đảo người dùng qua các đợt cập nhật. Để nhận bản cập nhật, người dùng vào mục cập nhật phần mềm trong cài đặt và kiểm tra định kỳ, vì thời điểm triển khai khác nhau theo dòng máy và khu vực. Nên sao lưu dữ liệu trước khi cập nhật để an toàn.
+Samsung là thương hiệu điện thoại phổ biến hàng đầu tại Việt Nam, nên One UI 8.5 sẽ tới tay đông đảo người dùng qua các đợt cập nhật. Để nhận bản cập nhật, người dùng vào mục cập nhật phần mềm trong cài đặt và kiểm tra định kỳ, vì thời điểm triển khai khác nhau theo dòng máy và khu vực. Nên [sao lưu dữ liệu trước khi cập nhật](/articles/cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset.html) để an toàn.
 
 Sau khi cập nhật, hãy dành thời gian khám phá các tính năng AI mới như phụ đề cuộc gọi, Now Brief và Audio Eraser để tận dụng tối đa. Đồng thời, các tính năng bảo mật mới về xử lý cuộc gọi đáng ngờ rất hữu ích trong bối cảnh lừa đảo qua điện thoại tại Việt Nam. Nếu máy chạy chậm sau cập nhật, có thể tham khảo bài [cách tăng tốc điện thoại Android](/articles/cach-tang-toc-dien-thoai-android-cham-lag-muot-hon-2026.html). LongTechVision sẽ cập nhật khi có thêm thông tin về lộ trình triển khai.
 
