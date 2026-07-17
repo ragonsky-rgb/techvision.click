@@ -114,7 +114,7 @@ Cuối cùng, nhiều người tin rằng dùng củ sạc công suất cao hơn
 
 ## Pin chai là điều tự nhiên
 
-Cuối cùng, cần chấp nhận rằng pin Li-ion hao mòn tự nhiên theo thời gian và số chu kỳ sạc. Sau vài trăm chu kỳ, dung lượng tối đa sẽ giảm dần, đó là đặc tính hóa học không thể tránh hoàn toàn. Dùng đúng cách chỉ giúp làm chậm quá trình chứ không ngăn được.
+Cuối cùng, cần chấp nhận rằng pin Li-ion hao mòn tự nhiên theo thời gian và số chu kỳ sạc. Sau vài trăm chu kỳ, dung lượng tối đa sẽ giảm dần, đó là đặc tính hóa học không thể tránh hoàn toàn. Dùng đúng cách chỉ giúp làm chậm quá trình chứ không ngăn được. Để hiểu thêm về sạc và pin, bạn có thể xem [sạc không dây có hại pin không](/articles/sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung.html) và [cách kiểm tra độ chai pin điện thoại](/articles/cach-kiem-tra-do-chai-pin-dien-thoai-iphone-android-2026.html).
 
 Khi pin đã chai nhiều, biểu hiện qua việc tụt nhanh hay sập nguồn đột ngột, thay pin chính hãng là giải pháp hợp lý và rẻ hơn nhiều so với đổi máy. Nói cách khác, hãy dùng pin một cách thoải mái nhưng có ý thức, thay vì lo lắng quá mức tới từng phần trăm.
 

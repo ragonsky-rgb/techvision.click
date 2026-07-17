@@ -114,7 +114,7 @@ Trên TV, tần số quét được quảng cáo đôi khi gây nhầm lẫn vì
 
 ## Vậy có cần màn 120Hz không?
 
-Câu trả lời tùy nhu cầu. Nếu thường chơi game, cuộn nhiều nội dung và thích cảm giác mượt mà, màn 120Hz rất đáng giá và là một trong những nâng cấp dễ cảm nhận nhất. Nếu chỉ dùng cơ bản như gọi nhắn, lướt nhẹ và ưu tiên thời lượng pin, mức 60 tới 90Hz đã đủ dùng thoải mái.
+Câu trả lời tùy nhu cầu. Nếu thường chơi game, cuộn nhiều nội dung và thích cảm giác mượt mà, màn 120Hz rất đáng giá và là một trong những nâng cấp dễ cảm nhận nhất. Nếu chỉ dùng cơ bản như gọi nhắn, lướt nhẹ và ưu tiên thời lượng pin, mức 60 tới 90Hz đã đủ dùng thoải mái. Ngoài tần số quét, khi chọn màn hình rời bạn nên xem [cách chọn màn hình máy tính](/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html), còn với điện thoại thì [dung lượng RAM](/articles/dien-thoai-can-bao-nhieu-ram-la-du-2026.html) cũng ảnh hưởng tới độ mượt.
 
 Điều quan trọng là đừng để con số Hz lấn át các yếu tố khác khi chọn máy. Một màn 120Hz trên tấm nền chất lượng kém vẫn thua màn 90Hz tốt. Hãy cân nhắc tần số quét cùng với loại tấm nền, độ sáng và tổng thể cấu hình để chọn được chiếc máy hợp nhu cầu và túi tiền nhất.
 
