@@ -37,7 +37,7 @@ faq:
   - q: "Màn hình OLED 720Hz có thực sự cần thiết với người dùng thông thường?"
     a: "Với phần lớn người chơi game giải trí, sự khác biệt giữa 240Hz và 720Hz khó nhận ra bằng mắt thường, nhưng với game thủ eSports chuyên nghiệp chơi các tựa game bắn súng tốc độ cao, tốc độ làm tươi và thời gian phản hồi cực thấp giúp tăng độ chính xác và giảm độ trễ đầu vào một cách rõ rệt, theo nhiều bài đánh giá chuyên sâu."
 related:
-  - { href: "/articles/nvidia-vera-rubin-2026.html", cat: "Công nghệ", title: "Nvidia Vera Rubin: kiến trúc AI thế hệ mới" }
+  - { href: "/articles/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.html", cat: "Công nghệ", title: "Nvidia Vera Rubin: kiến trúc AI thế hệ mới" }
   - { href: "/articles/apple-tang-gia-macbook-ipad-mac-studio-viet-nam-2026.html", cat: "Apple", title: "Apple tăng giá MacBook, iPad, Mac Studio tại Việt Nam" }
   - { href: "/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html", cat: "Laptop", title: "Giá laptop tăng 30% vì khủng hoảng RAM AI, nên mua gì" }
 featured: false
@@ -86,7 +86,7 @@ Màn hình cũng được trang bị cổng DisplayPort 2.1, cho phép truyền 
 
 ## Giá bán và đối tượng người dùng mục tiêu
 
-LG định giá UltraGear GX7 ở mức 999 USD cho bản tiêu chuẩn, đặt model này vào phân khúc cao cấp, cạnh tranh trực tiếp với các màn hình OLED gaming flagship khác trên thị trường. Mức giá này phản ánh việc đây là sản phẩm hướng tới nhóm người dùng cụ thể: game thủ eSports chuyên nghiệp và những người xây dựng dàn máy chơi game không thỏa hiệp về tốc độ hiển thị, tương tự xu hướng phần cứng cao cấp đang được đẩy mạnh trong các sản phẩm AI và đồ họa như kiến trúc [Nvidia Vera Rubin thế hệ mới](/articles/nvidia-vera-rubin-2026.html).
+LG định giá UltraGear GX7 ở mức 999 USD cho bản tiêu chuẩn, đặt model này vào phân khúc cao cấp, cạnh tranh trực tiếp với các màn hình OLED gaming flagship khác trên thị trường. Mức giá này phản ánh việc đây là sản phẩm hướng tới nhóm người dùng cụ thể: game thủ eSports chuyên nghiệp và những người xây dựng dàn máy chơi game không thỏa hiệp về tốc độ hiển thị, tương tự xu hướng phần cứng cao cấp đang được đẩy mạnh trong các sản phẩm AI và đồ họa như kiến trúc [Nvidia Vera Rubin thế hệ mới](/articles/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.html).
 
 Với phần lớn người chơi game giải trí thông thường, sự khác biệt giữa tốc độ làm tươi 240Hz và 720Hz có thể khó cảm nhận rõ ràng bằng mắt thường, nhưng đây vẫn là minh chứng cho việc các nhà sản xuất màn hình tiếp tục đẩy giới hạn công nghệ OLED lên một tầm cao mới. Việc các linh kiện công nghệ cao như tấm nền OLED gaming giữ giá ổn định cũng phần nào tương phản với tình trạng [giá laptop tăng tới 30% do khủng hoảng RAM AI](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html) đang ảnh hưởng tới nhiều phân khúc thiết bị điện tử khác trên toàn cầu.
 

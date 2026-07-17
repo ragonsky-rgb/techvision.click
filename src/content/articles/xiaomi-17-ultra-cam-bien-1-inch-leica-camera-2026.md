@@ -37,7 +37,7 @@ faq:
   - q: "Xiaomi 17 Ultra cạnh tranh với máy nào?"
     a: "Đối thủ trực tiếp nhất là OPPO Find X9 Ultra với hệ thống tele tiềm vọng kép, cùng các máy như Vivo X300 Pro, Huawei Pura 90 và Samsung Galaxy S26 Ultra. Trong khi Find X9 Ultra mạnh về zoom đa tiêu cự, Xiaomi 17 Ultra lại đặt cược vào cảm biến chính 1 inch và độ tự nhiên của ảnh, tạo nên hai hướng tiếp cận khác nhau."
 related:
-  - { href: "/articles/oppo-find-x9-ultra-camera-200mp-periscope-kep-2026.html", cat: "Smartphone", title: "OPPO Find X9 Ultra: camera 200MP, hai ống tele tiềm vọng" }
+  - { href: "/articles/oppo-find-x9-ultra-camera-multispectral-danxia-2026.html", cat: "Smartphone", title: "OPPO Find X9 Ultra: camera 200MP, hai ống tele tiềm vọng" }
   - { href: "/articles/vivo-x300-pro-camera-200mp-zeiss-dimensity-9500-2026.html", cat: "Smartphone", title: "Vivo X300 Pro: camera 200MP Zeiss, Dimensity 9500" }
   - { href: "/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html", cat: "Smartphone", title: "Galaxy S26 Ultra: camera 200MP, Snapdragon 8 Elite Gen 5" }
 featured: true
@@ -80,7 +80,7 @@ Sự hợp tác với Leica không chỉ dừng ở phần cứng. Bản By Leic
   <figcaption>Màu Leica cùng cảm biến lớn cho ảnh tự nhiên, giàu chi tiết. Nguồn: YouTube</figcaption>
 </figure>
 
-Đối thủ trực tiếp nhất của Xiaomi 17 Ultra là OPPO Find X9 Ultra, chiếc máy chọn hướng đi khác với hai ống tele tiềm vọng cho zoom 3x và 10x. Bạn có thể so sánh hai triết lý qua bài viết về [OPPO Find X9 Ultra với hệ thống tele tiềm vọng kép](/articles/oppo-find-x9-ultra-camera-200mp-periscope-kep-2026.html). Nhiều bài so sánh nhận định Find X9 Ultra nhỉnh hơn ở zoom xa và độ nét, trong khi Xiaomi 17 Ultra cho ảnh tự nhiên, mềm mại và nhất quán về màu hơn.
+Đối thủ trực tiếp nhất của Xiaomi 17 Ultra là OPPO Find X9 Ultra, chiếc máy chọn hướng đi khác với hai ống tele tiềm vọng cho zoom 3x và 10x. Bạn có thể so sánh hai triết lý qua bài viết về [OPPO Find X9 Ultra với hệ thống tele tiềm vọng kép](/articles/oppo-find-x9-ultra-camera-multispectral-danxia-2026.html). Nhiều bài so sánh nhận định Find X9 Ultra nhỉnh hơn ở zoom xa và độ nét, trong khi Xiaomi 17 Ultra cho ảnh tự nhiên, mềm mại và nhất quán về màu hơn.
 
 ## Hiệu năng, màn hình và quay phim
 

@@ -15,7 +15,7 @@ tldr: "<strong>Meta</strong> sẽ bắt đầu sản xuất chip AI nội bộ t
 tags: ["Meta", "ChipIris", "MTIA", "ChipAI2026"]
 about: ["Meta", "Iris", "Broadcom", "TSMC", "MTIA"]
 authorBio: "Founder LongTechVision. Theo dõi bán dẫn, hạ tầng AI và chiến lược tự chủ chip của các hãng công nghệ lớn."
-sourceUrl: "https://finance.yahoo.com/technology/ai/articles/meta-start-production-iris-ai-122141801.html"
+sourceUrl: "https://finance.yahoo.com/technology/ai/articles/meta-iris-chip-ai-tu-phat-trien-145-ty-usd-2026.html"
 sourceName: "Meta to start production of Iris AI chip in September 2026 - Yahoo Finance"
 sourceDomains: "reuters.com · digitimes.com · fool.com"
 stats:
