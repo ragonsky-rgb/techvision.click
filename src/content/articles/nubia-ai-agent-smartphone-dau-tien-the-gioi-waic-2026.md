@@ -1,17 +1,17 @@
 ---
 slug: "nubia-ai-agent-smartphone-dau-tien-the-gioi-waic-2026"
-title: "Nubia sắp ra mắt smartphone AI Agent đầu tiên thế giới, tự đặt vé và thanh toán thay người dùng"
-description: "ZTE xác nhận thương hiệu Nubia sẽ ra mắt smartphone AI Agent đầu tiên thế giới tại WAIC 2026, dùng AI Doubao của ByteDance để tự thao tác ứng dụng thay người."
-keywords: "Nubia AI Agent smartphone, điện thoại AI Agent đầu tiên thế giới, ZTE Nubia WAIC 2026, Doubao ByteDance smartphone, Nubia M153"
+title: "Nubia Navi X Ultra: smartphone AI Agent đầu tiên lộ diện"
+description: "Nubia lộ diện Navi X Ultra, smartphone AI Agent đầu tiên thế giới, với 4 màu, nút AI cam riêng, cụm 3 camera, chạy Doubao, ra mắt tại WAIC 2026 ngày 17-20/7."
+keywords: "Nubia Navi X Ultra, Nubia NaviX Ultra, smartphone AI Agent dau tien the gioi, ZTE Nubia WAIC 2026, Doubao ByteDance smartphone"
 category: "Smartphone"
 type: "tin-tuc"
-datePublished: "2026-07-11T23:15:00+07:00"
-dateModified: "2026-07-11T23:15:00+07:00"
-deck: "ZTE vừa chính thức xác nhận thương hiệu Nubia sẽ ra mắt chiếc smartphone tích hợp AI Agent ở cấp hệ điều hành đầu tiên trên thế giới tại sự kiện Hội nghị Trí tuệ nhân tạo Thế giới (WAIC 2026) diễn ra tại Thượng Hải từ ngày 17 đến 20/7. Khác với các trợ lý AI hiện nay chủ yếu trả lời câu hỏi, AI Agent trên thiết bị mới của Nubia được quảng bá có khả năng tự động thao tác ứng dụng, so sánh giá và hoàn tất thanh toán thay người dùng mà không cần chạm tay vào màn hình."
+datePublished: "2026-07-17T09:00:00+07:00"
+dateModified: "2026-07-17T09:00:00+07:00"
+deck: "Chiếc smartphone AI Agent đầu tiên thế giới của Nubia giờ đã có tên gọi và diện mạo chính thức: Nubia Navi X Ultra. Máy lộ diện với bốn tùy chọn màu gồm Blue Horizon, Dreamscape, Black và White, cùng thiết kế viền siêu mỏng, một nút AI màu cam riêng trên khung và cụm ba camera sau dạng thanh. Đây được ZTE quảng bá là smartphone AI Agent cấp hệ điều hành đầu tiên trên thế giới, chạy trợ lý Doubao của ByteDance, có khả năng tự động thao tác ứng dụng, so sánh giá và thanh toán thay người dùng. Sản phẩm sẽ được giới thiệu đầy đủ tại Hội nghị Trí tuệ nhân tạo Thế giới WAIC 2026 ở Thượng Hải, diễn ra từ ngày 17 đến 20/7."
 heroImage: "https://i.ytimg.com/vi/aIM6ZVqD8to/maxresdefault.jpg"
 heroAlt: "Nubia ra mắt smartphone AI Agent đầu tiên thế giới tại WAIC 2026"
 heroCaption: "Smartphone AI Agent của Nubia hứa hẹn tự động hoàn thành các tác vụ nhiều bước mà không cần thao tác thủ công. Nguồn: YouTube"
-tldr: "<strong>ZTE</strong>, thông qua thương hiệu con <strong>Nubia</strong>, xác nhận sẽ ra mắt smartphone tích hợp <strong>AI Agent ở cấp hệ điều hành đầu tiên trên thế giới</strong> tại sự kiện <strong>WAIC 2026</strong> diễn ra ở Thượng Hải từ ngày <strong>17 đến 20/7/2026</strong>. Bộ não đứng sau trợ lý AI này là <strong>Doubao</strong>, mô hình AI nội bộ do <strong>ByteDance</strong>, công ty mẹ của TikTok, phát triển. Khác với Siri hay Gemini vốn chỉ trả lời câu hỏi, AI Agent trên thiết bị mới có thể tự động mở ứng dụng, so sánh giá, điền thông tin đặt chỗ và hoàn tất thanh toán mà không cần người dùng chạm tay vào màn hình. Sản phẩm được phát triển dựa trên nền tảng của mẫu thử nghiệm Nubia M153 ra mắt cuối năm 2025, từng bán hết 30.000 máy chỉ trong ngày đầu mở bán tại Trung Quốc."
+tldr: "Nubia lộ diện <strong>Navi X Ultra</strong>, được quảng bá là <strong>smartphone AI Agent đầu tiên thế giới</strong>, với bốn màu <strong>Blue Horizon, Dreamscape, Black và White</strong>, thiết kế viền siêu mỏng, một <strong>nút AI màu cam</strong> riêng và cụm <strong>ba camera</strong> sau dạng thanh. Máy do <strong>ZTE</strong>, thông qua thương hiệu con <strong>Nubia</strong>, phát triển và sẽ ra mắt đầy đủ tại sự kiện <strong>WAIC 2026</strong> ở Thượng Hải từ ngày <strong>17 đến 20/7/2026</strong>. Bộ não đứng sau trợ lý AI này là <strong>Doubao</strong>, mô hình AI nội bộ do <strong>ByteDance</strong>, công ty mẹ của TikTok, phát triển. Khác với Siri hay Gemini vốn chỉ trả lời câu hỏi, AI Agent trên thiết bị mới có thể tự động mở ứng dụng, so sánh giá, điền thông tin đặt chỗ và hoàn tất thanh toán mà không cần người dùng chạm tay vào màn hình. Sản phẩm được phát triển dựa trên nền tảng của mẫu thử nghiệm Nubia M153 ra mắt cuối năm 2025, từng bán hết 30.000 máy chỉ trong ngày đầu mở bán tại Trung Quốc."
 tags: ["NubiaAIAgent", "ZTESmartphone", "DoubaoByteDance", "AIAgentSmartphone2026"]
 about: ["Nubia", "ZTE", "AI Agent", "Doubao ByteDance"]
 authorBio: "Founder LongTechVision. Theo dõi các xu hướng trợ lý AI tích hợp sâu vào thiết bị di động tại thị trường Trung Quốc và toàn cầu."
@@ -41,18 +41,30 @@ related:
 featured: false
 ---
 
-Cuộc đua tích hợp trí tuệ nhân tạo sâu vào hệ điều hành di động vừa có thêm một bước ngoặt đáng chú ý khi ZTE, thông qua thương hiệu con Nubia, chính thức xác nhận sẽ ra mắt chiếc smartphone được quảng bá là tích hợp AI Agent ở cấp hệ điều hành đầu tiên trên thế giới.
+Cuộc đua tích hợp trí tuệ nhân tạo sâu vào hệ điều hành di động vừa có thêm bước ngoặt đáng chú ý khi ZTE, thông qua thương hiệu con Nubia, chính thức hé lộ tên gọi và diện mạo chiếc smartphone được quảng bá là tích hợp AI Agent ở cấp hệ điều hành đầu tiên trên thế giới: Nubia Navi X Ultra.
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Nubia AI Agent Smartphone · Thông tin chính</div>
+  <div class="spec-box-title">📋 Nubia Navi X Ultra · Thông tin chính</div>
   <table>
-    <tr><td>Sự kiện ra mắt</td><td>WAIC 2026, Thượng Hải (17-20/7)</td></tr>
-    <tr><td>Đơn vị phát triển</td><td>ZTE (thương hiệu Nubia)</td></tr>
+    <tr><td>Tên sản phẩm</td><td>Nubia Navi X Ultra (NaviX Ultra)</td></tr>
+    <tr><td>Màu sắc</td><td>Blue Horizon, Dreamscape, Black, White</td></tr>
+    <tr><td>Thiết kế</td><td>Viền siêu mỏng, nút AI cam riêng, cụm 3 camera dạng thanh</td></tr>
     <tr><td>Mô hình AI nền tảng</td><td>Doubao (ByteDance)</td></tr>
+    <tr><td>Sự kiện ra mắt</td><td>WAIC 2026, Thượng Hải (17-20/7)</td></tr>
     <tr><td>Tiền thân thử nghiệm</td><td>Nubia M153 (cuối 2025, 30.000 máy bán hết ngày đầu)</td></tr>
-    <tr><td>Khả năng nổi bật</td><td>Tự thao tác ứng dụng, đặt vé, thanh toán không cần chạm</td></tr>
   </table>
 </div>
+
+## Navi X Ultra: tên gọi và thiết kế chính thức lộ diện
+
+Sau thời gian dài chỉ được nhắc tới như một khái niệm, chiếc smartphone AI Agent của Nubia nay đã có tên gọi chính thức là Navi X Ultra cùng diện mạo rõ ràng. Máy ra mắt với bốn tùy chọn màu gồm Blue Horizon, Dreamscape, Black và White, trong đó các phiên bản màu xanh và mơ mộng được đánh giá là bắt mắt và giàu tính thẩm mỹ. Về ngoại hình, Navi X Ultra sở hữu màn hình viền siêu mỏng với lỗ đục camera đặt chính giữa, cùng cụm ba camera sau bố trí theo dạng thanh ngang gợi liên tưởng tới phong cách của dòng Pixel.
+
+Chi tiết đáng chú ý nhất về mặt thiết kế là một nút bấm AI riêng màu cam nằm trên khung máy, cho phép người dùng gọi trợ lý AI Agent một cách nhanh chóng. Đây là cách Nubia nhấn mạnh vai trò trung tâm của AI trên sản phẩm, biến nó thành điểm nhận diện thay vì một tính năng ẩn trong phần mềm. Trước thềm WAIC 2026, Navi X Ultra cũng đã được trao giải SAIL, viết tắt của Super AI Leader, một trong những giải thưởng danh giá của sự kiện, cho thấy mức độ chú ý mà giới công nghệ dành cho sản phẩm này.
+
+<figure>
+  <img src="https://i.ytimg.com/vi/Ceg7aTgXorI/hqdefault.jpg" alt="Nubia Navi X Ultra lộ diện thiết kế và màu sắc, smartphone AI Agent đầu tiên thế giới" loading="lazy" width="1280" height="720">
+  <figcaption>Nubia Navi X Ultra gây chú ý với nút AI màu cam riêng và cụm ba camera dạng thanh. Nguồn: YouTube</figcaption>
+</figure>
 
 ## AI Agent thực thụ: khác biệt so với trợ lý ảo hiện nay
 
