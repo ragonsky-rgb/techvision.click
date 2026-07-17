@@ -104,7 +104,7 @@ Galaxy Glasses mới là ẩn số thú vị nhất. Trong bối cảnh kính AI
 
 ## Galaxy Unpacked nói gì về hướng đi của Samsung?
 
-Nhìn tổng thể, kỳ Unpacked này cho thấy Samsung đang đi theo hai hướng song song. Một là làm sâu dòng gập với việc tách nhánh thiết kế qua bản Z Fold 8 Wide, thay vì chỉ chạy đua mỏng nhẹ như mọi năm. Hai là mở rộng hệ sinh thái thiết bị đeo, từ đồng hồ tới kính thông minh, để tạo trải nghiệm liền mạch giữa các sản phẩm và giữ người dùng gắn bó lâu dài.
+Nhìn tổng thể, kỳ Unpacked này cho thấy Samsung đang đi theo hai hướng song song. Một là làm sâu dòng gập với việc tách nhánh thiết kế qua bản Z Fold 8 Wide, thay vì chỉ chạy đua mỏng nhẹ như mọi năm. Hai là mở rộng hệ sinh thái thiết bị đeo, từ đồng hồ tới kính thông minh, để tạo trải nghiệm liền mạch giữa các sản phẩm và giữ người dùng gắn bó lâu dài. Trước sự kiện, [bộ ảnh render Galaxy Z Fold 8 và Flip 8 đã rò rỉ đầy đủ](/articles/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026.html), trong khi [bản Z Fold 8 Ultra được đồn có camera 200MP](/articles/samsung-galaxy-z-fold-8-ultra-camera-200mp-unpacked-22-7-2026.html).
 
 Với người dùng Việt Nam, dòng gập của Samsung luôn có sức hút riêng nhờ thương hiệu và mạng lưới bảo hành rộng. Tuy nhiên mức giá khởi điểm gần 2.000 USD đặt các máy này vào nhóm cao cấp, nên người mua cần cân nhắc nhu cầu thực tế. Ai thích trải nghiệm màn lớn gập mở và sẵn sàng chi trả sẽ chờ đợi, còn người dùng phổ thông có thể tham khảo thêm các flagship thanh khác để so sánh giá trị trước khi quyết định.
 

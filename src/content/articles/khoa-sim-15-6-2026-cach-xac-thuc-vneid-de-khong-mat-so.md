@@ -120,7 +120,7 @@ Việc mỗi thuê bao gắn với một danh tính được định danh điệ
 
 ## Nên làm gì ngay hôm nay?
 
-Việc cần làm ngay là kiểm tra trạng thái thuê bao của chính bạn và người thân trên app nhà mạng hoặc VNeID. Nếu thấy cảnh báo chưa xác thực, hãy hoàn tất xác thực trong hôm nay để tránh gián đoạn liên lạc. Thao tác chỉ mất vài phút nếu thông tin đã khớp với căn cước.
+Việc cần làm ngay là kiểm tra trạng thái thuê bao của chính bạn và người thân trên app nhà mạng hoặc VNeID. Nếu thấy cảnh báo chưa xác thực, hãy hoàn tất xác thực trong hôm nay để tránh gián đoạn liên lạc. Thao tác chỉ mất vài phút nếu thông tin đã khớp với căn cước. Đây là một phần trong đợt siết quản lý thuê bao, liên quan tới việc [13 triệu SIM bị khóa 2 chiều](/articles/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.html). Ngoài ra, hãy cảnh giác với [mã độc giả mạo ứng dụng VNeID](/articles/canh-bao-ma-doc-gia-mao-vneid-2026-cach-phong-tranh.html) trong quá trình xác thực.
 
 Quan trọng không kém, hãy chia sẻ thông tin này cho người thân lớn tuổi hoặc ở xa, vốn là nhóm dễ bị ảnh hưởng nhất và thường không kịp cập nhật quy định. Nhân tiện, nếu bạn đang định đổi máy mới để dùng định danh và sinh trắc học mượt hơn, có thể tham khảo các lựa chọn tầm trung như [HONOR 600 vừa ra mắt tại Việt Nam](/articles/honor-600-series-camera-200mp-ai-image-to-video-2026.html).
 
