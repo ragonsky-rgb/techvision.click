@@ -105,7 +105,7 @@ Sau một thời gian dùng, phần trăm pin hiển thị có thể sai lệch 
 
 ## Những quan niệm sai lầm thường gặp về pin laptop
 
-Quanh chuyện pin laptop có nhiều lời khuyên truyền miệng đã lỗi thời. Quan niệm phải xả cạn pin về 0% rồi sạc đầy mới tốt chỉ đúng với pin niken đời cũ, còn pin lithium hiện nay lại bị hại khi xả kiệt thường xuyên. Tương tự, lo lắng rằng cắm sạc qua đêm sẽ làm phồng pin ngay là thái quá với máy đời mới, vì mạch sạc tự ngắt khi đầy, dù giữ pin ở 100% lâu vẫn không lý tưởng.
+Quanh chuyện pin laptop có nhiều lời khuyên truyền miệng đã lỗi thời. Quan niệm phải xả cạn pin về 0% rồi sạc đầy mới tốt chỉ đúng với pin niken đời cũ, còn pin lithium hiện nay lại bị hại khi xả kiệt thường xuyên. Tương tự, lo lắng rằng cắm sạc qua đêm sẽ làm phồng pin ngay là thái quá với máy đời mới, vì mạch sạc tự ngắt khi đầy, dù giữ pin ở 100% lâu vẫn không lý tưởng. Bên cạnh chăm sóc pin, bạn có thể [tăng tốc laptop Windows chạy mượt hơn](/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html) để dùng máy hiệu quả và tiết kiệm điện hơn.
 
 Một hiểu lầm khác là sạc lần đầu phải kéo dài nhiều giờ liền mới kích hoạt hết dung lượng pin. Điều này không cần thiết với pin lithium, bạn có thể dùng máy ngay sau khi mua. Cũng đừng tin rằng tắt hẳn máy mỗi khi nghỉ giúp pin bền hơn, vì chế độ ngủ hiện đại tiêu thụ rất ít điện. Hiểu đúng bản chất pin lithium giúp bạn dùng máy thoải mái mà vẫn giữ pin khỏe lâu dài.
 

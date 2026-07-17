@@ -110,7 +110,7 @@ Cùng lúc, các ông lớn khác cũng tăng tốc ở mảng này, từ nền 
 
 ## Vì sao ngành ô tô là điểm thử lý tưởng?
 
-Việc đội Atlas đầu tiên về nhà máy ô tô không chỉ vì Boston Dynamics thuộc Hyundai, mà còn vì dây chuyền sản xuất ô tô hội tụ nhiều điều kiện phù hợp để kiểm chứng robot hình người. Môi trường này có cấu trúc rõ ràng, quy trình lặp lại và được đo lường chặt chẽ, giúp dễ đánh giá robot làm đúng tới mức nào. Đồng thời nó vẫn đủ biến động, từ vị trí linh kiện tới các tình huống ngoài kịch bản, để thử thách khả năng tự suy luận mà Gemini Robotics hướng tới.
+Việc đội Atlas đầu tiên về nhà máy ô tô không chỉ vì Boston Dynamics thuộc Hyundai, mà còn vì dây chuyền sản xuất ô tô hội tụ nhiều điều kiện phù hợp để kiểm chứng robot hình người. Môi trường này có cấu trúc rõ ràng, quy trình lặp lại và được đo lường chặt chẽ, giúp dễ đánh giá robot làm đúng tới mức nào. Đồng thời nó vẫn đủ biến động, từ vị trí linh kiện tới các tình huống ngoài kịch bản, để thử thách khả năng tự suy luận mà Gemini Robotics hướng tới. Gemini Robotics cũng được Boston Dynamics đưa vào chú chó robot [Spot](/articles/boston-dynamics-spot-gemini-robotics-er-1-6-2026.html), cho thấy hãng áp dụng công nghệ này trên nhiều dạng robot khác nhau.
 
 Hình dáng giống người của Atlas cũng có lý do thực tế. Các nhà máy hiện nay được thiết kế cho công nhân, với lối đi, bậc thang, công tắc và dụng cụ vừa tầm tay người. Một robot có hai chân và hai tay về lý thuyết có thể bước vào không gian sẵn có mà không cần cải tạo dây chuyền tốn kém, khác với cánh tay robot cố định vốn đòi hỏi bố trí riêng. Đây là lập luận then chốt giải thích vì sao nhiều hãng đặt cược vào robot hình người thay vì các dạng máy chuyên dụng.
 
