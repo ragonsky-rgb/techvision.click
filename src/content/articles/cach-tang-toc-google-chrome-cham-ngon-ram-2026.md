@@ -104,7 +104,7 @@ Nếu máy có cấu hình rất thấp, việc nâng cấp phần cứng như t
 
 Ngoài các bước tối ưu một lần, thói quen hằng ngày quyết định Chrome có giữ được sự nhẹ nhàng hay không. Hãy tập thói quen đóng tab ngay khi đọc xong thay vì để dồn, và dùng dấu trang cho các trang cần quay lại sau. Với người làm việc nhiều tab, tính năng nhóm tab giúp tổ chức gọn gàng và dễ đóng cả nhóm khi xong việc.
 
-Bên cạnh đó, hãy cân nhắc trước khi cài thêm tiện ích mới, chỉ thêm khi thực sự cần và gỡ ngay khi không dùng nữa. Cài một trình chặn quảng cáo uy tín cũng giúp các trang nặng tải nhanh hơn và bớt tiêu tốn tài nguyên. Kết hợp việc tối ưu Chrome với việc tăng tốc toàn hệ thống sẽ cho hiệu quả tốt nhất, có thể tham khảo thêm bài [cách tăng tốc laptop Windows](/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html) để máy chạy mượt toàn diện.
+Bên cạnh đó, hãy cân nhắc trước khi cài thêm tiện ích mới, chỉ thêm khi thực sự cần và gỡ ngay khi không dùng nữa. Cài một trình chặn quảng cáo uy tín cũng giúp các trang nặng tải nhanh hơn và bớt tiêu tốn tài nguyên. Kết hợp việc tối ưu Chrome với việc tăng tốc toàn hệ thống sẽ cho hiệu quả tốt nhất, có thể tham khảo thêm bài [cách tăng tốc laptop Windows](/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html) để máy chạy mượt toàn diện. Nếu dùng nhiều thiết bị, bạn cũng nên xem [cách tăng tốc điện thoại Android](/articles/cach-tang-toc-dien-thoai-android-cham-lag-muot-hon-2026.html) và [cách tăng tốc WiFi tại nhà](/articles/cach-tang-toc-wifi-tai-nha-mang-cham-lag-2026.html) để trải nghiệm mượt hơn ở mọi nơi.
 
 <figure>
   <img src="https://i.ytimg.com/vi/UiqTy-PqybI/hq720.jpg" alt="Chữa bệnh ngốn RAM của Chrome và trình duyệt khác" loading="lazy" width="1280" height="720">

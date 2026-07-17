@@ -106,7 +106,7 @@ Bên cạnh việc nhận biết, có những thói quen giúp giảm rủi ro t
 
 Cần thẳng thắn rằng công nghệ deepfake đang tiến bộ rất nhanh, và sẽ tới lúc các dấu hiệu nhận biết bằng mắt thường trở nên mờ nhạt. Vì vậy, không nên chỉ dựa vào việc soi lỗi hình ảnh, mà quan trọng hơn là xây dựng thói quen hoài nghi lành mạnh với mọi nội dung gây sốc hoặc yêu cầu hành động gấp. Khi một thông tin, hình ảnh hay cuộc gọi tạo cảm xúc mạnh và thúc giục bạn làm gì đó ngay, đó chính là lúc cần dừng lại.
 
-Nguyên tắc cốt lõi là kiểm chứng trước khi tin và trước khi hành động. Đối chiếu thông tin qua nhiều nguồn đáng tin, xác minh danh tính người liên hệ qua kênh độc lập, và không để áp lực thời gian chi phối quyết định. Kết hợp sự cảnh giác với các thói quen an toàn số khác như bảo vệ tài khoản và quyền riêng tư sẽ giúp bạn vững vàng hơn trước làn sóng nội dung giả mạo do AI tạo ra ngày càng nhiều.
+Nguyên tắc cốt lõi là kiểm chứng trước khi tin và trước khi hành động. Đối chiếu thông tin qua nhiều nguồn đáng tin, xác minh danh tính người liên hệ qua kênh độc lập, và không để áp lực thời gian chi phối quyết định. Kết hợp sự cảnh giác với các thói quen an toàn số khác như [bật xác thực 2 lớp](/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html) và [bảo mật tài khoản Google chống hack](/articles/cach-bao-mat-tai-khoan-google-chong-hack-2026.html) sẽ giúp bạn vững vàng hơn trước làn sóng nội dung giả mạo do AI tạo ra ngày càng nhiều.
 
 <div class="art-callout">
   ✅ <strong>Mẹo:</strong> Quy tắc quan trọng nhất: với mọi cuộc gọi hay tin nhắn yêu cầu chuyển tiền gấp, hãy dừng lại, gọi lại qua số đã lưu để xác minh và đặt một câu hỏi riêng tư. Đừng để hình ảnh hay giọng nói giống thật đánh lừa sự cảnh giác của bạn.
