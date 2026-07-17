@@ -1,7 +1,7 @@
 ---
 slug: "amazfit-t-rex-ultra-2-smartwatch-titanium-doi-thu-garmin-2026"
 title: "Amazfit T-Rex Ultra 2: smartwatch titanium đấu Garmin Fenix"
-description: "Amazfit T-Rex Ultra 2 là smartwatch thể thao khung titanium, GPS đa băng tần, pin nhiều ngày, độ bền cao, lựa chọn thay Garmin Fenix với giá tốt hơn quanh 550 USD."
+description: "Amazfit T-Rex Ultra 2 là smartwatch thể thao khung titanium, GPS đa băng tần, pin nhiều ngày, độ bền cao, lựa chọn thay Garmin Fenix với giá tốt hơn nhiều."
 keywords: "Amazfit T-Rex Ultra 2, smartwatch titanium, dong ho the thao Amazfit, Amazfit vs Garmin Fenix, smartwatch outdoor 2026"
 category: "Công nghệ"
 type: "tin-tuc"
