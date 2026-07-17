@@ -101,7 +101,7 @@ Các quỹ hỗ trợ đổi mới công nghệ tồn tại ở nhiều quốc g
 
 ## Doanh nghiệp nên làm gì để không lỡ cơ hội?
 
-Việc cần làm trước mắt rất gọn: truy cập địa chỉ khaosat.natif.vn và điền thông tin về nhu cầu của doanh nghiệp trước ngày 30/6/2026. Vì khảo sát là bước đầu để quỹ lên kế hoạch hỗ trợ cho năm 2027, tham gia sớm vừa giúp doanh nghiệp được tính vào nhu cầu chung, vừa là cách cập nhật sớm hướng hỗ trợ sắp tới.
+Việc cần làm trước mắt rất gọn: truy cập địa chỉ khaosat.natif.vn và điền thông tin về nhu cầu của doanh nghiệp trước ngày 30/6/2026. Vì khảo sát là bước đầu để quỹ lên kế hoạch hỗ trợ cho năm 2027, tham gia sớm vừa giúp doanh nghiệp được tính vào nhu cầu chung, vừa là cách cập nhật sớm hướng hỗ trợ sắp tới. Đây là một phần trong nỗ lực thúc đẩy đổi mới công nghệ tại Việt Nam, bên cạnh bức tranh [khởi nghiệp công nghệ Việt Nam 2026 với bài toán gọi vốn](/articles/khoi-nghiep-cong-nghe-viet-nam-2026-goi-von-startup-ai-thach-thuc.html).
 
 <figure>
   <img src="https://i.ytimg.com/vi/I452P34EO8Q/maxresdefault.jpg" alt="Doanh nghiệp Việt Nam ứng dụng công nghệ mới để nâng cao năng lực cạnh tranh" loading="lazy" width="1280" height="720">

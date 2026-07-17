@@ -98,7 +98,7 @@ Việc đưa loạt tính năng bền bỉ vốn quen thuộc ở phân khúc ca
 
 ## Giá bán và bối cảnh về Việt Nam
 
-Về giá, Redmi Note 17 Pro tại Trung Quốc có bốn mức chính thức: 1.599 tệ cho bản 8GB/128GB, 1.899 tệ cho bản 8GB/256GB, 2.199 tệ cho bản 12GB/256GB và 2.299 tệ cho bản 8GB/512GB. Quy đổi theo tỷ giá hiện tại, mức khởi điểm tương đương khoảng 5,6 triệu đồng, còn bản cao nhất khoảng 8 triệu đồng. Đây là mức hấp dẫn so với cấu hình, nhưng cần lưu ý đó là giá nội địa Trung Quốc.
+Về giá, Redmi Note 17 Pro tại Trung Quốc có bốn mức chính thức: 1.599 tệ cho bản 8GB/128GB, 1.899 tệ cho bản 8GB/256GB, 2.199 tệ cho bản 12GB/256GB và 2.299 tệ cho bản 8GB/512GB. Quy đổi theo tỷ giá hiện tại, mức khởi điểm tương đương khoảng 5,6 triệu đồng, còn bản cao nhất khoảng 8 triệu đồng. Đây là mức hấp dẫn so với cấu hình, nhưng cần lưu ý đó là giá nội địa Trung Quốc. Redmi còn có các mẫu mạnh hơn hướng tới game thủ, chẳng hạn [Redmi K90 Ultra với pin 8.500mAh](/articles/redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re.html).
 
 <figure>
   <img src="https://i.ytimg.com/vi/OPT3slqSO7Y/hqdefault.jpg" alt="Redmi Note 17 Pro giới thiệu cấu hình tầm trung với màn 1.5K và pin lớn" loading="lazy" width="1280" height="720">
