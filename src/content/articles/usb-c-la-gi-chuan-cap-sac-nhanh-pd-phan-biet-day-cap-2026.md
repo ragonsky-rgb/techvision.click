@@ -104,7 +104,7 @@ Trên thị trường có rất nhiều cáp nhái và cáp kém chất lượng
 
 ## Vài lưu ý khi dùng USB-C hằng ngày
 
-Một thói quen tốt là giữ lại bộ sạc và cáp đi kèm máy cho các thiết bị quan trọng, vì chúng được nhà sản xuất chọn đúng chuẩn. Khi cần mua thêm, hãy ghi nhớ công suất sạc và nhu cầu dữ liệu của thiết bị để chọn cáp phù hợp, tránh tình trạng mua cáp đắt tiền nhưng không khai thác hết, hoặc cáp rẻ không đáp ứng nổi nhu cầu.
+Một thói quen tốt là giữ lại bộ sạc và cáp đi kèm máy cho các thiết bị quan trọng, vì chúng được nhà sản xuất chọn đúng chuẩn. Khi cần mua thêm, hãy ghi nhớ công suất sạc và nhu cầu dữ liệu của thiết bị để chọn cáp phù hợp, tránh tình trạng mua cáp đắt tiền nhưng không khai thác hết, hoặc cáp rẻ không đáp ứng nổi nhu cầu. Nếu muốn bỏ dây hoàn toàn, bạn có thể tìm hiểu [sạc không dây có hại pin không](/articles/sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung.html).
 
 Ngoài ra, nên kiểm tra định kỳ tình trạng cáp và cổng cắm. Cáp bị gãy gập, sờn vỏ hay đầu cắm lỏng có thể gây sạc chập chờn và nóng bất thường, nên thay sớm để an toàn. Giữ cổng USB-C sạch bụi cũng giúp kết nối ổn định hơn. Hiểu đúng bản chất đa năng nhưng phức tạp của USB-C sẽ giúp bạn tận dụng tối đa chuẩn kết nối tiện lợi này mà vẫn an toàn cho thiết bị.
 

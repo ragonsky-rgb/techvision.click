@@ -104,7 +104,7 @@ Với người dùng, cuộc cạnh tranh này mang lại lợi ích rõ rệt k
 
 ## Người dùng Việt Nam nên lưu ý gì?
 
-Telegram có lượng người dùng đáng kể tại Việt Nam, đặc biệt trong các cộng đồng, nhóm học tập và làm việc. Để nhận các tính năng mới như ứng dụng smartwatch hay AI gác cổng, người dùng chỉ cần cập nhật ứng dụng lên phiên bản mới nhất. Một số tính năng triển khai theo giai đoạn, nên có thể cần chờ một thời gian để xuất hiện đầy đủ.
+Telegram có lượng người dùng đáng kể tại Việt Nam, đặc biệt trong các cộng đồng, nhóm học tập và làm việc. Để nhận các tính năng mới như ứng dụng smartwatch hay AI gác cổng, người dùng chỉ cần cập nhật ứng dụng lên phiên bản mới nhất. Một số tính năng triển khai theo giai đoạn, nên có thể cần chờ một thời gian để xuất hiện đầy đủ. Để bảo vệ tài khoản nhắn tin, bạn nên [bật xác thực 2 lớp](/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html).
 
 Bên cạnh việc tận hưởng tính năng mới, người dùng Việt nên chú ý tới an toàn khi tham gia các nhóm đông và tương tác với bot. Telegram là môi trường mở, nên cảnh giác với các đường link lạ, lời mời đầu tư và tài khoản giả mạo là điều cần thiết. Kết hợp các công cụ quản lý mới của nền tảng với ý thức tự bảo vệ sẽ giúp trải nghiệm vừa phong phú vừa an toàn. LongTechVision sẽ tiếp tục cập nhật khi Telegram bổ sung tính năng mới.
 

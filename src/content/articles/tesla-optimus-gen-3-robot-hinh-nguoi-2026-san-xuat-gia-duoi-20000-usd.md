@@ -104,7 +104,7 @@ Về dài hạn, tham vọng của các hãng là đưa robot vào nhiều môi 
 
 ## Góc nhìn cho người đọc Việt Nam
 
-Với người đọc Việt, robot hình người vẫn là câu chuyện tương lai gần hơn là sản phẩm có thể mua ngay, nhưng đáng theo dõi vì tác động lâu dài tới sản xuất và việc làm. Khi các nhà máy lớn trên thế giới bắt đầu dùng robot hình người, xu hướng này có thể lan tới chuỗi cung ứng và các khu công nghiệp tại Việt Nam trong những năm tới, đặt ra cả cơ hội lẫn thách thức về kỹ năng lao động.
+Với người đọc Việt, robot hình người vẫn là câu chuyện tương lai gần hơn là sản phẩm có thể mua ngay, nhưng đáng theo dõi vì tác động lâu dài tới sản xuất và việc làm. Khi các nhà máy lớn trên thế giới bắt đầu dùng robot hình người, xu hướng này có thể lan tới chuỗi cung ứng và các khu công nghiệp tại Việt Nam trong những năm tới, đặt ra cả cơ hội lẫn thách thức về kỹ năng lao động. Nhiều hãng đang đẩy mạnh robot công nghiệp, chẳng hạn [Pudu D7 robot bán hình người tại WAIC 2026](/articles/pudu-d7-robot-ban-hinh-nguoi-cong-nghiep-waic-2026.html).
 
 Điều quan trọng là nhìn nhận các thông tin một cách tỉnh táo. Nhiều con số và mốc thời gian trong lĩnh vực này mang tính mục tiêu và thường được điều chỉnh, nên cần phân biệt giữa kế hoạch và sản phẩm đã giao thực tế. Theo dõi xem hãng nào thực sự đưa được robot vào vận hành ổn định, thay vì chỉ trình diễn, sẽ cho cái nhìn chính xác hơn về tiến độ thật của ngành. LongTechVision sẽ tiếp tục cập nhật khi Optimus Gen 3 ra mắt chính thức.
 
