@@ -104,7 +104,7 @@ Khi cần nhiều dung lượng giá rẻ để lưu phim, ảnh, dữ liệu c�
 
 ## Chăm sóc ổ cứng để dùng bền lâu
 
-Dù SSD bền với va đập, vẫn nên giữ vài thói quen để ổ cứng hoạt động ổn định lâu dài. Tránh để SSD đầy gần hết dung lượng, nên chừa khoảng trống để ổ duy trì hiệu năng và tuổi thọ ghi. Với HDD, hạn chế di chuyển hay va chạm khi ổ đang hoạt động, và đặt máy bàn ở nơi ít rung để bảo vệ đĩa từ và đầu đọc.
+Dù SSD bền với va đập, vẫn nên giữ vài thói quen để ổ cứng hoạt động ổn định lâu dài. Tránh để SSD đầy gần hết dung lượng, nên chừa khoảng trống để ổ duy trì hiệu năng và tuổi thọ ghi. Với HDD, hạn chế di chuyển hay va chạm khi ổ đang hoạt động, và đặt máy bàn ở nơi ít rung để bảo vệ đĩa từ và đầu đọc. Khi lắp máy tính bàn, ổ cứng chỉ là một phần, bạn nên tham khảo thêm [cách chọn nguồn máy tính](/articles/cach-chon-nguon-may-tinh-psu-2026-tieu-chi.html) và [cách chọn case PC](/articles/cach-chon-case-pc-vo-may-tinh-2026-tieu-chi.html) để có cấu hình cân đối, bền bỉ.
 
 Quan trọng nhất với cả hai loại ổ là sao lưu dữ liệu định kỳ. Không ổ cứng nào miễn nhiễm với hỏng hóc, nên dữ liệu quan trọng cần có ít nhất một bản sao ở nơi khác, như ổ ngoài hoặc dịch vụ đám mây. Việc kết hợp một ổ SSD nhanh cho hệ thống, một ổ lưu trữ dung lượng lớn và một thói quen sao lưu đều đặn sẽ mang lại trải nghiệm vừa nhanh vừa an toàn cho dữ liệu của bạn.
 
