@@ -104,7 +104,7 @@ Tuy nhiên, một số phân tích lưu ý vẫn còn những điểm bỏ ngỏ
 
 ## Người dùng Việt Nam nên lưu ý gì?
 
-Với các gia đình Việt dùng iPhone, iPad cho con, đây là những công cụ đáng quan tâm. Khi các tính năng triển khai vào mùa thu cùng bản cập nhật hệ điều hành mới, phụ huynh nên cập nhật thiết bị và vào phần cài đặt gia đình để thiết lập tài khoản trẻ em, giới hạn thời gian và các tùy chọn lọc nội dung phù hợp với độ tuổi của con. Việc làm quen sớm giúp tận dụng tốt các lớp bảo vệ này.
+Với các gia đình Việt dùng iPhone, iPad cho con, đây là những công cụ đáng quan tâm. Khi các tính năng triển khai vào mùa thu cùng bản cập nhật hệ điều hành mới, phụ huynh nên cập nhật thiết bị và vào phần cài đặt gia đình để thiết lập tài khoản trẻ em, giới hạn thời gian và các tùy chọn lọc nội dung phù hợp với độ tuổi của con. Bạn có thể xem trước [những tính năng mới trên iOS 27](/articles/ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet.html) và [cách cài iOS 27 beta từng bước](/articles/cach-cai-ios-27-beta-tren-iphone-huong-dan-tung-buoc.html) để chuẩn bị sớm. Việc làm quen sớm giúp tận dụng tốt các lớp bảo vệ này.
 
 Bên cạnh công cụ của Apple, cha mẹ cũng nên trang bị kiến thức để hướng dẫn con dùng thiết bị an toàn, nhận biết nội dung và liên hệ đáng ngờ. Kiểm soát kỹ thuật kết hợp với trò chuyện, đồng hành sẽ hiệu quả hơn là chỉ dựa vào phần mềm. Để hiểu thêm về an toàn trực tuyến, phụ huynh có thể tham khảo bài [cách nhận biết và phòng tránh lừa đảo online](/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html).
 
