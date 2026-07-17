@@ -110,7 +110,7 @@ Mỗi phương thức xác thực 2 lớp có ưu nhược điểm riêng, nên 
 
 ## Khi mất thiết bị hoặc bị khóa tài khoản
 
-Tình huống đáng lo nhất với người mới bật 2FA là mất điện thoại chứa app authenticator. Đây chính là lúc bộ mã dự phòng phát huy tác dụng, vì mỗi mã cho phép đăng nhập một lần mà không cần tới thiết bị. Vì vậy, ngay khi bật 2FA, nên lưu các mã này ở nơi tách biệt với điện thoại, chẳng hạn ghi ra giấy cất trong tủ hoặc lưu trong trình quản lý mật khẩu có mã hóa.
+Tình huống đáng lo nhất với người mới bật 2FA là mất điện thoại chứa app authenticator. Đây chính là lúc bộ mã dự phòng phát huy tác dụng, vì mỗi mã cho phép đăng nhập một lần mà không cần tới thiết bị. Vì vậy, ngay khi bật 2FA, nên lưu các mã này ở nơi tách biệt với điện thoại, chẳng hạn ghi ra giấy cất trong tủ hoặc lưu trong trình quản lý mật khẩu có mã hóa. 2FA nên đi cùng các biện pháp khác, chẳng hạn [bảo mật tài khoản Google chống hack](/articles/cach-bao-mat-tai-khoan-google-chong-hack-2026.html) và [bảo vệ tài khoản Facebook khỏi bị chiếm](/articles/cach-bao-ve-tai-khoan-facebook-khong-bi-hack-chiem-nick-2026.html) để an toàn toàn diện.
 
 Một lớp phòng bị khác là thiết lập sẵn phương thức xác thực phụ. Nhiều dịch vụ cho phép đăng ký cùng lúc cả app authenticator lẫn một khóa bảo mật, hoặc thêm một thiết bị tin cậy thứ hai. Khi một phương thức không khả dụng, phương thức còn lại vẫn mở được tài khoản. Việc chuẩn bị trước các đường lui này quan trọng không kém việc bật 2FA, bởi mục tiêu cuối cùng là vừa chặn kẻ xấu vừa bảo đảm chính chủ không bao giờ bị khóa ngoài tài khoản của mình.
 
