@@ -107,7 +107,7 @@ Với người mê nhiếp ảnh điện thoại và hệ sinh thái Google, Pix
 
 ## Vì sao nhiếp ảnh tính toán là điểm mạnh của Pixel?
 
-Khác với nhiều hãng chạy đua tăng số chấm cảm biến, Pixel từ lâu nổi tiếng nhờ nhiếp ảnh tính toán, tức dùng phần mềm và AI để xử lý ảnh sau khi chụp. Cách tiếp cận này cho phép Pixel cho ra ảnh đẹp, cân bằng sáng tốt và màu sắc nhất quán ngay cả khi phần cứng camera không phải mạnh nhất trên giấy. Các tính năng như chụp đêm, xóa vật thể thừa hay làm nét khuôn mặt đều dựa trên sức mạnh xử lý này.
+Khác với nhiều hãng chạy đua tăng số chấm cảm biến, Pixel từ lâu nổi tiếng nhờ nhiếp ảnh tính toán, tức dùng phần mềm và AI để xử lý ảnh sau khi chụp. Cách tiếp cận này cho phép Pixel cho ra ảnh đẹp, cân bằng sáng tốt và màu sắc nhất quán ngay cả khi phần cứng camera không phải mạnh nhất trên giấy. Các tính năng như chụp đêm, xóa vật thể thừa hay làm nét khuôn mặt đều dựa trên sức mạnh xử lý này. Điều này minh họa rõ vì sao [camera nhiều megapixel không hẳn chụp đẹp hơn](/articles/camera-nhieu-megapixel-co-chup-dep-hon-khong.html), khi phần mềm và xử lý ảnh mới là yếu tố quyết định.
 
 Theo các rò rỉ, dòng Pixel 11 tiếp tục đẩy mạnh hướng đi đó với loạt tính năng AI xử lý ngay trên thiết bị thay vì gửi lên đám mây. Việc xử lý on-device mang lại hai lợi ích: nhanh hơn vì không chờ kết nối mạng, và riêng tư hơn vì dữ liệu không rời khỏi máy. Đây là xu hướng chung của ngành, cùng mạch với các model AI gọn nhẹ chạy offline như đã phân tích trong bài [Gemma 4 chạy offline trên điện thoại](/articles/gemma-4-chay-offline-tren-dien-thoai-khong-can-internet-ai-on-device.html).
 

@@ -109,7 +109,7 @@ Việc Huawei tự phát triển mô hình nền tảng riêng phản ánh chi�
 
 ## Người dùng Việt Nam nên lưu ý gì?
 
-Với người dùng Việt Nam, điểm cần cân nhắc nhất khi nhìn vào HarmonyOS không nằm ở tính năng, mà ở hệ sinh thái ứng dụng. HarmonyOS thế hệ mới của Huawei chạy ứng dụng native riêng thay vì ứng dụng Android, nên kho ứng dụng trở thành yếu tố quyết định trải nghiệm. Các app thiết yếu tại Việt Nam như ngân hàng, ví điện tử, gọi xe hay dịch vụ công cần được hỗ trợ thì máy mới thực sự tiện dùng hằng ngày.
+Với người dùng Việt Nam, điểm cần cân nhắc nhất khi nhìn vào HarmonyOS không nằm ở tính năng, mà ở hệ sinh thái ứng dụng. HarmonyOS thế hệ mới của Huawei chạy ứng dụng native riêng thay vì ứng dụng Android, nên kho ứng dụng trở thành yếu tố quyết định trải nghiệm. Các app thiết yếu tại Việt Nam như ngân hàng, ví điện tử, gọi xe hay dịch vụ công cần được hỗ trợ thì máy mới thực sự tiện dùng hằng ngày. HarmonyOS hiện diện trên nhiều thiết bị Huawei, chẳng hạn [máy tính bảng MatePad 11.5 PaperMatte](/articles/huawei-matepad-11-5-papermatte-2026-ra-mat-viet-nam.html).
 
 Vì vậy, trước khi chọn một thiết bị Huawei chạy HarmonyOS, người dùng nên kiểm tra xem các ứng dụng mình cần đã có trên kho AppGallery hay chưa. Về mặt công nghệ, HarmonyOS 7 cho thấy Huawei đang đi nhanh và quyết liệt với hướng AI làm lõi cùng hệ sinh thái tự chủ. Đây là phiên bản đáng theo dõi, nhất là với những ai quan tâm tới cuộc đua hệ điều hành và xu hướng trợ lý AI ngày càng chủ động trên thiết bị.
 

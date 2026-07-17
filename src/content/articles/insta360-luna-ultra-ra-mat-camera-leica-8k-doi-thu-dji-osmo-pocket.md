@@ -113,7 +113,7 @@ Tuy nhiên, người dùng cũng nên hiểu rằng nhãn hợp tác không tự
 
 ## Có đáng cân nhắc thay cho DJI Osmo Pocket?
 
-Luna Ultra là lời tuyên chiến trực tiếp và sòng phẳng nhất với dòng Osmo Pocket từ trước tới nay: cảm biến lớn hơn ở camera chính, có tele quang học, màn hình tháo rời và bộ codec chuyên nghiệp hơn. Đổi lại, mức giá khởi điểm gần 20 triệu đồng cao hơn hẳn, đặt máy vào phân khúc người dùng nghiêm túc với việc quay dựng.
+Luna Ultra là lời tuyên chiến trực tiếp và sòng phẳng nhất với dòng Osmo Pocket từ trước tới nay: cảm biến lớn hơn ở camera chính, có tele quang học, màn hình tháo rời và bộ codec chuyên nghiệp hơn. Đổi lại, mức giá khởi điểm gần 20 triệu đồng cao hơn hẳn, đặt máy vào phân khúc người dùng nghiêm túc với việc quay dựng. Đối thủ trực tiếp của Luna Ultra chính là [DJI Osmo Pocket 4 Pro với camera kép, zoom 3x](/articles/dji-osmo-pocket-4-pro-4p-ra-mat-camera-kep-3x-zoom-gia-viet-nam.html).
 
 Với nhà làm phim độc lập, vlogger chuyên nghiệp hay người mê xê dịch muốn chất lượng tiệm cận máy ảnh trong thiết bị nằm gọn túi quần, cấu hình này xứng đáng với số tiền. Với người quay giải trí thông thường, dòng máy rẻ hơn vẫn là lựa chọn hợp lý, và sức ép cạnh tranh từ Luna Ultra nhiều khả năng sẽ kéo giá cả phân khúc xuống trong các tháng tới.
 
