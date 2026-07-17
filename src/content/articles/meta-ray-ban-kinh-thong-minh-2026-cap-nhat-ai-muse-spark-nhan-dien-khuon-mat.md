@@ -110,7 +110,7 @@ Cuộc đua này cho thấy ngành công nghệ tin rằng kính có thể là t
 
 ## Người dùng Việt Nam nên lưu ý gì?
 
-Tại Việt Nam, kính Meta Ray-Ban chưa được phân phối chính hãng rộng rãi, nên phần lớn người dùng tiếp cận qua đường xách tay. Một số tính năng phụ thuộc khu vực và yêu cầu kết nối với ứng dụng của Meta, nên không phải tính năng nào cũng dùng được ngay. Người quan tâm nên tìm hiểu kỹ khả năng sử dụng tại Việt Nam, hỗ trợ tiếng Việt và chính sách bảo hành trước khi mua.
+Tại Việt Nam, kính Meta Ray-Ban chưa được phân phối chính hãng rộng rãi, nên phần lớn người dùng tiếp cận qua đường xách tay. Một số tính năng phụ thuộc khu vực và yêu cầu kết nối với ứng dụng của Meta, nên không phải tính năng nào cũng dùng được ngay. Người quan tâm nên tìm hiểu kỹ khả năng sử dụng tại Việt Nam, hỗ trợ tiếng Việt và chính sách bảo hành trước khi mua. Meta cũng có các dòng kính khác đáng chú ý như [kính hiển thị Ray-Ban Display với Neural Band](/articles/meta-ray-ban-display-kinh-ai-2026-phu-de-cuoc-goi-viet-tay-neural-band.html) và [kính AI giá 299 USD](/articles/meta-kinh-ai-299-usd-2026-fury-adventurer-kylie-muse-spark.html), cho thấy tham vọng lớn ở mảng thiết bị đeo thông minh.
 
 Quan trọng hơn, với các thiết bị có camera đeo trên người, người dùng nên ý thức về quyền riêng tư của cả bản thân và những người xung quanh. Sử dụng có trách nhiệm, tôn trọng sự riêng tư của người khác là điều cần thiết khi kính thông minh ngày càng phổ biến. Theo dõi cách các hãng và cơ quan quản lý xử lý vấn đề nhận diện khuôn mặt cũng giúp người dùng đưa ra quyết định sáng suốt. LongTechVision sẽ tiếp tục cập nhật diễn biến của mảng kính thông minh.
 
