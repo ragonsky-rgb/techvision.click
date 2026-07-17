@@ -107,7 +107,7 @@ Quan trọng hơn cả là nghe thử nếu có thể, vì cảm nhận âm than
 
 ## Bluetooth LE Audio và codec LC3 thay đổi điều gì?
 
-Bước tiến lớn nhất của âm thanh không dây những năm gần đây là Bluetooth LE Audio cùng codec mặc định LC3. Khác với SBC vốn cũ và kém hiệu quả, LC3 cho chất lượng tương đương hoặc tốt hơn ở mức bitrate thấp hơn nhiều, nghĩa là tiết kiệm pin trong khi vẫn giữ âm thanh sạch. Với tai nghe true wireless vốn có viên pin nhỏ, lợi ích về thời lượng pin từ LC3 rất đáng kể.
+Bước tiến lớn nhất của âm thanh không dây những năm gần đây là Bluetooth LE Audio cùng codec mặc định LC3. Khác với SBC vốn cũ và kém hiệu quả, LC3 cho chất lượng tương đương hoặc tốt hơn ở mức bitrate thấp hơn nhiều, nghĩa là tiết kiệm pin trong khi vẫn giữ âm thanh sạch. Với tai nghe true wireless vốn có viên pin nhỏ, lợi ích về thời lượng pin từ LC3 rất đáng kể. Khi chọn mua, bạn có thể tham khảo thêm [các tiêu chí chọn tai nghe true wireless](/articles/cach-chon-tai-nghe-true-wireless-tws-2026-tieu-chi.html) để có lựa chọn phù hợp.
 
 LE Audio còn mở ra các tính năng mới ngoài chất lượng thuần túy. Auracast cho phép một nguồn phát chia sẻ âm thanh tới nhiều tai nghe cùng lúc, hữu ích ở nơi công cộng như sân bay hay phòng chờ. Tính năng nghe đa thiết bị và độ trễ thấp hơn cũng nằm trong gói nâng cấp này. Tuy nhiên, để dùng được, cả điện thoại lẫn tai nghe đều phải hỗ trợ LE Audio, và hệ sinh thái này vẫn đang trong giai đoạn phổ cập, nên không phải máy nào hiện nay cũng tận dụng được.
 

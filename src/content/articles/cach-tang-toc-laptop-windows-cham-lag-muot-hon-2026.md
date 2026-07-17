@@ -105,7 +105,7 @@ Nâng RAM là bước tiếp theo nếu bạn thường mở nhiều ứng dụn
 
 ## Thói quen dùng máy giúp giữ tốc độ lâu dài
 
-Ngoài các bước tối ưu một lần, thói quen hằng ngày quyết định máy giữ được độ mượt bao lâu. Hạn chế cài phần mềm không rõ nguồn gốc và tránh các bộ cài kèm tiện ích lạ, vì đây là cách phần mềm rác và quảng cáo len vào máy. Khi cài chương trình mới, nên đọc kỹ các bước để bỏ chọn những thành phần đi kèm không cần thiết.
+Ngoài các bước tối ưu một lần, thói quen hằng ngày quyết định máy giữ được độ mượt bao lâu. Hạn chế cài phần mềm không rõ nguồn gốc và tránh các bộ cài kèm tiện ích lạ, vì đây là cách phần mềm rác và quảng cáo len vào máy. Khi cài chương trình mới, nên đọc kỹ các bước để bỏ chọn những thành phần đi kèm không cần thiết. Một nâng cấp phần cứng đáng giá là chuyển sang ổ SSD, bạn có thể xem [SSD và HDD khác gì, nên chọn ổ nào](/articles/ssd-vs-hdd-khac-gi-nen-chon-o-cung-nao-2026.html) để tăng tốc máy rõ rệt.
 
 Giữ máy thông thoáng cũng quan trọng với hiệu năng. Bụi tích tụ ở khe tản nhiệt khiến máy nóng và tự giảm xung nhịp để hạ nhiệt, dẫn tới giật lag khi làm việc nặng. Đặt máy trên mặt phẳng cứng thay vì chăn nệm, vệ sinh quạt định kỳ và cân nhắc tra lại keo tản nhiệt sau vài năm sẽ giúp máy duy trì hiệu năng ổn định. Kết hợp các bước phần mềm ở trên với việc chăm sóc phần cứng đúng cách, một chiếc laptop Windows dùng nhiều năm vẫn có thể chạy tốt cho nhu cầu hằng ngày.
 

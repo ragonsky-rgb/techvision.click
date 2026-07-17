@@ -100,7 +100,7 @@ Thông báo dồn dập cũng làm máy chậm theo cách ít ai để ý. Mỗi
 
 ## Kiểm tra phần cứng và thói quen sạc pin
 
-Đôi khi máy chậm không hẳn vì phần mềm mà do phần cứng xuống cấp, đặc biệt là pin chai. Khi pin yếu, một số dòng máy tự động giảm xung nhịp bộ xử lý để tránh sập nguồn đột ngột, khiến hiệu năng tụt rõ. Nếu thời lượng pin giảm mạnh kèm hiện tượng tự tắt máy ở mức 20 tới 30%, rất có thể đã đến lúc thay pin. Một viên pin mới thường khôi phục lại cảm giác nhanh nhạy như thuở đầu với chi phí thấp hơn nhiều so với đổi máy.
+Đôi khi máy chậm không hẳn vì phần mềm mà do phần cứng xuống cấp, đặc biệt là pin chai. Khi pin yếu, một số dòng máy tự động giảm xung nhịp bộ xử lý để tránh sập nguồn đột ngột, khiến hiệu năng tụt rõ. Nếu thời lượng pin giảm mạnh kèm hiện tượng tự tắt máy ở mức 20 tới 30%, rất có thể đã đến lúc thay pin. Một viên pin mới thường khôi phục lại cảm giác nhanh nhạy như thuở đầu với chi phí thấp hơn nhiều so với đổi máy. Bạn có thể [kiểm tra độ chai pin điện thoại](/articles/cach-kiem-tra-do-chai-pin-dien-thoai-iphone-android-2026.html) để biết chính xác khi nào nên thay pin.
 
 Thói quen sử dụng hằng ngày cũng ảnh hưởng tới độ bền. Tránh để máy nóng lâu khi vừa sạc vừa chơi game nặng, vì nhiệt độ cao đẩy nhanh quá trình chai pin và có thể gây giảm hiệu năng tạm thời. Giữ máy ở nơi thoáng, tháo ốp khi sạc lâu và không để pin cạn sạch thường xuyên là những thói quen nhỏ giúp thiết bị giữ phong độ lâu hơn. Kết hợp các mẹo phần mềm ở trên với việc chăm sóc phần cứng đúng cách, một chiếc Android dùng vài năm vẫn có thể chạy mượt cho nhu cầu hằng ngày.
 
