@@ -110,7 +110,7 @@ Với trẻ em, cần dạy các em không cung cấp thông tin cá nhân, khô
 
 ## Nếu lỡ bị lừa, cần làm gì ngay?
 
-Nếu phát hiện mình bị lừa, hãy hành động thật nhanh. Lập tức liên hệ ngân hàng để khóa tài khoản và yêu cầu tạm dừng giao dịch, vì can thiệp sớm có thể chặn được dòng tiền. Đổi ngay mật khẩu các tài khoản quan trọng và bật xác thực 2 lớp nếu chưa có, để ngăn kẻ gian chiếm thêm tài khoản khác.
+Nếu phát hiện mình bị lừa, hãy hành động thật nhanh. Lập tức liên hệ ngân hàng để khóa tài khoản và yêu cầu tạm dừng giao dịch, vì can thiệp sớm có thể chặn được dòng tiền. Đổi ngay mật khẩu các tài khoản quan trọng và bật xác thực 2 lớp nếu chưa có, để ngăn kẻ gian chiếm thêm tài khoản khác. Trong thời đại AI, các chiêu lừa ngày càng tinh vi, nên bạn cũng cần biết [cách nhận biết ảnh, video deepfake giả mạo](/articles/cach-nhan-biet-anh-video-deepfake-ai-gia-mao-2026.html).
 
 Sau đó, giữ lại mọi bằng chứng gồm tin nhắn, số điện thoại, số tài khoản và lịch sử chuyển tiền, rồi trình báo cơ quan công an gần nhất. Cuối cùng, hãy chia sẻ cảnh báo cho người thân, đặc biệt là người lớn tuổi vốn dễ trở thành mục tiêu. Việc giữ thuê bao chính chủ và xác thực đúng cũng giúp giảm rủi ro, như đã đề cập trong bài [khóa SIM và xác thực VNeID](/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html).
 

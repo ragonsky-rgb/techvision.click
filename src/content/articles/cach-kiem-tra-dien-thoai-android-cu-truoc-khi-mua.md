@@ -110,7 +110,7 @@ Khi mua, hãy hỏi rõ máy là bản quốc tế hay nội địa, hỗ trợ 
 
 ## Mua an toàn và chuẩn bị sau khi mua
 
-Nên ưu tiên mua ở nơi có chính sách đổi trả và bảo hành, kiểm tra trực tiếp trước khi trả tiền. Nếu mua online, hãy quay video quá trình mở hộp và kiểm tra để làm bằng chứng khi cần khiếu nại. Một chiếc máy nguyên bản, đủ chức năng và giá hợp lý so với thị trường là tín hiệu đáng tin.
+Nên ưu tiên mua ở nơi có chính sách đổi trả và bảo hành, kiểm tra trực tiếp trước khi trả tiền. Nếu mua online, hãy quay video quá trình mở hộp và kiểm tra để làm bằng chứng khi cần khiếu nại. Một chiếc máy nguyên bản, đủ chức năng và giá hợp lý so với thị trường là tín hiệu đáng tin. Đừng quên [kiểm tra độ chai pin của máy](/articles/cach-kiem-tra-do-chai-pin-dien-thoai-iphone-android-2026.html), vì đây là yếu tố quan trọng ảnh hưởng tới trải nghiệm và chi phí sử dụng về sau.
 
 Sau khi mua, hãy đăng nhập tài khoản Google của mình, cập nhật phần mềm và thiết lập sao lưu để bảo vệ dữ liệu, như đã hướng dẫn trong bài [sao lưu dữ liệu trước khi đổi máy](/articles/cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset.html). Nếu thấy máy chạy chậm, có thể tham khảo thêm bài [tăng tốc điện thoại Android](/articles/cach-tang-toc-dien-thoai-android-cham-lag-muot-hon-2026.html) để tối ưu lại.
 

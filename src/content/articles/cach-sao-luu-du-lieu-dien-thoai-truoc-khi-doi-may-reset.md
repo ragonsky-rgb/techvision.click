@@ -110,7 +110,7 @@ Bước hay bị bỏ sót nhất là ứng dụng xác thực hai lớp. Các m
 
 ## Một vài lưu ý để an toàn
 
-Luôn kiểm tra bản sao lưu đã hoàn tất trước khi xóa máy, bằng cách xem ngày giờ sao lưu gần nhất trong phần cài đặt. Với dữ liệu cực kỳ quan trọng, nên có thêm một bản sao thứ hai, ví dụ vừa sao lưu đám mây vừa lưu vào máy tính, để phòng trường hợp một nguồn gặp sự cố.
+Luôn kiểm tra bản sao lưu đã hoàn tất trước khi xóa máy, bằng cách xem ngày giờ sao lưu gần nhất trong phần cài đặt. Với dữ liệu cực kỳ quan trọng, nên có thêm một bản sao thứ hai, ví dụ vừa sao lưu đám mây vừa lưu vào máy tính, để phòng trường hợp một nguồn gặp sự cố. Để lưu trữ an toàn hơn, bạn có thể tham khảo [cách sao lưu ảnh và dữ liệu lên đám mây qua Google Photos, iCloud](/articles/cach-sao-luu-anh-du-lieu-len-dam-may-google-photos-icloud-2026.html).
 
 Sao lưu định kỳ là thói quen đáng có, không chỉ khi đổi máy. Mất điện thoại, hỏng máy hay sự cố bất ngờ đều có thể xảy ra, và một bản sao lưu mới luôn là tấm lưới an toàn đáng giá. Dành vài phút thiết lập sao lưu tự động sẽ giúp yên tâm dài lâu.
 
