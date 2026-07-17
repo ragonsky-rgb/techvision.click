@@ -99,7 +99,7 @@ Với công việc nội dung, prompt nên nêu rõ nền tảng đăng và đ�
 
 ## Khác biệt nhỏ giữa các công cụ AI
 
-Công thức prompt nền tảng áp dụng tốt cho hầu hết trợ lý AI, nhưng mỗi công cụ vẫn có thế mạnh riêng. ChatGPT thường mạnh về viết và lập luận theo hội thoại, Gemini gắn kết tốt với hệ sinh thái Google và tìm kiếm thông tin, còn Claude được đánh giá cao ở các tác vụ văn bản dài và bám sát yêu cầu. Khi đổi qua lại giữa các công cụ, bạn không cần học lại từ đầu, chỉ cần tinh chỉnh đôi chút cho phù hợp.
+Công thức prompt nền tảng áp dụng tốt cho hầu hết trợ lý AI, nhưng mỗi công cụ vẫn có thế mạnh riêng. ChatGPT thường mạnh về viết và lập luận theo hội thoại, Gemini gắn kết tốt với hệ sinh thái Google và tìm kiếm thông tin, còn Claude được đánh giá cao ở các tác vụ văn bản dài và bám sát yêu cầu. Khi đổi qua lại giữa các công cụ, bạn không cần học lại từ đầu, chỉ cần tinh chỉnh đôi chút cho phù hợp. Với những ai muốn tiến xa hơn, kỹ năng prompt còn là nền tảng để [dùng AI agent tự động hóa công việc trên máy tính](/articles/ai-agent-tu-dong-hoa-may-tinh-crewai-autogen-huong-dan-2026.html).
 
 Một lưu ý là độ dài và cách trình bày prompt có thể khác nhau giữa các mô hình. Với những tác vụ phức tạp, việc nói rõ từng bước và yêu cầu AI trình bày quá trình suy luận thường cho kết quả tốt hơn. Quan trọng nhất vẫn là thực hành đều đặn để cảm nhận cách mỗi công cụ phản hồi, từ đó rút ra cách viết prompt phù hợp với phong cách làm việc của riêng mình.
 
@@ -110,7 +110,7 @@ Một lưu ý là độ dài và cách trình bày prompt có thể khác nhau g
 
 ## Biến prompt thành kỹ năng hằng ngày
 
-Viết prompt giỏi là kỹ năng rèn được qua thực hành. Hãy lưu lại những prompt cho kết quả tốt để tái sử dụng, dần dần bạn sẽ có một bộ mẫu prompt riêng cho các công việc quen thuộc như viết email, tóm tắt tài liệu, lên ý tưởng nội dung hay học kiến thức mới.
+Viết prompt giỏi là kỹ năng rèn được qua thực hành. Hãy lưu lại những prompt cho kết quả tốt để tái sử dụng, dần dần bạn sẽ có một bộ mẫu prompt riêng cho các công việc quen thuộc như viết email, tóm tắt tài liệu, lên ý tưởng nội dung hay học kiến thức mới. Bạn cũng có thể áp dụng kỹ năng này vào việc [dùng AI học tiếng Anh](/articles/cach-dung-ai-hoc-tieng-anh-chatgpt-luyen-noi-tu-vung-2026.html), một ứng dụng thực tế rất phổ biến hiện nay.
 
 Khi đã quen, AI trở thành một trợ lý tăng tốc đáng kể cho công việc và học tập. Điều cốt lõi vẫn là bạn làm chủ: AI tạo bản nháp nhanh, còn bạn là người định hướng, kiểm chứng và quyết định. Kết hợp prompt tốt với tư duy phản biện sẽ giúp khai thác AI an toàn và hiệu quả.
 
