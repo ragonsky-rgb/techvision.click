@@ -106,7 +106,7 @@ Việc một nhà sản xuất chip tính toán hàng đầu chủ động bắt
 
 ## Ý nghĩa với người dùng Việt Nam
 
-Với người tiêu dùng, tin hợp tác này là chỉ dấu cho thấy cơn khát bộ nhớ AI chưa hạ nhiệt. Khi hai ông lớn khóa phần lớn năng lực bộ nhớ cao cấp cho hạ tầng AI, RAM thường và linh kiện càng khan, kéo giá PC, laptop và một phần điện thoại tại Việt Nam đi lên. Ai đang định nâng cấp RAM hay lắp máy mới nên cân nhắc kỹ thời điểm, vì nguồn cung khó cải thiện trong ngắn hạn.
+Với người tiêu dùng, tin hợp tác này là chỉ dấu cho thấy cơn khát bộ nhớ AI chưa hạ nhiệt. Khi hai ông lớn khóa phần lớn năng lực bộ nhớ cao cấp cho hạ tầng AI, RAM thường và linh kiện càng khan, kéo giá PC, laptop và một phần điện thoại tại Việt Nam đi lên. Ai đang định nâng cấp RAM hay lắp máy mới nên cân nhắc kỹ thời điểm, vì nguồn cung khó cải thiện trong ngắn hạn. Thực tế, [giá RAM DRAM được dự báo tăng thêm 20% trong quý 3/2026](/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html), cho thấy áp lực giá vẫn còn lớn.
 
 Ở chiều tích cực, đây cũng là tín hiệu cho thấy chuỗi cung ứng bán dẫn châu Á tiếp tục giữ vai trò trung tâm trong làn sóng AI. Người làm công nghệ và đầu tư tại Việt Nam có thể theo dõi diễn biến này, vì nó sẽ định hình giá phần cứng AI trong một tới hai năm tới.
 

@@ -109,7 +109,7 @@ Hướng đi đặt cược vào camera phản ánh xu thế chung của thị t
 
 ## Giá và thời điểm về Việt Nam
 
-Dòng Find X10 được rò rỉ ra mắt tại Trung Quốc vào quý 4/2026, nhiều nguồn dự đoán tháng 10, với bản toàn cầu theo sau vài tuần. Oppo chưa công bố lịch chính thức nên mốc thời gian này vẫn có thể thay đổi.
+Dòng Find X10 được rò rỉ ra mắt tại Trung Quốc vào quý 4/2026, nhiều nguồn dự đoán tháng 10, với bản toàn cầu theo sau vài tuần. Oppo chưa công bố lịch chính thức nên mốc thời gian này vẫn có thể thay đổi. Trong bối cảnh [giá smartphone cao cấp tại Việt Nam đang tăng](/articles/gia-smartphone-cao-cap-viet-nam-tang-manh-2026-thieu-chip-nho.html), mức giá của Find X10 Pro khi về nước cũng là điều đáng chú ý.
 
 Về giá, chưa có con số chính thức. Tham chiếu Find X9 Pro ra mắt Việt Nam tháng 10/2025 với giá 33 triệu đồng cho bản 16GB/512GB, Find X10 Pro nhiều khả năng cũng về Việt Nam quanh mốc 30 tới 35 triệu đồng, dự kiến cuối 2026 hoặc đầu 2027. Người dùng nên chờ thông tin chính thức trước khi quyết định.
 
