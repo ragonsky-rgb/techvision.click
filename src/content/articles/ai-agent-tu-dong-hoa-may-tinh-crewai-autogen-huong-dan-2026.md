@@ -112,7 +112,7 @@ Tất nhiên agent không hoàn hảo. Nó có thể hiểu sai yêu cầu, cào
 
 ## Cần chuẩn bị gì để bắt đầu tự động hóa?
 
-Tin tốt là rào cản kỹ thuật để bắt đầu không quá cao. Bạn cần hai thứ nền tảng. Thứ nhất là Python cơ bản, đủ để hiểu biến, hàm, cách cài thư viện bằng pip và chạy một file script. Thứ hai là một API key của model ngôn ngữ, phổ biến nhất là Claude của Anthropic hoặc OpenAI, đóng vai bộ não cho agent suy nghĩ.
+Tin tốt là rào cản kỹ thuật để bắt đầu không quá cao. Bạn cần hai thứ nền tảng. Thứ nhất là Python cơ bản, đủ để hiểu biến, hàm, cách cài thư viện bằng pip và chạy một file script. Thứ hai là một API key của model ngôn ngữ, phổ biến nhất là Claude của Anthropic hoặc OpenAI, đóng vai bộ não cho agent suy nghĩ. Việc chọn model mạnh rất quan trọng, chẳng hạn [Claude Fable 5 Mythos của Anthropic](/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html), và kỹ năng [viết prompt hiệu quả](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html) sẽ giúp agent hoạt động chính xác hơn.
 
 Quy trình khởi đầu thường gồm vài bước gọn: tạo một môi trường ảo để tách biệt thư viện, cài framework bằng lệnh như cài CrewAI hoặc AutoGen, lưu API key trong một file môi trường riêng và tuyệt đối không đẩy key đó lên GitHub. Nếu muốn tiết kiệm chi phí và giữ dữ liệu trên máy, bạn có thể chạy model mã nguồn mở cục bộ bằng Ollama thay cho API trả phí, đặc biệt hợp khi mới học và muốn thử nghiệm thoải mái.
 
