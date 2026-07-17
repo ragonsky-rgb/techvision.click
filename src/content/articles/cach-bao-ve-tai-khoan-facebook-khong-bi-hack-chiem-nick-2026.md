@@ -96,7 +96,7 @@ Chuẩn bị trước phương án khôi phục giúp bạn lấy lại tài kho
 
 ## Xử lý nhanh khi nghi tài khoản bị xâm nhập
 
-Nếu nghi ngờ tài khoản bị xâm nhập, hành động sớm sẽ giảm thiệt hại. Trước tiên, đổi mật khẩu ngay từ một thiết bị an toàn và đăng xuất toàn bộ phiên đang đăng nhập. Sau đó kiểm tra email và số điện thoại khôi phục xem có bị kẻ xấu thay đổi không, vì đây là cách chúng giữ quyền kiểm soát lâu dài. Rà soát mục ứng dụng được cấp quyền và gỡ những thứ lạ, đồng thời xem lại các bài đăng và tin nhắn gần đây phòng trường hợp tài khoản bị dùng để lừa người khác.
+Nếu nghi ngờ tài khoản bị xâm nhập, hành động sớm sẽ giảm thiệt hại. Trước tiên, đổi mật khẩu ngay từ một thiết bị an toàn và đăng xuất toàn bộ phiên đang đăng nhập. Sau đó kiểm tra email và số điện thoại khôi phục xem có bị kẻ xấu thay đổi không, vì đây là cách chúng giữ quyền kiểm soát lâu dài. Rà soát mục ứng dụng được cấp quyền và gỡ những thứ lạ, đồng thời xem lại các bài đăng và tin nhắn gần đây phòng trường hợp tài khoản bị dùng để lừa người khác. Nguyên tắc bảo mật tương tự cũng áp dụng cho các nền tảng khác, chẳng hạn [bảo mật tài khoản Google chống hack](/articles/cach-bao-mat-tai-khoan-google-chong-hack-2026.html).
 
 Nếu đã mất hoàn toàn quyền truy cập, hãy dùng công cụ khôi phục của Facebook tại trang trợ giúp, làm theo quy trình xác minh danh tính qua email, số điện thoại hoặc liên hệ tin cậy đã thiết lập trước. Trong lúc chờ lấy lại, nên báo cho bạn bè và người thân biết tài khoản đang bị chiếm để họ cảnh giác với các tin nhắn vay tiền hay nhờ chuyển khoản giả danh. Sự chủ động này vừa bảo vệ bạn vừa bảo vệ những người xung quanh.
 

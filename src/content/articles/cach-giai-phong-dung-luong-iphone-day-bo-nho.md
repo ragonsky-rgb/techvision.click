@@ -110,7 +110,7 @@ Nhiều người không ngờ hộp thư cũng chiếm khá nhiều dung lượn
 
 ## Thói quen giúp iPhone luôn còn chỗ trống
 
-Để không thường xuyên rơi vào cảnh đầy bộ nhớ, hãy hình thành vài thói quen. Dọn tin nhắn cũ và đặt tin nhắn tự xoá sau một thời gian trong Cài đặt, vì hình ảnh và video gửi qua tin nhắn tích tụ rất nhanh. Cân nhắc nghe nhạc và xem nội dung qua streaming thay vì tải về máy, đồng thời xoá các podcast và nhạc đã tải khi nghe xong.
+Để không thường xuyên rơi vào cảnh đầy bộ nhớ, hãy hình thành vài thói quen. Dọn tin nhắn cũ và đặt tin nhắn tự xoá sau một thời gian trong Cài đặt, vì hình ảnh và video gửi qua tin nhắn tích tụ rất nhanh. Cân nhắc nghe nhạc và xem nội dung qua streaming thay vì tải về máy, đồng thời xoá các podcast và nhạc đã tải khi nghe xong. Nếu dùng cả máy Android, bạn có thể áp dụng thêm [cách giải phóng bộ nhớ điện thoại nói chung](/articles/cach-giai-phong-bo-nho-dien-thoai-day-iphone-android-2026.html) để tối ưu dung lượng trên mọi thiết bị.
 
 Cuối cùng, đừng cài app dọn rác cho iPhone vì iOS không cho phép can thiệp sâu, các app này hiệu quả hạn chế và đôi khi chỉ gây phiền. Hãy dựa vào công cụ có sẵn trong phần Dung lượng iPhone, đó là cách an toàn và hiệu quả nhất. Duy trì một khoảng trống hợp lý cũng giúp máy chạy mượt hơn, tương tự nguyên tắc với Android trong bài [tăng tốc điện thoại Android](/articles/cach-tang-toc-dien-thoai-android-cham-lag-muot-hon-2026.html).
 
