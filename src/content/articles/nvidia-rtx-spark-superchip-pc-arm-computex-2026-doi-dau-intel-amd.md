@@ -104,7 +104,7 @@ Bước đi này cũng phản ánh xu hướng lớn của ngành: AI không cò
 
 ## Người dùng Việt Nam nên lưu ý gì?
 
-Với người dùng Việt, RTX Spark là sản phẩm đáng theo dõi nếu quan tâm tới hiệu năng AI trên laptop, dù mức giá cao cấp ban đầu khiến nó phù hợp hơn với người dùng chuyên nghiệp. Khi máy lên kệ vào mùa thu, nên chờ các bài đánh giá thực tế về hiệu năng, thời lượng pin và quan trọng nhất là độ tương thích phần mềm trên nền ARM, vì không phải mọi ứng dụng Windows đều chạy mượt trên kiến trúc này.
+Với người dùng Việt, RTX Spark là sản phẩm đáng theo dõi nếu quan tâm tới hiệu năng AI trên laptop, dù mức giá cao cấp ban đầu khiến nó phù hợp hơn với người dùng chuyên nghiệp. Khi máy lên kệ vào mùa thu, nên chờ các bài đánh giá thực tế về hiệu năng, thời lượng pin và quan trọng nhất là độ tương thích phần mềm trên nền ARM, vì không phải mọi ứng dụng Windows đều chạy mượt trên kiến trúc này. Trong cuộc đua AI PC, đối thủ đáng chú ý là [AMD Ryzen AI Max+ 395 Strix Halo](/articles/amd-ryzen-ai-max-395-strix-halo-mini-pc-ai-70b-2026.html) với khả năng chạy mô hình AI lớn ngay trên máy.
 
 Quan trọng hơn, sự xuất hiện của Nvidia trong thị trường chip PC báo hiệu cạnh tranh sẽ gay gắt hơn giữa các nền tảng, điều thường có lợi cho người dùng về lâu dài qua hiệu năng tốt hơn và giá hợp lý hơn. Người mua máy mới trong vài năm tới sẽ có nhiều lựa chọn chip hơn, nên việc hiểu rõ nhu cầu thực tế của mình, thay vì chạy theo thông số AI hào nhoáng, vẫn là cách chọn máy khôn ngoan nhất. LongTechVision sẽ cập nhật khi các laptop RTX Spark chính thức ra mắt.
 
