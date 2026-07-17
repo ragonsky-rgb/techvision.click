@@ -93,9 +93,9 @@ Về độ bền theo thời gian, RAM dư một chút sẽ giúp máy dùng đ�
 
 ## Cách kiểm tra mức RAM máy thực sự dùng
 
-Trước khi quyết định lên bản RAM cao hơn, nên quan sát cách máy hiện tại sử dụng bộ nhớ. Trên Android, mục thông tin nhà phát triển có phần thống kê bộ nhớ, cho biết trung bình máy dùng bao nhiêu RAM và còn trống bao nhiêu trong vài giờ qua. Nếu máy thường xuyên còn trống vài GB ngay cả khi mở nhiều ứng dụng, việc nâng lên mức RAM cao hơn sẽ ít mang lại khác biệt thực tế.
+Trước khi quyết định lên bản RAM cao hơn, nên quan sát cách máy hiện tại sử dụng bộ nhớ. Trên Android, mục thông tin nhà phát triển có phần thống kê bộ nhớ, cho biết trung bình máy dùng bao nhiêu RAM và còn trống bao nhiêu trong vài giờ qua. Nếu máy thường xuyên còn trống vài GB ngay cả khi mở nhiều ứng dụng, việc nâng lên mức RAM cao hơn sẽ ít mang lại khác biệt thực tế. Trong trường hợp máy hay báo đầy, tham khảo [cách giải phóng bộ nhớ điện thoại](/articles/cach-giai-phong-bo-nho-dien-thoai-day-iphone-android-2026.html) sẽ hữu ích hơn là vội đổi máy mới.
 
-Trên iPhone, hệ thống không hiển thị mức RAM cho người dùng phổ thông vì iOS quản lý bộ nhớ tự động. Dấu hiệu dễ nhận biết là khi chuyển nhanh giữa nhiều ứng dụng nặng mà chúng phải tải lại từ đầu, đó là lúc bộ nhớ đang thiếu. Tuy nhiên với cách tối ưu của iOS, hiện tượng này hiếm xảy ra ở các đời iPhone gần đây, kể cả bản có dung lượng RAM thấp hơn máy Android cùng phân khúc.
+Trên iPhone, hệ thống không hiển thị mức RAM cho người dùng phổ thông vì iOS quản lý bộ nhớ tự động. Dấu hiệu dễ nhận biết là khi chuyển nhanh giữa nhiều ứng dụng nặng mà chúng phải tải lại từ đầu, đó là lúc bộ nhớ đang thiếu. Tuy nhiên với cách tối ưu của iOS, hiện tượng này hiếm xảy ra ở các đời iPhone gần đây, kể cả bản có dung lượng RAM thấp hơn máy Android cùng phân khúc. Với máy tính thì câu chuyện lại khác, bạn có thể xem thêm [cách chọn RAM máy tính](/articles/cach-chon-ram-may-tinh-2026-tieu-chi.html) để hiểu rõ vai trò của bộ nhớ trên mỗi nền tảng.
 
 <figure>
   <img src="https://i.ytimg.com/vi/JGlwmrNxw-0/maxresdefault.jpg" alt="RAM nhiều có hiệu quả không, bao nhiêu RAM là đủ" loading="lazy" width="1280" height="720">

@@ -72,9 +72,9 @@ Tiếp theo, bấm *#06# để hiện số IMEI rồi đối chiếu với số 
 
 ## Kiểm tra pin, màn hình và linh kiện zin
 
-Vào Cài đặt, mục Pin, rồi Tình trạng pin và sạc để xem dung lượng pin tối đa. Với máy dùng hằng ngày, con số nên còn từ 80% trở lên; thấp hơn nhiều thì nên dùng để thương lượng giá hoặc tính thêm chi phí thay pin.
+Vào Cài đặt, mục Pin, rồi Tình trạng pin và sạc để xem dung lượng pin tối đa. Với máy dùng hằng ngày, con số nên còn từ 80% trở lên; thấp hơn nhiều thì nên dùng để thương lượng giá hoặc tính thêm chi phí thay pin. Bạn có thể xem chi tiết [cách kiểm tra độ chai pin điện thoại](/articles/cach-kiem-tra-do-chai-pin-dien-thoai-iphone-android-2026.html) để đánh giá tình trạng máy chính xác hơn.
 
-Với màn hình, mở một ảnh nền trắng và một ảnh nền đen toàn màn để soi điểm chết, đốm sáng hay vùng ám màu. Kiểm tra True Tone còn hoạt động trong Trung tâm điều khiển, vì True Tone thường mất khi màn bị thay bằng panel không chính hãng. Quan trọng không kém, vào Cài đặt chung, Giới thiệu, kéo xuống phần Bộ phận và lịch sử dịch vụ để xem máy có bị thay màn, pin hay camera bằng linh kiện ngoài hay không.
+Với màn hình, mở một ảnh nền trắng và một ảnh nền đen toàn màn để soi điểm chết, đốm sáng hay vùng ám màu. Kiểm tra True Tone còn hoạt động trong Trung tâm điều khiển, vì True Tone thường mất khi màn bị thay bằng panel không chính hãng. Quan trọng không kém, vào Cài đặt chung, Giới thiệu, kéo xuống phần Bộ phận và lịch sử dịch vụ để xem máy có bị thay màn, pin hay camera bằng linh kiện ngoài hay không. Sau khi mua được máy ưng ý, bạn cũng nên biết [cách giải phóng dung lượng iPhone khi đầy bộ nhớ](/articles/cach-giai-phong-dung-luong-iphone-day-bo-nho.html) để máy luôn chạy mượt.
 
 <figure>
   <img src="https://i.ytimg.com/vi/KB8ZNYg56-s/maxresdefault.jpg" alt="Test toàn bộ chức năng khi đi mua iPhone cũ" loading="lazy" width="1280" height="720">
