@@ -104,7 +104,7 @@ Về mạng, hãy cẩn trọng với Wi-Fi công cộng vì tiềm ẩn rủi r
 
 ## Hiểu quyền của mình theo luật mới
 
-Một điểm tích cực với người dùng Việt là Luật Bảo vệ dữ liệu cá nhân đã có hiệu lực từ ngày 1/1/2026, cùng nghị định hướng dẫn đi kèm. Luật trao cho người dùng các quyền cơ bản với dữ liệu của mình, gồm quyền được biết, quyền đồng ý, quyền truy cập, quyền chỉnh sửa và yêu cầu xóa dữ liệu. Đây là cơ sở pháp lý quan trọng giúp người dùng chủ động hơn trong việc kiểm soát thông tin cá nhân khi sử dụng các dịch vụ số.
+Một điểm tích cực với người dùng Việt là Luật Bảo vệ dữ liệu cá nhân đã có hiệu lực từ ngày 1/1/2026, cùng nghị định hướng dẫn đi kèm. Luật trao cho người dùng các quyền cơ bản với dữ liệu của mình, gồm quyền được biết, quyền đồng ý, quyền truy cập, quyền chỉnh sửa và yêu cầu xóa dữ liệu. Đây là cơ sở pháp lý quan trọng giúp người dùng chủ động hơn trong việc kiểm soát thông tin cá nhân khi sử dụng các dịch vụ số. Bên cạnh khung pháp lý, người dùng cũng nên tự trang bị kỹ năng như [nhận biết ảnh, video deepfake do AI giả mạo](/articles/cach-nhan-biet-anh-video-deepfake-ai-gia-mao-2026.html) để bảo vệ mình trên không gian số.
 
 Hiểu các quyền này giúp người dùng biết mình có thể yêu cầu gì từ các tổ chức nắm giữ dữ liệu của mình, chẳng hạn yêu cầu xóa thông tin khi không còn dùng dịch vụ. Tuy nhiên, luật chỉ phát huy hiệu quả khi người dùng chủ động thực hiện quyền và kết hợp với các thói quen tự bảo vệ. Sự kết hợp giữa hành lang pháp lý và ý thức cá nhân mới tạo nên lá chắn thực sự cho dữ liệu trong thời đại số.
 

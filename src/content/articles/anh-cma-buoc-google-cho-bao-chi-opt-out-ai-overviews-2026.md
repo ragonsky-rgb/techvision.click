@@ -110,7 +110,7 @@ Cách tiếp cận chủ động đó là điểm khác biệt so với mô hìn
 
 ## Báo chí có những lựa chọn thích nghi nào?
 
-Bên cạnh việc chờ cơ chế opt-out, nhiều tòa soạn đã chủ động điều chỉnh chiến lược nội dung từ trước. Một hướng là tập trung vào những thứ AI Overviews khó tóm tắt thay thế, như phóng sự điều tra, bình luận có quan điểm, dữ liệu độc quyền và nội dung gắn chặt với thương hiệu. Hướng khác là giảm phụ thuộc vào tìm kiếm bằng cách xây kênh trực tiếp với độc giả qua bản tin email, ứng dụng riêng và cộng đồng thành viên trả phí.
+Bên cạnh việc chờ cơ chế opt-out, nhiều tòa soạn đã chủ động điều chỉnh chiến lược nội dung từ trước. Một hướng là tập trung vào những thứ AI Overviews khó tóm tắt thay thế, như phóng sự điều tra, bình luận có quan điểm, dữ liệu độc quyền và nội dung gắn chặt với thương hiệu. Hướng khác là giảm phụ thuộc vào tìm kiếm bằng cách xây kênh trực tiếp với độc giả qua bản tin email, ứng dụng riêng và cộng đồng thành viên trả phí. Sức mạnh của AI Overviews đến từ các mô hình như [Gemini 3.5 Pro](/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html), khiến việc thích nghi của báo chí càng trở nên cấp thiết.
 
 Quyền từ chối mà CMA mang lại vì thế nên được nhìn như một công cụ trong bộ công cụ rộng hơn, chứ không phải lời giải duy nhất. Một tòa soạn có thể chọn cấm hoàn toàn, cho phép có điều kiện kèm yêu cầu dẫn nguồn, hoặc thử nghiệm từng phần để đo tác động tới lưu lượng trước khi quyết định. Chính khả năng lựa chọn này, vốn trước đây gần như không tồn tại, mới là thay đổi cốt lõi mà quy định tạo ra cho ngành nội dung.
 
