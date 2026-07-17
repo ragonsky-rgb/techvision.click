@@ -110,7 +110,7 @@ Nhược điểm thứ hai là nhấp nháy PWM. Để điều chỉnh độ sá
 
 ## Vậy nên chọn loại màn nào?
 
-Không có loại màn tốt nhất cho tất cả. Nếu ưu tiên chất lượng hiển thị, xem phim, chơi game và chấp nhận giá cao hơn, OLED hoặc AMOLED là lựa chọn rõ ràng, và LTPO trên flagship còn cộng thêm lợi thế pin. Nếu ngân sách hạn chế, cần độ bền, không lo burn-in hoặc nhạy cảm với nhấp nháy, một chiếc máy LCD chất lượng tốt vẫn phục vụ ổn nhu cầu hằng ngày.
+Không có loại màn tốt nhất cho tất cả. Nếu ưu tiên chất lượng hiển thị, xem phim, chơi game và chấp nhận giá cao hơn, OLED hoặc AMOLED là lựa chọn rõ ràng, và LTPO trên flagship còn cộng thêm lợi thế pin. Nếu ngân sách hạn chế, cần độ bền, không lo burn-in hoặc nhạy cảm với nhấp nháy, một chiếc máy LCD chất lượng tốt vẫn phục vụ ổn nhu cầu hằng ngày. Ngoài loại tấm nền, [tần số quét màn hình](/articles/tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong.html) cũng ảnh hưởng nhiều tới trải nghiệm, và nếu mua màn rời cho máy tính, bạn nên tham khảo [cách chọn màn hình máy tính](/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html).
 
 Khi xem thông số máy, đừng chỉ nhìn tên màn mà nên quan tâm thêm độ sáng tối đa, tần số quét và độ phân giải, vì chúng ảnh hưởng trực tiếp tới trải nghiệm. Kết hợp hiểu biết về màn hình với việc cân nhắc các yếu tố khác như chip và pin sẽ giúp chọn được chiếc máy đáng tiền nhất.
 

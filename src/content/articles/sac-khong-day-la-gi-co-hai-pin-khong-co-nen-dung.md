@@ -116,7 +116,7 @@ Trên quy mô một thiết bị, khoản chênh lệch điện này không đá
 
 ## Khi nào nên ưu tiên sạc không dây
 
-Sạc không dây phát huy giá trị nhất ở những vị trí cố định mà việc cắm rút dây gây phiền phức, chẳng hạn bàn làm việc, đầu giường hay bàn ăn. Đặt máy lên là sạc giúp thao tác nhanh gọn và bàn làm việc gọn gàng hơn, đồng thời giảm số lần cắm rút làm hao mòn cổng sạc theo thời gian. Với điện thoại có khả năng kháng nước, việc hạn chế mở cổng sạc cũng góp phần giữ gioăng chống nước bền hơn.
+Sạc không dây phát huy giá trị nhất ở những vị trí cố định mà việc cắm rút dây gây phiền phức, chẳng hạn bàn làm việc, đầu giường hay bàn ăn. Đặt máy lên là sạc giúp thao tác nhanh gọn và bàn làm việc gọn gàng hơn, đồng thời giảm số lần cắm rút làm hao mòn cổng sạc theo thời gian. Với điện thoại có khả năng kháng nước, việc hạn chế mở cổng sạc cũng góp phần giữ gioăng chống nước bền hơn. Trên thị trường có nhiều phụ kiện sạc không dây tiện lợi như [Mophie StealthCharge](/articles/mophie-stealthcharge-sac-khong-day-mat-lanh-2026.html), và nếu cần sạc di động, bạn có thể xem [cách chọn sạc dự phòng](/articles/cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan.html).
 
 Ngược lại, trong các tình huống cần nạp pin gấp hoặc khi đang di chuyển, sạc dây và sạc nhanh vẫn vượt trội. Người dùng cũng nên cân nhắc sạc dây khi muốn vừa sạc vừa dùng máy cho tác vụ nặng, vì sạc không dây sẽ sinh nhiệt nhiều và dễ bị ngắt khi nhấc máy lên. Nhìn tổng thể, sạc không dây không thay thế hoàn toàn sạc dây mà bổ sung cho nhau, và sự tiện lợi của nó đủ lớn để ngày càng nhiều mẫu điện thoại tầm trung được trang bị tính năng này.
 
