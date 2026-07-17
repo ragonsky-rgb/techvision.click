@@ -1,7 +1,7 @@
 ---
 slug: "minimax-m3-mo-hinh-ai-ma-nguon-mo-1-trieu-token-2026"
 title: "MiniMax M3: mô hình AI mã nguồn mở 1 triệu token"
-description: "MiniMax M3 là mô hình AI mã nguồn mở với cửa sổ ngữ cảnh 1 triệu token, đa phương thức và kiến trúc chú ý thưa, mạnh về lập trình và tác nhân, gây chú ý tại WAIC 2026."
+description: "MiniMax M3 là mô hình AI mã nguồn mở với ngữ cảnh 1 triệu token, đa phương thức, mạnh về lập trình và tác nhân, đang gây chú ý tại WAIC 2026."
 keywords: "MiniMax M3, mo hinh AI ma nguon mo, MiniMax M3 1 trieu token, MiniMax M3 multimodal, MiniMax M3 coding agentic"
 category: "AI"
 type: "tin-tuc"
