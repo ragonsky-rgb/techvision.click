@@ -101,3 +101,6 @@ Với các hộ gia đình sống tại khu vực có độ ẩm cao quanh năm 
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp từ Sunhouse, Điện Máy Xanh và các kênh đánh giá công nghệ uy tín. Giá bán và thông số có thể thay đổi theo từng thời điểm và khu vực phân phối.
 </div>
+
+
+Để có cái nhìn tổng quan hơn cho cả nửa năm, bạn có thể xem thêm bài [Top quạt điều hòa và máy lọc không khí tốt nhất 2026](/articles/top-quat-dieu-hoa-may-loc-khong-khi-tot-nhat-nua-dau-2026-theo-nhu-cau.html).

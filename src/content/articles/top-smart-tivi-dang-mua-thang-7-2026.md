@@ -96,3 +96,6 @@ Trước khi quyết định xuống tiền, người dùng nên xác định r�
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp từ TCL, Samsung, Sony và các kênh đánh giá công nghệ uy tín. Giá bán và thông số kỹ thuật có thể thay đổi theo từng thời điểm và khu vực phân phối cụ thể.
 </div>
+
+
+Để có cái nhìn tổng quan hơn cho cả nửa năm, bạn có thể xem thêm bài [Top smart tivi tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-smart-tivi-tot-nhat-nua-dau-2026-theo-nhu-cau.html).

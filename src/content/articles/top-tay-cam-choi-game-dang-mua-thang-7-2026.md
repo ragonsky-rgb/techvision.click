@@ -103,3 +103,6 @@ Một yếu tố khác cũng đáng cân nhắc là thời gian bảo hành và 
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp từ RTINGS và các kênh đánh giá công nghệ. Giá bán và thông số có thể thay đổi theo từng thời điểm và khu vực phân phối.
 </div>
+
+
+Để có cái nhìn tổng quan hơn cho cả nửa năm, bạn có thể xem thêm bài [Top tay cầm chơi game tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-tay-cam-choi-game-tot-nhat-nua-dau-2026-theo-nhu-cau.html).

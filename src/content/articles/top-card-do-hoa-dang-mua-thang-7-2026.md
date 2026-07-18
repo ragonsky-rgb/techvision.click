@@ -105,3 +105,6 @@ Cuối cùng, với người dùng chưa thực sự cấp bách cần nâng c�
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp từ NVIDIA và các kênh đánh giá công nghệ. Giá bán và thông số có thể thay đổi theo từng thời điểm và khu vực phân phối.
 </div>
+
+
+Để có cái nhìn tổng quan hơn cho cả nửa năm, bạn có thể xem thêm bài [Top card đồ họa tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-card-do-hoa-tot-nhat-nua-dau-2026-theo-nhu-cau.html).
