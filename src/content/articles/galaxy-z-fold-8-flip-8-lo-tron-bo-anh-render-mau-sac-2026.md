@@ -1,41 +1,41 @@
 ---
 slug: "galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026"
 title: "Galaxy Z Fold 8, Flip 8 lộ trọn bộ ảnh render trước ra mắt"
-description: "Loạt ảnh render chính thức của Galaxy Z Fold 8 và Z Flip 8 rò rỉ, hé lộ toàn bộ màu sắc và thiết kế cuối cùng chỉ vài ngày trước sự kiện Unpacked 22/7."
-keywords: "Galaxy Z Fold 8 render, Galaxy Z Flip 8 mau sac, Z Fold 8 ro ri, Samsung Unpacked 22-7, Z Fold 8 Flip 8 anh render"
+description: "Trọn bộ ảnh render Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 rò rỉ: hé lộ màu sắc, camera 200MP trên bản Ultra, thiết kế cuối cùng trước Unpacked 22/7."
+keywords: "Galaxy Z Fold 8 render, Galaxy Z Flip 8 mau sac, Z Fold 8 Ultra 200MP, Samsung Unpacked 22-7, Z Fold 8 Flip 8 anh render"
 category: "Công nghệ"
 type: "tin-tuc"
-datePublished: "2026-07-17T20:00:00+07:00"
-dateModified: "2026-07-17T20:00:00+07:00"
-deck: "Chỉ còn vài ngày nữa là tới sự kiện Galaxy Unpacked, và Samsung gần như không còn gì để giữ bí mật. Một loạt ảnh render trông rất giống ảnh báo chí chính thức của Galaxy Z Fold 8 và Z Flip 8 vừa rò rỉ, hé lộ trọn vẹn thiết kế cùng toàn bộ các tùy chọn màu sắc của hai mẫu điện thoại gập được mong chờ nhất năm. Theo các nguồn rò rỉ, Galaxy Z Fold 8 bản Wide xuất hiện với ba màu Kem, Than chì và Oải hương, trong khi Z Flip 8 khoe ba màu Kem, Than chì và Hồng, cùng các phiên bản màu độc quyền bán trên trang Samsung. Bên cạnh màu sắc, các ảnh render còn xác nhận nhiều chi tiết thiết kế và thông số quan trọng, cho thấy Samsung đã hoàn thiện sản phẩm và sẵn sàng cho màn trình làng chính thức tại London vào ngày 22/7. Đây là những hình ảnh rõ nét nhất về bộ đôi này trước giờ G."
-heroImage: "https://i.ytimg.com/vi/yW5KSTc2MHo/hqdefault.jpg"
-heroAlt: "Loạt ảnh render chính thức của Galaxy Z Fold 8 và Z Flip 8 rò rỉ trước sự kiện Unpacked 22/7"
-heroCaption: "Ảnh render Galaxy Z Fold 8 rò rỉ, hé lộ thiết kế và màu sắc cuối cùng. Nguồn: YouTube"
-tldr: "Một loạt ảnh render giống ảnh báo chí chính thức của <strong>Galaxy Z Fold 8</strong> và <strong>Z Flip 8</strong> vừa rò rỉ, hé lộ trọn bộ thiết kế và màu sắc trước sự kiện <strong>Unpacked 22/7</strong> tại London. Z Fold 8 bản Wide xuất hiện với màu <strong>Kem, Than chì, Oải hương</strong> (thêm Pistachio độc quyền Samsung), còn Z Flip 8 có màu <strong>Kem, Than chì, Hồng</strong> (thêm Bạc hà độc quyền). Theo rò rỉ, Z Fold 8 có thiết kế ngắn và rộng hơn, camera chính 50MP cùng camera góc siêu rộng 50MP. Z Flip 8 dùng camera chính 50MP, góc siêu rộng 12MP và camera trước 10MP. Ngoài ra còn có bản <strong>Z Fold 8 Ultra</strong> cao cấp hơn. Lưu ý đây là thông tin rò rỉ, chưa được Samsung xác nhận chính thức."
+datePublished: "2026-07-18T10:30:00+07:00"
+dateModified: "2026-07-18T10:30:00+07:00"
+deck: "Chỉ còn vài ngày nữa là tới sự kiện Galaxy Unpacked, và Samsung gần như không còn gì để giữ bí mật. Một loạt ảnh render trông rất giống ảnh báo chí chính thức của Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 vừa rò rỉ, hé lộ trọn vẹn thiết kế, màu sắc cùng thông số camera của cả ba mẫu. Đáng chú ý nhất, bản Z Fold 8 Ultra lộ cụm ba camera với cảm biến chính lên tới 200MP và ống kính tele zoom quang 3x, trong khi bản Z Fold 8 tiêu chuẩn dùng bộ đôi 50MP. Bên cạnh phần cứng, các ảnh concept về giao diện One UI mới với ngôn ngữ thiết kế Fluid AI cũng xuất hiện, và ngôi sao BTS J-Hope thậm chí bị bắt gặp cầm trên tay một chiếc Z Fold 8 màu tím. Đây là những hình ảnh rõ nét nhất về bộ đôi gập mới của Samsung trước giờ G ngày 22/7 tại London."
+heroImage: "https://techvision.click/images/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026/z-fold-8-ba-che-do.jpg"
+heroAlt: "Ảnh render Galaxy Z Fold 8 ở ba chế độ gập mở rò rỉ trước sự kiện Unpacked 22/7"
+heroCaption: "Ảnh render Galaxy Z Fold 8 hé lộ thiết kế và các chế độ sử dụng, trước Unpacked 22/7. Nguồn: Samsung leak"
+tldr: "Loạt ảnh render giống ảnh báo chí chính thức của <strong>Galaxy Z Fold 8</strong>, <strong>Z Fold 8 Ultra</strong> và <strong>Z Flip 8</strong> vừa rò rỉ, hé lộ trọn bộ thiết kế, màu sắc và camera trước <strong>Unpacked 22/7</strong> tại London. Bản <strong>Z Fold 8 Ultra</strong> có cụm 3 camera: chính <strong>200MP</strong>, siêu rộng 50MP và tele 10MP zoom quang 3x. Bản <strong>Z Fold 8</strong> tiêu chuẩn dùng camera chính 50MP và siêu rộng 50MP. <strong>Z Flip 8</strong> có camera chính 50MP và siêu rộng 12MP. Cả hai màn hình của Fold đều có camera trước 10MP. Ngoài ra còn xuất hiện concept giao diện One UI mới theo ngôn ngữ Fluid AI, và ảnh J-Hope của BTS cầm Z Fold 8 màu tím. Lưu ý đây là thông tin rò rỉ, chưa được Samsung xác nhận."
 tags: ["Samsung", "GalaxyZFold8", "GalaxyZFlip8", "RoRi"]
 about: ["Galaxy Z Fold 8", "Galaxy Z Flip 8", "Samsung", "Galaxy Unpacked"]
 authorBio: "Founder LongTechVision. Theo dõi các diễn biến lớn của ngành công nghệ và thị trường thiết bị tại Việt Nam."
 sourceUrl: "https://9to5google.com/2026/07/17/galaxy-z-fold-8-flip-images-leak-before-launch/"
-sourceName: "Galaxy Z Fold 8, Flip 8 render leak - 9to5Google, Android Authority"
-sourceDomains: "9to5google.com · androidauthority.com · sammobile.com"
+sourceName: "Galaxy Z Fold 8, Flip 8 render leak - 9to5Google, Android Headlines"
+sourceDomains: "9to5google.com · androidheadlines.com · sammobile.com"
 stats:
   - { num: "22/7", label: "Ngày Samsung ra mắt Galaxy Z Fold 8, Flip 8 tại London" }
-  - { num: "3+1 màu", label: "Số tùy chọn màu của mỗi máy, gồm màu độc quyền Samsung" }
-  - { num: "50MP", label: "Độ phân giải camera chính trên cả Z Fold 8 và Z Flip 8" }
-  - { num: "Wide + Ultra", label: "Hai phiên bản Z Fold 8 theo các nguồn rò rỉ" }
+  - { num: "200MP", label: "Camera chính trên bản Galaxy Z Fold 8 Ultra theo ảnh rò rỉ" }
+  - { num: "3 camera", label: "Cụm camera sau của Z Fold 8 Ultra, gồm cả tele 3x" }
+  - { num: "50MP", label: "Camera chính của Z Fold 8 tiêu chuẩn và Z Flip 8" }
 faq:
   - q: "Ảnh render Galaxy Z Fold 8 và Flip 8 rò rỉ cho thấy gì?"
-    a: "Loạt ảnh render trông giống ảnh báo chí chính thức đã hé lộ trọn vẹn thiết kế và toàn bộ tùy chọn màu sắc của Galaxy Z Fold 8 và Z Flip 8. Ngoài màu sắc, các ảnh còn xác nhận nhiều chi tiết thiết kế như cụm camera và tỷ lệ máy, chỉ vài ngày trước sự kiện ra mắt chính thức."
-  - q: "Galaxy Z Fold 8 có những màu nào?"
-    a: "Theo rò rỉ, Galaxy Z Fold 8 bản Wide xuất hiện với ba màu chính là Kem, Than chì và Oải hương. Ngoài ra, một màu Pistachio được cho là sẽ có dưới dạng phiên bản độc quyền bán trên trang Samsung. Đây đều là thông tin rò rỉ, cần chờ Samsung xác nhận."
-  - q: "Galaxy Z Flip 8 có những màu nào?"
-    a: "Galaxy Z Flip 8 được cho là có ba màu chính gồm Kem, Than chì và Hồng. Bên cạnh đó, màu Bạc hà nhiều khả năng trở lại dưới dạng phiên bản độc quyền trên trang Samsung, tương tự cách hãng thường phân phối các màu đặc biệt ở những thế hệ trước."
-  - q: "Thông số camera của bộ đôi này ra sao?"
-    a: "Theo rò rỉ, Galaxy Z Fold 8 có camera chính 50MP và camera góc siêu rộng 50MP ở mặt sau, cùng hai camera trước 10MP. Galaxy Z Flip 8 được cho là dùng camera chính 50MP, camera góc siêu rộng 12MP và camera trước 10MP. Các con số này chưa được Samsung công bố chính thức."
-  - q: "Galaxy Z Fold 8 Ultra có gì khác?"
-    a: "Ngoài bản Wide tiêu chuẩn, các nguồn rò rỉ còn nhắc tới một phiên bản Galaxy Z Fold 8 Ultra cao cấp hơn, với màn hình lớn hơn và cấu hình mạnh hơn. Đây được xem là biến thể cao cấp nhất trong dòng gập của Samsung năm nay, dù chi tiết cụ thể vẫn cần chờ xác nhận."
+    a: "Loạt ảnh render trông giống ảnh báo chí chính thức đã hé lộ trọn vẹn thiết kế, màu sắc và thông số camera của Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8. Các ảnh xác nhận nhiều chi tiết như cụm camera, tỷ lệ máy và giao diện, chỉ vài ngày trước sự kiện ra mắt chính thức."
+  - q: "Galaxy Z Fold 8 Ultra có camera gì?"
+    a: "Theo ảnh rò rỉ, Galaxy Z Fold 8 Ultra có cụm ba camera sau gồm camera chính 200MP với zoom chất lượng quang 2x, camera góc siêu rộng 50MP và camera tele 10MP zoom quang 3x. Cả màn hình ngoài và màn hình gập bên trong đều có camera trước 10MP."
+  - q: "Galaxy Z Fold 8 tiêu chuẩn khác bản Ultra thế nào?"
+    a: "Bản Z Fold 8 tiêu chuẩn, hay bản Wide, dùng cụm hai camera sau gồm camera chính 50MP với zoom chất lượng quang 2x nhờ cảm biến Adaptive Pixel, và camera góc siêu rộng 50MP. So với bản Ultra ba camera 200MP, bản tiêu chuẩn gọn nhẹ và có mức giá dễ tiếp cận hơn."
+  - q: "Galaxy Z Flip 8 có những màu và camera nào?"
+    a: "Galaxy Z Flip 8 xuất hiện với các màu tươi trẻ như hồng, kem và than chì. Về camera, máy dùng camera chính 50MP với zoom chất lượng quang 2x và camera góc siêu rộng 12MP ở mặt sau, cùng camera 10MP cho màn hình chính bên trong."
+  - q: "Giao diện One UI mới có gì đáng chú ý?"
+    a: "Một số ảnh concept cho thấy Samsung đang thử nghiệm ngôn ngữ thiết kế mới mang tên Fluid AI, với giao diện dạng kính trong suốt và trợ lý Bixby chủ động gợi ý hành động. Đây mới là các ý tưởng và concept rò rỉ, chưa phải giao diện chính thức, nên cần chờ Samsung công bố."
   - q: "Khi nào Samsung ra mắt chính thức?"
-    a: "Samsung dự kiến trình làng Galaxy Z Fold 8 và Z Flip 8 tại sự kiện Galaxy Unpacked diễn ra ở London vào ngày 22/7. Toàn bộ thông tin và hình ảnh hiện tại đều ở dạng rò rỉ, và chỉ được xác nhận chính thức khi sự kiện diễn ra."
+    a: "Samsung dự kiến trình làng Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 tại sự kiện Galaxy Unpacked diễn ra ở London vào ngày 22/7. Toàn bộ thông tin và hình ảnh hiện tại đều ở dạng rò rỉ, và chỉ được xác nhận chính thức khi sự kiện diễn ra."
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Công nghệ", title: "Samsung Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
   - { href: "/articles/samsung-galaxy-z-fold-8-ultra-camera-200mp-unpacked-22-7-2026.html", cat: "Công nghệ", title: "Galaxy Z Fold 8 Ultra: camera 200MP, Unpacked 22/7" }
@@ -43,75 +43,76 @@ related:
 featured: false
 ---
 
-Chỉ còn vài ngày nữa là tới sự kiện Galaxy Unpacked, và dường như Samsung không còn gì để giữ bí mật. Một loạt ảnh render trông rất giống ảnh báo chí chính thức của Galaxy Z Fold 8 và Z Flip 8 vừa rò rỉ trên mạng, hé lộ trọn vẹn thiết kế cùng toàn bộ các tùy chọn màu sắc của hai mẫu điện thoại gập được mong chờ nhất năm. Đây là những hình ảnh rõ nét nhất về bộ đôi này trước giờ G.
+Chỉ còn vài ngày nữa là tới sự kiện Galaxy Unpacked, và dường như Samsung không còn gì để giữ bí mật. Một loạt ảnh render trông rất giống ảnh báo chí chính thức của Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 vừa rò rỉ trên mạng, hé lộ trọn vẹn thiết kế, màu sắc cùng thông số camera của cả ba mẫu. Đây là những hình ảnh rõ nét nhất về bộ đôi gập mới của Samsung trước giờ G.
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Galaxy Z Fold 8 và Z Flip 8 · Thông tin rò rỉ</div>
+  <div class="spec-box-title">📋 Galaxy Z Fold 8, Ultra và Z Flip 8 · Thông tin rò rỉ</div>
   <table>
     <tr><td>Ngày ra mắt</td><td>22/7 tại London</td></tr>
-    <tr><td>Màu Z Fold 8 Wide</td><td>Kem, Than chì, Oải hương, Pistachio</td></tr>
-    <tr><td>Màu Z Flip 8</td><td>Kem, Than chì, Hồng, Bạc hà</td></tr>
-    <tr><td>Camera Z Fold 8</td><td>Chính 50MP, góc siêu rộng 50MP</td></tr>
-    <tr><td>Camera Z Flip 8</td><td>Chính 50MP, siêu rộng 12MP</td></tr>
-    <tr><td>Phiên bản</td><td>Z Fold 8 Wide và Z Fold 8 Ultra</td></tr>
+    <tr><td>Camera Z Fold 8 Ultra</td><td>200MP chính, 50MP siêu rộng, 10MP tele 3x</td></tr>
+    <tr><td>Camera Z Fold 8</td><td>50MP chính, 50MP siêu rộng</td></tr>
+    <tr><td>Camera Z Flip 8</td><td>50MP chính, 12MP siêu rộng</td></tr>
+    <tr><td>Camera trước</td><td>10MP cho cả màn ngoài và màn gập</td></tr>
+    <tr><td>Màu sắc</td><td>Tím, oải hương, hồng, kem, than chì</td></tr>
   </table>
 </div>
 
-## Trọn bộ màu sắc Galaxy Z Fold 8 lộ diện
+## Trọn bộ màu sắc và thiết kế lộ diện
 
-Ngôi sao của đợt rò rỉ lần này chính là màu sắc. Theo các ảnh render, Galaxy Z Fold 8 bản Wide sẽ có ba tùy chọn màu chính gồm Kem, Than chì và Oải hương. Đây là những gam màu khá trung tính và thanh lịch, phù hợp với định vị cao cấp của dòng máy gập. Ngoài ba màu này, một phiên bản màu Pistachio nhiều khả năng sẽ được bán độc quyền trên trang web của Samsung, theo đúng chiến lược quen thuộc mà hãng áp dụng nhiều năm qua.
+Ngôi sao của đợt rò rỉ lần này là hình ảnh sản phẩm cực kỳ rõ nét. Theo các ảnh render, dòng Galaxy Z Fold 8 xuất hiện với các gam màu trung tính và thanh lịch như tím, oải hương, trong khi Z Flip 8 khoe màu hồng tươi trẻ hơn, phù hợp với nhóm khách hàng mà dòng Flip nhắm tới. Ngoài các màu chính, Samsung nhiều khả năng vẫn có thêm những phiên bản màu độc quyền bán trên trang web chính hãng, theo đúng chiến lược quen thuộc nhiều năm qua.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Ahfr4jthFM8/hqdefault.jpg" alt="Ảnh render Galaxy Z Fold 8 rò rỉ với các màu Kem, Than chì và Oải hương" loading="lazy" width="1280" height="720">
-  <figcaption>Galaxy Z Fold 8 bản Wide lộ ba màu Kem, Than chì và Oải hương qua ảnh render. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026/galaxy-z-fold-8-flip-8-mau-sac.jpg" alt="Ảnh render Galaxy Z Fold 8 màu tím, oải hương và Z Flip 8 màu hồng rò rỉ" loading="lazy">
+  <figcaption>Bộ đôi Galaxy Z Fold 8 và Z Flip 8 lộ trọn bộ màu sắc qua ảnh render. Nguồn: Samsung leak</figcaption>
 </figure>
 
-Điều thú vị là các ảnh render cũng xác nhận một thay đổi lớn về thiết kế. Galaxy Z Fold 8 bản Wide được cho là có hình dáng ngắn và rộng hơn so với thế hệ trước, mang lại tỷ lệ mặt trước dễ dùng hơn khi gập lại. Đây là một trong những thay đổi đáng chú ý nhất, bởi tỷ lệ thân máy ảnh hưởng trực tiếp tới trải nghiệm cầm nắm và sử dụng màn hình ngoài. Sự thay đổi này cho thấy Samsung đang lắng nghe phản hồi của người dùng về công thái học của dòng gập dọc.
+Các ảnh render cũng xác nhận ngôn ngữ thiết kế quen thuộc của dòng gập Samsung, với bản lề chắc chắn và thân máy mỏng khi mở ra. Điều đáng chú ý là năm nay Samsung được cho là tách dòng Fold thành hai phiên bản, gồm bản tiêu chuẩn và bản Ultra cao cấp hơn. Sự phân hóa này giúp hãng phủ nhiều phân khúc giá và nhu cầu khác nhau, tương tự cách Samsung đã làm rất thành công với dòng Galaxy S series.
+
+## Z Fold 8 Ultra: cụm ba camera với cảm biến 200MP
+
+Đây chính là điểm nhấn lớn nhất của đợt rò rỉ. Bản Galaxy Z Fold 8 Ultra được hé lộ với cụm ba camera sau ấn tượng, đặt trong khối camera hình viên thuốc quen thuộc. Camera chính có độ phân giải lên tới 200MP, đi kèm khả năng zoom chất lượng quang 2x, camera góc siêu rộng 50MP và đặc biệt là một camera tele 10MP hỗ trợ zoom quang 3x.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xojFOVl_btI/hqdefault.jpg" alt="Toàn bộ màu sắc Galaxy Z Fold 8 bản Wide được hé lộ qua ảnh render rò rỉ" loading="lazy" width="1280" height="720">
-  <figcaption>Thiết kế ngắn và rộng hơn của Z Fold 8 Wide hiện rõ trong các ảnh render. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026/z-fold-8-ultra-camera-200mp.jpg" alt="Ảnh render Galaxy Z Fold 8 Ultra với cụm ba camera, chính 200MP và tele zoom quang 3x" loading="lazy">
+  <figcaption>Galaxy Z Fold 8 Ultra lộ cụm ba camera với cảm biến chính 200MP. Nguồn: Samsung leak</figcaption>
 </figure>
 
-Về camera, theo rò rỉ, Galaxy Z Fold 8 sẽ được trang bị camera chính độ phân giải 50MP đi kèm chống rung quang học, cùng một camera góc siêu rộng cũng có độ phân giải 50MP. Ở mặt trước, máy có hai camera 10MP cho cả màn hình ngoài và màn hình gập bên trong. Đây là một nâng cấp đáng kể về camera góc siêu rộng, vốn là điểm thường bị cắt giảm trên các dòng điện thoại gập trước đây để tối ưu chi phí và không gian.
+Sự xuất hiện của camera tele với zoom quang 3x là một nâng cấp rất đáng giá, bởi các dòng điện thoại gập trước đây của Samsung thường bị cắt giảm khả năng zoom để tối ưu không gian và độ mỏng. Với cảm biến chính 200MP, Z Fold 8 Ultra hứa hẹn khả năng chụp ảnh ngang tầm các flagship dạng thanh, xóa nhòa khoảng cách giữa điện thoại gập và điện thoại truyền thống về mặt nhiếp ảnh. Đây rõ ràng là mẫu máy hướng tới người dùng cao cấp nhất, sẵn sàng chi trả cho trải nghiệm tốt nhất, như những gì được đề cập trong thông tin về [Galaxy Z Fold 8 Ultra với camera 200MP](/articles/samsung-galaxy-z-fold-8-ultra-camera-200mp-unpacked-22-7-2026.html).
 
-## Galaxy Z Flip 8 và các màu nổi bật
+## Bản Fold tiêu chuẩn và Z Flip 8
 
-Không kém phần thu hút, Galaxy Z Flip 8 cũng lộ trọn bộ màu sắc qua các ảnh render. Mẫu gập vỏ sò này được cho là sẽ có ba màu chính gồm Kem, Than chì và Hồng. So với Z Fold 8, bảng màu của Z Flip 8 có phần trẻ trung và cá tính hơn, phù hợp với nhóm khách hàng mà dòng Flip nhắm tới. Tương tự đàn anh, một màu Bạc hà nhiều khả năng sẽ trở lại dưới dạng phiên bản độc quyền trên trang Samsung.
+Bên cạnh bản Ultra, Galaxy Z Fold 8 tiêu chuẩn cũng lộ diện với cấu hình camera gọn gàng hơn. Theo ảnh render, máy dùng cụm hai camera sau gồm camera chính 50MP với zoom chất lượng quang 2x nhờ cảm biến Adaptive Pixel, và camera góc siêu rộng 50MP. Đây là bộ đôi cân bằng, đủ dùng cho phần lớn nhu cầu chụp ảnh hằng ngày, với mức giá dễ tiếp cận hơn so với bản Ultra ba camera.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WfkFASaLhP8/hqdefault.jpg" alt="Ảnh render Galaxy Z Flip 8 rò rỉ với các màu Kem, Than chì và Hồng" loading="lazy" width="1280" height="720">
-  <figcaption>Galaxy Z Flip 8 khoe bảng màu trẻ trung gồm Kem, Than chì và Hồng. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026/z-fold-8-wide-camera-50mp.jpg" alt="Ảnh render Galaxy Z Fold 8 bản tiêu chuẩn màu oải hương với cụm hai camera 50MP" loading="lazy">
+  <figcaption>Galaxy Z Fold 8 bản tiêu chuẩn dùng cụm hai camera 50MP. Nguồn: Samsung leak</figcaption>
 </figure>
 
-Về thiết kế, các ảnh render cho thấy Galaxy Z Flip 8 trông rất giống với thế hệ Z Flip 7 trước đó. Điều này không quá bất ngờ, bởi Samsung thường giữ ngôn ngữ thiết kế ổn định qua các đời và chỉ tinh chỉnh những chi tiết nhỏ. Về camera, Z Flip 8 được cho là dùng camera chính 50MP, camera góc siêu rộng 12MP và camera trước 10MP. Bộ camera này giữ nguyên hướng tiếp cận cân bằng, đủ dùng cho nhu cầu chụp ảnh hằng ngày và selfie vốn là thế mạnh của dòng Flip.
-
-<div class="art-video-label">VIDEO · So sánh thiết kế và điểm khác biệt giữa Galaxy Z Fold 8 và Z Flip 8 qua các ảnh render rò rỉ</div>
-<div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/97HHMxlC7Ps" title="Galaxy Z Fold 8 vs Z Flip 8 renders" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
-<p class="art-video-caption">Z Fold 8 và Z Flip 8 hướng tới hai nhóm người dùng khác nhau. Nguồn: YouTube</p>
-
-Sự khác biệt trong định hướng của hai dòng máy khá rõ ràng. Trong khi Z Fold 8 nhắm tới người dùng cần một chiếc máy tính bảng thu nhỏ với màn hình lớn cho công việc và giải trí, thì Z Flip 8 lại hướng tới sự nhỏ gọn, thời trang và cá tính. Việc cả hai cùng được làm mới về màu sắc và tinh chỉnh thiết kế cho thấy Samsung muốn củng cố vị thế dẫn đầu của mình trong thị trường điện thoại gập vốn ngày càng đông đúc.
-
-## Phiên bản Ultra và các chi tiết còn lại
-
-Một điểm đáng chú ý khác từ các đợt rò rỉ là sự tồn tại của phiên bản Galaxy Z Fold 8 Ultra, biến thể cao cấp hơn bên cạnh bản Wide tiêu chuẩn. Theo các nguồn tin, bản Ultra sẽ có màn hình lớn hơn và cấu hình mạnh hơn, hướng tới nhóm người dùng cao cấp nhất sẵn sàng chi trả cho trải nghiệm tốt nhất mà dòng gập của Samsung mang lại.
+Về phía Galaxy Z Flip 8, mẫu gập vỏ sò này cũng khoe trọn bộ thông số camera. Máy được trang bị camera chính 50MP với zoom chất lượng quang 2x và camera góc siêu rộng 12MP ở mặt sau, cùng camera 10MP cho màn hình chính bên trong. Đây là bộ camera giữ hướng tiếp cận cân bằng, đủ dùng cho nhu cầu chụp ảnh và selfie vốn là thế mạnh của dòng Flip, đặc biệt với khả năng dùng màn hình ngoài để xem trước khi chụp bằng camera sau chất lượng cao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/r0RewlJkK6Y/hqdefault.jpg" alt="Video trên tay Galaxy Z Fold 8 Ultra rò rỉ hé lộ phiên bản gập cao cấp của Samsung" loading="lazy" width="1280" height="720">
-  <figcaption>Galaxy Z Fold 8 Ultra là biến thể cao cấp bên cạnh bản Wide tiêu chuẩn. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026/z-flip-8-camera-50mp.jpg" alt="Ảnh render Galaxy Z Flip 8 màu hồng với camera chính 50MP và siêu rộng 12MP" loading="lazy">
+  <figcaption>Galaxy Z Flip 8 màu hồng với camera chính 50MP và siêu rộng 12MP. Nguồn: Samsung leak</figcaption>
 </figure>
 
-Việc có tới nhiều phiên bản trong cùng một dòng cho thấy chiến lược đa dạng hóa của Samsung, nhằm phủ nhiều phân khúc giá và nhu cầu khác nhau. Cách làm này giúp hãng tối đa hóa doanh số, nhưng cũng khiến người dùng phải cân nhắc kỹ hơn khi lựa chọn. Với những ai đang phân vân giữa các dòng máy gập, việc nắm rõ [các tiêu chí chọn điện thoại gập](/articles/cach-chon-dien-thoai-gap-foldable-2026-tieu-chi.html) sẽ rất hữu ích trước khi xuống tiền.
+## One UI mới và màn xuất hiện của J-Hope
+
+Không chỉ phần cứng, các ảnh concept về phần mềm cũng rò rỉ. Một số hình ảnh cho thấy Samsung đang thử nghiệm ngôn ngữ thiết kế mới mang tên Fluid AI, với giao diện dạng kính trong suốt bắt mắt và trợ lý Bixby chủ động gợi ý hành động, chẳng hạn nhắc lịch sinh nhật và đề xuất lên kế hoạch bất ngờ. Cần lưu ý đây mới là các ý tưởng concept, chưa phải giao diện chính thức, và độ tin cậy thấp hơn các ảnh render phần cứng. Những ai quan tâm có thể tìm hiểu thêm về [ngôn ngữ thiết kế Fluid AI của Samsung](/articles/samsung-fluid-ai-design-system-tuong-lai-one-ui-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jiYwiT_vhFk/hqdefault.jpg" alt="Ảnh render Galaxy Z Fold 8 bản Wide rò rỉ đầy đủ trước sự kiện Unpacked" loading="lazy" width="1280" height="720">
-  <figcaption>Các ảnh render cho thấy Samsung đã hoàn thiện sản phẩm trước ngày ra mắt. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026/z-fold-8-one-ui.jpg" alt="Ảnh render Galaxy Z Fold 8 mở ra hiển thị giao diện One UI với đa nhiệm chia đôi màn hình" loading="lazy">
+  <figcaption>Z Fold 8 mở ra khoe giao diện One UI với khả năng đa nhiệm mượt mà. Nguồn: Samsung leak</figcaption>
+</figure>
+
+Đợt rò rỉ còn thêm phần thú vị khi ngôi sao J-Hope của nhóm nhạc BTS bị bắt gặp cầm trên tay một chiếc Galaxy Z Fold 8 màu tím trong một story đăng trên mạng xã hội. Việc các nghệ sĩ nổi tiếng sử dụng sản phẩm trước ngày ra mắt vừa là chỉ dấu cho thấy máy đã sẵn sàng, vừa là một hình thức quảng bá tự nhiên đầy hiệu quả, tạo thêm sức nóng cho sự kiện Unpacked sắp tới.
+
+<figure>
+  <img decoding="async" src="https://techvision.click/images/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026/jhope-bts-galaxy-z-fold-8.jpg" alt="Ngôi sao J-Hope của BTS cầm chiếc Galaxy Z Fold 8 màu tím trong story mạng xã hội" loading="lazy">
+  <figcaption>J-Hope của BTS bị bắt gặp cầm Galaxy Z Fold 8 màu tím. Nguồn: uarmyhope Instagram</figcaption>
 </figure>
 
 Toàn bộ thông tin và hình ảnh hiện tại đều đến từ các nguồn rò rỉ, và chỉ được xác nhận chính thức khi Samsung tổ chức sự kiện Galaxy Unpacked tại London vào ngày 22/7. Dù vậy, việc các ảnh render trông rất giống ảnh báo chí chính thức, cùng mức độ chi tiết cao, khiến độ tin cậy của đợt rò rỉ này được đánh giá khá cao. Người dùng Việt Nam quan tâm có thể theo dõi thêm về [sự kiện Unpacked 22/7 và toàn bộ dàn sản phẩm](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html), cũng như [thông tin giá đặt trước tại Việt Nam](/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html).
 
-<div class="art-callout">✅ <strong>Lưu ý:</strong> Đây là thông tin rò rỉ dựa trên các ảnh render và nguồn tin từ 9to5Google, Android Authority, SamMobile cùng nhiều nguồn khác, chưa được Samsung xác nhận chính thức. Màu sắc, thông số và tên gọi có thể thay đổi so với sản phẩm cuối cùng. Vui lòng chờ sự kiện Galaxy Unpacked ngày 22/7 để có thông tin chính xác.</div>
+<div class="art-callout">✅ <strong>Lưu ý:</strong> Đây là thông tin rò rỉ dựa trên các ảnh render và nguồn tin từ 9to5Google, Android Headlines, SamMobile cùng nhiều nguồn khác, chưa được Samsung xác nhận chính thức. Màu sắc, thông số và tên gọi có thể thay đổi so với sản phẩm cuối cùng. Vui lòng chờ sự kiện Galaxy Unpacked ngày 22/7 để có thông tin chính xác.</div>
 
-Tựu trung, đợt rò rỉ ảnh render lần này gần như đã vén màn toàn bộ Galaxy Z Fold 8 và Z Flip 8 trước ngày ra mắt. Từ bảng màu phong phú, thiết kế được tinh chỉnh cho tới các nâng cấp camera, mọi thứ đều cho thấy Samsung đang chuẩn bị kỹ lưỡng cho một thế hệ điện thoại gập mới. Dù vẫn cần chờ xác nhận chính thức, bộ đôi này hứa hẹn tiếp tục là tâm điểm của thị trường điện thoại gập năm 2026, và sự kiện Unpacked ngày 22/7 chắc chắn sẽ là thời điểm được rất nhiều người mong đợi.
+Tựu trung, đợt rò rỉ ảnh render lần này gần như đã vén màn toàn bộ dòng Galaxy Z Fold 8 và Z Flip 8 trước ngày ra mắt. Từ bảng màu phong phú, thiết kế được tinh chỉnh, cho tới bước nhảy lớn về camera với cảm biến 200MP và ống kính tele trên bản Ultra, mọi thứ đều cho thấy Samsung đang chuẩn bị rất kỹ lưỡng cho một thế hệ điện thoại gập mới. Dù vẫn cần chờ xác nhận chính thức, bộ đôi này hứa hẹn tiếp tục là tâm điểm của thị trường điện thoại gập năm 2026, và sự kiện Unpacked ngày 22/7 chắc chắn sẽ là thời điểm được rất nhiều người mong đợi.
