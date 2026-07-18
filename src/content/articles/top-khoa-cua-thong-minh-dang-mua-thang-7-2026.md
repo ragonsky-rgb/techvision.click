@@ -63,7 +63,7 @@ Eufy FamiLock S3 Max gây chú ý mạnh mẽ nhờ là một trong những khó
 Với người mới tìm hiểu về khóa cửa thông minh và chưa rõ nên chọn tiêu chí nào là quan trọng nhất, bài viết [cách chọn khóa cửa thông minh (smart lock) năm 2026](/articles/cach-chon-khoa-cua-thong-minh-smart-lock-2026-tieu-chi.html) cung cấp đầy đủ thông tin cần thiết trước khi quyết định đầu tư vào một sản phẩm cao cấp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4oJW4mCZRfk/hqdefault.jpg" alt="Eufy FamiLock S3 Max lam duoc tat ca 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/4oJW4mCZRfk/hqdefault.jpg" alt="Eufy FamiLock S3 Max lam duoc tat ca 2026" loading="lazy" width="1280" height="480">
   <figcaption>Eufy FamiLock S3 Max được đánh giá là khóa cửa thông minh đa năng, làm được nhiều việc cùng lúc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -72,14 +72,14 @@ Với người mới tìm hiểu về khóa cửa thông minh và chưa rõ nên
 Với người dùng hệ sinh thái Apple ưu tiên trải nghiệm mở khóa hoàn toàn rảnh tay, Aqara U400 vẫn là lựa chọn hàng đầu nhờ công nghệ UWB kết hợp Apple Home Key, cho phép cửa tự động mở khi người dùng mang iPhone hoặc Apple Watch tới gần mà không cần thao tác thủ công nào, mang lại trải nghiệm liền mạch và hiện đại hơn hẳn so với các phương thức mở khóa truyền thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jZlz0Wsjf6w/hqdefault.jpg" alt="Eufy FamiLock S3 Max thiet lap lan dau 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/jZlz0Wsjf6w/hqdefault.jpg" alt="Eufy FamiLock S3 Max thiet lap lan dau 2026" loading="lazy" width="1280" height="480">
   <figcaption>Quá trình thiết lập lần đầu của Eufy FamiLock S3 Max được nhiều reviewer đánh giá khá đơn giản. Nguồn: YouTube</figcaption>
 </figure>
 
 Về giá bán, Eufy FamiLock S3 Max có giá 349,99 USD cho bản không màn hình trong nhà và 399,99 USD cho bản có màn hình, trong khi Aqara U400 cũng nằm ở mức giá tương tự trong phân khúc cao cấp. Người muốn xây dựng hệ thống an ninh gia đình toàn diện hơn, kết hợp cả khóa cửa thông minh lẫn hệ thống camera giám sát riêng biệt, có thể tham khảo thêm bài viết [cách chọn camera an ninh gia đình năm 2026](/articles/cach-chon-camera-an-ninh-gia-dinh-2026.html) để có cái nhìn đầy đủ hơn về giải pháp bảo vệ ngôi nhà từ nhiều góc độ khác nhau.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/z2iE2OI34N8/mqdefault.jpg" alt="Eufy FamiLock S3 Max khoa cua thong minh tot nhat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/z2iE2OI34N8/mqdefault.jpg" alt="Eufy FamiLock S3 Max khoa cua thong minh tot nhat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều reviewer đặt câu hỏi liệu Eufy FamiLock S3 Max có phải khóa cửa thông minh toàn diện nhất hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 

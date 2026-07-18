@@ -58,7 +58,7 @@ Valve đang chuẩn bị ra mắt Steam Frame, kính thực tế ảo độc l�
 Điểm nhấn kỹ thuật lớn nhất của Steam Frame là khả năng chơi được các tựa game VR nặng như Half-Life Alyx ngay ở chế độ độc lập, không cần kết nối với máy tính, một thành tựu kỹ thuật đáng chú ý khi Half-Life Alyx từng được xem là tựa game VR đòi hỏi cấu hình PC mạnh để chạy mượt mà. Việc Valve tối ưu được tựa game này chạy tốt trên phần cứng di động cho thấy sức mạnh xử lý của chip Snapdragon 8 Gen 3 kết hợp với tối ưu phần mềm sâu của SteamOS dành riêng cho thiết bị VR độc lập.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/b7q2CS8HDHU/hqdefault.jpg" alt="Valve Steam Frame trai nghiem tay cam chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/b7q2CS8HDHU/hqdefault.jpg" alt="Valve Steam Frame trai nghiem tay cam chi tiet" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm trực tiếp kính thực tế ảo Steam Frame cùng tay cầm điều khiển đi kèm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Steam Frame chỉ nặng khoảng 440g kể cả dây đeo, thuộc hàng nhẹ 
 Trọng lượng nhẹ cũng đi kèm với thiết kế phân bổ khối lượng hợp lý, giúp cân bằng áp lực giữa phía trước và phía sau đầu người dùng thay vì dồn toàn bộ trọng lượng vào phần mặt như nhiều kính VR đời cũ. Đây là yếu tố kỹ thuật quan trọng thường bị người dùng phổ thông bỏ qua khi đánh giá kính VR chỉ qua thông số cân nặng tổng thể, nhưng lại ảnh hưởng đáng kể tới trải nghiệm sử dụng thực tế trong các phiên chơi game kéo dài nhiều giờ liên tục.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/TmTvmKxl20U/hqdefault.jpg" alt="Valve Steam Frame VR Headset trai nghiem chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/TmTvmKxl20U/hqdefault.jpg" alt="Valve Steam Frame VR Headset trai nghiem chi tiet" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm chi tiết thiết kế và cảm giác đeo của kính thực tế ảo Steam Frame. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Trọng lượng nhẹ cũng đi kèm với thiết kế phân bổ khối lư�
 Theo các nguồn tin quốc tế, Steam Frame đã bị trì hoãn nhiều lần, một phần do khủng hoảng nguồn cung linh kiện bộ nhớ toàn cầu khiến chi phí sản xuất tăng cao, buộc Valve phải cân nhắc lại chiến lược giá bán trước khi chính thức ra mắt sản phẩm ra thị trường quốc tế. Đây cùng là nguyên nhân từng ảnh hưởng tới Steam Machine, sản phẩm anh em của Steam Frame, khi mini PC này cũng phải điều chỉnh kế hoạch ra mắt vì cùng lý do. Người quan tâm có thể tham khảo thêm [Valve Steam Machine chính thức ra mắt ngày 30/6/2026](/articles/valve-steam-machine-ra-mat-30-6-2026-gia-tang-khung-hoang-ram.html) để hiểu rõ hơn về bối cảnh chung của cả hai sản phẩm, cũng như [Lenovo Legion Go 2 phiên bản SteamOS](/articles/lenovo-legion-go-2-steamos-may-choi-game-cam-tay-2026.html) để thấy rõ SteamOS đang mở rộng sang nhiều loại thiết bị phần cứng khác nhau như thế nào.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZYr4ZhV2_PU/hqdefault.jpg" alt="27 mau Steam Frame va cach Valve cuu nganh PC gaming" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZYr4ZhV2_PU/hqdefault.jpg" alt="27 mau Steam Frame va cach Valve cuu nganh PC gaming" loading="lazy" width="1280" height="480">
   <figcaption>Phân tích về vai trò của Steam Frame trong chiến lược dài hạn của Valve nhằm thúc đẩy ngành PC gaming. Nguồn: YouTube</figcaption>
 </figure>
 

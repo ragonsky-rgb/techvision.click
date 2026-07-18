@@ -76,7 +76,7 @@ Microsoft là một trong những nhà đầu tư lớn nhất vào OpenAI và t
 Mục tiêu hạ chi phí cho nhà phát triển cũng là điểm đáng chú ý. Các mô hình AI mạnh thường tốn kém khi vận hành ở quy mô lớn, nên một mô hình hiệu quả do Microsoft tự làm có thể giúp giảm giá thành dịch vụ. Điều này quan trọng khi ngày càng nhiều ứng dụng tích hợp AI, và chi phí gọi mô hình trở thành gánh nặng đáng kể với doanh nghiệp cũng như lập trình viên.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OvLIae4HCeM/maxresdefault.jpg" alt="Mustafa Suleyman giới thiệu các mô hình AI mới của Microsoft" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OvLIae4HCeM/maxresdefault.jpg" alt="Mustafa Suleyman giới thiệu các mô hình AI mới của Microsoft" loading="lazy" width="1280" height="720">
   <figcaption>Mảng Microsoft AI đẩy mạnh phát triển mô hình nội bộ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Mục tiêu hạ chi phí cho nhà phát triển cũng là điểm đáng chú �
 Đáng chú ý, mối quan hệ giữa Microsoft và OpenAI đang chuyển sang trạng thái vừa hợp tác vừa cạnh tranh. Hai bên vẫn gắn bó về đầu tư và sản phẩm, nhưng việc Microsoft có mô hình riêng tạo ra một lớp cân bằng quyền lực mới. Trong mảng AI lập trình, nơi các công cụ như sản phẩm của Anthropic, OpenAI và Cursor đang dẫn dắt, sự xuất hiện của MAI-Code-1-Flash làm cuộc đua thêm phần quyết liệt. Bối cảnh này cũng liên quan tới các thương vụ lớn gần đây như [SpaceX mua Cursor](/articles/spacex-mua-cursor-anysphere-60-ty-usd-thuong-vu-startup-lon-nhat.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FKZktotIeRA/maxresdefault.jpg" alt="Microsoft phát triển mô hình AI MAI thay thế dần OpenAI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FKZktotIeRA/maxresdefault.jpg" alt="Microsoft phát triển mô hình AI MAI thay thế dần OpenAI" loading="lazy" width="1280" height="720">
   <figcaption>Các ông lớn đều xây mô hình riêng, cuộc đua AI thêm gay gắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một điểm chung trong làn sóng mô hình mới là sự chú trọng vào 
 Xu hướng này có lợi cho người dùng và doanh nghiệp, vì các mô hình nhẹ, nhanh và rẻ giúp đưa AI vào nhiều ứng dụng thực tế hơn mà không tốn kém quá mức. Nó cũng song hành với làn sóng AI chạy trên thiết bị, nơi các mô hình gọn nhẹ hoạt động ngay trên máy mà không cần gửi dữ liệu lên đám mây, như đã thấy ở các mô hình mở chạy cục bộ. Người quan tâm có thể tham khảo thêm bài [Gemma 4 chạy offline trên điện thoại](/articles/gemma-4-chay-offline-tren-dien-thoai-khong-can-internet-ai-on-device.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BQnYEJSRtKo/maxresdefault.jpg" alt="Microsoft có thể tự đứng vững mà không cần OpenAI không" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BQnYEJSRtKo/maxresdefault.jpg" alt="Microsoft có thể tự đứng vững mà không cần OpenAI không" loading="lazy" width="1280" height="720">
   <figcaption>Mô hình nhẹ, nhanh và rẻ là hướng đi được nhiều hãng theo đuổi. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Một trong những nâng cấp đáng chú ý của Zen 6 là số nhân và du
 Số nhân nhiều hơn mang lại lợi ích rõ rệt cho các tác vụ đa luồng nặng như dựng video, biên dịch mã, mô phỏng và xử lý dữ liệu lớn. Đây là phân khúc mà người dùng chuyên nghiệp và sáng tạo nội dung quan tâm. Với nền tảng nhiều nhân, cache lớn và tiến trình 2nm, Zen 6 hướng tới việc nâng đáng kể hiệu năng so với thế hệ trước, củng cố sức cạnh tranh của AMD trong cả phân khúc tiêu dùng lẫn chuyên nghiệp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4DxWpNDO6To/maxresdefault.jpg" alt="AMD Zen 6 desktop lên tới 24 nhân và cache L3 lớn hơn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4DxWpNDO6To/maxresdefault.jpg" alt="AMD Zen 6 desktop lên tới 24 nhân và cache L3 lớn hơn" loading="lazy" width="1280" height="720">
   <figcaption>Zen 6 desktop dự kiến lên tới 24 nhân với cache lớn hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Phù hợp với xu hướng AI, Zen 6 bổ sung nhiều khả năng tập lện
 Ở mảng máy chủ, bản EPYC Venice dựa trên Zen 6 được cho là đạt tối đa 256 nhân, đi kèm thiết kế đóng gói mới mang tính cách mạng. Đây là phân khúc quan trọng cho trung tâm dữ liệu và các tác vụ tính toán quy mô lớn, bao gồm cả hạ tầng AI. Việc tăng mạnh số nhân trên máy chủ phản ánh nhu cầu tính toán bùng nổ, đặc biệt từ làn sóng AI. Cuộc cạnh tranh ở mảng chip AI và máy chủ đang rất nóng, như có thể thấy ở bài [Intel Panther Lake Core Ultra 3](/articles/intel-panther-lake-core-ultra-3-ces-2026-18a-npu-ai-pc.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6kcUWwJadoI/maxresdefault.jpg" alt="AMD EPYC Venice Zen 6 đạt tối đa 256 nhân cho máy chủ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6kcUWwJadoI/maxresdefault.jpg" alt="AMD EPYC Venice Zen 6 đạt tối đa 256 nhân cho máy chủ" loading="lazy" width="1280" height="720">
   <figcaption>EPYC Venice dựa trên Zen 6 hướng tới 256 nhân cho máy chủ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Dù AMD xác nhận Zen 6 ra mắt trong năm 2026, thời điểm cụ thể c�
 Việc các dòng sản phẩm khác nhau trong cùng một thế hệ kiến trúc có lịch ra mắt lệch nhau là điều thường thấy. Có thể bản dành cho máy chủ hoặc laptop ra trước, trong khi desktop ra sau, hoặc ngược lại, tùy chiến lược của AMD. Người dùng quan tâm nên theo dõi các thông báo chính thức thay vì dựa vào tin đồn, đặc biệt nếu đang lên kế hoạch nâng cấp máy tính trong thời gian tới. Các nền tảng cạnh tranh cũng liên tục cập nhật, chẳng hạn dòng chip ARM cho laptop trong bài [laptop Snapdragon X2 Elite](/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/P-7qKrOL86g/maxresdefault.jpg" alt="Lịch ra mắt AMD Zen 6 Ryzen desktop còn nhiều đồn đoán" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/P-7qKrOL86g/maxresdefault.jpg" alt="Lịch ra mắt AMD Zen 6 Ryzen desktop còn nhiều đồn đoán" loading="lazy" width="1280" height="720">
   <figcaption>Thời điểm ra mắt Ryzen desktop Zen 6 vẫn chưa rõ ràng. Nguồn: YouTube</figcaption>
 </figure>
 

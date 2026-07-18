@@ -76,7 +76,7 @@ Nếu chỉ cần chuyển danh bạ, hoặc đã lỡ thiết lập iPhone xong
 Sau đó, trên iPhone, vào phần cài đặt, thêm tài khoản Google và bật đồng bộ danh bạ. Danh bạ sẽ tự động xuất hiện trên iPhone mà không cần thao tác phức tạp. Cách này có ưu điểm lớn là danh bạ luôn được đồng bộ qua đám mây, nên dù đổi máy bao nhiêu lần cũng không lo mất. Đây cũng là thói quen tốt nên duy trì để bảo vệ dữ liệu danh bạ. Nếu mua iPhone cũ, hãy kiểm tra kỹ máy trước, theo hướng dẫn trong bài [cách kiểm tra iPhone cũ trước khi mua](/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1ij_5A9GsFA/maxresdefault.jpg" alt="Chuyển danh bạ và tin nhắn từ Android sang iPhone qua Google" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1ij_5A9GsFA/maxresdefault.jpg" alt="Chuyển danh bạ và tin nhắn từ Android sang iPhone qua Google" loading="lazy" width="1280" height="720">
   <figcaption>Đồng bộ danh bạ qua tài khoản Google rất tiện lợi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Sau đó, trên iPhone, vào phần cài đặt, thêm tài khoản Google và b
 Với lượng ảnh lớn, dùng đám mây hoặc máy tính làm trung gian là cách hiệu quả, tránh giới hạn khi truyền trực tiếp. Về tin nhắn, Move to iOS chuyển được lịch sử tin nhắn SMS từ Android. Với các app nhắn tin như Zalo hay các ứng dụng khác, bạn nên dùng tính năng sao lưu và khôi phục riêng của từng app để giữ lịch sử trò chuyện, vì dữ liệu trong app không chuyển qua Move to iOS. Việc sao lưu ảnh lên đám mây cũng là thói quen tốt, được hướng dẫn trong bài [cách sao lưu ảnh, dữ liệu lên đám mây](/articles/cach-sao-luu-anh-du-lieu-len-dam-may-google-photos-icloud-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xMY48vPtRho/maxresdefault.jpg" alt="Chuyển ảnh video và tin nhắn từ Android sang iPhone" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xMY48vPtRho/maxresdefault.jpg" alt="Chuyển ảnh video và tin nhắn từ Android sang iPhone" loading="lazy" width="1280" height="720">
   <figcaption>Google Photos và đám mây giúp chuyển ảnh dễ dàng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Khác với dữ liệu, các ứng dụng không tự chuyển được giữa 
 Nếu sau này bạn muốn chuyển ngược từ iPhone sang Android, điều này hoàn toàn khả thi. Nhiều hãng Android có ứng dụng chuyển dữ liệu riêng, như Samsung Smart Switch, giúp chuyển danh bạ, ảnh, tin nhắn và nhiều dữ liệu khác từ iPhone sang máy mới. Danh bạ cũng có thể đồng bộ qua tài khoản Google, ảnh qua Google Photos. Quá trình tương tự chiều ngược lại, chỉ khác công cụ. Dù chuyển theo chiều nào, việc sao lưu dữ liệu trước luôn là bước quan trọng để tránh rủi ro mất mát.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/JkomgQpYSdc/maxresdefault.jpg" alt="Chuyển ứng dụng và dữ liệu hai chiều giữa iPhone và Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/JkomgQpYSdc/maxresdefault.jpg" alt="Chuyển ứng dụng và dữ liệu hai chiều giữa iPhone và Android" loading="lazy" width="1280" height="720">
   <figcaption>Có thể chuyển dữ liệu hai chiều giữa iPhone và Android. Nguồn: YouTube</figcaption>
 </figure>
 

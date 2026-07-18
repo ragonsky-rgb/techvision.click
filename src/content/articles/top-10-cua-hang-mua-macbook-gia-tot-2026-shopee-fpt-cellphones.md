@@ -80,7 +80,7 @@ Trong nhóm hệ thống bán lẻ lớn, TopZone là chuỗi cửa hàng chuyê
 ShopDunk là chuỗi chuyên Apple khác đang mở rộng nhanh, cạnh tranh trực tiếp với TopZone về giá và dịch vụ. Trong khi đó, Thế Giới Di Động và Điện Máy Xanh tận dụng lợi thế mạng lưới cửa hàng rộng khắp cả nước, giúp người dùng ở tỉnh thành xa cũng dễ dàng mua và bảo hành tại chỗ. Cả 5 hệ thống này đều là đại lý ủy quyền chính thức của Apple tại Việt Nam, đảm bảo nguồn hàng chuẩn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/oGISMCrH390/maxresdefault.jpg" alt="Danh gia MacBook Air M5 mua o dau gia tot" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/oGISMCrH390/maxresdefault.jpg" alt="Danh gia MacBook Air M5 mua o dau gia tot" loading="lazy" width="1280" height="720">
   <figcaption>MacBook Air M5 được đánh giá là dòng máy đáng tiền nhất hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Bên cạnh các hệ thống lớn, nhiều cửa hàng chuyên Apple cũng đ�
 Đặc biệt, top 10 không thể thiếu Shopee Mall với gian hàng Apple Flagship Store hoặc Apple Brand Shop chính hãng, nơi nhiều người dùng đã mua thành công MacBook Air và MacBook Neo với giá ưu đãi kèm voucher giảm giá của sàn. Xu hướng mua sắm công nghệ qua các sàn thương mại điện tử như Shopee đang tăng mạnh tại Việt Nam, được phân tích chi tiết trong bài [thương mại điện tử Việt Nam 2026](/articles/thuong-mai-dien-tu-viet-nam-2026-tiktok-shop-shopee-livestream-luat-moi.html), cho thấy đây không còn là kênh mua sắm phụ mà đã trở thành lựa chọn chính của nhiều người tiêu dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/E_eet3U1zUs/maxresdefault.jpg" alt="MacBook Neo mac re nhat lich su Apple mua o dau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/E_eet3U1zUs/maxresdefault.jpg" alt="MacBook Neo mac re nhat lich su Apple mua o dau" loading="lazy" width="1280" height="720">
   <figcaption>MacBook Neo là dòng máy giá rẻ nhất trong lịch sử của Apple. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Trước khi đặt mua, người dùng nên dành thời gian so sánh giá gi�
 Khi mua online, đặc biệt trên các sàn thương mại điện tử, người dùng nên ưu tiên gian hàng có nhãn chính hãng như Shopee Mall, kiểm tra lượng đánh giá và phản hồi từ người mua trước, tránh các shop có giá rẻ bất thường so với mặt bằng chung của thị trường. Sau khi nhận máy, nên kiểm tra ngay số serial trên trang hỗ trợ của Apple để xác minh thời hạn bảo hành và nguồn gốc sản phẩm, đảm bảo quyền lợi nếu sau này cần sửa chữa hoặc đổi trả.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LMVag3Q81cQ/maxresdefault.jpg" alt="Trai nghiem MacBook Neo ban re nhat kiem tra hang chinh hang" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LMVag3Q81cQ/maxresdefault.jpg" alt="Trai nghiem MacBook Neo ban re nhat kiem tra hang chinh hang" loading="lazy" width="1280" height="720">
   <figcaption>Nên kiểm tra kỹ gian hàng và nguồn gốc khi mua MacBook online. Nguồn: YouTube</figcaption>
 </figure>
 

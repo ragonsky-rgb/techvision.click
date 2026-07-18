@@ -66,7 +66,7 @@ Yếu tố đầu tiên cần cân nhắc là khả năng theo dõi điện năn
 Về khả năng tích hợp, chuẩn Matter đang ngày càng phổ biến trên các mẫu ổ cắm điện thông minh mới, giúp một sản phẩm duy nhất có thể tương thích với nhiều hệ sinh thái nhà thông minh khác nhau cùng lúc, từ Apple Home, Google Home cho tới Amazon Alexa, thay vì bị giới hạn chỉ hoạt động với một nền tảng duy nhất như nhiều sản phẩm đời cũ trước đây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OoIL8qpfm4E/mqdefault.jpg" alt="Top 7 o cam dien thong minh tot nhat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/OoIL8qpfm4E/mqdefault.jpg" alt="Top 7 o cam dien thong minh tot nhat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Danh sách các mẫu ổ cắm điện thông minh được đánh giá cao thường có điểm chung là phản hồi nhanh và ổn định. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,14 +75,14 @@ Về khả năng tích hợp, chuẩn Matter đang ngày càng phổ biến trê
 Độ trễ phản hồi khi điều khiển cũng là yếu tố quan trọng ảnh hưởng trực tiếp tới trải nghiệm sử dụng hằng ngày. Các mẫu ổ cắm thông minh tốt nhất hiện nay thường phản hồi lệnh bật tắt trong vòng chưa tới một giây, mang lại cảm giác điều khiển tức thời thay vì phải chờ đợi vài giây gây khó chịu như một số sản phẩm giá rẻ kém chất lượng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FUWRqTpsthc/hqdefault.jpg" alt="EVVR o cam theo doi dien nang danh gia 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/FUWRqTpsthc/hqdefault.jpg" alt="EVVR o cam theo doi dien nang danh gia 2026" loading="lazy" width="1280" height="480">
   <figcaption>Tính năng theo dõi điện năng chính xác là điểm khác biệt quan trọng giữa các mẫu ổ cắm thông minh cao cấp và phổ thông. Nguồn: YouTube</figcaption>
 </figure>
 
 Về công suất chịu tải, nên chọn ổ cắm có công suất tối thiểu 15A/1800W để đảm bảo an toàn khi cắm các thiết bị điện công suất lớn như bàn ủi, lò nướng hoặc máy sưởi, tránh tình trạng quá tải gây chập cháy. Về mức giá tham khảo, ổ cắm thông minh cơ bản không cần theo dõi điện năng thường có giá khoảng 300.000-400.000 đồng, trong khi các mẫu tích hợp theo dõi điện năng và hỗ trợ Matter như TP-Link Kasa hoặc Tapo có giá tham khảo khoảng 500.000-700.000 đồng. Người muốn xây dựng hệ thống nhà thông minh toàn diện hơn, kết hợp cả ổ cắm thông minh lẫn đèn thông minh, có thể tham khảo thêm bài viết [cách chọn đèn thông minh năm 2026](/articles/cach-chon-den-thong-minh-2026-tieu-chi.html) để có cái nhìn đầy đủ hơn về giải pháp chiếu sáng và điều khiển thiết bị điện tự động cho ngôi nhà của mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OoIL8qpfm4E/hqdefault.jpg" alt="O cam dien thong minh nang luong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/OoIL8qpfm4E/hqdefault.jpg" alt="O cam dien thong minh nang luong 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều mẫu ổ cắm điện thông minh hiện nay tích hợp sẵn tính năng theo dõi năng lượng chi tiết theo giờ, ngày, tháng. Nguồn: YouTube</figcaption>
 </figure>
 

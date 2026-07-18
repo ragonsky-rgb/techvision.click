@@ -63,7 +63,7 @@ Trong khi đối thủ trình diễn các agent tự đặt vé, tự viết bá
 Điểm chung của tất cả các tính năng đó: người dùng luôn là người bấm nút. Siri tổng hợp, tìm kiếm và trả lời, nhưng không tự khởi phát bất kỳ hành động nào. Toàn cảnh các công bố được tổng hợp trong bài [WWDC 2026: Siri AI, iOS 27 và toàn bộ công bố](/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wpBgdV0hx0w/maxresdefault.jpg" alt="Siri AI chỉ thực thi khi người dùng ra lệnh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wpBgdV0hx0w/maxresdefault.jpg" alt="Siri AI chỉ thực thi khi người dùng ra lệnh" loading="lazy" width="1280" height="720">
   <figcaption>Siri AI hiểu ngữ cảnh sâu nhưng luôn chờ lệnh người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Nhìn ngắn hạn, có thể. Trên các bài đo năng lực agent, những mo
 Nhưng nhìn dài hạn, đây là kịch bản quen thuộc của Apple: vào sau, vào chắc. Bằng cách quan sát những vấp ngã của Copilot và các agent đời đầu, Apple có dữ liệu thật về chỗ nào AI hỏng, chỗ nào người dùng thực sự cần. Khi model nền tảng đủ tin cậy, hãng có thể bật khả năng agent trên chính kiến trúc Siri AI hiện tại, vốn đã hiểu ngữ cảnh cá nhân sâu hơn bất kỳ đối thủ nào nhờ nằm sẵn trong hệ điều hành.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hF8swzNR1-o/maxresdefault.jpg" alt="Cuộc đua AI agent giữa các ông lớn công nghệ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hF8swzNR1-o/maxresdefault.jpg" alt="Cuộc đua AI agent giữa các ông lớn công nghệ" loading="lazy" width="1280" height="720">
   <figcaption>Microsoft, Google và NVIDIA đều đặt cược lớn vào agent tự hành. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ Một yếu tố ít được nhắc tới nhưng quan trọng là lợi thế c
 Khi độ tin cậy của mô hình nền cải thiện theo thời gian, chính kiến trúc này có thể trở thành bệ phóng để bật dần các khả năng tự chủ, từ những tác vụ rủi ro thấp tới phức tạp hơn. Nói cách khác, sự thận trọng hiện tại không loại trừ tham vọng agent trong tương lai, mà chỉ trì hoãn tới khi nền tảng đủ vững. Đây là khác biệt giữa việc chưa làm và việc không thể làm, một phân biệt quan trọng khi đánh giá vị thế dài hạn của Apple trong cuộc đua AI.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BAX0s5nhMN4/maxresdefault.jpg" alt="Những cập nhật Apple đáng chú ý tại WWDC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BAX0s5nhMN4/maxresdefault.jpg" alt="Những cập nhật Apple đáng chú ý tại WWDC 2026" loading="lazy" width="1280" height="720">
   <figcaption>Các cập nhật AI tại WWDC 2026 nghiêng về tiện ích an toàn hơn là tự hành. Nguồn: YouTube</figcaption>
 </figure>
 

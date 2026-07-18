@@ -64,7 +64,7 @@ Về bản chất, cả hai dùng cùng kiến trúc và cùng nhân GB202, như
 Điều quan trọng cần nhớ: RTX 5090 Ti vẫn chưa ra mắt chính thức. Toàn bộ thông số đang lưu hành mới ở mức rò rỉ, được tổng hợp trong bài [tin đồn RTX 5090 Ti 48GB GDDR7](/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html). Vì vậy mọi so sánh ở đây mang tính tham khảo, có thể thay đổi khi NVIDIA công bố.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1JNrxSHXdes/maxresdefault.jpg" alt="Nhiều phiên bản RTX 5090 được thử nghiệm và so sánh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1JNrxSHXdes/maxresdefault.jpg" alt="Nhiều phiên bản RTX 5090 được thử nghiệm và so sánh" loading="lazy" width="1280" height="720">
   <figcaption>RTX 5090 hiện có nhiều phiên bản từ các hãng, trong khi bản Ti vẫn chỉ là tin đồn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Về bản chất, cả hai dùng cùng kiến trúc và cùng nhân GB202, như
 Cụ thể, 48GB đáng giá khi bạn chạy các mô hình ngôn ngữ lớn ngay trên máy, nơi nạp trọn mô hình vào VRAM giúp tăng tốc và giảm phụ thuộc cloud. Nó cũng hữu ích khi dựng video 8K hoặc làm việc với cảnh 3D rất nặng. Cơn khát VRAM cho AI cũng chính là thứ đang đẩy giá bộ nhớ lên cao, như phân tích trong [khủng hoảng bộ nhớ vì trung tâm dữ liệu AI](/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AScA7qJUIDc/maxresdefault.jpg" alt="Chạy mô hình ngôn ngữ lớn trên RTX 5090 cần nhiều bộ nhớ VRAM" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AScA7qJUIDc/maxresdefault.jpg" alt="Chạy mô hình ngôn ngữ lớn trên RTX 5090 cần nhiều bộ nhớ VRAM" loading="lazy" width="1280" height="720">
   <figcaption>Chạy mô hình AI cục bộ là nơi 48GB VRAM thực sự tạo khác biệt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Khi đặt mức tăng nhỏ này cạnh khoản chênh giá lớn và công su�
 Nói cách khác, nếu cần card ngay bây giờ, RTX 5090 là lựa chọn duy nhất hiện có. Chờ bản Ti đồng nghĩa chấp nhận thêm vài tháng không chắc chắn, trong bối cảnh giá bộ nhớ căng thẳng có thể đẩy giá bản 48GB lên cao hơn dự kiến.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/UDtPWG4scV8/maxresdefault.jpg" alt="Rò rỉ thông số và ngày ra mắt RTX 5090 Ti và RTX Titan" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/UDtPWG4scV8/maxresdefault.jpg" alt="Rò rỉ thông số và ngày ra mắt RTX 5090 Ti và RTX Titan" loading="lazy" width="1280" height="720">
   <figcaption>RTX 5090 Ti và bản Titan vẫn đang ở giai đoạn rò rỉ thông số. Nguồn: YouTube</figcaption>
 </figure>
 

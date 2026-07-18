@@ -76,7 +76,7 @@ Số điện thoại là một trong những thông tin cá nhân giá trị nh�
 Tính năng tên người dùng giúp người dùng kiểm soát tốt hơn việc ai có thể biết số của mình. Trong bối cảnh lừa đảo qua tin nhắn ngày càng tinh vi, hạn chế lộ số điện thoại là một lớp phòng vệ hữu ích. Tuy nhiên, người dùng vẫn cần kết hợp với các thói quen an toàn khác như cảnh giác với tin nhắn lạ và bật xác thực hai lớp, được đề cập trong bài [cách bật xác thực 2 lớp](/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/b8N3l9IH9mE/maxresdefault.jpg" alt="WhatsApp tăng cường kiểm soát quyền riêng tư với tên người dùng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/b8N3l9IH9mE/maxresdefault.jpg" alt="WhatsApp tăng cường kiểm soát quyền riêng tư với tên người dùng" loading="lazy" width="1280" height="720">
   <figcaption>Giảm số lần chia sẻ số điện thoại giúp bảo vệ thông tin cá nhân. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tính năng tên người dùng giúp người dùng kiểm soát tốt hơn vi�
 Điều này quan trọng vì WhatsApp ngày càng được dùng nhiều cho thương mại và chăm sóc khách hàng. Một hệ thống định danh tách biệt giữa giao tiếp cá nhân và giao tiếp với doanh nghiệp giúp người dùng yên tâm hơn khi tương tác với các thương hiệu. Đây cũng là cách WhatsApp cân bằng giữa nhu cầu kinh doanh của nền tảng và quyền riêng tư của người dùng cá nhân, một bài toán mà nhiều dịch vụ đang phải giải.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/EJ6REe4PV4o/maxresdefault.jpg" alt="WhatsApp nâng quyền riêng tư lên mức mới với tính năng username" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/EJ6REe4PV4o/maxresdefault.jpg" alt="WhatsApp nâng quyền riêng tư lên mức mới với tính năng username" loading="lazy" width="1280" height="720">
   <figcaption>Cơ chế định danh mới tách biệt giao tiếp cá nhân và doanh nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Tính năng tên người dùng giúp người dùng kiểm soát tốt hơn vi�
 Với người dùng, đây là tín hiệu tích cực, khi các công cụ bảo vệ thông tin trở nên dễ tiếp cận hơn. Tuy nhiên, công nghệ chỉ là một phần; thói quen sử dụng an toàn vẫn quyết định phần lớn. Việc kết hợp các tính năng bảo mật mới với ý thức cảnh giác sẽ mang lại hiệu quả tốt nhất trong việc bảo vệ bản thân trên môi trường số ngày càng nhiều rủi ro.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wjwA7t6_v1k/maxresdefault.jpg" alt="WhatsApp username và BSUID giải thích trong bản cập nhật 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wjwA7t6_v1k/maxresdefault.jpg" alt="WhatsApp username và BSUID giải thích trong bản cập nhật 2026" loading="lazy" width="1280" height="720">
   <figcaption>Các nền tảng nhắn tin ngày càng chú trọng bảo vệ dữ liệu cá nhân. Nguồn: YouTube</figcaption>
 </figure>
 

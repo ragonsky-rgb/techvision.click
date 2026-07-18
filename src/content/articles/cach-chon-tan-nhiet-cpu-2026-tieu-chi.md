@@ -67,7 +67,7 @@ Lựa chọn giữa tản khí và tản nước AIO là quyết định quan tr
 Với người mới xây dựng máy tính lần đầu, nên ưu tiên tản khí tầm trung uy tín thay vì các dòng tản nước AIO cao cấp nếu chưa thực sự cần thiết, vì tản khí thường dễ lắp đặt hơn và ít rủi ro kỹ thuật hơn so với việc phải lắp đặt radiator và ống dẫn của tản nước AIO đúng cách.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Vhc4eo-q6UA/hqdefault.jpg" alt="Huong dan mua dung tan nhiet CPU" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Vhc4eo-q6UA/hqdefault.jpg" alt="Huong dan mua dung tan nhiet CPU" loading="lazy" width="1280" height="480">
   <figcaption>Hướng dẫn cơ bản giúp người mới bắt đầu chọn đúng tản nhiệt CPU phù hợp với hệ thống của mình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Với người mới xây dựng máy tính lần đầu, nên ưu tiên tản k
 Công suất tản nhiệt TDP (Thermal Design Power) là mức công suất nhiệt tối đa mà tản nhiệt cần xử lý được để giữ CPU hoạt động ổn định. CPU tầm trung thường có TDP 65-125W, đủ dùng với tản khí tầm trung, trong khi CPU cao cấp có TDP 150-250W cần tản nước AIO hoặc tản khí cao cấp cỡ lớn mới đảm bảo hiệu năng ổn định. Chọn tản nhiệt có công suất TDP thấp hơn CPU đang dùng sẽ khiến CPU bị giảm xung nhịp do quá nhiệt, ảnh hưởng trực tiếp tới hiệu năng tổng thể của máy tính.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/E9SLAFHv8QY/hqdefault.jpg" alt="So sanh tan khi va tan nuoc AIO tot nhat 2024" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/E9SLAFHv8QY/hqdefault.jpg" alt="So sanh tan khi va tan nuoc AIO tot nhat 2024" loading="lazy" width="1280" height="480">
   <figcaption>So sánh trực tiếp hiệu quả tản nhiệt giữa các mẫu tản khí và tản nước AIO phổ biến nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Với người dùng đang cân nhắc nâng cấp đồng bộ nhiều linh ki�
 Độ ồn quạt là yếu tố quan trọng với người dùng đặt máy tính gần khu vực làm việc hoặc phòng ngủ. Các dòng tản nhiệt cao cấp thường sử dụng quạt tốc độ thấp cánh lớn kết hợp thuật toán điều khiển thông minh, giúp giảm độ ồn đáng kể so với quạt tốc độ cao cánh nhỏ giá rẻ. Nên ưu tiên tản nhiệt có chế độ tự động điều chỉnh tốc độ quạt theo nhiệt độ thực tế, giúp máy chạy êm ái khi tải nhẹ và chỉ tăng tốc quạt khi thực sự cần thiết lúc chơi game hoặc xử lý tác vụ nặng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/R5GhNnLVUrw/hqdefault.jpg" alt="Cach chon tan khi CPU dung kich thuoc" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/R5GhNnLVUrw/hqdefault.jpg" alt="Cach chon tan khi CPU dung kich thuoc" loading="lazy" width="1280" height="480">
   <figcaption>Hướng dẫn chi tiết cách chọn tản khí CPU đúng kích thước, giảm thiểu độ ồn khi vận hành. Nguồn: YouTube</figcaption>
 </figure>
 

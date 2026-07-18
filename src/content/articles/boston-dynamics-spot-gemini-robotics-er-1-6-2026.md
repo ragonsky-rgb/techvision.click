@@ -72,7 +72,7 @@ Bước cải tiến này đạt được nhờ kỹ thuật mà Google DeepMind
 Mặc dù công nghệ này thu hút sự chú ý rộng rãi nhờ những video trình diễn bắt mắt, trọng tâm thương mại thực sự của Boston Dynamics vẫn nằm ở các ứng dụng kiểm tra công nghiệp thông qua nền tảng Orbit AIVI-Learning. Với Gemini Robotics-ER 1.6, robot Spot có thể tự động phát hiện các sự cố như vũng nước đọng, mảnh vỡ nguy hiểm trên sàn nhà máy, đọc đồng hồ đo áp suất và mực chất lỏng, đồng thời chủ động gọi tới các công cụ mô hình thị giác ngôn ngữ hành động khi cần hiểu rõ hơn về môi trường xung quanh trong lúc tuần tra.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/qkMq831fDng/hqdefault.jpg" alt="Robot Spot của Boston Dynamics trong một thử nghiệm thực tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qkMq831fDng/hqdefault.jpg" alt="Robot Spot của Boston Dynamics trong một thử nghiệm thực tế" loading="lazy" width="1280" height="720">
   <figcaption>Spot đã được thương mại hoá rộng rãi với hàng nghìn đơn vị hoạt động trong các nhà máy, cơ sở hạ tầng công nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Theo Boston Dynamics, video trình diễn này bắt nguồn từ một cuộc h
 ## Phân biệt với Atlas, dòng robot hình người của Boston Dynamics
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LP4-c5AK30g/hqdefault.jpg" alt="Spot của Boston Dynamics thực hiện nhiều tác vụ khác nhau trong video demo" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LP4-c5AK30g/hqdefault.jpg" alt="Spot của Boston Dynamics thực hiện nhiều tác vụ khác nhau trong video demo" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng lý luận đa bước giúp Spot xử lý được nhiều dạng tác vụ khác nhau chỉ từ một chỉ dẫn ngôn ngữ tự nhiên. Nguồn: YouTube</figcaption>
 </figure>
 

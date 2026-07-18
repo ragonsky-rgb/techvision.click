@@ -77,7 +77,7 @@ Về khả năng chụp cận cảnh, ống kính có thể lấy nét macro ở
 Về phần cứng cảm biến, RX10 V trang bị cảm biến stacked Exmor RS CMOS 1.0 inch độ phân giải 20,1 megapixel, kết hợp cùng bộ xử lý hình ảnh BIONZ XR thế hệ mới. Sự kết hợp này mang lại khả năng chụp liên tục lên tới 30 khung hình mỗi giây ở chế độ không nháy đen (blackout-free), cùng khả năng lấy nét và đo sáng tự động theo dõi liên tục tới 60 lần mỗi giây, những con số vượt trội so với thế hệ RX10 Mark IV trước đó.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XYfDVdebdsw/hqdefault.jpg" alt="Sony chính thức giới thiệu chi tiết máy ảnh RX10 V" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XYfDVdebdsw/hqdefault.jpg" alt="Sony chính thức giới thiệu chi tiết máy ảnh RX10 V" loading="lazy" width="1280" height="720">
   <figcaption>Sony trực tiếp giới thiệu các tính năng nổi bật của RX10 V trong video công bố chính thức. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,14 +88,14 @@ Máy cũng được trang bị công nghệ nhận diện chủ thể AI thời 
 Về khả năng quay phim, RX10 V hỗ trợ quay video 4K 60p với chế độ full-pixel readout kết hợp oversampling từ độ phân giải 5.4K, mang lại chất lượng hình ảnh sắc nét và chi tiết hơn đáng kể. Đáng chú ý hơn, máy còn hỗ trợ quay 4K ở tốc độ 120 khung hình/giây, cho phép tạo ra các cảnh quay chuyển động chậm mượt mà, cùng với cải tiến về chất lượng thu âm và chế độ quay tốc độ chậm/nhanh S&Q linh hoạt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9jmuxJuHcTA/hqdefault.jpg" alt="Đánh giá chi tiết Sony RX10 V, chiếc máy ảnh làm được mọi thứ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9jmuxJuHcTA/hqdefault.jpg" alt="Đánh giá chi tiết Sony RX10 V, chiếc máy ảnh làm được mọi thứ" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều reviewer đánh giá RX10 V là lựa chọn toàn diện hiếm có trong phân khúc máy ảnh tích hợp ống kính. Nguồn: YouTube</figcaption>
 </figure>
 
 Về khả năng chống rung, máy trang bị chế độ ổn định hình ảnh Active Mode sử dụng cảm biến con quay hồi chuyển (gyro sensor) mới kết hợp cùng thuật toán ổn định hình ảnh thế hệ mới nhất, giúp giảm đáng kể hiện tượng rung lắc khi quay video cầm tay, đặc biệt hữu ích khi sử dụng ở tiêu cự tele xa vốn rất nhạy cảm với chuyển động nhỏ của tay người cầm máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vSqppGydUnw/hqdefault.jpg" alt="Những thay đổi lớn của Sony RX10 V so với thế hệ tiền nhiệm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vSqppGydUnw/hqdefault.jpg" alt="Những thay đổi lớn của Sony RX10 V so với thế hệ tiền nhiệm" loading="lazy" width="1280" height="720">
   <figcaption>RX10 V mang tới hàng loạt nâng cấp đáng giá sau 9 năm chờ đợi của cộng đồng nhiếp ảnh. Nguồn: YouTube</figcaption>
 </figure>
 

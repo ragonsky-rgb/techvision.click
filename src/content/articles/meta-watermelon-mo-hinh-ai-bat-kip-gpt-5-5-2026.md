@@ -76,7 +76,7 @@ Bên cạnh Watermelon, Wang cũng tiết lộ rằng một bản cập nhật c
 Dù là một tuyên bố tích cực, câu chuyện Watermelon cũng có nhiều điểm cần nhìn nhận một cách thận trọng. Đầu tiên và quan trọng nhất, Wang không nêu cụ thể benchmark nào được dùng để so sánh. Trong lĩnh vực AI, kết quả benchmark có thể thay đổi rất nhiều tùy theo bài đánh giá được chọn, nên một tuyên bố bắt kịp mà không kèm chi tiết sẽ khó được kiểm chứng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/m0JCYmP50sc/hqdefault.jpg" alt="Tuyên bố Watermelon bắt kịp GPT-5.5 được đưa ra trong buổi họp nội bộ của Meta" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/m0JCYmP50sc/hqdefault.jpg" alt="Tuyên bố Watermelon bắt kịp GPT-5.5 được đưa ra trong buổi họp nội bộ của Meta" loading="lazy" width="1280" height="720">
   <figcaption>Tuyên bố được đưa ra nội bộ, chưa có benchmark công khai để kiểm chứng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Một điểm nữa đáng cân nhắc là việc dùng năng lực tính toán 
 ## Cuộc đua mô hình vẫn tăng tốc
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3X21n7VRbho/hqdefault.jpg" alt="Alexandr Wang đối mặt thách thức lớn trong việc đưa Meta dẫn đầu cuộc đua AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3X21n7VRbho/hqdefault.jpg" alt="Alexandr Wang đối mặt thách thức lớn trong việc đưa Meta dẫn đầu cuộc đua AI" loading="lazy" width="1280" height="720">
   <figcaption>Meta nỗ lực thu hẹp khoảng cách nhưng ranh giới công nghệ liên tục dịch chuyển. Nguồn: YouTube</figcaption>
 </figure>
 
 Điểm mấu chốt khiến câu chuyện thêm phần thú vị là tốc độ của cuộc đua. Trong khi Watermelon được cho là mới bắt kịp GPT-5.5, OpenAI đã kịp giới thiệu GPT-5.6, nghĩa là ranh giới công nghệ của đối thủ đã dịch chuyển xa hơn. Điều này minh họa rõ đặc thù của lĩnh vực AI, nơi việc bắt kịp một mốc cũ không đồng nghĩa với dẫn đầu, bởi các phòng thí nghiệm hàng đầu liên tục cho ra phiên bản mới. Thực tế, [GPT-5.6 với ba biến thể Sol, Terra và Luna đã được OpenAI phát hành](/articles/openai-gpt-5-6-sol-terra-luna-chinh-thuc-mo-chatgpt-work-2026.html), tiếp tục nới rộng khoảng cách.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KSF2a3yL57E/hqdefault.jpg" alt="Meta bổ nhiệm Alexandr Wang dẫn dắt bộ phận AI Superintelligence để tăng tốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KSF2a3yL57E/hqdefault.jpg" alt="Meta bổ nhiệm Alexandr Wang dẫn dắt bộ phận AI Superintelligence để tăng tốc" loading="lazy" width="1280" height="720">
   <figcaption>Meta đặt cược lớn vào Alexandr Wang để tăng tốc trong cuộc đua AI. Nguồn: YouTube</figcaption>
 </figure>
 

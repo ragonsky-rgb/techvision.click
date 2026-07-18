@@ -68,7 +68,7 @@ Mùa hè nắng nóng kèm nguy cơ mất điện đột xuất khiến quạt t
 Ở phân khúc tầm trung, các dòng quạt tích điện Sunhouse là lựa chọn nổi bật nhờ tích hợp động cơ đồng nguyên chất cho độ bền cao, thời gian sử dụng liên tục lên tới 16 tiếng tùy mức tốc độ đang chạy. Sản phẩm còn tích hợp đèn LED tiện lợi khi mất điện vào ban đêm, phù hợp gia đình cần thiết bị dự phòng đáng tin cậy cho những tình huống mất điện ngoài dự kiến.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rUAHrdlrGvw/sddefault.jpg" alt="Danh gia quat tich dien Sunhouse SHD7115 chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/rUAHrdlrGvw/sddefault.jpg" alt="Danh gia quat tich dien Sunhouse SHD7115 chi tiet" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết một mẫu quạt tích điện Sunhouse phổ biến hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Nhiều gia đình hiện đang chuẩn bị sẵn bộ giải pháp ứng phó 
 Trước khi quyết định xuống tiền, người dùng nên xác định rõ mục đích sử dụng chính, ví dụ ưu tiên ngân sách tiết kiệm cho nhu cầu dự phòng cơ bản, cần độ bền và thời gian sử dụng dài cho gia đình, hay sẵn sàng đầu tư cho khả năng dự phòng dài hạn nhất khi mất điện kéo dài nhiều giờ, vì mỗi mẫu quạt tích điện trong danh sách đều có thế mạnh riêng phù hợp từng nhóm nhu cầu khác nhau. Nên ưu tiên mua tại các hệ thống bán lẻ điện máy uy tín để được hưởng chế độ bảo hành đầy đủ, đồng thời tận dụng các chương trình khuyến mãi phổ biến trước mùa cao điểm nắng nóng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rUAHrdlrGvw/mqdefault.jpg" alt="Huong dan chi tiet cach su dung quat tich dien hieu qua" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/rUAHrdlrGvw/mqdefault.jpg" alt="Huong dan chi tiet cach su dung quat tich dien hieu qua" loading="lazy" width="1280" height="480">
   <figcaption>Hướng dẫn chi tiết giúp người dùng khai thác tối đa hiệu quả sử dụng của quạt tích điện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Ngoài hai thương hiệu tiêu biểu kể trên, thị trường quạt tích
 Với các hộ gia đình kinh doanh nhỏ như quán ăn, tiệm tạp hóa, việc trang bị sẵn vài chiếc quạt tích điện công suất lớn cũng là giải pháp hợp lý để duy trì hoạt động kinh doanh không bị gián đoạn khi xảy ra mất điện đột xuất, tránh ảnh hưởng tới trải nghiệm của khách hàng trong những ngày nắng nóng cao điểm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FjcfP_4otAg/mqdefault.jpg" alt="Quat tich dien Kangaroo dung luong pin lon cho gia dinh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/FjcfP_4otAg/mqdefault.jpg" alt="Quat tich dien Kangaroo dung luong pin lon cho gia dinh" loading="lazy" width="1280" height="480">
   <figcaption>Quạt tích điện dung lượng pin lớn là lựa chọn phù hợp cho gia đình cần dự phòng dài hạn. Nguồn: YouTube</figcaption>
 </figure>
 

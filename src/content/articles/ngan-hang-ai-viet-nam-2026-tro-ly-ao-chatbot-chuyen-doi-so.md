@@ -76,7 +76,7 @@ Bên cạnh các chatbot phục vụ khách hàng, nhiều ngân hàng đang xâ
 Kết quả thực tế đã bắt đầu thể hiện. Trợ lý AI Agent của MSB xử lý khoảng 20.000 câu hỏi mỗi tháng, hỗ trợ giải đáp thông tin cho nhiều yêu cầu nội bộ, đặc biệt là nhân viên kinh doanh, qua đó giảm tải cho đội ngũ trong các tác vụ lặp lại. Việc xây dựng nền tảng AI bài bản giúp ngân hàng không chỉ dùng AI rời rạc mà tích hợp sâu vào vận hành. Để khai thác hiệu quả các công cụ AI, việc biết cách tương tác đúng cũng quan trọng, như đề cập trong bài [cách viết prompt AI hiệu quả](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/N53oRD_SW1w/maxresdefault.jpg" alt="AI trong ngân hàng cơ hội hay rủi ro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/N53oRD_SW1w/maxresdefault.jpg" alt="AI trong ngân hàng cơ hội hay rủi ro" loading="lazy" width="1280" height="720">
   <figcaption>Ngân hàng xây nền tảng AI doanh nghiệp vận hành hàng trăm ứng dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ AI mang lại lợi ích kinh doanh rõ rệt cho ngành ngân hàng. Theo báo 
 Trong lĩnh vực bảo mật, AI giúp phát hiện các giao dịch bất thường và hành vi gian lận nhanh hơn, bảo vệ tài khoản khách hàng tốt hơn. Về dịch vụ, AI phân tích dữ liệu để đưa ra gợi ý sản phẩm phù hợp với từng khách hàng. Về vận hành, tự động hóa giúp xử lý hồ sơ, thẩm định và các tác vụ hành chính nhanh hơn. Sự kết hợp này giúp ngân hàng vừa giảm chi phí vừa nâng cao trải nghiệm, tạo lợi thế cạnh tranh trong một thị trường ngày càng số hóa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SQV9WbIdNnw/hqdefault.jpg" alt="Hoạt động chuyển đổi số và ứng dụng AI của ngân hàng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SQV9WbIdNnw/hqdefault.jpg" alt="Hoạt động chuyển đổi số và ứng dụng AI của ngân hàng" loading="lazy" width="1280" height="720">
   <figcaption>AI cải thiện hiệu quả vận hành và bảo mật cho ngân hàng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Dù mang lại nhiều lợi ích, việc ứng dụng AI trong ngân hàng cũn
 Bên cạnh đó là thách thức về hạ tầng, nhân lực và quản trị rủi ro. AI có thể đưa ra quyết định sai nếu dữ liệu huấn luyện thiên lệch, nên cần giám sát chặt chẽ, đặc biệt với các quyết định ảnh hưởng tới khách hàng như cấp tín dụng. Việc cân bằng giữa tự động hóa và yếu tố con người, cùng đảm bảo quyền riêng tư của khách hàng, là bài toán quan trọng. Người dùng cũng nên chủ động bảo vệ dữ liệu cá nhân của mình, như hướng dẫn trong bài [bảo vệ quyền riêng tư và dữ liệu cá nhân](/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/8gQaYgLDMCQ/maxresdefault.jpg" alt="Trợ lý ảo chatbot AI tích hợp trong giải pháp ngân hàng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/8gQaYgLDMCQ/maxresdefault.jpg" alt="Trợ lý ảo chatbot AI tích hợp trong giải pháp ngân hàng" loading="lazy" width="1280" height="720">
   <figcaption>Ứng dụng AI ngân hàng cần đi kèm khung pháp lý và bảo mật. Nguồn: YouTube</figcaption>
 </figure>
 

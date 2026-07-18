@@ -64,7 +64,7 @@ Kasa KP125M tiếp tục được nhiều đánh giá xem là một trong nhữn
 Với người mới tìm hiểu về ổ cắm điện thông minh và chưa rõ nên chọn tiêu chí nào là quan trọng nhất, bài viết [cách chọn ổ cắm điện thông minh (smart plug) năm 2026](/articles/cach-chon-o-cam-dien-thong-minh-smart-plug-2026-tieu-chi.html) cung cấp đầy đủ thông tin cần thiết trước khi quyết định mua sắm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6xQiiDCprM4/mqdefault.jpg" alt="Wyze Plug thiet lap danh gia cap nhat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/6xQiiDCprM4/mqdefault.jpg" alt="Wyze Plug thiet lap danh gia cap nhat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Quá trình thiết lập Wyze Plug được đánh giá đơn giản, phù hợp người mới bắt đầu làm quen với nhà thông minh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -73,14 +73,14 @@ Với người mới tìm hiểu về ổ cắm điện thông minh và chưa r�
 TP-Link Tapo P125M gây ấn tượng với kích thước cực nhỏ gọn, chỉ 2,4 x 1,5 x 1,3 inch, được xem là thiết bị chứng nhận Matter nhỏ nhất hiện có trên thị trường, nhỏ tới mức có thể cắm hai chiếc cùng lúc vào một ổ điện đôi mà không bị vướng víu. Giá bán chỉ 19,95 USD, dù nhược điểm duy nhất là thiếu tính năng theo dõi điện năng tiêu thụ so với đàn anh Kasa KP125M.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/P6jn041eGI8/hqdefault.jpg" alt="Tapo P125M Matter smart plug danh gia 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/P6jn041eGI8/hqdefault.jpg" alt="Tapo P125M Matter smart plug danh gia 2026" loading="lazy" width="1280" height="480">
   <figcaption>TP-Link Tapo P125M được đánh giá là lựa chọn nhỏ gọn hàng đầu trong nhóm ổ cắm chứng nhận Matter. Nguồn: YouTube</figcaption>
 </figure>
 
 Với người ưu tiên tiết kiệm ngân sách tối đa, Wyze Plug là lựa chọn hấp dẫn nhất với giá chỉ khoảng 15 USD cho bộ 2 cái, phản hồi lệnh nhanh và đáng tin cậy trong thử nghiệm thực tế, tương thích tốt với Google Home và Alexa. Tuy nhiên, sản phẩm hiện chưa hỗ trợ Apple HomeKit và chuẩn Matter, phù hợp hơn với người dùng hệ sinh thái Android hoặc chưa có kế hoạch mở rộng nhiều thiết bị nhà thông minh phức tạp trong tương lai gần. Người muốn xây dựng hệ thống nhà thông minh toàn diện hơn cũng có thể tham khảo thêm bài viết [cách chọn khóa cửa thông minh (smart lock) năm 2026](/articles/cach-chon-khoa-cua-thong-minh-smart-lock-2026-tieu-chi.html) để hoàn thiện thêm các thiết bị tự động hóa khác trong nhà.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/P6jn041eGI8/mqdefault.jpg" alt="Tapo P125M nho gon Matter 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/P6jn041eGI8/mqdefault.jpg" alt="Tapo P125M nho gon Matter 2026" loading="lazy" width="1280" height="480">
   <figcaption>Kích thước siêu nhỏ gọn giúp Tapo P125M dễ dàng lắp đặt ở những vị trí ổ điện chật hẹp. Nguồn: YouTube</figcaption>
 </figure>
 

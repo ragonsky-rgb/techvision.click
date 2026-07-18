@@ -75,7 +75,7 @@ Với thời lượng pin này, người dùng gần như không phải lo lắn
 Về màn hình, HUAWEI Watch GT 6 được trang bị tấm nền AMOLED kích thước 1,47 inch, độ phân giải 466x466 pixel, mật độ điểm ảnh đạt 317 PPI cho hình ảnh sắc nét. Điểm đáng chú ý nhất là độ sáng tối đa lên tới 3000 nit, giúp người dùng dễ dàng quan sát dữ liệu luyện tập, nhịp tim và các thông báo ngay cả khi ở ngoài trời dưới ánh nắng gay gắt, một tình huống thường gây khó khăn cho nhiều mẫu smartwatch có độ sáng màn hình thấp hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OU52i1Ao-60/hqdefault.jpg" alt="Mở hộp đầy đủ HUAWEI Watch GT 6 và các phụ kiện đi kèm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OU52i1Ao-60/hqdefault.jpg" alt="Mở hộp đầy đủ HUAWEI Watch GT 6 và các phụ kiện đi kèm" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế viền vát nổi khối 3D mang tới diện mạo khỏe khoắn, góc cạnh cho HUAWEI Watch GT 6. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Về mặt thiết kế, phần viền bezel của máy được vát nổi kh�
 Về tính năng thể thao, HUAWEI Watch GT 6 hỗ trợ hơn 100 chế độ tập luyện khác nhau, từ các môn phổ biến như chạy bộ, đạp xe, bơi lội cho tới những môn ít phổ biến hơn như cầu lông và bóng rổ. Công nghệ HUAWEI TruSense mới giúp cải thiện đáng kể độ chính xác đo nhịp tim, đạt tới 98% khi đạp xe và 95% khi chạy bộ địa hình, một mức độ chính xác đáng tin cậy cho người dùng nghiêm túc theo dõi hiệu suất tập luyện. Đáng chú ý, ở chế độ đạp xe, máy còn lần đầu tiên trang bị chỉ số Công suất Ảo (Virtual Power), một tính năng vốn hiếm khi xuất hiện trên smartwatch cùng tầm giá.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WRPgqhSyBwg/hqdefault.jpg" alt="Đánh giá chi tiết tính năng thể thao và sức khỏe của HUAWEI Watch GT 6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WRPgqhSyBwg/hqdefault.jpg" alt="Đánh giá chi tiết tính năng thể thao và sức khỏe của HUAWEI Watch GT 6" loading="lazy" width="1280" height="720">
   <figcaption>HUAWEI Watch GT 6 được đánh giá cao về khả năng theo dõi thể thao và sức khỏe chuyên sâu. Nguồn: YouTube</figcaption>
 </figure>
 
 Về mặt sức khỏe, máy có thể đo chỉ số SpO2 để đánh giá tình trạng hô hấp bất cứ lúc nào, đồng thời tích hợp cảm biến PPG giúp cảnh báo kịp thời nguy cơ rung nhĩ (A-fib) và ngoại tâm thu, hai vấn đề tim mạch phổ biến mà nhiều người dùng, đặc biệt là nhóm trung niên và cao tuổi, cần theo dõi sát sao. Máy chạy trên nền tảng HarmonyOS 6.0 mới nhất của Huawei, mang lại giao diện trực quan, mượt mà cùng khả năng tùy biến mặt đồng hồ linh hoạt theo sở thích từng người dùng, giúp trải nghiệm tổng thể trở nên cá nhân hoá hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/of-q5a-Z4IA/maxresdefault.jpg" alt="Trải nghiệm thực tế pin và tính năng thông minh của HUAWEI Watch GT 6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/of-q5a-Z4IA/maxresdefault.jpg" alt="Trải nghiệm thực tế pin và tính năng thông minh của HUAWEI Watch GT 6" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm sử dụng thực tế cho thấy HUAWEI Watch GT 6 đáp ứng tốt cả nhu cầu thể thao lẫn sử dụng hàng ngày. Nguồn: YouTube</figcaption>
 </figure>
 

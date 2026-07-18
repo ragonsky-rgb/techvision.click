@@ -76,7 +76,7 @@ OpenAI ra mắt hệ thống bộ nhớ mới ngày 3/6/2026, giúp ChatGPT ghi 
 Tiếp đó, từ ngày 9/6, OpenAI mở rộng cải thiện cá nhân hóa tới bản ChatGPT Go và Free. Mô hình mặc định trở nên thông minh và chính xác hơn, với câu trả lời rõ ràng, súc tích và phù hợp hơn với từng người. Việc đưa tính năng tốt tới cả người dùng miễn phí là động thái quan trọng, giúp phổ cập AI chất lượng cao tới số đông, tương tự xu hướng tích hợp AI vào tìm kiếm được nêu trong bài [Google AI Mode thay đổi tìm kiếm](/articles/google-ai-mode-search-2026-tim-kiem-ai-thay-doi-lon-nhat-25-nam.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4nQnhjimB4Y/maxresdefault.jpg" alt="ChatGPT GPT-5.5 Instant với bộ nhớ và cá nhân hóa mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4nQnhjimB4Y/maxresdefault.jpg" alt="ChatGPT GPT-5.5 Instant với bộ nhớ và cá nhân hóa mới" loading="lazy" width="1280" height="720">
   <figcaption>Bộ nhớ mới giúp ChatGPT nhớ ngữ cảnh tốt hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Song song với việc nâng cấp, OpenAI dọn bớt các mô hình cũ. GPT-5
 Việc khai tử mô hình cũ là điều thường thấy khi các phiên bản mới mạnh hơn ra đời. Nó giúp OpenAI tập trung nguồn lực vào dòng GPT-5.5 và giảm chi phí duy trì nhiều mô hình song song. Với người dùng, thay đổi này diễn ra khá liền mạch nhờ cơ chế tự chuyển sang mô hình mới, nhưng những ai có thói quen dùng một mô hình cụ thể nên lưu ý để điều chỉnh. Cuộc cạnh tranh buộc mọi hãng liên tục làm mới sản phẩm, như có thể thấy ở bài [xAI Grok cập nhật tháng 6/2026](/articles/xai-grok-cap-nhat-thang-6-2026-grok-4-3-aws-grok-cho-word-mo-hinh-moi.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WrzjjM2DSxU/maxresdefault.jpg" alt="OpenAI khai tử GPT-5.2 và GPT-4.5 chuyển sang GPT-5.5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WrzjjM2DSxU/maxresdefault.jpg" alt="OpenAI khai tử GPT-5.2 và GPT-4.5 chuyển sang GPT-5.5" loading="lazy" width="1280" height="720">
   <figcaption>GPT-5.2 và GPT-4.5 lần lượt bị khai tử trong tháng 6/2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một điểm nhấn khác là GPT-Rosalind, mô hình OpenAI giới thiệu ng�
 GPT-Rosalind là ví dụ rõ nét cho xu hướng AI chuyên ngành, nơi mô hình được tối ưu cho một lĩnh vực cụ thể thay vì chỉ phục vụ nhu cầu tổng quát. Xu hướng này cho thấy AI đang đi sâu vào từng ngành, từ y sinh tới tài chính và kỹ thuật, mang lại giá trị chuyên môn cao hơn. Với cộng đồng nghiên cứu Việt Nam, các công cụ như vậy có thể hỗ trợ đắc lực, miễn là kết quả luôn được kiểm chứng bởi chuyên gia trước khi ứng dụng thực tế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/A9G3s8Qeu_8/maxresdefault.jpg" alt="GPT-Rosalind mô hình AI cho nghiên cứu khoa học sự sống" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/A9G3s8Qeu_8/maxresdefault.jpg" alt="GPT-Rosalind mô hình AI cho nghiên cứu khoa học sự sống" loading="lazy" width="1280" height="720">
   <figcaption>GPT-Rosalind đại diện cho xu hướng AI chuyên ngành. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -71,7 +71,7 @@ Về mặt kỹ thuật, Muse Image được thiết kế vận hành theo cơ c
 Điều khiến Muse Image nhanh chóng trở thành tâm điểm tranh cãi không nằm ở công nghệ, mà ở cách Meta triển khai tính năng liên quan tới dữ liệu ảnh cá nhân. Thay vì áp dụng cơ chế yêu cầu người dùng chủ động đồng ý (opt-in) trước khi ảnh của họ được dùng làm dữ liệu tham chiếu, Meta lại mặc định kích hoạt quyền khai thác này cho tất cả tài khoản công khai. Điều này đồng nghĩa bất kỳ ai có tài khoản Instagram ở chế độ công khai đều có thể trở thành nguồn dữ liệu tham chiếu cho người dùng khác tạo ảnh, mà không nhận được bất kỳ thông báo nào, trừ khi họ tự tìm cách vào phần cài đặt để vô hiệu hoá tính năng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/eNIdY_TLf3Y/hqdefault.jpg" alt="Muse Image mô hình AI tạo ảnh mới của Meta gây tranh cãi quyền riêng tư" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/eNIdY_TLf3Y/hqdefault.jpg" alt="Muse Image mô hình AI tạo ảnh mới của Meta gây tranh cãi quyền riêng tư" loading="lazy" width="1280" height="720">
   <figcaption>Muse Image được giới thiệu là mô hình tạo ảnh AI viết mã tự động, nhưng cách triển khai quyền truy cập dữ liệu ảnh lại vấp phải chỉ trích. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,14 +82,14 @@ Cơ chế mặc định bật này nhanh chóng vấp phải làn sóng chỉ tr
 Phản ứng dữ dội không chỉ đến từ người dùng cá nhân, trong bối cảnh các tập đoàn công nghệ lớn cũng đang chạy đua đầu tư hạ tầng để vận hành các mô hình AI ngày càng phức tạp, tương tự cách [Meta song song công bố kế hoạch sản xuất chip AI Iris trị giá hàng trăm tỷ USD](/articles/meta-iris-chip-ai-tu-phat-trien-145-ty-usd-2026.html) chỉ trong cùng tháng. Nghiệp đoàn diễn viên Mỹ SAG-AFTRA, tổ chức từng nhiều lần lên tiếng về nguy cơ từ các bản sao kỹ thuật số (digital replica) không có sự cho phép trong ngành giải trí, cũng công khai hoan nghênh quyết định gỡ bỏ Muse Image của Meta, xem đây là một lựa chọn có trách nhiệm giữa bối cảnh lo ngại ngày càng gia tăng về việc AI có thể sao chép danh tính người thật mà không cần sự đồng thuận.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LI0JDDm8MdU/hqdefault.jpg" alt="Phản ứng của người dùng về tính năng AI tạo ảnh mới của Meta" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LI0JDDm8MdU/hqdefault.jpg" alt="Phản ứng của người dùng về tính năng AI tạo ảnh mới của Meta" loading="lazy" width="1280" height="720">
   <figcaption>Làn sóng phản đối trên mạng xã hội buộc Meta phải đưa ra quyết định gỡ bỏ tính năng chỉ trong vài ngày. Nguồn: YouTube</figcaption>
 </figure>
 
 Trước áp lực này, Meta thừa nhận Muse Image "không đáp ứng kỳ vọng" sau khi tiếp nhận phản hồi từ cộng đồng và quyết định gỡ bỏ hoàn toàn tính năng, thay vì chỉ điều chỉnh lại cơ chế đồng ý của người dùng như nhiều người kỳ vọng ban đầu. Đây được xem là một trong những lần hiếm hoi một tập đoàn công nghệ lớn phải rút lại toàn bộ một sản phẩm AI mới chỉ sau vài ngày ra mắt vì lý do đạo đức và quyền riêng tư, tương phản với xu hướng chung của ngành hiện nay là ưu tiên tung sản phẩm nhanh rồi điều chỉnh dần sau, một cách tiếp cận có phần thận trọng hơn cách [DeepSeek liên tục cập nhật và mã nguồn mở các công cụ AI của mình](/articles/deepseek-v4-dspark-khai-tu-api-cu-24-7-2026.html) mà không vấp phải tranh cãi tương tự về dữ liệu người dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/snDvjyMBr-s/hqdefault.jpg" alt="Trải nghiệm thực tế Muse Video, tính năng liên quan tới Muse Image của Meta" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/snDvjyMBr-s/hqdefault.jpg" alt="Trải nghiệm thực tế Muse Video, tính năng liên quan tới Muse Image của Meta" loading="lazy" width="1280" height="720">
   <figcaption>Meta cũng từng giới thiệu bản xem trước Muse Video cùng thời điểm ra mắt Muse Image, hiện vẫn đang được đánh giá lại sau sự cố quyền riêng tư. Nguồn: YouTube</figcaption>
 </figure>
 

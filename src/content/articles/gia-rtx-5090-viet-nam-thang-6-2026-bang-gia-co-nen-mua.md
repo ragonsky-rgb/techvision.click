@@ -64,7 +64,7 @@ Khoảng cách giá giữa các phiên bản RTX 5090 tại Việt Nam hiện r�
 Lên cao hơn, những bản cao cấp như ASUS ROG Astral với hệ thống tản nhiệt đồ sộ và khả năng ép xung tốt có thể vượt mốc 100 triệu đồng. Mức chênh này phản ánh cả chất lượng tản nhiệt lẫn độ khan hiếm: bản nào nguồn cung càng ít thì giá đội lên càng mạnh trong giai đoạn căng thẳng bộ nhớ hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/eA5lFiP3mrs/maxresdefault.jpg" alt="RTX 5090 với 32GB GDDR7 là card chơi game mạnh nhất thị trường" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/eA5lFiP3mrs/maxresdefault.jpg" alt="RTX 5090 với 32GB GDDR7 là card chơi game mạnh nhất thị trường" loading="lazy" width="1280" height="720">
   <figcaption>RTX 5090 bản tiêu chuẩn mang 32GB GDDR7, dư sức cân mọi tựa game ở 4K. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Nhiều người chờ RTX 5090 Ti với 48GB bộ nhớ như một lựa chọn
 Quan trọng hơn, trong bối cảnh GDDR7 đang khan hiếm, một card tăng tới 48GB bộ nhớ nếu ra mắt nhiều khả năng sẽ có giá rất cao và nhắm tới nhóm người dùng chuyên nghiệp về AI, render và sáng tạo nội dung hơn là game thủ phổ thông. Người chỉ chơi game không nên chờ đợi phiên bản này, vì thời điểm và mức giá đều chưa có gì chắc chắn. Để cân nhắc kỹ hơn, xem bài [so sánh RTX 5090 và 5090 Ti 48GB: nên mua bản nào](/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-5M-h0REurY/maxresdefault.jpg" alt="Có nên hoảng loạn vì giá RTX 5090 tăng cao hay không" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-5M-h0REurY/maxresdefault.jpg" alt="Có nên hoảng loạn vì giá RTX 5090 tăng cao hay không" loading="lazy" width="1280" height="720">
   <figcaption>Giá cao nhưng không nên vội vàng, lời khuyên là cân nhắc theo nhu cầu thực. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Câu trả lời phụ thuộc vào việc bạn cần card để làm gì. Vớ
 Ngược lại, nếu mục đích chính chỉ là chơi game và chưa thực sự gấp, lời khuyên là chờ. Giá hiện tại đang bị thổi lên bởi yếu tố nhất thời là thiếu hụt bộ nhớ, không phản ánh giá trị thật của sản phẩm. Khi nguồn cung GDDR7 ổn định trở lại, giá nhiều khả năng sẽ hạ nhiệt. Người muốn tiết kiệm cũng có thể cân nhắc các lựa chọn phần cứng khác trong hệ sinh thái đang mở rộng, chẳng hạn nền tảng [chip Arm NVIDIA N1X cho laptop](/articles/nvidia-n1x-n1-chip-arm-laptop-computex-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DCeQ52egVok/maxresdefault.jpg" alt="RTX 5090 thử nghiệm hiệu năng chơi game ở độ phân giải 4K" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DCeQ52egVok/maxresdefault.jpg" alt="RTX 5090 thử nghiệm hiệu năng chơi game ở độ phân giải 4K" loading="lazy" width="1280" height="720">
   <figcaption>Hiệu năng 4K của RTX 5090 vẫn dẫn đầu, nhưng giá là rào cản lớn nhất. Nguồn: YouTube</figcaption>
 </figure>
 

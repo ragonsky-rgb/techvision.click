@@ -72,7 +72,7 @@ Nâng cấp quan trọng nhất của Ranger 2026 không nằm ở thiết kế 
 Dải sản phẩm Ranger 2026 tại Việt Nam gồm XLS 2.0L AT 4x2 giá 707 triệu, XLS 2.0L AT 4x4 giá 776 triệu, Wildtrak 2.0L 4x4 giá 949 triệu, Wildtrak 3.0L V6 diesel giá 1,093 tỷ và đầu bảng Ranger Raptor 3.0L EcoBoost giá 1,448 tỷ đồng. Mức giá này đã gồm VAT và được Ford cam kết áp dụng tới hết ngày 30/9/2026, một điểm đáng chú ý trong bối cảnh nhiều dòng xe đang rục rịch điều chỉnh giá vì biến động chi phí linh kiện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/P2F7-7vBVSU/hqdefault.jpg" alt="Nội thất và ngoại thất Ford Ranger Wildtrak 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/P2F7-7vBVSU/hqdefault.jpg" alt="Nội thất và ngoại thất Ford Ranger Wildtrak 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ranger Wildtrak 2026 giữ màn hình trung tâm 12 inch đặt dọc chạy SYNC 4A cùng loạt công nghệ hỗ trợ lái. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Trong dải sản phẩm này, Wildtrak V6 là cái tên đáng bàn nhất. Phi
 Song song với đợt nâng cấp sản phẩm, Ford Việt Nam công bố chính sách bảo hành tiêu chuẩn mới cho Ranger và Everest: 5 năm hoặc 150.000 km tùy điều kiện nào đến trước. So với mặt bằng 3 năm hoặc 100.000 km phổ biến của phân khúc, đây là bước nhảy đáng kể về cam kết sau bán hàng, đặc biệt có ý nghĩa với nhóm khách hàng doanh nghiệp và người dùng chạy dịch vụ vốn tích lũy số km rất nhanh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/S-tV0okYDtw/hqdefault.jpg" alt="Ford Ranger Raptor thể hiện khả năng off-road" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/S-tV0okYDtw/hqdefault.jpg" alt="Ford Ranger Raptor thể hiện khả năng off-road" loading="lazy" width="1280" height="720">
   <figcaption>Ranger Raptor 3.0L EcoBoost giá 1,448 tỷ đồng tiếp tục là đầu bảng của dải sản phẩm tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Song song với đợt nâng cấp sản phẩm, Ford Việt Nam công bố chí
 ## Chọn phiên bản nào cho hợp lý
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SY7xHl0V97s/hq720.jpg" alt="Ford Ranger Wildtrak V6 2026 vận hành trên đường trường" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SY7xHl0V97s/hq720.jpg" alt="Ford Ranger Wildtrak V6 2026 vận hành trên đường trường" loading="lazy" width="1280" height="720">
   <figcaption>Khoản chênh khoảng 144 triệu giữa Wildtrak 2.0L và Wildtrak V6 đổi lấy động cơ V6 600 Nm êm và khỏe hơn rõ rệt. Nguồn: YouTube</figcaption>
 </figure>
 

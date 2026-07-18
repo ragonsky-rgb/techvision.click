@@ -78,7 +78,7 @@ Ngoài ra, khả năng lau nước nóng cũng là một điểm đáng chú ý.
 Ngoài bản thân robot, trạm sạc đi kèm cũng là một điểm nhấn quan trọng của V50 Ultra. Trạm này hoạt động theo kiểu tất cả trong một, đảm nhận gần như toàn bộ các công việc bảo trì mà thông thường người dùng phải tự làm. Cụ thể, trạm tự động châm nước cho robot, giặt sạch giẻ lau, hút rác từ hộp chứa của robot và sạc pin.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/B6pjlzeTSSA/hqdefault.jpg" alt="Trạm sạc đa năng của MOVA V50 Ultra tự động giặt giẻ, hút rác và châm nước" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/B6pjlzeTSSA/hqdefault.jpg" alt="Trạm sạc đa năng của MOVA V50 Ultra tự động giặt giẻ, hút rác và châm nước" loading="lazy" width="1280" height="720">
   <figcaption>Trạm sạc tất cả trong một giúp giảm tối đa công sức bảo trì của người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Mức độ tự động hóa này mang lại lợi ích rõ rệt về sự ti�
 ## Vị thế tại thị trường Việt Nam
 
 <figure>
-  <img src="https://i.ytimg.com/vi/VDQDfb61vVA/hqdefault.jpg" alt="MOVA V50 Ultra cạnh tranh trong phân khúc robot hút bụi cao cấp tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VDQDfb61vVA/hqdefault.jpg" alt="MOVA V50 Ultra cạnh tranh trong phân khúc robot hút bụi cao cấp tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>MOVA V50 Ultra bước vào phân khúc cao cấp đầy cạnh tranh tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
 Tại Việt Nam, MOVA V50 Ultra có giá niêm yết 19,99 triệu đồng, định vị rõ ràng ở phân khúc cao cấp. Toàn bộ dải sản phẩm MOVA trải dài từ khoảng 8 triệu tới gần 20 triệu đồng, cho thấy hãng muốn phủ nhiều phân khúc khác nhau ngay khi gia nhập thị trường. Các sản phẩm được nhập khẩu và phân phối chính hãng bởi Công ty Besttech, giúp người dùng yên tâm hơn về bảo hành và hỗ trợ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-EBk_d9dWtg/hqdefault.jpg" alt="MOVA mang tới nhiều lựa chọn mới cho thị trường robot hút bụi Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-EBk_d9dWtg/hqdefault.jpg" alt="MOVA mang tới nhiều lựa chọn mới cho thị trường robot hút bụi Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Sự xuất hiện của MOVA mang tới thêm lựa chọn cho người dùng Việt. Nguồn: YouTube</figcaption>
 </figure>
 

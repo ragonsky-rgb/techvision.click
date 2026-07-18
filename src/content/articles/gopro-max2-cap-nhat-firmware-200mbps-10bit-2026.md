@@ -68,7 +68,7 @@ Thay đổi kỹ thuật quan trọng nhất trong bản cập nhật là việc
 Song song đó, MAX2 giờ đây hỗ trợ quay màu 10-bit, gấp 4 lần lượng thông tin màu so với 8-bit truyền thống, mang lại dải chuyển màu mượt hơn, đặc biệt rõ rệt ở các cảnh hoàng hôn, bầu trời hoặc vùng có gradient màu lớn, vốn dễ bị hiện tượng dải màu (banding) khi quay ở 8-bit. Kết hợp với bitrate cao hơn, đây là bước tiến giúp footage từ MAX2 gần hơn với chất lượng máy quay bán chuyên, dễ dàng đáp ứng yêu cầu khắt khe của các dự án thương mại, quảng cáo du lịch.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/izCAzHVj2fg/hqdefault.jpg" alt="GoPro Max 2 cap nhat tinh nang moi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/izCAzHVj2fg/hqdefault.jpg" alt="GoPro Max 2 cap nhat tinh nang moi 2026" loading="lazy" width="1280" height="480">
   <figcaption>GoPro MAX2 với các tính năng mới được giới thiệu trong bản cập nhật. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,14 +77,14 @@ Song song đó, MAX2 giờ đây hỗ trợ quay màu 10-bit, gấp 4 lần lư�
 Tính năng được giới làm phim chuyên nghiệp chờ đợi nhất trong bản cập nhật là chế độ màu GP-Log, một dạng color profile phẳng (flat) tương tự các chế độ Log có trên máy quay điện ảnh và máy ảnh cao cấp. Khi quay ở GP-Log, hình ảnh xuất ra sẽ có độ tương phản thấp, màu sắc nhạt hơn so với bình thường, nhưng đổi lại giữ được nhiều chi tiết hơn ở cả vùng sáng lẫn vùng tối, tạo dư địa lớn để người dựng video tinh chỉnh màu sắc, độ tương phản trong phần mềm hậu kỳ theo đúng phong cách mong muốn thay vì bị giới hạn bởi màu được xử lý sẵn trong máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/nOjtdxtLCME/hq720.jpg" alt="GoPro Max 2 GP-Log mau phang dung mau chuyen nghiep" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/nOjtdxtLCME/hq720.jpg" alt="GoPro Max 2 GP-Log mau phang dung mau chuyen nghiep" loading="lazy" width="1280" height="480">
   <figcaption>Chế độ GP-Log trên GoPro MAX2 cho phép dựng màu linh hoạt hơn trong hậu kỳ. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài hai nâng cấp chính kể trên, bản cập nhật còn bổ sung nút bật tắt nhanh tính năng chống nhấp nháy (Anti-Flickering), giúp người dùng dễ dàng chuyển đổi giữa các môi trường ánh sáng khác nhau, đặc biệt hữu ích khi quay trong nhà dưới ánh đèn huỳnh quang hoặc đèn LED, nơi camera dễ bắt phải hiện tượng nhấp nháy do tần số đèn không đồng bộ với tốc độ màn trập. Trước đây người dùng phải vào sâu trong menu cài đặt để điều chỉnh, còn giờ thao tác này được đưa lên giao diện nhanh, tiết kiệm thời gian đáng kể khi quay thực tế ngoài hiện trường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1joLhQ0pC8o/hq720.jpg" alt="GoPro Max 2 chong nhap nhay quay video chuyen nghiep" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1joLhQ0pC8o/hq720.jpg" alt="GoPro Max 2 chong nhap nhay quay video chuyen nghiep" loading="lazy" width="1280" height="720">
   <figcaption>Tính năng chống nhấp nháy và các cải tiến quay video trên GoPro MAX2. Nguồn: YouTube</figcaption>
 </figure>
 

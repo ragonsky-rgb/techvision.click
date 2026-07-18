@@ -76,7 +76,7 @@ Kết quả là một thành tích ấn tượng 14 thắng 1 thua trong ngày t
 Chức vô địch của Hikari còn mang ý nghĩa lớn với chính tựa game 2XKO. Đây là sản phẩm đối kháng dạng tag fighter của Riot Games, hãng đứng sau Liên Minh Huyền Thoại, cho phép người chơi điều khiển các tướng quen thuộc trong một game đấu đối kháng theo cặp. EVO 2026 là lần đầu tiên 2XKO góp mặt chính thức tại EVO Las Vegas, và màn ra mắt này đã thành công ngoài mong đợi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/VF5LCIQyhSg/hqdefault.jpg" alt="2XKO của Riot Games lần đầu góp mặt tại EVO Las Vegas 2026 với 1.080 tuyển thủ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VF5LCIQyhSg/hqdefault.jpg" alt="2XKO của Riot Games lần đầu góp mặt tại EVO Las Vegas 2026 với 1.080 tuyển thủ" loading="lazy" width="1280" height="720">
   <figcaption>2XKO thu hút 1.080 tuyển thủ, là nhánh đông thứ ba tại EVO 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Con số 1.080 tuyển thủ đăng ký tham dự đã đưa 2XKO trở thành n
 ## Hikari và dấu ấn đa tài
 
 <figure>
-  <img src="https://i.ytimg.com/vi/f2KZcuecUe0/hqdefault.jpg" alt="Hikari dùng bộ đôi Akali và Ahri trên hành trình vô địch 2XKO EVO 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/f2KZcuecUe0/hqdefault.jpg" alt="Hikari dùng bộ đôi Akali và Ahri trên hành trình vô địch 2XKO EVO 2026" loading="lazy" width="1280" height="720">
   <figcaption>Hikari sử dụng bộ đôi tướng Akali và Ahri trong hành trình lên ngôi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Với chiến thắng này, Hikari trở thành nhà vô địch EVO bốn lần
 Việc Hikari chọn 2XKO, một tựa game hoàn toàn mới, và ngay lập tức vô địch tại EVO cũng nói lên nhiều điều. Ở một tựa game mới, không ai có lợi thế kinh nghiệm lâu năm, nên chiến thắng thường thuộc về người học nhanh nhất và hiểu sâu nhất về cơ chế game. Hikari đã cho thấy anh thuộc nhóm này, đồng thời tận dụng tốt sự phối hợp giữa hai tướng Akali và Ahri để tạo ra lối chơi khó lường. Thành công này có thể mở ra một chương mới trong sự nghiệp của anh, gắn liền với một tựa game đang lên.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/znpjqEZYUt4/hqdefault.jpg" alt="Hikari thể hiện lối chơi đa dạng và trình độ cao trong tựa game 2XKO" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/znpjqEZYUt4/hqdefault.jpg" alt="Hikari thể hiện lối chơi đa dạng và trình độ cao trong tựa game 2XKO" loading="lazy" width="1280" height="720">
   <figcaption>Hikari khẳng định tài năng đa dạng khi vô địch trên hai tựa game khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

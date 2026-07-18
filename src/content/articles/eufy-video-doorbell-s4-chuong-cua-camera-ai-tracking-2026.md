@@ -71,7 +71,7 @@ Kết hợp với công nghệ xoay camera, thiết bị còn cung cấp góc nh
 Về chất lượng hình ảnh, eufy Video Doorbell S4 quay video ở độ phân giải 3K với tốc độ khung hình 24fps, cho hình ảnh sắc nét ngay cả khi phóng to để xem chi tiết khuôn mặt hoặc biển số xe. Hệ thống AI của thiết bị có khả năng nhận diện khuôn mặt người quen thuộc từ khoảng cách khoảng 26 feet, tương đương 8 mét, đồng thời phát hiện sự hiện diện của người lạ từ khoảng cách xa hơn nhiều, lên tới 78 feet, tương đương khoảng 24 mét. Thiết bị cũng có khả năng nhận diện các gói hàng được để lại trước cửa, gửi thông báo riêng biệt để chủ nhà phân biệt giữa khách ghé thăm và bưu kiện giao hàng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/REcs6E0gkwE/hq720.jpg" alt="eufy Video Doorbell S4 do phan giai 3K nhan dien khuon mat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/REcs6E0gkwE/hq720.jpg" alt="eufy Video Doorbell S4 do phan giai 3K nhan dien khuon mat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Camera 3K của eufy Video Doorbell S4 cho hình ảnh sắc nét, hỗ trợ nhận diện khuôn mặt từ xa. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,14 +82,14 @@ Cảm biến chuyển động của thiết bị kết hợp cả radar và cả
 Một điểm cộng lớn khác của eufy Video Doorbell S4 là bộ nhớ lưu trữ cục bộ tích hợp sẵn dung lượng 64GB, đủ lưu trữ video ghi hình trong thời gian dài mà không bắt buộc người dùng phải đăng ký thêm gói thuê bao đám mây hằng tháng như nhiều đối thủ cạnh tranh khác trên thị trường camera an ninh hiện nay. Đây tiếp tục là triết lý sản phẩm quen thuộc của dòng eufy, vốn luôn nhấn mạnh yếu tố quyền riêng tư dữ liệu và chi phí sử dụng lâu dài thấp hơn so với các đối thủ yêu cầu phí thuê bao bắt buộc để mở khóa đầy đủ tính năng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZnI0fhyfy1M/hqdefault.jpg" alt="eufy Video Doorbell S4 luu tru 64GB khong can phi dam may 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZnI0fhyfy1M/hqdefault.jpg" alt="eufy Video Doorbell S4 luu tru 64GB khong can phi dam may 2026" loading="lazy" width="1280" height="480">
   <figcaption>Bộ nhớ 64GB tích hợp sẵn giúp người dùng không bắt buộc phải trả thêm phí lưu trữ đám mây. Nguồn: YouTube</figcaption>
 </figure>
 
 Về nguồn điện, thiết bị hỗ trợ nhiều phương án cấp nguồn linh hoạt, có thể tận dụng dây chuông cửa có sẵn từ trước tại nhà, dùng pin tích hợp có thể sạc rời, hoặc gắn thêm tấm pin năng lượng mặt trời tùy chọn để duy trì hoạt động liên tục mà không cần tháo ra sạc thường xuyên, phù hợp với nhiều kiểu lắp đặt khác nhau tùy điều kiện thực tế của từng ngôi nhà. Với những ai đang tìm hiểu thêm về các dòng camera giám sát khác để lắp đặt đồng bộ trong nhà, bài viết [cách chọn camera an ninh gia đình theo 5 tiêu chí quan trọng năm 2026](/articles/cach-chon-camera-an-ninh-gia-dinh-2026.html) và [top camera an ninh đáng mua tháng 7/2026](/articles/top-camera-an-ninh-dang-mua-thang-7-2026.html) là hai tài liệu tham khảo hữu ích để lên kế hoạch trang bị hệ thống giám sát toàn diện cho ngôi nhà.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-1rgP1Z3VIo/hqdefault.jpg" alt="eufy Video Doorbell S4 radar cam bien chuyen dong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/-1rgP1Z3VIo/hqdefault.jpg" alt="eufy Video Doorbell S4 radar cam bien chuyen dong 2026" loading="lazy" width="1280" height="480">
   <figcaption>Cảm biến radar kết hợp AI giúp eufy Video Doorbell S4 giảm đáng kể tình trạng báo động giả. Nguồn: YouTube</figcaption>
 </figure>
 

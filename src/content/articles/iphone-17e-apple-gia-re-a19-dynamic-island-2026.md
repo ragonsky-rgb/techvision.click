@@ -76,7 +76,7 @@ Một nâng cấp đáng giá về thiết kế là việc iPhone 17e được b
 Bên cạnh đó, MagSafe trở lại trên iPhone 17e cũng là điểm cộng. Công nghệ nam châm này cho phép sạc không dây tiện lợi và gắn các phụ kiện như ốp lưng, ví, đế sạc một cách chắc chắn. Việc đưa MagSafe xuống dòng giá rẻ mở rộng hệ sinh thái phụ kiện cho người dùng phổ thông. Màn hình OLED 6.1 inch Super Retina XDR với độ sáng tối đa 1.200 nit cũng đảm bảo hiển thị đẹp, rõ ngoài trời, đáp ứng tốt nhu cầu xem nội dung hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/IPal6e1XMHA/maxresdefault.jpg" alt="Trên tay iPhone 17e 256GB với Apple A19" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IPal6e1XMHA/maxresdefault.jpg" alt="Trên tay iPhone 17e 256GB với Apple A19" loading="lazy" width="1280" height="720">
   <figcaption>iPhone 17e bổ sung Dynamic Island và MagSafe vào dòng giá rẻ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về camera, iPhone 17e trang bị một camera sau 48MP và camera trước 12M
 Về pin, máy đạt thời lượng xem video tới 26 giờ, một con số ấn tượng đảm bảo dùng thoải mái cả ngày dài. Kết hợp với chip A19 tiết kiệm điện và tối ưu phần mềm của Apple, iPhone 17e mang lại trải nghiệm ổn định và bền bỉ. Với thiết kế nhỏ gọn nặng khoảng 170g cùng ba màu Đen, Trắng và Hồng Phai, máy phù hợp với nhiều đối tượng người dùng. Người quan tâm tới xu hướng giá iPhone nói chung có thể tham khảo bài [iPhone 18 tăng giá vì bộ nhớ và AI](/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html) để hiểu bối cảnh định giá của Apple.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Smz-mpUuOGk/maxresdefault.jpg" alt="Đánh giá ưu nhược điểm iPhone 17e tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Smz-mpUuOGk/maxresdefault.jpg" alt="Đánh giá ưu nhược điểm iPhone 17e tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Camera 48MP và pin 26 giờ đáp ứng tốt nhu cầu hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ iPhone 17e nằm ở vị trí khởi đầu của dòng iPhone 17, hướng t�
 So với điện thoại Android cùng tầm giá, iPhone 17e có lợi thế về chip mạnh, phần mềm được hỗ trợ lâu dài và hệ sinh thái Apple. Tuy nhiên, các máy Android tầm trung cao cấp thường có nhiều camera, sạc nhanh hơn và màn tần số quét cao. Lựa chọn giữa hai bên phụ thuộc vào việc người dùng ưu tiên hệ sinh thái Apple hay các thông số phần cứng. Với người đang cân nhắc mua iPhone cũ thay vì máy mới, nên tham khảo bài [cách kiểm tra iPhone cũ trước khi mua](/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html) để tránh rủi ro.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/x7OIfIMoUKQ/maxresdefault.jpg" alt="Đánh giá iPhone 17e chiếc iPhone rẻ nhất có đáng mua" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/x7OIfIMoUKQ/maxresdefault.jpg" alt="Đánh giá iPhone 17e chiếc iPhone rẻ nhất có đáng mua" loading="lazy" width="1280" height="720">
   <figcaption>iPhone 17e là cửa ngõ vào hệ sinh thái iPhone với giá hợp lý. Nguồn: YouTube</figcaption>
 </figure>
 

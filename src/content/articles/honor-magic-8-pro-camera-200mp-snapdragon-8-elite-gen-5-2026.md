@@ -74,7 +74,7 @@ Cách tiếp cận này đặt Honor vào thế cạnh tranh trực tiếp với
 Thông số gây bất ngờ thứ hai là viên pin 7100mAh. Đây là dung lượng thuộc nhóm lớn nhất trên các flagship hiện nay, đặc biệt ấn tượng khi máy vẫn giữ được thân hình mỏng gọn của một sản phẩm cao cấp. Để làm được điều này, Honor áp dụng công nghệ pin mật độ năng lượng cao, cho phép nhồi nhiều dung lượng hơn vào cùng một thể tích so với pin lithium truyền thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SnpnOz5hNfs/hqdefault.jpg" alt="Honor Magic 8 Pro thể hiện khả năng chụp tele ban đêm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SnpnOz5hNfs/hqdefault.jpg" alt="Honor Magic 8 Pro thể hiện khả năng chụp tele ban đêm" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng chụp tele trong điều kiện thiếu sáng là điểm được nhiều bài đánh giá khen ngợi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Với người dùng, con số 7100mAh đồng nghĩa thời lượng sử dụn
 Trái tim của Magic 8 Pro là chip Snapdragon 8 Elite Gen 5, vi xử lý đầu bảng mới nhất của Qualcomm cho Android năm 2026. Việc trở thành một trong những máy toàn cầu đầu tiên chạy con chip này giúp Honor giành lợi thế về mặt hình ảnh thương hiệu, đồng thời mang lại sức mạnh xử lý và khả năng chạy tác vụ AI trên thiết bị ở nhóm cao nhất thị trường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ITOp9CJ_NZ0/hqdefault.jpg" alt="Honor Magic 8 Pro so tài camera và AI với các flagship khác" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ITOp9CJ_NZ0/hqdefault.jpg" alt="Honor Magic 8 Pro so tài camera và AI với các flagship khác" loading="lazy" width="1280" height="720">
   <figcaption>Honor định vị Magic 8 Pro cạnh tranh trực tiếp với Samsung ở mảng AI và camera. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Sức mạnh của chip mới không chỉ phục vụ chơi game hay đa nhiệ
 ## Honor muốn gì ở phân khúc cao cấp
 
 <figure>
-  <img src="https://i.ytimg.com/vi/iwKW4uydLHE/hqdefault.jpg" alt="Tổng quan thiết kế và trang bị Honor Magic 8 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/iwKW4uydLHE/hqdefault.jpg" alt="Tổng quan thiết kế và trang bị Honor Magic 8 Pro" loading="lazy" width="1280" height="720">
   <figcaption>Magic 8 Pro là lời thách thức của Honor gửi tới Samsung và Apple ở phân khúc flagship. Nguồn: YouTube</figcaption>
 </figure>
 

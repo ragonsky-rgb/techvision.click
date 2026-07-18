@@ -71,7 +71,7 @@ Ngoài việc khớp socket, người dùng có ý định nâng cấp CPU trong
 Chipset trên bo mạch chủ quyết định trực tiếp các tính năng khả dụng, từ số làn PCIe, số khe M.2 tốc độ cao tới khả năng ép xung CPU và RAM. Với nhu cầu phổ thông, chipset dòng B (như B650, B850 với AMD) là lựa chọn cân bằng tốt giữa tính năng và chi phí, đủ đáp ứng hầu hết nhu cầu chơi game và làm việc hàng ngày. Chipset cao cấp hơn như X870E hay Z890 phù hợp người dùng cần nhiều làn PCIe 5.0, nhiều khe M.2 tốc độ cao nhất và khả năng ép xung sâu hơn cho cả CPU lẫn RAM.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/7CVkfi0_mME/hqdefault.jpg" alt="Tinh nang bo mach chu can thiet nam 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/7CVkfi0_mME/hqdefault.jpg" alt="Tinh nang bo mach chu can thiet nam 2026" loading="lazy" width="1280" height="480">
   <figcaption>Giải thích chi tiết những tính năng bo mạch chủ thực sự cần thiết, tránh trả tiền cho tính năng không dùng tới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,14 +80,14 @@ Chipset trên bo mạch chủ quyết định trực tiếp các tính năng kh�
 Bo mạch chủ có ba kích thước form factor phổ biến: ATX là kích thước tiêu chuẩn lớn nhất với nhiều khe cắm mở rộng nhất, phù hợp dàn máy hiệu năng cao cần nhiều linh kiện. mATX nhỏ gọn hơn nhưng vẫn đủ khe cắm cơ bản, phù hợp đa số nhu cầu phổ thông và vừa với nhiều loại case tầm trung. ITX là kích thước nhỏ nhất, phù hợp case mini gọn nhẹ nhưng hạn chế đáng kể số khe RAM và khe mở rộng, đòi hỏi người dùng cân nhắc kỹ nhu cầu trước khi chọn dòng này. Trước khi mua, nên tham khảo thêm [cách chọn case PC phù hợp với kích thước bo mạch chủ](/articles/cach-chon-case-pc-vo-may-tinh-2026-tieu-chi.html) để đảm bảo hai linh kiện này tương thích với nhau.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mNIzRRZyDKE/hqdefault.jpg" alt="Bo mach chu ATX mATX ITX so sanh kich thuoc" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mNIzRRZyDKE/hqdefault.jpg" alt="Bo mach chu ATX mATX ITX so sanh kich thuoc" loading="lazy" width="1280" height="480">
   <figcaption>So sánh chi tiết các kích thước form factor bo mạch chủ phổ biến hiện nay, từ ATX tới ITX. Nguồn: YouTube</figcaption>
 </figure>
 
 Người xây dựng dàn máy mini nhỏ gọn cũng cần lưu ý bo mạch chủ ITX thường có giá cao hơn đáng kể so với ATX hoặc mATX cùng chipset, do quy trình sản xuất phức tạp hơn để nhồi nhét đầy đủ tính năng vào diện tích nhỏ, đây là điểm cần cân nhắc kỹ khi lập ngân sách cho dàn máy nhỏ gọn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/EORqOgqjVzk/hqdefault.jpg" alt="Xep hang bo mach chu tu gia re toi cao cap 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/EORqOgqjVzk/hqdefault.jpg" alt="Xep hang bo mach chu tu gia re toi cao cap 2026" loading="lazy" width="1280" height="480">
   <figcaption>Xếp hạng các bo mạch chủ đáng chú ý năm 2026, trải dài từ phân khúc giá rẻ tới cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -71,14 +71,14 @@ Theo công bố từ Sony, công nghệ True RGB Mini LED giúp Bravia 9 II đ�
 Với độ sáng đỉnh 4.000 nit kết hợp khả năng kiểm soát vùng làm tối chi tiết nhờ 5.000 vùng độc lập, nhiều bài đánh giá độc lập từ các kênh công nghệ quốc tế nhận định Bravia 9 II là chiếc tivi nền tảng LCD đầu tiên thực sự có khả năng cạnh tranh sòng phẳng với công nghệ OLED về chất lượng hình ảnh tổng thể, đặc biệt trong các cảnh có độ sáng cao xen lẫn vùng tối sâu, vốn là điểm yếu truyền thống của công nghệ LCD so với OLED tự phát sáng từng điểm ảnh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1haJtTcK0so/hqdefault.jpg" alt="Sony Bravia 9 II OLED vs LCD so sanh chi tiet 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/1haJtTcK0so/hqdefault.jpg" alt="Sony Bravia 9 II OLED vs LCD so sanh chi tiet 2026" loading="lazy" width="1280" height="480">
   <figcaption>Sony Bravia 9 II khiến ranh giới giữa công nghệ LCD và OLED trở nên mờ nhạt hơn bao giờ hết. Nguồn: YouTube</figcaption>
 </figure>
 
 Tuy vậy, không phải mọi ý kiến đánh giá đều đồng thuận hoàn toàn, một số kênh công nghệ vẫn cho rằng công nghệ OLED giữ lợi thế về độ đen tuyệt đối và góc nhìn rộng, trong khi Bravia 9 II vượt trội hơn ở khả năng chống chói và độ sáng tổng thể trong môi trường có nhiều ánh sáng tự nhiên, phù hợp phòng khách không thể kiểm soát hoàn toàn ánh sáng bên ngoài. Với người dùng đang tìm hiểu sự khác biệt cơ bản giữa các công nghệ tấm nền trước khi mua tivi mới, bài viết [màn hình OLED, AMOLED, LCD khác gì nhau, loại nào tốt hơn](/articles/man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon.html) là tài liệu tham khảo hữu ích để hiểu rõ hơn ưu nhược điểm của từng công nghệ hiển thị.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/J3z1ok-smVc/hqdefault.jpg" alt="Sony Bravia 9 II True RGB TV hands on trai nghiem 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/J3z1ok-smVc/hqdefault.jpg" alt="Sony Bravia 9 II True RGB TV hands on trai nghiem 2026" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm thực tế cho thấy Bravia 9 II mang lại chất lượng hình ảnh vượt trội so với các dòng Mini LED thông thường. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tuy vậy, không phải mọi ý kiến đánh giá đều đồng thuận hoà
 Sony Bravia 9 II có 4 lựa chọn kích thước gồm 65, 75, 85 và 115 inch, đáp ứng đa dạng nhu cầu từ phòng khách gia đình tiêu chuẩn tới không gian rạp hát tại gia quy mô lớn. Giá khởi điểm cho bản 65 inch là 3.599,99 USD tại thị trường Mỹ, tương đương khoảng 4.999,99 CAD tại Canada, đặt sản phẩm vào phân khúc tivi cao cấp nhất hiện có trên thị trường. Tivi được trang bị 2 cổng HDMI 2.1 cùng 2 cổng HDMI 2.0b, đủ đáp ứng nhu cầu kết nối máy chơi game thế hệ mới lẫn các thiết bị âm thanh, hình ảnh khác trong phòng khách. Với người dùng muốn tìm hiểu thêm về các tiêu chí chọn tivi thông minh phù hợp ngân sách và không gian sử dụng thực tế, bài viết [cách chọn smart tivi thông minh theo tiêu chí, kích thước năm 2026](/articles/cach-chon-smart-tivi-thong-minh-2026-tieu-chi-kich-thuoc-tam-nen.html) là tài liệu tham khảo hữu ích, dù Bravia 9 II thuộc phân khúc cao cấp vượt xa mức giá phổ thông mà đa số người dùng cân nhắc. Với ngân sách hợp lý hơn, người dùng có thể tham khảo thêm bài viết [top smart tivi đáng mua tháng 7/2026](/articles/top-smart-tivi-dang-mua-thang-7-2026.html) để có thêm lựa chọn phù hợp túi tiền hơn nhưng vẫn đảm bảo chất lượng hình ảnh tốt cho nhu cầu giải trí gia đình hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KTdTseK72ZY/hqdefault.jpg" alt="Sony Bravia 9 II tivi RGB Mini LED tot nhat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/KTdTseK72ZY/hqdefault.jpg" alt="Sony Bravia 9 II tivi RGB Mini LED tot nhat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều kênh công nghệ xếp Bravia 9 II vào nhóm tivi Mini LED tốt nhất năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

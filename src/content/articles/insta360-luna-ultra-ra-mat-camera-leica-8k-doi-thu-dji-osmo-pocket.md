@@ -65,7 +65,7 @@ Trái tim của Luna Ultra là cụm camera kép phát triển cùng Leica. Came
 Đáng chú ý không kém là ống tele thứ hai với cảm biến 1/1.3 inch, cho zoom quang học 6x và tối đa 12x. Đây là điều dòng Osmo Pocket chưa làm được, mở ra các góc quay nén phối cảnh vốn là điểm yếu cố hữu của camera bỏ túi. Về màu sắc, máy có sẵn hai profile Leica quen thuộc cùng 10-bit I-Log và Dolby Vision cho hậu kỳ chuyên nghiệp. Người quan tâm chất ảnh Leica trên thiết bị di động có thể xem thêm [Xiaomi 17T Series với camera Leica zoom quang 5x](/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/O4mrTbMGAZo/maxresdefault.jpg" alt="Cụm camera kép Leica trên Insta360 Luna Ultra với cảm biến 1 inch" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/O4mrTbMGAZo/maxresdefault.jpg" alt="Cụm camera kép Leica trên Insta360 Luna Ultra với cảm biến 1 inch" loading="lazy" width="1280" height="720">
   <figcaption>Cụm camera kép hợp tác Leica với cảm biến chính 1 inch. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Insta360 trang bị chip AI chuyên dụng cho chế độ quay đêm PureVideo,
 Tổ hợp này nhắm thẳng vào hai tình huống khó nhất của thể loại camera bỏ túi: quay ban đêm và quay chủ thể chuyển động nhanh. Nếu hoạt động đúng như công bố, Luna Ultra sẽ thu hẹp đáng kể khoảng cách với máy ảnh chuyên nghiệp như [Sony A7R VI cảm biến 67MP](/articles/sony-a7r-vi-67mp-camera.html) trong các cảnh quay đời thường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/cPfE8xZbxcY/maxresdefault.jpg" alt="Insta360 Luna Ultra so kè trực tiếp với DJI Osmo Pocket" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/cPfE8xZbxcY/maxresdefault.jpg" alt="Insta360 Luna Ultra so kè trực tiếp với DJI Osmo Pocket" loading="lazy" width="1280" height="720">
   <figcaption>Luna Ultra được đặt lên bàn cân với dòng DJI Osmo Pocket ngay khi ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Luna Ultra mở bán toàn cầu từ ngày 11/6/2026 với giá khởi điểm 
 Pin 1550mAh cho thời gian hoạt động tới 4 giờ, sạc nhanh PD đạt 80% trong khoảng 25 phút. Đây là thông số thực dụng với người quay cả ngày ngoài trời, vốn là nhóm khách hàng chính của thể loại máy này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/X-IXId7OFKI/maxresdefault.jpg" alt="Insta360 Luna Ultra hướng tới vlogger và nhà làm phim độc lập" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/X-IXId7OFKI/maxresdefault.jpg" alt="Insta360 Luna Ultra hướng tới vlogger và nhà làm phim độc lập" loading="lazy" width="1280" height="720">
   <figcaption>Luna Ultra nhắm tới nhà làm phim độc lập và vlogger chuyên nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 

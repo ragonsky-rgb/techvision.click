@@ -69,7 +69,7 @@ Công suất là yếu tố quan trọng quyết định tốc độ nấu chín
 Gia đình nhỏ, ít nấu nướng phức tạp có thể chọn bếp từ 2 vùng nấu là đủ dùng cho nhu cầu hằng ngày. Gia đình đông người hoặc thường xuyên nấu nhiều món cùng lúc, đặc biệt vào dịp lễ tết có nhiều khách tới thăm, nên cân nhắc các dòng bếp từ 3 tới 4 vùng nấu để tiện lợi hơn khi chuẩn bị bữa ăn cho nhiều người mà không phải chờ đợi nấu tuần tự từng món một.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/spKolqXttM0/sddefault.jpg" alt="So sanh bep tu Bosch va Chefs lua chon nao tot hon" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/spKolqXttM0/sddefault.jpg" alt="So sanh bep tu Bosch va Chefs lua chon nao tot hon" loading="lazy" width="1280" height="480">
   <figcaption>So sánh chi tiết giữa bếp từ Bosch và Chefs giúp người mua dễ đưa ra quyết định phù hợp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Khóa trẻ em và tự động tắt khi không phát hiện nồi trên mặt 
 Trước khi mua bếp từ, người dùng nên kiểm tra kỹ bộ nồi hiện có trong nhà có tương thích hay không, bằng cách đưa một cục nam châm nhỏ lại gần đáy nồi. Nếu nam châm hút chặt vào đáy nồi thì nồi đó có thể sử dụng được với bếp từ. Nồi nhôm, thủy tinh hoặc đồng thông thường không có tính từ sẽ không sử dụng được trên bếp từ, người dùng cần đầu tư thêm bộ nồi chuyên dụng riêng, một khoản chi phí phát sinh cần tính toán trước khi quyết định chuyển từ bếp gas sang bếp từ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/spKolqXttM0/mqdefault.jpg" alt="Danh gia chi tiet bep tu tam gia 13 trieu dong" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/spKolqXttM0/mqdefault.jpg" alt="Danh gia chi tiet bep tu tam gia 13 trieu dong" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết giúp người mua hiểu rõ hơn ưu nhược điểm của từng dòng bếp từ trong cùng tầm giá. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nhiều gia đình hiện đang xây dựng gian bếp hiện đại toàn diệ
 Cuối cùng, người mua cũng nên kiểm tra kỹ hệ thống điện trong nhà trước khi lắp đặt bếp từ công suất lớn, vì các dòng bếp từ nhiều vùng nấu thường yêu cầu đường dây điện riêng, tiết diện dây đủ lớn để đảm bảo an toàn và tránh tình trạng quá tải, sụt áp khi sử dụng đồng thời nhiều vùng nấu ở công suất cao cùng lúc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/nX7eEWarFC0/mqdefault.jpg" alt="Lua chon bep tu phu hop khong gian bep gia dinh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/nX7eEWarFC0/mqdefault.jpg" alt="Lua chon bep tu phu hop khong gian bep gia dinh" loading="lazy" width="1280" height="480">
   <figcaption>Lựa chọn bếp từ phù hợp cần cân nhắc kỹ không gian bếp và nhu cầu nấu nướng thực tế. Nguồn: YouTube</figcaption>
 </figure>
 

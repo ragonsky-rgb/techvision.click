@@ -69,7 +69,7 @@ Máy giặt là thiết bị gia dụng quan trọng bậc nhất trong mỗi gi
 Nhiều dòng máy giặt cao cấp hiện nay tích hợp trí tuệ nhân tạo để tự động nhận diện khối lượng và độ mềm của vải, từ đó chọn chu trình giặt phù hợp nhất mà không cần người dùng tự điều chỉnh thủ công. Công nghệ AI DD của LG mô phỏng 6 chuyển động giặt tay như nhào, lắc, lọc, cuộn, chà và giẫm để phân tích cấu trúc dệt của vải, trong khi Samsung AI Ecobubble sử dụng cảm biến thông minh để tự động phân phối nước giặt, nước xả phù hợp, giúp người dùng không cần ước lượng thủ công lượng bột giặt mỗi lần sử dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Dc81LpzS0uI/sddefault.jpg" alt="Danh gia may giat Samsung AI Ecobubble co thuc su thong minh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Dc81LpzS0uI/sddefault.jpg" alt="Danh gia may giat Samsung AI Ecobubble co thuc su thong minh" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá thực tế công nghệ AI Ecobubble trên máy giặt Samsung giúp người dùng hiểu rõ hơn tính năng thông minh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Số lượng chế độ giặt sấy càng nhiều thì máy càng linh hoạt
 Mức tiêu thụ điện nước là yếu tố quan trọng cần cân nhắc bên cạnh giá mua ban đầu, vì máy giặt là thiết bị sử dụng thường xuyên trong thời gian dài. Nên ưu tiên các dòng máy có nhãn tiết kiệm năng lượng, dù giá mua ban đầu có thể cao hơn một chút, nhưng chi phí vận hành lâu dài thường thấp hơn đáng kể so với các dòng máy tiêu thụ điện nước cao, giúp tiết kiệm chi phí tổng thể trong suốt vòng đời sử dụng máy giặt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Dc81LpzS0uI/mqdefault.jpg" alt="May giat LG AI DD van hanh em ai ben bi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Dc81LpzS0uI/mqdefault.jpg" alt="May giat LG AI DD van hanh em ai ben bi" loading="lazy" width="1280" height="480">
   <figcaption>Máy giặt LG AI DD được đánh giá cao về khả năng vận hành êm ái, bền bỉ theo thời gian. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nhiều gia đình hiện đang quan tâm tới việc kết hợp máy giặt v
 Cuối cùng, người mua cũng nên tham khảo thêm [top bếp từ đáng mua tháng 7/2026](/articles/top-bep-tu-dang-mua-thang-7-2026.html) nếu đang có kế hoạch nâng cấp đồng bộ các thiết bị gia dụng công nghệ cao khác trong nhà, tối ưu ngân sách đầu tư cho toàn bộ không gian sống hiện đại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SZei9OgenNw/mqdefault.jpg" alt="May giat Samsung AI Ecobubble cong nghe thong minh tien loi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SZei9OgenNw/mqdefault.jpg" alt="May giat Samsung AI Ecobubble cong nghe thong minh tien loi" loading="lazy" width="1280" height="480">
   <figcaption>Máy giặt Samsung AI Ecobubble tích hợp nhiều tính năng thông minh giúp việc giặt giũ trở nên tiện lợi hơn. Nguồn: YouTube</figcaption>
 </figure>
 

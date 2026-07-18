@@ -68,7 +68,7 @@ Máy lọc không khí ngày càng trở thành thiết bị thiết yếu trong
 CADR (Clean Air Delivery Rate) là chỉ số đo lượng không khí sạch máy tạo ra mỗi giờ, thường tính bằng đơn vị m3/h. Chỉ số CADR càng cao, tốc độ lọc sạch không khí trong phòng càng nhanh. Công thức tham khảo phổ biến là lấy diện tích phòng nhân với chiều cao trần rồi chia cho khoảng 12 để ước tính CADR tối thiểu cần thiết, ví dụ phòng 20m2 với trần cao 2,7m cần máy có CADR tối thiểu khoảng 450m3/h. Chọn máy có CADR quá thấp so với diện tích phòng sẽ khiến máy phải chạy liên tục ở công suất tối đa, vừa tốn điện vừa giảm tuổi thọ động cơ và lõi lọc nhanh hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/cl0URkBeOC8/hqdefault.jpg" alt="Tai sao chon mua may loc khong khi kho CADR HEPA 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/cl0URkBeOC8/hqdefault.jpg" alt="Tai sao chon mua may loc khong khi kho CADR HEPA 2026" loading="lazy" width="1280" height="480">
   <figcaption>Chỉ số CADR phù hợp diện tích phòng giúp máy lọc không khí hoạt động hiệu quả nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ CADR (Clean Air Delivery Rate) là chỉ số đo lượng không khí sạch m�
 Đây là yếu tố chi phí dài hạn thường bị bỏ qua khi mua máy lọc không khí lần đầu. Lõi lọc HEPA cần thay định kỳ khoảng 6 đến 12 tháng tùy tần suất sử dụng và mức độ ô nhiễm không khí khu vực sinh sống, với chi phí dao động từ vài trăm nghìn tới vài triệu đồng mỗi lần thay tùy thương hiệu. Người mua nên tìm hiểu trước giá lõi lọc thay thế và độ phổ biến của lõi lọc chính hãng tại Việt Nam trước khi quyết định mua, tránh tình trạng mua được máy giá rẻ ban đầu nhưng chi phí duy trì lâu dài lại cao hơn nhiều so với dự tính.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tKtsWGkDSIo/hqdefault.jpg" alt="Kinh nghiem chon mua may loc khong khi chi phi loi loc 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/tKtsWGkDSIo/hqdefault.jpg" alt="Kinh nghiem chon mua may loc khong khi chi phi loi loc 2026" loading="lazy" width="1280" height="480">
   <figcaption>Chi phí thay lõi lọc định kỳ là yếu tố quan trọng cần tính toán trước khi mua máy. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ CADR (Clean Air Delivery Rate) là chỉ số đo lượng không khí sạch m�
 Nhiều máy lọc không khí đời mới hiện nay tích hợp sẵn cảm biến chất lượng không khí theo thời gian thực, tự động điều chỉnh tốc độ quạt theo mức độ ô nhiễm đo được thay vì chạy cố định một công suất, giúp tiết kiệm điện năng và giảm độ ồn khi không khí đã sạch. Một số dòng cao cấp còn hỗ trợ kết nối ứng dụng điện thoại, cho phép theo dõi chỉ số không khí, hẹn giờ bật tắt và điều khiển từ xa ngay cả khi không ở nhà, tiện lợi cho việc chuẩn bị không khí sạch sẵn trước khi về tới nhà. Người muốn tham khảo cụ thể một số mẫu máy lọc không khí đáng mua theo từng phân khúc giá có thể xem thêm bài viết [top máy lọc không khí đáng mua tháng 7/2026](/articles/top-may-loc-khong-khi-dang-mua-thang-7-2026.html) để có gợi ý chi tiết hơn về sản phẩm thực tế trên thị trường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/aOVUt1-9u4A/hqdefault.jpg" alt="Top 10 may loc khong khi ban chay nhat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/aOVUt1-9u4A/hqdefault.jpg" alt="Top 10 may loc khong khi ban chay nhat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều máy lọc không khí bán chạy hiện nay đã tích hợp cảm biến thông minh và kết nối ứng dụng. Nguồn: YouTube</figcaption>
 </figure>
 

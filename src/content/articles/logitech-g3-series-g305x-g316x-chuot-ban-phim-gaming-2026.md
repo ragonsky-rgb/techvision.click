@@ -72,7 +72,7 @@ Bàn phím G316 X 98 sử dụng khung gasket-mount cho cảm giác gõ êm ái,
 Tốc độ phản hồi 0,125ms nhờ polling rate 8kHz trên G316 X 98 mang lại lợi thế rõ rệt trong các tựa game bắn súng góc nhìn thứ nhất tốc độ cao, nơi từng phần nghìn giây phản hồi đều có thể ảnh hưởng tới kết quả trận đấu. Theo PC Gamer, đây là mức polling rate cao nhất từng xuất hiện trên một bàn phím cơ ở phân khúc giá dưới 150 USD, cho thấy Logitech đang nghiêm túc cạnh tranh với các thương hiệu chuyên về bàn phím cơ gaming vốn đã có mặt lâu năm trên thị trường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XD2p1XgVoXE/hqdefault.jpg" alt="Logitech G316 X 98 ban phim co gasket mount hoan doi switch" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/XD2p1XgVoXE/hqdefault.jpg" alt="Logitech G316 X 98 ban phim co gasket mount hoan doi switch" loading="lazy" width="1280" height="480">
   <figcaption>Bàn phím G316 X 98 hỗ trợ hoán đổi switch nóng và khung gasket-mount cho cảm giác gõ êm ái. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Tốc độ phản hồi 0,125ms nhờ polling rate 8kHz trên G316 X 98 mang l�
 Bên cạnh cấu hình switch và khung máy, G316 X 98 còn tích hợp màn hình LED dạng ma trận điểm nhỏ cùng núm xoay điều khiển, cho phép hiển thị thông tin nhanh hoặc điều chỉnh âm lượng, độ sáng đèn ngay trên bàn phím mà không cần thao tác qua phần mềm. Dải đèn RGB 30 vùng bao quanh bàn phím cũng bổ sung yếu tố thẩm mỹ, phù hợp game thủ muốn setup gaming có phong cách đồng bộ ánh sáng theo chủ đề riêng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_Rd4FrF3ZQI/hqdefault.jpg" alt="Logitech G305 X Superlight trai nghiem thuc te chuot gaming" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_Rd4FrF3ZQI/hqdefault.jpg" alt="Logitech G305 X Superlight trai nghiem thuc te chuot gaming" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm thực tế cho thấy G305 X Superlight vẫn giữ được độ chính xác cao dù mức giá dễ chịu hơn dòng Pro X. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Bên cạnh cấu hình switch và khung máy, G316 X 98 còn tích hợp màn h
 Với việc đưa polling rate 8kHz, vốn từng là tính năng độc quyền của dòng Pro X cao cấp nhất, xuống cả chuột và bàn phím tầm trung, Logitech đang cho thấy chiến lược phổ cập hóa công nghệ gaming cao cấp xuống phân khúc giá rộng hơn, tương tự cách nhiều hãng smartphone đưa camera flagship xuống dòng tầm trung. Chiến lược này cũng gây áp lực cạnh tranh trực tiếp lên các đối thủ như Razer, SteelSeries hay Corsair, buộc những hãng này phải cân nhắc lại chiến lược giá của chính mình nếu không muốn mất thị phần vào tay Logitech ở phân khúc giá tầm trung vốn chiếm số lượng người dùng đông đảo nhất trong toàn ngành thiết bị ngoại vi gaming. Người dùng cân nhắc thêm các lựa chọn chuột gaming cao cấp hơn có thể tham khảo [Logitech G Pro X2 Superstrike với công nghệ Hall Effect](/articles/logitech-g-pro-x2-superstrike-chuot-gaming-hall-effect-2026.html) để so sánh sự khác biệt giữa hai phân khúc sản phẩm của cùng thương hiệu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/J0zPXhHriSY/hqdefault.jpg" alt="Logitech G3 Series tong quan chuot ban phim gaming moi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/J0zPXhHriSY/hqdefault.jpg" alt="Logitech G3 Series tong quan chuot ban phim gaming moi" loading="lazy" width="1280" height="480">
   <figcaption>Tổng quan bộ đôi sản phẩm G3 Series mới của Logitech nhắm tới phân khúc giá dễ chịu hơn. Nguồn: YouTube</figcaption>
 </figure>
 

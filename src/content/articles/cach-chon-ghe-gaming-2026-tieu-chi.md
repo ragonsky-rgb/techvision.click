@@ -69,7 +69,7 @@ Chất liệu bọc ghế là yếu tố đầu tiên cần cân nhắc, giữa 
 Ghế gaming cao cấp thường hỗ trợ điều chỉnh tựa lưng ngả về sau tới 165 độ, kết hợp tay vịn điều chỉnh 4D cho phép di chuyển lên xuống, trái phải, xoay và tiến lùi linh hoạt theo tư thế ngồi của từng người. Khả năng điều chỉnh đa dạng này giúp người dùng dễ dàng tìm được tư thế ngồi thoải mái nhất, đặc biệt hữu ích khi cần chuyển đổi giữa tư thế làm việc tập trung và tư thế thư giãn ngả lưng trong lúc giải lao giữa các phiên chơi game dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BqIse8WLS74/hqdefault.jpg" alt="So sanh ghe gaming Secretlab va DXRacer dieu chinh tay vin" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/BqIse8WLS74/hqdefault.jpg" alt="So sanh ghe gaming Secretlab va DXRacer dieu chinh tay vin" loading="lazy" width="1280" height="480">
   <figcaption>So sánh khả năng điều chỉnh tay vịn và tựa lưng giữa hai thương hiệu ghế gaming phổ biến Secretlab và DXRacer. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Trước khi mua, người dùng nên kiểm tra kỹ tải trọng khuyến ngh
 Ngoài piston, bánh xe di chuyển cũng là chi tiết dễ bị bỏ qua nhưng ảnh hưởng không nhỏ tới trải nghiệm sử dụng hằng ngày. Bánh xe cao su hoặc polyurethane êm ái, ít gây tiếng ồn khi di chuyển trên sàn gỗ hoặc sàn gạch, trong khi bánh xe nhựa cứng giá rẻ dễ gây trầy xước sàn nhà và phát ra tiếng ồn khó chịu, đặc biệt bất tiện nếu phòng làm việc hoặc phòng game nằm gần khu vực sinh hoạt chung của gia đình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5W4j9PCwobI/hqdefault.jpg" alt="Secretlab Titan Evo danh gia khung ghe do ben piston" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/5W4j9PCwobI/hqdefault.jpg" alt="Secretlab Titan Evo danh gia khung ghe do ben piston" loading="lazy" width="1280" height="480">
   <figcaption>Secretlab Titan Evo được đánh giá cao về độ bền khung ghế và chất lượng piston nâng hạ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Ngoài piston, bánh xe di chuyển cũng là chi tiết dễ bị bỏ qua như
 Nhiều người dùng hiện đang xây dựng không gian làm việc và chơi game tại nhà toàn diện, kết hợp cả ghế gaming thoải mái lẫn bàn nâng hạ linh hoạt để tối ưu hóa tư thế ngồi và đứng luân phiên trong ngày. Người dùng có thể tham khảo thêm [cách chọn bàn nâng hạ standing desk theo tiêu chí quan trọng](/articles/cach-chon-ban-nang-ha-standing-desk-2026-tieu-chi.html) để hoàn thiện thêm không gian làm việc, chơi game hiện đại cho bản thân.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BYpe__uvoQo/hqdefault.jpg" alt="Danh gia ghe gaming Vertagear Sihoo GT Omega lua chon tot nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/BYpe__uvoQo/hqdefault.jpg" alt="Danh gia ghe gaming Vertagear Sihoo GT Omega lua chon tot nhat" loading="lazy" width="1280" height="480">
   <figcaption>Ngoài Secretlab và DXRacer, nhiều thương hiệu khác như Vertagear, Sihoo hay GT Omega cũng là lựa chọn đáng cân nhắc. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Trên điện thoại Android, công cụ sao lưu ảnh tiện lợi nhất là
 Với tài liệu, file và các loại dữ liệu khác, Google Drive là lựa chọn phù hợp. Bạn có thể tải lên thủ công hoặc dùng tính năng sao lưu thiết bị để lưu danh bạ, tin nhắn và cài đặt. Tài khoản Google miễn phí cung cấp 15GB dùng chung cho Photos, Drive và Gmail, đủ cho nhu cầu cơ bản. Một lợi ích kèm theo là sau khi ảnh đã được sao lưu, bạn có thể xóa bản trên máy để giải phóng bộ nhớ, giúp điện thoại bớt đầy, tương tự cách quản lý dung lượng được nói tới trong bài [cách giải phóng dung lượng iPhone](/articles/cach-giai-phong-dung-luong-iphone-day-bo-nho.html) áp dụng cho cả hai nền tảng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/UB09HkxnQ-c/maxresdefault.jpg" alt="Cách bật sao lưu ảnh trên iCloud và đám mây" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/UB09HkxnQ-c/maxresdefault.jpg" alt="Cách bật sao lưu ảnh trên iCloud và đám mây" loading="lazy" width="1280" height="720">
   <figcaption>Bật sao lưu tự động giúp ảnh luôn an toàn trên đám mây. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Với người dùng iPhone, iCloud là giải pháp sao lưu tích hợp sẵn 
 Hạn chế của iCloud là tài khoản miễn phí chỉ có 5GB, thường nhanh đầy với người chụp nhiều ảnh và video. Khi đó, bạn có thể mua thêm dung lượng qua gói iCloud+ với chi phí hằng tháng hợp lý, hoặc kết hợp dùng thêm Google Photos để sao lưu ảnh. Việc có bản sao trên iCloud giúp quá trình chuyển sang iPhone mới trở nên rất đơn giản, chỉ cần đăng nhập và khôi phục. Đây là một trong những lợi thế của hệ sinh thái Apple mà người dùng nên tận dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/pjpu7yy0LfA/maxresdefault.jpg" alt="Cách sao lưu và dùng Google Photos trên Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/pjpu7yy0LfA/maxresdefault.jpg" alt="Cách sao lưu và dùng Google Photos trên Android" loading="lazy" width="1280" height="720">
   <figcaption>iCloud và Google Photos giúp sao lưu liền mạch trên từng nền tảng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một thách thức thường gặp là dung lượng đám mây miễn phí nha
 Khi nhu cầu vượt quá mức miễn phí, việc mua thêm dung lượng là hợp lý, với chi phí thường không cao so với giá trị dữ liệu được bảo vệ. Ngoài các dịch vụ lớn như Google và Apple, còn nhiều lựa chọn khác với dung lượng và mức giá đa dạng. Với các file lớn ít dùng tới, bạn có thể lưu vào ổ cứng ngoài để giảm gánh nặng cho đám mây. Nguyên tắc quan trọng là phân loại dữ liệu theo mức độ quan trọng, ưu tiên sao lưu kỹ những thứ không thể thay thế như ảnh kỷ niệm và tài liệu quan trọng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/G-5Wp5SnC_Q/hqdefault.jpg" alt="Cách lưu hình ảnh và video bằng Google Photos và ứng dụng đám mây" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/G-5Wp5SnC_Q/hqdefault.jpg" alt="Cách lưu hình ảnh và video bằng Google Photos và ứng dụng đám mây" loading="lazy" width="1280" height="720">
   <figcaption>Quản lý dung lượng và phân loại dữ liệu giúp sao lưu hiệu quả. Nguồn: YouTube</figcaption>
 </figure>
 

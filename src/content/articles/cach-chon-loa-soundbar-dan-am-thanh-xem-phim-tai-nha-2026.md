@@ -73,7 +73,7 @@ Tiêu chí đầu tiên cần xác định là số kênh âm thanh soundbar h�
 Nếu mục tiêu là trải nghiệm âm thanh điện ảnh đầy đủ, cần kiểm tra kỹ soundbar có hỗ trợ Dolby Atmos hoặc DTS:X hay không, đây là hai định dạng âm thanh đa kênh phổ biến nhất trên các nền tảng phim ảnh và game hiện nay. Bên cạnh đó, cổng kết nối HDMI eARC là yếu tố thường bị bỏ qua nhưng lại quyết định trực tiếp chất lượng âm thanh thực tế nhận được. HDMI eARC cho phép truyền tín hiệu âm thanh chất lượng cao, không nén từ TV sang soundbar chỉ qua một sợi cáp duy nhất, trong khi các chuẩn ARC đời cũ hoặc cổng quang optical thường giới hạn băng thông, khiến soundbar dù có phần cứng tốt cũng không thể phát huy hết khả năng. Một mẫu sản phẩm thực tế đáng tham khảo trong phân khúc cao cấp hỗ trợ đầy đủ các tiêu chí này là [Bose Lifestyle Ultra Soundbar với kiến trúc 5.1.2 kênh](/articles/bose-lifestyle-ultra-soundbar-doi-thu-sonos-arc-ultra-2026.html), vừa ra mắt và được đánh giá là đối thủ thực sự của Sonos Arc Ultra.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/W79dWPiItIQ/hqdefault.jpg" alt="Thiet lap he thong soundbar Dolby Atmos tai nha" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/W79dWPiItIQ/hqdefault.jpg" alt="Thiet lap he thong soundbar Dolby Atmos tai nha" loading="lazy" width="1280" height="480">
   <figcaption>Thiết lập đúng cách giúp hệ thống soundbar Dolby Atmos phát huy tối đa hiệu ứng âm thanh vòm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Nếu mục tiêu là trải nghiệm âm thanh điện ảnh đầy đủ, cầ
 Loa siêu trầm là thành phần quyết định độ trầm và cảm giác rung động khi xem phim hành động hoặc nghe nhạc điện tử. Loa siêu trầm rời thường cho âm trầm mạnh và sâu hơn nhờ thùng loa lớn, phù hợp phòng khách rộng, nhưng chiếm thêm diện tích và cần nguồn điện riêng để hoạt động. Ngược lại, loa siêu trầm liền khối tích hợp ngay trong thân soundbar giúp tổng thể gọn gàng hơn, phù hợp căn hộ nhỏ hoặc người ưu tiên tính thẩm mỹ, dù độ trầm thường không sâu bằng phiên bản rời. Về kết nối không dây, nên ưu tiên các mẫu soundbar hỗ trợ đồng thời nhiều nền tảng cast như Google Cast, Apple AirPlay và Spotify Connect, giúp phát nhạc trực tiếp từ điện thoại mà không phụ thuộc vào một hệ sinh thái thiết bị duy nhất trong nhà, đặc biệt hữu ích với gia đình có nhiều thành viên dùng cả iPhone lẫn điện thoại Android.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/JEfDF_deZ3c/hqdefault.jpg" alt="Danh gia chat luong am thanh soundbar cao cap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/JEfDF_deZ3c/hqdefault.jpg" alt="Danh gia chat luong am thanh soundbar cao cap" loading="lazy" width="1280" height="480">
   <figcaption>Chất lượng âm trầm và độ rõ của thoại là hai yếu tố được đánh giá kỹ nhất trên các mẫu soundbar cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Người đang cân nhắc nâng cấp đồng thời cả TV lẫn hệ thống
 Vị trí lắp đặt ảnh hưởng trực tiếp tới hiệu ứng âm thanh thực tế nhận được, ngay cả khi đã chọn đúng soundbar tốt. Nên đặt soundbar ngang tầm tai người ngồi xem, phía trước hoặc ngay dưới màn hình TV, tránh đặt trong tủ kín hoặc dưới gầm kệ che khuất các loa hướng lên trần. Với soundbar hỗ trợ Dolby Atmos, trần nhà phẳng cao khoảng 3 đến 4 mét sẽ giúp âm thanh phản xạ từ loa hướng lên tạo hiệu ứng trên đầu rõ rệt nhất, còn trần quá cao, trần có dầm nhô ra hoặc trần dạng dốc nghiêng sẽ làm giảm đáng kể hiệu quả của các loa hướng lên này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wWauifRHKa0/hqdefault.jpg" alt="Tong hop cac loai soundbar Dolby Atmos dang chu y 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/wWauifRHKa0/hqdefault.jpg" alt="Tong hop cac loai soundbar Dolby Atmos dang chu y 2026" loading="lazy" width="1280" height="480">
   <figcaption>Tổng hợp các mẫu soundbar Dolby Atmos đáng chú ý theo từng phân khúc giá năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

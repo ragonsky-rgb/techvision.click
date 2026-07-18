@@ -76,7 +76,7 @@ Nâng cấp được giới công nghệ mong chờ nhất có lẽ là con chip
 Dựa trên lộ trình công bố của TSMC, giới phân tích dự phóng A20 Pro có thể nhanh hơn tới khoảng 15% và tiết kiệm điện tới khoảng 30% so với thế hệ trước. Cần lưu ý rằng đây là con số ước tính từ dự phóng tiến trình chứ không phải kết quả benchmark thực tế, nên mức chênh lệch cuối cùng trên máy thương mại hoàn toàn có thể khác. Ngoài ra, AppleInsider trong bài rò rỉ ngày 30/6 còn nhắc tới khả năng iPhone 18 Pro dùng modem riêng (Apple C2 hoặc Qualcomm) cùng kết nối vệ tinh mở rộng, dù chi tiết vẫn còn rất mờ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rNJuiQ6gJqk/hqdefault.jpg" alt="Chip A20 Pro tiến trình 2nm TSMC dự kiến trên iPhone 18 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rNJuiQ6gJqk/hqdefault.jpg" alt="Chip A20 Pro tiến trình 2nm TSMC dự kiến trên iPhone 18 Pro" loading="lazy" width="1280" height="720">
   <figcaption>A20 Pro được cho là chip đầu tiên của Apple dùng tiến trình 2nm của TSMC. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Về nhiếp ảnh, thay đổi được nhắc tới nhiều nhất là camera 
 Điều này về lý thuyết mang lại độ linh hoạt lớn hơn cho người chụp: khép khẩu để có ảnh phong cảnh sắc nét toàn khung, hoặc mở khẩu để tạo hiệu ứng xóa phông tự nhiên hơn trong điều kiện thiếu sáng. Đây là hướng đi mà một số điện thoại Android cao cấp đã thử nghiệm, và việc Apple áp dụng có thể tạo áp lực chuẩn hóa tính năng này trên toàn ngành. Bạn đọc muốn đi sâu vào phần cứng cảm biến có thể tham khảo bài phân tích riêng về [chi tiết camera khẩu độ biến thiên và cảm biến mới của iPhone 18 Pro](/articles/iphone-18-pro-camera-khau-do-thay-doi-cam-bien-moi-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AphzG6OayUw/hqdefault.jpg" alt="Camera 48MP khẩu độ biến thiên và selfie 24MP trên iPhone 18 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AphzG6OayUw/hqdefault.jpg" alt="Camera 48MP khẩu độ biến thiên và selfie 24MP trên iPhone 18 Pro" loading="lazy" width="1280" height="720">
   <figcaption>Camera chính 48MP có khẩu độ biến thiên là một trong những rò rỉ nổi bật nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Một rò rỉ đáng chú ý khác liên quan tới Face ID. Theo tin đồn, A
 Về màn hình, các nguồn cho biết iPhone 18 Pro sẽ dùng công nghệ tấm nền LTPO+ giúp quản lý tần số quét hiệu quả hơn và qua đó cải thiện thời lượng pin. Kích thước màn hình được cho là giữ nguyên ở 6,3 inch cho iPhone 18 Pro và 6,9 inch cho iPhone 18 Pro Max, tức là Apple không thay đổi kích cỡ vật lý mà tập trung tối ưu bên trong.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Roh1wzi-akM/hqdefault.jpg" alt="Face ID dưới màn hình và thiết kế cụm camera plateau iPhone 18 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Roh1wzi-akM/hqdefault.jpg" alt="Face ID dưới màn hình và thiết kế cụm camera plateau iPhone 18 Pro" loading="lazy" width="1280" height="720">
   <figcaption>Face ID dưới màn hình mở đường cho Dynamic Island nhỏ hơn theo rò rỉ. Nguồn: YouTube</figcaption>
 </figure>
 

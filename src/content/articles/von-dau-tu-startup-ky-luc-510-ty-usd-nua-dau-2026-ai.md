@@ -76,7 +76,7 @@ Phân bổ theo quý cho thấy đà tăng trưởng mạnh mẽ. Quý 1/2026 ch
 Điểm gây chú ý nhất trong báo cáo không phải tổng số tiền, mà là mức độ tập trung của nó. Chỉ riêng hai công ty AI hàng đầu là OpenAI và Anthropic đã huy động tới 217 tỷ USD, tương đương 43% tổng vốn đầu tư startup trong nửa đầu năm. Nói cách khác, gần một nửa số tiền đổ vào toàn bộ startup thế giới chỉ chảy vào hai cái tên này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/8WyAphxw5so/hqdefault.jpg" alt="OpenAI và Anthropic chiếm 43% tổng vốn đầu tư startup toàn cầu nửa đầu 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/8WyAphxw5so/hqdefault.jpg" alt="OpenAI và Anthropic chiếm 43% tổng vốn đầu tư startup toàn cầu nửa đầu 2026" loading="lazy" width="1280" height="720">
   <figcaption>Một số ít công ty AI tuyến đầu đang hút phần lớn dòng vốn đầu tư. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Xu hướng tập trung này còn thể hiện ở bức tranh rộng hơn. Hơn
 ## Cơ hội và rủi ro của sự tập trung
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WSxVh5WvWZ4/hqdefault.jpg" alt="Dòng vốn tập trung vào AI đặt ra cả cơ hội và rủi ro cho thị trường công nghệ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WSxVh5WvWZ4/hqdefault.jpg" alt="Dòng vốn tập trung vào AI đặt ra cả cơ hội và rủi ro cho thị trường công nghệ" loading="lazy" width="1280" height="720">
   <figcaption>Sự tập trung vốn vào AI mang lại cả cơ hội lớn lẫn rủi ro tiềm ẩn. Nguồn: YouTube</figcaption>
 </figure>
 
 Mức độ tập trung cao này mang tới cả hai mặt. Ở khía cạnh tích cực, các công ty AI dẫn đầu có được nguồn lực khổng lồ để đầu tư vào hạ tầng, nhân tài và nghiên cứu, giúp đẩy nhanh tiến bộ công nghệ. Không chỉ các phòng thí nghiệm mô hình, cả lĩnh vực robot cũng hưởng lợi, như việc [Neura Robotics gọi được 1,4 tỷ USD từ Nvidia và Amazon](/articles/neura-robotics-goi-von-1-4-ty-usd-nvidia-amazon-2026.html) cho thấy dòng vốn đang lan tỏa sang các ứng dụng AI vật lý.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/j-ASrjzXcAQ/hqdefault.jpg" alt="Cách các startup AI huy động vốn khổng lồ trong năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/j-ASrjzXcAQ/hqdefault.jpg" alt="Cách các startup AI huy động vốn khổng lồ trong năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Cách thức gọi vốn của startup AI đang thay đổi bức tranh đầu tư công nghệ. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Một bước tiến quan trọng là việc doanh nghiệp Việt khởi công 
 Việc tự chủ tuyến cáp mang lại nhiều lợi ích: tăng quyền chủ động về hạ tầng, nâng cao khả năng đảm bảo an ninh mạng và ứng phó sự cố nhanh hơn. Trong bối cảnh an ninh số ngày càng được coi trọng, khả năng tự kiểm soát hạ tầng kết nối là yếu tố chiến lược. Tuyến nối thẳng Singapore, một trung tâm internet lớn của khu vực, cũng giúp tối ưu đường truyền và giảm độ trễ cho lưu lượng quốc tế của Việt Nam. Việc tự chủ hạ tầng kết nối nằm trong nỗ lực làm chủ công nghệ rộng hơn của Việt Nam, từ cáp biển tới bán dẫn, thể hiện qua bài [Viettel khởi công nhà máy chip](/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/lem1ELIzy9s/maxresdefault.jpg" alt="Hệ thống cáp quang biển kết nối internet toàn cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/lem1ELIzy9s/maxresdefault.jpg" alt="Hệ thống cáp quang biển kết nối internet toàn cầu" loading="lazy" width="1280" height="720">
   <figcaption>Tuyến cáp tự chủ tăng quyền chủ động về hạ tầng cho Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh tuyến tự chủ, Viettel và Singtel ký thỏa thuận hợp tá
 Tuy nhiên, hệ thống cáp quang biển của Việt Nam cũng đối mặt thách thức về độ tin cậy. Các tuyến cáp hiện có từng nhiều lần gặp sự cố cùng lúc, gây ảnh hưởng tới tốc độ internet quốc tế. Việc một số tuyến cũ cần sửa chữa cho thấy nhu cầu cấp thiết phải đầu tư tuyến mới và đa dạng hóa hướng kết nối. Khi có nhiều tuyến, lưu lượng có thể được chuyển hướng linh hoạt khi một tuyến gặp vấn đề, giảm thiểu gián đoạn cho người dùng và doanh nghiệp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/k6MafUKwPx0/maxresdefault.jpg" alt="Sự cố cáp quang biển ảnh hưởng internet quốc tế Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/k6MafUKwPx0/maxresdefault.jpg" alt="Sự cố cáp quang biển ảnh hưởng internet quốc tế Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Đa dạng hóa tuyến cáp giúp giảm rủi ro khi xảy ra sự cố. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Tầm nhìn dài hạn của Việt Nam rất rõ ràng: triển khai ít nhất
 Dung lượng lớn và độ ổn định cao của hệ thống cáp là yếu tố then chốt để hỗ trợ các trung tâm dữ liệu, dịch vụ đám mây và ứng dụng AI đang phát triển nhanh tại Việt Nam. Hạ tầng cáp quang biển, mạng di động và trung tâm dữ liệu cùng tạo nên bộ khung cho nền kinh tế số. Sự đầu tư đồng bộ này gắn liền với làn sóng đầu tư hạ tầng công nghệ rộng hơn, chẳng hạn các dự án được nêu trong bài [trung tâm dữ liệu AI Việt Nam hút hơn 7 tỷ USD](/articles/trung-tam-du-lieu-ai-viet-nam-2026-von-dau-tu-7-ty-usd-ha-tang.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/GuQuIY4Pdds/hq720.jpg" alt="Việt Nam mở rộng dung lượng cáp quang biển hướng tới 350 Tbps" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GuQuIY4Pdds/hq720.jpg" alt="Việt Nam mở rộng dung lượng cáp quang biển hướng tới 350 Tbps" loading="lazy" width="1280" height="720">
   <figcaption>Việt Nam hướng tới tổng dung lượng cáp tối thiểu 350 Tbps. Nguồn: YouTube</figcaption>
 </figure>
 

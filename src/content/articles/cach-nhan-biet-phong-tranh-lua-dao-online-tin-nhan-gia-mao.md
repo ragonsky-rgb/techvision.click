@@ -76,7 +76,7 @@ Dù chiêu thức đa dạng, các vụ lừa đảo thường có chung vài d�
 Dấu hiệu rõ ràng nhất là khi đối phương yêu cầu cung cấp mã OTP, mật khẩu hoặc chuyển tiền. Không một tổ chức chính thống nào yêu cầu bạn đọc mã OTP hay chuyển tiền vào tài khoản cá nhân để xử lý sự vụ. Ngoài ra, mọi lời hứa lợi nhuận cao bất thường, quà tặng vô lý hay công việc kiếm tiền quá dễ đều cần bị nghi ngờ ngay lập tức.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DA3-5qlFN9Q/hqdefault.jpg" alt="Cảnh giác thủ đoạn giả mạo tin nhắn ngân hàng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DA3-5qlFN9Q/hqdefault.jpg" alt="Cảnh giác thủ đoạn giả mạo tin nhắn ngân hàng" loading="lazy" width="1280" height="720">
   <figcaption>Tin nhắn giả mạo ngân hàng kèm link giả là chiêu rất phổ biến. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Có ba nguyên tắc cốt lõi giúp tránh hầu hết các vụ lừa đảo.
 Khi nhận một thông báo đáng ngờ, cách an toàn nhất là tự gọi lại số tổng đài chính thức của ngân hàng hoặc cơ quan liên quan để xác minh, thay vì gọi lại số trong tin nhắn. Đồng thời, hãy bật xác thực 2 lớp cho các tài khoản quan trọng như đã hướng dẫn trong bài [bật xác thực 2 lớp 2FA](/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html), và không cài ứng dụng từ nguồn ngoài kho chính thức.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mRTbcA5sAMs/hq720.jpg" alt="Vạch trần chiêu trò lừa đảo qua tin nhắn giả mạo ngân hàng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mRTbcA5sAMs/hq720.jpg" alt="Vạch trần chiêu trò lừa đảo qua tin nhắn giả mạo ngân hàng" loading="lazy" width="1280" height="720">
   <figcaption>Tự gọi lại tổng đài chính thức là cách xác minh an toàn nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Người lớn tuổi và trẻ em là hai nhóm dễ trở thành mục tiêu n
 Với trẻ em, cần dạy các em không cung cấp thông tin cá nhân, không cho mượn hay thuê tài khoản ngân hàng, và cảnh giác với những lời mời kiếm tiền dễ dàng trên mạng. Việc trao đổi cởi mở trong gia đình, chia sẻ các tình huống lừa đảo thực tế đã xảy ra, giúp mọi thành viên nhận diện nguy cơ sớm hơn. Một gia đình cùng cảnh giác và sẵn sàng hỏi ý kiến nhau trước khi hành động là tấm khiên hiệu quả nhất trước các chiêu trò ngày càng tinh vi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Jd_hwtYUASA/hqdefault.jpg" alt="Cảnh báo giả mạo cán bộ ngân hàng hỗ trợ hoàn tiền" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Jd_hwtYUASA/hqdefault.jpg" alt="Cảnh báo giả mạo cán bộ ngân hàng hỗ trợ hoàn tiền" loading="lazy" width="1280" height="720">
   <figcaption>Người lớn tuổi cần được hướng dẫn vài nguyên tắc đơn giản, dễ nhớ. Nguồn: YouTube</figcaption>
 </figure>
 

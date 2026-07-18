@@ -66,7 +66,7 @@ Thay đổi được đánh giá cao nhất trên Plaud NotePin S là việc b�
 Về trọng lượng, thiết bị chỉ nặng 17 gram, có thể ghi âm liên tục tới 20 giờ và chờ tới 40 ngày trước khi cần sạc lại, đủ nhẹ và bền để đeo suốt cả ngày dài mà không gây khó chịu. Bốn phụ kiện đi kèm cho phép người dùng linh hoạt đeo thiết bị dưới dạng vòng cổ, vòng tay, kẹp cài áo hoặc ghim cài tùy theo hoàn cảnh sử dụng cụ thể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-9G4uNk0dKM/hqdefault.jpg" alt="Plaud NotePin S thiet bi deo nguoi AI 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/-9G4uNk0dKM/hqdefault.jpg" alt="Plaud NotePin S thiet bi deo nguoi AI 2026" loading="lazy" width="1280" height="480">
   <figcaption>Plaud NotePin S được thiết kế để đeo suốt cả ngày mà không gây khó chịu cho người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,14 +75,14 @@ Về trọng lượng, thiết bị chỉ nặng 17 gram, có thể ghi âm liê
 Phần mềm của Plaud sử dụng AI để phiên âm giọng nói thành văn bản với độ chính xác cao trên nhiều ngôn ngữ, thậm chí có khả năng phân biệt trực quan giữa các người nói khác nhau trong cùng một cuộc trò chuyện. Ngoài phiên âm, hệ thống còn có thể tự động tóm tắt nội dung cuộc họp hoặc phỏng vấn thành ghi chú ngắn gọn, dễ tìm kiếm lại sau này, giúp tiết kiệm đáng kể thời gian ghi chép thủ công truyền thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/CWHBHVoJYMI/hqdefault.jpg" alt="Plaud NotePin S co nen mua khong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/CWHBHVoJYMI/hqdefault.jpg" alt="Plaud NotePin S co nen mua khong 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều kênh công nghệ đặt câu hỏi liệu Plaud NotePin S có thực sự đáng mua với đa số người dùng văn phòng. Nguồn: YouTube</figcaption>
 </figure>
 
 Về chi phí, mỗi thiết bị đi kèm gói miễn phí 300 phút phiên âm AI mỗi tháng, đủ dùng cho nhu cầu cơ bản của phần lớn người dùng văn phòng. Người có nhu cầu sử dụng nhiều hơn, ví dụ thường xuyên tham gia họp hành hoặc phỏng vấn dài, có thể nâng cấp lên gói Pro trả phí với giá khoảng 8,33 USD mỗi tháng khi thanh toán theo năm, cho phép phiên âm tới 1.200 phút mỗi tháng. Một điểm cần lưu ý là thiết bị được thiết kế chủ yếu cho các cuộc trò chuyện trực tiếp, không phù hợp để ghi âm cuộc gọi trực tuyến qua các nền tảng như Zoom hay Microsoft Teams, người có nhu cầu này nên tìm giải pháp phần mềm chuyên dụng khác thay thế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ifiXC1ePxkE/hqdefault.jpg" alt="Plaud NotePin S phien am tom tat AI 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ifiXC1ePxkE/hqdefault.jpg" alt="Plaud NotePin S phien am tom tat AI 2026" loading="lazy" width="1280" height="480">
   <figcaption>Tính năng phiên âm và tóm tắt tự động bằng AI là điểm mạnh cốt lõi của Plaud NotePin S. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -66,7 +66,7 @@ Microsoft chính thức giới thiệu Surface Laptop for Business 8th Edition, 
 Đây được xem là giải pháp hiệu quả để chống nhìn trộm màn hình (shoulder surfing) khi làm việc ở nơi công cộng như quán cà phê, sân bay hoặc trên các chuyến bay dài, đặc biệt hữu ích với nhân viên văn phòng thường xuyên xử lý tài liệu nhạy cảm khi di chuyển bên ngoài công ty. Về mặt chất lượng hiển thị, màn hình vẫn đạt độ phủ màu 100% sRGB, 89% AdobeRGB và 100% P3, cùng độ sáng khoảng 500 nits, không bị đánh đổi chất lượng hình ảnh khi tắt chế độ riêng tư.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jvNCvVwBKsM/hqdefault.jpg" alt="Surface Laptop 8th Gen thiet lap lan dau 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/jvNCvVwBKsM/hqdefault.jpg" alt="Surface Laptop 8th Gen thiet lap lan dau 2026" loading="lazy" width="1280" height="480">
   <figcaption>Quá trình thiết lập lần đầu của Surface Laptop 8th Edition được nhiều reviewer đánh giá mượt mà, dễ dàng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Microsoft chính thức giới thiệu Surface Laptop for Business 8th Edition, 
 Về hiệu năng, máy sử dụng chip Intel Core Ultra 5 hoặc X7 thuộc dòng Series 3 mới nhất, tích hợp Intel AI Boost đạt 50 TOPS hiệu năng xử lý AI, đi kèm Windows 11 Pro, kết nối Wi-Fi 7 tốc độ cao, bộ nhớ LPDDR5x và đặc biệt là ổ SSD chuẩn Gen 4 có thể tháo rời, giúp doanh nghiệp dễ dàng nâng cấp hoặc sửa chữa thiết bị mà không cần thay cả máy. Theo công bố của Microsoft, hiệu năng đồ họa của chip Intel Core Ultra Series 3 nhanh hơn tới 35% so với MacBook Air chip M5, và nhanh hơn hơn 90% so với Surface Laptop 5 ở một số cấu hình dùng chip X7.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Jl-UdWPlsEg/mqdefault.jpg" alt="Surface Laptop 8 13.8 inch mo hop danh gia gia ban 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Jl-UdWPlsEg/mqdefault.jpg" alt="Surface Laptop 8 13.8 inch mo hop danh gia gia ban 2026" loading="lazy" width="1280" height="480">
   <figcaption>Surface Laptop 8 13.8 inch nhận được nhiều đánh giá tích cực về thiết kế nhưng vẫn còn tranh cãi về mức giá. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Về giá bán, phiên bản tiêu chuẩn có giá khởi điểm 1.949,99 USD,
 Với người dùng cá nhân đang tìm laptop phù hợp ngân sách hơn cho nhu cầu học tập, làm việc văn phòng, bài viết [cách chọn laptop cho sinh viên, văn phòng năm 2026](/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html) cung cấp nhiều lựa chọn phù hợp hơn với túi tiền phổ thông. Người cần thêm thiết bị làm việc từ xa chuyên nghiệp cũng có thể tham khảo bài viết [cách chọn webcam năm 2026](/articles/cach-chon-webcam-2026-tieu-chi.html) để hoàn thiện bộ thiết bị họp trực tuyến của mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/UOlnKqzGdMM/mqdefault.jpg" alt="Surface Laptop 8th Edition thiet ke mau sac 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/UOlnKqzGdMM/mqdefault.jpg" alt="Surface Laptop 8th Edition thiet ke mau sac 2026" loading="lazy" width="1280" height="480">
   <figcaption>Surface Laptop 8th Edition có nhiều tùy chọn màu sắc và kích thước phù hợp nhu cầu doanh nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 

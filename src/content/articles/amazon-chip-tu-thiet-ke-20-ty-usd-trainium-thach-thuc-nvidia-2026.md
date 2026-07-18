@@ -76,7 +76,7 @@ Sự phát triển này nằm trong một xu hướng lớn hơn của ngành, k
 Ngôi sao thực sự trong danh mục là dòng chip AI Trainium. Sức hút của nó thể hiện qua con số cam kết doanh thu khổng lồ, hơn 225 tỷ USD. Đằng sau con số này là những khách hàng lớn của ngành AI. Anthropic và OpenAI đều đã ký các thỏa thuận về công suất tính toán quy mô lớn, cùng sự quan tâm ngày càng tăng từ nhiều công ty khác. Đây là minh chứng mạnh mẽ cho nhu cầu thực tế đối với các lựa chọn thay thế chip AI.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/pqB4fhP06XU/hqdefault.jpg" alt="Chip AI Trainium của Amazon thu hút hơn 225 tỷ USD cam kết từ Anthropic, OpenAI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/pqB4fhP06XU/hqdefault.jpg" alt="Chip AI Trainium của Amazon thu hút hơn 225 tỷ USD cam kết từ Anthropic, OpenAI" loading="lazy" width="1280" height="720">
   <figcaption>Trainium thu hút cam kết doanh thu khổng lồ từ các hãng AI hàng đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Lợi thế cạnh tranh chính của Trainium nằm ở giá trên hiệu năng
 ## Thách thức thế độc quyền của Nvidia
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wcDPK4WCu4M/hqdefault.jpg" alt="Trainium của Amazon được định vị là lựa chọn thay thế cho chip Nvidia trong thị trường AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wcDPK4WCu4M/hqdefault.jpg" alt="Trainium của Amazon được định vị là lựa chọn thay thế cho chip Nvidia trong thị trường AI" loading="lazy" width="1280" height="720">
   <figcaption>Trainium được định vị là lựa chọn thay thế thực sự cho chip Nvidia. Nguồn: YouTube</figcaption>
 </figure>
 
 Điểm khiến câu chuyện thêm phần đáng chú ý là khả năng Amazon bán chip Trainium ra ngoài hệ thống đám mây của mình. Tính tới giữa năm 2026, các báo cáo cho biết Amazon đang trong giai đoạn đàm phán về việc bán chip trực tiếp cho khách hàng bên ngoài AWS, điều đã được lãnh đạo mảng AI của công ty xác nhận trong một cuộc phỏng vấn. Nếu thành hiện thực, đây sẽ là một bước đi táo bạo, đưa Amazon cạnh tranh trực diện hơn nữa với Nvidia trên thị trường mở.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZNCnUmvGXsE/hqdefault.jpg" alt="Amazon tăng tốc ra mắt chip AI mới để cạnh tranh với Nvidia và Google" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZNCnUmvGXsE/hqdefault.jpg" alt="Amazon tăng tốc ra mắt chip AI mới để cạnh tranh với Nvidia và Google" loading="lazy" width="1280" height="720">
   <figcaption>Cuộc đua chip AI ngày càng nóng với sự tham gia của nhiều ông lớn. Nguồn: YouTube</figcaption>
 </figure>
 

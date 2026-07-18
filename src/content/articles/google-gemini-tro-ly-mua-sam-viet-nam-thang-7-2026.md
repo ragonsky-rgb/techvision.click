@@ -74,7 +74,7 @@ Cách tiếp cận này giải quyết trực tiếp một điểm khó chịu q
 Khả năng trả lời chính xác và cập nhật của Gemini trong lĩnh vực mua sắm dựa trên Shopping Graph, hệ thống dữ liệu mua sắm được Google mô tả là lớn nhất thế giới hiện nay. Hệ thống này chứa hơn 50 tỷ danh sách sản phẩm và được cập nhật với tốc độ khoảng 2 tỷ sản phẩm mỗi giờ, một quy mô dữ liệu khổng lồ giúp Gemini có thể phản hồi các câu hỏi về giá cả, tình trạng còn hàng hay khuyến mãi với độ chính xác gần như thời gian thực.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LT_v2SKFChc/hqdefault.jpg" alt="Trải nghiệm thực tế khi để AI của Google mua sắm thay người dùng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LT_v2SKFChc/hqdefault.jpg" alt="Trải nghiệm thực tế khi để AI của Google mua sắm thay người dùng" loading="lazy" width="1280" height="720">
   <figcaption>Thử nghiệm thực tế cho thấy AI có thể tìm và so sánh sản phẩm nhanh hơn cách tìm kiếm truyền thống. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Với người dùng có nhu cầu tham khảo hoặc tìm ý tưởng thay vì 
 Việc đưa tính năng mua sắm vào Gemini nằm trong xu hướng chung của ngành công nghệ AI, nơi các hãng lớn đang tìm cách biến trợ lý AI thành điểm chạm duy nhất phục vụ nhiều nhu cầu hàng ngày của người dùng, đồng thời tìm ra các mô hình kinh doanh mới để kiếm tiền từ các công cụ AI vốn tốn kém chi phí vận hành. Mua sắm trực tuyến là một trong những hoạt động phổ biến và có giá trị thương mại rõ ràng nhất, khiến nó trở thành mảnh ghép tự nhiên cho chiến lược thương mại hóa AI của Google.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6-JNRdDX44U/hqdefault.jpg" alt="Google triển khai công cụ mua sắm agentic trước mùa lễ hội" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6-JNRdDX44U/hqdefault.jpg" alt="Google triển khai công cụ mua sắm agentic trước mùa lễ hội" loading="lazy" width="1280" height="720">
   <figcaption>Google từng thử nghiệm các công cụ mua sắm dựa trên AI agent trước khi triển khai chính thức rộng rãi hơn. Nguồn: YouTube</figcaption>
 </figure>
 
 Đây cũng là một phần trong nỗ lực rộng hơn của Google nhằm giữ chân người dùng ở lại trong hệ sinh thái sản phẩm của hãng thay vì chuyển sang các nền tảng AI đối thủ để tìm kiếm thông tin mua sắm. Khi Gemini có thể trả lời trực tiếp câu hỏi mua sắm với dữ liệu chính xác và cập nhật, người dùng có ít lý do hơn để rời khỏi ứng dụng và tìm kiếm thông tin ở nơi khác, một chiến lược giữ chân người dùng quen thuộc trong ngành công nghệ, tương tự cách [Google Gemma 4 được đưa thẳng xuống chạy trên laptop](/articles/google-gemma-4-12b-mo-hinh-ai-chay-tren-laptop-2026.html) để giữ người dùng trong hệ sinh thái Google thay vì chuyển sang mô hình AI của đối thủ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XMhqNqWI0_0/hqdefault.jpg" alt="Google Gemini 2026 bước vào kỷ nguyên AI agentic" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XMhqNqWI0_0/hqdefault.jpg" alt="Google Gemini 2026 bước vào kỷ nguyên AI agentic" loading="lazy" width="1280" height="720">
   <figcaption>Tính năng mua sắm là một phần trong loạt nâng cấp agentic lớn của Gemini năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

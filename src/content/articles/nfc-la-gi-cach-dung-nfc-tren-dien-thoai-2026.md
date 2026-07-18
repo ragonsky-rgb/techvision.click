@@ -76,7 +76,7 @@ NFC, viết tắt của Near Field Communication, là công nghệ kết nối k
 Trên iPhone, NFC luôn được bật sẵn cho nhiều tác vụ phổ biến như thanh toán Apple Pay hay quét thẻ, nên người dùng thường không cần thao tác thủ công. Nếu không chắc điện thoại có hỗ trợ NFC hay không, bạn có thể kiểm tra bằng cách tìm từ khóa NFC trong Cài đặt hoặc xem thông số kỹ thuật của máy. Hầu hết điện thoại tầm trung và cao cấp hiện nay đều có NFC, dù một số máy giá rẻ có thể không trang bị.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WSrULZbY0mM/maxresdefault.jpg" alt="Cách bật và sử dụng NFC trên iPhone iOS" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WSrULZbY0mM/maxresdefault.jpg" alt="Cách bật và sử dụng NFC trên iPhone iOS" loading="lazy" width="1280" height="720">
   <figcaption>Bật NFC trên Android dễ dàng, iPhone thường bật sẵn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Trên iPhone, NFC luôn được bật sẵn cho nhiều tác vụ phổ biến 
 Một ứng dụng quan trọng khác tại Việt Nam là đọc thẻ căn cước công dân gắn chip. Nhiều ứng dụng dịch vụ công và ngân hàng dùng NFC để đọc thông tin từ chip trên thẻ căn cước, phục vụ xác thực danh tính khi đăng ký tài khoản hay làm thủ tục trực tuyến. Đây là tính năng hữu ích trong tiến trình chuyển đổi số, liên quan tới các nền tảng định danh được đề cập trong bài [VNeID cập nhật tiện ích 2026](/articles/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.html). Để đọc thẻ, bạn thường đặt mặt sau điện thoại sát vào thẻ căn cước và giữ yên vài giây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/A3ODZLROyLU/maxresdefault.jpg" alt="Cách bật và sử dụng NFC trên Android để thanh toán" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/A3ODZLROyLU/maxresdefault.jpg" alt="Cách bật và sử dụng NFC trên Android để thanh toán" loading="lazy" width="1280" height="720">
   <figcaption>NFC dùng để thanh toán không chạm và đọc thẻ căn cước gắn chip. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Ngoài thanh toán và xác thực, NFC còn giúp kết nối nhanh các thiế
 Một ứng dụng thú vị khác là đọc và ghi dữ liệu vào thẻ NFC, còn gọi là NFC tag. Đây là các thẻ nhỏ giá rẻ có thể lập trình để thực hiện hành động khi điện thoại chạm vào, ví dụ tự động bật wifi, mở một ứng dụng, hay chia sẻ thông tin liên hệ. Người dùng nâng cao có thể tận dụng thẻ NFC để tự động hóa các tác vụ lặp lại, biến những thao tác nhiều bước thành một lần chạm đơn giản, tăng tiện ích cho cuộc sống số.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KTmyMXQII_Q/maxresdefault.jpg" alt="Hướng dẫn ghi dữ liệu vào thẻ NFC tag" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KTmyMXQII_Q/maxresdefault.jpg" alt="Hướng dẫn ghi dữ liệu vào thẻ NFC tag" loading="lazy" width="1280" height="720">
   <figcaption>Thẻ NFC tag có thể lập trình để tự động hóa nhiều tác vụ. Nguồn: YouTube</figcaption>
 </figure>
 

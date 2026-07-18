@@ -76,7 +76,7 @@ Một thay đổi quan trọng được nhiều người quan tâm là từ ngà
 Để bảo vệ dữ liệu nhạy cảm, thông tin thuộc phiếu lý lịch tư pháp số 2 chỉ được truy cập khi người dùng nhập mã xác thực gồm 6 chữ số trên VNeID. Cơ chế passcode này tăng cường bảo mật, đảm bảo các thông tin nhạy cảm không bị xem nếu thiết bị rơi vào tay người khác. Việc cân bằng giữa tiện lợi và bảo mật là yếu tố quan trọng khi ngày càng nhiều dữ liệu cá nhân được tích hợp vào một ứng dụng duy nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/I3fzi-gy6NM/maxresdefault.jpg" alt="Hướng dẫn công dân tố giác tội phạm trên ứng dụng VNeID" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/I3fzi-gy6NM/maxresdefault.jpg" alt="Hướng dẫn công dân tố giác tội phạm trên ứng dụng VNeID" loading="lazy" width="1280" height="720">
   <figcaption>VNeID tích hợp lý lịch tư pháp và nhiều dịch vụ công từ 1/7. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tính tới giữa năm 2026, Bộ Công an đã triển khai hơn 50 tiện íc
 VNeID cũng nằm trong đề án phát triển ứng dụng định danh quốc gia giai đoạn 2026 đến 2030, tầm nhìn đến năm 2045. Mục tiêu là đưa VNeID trở thành nền tảng số quốc gia an toàn, hiện đại, có khả năng mở rộng cao, làm nền tảng tin cậy để kết nối và xác thực thông tin giữa các cơ sở dữ liệu quốc gia, cơ quan và doanh nghiệp. Đây là tham vọng lớn, đặt VNeID vào vị trí trung tâm của tiến trình chuyển đổi số quốc gia.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9cxWftTVJAE/maxresdefault.jpg" alt="Hướng dẫn cấp phiếu lý lịch tư pháp trên VNeID" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9cxWftTVJAE/maxresdefault.jpg" alt="Hướng dẫn cấp phiếu lý lịch tư pháp trên VNeID" loading="lazy" width="1280" height="720">
   <figcaption>VNeID hướng tới thành nền tảng số quốc gia giai đoạn 2026-2030. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Song hành với sự phổ biến của VNeID là tình trạng lợi dụng �
 Để phòng tránh, chỉ nên tải VNeID từ kho ứng dụng chính thức, tuyệt đối không cài qua link gửi trong tin nhắn hay cuộc gọi. Cần nhớ rằng cơ quan chức năng không yêu cầu người dân cài app qua điện thoại hay cung cấp mã OTP, mật khẩu. Hãy cảnh giác với mọi cuộc gọi mạo danh và bảo mật passcode ứng dụng cẩn thận. Để hiểu thêm về các chiêu lừa đảo, có thể tham khảo bài [cách nhận biết ảnh, video deepfake giả mạo](/articles/cach-nhan-biet-anh-video-deepfake-ai-gia-mao-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2nPDvlIIs6k/maxresdefault.jpg" alt="Cảnh báo thủ đoạn lừa đảo cài ứng dụng VNeID giả mạo" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2nPDvlIIs6k/maxresdefault.jpg" alt="Cảnh báo thủ đoạn lừa đảo cài ứng dụng VNeID giả mạo" loading="lazy" width="1280" height="720">
   <figcaption>Chỉ cài VNeID từ kho ứng dụng chính thức để tránh bị lừa. Nguồn: YouTube</figcaption>
 </figure>
 

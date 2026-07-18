@@ -74,7 +74,7 @@ Khả năng vận động ấn tượng của robot AgiBot, từ những cú đ�
 AgiBot xây dựng một danh mục sản phẩm khá toàn diện, nhắm tới nhiều nhu cầu khác nhau. AgiBot X2 là robot đa dụng linh hoạt, AgiBot A2 là robot hình người phục vụ tương tác hướng tới dịch vụ, còn AgiBot G2 là robot cấp công nghiệp cho các thao tác hiện thân trong nhà máy. Bên cạnh đó, mẫu Expedition A3 với khả năng biểu diễn võ thuật là gương mặt gây chú ý về mặt truyền thông.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Dfo0prsPYxE/hqdefault.jpg" alt="Danh mục sản phẩm embodied AI của AgiBot" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Dfo0prsPYxE/hqdefault.jpg" alt="Danh mục sản phẩm embodied AI của AgiBot" loading="lazy" width="1280" height="720">
   <figcaption>AgiBot xây dựng hệ sinh thái embodied AI đầy đủ từ robot dịch vụ tới cấp công nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Cách tiếp cận đa dạng này cho thấy tầm nhìn của AgiBot không ch
 Một trong những câu chuyện đáng chú ý là cuộc cạnh tranh ngôi đầu về sản lượng. Theo hãng phân tích Omdia, AgiBot dẫn đầu về số lượng robot hình người xuất xưởng với khoảng 4.200 máy trong năm 2025, xếp trên Unitree. Tuy nhiên, Unitree lại tự công bố đã xuất xưởng hơn 5.500 máy và tự nhận giữ ngôi vương về sản lượng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zB_vqqjb9YU/hqdefault.jpg" alt="AgiBot trình diễn robot embodied AI tại sự kiện quốc tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zB_vqqjb9YU/hqdefault.jpg" alt="AgiBot trình diễn robot embodied AI tại sự kiện quốc tế" loading="lazy" width="1280" height="720">
   <figcaption>AgiBot cũng mang robot ra các sự kiện quốc tế, khẳng định tham vọng toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Sự chênh lệch con số giữa các nguồn thống kê phản ánh việc t
 ## Trung Quốc vươn lên trong cuộc đua toàn cầu
 
 <figure>
-  <img src="https://i.ytimg.com/vi/qYQAM0Sz-s0/hqdefault.jpg" alt="Robot hình người AgiBot di chuyển linh hoạt như con người" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qYQAM0Sz-s0/hqdefault.jpg" alt="Robot hình người AgiBot di chuyển linh hoạt như con người" loading="lazy" width="1280" height="720">
   <figcaption>Robot AgiBot di chuyển và hành động ngày càng giống con người, thu hẹp khoảng cách với đối thủ. Nguồn: YouTube</figcaption>
 </figure>
 

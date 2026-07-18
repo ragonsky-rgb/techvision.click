@@ -76,7 +76,7 @@ Hầu hết điện thoại hiện nay đều có tính năng chống rung, hãy
 Về thông số, với đa số nhu cầu, quay ở 4K hoặc Full HD tại tốc độ 30 hoặc 60fps là phù hợp. Độ phân giải 4K cho chi tiết cao và dư địa cắt cúp khi dựng, nhưng tốn dung lượng lưu trữ. Tốc độ 60fps cho chuyển động mượt và có thể tạo hiệu ứng quay chậm. Nếu dung lượng hạn chế, Full HD 30fps vẫn cho chất lượng tốt với file nhẹ hơn. Nhớ kiểm tra dung lượng trống trước khi quay các cảnh dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/R8z7fgSZ5h8/maxresdefault.jpg" alt="Mẹo quay phim cho người mới học làm video bằng điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/R8z7fgSZ5h8/maxresdefault.jpg" alt="Mẹo quay phim cho người mới học làm video bằng điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Ánh sáng tốt và thông số phù hợp tạo nền cho video đẹp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bố cục biến một cảnh quay bình thường thành hấp dẫn. Hãy áp
 Về kỹ thuật, hãy lau sạch ống kính trước khi quay vì dấu vân tay và bụi làm hình ảnh mờ đục. Khi quay, có thể chạm để lấy nét vào chủ thể, và dùng tính năng khóa nét, khóa sáng để tránh hình ảnh bị thay đổi độ sáng đột ngột khi có vật di chuyển qua khung hình. Tránh dùng zoom kỹ thuật số quá nhiều vì làm giảm chất lượng, thay vào đó hãy di chuyển lại gần chủ thể nếu có thể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1B_J5MJ0Po0/maxresdefault.jpg" alt="Chín mẹo làm phim bằng điện thoại cho người mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1B_J5MJ0Po0/maxresdefault.jpg" alt="Chín mẹo làm phim bằng điện thoại cho người mới" loading="lazy" width="1280" height="720">
   <figcaption>Bố cục theo quy tắc một phần ba giúp khung hình hấp dẫn hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một yếu tố thường bị bỏ qua nhưng rất quan trọng là âm thanh
 Cuối cùng, hãy chọn hướng quay phù hợp với nơi đăng. Quay ngang cho cảm giác điện ảnh, phù hợp video xem trên máy tính, TV hay YouTube truyền thống. Quay dọc phù hợp cho video ngắn trên mạng xã hội như TikTok, Reels hay Shorts. Xác định nền tảng trước khi quay giúp tránh phải cắt cúp làm giảm chất lượng. Việc lên kế hoạch trước cho từng cảnh quay, dù đơn giản, cũng giúp video mạch lạc và chuyên nghiệp hơn nhiều.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OXBLMcXoJ84/maxresdefault.jpg" alt="Ba mẹo quay phim điện thoại đẹp hơn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OXBLMcXoJ84/maxresdefault.jpg" alt="Ba mẹo quay phim điện thoại đẹp hơn" loading="lazy" width="1280" height="720">
   <figcaption>Âm thanh tốt và hướng quay đúng giúp video hoàn thiện hơn. Nguồn: YouTube</figcaption>
 </figure>
 

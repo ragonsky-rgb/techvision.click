@@ -76,7 +76,7 @@ Con số ấn tượng nhất là khả năng mở rộng. Mỗi tủ rack chứ
 Điểm khiến Atlas 950 SuperPoD gây chú ý mạnh nhất là những so sánh trực tiếp với Nvidia. Huawei tuyên bố hệ thống của mình cung cấp sức mạnh tính toán gấp khoảng 6,7 lần và dung lượng bộ nhớ gấp khoảng 15 lần so với NVL144, cụm siêu nút thế hệ mới của Nvidia. Đây là những con số rất lớn, phản ánh chiến lược cạnh tranh bằng quy mô của Huawei.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/h16dVqeRmrY/hqdefault.jpg" alt="Atlas 950 SuperPoD của Huawei tuyên bố vượt cụm NVL144 của Nvidia về sức mạnh và bộ nhớ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/h16dVqeRmrY/hqdefault.jpg" alt="Atlas 950 SuperPoD của Huawei tuyên bố vượt cụm NVL144 của Nvidia về sức mạnh và bộ nhớ" loading="lazy" width="1280" height="720">
   <figcaption>Huawei định vị Atlas 950 SuperPoD là lựa chọn hạ tầng AI mới cho thế giới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tất nhiên, các con số do nhà sản xuất công bố luôn cần được
 ## Bài toán tự chủ chip AI của Trung Quốc
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Uft8gt9LDr8/hqdefault.jpg" alt="Huawei Atlas 950 SuperPoD định hình lại con đường tự chủ năng lực tính toán AI của Trung Quốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Uft8gt9LDr8/hqdefault.jpg" alt="Huawei Atlas 950 SuperPoD định hình lại con đường tự chủ năng lực tính toán AI của Trung Quốc" loading="lazy" width="1280" height="720">
   <figcaption>Atlas 950 phản ánh chiến lược bù đắp hạn chế chip bằng quy mô của Trung Quốc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Atlas 950 SuperPoD không phải cái tên hoàn toàn mới. Hệ thống từn
 ## Ý nghĩa với cuộc đua AI toàn cầu
 
 <figure>
-  <img src="https://i.ytimg.com/vi/O9ir03cEjlM/hqdefault.jpg" alt="Atlas 950 SuperPoD của Huawei có thể tác động tới thị trường hạ tầng AI toàn cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/O9ir03cEjlM/hqdefault.jpg" alt="Atlas 950 SuperPoD của Huawei có thể tác động tới thị trường hạ tầng AI toàn cầu" loading="lazy" width="1280" height="720">
   <figcaption>Sự xuất hiện của Atlas 950 có thể tạo thêm lựa chọn cho thị trường hạ tầng AI. Nguồn: YouTube</figcaption>
 </figure>
 

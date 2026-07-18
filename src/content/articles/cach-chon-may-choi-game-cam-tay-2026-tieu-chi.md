@@ -71,7 +71,7 @@ Gần đây, một số nhà sản xuất như Lenovo đã bắt đầu cung c�
 Hiệu năng chip xử lý quyết định trực tiếp khả năng chơi mượt các tựa game AAA nặng ở độ phân giải và khung hình cao hơn. Các dòng máy cao cấp hiện nay sử dụng chip AMD Ryzen Z2 Extreme hoặc tương đương, đạt công suất TDP tối đa 80-90W khi cắm sạc, đủ sức xử lý hầu hết game PC hiện đại ở mức cài đặt đồ họa trung bình tới cao. Người chỉ chơi game indie hoặc game nhẹ có thể cân nhắc các dòng chip thấp hơn để tiết kiệm chi phí, đồng thời được thời lượng pin dài hơn đáng kể so với cấu hình cao cấp nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BnxZqCFcHkU/hqdefault.jpg" alt="MSI Claw 8 AI Plus danh gia hieu nang chip xu ly" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/BnxZqCFcHkU/hqdefault.jpg" alt="MSI Claw 8 AI Plus danh gia hieu nang chip xu ly" loading="lazy" width="1280" height="480">
   <figcaption>MSI Claw 8 AI+ được đánh giá cao về hiệu năng chip xử lý trong phân khúc máy chơi game cầm tay cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Với người dùng đang xây dựng bộ gear gaming hoàn chỉnh, có thể
 Màn hình trên máy chơi game cầm tay hiện nay phổ biến ở kích thước 7-8,8 inch, với các dòng cao cấp sử dụng tấm nền OLED cho màu sắc rực rỡ và độ tương phản cao hơn tấm nền LCD truyền thống. Tần số quét cũng là yếu tố đáng chú ý, các dòng cao cấp hiện đạt 120-144Hz kèm công nghệ đồng bộ tần số quét biến thiên (VRR), giúp hình ảnh mượt mà hơn khi khung hình dao động trong lúc chơi game, hạn chế hiện tượng xé hình khó chịu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Hg3li16DRHY/hqdefault.jpg" alt="Steam Deck OLED danh gia man hinh sau mot nam su dung" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Hg3li16DRHY/hqdefault.jpg" alt="Steam Deck OLED danh gia man hinh sau mot nam su dung" loading="lazy" width="1280" height="480">
   <figcaption>Steam Deck OLED được đánh giá cao về chất lượng màn hình sau hơn một năm sử dụng thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Màn hình trên máy chơi game cầm tay hiện nay phổ biến ở kích th�
 Trước khi mua, người dùng nên kiểm tra kỹ thư viện game hiện có của mình có tương thích tốt với nền tảng đã chọn hay không. Phần lớn game trên Steam chơi được trên cả SteamOS và Windows, nhưng một số tựa game có hệ thống chống gian lận nghiêm ngặt hoặc yêu cầu phần cứng đặc biệt có thể gặp vấn đề tương thích, đặc biệt trên các máy dùng SteamOS. Người chơi nhiều game online cạnh tranh nên ưu tiên kiểm tra danh sách tương thích trước khi quyết định mua.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/NJPg8anQl_8/hqdefault.jpg" alt="Lenovo Legion Go danh gia thu vien game tuong thich" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/NJPg8anQl_8/hqdefault.jpg" alt="Lenovo Legion Go danh gia thu vien game tuong thich" loading="lazy" width="1280" height="480">
   <figcaption>Lenovo Legion Go là một trong những lựa chọn được đánh giá cao về khả năng tương thích thư viện game rộng rãi. Nguồn: YouTube</figcaption>
 </figure>
 

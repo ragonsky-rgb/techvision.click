@@ -76,7 +76,7 @@ PD, viết tắt của USB Power Delivery, là chuẩn sạc nhanh phổ biến 
 PPS là phần mở rộng của PD, cho phép điều chỉnh điện áp và dòng điện theo các bước nhỏ, liên tục thay vì chỉ vài mức cố định. Cách này giúp quá trình sạc hiệu quả hơn, sinh ít nhiệt hơn và tốt cho tuổi thọ pin. Nhiều điện thoại đời mới dựa vào PPS để đạt tốc độ sạc cao nhất, nên khi mua củ sạc, việc hỗ trợ PPS là một điểm cộng đáng cân nhắc. Để hiểu thêm về ảnh hưởng của sạc nhanh tới pin, có thể xem bài [sạc nhanh có hại pin không](/articles/sac-nhanh-co-hai-pin-khong-cach-sac-dung-keo-dai-tuoi-tho-pin.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/MOSp0-f-_Cg/maxresdefault.jpg" alt="Sạc nhanh PD là gì và PPS là gì trên cổng USB-C" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/MOSp0-f-_Cg/maxresdefault.jpg" alt="Sạc nhanh PD là gì và PPS là gì trên cổng USB-C" loading="lazy" width="1280" height="720">
   <figcaption>PD và PPS quyết định tốc độ và độ ổn định khi sạc nhanh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh sạc, USB-C còn dùng để truyền dữ liệu, và đây là n�
 Khả năng xuất hình qua USB-C phụ thuộc vào việc cổng và cáp có hỗ trợ chế độ truyền tín hiệu hình ảnh hay không. Một số cổng USB-C trên laptop có thể xuất ra màn hình rời, số khác chỉ dùng để sạc và truyền dữ liệu. Cao cấp hơn là Thunderbolt, một chuẩn dùng cổng USB-C nhưng cho băng thông rất lớn, hỗ trợ cùng lúc truyền dữ liệu tốc độ cao, xuất nhiều màn hình và cấp điện. Trước khi mua phụ kiện như dock hay màn hình rời, nên kiểm tra kỹ cổng máy hỗ trợ chuẩn nào.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Pu7aLWt5qXo/maxresdefault.jpg" alt="Tất cả những điều cần biết về USB Type-C chuẩn kết nối tương lai" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Pu7aLWt5qXo/maxresdefault.jpg" alt="Tất cả những điều cần biết về USB Type-C chuẩn kết nối tương lai" loading="lazy" width="1280" height="720">
   <figcaption>Tốc độ dữ liệu và xuất hình khác nhau rõ giữa các cổng USB-C. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Khả năng xuất hình qua USB-C phụ thuộc vào việc cổng và cáp có
 Trên thị trường có rất nhiều cáp nhái và cáp kém chất lượng trông giống hàng chính hãng. Loại cáp này thường thiếu con chip nhận diện hoặc dây dẫn không đạt chuẩn, dẫn tới sạc chậm, chập chờn và tiềm ẩn rủi ro an toàn. Hãy ưu tiên cáp chính hãng hoặc từ thương hiệu uy tín, đọc kỹ thông số công suất và tốc độ ghi trên bao bì, và cảnh giác với những sản phẩm giá quá rẻ so với mặt bằng. Khi chọn củ sạc và sạc dự phòng đi kèm, có thể tham khảo bài [cách chọn sạc dự phòng đúng công suất](/articles/cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/esPuWN5QvIU/maxresdefault.jpg" alt="Tìm hiểu chuẩn kết nối USB Type-C và cách phân biệt cáp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/esPuWN5QvIU/maxresdefault.jpg" alt="Tìm hiểu chuẩn kết nối USB Type-C và cách phân biệt cáp" loading="lazy" width="1280" height="720">
   <figcaption>Chọn cáp đúng chuẩn giúp sạc nhanh an toàn và truyền dữ liệu tốt. Nguồn: YouTube</figcaption>
 </figure>
 

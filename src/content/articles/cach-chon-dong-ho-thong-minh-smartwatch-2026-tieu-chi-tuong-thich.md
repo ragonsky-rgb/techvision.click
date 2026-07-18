@@ -76,7 +76,7 @@ Một trong những lý do chính khiến nhiều người mua đồng hồ thô
 Tuy nhiên, cần hiểu rằng dữ liệu từ đồng hồ chỉ mang tính tham khảo, không thay thế thiết bị y tế chuyên dụng hay chẩn đoán của bác sĩ. Hãy dùng chúng để theo dõi thói quen và phát hiện bất thường để đi khám khi cần. Với người tập luyện, các tính năng thể thao như GPS đo quãng đường, nhiều chế độ bài tập và chuẩn chống nước rất quan trọng. Nếu bạn hay chạy bộ hoặc đạp xe ngoài trời, một chiếc đồng hồ có GPS tích hợp sẽ tiện hơn nhiều so với phải mang theo điện thoại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/q1eGhezOLb8/maxresdefault.jpg" alt="Top smartwatch đáng mua theo các mức giá" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/q1eGhezOLb8/maxresdefault.jpg" alt="Top smartwatch đáng mua theo các mức giá" loading="lazy" width="1280" height="720">
   <figcaption>Cảm biến sức khỏe và tính năng thể thao là yếu tố nhiều người quan tâm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Thời lượng pin là yếu tố ảnh hưởng lớn tới trải nghiệm h�
 Về thiết kế, hãy chọn kích thước mặt đồng hồ phù hợp với cổ tay, không quá to gây cấn hay quá nhỏ khó nhìn. Chất liệu vỏ và dây đeo cũng ảnh hưởng tới độ bền, sự thoải mái và phong cách. Nhiều đồng hồ cho phép thay dây dễ dàng, giúp linh hoạt giữa phong cách thể thao và lịch sự. Đây là phụ kiện đeo cả ngày, nên sự thoải mái và thẩm mỹ quan trọng không kém tính năng, đặc biệt nếu bạn muốn đeo nó trong cả công việc lẫn tập luyện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jJlYbKfHDl8/maxresdefault.jpg" alt="Các mẫu smartwatch và smartband đáng mua cho Android và iOS" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jJlYbKfHDl8/maxresdefault.jpg" alt="Các mẫu smartwatch và smartband đáng mua cho Android và iOS" loading="lazy" width="1280" height="720">
   <figcaption>Pin và thiết kế cần cân nhắc theo thói quen sử dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Cách chọn hiệu quả nhất là xuất phát từ nhu cầu chính của b�
 Về ngân sách, thị trường có đủ phân khúc nên bạn không cần mua đắt nhất. Hãy xác định các tính năng thực sự cần và chọn mẫu đáp ứng tốt trong tầm tiền, thay vì trả thêm cho những tính năng ít dùng. Một lưu ý quan trọng là quyền riêng tư dữ liệu sức khỏe: hãy tìm hiểu cách hãng thu thập và xử lý dữ liệu, đặt mật khẩu và quản lý quyền ứng dụng cẩn thận, như đề cập trong bài [cách bảo vệ quyền riêng tư và dữ liệu cá nhân](/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/S0howT1R2ww/maxresdefault.jpg" alt="Những đồng hồ thông minh đáng mua theo nhu cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/S0howT1R2ww/maxresdefault.jpg" alt="Những đồng hồ thông minh đáng mua theo nhu cầu" loading="lazy" width="1280" height="720">
   <figcaption>Chọn smartwatch theo nhu cầu chính giúp tránh lãng phí. Nguồn: YouTube</figcaption>
 </figure>
 

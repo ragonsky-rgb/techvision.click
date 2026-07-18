@@ -76,7 +76,7 @@ Việc Nintendo dùng một tựa độc quyền như Splatoon Raiders để th�
 Bên cạnh cái mới, tháng 7 còn là bữa tiệc hoài niệm cho fan nhập vai Nhật. Final Fantasy X/X-2 HD Remaster cập bến Switch 2 vào ngày 23/7, mang tới gói tổng hợp hai phần game gắn liền với ký ức của cả một thế hệ. Bản làm lại được nâng cấp hình ảnh, phối lại nhạc nền và bổ sung các cải tiến về trải nghiệm, giúp tựa game ra đời từ nhiều năm trước vẫn dễ tiếp cận trên phần cứng hiện đại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/POvUXdleFFI/hqdefault.jpg" alt="Final Fantasy X/X-2 HD Remaster và các game nhập vai trên Nintendo Switch 2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/POvUXdleFFI/hqdefault.jpg" alt="Final Fantasy X/X-2 HD Remaster và các game nhập vai trên Nintendo Switch 2" loading="lazy" width="1280" height="720">
   <figcaption>Final Fantasy X/X-2 HD Remaster đưa hai phần JRPG kinh điển lên Switch 2. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Sức hấp dẫn của các bản remaster nằm ở chỗ chúng vừa phục 
 Khép lại tháng, Xenoblade Chronicles 2 bản Nintendo Switch 2 Edition lên kệ ngày 30/7. Đây không đơn thuần là bản chuyển nền, mà được bổ sung nội dung mới gồm chế độ chiến đấu mới, một Blade hiếm cùng chuỗi nhiệm vụ đi kèm, và thiết kế trang bị mới cho các nhân vật. Bản này tận dụng sức mạnh phần cứng của Switch 2 để cải thiện chất lượng hình ảnh, mang lại lý do để cả người từng chơi lẫn người mới quay lại thế giới rộng lớn của trò chơi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3te4tUQRaGM/hqdefault.jpg" alt="Dòng Xenoblade Chronicles nâng cấp cho Nintendo Switch 2 Edition" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3te4tUQRaGM/hqdefault.jpg" alt="Dòng Xenoblade Chronicles nâng cấp cho Nintendo Switch 2 Edition" loading="lazy" width="1280" height="720">
   <figcaption>Dòng Xenoblade Chronicles được làm mới cho Switch 2 với nội dung bổ sung. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài ba cái tên nổi bật kể trên, tháng 7 còn có Digimon Story: Time Stranger mở màn từ ngày 10/7, tựa phiêu lưu Moss: The Forgotten Relic ra mắt ngày 16/7, và Avatar Legends: The Fighting Game lên kệ ngày 23/7. Sự đa dạng thể loại này cho thấy Switch 2 đang thu hút được cả các nhà phát hành bên thứ ba, một tín hiệu quan trọng với sức khỏe lâu dài của nền tảng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/d7ve2zWmkEA/hqdefault.jpg" alt="Nintendo Direct giới thiệu loạt game mới cho Switch 2 gồm Splatoon Raiders" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/d7ve2zWmkEA/hqdefault.jpg" alt="Nintendo Direct giới thiệu loạt game mới cho Switch 2 gồm Splatoon Raiders" loading="lazy" width="1280" height="720">
   <figcaption>Nintendo liên tục bổ sung game mới nhằm giữ nhịp cho Switch 2. Nguồn: YouTube</figcaption>
 </figure>
 

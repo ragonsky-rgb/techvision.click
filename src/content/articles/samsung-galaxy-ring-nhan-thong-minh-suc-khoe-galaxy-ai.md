@@ -76,7 +76,7 @@ Một lợi thế lớn của Galaxy Ring là thời lượng pin. Nhẫn dùng 
 Về độ bền, Galaxy Ring sử dụng khung bằng titanium, vật liệu nhẹ nhưng cứng cáp, chịu được các hoạt động thường ngày và va chạm nhẹ mà không ảnh hưởng tới cấu tạo. Nhẫn cũng có khả năng kháng nước, phù hợp đeo khi rửa tay hay sinh hoạt. Thiết kế tối giản, tinh tế với nhiều màu và kích cỡ giúp Galaxy Ring vừa là thiết bị công nghệ vừa là phụ kiện thời trang, dễ phối với trang phục hằng ngày mà không lộ liễu như các thiết bị đeo khác.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Z6LBojp-7Rk/maxresdefault.jpg" alt="Trải nghiệm Samsung Galaxy Ring người bạn đồng hành sức khỏe" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Z6LBojp-7Rk/maxresdefault.jpg" alt="Trải nghiệm Samsung Galaxy Ring người bạn đồng hành sức khỏe" loading="lazy" width="1280" height="720">
   <figcaption>Khung titanium nhẹ và pin lâu là điểm mạnh của Galaxy Ring. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Ngoài theo dõi sức khỏe, Galaxy Ring còn có các tiện ích thông minh
 Để khai thác đầy đủ tính năng, Galaxy Ring hoạt động tốt nhất trong hệ sinh thái Samsung, kết nối với điện thoại Galaxy qua ứng dụng Samsung Health. Dữ liệu sức khỏe được tổng hợp và phân tích trong ứng dụng, tạo bức tranh toàn diện về tình trạng cơ thể. Vì nhẫn thu thập nhiều dữ liệu sức khỏe nhạy cảm, người dùng nên quan tâm tới quyền riêng tư và bảo mật, như hướng dẫn trong bài [cách bảo vệ quyền riêng tư và dữ liệu cá nhân](/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html), để kiểm soát thông tin của mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/MOegnsW01jU/maxresdefault.jpg" alt="Galaxy Ring đo giấc ngủ và sức khỏe, ai nên mua" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/MOegnsW01jU/maxresdefault.jpg" alt="Galaxy Ring đo giấc ngủ và sức khỏe, ai nên mua" loading="lazy" width="1280" height="720">
   <figcaption>Gesture Control và Find My Ring là các tiện ích thông minh đi kèm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sự xuất hiện của Galaxy Ring phản ánh xu hướng đa dạng hóa thi
 Tuy nhiên, nhẫn thông minh cũng có hạn chế. Vì không có màn hình, nó không hiển thị thông báo, bản đồ hay dữ liệu tập luyện trực quan như đồng hồ, và phải dựa vào điện thoại để xem thông tin. Kích thước cố định cũng đòi hỏi người mua chọn đúng cỡ nhẫn. Vì vậy, Galaxy Ring phù hợp nhất như một thiết bị chuyên theo dõi sức khỏe và giấc ngủ, hơn là thay thế hoàn toàn đồng hồ thông minh. Người dùng quan tâm tới các thiết bị đeo khác như tai nghe có thể xem thêm bài [cách chọn tai nghe true wireless](/articles/cach-chon-tai-nghe-true-wireless-tws-2026-tieu-chi.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/W4V9vPRGyrA/maxresdefault.jpg" alt="Galaxy Ring nhỏ mà có võ, nhẫn thông minh của Samsung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/W4V9vPRGyrA/maxresdefault.jpg" alt="Galaxy Ring nhỏ mà có võ, nhẫn thông minh của Samsung" loading="lazy" width="1280" height="720">
   <figcaption>Nhẫn thông minh là hướng đi mới bên cạnh đồng hồ và vòng đeo. Nguồn: YouTube</figcaption>
 </figure>
 

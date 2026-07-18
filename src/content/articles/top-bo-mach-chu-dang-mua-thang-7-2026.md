@@ -70,7 +70,7 @@ Với người mới build máy tính lần đầu, bo mạch chủ chipset dòn
 Ở phân khúc tầm trung, bo mạch chủ tích hợp sẵn WiFi 7 và nhiều khe M.2 là lựa chọn nổi bật, phù hợp người dùng cần cân bằng giữa tính năng kết nối không dây tốc độ cao và khả năng mở rộng lưu trữ. Chuẩn WiFi 7 mang lại tốc độ mạng không dây vượt trội so với WiFi 6E, đủ đáp ứng tốt nhu cầu chơi game trực tuyến độ trễ thấp mà không cần đi dây mạng LAN phức tạp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-8LMML_EiMg/hqdefault.jpg" alt="Sai lam thuong gap khi build PC chon bo mach chu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/-8LMML_EiMg/hqdefault.jpg" alt="Sai lam thuong gap khi build PC chon bo mach chu" loading="lazy" width="1280" height="480">
   <figcaption>Những sai lầm phổ biến người mới build máy tính thường gặp khi chọn bo mạch chủ và các linh kiện đi kèm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Với người mới build máy tính lần đầu, bo mạch chủ chipset dòn
 Với nhu cầu xây dựng dàn máy hiệu năng cao nhất, bo mạch chủ chipset đầu bảng với VRM mạnh là lựa chọn đáng đầu tư nhất, đảm bảo đủ khả năng ép xung sâu cho cả CPU lẫn RAM, đồng thời hỗ trợ đầy đủ chuẩn PCIe 5.0 cho cả khe cắm card đồ họa chính lẫn khe M.2 tốc độ cao nhất. VRM nhiều pha kết hợp heatsink tản nhiệt dày giúp duy trì điện áp ổn định ngay cả khi CPU hoạt động ở mức tải cao liên tục trong thời gian dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/18qmigDTfa4/hqdefault.jpg" alt="Huong dan chon bo mach chu gaming cao cap 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/18qmigDTfa4/hqdefault.jpg" alt="Huong dan chon bo mach chu gaming cao cap 2026" loading="lazy" width="1280" height="480">
   <figcaption>Hướng dẫn chi tiết cách chọn bo mạch chủ gaming cao cấp, tập trung vào chất lượng VRM và khả năng ép xung. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Ngoài VRM, người dùng ở phân khúc cao cấp cũng nên chú ý tới s�
 Người xây dựng dàn máy cao cấp cũng nên cân nhắc thêm khả năng hỗ trợ nhiều card đồ họa cùng lúc hoặc card mở rộng chuyên dụng, dù xu hướng hiện nay phần lớn người dùng chỉ cần một card đồ họa hiệu năng cao thay vì cấu hình đa card từng phổ biến trước đây, nên tính năng này chủ yếu phù hợp nhu cầu workstation chuyên nghiệp hơn là dàn máy chơi game thông thường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tshJAgeDLL4/hqdefault.jpg" alt="So sanh chipset bo mach chu cao cap 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/tshJAgeDLL4/hqdefault.jpg" alt="So sanh chipset bo mach chu cao cap 2026" loading="lazy" width="1280" height="480">
   <figcaption>So sánh chi tiết các chipset bo mạch chủ cao cấp hiện nay, giúp người dùng chọn đúng nền tảng cho dàn máy hiệu năng cao. Nguồn: YouTube</figcaption>
 </figure>
 

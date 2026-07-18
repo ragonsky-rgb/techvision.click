@@ -66,7 +66,7 @@ Yếu tố đầu tiên cần cân nhắc là chuẩn wifi của hệ thống me
 Về số lượng node, nhà phố 2-3 tầng diện tích trung bình thường chỉ cần bộ 2-3 node là đủ phủ sóng toàn bộ không gian sống. Với biệt thự diện tích lớn hoặc nhà có nhiều vật cản như tường bê tông dày, nên cân nhắc bộ 3-4 node trở lên để đảm bảo không còn điểm chết sóng ở bất kỳ khu vực nào, kể cả sân vườn hoặc tầng hầm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/JMWO_Q5hTMI/hqdefault.jpg" alt="Eero Max 7 mo hop thiet lap lan dau 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/JMWO_Q5hTMI/hqdefault.jpg" alt="Eero Max 7 mo hop thiet lap lan dau 2026" loading="lazy" width="1280" height="480">
   <figcaption>Quá trình mở hộp và thiết lập lần đầu của các hệ thống mesh cao cấp thường khá đơn giản qua ứng dụng di động. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,14 +75,14 @@ Về số lượng node, nhà phố 2-3 tầng diện tích trung bình thườn
 Cổng mạng có dây trên mỗi node cũng là yếu tố quan trọng cần lưu ý, đặc biệt với các thiết bị cần độ ổn định cao như máy tính bàn, tivi thông minh hoặc máy chơi game. Hầu hết hệ thống wifi mesh tầm trung trở lên hiện nay đều trang bị ít nhất một cổng Ethernet tốc độ cao trên mỗi node, một số dòng cao cấp còn hỗ trợ backhaul có dây giữa các node để tăng tốc độ tổng thể toàn hệ thống thay vì chỉ giao tiếp qua sóng không dây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/MLrZQRVZjuw/hqdefault.jpg" alt="Wifi mesh toc do thuc te kiem tra 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/MLrZQRVZjuw/hqdefault.jpg" alt="Wifi mesh toc do thuc te kiem tra 2026" loading="lazy" width="1280" height="480">
   <figcaption>Tốc độ thực tế và độ ổn định khi chuyển vùng phủ sóng là yếu tố được nhiều reviewer kiểm tra kỹ lưỡng. Nguồn: YouTube</figcaption>
 </figure>
 
 Về khả năng quản lý, phần lớn hệ thống wifi mesh hiện nay đều được điều khiển hoàn toàn qua ứng dụng di động, cho phép thiết lập nhanh chóng, theo dõi thiết bị kết nối, tạo mạng khách riêng biệt và giới hạn thời gian sử dụng internet cho từng thiết bị. Ba thương hiệu được đánh giá cao nhất năm 2026 gồm TP-Link Deco với mức giá hợp lý và hiệu năng ổn định, eero nổi bật nhờ tích hợp sâu với hệ sinh thái nhà thông minh, và Asus ZenWiFi phù hợp người dùng cần tùy chỉnh nâng cao hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/doLktrfXdsU/hqdefault.jpg" alt="TP-Link Deco BE63 mo hop thiet lap wifi 7 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/doLktrfXdsU/hqdefault.jpg" alt="TP-Link Deco BE63 mo hop thiet lap wifi 7 2026" loading="lazy" width="1280" height="480">
   <figcaption>TP-Link Deco là một trong những thương hiệu wifi mesh được đánh giá cao về giá trị trong tầm giá. Nguồn: YouTube</figcaption>
 </figure>
 

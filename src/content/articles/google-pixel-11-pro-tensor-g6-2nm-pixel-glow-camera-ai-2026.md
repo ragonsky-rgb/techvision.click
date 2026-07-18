@@ -76,7 +76,7 @@ Cấu hình nhân được đồn khá lạ: 7 nhân thay vì 8, gồm một nh�
 Quan trọng hơn là phần mềm camera. Các tính năng rò rỉ gồm Night Sight Video 2.0 quay đêm thời gian thực xử lý ngay trên NPU của Tensor G6 mà không cần gửi lên đám mây, chế độ Cinematic Blur quay xóa phông nâng lên 4K30, relighting video bằng AI, chỉnh ảnh bằng giọng nói Speak-to-Tweak, biến phác thảo thành ảnh Sketch-to-Image và Camera Coach hướng dẫn bố cục. Hướng xử lý AI ngay trên máy này cùng mạch với xu thế [AI chạy on-device như Gemma 4](/articles/gemma-4-chay-offline-tren-dien-thoai-khong-can-internet-ai-on-device.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AWoNIYH6fJg/maxresdefault.jpg" alt="Rò rỉ Pixel 11 Pro XL với ba camera 50MP và pin 5500mAh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AWoNIYH6fJg/maxresdefault.jpg" alt="Rò rỉ Pixel 11 Pro XL với ba camera 50MP và pin 5500mAh" loading="lazy" width="1280" height="720">
   <figcaption>Bản Pro XL được đồn có ba camera 50MP và pin 5500mAh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Các đời Tensor trước của Google thường bị đánh giá là yếu h�
 Đáng chú ý, thế mạnh truyền thống của Tensor không nằm ở hiệu năng thô mà ở khối xử lý AI chuyên dụng phục vụ nhiếp ảnh tính toán và các tính năng thông minh. Nếu TPU mới được đồn trên Tensor G6 thực sự mạnh hơn, đó có thể là điểm tạo khác biệt rõ nhất, vì nó hỗ trợ các tính năng AI chạy ngay trên máy mà Google đang theo đuổi. Tất cả những phân tích này vẫn dựa trên rò rỉ, và chỉ được kiểm chứng khi Google công bố chính thức.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4Gpzrn42-tM/maxresdefault.jpg" alt="Rò rỉ Google Pixel 11 Pro với Tensor G6 2nm và thiết kế mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4Gpzrn42-tM/maxresdefault.jpg" alt="Rò rỉ Google Pixel 11 Pro với Tensor G6 2nm và thiết kế mới" loading="lazy" width="1280" height="720">
   <figcaption>Tiến trình 2nm được đồn giúp Tensor G6 cải thiện hiệu năng và tiết kiệm điện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Theo các rò rỉ, dòng Pixel 11 tiếp tục đẩy mạnh hướng đi đó 
 Tuy nhiên, cách tiếp cận thiên về phần mềm cũng có giới hạn. Một số tác vụ vẫn cần cảm biến lớn và ống kính tốt để thu đủ dữ liệu thô, nhất là khi zoom xa hay chụp trong điều kiện cực tối. Vì vậy, nếu các rò rỉ về camera mới và TPU mạnh hơn là đúng, Pixel 11 có thể kết hợp được cả hai thế mạnh. Dù vậy, cho tới khi Google công bố, mọi nhận định về camera vẫn chỉ là suy đoán dựa trên thông tin chưa kiểm chứng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rX7EZ3fRdKQ/maxresdefault.jpg" alt="Rò rỉ Google Pixel 11 Pro XL với nâng cấp modem và Tensor G6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rX7EZ3fRdKQ/maxresdefault.jpg" alt="Rò rỉ Google Pixel 11 Pro XL với nâng cấp modem và Tensor G6" loading="lazy" width="1280" height="720">
   <figcaption>Nhiếp ảnh tính toán và xử lý AI trên máy vẫn là hướng đi đặc trưng của Pixel. Nguồn: YouTube</figcaption>
 </figure>
 

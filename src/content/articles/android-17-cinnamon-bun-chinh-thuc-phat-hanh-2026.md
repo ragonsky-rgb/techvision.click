@@ -71,7 +71,7 @@ Bên cạnh khả năng tự động hoá, hệ thống thông báo trên Androi
 Một trong những cải tiến được cộng đồng người dùng thiết bị màn hình lớn mong đợi nhất trên Android 17 là chế độ đa nhiệm đạt chuẩn desktop thực thụ, với các cửa sổ ứng dụng có thể di chuyển và thay đổi kích thước tự do trên màn hình, đi kèm thanh taskbar hiển thị các ứng dụng đã ghim cùng danh sách ứng dụng gần đây được cải tiến. Tính năng này đặc biệt phát huy sức mạnh trên các thiết bị điện thoại gập và máy tính bảng sở hữu diện tích màn hình lớn, biến Android trở thành một nền tảng làm việc đa nhiệm chuyên nghiệp không thua kém trải nghiệm máy tính để bàn truyền thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Ebz1uA4DwOU/hqdefault.jpg" alt="Chế độ đa nhiệm kiểu desktop mới trên Android 17" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ebz1uA4DwOU/hqdefault.jpg" alt="Chế độ đa nhiệm kiểu desktop mới trên Android 17" loading="lazy" width="1280" height="720">
   <figcaption>Chế độ đa nhiệm desktop trên Android 17 mang lại trải nghiệm làm việc chuyên nghiệp hơn cho thiết bị màn hình lớn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Ngoài ra, Android 17 còn giới thiệu tính năng bong bóng ứng dụng (a
 Về mặt thiết kế, Android 17 mang tới ngôn ngữ thiết kế hoàn toàn mới mang tên Material 3 Expressive, được Google chính thức công bố là bước tiến hoá tiếp theo của Material Design, kết hợp hiệu ứng làm mờ (blur) mới tương tự phong cách của iOS, tạo ra diện mạo hiện đại và tinh tế hơn cho toàn bộ giao diện hệ thống. Người dùng cũng có thể tuỳ chỉnh việc ẩn tên ứng dụng dưới biểu tượng trên màn hình chính, mang lại giao diện gọn gàng và tối giản hơn theo sở thích cá nhân.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LiqnIXVVR4I/hqdefault.jpg" alt="Giao diện Material 3 Expressive mới trên Android 17" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LiqnIXVVR4I/hqdefault.jpg" alt="Giao diện Material 3 Expressive mới trên Android 17" loading="lazy" width="1280" height="720">
   <figcaption>Material 3 Expressive mang lại diện mạo hiện đại hơn cho toàn bộ trải nghiệm sử dụng Android. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Về mặt thiết kế, Android 17 mang tới ngôn ngữ thiết kế hoàn to
 Về mặt bảo mật, Android 17 giới thiệu quyền truy cập mới mang tên ACCESS_LOCAL_NETWORK, thuộc nhóm quyền thiết bị lân cận (NEARBY_DEVICES), giúp bảo vệ tốt hơn hoạt động giao tiếp giữa các thiết bị trong cùng mạng LAN nội bộ khỏi truy cập trái phép từ ứng dụng không đáng tin cậy. Bên cạnh đó, hệ điều hành còn bổ sung cơ chế bảo vệ mới đối với tin nhắn mã xác thực một lần (OTP) qua SMS, trì hoãn quyền truy cập lập trình vào các tin nhắn này trong vòng 3 giờ, nhằm ngăn chặn hiệu quả hơn các hành vi chiếm đoạt tài khoản thông qua ứng dụng độc hại tự động đọc trộm mã OTP ngay khi tin nhắn vừa được gửi tới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/yuGmnxmS660/hqdefault.jpg" alt="Tổng quan các tính năng chính thức của Android 17" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yuGmnxmS660/hqdefault.jpg" alt="Tổng quan các tính năng chính thức của Android 17" loading="lazy" width="1280" height="720">
   <figcaption>Android 17 quy tụ hàng loạt cải tiến từ AI, đa nhiệm cho tới bảo mật trong một bản cập nhật duy nhất. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Về thời lượng, Sony công bố pin lên tới 30 giờ khi bật chống 
 Một thay đổi được nhiều người hoan nghênh là Sony đưa thiết kế gấp gọn trở lại trên XM6, sau khi đời XM5 không gập được khiến việc cất giữ kém tiện. Khi gập, tai nghe thu nhỏ đáng kể, giúp bỏ vào hộp và mang theo dễ dàng hơn. Với trọng lượng nhẹ khoảng 254g cùng phần đệm thoải mái, XM6 phù hợp cho cả việc đeo lâu trong các chuyến đi dài hay buổi làm việc kéo dài, một yếu tố quan trọng với tai nghe over-ear.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4C8M72YmiWY/maxresdefault.jpg" alt="Đánh giá khách quan tai nghe Sony WH-1000XM6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4C8M72YmiWY/maxresdefault.jpg" alt="Đánh giá khách quan tai nghe Sony WH-1000XM6" loading="lazy" width="1280" height="720">
   <figcaption>XM6 đưa thiết kế gấp gọn trở lại, nhẹ và dễ mang theo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh chống ồn, chất âm luôn là thế mạnh của dòng WH-1000X
 Về thông minh, XM6 có các tính năng quen thuộc như tự dừng nhạc khi tháo tai, chế độ xuyên âm để nghe môi trường xung quanh khi cần, và điều khiển cảm ứng tiện lợi. Chất lượng đàm thoại cũng được cải thiện nhờ hệ thống 12 micro, giúp giọng nói rõ hơn khi gọi điện ở nơi ồn. Để hiểu thêm về công nghệ chống ồn nói chung, có thể tham khảo bài [tai nghe chống ồn ANC là gì](/articles/tai-nghe-chong-on-anc-la-gi-co-nen-mua.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xadi7OSqCWs/maxresdefault.jpg" alt="Trải nghiệm Sony WH-1000XM6 cực xịn nhưng vẫn có điểm trừ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xadi7OSqCWs/maxresdefault.jpg" alt="Trải nghiệm Sony WH-1000XM6 cực xịn nhưng vẫn có điểm trừ" loading="lazy" width="1280" height="720">
   <figcaption>Chất âm và tính năng thông minh là thế mạnh của dòng XM. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Với giá tham khảo khoảng 12 triệu đồng tại Việt Nam, tương đ�
 Tuy nhiên, không phải ai cũng cần tới tai nghe cao cấp như vậy. Nếu ngân sách hạn chế, các tai nghe chống ồn tầm trung hoặc chính đời XM5 cũ hơn vẫn cho trải nghiệm rất tốt với giá dễ chịu hơn nhiều. Người dùng nên cân nhắc nhu cầu thực tế, và nếu có thể, hãy nghe thử trực tiếp để cảm nhận chất âm và độ thoải mái trước khi quyết định. Với người tìm tai nghe nhỏ gọn hơn, có thể tham khảo bài [cách chọn tai nghe true wireless](/articles/cach-chon-tai-nghe-true-wireless-tws-2026-tieu-chi.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/qNiP1Srzi34/maxresdefault.jpg" alt="Đánh giá Sony WH-1000XM6 nên mua luôn hay chờ đợi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qNiP1Srzi34/maxresdefault.jpg" alt="Đánh giá Sony WH-1000XM6 nên mua luôn hay chờ đợi" loading="lazy" width="1280" height="720">
   <figcaption>XM6 là lựa chọn cao cấp, cân nhắc kỹ nhu cầu trước khi mua. Nguồn: YouTube</figcaption>
 </figure>
 

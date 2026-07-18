@@ -66,7 +66,7 @@ Turtle Beach chính thức giới thiệu Stealth Pro II, tai nghe gaming flagsh
 Về pin, sản phẩm trang bị hai pin có thể tháo rời và sạc luân phiên, mỗi cục pin cho thời lượng sử dụng khoảng 40 giờ. Nhờ cơ chế thay pin linh hoạt này, khi một pin hết, người dùng chỉ cần thay pin còn lại trong lúc pin kia đang sạc trên trạm, giúp nhiều reviewer cho biết họ gần như không bao giờ gặp tình trạng hết pin giữa chừng khi đang chơi game dài giờ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/aOKw3Fm16fg/hqdefault.jpg" alt="Turtle Beach Stealth Pro II am thanh tot van de lon 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/aOKw3Fm16fg/hqdefault.jpg" alt="Turtle Beach Stealth Pro II am thanh tot van de lon 2026" loading="lazy" width="1280" height="480">
   <figcaption>Chất lượng âm thanh của Stealth Pro II được đánh giá cao, dù vẫn còn một số điểm cần lưu ý về thiết kế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Về pin, sản phẩm trang bị hai pin có thể tháo rời và sạc luân 
 Về chất lượng âm thanh, cải tiến dễ nhận thấy nhất là độ trưởng thành trong dải âm tổng thể, thay vì chạy theo âm bass phóng đại và treble sắc nhọn như nhiều tai nghe gaming khác, Stealth Pro II mang lại âm thanh đầy đặn và kiểm soát tốt hơn, được nhiều reviewer xếp vào nhóm tai nghe gaming có âm thanh hay nhất hiện nay nhờ khả năng tinh chỉnh driver xuất sắc từ Turtle Beach.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/W4hUr85bkQk/hqdefault.jpg" alt="Turtle Beach Stealth Pro 2 uu nhuoc diem 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/W4hUr85bkQk/hqdefault.jpg" alt="Turtle Beach Stealth Pro 2 uu nhuoc diem 2026" loading="lazy" width="1280" height="480">
   <figcaption>Trọng lượng và thiết kế headband vẫn là điểm cần cải thiện thêm trên Stealth Pro II. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Về độ thoải mái, tai nghe có headband dạng lưới treo giúp phân b
 Với người mới bắt đầu tìm hiểu về tai nghe gaming và chưa rõ nên ưu tiên tiêu chí nào, bài viết [cách chọn tai nghe gaming năm 2026](/articles/cach-chon-tai-nghe-gaming-2026-tieu-chi.html) cung cấp đầy đủ thông tin cần thiết trước khi quyết định đầu tư vào một sản phẩm cao cấp như Stealth Pro II. Người đang tìm thêm chuột gaming để hoàn thiện dàn thiết bị chơi game cũng có thể tham khảo bài viết [top chuột gaming đáng mua tháng 7/2026](/articles/top-chuot-gaming-dang-mua-thang-7-2026.html) để có lựa chọn phù hợp đi kèm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/YmdGvU0iKek/mqdefault.jpg" alt="Turtle Beach Stealth Pro II huyen thoai tuong lai 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/YmdGvU0iKek/mqdefault.jpg" alt="Turtle Beach Stealth Pro II huyen thoai tuong lai 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều reviewer đặt câu hỏi liệu Stealth Pro II có trở thành huyền thoại mới trong dòng tai nghe gaming flagship. Nguồn: YouTube</figcaption>
 </figure>
 

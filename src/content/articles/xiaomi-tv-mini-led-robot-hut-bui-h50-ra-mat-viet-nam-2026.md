@@ -74,7 +74,7 @@ Công nghệ Mini LED giúp mang lại chất lượng hình ảnh với độ s
 Song song với dòng TV, Xiaomi cũng mở bán bộ đôi robot hút bụi lau nhà H50 và H50 Pro, hai sản phẩm được kỳ vọng tiếp nối thành công của các thế hệ robot hút bụi trước đó của hãng tại thị trường Việt Nam. Phiên bản H50 Pro nổi bật với lực hút tối đa lên tới 15.000Pa, một thông số cạnh tranh trực tiếp với nhiều mẫu robot hút bụi cao cấp khác trên thị trường, giúp máy xử lý hiệu quả cả bụi mịn lẫn rác vụn kích thước lớn hơn trên đa dạng bề mặt sàn từ gỗ, gạch men cho tới thảm mỏng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/csBIb_OIMaE/hqdefault.jpg" alt="Trải nghiệm thực tế robot hút bụi Xiaomi H50 phiên bản đầu bảng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/csBIb_OIMaE/hqdefault.jpg" alt="Trải nghiệm thực tế robot hút bụi Xiaomi H50 phiên bản đầu bảng" loading="lazy" width="1280" height="720">
   <figcaption>Robot hút bụi H50 được thử nghiệm thực tế với nhiều tình huống dọn dẹp khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Phiên bản H50 tiêu chuẩn có lực hút thấp hơn ở mức 10.000Pa, nh
 Việc Xiaomi tung ra đồng thời cả dòng TV cao cấp lẫn robot hút bụi trong cùng một đợt mở bán cho thấy chiến lược phủ rộng danh mục sản phẩm gia dụng thông minh của hãng tại thị trường Việt Nam. Thay vì chỉ tập trung vào một dòng sản phẩm chủ lực, Xiaomi tiếp tục theo đuổi mô hình hệ sinh thái đa dạng, nơi người dùng có thể trang bị nhiều thiết bị thông minh khác nhau trong cùng một ngôi nhà, từ giải trí, dọn dẹp cho tới nhiều hạng mục khác đã có sẵn trong danh mục sản phẩm của hãng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0KNpcpcBiZs/hqdefault.jpg" alt="Trải nghiệm lần đầu sử dụng robot hút bụi Xiaomi H50 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0KNpcpcBiZs/hqdefault.jpg" alt="Trải nghiệm lần đầu sử dụng robot hút bụi Xiaomi H50 Pro" loading="lazy" width="1280" height="720">
   <figcaption>Người dùng trải nghiệm lần đầu với robot hút bụi H50 Pro của Xiaomi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Xiaomi từ lâu đã xây dựng được uy tín nhất định tại thị tr
 Dù vậy, mức độ hoàn thiện chi tiết và một số tính năng phần mềm nâng cao của sản phẩm Xiaomi đôi khi vẫn có khoảng cách nhất định so với các thương hiệu định vị ở phân khúc cao cấp nhất, một điểm người mua nên cân nhắc dựa trên nhu cầu và ngân sách thực tế của gia đình mình trước khi quyết định lựa chọn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0TMvwGySXws/hqdefault.jpg" alt="Đánh giá chi tiết robot hút bụi Xiaomi H50 trước khi mua" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0TMvwGySXws/hqdefault.jpg" alt="Đánh giá chi tiết robot hút bụi Xiaomi H50 trước khi mua" loading="lazy" width="1280" height="720">
   <figcaption>Một bài đánh giá chi tiết khuyên người dùng nên tham khảo kỹ trước khi chọn mua robot hút bụi tầm giá này. Nguồn: YouTube</figcaption>
 </figure>
 

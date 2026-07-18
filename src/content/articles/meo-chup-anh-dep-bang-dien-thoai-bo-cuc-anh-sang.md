@@ -78,7 +78,7 @@ Một kỹ thuật bố cục khác đáng lưu tâm là tạo chiều sâu cho 
 Về lấy nét, không nên để máy tự đoán. Chạm vào chủ thể trên màn hình sẽ giúp lấy nét đúng chỗ, đồng thời nhiều máy cho phép kéo thanh sáng tối để chỉnh phơi sáng ngay sau khi chạm. Nếu chủ thể đứng yên, có thể giữ chạm để khóa nét và phơi sáng, giúp bố cục lại mà không bị máy đổi nét. Đây là kỹ năng nhỏ nhưng tạo khác biệt lớn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/NkNd3D3tGbQ/maxresdefault.jpg" alt="Thủ thuật bố cục chụp ảnh chuyên nghiệp bằng điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NkNd3D3tGbQ/maxresdefault.jpg" alt="Thủ thuật bố cục chụp ảnh chuyên nghiệp bằng điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Bố cục đúng giúp khung hình cuốn hút hơn cấu hình camera. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Mỗi loại ánh sáng cho một hiệu ứng riêng, và việc nhận biết 
 Trong nhà hoặc lúc trời tối, ánh sáng cửa sổ là nguồn sáng dịu và đẹp nhất cho ảnh chân dung, chỉ cần đặt chủ thể quay mặt về phía cửa sổ. Khi buộc phải chụp dưới đèn vàng trong nhà, nên chỉnh cân bằng trắng hoặc bật chế độ chân dung để màu da bớt ám vàng. Buổi tối ngoài trời, đèn đường và biển hiệu tạo nguồn sáng nhân tạo nhiều màu, lúc này nên hạ độ phơi sáng một chút để giữ được sắc thái của đèn thay vì để cảnh cháy sáng và mất chi tiết.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5QAQPo2W5zs/maxresdefault.jpg" alt="Mẹo dùng ánh sáng khi chụp ảnh bằng điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5QAQPo2W5zs/maxresdefault.jpg" alt="Mẹo dùng ánh sáng khi chụp ảnh bằng điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Hiểu hướng và chất ánh sáng là chìa khóa của ảnh đẹp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Hậu kỳ là bước hoàn thiện, nhưng nên làm vừa phải. Tập trung
 Cuối cùng, việc chịu khó thay đổi góc chụp rất quan trọng. Thay vì luôn đứng thẳng chụp ngang tầm mắt, có thể thử hạ thấp, chụp từ trên xuống hay tìm một góc lạ. Chính sự quan sát ánh sáng và sáng tạo trong góc nhìn mới là thứ biến một bức ảnh bình thường thành ấn tượng, hơn bất kỳ thông số camera nào.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-uMAOtsuz-U/maxresdefault.jpg" alt="Đổi góc chụp và sáng tạo khung hình bằng điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-uMAOtsuz-U/maxresdefault.jpg" alt="Đổi góc chụp và sáng tạo khung hình bằng điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Đổi góc chụp tạo khác biệt lớn cho cùng một chủ thể. Nguồn: YouTube</figcaption>
 </figure>
 

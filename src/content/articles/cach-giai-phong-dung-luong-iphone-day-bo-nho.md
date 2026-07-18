@@ -76,7 +76,7 @@ Với ứng dụng, hãy tận dụng tính năng offload, tức gỡ phần ứ
 Ảnh và video thường chiếm nhiều dung lượng nhất. Bật Ảnh iCloud và chọn Tối ưu hoá dung lượng để iPhone giữ bản nhẹ trên máy và lưu bản gốc trên đám mây. Đồng thời, xoá ảnh trùng, ảnh chụp màn hình thừa, rồi vào album Đã xoá gần đây để xoá vĩnh viễn, vì ảnh đã xoá vẫn chiếm chỗ trong 30 ngày. Video dài nên được rà soát đầu tiên.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/y06ONntDjiU/maxresdefault.jpg" alt="Bộ nhớ Khác trên iPhone là gì và cách giải phóng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/y06ONntDjiU/maxresdefault.jpg" alt="Bộ nhớ Khác trên iPhone là gì và cách giải phóng" loading="lazy" width="1280" height="720">
   <figcaption>Bộ nhớ Khác chủ yếu là cache hệ thống, thường tự giảm theo thời gian. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Nhiều người bối rối khi thấy một phần lớn dung lượng đượ
 Cách giảm phần này gồm xoá cache và lịch sử Safari trong Cài đặt, dọn cache các app bằng cách cài lại, và khởi động lại máy để hệ thống tự dọn file tạm. Nếu phần Khác quá lớn bất thường và máy đã dùng lâu, biện pháp triệt để là sao lưu đầy đủ rồi thiết lập lại iPhone, cách này thường đưa dung lượng hệ thống về mức hợp lý. Nhớ sao lưu trước, như đã hướng dẫn trong bài [sao lưu dữ liệu trước khi đổi máy hoặc reset](/articles/cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/EvTm9SJjcSM/maxresdefault.jpg" alt="Bốn cách giải phóng bộ nhớ iPhone khi dung lượng đầy" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/EvTm9SJjcSM/maxresdefault.jpg" alt="Bốn cách giải phóng bộ nhớ iPhone khi dung lượng đầy" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều mẹo dọn dung lượng có thể làm ngay mà không cần cài thêm ứng dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Nhiều người không ngờ hộp thư cũng chiếm khá nhiều dung lượn
 Ứng dụng Ghi chú, Ghi âm và các app làm việc khác cũng cần được dọn định kỳ. Ghi chú chứa nhiều ảnh và bản vẽ tay sẽ nặng hơn nhiều so với ghi chú chỉ có chữ. Các bản ghi âm dài và file quét tài liệu cũng tích tụ nhanh. Rà soát những mục này, xoá nội dung trùng hoặc đã hết giá trị, là một thói quen đơn giản nhưng giúp duy trì khoảng trống ổn định trên máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/le6owiMdTHg/maxresdefault.jpg" alt="Cách giải phóng và dọn bộ nhớ iPhone hiệu quả" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/le6owiMdTHg/maxresdefault.jpg" alt="Cách giải phóng và dọn bộ nhớ iPhone hiệu quả" loading="lazy" width="1280" height="720">
   <figcaption>Dọn email, ghi chú và bản ghi âm cũng giải phóng được nhiều dung lượng. Nguồn: YouTube</figcaption>
 </figure>
 

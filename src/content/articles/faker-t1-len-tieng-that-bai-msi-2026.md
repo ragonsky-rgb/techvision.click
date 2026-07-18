@@ -73,7 +73,7 @@ Trong buổi phỏng vấn ngay sau trận thua quyết định trước G2 Espo
 Thất bại này đặc biệt đáng chú ý khi được xem là kết quả quốc tế tệ nhất trong toàn bộ sự nghiệp thi đấu của Faker. Đây là lần đầu tiên T1 kết thúc một giải đấu LAN quốc tế lớn mà không thể lọt vào top 4, một cột mốc chưa từng xảy ra trong suốt gần một thập kỷ huyền thoại người Hàn Quốc liên tục góp mặt và cạnh tranh sòng phẳng ở những đấu trường cao nhất của bộ môn Liên Minh Huyền Thoại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/iZMh5yfhkBQ/hqdefault.jpg" alt="Phỏng vấn Faker trong khuôn khổ giải đấu MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/iZMh5yfhkBQ/hqdefault.jpg" alt="Phỏng vấn Faker trong khuôn khổ giải đấu MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Faker liên tục chia sẻ những suy nghĩ của mình xuyên suốt hành trình đầy biến động tại MSI 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,14 +84,14 @@ Hành trình của T1 tại MSI 2026 vốn đã gập ghềnh ngay từ giữa g
 Nhìn về phía trước, Faker cho biết đội sẽ có thêm thời gian để chuẩn bị kỹ lưỡng hơn cho Esports World Cup 2026, giải đấu quốc tế diễn ra gần như ngay sau khi MSI 2026 khép lại. Tiếp nối sau đó sẽ là vòng 3-4 của giải LCK 2026 trong nước, nơi ngôi vô địch mùa giải quốc nội năm nay sẽ chính thức được định đoạt. Đây được xem là hai đấu trường cuối cùng còn lại trong năm mà T1 có thể bấu víu tham vọng gặt hái thêm danh hiệu, sau một mùa giải quốc tế đầu năm không như mong đợi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/CgQRbh5pr0A/hqdefault.jpg" alt="Khoảnh khắc đối đầu giữa Faker và các đối thủ hàng đầu tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/CgQRbh5pr0A/hqdefault.jpg" alt="Khoảnh khắc đối đầu giữa Faker và các đối thủ hàng đầu tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Faker vẫn thể hiện tinh thần thi đấu quyết tâm dù trải qua một giải đấu đầy khó khăn. Nguồn: YouTube</figcaption>
 </figure>
 
 Đồng đội của Faker tại T1, tuyển thủ hỗ trợ Keria, cũng dành những lời chia sẻ đầy trân trọng dành cho người đàn anh sau giải đấu, nhấn mạnh rằng niềm đam mê và động lực thi đấu của Faker luôn lớn hơn bất kỳ ai khác trong đội hình, dù trải qua kết quả không như mong đợi. Đây là minh chứng cho tinh thần đoàn kết của T1 ngay cả trong giai đoạn khó khăn nhất, một yếu tố quan trọng giúp đội tuyển này duy trì được sự ổn định tâm lý cần thiết để bước tiếp sang các giải đấu còn lại trong năm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/RtmoSW0sD3c/hqdefault.jpg" alt="Tóm tắt hành trình đầy biến động của T1 tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/RtmoSW0sD3c/hqdefault.jpg" alt="Tóm tắt hành trình đầy biến động của T1 tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Hành trình MSI 2026 của T1 trải qua nhiều cung bậc cảm xúc trước khi khép lại đầy tiếc nuối. Nguồn: YouTube</figcaption>
 </figure>
 

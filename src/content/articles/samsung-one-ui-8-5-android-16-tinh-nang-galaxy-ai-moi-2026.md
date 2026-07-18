@@ -76,7 +76,7 @@ One UI 8.5 tiếp tục hoàn thiện trải nghiệm thị giác với hiệu �
 Về tiện ích, Samsung Notes cho phép thêm ghi chú dán lên đầu tài liệu không giới hạn số lượng, ứng dụng My Files có thêm bộ lọc theo ứng dụng đã tải về, và menu Samsung Internet được tối ưu để truy cập nhanh các tính năng hay dùng cùng khả năng tùy biến bố cục. Những thay đổi nhỏ này tuy không gây chú ý bằng các tính năng AI nhưng lại cải thiện đáng kể sự tiện lợi trong sử dụng thường ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/83W1j8CPAkE/maxresdefault.jpg" alt="One UI 8.5 với thông báo AI và tính năng mới cho Galaxy" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/83W1j8CPAkE/maxresdefault.jpg" alt="One UI 8.5 với thông báo AI và tính năng mới cho Galaxy" loading="lazy" width="1280" height="720">
   <figcaption>Giao diện và cá nhân hóa được tinh chỉnh trên One UI 8.5. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bản cập nhật cũng chú trọng bảo mật và kết nối. One UI 8.5 b�
 Đáng chú ý nhất với người dùng hiện tại là việc Samsung mở rộng nhiều tính năng Galaxy AI tới các dòng máy cũ hơn thông qua One UI 8.5, thay vì chỉ giới hạn ở máy mới nhất. Điều này giúp người dùng các đời Galaxy trước được hưởng các nâng cấp AI mà không phải đổi máy, một chính sách thân thiện trong bối cảnh giá điện thoại cao cấp ngày càng tăng. Người dùng nên kiểm tra mục cập nhật phần mềm để biết máy mình đã nhận bản cập nhật chưa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XFNYnqP_E0A/maxresdefault.jpg" alt="One UI 8.5 thay đổi điện thoại Samsung với nhiều tính năng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XFNYnqP_E0A/maxresdefault.jpg" alt="One UI 8.5 thay đổi điện thoại Samsung với nhiều tính năng" loading="lazy" width="1280" height="720">
   <figcaption>Samsung mở rộng tính năng AI tới nhiều dòng Galaxy cũ hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ One UI 8.5 cho thấy Samsung và Apple đang đi theo những hướng tương 
 Điểm khác biệt nằm ở chiến lược mở rộng. Việc Samsung đưa tính năng AI tới nhiều máy cũ giúp tiếp cận lượng người dùng rộng hơn, trong khi cách tiếp cận của Apple thường gắn AI với phần cứng đời mới. Mỗi hướng có ưu nhược riêng, nhưng với người dùng Galaxy đang sở hữu máy đời trước, chính sách mở rộng của Samsung là tin vui. Người dùng iPhone có thể tham khảo thêm các nâng cấp tương ứng trong bài [iOS 27 có gì mới](/articles/ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/szgNPXSEHb0/maxresdefault.jpg" alt="Samsung One UI 8.5 chính thức với loạt tính năng mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/szgNPXSEHb0/maxresdefault.jpg" alt="Samsung One UI 8.5 chính thức với loạt tính năng mới" loading="lazy" width="1280" height="720">
   <figcaption>Samsung và Apple cùng đẩy mạnh tích hợp AI vào hệ điều hành. Nguồn: YouTube</figcaption>
 </figure>
 

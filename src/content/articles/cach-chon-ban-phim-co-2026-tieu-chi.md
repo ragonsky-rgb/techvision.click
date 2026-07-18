@@ -68,7 +68,7 @@ Bàn phím cơ ngày càng trở nên phổ biến tại Việt Nam trong vài n
 Layout bàn phím ảnh hưởng trực tiếp tới không gian bàn làm việc và trải nghiệm sử dụng hằng ngày. Bàn phím full-size có đầy đủ cụm phím số bên phải, phù hợp người thường xuyên nhập liệu số như kế toán, nhân viên văn phòng xử lý bảng tính. Layout TKL (Tenkeyless, không có cụm phím số) và 75% nhỏ gọn hơn, tiết kiệm không gian bàn đáng kể, đồng thời vẫn giữ đủ các phím chức năng quan trọng, được nhiều game thủ ưa chuộng vì có thêm không gian di chuyển chuột. Người có bàn làm việc nhỏ hoặc cần mang phím đi lại thường xuyên nên ưu tiên layout gọn nhẹ hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/JdN-hQmH5xk/hqdefault.jpg" alt="Switch co la gi nen chon loai nao ban phim co 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/JdN-hQmH5xk/hqdefault.jpg" alt="Switch co la gi nen chon loai nao ban phim co 2026" loading="lazy" width="1280" height="480">
   <figcaption>Layout bàn phím phù hợp giúp tối ưu không gian làm việc và trải nghiệm sử dụng hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Layout bàn phím ảnh hưởng trực tiếp tới không gian bàn làm việ
 Bàn phím cơ có dây thường cho độ trễ thấp nhất và ổn định tuyệt đối, phù hợp game thủ chuyên nghiệp cần phản xạ chính xác từng mili giây. Bàn phím không dây tiện lợi hơn cho bàn làm việc gọn gàng, các dòng cao cấp hiện nay đã hỗ trợ tần số polling cao, độ trễ thấp gần tương đương phím có dây. Nhiều mẫu bàn phím cơ hiện đại còn hỗ trợ đa chế độ kết nối, vừa có dây USB-C, vừa Bluetooth, vừa đầu thu không dây 2.4GHz riêng, cho phép người dùng linh hoạt chuyển đổi giữa nhiều thiết bị mà không cần mua thêm phím rời cho từng máy. Việc chọn bàn phím phù hợp cũng nên đi kèm với màn hình có tần số quét tương xứng, tham khảo thêm bài viết [cách chọn màn hình máy tính theo tấm nền, độ phân giải và tần số quét](/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html) để tối ưu toàn bộ trải nghiệm gõ phím và chơi game trên cùng một bộ thiết bị.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WH0oGyKFEks/hqdefault.jpg" alt="Nhung ban phim dang mua nhat 2025 ket noi khong day 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WH0oGyKFEks/hqdefault.jpg" alt="Nhung ban phim dang mua nhat 2025 ket noi khong day 2026" loading="lazy" width="1280" height="480">
   <figcaption>Bàn phím cơ không dây đa chế độ ngày càng phổ biến nhờ độ trễ thấp và tính linh hoạt cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Bàn phím cơ có dây thường cho độ trễ thấp nhất và ổn định
 Chất liệu keycap ảnh hưởng trực tiếp tới độ bền và cảm giác gõ lâu dài của bàn phím. Keycap làm từ nhựa PBT có độ bền cao hơn, ít bị bóng hoặc mòn chữ theo thời gian sử dụng, cảm giác gõ có phần chắc tay hơn. Keycap ABS thường có giá thành rẻ hơn, bề mặt mịn hơn khi mới mua nhưng dễ bị bóng dầu tay và mòn chữ sau một thời gian sử dụng liên tục, đặc biệt ở các phím thường xuyên chạm tới như WASD hay phím cách. Với người dùng lâu dài, nên ưu tiên bàn phím có keycap PBT dù giá thành có thể nhỉnh hơn một chút.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kfKmI4BpPQ0/hqdefault.jpg" alt="Cam nang huong dan lua chon phim co keycap PBT ABS 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/kfKmI4BpPQ0/hqdefault.jpg" alt="Cam nang huong dan lua chon phim co keycap PBT ABS 2026" loading="lazy" width="1280" height="480">
   <figcaption>Chất liệu keycap PBT thường bền hơn và ít bị bóng mòn theo thời gian so với ABS. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Xu hướng pin dung lượng lớn trên nền silicon carbon đang lan rộng 
 Bên cạnh pin, màn hình là điểm nhấn thứ hai của Edge 70 Max. Máy dùng tấm nền AMOLED LTPO kích thước 6.8 inch, độ phân giải 2K (3168 x 1440), tần số quét 144Hz cho thao tác mượt mà. Đáng chú ý nhất là độ sáng đỉnh được công bố lên tới 7000 nit, con số thuộc hàng cao nhất thị trường ở thời điểm ra mắt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/JYz8R7DJ9qk/hqdefault.jpg" alt="Màn hình AMOLED 6.8 inch 2K 144Hz của Motorola Edge 70 Max" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/JYz8R7DJ9qk/hqdefault.jpg" alt="Màn hình AMOLED 6.8 inch 2K 144Hz của Motorola Edge 70 Max" loading="lazy" width="1280" height="720">
   <figcaption>Màn AMOLED LTPO 2K 144Hz với độ sáng đỉnh 7000 nit là điểm cộng lớn cho Edge 70 Max. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Trong thực tế, độ sáng cao chủ yếu phát huy tác dụng khi dùng m
 Trái tim của Edge 70 Max là chip Snapdragon 8 Gen 5. Cần phân biệt rõ đây là dòng chip cận cao cấp, khác với Snapdragon 8 Elite Gen 5 đầu bảng đang xuất hiện trên các flagship như Galaxy S26 Ultra hay Honor Magic 8 Pro. Dù vậy, 8 Gen 5 vẫn là con chip mạnh, thừa sức cân các tựa game nặng, đa nhiệm mượt và xử lý tốt những tác vụ AI phổ thông ngay trên thiết bị.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Xog-zDHt7fo/hqdefault.jpg" alt="Motorola Edge 70 Max chơi game với chip Snapdragon 8 Gen 5 và pin 7100mAh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Xog-zDHt7fo/hqdefault.jpg" alt="Motorola Edge 70 Max chơi game với chip Snapdragon 8 Gen 5 và pin 7100mAh" loading="lazy" width="1280" height="720">
   <figcaption>Snapdragon 8 Gen 5 kết hợp pin 7100mAh giúp Edge 70 Max phù hợp cho nhu cầu chơi game và dùng nặng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Trái tim của Edge 70 Max là chip Snapdragon 8 Gen 5. Cần phân biệt rõ 
 Về giá, Edge 70 Max khởi điểm 699,99 bảng tại Anh và 799,99 euro tại châu Âu. Tại Ấn Độ, máy có giá 54.999 rupee cho bản 8GB/256GB và 59.999 rupee cho bản 12GB/256GB, mở bán chính thức từ ngày 20/7. Motorola tung ra ba tùy chọn màu do Pantone phối là Aqua Gray, Ice Melt và Dark Shadow, đúng phong cách hợp tác màu sắc mà hãng theo đuổi vài năm gần đây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/MuiOBsbUsEs/hqdefault.jpg" alt="Ba tùy chọn màu Pantone của Motorola Edge 70 Max và phụ kiện sạc nam châm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/MuiOBsbUsEs/hqdefault.jpg" alt="Ba tùy chọn màu Pantone của Motorola Edge 70 Max và phụ kiện sạc nam châm" loading="lazy" width="1280" height="720">
   <figcaption>Edge 70 Max có ba màu Pantone cùng hệ sinh thái phụ kiện từ tính kiểu MagSafe. Nguồn: YouTube</figcaption>
 </figure>
 

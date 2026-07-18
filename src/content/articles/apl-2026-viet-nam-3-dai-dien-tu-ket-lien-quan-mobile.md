@@ -74,7 +74,7 @@ Vòng Swiss Stage, giai đoạn thi đấu vòng bảng theo thể thức Thụy
 Ba đội tuyển Việt Nam góp mặt tại vòng tứ kết gồm FPT x Flash, Saigon Phantom và FPT Polytechnic. Trong đó, FPT x Flash, đương kim vô địch ĐTDV Mùa Xuân 2026 tại Việt Nam, đã vượt qua vòng Swiss Stage với thành tích 3 thắng 1 thua đầy thuyết phục. Đáng chú ý, đội tuyển này từng bị dẫn trước 0-2 trong loạt trận Bo5 với chính đồng hương Saigon Phantom, trước khi lội ngược dòng giành chiến thắng 3-2 nghẹt thở để giành tấm vé đầu tiên của Việt Nam vào vòng tứ kết.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/a3-oh0sKz_Q/hqdefault.jpg" alt="Full Sense đối đầu FPT Polytechnic tại tứ kết APL 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/a3-oh0sKz_Q/hqdefault.jpg" alt="Full Sense đối đầu FPT Polytechnic tại tứ kết APL 2026" loading="lazy" width="1280" height="720">
   <figcaption>FPT Polytechnic chạm trán đại diện Thái Lan Full Sense ngay tại vòng tứ kết. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Ba đội tuyển Việt Nam góp mặt tại vòng tứ kết gồm FPT x Flash
 Vòng tứ kết APL 2026 diễn ra theo thể thức loại trực tiếp nhánh thắng nhánh thua, kéo dài từ ngày 4/7 đến 19/7. Cụ thể, các trận vòng loại trực tiếp gồm tứ kết và bán kết nhánh thua diễn ra từ 4/7 đến 12/7, tiếp theo là chung kết nhánh thua và chung kết nhánh thắng vào ngày 18/7, trước khi khép lại bằng trận chung kết tổng đầy kịch tính tại Đà Nẵng vào ngày 19/7 để xác định nhà vô địch cuối cùng của mùa giải.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/TlgPbh6vcMc/hqdefault.jpg" alt="Buriram United Esports đối đầu FPT x Flash tại tứ kết APL 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TlgPbh6vcMc/hqdefault.jpg" alt="Buriram United Esports đối đầu FPT x Flash tại tứ kết APL 2026" loading="lazy" width="1280" height="720">
   <figcaption>FPT x Flash, đương kim vô địch ĐTDV Mùa Xuân 2026, bước vào tứ kết APL 2026 với sự tự tin cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sự kiện APL 2026 diễn ra song song với giai đoạn cao trào của MSI 
 Ngoài APL 2026, Liên Quân Mobile dưới tên gọi quốc tế Arena of Valor cũng lần đầu tiên chính thức góp mặt tại Esports World Cup 2026, sự kiện quy tụ 20 đội tuyển hàng đầu thế giới với tổng giá trị giải thưởng lên tới 3 triệu USD, diễn ra tại Riyadh, Saudi Arabia từ 30/7 đến 8/8, hứa hẹn mang lại thêm nhiều cơ hội cọ xát quốc tế cho các đội tuyển Việt Nam ngay sau khi APL 2026 khép lại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/K-nAF5jr-6k/hqdefault.jpg" alt="Trận đấu nội bộ giữa hai đại diện Việt Nam tại tứ kết APL 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/K-nAF5jr-6k/hqdefault.jpg" alt="Trận đấu nội bộ giữa hai đại diện Việt Nam tại tứ kết APL 2026" loading="lazy" width="1280" height="720">
   <figcaption>Người hâm mộ Liên Quân Mobile Việt Nam theo dõi sát sao từng trận đấu tại vòng tứ kết APL 2026. Nguồn: YouTube</figcaption>
 </figure>
 

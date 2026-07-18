@@ -75,14 +75,14 @@ Về chất lượng âm thanh, tai nghe được trang bị driver kích thư�
 Về thời lượng sử dụng, REDMI Buds 8 cho thời gian nghe nhạc khoảng 11 giờ mỗi lần sạc đầy, và tổng cộng lên tới 44 giờ khi tính cả các lần sạc bổ sung từ hộp đựng đi kèm, đủ để sử dụng liên tục trong nhiều ngày mà không cần lo lắng về việc sạc pin thường xuyên. Đáng chú ý, tai nghe còn hỗ trợ sạc nhanh, chỉ cần cắm sạc 10 phút đã có thể sử dụng liên tục thêm 4 giờ, rất tiện lợi cho những tình huống cần sạc gấp trước khi ra ngoài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/uXYW3n7LGp0/hqdefault.jpg" alt="Thiết lập và trải nghiệm sử dụng thực tế REDMI Buds 8" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/uXYW3n7LGp0/hqdefault.jpg" alt="Thiết lập và trải nghiệm sử dụng thực tế REDMI Buds 8" loading="lazy" width="1280" height="720">
   <figcaption>Quá trình thiết lập và sử dụng REDMI Buds 8 được đánh giá là đơn giản, thân thiện với người dùng phổ thông. Nguồn: YouTube</figcaption>
 </figure>
 
 Về khả năng đàm thoại, REDMI Buds 8 được trang bị hệ thống 3 micro tích hợp trí tuệ nhân tạo, có khả năng lọc nhiễu môi trường hiệu quả trong quá trình gọi điện. Công nghệ này giúp cải thiện đáng kể chất lượng giọng nói truyền đi, ngay cả khi người dùng đang ở trong không gian ồn ào hoặc gặp gió mạnh, một tính năng đặc biệt hữu ích cho nhóm người dùng thường xuyên phải nghe gọi khi di chuyển ngoài trời.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FiA7tWGK96U/hqdefault.jpg" alt="Mở hộp chi tiết REDMI Buds 8 Active và các phụ kiện đi kèm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FiA7tWGK96U/hqdefault.jpg" alt="Mở hộp chi tiết REDMI Buds 8 Active và các phụ kiện đi kèm" loading="lazy" width="1280" height="720">
   <figcaption>Bộ sản phẩm REDMI Buds 8 đi kèm hộp sạc nhỏ gọn, tiện lợi mang theo hàng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Sản phẩm hiện có 3 tùy chọn màu sắc gồm Đen, Trắng và Xanh, p
 Người dùng có ngân sách cao hơn một chút và muốn tìm kiếm những tính năng bổ sung như dịch thuật AI trực tiếp cũng có thể tham khảo thêm [OPPO Enco X3s với khả năng chống ồn lên tới 55dB](/articles/oppo-enco-x3s-tai-nghe-chong-on-55db-dich-thuat-ai-2026.html), trong khi những ai ưu tiên chất lượng micro vượt trội cho các cuộc gọi công việc có thể cân nhắc dòng sản phẩm cao cấp hơn như [Nothing Ear 3 với tính năng Super Mic độc đáo](/articles/nothing-ear-3-tai-nghe-true-wireless-super-mic-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kWSYz1G0OOs/hqdefault.jpg" alt="Đánh giá đầy đủ REDMI Buds 8 Pro về chống ồn, âm thanh và pin" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/kWSYz1G0OOs/hqdefault.jpg" alt="Đánh giá đầy đủ REDMI Buds 8 Pro về chống ồn, âm thanh và pin" loading="lazy" width="1280" height="720">
   <figcaption>Các bài đánh giá độc lập đều đánh giá cao tỷ lệ giá trên hiệu năng của dòng REDMI Buds 8. Nguồn: YouTube</figcaption>
 </figure>
 

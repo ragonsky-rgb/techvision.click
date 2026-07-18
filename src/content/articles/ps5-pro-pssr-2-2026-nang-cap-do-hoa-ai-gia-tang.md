@@ -76,7 +76,7 @@ Trước PSSR 2.0, Sony đã liên tục hoàn thiện PS5 Pro qua các bản c�
 Đây là xu hướng chung của các thiết bị hiện đại, nơi phần mềm đóng vai trò ngày càng lớn trong việc nâng cấp trải nghiệm. Với console, các bản cập nhật không chỉ vá lỗi mà còn bổ sung tính năng và cải thiện hiệu năng, giúp thiết bị tốt hơn theo thời gian. Người chơi PS5 Pro được hưởng lợi khi các game cũ cũng đẹp hơn nhờ công nghệ nâng scale mới, mà không phải mua thiết bị mới. Đây là điểm cộng đáng kể cho khoản đầu tư vào console cao cấp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/08brhjrwrlw/maxresdefault.jpg" alt="Đánh giá PSSR nâng cấp cho PS5 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/08brhjrwrlw/maxresdefault.jpg" alt="Đánh giá PSSR nâng cấp cho PS5 Pro" loading="lazy" width="1280" height="720">
   <figcaption>Sony liên tục cải thiện PS5 Pro qua các bản cập nhật phần mềm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh tin vui về PSSR 2.0, một diễn biến gây tranh luận là vi�
 Tuy nhiên, PS5 Pro vẫn có sức hút riêng nhờ kho game độc quyền PlayStation, sự đơn giản khi sử dụng và trải nghiệm tối ưu trên TV lớn. Với người chơi trung thành với hệ sinh thái PlayStation và đề cao đồ họa, PS5 Pro kèm PSSR 2.0 mang lại trải nghiệm hấp dẫn. Vấn đề chỉ là mức giá cao khiến nó không dành cho số đông, mà hướng tới nhóm người chơi sẵn sàng chi trả cho chất lượng cao nhất. Việc cân nhắc giữa console và PC, cũng như chọn màn hình phù hợp, là điều người chơi nên tìm hiểu kỹ, tham khảo thêm bài [cách chọn màn hình máy tính](/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BlE4PI4hbZA/maxresdefault.jpg" alt="Bản cập nhật lớn PSSR 2.0 cho PS5 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BlE4PI4hbZA/maxresdefault.jpg" alt="Bản cập nhật lớn PSSR 2.0 cho PS5 Pro" loading="lazy" width="1280" height="720">
   <figcaption>Giá PS5 Pro tăng lên 899 USD gây tranh luận về giá trị. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ PS5 Pro với PSSR 2.0 bước vào một thị trường console đang cạnh t
 Trong bối cảnh đó, chiến lược của Sony với PS5 Pro là nhắm tới phân khúc cao cấp, nơi người chơi đề cao đồ họa và sẵn sàng chi trả. PSSR 2.0 là điểm cộng quan trọng giúp duy trì sức hấp dẫn, nhưng giá cao là thách thức. Cuộc cạnh tranh giữa các nền tảng cuối cùng có lợi cho người chơi, khi mỗi bên phải liên tục cải thiện. Người quan tâm tới các nền tảng game khác có thể tham khảo bài [Nintendo Switch 2 sau một năm](/articles/nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai.html) để có cái nhìn toàn cảnh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/7DW_lr7UFKg/maxresdefault.jpg" alt="Cập nhật PSSR 2.0 trên PS5 Pro mọi điều cần biết" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7DW_lr7UFKg/maxresdefault.jpg" alt="Cập nhật PSSR 2.0 trên PS5 Pro mọi điều cần biết" loading="lazy" width="1280" height="720">
   <figcaption>PS5 Pro cạnh tranh trong thị trường console và PC đa dạng. Nguồn: YouTube</figcaption>
 </figure>
 

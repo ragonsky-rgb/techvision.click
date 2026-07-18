@@ -76,7 +76,7 @@ Bước tiến công nghệ đáng chú ý nhất là việc VinFast hợp tác 
 Tự lái cấp 4 là mức xe có thể tự vận hành hoàn toàn trong những điều kiện và khu vực nhất định mà không cần người lái can thiệp. Đạt được mức này đòi hỏi cảm biến, phần cứng tính toán mạnh và phần mềm phức tạp, nên việc dựa trên nền tảng của NVIDIA, hãng dẫn đầu về chip AI, là lựa chọn hợp lý. Sự hiện diện của NVIDIA trong nhiều dự án công nghệ tại Việt Nam và khu vực cho thấy vai trò trung tâm của hãng, tương tự cách robot hình người dựa vào nền tảng AI mạnh như trong bài [Tesla Optimus Gen 3](/articles/tesla-optimus-gen-3-robot-hinh-nguoi-2026-san-xuat-gia-duoi-20000-usd.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/GarXyfJQvzo/hq720.jpg" alt="Công nghệ xe tự lái NVIDIA hợp tác cùng VinFast 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GarXyfJQvzo/hq720.jpg" alt="Công nghệ xe tự lái NVIDIA hợp tác cùng VinFast 2026" loading="lazy" width="1280" height="720">
   <figcaption>VinFast phát triển tự lái cấp 4 trên nền NVIDIA DRIVE Hyperion. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh mảng ô tô, VinFast đạt cột mốc quan trọng khi cán mố
 Xe máy điện có vai trò đặc biệt tại Việt Nam và Đông Nam Á, nơi xe hai bánh là phương tiện chủ đạo. Việc chuyển đổi sang xe máy điện góp phần giảm khí thải và tiếng ồn ở các đô thị đông đúc. Với một triệu xe đã xuất xưởng, VinFast đóng vai trò đáng kể trong quá trình điện hóa giao thông hai bánh, song song với việc xây dựng năng lực công nghệ cao như chip và phần mềm, lĩnh vực mà Việt Nam đang đầu tư mạnh, thể hiện qua bài [Viettel khởi công nhà máy chip](/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/U5w1t06WU60/maxresdefault.jpg" alt="VinFast cán mốc một triệu xe máy điện sản xuất tại Hải Phòng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/U5w1t06WU60/maxresdefault.jpg" alt="VinFast cán mốc một triệu xe máy điện sản xuất tại Hải Phòng" loading="lazy" width="1280" height="720">
   <figcaption>VinFast cán mốc một triệu xe máy điện xuất xưởng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ VinFast tiếp tục theo đuổi tham vọng vươn ra thị trường quốc t
 Việc hợp tác công nghệ với các tên tuổi như NVIDIA cũng nâng vị thế của VinFast trong mắt thị trường quốc tế, cho thấy hãng không chỉ bán xe mà còn đầu tư vào công nghệ tương lai như tự lái. Tuy nhiên, thành công cuối cùng phụ thuộc vào khả năng cân bằng giữa tăng trưởng và hiệu quả tài chính. Hành trình của VinFast phản ánh nỗ lực vươn lên của ngành công nghệ cao Việt Nam nói chung, với cả cơ hội lớn lẫn thách thức không nhỏ phía trước.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/iyic32h56tE/maxresdefault.jpg" alt="VinFast mở rộng dải sản phẩm xe điện và tham vọng toàn cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/iyic32h56tE/maxresdefault.jpg" alt="VinFast mở rộng dải sản phẩm xe điện và tham vọng toàn cầu" loading="lazy" width="1280" height="720">
   <figcaption>VinFast mở rộng sản phẩm và thị trường quốc tế. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Trong cửa hàng, robot có thể tự động tiếp nhận đơn hàng, pha c
 Điều làm nên sức mạnh của SenseMartGo không chỉ là phần cứng robot, mà còn là bộ não dữ liệu khổng lồ đằng sau. Hệ thống được xây dựng trên nền tảng công nghệ thị giác máy tính, kho dữ liệu bán lẻ và các mô hình đa phương thức của SenseTime, vốn là thế mạnh cốt lõi của công ty này trong nhiều năm qua.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2NhodG2lUGo/hqdefault.jpg" alt="Robot hình người vận hành cửa hàng bán lẻ tại Trung Quốc với sự hỗ trợ của dữ liệu lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2NhodG2lUGo/hqdefault.jpg" alt="Robot hình người vận hành cửa hàng bán lẻ tại Trung Quốc với sự hỗ trợ của dữ liệu lớn" loading="lazy" width="1280" height="720">
   <figcaption>Xu hướng cửa hàng vận hành bằng robot đang lan rộng tại nhiều thành phố Trung Quốc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Những con số cho thấy quy mô dữ liệu ấn tượng. SenseTime đã t�
 ## Trí tuệ hiện thân bước vào đời sống
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zFtLm_XqZD0/hqdefault.jpg" alt="Robot hình người từ nhiều thương hiệu Trung Quốc được triển khai trong môi trường bán lẻ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zFtLm_XqZD0/hqdefault.jpg" alt="Robot hình người từ nhiều thương hiệu Trung Quốc được triển khai trong môi trường bán lẻ" loading="lazy" width="1280" height="720">
   <figcaption>Trí tuệ hiện thân đang trở thành lực lượng lao động mới trong ngành dịch vụ. Nguồn: YouTube</figcaption>
 </figure>
 
 Với tham vọng mở rộng lên 100 cửa hàng vào cuối năm 2026, SenseTime cho thấy SenseMartGo không phải một dự án trình diễn ngắn hạn, mà là nỗ lực thương mại hóa nghiêm túc. Nếu kế hoạch này thành hiện thực, đây sẽ là một trong những triển khai robot bán lẻ quy mô lớn nhất thế giới, đặt ra tiền lệ cho việc ứng dụng trí tuệ hiện thân vào thương mại thực tế. Đây cũng là mảnh ghép trong bức tranh AI toàn diện tại WAIC 2026, bên cạnh những nền tảng hạ tầng như [siêu nút tính toán Atlas 950 của Huawei](/articles/huawei-atlas-950-superpod-sieu-nut-ai-manh-nhat-waic-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xx35sKr3dCs/hqdefault.jpg" alt="Cửa hàng robot tiêu dùng mở ra xu hướng tự động hóa bán lẻ tại Trung Quốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xx35sKr3dCs/hqdefault.jpg" alt="Cửa hàng robot tiêu dùng mở ra xu hướng tự động hóa bán lẻ tại Trung Quốc" loading="lazy" width="1280" height="720">
   <figcaption>Sự xuất hiện của các cửa hàng robot mở ra nhiều câu hỏi về tương lai lao động. Nguồn: YouTube</figcaption>
 </figure>
 

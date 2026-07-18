@@ -75,7 +75,7 @@ Việc được xếp vào danh mục công nghệ chiến lược đồng nghĩ
 Việt Nam hiện đã hình thành một lực lượng doanh nghiệp, viện nghiên cứu và trường đại học có khả năng làm chủ nhiều công đoạn quan trọng trong chuỗi phát triển UAV. Ba doanh nghiệp được xem là mũi nhọn của ngành gồm CT UAV, Viettel và RTR Việt Nam, cùng hướng tới mục tiêu chung là đưa Việt Nam trở thành quốc gia làm chủ công nghệ UAV, phục vụ cả phát triển kinh tế lẫn quốc phòng an ninh, đồng thời tham gia sâu hơn vào chuỗi cung ứng toàn cầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wbQMv0H3qIA/hqdefault.jpg" alt="UAV Việt Nam hiện đại nhất nhì thế giới khiến nhiều nước chú ý" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wbQMv0H3qIA/hqdefault.jpg" alt="UAV Việt Nam hiện đại nhất nhì thế giới khiến nhiều nước chú ý" loading="lazy" width="1280" height="720">
   <figcaption>Năng lực chế tạo UAV của các doanh nghiệp Việt Nam đang được đánh giá cao trên trường quốc tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Trên thực tế, nhiều mẫu UAV do Việt Nam tự nghiên cứu và sản 
 Dù ban đầu gắn liền nhiều với lĩnh vực quốc phòng an ninh như trinh sát, tuần tra biên giới, chữa cháy và các nhiệm vụ chuyên biệt, UAV tại Việt Nam đang ngày càng được ứng dụng rộng rãi trong nhiều ngành kinh tế dân sự. Nông nghiệp là một trong những lĩnh vực hưởng lợi rõ rệt nhất, khi UAV được dùng để phun thuốc bảo vệ thực vật, giám sát mùa vụ trên diện rộng với chi phí thấp hơn nhiều so với phương pháp truyền thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xrqoSo9j3do/hqdefault.jpg" alt="Sức mạnh UAV tự sản xuất của Việt Nam gây bất ngờ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xrqoSo9j3do/hqdefault.jpg" alt="Sức mạnh UAV tự sản xuất của Việt Nam gây bất ngờ" loading="lazy" width="1280" height="720">
   <figcaption>UAV nội địa ngày càng được ứng dụng rộng rãi trong nhiều lĩnh vực dân sự bên cạnh quốc phòng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Ngoài nông nghiệp, UAV còn được triển khai trong logistics giao hàng
 Mạng lưới UAV Việt Nam đã đặt ra mục tiêu dài hạn đầy tham vọng: xây dựng một ngành công nghiệp UAV trị giá khoảng 5 tỷ USD vào năm 2035, với các sản phẩm mang thương hiệu made in Vietnam hiện diện tại nhiều quốc gia trên thế giới. Đây không phải mục tiêu viển vông khi xét tới lợi thế giá thành hiện tại, sản phẩm UAV sản xuất trong nước hiện chỉ có giá khoảng 70% so với các sản phẩm cùng loại trên thị trường quốc tế, trong khi một số sản phẩm đã được xuất khẩu thành công sang Mỹ và châu Âu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OgHPEJ1HQ3Q/hqdefault.jpg" alt="UAV Việt Nam ứng dụng trong nhiều nhiệm vụ chuyên biệt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OgHPEJ1HQ3Q/hqdefault.jpg" alt="UAV Việt Nam ứng dụng trong nhiều nhiệm vụ chuyên biệt" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều mẫu UAV nội địa đã được thử nghiệm và đưa vào ứng dụng thực tế tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 

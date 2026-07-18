@@ -76,7 +76,7 @@ Việc chọn nền ARM thay vì x86 cho thấy Nvidia đi theo hướng hiệu 
 Khả năng này phục vụ xu hướng AI PC, nơi máy tính có thể thực hiện các tác vụ trí tuệ nhân tạo phức tạp ngay tại chỗ. Lợi ích gồm tốc độ phản hồi nhanh hơn, hoạt động được cả khi ngoại tuyến và bảo mật dữ liệu tốt hơn vì thông tin không rời khỏi máy. Nvidia và Microsoft định hướng biến Windows thành nền tảng cho các tác tử AI, tận dụng sức mạnh xử lý cục bộ của RTX Spark để mở ra các trải nghiệm mới trên PC.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/whT97aySfaE/maxresdefault.jpg" alt="Nvidia RTX Spark Superchip hứa hẹn cạnh tranh Intel và AMD" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/whT97aySfaE/maxresdefault.jpg" alt="Nvidia RTX Spark Superchip hứa hẹn cạnh tranh Intel và AMD" loading="lazy" width="1280" height="720">
   <figcaption>RTX Spark hướng tới chạy model AI lớn ngay trên máy tính cá nhân. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Nvidia cho biết RTX Spark sẽ xuất hiện trên laptop và desktop nhỏ t�
 Việc hàng loạt thương hiệu PC lớn cùng tham gia ngay từ đầu là lợi thế quan trọng, giúp RTX Spark có mặt rộng rãi thay vì chỉ là sản phẩm thử nghiệm. Tuy nhiên, thành công còn phụ thuộc vào giá bán thực tế, thời lượng pin, độ tương thích phần mềm trên nền ARM và hiệu năng thực tế khi tới tay người dùng. Đây cũng là các yếu tố mà những nền tảng ARM cho Windows trước đây từng gặp thách thức, như đã thấy ở dòng chip [Snapdragon X2 Elite](/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vO3BX58GIw0/maxresdefault.jpg" alt="Laptop Windows nền ARM dùng chip Nvidia từ Dell, HP" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vO3BX58GIw0/maxresdefault.jpg" alt="Laptop Windows nền ARM dùng chip Nvidia từ Dell, HP" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều hãng lớn cùng làm laptop dùng RTX Spark ngay từ đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Theo giới phân tích, RTX Spark là một phần trong chiến lược lớn 
 Bước đi này cũng phản ánh xu hướng lớn của ngành: AI không còn chỉ nằm trên đám mây mà đang dịch chuyển xuống thiết bị cá nhân. Khi mỗi chiếc laptop có thể chạy mô hình AI mạnh, cách người dùng làm việc và tương tác với máy tính có thể thay đổi đáng kể. RTX Spark, cùng các chip AI PC của đối thủ, sẽ là nền tảng phần cứng cho làn sóng ứng dụng AI cục bộ trong vài năm tới. Bối cảnh hợp tác về bộ nhớ AI của Nvidia cũng được đề cập trong bài [Nvidia và SK hynix hợp tác HBM4](/articles/nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/O8jg-Shxd3o/maxresdefault.jpg" alt="Điểm nhấn keynote Computex 2026 của Nvidia" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/O8jg-Shxd3o/maxresdefault.jpg" alt="Điểm nhấn keynote Computex 2026 của Nvidia" loading="lazy" width="1280" height="720">
   <figcaption>RTX Spark nằm trong chiến lược phủ mọi lớp hệ sinh thái AI của Nvidia. Nguồn: YouTube</figcaption>
 </figure>
 

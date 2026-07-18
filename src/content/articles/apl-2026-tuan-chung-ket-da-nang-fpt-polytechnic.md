@@ -69,14 +69,14 @@ Arena of Valor Premier League (APL) 2026, giải đấu Liên Quân Mobile quố
 Trong số ba đại diện Việt Nam góp mặt tại vòng Tứ kết gồm FPT x Flash, FPT Polytechnic và Saigon Phantom, chỉ có FPT Polytechnic trụ vững đến giai đoạn cuối cùng của giải đấu. Đội tuyển vốn không được đánh giá cao trước khi giải khởi tranh đã liên tục tạo địa chấn, đáng chú ý nhất là chiến thắng thuyết phục 4-1 trước chính đương kim vô địch giải ĐTDV Mùa xuân 2026 là FPT x Flash trong loạt trận nhánh thua ngày 10/7. FPT Polytechnic nhập cuộc tự tin, giành liền ba ván đầu để dẫn 3-0, dù bị đối thủ gỡ lại một ván nhưng vẫn giữ được sự bình tĩnh cần thiết để khép lại chiến thắng chung cuộc, chính thức loại đội tuyển vốn được kỳ vọng nhiều nhất khỏi giải đấu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/cRdm0rDhplo/hqdefault.jpg" alt="Trận đấu vòng Tứ kết APL 2026 giữa các đội tuyển quốc tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/cRdm0rDhplo/hqdefault.jpg" alt="Trận đấu vòng Tứ kết APL 2026 giữa các đội tuyển quốc tế" loading="lazy" width="1280" height="720">
   <figcaption>Vòng Tứ kết APL 2026 chứng kiến nhiều bất ngờ lớn, mở đường cho các đội tuyển ít được đánh giá cao bước vào vòng trong. Nguồn: YouTube</figcaption>
 </figure>
 
 Hành trình của FPT Polytechnic được xem là một trong những câu chuyện đáng chú ý nhất của làng Liên Quân Mobile Việt Nam trong nhiều năm trở lại đây, phần nào phản ánh sự dịch chuyển quyền lực tại các giải đấu quốc tế vốn từ lâu gắn liền với sự thống trị của những cái tên quen thuộc như Team Flash hay Saigon Phantom. Đội hình trẻ của FPT Polytechnic, với lối chơi giàu tốc độ và không ngại đối đầu những đối thủ dày dạn kinh nghiệm quốc tế hơn, đang trở thành niềm hy vọng lớn nhất cho Liên Quân Việt Nam trong chặng đường cuối cùng của APL 2026, tương tự tinh thần cạnh tranh sòng phẳng từng được thể hiện tại đấu trường Liên Minh Huyền Thoại khi [HLE ngược dòng vượt qua LYON để tiến vào chung kết tổng MSI 2026](/articles/apl-2026-viet-nam-3-dai-dien-tu-ket-lien-quan-mobile.html) hồi giữa năm nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tuVAQOw7HC0/hqdefault.jpg" alt="FPT Polytechnic thi đấu với đội hình trẻ tại vòng loại trực tiếp APL 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tuVAQOw7HC0/hqdefault.jpg" alt="FPT Polytechnic thi đấu với đội hình trẻ tại vòng loại trực tiếp APL 2026" loading="lazy" width="1280" height="720">
   <figcaption>FPT Polytechnic được đánh giá là hiện tượng ngựa ô lớn nhất của APL 2026 với đội hình trẻ nhiều tiềm năng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Hành trình của FPT Polytechnic được xem là một trong những câu chu
 Không phải đại diện Việt Nam nào cũng có được hành trình thuận lợi như FPT Polytechnic. Saigon Phantom, một trong những cái tên giàu thành tích quốc tế nhất của Liên Quân Việt Nam nhiều năm qua, đã [chính thức dừng bước sau thất bại trước Deep Cross Gaming](/articles/saigon-phantom-dung-buoc-apl-2026-thua-deep-cross-gaming.html) ngay tại vòng loại trực tiếp, khép lại một mùa giải APL không như kỳ vọng. Trước đó, chính FPT Polytechnic cũng từng phải chạm trán Saigon Phantom ở vòng Tứ kết và giành chiến thắng, một trong những kết quả đầu tiên báo hiệu phong độ ấn tượng của đội hình trẻ này trước khi họ tiếp tục làm nên địa chấn lớn hơn ở vòng trong.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/K-nAF5jr-6k/hqdefault.jpg" alt="FPT Polytechnic đối đầu Saigon Phantom tại vòng Tứ kết APL 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/K-nAF5jr-6k/hqdefault.jpg" alt="FPT Polytechnic đối đầu Saigon Phantom tại vòng Tứ kết APL 2026" loading="lazy" width="1280" height="720">
   <figcaption>Chiến thắng trước Saigon Phantom là một trong những cột mốc đầu tiên trong hành trình gây bất ngờ của FPT Polytechnic tại APL 2026. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -74,7 +74,7 @@ Lợi thế giá này càng có ý nghĩa trong bối cảnh thị trường ô 
 BMW X1 2026 có bước tiến rõ rệt về kích thước so với thế hệ trước, với chiều dài 4.500mm, rộng 1.845mm và trục cơ sở đạt 2.692mm. Những con số này trực tiếp cải thiện không gian cabin và khoang hành lý, giải quyết một trong những điểm yếu thường thấy của SUV cỡ nhỏ khi chở đủ người và hành lý cho chuyến đi xa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Cn_Mr-Tci3M/hqdefault.jpg" alt="Nội thất BMW X1 2026 với màn hình cong BMW Curved Display" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Cn_Mr-Tci3M/hqdefault.jpg" alt="Nội thất BMW X1 2026 với màn hình cong BMW Curved Display" loading="lazy" width="1280" height="720">
   <figcaption>Khoang lái BMW X1 2026 nổi bật với màn hình cong liền khối gồm đồng hồ 10,25 inch và màn giải trí 10,7 inch. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Bên trong, trung tâm bảng táp-lô là màn hình cong BMW Curved Display, k
 Về sức mạnh, sDrive20i sử dụng động cơ xăng 2.0L tăng áp cho công suất 204 mã lực và mô-men xoắn cực đại 300 Nm, đi cùng hộp số tự động 7 cấp và hệ dẫn động cầu trước. Đây là cấu hình cân bằng, đủ mạnh cho nhu cầu di chuyển đô thị và đường trường mà vẫn giữ mức tiêu hao nhiên liệu hợp lý. Hệ thống treo thích ứng được kỳ vọng mang lại trải nghiệm lái linh hoạt, chuyển đổi giữa cảm giác êm ái và thể thao tùy chế độ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Drk_ARegMhk/hqdefault.jpg" alt="BMW X1 2026 vận hành trên đường, mẫu SUV hạng sang cỡ nhỏ dễ tiếp cận" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Drk_ARegMhk/hqdefault.jpg" alt="BMW X1 2026 vận hành trên đường, mẫu SUV hạng sang cỡ nhỏ dễ tiếp cận" loading="lazy" width="1280" height="720">
   <figcaption>Động cơ 2.0L tăng áp 204 mã lực đủ đáp ứng nhu cầu vận hành đô thị lẫn đường dài. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Về an toàn, BMW X1 2026 được trang bị gói hỗ trợ lái ADAS với c
 ## Có nên đặt cọc ngay
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jiv620MYFaY/hqdefault.jpg" alt="Ngoại thất BMW X1 2026 thế hệ mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jiv620MYFaY/hqdefault.jpg" alt="Ngoại thất BMW X1 2026 thế hệ mới" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế ngoại thất BMW X1 2026 hiện đại hơn, hướng tới nhóm khách hàng trẻ và gia đình nhỏ. Nguồn: YouTube</figcaption>
 </figure>
 

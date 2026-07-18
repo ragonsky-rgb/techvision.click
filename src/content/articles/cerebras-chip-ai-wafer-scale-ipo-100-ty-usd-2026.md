@@ -75,7 +75,7 @@ Kết quả là Wafer-Scale Engine (WSE-3), con chip có kích thước lên t�
 Về mặt tài chính, Cerebras đã huy động thành công 5,55 tỷ USD qua đợt phát hành cổ phiếu lần đầu ra công chúng. Cổ phiếu công ty mở cửa ở mức 350 USD, gần gấp đôi giá chào bán IPO ban đầu 185 USD, đưa vốn hoá thị trường của Cerebras vượt qua mốc 100 tỷ USD chỉ trong vài giờ giao dịch đầu tiên, một thành tích hiếm thấy ngay cả trong giai đoạn bùng nổ đầu tư AI hiện nay. Đợt IPO này cũng được cho là đã tạo ra hai tỷ phú mới, đánh dấu một cột mốc tài chính quan trọng cho toàn bộ hệ sinh thái đầu tư mạo hiểm trong lĩnh vực chip AI.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/cCcidXi9tgU/hqdefault.jpg" alt="Phân tích cổ phiếu Cerebras Systems, liệu có phải Nvidia tiếp theo" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/cCcidXi9tgU/hqdefault.jpg" alt="Phân tích cổ phiếu Cerebras Systems, liệu có phải Nvidia tiếp theo" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều nhà phân tích tài chính đặt câu hỏi liệu Cerebras có thể trở thành một Nvidia tiếp theo hay không. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Tuy vậy, hành trình sau IPO của Cerebras không hoàn toàn suôn sẻ. Sa
 Yếu tố quan trọng nhất củng cố niềm tin của giới đầu tư vào Cerebras chính là mối quan hệ đối tác sâu rộng với OpenAI. Công ty đứng sau ChatGPT đã ký hợp đồng nhiều năm trị giá lên tới 20 tỷ USD với Cerebras để sử dụng năng lực tính toán, một trong những thương vụ lớn nhất từng được ghi nhận trong ngành công nghiệp chip AI, cho thấy ngay cả những phòng thí nghiệm AI hàng đầu thế giới cũng đang chủ động tìm kiếm giải pháp bổ sung bên cạnh sự phụ thuộc truyền thống vào Nvidia.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1mtmsXnV-1A/hqdefault.jpg" alt="Dự đoán giá cổ phiếu và triển vọng dài hạn của Cerebras Systems" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1mtmsXnV-1A/hqdefault.jpg" alt="Dự đoán giá cổ phiếu và triển vọng dài hạn của Cerebras Systems" loading="lazy" width="1280" height="720">
   <figcaption>Giới phân tích tài chính đưa ra nhiều dự đoán khác nhau về triển vọng dài hạn của cổ phiếu Cerebras. Nguồn: YouTube</figcaption>
 </figure>
 
 Để đáp ứng nhu cầu ngày càng tăng, Cerebras đã công bố mở rộng quan hệ hợp tác sản xuất với Flex, bổ sung nhiều dây chuyền sản xuất chuyên dụng mới tại California, đặt mục tiêu tăng gấp bảy lần năng lực sản xuất cho hệ thống tăng tốc AI chủ lực CS-3 vào cuối năm 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/G9_2A8ahrKE/hqdefault.jpg" alt="Những điều cần biết về Cerebras, đối thủ mới của Nvidia sau IPO bùng nổ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/G9_2A8ahrKE/hqdefault.jpg" alt="Những điều cần biết về Cerebras, đối thủ mới của Nvidia sau IPO bùng nổ" loading="lazy" width="1280" height="720">
   <figcaption>Giới đầu tư và chuyên gia công nghệ đang theo dõi sát sao bước tiến tiếp theo của Cerebras sau màn IPO ấn tượng. Nguồn: YouTube</figcaption>
 </figure>
 

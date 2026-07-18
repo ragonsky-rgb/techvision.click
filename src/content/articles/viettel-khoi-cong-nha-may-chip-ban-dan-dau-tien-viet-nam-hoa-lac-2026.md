@@ -76,7 +76,7 @@ Dự án được triển khai theo giai đoạn 2026 đến 2030 với lộ tr�
 Giai đoạn tiếp theo từ 2028 đến 2030 tập trung vào hoàn thiện và tối ưu quy trình, nâng cao hiệu quả dây chuyền theo tiêu chuẩn ngành, đồng thời làm nền tảng nghiên cứu các công nghệ chế tạo chip tiên tiến hơn. Cách tiếp cận theo từng bước này phản ánh thực tế rằng xây dựng năng lực chế tạo chip là quá trình dài hơi, cần tích lũy kinh nghiệm và đầu tư bền bỉ thay vì kỳ vọng kết quả tức thì.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3DPaK8tvaJo/maxresdefault.jpg" alt="Xây dựng nhà máy chế tạo chip hoàn thiện chuỗi giá trị bán dẫn Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3DPaK8tvaJo/maxresdefault.jpg" alt="Xây dựng nhà máy chế tạo chip hoàn thiện chuỗi giá trị bán dẫn Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Dự án hướng tới hoàn thiện chuỗi giá trị bán dẫn trong nước. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Trong chuỗi giá trị bán dẫn, chế tạo là khâu phức tạp và tố
 Bán dẫn là nền tảng của gần như mọi thiết bị công nghệ hiện đại, từ điện thoại, máy tính tới ô tô và hệ thống AI. Sự phụ thuộc vào nguồn cung chip nước ngoài từng bộc lộ rủi ro lớn trong các giai đoạn đứt gãy chuỗi cung ứng toàn cầu. Phát triển năng lực chế tạo nội địa vì thế không chỉ mang ý nghĩa kinh tế mà còn liên quan tới an ninh công nghệ và khả năng tự chủ của quốc gia trong dài hạn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/q9bFOEXpo48/maxresdefault.jpg" alt="Nhà máy chip Viettel Hòa Lạc bước ngoặt trong bản đồ bán dẫn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/q9bFOEXpo48/maxresdefault.jpg" alt="Nhà máy chip Viettel Hòa Lạc bước ngoặt trong bản đồ bán dẫn" loading="lazy" width="1280" height="720">
   <figcaption>Chế tạo chip là khâu khó và đắt đỏ nhất trong chuỗi bán dẫn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Những năm gần đây, Việt Nam nổi lên như một điểm đến hấp 
 Tham vọng này song hành với các nỗ lực khác về hạ tầng công nghệ, từ trung tâm dữ liệu AI tới đào tạo nhân lực số. Khi kết hợp lại, các mảnh ghép này tạo nền tảng cho một hệ sinh thái công nghệ cao trong nước. Tuy nhiên, cạnh tranh trong ngành bán dẫn rất khốc liệt, đòi hỏi Việt Nam phải kiên trì đầu tư, thu hút nhân tài và hợp tác quốc tế để biến tiềm năng thành kết quả thực tế. Bối cảnh này gắn với cuộc đua hạ tầng số, có thể tham khảo bài [cuộc đua trung tâm dữ liệu AI Việt Nam](/articles/cuoc-dua-trung-tam-du-lieu-ai-viet-nam-2026-viettel-vnpt-fpt-vng-cmc.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0DqyIdUHZOs/maxresdefault.jpg" alt="Viettel khởi công nhà máy chip Việt Nam bước vào khâu then chốt bán dẫn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0DqyIdUHZOs/maxresdefault.jpg" alt="Viettel khởi công nhà máy chip Việt Nam bước vào khâu then chốt bán dẫn" loading="lazy" width="1280" height="720">
   <figcaption>Việt Nam tiến sâu hơn vào chuỗi cung ứng bán dẫn toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 

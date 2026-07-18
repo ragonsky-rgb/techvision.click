@@ -76,7 +76,7 @@ Telegram từ lâu nổi tiếng với các nhóm và cộng đồng quy mô l�
 Đây là công cụ đặc biệt hữu ích với các nhóm đông thành viên, vốn thường bị tài khoản rác len lỏi để phát tán quảng cáo hoặc nội dung lừa đảo. Bằng cách dùng AI để lọc ngay từ cửa vào, quản trị viên giảm được khối lượng công việc kiểm duyệt thủ công. Tuy nhiên, người dùng vẫn nên cảnh giác với các tin nhắn lạ trong nhóm, như hướng dẫn trong bài [cách nhận biết và phòng tránh lừa đảo online](/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DEXtqs9Xgg8/maxresdefault.jpg" alt="Telegram giao diện mới và điều khiển điều hướng 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DEXtqs9Xgg8/maxresdefault.jpg" alt="Telegram giao diện mới và điều khiển điều hướng 2026" loading="lazy" width="1280" height="720">
   <figcaption>AI gác cổng giúp quản lý cộng đồng và hạn chế tài khoản rác. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bot luôn là một thế mạnh đặc trưng của Telegram, và bản cập n
 Những cải tiến này mở ra nhiều khả năng cho nhà phát triển trong việc tạo ra các bot thông minh và linh hoạt hơn, từ trợ lý cá nhân, công cụ tự động hóa công việc tới các dịch vụ tích hợp AI. Khi AI ngày càng phổ biến, việc Telegram làm sâu nền tảng bot giúp nó trở thành môi trường hấp dẫn cho các ứng dụng AI dạng hội thoại. Đây là điểm khác biệt giúp Telegram cạnh tranh với các nền tảng nhắn tin khác.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LqnWvpuoZ2M/maxresdefault.jpg" alt="Bot AI mới trên Telegram với nhiều khả năng nâng cao" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LqnWvpuoZ2M/maxresdefault.jpg" alt="Bot AI mới trên Telegram với nhiều khả năng nâng cao" loading="lazy" width="1280" height="720">
   <figcaption>Hệ thống bot AI được nâng cấp mạnh, mở ra nhiều ứng dụng mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Bản cập nhật của Telegram diễn ra trong bối cảnh các nền tảng
 Với người dùng, cuộc cạnh tranh này mang lại lợi ích rõ rệt khi các tính năng mới xuất hiện nhanh và đa dạng hơn. Tuy nhiên, sự phong phú tính năng cũng đi kèm trách nhiệm sử dụng an toàn, đặc biệt với các nhóm công khai và bot. Người dùng nên tìm hiểu kỹ các thiết lập quyền riêng tư và cảnh giác với nội dung đáng ngờ. Có thể tham khảo thêm về tính năng quyền riêng tư mới của đối thủ trong bài [WhatsApp thêm tên người dùng](/articles/whatsapp-ten-nguoi-dung-username-2026-nhan-tin-khong-can-so-dien-thoai.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3xZfgIr2oXU/maxresdefault.jpg" alt="Ứng dụng Telegram cho đồng hồ thông minh Galaxy và Pixel Watch" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3xZfgIr2oXU/maxresdefault.jpg" alt="Ứng dụng Telegram cho đồng hồ thông minh Galaxy và Pixel Watch" loading="lazy" width="1280" height="720">
   <figcaption>Các nền tảng nhắn tin đua nhau bổ sung tính năng mới. Nguồn: YouTube</figcaption>
 </figure>
 

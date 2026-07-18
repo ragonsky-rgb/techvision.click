@@ -76,7 +76,7 @@ Song song với Flash, Google tung Gemini 3 Pro dưới dạng bản preview tr�
 Đáng chú ý nhất về khả năng suy luận là Deep Think, chế độ tăng cường giúp Gemini 3 giải các bài toán khó về toán, khoa học, logic và các vấn đề nhiều bước. Deep Think bắt đầu được mở cho người dùng gói Google AI Ultra, định vị là chế độ suy luận hàng đầu của Google. Cuộc đua nâng cấp mô hình diễn ra trên toàn ngành, có thể so sánh với các bản cập nhật gần đây của đối thủ trong bài [xAI Grok cập nhật tháng 6/2026](/articles/xai-grok-cap-nhat-thang-6-2026-grok-4-3-aws-grok-cho-word-mo-hinh-moi.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/izXjYxKTI_k/maxresdefault.jpg" alt="Gemini 3 Flash mô hình mạnh nhất nhanh và rẻ nhất của Google" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/izXjYxKTI_k/maxresdefault.jpg" alt="Gemini 3 Flash mô hình mạnh nhất nhanh và rẻ nhất của Google" loading="lazy" width="1280" height="720">
   <figcaption>Gemini 3 Pro lên preview, Deep Think mở cho gói AI Ultra. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một điểm Google nhấn mạnh là Gemini 3 được tối ưu mạnh cho c�
 Với lập trình, Gemini 3 hỗ trợ viết, sửa và giải thích mã, giúp tăng năng suất cho lập trình viên. Khả năng agentic kết hợp với lập trình mở ra nhiều ứng dụng, từ tự động hóa quy trình tới xây dựng trợ lý ảo cho doanh nghiệp. Xu hướng này đang lan rộng tại Việt Nam, đặc biệt trong lĩnh vực tài chính ngân hàng, như phân tích trong bài [ngân hàng AI Việt Nam 2026](/articles/ngan-hang-ai-viet-nam-2026-tro-ly-ao-chatbot-chuyen-doi-so.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zstdwZwoBWo/maxresdefault.jpg" alt="Google Gemini 3 Flash xây dựng cho tác vụ AI agent" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zstdwZwoBWo/maxresdefault.jpg" alt="Google Gemini 3 Flash xây dựng cho tác vụ AI agent" loading="lazy" width="1280" height="720">
   <figcaption>Gemini 3 tối ưu cho tác vụ agentic và lập trình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Việc Google liên tục tung các bản Gemini 3 cho thấy cuộc đua mô h�
 Điểm đáng chú ý là chiến lược phân tầng mô hình, với dòng Flash nhanh và rẻ cho số đông, dòng Pro mạnh hơn cho tác vụ phức tạp, và chế độ Deep Think cho các bài toán khó nhất. Cách phân tầng này giúp tối ưu chi phí và trải nghiệm, để người dùng dùng đúng công cụ cho đúng việc. Đây cũng là xu hướng chung mà nhiều nhà cung cấp AI đang theo đuổi trong năm 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0gSf-ybLS2Y/hqdefault.jpg" alt="Gemini 3 Flash khả năng thị giác agentic giải bài toán AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0gSf-ybLS2Y/hqdefault.jpg" alt="Gemini 3 Flash khả năng thị giác agentic giải bài toán AI" loading="lazy" width="1280" height="720">
   <figcaption>Cuộc đua mô hình AI giữa các hãng lớn ngày càng nóng. Nguồn: YouTube</figcaption>
 </figure>
 

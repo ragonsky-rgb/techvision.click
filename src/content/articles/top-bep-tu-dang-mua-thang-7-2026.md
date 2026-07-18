@@ -68,7 +68,7 @@ Nhu cầu chuyển đổi từ bếp gas truyền thống sang bếp từ an to�
 Ở phân khúc tầm trung, các dòng bếp từ Chefs là lựa chọn nổi bật nhờ tập trung vào thiết kế 2 vùng nấu vừa phải, phù hợp không gian bếp nhỏ phổ biến tại nhiều căn hộ, nhà phố ở Việt Nam. Sản phẩm được nhiều gia đình ưa chuộng hơn so với các mẫu bếp Bosch cùng phân khúc giá nhờ thiết kế gọn gàng, dễ lắp đặt và mức giá hợp lý hơn cho nhu cầu sử dụng hằng ngày của gia đình trung bình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/nX7eEWarFC0/sddefault.jpg" alt="Danh gia bep tu Chefs va Bosch tam gia 13 trieu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/nX7eEWarFC0/sddefault.jpg" alt="Danh gia bep tu Chefs va Bosch tam gia 13 trieu" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết giúp người mua so sánh giữa các dòng bếp từ trong cùng tầm giá. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Nhiều gia đình hiện đang xây dựng gian bếp hiện đại toàn diệ
 Trước khi quyết định xuống tiền, người dùng nên xác định rõ mục đích sử dụng chính, ví dụ ưu tiên ngân sách tiết kiệm cho nhu cầu cơ bản, cần thiết kế gọn gàng cho không gian bếp nhỏ, hay sẵn sàng đầu tư cho tốc độ nấu nhanh và độ bền cao nhất, vì mỗi thương hiệu trong danh sách đều có thế mạnh riêng phù hợp từng nhóm đối tượng khác nhau. Nên ưu tiên mua tại đại lý ủy quyền chính hãng để được hưởng chế độ bảo hành đầy đủ, đồng thời tận dụng các chương trình khuyến mãi, trả góp 0% lãi suất phổ biến hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/spKolqXttM0/mqdefault.jpg" alt="So sanh chi tiet bep tu tam gia pho bien tai Viet Nam" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/spKolqXttM0/mqdefault.jpg" alt="So sanh chi tiet bep tu tam gia pho bien tai Viet Nam" loading="lazy" width="1280" height="480">
   <figcaption>So sánh chi tiết giúp người mua nắm rõ ưu nhược điểm của từng dòng bếp từ phổ biến. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Ngoài ba thương hiệu tiêu biểu kể trên, thị trường bếp từ th
 Với các gia đình đang cải tạo lại toàn bộ gian bếp, nên cân nhắc kỹ vị trí lắp đặt bếp từ ngay từ giai đoạn thiết kế ban đầu, đảm bảo có đủ không gian thông thoáng phía dưới bếp cho hệ thống quạt tản nhiệt hoạt động hiệu quả, tránh tình trạng bếp quá nhiệt gây giảm tuổi thọ linh kiện điện tử bên trong sau thời gian dài sử dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/nX7eEWarFC0/mqdefault.jpg" alt="Bep tu Bosch cong suat manh cho gia dinh nau nuong nhieu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/nX7eEWarFC0/mqdefault.jpg" alt="Bep tu Bosch cong suat manh cho gia dinh nau nuong nhieu" loading="lazy" width="1280" height="480">
   <figcaption>Bếp từ Bosch với công suất mạnh mẽ phù hợp gia đình thường xuyên nấu nướng nhiều món. Nguồn: YouTube</figcaption>
 </figure>
 

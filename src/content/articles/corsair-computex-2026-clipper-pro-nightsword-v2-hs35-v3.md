@@ -72,7 +72,7 @@ Chuẩn chống nước bụi IP57 là điểm đáng chú ý hiếm gặp trên
 Việc CORSAIR sở hữu thương hiệu Elgato từ năm 2018 giờ đây đã mang lại lợi thế tích hợp phần cứng thực sự, thay vì chỉ dừng lại ở việc bán riêng lẻ hai dòng sản phẩm không liên quan như trước đây. Nút bấm Stream Deck trên Nightsword v2 có thể tùy chỉnh để kích hoạt bất kỳ hành động nào đã thiết lập sẵn trên phần mềm Stream Deck, từ chuyển cảnh quay, bật tắt micro, cho tới kích hoạt hiệu ứng âm thanh, giúp quy trình phát trực tiếp trở nên liền mạch hơn đáng kể so với việc phải dùng bàn phím rời hoặc thiết bị Stream Deck vật lý riêng biệt đặt trên bàn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/r-8WTWMQDUI/hqdefault.jpg" alt="CORSAIR Clipper Pro Mini 60 unbox thiet lap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/r-8WTWMQDUI/hqdefault.jpg" alt="CORSAIR Clipper Pro Mini 60 unbox thiet lap" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm mở hộp và thiết lập ban đầu bàn phím CORSAIR Clipper Pro Mini 60. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,14 +83,14 @@ Người dùng đang cân nhắc thêm các lựa chọn bàn phím và chuột 
 Bên cạnh hai sản phẩm cao cấp, CORSAIR cũng ra mắt HS35 v3, tai nghe giá rẻ chỉ 44 USD nhưng vẫn hỗ trợ công nghệ âm thanh không gian Dolby Atmos, driver neodymium 50mm, trọng lượng nhẹ chỉ 250g và hỗ trợ kết nối tri-mode linh hoạt trên nhiều nền tảng chơi game khác nhau. Đây là lựa chọn phù hợp người mới bắt đầu chơi game muốn trải nghiệm âm thanh không gian chất lượng tốt mà không cần đầu tư quá nhiều ngân sách, một phân khúc giá mà CORSAIR trước đây ít tập trung phát triển.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/REw-tTJQ6Ds/hqdefault.jpg" alt="CORSAIR Nightsword v2 Wireless SD nut Stream Deck" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/REw-tTJQ6Ds/hqdefault.jpg" alt="CORSAIR Nightsword v2 Wireless SD nut Stream Deck" loading="lazy" width="1280" height="480">
   <figcaption>Giới thiệu chi tiết nút bấm khởi chạy Stream Deck độc quyền trên chuột Nightsword v2 Wireless SD. Nguồn: YouTube</figcaption>
 </figure>
 
 Với trọng lượng chỉ 250g, HS35 v3 cũng thuộc hàng nhẹ nhất trong phân khúc tai nghe gaming giá rẻ, giúp giảm cảm giác nặng đầu khi đeo liên tục trong nhiều giờ chơi game, một yếu tố thường bị bỏ qua ở phân khúc giá thấp nhưng lại ảnh hưởng đáng kể tới trải nghiệm sử dụng lâu dài của người chơi game thường xuyên mỗi ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xsIe3ea7pdc/hqdefault.jpg" alt="CORSAIR Clipper Pro Mini 60 first look sound test" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xsIe3ea7pdc/hqdefault.jpg" alt="CORSAIR Clipper Pro Mini 60 first look sound test" loading="lazy" width="1280" height="480">
   <figcaption>Cận cảnh đầu tiên và thử nghiệm âm thanh phím bấm của bàn phím CORSAIR Clipper Pro Mini 60. Nguồn: YouTube</figcaption>
 </figure>
 

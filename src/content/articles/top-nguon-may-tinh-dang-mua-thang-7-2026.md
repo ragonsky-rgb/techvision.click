@@ -66,7 +66,7 @@ Nhu cầu nâng cấp nguồn máy tính tiếp tục tăng cao trong tháng 7/2
 Ngay cả ở phân khúc giá tốt, người mua vẫn nên ưu tiên các thương hiệu có lịch sử kiểm định an toàn rõ ràng, tránh ham rẻ mà chọn các sản phẩm không rõ nguồn gốc, vì rủi ro cháy nổ từ nguồn máy tính kém chất lượng có thể gây thiệt hại lớn hơn nhiều so với khoản tiền tiết kiệm được ban đầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/MaXbA2-EekE/hqdefault.jpg" alt="Huong dan mua nguon may tinh tot nhat cho PC" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/MaXbA2-EekE/hqdefault.jpg" alt="Huong dan mua nguon may tinh tot nhat cho PC" loading="lazy" width="1280" height="480">
   <figcaption>Hướng dẫn toàn diện giúp người dùng chọn được nguồn máy tính phù hợp với cấu hình và ngân sách của mình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Ngay cả ở phân khúc giá tốt, người mua vẫn nên ưu tiên các th�
 Ở phân khúc tầm trung, nguồn công suất 850W chuẩn 80 Plus Gold là lựa chọn nổi bật, phù hợp người dùng có cấu hình gaming khá cao, cần cân bằng giữa hiệu suất và chi phí một cách hợp lý. Chuẩn Gold mang lại hiệu suất chuyển đổi điện năng tốt hơn đáng kể so với Bronze, giúp tiết kiệm chi phí điện về lâu dài và giảm nhiệt tỏa ra trong quá trình vận hành, đủ đáp ứng tốt các GPU tầm trung cao mà không cần đầu tư tới mức nguồn cao cấp nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tq5pazoY53I/hqdefault.jpg" alt="Giai thich cac chuan xep hang PSU trong 8 phut" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/tq5pazoY53I/hqdefault.jpg" alt="Giai thich cac chuan xep hang PSU trong 8 phut" loading="lazy" width="1280" height="480">
   <figcaption>Giải thích nhanh gọn các cấp chuẩn hiệu suất trên nguồn máy tính chỉ trong 8 phút. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Ngay cả ở phân khúc giá tốt, người mua vẫn nên ưu tiên các th�
 Với nhu cầu hệ thống dùng GPU flagship công suất tiêu thụ lớn, nguồn công suất 1000W trở lên chuẩn Platinum là lựa chọn đáng đầu tư nhất, đảm bảo công suất dự phòng đủ lớn cho cả nhu cầu nâng cấp trong tương lai gần. Chuẩn Platinum mang lại hiệu suất chuyển đổi điện năng cao nhất trong các chuẩn 80 Plus phổ biến hiện nay, giúp giảm thiểu lãng phí điện năng và nhiệt tỏa ra ngay cả khi vận hành ở tải cao liên tục trong thời gian dài, đặc biệt quan trọng với hệ thống chạy 24/7 phục vụ công việc chuyên nghiệp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/dXuoklTQq_Y/hqdefault.jpg" alt="Chuan 80 Plus Bronze Silver Gold Platinum Titanium giai thich" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/dXuoklTQq_Y/hqdefault.jpg" alt="Chuan 80 Plus Bronze Silver Gold Platinum Titanium giai thich" loading="lazy" width="1280" height="480">
   <figcaption>Giải thích chi tiết các cấp chuẩn hiệu suất 80 Plus, giúp người dùng chọn đúng nguồn phù hợp phân khúc cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 

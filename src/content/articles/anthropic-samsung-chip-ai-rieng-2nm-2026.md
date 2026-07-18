@@ -74,7 +74,7 @@ Theo các nguồn tin trong ngành, Anthropic đã bắt đầu những bước 
 Việc Samsung xuất hiện trong danh sách đối tác tiềm năng của Anthropic không phải ngẫu nhiên. Samsung sở hữu năng lực sản xuất chip bán dẫn tiên tiến, bao gồm cả tiến trình 2nm mà Anthropic đang cân nhắc, cùng với kinh nghiệm về công nghệ đóng gói chip hiện đại. Bên cạnh đó, mối quan hệ giữa hai bên đã có nền tảng từ trước, khi Samsung, cùng với SK hynix và Micron, từng tham gia vòng gọi vốn Series H trị giá 65 tỷ USD của Anthropic, hoàn tất vào tháng 5/2026, đưa định giá công ty lên mức 965 tỷ USD, tiệm cận ngưỡng nghìn tỷ USD.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3KHE1kHSkbA/hqdefault.jpg" alt="Anthropic và Samsung đàm phán hợp tác phát triển chip AI tuỳ chỉnh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3KHE1kHSkbA/hqdefault.jpg" alt="Anthropic và Samsung đàm phán hợp tác phát triển chip AI tuỳ chỉnh" loading="lazy" width="1280" height="720">
   <figcaption>Mối quan hệ hợp tác giữa Anthropic và Samsung đã có nền tảng từ vòng gọi vốn trước đó. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Sự tham gia của các nhà sản xuất bộ nhớ và bán dẫn lớn vào 
 Dù đang thăm dò khả năng phát triển chip riêng, Anthropic khẳng định rõ ràng rằng các đối tác phần cứng hiện tại, gồm Amazon, Google và Nvidia, vẫn sẽ là nền tảng chính cho hạ tầng tính toán phục vụ mô hình Claude trong ngắn hạn. Đây là chiến lược đa nền tảng có chủ đích, tương tự cách công ty đã và đang [mở rộng sử dụng chip TPU Ironwood của Google với cam kết lên tới một triệu chip](/articles/google-tpu-ironwood-v7-thach-thuc-nvidia-2026.html), song song với việc tiếp tục dùng GPU của Nvidia và chip Trainium của Amazon.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/dQNzhWZs8ao/hqdefault.jpg" alt="Anthropic tìm kiếm đối tác chip AI mới ngoài Samsung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/dQNzhWZs8ao/hqdefault.jpg" alt="Anthropic tìm kiếm đối tác chip AI mới ngoài Samsung" loading="lazy" width="1280" height="720">
   <figcaption>Ngoài Samsung, Anthropic còn đang thảo luận với nhiều đối tác chip tiềm năng khác. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài Samsung, Anthropic cũng được cho là đang thảo luận về khả năng hợp tác chip với Microsoft và công ty khởi nghiệp Fractile có trụ sở tại Anh, cho thấy đây là một quá trình tìm kiếm đối tác diễn ra song song trên nhiều mặt trận, chứ không phải một cam kết độc quyền dành riêng cho Samsung. Chiến lược này giúp Anthropic giữ được sự linh hoạt tối đa trong việc lựa chọn công nghệ và đối tác phù hợp nhất cho từng giai đoạn phát triển.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9MgHkepSjAQ/hqdefault.jpg" alt="Anthropic cân nhắc nhiều kịch bản hợp tác chip AI khác nhau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9MgHkepSjAQ/hqdefault.jpg" alt="Anthropic cân nhắc nhiều kịch bản hợp tác chip AI khác nhau" loading="lazy" width="1280" height="720">
   <figcaption>Anthropic đang cân nhắc nhiều kịch bản hợp tác khác nhau trước khi đưa ra quyết định cuối cùng về chip AI riêng. Nguồn: YouTube</figcaption>
 </figure>
 

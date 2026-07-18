@@ -69,14 +69,14 @@ Dung lượng VRAM là yếu tố quan trọng hàng đầu khi chọn card đ�
 Hiệu năng xử lý của GPU cần được cân nhắc dựa trên độ phân giải màn hình và loại tựa game thường chơi, thay vì chỉ nhìn vào con số marketing của nhà sản xuất. Người chơi game ở độ phân giải 1080p không nhất thiết cần GPU cao cấp nhất, trong khi người chơi ở 4K hoặc dùng màn hình siêu rộng độ phân giải cao cần cấu hình mạnh hơn đáng kể để duy trì khung hình ổn định.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mkfFvEeVC4w/hqdefault.jpg" alt="NVIDIA hay AMD tot hon so sanh chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mkfFvEeVC4w/hqdefault.jpg" alt="NVIDIA hay AMD tot hon so sanh chi tiet" loading="lazy" width="1280" height="480">
   <figcaption>Bảng xếp hạng các dòng card đồ họa NVIDIA và AMD mới nhất giúp người dùng dễ dàng so sánh hiệu năng. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài thông số kỹ thuật thuần túy, người dùng cũng nên tham khảo thêm các bài so sánh trực tiếp giữa NVIDIA và AMD ở cùng phân khúc giá, vì đôi khi một thương hiệu có thể vượt trội hơn ở một số tựa game cụ thể nhờ tối ưu driver tốt hơn, dù thông số phần cứng trên giấy tờ không chênh lệch quá nhiều.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AVo2aX-Ip0A/hqdefault.jpg" alt="Card do hoa tot nhat cho 1080p 1440p 4K" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/AVo2aX-Ip0A/hqdefault.jpg" alt="Card do hoa tot nhat cho 1080p 1440p 4K" loading="lazy" width="1280" height="480">
   <figcaption>Gợi ý card đồ họa phù hợp cho từng độ phân giải màn hình khác nhau, từ 1080p tới 4K. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Với người dùng đang cân nhắc nâng cấp đồng bộ nhiều linh ki�
 Các dòng GPU cao cấp nhất hiện nay có công suất tiêu thụ điện dao động 300-575W, đòi hỏi bộ nguồn máy tính công suất tối thiểu 750-1000W trở lên để đảm bảo hoạt động ổn định, đặc biệt khi kết hợp cùng CPU hiệu năng cao trong cùng hệ thống. Người dùng cần kiểm tra kỹ công suất nguồn hiện có trước khi nâng cấp GPU, tránh tình trạng hệ thống không ổn định hoặc tự động tắt do nguồn không đủ công suất cung cấp cho toàn bộ linh kiện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zim652SyNSo/hqdefault.jpg" alt="Can bao nhieu VRAM cho GPU nam 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zim652SyNSo/hqdefault.jpg" alt="Can bao nhieu VRAM cho GPU nam 2026" loading="lazy" width="1280" height="480">
   <figcaption>Phân tích chi tiết về dung lượng VRAM cần thiết cho các tựa game hiện đại năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

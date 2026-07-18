@@ -70,7 +70,7 @@ Với người mới bắt đầu quan tâm tới công thái học khi làm vi�
 Ở phân khúc tầm trung, giá đỡ nhôm nguyên khối là lựa chọn nổi bật, phù hợp người dùng văn phòng cần cân bằng giữa độ ổn định khi gõ phím, khả năng tản nhiệt tốt hơn và mức giá hợp lý. Thiết kế khối nhôm liền mạch giúp giảm đáng kể hiện tượng rung lắc màn hình so với giá đỡ nhựa giá rẻ, đồng thời mang lại cảm giác sử dụng cao cấp và bền bỉ hơn theo thời gian.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/n3DsboYBVVk/hqdefault.jpg" alt="Twelve South Curve SE gia do laptop desktop danh gia" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/n3DsboYBVVk/hqdefault.jpg" alt="Twelve South Curve SE gia do laptop desktop danh gia" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá giá đỡ laptop để bàn Twelve South Curve SE, chất liệu nhôm nguyên khối và độ ổn định. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Với người mới bắt đầu quan tâm tới công thái học khi làm vi�
 Với nhu cầu sử dụng laptop gaming cấu hình cao hoặc cần chuyển đổi linh hoạt giữa tư thế ngồi và đứng làm việc, giá đỡ đa năng cao cấp là lựa chọn đáng đầu tư nhất, thường có tải trọng chịu lực lớn hơn đáng kể cùng nhiều mức điều chỉnh chiều cao và góc nghiêng linh hoạt. Các mẫu cao cấp này thường được làm từ nhôm hợp kim dày, chịu được tải trọng lên tới 20kg, đủ đáp ứng cả những dòng laptop gaming nặng nhất trên thị trường hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hLxQ_wvVbJg/hqdefault.jpg" alt="Twelve South Curve gia do laptop trai nghiem chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hLxQ_wvVbJg/hqdefault.jpg" alt="Twelve South Curve gia do laptop trai nghiem chi tiet" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm chi tiết giá đỡ laptop Twelve South Curve, đánh giá khả năng chịu tải và độ linh hoạt điều chỉnh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Ngoài tải trọng, người dùng ở phân khúc cao cấp cũng nên chú �
 Người dùng cũng nên cân nhắc thêm khả năng tương thích đa thiết bị của giá đỡ cao cấp, vì nhiều mẫu hiện nay được thiết kế để phù hợp với dải kích thước màn hình rộng, từ laptop 13 inch nhỏ gọn tới laptop gaming 18 inch cỡ lớn, giúp một giá đỡ có thể dùng chung cho nhiều thiết bị khác nhau trong gia đình hoặc khi cần thay đổi laptop trong tương lai mà không cần mua giá đỡ mới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/svfT68bF2wc/hqdefault.jpg" alt="Twelve South Curve mo hop demo gia do laptop" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/svfT68bF2wc/hqdefault.jpg" alt="Twelve South Curve mo hop demo gia do laptop" loading="lazy" width="1280" height="480">
   <figcaption>Video mở hộp và demo giá đỡ laptop Twelve South Curve, giới thiệu thiết kế và cách lắp đặt. Nguồn: YouTube</figcaption>
 </figure>
 

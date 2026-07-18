@@ -71,7 +71,7 @@ Chiến thắng trước LYON không chỉ mang ý nghĩa về mặt kết quả
 Theo dõi sát diễn biến loạt trận, giới chuyên môn đánh giá bước ngoặt quan trọng nhất đến từ khả năng thích ứng của HLE ở các ván giữa, khi đội buộc phải thay đổi hướng đi lối chơi sau khi để thua liên tiếp trong giai đoạn đầu. Thay vì duy trì chiến thuật ban đầu vốn tỏ ra kém hiệu quả trước lối chơi linh hoạt của LYON, ban huấn luyện HLE đã mạnh dạn điều chỉnh cách lựa chọn đội hình tướng, tập trung khai thác thế mạnh giao tranh tổng thay vì kéo dài trận đấu sang giai đoạn cuối vốn là sở trường của đối thủ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vIMtlQLFoTc/hqdefault.jpg" alt="Diễn biến căng thẳng trong một ván đấu giữa HLE và LYON" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vIMtlQLFoTc/hqdefault.jpg" alt="Diễn biến căng thẳng trong một ván đấu giữa HLE và LYON" loading="lazy" width="1280" height="720">
   <figcaption>Từng ván đấu trong loạt trận HLE vs LYON đều mang tính chất bước ngoặt cho toàn bộ cục diện chung kết nhánh thua. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Sự thay đổi kịp thời này đã giúp HLE dần lấy lại thế chủ 
 Ván đấu thứ năm, mang tính chất quyết định toàn bộ loạt trận, chứng kiến áp lực tâm lý cực lớn đè nặng lên cả hai đội khi chỉ một sai lầm nhỏ cũng có thể định đoạt toàn bộ tấm vé vào chung kết tổng. HLE đã thi đấu với sự tập trung cao độ, tận dụng tối đa các cơ hội giao tranh tổng để dần chiếm ưu thế và khép lại loạt trận theo cách thuyết phục nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wRW9Eb6mpck/hqdefault.jpg" alt="HLE thi đấu quyết liệt tại ván 5 quyết định trước LYON" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wRW9Eb6mpck/hqdefault.jpg" alt="HLE thi đấu quyết liệt tại ván 5 quyết định trước LYON" loading="lazy" width="1280" height="720">
   <figcaption>Ván đấu thứ năm mang tính quyết định chứng kiến màn trình diễn bùng nổ của đội hình HLE. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Với chiến thắng này, HLE không chỉ giành quyền tự quyết định
 Đáng chú ý, đối thủ chờ đợi HLE tại chung kết tổng không ai khác chính là BLG, đội tuyển đã [đánh bại HLE với tỷ số 3-1 đầy thuyết phục tại chung kết nhánh thắng](/articles/blg-thang-hle-3-1-msi-2026-vao-chung-ket-tong.html) chỉ vài ngày trước đó, qua đó tiến thẳng vào chung kết tổng mà không cần trải qua thêm bất kỳ trận đấu loại trực tiếp nào khác. Việc phải chạm trán lại chính đối thủ vừa đánh bại mình mang đến cho HLE cả động lực lẫn áp lực tâm lý đặc biệt, khi đội buộc phải tìm ra được những điều chỉnh chiến thuật đủ hiệu quả để lật ngược tình thế trong trận đấu mang tính quyết định danh hiệu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/TOwA_H6p3aU/hqdefault.jpg" alt="Các tuyển thủ HLE tập trung chuẩn bị chiến thuật đối đầu BLG" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TOwA_H6p3aU/hqdefault.jpg" alt="Các tuyển thủ HLE tập trung chuẩn bị chiến thuật đối đầu BLG" loading="lazy" width="1280" height="720">
   <figcaption>Ban huấn luyện HLE được kỳ vọng sẽ có những điều chỉnh chiến thuật quan trọng trước trận tái đấu BLG. Nguồn: YouTube</figcaption>
 </figure>
 

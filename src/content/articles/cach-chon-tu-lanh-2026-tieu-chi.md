@@ -69,7 +69,7 @@ Với gia đình khoảng 4-5 người, dung tích tủ lạnh từ 300 tới 50
 Công nghệ Inverter sử dụng biến tần điều chỉnh tốc độ máy nén linh hoạt theo nhu cầu làm lạnh thực tế, thay vì chỉ bật tắt liên tục như tủ lạnh thông thường sử dụng công nghệ cũ. Nhờ cách vận hành thông minh này, tủ lạnh Inverter có thể tiết kiệm tới 40% điện năng so với công nghệ cũ, đồng thời vận hành êm ái và bền bỉ hơn theo thời gian nhờ giảm thiểu số lần khởi động lại máy nén đột ngột, một yếu tố quan trọng ảnh hưởng tới tuổi thọ tổng thể của tủ lạnh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ByHUQPvdViE/sddefault.jpg" alt="Trai nghiem danh gia tu lanh Panasonic Inverter 290 Lit" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ByHUQPvdViE/sddefault.jpg" alt="Trai nghiem danh gia tu lanh Panasonic Inverter 290 Lit" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm thực tế cho thấy công nghệ Inverter giúp tủ lạnh vận hành tiết kiệm điện và ổn định hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Nhiều dòng tủ lạnh cao cấp hiện nay tích hợp thêm công nghệ b�
 Với gia đình có không gian bếp mở, thông với phòng khách hoặc phòng ăn, độ ồn khi vận hành là yếu tố cần cân nhắc để không ảnh hưởng tới sinh hoạt chung của cả gia đình, đặc biệt vào ban đêm khi mọi âm thanh trở nên rõ ràng hơn. Các dòng tủ lạnh sử dụng công nghệ Inverter thường có độ ồn thấp hơn đáng kể so với tủ lạnh công nghệ cũ, nhờ máy nén hoạt động êm ái, ổn định thay vì phải khởi động và dừng đột ngột liên tục trong suốt quá trình sử dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ByHUQPvdViE/mqdefault.jpg" alt="Cac mau tu lanh dung tich lon giam gia dip Tet 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ByHUQPvdViE/mqdefault.jpg" alt="Cac mau tu lanh dung tich lon giam gia dip Tet 2026" loading="lazy" width="1280" height="480">
   <figcaption>Các mẫu tủ lạnh dung tích lớn thường được giảm giá mạnh vào dịp cao điểm mua sắm cuối năm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nhiều gia đình hiện đang xây dựng gian bếp hiện đại toàn diệ
 Cuối cùng, người mua cũng nên đo đạc kỹ không gian đặt tủ lạnh trước khi quyết định mua, đảm bảo có đủ khoảng cách xung quanh tủ để thông gió tốt, tránh đặt sát tường hoặc trong góc kín gió, có thể ảnh hưởng tới hiệu quả tản nhiệt và tuổi thọ máy nén về lâu dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6wulSJaxE4Y/mqdefault.jpg" alt="Tu lanh Panasonic Inverter thiet ke hien dai tiet kiem dien" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/6wulSJaxE4Y/mqdefault.jpg" alt="Tu lanh Panasonic Inverter thiet ke hien dai tiet kiem dien" loading="lazy" width="1280" height="480">
   <figcaption>Tủ lạnh Panasonic Inverter được đánh giá cao về khả năng tiết kiệm điện và độ bền lâu dài. Nguồn: YouTube</figcaption>
 </figure>
 

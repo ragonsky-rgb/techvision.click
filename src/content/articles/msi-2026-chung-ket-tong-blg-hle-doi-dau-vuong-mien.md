@@ -71,7 +71,7 @@ Nếu giành chiến thắng chung cuộc, đây sẽ là danh hiệu quốc t�
 Trái ngược với hành trình tương đối thuận lợi của BLG, HLE phải trải qua chặng đường gian nan hơn nhiều để có mặt tại chung kết tổng. Sau thất bại trước BLG ở chung kết nhánh thắng, đại diện LCK buộc phải đi tiếp qua nhánh thua, nơi họ [ngược dòng đầy cảm xúc để đánh bại LYON với tỷ số 3-2](/articles/hle-nguoc-dong-lyon-3-2-vao-chung-ket-tong-msi-2026.html) sau hơn 5 ván đấu căng thẳng, có thời điểm đứng trước nguy cơ bị loại hoàn toàn khỏi giải đấu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ka8V5tVYrwI/hqdefault.jpg" alt="HLE thi đấu tại chung kết nhánh thắng MSI 2026 trước khi thua BLG" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ka8V5tVYrwI/hqdefault.jpg" alt="HLE thi đấu tại chung kết nhánh thắng MSI 2026 trước khi thua BLG" loading="lazy" width="1280" height="720">
   <figcaption>HLE đã có cơ hội đối đầu trực tiếp với BLG trước đó tại chung kết nhánh thắng ngày 9/7. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Chính vì đã từng nếm trải thất bại trước BLG chỉ vài ngày t
 Giới chuyên môn nhận định, để có thể lật ngược tình thế trước BLG, ban huấn luyện HLE sẽ cần tạo ra những thay đổi đáng kể so với cách tiếp cận đã thất bại ở trận đấu trước, đặc biệt trong khâu cấm chọn tướng và chiến thuật đối phó với lối chơi kiểm soát bản đồ sở trường của đội tuyển LPL. Ngược lại, BLG với lợi thế tâm lý từ chiến thắng trước đó nhiều khả năng sẽ tiếp tục duy trì lối chơi đã chứng minh hiệu quả, đồng thời đề phòng những điều chỉnh bất ngờ mà HLE có thể tung ra trong trận đấu mang tính quyết định danh hiệu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xu43VZsxHs4/hqdefault.jpg" alt="Những pha giao tranh đáng chú ý giữa HLE và BLG tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xu43VZsxHs4/hqdefault.jpg" alt="Những pha giao tranh đáng chú ý giữa HLE và BLG tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Cả hai đội đều sở hữu đội hình với chiều sâu chiến thuật đáng gờm, hứa hẹn một trận chung kết tổng hấp dẫn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Giới chuyên môn nhận định, để có thể lật ngược tình thế t
 Ngoài yếu tố danh hiệu, kết quả trận chung kết tổng MSI 2026 còn mang ý nghĩa quan trọng đối với cục diện xếp hạng sức mạnh khu vực trước thềm Chung kết thế giới (Worlds) 2026 diễn ra vào cuối năm. Một chiến thắng của HLE sẽ càng củng cố vị thế của LCK sau khi khu vực này đã chắc chắn giành đủ 4 suất tham dự Worlds dựa trên thành tích tại MSI, trong khi chiến thắng của BLG sẽ tiếp tục khẳng định LPL là khu vực thống trị làng Liên Minh Huyền Thoại quốc tế trong năm 2026, nối dài chuỗi thành tích ấn tượng của các đại diện Trung Quốc trên đấu trường quốc tế những mùa giải gần đây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/o3r5Gmr93g0/hqdefault.jpg" alt="BLG thi đấu tự tin trên hành trình hướng tới chung kết tổng MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/o3r5Gmr93g0/hqdefault.jpg" alt="BLG thi đấu tự tin trên hành trình hướng tới chung kết tổng MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>BLG thể hiện phong độ ổn định xuyên suốt cả giải đấu, khẳng định vị thế ứng cử viên vô địch hàng đầu. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Về giao diện, HarmonyOS 7 chuyển sang một ngôn ngữ thiết kế khôn
 Đây là thay đổi thẩm mỹ lớn nhất của HarmonyOS trong vài thế hệ, đưa giao diện rời xa phong cách phẳng quen thuộc. Xu hướng dùng hiệu ứng chiều sâu và chất liệu giống kính cũng đang xuất hiện trên các hệ điều hành lớn khác, cho thấy một làn sóng làm mới giao diện chung của ngành. Người quan tâm so sánh có thể xem thêm các thay đổi giao diện và tính năng của [iOS 27](/articles/ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/7hae8lJWIzQ/maxresdefault.jpg" alt="Màn khóa không gian và giao diện mới của HarmonyOS 7" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7hae8lJWIzQ/maxresdefault.jpg" alt="Màn khóa không gian và giao diện mới của HarmonyOS 7" loading="lazy" width="1280" height="720">
   <figcaption>Màn khóa không gian là một trong những điểm nhấn thị giác của HarmonyOS 7. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Về giao diện, HarmonyOS 7 chuyển sang một ngôn ngữ thiết kế khôn
 Bên cạnh AI và giao diện, Huawei nhấn mạnh nâng cấp hiệu năng. Hãng công bố HarmonyOS 7 cho hiệu năng tổng thể cao hơn tới 15%, với app mở nhanh hơn, phản hồi nhạy hơn, chơi game tốt hơn và hoạt ảnh hệ thống mượt mà hơn. Đây là những cải thiện người dùng cảm nhận được hằng ngày, không chỉ nằm trên giấy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LacwBGMVQ9s/maxresdefault.jpg" alt="Huawei công bố HarmonyOS 7 tại HDC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LacwBGMVQ9s/maxresdefault.jpg" alt="Huawei công bố HarmonyOS 7 tại HDC 2026" loading="lazy" width="1280" height="720">
   <figcaption>HarmonyOS 7 được công bố tại sự kiện HDC 2026 của Huawei. Nguồn: YouTube</figcaption>
 </figure>
 
 Toàn bộ bản nâng cấp được Huawei tóm lược thành năm trụ cột, gồm tính toán không gian, trí tuệ, bảo mật, độ mượt và khả năng kết nối đa thiết bị. Trong đó, mảng bảo mật được bổ sung các tính năng chống lừa đảo, còn kết nối đa thiết bị tiếp tục là thế mạnh truyền thống của Huawei, giúp điện thoại, máy tính bảng, PC, thiết bị đeo và đồ gia dụng thông minh phối hợp mượt mà hơn trong cùng hệ sinh thái.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1i6g_5_KoDQ/maxresdefault.jpg" alt="Tổng quan các tính năng mới của HarmonyOS 7" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1i6g_5_KoDQ/maxresdefault.jpg" alt="Tổng quan các tính năng mới của HarmonyOS 7" loading="lazy" width="1280" height="720">
   <figcaption>HarmonyOS 7 nâng cấp theo năm trụ cột từ giao diện tới bảo mật. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ Toàn bộ bản nâng cấp được Huawei tóm lược thành năm trụ cộ
 Việc Huawei tự phát triển mô hình nền tảng riêng phản ánh chiến lược tự chủ công nghệ của hãng, trong bối cảnh chịu nhiều hạn chế từ bên ngoài. Kết hợp mô hình mạnh với hệ điều hành tự chủ và kho ứng dụng riêng, Huawei đang xây dựng một hệ sinh thái khép kín, độc lập với Android và các nền tảng phương Tây. Đây là canh bạc dài hơi nhưng cũng là hướng đi giúp hãng kiểm soát toàn bộ trải nghiệm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BD4p9VLomFo/maxresdefault.jpg" alt="Huawei giới thiệu HarmonyOS 7 tại Huawei Developer Conference 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BD4p9VLomFo/maxresdefault.jpg" alt="Huawei giới thiệu HarmonyOS 7 tại Huawei Developer Conference 2026" loading="lazy" width="1280" height="720">
   <figcaption>HarmonyOS 7 là một phần trong chiến lược hệ sinh thái tự chủ của Huawei. Nguồn: YouTube</figcaption>
 </figure>
 

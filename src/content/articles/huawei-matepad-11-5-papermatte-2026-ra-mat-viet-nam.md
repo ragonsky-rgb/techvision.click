@@ -76,7 +76,7 @@ Về thông số màn hình, MatePad 11.5 sở hữu kích thước 11.5 inch v�
 Bên trong, MatePad 11.5 2026 được trang bị chip Kirin, RAM 8GB và bộ nhớ trong 128 hoặc 256GB tùy phiên bản. Đây là cấu hình đủ đáp ứng tốt các tác vụ hằng ngày như lướt web, xem video, đọc tài liệu, ghi chú và làm việc văn phòng nhẹ. Máy chạy hệ điều hành HarmonyOS, hệ sinh thái riêng của Huawei với giao diện tối ưu cho máy tính bảng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SQy0SnlblSg/hqdefault.jpg" alt="Cấu hình cân bằng của Huawei MatePad 11.5 PaperMatte 2026 cho nhu cầu hằng ngày" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SQy0SnlblSg/hqdefault.jpg" alt="Cấu hình cân bằng của Huawei MatePad 11.5 PaperMatte 2026 cho nhu cầu hằng ngày" loading="lazy" width="1280" height="720">
   <figcaption>MatePad 11.5 cân bằng giữa hiệu năng, thời lượng pin và trải nghiệm màn hình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Một điểm cộng đáng kể là viên pin dung lượng 10.100mAh, đủ l�
 ## Giá bán và vị thế tại thị trường Việt Nam
 
 <figure>
-  <img src="https://i.ytimg.com/vi/QtNzFTNGPeQ/hqdefault.jpg" alt="Giá bán Huawei MatePad 11.5 PaperMatte 2026 tại Việt Nam dưới 10 triệu đồng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/QtNzFTNGPeQ/hqdefault.jpg" alt="Giá bán Huawei MatePad 11.5 PaperMatte 2026 tại Việt Nam dưới 10 triệu đồng" loading="lazy" width="1280" height="720">
   <figcaption>MatePad 11.5 định vị ở phân khúc dưới 10 triệu đồng đầy cạnh tranh. Nguồn: YouTube</figcaption>
 </figure>
 
 Tại Việt Nam, MatePad 11.5 PaperMatte 2026 được bán với mức giá dao động quanh mốc dưới 10 triệu đồng, từ khoảng 9,49 tới 10,49 triệu đồng tùy phiên bản bộ nhớ, thời điểm và hệ thống bán lẻ. Trong giai đoạn mở bán, nhiều nơi áp dụng giá ưu đãi cùng các phần quà kèm theo như gói bản quyền phần mềm văn phòng có công cụ AI, bút cảm ứng M-Pencil và chuột không dây, giúp tăng giá trị tổng thể cho người mua.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hqjNrqPE-QE/hqdefault.jpg" alt="Huawei MatePad 11.5 phù hợp cho ghi chú và viết tay nhờ màn hình PaperMatte" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hqjNrqPE-QE/hqdefault.jpg" alt="Huawei MatePad 11.5 phù hợp cho ghi chú và viết tay nhờ màn hình PaperMatte" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng ghi chú và viết tay là thế mạnh của MatePad 11.5 PaperMatte. Nguồn: YouTube</figcaption>
 </figure>
 

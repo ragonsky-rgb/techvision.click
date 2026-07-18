@@ -73,7 +73,7 @@ Phân khúc bàn phím gaming cao cấp tại Việt Nam tiếp tục sôi độ
 Về mặt hiệu năng kỹ thuật, Pulsar PCMK3 HE được trang bị polling rate thực lên tới 8.000Hz, tức bàn phím gửi tín hiệu tới máy tính tới 8.000 lần mỗi giây, giảm thiểu đáng kể độ trễ đầu vào so với các bàn phím thông thường chỉ đạt polling rate 1.000Hz. Kết hợp cùng tốc độ quét (scan rate) lên tới 35.000Hz, tức tốc độ bàn phím kiểm tra trạng thái của từng phím trong mỗi giây, sản phẩm mang lại khả năng phản hồi cực nhanh và chính xác, phù hợp với nhu cầu của game thủ thi đấu chuyên nghiệp lẫn người dùng phổ thông muốn trải nghiệm gõ phím tốt nhất có thể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xU4aWI_7bhQ/hqdefault.jpg" alt="Thiết kế và trải nghiệm sử dụng thực tế Pulsar PCMK3 HE" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xU4aWI_7bhQ/hqdefault.jpg" alt="Thiết kế và trải nghiệm sử dụng thực tế Pulsar PCMK3 HE" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế compact 60% giúp PCMK3 HE tiết kiệm không gian trên bàn làm việc mà vẫn đảm bảo đầy đủ chức năng cần thiết. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Người dùng có thể tuỳ chỉnh điểm kích hoạt của từng phím t
 Về mặt phần cứng, PCMK3 HE hỗ trợ switch từ tính có thể hoán đổi nóng (hot-swappable), tương thích với switch mang cả hai cực từ Bắc-Nam, cho phép người dùng dễ dàng thử nghiệm và thay đổi cảm giác gõ theo sở thích cá nhân mà không cần tới kỹ năng hàn mạch phức tạp. Bàn phím hiện có hai lựa chọn layout gồm phiên bản 60% nhỏ gọn, lược bỏ cụm phím số và các phím điều hướng riêng biệt để tối ưu không gian trên bàn làm việc, cùng phiên bản TKL (80%) giữ lại cụm phím chức năng F và các phím điều hướng nhưng vẫn bỏ cụm phím số bên phải.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/QhlUpLY8PQE/hqdefault.jpg" alt="Giới thiệu tổng quan các tính năng của Pulsar PCMK3 HE" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/QhlUpLY8PQE/hqdefault.jpg" alt="Giới thiệu tổng quan các tính năng của Pulsar PCMK3 HE" loading="lazy" width="1280" height="720">
   <figcaption>PCMK3 HE hướng tới nhóm game thủ thi đấu chuyên nghiệp cần độ chính xác và tốc độ phản hồi tối đa. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Về mặt hoàn thiện, sản phẩm sử dụng keycap chất liệu PBT doub
 ## Vị trí trong phân khúc bàn phím Hall Effect đang phát triển
 
 <figure>
-  <img src="https://i.ytimg.com/vi/amS0R0zsyQc/hqdefault.jpg" alt="So sánh Pulsar PCMK3 HE với các bàn phím Hall Effect khác cùng phân khúc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/amS0R0zsyQc/hqdefault.jpg" alt="So sánh Pulsar PCMK3 HE với các bàn phím Hall Effect khác cùng phân khúc" loading="lazy" width="1280" height="720">
   <figcaption>PCMK3 HE được đánh giá là một trong những lựa chọn bàn phím Hall Effect đáng chú ý nhất trong phân khúc hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 

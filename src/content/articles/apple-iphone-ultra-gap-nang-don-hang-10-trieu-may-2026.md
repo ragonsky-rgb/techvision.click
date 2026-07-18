@@ -78,7 +78,7 @@ Khác với các mẫu điện thoại gập vỏ sò phổ biến trên thị t
 Điểm nhấn kỹ thuật quan trọng nhất nằm ở bản lề. Apple được cho là đã theo đuổi mục tiêu loại bỏ hoàn toàn nếp gấp nhìn thấy được trên màn hình, bất kể chi phí, và phát triển một loại vật liệu bản lề mới dạng kim loại lỏng. Nếu thành công, đây sẽ là lợi thế cạnh tranh lớn so với các đối thủ Android vốn vẫn còn nếp gấp ít nhiều dù đã cải tiến qua nhiều thế hệ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/yMd91ijQICw/hqdefault.jpg" alt="Thiết kế bản lề kim loại lỏng trên iPhone Ultra gập" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yMd91ijQICw/hqdefault.jpg" alt="Thiết kế bản lề kim loại lỏng trên iPhone Ultra gập" loading="lazy" width="1280" height="720">
   <figcaption>Bản lề kim loại lỏng được kỳ vọng giúp iPhone Ultra gần như không còn nếp gấp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Thị trường điện thoại gập toàn cầu đã tồn tại nhiều năm 
 Một phần lý do có thể đến từ áp lực cạnh tranh. Trong khi Samsung, Huawei và nhiều hãng Trung Quốc đã tung ra nhiều thế hệ điện thoại gập và dần chiếm được lòng tin người dùng cao cấp, Apple đứng trước nguy cơ bị xem là chậm chân ở một phân khúc đang tăng trưởng nhanh, đặc biệt tại các thị trường như Trung Quốc và Hàn Quốc nơi điện thoại gập đã trở thành biểu tượng địa vị. Nâng sản lượng lên 10 triệu máy cũng đồng nghĩa Apple tin công nghệ đã đủ chín muồi để phục vụ số đông, chứ không chỉ nhóm khách hàng thử nghiệm sớm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/khefl5hYouM/hqdefault.jpg" alt="iPhone Ultra gập nhìn từ nhiều góc độ trong bản dựng rò rỉ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/khefl5hYouM/hqdefault.jpg" alt="iPhone Ultra gập nhìn từ nhiều góc độ trong bản dựng rò rỉ" loading="lazy" width="1280" height="720">
   <figcaption>Loạt hình ảnh rò rỉ cho thấy Apple đã hoàn thiện phần lớn thiết kế cuối cùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Mức giá khởi điểm được đồn đoán khoảng 2.500 USD, tương đ�
 Giới phân tích tài chính tỏ ra thận trọng hơn ban lãnh đạo Apple về khả năng tiêu thụ hết 10 triệu máy trong năm đầu, đặc biệt khi nền kinh tế toàn cầu vẫn chịu áp lực từ giá linh kiện tăng cao khiến giá bán lẻ nhiều thiết bị điện tử khác cũng đi lên theo, như đã phân tích trong bài viết về [giá laptop tăng tới 30% vì khủng hoảng RAM](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html). Nếu nhu cầu thực tế không theo kịp kỳ vọng, Apple hoàn toàn có thể điều chỉnh giảm đơn hàng trong các quý sau, một kịch bản không hiếm gặp với sản phẩm hoàn toàn mới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zsTlGuKwgSE/hqdefault.jpg" alt="Trải nghiệm thực tế bản dựng iPhone Ultra gập" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zsTlGuKwgSE/hqdefault.jpg" alt="Trải nghiệm thực tế bản dựng iPhone Ultra gập" loading="lazy" width="1280" height="720">
   <figcaption>Bản dựng thực tế cho thấy máy mỏng hơn kỳ vọng ban đầu của giới phân tích. Nguồn: YouTube</figcaption>
 </figure>
 

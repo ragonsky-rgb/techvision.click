@@ -76,7 +76,7 @@ Bên cạnh Siri, Apple mở rộng đáng kể Apple Intelligence trong iOS 27.
 Hướng đi này phản ánh xu thế chung của ngành, khi mọi nền tảng lớn đều tích hợp AI vào trải nghiệm cốt lõi. Cách Apple làm là nhấn mạnh quyền riêng tư và xử lý nhiều tác vụ ngay trên thiết bị, một điểm khác biệt so với các đối thủ thiên về xử lý đám mây. Để so sánh cách các hãng Android tiếp cận AI, có thể tham khảo bài [Samsung One UI 8.5 với Galaxy AI](/articles/samsung-one-ui-8-5-android-16-tinh-nang-galaxy-ai-moi-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Uhc2-a_y9x4/maxresdefault.jpg" alt="Siri AI ra mắt tại WWDC 2026 với khả năng hiểu ngữ cảnh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Uhc2-a_y9x4/maxresdefault.jpg" alt="Siri AI ra mắt tại WWDC 2026 với khả năng hiểu ngữ cảnh" loading="lazy" width="1280" height="720">
   <figcaption>Apple Intelligence mở rộng sang chỉnh ảnh và app Home. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Apple cho biết đã làm lại nền tảng tìm kiếm trên iOS, iPadOS và 
 Trong app Photos, iCloud shared albums nay hỗ trợ ảnh độ phân giải đầy đủ, và tính năng này còn được hỗ trợ trên cả Android và Windows. Đây là tín hiệu tích cực cho người dùng nền tảng chéo, vốn thường gặp bất tiện khi chia sẻ ảnh giữa hệ sinh thái Apple và các hệ điều hành khác. Việc mở rộng sang nền tảng khác cho thấy Apple muốn giảm rào cản chia sẻ dữ liệu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/B_lhQBgXOpQ/maxresdefault.jpg" alt="iOS 27 macOS 27 và Siri AI những cập nhật lớn nhất WWDC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/B_lhQBgXOpQ/maxresdefault.jpg" alt="iOS 27 macOS 27 và Siri AI những cập nhật lớn nhất WWDC 2026" loading="lazy" width="1280" height="720">
   <figcaption>Tìm kiếm Spotlight, Mail và Photos được xây lại trong iOS 27. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Apple nhấn mạnh nhiều cải thiện hiệu năng trong iOS 27. Hãng cho b
 Đáng chú ý, iOS 27 hỗ trợ toàn bộ máy từ iPhone 11 trở lên, một phạm vi rộng giúp nhiều người dùng đời cũ vẫn nhận được tính năng mới. Tuy vậy, một số tính năng Apple Intelligence nâng cao có thể yêu cầu chip mạnh hơn, nên trải nghiệm đầy đủ thường tốt nhất trên máy đời mới. Việc Apple đẩy mạnh AI trên thiết bị cũng đặt ra câu hỏi về tương lai của tìm kiếm và trợ lý, chủ đề được bàn trong bài [Google AI Mode thay đổi tìm kiếm](/articles/google-ai-mode-search-2026-tim-kiem-ai-thay-doi-lon-nhat-25-nam.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_lenwZbjKmI/maxresdefault.jpg" alt="Apple WWDC 2026 keynote Siri AI iOS 27 và macOS" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_lenwZbjKmI/maxresdefault.jpg" alt="Apple WWDC 2026 keynote Siri AI iOS 27 và macOS" loading="lazy" width="1280" height="720">
   <figcaption>iOS 27 hỗ trợ iPhone 11 trở lên với nhiều cải thiện hiệu năng. Nguồn: YouTube</figcaption>
 </figure>
 

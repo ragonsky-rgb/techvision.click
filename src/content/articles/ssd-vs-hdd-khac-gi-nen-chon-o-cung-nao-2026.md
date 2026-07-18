@@ -76,7 +76,7 @@ Về tốc độ, SSD vượt trội hoàn toàn. Một chiếc máy chạy SSD 
 Về độ bền, SSD an toàn hơn với dữ liệu khi di chuyển vì không có bộ phận cơ học dễ hỏng khi va đập. HDD nhạy cảm hơn với rung lắc, nên không lý tưởng cho người hay mang máy theo. Tuy nhiên, xét về giá và dung lượng, HDD vẫn thắng: cùng số tiền, HDD cho dung lượng lớn hơn nhiều, phù hợp khi cần lưu kho dữ liệu khổng lồ mà không quá quan trọng tốc độ truy cập.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XRn0QhOo2KY/maxresdefault.jpg" alt="Giải thích SSD và HDD khác gì nhau về cấu tạo và tốc độ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XRn0QhOo2KY/maxresdefault.jpg" alt="Giải thích SSD và HDD khác gì nhau về cấu tạo và tốc độ" loading="lazy" width="1280" height="720">
   <figcaption>SSD dùng chip nhớ, HDD dùng đĩa từ quay, dẫn tới khác biệt lớn về tốc độ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Không phải mọi SSD đều giống nhau. SSD SATA dùng chung giao tiếp v�
 Về hình thức, SSD phổ biến ở hai dạng: dạng 2,5 inch giống ổ cứng laptop truyền thống dùng cổng SATA, và dạng thanh M.2 nhỏ gọn cắm trực tiếp lên bo mạch, thường dùng cho NVMe. Trước khi mua, cần kiểm tra máy hỗ trợ chuẩn và khe cắm nào để chọn đúng loại. Với phần lớn laptop và PC đời mới, SSD NVMe M.2 là lựa chọn cho hiệu năng tốt nhất trong tầm giá.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/01b3XqkROBc/hqdefault.jpg" alt="Ổ cứng là gì và nhu cầu nào nên chọn SSD hay HDD" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/01b3XqkROBc/hqdefault.jpg" alt="Ổ cứng là gì và nhu cầu nào nên chọn SSD hay HDD" loading="lazy" width="1280" height="720">
   <figcaption>Chọn chuẩn SSD phù hợp giúp khai thác hết hiệu năng máy. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Với đa số người dùng, lời khuyên đơn giản là luôn cài hệ đ
 Khi cần nhiều dung lượng giá rẻ để lưu phim, ảnh, dữ liệu công việc hay bản sao lưu, có thể kết hợp thêm HDD trong máy bàn hoặc dùng ổ cứng di động. Game thủ thường cài game hay chơi lên SSD để giảm thời gian tải màn, còn các game ít chơi để trên HDD. Cách phối hợp này giúp cân bằng giữa tốc độ và chi phí. Sau khi đã có SSD, có thể tham khảo thêm [cách tăng tốc laptop Windows](/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html) để tối ưu toàn diện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/a3cVZUa1Tzk/maxresdefault.jpg" alt="Game thủ nên chọn SSD hay HDD đâu là lựa chọn tối ưu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/a3cVZUa1Tzk/maxresdefault.jpg" alt="Game thủ nên chọn SSD hay HDD đâu là lựa chọn tối ưu" loading="lazy" width="1280" height="720">
   <figcaption>Phối hợp SSD và HDD giúp cân bằng giữa tốc độ và dung lượng. Nguồn: YouTube</figcaption>
 </figure>
 

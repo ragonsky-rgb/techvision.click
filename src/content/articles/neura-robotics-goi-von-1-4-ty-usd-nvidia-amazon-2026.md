@@ -71,7 +71,7 @@ Theo công bố chính thức, vòng gọi vốn Series C của Neura Robotics c
 Bên cạnh các tên tuổi công nghệ Mỹ, vòng gọi vốn còn có sự tham gia của những tập đoàn công nghiệp hàng đầu châu Âu như Bosch và Schaeffler, hai doanh nghiệp có bề dày kinh nghiệm lâu năm trong lĩnh vực sản xuất linh kiện cơ khí chính xác và tự động hoá công nghiệp, cùng Ngân hàng Đầu tư châu Âu (European Investment Bank), tổ chức tài chính công thuộc Liên minh châu Âu. Sự góp mặt của các nhà đầu tư công nghiệp bản địa này cho thấy tham vọng của Neura Robotics không chỉ dừng lại ở việc huy động vốn tài chính đơn thuần, mà còn hướng tới xây dựng mối quan hệ hợp tác chiến lược sâu rộng với hệ sinh thái công nghiệp châu Âu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mXx2sRUzP8c/hqdefault.jpg" alt="Robot hình người 4NE1 thế hệ 3.5 của Neura Robotics tại CES 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mXx2sRUzP8c/hqdefault.jpg" alt="Robot hình người 4NE1 thế hệ 3.5 của Neura Robotics tại CES 2026" loading="lazy" width="1280" height="720">
   <figcaption>4NE1 thế hệ 3.5 là sản phẩm chủ lực giúp Neura Robotics thu hút sự chú ý của giới đầu tư toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,14 +82,14 @@ Về mặt sản phẩm, Neura Robotics hiện được biết đến rộng rã
 Một trong những sáng kiến đáng chú ý khác của Neura Robotics là việc mở cửa xưởng huấn luyện AI robot quy mô lớn đầu tiên trên thế giới tại Đức, nơi hàng trăm robot 4NE1 được huấn luyện thực hiện các tác vụ thực tế thông qua nền tảng mang tên Neuroverse. Cách tiếp cận này cho phép công ty thu thập lượng dữ liệu huấn luyện khổng lồ từ môi trường thực tế, một yếu tố được giới chuyên gia đánh giá là mang tính quyết định trong cuộc đua phát triển robot hình người toàn cầu hiện nay, khi khả năng học hỏi từ dữ liệu thực tế thường tạo ra khoảng cách lớn giữa các công ty dẫn đầu và phần còn lại của thị trường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/aWLz0HYobd8/hqdefault.jpg" alt="Xưởng huấn luyện AI robot của Neura Robotics tại Đức" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/aWLz0HYobd8/hqdefault.jpg" alt="Xưởng huấn luyện AI robot của Neura Robotics tại Đức" loading="lazy" width="1280" height="720">
   <figcaption>Xưởng huấn luyện AI robot quy mô lớn giúp Neura Robotics tích luỹ khối lượng dữ liệu thực tế khổng lồ. Nguồn: YouTube</figcaption>
 </figure>
 
 So với các đối thủ cạnh tranh khác trong lĩnh vực robot hình người như Figure AI của Mỹ, nơi [số lượng robot hình người triển khai thực tế thậm chí đã vượt qua số nhân viên của chính công ty](/articles/figure-ai-robot-dong-hon-nguoi-botq-2026.html), hay Boston Dynamics với hệ sinh thái robot đa dạng từ Atlas hình người tới [Spot bốn chân vừa được nâng cấp với Gemini Robotics-ER 1.6](/articles/boston-dynamics-spot-gemini-robotics-er-1-6-2026.html), Neura Robotics đang định vị mình là đại diện tiêu biểu của châu Âu trong cuộc đua công nghệ vốn từ trước tới nay chủ yếu do các công ty Mỹ và Trung Quốc dẫn dắt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/lkBVjEy7Ris/hqdefault.jpg" alt="Phân tích vòng gọi vốn Series C kỷ lục của Neura Robotics" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/lkBVjEy7Ris/hqdefault.jpg" alt="Phân tích vòng gọi vốn Series C kỷ lục của Neura Robotics" loading="lazy" width="1280" height="720">
   <figcaption>Giới phân tích công nghệ nhanh chóng chú ý tới quy mô vòng gọi vốn hiếm có này dành cho robot học châu Âu. Nguồn: YouTube</figcaption>
 </figure>
 

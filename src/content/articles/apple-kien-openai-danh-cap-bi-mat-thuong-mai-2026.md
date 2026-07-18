@@ -74,7 +74,7 @@ Cá nhân thứ hai bị nêu tên là Chang Liu, người từng làm kỹ sư 
 Con số gây chú ý nhất trong hồ sơ là hơn 400 cựu nhân viên Apple hiện đang làm việc tại OpenAI. Bản thân con số này không phải bằng chứng vi phạm, bởi nhân sự dịch chuyển giữa các hãng công nghệ lớn là chuyện thường ngày ở Thung lũng Silicon. Tuy nhiên Apple dùng nó để lập luận rằng OpenAI đã chủ đích rút ruột đội ngũ phần cứng của mình một cách có hệ thống, thay vì tuyển dụng ngẫu nhiên theo nhu cầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0tIGacdcXtw/hqdefault.jpg" alt="Biểu tượng Apple và OpenAI trong bối cảnh tranh chấp pháp lý" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0tIGacdcXtw/hqdefault.jpg" alt="Biểu tượng Apple và OpenAI trong bối cảnh tranh chấp pháp lý" loading="lazy" width="1280" height="720">
   <figcaption>Đơn kiện nhấn mạnh con số hơn 400 cựu nhân viên Apple đang đầu quân cho OpenAI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Con số gây chú ý nhất trong hồ sơ là hơn 400 cựu nhân viên Apple
 Để hiểu vì sao quan hệ hai bên xấu đi nhanh đến vậy, cần nhìn lại năm 2024 khi Apple và OpenAI bắt tay đưa ChatGPT vào trợ lý Siri. Thời điểm đó, đây được xem là cái bắt tay đôi bên cùng có lợi. Nhưng mối quan hệ nguội dần sau khi OpenAI mua lại startup phần cứng io của Jony Ive, cựu trưởng nhóm thiết kế huyền thoại của Apple, với giá khoảng 6,4 tỷ USD. Đáng chú ý, Jony Ive không phải là bị đơn trong vụ kiện này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_e9seGX5ptE/hqdefault.jpg" alt="OpenAI mở rộng sang mảng phần cứng tiêu dùng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_e9seGX5ptE/hqdefault.jpg" alt="OpenAI mở rộng sang mảng phần cứng tiêu dùng" loading="lazy" width="1280" height="720">
   <figcaption>Thương vụ thâu tóm startup io của Jony Ive đưa OpenAI vào thế cạnh tranh phần cứng với Apple. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Khi OpenAI công khai tham vọng tự làm thiết bị phần cứng tiêu dù
 OpenAI nhanh chóng bác bỏ toàn bộ cáo buộc. Người phát ngôn Drew Pusateri khẳng định công ty không có bất kỳ ý định nào trong việc sử dụng bí mật thương mại của các doanh nghiệp khác, gọi vụ kiện là đáng tiếc và tuyên bố sẽ phản bác tại tòa. Lập luận của OpenAI xoay quanh quan điểm rằng tuyển dụng nhân tài giỏi từ đối thủ là hoạt động cạnh tranh hợp pháp và phổ biến trong ngành.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/CagfcJgKSNM/hqdefault.jpg" alt="Cuộc chiến pháp lý giữa Apple và OpenAI thu hút sự chú ý của giới công nghệ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/CagfcJgKSNM/hqdefault.jpg" alt="Cuộc chiến pháp lý giữa Apple và OpenAI thu hút sự chú ý của giới công nghệ" loading="lazy" width="1280" height="720">
   <figcaption>OpenAI tuyên bố sẽ phản bác cáo buộc, cho rằng tuyển dụng nhân sự là cạnh tranh bình thường. Nguồn: YouTube</figcaption>
 </figure>
 

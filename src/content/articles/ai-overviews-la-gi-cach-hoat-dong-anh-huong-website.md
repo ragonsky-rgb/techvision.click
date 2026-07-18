@@ -64,7 +64,7 @@ AI Overviews là bản tóm tắt do trí tuệ nhân tạo tạo ra, hiển th�
 Mục tiêu của Google là giúp người dùng có câu trả lời nhanh hơn mà không phải mở nhiều trang. Tuy nhiên, chính sự tiện lợi đó lại làm thay đổi sâu sắc cách lưu lượng truy cập chảy về các website, một vấn đề ngày càng được giới làm nội dung và cơ quan quản lý quan tâm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/VX2PMkdlWn0/hqdefault.jpg" alt="Phân biệt Google AI Overviews và Featured Snippets" loading="lazy" width="480" height="360">
+  <img decoding="async" src="https://i.ytimg.com/vi/VX2PMkdlWn0/hqdefault.jpg" alt="Phân biệt Google AI Overviews và Featured Snippets" loading="lazy" width="480" height="360">
   <figcaption>AI Overviews tổng hợp nhiều nguồn, khác với Featured Snippets trích một trang. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Tác động lên lưu lượng truy cập là phần gây tranh luận nhất. 
 Tuy nhiên, bức tranh không hoàn toàn tiêu cực. Một số phân tích cho thấy dù lượng truy cập giảm, nhóm người dùng đến từ tìm kiếm có AI lại có chất lượng cao hơn: ở lại lâu hơn và chuyển đổi tốt hơn. Nói cách khác, website mất đi lượng truy cập tò mò nhưng giữ lại nhóm thực sự quan tâm. Xu hướng siết và định hình lại tìm kiếm AI cũng gắn với những thay đổi lớn được Google công bố, tổng hợp trong [Google I/O 2026 recap: Gemini Omni, Android XR, Search AI mới](/articles/google-io-2026-recap-gemini-omni-android-xr.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/a8USvaC1WR8/maxresdefault.jpg" alt="Cách để Google và AI hiểu nội dung theo chuẩn AI Overview" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/a8USvaC1WR8/maxresdefault.jpg" alt="Cách để Google và AI hiểu nội dung theo chuẩn AI Overview" loading="lazy" width="1280" height="720">
   <figcaption>Nội dung có cấu trúc rõ và dẫn nguồn dễ được AI chọn làm tham chiếu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Việc tối ưu nội dung cho AI Overviews thường được gọi là GEO, t
 Bên cạnh đó, cấu trúc dữ liệu schema, các đoạn văn ngắn gọn dễ trích và tiêu đề dạng câu hỏi đều giúp AI nhận diện nội dung nhanh hơn. Đây cũng là cách tiếp cận an toàn trong bối cảnh chính sách AI biến động liên tục, từ tranh chấp bản quyền tới kiểm soát mô hình như vụ [Claude Fable 5 bị chặn vì lý do an ninh quốc gia](/articles/claude-fable-5-bi-chan-my-ra-lenh-cam-anthropic-go-toan-cau.html). Khi AI ngày càng đứng giữa người dùng và nội dung, việc được trích dẫn đúng cách trở thành kỹ năng sống còn cho mọi website.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/PmKPtCUZlCE/maxresdefault.jpg" alt="Hướng dẫn đầy đủ về AI SEO năm 2026 gồm AEO GEO LLMO" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PmKPtCUZlCE/maxresdefault.jpg" alt="Hướng dẫn đầy đủ về AI SEO năm 2026 gồm AEO GEO LLMO" loading="lazy" width="1280" height="720">
   <figcaption>GEO và AI SEO trở thành hướng tối ưu mới bên cạnh SEO truyền thống. Nguồn: YouTube</figcaption>
 </figure>
 

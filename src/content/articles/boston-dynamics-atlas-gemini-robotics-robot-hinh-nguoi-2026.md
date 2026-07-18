@@ -64,7 +64,7 @@ Tại CES 2026 ở Las Vegas, Boston Dynamics và Google DeepMind công bố k�
 Ý tưởng cốt lõi là tách bạch hai bài toán vốn rất khó: điều khiển cơ thể và ra quyết định. Boston Dynamics đã giải gần như trọn vẹn bài toán cơ thể qua nhiều năm. Việc còn lại, để robot tự hiểu nhiệm vụ và lập kế hoạch, là thứ mô hình nền AI làm tốt. Khi ghép hai mảnh, Atlas có cơ hội bước ra khỏi phòng thí nghiệm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3aQWvdCac9o/maxresdefault.jpg" alt="Robot Atlas của Boston Dynamics thực hiện tác vụ lấy đồ vật" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3aQWvdCac9o/maxresdefault.jpg" alt="Robot Atlas của Boston Dynamics thực hiện tác vụ lấy đồ vật" loading="lazy" width="1280" height="720">
   <figcaption>Atlas thực hiện tác vụ thao tác vật thể, nền tảng cho công việc thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Atlas mới chuyển sang chạy điện hoàn toàn, thay cho hệ thống th�
 Nhưng khác biệt lớn nhất không nằm ở cơ khí mà ở bộ não. Trước đây, mỗi màn trình diễn ấn tượng của Atlas đều dựa trên kịch bản và lập trình tỉ mỉ. Với Gemini Robotics, mục tiêu là robot tự xoay xở trước các tình huống chưa từng gặp, điều kiện bắt buộc để làm việc trong môi trường công nghiệp luôn thay đổi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/I44_zbEwz_w/maxresdefault.jpg" alt="Atlas của Boston Dynamics đi, chạy và bò linh hoạt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/I44_zbEwz_w/maxresdefault.jpg" alt="Atlas của Boston Dynamics đi, chạy và bò linh hoạt" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng vận động của Atlas là nền tảng để gắn bộ não AI lên trên. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Boston Dynamics cho biết bắt đầu sản xuất Atlas mới ngay tại tr�
 Ứng dụng ban đầu tập trung vào các tác vụ công nghiệp lặp lại và nặng nhọc trong dây chuyền sản xuất. Đây là môi trường lý tưởng để kiểm chứng robot hình người: có cấu trúc rõ ràng nhưng vẫn đủ biến động để thử thách khả năng tự ra quyết định của AI.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ikZeU3wKVjM/maxresdefault.jpg" alt="Gemini Robotics phát triển thế hệ robot hình người mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ikZeU3wKVjM/maxresdefault.jpg" alt="Gemini Robotics phát triển thế hệ robot hình người mới" loading="lazy" width="1280" height="720">
   <figcaption>Gemini Robotics hướng tới đưa mô hình nền vào nhiều dòng robot hình người. Nguồn: YouTube</figcaption>
 </figure>
 

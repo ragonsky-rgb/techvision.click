@@ -76,7 +76,7 @@ Viên pin 8500mAh là một trong những điểm nhấn lớn nhất của K90 
 Đi cùng pin lớn là sạc nhanh có dây 100W, giúp rút ngắn đáng kể thời gian nạp đầy dù dung lượng cao. Sự kết hợp giữa pin khủng, sạc nhanh và quạt tản nhiệt cho thấy Redmi tập trung giải quyết đúng các điểm đau của người dùng nặng: hết pin nhanh, sạc lâu và máy nóng khi chơi game. Nếu các thông số này được xác nhận, K90 Ultra sẽ là lựa chọn hấp dẫn trong phân khúc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/50NLXeLfHtg/maxresdefault.jpg" alt="Redmi K90 với màn 165Hz và pin dung lượng lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/50NLXeLfHtg/maxresdefault.jpg" alt="Redmi K90 với màn 165Hz và pin dung lượng lớn" loading="lazy" width="1280" height="720">
   <figcaption>Dòng K90 gây chú ý với pin dung lượng lớn và màn tần số quét cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Ngoài bộ ba hiệu năng, pin và tản nhiệt, Redmi K90 Ultra còn đượ
 Về giá, các nguồn rò rỉ cho biết mức khởi điểm dự kiến quanh 2.799 tới 3.000 nhân dân tệ, tương đương khoảng 10,8 tới 11,7 triệu đồng khi quy đổi. Nếu đúng, đây là mức giá rất cạnh tranh cho một máy cấu hình mạnh như vậy, đúng với định hướng hiệu năng cao giá hợp lý quen thuộc của dòng Redmi K. Cần lưu ý giá tại Việt Nam, nếu máy về chính hãng, thường cao hơn giá quy đổi do thuế và phí.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/p7oGS18dElk/maxresdefault.jpg" alt="Redmi K90 Pro Max với chip Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/p7oGS18dElk/maxresdefault.jpg" alt="Redmi K90 Pro Max với chip Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
   <figcaption>Dòng K90 được trang bị nhiều tính năng cao cấp ngoài hiệu năng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Redmi K90 Ultra bước vào một thị trường điện thoại Android cạn
 So với các máy như Oppo Find X10 Pro thiên về nhiếp ảnh, K90 Ultra hướng rõ tới game thủ và người dùng cần hiệu năng thô cùng thời lượng pin, thay vì camera đỉnh cao. Đây là chiến lược phân khúc quen thuộc và hiệu quả của Redmi, nhắm tới nhóm khách hàng trẻ, mê game và nhạy cảm về giá. Người quan tâm có thể tham khảo thêm một đối thủ Android cao cấp khác trong bài [Oppo Find X10 Pro](/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/--8Qfciwej0/hq720.jpg" alt="Thông tin rò rỉ dòng Redmi K90 với pin lớn và sạc nhanh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/--8Qfciwej0/hq720.jpg" alt="Thông tin rò rỉ dòng Redmi K90 với pin lớn và sạc nhanh" loading="lazy" width="1280" height="720">
   <figcaption>Pin lớn và sạc nhanh đang là xu hướng trên flagship Android. Nguồn: YouTube</figcaption>
 </figure>
 

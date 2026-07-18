@@ -68,7 +68,7 @@ Agras T55 được DJI thiết kế như một cỗ máy đa năng, có thể đ
 Điểm nâng cấp kỹ thuật đáng chú ý nhất trên Agras T55 là radar sóng milimet hoàn toàn mới, có khả năng tạo ra tới 250.000 điểm dữ liệu đám mây mỗi giây, mang lại cái nhìn chi tiết hơn hẳn về địa hình và chướng ngại vật xung quanh so với thế hệ cảm biến trước đây. Khả năng này đặc biệt quan trọng khi flycam cần bay ở độ cao thấp, gần sát cây trồng và mặt đất trong quá trình phun thuốc, giúp giảm thiểu rủi ro va chạm và tăng độ chính xác khi rải thuốc trên diện tích canh tác không bằng phẳng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/igpsTovptJg/hqdefault.jpg" alt="Gioi thieu DJI Agras T100 flycam nong nghiep tai trong lon" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/igpsTovptJg/hqdefault.jpg" alt="Gioi thieu DJI Agras T100 flycam nong nghiep tai trong lon" loading="lazy" width="1280" height="480">
   <figcaption>DJI Agras T100 được quảng bá với khẩu hiệu drone lớn cho công việc lớn, phù hợp nông trại quy mô công nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Sự ra mắt liên tục của các dòng flycam nông nghiệp mới từ DJI 
 Với ngành nông nghiệp Việt Nam, DJI đã phân phối các dòng flycam Agras qua nhiều năm và được nhiều hợp tác xã, trang trại lớn sử dụng để phun thuốc bảo vệ thực vật, giúp tiết kiệm đáng kể thời gian và nhân lực so với phương pháp phun thủ công truyền thống. Tuy nhiên, các mẫu mới nhất như T55 và T100 Dual Battery có thể cần thêm thời gian để được đại lý chính thức nhập khẩu và phân phối rộng rãi tại thị trường trong nước, các hợp tác xã và trang trại quan tâm nên liên hệ trực tiếp đại lý DJI Agriculture tại Việt Nam để cập nhật thông tin phân phối và giá bán cụ thể. Người quan tâm tới flycam giải trí cũng có thể tham khảo thêm [top flycam đáng mua tháng 7/2026](/articles/top-flycam-dang-mua-thang-7-2026.html) cho nhu cầu quay phim cá nhân khác biệt với dòng flycam nông nghiệp chuyên dụng này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/HsHXp8uC9YE/mqdefault.jpg" alt="DJI Agras T55 phun thuoc bao ve thuc vat cho nong trai" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/HsHXp8uC9YE/mqdefault.jpg" alt="DJI Agras T55 phun thuoc bao ve thuc vat cho nong trai" loading="lazy" width="1280" height="480">
   <figcaption>DJI Agras T55 giúp nông dân phun thuốc bảo vệ thực vật nhanh chóng, an toàn hơn phương pháp thủ công. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài hai mẫu chủ lực kể trên, DJI cũng đã công bố song song dòng T70P và T25P trong cùng thế hệ Agras mới, mở rộng thêm lựa chọn cho nông dân tùy theo quy mô diện tích canh tác cụ thể. Việc DJI liên tục ra mắt nhiều phân khúc sản phẩm trong cùng một dòng flycam nông nghiệp cho thấy hãng đang đầu tư nghiêm túc vào mảng kinh doanh này, xem đây là hướng phát triển dài hạn bên cạnh mảng flycam quay phim tiêu dùng vốn đã bão hòa hơn tại nhiều thị trường lớn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/igpsTovptJg/mqdefault.jpg" alt="DJI Agras T100 danh cho nong trai quy mo cong nghiep lon" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/igpsTovptJg/mqdefault.jpg" alt="DJI Agras T100 danh cho nong trai quy mo cong nghiep lon" loading="lazy" width="1280" height="480">
   <figcaption>DJI Agras T100 hướng tới các nông trại thương mại quy mô công nghiệp cần tối ưu năng suất công việc. Nguồn: YouTube</figcaption>
 </figure>
 

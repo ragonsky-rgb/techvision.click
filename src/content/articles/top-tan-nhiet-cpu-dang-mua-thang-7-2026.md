@@ -70,7 +70,7 @@ Với người mới xây dựng máy tính lần đầu, tản khí tầm trung
 Ở phân khúc tầm trung, tản nước AIO 240mm là lựa chọn nổi bật, phù hợp người dùng có CPU tầm trung tới khá cao, cần cân bằng giữa hiệu năng tản nhiệt và chi phí. Kích thước radiator 240mm đủ lớn để xử lý tốt các CPU công suất TDP cao hơn tản khí thông thường, đồng thời vẫn vừa với hầu hết case gaming tầm trung hiện nay mà không cần đầu tư tới mức AIO cao cấp nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/skq5k2Tl4jI/hqdefault.jpg" alt="Huong dan mua tan nhiet CPU tong quan cac loai" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/skq5k2Tl4jI/hqdefault.jpg" alt="Huong dan mua tan nhiet CPU tong quan cac loai" loading="lazy" width="1280" height="480">
   <figcaption>Tổng quan các loại tản nhiệt CPU giúp người dùng dễ dàng chọn được sản phẩm phù hợp khi nâng cấp máy tính. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,14 +79,14 @@ Với người mới xây dựng máy tính lần đầu, tản khí tầm trung
 Với nhu cầu CPU hiệu năng cao nhất, tản nước AIO 360mm là lựa chọn đáng đầu tư nhất, đảm bảo xung nhịp ổn định ngay cả khi xử lý các tác vụ nặng liên tục như dựng phim, chạy mô hình AI cục bộ hoặc chơi game AAA ở cường độ cao trong thời gian dài. Kích thước radiator lớn hơn giúp tản nhiệt hiệu quả hơn đáng kể so với AIO 240mm, dù đòi hỏi case máy tính phải đủ không gian lắp đặt phù hợp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/R5GhNnLVUrw/hqdefault.jpg" alt="Cach chon tan khi CPU kich thuoc phu hop cao cap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/R5GhNnLVUrw/hqdefault.jpg" alt="Cach chon tan khi CPU kich thuoc phu hop cao cap" loading="lazy" width="1280" height="480">
   <figcaption>Hướng dẫn chi tiết cách chọn tản nhiệt CPU cao cấp phù hợp với hệ thống hiệu năng cao. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài kích thước radiator, người dùng ở phân khúc cao cấp cũng nên chú ý tới chất lượng quạt đi kèm, vì các dòng AIO 360mm thường trang bị 3 quạt cùng lúc, đòi hỏi bo mạch chủ và bộ nguồn có đủ số cổng cấp điện cùng công suất dự phòng cần thiết để vận hành ổn định lâu dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ngEVC355Cvc/hqdefault.jpg" alt="Huong dan mua tan nhiet CPU cao cap cho creator" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ngEVC355Cvc/hqdefault.jpg" alt="Huong dan mua tan nhiet CPU cao cap cho creator" loading="lazy" width="1280" height="480">
   <figcaption>Hướng dẫn chọn tản nhiệt CPU cao cấp phù hợp cho người dùng chuyên nghiệp cần hiệu năng xử lý tối đa. Nguồn: YouTube</figcaption>
 </figure>
 

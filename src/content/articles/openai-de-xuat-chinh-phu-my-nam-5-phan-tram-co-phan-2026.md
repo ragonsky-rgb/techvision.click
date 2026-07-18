@@ -66,7 +66,7 @@ Theo mức định giá gần nhất 852 tỷ USD của OpenAI, 5% cổ phần �
 Đây là kết quả sau hơn một năm đàm phán về khả năng chính phủ Mỹ nắm giữ cổ phần trong OpenAI, với Sam Altman được cho là đã lần đầu đề xuất ý tưởng này trực tiếp với chính quyền Trump từ đầu năm 2025, cho thấy đây không phải là một quyết định bộc phát mà là kết quả của quá trình vận động chính sách kéo dài nhiều tháng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tgsWXj_mTR0/hqdefault.jpg" alt="OpenAI de xuat co phan chinh phu My phan tich 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/tgsWXj_mTR0/hqdefault.jpg" alt="OpenAI de xuat co phan chinh phu My phan tich 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều kênh tin tức quốc tế bằng tiếng Tây Ban Nha và các ngôn ngữ khác cũng đưa tin về đề xuất này. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Theo mức định giá gần nhất 852 tỷ USD của OpenAI, 5% cổ phần �
 Động thái này diễn ra trong bối cảnh áp lực đang gia tăng đáng kể lên các công ty AI lớn của Mỹ, khi Washington ngày càng lo ngại về các lỗ hổng an ninh mạng liên quan tới mô hình AI của những công ty này, cùng sự cạnh tranh ngày càng gay gắt từ các mô hình mã nguồn mở của Trung Quốc, vốn đang chứng minh khả năng gần tương đương nhưng chi phí rẻ hơn đáng kể so với một số mô hình hàng đầu của Mỹ hiện nay. Việc trao cổ phần cho chính phủ được xem là "đồng tiền" mà Altman sử dụng để mua lấy thiện chí từ chính quyền, thay vì chỉ đơn thuần vận động hành lang theo cách truyền thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WWLe-6SRvXk/hqdefault.jpg" alt="OpenAI can nhac de xuat co phan chinh phu My AFP 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WWLe-6SRvXk/hqdefault.jpg" alt="OpenAI can nhac de xuat co phan chinh phu My AFP 2026" loading="lazy" width="1280" height="480">
   <figcaption>Các hãng thông tấn quốc tế lớn như AFP cũng nhanh chóng đưa tin về đề xuất chưa từng có tiền lệ này. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Hiện tại, đề xuất vẫn đang ở giai đoạn đầu và nhiều khả
 Với người quan tâm tới các diễn biến khác trong ngành công nghiệp AI, bài viết [Claude Fable 5, Mythos: model mạnh nhất Anthropic](/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html) giới thiệu thêm về đối thủ cạnh tranh trực tiếp của OpenAI cũng được nhắc tới trong đề xuất cổ phần này. Người quan tâm tới xu hướng IPO của các công ty AI lớn cũng có thể tham khảo bài viết [Anthropic, OpenAI nộp hồ sơ IPO: làn sóng Giga IPO AI](/articles/anthropic-openai-nop-ho-so-ipo-2026-lan-song-giga-ipo-ai.html) để có cái nhìn toàn diện hơn về các động thái tài chính lớn của ngành công nghiệp AI trong năm 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WWLe-6SRvXk/mqdefault.jpg" alt="OpenAI Sam Altman de xuat co phan chinh phu phan tich sau 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WWLe-6SRvXk/mqdefault.jpg" alt="OpenAI Sam Altman de xuat co phan chinh phu phan tich sau 2026" loading="lazy" width="1280" height="480">
   <figcaption>Đề xuất của Sam Altman được xem là một trong những nước cờ chính trị táo bạo nhất của ngành công nghiệp AI. Nguồn: YouTube</figcaption>
 </figure>
 

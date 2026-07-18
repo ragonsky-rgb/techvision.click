@@ -76,7 +76,7 @@ Bên cạnh mô hình ngôn ngữ, xAI cũng đẩy mạnh mảng tạo nội du
 Ở mảng năng suất, xAI giới thiệu Grok cho Microsoft Word, một tiện ích miễn phí cho Microsoft 365. Công cụ này biến ghi chú thành văn bản hoàn chỉnh, viết lại nội dung cho rõ ràng, và đưa thông tin nghiên cứu từ web cùng dữ liệu từ nền tảng X vào tài liệu Word. Việc tích hợp trực tiếp vào ứng dụng văn phòng quen thuộc giúp người dùng tận dụng AI ngay trong quy trình làm việc, tương tự cách các trợ lý khác đang làm với bộ ứng dụng văn phòng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/MuF6Bg0ngs0/maxresdefault.jpg" alt="xAI Grok mô hình AI mạnh nhất của Elon Musk năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/MuF6Bg0ngs0/maxresdefault.jpg" alt="xAI Grok mô hình AI mạnh nhất của Elon Musk năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>xAI mở rộng Grok sang tạo video và ứng dụng văn phòng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh mô hình ngôn ngữ, xAI cũng đẩy mạnh mảng tạo nội du
 Tuy nhiên, cần lưu ý tên gọi chính thức và thời điểm phát hành cụ thể của mô hình này vẫn còn được nhắc tới theo nhiều cách khác nhau và chưa được xAI công bố thống nhất. Như thường thấy trong lĩnh vực AI, các con số về tham số và mốc thời gian mang tính định hướng, nên người dùng nên chờ thông báo chính thức và các bài đánh giá độc lập để có cái nhìn chính xác về năng lực thực tế, thay vì chỉ dựa vào con số quy mô.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jev8--FbvBg/maxresdefault.jpg" alt="Mô hình Grok mới của xAI với quy mô tham số lớn hơn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jev8--FbvBg/maxresdefault.jpg" alt="Mô hình Grok mới của xAI với quy mô tham số lớn hơn" loading="lazy" width="1280" height="720">
   <figcaption>Mô hình nền mới được cho là lớn gấp ba lần bản hiện tại. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Loạt cập nhật cho thấy xAI không chỉ tập trung vào việc làm mô
 Chiến lược này đặt xAI vào thế cạnh tranh trực tiếp với các đối thủ lớn, vốn cũng đang tích hợp AI vào mọi sản phẩm. Lợi thế riêng của Grok là gắn với nền tảng X và kho dữ liệu thời gian thực từ đó, có thể tạo khác biệt ở các tác vụ cần thông tin cập nhật. Cuộc đua giữa các trợ lý AI ngày càng nóng, và người hưởng lợi cuối cùng thường là người dùng khi chất lượng tăng và lựa chọn đa dạng hơn. Bức tranh này có thể đặt cạnh các cập nhật của [ChatGPT](/articles/chatgpt-cap-nhat-thang-6-2026-tac-vu-hen-gio-phat-am-ca-nhan-hoa.html) và [Gemini 3.5 Pro](/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html) để thấy nhịp độ chung của ngành.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zexcKJYQooU/maxresdefault.jpg" alt="Elon Musk và xAI cạnh tranh với OpenAI trong cuộc đua AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zexcKJYQooU/maxresdefault.jpg" alt="Elon Musk và xAI cạnh tranh với OpenAI trong cuộc đua AI" loading="lazy" width="1280" height="720">
   <figcaption>xAI đưa Grok hiện diện ở nhiều nền tảng để cạnh tranh. Nguồn: YouTube</figcaption>
 </figure>
 

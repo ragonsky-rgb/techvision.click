@@ -74,7 +74,7 @@ Cách tiếp cận này giúp IBM nhồi nhiều transistor hơn trên cùng m�
 Theo công bố từ IBM, chip Nanostack 0.7nm nhồi được gần 100 tỷ transistor trên diện tích chỉ cỡ đầu ngón tay, gần gấp đôi mật độ so với chip node 2nm mà hãng từng công bố vào năm 2021. Về hiệu năng, node mới mang lại cải thiện đáng kể, lên tới 50% nhanh hơn hoặc tiết kiệm tới 70% năng lượng so với thế hệ 2nm hiện tại, tùy theo cách cấu hình. Ngoài ra, diện tích bộ nhớ SRAM trên chip cũng giảm khoảng 40%, giúp tiết kiệm không gian cho các thành phần khác.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zKBpwjEtwYs/hqdefault.jpg" alt="Chip Nanostack 0.7nm nhoi gan 100 ty transistor" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zKBpwjEtwYs/hqdefault.jpg" alt="Chip Nanostack 0.7nm nhoi gan 100 ty transistor" loading="lazy" width="1280" height="480">
   <figcaption>Nanostack nhồi gần 100 tỷ transistor trên diện tích cỡ đầu ngón tay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Mức cải thiện hiệu năng và năng lượng này có ý nghĩa đặc bi
 Một điểm quan trọng cần lưu ý là Nanostack hiện tại vẫn chỉ là bản trình diễn công nghệ (technology demonstration), chứng minh hướng phát triển này khả thi về mặt kỹ thuật, chứ chưa phải sản phẩm có thể đưa ra thị trường ngay. IBM ước tính cần khoảng 5 năm nghiên cứu, phát triển và hợp tác với các đối tác sản xuất để hoàn thiện quy trình, đặt mục tiêu sản xuất thương mại vào khoảng năm 2031.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zKBpwjEtwYs/mqdefault.jpg" alt="IBM Nanostack chua phai san pham thuong mai can 5 nam phat trien" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zKBpwjEtwYs/mqdefault.jpg" alt="IBM Nanostack chua phai san pham thuong mai can 5 nam phat trien" loading="lazy" width="1280" height="480">
   <figcaption>IBM ước tính cần khoảng 5 năm để đưa Nanostack vào sản xuất thương mại. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Việc IBM công bố Nanostack diễn ra trong bối cảnh cuộc đua bán d�
 Đối với người dùng cuối, công bố này chưa mang lại thay đổi trực tiếp ngay lập tức, nhưng là tín hiệu rõ ràng cho thấy ngành bán dẫn vẫn còn nhiều dư địa để tiếp tục đổi mới trong cả thập kỷ tới, thay vì chạm trần công nghệ như nhiều người từng lo ngại. Nếu Nanostack được thương mại hóa thành công, các thiết bị từ máy chủ AI, smartphone tới laptop trong tương lai đều có thể hưởng lợi từ hiệu năng cao hơn và thời lượng pin tốt hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zKBpwjEtwYs/hq720.jpg" alt="Cuoc dua ban dan toan cau cong nghe chip the he moi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zKBpwjEtwYs/hq720.jpg" alt="Cuoc dua ban dan toan cau cong nghe chip the he moi" loading="lazy" width="1280" height="480">
   <figcaption>Cuộc đua bán dẫn toàn cầu tiếp tục nóng lên với các công bố công nghệ chip mới. Nguồn: YouTube</figcaption>
 </figure>
 

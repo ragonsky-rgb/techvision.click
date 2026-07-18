@@ -66,7 +66,7 @@ Wooting 80HE tiếp tục khẳng định vị thế bàn phím Hall Effect hàn
 Bàn phím còn hỗ trợ tốc độ polling lên tới 8KHz, đồng nghĩa dữ liệu từ mỗi phím được gửi tới máy tính 8.000 lần mỗi giây, giúp độ trễ đầu vào giảm xuống chỉ còn khoảng 0,125ms, thuộc hàng thấp nhất trong các bàn phím gaming hiện có trên thị trường, mang lại lợi thế thực sự trong các tình huống thi đấu đòi hỏi phản xạ cực nhanh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gt5ujog-uTI/hqdefault.jpg" alt="Wooting 80HE mo hop va kiem tra am thanh go phim" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/gt5ujog-uTI/hqdefault.jpg" alt="Wooting 80HE mo hop va kiem tra am thanh go phim" loading="lazy" width="1280" height="480">
   <figcaption>Video mở hộp nhanh và kiểm tra âm thanh gõ phím trên Wooting 80HE. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Bàn phím còn hỗ trợ tốc độ polling lên tới 8KHz, đồng nghĩa d
 Theo dữ liệu thống kê từ ProSettings.net, tính tới đầu năm 2026 đã có tới 306 tuyển thủ chuyên nghiệp trên nhiều tựa game esports lớn như CS2, Valorant, Fortnite, Rainbow Six Siege và Apex Legends sử dụng Wooting 80HE làm bàn phím chính trong thi đấu, con số này đưa Wooting 80HE trở thành lựa chọn phổ biến hàng đầu trong giới esports chuyên nghiệp, vượt qua cả những cái tên từng quen thuộc hơn như Apex Pro TKL của SteelSeries.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/EBu145gGdc0/hqdefault.jpg" alt="Wooting 80HE danh gia toan dien tot nhat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/EBu145gGdc0/hqdefault.jpg" alt="Wooting 80HE danh gia toan dien tot nhat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá toàn diện Wooting 80HE, lý giải vì sao đây được xem là bàn phím gaming tốt nhất năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Wooting 80HE có giá khoảng 195 USD cho phiên bản khung nhựa tiêu chu�
 Nhược điểm đáng lưu ý nhất của Wooting 80HE là chỉ hỗ trợ kết nối có dây, không có tùy chọn không dây như một số đối thủ cao cấp khác, đồng thời phiên bản khung nhựa tiêu chuẩn có độ hoàn thiện chưa bằng các dòng bàn phím khung kim loại nguyên khối cùng tầm giá. Với người dùng ưu tiên tuyệt đối độ trễ thấp và khả năng tùy chỉnh sâu hơn là tính di động không dây, đây vẫn là lựa chọn hàng đầu đáng cân nhắc trong năm 2026. Ngoài bàn phím, người dùng xây dựng combo gaming đầy đủ cũng có thể tham khảo thêm [Logitech G3 Series với chuột và bàn phím gaming mới](/articles/logitech-g3-series-g305x-g316x-chuot-ban-phim-gaming-2026.html) để hoàn thiện bộ thiết bị ngoại vi thi đấu chuyên nghiệp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mbqo9sGBssU/hqdefault.jpg" alt="Wooting 80HE Tenz Takeover quick review go phim" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mbqo9sGBssU/hqdefault.jpg" alt="Wooting 80HE Tenz Takeover quick review go phim" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá nhanh phiên bản Wooting 80HE TenZ Takeover, tập trung vào cảm giác gõ phím và độ chính xác kích hoạt. Nguồn: YouTube</figcaption>
 </figure>
 

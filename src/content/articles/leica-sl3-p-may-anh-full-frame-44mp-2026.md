@@ -69,14 +69,14 @@ Máy sử dụng ngàm ống kính Leica L mount, tương thích với hệ sinh
 Bên cạnh cảm biến mới, điểm nâng cấp đáng chú ý khác trên SL3-P là hệ thống lấy nét tự động (AF) được cải thiện rõ rệt so với SL3-S, một trong những điểm yếu thường bị phàn nàn trên các thế hệ máy ảnh Leica dòng SL trước đây so với đối thủ cạnh tranh. Nhiều bài đánh giá độc lập từ các kênh nhiếp ảnh chuyên nghiệp quốc tế đồng loạt nhận định đây là chiếc máy ảnh dòng SL toàn diện nhất mà Leica từng sản xuất, cân bằng tốt giữa chất lượng hình ảnh, hiệu năng lấy nét và trải nghiệm sử dụng tổng thể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/M6RpRraWLxY/hqdefault.jpg" alt="Leica SL3-P may anh toan dien nhat cua hang 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/M6RpRraWLxY/hqdefault.jpg" alt="Leica SL3-P may anh toan dien nhat cua hang 2026" loading="lazy" width="1280" height="480">
   <figcaption>SL3-P được đánh giá là chiếc máy ảnh toàn diện nhất trong dòng SL3 của Leica. Nguồn: YouTube</figcaption>
 </figure>
 
 Về mặt màu sắc, các bài đánh giá tiếp tục ca ngợi khả năng tái tạo màu sắc đặc trưng của Leica, một yếu tố lâu nay vẫn được xem là điểm mạnh cốt lõi giúp thương hiệu này giữ vững vị thế trong phân khúc máy ảnh cao cấp, dù giao diện menu điều khiển vẫn bị một số reviewer nhận xét là còn phức tạp, chưa thực sự trực quan với người dùng mới làm quen hệ sinh thái Leica.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/l-W4y7BSRVg/hqdefault.jpg" alt="Leica SL3-P hands on trai nghiem thuc te 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/l-W4y7BSRVg/hqdefault.jpg" alt="Leica SL3-P hands on trai nghiem thuc te 2026" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm thực tế cho thấy Leica SL3-P xứng đáng với vị thế trong dòng sản phẩm cao cấp của hãng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Về mặt màu sắc, các bài đánh giá tiếp tục ca ngợi khả năng 
 Leica SL3-P có giá bán khởi điểm 5.900 Euro, thuộc phân khúc cao cấp trong thị trường máy ảnh full-frame hiện nay, chủ yếu hướng tới nhiếp ảnh gia chuyên nghiệp hoặc người có đam mê nhiếp ảnh nghiêm túc, sẵn sàng đầu tư cho chất lượng hình ảnh và trải nghiệm sử dụng đặc trưng của thương hiệu Leica. Hiện sản phẩm chưa có thông tin chính thức về việc phân phối tại thị trường Việt Nam, người quan tâm trong nước thường phải đặt mua qua các đơn vị order hàng xách tay quốc tế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/iNEn0f78k0g/hqdefault.jpg" alt="Leica SL3-P best SL camera first look 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/iNEn0f78k0g/hqdefault.jpg" alt="Leica SL3-P best SL camera first look 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều kênh nhiếp ảnh quốc tế nhận định SL3-P là bước tiến lớn của dòng máy SL. Nguồn: YouTube</figcaption>
 </figure>
 

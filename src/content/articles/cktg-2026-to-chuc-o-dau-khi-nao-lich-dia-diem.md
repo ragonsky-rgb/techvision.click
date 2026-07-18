@@ -72,7 +72,7 @@ Theo công bố của Riot Games, CKTG 2026 sẽ khởi tranh ngày 15/10 với 
 CKTG 2026 giữ quy mô 19 đội tuyển. Năm hệ thống giải lớn gồm LCK (Hàn Quốc), LPL (Trung Quốc), LEC (châu Âu), LCS (Bắc Mỹ) và LCP (châu Á - Thái Bình Dương) mỗi khu vực nắm 3 suất, CBLOL của Brazil có 2 suất. Hai suất còn lại đến từ kết quả MSI 2026: nhà vô địch Hanwha Life Esports nhận vé đặc cách, còn khu vực của á quân Bilibili Gaming là LPL được cộng thêm một suất vào thẳng vòng Thụy Sĩ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/EKHxuBFH42M/hqdefault.jpg" alt="HLE đánh bại BLG trong ván 5 chung kết tổng MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/EKHxuBFH42M/hqdefault.jpg" alt="HLE đánh bại BLG trong ván 5 chung kết tổng MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ván 5 nghẹt thở trước BLG đưa HLE lên ngôi và định hình cục diện phân vé CKTG 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Với người hâm mộ Việt Nam, con đường tới Mỹ của các đại 
 Chức vô địch MSI 2026 không chỉ mang về cho HLE 500.000 USD tiền thưởng mà còn thay đổi hoàn toàn vị thế của đội tuyển Hàn Quốc này. Sau [màn ngược dòng 3-2 trước BLG ở chung kết tổng](/articles/hle-vo-dich-msi-2026-thang-blg-3-2.html), bộ đôi Zeus và Keria cùng các đồng đội sẽ tới Mỹ với tư cách ứng viên vô địch số một, điều được chính [Keria khẳng định đầy tự tin khi tự nhận là GOAT của vị trí hỗ trợ](/articles/keria-tuyen-bo-goat-ho-tro-lmht-msi-2026.html) ngay sau giải.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-K9oHJ_QNdw/hqdefault.jpg" alt="HLE vượt qua LYON ở chung kết nhánh thua MSI 2026 trước khi lên ngôi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-K9oHJ_QNdw/hqdefault.jpg" alt="HLE vượt qua LYON ở chung kết nhánh thua MSI 2026 trước khi lên ngôi" loading="lazy" width="1280" height="720">
   <figcaption>Hành trình từ nhánh thua tới chức vô địch MSI cho thấy bản lĩnh của HLE trước thềm CKTG. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Tấm vé đặc cách của HLE đi kèm một điều kiện mang tính thủ 
 Ở chiều ngược lại, LPL cho thấy sức mạnh đáng gờm khi BLG vào tới chung kết tổng và nhận thêm suất thứ tư cho khu vực. LCK ngoài HLE còn những cái tên khát khao phục hận, đặc biệt là T1 sau [kỳ MSI đáng quên nhất lịch sử của đội](/articles/faker-t1-len-tieng-that-bai-msi-2026.html). Cuộc đua giành 3 suất chính thức của LCK vì thế được dự báo khốc liệt bậc nhất thế giới trong hai tháng tới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kCxVVFudXb0/hqdefault.jpg" alt="Khoảnh khắc quyết định ván 5 chung kết tổng MSI 2026 giữa HLE và BLG" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/kCxVVFudXb0/hqdefault.jpg" alt="Khoảnh khắc quyết định ván 5 chung kết tổng MSI 2026 giữa HLE và BLG" loading="lazy" width="1280" height="720">
   <figcaption>Các khu vực lớn bước vào giai đoạn nước rút giành vé CKTG ngay sau khi MSI 2026 khép lại. Nguồn: YouTube</figcaption>
 </figure>
 

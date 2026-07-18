@@ -72,7 +72,7 @@ Dù vậy, những tin đồn này không hoàn toàn vô căn cứ. Chúng đ�
 Về phần cứng, các tin đồn khá thống nhất ở một điểm: PS6 sẽ là bước nhảy đáng kể so với PS5. Chip xử lý được cho là sản phẩm tùy biến sản xuất trên tiến trình 2nm của TSMC, tiến trình tiên tiến bậc nhất hiện nay. Bên trong là CPU kiến trúc AMD Zen 6, nâng cấp lớn so với nền Zen 2 cũ kỹ trên PS5, cùng GPU thế hệ mới RDNA 5.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/nR8aVwvBQP4/hqdefault.jpg" alt="Tin đồn về chip và phần cứng PlayStation 6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nR8aVwvBQP4/hqdefault.jpg" alt="Tin đồn về chip và phần cứng PlayStation 6" loading="lazy" width="1280" height="720">
   <figcaption>Chip PS6 được đồn sản xuất trên tiến trình 2nm với CPU Zen 6 và GPU RDNA 5. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Về phần cứng, các tin đồn khá thống nhất ở một điểm: PS6 s
 Đây là phần thú vị và cũng bất ngờ nhất của câu chuyện PS6. Mốc ra mắt được đồn đoán nhiều nhất là năm 2027, dựa theo chu kỳ vòng đời console quen thuộc của Sony. Tuy nhiên gần đây xuất hiện thông tin Sony đang cân nhắc lùi lịch sang năm 2028 hoặc thậm chí 2029.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/yO7OK37hyCI/hqdefault.jpg" alt="Khủng hoảng bộ nhớ ảnh hưởng tới kế hoạch ra mắt PlayStation 6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yO7OK37hyCI/hqdefault.jpg" alt="Khủng hoảng bộ nhớ ảnh hưởng tới kế hoạch ra mắt PlayStation 6" loading="lazy" width="1280" height="720">
   <figcaption>Nhu cầu bộ nhớ cho AI khiến việc sản xuất console giá hợp lý trở nên khó khăn hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Lý do nằm ở khủng hoảng bộ nhớ. Máy chơi game cần lượng lớ
 ## Giá bán và điều người chơi nên chờ đợi
 
 <figure>
-  <img src="https://i.ytimg.com/vi/u3BFiV3AHA8/hqdefault.jpg" alt="Xếp hạng độ tin cậy các tin đồn về PlayStation 6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/u3BFiV3AHA8/hqdefault.jpg" alt="Xếp hạng độ tin cậy các tin đồn về PlayStation 6" loading="lazy" width="1280" height="720">
   <figcaption>Người chơi nên phân biệt rõ tin đồn với thông tin chính thức khi theo dõi câu chuyện PS6. Nguồn: YouTube</figcaption>
 </figure>
 

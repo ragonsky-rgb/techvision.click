@@ -69,7 +69,7 @@ Về mặt cấu hình phần cứng, Xbox Series X25 giữ nguyên toàn bộ t
 Đi kèm với máy console là tay cầm Xbox Wireless Controller X25 Special Edition, được thiết kế để tôn vinh hành trình 25 năm phát triển của tay cầm Xbox qua các thế hệ. Tay cầm sử dụng tông màu xanh OG Green xuyên suốt quen thuộc, kết hợp các chi tiết nút bấm gợi nhớ màu sắc ABXY nguyên bản cùng phong cách nút bấm gợi nhớ tay cầm Duke huyền thoại của thế hệ Xbox đời đầu, một trong những tay cầm được nhắc tới nhiều nhất trong lịch sử ngành game vì kích thước cồng kềnh đặc trưng nhưng đầy dấu ấn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/YgcBJOouIGk/hqdefault.jpg" alt="Xbox Series X25 vo nhua trong suot fan service 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/YgcBJOouIGk/hqdefault.jpg" alt="Xbox Series X25 vo nhua trong suot fan service 2026" loading="lazy" width="1280" height="480">
   <figcaption>Thiết kế vỏ nhựa trong suốt của Xbox Series X25 được cộng đồng game thủ đón nhận nhiệt tình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Về mặt cấu hình phần cứng, Xbox Series X25 giữ nguyên toàn bộ t
 Xbox Series X25 dự kiến sẽ được mở bán dưới dạng bộ sưu tập phiên bản giới hạn vào tháng 11/2026 tại một số thị trường được Microsoft chọn lọc, riêng tay cầm Xbox Wireless Controller X25 Special Edition cũng sẽ được bán riêng lẻ cho những ai chỉ muốn sở hữu phụ kiện mà không cần mua trọn bộ máy console. Với người hâm mộ lâu năm của thương hiệu Xbox, đặc biệt những ai từng trải nghiệm chiếc Xbox nguyên bản năm 2001, đây là món đồ sưu tầm mang giá trị hoài niệm cao, xứng đáng để cân nhắc dù không mang lại lợi ích hiệu năng chơi game khác biệt. Với người dùng chỉ đơn thuần cần một máy console để chơi game, phiên bản Xbox Series X tiêu chuẩn hiện có trên thị trường vẫn là lựa chọn hợp lý hơn về mặt chi phí.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/K6c7WzU3kCs/hqdefault.jpg" alt="Xbox Series X25 reveal chi tiet cong bo 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/K6c7WzU3kCs/hqdefault.jpg" alt="Xbox Series X25 reveal chi tiet cong bo 2026" loading="lazy" width="1280" height="480">
   <figcaption>Xbox Series X25 được công bố chính thức tại sự kiện Xbox Games Showcase 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Xbox Series X25 dự kiến sẽ được mở bán dưới dạng bộ sưu t�
 Sự xuất hiện của Xbox Series X25 diễn ra trong bối cảnh thị trường console đang có nhiều biến động đáng chú ý, khi các đối thủ cạnh tranh cũng liên tục tung ra sản phẩm mới để giữ chân người dùng. Với những ai đang quan tâm tới các tựa game bom tấn sắp ra mắt để trải nghiệm trên console mới, bài viết [GTA 6 công bố ngày phát hành chính thức 19/11/2026](/articles/gta-6-ngay-phat-hanh-19-11-2026-vice-city-dat-truoc-25-6.html) là thông tin đáng chú ý không kém, khi thời điểm ra mắt của tựa game này khá gần với ngày Xbox Series X25 dự kiến lên kệ, hứa hẹn tạo nên một mùa mua sắm console và game sôi động vào cuối năm 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/CvmOibDmSKc/hqdefault.jpg" alt="Xbox 25th Anniversary Controller reveal trailer 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/CvmOibDmSKc/hqdefault.jpg" alt="Xbox 25th Anniversary Controller reveal trailer 2026" loading="lazy" width="1280" height="480">
   <figcaption>Tay cầm Xbox Wireless Controller X25 Special Edition tôn vinh 25 năm lịch sử thiết kế tay cầm Xbox. Nguồn: YouTube</figcaption>
 </figure>
 

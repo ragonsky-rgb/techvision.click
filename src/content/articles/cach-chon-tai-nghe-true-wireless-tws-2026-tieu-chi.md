@@ -76,7 +76,7 @@ Thời lượng pin nên được xét trên hai con số: thời gian nghe liê
 Độ trễ quan trọng với người hay xem phim và chơi game, vì độ trễ cao khiến âm thanh lệch khỏi hình ảnh. Nhiều tai nghe có chế độ chơi game giúp giảm độ trễ rõ rệt, nên đây là điểm cần kiểm tra nếu nhu cầu giải trí cao. Với người tập thể thao, chuẩn chống nước cũng cần lưu ý: nên chọn mức IPX4 trở lên để kháng mồ hôi và nước bắn, giúp tai nghe bền hơn khi tập luyện hay đi mưa nhẹ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Va6v1eNZT5o/maxresdefault.jpg" alt="Kiểm chứng nhiều tai nghe TWS tầm giá phổ thông" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Va6v1eNZT5o/maxresdefault.jpg" alt="Kiểm chứng nhiều tai nghe TWS tầm giá phổ thông" loading="lazy" width="1280" height="720">
   <figcaption>Pin, độ trễ và chống nước là các yếu tố dễ bị bỏ qua khi mua. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một cặp tai nghe vừa tai không chỉ thoải mái khi đeo lâu mà còn 
 Nếu bạn hay nghe gọi hoặc họp trực tuyến, chất lượng micro là yếu tố thường bị bỏ qua nhưng rất quan trọng. Một số tai nghe thu giọng rõ và lọc ồn tốt, số khác lại khiến người nghe đầu dây bên kia khó nghe ở nơi ồn. Ngoài ra, các tính năng phụ như cảm biến tự dừng nhạc khi tháo tai, kết nối cùng lúc hai thiết bị và điều khiển cảm ứng tùy chỉnh cũng làm tăng trải nghiệm hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/937pjnFYrIE/maxresdefault.jpg" alt="Nhiều mẫu true wireless đáng mua cho mọi nhu cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/937pjnFYrIE/maxresdefault.jpg" alt="Nhiều mẫu true wireless đáng mua cho mọi nhu cầu" loading="lazy" width="1280" height="720">
   <figcaption>Độ vừa tai và micro ảnh hưởng lớn tới trải nghiệm thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Cách chọn hiệu quả nhất là xuất phát từ nhu cầu chính. Ngườ
 Về ngân sách, các phân khúc đều có lựa chọn tốt nếu chọn khéo. Tầm giá phổ thông vẫn có những cặp tai cân bằng đáng tiền, trong khi phân khúc cao cấp mang lại ANC mạnh, chất âm tinh tế và nhiều tính năng thông minh. Đừng chỉ nhìn thương hiệu hay mức giá, hãy đọc các bài đánh giá uy tín và ưu tiên cặp tai cân bằng tốt nhất các yếu tố quan trọng với bạn. Muốn hiểu sâu hơn về chống ồn, có thể xem bài [tai nghe chống ồn ANC là gì](/articles/tai-nghe-chong-on-anc-la-gi-co-nen-mua.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/HFumz5yCzPI/maxresdefault.jpg" alt="Tai nghe TWS âm thanh hay trong tầm giá phổ thông" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/HFumz5yCzPI/maxresdefault.jpg" alt="Tai nghe TWS âm thanh hay trong tầm giá phổ thông" loading="lazy" width="1280" height="720">
   <figcaption>Mỗi nhu cầu có cặp tai phù hợp riêng trong từng tầm giá. Nguồn: YouTube</figcaption>
 </figure>
 

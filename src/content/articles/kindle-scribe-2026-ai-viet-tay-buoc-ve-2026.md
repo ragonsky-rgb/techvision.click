@@ -70,21 +70,21 @@ Cả ba phiên bản đều sử dụng chung một loại chip xử lý lõi t�
 Một điểm cộng thực dụng khác trên Kindle Scribe 2026 là chiếc bút từ tính đi kèm hoạt động dựa trên cảm ứng điện từ, gắn liền vào cạnh máy bằng nam châm và hoàn toàn không cần pin riêng, đồng nghĩa với việc người dùng không bao giờ phải lo lắng bút hết pin giữa lúc đang ghi chú quan trọng, một vấn đề khá phổ biến với các loại bút cảm ứng chủ động khác trên thị trường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mdfUqt-_84k/hqdefault.jpg" alt="Kindle Scribe 2026 but tu tinh khong can sac danh gia" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mdfUqt-_84k/hqdefault.jpg" alt="Kindle Scribe 2026 but tu tinh khong can sac danh gia" loading="lazy" width="1280" height="480">
   <figcaption>Bút từ tính đi kèm Kindle Scribe không bao giờ cần sạc pin riêng. Nguồn: YouTube</figcaption>
 </figure>
 
 Về phần mềm, điểm nhấn lớn nhất là tính năng AI mang tên Ask Notebooks, cho phép người dùng tìm kiếm nội dung trong các sổ tay viết tay đã lưu trên máy bằng ngôn ngữ tự nhiên, đồng thời nhận được tóm tắt và gợi ý thông minh dựa trên nội dung đã ghi chép trước đó, giúp việc tra cứu lại thông tin cũ trở nên nhanh chóng hơn nhiều so với việc phải lật thủ công từng trang sổ. Bên cạnh đó, tính năng Smart Shapes cho phép vẽ một hình dạng bằng một nét bút, sau đó giữ đầu bút lại ở cuối nét vẽ để hệ thống tự động làm gọn thành hình chuẩn, tiện lợi khi cần phác thảo sơ đồ nhanh trong lúc ghi chú.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BhlYkh6m6AI/hqdefault.jpg" alt="Kindle Scribe Colorsoft man hinh mau danh gia 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/BhlYkh6m6AI/hqdefault.jpg" alt="Kindle Scribe Colorsoft man hinh mau danh gia 2026" loading="lazy" width="1280" height="480">
   <figcaption>Kindle Scribe Colorsoft mang tới màn hình mực điện tử hiển thị màu sắc, phù hợp nhu cầu ghi chú trực quan. Nguồn: YouTube</figcaption>
 </figure>
 
 Người dùng cũng có thể viết trực tiếp lên hình ảnh trong sách điện tử hoặc tài liệu Word được gửi tới Kindle, mở rộng đáng kể khả năng tương tác so với các thế hệ Scribe trước đây vốn chủ yếu chỉ hỗ trợ ghi chú trên trang trắng hoặc lề sách.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0iMFD3JfiVE/hqdefault.jpg" alt="Kindle Scribe Colorsoft 2026 mo hop danh gia man hinh mau" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/0iMFD3JfiVE/hqdefault.jpg" alt="Kindle Scribe Colorsoft 2026 mo hop danh gia man hinh mau" loading="lazy" width="1280" height="480">
   <figcaption>Kindle Scribe Colorsoft mở hộp cho thấy chất lượng hiển thị màu sắc ấn tượng trên nền tảng mực điện tử. Nguồn: YouTube</figcaption>
 </figure>
 

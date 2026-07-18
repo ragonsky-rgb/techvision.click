@@ -76,7 +76,7 @@ Sản phẩm được cung cấp với ba tùy chọn dung tích gồm 440 lít,
 Công nghệ AI Econavi không phải mới với Panasonic, nhưng thế hệ 2026 được nâng cấp với 6 cảm biến hoạt động đồng thời. Hệ thống này liên tục theo dõi nhiệt độ ở nhiều khu vực khác nhau bên trong tủ, nhiệt độ và độ ẩm môi trường xung quanh, cùng tần suất mở cửa của từng gia đình, từ đó tự động điều chỉnh hiệu suất làm lạnh sao cho phù hợp nhất với thói quen sử dụng thực tế thay vì chạy theo một thiết lập cố định.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/MA8BktwZnCU/hqdefault.jpg" alt="Tủ lạnh Panasonic 4 cánh 510 lít âm tường ngăn đá dưới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/MA8BktwZnCU/hqdefault.jpg" alt="Tủ lạnh Panasonic 4 cánh 510 lít âm tường ngăn đá dưới" loading="lazy" width="1280" height="720">
   <figcaption>Phiên bản 510 lít với ngăn đá đặt dưới, một trong các cấu hình phổ biến của dòng âm tường. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Cách tiếp cận này khác với kiểu tủ lạnh thông minh chỉ dựa v
 Một điểm nhấn khác được nhiều người quan tâm là ngăn đông mềm Prime Fresh, hoạt động ở nhiệt độ khoảng -3°C. Ngăn này dùng hệ thống cửa chớp tự động kết hợp cảm biến nhiệt độ để duy trì nhiệt độ ổn định trong toàn bộ khoang chứa, giúp thực phẩm như thịt, cá luôn ở trạng thái bán đông, đủ mềm để có thể cắt thái và chế biến ngay lập tức mà không cần trải qua công đoạn rã đông vốn tốn nhiều thời gian.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DDeQ256iknU/hqdefault.jpg" alt="Tủ lạnh Panasonic âm tường 487 lít với ngăn đông mềm siêu rộng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DDeQ256iknU/hqdefault.jpg" alt="Tủ lạnh Panasonic âm tường 487 lít với ngăn đông mềm siêu rộng" loading="lazy" width="1280" height="720">
   <figcaption>Ngăn đông mềm Prime Fresh được thiết kế rộng rãi, phù hợp với nhu cầu nấu nướng hàng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Thiết kế âm tường phù hợp nhất với những gian bếp đã có s�
 Nhìn chung, việc Panasonic đưa dòng tủ lạnh âm tường thế hệ mới về Việt Nam cho thấy xu hướng thiết bị gia dụng cao cấp, tích hợp công nghệ thông minh đang ngày càng được các hãng lớn ưu tiên đầu tư cho thị trường trong nước, không chỉ dừng lại ở phân khúc điện thoại hay laptop như đã ghi nhận trong bài về việc [giá RAM tăng thêm 20% trong quý 3/2026](/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html) ảnh hưởng chủ yếu tới thiết bị điện tử.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vJGB-zTNPJc/hqdefault.jpg" alt="Panasonic HARMONY+ Edition với độ sâu tiêu chuẩn 60cm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vJGB-zTNPJc/hqdefault.jpg" alt="Panasonic HARMONY+ Edition với độ sâu tiêu chuẩn 60cm" loading="lazy" width="1280" height="720">
   <figcaption>Dòng tủ lạnh âm tường Panasonic hướng tới độ sâu tiêu chuẩn, dễ tích hợp vào bếp có sẵn. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Về chip, các dòng đời mới như Intel Core Ultra, AMD Ryzen hay Snapdrag
 Ổ cứng thì luôn ưu tiên SSD, vì nó nhanh hơn HDD nhiều lần và bền hơn. Dung lượng 512GB là thoải mái, còn 256GB vẫn ổn nếu ngân sách hạn chế và phần lớn dữ liệu được lưu trên đám mây. Lưu ý quan trọng năm nay là giá RAM đang tăng, kéo giá các bản cấu hình cao lên, như đã phân tích trong bài [giá laptop tăng vì khủng hoảng RAM AI](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html). Vì vậy nên chọn 16GB vừa đủ thay vì cố lên 32GB nếu không thực sự cần.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WbTxRFUBDxA/maxresdefault.jpg" alt="Các mẫu laptop văn phòng tầm giá 15 triệu đáng mua 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WbTxRFUBDxA/maxresdefault.jpg" alt="Các mẫu laptop văn phòng tầm giá 15 triệu đáng mua 2026" loading="lazy" width="1280" height="720">
   <figcaption>Phân khúc quanh 15 triệu có nhiều lựa chọn văn phòng đáng cân nhắc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Về chip, các dòng đời mới như Intel Core Ultra, AMD Ryzen hay Snapdrag
 Màn hình là thứ phải nhìn vào hằng ngày nên đừng xem nhẹ. Hãy chọn tấm nền IPS cho góc nhìn rộng và màu tốt, độ phân giải tối thiểu Full HD, ưu tiên loại chống chói nếu hay dùng ngoài sáng. Sinh viên ngành thiết kế nên tìm màn phủ màu cao để làm việc chính xác.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BI_qjfi2C9s/maxresdefault.jpg" alt="Sinh viên đi mua laptop 5 điều cần lưu ý" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BI_qjfi2C9s/maxresdefault.jpg" alt="Sinh viên đi mua laptop 5 điều cần lưu ý" loading="lazy" width="1280" height="720">
   <figcaption>Chọn đúng RAM và ổ SSD giúp máy bền và đáng tiền. Nguồn: YouTube</figcaption>
 </figure>
 
 Nếu thường mang máy tới trường hay quán cà phê, pin và trọng lượng rất quan trọng. Một chiếc laptop mỏng nhẹ, pin cả ngày sẽ tiện hơn nhiều so với máy nặng phải cắm sạc liên tục, và bạn nên tham khảo thêm [cách kéo dài tuổi thọ pin laptop](/articles/cach-keo-dai-tuoi-tho-pin-laptop-sac-dung-cach-2026.html) để dùng máy bền hơn. Bên cạnh đó, chọn được một chiếc [balo laptop phù hợp](/articles/cach-chon-balo-laptop-2026-tieu-chi.html) cũng giúp bảo vệ máy an toàn khi di chuyển. Cũng nên để ý cổng kết nối, đảm bảo có đủ USB, cổng xuất hình và lý tưởng là USB-C sạc tiện lợi. Đây là những yếu tố ảnh hưởng trực tiếp tới trải nghiệm dùng hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/x-ujmYJ4sZQ/maxresdefault.jpg" alt="Tư vấn laptop sinh viên chú trọng pin và độ mỏng nhẹ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/x-ujmYJ4sZQ/maxresdefault.jpg" alt="Tư vấn laptop sinh viên chú trọng pin và độ mỏng nhẹ" loading="lazy" width="1280" height="720">
   <figcaption>Pin lâu và trọng lượng nhẹ là tiêu chí quan trọng với người hay di chuyển. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -69,7 +69,7 @@ Dung lượng pin là yếu tố quan trọng nhất quyết định thời gian
 Phần lớn quạt tích điện phổ biến hiện nay có thời gian sạc đầy khoảng 8 tới 10 tiếng, phù hợp sạc qua đêm để sẵn sàng sử dụng vào ngày hôm sau mà không cần lo lắng về việc quên sạc trước khi cần dùng. Một số mẫu cao cấp hơn hỗ trợ công nghệ sạc nhanh, giúp rút ngắn đáng kể thời gian chờ, tiện lợi hơn trong tình huống cần dùng gấp mà pin chưa kịp sạc đầy từ trước, đặc biệt hữu ích khi có cảnh báo mất điện trước nhưng không đủ thời gian chuẩn bị.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FjcfP_4otAg/sddefault.jpg" alt="Huong dan su dung quat tich dien Sunhouse SH762" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/FjcfP_4otAg/sddefault.jpg" alt="Huong dan su dung quat tich dien Sunhouse SH762" loading="lazy" width="1280" height="480">
   <figcaption>Hướng dẫn sử dụng chi tiết giúp người dùng khai thác tối đa các tính năng của quạt tích điện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Nhiều mẫu quạt tích điện hiện nay tích hợp thêm đèn LED, rất
 Độ bền của quạt tích điện phụ thuộc nhiều vào chất liệu vỏ ngoài, các mẫu sử dụng nhựa ABS cao cấp thường bền hơn, chịu va đập tốt hơn khi thường xuyên phải di chuyển giữa các phòng trong nhà hoặc mang theo ra ngoài trời so với các mẫu vỏ nhựa mỏng giá rẻ dễ nứt vỡ sau thời gian ngắn sử dụng. Với nhu cầu di chuyển thường xuyên, nên ưu tiên các mẫu có tay cầm chắc chắn và thiết kế gọn nhẹ, dễ mang theo khi cần thiết.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FjcfP_4otAg/mqdefault.jpg" alt="Quat tich dien Sunhouse thiet ke gon nhe de mang theo" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/FjcfP_4otAg/mqdefault.jpg" alt="Quat tich dien Sunhouse thiet ke gon nhe de mang theo" loading="lazy" width="1280" height="480">
   <figcaption>Thiết kế gọn nhẹ giúp quạt tích điện dễ dàng di chuyển giữa các phòng trong nhà. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nhiều gia đình hiện đang trang bị thêm hệ thống chiếu sáng dự
 Sau khi đã chọn được tiêu chí phù hợp, người dùng có thể tham khảo thêm [top quạt điều hòa hơi nước đáng mua tháng 7/2026](/articles/top-quat-dieu-hoa-hoi-nuoc-dang-mua-thang-7-2026.html) để có thêm lựa chọn làm mát tiết kiệm điện cho những ngày nắng nóng không mất điện, đồng thời chuẩn bị sẵn quạt tích điện cho tình huống khẩn cấp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rUAHrdlrGvw/mqdefault.jpg" alt="Cach su dung va bao quan quat tich dien dung cach" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/rUAHrdlrGvw/mqdefault.jpg" alt="Cach su dung va bao quan quat tich dien dung cach" loading="lazy" width="1280" height="480">
   <figcaption>Sử dụng và bảo quản đúng cách giúp kéo dài tuổi thọ pin của quạt tích điện. Nguồn: YouTube</figcaption>
 </figure>
 

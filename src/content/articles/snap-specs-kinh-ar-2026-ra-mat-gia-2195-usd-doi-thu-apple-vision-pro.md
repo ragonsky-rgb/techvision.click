@@ -76,7 +76,7 @@ Theo công bố, Specs có thiết kế nhẹ, tích hợp AI ngay trên kính v
 Snap kỳ vọng cách tiếp cận này giải quyết bài toán mà nhiều thiết bị AR gặp phải: hoặc quá hạn chế về tính năng, hoặc quá nặng nề để đeo hằng ngày. Tuy nhiên, mức giá 2.195 USD vẫn là rào cản lớn với người dùng phổ thông, và thành công sẽ phụ thuộc nhiều vào việc hệ sinh thái ứng dụng có đủ hấp dẫn để biện minh cho chi phí hay không.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/EgfHIbfIaO4/maxresdefault.jpg" alt="Kính AR Snap Specs mới ra mắt năm 2026 với thiết kế nhìn xuyên" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/EgfHIbfIaO4/maxresdefault.jpg" alt="Kính AR Snap Specs mới ra mắt năm 2026 với thiết kế nhìn xuyên" loading="lazy" width="1280" height="720">
   <figcaption>Specs nằm giữa kính camera phổ thông và thiết bị thực tế hỗn hợp cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Snap kỳ vọng cách tiếp cận này giải quyết bài toán mà nhiều t
 Đây là hướng đi quan trọng, bởi giá trị của một nền tảng kính AR phụ thuộc rất nhiều vào kho ứng dụng. Bằng cách bắt tay với các công cụ AI phổ biến trong giới lập trình, Snap muốn khuyến khích cộng đồng tạo ra nội dung và trải nghiệm phong phú ngay từ đầu. Sự xuất hiện của các công cụ như Cursor trong hệ sinh thái này cũng cho thấy ranh giới giữa lập trình truyền thống và phát triển ứng dụng AR đang ngày càng mờ đi, một xu hướng đáng theo dõi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Ooi4LHfE8dA/maxresdefault.jpg" alt="Snap Specs AR glasses tích hợp AI sẵn sàng cho người tiêu dùng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ooi4LHfE8dA/maxresdefault.jpg" alt="Snap Specs AR glasses tích hợp AI sẵn sàng cho người tiêu dùng" loading="lazy" width="1280" height="720">
   <figcaption>Snap mở cho lập trình viên xây ứng dụng AI agent trên Specs. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sự ra mắt của Specs diễn ra giữa lúc thị trường kính thông min
 Dù vậy, lịch sử kính thông minh đầy những sản phẩm tham vọng nhưng chưa thành công đại chúng, do rào cản về giá, thời lượng pin, sự thoải mái và quyền riêng tư. Specs sẽ phải chứng minh được giá trị thực tế trong sử dụng hằng ngày, chứ không chỉ gây ấn tượng trên sân khấu. Với người quan tâm tới thiết bị đeo, đây là sản phẩm đáng theo dõi để hình dung hướng đi của cả ngành trong vài năm tới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/GnX3U5AMeAU/maxresdefault.jpg" alt="Những chiếc kính AR thực thụ đầu tiên sắp đến tay người dùng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GnX3U5AMeAU/maxresdefault.jpg" alt="Những chiếc kính AR thực thụ đầu tiên sắp đến tay người dùng" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều hãng lớn cùng đẩy mạnh kính AR, cạnh tranh ngày càng nóng. Nguồn: YouTube</figcaption>
 </figure>
 

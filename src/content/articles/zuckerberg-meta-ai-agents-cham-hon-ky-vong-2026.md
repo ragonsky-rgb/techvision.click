@@ -74,7 +74,7 @@ Tuy nhiên, Zuckerberg không hoàn toàn bi quan. Ông cho biết kỳ vọng s
 Lời thừa nhận này không diễn ra trong chân không. Nó đến sau khi Meta thông báo cắt giảm khoảng 8.000 nhân viên trong tháng 5, tương đương khoảng 10% lực lượng lao động khi đó. Đáng chú ý, các đợt cắt giảm ảnh hưởng mạnh nhất tới những bộ phận như toàn vẹn nội dung, an ninh mạng, thiết kế nội dung và Reality Labs, trong khi các nhóm hạ tầng AI, mô hình nền tảng và kiếm tiền từ AI được bảo vệ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-4p4eJphGZ0/hqdefault.jpg" alt="Meta sa thải 8000 nhân viên trong lúc đặt cược lớn vào AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-4p4eJphGZ0/hqdefault.jpg" alt="Meta sa thải 8000 nhân viên trong lúc đặt cược lớn vào AI" loading="lazy" width="1280" height="720">
   <figcaption>Meta cắt giảm mạnh nhiều bộ phận nhưng bảo vệ các nhóm AI trong đợt tái cơ cấu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Cùng với cắt giảm, Meta cũng chuyển hướng nguồn lực mạnh mẽ
 Chính sự tương phản giữa đầu tư khổng lồ và tiến độ chậm mới là điều khiến câu chuyện đáng chú ý. Khi một công ty chi hàng trăm tỷ USD, cắt giảm hàng nghìn việc làm và dồn toàn lực vào AI, nhưng lãnh đạo cao nhất lại thừa nhận kết quả chưa như mong đợi, đó là tín hiệu cho thấy AI agents có thể khó triển khai hơn nhiều so với những gì các bài thuyết trình hào nhoáng thể hiện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/L0M9be1AT4w/hqdefault.jpg" alt="Khoảng cách giữa kỳ vọng và thực tế của AI agents tại Meta" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/L0M9be1AT4w/hqdefault.jpg" alt="Khoảng cách giữa kỳ vọng và thực tế của AI agents tại Meta" loading="lazy" width="1280" height="720">
   <figcaption>Đầu tư khổng lồ nhưng tiến độ chậm đặt câu hỏi về mức độ trưởng thành của AI agents. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Chính sự tương phản giữa đầu tư khổng lồ và tiến độ chậ
 ## Ý nghĩa với ngành và người dùng
 
 <figure>
-  <img src="https://i.ytimg.com/vi/fmPOWR4uHwY/hqdefault.jpg" alt="Meta thừa nhận sai lầm tái cơ cấu và tiến độ AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fmPOWR4uHwY/hqdefault.jpg" alt="Meta thừa nhận sai lầm tái cơ cấu và tiến độ AI" loading="lazy" width="1280" height="720">
   <figcaption>Zuckerberg thừa nhận đợt tái cơ cấu chưa suôn sẻ, kỳ vọng cải thiện trong vài tháng tới. Nguồn: YouTube</figcaption>
 </figure>
 

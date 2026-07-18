@@ -64,7 +64,7 @@ Hãy hình dung chatbot như một người trả lời câu hỏi: bạn hỏi 
 Điểm cốt lõi của một agent là vòng lặp hành động. Ở mỗi bước, agent suy nghĩ xem cần làm gì tiếp theo, chọn một công cụ để dùng, ví dụ tìm kiếm web hoặc chạy một đoạn code, rồi quan sát kết quả trả về. Dựa trên kết quả đó, nó tiếp tục suy nghĩ bước kế tiếp, cứ thế lặp lại cho tới khi hoàn thành mục tiêu. Nhờ vòng lặp này, agent có thể tự chia một nhiệm vụ lớn thành nhiều bước nhỏ, tự research và tự lập trình mà không cần bạn hướng dẫn từng thao tác.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bTMPwUgLZf0/maxresdefault.jpg" alt="Cách một AI Agent tự lập kế hoạch và gọi công cụ để hoàn thành nhiệm vụ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bTMPwUgLZf0/maxresdefault.jpg" alt="Cách một AI Agent tự lập kế hoạch và gọi công cụ để hoàn thành nhiệm vụ" loading="lazy" width="1280" height="720">
   <figcaption>Agent hoạt động theo vòng lặp: suy nghĩ, gọi công cụ, quan sát kết quả rồi lặp lại tới khi xong. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ CrewAI nổi bật nhờ cách tổ chức nhiều agent theo vai trò, giống 
 AutoGen của Microsoft tiếp cận theo hướng khác: các agent trò chuyện qua lại với nhau để cùng giải quyết một vấn đề. Một agent có thể đóng vai người viết code, một agent khác đóng vai người kiểm thử, và chúng trao đổi cho tới khi ra kết quả ưng ý. Cách làm hội thoại này mạnh ở các tác vụ cần thảo luận và sinh code, và gần đây Microsoft đã hợp nhất AutoGen vào bộ khung agent thống nhất của hãng để dùng trong môi trường doanh nghiệp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Q881t44hWng/maxresdefault.jpg" alt="AutoGen của Microsoft cho các agent trò chuyện và phối hợp sinh code" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Q881t44hWng/maxresdefault.jpg" alt="AutoGen của Microsoft cho các agent trò chuyện và phối hợp sinh code" loading="lazy" width="1280" height="720">
   <figcaption>AutoGen của Microsoft cho nhiều agent trò chuyện qua lại để cùng giải quyết vấn đề. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Nếu cần kiểm soát luồng xử lý phức tạp, LangGraph mô hình hóa
 Agent đầu tiên là chuyên viên nghiên cứu, được cấp công cụ tìm kiếm và đọc trang web. Nhiệm vụ của nó là cào dữ liệu tin tức mới nhất về chủ đề bạn quan tâm, chẳng hạn giá GPU hoặc động thái của các hãng AI, rồi tổng hợp thành danh sách nguồn kèm trích dẫn. Agent thứ hai là chuyên viên phân tích, nhận dữ liệu thô từ agent nghiên cứu và rút ra các xu hướng, con số đáng chú ý và rủi ro. Agent thứ ba là cây bút, biến phần phân tích thành một báo cáo gọn gàng dạng markdown, đủ để gửi đi hoặc đăng lên trang.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/G5djZjdxVvo/maxresdefault.jpg" alt="AI Agent tự cào dữ liệu tin tức và tổng hợp thành báo cáo phân tích" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/G5djZjdxVvo/maxresdefault.jpg" alt="AI Agent tự cào dữ liệu tin tức và tổng hợp thành báo cáo phân tích" loading="lazy" width="1280" height="720">
   <figcaption>Một agent cào dữ liệu web có thể tự thu thập tin rồi chuyển cho agent khác phân tích. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -64,7 +64,7 @@ Câu trả lời ngắn gọn: trên các máy đời mới được hãng tối
 Yếu tố thực sự làm pin xuống cấp nhanh là nhiệt độ cao. Khi sạc nhanh mà máy nóng lên rõ rệt, nhất là lúc vừa sạc vừa chơi game nặng, pin sẽ chịu áp lực lớn hơn. Vì vậy, thay vì sợ sạc nhanh, điều nên làm là giữ máy mát: tháo ốp lưng nếu thấy nóng, đặt máy nơi thoáng và tránh sạc dưới gối hay chăn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-u3bLFKjx0w/maxresdefault.jpg" alt="Trải nghiệm dùng sạc nhanh nhiều năm và độ chai pin thực tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-u3bLFKjx0w/maxresdefault.jpg" alt="Trải nghiệm dùng sạc nhanh nhiều năm và độ chai pin thực tế" loading="lazy" width="1280" height="720">
   <figcaption>Sạc nhanh trên máy đời mới ít ảnh hưởng tuổi thọ pin nếu kiểm soát nhiệt tốt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Nhiều người vẫn lo sạc qua đêm làm hỏng pin, nhưng với máy hi�
 Về chuyện xả cạn, đây là quan niệm cũ từ thời pin NiMH và không còn đúng với pin Li-ion ngày nay. Pin Li-ion không cần xả cạn 0% rồi mới sạc, ngược lại để cạn kiệt thường xuyên còn làm pin xuống cấp nhanh hơn. Tốt nhất nên sạc khi pin còn khoảng 20% và rút khi gần đầy, duy trì pin trong khoảng 20 tới 80% nếu có thể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/YfyDMLROvqs/maxresdefault.jpg" alt="Những lưu ý khi sạc pin để kéo dài tuổi thọ pin điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YfyDMLROvqs/maxresdefault.jpg" alt="Những lưu ý khi sạc pin để kéo dài tuổi thọ pin điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Giữ pin mát và trong khoảng 20 tới 80% giúp pin bền hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Một chu kỳ được tính khi tổng lượng điện đã dùng đạt 100%
 Hai trạng thái gây áp lực lớn nhất cho pin Li-ion là để ở mức quá cao (gần 100% trong thời gian dài) và quá thấp (sát 0%). Khi pin nằm lâu ở hai cực này, điện áp trong tế bào pin lệch khỏi vùng ổn định nhất, đẩy nhanh quá trình lão hóa. Đây chính là cơ sở khoa học cho khuyến nghị duy trì pin trong khoảng 20 tới 80% và bật giới hạn sạc khi hay cắm sạc lâu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Wg7ukwL2lDE/maxresdefault.jpg" alt="Cách pin lithium-ion phản ứng khi sạc nhanh và sinh nhiệt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Wg7ukwL2lDE/maxresdefault.jpg" alt="Cách pin lithium-ion phản ứng khi sạc nhanh và sinh nhiệt" loading="lazy" width="1280" height="720">
   <figcaption>Pin Li-ion chịu áp lực lớn nhất khi nóng và khi nằm lâu ở mức quá cao hoặc quá thấp. Nguồn: YouTube</figcaption>
 </figure>
 

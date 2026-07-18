@@ -65,7 +65,7 @@ Trong nhiều năm, hậu tố Ultra chỉ gắn với dòng Galaxy S đắt nh�
 Bản Ultra được kỳ vọng chênh lệch rõ so với Z Fold 8 tiêu chuẩn ở ba điểm, gồm camera, bộ nhớ và một vài chi tiết màn hình. Cách phân tầng này giống hệt điều Samsung đã làm với dòng Galaxy S, nơi bản Ultra luôn có camera và bút S Pen tốt nhất. Nếu tin đồn chính xác, người dùng sẽ có thêm một bậc lựa chọn cao hơn, nhưng cũng phải trả nhiều tiền hơn cho những khác biệt đó.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/__D_Od-1yoI/hqdefault.jpg" alt="Bản dựng thiết kế Galaxy Z Fold 8 Ultra với bản lề mỏng và cụm camera lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/__D_Od-1yoI/hqdefault.jpg" alt="Bản dựng thiết kế Galaxy Z Fold 8 Ultra với bản lề mỏng và cụm camera lớn" loading="lazy" width="1280" height="720">
   <figcaption>Các bản dựng cho thấy Z Fold 8 Ultra mỏng hơn và có cụm camera nổi bật hơn đời trước. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Bản Ultra được kỳ vọng chênh lệch rõ so với Z Fold 8 tiêu chu�
 Việc đưa cảm biến chính của dòng S Ultra lên máy gập giúp Samsung xóa bỏ một trong những lý do lớn nhất khiến nhiều người ngần ngại chọn Fold. Một chiếc điện thoại có giá gần 2.000 USD nhưng camera chỉ ngang tầm trung là điều khó chấp nhận, và bản Ultra rõ ràng muốn giải quyết đúng điểm yếu này. Dĩ nhiên, chất lượng thực tế còn phụ thuộc vào phần mềm xử lý ảnh, thứ chỉ có thể kiểm chứng khi máy đến tay người dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/GVjQfxgf3zo/hqdefault.jpg" alt="Cụm camera sau Galaxy Z Fold 8 Ultra với camera chính 200MP và ống tele" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GVjQfxgf3zo/hqdefault.jpg" alt="Cụm camera sau Galaxy Z Fold 8 Ultra với camera chính 200MP và ống tele" loading="lazy" width="1280" height="720">
   <figcaption>Camera chính 200MP mượn cảm biến từ Galaxy S26 Ultra là nâng cấp lớn nhất của bản Ultra. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Viên pin là một trong những nâng cấp thầm lặng nhưng quan trọng.
 Về giá, nhiều nguồn độc lập đặt bản 256GB ở mức 1.999 USD, ngang giá khởi điểm của Z Fold 7, trong khi bản 512GB cao hơn khoảng 80 USD và bản 1TB có thể chạm 2.499 đến 2.799 USD. Đây là mức giá của một sản phẩm đầu bảng thực thụ, và tại Việt Nam giá bán chính hãng nhiều khả năng còn cao hơn do thuế, phí. Người dùng nên chờ Samsung công bố chính thức tại Unpacked ngày 22/7 trước khi cân nhắc đặt trước. Trước sự kiện, [bộ ảnh render Galaxy Z Fold 8 và Flip 8 đã rò rỉ đầy đủ màu sắc](/articles/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hk6G8V5rxEc/hqdefault.jpg" alt="Galaxy Z Fold 8 Ultra đặt cạnh Galaxy S26 Ultra so sánh kích thước" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hk6G8V5rxEc/hqdefault.jpg" alt="Galaxy Z Fold 8 Ultra đặt cạnh Galaxy S26 Ultra so sánh kích thước" loading="lazy" width="1280" height="720">
   <figcaption>Bản Ultra hướng tới nhóm người dùng muốn camera đỉnh cao trên một chiếc gập. Nguồn: YouTube</figcaption>
 </figure>
 

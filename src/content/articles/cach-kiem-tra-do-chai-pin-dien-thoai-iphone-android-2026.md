@@ -76,7 +76,7 @@ Trên Android, việc kiểm tra độ chai pin phức tạp hơn vì không ph�
 Với máy không có sẵn thông tin chi tiết, cách phổ biến là dùng ứng dụng đo pin như AccuBattery. Ứng dụng này ước lượng dung lượng thực tế của pin bằng cách theo dõi quá trình sạc qua vài lần, nên cần dùng trong một đến hai ngày để có số liệu đáng tin cậy. Kết quả từ ứng dụng chỉ mang tính tương đối nhưng đủ để đánh giá xu hướng chai pin. Khi chọn phụ kiện hỗ trợ, hiểu về công nghệ sạc cũng hữu ích, chẳng hạn nội dung trong bài [sạc không dây là gì](/articles/sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FkaC4R54HHE/hqdefault.jpg" alt="Kiểm tra dung lượng pin tối đa trên iPhone và Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FkaC4R54HHE/hqdefault.jpg" alt="Kiểm tra dung lượng pin tối đa trên iPhone và Android" loading="lazy" width="1280" height="720">
   <figcaption>Ứng dụng đo pin giúp ước lượng độ chai trên Android. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Ngoài con số dung lượng tối đa, chu kỳ sạc là chỉ số quan tr�
 Bên cạnh các con số, hãy chú ý tới những dấu hiệu thực tế của pin chai: máy tụt phần trăm nhanh bất thường, nóng lên khi dùng nhẹ, tự tắt dù còn pin, hoặc thời lượng sử dụng giảm rõ so với trước. Đặc biệt, nếu pin có dấu hiệu phồng làm cong vênh máy hay đội màn hình, đây là tình huống nguy hiểm cần ngừng sử dụng và thay pin ngay tại cơ sở uy tín. Pin phồng tiềm ẩn nguy cơ cháy nổ, không nên chủ quan.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gsZ618gEaMo/hq720.jpg" alt="Chu kỳ sạc và dấu hiệu pin chai trên điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gsZ618gEaMo/hq720.jpg" alt="Chu kỳ sạc và dấu hiệu pin chai trên điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Chu kỳ sạc và các dấu hiệu thực tế phản ánh độ chai pin. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Quyết định thay pin nên dựa trên cả con số lẫn trải nghiệm th
 Kiểm tra độ chai pin cũng đặc biệt quan trọng khi mua điện thoại cũ. Trước khi mua, hãy xem dung lượng tối đa trên iPhone hoặc dùng ứng dụng đo trên Android để biết tình trạng pin thật, tránh mua nhầm máy pin yếu mà người bán không nói rõ. Một chiếc máy cũ giá tốt nhưng pin chai nặng sẽ tốn thêm chi phí thay pin. Việc trang bị thêm sạc dự phòng cũng giúp yên tâm khi pin yếu, và cách chọn được hướng dẫn trong bài [cách chọn sạc dự phòng](/articles/cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/PHsvOE1y3ek/hq720.jpg" alt="Khi nào nên thay pin và kiểm tra pin khi mua điện thoại cũ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PHsvOE1y3ek/hq720.jpg" alt="Khi nào nên thay pin và kiểm tra pin khi mua điện thoại cũ" loading="lazy" width="1280" height="720">
   <figcaption>Kiểm tra pin kỹ trước khi mua điện thoại cũ. Nguồn: YouTube</figcaption>
 </figure>
 

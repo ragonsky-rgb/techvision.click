@@ -76,7 +76,7 @@ Cùng với luật, Chính phủ triển khai chương trình thí điểm thị
 Về lộ trình, đại diện hiệp hội ngành dự báo sàn giao dịch tài sản mã hóa đầu tiên có thể xuất hiện sớm trong quý 2/2026, trong khi một số nguồn nêu mốc thí điểm từ quý 3/2026. Mốc thời gian cụ thể phụ thuộc vào quá trình cấp phép và mức độ sẵn sàng của doanh nghiệp. Việc có sàn được cấp phép sẽ tạo kênh giao dịch minh bạch, an toàn hơn so với các nền tảng không quản lý, giúp bảo vệ nhà đầu tư tốt hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/in5rgG40i7g/maxresdefault.jpg" alt="Việt Nam thí điểm sàn giao dịch tài sản mã hóa năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/in5rgG40i7g/maxresdefault.jpg" alt="Việt Nam thí điểm sàn giao dịch tài sản mã hóa năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Sàn giao dịch đầu tiên dự báo xuất hiện trong năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một điểm đáng chú ý của khung pháp lý là yêu cầu vốn rất ca
 Bên cạnh vốn, các sàn phải tuân thủ nhiều quy định chặt chẽ, gồm thủ tục cấp phép, chuẩn quản trị, phòng chống rửa tiền và an ninh mạng. Những yêu cầu này nhằm xây dựng một thị trường minh bạch, an toàn và hạn chế các hành vi vi phạm pháp luật. Việc quản lý chặt cũng đặt ra thách thức cho doanh nghiệp, nhưng là cần thiết để bảo vệ người dùng. An toàn thông tin và định danh là yếu tố quan trọng trong toàn bộ hệ sinh thái số, liên quan tới các tiện ích như nêu trong bài [VNeID cập nhật 2026](/articles/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/r0_CvRSud8A/maxresdefault.jpg" alt="Quy định vốn và tuân thủ cho sàn tài sản mã hóa Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/r0_CvRSud8A/maxresdefault.jpg" alt="Quy định vốn và tuân thủ cho sàn tài sản mã hóa Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Yêu cầu vốn cao và tuân thủ chặt nhằm bảo vệ nhà đầu tư. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Việc có khung pháp lý rõ ràng mở ra nhiều cơ hội cho thị trườ
 Tuy nhiên, thị trường tài sản mã hóa vẫn tiềm ẩn nhiều rủi ro, đặc biệt là biến động giá lớn và nguy cơ lừa đảo. Việc tài sản mã hóa không được công nhận là phương tiện thanh toán hợp pháp cũng giới hạn phạm vi sử dụng. Người tham gia cần hiểu rõ rằng giai đoạn thí điểm là bước đầu, các quy định có thể tiếp tục được điều chỉnh. Cảnh giác với lừa đảo là điều quan trọng, như hướng dẫn trong bài [cách nhận biết và phòng tránh lừa đảo online](/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6SVLye2AJys/maxresdefault.jpg" alt="Chỉ giao dịch tài sản mã hóa trên sàn hợp pháp tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6SVLye2AJys/maxresdefault.jpg" alt="Chỉ giao dịch tài sản mã hóa trên sàn hợp pháp tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Người dân nên giao dịch trên sàn hợp pháp khi đi vào hoạt động. Nguồn: YouTube</figcaption>
 </figure>
 

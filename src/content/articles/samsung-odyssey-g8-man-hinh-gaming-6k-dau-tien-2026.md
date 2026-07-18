@@ -66,7 +66,7 @@ Samsung chính thức giới thiệu Odyssey G8, model G80HS, được hãng kh�
 Để cân bằng giữa độ phân giải cao và nhu cầu chơi game tốc độ cao, Samsung trang bị chế độ Dual Mode, cho phép người dùng chuyển đổi giữa độ phân giải 6K đầy đủ ở tần số quét 165Hz, phù hợp cho công việc đồ họa cần độ chi tiết tối đa, hoặc chuyển sang độ phân giải 3K với tần số quét lên tới 330Hz khi cần độ mượt mà cao nhất trong các tựa game tốc độ cao, cạnh tranh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/7emz3Az3OME/hqdefault.jpg" alt="Samsung Odyssey G8 G80HS 6K gaming ra mat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/7emz3Az3OME/hqdefault.jpg" alt="Samsung Odyssey G8 G80HS 6K gaming ra mat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Odyssey G8 sử dụng tấm nền Fast IPS 32 inch cho thời gian phản hồi nhanh chỉ 1ms. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Samsung chính thức giới thiệu Odyssey G8, model G80HS, được hãng kh�
 Về kết nối, sản phẩm trang bị cổng DisplayPort 2.1 chuẩn UHBR20, cung cấp đủ băng thông cần thiết để truyền tải độ phân giải và tần số quét cao mà không phải phụ thuộc quá nhiều vào công nghệ nén hình ảnh. Tuy nhiên, nhiều reviewer cũng lưu ý rằng độ phân giải 6K đòi hỏi card đồ họa rất mạnh để đạt được tần số khung hình cao, đặc biệt khi chơi game ở độ phân giải 6K đầy đủ, tạo ra áp lực đáng kể lên phần cứng máy tính của người dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/JYgP7A9z0-w/hqdefault.jpg" alt="Samsung Odyssey G8 G80HS 6K 165Hz co dang mua 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/JYgP7A9z0-w/hqdefault.jpg" alt="Samsung Odyssey G8 G80HS 6K 165Hz co dang mua 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều kênh công nghệ đặt câu hỏi liệu Odyssey G8 có thực sự đáng đầu tư với mức giá cao cấp hiện tại. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Về giá bán, sản phẩm hiện chưa chính thức mở bán nhưng dự ki
 Với người dùng chưa sẵn sàng chi trả mức giá cao cấp cho màn hình 6K tiên phong này, bài viết [top màn hình máy tính đáng mua tháng 7/2026](/articles/top-man-hinh-may-tinh-dang-mua-thang-7-2026.html) gợi ý nhiều lựa chọn khác trong tầm giá phải chăng hơn nhưng vẫn đảm bảo chất lượng hiển thị tốt cho công việc và giải trí hằng ngày. Người mới bắt đầu tìm hiểu các tiêu chí quan trọng khi chọn màn hình máy tính cũng nên tham khảo thêm bài viết [cách chọn màn hình máy tính: tấm nền, độ phân giải, tần số quét](/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html) trước khi quyết định đầu tư vào bất kỳ sản phẩm màn hình cao cấp nào.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/dlqzxivF5j0/hqdefault.jpg" alt="Samsung Odyssey G8 165Hz Dual Mode Beast 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/dlqzxivF5j0/hqdefault.jpg" alt="Samsung Odyssey G8 165Hz Dual Mode Beast 2026" loading="lazy" width="1280" height="480">
   <figcaption>Chế độ Dual Mode được nhiều reviewer gọi là điểm cộng lớn nhất giúp Odyssey G8 linh hoạt hơn hẳn các màn hình 6K khác. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -64,7 +64,7 @@ Challenger, Gray & Christmas là một trong những nguồn theo dõi sa thải
 Riêng tháng 5/2026, AI dẫn đầu mọi lý do sa thải với 38.579 ca, mức cao nhất kể từ khi Challenger bắt đầu theo dõi lý do này vào năm 2023, chiếm tới 40% tổng số cắt giảm trong tháng. Đây cũng là tháng thứ ba liên tiếp AI đứng đầu danh sách nguyên nhân.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wGjGKmrl_zc/maxresdefault.jpg" alt="Các công việc văn phòng lương cao đang biến mất vì AI năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wGjGKmrl_zc/maxresdefault.jpg" alt="Các công việc văn phòng lương cao đang biến mất vì AI năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều vị trí lao động trí óc lương cao chịu áp lực lớn nhất từ tự động hóa. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Xét về xu hướng, đây là tín hiệu rất đáng chú ý. Việc sa th�
 Nói cách khác, tổng quy mô sa thải đang giảm, nhưng tỷ trọng do AI lại tăng mạnh. Điều này có nghĩa AI đang trở thành động lực ngày càng chi phối trong cơ cấu mất việc, ngay cả khi thị trường lao động nói chung bớt biến động hơn năm trước.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0lwftepuvYA/maxresdefault.jpg" alt="Tranh luận về việc AI thay thế công việc văn phòng trong tương lai gần" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0lwftepuvYA/maxresdefault.jpg" alt="Tranh luận về việc AI thay thế công việc văn phòng trong tương lai gần" loading="lazy" width="1280" height="720">
   <figcaption>Tốc độ AI thay thế lao động trí óc đang là chủ đề tranh luận gay gắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Bức tranh không hoàn toàn một chiều. Một số phân tích chỉ ra r�
 Thực tế này cũng phản ánh sự thận trọng từ chính giới lãnh đạo công nghệ. Như trong bài [Sam Altman thừa nhận sai về AI cướp việc làm](/articles/sam-altman-sai-ve-ai-cuop-viec-lam-delighted-wrong-2026.html), ngay cả những người lạc quan nhất cũng thừa nhận AI chưa xóa sổ việc làm nhanh như từng dự đoán. AI đang định hình lại cơ cấu việc làm hơn là quét sạch nó, vừa xóa vị trí cũ vừa tạo nhu cầu cho kỹ năng mới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Tb04uoW2kGA/maxresdefault.jpg" alt="Nhiều công ty công nghệ âm thầm tuyển lại sau khi sa thải hàng loạt vì AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Tb04uoW2kGA/maxresdefault.jpg" alt="Nhiều công ty công nghệ âm thầm tuyển lại sau khi sa thải hàng loạt vì AI" loading="lazy" width="1280" height="720">
   <figcaption>Một số tập đoàn lớn lặng lẽ tuyển lại sau khi cắt giảm quá đà vì AI. Nguồn: YouTube</figcaption>
 </figure>
 

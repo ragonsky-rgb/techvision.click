@@ -72,7 +72,7 @@ Theo bản ghi nhớ nội bộ, chip Iris đã hoàn tất giai đoạn kiểm 
 Một điểm quan trọng cần làm rõ là Iris không được thiết kế để thay thế hoàn toàn lượng lớn GPU Nvidia và AMD mà Meta vẫn đang mua với số lượng khổng lồ. Thay vào đó, chip nội bộ này đóng vai trò bổ sung, giúp Meta xử lý một phần khối lượng công việc AI với chi phí thấp hơn, từ đó giảm bớt áp lực chi tiêu khi phải phụ thuộc hoàn toàn vào nguồn cung từ bên ngoài. Chiến lược này khá tương đồng với hướng đi mà nhiều tập đoàn công nghệ lớn khác đang theo đuổi, tương tự cách [Samsung vừa công bố Exynos 2600, chip tiến trình 2nm đầu tiên thế giới](/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html), nhằm chủ động hơn về công nghệ bán dẫn lõi thay vì phụ thuộc hoàn toàn vào đối tác bên ngoài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/C1nyQHg3Rq8/hqdefault.jpg" alt="Meta tăng năng lực tính toán, đẩy nhanh tiến độ chip Iris" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/C1nyQHg3Rq8/hqdefault.jpg" alt="Meta tăng năng lực tính toán, đẩy nhanh tiến độ chip Iris" loading="lazy" width="1280" height="720">
   <figcaption>Meta đặt mục tiêu nâng năng lực tính toán AI lên gấp đôi trong vòng một năm nhờ chip Iris và các khoản đầu tư hạ tầng khác. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,14 +83,14 @@ Việc đầu tư vào chip nội bộ diễn ra song song với các thoả thu
 Kế hoạch sản xuất chip Iris nằm trong bức tranh chi tiêu hạ tầng AI khổng lồ của Meta, với ngân sách vốn dự kiến trong năm 2026 được nâng lên mức 125 tới 145 tỷ USD, gần gấp đôi so với mức chi thực tế của năm 2025. Khi lần đầu công bố mức tăng chi tiêu này, cổ phiếu Meta từng giảm hơn 6% trong phiên giao dịch ngoài giờ do giới đầu tư lo ngại về khả năng sinh lời rõ ràng từ khoản đầu tư khổng lồ. Tuy nhiên, thông tin về chip Iris cùng loạt mô hình AI mới được công bố sau đó đã giúp cổ phiếu hãng phục hồi mạnh, có phiên tăng tới 9%, cho thấy tâm lý thị trường phần nào đã ổn định trở lại khi Meta chứng minh được tiến độ cụ thể của kế hoạch tự chủ công nghệ, tương tự cách thị trường AI nói chung vẫn liên tục biến động theo từng khoản đầu tư lớn của các startup như [Neura Robotics tại Đức vừa gọi vốn 1,4 tỷ USD từ chính Nvidia và Amazon](/articles/neura-robotics-goi-von-1-4-ty-usd-nvidia-amazon-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mYOOvTGBZOo/hqdefault.jpg" alt="Meta chuyển hướng đầu tư chip AI nội bộ thay vì phụ thuộc hoàn toàn Nvidia" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mYOOvTGBZOo/hqdefault.jpg" alt="Meta chuyển hướng đầu tư chip AI nội bộ thay vì phụ thuộc hoàn toàn Nvidia" loading="lazy" width="1280" height="720">
   <figcaption>Chiến lược chip nội bộ giúp Meta chủ động hơn về chi phí trong dài hạn khi quy mô hạ tầng AI tiếp tục mở rộng. Nguồn: YouTube</figcaption>
 </figure>
 
 Về dài hạn, Meta còn hé lộ kế hoạch bán lại một phần năng lực tính toán AI dư thừa cho khách hàng bên ngoài dưới hình thức dịch vụ đám mây, một bước đi có thể đưa hãng trở thành đối thủ cạnh tranh trực tiếp với AWS, Microsoft Azure và Google Cloud trong mảng hạ tầng AI, dù mảng kinh doanh cốt lõi của Meta vẫn xoay quanh quảng cáo và các nền tảng mạng xã hội. Đây cũng là một phần lý do khiến giá linh kiện bộ nhớ và các cấu phần trung tâm dữ liệu tăng mạnh trong thời gian qua, khi các tập đoàn công nghệ lớn đồng loạt đặt hàng số lượng khổng lồ để phục vụ tham vọng AI riêng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/nuLZAqF-VBc/hqdefault.jpg" alt="Chi tiết kế hoạch mở rộng hạ tầng tính toán AI của Meta tới năm 2027" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nuLZAqF-VBc/hqdefault.jpg" alt="Chi tiết kế hoạch mở rộng hạ tầng tính toán AI của Meta tới năm 2027" loading="lazy" width="1280" height="720">
   <figcaption>Meta đặt mục tiêu duy trì nhịp độ ra mắt chip mới khoảng sáu tháng một lần cho tới hết năm 2027. Nguồn: YouTube</figcaption>
 </figure>
 

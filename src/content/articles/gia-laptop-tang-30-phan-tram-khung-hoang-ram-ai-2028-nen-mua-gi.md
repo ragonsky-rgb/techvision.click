@@ -64,7 +64,7 @@ Con số rõ nhất nằm ở phân khúc tầm trung. Một chiếc laptop trư
 Gốc rễ nằm ở RAM. Chỉ trong hai tuần của tháng 6, giá DDR5 32GB nhảy từ 375 lên 439 USD. So với năm ngoái, giá RAM hiện cao gấp 3 tới 4 lần, từ mức 80-120 USD lên 375-439 USD. Theo HP, chi phí bộ nhớ trong một chiếc laptop đã tăng từ 15-18% lên tới 35% tổng chi phí linh kiện, tức bộ nhớ giờ là một trong những phần đắt đỏ nhất của máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/t8a3x6qKAiM/maxresdefault.jpg" alt="Giá RAM và PC tăng vọt năm 2026 do khủng hoảng nguồn cung bộ nhớ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/t8a3x6qKAiM/maxresdefault.jpg" alt="Giá RAM và PC tăng vọt năm 2026 do khủng hoảng nguồn cung bộ nhớ" loading="lazy" width="1280" height="720">
   <figcaption>RAM tăng giá kéo theo cả PC lắp ráp lẫn laptop nguyên chiếc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Nghe có vẻ trái khoáy khi AI trên đám mây lại làm đắt chiếc lap
 Vấn đề nằm ở loại bộ nhớ tốc độ cao HBM mà chip AI cần. Mỗi GB HBM tiêu tốn diện tích tấm wafer gấp 3 tới 4 lần so với DRAM tiêu chuẩn. Nói cách khác, mỗi tấm wafer được ưu tiên cho AI gần như tương đương việc lấy mất một tấm wafer khỏi nguồn cung bộ nhớ cho PC. Khi cầu AI quá lớn còn nhà máy mới chưa kịp chạy hết công suất, giá bị đẩy lên và khó hạ sớm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5hqhhLH3nZ8/maxresdefault.jpg" alt="Bộ nhớ băng thông cao HBM cho chip AI tranh giành nguồn cung với RAM máy tính" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5hqhhLH3nZ8/maxresdefault.jpg" alt="Bộ nhớ băng thông cao HBM cho chip AI tranh giành nguồn cung với RAM máy tính" loading="lazy" width="1280" height="720">
   <figcaption>HBM cho AI và DRAM cho PC dùng chung nguồn cung wafer, nên AI bùng nổ kéo giá RAM lên. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Vấn đề nằm ở loại bộ nhớ tốc độ cao HBM mà chip AI cần. M
 Giữa lúc laptop Windows đồng loạt tăng giá, một lựa chọn bất ngờ trở nên hấp dẫn là MacBook Neo. Đây là dòng MacBook giá phổ thông của Apple, niêm yết khoảng 599 USD, và trên các sàn như Shopee có thời điểm rớt xuống quanh 13 triệu đồng tùy đợt khuyến mãi. Với một máy Apple chạy chip M mới, mức giá đó là rất hời, nhất là khi mặt bằng laptop chung đang đi lên.
 
 <figure>
-  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-citrus-0000.jpg?quality=82&strip=all&w=1600" alt="MacBook Neo màu citrus, dòng MacBook giá phổ thông của Apple" loading="lazy" width="1600" height="900">
+  <img decoding="async" src="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-citrus-0000.jpg?quality=82&strip=all&w=1600" alt="MacBook Neo màu citrus, dòng MacBook giá phổ thông của Apple" loading="lazy" width="1600" height="900">
   <figcaption>MacBook Neo giá quanh 13 triệu trên sàn là món hời hiếm trong giai đoạn laptop tăng giá. Nguồn: 9to5mac</figcaption>
 </figure>
 

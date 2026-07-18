@@ -68,7 +68,7 @@ Nhu cầu tiết kiệm thời gian dọn dẹp sau bữa ăn ngày càng tăng 
 Ở phân khúc tầm trung, các dòng máy rửa bát Electrolux là lựa chọn nổi bật nhờ đạt chuẩn tiết kiệm năng lượng A+ trở lên với mức giá dễ tiếp cận hơn đáng kể so với Bosch. Sản phẩm phù hợp gia đình muốn trải nghiệm máy rửa bát chất lượng ổn định mà không cần chi quá nhiều cho các tính năng cao cấp không thực sự cần thiết, đáp ứng tốt nhu cầu sử dụng hằng ngày của phần lớn gia đình Việt Nam.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hrNy14IIK5E/sddefault.jpg" alt="Danh gia cau tao may rua chen Bosch chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hrNy14IIK5E/sddefault.jpg" alt="Danh gia cau tao may rua chen Bosch chi tiet" loading="lazy" width="1280" height="480">
   <figcaption>Hiểu rõ cấu tạo giúp người dùng bảo trì và sử dụng máy rửa bát hiệu quả hơn trong thời gian dài. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Nhiều gia đình hiện đang nâng cấp đồng bộ các thiết bị gia d
 Trước khi quyết định xuống tiền, người dùng nên xác định rõ mục đích sử dụng chính, ví dụ ưu tiên ngân sách tiết kiệm cho căn hộ nhỏ, cần tiết kiệm điện nước cho gia đình sử dụng thường xuyên, hay sẵn sàng đầu tư cho sức chứa lớn nhất, vì mỗi thương hiệu trong danh sách đều có thế mạnh riêng phù hợp từng nhóm đối tượng khác nhau. Nên ưu tiên mua tại đại lý ủy quyền chính hãng để được hưởng chế độ bảo hành đầy đủ, đồng thời tận dụng các chương trình khuyến mãi, trả góp 0% lãi suất phổ biến hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/CjmjkObSo4c/mqdefault.jpg" alt="So sanh cac dong may rua bat tu pho thong den cao cap 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/CjmjkObSo4c/mqdefault.jpg" alt="So sanh cac dong may rua bat tu pho thong den cao cap 2026" loading="lazy" width="1280" height="480">
   <figcaption>So sánh các dòng máy rửa bát từ phổ thông tới cao cấp giúp người mua dễ đưa ra quyết định phù hợp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Ngoài hai thương hiệu tiêu biểu kể trên, thị trường máy rửa b
 Với các gia đình lần đầu sử dụng máy rửa bát, nên dành thời gian tìm hiểu cách sử dụng viên rửa chuyên dụng và muối làm mềm nước đúng cách, vì sử dụng sai loại hóa chất tẩy rửa có thể ảnh hưởng tới hiệu quả rửa sạch và tuổi thọ của máy về lâu dài, một chi tiết nhỏ nhưng quan trọng mà nhiều người mới sử dụng thường bỏ qua.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hrNy14IIK5E/mqdefault.jpg" alt="Lap dat may rua bat am tu chuyen nghiep tai nha" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hrNy14IIK5E/mqdefault.jpg" alt="Lap dat may rua bat am tu chuyen nghiep tai nha" loading="lazy" width="1280" height="480">
   <figcaption>Lắp đặt chuyên nghiệp giúp máy rửa bát vận hành ổn định ngay từ lần sử dụng đầu tiên. Nguồn: YouTube</figcaption>
 </figure>
 

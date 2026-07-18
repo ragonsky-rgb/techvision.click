@@ -76,7 +76,7 @@ Về giá, Alexa+ có mức 19,99 USD mỗi tháng cho người dùng thông th�
 Chiến lược này phản ánh cách Amazon tận dụng hệ sinh thái sẵn có để cạnh tranh trong lĩnh vực AI. Thay vì xây dựng tệp người dùng mới, Amazon đưa AI tới những người đã dùng dịch vụ của mình. Đây là lợi thế tương tự mà các ông lớn khác khai thác, chẳng hạn việc tích hợp AI vào sản phẩm văn phòng quen thuộc, được phân tích trong bài [Microsoft Copilot 2026](/articles/microsoft-copilot-cap-nhat-2026-tac-nhan-may-tinh-gpt-5-5-office.html). Lợi thế phân phối là yếu tố quan trọng trong cuộc đua phổ cập AI.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3dsFGoSBAag/hqdefault.jpg" alt="Amazon Alexa+ miễn phí cho thành viên Prime năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3dsFGoSBAag/hqdefault.jpg" alt="Amazon Alexa+ miễn phí cho thành viên Prime năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Alexa+ miễn phí cho Prime, tạo lợi thế quy mô. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Chiến lược này phản ánh cách Amazon tận dụng hệ sinh thái sẵn
 Khả năng hành động này có được nhờ tích hợp với nhiều dịch vụ bên thứ ba như Ticketmaster, Uber, Expedia và OpenTable. Đây là xu hướng AI agentic đang định hình lại trợ lý ảo, biến chúng từ công cụ trả lời thành công cụ hành động thực sự hữu ích. Xu hướng tác nhân AI đang lan rộng trên mọi nền tảng lớn, tương tự các mô hình được tối ưu cho tác vụ agentic như nêu trong bài [ChatGPT nâng cấp với GPT-5.5](/articles/openai-chatgpt-gpt-5-5-cap-nhat-thang-6-2026-bo-nho-moi-khai-tu.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/L_MrQIb6ie0/maxresdefault.jpg" alt="Alexa+ hành động như tác nhân đặt xe đặt bàn nhà hàng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/L_MrQIb6ie0/maxresdefault.jpg" alt="Alexa+ hành động như tác nhân đặt xe đặt bàn nhà hàng" loading="lazy" width="1280" height="720">
   <figcaption>Alexa+ có thể đặt xe, đặt bàn và thực hiện nhiều tác vụ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Amazon không chỉ phủ Alexa+ tại Mỹ mà còn mở rộng ra quốc tế.
 Một bước đi đáng chú ý khác là việc Amazon ra mắt Alexa.com tại CES 2026, đưa trợ lý lên web để người dùng có thể dùng mà không cần thiết bị Echo chuyên dụng. Điều này mở rộng đáng kể phạm vi tiếp cận của Alexa+, giúp nó cạnh tranh trực tiếp hơn với các trợ lý AI dạng web và ứng dụng. Việc đa dạng hóa kênh truy cập cho thấy Amazon muốn Alexa+ hiện diện ở mọi nơi người dùng cần, không giới hạn trong loa thông minh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/lFHqNu99jQs/maxresdefault.jpg" alt="Amazon mở rộng Alexa+ ra quốc tế và phiên bản web Alexa.com" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/lFHqNu99jQs/maxresdefault.jpg" alt="Amazon mở rộng Alexa+ ra quốc tế và phiên bản web Alexa.com" loading="lazy" width="1280" height="720">
   <figcaption>Alexa+ mở rộng quốc tế và lên cả nền tảng web. Nguồn: YouTube</figcaption>
 </figure>
 

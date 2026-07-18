@@ -74,7 +74,7 @@ Với lập trình viên, một mô hình mạnh về coding và khả năng tá
 Về mặt kỹ thuật, Qwen 3.6 Max mặc định đi kèm cửa sổ ngữ cảnh một triệu token, cho phép xử lý lượng dữ liệu rất lớn trong một lần. Với các tác vụ như phân tích toàn bộ mã nguồn của một dự án hay xử lý nhiều tài liệu dài, ngữ cảnh lớn giúp mô hình nắm được bức tranh tổng thể và đưa ra kết quả mạch lạc hơn. Đây là xu hướng chung mà nhiều mô hình đang chạy đua, tương tự [MiniMax M3 cũng có ngữ cảnh một triệu token](/articles/minimax-m3-mo-hinh-ai-ma-nguon-mo-1-trieu-token-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vicEk3HjQ4c/hqdefault.jpg" alt="Qwen 3.6 Max với cửa sổ ngữ cảnh lớn cho lập trình" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vicEk3HjQ4c/hqdefault.jpg" alt="Qwen 3.6 Max với cửa sổ ngữ cảnh lớn cho lập trình" loading="lazy" width="1280" height="720">
   <figcaption>Cửa sổ ngữ cảnh một triệu token giúp Qwen 3.6 Max xử lý các dự án mã nguồn lớn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Về mặt kỹ thuật, Qwen 3.6 Max mặc định đi kèm cửa sổ ngữ c�
 Một yếu tố khiến Qwen 3.6 Max thêm hấp dẫn là việc được cung cấp miễn phí qua nền tảng của Alibaba. Trong bối cảnh các mô hình mạnh nhất thường tính phí truy cập, việc một mô hình đầu bảng được dùng miễn phí mang tới lựa chọn giá trị cho lập trình viên và doanh nghiệp. Điều này đặc biệt có ý nghĩa với các thị trường nhạy cảm về chi phí như Việt Nam.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/fpkLOmlvsv8/hqdefault.jpg" alt="Qwen 3.6 Max thể hiện năng lực vượt trội ở coding" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fpkLOmlvsv8/hqdefault.jpg" alt="Qwen 3.6 Max thể hiện năng lực vượt trội ở coding" loading="lazy" width="1280" height="720">
   <figcaption>Qwen 3.6 Max là một phần trong làn sóng mô hình AI mạnh và giá tốt từ Trung Quốc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Sự xuất hiện của Qwen 3.6 Max, cùng loạt mô hình mạnh khác từ 
 ## Ý nghĩa với người dùng
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FUxFmqIrEng/hqdefault.jpg" alt="Qwen 3.6 Max hỗ trợ lập trình có tính tác nhân" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FUxFmqIrEng/hqdefault.jpg" alt="Qwen 3.6 Max hỗ trợ lập trình có tính tác nhân" loading="lazy" width="1280" height="720">
   <figcaption>Với năng lực tác nhân, Qwen 3.6 Max có thể tự động hoàn thành các tác vụ lập trình nhiều bước. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -66,7 +66,7 @@ Yếu tố đầu tiên cần cân nhắc là độ phân giải video, quyết 
 Về số kênh camera, camera 1 kênh chỉ ghi hình phía trước phù hợp ngân sách hạn chế và nhu cầu cơ bản. Camera 2 kênh (trước và sau) phù hợp với đa số người dùng phổ thông, ghi lại được cả tình huống va chạm từ phía sau xe. Camera 3 kênh, bổ sung thêm góc quay bên trong xe, phù hợp nhất với tài xế dịch vụ như taxi công nghệ hoặc xe khách, cần ghi lại cả tình huống xảy ra bên trong khoang xe.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/TwfifP3p-GU/hqdefault.jpg" alt="Viofo A329S 4K 60FPS danh gia chi tiet 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/TwfifP3p-GU/hqdefault.jpg" alt="Viofo A329S 4K 60FPS danh gia chi tiet 2026" loading="lazy" width="1280" height="480">
   <figcaption>Viofo A329S là một trong những mẫu camera hành trình 4K được đánh giá cao nhất năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,14 +75,14 @@ Về số kênh camera, camera 1 kênh chỉ ghi hình phía trước phù hợp
 Chế độ đỗ xe là tính năng ngày càng quan trọng, cho phép camera tiếp tục giám sát xe ngay cả khi đã tắt máy, thường tự động kích hoạt ghi hình khi phát hiện chuyển động hoặc va chạm nhẹ xung quanh xe. Tính năng này cần nguồn điện phụ như pin dự phòng chuyên dụng hoặc dây hardwire kit kết nối trực tiếp vào ắc quy xe để hoạt động ổn định trong thời gian dài mà không làm hao ắc quy quá mức.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BXfeeuVroRA/hqdefault.jpg" alt="Viofo A329S dash cam driving video test 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/BXfeeuVroRA/hqdefault.jpg" alt="Viofo A329S dash cam driving video test 2026" loading="lazy" width="1280" height="480">
   <figcaption>Chất lượng video thực tế khi lái xe là yếu tố quan trọng nhất khi đánh giá một camera hành trình. Nguồn: YouTube</figcaption>
 </figure>
 
 Về kết nối, phần lớn camera hành trình tầm trung trở lên hiện nay đều hỗ trợ Wi-Fi, cho phép xem trực tiếp và tải video về điện thoại thông qua ứng dụng chuyên dụng mà không cần tháo thẻ nhớ ra khỏi thiết bị. Về mức giá tham khảo, camera hành trình cơ bản một kênh độ phân giải 2K thường dao động 1-2 triệu đồng, trong khi các mẫu cao cấp nhiều kênh, độ phân giải 4K và chế độ đỗ xe nâng cao như dòng Viofo có giá tham khảo khoảng 4-8 triệu đồng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ioQYaS2zVgY/hqdefault.jpg" alt="Viofo A329S tat ca nhung gi can biet 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ioQYaS2zVgY/hqdefault.jpg" alt="Viofo A329S tat ca nhung gi can biet 2026" loading="lazy" width="1280" height="480">
   <figcaption>Người mua nên tìm hiểu kỹ các tính năng đi kèm trước khi quyết định chọn mua camera hành trình phù hợp. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -70,7 +70,7 @@ Với những ai đã quen dùng laptop Windows và muốn một thiết bị di
 Kích thước màn hình ảnh hưởng trực tiếp tới trải nghiệm sử dụng hằng ngày. Máy tính bảng 8 đến 9 inch nhẹ, dễ cầm một tay, phù hợp đọc sách và giải trí nhẹ nhàng khi di chuyển. Kích thước 10 đến 11 inch được xem là điểm cân bằng tốt nhất giữa tính di động và không gian hiển thị, phù hợp với phần lớn người dùng phổ thông cho cả học tập, làm việc lẫn giải trí. Máy trên 12 inch phù hợp người dùng chuyên nghiệp cần thay thế laptop cho công việc thiết kế, dựng phim hoặc trình bày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2eTdM6UagzQ/hqdefault.jpg" alt="Tu van chon man hinh may tinh bang phu hop 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/2eTdM6UagzQ/hqdefault.jpg" alt="Tu van chon man hinh may tinh bang phu hop 2026" loading="lazy" width="1280" height="480">
   <figcaption>Kích thước và độ phân giải màn hình ảnh hưởng lớn tới trải nghiệm sử dụng hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Bên cạnh kích thước, cần chú ý thêm độ phân giải và tần s�
 Không phải ai cũng cần một chiếc máy tính bảng cấu hình cao cấp nhất thị trường. Nếu chỉ dùng để xem phim, đọc báo, học trực tuyến hay lướt mạng xã hội, các dòng chip tầm trung đã hoàn toàn đáp ứng tốt mà không cần chi thêm tiền cho hiệu năng dư thừa. Ngược lại, nếu có nhu cầu chỉnh sửa ảnh, video, chơi game đồ họa nặng hoặc chạy nhiều ứng dụng cùng lúc, nên ưu tiên các dòng chip cao cấp đi kèm RAM từ 8GB trở lên để đảm bảo trải nghiệm mượt mà lâu dài, tránh tình trạng máy nhanh lag sau một hai năm sử dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/IJi96q4fONM/hqdefault.jpg" alt="Top may tinh bang dang tien nhat theo hieu nang 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/IJi96q4fONM/hqdefault.jpg" alt="Top may tinh bang dang tien nhat theo hieu nang 2026" loading="lazy" width="1280" height="480">
   <figcaption>Chọn hiệu năng chip phù hợp với nhu cầu sử dụng thực tế giúp tối ưu chi phí. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Với người có nhu cầu ghi chú tay, vẽ phác thảo hoặc soạn thả
 Ngoài phụ kiện đi kèm máy, người dùng có nhu cầu lưu trữ thêm dữ liệu ngoài dung lượng bộ nhớ trong cũng nên tìm hiểu thêm các giải pháp lưu trữ di động phù hợp, ví dụ tham khảo bài viết [cách chọn ổ cứng di động SSD phù hợp nhu cầu năm 2026](/articles/cach-chon-o-cung-di-dong-ssd-2026.html) để sao lưu ảnh, video một cách an toàn và tiện lợi khi máy tính bảng gần đầy bộ nhớ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/e6RGrvBbWgI/hqdefault.jpg" alt="Nen mua iPad hay tablet Android ngan sach 9 trieu 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/e6RGrvBbWgI/hqdefault.jpg" alt="Nen mua iPad hay tablet Android ngan sach 9 trieu 2026" loading="lazy" width="1280" height="480">
   <figcaption>So sánh ngân sách và nhu cầu thực tế trước khi quyết định giữa iPad hay tablet Android. Nguồn: YouTube</figcaption>
 </figure>
 

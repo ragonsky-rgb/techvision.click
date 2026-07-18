@@ -76,7 +76,7 @@ TN là công nghệ cũ hơn, có lợi thế phản hồi rất nhanh và giá 
 Độ phân giải 2K cho hình sắc nét hơn rõ rệt, cân bằng tốt giữa chi tiết và hiệu năng, đặc biệt hợp với màn 27 inch. 4K mang lại độ chi tiết cao nhất, lý tưởng cho màn lớn, công việc đồ họa và ai cần không gian hiển thị rộng, nhưng đòi máy đủ mạnh để xử lý và có giá cao hơn. Một nguyên tắc hữu ích là màn càng lớn thì càng cần độ phân giải cao để chữ và hình không bị rỗ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OJ-XUjES1UI/maxresdefault.jpg" alt="Tần số quét cao hay độ phân giải quan trọng hơn khi chọn màn hình" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OJ-XUjES1UI/maxresdefault.jpg" alt="Tần số quét cao hay độ phân giải quan trọng hơn khi chọn màn hình" loading="lazy" width="1280" height="720">
   <figcaption>Cân nhắc giữa độ phân giải và tần số quét theo nhu cầu sử dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tần số quét là số lần màn hình làm mới hình ảnh mỗi giây, �
 Đi kèm tần số quét là thời gian phản hồi, đo bằng mili giây, cho biết điểm ảnh đổi màu nhanh đến đâu. Thời gian phản hồi thấp giúp giảm hiện tượng bóng mờ khi vật thể di chuyển nhanh. Với game thủ, nên tìm màn có tần số quét cao kết hợp thời gian phản hồi thấp. Tuy nhiên, nếu chủ yếu làm việc văn phòng, không cần trả thêm tiền cho các con số này mà nên dồn ngân sách cho chất lượng tấm nền và độ chính xác màu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ppebF6jyWWg/maxresdefault.jpg" alt="Giải thích các loại tấm nền và thông số màn hình máy tính" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ppebF6jyWWg/maxresdefault.jpg" alt="Giải thích các loại tấm nền và thông số màn hình máy tính" loading="lazy" width="1280" height="720">
   <figcaption>Tần số quét và thời gian phản hồi ảnh hưởng tới độ mượt khi chuyển động. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Cách chọn đúng nhất là xuất phát từ nhu cầu chính. Dân văn ph�
 Ngoài ba yếu tố cốt lõi, một số tính năng phụ cũng đáng quan tâm. Các cổng kết nối như HDMI, DisplayPort và USB-C giúp linh hoạt khi cắm nhiều thiết bị, trong đó USB-C tiện cho laptop vì vừa xuất hình vừa sạc qua một dây. Chân đế điều chỉnh được độ cao và góc nghiêng giúp ngồi đúng tư thế, còn các chế độ lọc ánh sáng xanh và chống nhấp nháy hỗ trợ giảm mỏi mắt khi dùng lâu. Để hiểu thêm về tần số quét, có thể xem bài [tần số quét màn hình là gì](/articles/tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zgzZNtr2dpg/maxresdefault.jpg" alt="Mẹo phân biệt tấm nền IPS và VA khi chọn màn hình" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zgzZNtr2dpg/maxresdefault.jpg" alt="Mẹo phân biệt tấm nền IPS và VA khi chọn màn hình" loading="lazy" width="1280" height="720">
   <figcaption>Cổng kết nối và chân đế cũng là yếu tố nên cân nhắc. Nguồn: YouTube</figcaption>
 </figure>
 

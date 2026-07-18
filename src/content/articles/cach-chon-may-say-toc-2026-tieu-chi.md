@@ -69,7 +69,7 @@ Tốc độ động cơ là yếu tố quan trọng nhất quyết định thờ
 Nhiều máy sấy tóc hiện nay tích hợp công nghệ ion âm, giúp trung hòa điện tích tĩnh trên sợi tóc trong quá trình sấy, giảm đáng kể tình trạng tóc bết dính, xơ rối, đặc biệt hữu ích trong điều kiện thời tiết khô hanh. Ngoài Dyson, nhiều thương hiệu phổ thông hơn như Panasonic cũng tích hợp công nghệ chăm sóc tóc riêng, ví dụ công nghệ nanoe giúp dưỡng ẩm, ngăn ngừa tóc khô xơ, chẻ ngọn, cho thấy tính năng chăm sóc tóc không còn chỉ giới hạn ở phân khúc cao cấp nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mOGTCiNdgVc/hqdefault.jpg" alt="Danh gia may say toc Xiaomi H101 gia re" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mOGTCiNdgVc/hqdefault.jpg" alt="Danh gia may say toc Xiaomi H101 gia re" loading="lazy" width="1280" height="480">
   <figcaption>Ngay cả các mẫu máy sấy tóc phổ thông cũng có thể tích hợp công nghệ chăm sóc tóc cơ bản hiệu quả. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Người dùng quan tâm sâu hơn tới sức khỏe khi sử dụng thiết b�
 Máy sấy tóc có mức giá dao động rất rộng, từ khoảng 700 nghìn đồng cho các mẫu phổ thông tới 9 đến 15 triệu đồng cho các dòng cao cấp như Dyson Supersonic. Trước khi quyết định đầu tư, nên cân nhắc kỹ tần suất sử dụng thực tế và mức độ quan tâm tới sức khỏe tóc, vì đầu tư một khoản tiền lớn cho máy sấy cao cấp nhưng chỉ dùng vài lần mỗi tuần thường không mang lại giá trị kinh tế tương xứng so với các mẫu phổ thông có tính năng cơ bản tương tự.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/8UpAYEDM-fY/mqdefault.jpg" alt="May say toc cao cap Dyson tich hop nhieu tinh nang tao kieu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/8UpAYEDM-fY/mqdefault.jpg" alt="May say toc cao cap Dyson tich hop nhieu tinh nang tao kieu" loading="lazy" width="1280" height="480">
   <figcaption>Máy sấy tóc cao cấp thường tích hợp thêm nhiều đầu phụ kiện hỗ trợ tạo kiểu tóc đa dạng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nhiều gia đình hiện đang xây dựng không gian phòng tắm tiện nghi
 Cuối cùng, người dùng cũng nên kiểm tra kỹ điện áp và công suất phù hợp với hệ thống điện gia đình trước khi mua, đặc biệt với các dòng máy sấy công suất lớn nhập khẩu, tránh tình trạng máy hoạt động không ổn định hoặc gây quá tải hệ thống điện trong nhà nếu không tương thích đúng tiêu chuẩn điện áp tại Việt Nam.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mOGTCiNdgVc/mqdefault.jpg" alt="May say toc phan khuc gia re van dam bao chat luong co ban" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mOGTCiNdgVc/mqdefault.jpg" alt="May say toc phan khuc gia re van dam bao chat luong co ban" loading="lazy" width="1280" height="480">
   <figcaption>Ở phân khúc giá rẻ, người mua vẫn có thể tìm được sản phẩm đảm bảo chất lượng sấy khô cơ bản. Nguồn: YouTube</figcaption>
 </figure>
 

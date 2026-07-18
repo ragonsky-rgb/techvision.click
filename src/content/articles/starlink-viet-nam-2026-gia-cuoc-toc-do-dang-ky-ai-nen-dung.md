@@ -77,7 +77,7 @@ Theo các con số công bố ban đầu, người dùng cá nhân tại Việt 
 Đây là mức cao hơn nhiều lần so với internet cáp quang phổ thông tại Việt Nam, vốn chỉ vài trăm nghìn đồng mỗi tháng. Cần lưu ý đây mới là mức dự kiến từ phía doanh nghiệp, giá chính thức sẽ được xác định và công bố theo quy định khi dịch vụ bắt đầu cung cấp, phụ thuộc vào tiến độ hoàn thiện hệ thống trạm gateway và chi phí vận hành thực tế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/QSyL_NhCwO4/maxresdefault.jpg" alt="Trải nghiệm tốc độ và độ trễ của internet vệ tinh Starlink tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/QSyL_NhCwO4/maxresdefault.jpg" alt="Trải nghiệm tốc độ và độ trễ của internet vệ tinh Starlink tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Starlink dùng vệ tinh quỹ đạo thấp cho độ trễ thấp hơn vệ tinh truyền thống. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Trước khi quyết định, người dùng nên đánh giá vài yếu tố th
 Tiếp theo là chi phí tổng thể và nhu cầu sử dụng. Với mức đầu tư thiết bị ban đầu cùng cước thuê bao hằng tháng cao hơn nhiều cáp quang, Starlink chỉ thực sự đáng tiền khi không có lựa chọn kết nối nào khác hoặc cần phương án dự phòng cho công việc quan trọng. Người dùng cũng nên tìm hiểu chính sách bảo hành, hỗ trợ kỹ thuật và điều kiện sử dụng trong giai đoạn thí điểm, vì đây là dịch vụ còn mới tại Việt Nam và khung pháp lý vẫn đang hoàn thiện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jcbxLftdbtQ/maxresdefault.jpg" alt="Tất cả về internet vệ tinh Starlink tại Việt Nam vì sao cần và không cần" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jcbxLftdbtQ/maxresdefault.jpg" alt="Tất cả về internet vệ tinh Starlink tại Việt Nam vì sao cần và không cần" loading="lazy" width="1280" height="720">
   <figcaption>Cần khoảng trời thoáng và cân nhắc chi phí trước khi lắp Starlink. Nguồn: YouTube</figcaption>
 </figure>
 

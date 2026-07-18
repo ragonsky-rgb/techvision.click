@@ -68,7 +68,7 @@ Nhu cầu làm mát tiết kiệm điện trong mùa hè nắng nóng khiến qu
 Ở phân khúc tầm trung, Sunhouse SHD7727 là lựa chọn nổi bật nhờ bình chứa nước dung tích lớn lên tới 40 lít, giúp duy trì khả năng làm mát bằng hơi nước suốt nhiều giờ liền mà không cần châm nước thường xuyên, rất tiện lợi khi sử dụng liên tục cả ngày lẫn đêm trong những ngày nắng nóng cao điểm. Sản phẩm còn tích hợp hệ thống tạo ion âm hỗ trợ lọc bụi, khử mùi hiệu quả, mang lại lợi ích kép vừa làm mát vừa cải thiện chất lượng không khí trong phòng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LuTKOeuLUks/hqdefault.jpg" alt="Review quat dieu hoa Sunhouse SHD7745 chi tiet tinh nang" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/LuTKOeuLUks/hqdefault.jpg" alt="Review quat dieu hoa Sunhouse SHD7745 chi tiet tinh nang" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết giúp người mua hiểu rõ hơn tính năng thực tế của các mẫu quạt điều hòa Sunhouse. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Nhu cầu làm mát tiết kiệm điện trong mùa hè nắng nóng khiến qu
 Với nhu cầu sử dụng liên tục cho không gian rộng suốt mùa hè, các mẫu quạt điều hòa cao cấp dùng động cơ đồng nguyên chất kết hợp công nghệ Inverter là lựa chọn đáng đầu tư nhất, giúp tiết kiệm tới 70% điện năng so với máy lạnh cùng công suất làm mát. Đây là lựa chọn phù hợp gia đình có không gian sinh hoạt chung rộng rãi, cần giải pháp làm mát hiệu quả nhưng vẫn kiểm soát tốt chi phí tiền điện hằng tháng trong mùa hè cao điểm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WCuFK7wQ0ZA/hqdefault.jpg" alt="Cap nhat gia va review quat dieu hoa Sunhouse 7727 moi nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WCuFK7wQ0ZA/hqdefault.jpg" alt="Cap nhat gia va review quat dieu hoa Sunhouse 7727 moi nhat" loading="lazy" width="1280" height="480">
   <figcaption>Cập nhật giá và đánh giá chi tiết giúp người mua nắm rõ thông tin trước khi quyết định đầu tư. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Với gia đình quan tâm sâu hơn tới chất lượng không khí trong nh�
 Trước khi quyết định xuống tiền, người dùng nên xác định rõ diện tích không gian cần làm mát và mức độ ẩm không khí tại khu vực sinh sống, vì quạt điều hòa hơi nước hoạt động hiệu quả nhất ở điều kiện độ ẩm vừa phải, phổ biến tại miền Bắc và miền Trung hơn so với miền Nam mùa mưa có độ ẩm cao. Nên ưu tiên mua tại các hệ thống bán lẻ điện máy uy tín để được hưởng chế độ bảo hành đầy đủ, đồng thời tận dụng các chương trình khuyến mãi, trả góp 0% lãi suất phổ biến hiện nay vào mùa hè cao điểm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bjvtkYRj1Xw/mqdefault.jpg" alt="So sanh cac mau quat dieu hoa dang mua nhat mua he 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/bjvtkYRj1Xw/mqdefault.jpg" alt="So sanh cac mau quat dieu hoa dang mua nhat mua he 2026" loading="lazy" width="1280" height="480">
   <figcaption>So sánh các mẫu quạt điều hòa đáng mua nhất giúp người dùng dễ đưa ra quyết định phù hợp. Nguồn: YouTube</figcaption>
 </figure>
 

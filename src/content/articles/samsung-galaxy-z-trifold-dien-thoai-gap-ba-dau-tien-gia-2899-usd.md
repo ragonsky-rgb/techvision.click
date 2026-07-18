@@ -76,7 +76,7 @@ Tương xứng với định vị đầu bảng, Galaxy Z TriFold sở hữu c�
 Về năng lượng, máy trang bị pin 5600mAh và hỗ trợ sạc nhanh có dây 45W, mức sạc nhanh mới trên dòng gập của Samsung, giúp rút ngắn thời gian nạp đầy. Với một thiết bị có màn hình lớn tiêu tốn nhiều điện, dung lượng pin và tốc độ sạc là yếu tố quan trọng để đảm bảo trải nghiệm cả ngày. Tổng thể, đây là cỗ máy mạnh mẽ, hướng tới người dùng cần hiệu năng và không gian hiển thị tối đa trong một thiết bị di động.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ECjRvTqZE6A/maxresdefault.jpg" alt="Galaxy Z TriFold gập ba chính thức với màn 10 inch cực lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ECjRvTqZE6A/maxresdefault.jpg" alt="Galaxy Z TriFold gập ba chính thức với màn 10 inch cực lớn" loading="lazy" width="1280" height="720">
   <figcaption>Màn 10 inch khi mở mang lại trải nghiệm như máy tính bảng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Với giá khởi điểm 2.899 USD cho bản 512GB, Galaxy Z TriFold là chiế
 Bên cạnh giá, sản phẩm thế hệ đầu luôn đi kèm những băn khoăn. Các bài đánh giá thực tế chỉ ra một số điểm cần lưu ý như độ dày và trọng lượng khi gập, độ bền lâu dài của hai bản lề, và mức độ tối ưu của phần mềm cho màn hình gập ba. Đây là những yếu tố mà người mua tiềm năng nên cân nhắc kỹ, đặc biệt khi đây là khoản đầu tư lớn vào một dạng thiết bị còn rất mới mẻ trên thị trường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SVb0Sg-ZQb8/maxresdefault.jpg" alt="Galaxy Z TriFold và các điểm yếu khi sử dụng thực tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SVb0Sg-ZQb8/maxresdefault.jpg" alt="Galaxy Z TriFold và các điểm yếu khi sử dụng thực tế" loading="lazy" width="1280" height="720">
   <figcaption>Độ dày khi gập và độ bền bản lề là điểm cần cân nhắc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Galaxy Z TriFold là minh chứng cho việc Samsung tiếp tục dẫn đầu t
 Như nhiều sản phẩm đột phá thế hệ đầu, Galaxy Z TriFold mang tính trình diễn công nghệ nhiều hơn là một thiết bị đại chúng. Giá trị của nó nằm ở việc mở đường cho các thế hệ sau hoàn thiện hơn, rẻ hơn và phổ biến hơn. Người dùng phổ thông chưa cần vội, nhưng với người yêu công nghệ, đây là cột mốc thú vị đánh dấu sự tiến hóa của điện thoại gập. Samsung cũng đang chuẩn bị làm mới dòng gập đôi, chi tiết trong bài [Galaxy Unpacked 22/7](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zdCwzUW8fiM/hqdefault.jpg" alt="Galaxy Z TriFold sau thời gian dùng các lưu ý trước khi mua" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zdCwzUW8fiM/hqdefault.jpg" alt="Galaxy Z TriFold sau thời gian dùng các lưu ý trước khi mua" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z TriFold mở đường cho các thế hệ gập ba hoàn thiện hơn. Nguồn: YouTube</figcaption>
 </figure>
 

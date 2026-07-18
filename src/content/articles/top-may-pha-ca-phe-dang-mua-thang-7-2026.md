@@ -68,7 +68,7 @@ Nhu cầu tự pha cà phê chất lượng ổn định tại nhà, thay vì ph
 Ở phân khúc tầm trung, các dòng máy pha cà phê Philips là lựa chọn nổi bật nhờ tích hợp sẵn bình đánh sữa tự động tiện lợi, giao diện sử dụng đơn giản, dễ làm quen ngay cả với người mới sử dụng lần đầu. Đây là lựa chọn phù hợp gia đình yêu thích các loại đồ uống có sữa như latte hay cappuccino, mà không cần thao tác đánh sữa thủ công phức tạp như trên các dòng máy bán tự động cơ bản.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hBizVHtVDu4/hqdefault.jpg" alt="Danh gia may pha ca phe tu dong De Longhi Dinamica cao cap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hBizVHtVDu4/hqdefault.jpg" alt="Danh gia may pha ca phe tu dong De Longhi Dinamica cao cap" loading="lazy" width="1280" height="480">
   <figcaption>Máy pha cà phê tự động De'Longhi Dinamica được đánh giá cao về chất lượng pha chế ổn định. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Nhu cầu tự pha cà phê chất lượng ổn định tại nhà, thay vì ph
 Với nhu cầu trải nghiệm cao cấp nhất, các dòng máy pha cà phê De'Longhi là lựa chọn đáng đầu tư nhất nhờ công nghệ tự động một chạm từ khâu xay hạt tới pha chế hoàn chỉnh, đảm bảo chất lượng đồng đều giữa các lần pha mà không cần can thiệp thủ công nhiều bước. Đây là lựa chọn phù hợp tín đồ cà phê sành sỏi, muốn trải nghiệm hương vị ổn định như ngoài quán ngay tại nhà mỗi ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Ae24TxRVnVM/mqdefault.jpg" alt="May pha ca phe gia dinh nen mua loai nao nam 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ae24TxRVnVM/mqdefault.jpg" alt="May pha ca phe gia dinh nen mua loai nao nam 2026" loading="lazy" width="1280" height="480">
   <figcaption>Lựa chọn máy pha cà phê phù hợp giúp tối ưu trải nghiệm thưởng thức cà phê hằng ngày tại nhà. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Nhiều gia đình hiện nay đang xây dựng góc bếp nhỏ gọn, tích h�
 Trước khi quyết định xuống tiền, người dùng nên xác định rõ mục đích sử dụng chính, ví dụ ưu tiên ngân sách tiết kiệm cho nhu cầu cơ bản, cần tính năng đánh sữa cho các loại đồ uống yêu thích, hay sẵn sàng đầu tư cho trải nghiệm cà phê cao cấp nhất tại nhà, vì mỗi mẫu máy trong danh sách đều có thế mạnh riêng phù hợp từng nhóm đối tượng khác nhau. Nên ưu tiên mua tại đại lý ủy quyền chính hãng để được hưởng chế độ bảo hành đầy đủ, đồng thời tận dụng các chương trình khuyến mãi, trả góp 0% lãi suất phổ biến hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/azvsJvhaujU/hqdefault.jpg" alt="Danh gia tong quan cac dong may pha ca phe gia dinh 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/azvsJvhaujU/hqdefault.jpg" alt="Danh gia tong quan cac dong may pha ca phe gia dinh 2026" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá tổng quan giúp người mua dễ dàng so sánh giữa các dòng máy pha cà phê gia đình hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 

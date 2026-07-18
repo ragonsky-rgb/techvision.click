@@ -76,7 +76,7 @@ Một điểm nổi bật trong bức tranh năm 2026 là sự vươn lên của
 Lý do TP.HCM hấp dẫn đến từ nhiều yếu tố: nhu cầu lớn từ cộng đồng doanh nghiệp, hạ tầng điện và viễn thông phát triển, cùng vị trí kết nối thuận lợi. Khi các doanh nghiệp đặt trung tâm dữ liệu gần nơi phát sinh nhu cầu, độ trễ giảm và dịch vụ ổn định hơn. Việc nhiều dự án mới tiếp tục được lên kế hoạch tại đây cho thấy xu hướng tập trung hạ tầng dữ liệu về thành phố sẽ còn tiếp diễn trong những năm tới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4GnPlxEijiw/maxresdefault.jpg" alt="Trung tâm dữ liệu Viettel IDC tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4GnPlxEijiw/maxresdefault.jpg" alt="Trung tâm dữ liệu Viettel IDC tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>TP.HCM tập trung nhiều trung tâm dữ liệu lớn của các nhà cung cấp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Sự bùng nổ của trí tuệ nhân tạo kéo theo nhu cầu khổng lồ v�
 Tại Việt Nam, không chỉ các tên tuổi lớn như Viettel, VNPT, FPT mà cả VNG, CMC cũng đua nhau mở rộng thị phần. Cuộc cạnh tranh này thúc đẩy đầu tư vào công nghệ xanh, tiết kiệm năng lượng và các tiêu chuẩn vận hành cao hơn. Nhu cầu lưu trữ dữ liệu trong nước theo quy định, cùng làn sóng chuyển đổi số của doanh nghiệp, càng tạo động lực cho thị trường phát triển. Hạ tầng tính toán mạnh cũng là điều kiện để Việt Nam tham gia sâu hơn vào chuỗi giá trị AI toàn cầu, vốn phụ thuộc nhiều vào phần cứng như đã thấy ở các hợp tác bộ nhớ trong bài [Nvidia và SK hynix hợp tác HBM4](/articles/nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Eu6eEmrI4qk/maxresdefault.jpg" alt="Hợp tác lập trung tâm dữ liệu AI tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Eu6eEmrI4qk/maxresdefault.jpg" alt="Hợp tác lập trung tâm dữ liệu AI tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Nhu cầu tính toán cho AI biến data center thành hạ tầng cốt lõi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Tại Việt Nam, không chỉ các tên tuổi lớn như Viettel, VNPT, FPT m�
 Bên cạnh đó, việc xây dựng data center đạt chuẩn quốc tế đòi hỏi vốn đầu tư lớn và nhân lực kỹ thuật chất lượng cao. Không phải doanh nghiệp nào cũng đủ nguồn lực tham gia, nên đây thực sự là cuộc chơi của các tập đoàn lớn. Tuy nhiên, sự cạnh tranh quyết liệt cũng thúc đẩy cả ngành nâng cao chất lượng dịch vụ và đổi mới công nghệ, mang lại lợi ích lâu dài cho hệ sinh thái số của Việt Nam.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5fU1SS8PDuI/maxresdefault.jpg" alt="Hệ thống bên trong data center của Viettel IDC" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5fU1SS8PDuI/maxresdefault.jpg" alt="Hệ thống bên trong data center của Viettel IDC" loading="lazy" width="1280" height="720">
   <figcaption>Bài toán điện năng và công nghệ xanh là thách thức lớn của data center. Nguồn: YouTube</figcaption>
 </figure>
 

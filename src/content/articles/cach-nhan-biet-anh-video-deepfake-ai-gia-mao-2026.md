@@ -76,7 +76,7 @@ Trong video và cuộc gọi, giọng nói là một điểm dễ lộ. Giọng 
 Quan trọng không kém là khẩu hình. Hãy quan sát xem chuyển động của miệng có trùng khớp với lời nói hay không. Trong nhiều deepfake, miệng và âm thanh bị lệch nhẹ, hoặc khẩu hình không đúng với các âm đang phát ra. Kẻ lừa đảo thường viện cớ mạng yếu để giải thích cho hình ảnh giật, mờ hay âm thanh trục trặc, nhằm che giấu các khuyết điểm này. Khi thấy một cuộc gọi video có chất lượng kém bất thường kèm yêu cầu gấp, hãy nâng cao cảnh giác.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bCtxEsyGegg/maxresdefault.jpg" alt="Năm dấu hiệu nhận biết cuộc gọi video giả mạo lừa đảo deepfake" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bCtxEsyGegg/maxresdefault.jpg" alt="Năm dấu hiệu nhận biết cuộc gọi video giả mạo lừa đảo deepfake" loading="lazy" width="1280" height="720">
   <figcaption>Khẩu hình lệch giọng và hình ảnh giật là dấu hiệu cảnh báo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Hình thức lừa đảo phổ biến nhất là cuộc gọi video deepfake gi
 Nguyên tắc vàng là luôn nghi ngờ mọi yêu cầu chuyển tiền hoặc cung cấp thông tin nhạy cảm qua cuộc gọi, dù người gọi trông và nghe giống người quen tới đâu. Hãy tắt máy và chủ động gọi lại qua số điện thoại bạn đã lưu, hoặc liên hệ qua một kênh khác để kiểm chứng. Một mẹo hữu ích là đặt một câu hỏi riêng tư mà chỉ người thật mới trả lời được. Tuyệt đối không chuyển tiền khi chưa xác minh chắc chắn, vì đây là điều kẻ lừa đảo nhắm tới. Có thể tham khảo thêm bài [cách nhận biết và phòng tránh lừa đảo online](/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/P9WaUZZY0iU/maxresdefault.jpg" alt="Cách tránh bẫy lừa đảo bằng deepfake" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/P9WaUZZY0iU/maxresdefault.jpg" alt="Cách tránh bẫy lừa đảo bằng deepfake" loading="lazy" width="1280" height="720">
   <figcaption>Luôn xác minh qua kênh khác trước khi chuyển tiền. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Bên cạnh việc nhận biết, có những thói quen giúp giảm rủi ro t
 Đồng thời, hãy chia sẻ kiến thức này với người thân, đặc biệt là người lớn tuổi, vốn là nhóm dễ bị nhắm tới. Thống nhất trước một quy ước trong gia đình, chẳng hạn một câu hỏi bí mật hoặc nguyên tắc luôn gọi lại để xác minh khi có yêu cầu chuyển tiền. Về công cụ, dù có một số dịch vụ hỗ trợ phát hiện deepfake, chúng không hoàn hảo và công nghệ giả mạo liên tục tiến bộ, nên cảnh giác và kiểm chứng vẫn là lá chắn quan trọng nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZmdiWwFqHt8/hqdefault.jpg" alt="Lật mặt kẻ giả mạo sử dụng công nghệ deepfake" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZmdiWwFqHt8/hqdefault.jpg" alt="Lật mặt kẻ giả mạo sử dụng công nghệ deepfake" loading="lazy" width="1280" height="720">
   <figcaption>Chia sẻ kiến thức cho người thân giúp giảm rủi ro bị lừa. Nguồn: YouTube</figcaption>
 </figure>
 

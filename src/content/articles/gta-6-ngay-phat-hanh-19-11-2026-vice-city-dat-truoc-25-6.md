@@ -76,7 +76,7 @@ Cùng với việc chốt ngày phát hành, Rockstar công bố ảnh bìa mớ
 Đáng chú ý, ngày 25/6 cũng được kỳ vọng là thời điểm ra mắt trailer thứ ba của game, hé lộ thêm về thế giới và lối chơi. Các trailer trước của GTA 6 đều lập kỷ lục về lượt xem, cho thấy sức hút khổng lồ của thương hiệu. Người chơi nên theo dõi kênh chính thức của Rockstar để cập nhật thông tin và đặt trước qua nguồn uy tín, tránh các nội dung giả mạo thường xuất hiện quanh những tựa game đình đám.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wmQBYzhvArQ/maxresdefault.jpg" alt="GTA 6 công bố ảnh bìa mới và chi tiết đặt trước" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wmQBYzhvArQ/maxresdefault.jpg" alt="GTA 6 công bố ảnh bìa mới và chi tiết đặt trước" loading="lazy" width="1280" height="720">
   <figcaption>Rockstar mở đặt trước GTA 6 từ ngày 25/6. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về nội dung, GTA 6 đưa người chơi trở lại Vice City, thành phố 
 Sự trở lại của một bối cảnh quen thuộc kết hợp với phần cứng hiện đại hứa hẹn mang lại trải nghiệm vượt xa các phần trước. GTA luôn nổi tiếng với thế giới mở sống động, cốt truyện sâu và chế độ chơi mạng đồ sộ. Với sức mạnh của console thế hệ hiện tại, GTA 6 có điều kiện để khai thác tối đa, tạo nên trải nghiệm chơi game mà nhiều người đã chờ đợi suốt nhiều năm. Cuộc đua phần cứng chơi game cũng vì thế nóng hơn, như có thể thấy ở bài [RTX 5090 vs 5090 Ti](/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/p_EcLWixxis/maxresdefault.jpg" alt="GTA 6 trở lại Vice City trong bang Leonida hiện đại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/p_EcLWixxis/maxresdefault.jpg" alt="GTA 6 trở lại Vice City trong bang Leonida hiện đại" loading="lazy" width="1280" height="720">
   <figcaption>GTA 6 đưa người chơi trở lại Vice City hiện đại. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ GTA 6 không chỉ là một tựa game mà còn là sự kiện có sức ảnh
 Về mặt thương mại, GTA 6 được kỳ vọng lập kỷ lục doanh thu, nối tiếp thành công khổng lồ của phần trước vốn là một trong những sản phẩm giải trí ăn khách nhất mọi thời đại. Take-Two, công ty mẹ của Rockstar, đặt nhiều kỳ vọng vào tựa game này cho kết quả kinh doanh. Với cộng đồng, đây là khoảnh khắc được mong đợi từ lâu, và mọi diễn biến tới ngày 19/11 sẽ tiếp tục được theo dõi sát sao. Sự cạnh tranh giữa các nền tảng game cũng được hưởng lợi, như phân tích trong bài [Nintendo Switch 2 sau một năm](/articles/nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/c8VdhviXXUk/maxresdefault.jpg" alt="GTA 6 tác động lớn tới ngành game năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/c8VdhviXXUk/maxresdefault.jpg" alt="GTA 6 tác động lớn tới ngành game năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>GTA 6 được dự báo tạo cú hích lớn cho ngành game. Nguồn: YouTube</figcaption>
 </figure>
 

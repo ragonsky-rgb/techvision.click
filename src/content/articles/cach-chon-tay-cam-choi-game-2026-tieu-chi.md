@@ -71,7 +71,7 @@ Ngoài khả năng ghép nối nhanh, người dùng cũng nên kiểm tra xem t
 Cảm biến haptic và rung phản hồi thích ứng mô phỏng cảm giác vật lý chi tiết hơn rung động cơ học truyền thống rất nhiều, ví dụ cảm giác kéo căng dây cung, bề mặt gồ ghề khác nhau dưới chân nhân vật, hay lực cản khi bóp cò súng trong game bắn súng. Công nghệ này giúp trải nghiệm chơi game sống động và chân thực hơn đáng kể, đặc biệt trên các tựa game AAA được tối ưu riêng để tận dụng tối đa khả năng phản hồi haptic của tay cầm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9xQphxydZ_k/hqdefault.jpg" alt="8BitDo Ultimate 2 tay cam da nen tang danh gia chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/9xQphxydZ_k/hqdefault.jpg" alt="8BitDo Ultimate 2 tay cam da nen tang danh gia chi tiet" loading="lazy" width="1280" height="480">
   <figcaption>8BitDo Ultimate 2 là một trong những tay cầm đa nền tảng được đánh giá cao về chất lượng hoàn thiện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Với người dùng đang xây dựng bộ gear gaming hoàn chỉnh, có thể
 Hiện tượng trôi cần (stick drift), khi cần analog tự động di chuyển dù không có tác động, từng là vấn đề phổ biến trên nhiều dòng tay cầm sử dụng chiết áp điện trở truyền thống sau một thời gian sử dụng. Các dòng tay cầm thế hệ mới chuyển sang cảm biến từ tính công nghệ Hall Effect hoặc TMR không có tiếp xúc cơ học, giúp giảm đáng kể nguy cơ hao mòn và trôi cần theo thời gian, một cải tiến đáng cân nhắc với người dùng từng gặp vấn đề này trên tay cầm đời cũ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/cUyak2P3u_M/hqdefault.jpg" alt="Tay cam ROG Raikiri II khong con troi can nho cam bien tu tinh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/cUyak2P3u_M/hqdefault.jpg" alt="Tay cam ROG Raikiri II khong con troi can nho cam bien tu tinh" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều tay cầm thế hệ mới đã chuyển sang cảm biến từ tính để loại bỏ hoàn toàn hiện tượng trôi cần. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Hiện tượng trôi cần (stick drift), khi cần analog tự động di chuy
 Với người có nhu cầu chơi game liên tục nhiều giờ, thời lượng pin là yếu tố cần cân nhắc kỹ trước khi chọn mua. Các dòng tay cầm không dây hiện nay thường có thời lượng pin dao động 20-40 giờ mỗi lần sạc tùy thương hiệu và tính năng đi kèm, ví dụ tay cầm tích hợp nhiều cảm biến haptic thường tiêu tốn pin nhanh hơn tay cầm cơ bản. Nên ưu tiên các mẫu hỗ trợ sạc nhanh qua USB-C để giảm thời gian chờ đợi khi pin cạn giữa buổi chơi game, đồng thời kiểm tra xem tay cầm có hỗ trợ vừa sạc vừa chơi qua dây cáp hay không, tránh tình huống phải dừng chơi giữa chừng để chờ sạc đầy pin.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mFXNtgwiYRs/hqdefault.jpg" alt="So sanh nhieu tay cam choi game PC danh gia thoi luong pin" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mFXNtgwiYRs/hqdefault.jpg" alt="So sanh nhieu tay cam choi game PC danh gia thoi luong pin" loading="lazy" width="1280" height="480">
   <figcaption>So sánh nhiều dòng tay cầm chơi game PC khác nhau về thời lượng pin và hiệu năng tổng thể. Nguồn: YouTube</figcaption>
 </figure>
 

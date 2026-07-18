@@ -60,7 +60,7 @@ Chỉ vài năm trước, một chiếc điện thoại pin 5.000mAh đã đư�
 Pin lithium trên điện thoại từ trước tới nay dùng cực âm bằng than chì, vật liệu có giới hạn lưu trữ ion lithium khá thấp, khoảng 372 mAh cho mỗi gram. Silicon thì khác hẳn: về lý thuyết nó lưu được tới khoảng 4.200 mAh mỗi gram, tức nhiều gấp chừng mười lần theo khối lượng. Khi thay một phần than chì bằng silicon, mật độ năng lượng của cả viên pin tăng vọt, giúp cùng một thể tích có thể chứa nhiều điện hơn đáng kể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5FUEQB6LNk8/hqdefault.jpg" alt="Honor Win pin 10000mAh Silicon-Carbon và quạt tản nhiệt tích hợp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5FUEQB6LNk8/hqdefault.jpg" alt="Honor Win pin 10000mAh Silicon-Carbon và quạt tản nhiệt tích hợp" loading="lazy" width="1280" height="720">
   <figcaption>Honor Win đóng gói pin 10.000mAh cùng quạt tản nhiệt mà thân máy vẫn mỏng nhờ pin Silicon-Carbon. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -71,14 +71,14 @@ Nhờ mật độ năng lượng có thể cao hơn khoảng 40% so với pin Li
 Dẫn đầu cuộc đua là Honor. Bộ đôi Honor Win và Win RT gây tiếng vang với pin 10.000mAh, sạc 100W có dây và 80W không dây, màn hình 6,83 inch OLED 1.5K 185Hz, độ sáng đỉnh HDR tới 6.000 nit, chip Snapdragon 8 Elite Gen 5 và đặc biệt là một quạt tản nhiệt tích hợp phục vụ chơi game. Honor Power 2 thậm chí nhích lên 10.080mAh mà vẫn giữ dáng máy hợp lý.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/CpsUZLfwDwo/hqdefault.jpg" alt="Honor Win RT pin 10000mAh sạc nhanh 100W" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/CpsUZLfwDwo/hqdefault.jpg" alt="Honor Win RT pin 10000mAh sạc nhanh 100W" loading="lazy" width="1280" height="720">
   <figcaption>Bộ đôi Honor Win và Win RT đại diện cho làn sóng smartphone pin 10.000mAh của năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
 Không chỉ Honor, cả iQOO và Realme cũng nhập cuộc. iQOO Z11 mang pin khoảng 9.020mAh với sạc 90W, còn iQOO 15T dùng cực âm Silicon-Carbon với dung lượng trên 8.000mAh đi cùng chip Dimensity 9500 và camera 200MP. Các mẫu Realme dòng Power được ghi nhận dung lượng quanh 10.001mAh kèm sạc 80W, biến pin khủng thành đặc điểm nhận diện của cả một phân khúc chứ không còn là ngoại lệ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2l4bw9lAV2Y/hqdefault.jpg" alt="Honor Power 2 pin 10080mAh dùng công nghệ Silicon-Carbon" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2l4bw9lAV2Y/hqdefault.jpg" alt="Honor Power 2 pin 10080mAh dùng công nghệ Silicon-Carbon" loading="lazy" width="1280" height="720">
   <figcaption>Honor Power 2 đẩy dung lượng lên tới 10.080mAh mà vẫn giữ được kích thước hợp lý. Nguồn: YouTube</figcaption>
 </figure>
 

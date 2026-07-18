@@ -60,7 +60,7 @@ Nhu cầu nâng cấp không gian làm việc và chơi game tại nhà tiếp t
 Ngoài chất liệu vải lưới, người mua ở phân khúc giá tốt cũng nên chú ý tải trọng khuyến nghị của ghế, thường 100-120kg với dòng phổ thông, đủ dùng cho phần lớn người dùng có vóc dáng trung bình. Một số mẫu giá tốt hiện nay vẫn trang bị gối tựa đầu và gối tựa thắt lưng rời, giúp cải thiện đáng kể sự thoải mái so với ghế văn phòng thông thường cùng tầm giá.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WQEkEfQs5vs/hqdefault.jpg" alt="Ghe gaming van phong danh gia tot nhat theo tam gia" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WQEkEfQs5vs/hqdefault.jpg" alt="Ghe gaming van phong danh gia tot nhat theo tam gia" loading="lazy" width="1280" height="480">
   <figcaption>Xếp hạng các mẫu ghế gaming và ghế văn phòng tốt nhất theo từng mức giá khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Ngoài chất liệu vải lưới, người mua ở phân khúc giá tốt cũn
 Nhiều mẫu tầm trung hiện nay cũng đã tích hợp cơ chế lumbar điều chỉnh độ lồi ngay trên khung ghế thay vì chỉ dùng gối tựa rời, giúp hỗ trợ thắt lưng ổn định và đồng đều hơn suốt cả ngày làm việc. Đây là bước nâng cấp đáng giá so với phân khúc giá tốt, đặc biệt với người thường xuyên gặp vấn đề đau lưng dưới khi ngồi lâu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Yj4LUFn-cSg/hqdefault.jpg" alt="So sanh DXRacer va Secretlab nen chon loai nao" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Yj4LUFn-cSg/hqdefault.jpg" alt="So sanh DXRacer va Secretlab nen chon loai nao" loading="lazy" width="1280" height="480">
   <figcaption>So sánh chi tiết giữa DXRacer và Secretlab giúp người dùng dễ dàng lựa chọn theo ngân sách và nhu cầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Nhiều mẫu tầm trung hiện nay cũng đã tích hợp cơ chế lumbar đi
 Với nhu cầu ngồi nhiều giờ mỗi ngày trong nhiều năm, ghế gaming Secretlab là lựa chọn đáng đầu tư nhất, nhờ độ hoàn thiện cao, chất lượng đệm êm ái bền bỉ theo thời gian, cùng khung ghế chắc chắn và piston nâng hạ đạt chuẩn an toàn cao. Sản phẩm còn được đánh giá cao về độ chính xác trong cơ chế điều chỉnh tay vịn và tựa lưng, mang lại trải nghiệm sử dụng ổn định và đáng tin cậy hơn nhiều so với các dòng ghế gaming giá rẻ không rõ nguồn gốc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5W4j9PCwobI/hqdefault.jpg" alt="Secretlab Titan Evo ghe gaming cao cap hoan thien tot nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/5W4j9PCwobI/hqdefault.jpg" alt="Secretlab Titan Evo ghe gaming cao cap hoan thien tot nhat" loading="lazy" width="1280" height="480">
   <figcaption>Secretlab Titan Evo được đánh giá là một trong những ghế gaming cao cấp hoàn thiện tốt nhất hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 

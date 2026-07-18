@@ -76,7 +76,7 @@ Sức mạnh đằng sau các tính năng chỉnh ảnh là mô hình Firefly Im
 Đi kèm là bộ công cụ chỉnh sửa bằng AI khá toàn diện trong Firefly Image Editor. Generative Fill cho phép thêm, thay hoặc tinh chỉnh các thành phần với kết quả hiểu ngữ cảnh; Generative Remove xóa nhanh vật thể không mong muốn; Generative Expand mở rộng ảnh sang khung hình mới; Generative Upscale tăng độ phân giải và làm sắc nét; và xóa nền chỉ với một thao tác. Bộ công cụ này bao quát hầu hết nhu cầu chỉnh sửa ảnh phổ biến, giúp tiết kiệm nhiều thời gian.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2CKbKbaEulI/maxresdefault.jpg" alt="Tạo ảnh AI trong Photoshop với Adobe Firefly" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2CKbKbaEulI/maxresdefault.jpg" alt="Tạo ảnh AI trong Photoshop với Adobe Firefly" loading="lazy" width="1280" height="720">
   <figcaption>Firefly Image Model 5 cho ảnh chân thực hơn trong Photoshop. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bước đi tham vọng nhất là Firefly AI Assistant, ra mắt vào tháng 4/
 Đây là hướng đi cho thấy AI đang chuyển từ công cụ hỗ trợ từng thao tác sang trợ lý chủ động đảm nhận cả quy trình. Với người làm sáng tạo, điều này có thể giúp tự động hóa các công việc lặp lại và phối hợp giữa nhiều ứng dụng, vốn trước đây tốn nhiều thời gian. Tuy nhiên, nó cũng đặt ra câu hỏi về vai trò của con người trong quy trình sáng tạo, khi AI ngày càng đảm nhận nhiều khâu. Đây là chủ đề đáng theo dõi khi các công cụ tác tử phổ biến hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rUfo6RXf1dE/maxresdefault.jpg" alt="Mô hình tạo ảnh mới trong Photoshop của Adobe" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rUfo6RXf1dE/maxresdefault.jpg" alt="Mô hình tạo ảnh mới trong Photoshop của Adobe" loading="lazy" width="1280" height="720">
   <figcaption>Firefly AI Assistant tự điều phối quy trình đa bước qua nhiều app. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một động thái đáng chú ý là Adobe mở Firefly cho hơn 25 mô hình 
 Bên cạnh đó, Firefly cho phép huấn luyện mô hình tùy chỉnh, đang ở bản beta công khai, giúp người dùng đào tạo mô hình trên ảnh của chính mình để nắm bắt một phong cách, nhân vật hay phong cách ảnh cụ thể. Tính năng này hữu ích cho các thương hiệu và nhà sáng tạo muốn giữ sự nhất quán về phong cách. Việc kết hợp đa mô hình và mô hình tùy chỉnh cho thấy Adobe muốn phục vụ cả nhu cầu linh hoạt lẫn cá nhân hóa của giới sáng tạo chuyên nghiệp. Bối cảnh AI tạo nội dung rộng hơn được đề cập trong bài [cuộc đua AI tạo video 2026](/articles/ai-tao-video-2026-sora-2-dong-cua-veo-gemini-omni-flash-dan-dat.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Gni6gzKrXzY/maxresdefault.jpg" alt="Hướng dẫn Adobe Firefly 2026 cho người mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Gni6gzKrXzY/maxresdefault.jpg" alt="Hướng dẫn Adobe Firefly 2026 cho người mới" loading="lazy" width="1280" height="720">
   <figcaption>Firefly mở cửa cho nhiều mô hình AI và mô hình tùy chỉnh. Nguồn: YouTube</figcaption>
 </figure>
 

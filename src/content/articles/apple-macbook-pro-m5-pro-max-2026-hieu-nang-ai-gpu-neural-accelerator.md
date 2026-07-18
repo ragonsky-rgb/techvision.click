@@ -76,7 +76,7 @@ Việc Apple đặt trọng tâm vào hiệu năng AI phản ánh xu hướng ch
 Với lập trình viên và nhà nghiên cứu, khả năng AI mạnh cho phép chạy và thử nghiệm các mô hình AI cục bộ hiệu quả hơn, hữu ích khi cần xử lý dữ liệu riêng tư hoặc làm việc không phụ thuộc kết nối mạng. Đây là lợi thế trong thời đại AI, khi nhu cầu tính toán cho học máy tăng cao. Apple cạnh tranh trực tiếp với các nền tảng khác cũng nhấn mạnh NPU như chip Snapdragon và Intel, dù mỗi bên có cách tiếp cận riêng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mZFsLsNoMLY/maxresdefault.jpg" alt="Trải nghiệm thực tế MacBook Pro M5 Max 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mZFsLsNoMLY/maxresdefault.jpg" alt="Trải nghiệm thực tế MacBook Pro M5 Max 2026" loading="lazy" width="1280" height="720">
   <figcaption>GPU gắn Neural Accelerator tăng tốc các tác vụ AI sáng tạo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh dòng Pro mạnh mẽ, Apple cũng ra mắt MacBook Air với chip M
 Sự phân tầng giữa MacBook Air và MacBook Pro giúp người dùng chọn đúng máy theo nhu cầu và ngân sách. Không phải ai cũng cần tới sức mạnh của M5 Pro hay M5 Max, vốn đi kèm mức giá cao. Với người dùng phổ thông, MacBook Air M5 hoặc thậm chí các đời máy trước đã quá đủ. Việc xác định rõ nhu cầu trước khi mua giúp tránh trả thêm tiền cho sức mạnh không dùng tới, một nguyên tắc quan trọng khi chọn laptop nói chung.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5RJsSFDjs-A/maxresdefault.jpg" alt="Apple M5 Max MacBook Pro benchmark test hiệu năng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5RJsSFDjs-A/maxresdefault.jpg" alt="Apple M5 Max MacBook Pro benchmark test hiệu năng" loading="lazy" width="1280" height="720">
   <figcaption>Apple phân tầng MacBook Air và Pro cho các nhu cầu khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một câu hỏi nhiều người quan tâm là nên mua MacBook Pro M5 ngay hay
 Tuy nhiên, nếu bạn cần một chiếc máy mạnh ngay cho công việc, MacBook Pro M5 Pro hoặc M5 Max hiện tại là lựa chọn xuất sắc, với hiệu năng dư sức đáp ứng nhiều năm tới. Việc chờ bản OLED đồng nghĩa phải đợi khá lâu và chấp nhận máy hiện tại vẫn bán. Quyết định phụ thuộc vào mức độ cấp thiết của nhu cầu và sự coi trọng thiết kế mới. Người dùng cũng có thể so sánh với các nền tảng Windows như [Intel Panther Lake](/articles/intel-panther-lake-core-ultra-3-ces-2026-18a-npu-ai-pc.html) trước khi quyết định.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/CbGdf2jW4JY/maxresdefault.jpg" alt="MacBook Pro 2026 với M5 Pro và M5 Max kỳ vọng lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/CbGdf2jW4JY/maxresdefault.jpg" alt="MacBook Pro 2026 với M5 Pro và M5 Max kỳ vọng lớn" loading="lazy" width="1280" height="720">
   <figcaption>Bản MacBook Pro thiết kế lại với màn OLED dự kiến cuối 2026 tới 2027. Nguồn: YouTube</figcaption>
 </figure>
 

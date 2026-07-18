@@ -68,7 +68,7 @@ Ngày 9/6/2026, Anthropic ra mắt Claude Mythos 5 dưới dạng bản xem trư
 Theo nhiều nguồn tin, nguyên nhân trực tiếp dẫn tới lệnh kiểm soát là cảnh báo từ các nhà nghiên cứu Amazon về khả năng Fable 5 có thể bị jailbreak, tức bị lách các biện pháp bảo vệ, để tạo ra mã khai thác lỗ hổng phần mềm trong một số trường hợp thử nghiệm. Cố vấn công nghệ Nhà Trắng David Sacks cho biết chính phủ đã cảnh báo Anthropic về lỗ hổng này, nhưng CEO Dario Amodei ban đầu đánh giá đây không phải rủi ro nghiêm trọng và không đồng ý khắc phục ngay lập tức. Bên cạnh đó, có nghi vấn một nhóm liên quan tới Trung Quốc đã truy cập được mô hình, dù nghi vấn này chưa được Nhà Trắng xác nhận chính thức là nguyên nhân cốt lõi của lệnh kiểm soát.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/E_bsDueN9Wg/sddefault.jpg" alt="My go bo han che voi mo hinh AI tien tien cua Anthropic" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/E_bsDueN9Wg/sddefault.jpg" alt="My go bo han che voi mo hinh AI tien tien cua Anthropic" loading="lazy" width="1280" height="480">
   <figcaption>Việc gỡ bỏ hạn chế đánh dấu kết thúc gần ba tuần căng thẳng giữa Anthropic và cơ quan quản lý Mỹ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Từ góc độ theo dõi ngành AI, tôi cho rằng sự việc này là minh c
 Với người dùng công nghệ tại Việt Nam đang sử dụng các công cụ AI trong công việc hằng ngày, sự việc cũng là lời nhắc rằng ngay cả những mô hình AI tiên tiến nhất cũng có thể bị hạn chế truy cập bất ngờ vì lý do chính sách, nên cân nhắc không phụ thuộc hoàn toàn vào một nhà cung cấp AI duy nhất cho các công việc quan trọng, đồng thời luôn cập nhật thêm kiến thức về [cách viết prompt AI hiệu quả](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html) để có thể linh hoạt chuyển đổi giữa nhiều công cụ AI khác nhau khi cần thiết.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xqonGZECDq4/hqdefault.jpg" alt="Phan tich quoc te ve viec go bo kiem soat xuat khau AI cua My" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xqonGZECDq4/hqdefault.jpg" alt="Phan tich quoc te ve viec go bo kiem soat xuat khau AI cua My" loading="lazy" width="1280" height="480">
   <figcaption>Các hãng tin quốc tế đưa tin rộng rãi về diễn biến gỡ bỏ kiểm soát xuất khẩu mô hình AI của Mỹ. Nguồn: YouTube</figcaption>
 </figure>
 
 Sự việc cũng cho thấy tầm quan trọng của việc các công ty AI xây dựng quan hệ hợp tác minh bạch với cơ quan quản lý ngay từ giai đoạn phát triển sản phẩm, thay vì chỉ phản ứng bị động khi có sự cố xảy ra. Đây là bài học chung cho toàn ngành, không riêng gì Anthropic, trong bối cảnh các mô hình AI ngày càng có năng lực mạnh mẽ, kéo theo rủi ro an ninh mạng và địa chính trị phức tạp hơn mà cả doanh nghiệp lẫn chính phủ đều cần thời gian để xây dựng khung quản lý phù hợp, tương tự cách [Google liên tục cập nhật các mô hình Gemini để cân bằng giữa tốc độ và chi phí vận hành](/articles/google-gemini-3-flash-mo-hinh-ai-mac-dinh-nhanh-tiet-kiem-2026.html) trong khi vẫn phải đảm bảo các tiêu chuẩn an toàn cần thiết.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/E_bsDueN9Wg/mqdefault.jpg" alt="Anthropic khoi phuc truy cap quoc te cho Fable 5 Mythos 5" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/E_bsDueN9Wg/mqdefault.jpg" alt="Anthropic khoi phuc truy cap quoc te cho Fable 5 Mythos 5" loading="lazy" width="1280" height="480">
   <figcaption>Anthropic bắt đầu khôi phục quyền truy cập quốc tế cho hai mô hình sau khi lệnh kiểm soát được gỡ bỏ. Nguồn: YouTube</figcaption>
 </figure>
 

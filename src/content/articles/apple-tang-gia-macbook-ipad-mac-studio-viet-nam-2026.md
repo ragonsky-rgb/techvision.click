@@ -74,7 +74,7 @@ Mức tăng giá này diễn ra trên diện rộng, không chỉ riêng tại V
 Apple xác nhận nguyên nhân chính của đợt tăng giá lần này là chi phí chip nhớ DRAM và bộ nhớ lưu trữ NAND tăng vọt trên toàn cầu. Nhu cầu khổng lồ từ các trung tâm dữ liệu phục vụ trí tuệ nhân tạo đang thu mua linh kiện nhớ với quy mô chưa từng có, đẩy giá DRAM tăng tới 98% chỉ trong quý 1/2026, và được dự báo tiếp tục tăng thêm 58-63% trong quý hiện tại. CEO Tim Cook gọi đây là tình trạng "trăm năm có một" và cho biết chưa từng thấy điều gì tương tự trong hơn 40 năm làm việc trong ngành công nghệ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KEDZ2Id0mg4/hqdefault.jpg" alt="Khung hoang chip nho DRAM NAND day gia Apple tang manh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/KEDZ2Id0mg4/hqdefault.jpg" alt="Khung hoang chip nho DRAM NAND day gia Apple tang manh" loading="lazy" width="1280" height="480">
   <figcaption>Nhu cầu chip nhớ từ trung tâm dữ liệu AI khiến giá DRAM tăng vọt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Theo Tim Cook, Apple đã cố gắng tự gánh phần lớn chi phí tăng t�
 Đáng chú ý, không phải tất cả sản phẩm của Apple đều tăng giá trong đợt điều chỉnh này. iPhone, Apple Watch, AirPods, Studio Display và các phụ kiện như Apple Pencil hiện vẫn giữ nguyên giá bán. Điều này cho thấy mức tăng giá chỉ tập trung vào các dòng sản phẩm sử dụng nhiều bộ nhớ RAM và lưu trữ trong cấu hình, vốn là những thành phần chịu tác động trực tiếp từ tình trạng khan hiếm chip nhớ hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/cey6Bv9HV1Y/hqdefault.jpg" alt="iPhone Apple Watch AirPods khong bi anh huong tang gia" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/cey6Bv9HV1Y/hqdefault.jpg" alt="iPhone Apple Watch AirPods khong bi anh huong tang gia" loading="lazy" width="1280" height="480">
   <figcaption>iPhone, Apple Watch và AirPods chưa bị ảnh hưởng trong đợt tăng giá này. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Việc Apple chọn cách điều chỉnh có chọn lọc, thay vì tăng giá 
 Với người dùng đang sở hữu MacBook hoặc cân nhắc nâng cấp, đây cũng là thời điểm hợp lý để tìm hiểu thêm về các dòng sản phẩm cao cấp như [MacBook Pro M5 Pro, M5 Max với hiệu năng AI vượt trội](/articles/apple-macbook-pro-m5-pro-max-2026-hieu-nang-ai-gpu-neural-accelerator.html), từ đó cân đối giữa nhu cầu sử dụng thực tế và ngân sách trong bối cảnh giá thiết bị Apple đang có xu hướng tăng trên toàn cầu. Nhìn chung, đợt tăng giá lần này là lời nhắc nhở rõ ràng về tác động lan rộng của cuộc đua đầu tư hạ tầng AI toàn cầu, không chỉ ảnh hưởng tới các tập đoàn công nghệ lớn mà còn trực tiếp tới túi tiền của người tiêu dùng cuối.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KEDZ2Id0mg4/mqdefault.jpg" alt="Apple tang gia toan cau anh huong thi truong cong nghe" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/KEDZ2Id0mg4/mqdefault.jpg" alt="Apple tang gia toan cau anh huong thi truong cong nghe" loading="lazy" width="1280" height="480">
   <figcaption>Đợt tăng giá của Apple diễn ra trên phạm vi toàn cầu, không riêng tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 

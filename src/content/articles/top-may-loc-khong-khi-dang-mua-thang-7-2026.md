@@ -70,7 +70,7 @@ Trước khi chọn mua, người dùng nên xác định rõ tiêu chí phù h�
 Ở phân khúc tầm trung, các dòng máy lọc không khí Sharp là lựa chọn nổi bật nhờ công nghệ Plasmacluster độc quyền, phát ion dương và âm vào không khí để khử khuẩn, khử mùi hiệu quả, không chỉ đơn thuần lọc bụi qua màng HEPA như phần lớn đối thủ cạnh tranh. Công nghệ này đặc biệt hữu ích trong việc loại bỏ mùi hôi từ thú cưng, mùi thức ăn hay mùi ẩm mốc, mang lại không gian sống thơm tho hơn bên cạnh không khí sạch bụi. Sharp cũng được đánh giá cao về độ bền, hoạt động ổn định lâu dài, phù hợp với những gia đình ưu tiên chất lượng lâu dài hơn là chỉ chú trọng vào giá bán ban đầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gZcAHv7NJmY/hqdefault.jpg" alt="Xiaomi Air Purifier 4 Lite review sau thoi gian su dung 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/gZcAHv7NJmY/hqdefault.jpg" alt="Xiaomi Air Purifier 4 Lite review sau thoi gian su dung 2026" loading="lazy" width="1280" height="480">
   <figcaption>Xiaomi Air Purifier 4 Lite được nhiều người dùng đánh giá tốt sau thời gian dài sử dụng thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,14 +79,14 @@ Trước khi chọn mua, người dùng nên xác định rõ tiêu chí phù h�
 Với gia đình có phòng khách rộng hoặc nhà nhiều tầng, các dòng máy lọc không khí Coway đến từ Hàn Quốc là lựa chọn đáng tin cậy nhất trong phân khúc cao cấp. Coway có dải sản phẩm đa dạng với giá từ 3,4 triệu đồng cho các dòng phổ thông tới hơn 22,9 triệu đồng cho các dòng công suất lớn, tích hợp nhiều tính năng thông minh như cảm biến bụi mịn PM1.0, chế độ tự động điều chỉnh công suất theo chất lượng không khí thực tế và thiết kế trang nhã phù hợp không gian phòng khách sang trọng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zY0dBi87Oi8/hqdefault.jpg" alt="Coway AP-1019C thiet ke trang nha loi loc de thay 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zY0dBi87Oi8/hqdefault.jpg" alt="Coway AP-1019C thiet ke trang nha loi loc de thay 2026" loading="lazy" width="1280" height="480">
   <figcaption>Coway AP-1019C với thiết kế trang nhã và lõi lọc dễ thay thế, phù hợp phân khúc cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 
 Một điểm cộng khác của Coway là dịch vụ chăm sóc khách hàng và bảo trì định kỳ khá bài bản tại thị trường Việt Nam, với đội ngũ kỹ thuật viên có thể tới tận nhà kiểm tra, thay lõi lọc theo lịch hẹn, phù hợp với những gia đình bận rộn không có nhiều thời gian tự theo dõi tình trạng lõi lọc. Mức giá cao hơn của Coway so với Xiaomi hay Sharp phần lớn phản ánh chi phí cho chất lượng linh kiện, độ bền động cơ vận hành liên tục nhiều năm và dịch vụ hậu mãi đi kèm, phù hợp nhóm khách hàng sẵn sàng đầu tư dài hạn cho thiết bị chăm sóc sức khỏe gia đình thay vì chỉ cân nhắc mức giá mua ban đầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hJKyHD-siI8/hqdefault.jpg" alt="Sharp KI-N40V-H may loc khong khi co tao am 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hJKyHD-siI8/hqdefault.jpg" alt="Sharp KI-N40V-H may loc khong khi co tao am 2026" loading="lazy" width="1280" height="480">
   <figcaption>Một số dòng máy lọc không khí cao cấp còn tích hợp thêm chức năng tạo ẩm tiện lợi. Nguồn: YouTube</figcaption>
 </figure>
 

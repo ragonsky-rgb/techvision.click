@@ -74,7 +74,7 @@ Kết quả của cách tiếp cận này là mỗi khớp trên bàn tay đồn
 Minh chứng rõ nhất cho khả năng của bàn tay mới nằm ở dải năng lực rộng mà nó thể hiện được. Ở đầu cực mạnh mẽ, bàn tay có thể nhấc một quả tạ kettlebell nặng khoảng 9kg mà không gặp khó khăn. Ở đầu cực tinh tế, cùng một bàn tay này lại đủ khéo léo để nhặt từng hạt nho ra khỏi cuống mà không làm dập nát, lắp một bóng đèn vào đui đèn, hay nhặt một con ốc vít nhỏ nằm trên sàn nhà.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2SBCUhSVF-Y/hqdefault.jpg" alt="Phản ứng của cộng đồng công nghệ trước bàn tay robot mới của NEO" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2SBCUhSVF-Y/hqdefault.jpg" alt="Phản ứng của cộng đồng công nghệ trước bàn tay robot mới của NEO" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều video demo cho thấy bàn tay mới của NEO thực hiện được loạt tác vụ tinh tế đáng kinh ngạc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Các cảm biến tích hợp trên bàn tay có thể đo được lực pháp 
 Về độ bền, bàn tay mới đạt chuẩn chống nước IP68, tương đương tiêu chuẩn thường thấy trên điện thoại thông minh cao cấp, cho phép NEO nhúng tay vào nước mà không gặp trục trặc, một yếu tố quan trọng khi robot cần thực hiện các công việc nhà như rửa bát hay lau dọn. 1X cho biết bàn tay đã trải qua hàng triệu chu kỳ kiểm định độ bền, riêng khớp cổ tay được chứng minh chịu tải bền bỉ qua hơn hai triệu chu kỳ hoạt động.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_FJgXl6UMsQ/hqdefault.jpg" alt="NEO gây chú ý lớn trong ngành công nghiệp AI nhờ khả năng bàn tay mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_FJgXl6UMsQ/hqdefault.jpg" alt="NEO gây chú ý lớn trong ngành công nghiệp AI nhờ khả năng bàn tay mới" loading="lazy" width="1280" height="720">
   <figcaption>Bước tiến về bàn tay robot của NEO được xem là một trong những cột mốc đáng chú ý của ngành robot hình người năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
 Đáng chú ý, 1X cho biết công ty hiện có năng lực sản xuất tới 10.000 bàn tay robot ngay trong năm nay, một con số cho thấy công ty đang chuẩn bị nghiêm túc cho giai đoạn thương mại hoá quy mô lớn hơn, thay vì chỉ dừng lại ở các bản demo trình diễn công nghệ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/f3c4mQty_so/hqdefault.jpg" alt="Trải nghiệm thực tế đầu tiên với robot gia đình NEO tại nhà" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/f3c4mQty_so/hqdefault.jpg" alt="Trải nghiệm thực tế đầu tiên với robot gia đình NEO tại nhà" loading="lazy" width="1280" height="720">
   <figcaption>Phóng viên Wall Street Journal đã trải nghiệm trực tiếp NEO tại nhà để đánh giá khả năng hỗ trợ công việc thực tế. Nguồn: YouTube</figcaption>
 </figure>
 

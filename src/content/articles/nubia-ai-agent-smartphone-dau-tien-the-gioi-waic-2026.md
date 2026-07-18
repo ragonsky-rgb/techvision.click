@@ -62,7 +62,7 @@ Sau thời gian dài chỉ được nhắc tới như một khái niệm, chiế
 Chi tiết đáng chú ý nhất về mặt thiết kế là một nút bấm AI riêng màu cam nằm trên khung máy, cho phép người dùng gọi trợ lý AI Agent một cách nhanh chóng. Đây là cách Nubia nhấn mạnh vai trò trung tâm của AI trên sản phẩm, biến nó thành điểm nhận diện thay vì một tính năng ẩn trong phần mềm. Trước thềm WAIC 2026, Navi X Ultra cũng đã được trao giải SAIL, viết tắt của Super AI Leader, một trong những giải thưởng danh giá của sự kiện, cho thấy mức độ chú ý mà giới công nghệ dành cho sản phẩm này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Ceg7aTgXorI/hqdefault.jpg" alt="Nubia Navi X Ultra lộ diện thiết kế và màu sắc, smartphone AI Agent đầu tiên thế giới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ceg7aTgXorI/hqdefault.jpg" alt="Nubia Navi X Ultra lộ diện thiết kế và màu sắc, smartphone AI Agent đầu tiên thế giới" loading="lazy" width="1280" height="720">
   <figcaption>Nubia Navi X Ultra gây chú ý với nút AI màu cam riêng và cụm ba camera dạng thanh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Ví dụ điển hình được ZTE đưa ra là khi người dùng yêu cầu �
 Công nghệ nền tảng cho khả năng AI Agent này đến từ Doubao, mô hình AI nội bộ do ByteDance, công ty mẹ của TikTok, phát triển. Đây không phải lần đầu ZTE và ByteDance hợp tác trong lĩnh vực này. Vào cuối năm 2025, hai công ty đã cùng giới thiệu mẫu thử nghiệm mang tên Nubia M153, cho phép điều khiển toàn bộ hệ thống Android bằng giọng nói, từ việc mở ứng dụng cho tới hoàn tất một giao dịch mua hàng trực tuyến. Dù chỉ giới hạn số lượng 30.000 máy, sản phẩm đã gây tiếng vang lớn khi bán hết sạch ngay trong ngày đầu tiên mở bán tại thị trường Trung Quốc, một tín hiệu tích cực cho thấy nhu cầu thực sự của người dùng đối với công nghệ AI Agent trên di động.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/aIM6ZVqD8to/maxresdefault.jpg" alt="Nubia M153 sản phẩm thử nghiệm AI Agent gây sốt tại Trung Quốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/aIM6ZVqD8to/maxresdefault.jpg" alt="Nubia M153 sản phẩm thử nghiệm AI Agent gây sốt tại Trung Quốc" loading="lazy" width="1280" height="720">
   <figcaption>Nubia M153 nhanh chóng bán hết 30.000 máy chỉ trong ngày đầu ra mắt, tạo tiền đề cho phiên bản thương mại mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,14 +94,14 @@ Tuy nhiên, trải nghiệm thực tế với Nubia M153 cũng bộc lộ không
 Đáng chú ý, Nubia không phải cái tên duy nhất theo đuổi tham vọng smartphone AI Agent tại sự kiện WAIC 2026. Theo giới truyền thông công nghệ, StepFun, một startup AI khác của Trung Quốc, cũng đang cạnh tranh cho danh xưng "smartphone AI Agent đầu tiên thế giới" tại cùng sự kiện, cho thấy cuộc đua tích hợp AI Agent vào thiết bị di động đang trở thành mặt trận cạnh tranh mới giữa các nhà sản xuất smartphone Trung Quốc, bên cạnh những cuộc đua quen thuộc về cấu hình phần cứng như [dòng Xiaomi 17 Series vừa ra mắt tại Việt Nam với chip Snapdragon 8 Elite Gen 5](/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html) hay cuộc đua camera độ phân giải cao giữa các thương hiệu tầm trung.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/7-ge6IF42CY/hqdefault.jpg" alt="Trải nghiệm nhanh Nubia Doubao AI Native Phone tại MWC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7-ge6IF42CY/hqdefault.jpg" alt="Trải nghiệm nhanh Nubia Doubao AI Native Phone tại MWC 2026" loading="lazy" width="1280" height="720">
   <figcaption>Bản demo tại MWC 2026 hé lộ những cải tiến quan trọng trước khi phiên bản thương mại chính thức ra mắt tại WAIC. Nguồn: YouTube</figcaption>
 </figure>
 
 Sự kiện WAIC 2026 tại Thượng Hải, diễn ra từ ngày 17 đến 20/7, được xem là một trong những hội nghị trí tuệ nhân tạo lớn nhất châu Á trong năm nay, quy tụ nhiều công bố công nghệ đáng chú ý khác bên cạnh smartphone AI Agent của Nubia, bao gồm cụm máy tính AI Atlas 950 SuperPoD của Huawei, cho thấy Trung Quốc đang đẩy mạnh nỗ lực thể hiện năng lực cạnh tranh trong lĩnh vực trí tuệ nhân tạo ứng dụng trên diện rộng, từ trung tâm dữ liệu quy mô lớn cho tới thiết bị cá nhân hàng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/QJ04YP2c3I0/maxresdefault.jpg" alt="Đánh giá chi tiết trải nghiệm AI Doubao trên smartphone Nubia" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/QJ04YP2c3I0/maxresdefault.jpg" alt="Đánh giá chi tiết trải nghiệm AI Doubao trên smartphone Nubia" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế cho thấy AI Agent xử lý khá nhanh các tác vụ đơn giản như tìm kiếm và điền thông tin. Nguồn: YouTube</figcaption>
 </figure>
 

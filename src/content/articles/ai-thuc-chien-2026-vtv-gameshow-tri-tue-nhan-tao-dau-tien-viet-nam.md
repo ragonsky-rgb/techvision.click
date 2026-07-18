@@ -76,7 +76,7 @@ Việc đưa AI lên sóng truyền hình dưới hình thức gameshow giúp m�
 Cách thiết kế này phản ánh đúng tinh thần của AI trong thực tế: công cụ giúp con người làm việc nhanh hơn và sáng tạo hơn, nhưng vẫn cần người định hướng, đánh giá và hoàn thiện kết quả. Qua các thử thách, khán giả thấy được cả tiềm năng lẫn giới hạn của AI, từ đó có cái nhìn cân bằng hơn thay vì chỉ thần thánh hóa hoặc lo sợ công nghệ. Đây cũng là thông điệp quan trọng trong giai đoạn AI lan rộng vào mọi lĩnh vực.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6nb4EWJosfA/maxresdefault.jpg" alt="AI Thực chiến sân chơi trí tuệ mở ra kỷ nguyên AI Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6nb4EWJosfA/maxresdefault.jpg" alt="AI Thực chiến sân chơi trí tuệ mở ra kỷ nguyên AI Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Các thử thách đặt trọng tâm vào khả năng ứng dụng AI thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ AI Thực chiến không chỉ dừng ở giải trí mà gắn với mục tiê
 Chương trình cũng được đặt trong khuôn khổ Chiến lược Chuyển đổi số quốc gia, với dữ liệu và AI được xác định là những trụ cột quan trọng. Sự tham gia của Trung tâm Dữ liệu quốc gia và Hiệp hội Dữ liệu Quốc gia cho thấy định hướng kết nối hoạt động truyền thông với chính sách phát triển công nghệ. Đây là tín hiệu cho thấy Việt Nam đang chú trọng xây dựng nền tảng cho kinh tế số dựa trên dữ liệu và trí tuệ nhân tạo.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FkG4SkMz22E/maxresdefault.jpg" alt="AI Thực chiến khi công nghệ kể câu chuyện vì cộng đồng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FkG4SkMz22E/maxresdefault.jpg" alt="AI Thực chiến khi công nghệ kể câu chuyện vì cộng đồng" loading="lazy" width="1280" height="720">
   <figcaption>Chương trình gắn với mục tiêu phát triển nhân tài và hệ sinh thái AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Với người làm công nghệ trong nước, AI Thực chiến tạo thêm m�
 Với công chúng, chương trình là cách dễ tiếp cận để hiểu AI đang làm được gì và chưa làm được gì. Thay vì những khái niệm trừu tượng, khán giả thấy AI vận hành qua các sản phẩm cụ thể. Điều này góp phần nâng cao nhận thức số của xã hội, một nền tảng cần thiết khi AI ngày càng hiện diện trong công việc và đời sống. Để bắt đầu làm quen với việc dùng AI hiệu quả, người đọc có thể tham khảo bài [cách viết prompt AI hiệu quả](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/8xGayl-fHpE/maxresdefault.jpg" alt="Cuộc đua làm game trong 120 phút tại AI Thực chiến" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/8xGayl-fHpE/maxresdefault.jpg" alt="Cuộc đua làm game trong 120 phút tại AI Thực chiến" loading="lazy" width="1280" height="720">
   <figcaption>Khán giả thấy AI vận hành qua các sản phẩm cụ thể, dễ hình dung hơn. Nguồn: YouTube</figcaption>
 </figure>
 

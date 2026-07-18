@@ -77,7 +77,7 @@ Một mẹo ít người biết nhưng hiệu quả tức thì là giảm hiệu
 Tiếp theo, kiểm soát ứng dụng chạy nền. Vào Cài đặt, mục Pin hoặc Ứng dụng để xem app nào ngốn pin và RAM, rồi hạn chế hoạt động nền của những app không cần thiết. Việc này vừa giúp máy mượt hơn vừa kéo dài thời lượng pin, vì các app chạy ngầm là thủ phạm âm thầm làm chậm và hao pin.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3RjoOG0wx_M/maxresdefault.jpg" alt="Mười mẹo tăng tốc điện thoại Android nhanh hơn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3RjoOG0wx_M/maxresdefault.jpg" alt="Mười mẹo tăng tốc điện thoại Android nhanh hơn" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều mẹo nhỏ cộng lại tạo khác biệt lớn về độ mượt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Màn hình chính tưởng chừng vô hại nhưng lại là nơi ngốn tài n
 Thông báo dồn dập cũng làm máy chậm theo cách ít ai để ý. Mỗi lần một ứng dụng đẩy thông báo, nó phải đánh thức tiến trình nền, kết nối mạng và hiển thị nội dung. Hàng chục app cùng làm việc này mỗi giờ sẽ tạo gánh nặng đáng kể. Vào Cài đặt, mục Thông báo để tắt thông báo của những app không quan trọng như game, mua sắm hay mạng xã hội phụ. Máy không chỉ mượt hơn mà pin cũng bền hơn, và bạn cũng bớt bị làm phiền.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/7opD3smOayw/maxresdefault.jpg" alt="Tinh chỉnh màn hình chính và thông báo để Android chạy nhẹ hơn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7opD3smOayw/maxresdefault.jpg" alt="Tinh chỉnh màn hình chính và thông báo để Android chạy nhẹ hơn" loading="lazy" width="1280" height="720">
   <figcaption>Gỡ bớt widget và hình nền động giúp giao diện phản hồi nhanh hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Thông báo dồn dập cũng làm máy chậm theo cách ít ai để ý. Mỗi
 Thói quen sử dụng hằng ngày cũng ảnh hưởng tới độ bền. Tránh để máy nóng lâu khi vừa sạc vừa chơi game nặng, vì nhiệt độ cao đẩy nhanh quá trình chai pin và có thể gây giảm hiệu năng tạm thời. Giữ máy ở nơi thoáng, tháo ốp khi sạc lâu và không để pin cạn sạch thường xuyên là những thói quen nhỏ giúp thiết bị giữ phong độ lâu hơn. Kết hợp các mẹo phần mềm ở trên với việc chăm sóc phần cứng đúng cách, một chiếc Android dùng vài năm vẫn có thể chạy mượt cho nhu cầu hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Ok3yL9VUhBg/maxresdefault.jpg" alt="Kiểm tra tình trạng pin và phần cứng điện thoại Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ok3yL9VUhBg/maxresdefault.jpg" alt="Kiểm tra tình trạng pin và phần cứng điện thoại Android" loading="lazy" width="1280" height="720">
   <figcaption>Pin chai là nguyên nhân thường gặp khiến máy cũ chậm đi. Nguồn: YouTube</figcaption>
 </figure>
 

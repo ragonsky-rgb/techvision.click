@@ -76,7 +76,7 @@ Một phần quan trọng trong chiến lược của Meta là mô hình AI mớ
 Việc có mô hình AI riêng cho phép Meta tối ưu trải nghiệm trên hệ sinh thái khổng lồ của mình, với hàng tỷ người dùng trên các nền tảng mạng xã hội và nhắn tin. Với kính thông minh, AI là yếu tố then chốt biến thiết bị từ phụ kiện camera thành trợ lý đeo trên người. Khi Muse Spark được tích hợp sâu, kính Ray-Ban có thể trở nên thông minh và hữu ích hơn, củng cố lợi thế của Meta trong cuộc đua thiết bị đeo AI.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/NTKC-LExZlI/maxresdefault.jpg" alt="Trải nghiệm thực tế kính Meta Ray-Ban Display" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NTKC-LExZlI/maxresdefault.jpg" alt="Trải nghiệm thực tế kính Meta Ray-Ban Display" loading="lazy" width="1280" height="720">
   <figcaption>Mô hình AI mới giúp kính Meta Ray-Ban thông minh hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một điểm Meta chú trọng trong năm 2026 là phục vụ tốt hơn nhóm
 Đây là hướng đi quan trọng để kính thông minh trở nên phổ biến hơn, bởi một bộ phận lớn người dùng vốn đã đeo kính cận. Khi có thể tích hợp tròng kính theo toa vào thiết kế thời trang, rào cản sử dụng giảm đáng kể. Cách tiếp cận này cho thấy Meta muốn đưa kính Ray-Ban trở thành sản phẩm đeo cả ngày, không chỉ là thiết bị dùng trong các tình huống cụ thể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Rsm9_-kyXvE/maxresdefault.jpg" alt="Kính Meta Ray-Ban Scriber và Blayzer cho người đeo kính cận" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Rsm9_-kyXvE/maxresdefault.jpg" alt="Kính Meta Ray-Ban Scriber và Blayzer cho người đeo kính cận" loading="lazy" width="1280" height="720">
   <figcaption>Các mẫu Blayzer và Scriber phục vụ người dùng đeo kính theo toa. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Bên cạnh các tính năng tiện ích, một thông tin gây chú ý trong th
 Đây là chủ đề nhạy cảm mà cả ngành kính thông minh phải đối mặt. Nhận diện khuôn mặt từ thiết bị đeo có thể bị lạm dụng để theo dõi người khác mà họ không hay biết, đặt ra câu hỏi về sự đồng thuận và quy định pháp lý. Các nhà sản xuất cần minh bạch về cách công nghệ hoạt động và có biện pháp bảo vệ rõ ràng. Vấn đề quyền riêng tư cũng song hành với xu hướng kính AI nói chung, từ [Snap Specs](/articles/snap-specs-kinh-ar-2026-ra-mat-gia-2195-usd-doi-thu-apple-vision-pro.html) tới các sản phẩm sắp ra như Galaxy Glasses.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/7sHDvkMrJE0/maxresdefault.jpg" alt="Hướng dẫn chọn mua kính thông minh Meta Ray-Ban 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7sHDvkMrJE0/maxresdefault.jpg" alt="Hướng dẫn chọn mua kính thông minh Meta Ray-Ban 2026" loading="lazy" width="1280" height="720">
   <figcaption>Quyền riêng tư là vấn đề lớn của cả ngành kính thông minh. Nguồn: YouTube</figcaption>
 </figure>
 

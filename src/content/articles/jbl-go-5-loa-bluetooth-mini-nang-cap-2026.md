@@ -71,7 +71,7 @@ Với người dùng đang tìm kiếm phụ kiện công nghệ nhỏ gọn kh�
 Về mặt âm thanh, JBL Go 5 vẫn giữ nguyên driver 45mm quen thuộc của dòng Go, nhưng công suất được nâng nhẹ từ 4,2W lên 4,8W, mang lại âm lượng lớn hơn một chút so với thế hệ trước dù kích thước tổng thể không đổi nhiều. Loa hỗ trợ chuẩn âm thanh JBL Pro Sound đặc trưng, cùng khả năng phát nhạc lossless qua cổng USB-C nhờ DAC tích hợp sẵn bên trong, một tính năng khá bất ngờ với một mẫu loa ở phân khúc giá phổ thông.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/cYZRajf29J0/hqdefault.jpg" alt="JBL Go 5 den vien cam ung am thanh test 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/cYZRajf29J0/hqdefault.jpg" alt="JBL Go 5 den vien cam ung am thanh test 2026" loading="lazy" width="1280" height="480">
   <figcaption>Dải đèn viền cảm ứng mới trên JBL Go 5 hiển thị trạng thái pin và kết nối. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Về mặt âm thanh, JBL Go 5 vẫn giữ nguyên driver 45mm quen thuộc củ
 So với các đối thủ cùng tầm giá đến từ Anker Soundcore hay Sony, JBL Go 5 vẫn giữ được lợi thế về độ nhận diện thương hiệu và mạng lưới bảo hành chính hãng rộng khắp tại Việt Nam, một yếu tố quan trọng với nhóm khách hàng phổ thông ít quan tâm sâu tới thông số kỹ thuật mà ưu tiên sự an tâm khi mua hàng. Tuy nhiên, nếu so về thời lượng pin thuần túy, một số đối thủ cùng phân khúc vẫn có lợi thế nhất định, nên người mua nên cân nhắc kỹ ưu tiên cá nhân giữa thương hiệu, thiết kế và thời lượng sử dụng trước khi quyết định.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/epo12718XoU/hqdefault.jpg" alt="JBL Go 5 chong nuoc IP68 pin 10 gio Playtime Boost" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/epo12718XoU/hqdefault.jpg" alt="JBL Go 5 chong nuoc IP68 pin 10 gio Playtime Boost" loading="lazy" width="1280" height="480">
   <figcaption>JBL Go 5 đạt chuẩn kháng nước, bụi IP68, phù hợp mang theo khi đi biển hoặc dã ngoại. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ So với các đối thủ cùng tầm giá đến từ Anker Soundcore hay Sony
 Về thời lượng pin, JBL Go 5 cho thời gian sử dụng cơ bản khoảng 8 giờ liên tục, nhưng khi kích hoạt tính năng Playtime Boost, một chế độ tối ưu hóa cân bằng âm (EQ) để tiết kiệm năng lượng, thời gian sử dụng có thể kéo dài lên tới 10 giờ. Đây là mức cải thiện đáng kể so với thế hệ Go 4 trước đó, đặc biệt hữu ích cho các chuyến đi dài ngày không có điều kiện sạc lại thường xuyên.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Q2JLng8rd38/hqdefault.jpg" alt="JBL Go 5 vs Go 4 so sanh am thanh pin 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Q2JLng8rd38/hqdefault.jpg" alt="JBL Go 5 vs Go 4 so sanh am thanh pin 2026" loading="lazy" width="1280" height="480">
   <figcaption>So sánh trực tiếp giữa JBL Go 5 và Go 4 cho thấy sự khác biệt rõ rệt về tính năng. Nguồn: YouTube</figcaption>
 </figure>
 

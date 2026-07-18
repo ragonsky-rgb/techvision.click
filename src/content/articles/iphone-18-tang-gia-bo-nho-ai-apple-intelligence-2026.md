@@ -64,7 +64,7 @@ Gốc rễ nằm ở cơn sốt AI. Các nhà sản xuất bộ nhớ lớn dồ
 Với iPhone 18, các hãng phân tích ước tính chi phí RAM của bản Pro nhảy từ khoảng 39 USD lên 145 USD, kéo tổng chi phí linh kiện toàn máy tăng đáng kể. Để giữ biên lợi nhuận, bản Pro có thể phải tăng giá khoảng 270 USD, lên quanh mức 1.299 USD. Trong khi đó, nhiều nguồn cho rằng Apple có thể cố giữ giá khởi điểm 799 USD cho bản thường bằng cách ép chi phí ở các linh kiện khác như màn hình và camera.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/A_WH6M6bDww/maxresdefault.jpg" alt="Giá iPhone leo thang khi khủng hoảng chip nhớ siết nguồn cung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/A_WH6M6bDww/maxresdefault.jpg" alt="Giá iPhone leo thang khi khủng hoảng chip nhớ siết nguồn cung" loading="lazy" width="1280" height="720">
   <figcaption>Giới tài chính quốc tế nói về việc giá iPhone leo thang vì thiếu hụt chip nhớ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Song song với sức ép chi phí, Apple đang đặt cược vào AI làm đ�
 Cách định vị này có hai mặt. Một mặt, nó cho người dùng lý do thực tế để chọn máy mới nếu muốn trải nghiệm AI đầy đủ. Mặt khác, nó cũng là đòn bẩy giúp Apple biện minh cho mức giá cao hơn. Với người dùng Việt, cần lưu ý Apple Intelligence tiếng Việt vẫn chưa được hỗ trợ đầy đủ, nên AI chưa hẳn là lý do thuyết phục để nâng cấp ngay. Chi tiết về lộ trình có thể xem ở bài [Siri AI tiếng Việt khi nào có](/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/62Vd7N8S1uI/maxresdefault.jpg" alt="Apple cảnh báo giá iPhone và Mac có thể tăng vì chi phí bộ nhớ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/62Vd7N8S1uI/maxresdefault.jpg" alt="Apple cảnh báo giá iPhone và Mac có thể tăng vì chi phí bộ nhớ" loading="lazy" width="1280" height="720">
   <figcaption>Lãnh đạo Apple thừa nhận sức ép tăng giá vì chi phí bộ nhớ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Tại Việt Nam, chưa có giá chính thức. Lấy mốc iPhone 17 Pro 256GB 
 Về thời điểm mua, người đang dùng iPhone đời cũ và cần máy gấp có thể cân nhắc mua iPhone 17 trong giai đoạn xả hàng trước khi iPhone 18 ra mắt mùa thu. Người muốn trải nghiệm AI mới nên chờ iPhone 18, ưu tiên bản thường để tối ưu chi phí. Xu hướng chung là chu kỳ nâng cấp đang dài ra khi giá linh kiện khó hạ trước 2027 tới 2028, nên mua trả góp hoặc chọn cấu hình vừa đủ là cách giảm áp lực tài chính.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bT_wF0c0Q_Q/maxresdefault.jpg" alt="Những điều cần biết về iPhone 18 trước khi quyết định mua" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bT_wF0c0Q_Q/maxresdefault.jpg" alt="Những điều cần biết về iPhone 18 trước khi quyết định mua" loading="lazy" width="1280" height="720">
   <figcaption>Cân nhắc nhu cầu thực và dung lượng cần mua trước khi chọn iPhone 18. Nguồn: YouTube</figcaption>
 </figure>
 

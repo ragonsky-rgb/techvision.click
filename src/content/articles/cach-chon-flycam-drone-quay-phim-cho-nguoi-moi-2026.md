@@ -71,7 +71,7 @@ Bên cạnh trọng lượng, người mới cũng nên lưu ý tới khả năn
 Chất lượng hình ảnh là yếu tố nhiều người mới quan tâm hàng đầu khi chọn flycam quay phim. Camera nên quay được tối thiểu độ phân giải 4K để nội dung đủ sắc nét khi đăng tải lên mạng xã hội hoặc đưa vào dựng phim, đồng thời cần có gimbal cơ học ít nhất 3 trục để chống rung hiệu quả, giữ hình ảnh ổn định ngay cả khi bay trong điều kiện gió nhẹ. Những mẫu cao cấp hơn như [DJI Mavic 4 Pro với cụm ba camera Hasselblad](/articles/dji-mavic-4-pro-flycam-camera-kep-100mp-hasselblad-2026.html) cho chất lượng hình ảnh vượt trội, nhưng mức giá và độ phức tạp khi vận hành thường vượt quá nhu cầu của người mới bắt đầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jygmHftl-5U/hqdefault.jpg" alt="Flycam camera 4K gimbal 3 truc chong rung cho nguoi moi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/jygmHftl-5U/hqdefault.jpg" alt="Flycam camera 4K gimbal 3 truc chong rung cho nguoi moi" loading="lazy" width="1280" height="480">
   <figcaption>Camera 4K cùng gimbal 3 trục là tiêu chuẩn tối thiểu nên cân nhắc khi chọn flycam quay phim. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,14 +80,14 @@ Chất lượng hình ảnh là yếu tố nhiều người mới quan tâm hàn
 Thời gian bay mỗi viên pin cũng là yếu tố quan trọng cần cân nhắc, vì người mới thường mất thời gian làm quen thao tác và không muốn phải đổi pin liên tục giữa buổi quay. Mức khoảng 20 đến 30 phút mỗi pin trở lên được xem là hợp lý cho nhu cầu cơ bản. Ngoài ra, nên ưu tiên các mẫu flycam có sẵn tính năng hỗ trợ an toàn như tự động cất hạ cánh, tự động quay về điểm xuất phát khi mất tín hiệu hoặc pin yếu, và cảnh báo chướng ngại vật cơ bản, giúp giảm thiểu rủi ro rơi máy trong giai đoạn mới làm quen.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SZptJYAP_3Q/hqdefault.jpg" alt="Flycam tinh nang an toan tu dong cat ha canh cho nguoi moi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SZptJYAP_3Q/hqdefault.jpg" alt="Flycam tinh nang an toan tu dong cat ha canh cho nguoi moi" loading="lazy" width="1280" height="480">
   <figcaption>Các tính năng bay an toàn giúp người mới giảm thiểu rủi ro va chạm khi mới làm quen. Nguồn: YouTube</figcaption>
 </figure>
 
 Người dùng quan tâm tới thiết bị quay chụp bỏ túi gọn nhẹ hơn drone có thể tham khảo thêm [DJI Osmo Pocket 4 Pro với cụm camera kép và ống tele zoom quang 3x](/articles/dji-osmo-pocket-4-pro-4p-ra-mat-camera-kep-3x-zoom-gia-viet-nam.html), một lựa chọn thay thế phù hợp khi không cần khả năng bay trên không mà vẫn muốn có thiết bị quay ổn định cầm tay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0gDkQX3qJlE/hqdefault.jpg" alt="Flycam camera Hasselblad 100MP 8K video chat luong hinh anh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/0gDkQX3qJlE/hqdefault.jpg" alt="Flycam camera Hasselblad 100MP 8K video chat luong hinh anh" loading="lazy" width="1280" height="480">
   <figcaption>Người mới nên hiểu rằng độ phân giải cao không phải yếu tố duy nhất quyết định chất lượng ảnh khi chọn camera flycam. Nguồn: YouTube</figcaption>
 </figure>
 

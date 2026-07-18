@@ -71,7 +71,7 @@ Trận chung kết tổng giữa HLE và BLG diễn ra đúng như kỳ vọng c
 Ván đấu thứ năm chứng kiến màn so tài cân não giữa hai đội, với tỷ số kill cân bằng đến khó tin 20-20 sau 36 phút thi đấu căng thẳng. Cả hai đội đều thi đấu với sự tập trung tuyệt đối, không cho phép đối phương có bất kỳ khoảng trống nào để tạo đột biến. Cuối cùng, chính HLE là đội tận dụng thành công cơ hội quyết định, tổ chức một đợt tấn công hợp lý để phá huỷ nhà chính (Nexus) của BLG, chính thức khép lại trận đấu và giành lấy chức vô địch đầy xứng đáng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WfHXwykdgCg/hqdefault.jpg" alt="Highlight trận chung kết tổng BLG vs HLE với những pha xử lý quyết định" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WfHXwykdgCg/hqdefault.jpg" alt="Highlight trận chung kết tổng BLG vs HLE với những pha xử lý quyết định" loading="lazy" width="1280" height="720">
   <figcaption>Ván đấu thứ năm chứng kiến màn so tài cân não với tỷ số kill cân bằng tuyệt đối. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Chiến thắng này giúp HLE trở thành đại diện đầu tiên của khu
 Đường trên Choi "Zeus" Woo-je của HLE đã được ban tổ chức vinh danh danh hiệu Cầu thủ xuất sắc nhất (MVP) của toàn bộ giải đấu MSI 2026, ghi nhận những đóng góp xuất sắc và ổn định của anh xuyên suốt hành trình đầy biến động của đội tuyển. Từ những trận đấu vòng bảng cho tới trận chung kết tổng mang tính quyết định, Zeus liên tục thể hiện phong độ chói sáng ở vị trí đường trên, trở thành nhân tố then chốt giúp HLE vượt qua mọi thử thách để lên ngôi vô địch.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/eX2tK751WB8/hqdefault.jpg" alt="Zeus của HLE ăn mừng chức vô địch MSI 2026 cùng đồng đội" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/eX2tK751WB8/hqdefault.jpg" alt="Zeus của HLE ăn mừng chức vô địch MSI 2026 cùng đồng đội" loading="lazy" width="1280" height="720">
   <figcaption>Zeus được vinh danh MVP nhờ những đóng góp xuất sắc xuyên suốt hành trình vô địch của HLE. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Với chức vô địch MSI 2026, HLE nhận về 500.000 USD tiền thưởng 
 Chiến thắng của HLE không chỉ mang ý nghĩa về mặt danh hiệu mà còn góp phần quan trọng trong việc củng cố vị thế của khu vực LCK trên bản đồ Liên Minh Huyền Thoại quốc tế, sau một giai đoạn dài chứng kiến sự thống trị gần như tuyệt đối của khu vực LPL tại các giải đấu lớn. Với suất tham dự Worlds 2026 đã có sẵn nhờ thành tích tại MSI, HLE giờ đây sẽ hướng tới mục tiêu xa hơn là bảo vệ thành công và khẳng định vị thế của mình trước thềm giải đấu lớn nhất năm diễn ra vào cuối năm 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/v794H_Jn4kc/hqdefault.jpg" alt="Toàn cảnh không khí ăn mừng chức vô địch MSI 2026 của HLE" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/v794H_Jn4kc/hqdefault.jpg" alt="Toàn cảnh không khí ăn mừng chức vô địch MSI 2026 của HLE" loading="lazy" width="1280" height="720">
   <figcaption>Không khí ăn mừng vỡ oà của HLE và người hâm mộ ngay sau khi trận đấu kết thúc. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -71,14 +71,14 @@ Mức giá 1.049 USD cho bản 512GB và 1.349 USD cho bản 2TB cao hơn đáng
 Theo các bài đánh giá đầu tiên, điểm sáng lớn nhất của Steam Machine không nằm ở mức giá mà ở hiệu năng thực tế. SteamOS chạy trên phần cứng mới của Steam Machine có thể xử lý tốt nhiều tựa game nặng ở độ phân giải 4K, bao gồm Forza Horizon 6 và Red Dead Redemption 2, vượt xa khả năng của Steam Deck cầm tay vốn chỉ tối ưu cho độ phân giải thấp hơn nhiều khi chơi di động. Đây là minh chứng cho thấy Valve đã đầu tư đáng kể vào việc tối ưu phần mềm để bù đắp cho phần cứng không phải lúc nào cũng mạnh nhất thị trường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/66QzlDewigE/hqdefault.jpg" alt="Valve Steam Machine benchmark GPU CPU SteamOS test" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/66QzlDewigE/hqdefault.jpg" alt="Valve Steam Machine benchmark GPU CPU SteamOS test" loading="lazy" width="1280" height="480">
   <figcaption>Bài test benchmark GPU, CPU và hiệu năng SteamOS trên Steam Machine. Nguồn: YouTube</figcaption>
 </figure>
 
 Không phải mọi đánh giá đều tích cực hoàn toàn. Một số kênh công nghệ cho rằng mức giá khởi điểm vẫn còn cao so với kỳ vọng của cộng đồng game thủ PC, đặc biệt khi so sánh với chi phí tự lắp ráp một bộ PC chơi game cấu hình tương đương ở thời điểm trước khi giá RAM tăng vọt. Tuy nhiên, phần lớn ý kiến đồng thuận rằng trải nghiệm SteamOS mượt mà cùng khả năng truy cập trực tiếp thư viện game Steam khổng lồ sẵn có là lợi thế khó có đối thủ nào sao chép được trong ngắn hạn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/8PpCZxQ-lrE/hqdefault.jpg" alt="Valve giai thich quyet dinh thiet ke Steam Machine" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/8PpCZxQ-lrE/hqdefault.jpg" alt="Valve giai thich quyet dinh thiet ke Steam Machine" loading="lazy" width="1280" height="480">
   <figcaption>Valve giải thích các lựa chọn thiết kế và mức giá của Steam Machine. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Cùng đợt ra mắt mùa hè 2026, Valve cũng xác nhận kính thực tế �
 Đối với game thủ Việt Nam, việc một sản phẩm phần cứng từ một hãng lớn như Valve cũng phải tăng giá vì RAM là tín hiệu rõ ràng cho thấy ảnh hưởng của cơn khát bộ nhớ AI đã lan rộng ra toàn ngành công nghệ tiêu dùng, không chỉ ở laptop hay điện thoại mà cả thiết bị chơi game chuyên dụng. Người dùng đang cân nhắc nâng cấp dàn PC chơi game tại nhà cũng nên tham khảo thêm về [biến động giá card đồ họa RTX 5090 và RTX 5090 Ti tại Việt Nam](/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html) trước khi quyết định đầu tư, vì xu hướng tăng giá linh kiện nhiều khả năng còn tiếp diễn trong các quý tới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/oLm6kAvttyY/hqdefault.jpg" alt="Steam Frame kinh thuc te ao Valve Snapdragon" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/oLm6kAvttyY/hqdefault.jpg" alt="Steam Frame kinh thuc te ao Valve Snapdragon" loading="lazy" width="1280" height="480">
   <figcaption>Steam Frame, kính thực tế ảo mới của Valve, vẫn chưa công bố giá bán chính thức. Nguồn: YouTube</figcaption>
 </figure>
 

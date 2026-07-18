@@ -76,7 +76,7 @@ Một trong những vấn đề nóng nhất của ngành âm nhạc hiện nay 
 Việc này quan trọng trong bối cảnh ranh giới giữa nhạc do con người và do AI sáng tác ngày càng mờ. Người nghe có quyền được biết nguồn gốc nội dung để đưa ra lựa chọn của mình, còn nghệ sĩ thật cần được phân biệt rõ ràng. Bên cạnh đó, Spotify cũng cho phép người dùng nhập audio do AI tạo vào thư viện cá nhân để nghe riêng tư, một tính năng beta phản ánh xu hướng nội dung AI phổ biến, dù đi kèm các câu hỏi về bản quyền và chất lượng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_GN-uxeWxvk/maxresdefault.jpg" alt="Spotify ra quy định mới về nhạc do AI tạo" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_GN-uxeWxvk/maxresdefault.jpg" alt="Spotify ra quy định mới về nhạc do AI tạo" loading="lazy" width="1280" height="720">
   <figcaption>Spotify thêm nhãn minh bạch cho phần nhạc có dùng AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Cá nhân hóa từ lâu là thế mạnh cốt lõi của Spotify, với các s
 Tuy nhiên, cá nhân hóa sâu bằng AI cũng đặt ra thách thức. Việc thuật toán hiểu quá rõ thói quen của người dùng kéo theo lo ngại về quyền riêng tư dữ liệu, cũng như nguy cơ người nghe bị giới hạn trong vùng an toàn âm nhạc của mình mà ít khám phá cái mới. Spotify sẽ cần cân bằng giữa gợi ý chính xác và mở rộng trải nghiệm, đồng thời minh bạch về cách dữ liệu được dùng, để các tính năng AI thực sự mang lại giá trị bền vững.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gEUczOoVVwA/maxresdefault.jpg" alt="Tạo playlist AI trên Spotify với câu lệnh của bạn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gEUczOoVVwA/maxresdefault.jpg" alt="Tạo playlist AI trên Spotify với câu lệnh của bạn" loading="lazy" width="1280" height="720">
   <figcaption>AI giúp cá nhân hóa sâu hơn nhưng cũng đặt ra thách thức về dữ liệu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Tuy nhiên, cá nhân hóa sâu bằng AI cũng đặt ra thách thức. Việc 
 Với lợi thế về kho dữ liệu nghe nhạc khổng lồ, Spotify có nền tảng vững để triển khai AI hiệu quả. Sự cạnh tranh giữa các nền tảng cuối cùng có lợi cho người dùng, khi chất lượng gợi ý tăng và các tính năng mới xuất hiện nhanh hơn. Để dùng tốt các công cụ AI dạng hội thoại, người dùng có thể tham khảo cách diễn đạt yêu cầu rõ ràng trong bài [cách viết prompt AI hiệu quả](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1l27Gj3mD8o/maxresdefault.jpg" alt="Spotify dùng AI để thay đổi ngành công nghiệp âm nhạc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1l27Gj3mD8o/maxresdefault.jpg" alt="Spotify dùng AI để thay đổi ngành công nghiệp âm nhạc" loading="lazy" width="1280" height="720">
   <figcaption>Các nền tảng nội dung đua nhau tích hợp AI để nâng trải nghiệm. Nguồn: YouTube</figcaption>
 </figure>
 

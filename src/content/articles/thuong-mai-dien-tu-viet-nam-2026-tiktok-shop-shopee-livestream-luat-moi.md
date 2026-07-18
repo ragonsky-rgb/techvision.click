@@ -76,7 +76,7 @@ Một động lực tăng trưởng quan trọng là xu hướng shoppertainment
 Hiệu quả của livestream thể hiện rõ qua các con số, khi tổng giá trị giao dịch từ livestream của TikTok Shop tăng mạnh trong các đợt khuyến mại. Để cạnh tranh, mỗi nền tảng chọn hướng đi riêng: TikTok Shop tập trung vào livestream giải trí, Shopee đẩy mạnh ưu đãi và hàng chính hãng. Xu hướng này cũng tạo cơ hội cho người bán nhỏ và nhà sáng tạo nội dung tham gia bán hàng, làm phong phú thêm hệ sinh thái thương mại điện tử.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wUQ3_G_DoDQ/maxresdefault.jpg" alt="Doanh nghiệp đổi mới tiếp thị nhờ livestream trên sàn thương mại điện tử" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wUQ3_G_DoDQ/maxresdefault.jpg" alt="Doanh nghiệp đổi mới tiếp thị nhờ livestream trên sàn thương mại điện tử" loading="lazy" width="1280" height="720">
   <figcaption>Livestream trở thành kênh bán hàng quan trọng trên các sàn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một thay đổi lớn được nhiều bên quan tâm là luật thương mạ
 Với người bán, các quy định mới đòi hỏi tuân thủ chặt chẽ hơn về nguồn gốc hàng hóa, hóa đơn và nghĩa vụ thuế. Trước đó, Bộ Công Thương cũng đã làm việc với các sàn về chính sách phí, cho thấy cơ quan quản lý ngày càng quan tâm tới việc điều tiết thị trường. Những thay đổi này có thể tạo áp lực ngắn hạn cho người bán nhỏ, nhưng về dài hạn giúp xây dựng một môi trường kinh doanh lành mạnh và đáng tin cậy hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_fG16aIE8fs/maxresdefault.jpg" alt="Shopee và TikTok Shop cạnh tranh trong ngành thương mại điện tử" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_fG16aIE8fs/maxresdefault.jpg" alt="Shopee và TikTok Shop cạnh tranh trong ngành thương mại điện tử" loading="lazy" width="1280" height="720">
   <figcaption>Luật mới siết trách nhiệm sàn và tăng bảo vệ người tiêu dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Việc hai sàn Shopee và TikTok Shop chiếm hơn 90% thị phần bán lẻ o
 Sự thống lĩnh của các sàn cũng tạo sức ép lên bán lẻ truyền thống, khi nhiều cửa hàng vật lý phải thích nghi bằng cách bán hàng đa kênh hoặc tham gia các nền tảng số. Đây là quá trình chuyển đổi tất yếu, đòi hỏi cả người bán lẫn cơ quan quản lý cùng tìm cách cân bằng giữa hiệu quả của nền tảng lớn và sự lành mạnh của toàn thị trường. Người tiêu dùng cũng cần cảnh giác với hàng giả và các chiêu trò, có thể tham khảo bài [cách nhận biết và phòng tránh lừa đảo online](/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/fgGlW9U82p4/hq720.jpg" alt="Thị phần lớn rơi vào TikTok Shop và Shopee, bán lẻ truyền thống chịu sức ép" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fgGlW9U82p4/hq720.jpg" alt="Thị phần lớn rơi vào TikTok Shop và Shopee, bán lẻ truyền thống chịu sức ép" loading="lazy" width="1280" height="720">
   <figcaption>Mức độ tập trung cao đặt ra cả cơ hội và lo ngại cho thị trường. Nguồn: YouTube</figcaption>
 </figure>
 

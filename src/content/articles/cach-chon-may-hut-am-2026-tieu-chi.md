@@ -69,7 +69,7 @@ Công suất hút ẩm, thường được đo bằng số lít nước hút đ�
 Bình chứa nước dung tích 2-4 lít là phổ biến trên các dòng máy hút ẩm gia đình, đủ dùng trong khoảng nửa ngày tới một ngày tùy mức độ ẩm thực tế trong phòng. Với gia đình không muốn đổ nước thủ công thường xuyên, nên ưu tiên chọn các mẫu máy hỗ trợ nối ống xả nước liên tục ra ngoài hoặc xuống cống thoát sàn, giúp máy có thể vận hành liên tục nhiều ngày mà không cần can thiệp thủ công, phù hợp gia đình bận rộn hoặc muốn đặt máy tại khu vực ít qua lại như tầng hầm, kho chứa đồ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sUYkMkKT3zE/sddefault.jpg" alt="May hut am dung tich binh chua nuoc phu hop gia dinh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/sUYkMkKT3zE/sddefault.jpg" alt="May hut am dung tich binh chua nuoc phu hop gia dinh" loading="lazy" width="1280" height="480">
   <figcaption>Dung tích bình chứa nước là yếu tố cần cân nhắc để hạn chế việc đổ nước thủ công thường xuyên. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Mức tiêu thụ điện của máy hút ẩm gia đình thường dao động 
 Với gia đình có nhu cầu đặt máy hút ẩm trong phòng ngủ hoặc phòng làm việc, độ ồn khi vận hành là yếu tố cần cân nhắc để không ảnh hưởng tới giấc ngủ hoặc sự tập trung, đặc biệt vào ban đêm khi mọi âm thanh trở nên rõ ràng hơn. Nên ưu tiên các dòng máy có chế độ ngủ đêm, tự động giảm tốc độ quạt và độ ồn xuống mức thấp nhất trong khi vẫn duy trì khả năng hút ẩm cơ bản, phù hợp sử dụng xuyên suốt ban đêm mà không gây khó chịu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sUYkMkKT3zE/mqdefault.jpg" alt="Huong dan chon mua may hut am tiet kiem hieu qua" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/sUYkMkKT3zE/mqdefault.jpg" alt="Huong dan chon mua may hut am tiet kiem hieu qua" loading="lazy" width="1280" height="480">
   <figcaption>Hướng dẫn chọn mua máy hút ẩm tiết kiệm điện, hiệu quả phù hợp nhu cầu gia đình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nhiều gia đình hiện đang xây dựng hệ thống thiết bị bảo vệ
 Cuối cùng, người mua cũng nên đặt máy hút ẩm ở vị trí thông thoáng, cách tường ít nhất 15-20cm để đảm bảo luồng khí lưu thông tốt, tránh đặt sát góc kín gió có thể làm giảm hiệu quả hút ẩm và ảnh hưởng tới tuổi thọ máy nén về lâu dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_yQWiEzx2Wg/hqdefault.jpg" alt="Top may hut am loc khong khi duoc su dung nhieu nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_yQWiEzx2Wg/hqdefault.jpg" alt="Top may hut am loc khong khi duoc su dung nhieu nhat" loading="lazy" width="1280" height="480">
   <figcaption>Một số dòng máy hút ẩm hiện nay tích hợp thêm chức năng lọc không khí, phù hợp không gian sống hiện đại. Nguồn: YouTube</figcaption>
 </figure>
 

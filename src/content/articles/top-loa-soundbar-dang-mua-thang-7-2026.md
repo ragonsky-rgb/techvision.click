@@ -71,7 +71,7 @@ Trước khi chọn mua, người dùng nên xác định rõ tiêu chí phù h�
 Ở phân khúc tầm trung, các dòng soundbar Samsung là lựa chọn nổi bật nhờ sự kết hợp hài hòa giữa thiết kế thời thượng, mỏng gọn, dễ dàng phối hợp thẩm mỹ với các dòng tivi Samsung cùng hãng, cùng chất lượng trình diễn âm thanh vượt trội và nhiều tiện ích hoàn thiện đi kèm như kết nối không dây ổn định, điều khiển qua ứng dụng SmartThings quen thuộc. Đây là lựa chọn cân bằng tốt giữa chất lượng âm thanh và tính thẩm mỹ, phù hợp phần lớn gia đình có phòng khách hiện đại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AZDqDdxy55I/hqdefault.jpg" alt="JBL Bar 500 va 5.1 Surround so sanh loa 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/AZDqDdxy55I/hqdefault.jpg" alt="JBL Bar 500 va 5.1 Surround so sanh loa 2026" loading="lazy" width="1280" height="480">
   <figcaption>JBL Bar 500 kết hợp loa surround rời mang lại trải nghiệm âm thanh vòm ấn tượng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,14 +80,14 @@ Trước khi chọn mua, người dùng nên xác định rõ tiêu chí phù h�
 Với nhu cầu trải nghiệm rạp hát tại nhà cao cấp, các dòng soundbar LG là lựa chọn đáng tin cậy nhất nhờ khả năng tái hiện dải tần âm thanh rộng, hầu hết các dòng đều đi kèm loa siêu trầm hỗ trợ tái hiện tần số thấp hiệu quả. Các dòng cao cấp của LG hỗ trợ đầy đủ chuẩn Dolby Atmos, mang lại trải nghiệm âm thanh vòm ba chiều sống động, gần với chất lượng rạp chiếu phim chuyên nghiệp hơn hẳn nhiều đối thủ cùng phân khúc giá, phù hợp người dùng có yêu cầu cao về chất lượng nghe nhìn tại nhà.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZkzJhf7RDXg/hqdefault.jpg" alt="Samsung Q990B vs JBL Bar 9.1 cross comparison 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZkzJhf7RDXg/hqdefault.jpg" alt="Samsung Q990B vs JBL Bar 9.1 cross comparison 2026" loading="lazy" width="1280" height="480">
   <figcaption>So sánh trực tiếp giữa Samsung và JBL giúp người mua hình dung rõ hơn sự khác biệt giữa hai thương hiệu. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài khả năng tái hiện âm thanh vòm, các dòng soundbar LG cao cấp còn tích hợp công nghệ hiệu chỉnh âm thanh tự động theo không gian phòng, sử dụng micro tích hợp sẵn để phân tích đặc điểm âm học của căn phòng rồi tự động điều chỉnh thông số phù hợp, giúp tối ưu chất lượng âm thanh mà không cần người dùng phải tự mày mò chỉnh tay các thông số kỹ thuật phức tạp. Đây là tính năng đặc biệt hữu ích với những gia đình lần đầu lắp đặt hệ thống âm thanh rạp hát tại nhà, không có nhiều kinh nghiệm về kỹ thuật âm thanh chuyên sâu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_wU9CBTII0k/hqdefault.jpg" alt="JBL Bar 1000 review co dethrone Samsung khong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_wU9CBTII0k/hqdefault.jpg" alt="JBL Bar 1000 review co dethrone Samsung khong 2026" loading="lazy" width="1280" height="480">
   <figcaption>Cuộc cạnh tranh giữa các thương hiệu soundbar cao cấp ngày càng gay gắt về cả chất lượng lẫn tính năng. Nguồn: YouTube</figcaption>
 </figure>
 

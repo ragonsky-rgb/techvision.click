@@ -76,7 +76,7 @@ Tính năng nổi bật nhất là Vitals, phân tích năm tín hiệu sinh h�
 Cách tiếp cận này đặc biệt hữu ích vì giấc ngủ là thời điểm cơ thể nghỉ ngơi, cho các chỉ số phản ánh trạng thái nền chính xác hơn. Việc tổng hợp nhiều tín hiệu sinh học giúp đánh giá toàn diện thay vì chỉ nhìn vào một chỉ số đơn lẻ. Đây là ví dụ cho thấy AI và cảm biến tiên tiến đang biến đồng hồ thông minh thành công cụ theo dõi sức khỏe ngày càng mạnh mẽ. Khi chọn đồng hồ, người dùng nên quan tâm tới các cảm biến và tính năng sức khỏe, như hướng dẫn trong bài [cách chọn đồng hồ thông minh](/articles/cach-chon-dong-ho-thong-minh-smartwatch-2026-tieu-chi-tuong-thich.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/7iycaEMg4MU/maxresdefault.jpg" alt="Tính năng Vitals của Samsung Health phân tích sức khỏe qua đêm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7iycaEMg4MU/maxresdefault.jpg" alt="Tính năng Vitals của Samsung Health phân tích sức khỏe qua đêm" loading="lazy" width="1280" height="720">
   <figcaption>Vitals phân tích năm tín hiệu sinh học trong giấc ngủ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh Vitals, Samsung Health bổ sung nhiều chỉ số sức khỏe kh�
 Các chỉ số này cùng nhau tạo nên bức tranh sức khỏe toàn diện hơn, giúp người dùng đưa ra quyết định tốt hơn về vận động, nghỉ ngơi và lối sống. Trước đó, Samsung cũng đã mở rộng tính năng đo huyết áp cho nhiều dòng Galaxy Watch, cho thấy hãng liên tục bổ sung khả năng theo dõi sức khỏe. Tuy nhiên, cần nhớ đây là công cụ hỗ trợ theo dõi, không thay thế chẩn đoán y khoa. Việc tích hợp AI sâu vào hệ sinh thái Samsung cũng thể hiện ở các sản phẩm khác, như nêu trong bài [Samsung One UI 8.5 với Galaxy AI](/articles/samsung-one-ui-8-5-android-16-tinh-nang-galaxy-ai-moi-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sDyqFpPqZjU/maxresdefault.jpg" alt="Samsung Health theo dõi tim mạch và thể lực với Galaxy Watch" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/sDyqFpPqZjU/maxresdefault.jpg" alt="Samsung Health theo dõi tim mạch và thể lực với Galaxy Watch" loading="lazy" width="1280" height="720">
   <figcaption>Điểm sức khỏe tim và chỉ số thể lực cho cái nhìn toàn diện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Bản cập nhật Samsung Health phản ánh xu hướng lớn của ngành thi
 Sự cạnh tranh này mang lại lợi ích cho người dùng khi các tính năng ngày càng phong phú và chính xác hơn. Tuy nhiên, đi cùng đó là trách nhiệm về độ tin cậy của dữ liệu sức khỏe và quyền riêng tư. Dữ liệu sức khỏe rất nhạy cảm, nên người dùng cần quan tâm tới cách dữ liệu được lưu trữ và bảo vệ. Các hãng cũng cần minh bạch về giới hạn của thiết bị, tránh để người dùng hiểu nhầm đồng hồ là thiết bị y tế chính xác tuyệt đối. Sự cân bằng giữa tính năng, độ chính xác và quyền riêng tư là yếu tố quan trọng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/b2p6kaH0VX0/maxresdefault.jpg" alt="Xu hướng thiết bị đeo tập trung theo dõi sức khỏe năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/b2p6kaH0VX0/maxresdefault.jpg" alt="Xu hướng thiết bị đeo tập trung theo dõi sức khỏe năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thiết bị đeo ngày càng tập trung vào theo dõi sức khỏe. Nguồn: YouTube</figcaption>
 </figure>
 

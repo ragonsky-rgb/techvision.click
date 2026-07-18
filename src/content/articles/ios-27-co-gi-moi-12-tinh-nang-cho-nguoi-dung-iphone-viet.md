@@ -64,7 +64,7 @@ Thay đổi lớn nhất của iOS 27 là Siri AI được xây dựng lại và
 Đây là bước nhảy lớn nhất của Siri trong nhiều năm. Với người dùng Việt, câu hỏi quan trọng là khi nào Siri AI nói được tiếng Việt và máy nào chạy được, được giải đáp đầy đủ trong bài [Siri AI có tiếng Việt không và máy nào dùng được](/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BdsiBu4t3ao/maxresdefault.jpg" alt="Các tính năng mới đáng dùng trên iOS 27" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BdsiBu4t3ao/maxresdefault.jpg" alt="Các tính năng mới đáng dùng trên iOS 27" loading="lazy" width="1280" height="720">
   <figcaption>iOS 27 mang nhiều tính năng AI thực dụng cho người dùng hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ iOS 27 tiếp tục ngôn ngữ thiết kế Liquid Glass nhưng cho phép tùy 
 Với người dùng Việt, đây là thay đổi dễ thấy nhất mỗi ngày. Nếu thấy giao diện quá trong suốt gây khó đọc, chỉ cần kéo thanh trượt để tăng độ đục, một lựa chọn mà các phiên bản trước không có.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/D_TWgpJXn2I/maxresdefault.jpg" alt="Giao diện Liquid Glass và các tính năng ẩn trên iOS 27" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/D_TWgpJXn2I/maxresdefault.jpg" alt="Giao diện Liquid Glass và các tính năng ẩn trên iOS 27" loading="lazy" width="1280" height="720">
   <figcaption>Liquid Glass trên iOS 27 cho chỉnh độ trong suốt theo ý người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Tin tốt cho người dùng Việt là tiếng Việt nằm trong danh sách ng
 Nói cách khác, nếu mục tiêu chính là trải nghiệm AI, máy tối thiểu cần có là iPhone 15 Pro. Toàn cảnh những gì Apple công bố tại sự kiện có trong [WWDC 2026 recap đầy đủ](/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/PpwZcoA4ha8/maxresdefault.jpg" alt="Siri AI và Apple Intelligence trên iOS 27 yêu cầu iPhone 15 Pro trở lên" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PpwZcoA4ha8/maxresdefault.jpg" alt="Siri AI và Apple Intelligence trên iOS 27 yêu cầu iPhone 15 Pro trở lên" loading="lazy" width="1280" height="720">
   <figcaption>Siri AI chỉ chạy đầy đủ trên iPhone 15 Pro trở lên. Nguồn: YouTube</figcaption>
 </figure>
 

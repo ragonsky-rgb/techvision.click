@@ -71,7 +71,7 @@ Thay đổi lớn nhất trên Oura Ring 5 nằm ở thiết kế. Nhẫn chỉ 
 Một trong những lý do khiến nhẫn thông minh thu hút người dùng quan tâm sức khỏe là thời lượng pin vượt trội so với đồng hồ thông minh truyền thống. Oura Ring 5 có thể dùng liên tục tới 9 ngày cho một lần sạc, giúp người dùng đeo xuyên suốt cả ngày lẫn đêm mà không phải lo gián đoạn dữ liệu theo dõi giấc ngủ. Đây là yếu tố quan trọng vì phần lớn giá trị của nhẫn thông minh tới từ khả năng thu thập dữ liệu liên tục, không bị ngắt quãng bởi việc tháo ra sạc mỗi ngày như nhiều mẫu smartwatch hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3Va4FobJ1EA/hqdefault.jpg" alt="Oura Ring 5 thiet ke mong nhe so sanh Oura Ring 4" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/3Va4FobJ1EA/hqdefault.jpg" alt="Oura Ring 5 thiet ke mong nhe so sanh Oura Ring 4" loading="lazy" width="1280" height="480">
   <figcaption>So sánh thiết kế Oura Ring 5 với thế hệ Oura Ring 4 trước đó. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Một trong những lý do khiến nhẫn thông minh thu hút người dùng qu
 Bên cạnh phần cứng, Oura Ring 5 còn được trang bị các tính năng phần mềm mới đáng chú ý. Tính năng theo dõi chỉ số liên quan tới thuốc nhóm GLP-1, vốn ngày càng phổ biến trong điều trị tiểu đường và hỗ trợ giảm cân, giúp người dùng quan sát các thay đổi sinh lý gián tiếp qua dữ liệu nhịp tim, giấc ngủ và mức năng lượng hàng ngày. Tính năng cảnh báo huyết áp chủ động cũng được giới thiệu, cho phép nhẫn phát hiện sớm các dấu hiệu bất thường và gợi ý người dùng nên đo huyết áp bằng thiết bị chuyên dụng để kiểm tra kỹ hơn, dù bản thân nhẫn không đo huyết áp trực tiếp như một máy đo huyết áp y tế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/uRWKK8mR0Rc/hqdefault.jpg" alt="Oura Ring 5 tinh nang theo doi suc khoe GLP-1 huyet ap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/uRWKK8mR0Rc/hqdefault.jpg" alt="Oura Ring 5 tinh nang theo doi suc khoe GLP-1 huyet ap" loading="lazy" width="1280" height="480">
   <figcaption>Oura Ring 5 bổ sung tính năng theo dõi sức khỏe liên quan GLP-1 và cảnh báo huyết áp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Với những tính năng sức khỏe chuyên sâu này, Oura tiếp tục đ�
 Sự xuất hiện của Oura Ring 5 diễn ra trong bối cảnh thị trường nhẫn thông minh đang nóng lên nhanh chóng, với sự tham gia của nhiều tên tuổi lớn bên cạnh các thương hiệu chuyên biệt như Ultrahuman hay Circular. Việc Samsung gia nhập thị trường này với Galaxy Ring đã buộc Oura phải đẩy nhanh tốc độ ra mắt sản phẩm mới, đồng thời tập trung vào những thế mạnh cốt lõi như độ chính xác dữ liệu và tính năng phân tích chuyên sâu để giữ vững vị thế dẫn đầu trong phân khúc theo dõi sức khỏe cá nhân. Đối với người dùng tại Việt Nam đang cân nhắc giữa các lựa chọn thiết bị đeo, mức giá 399 USD của Oura Ring 5 chưa bao gồm phí thành viên hàng tháng để mở khóa đầy đủ tính năng phân tích, một điểm cần lưu ý trước khi quyết định mua, đặc biệt khi so sánh với các mẫu [đồng hồ thông minh phổ biến hiện nay vốn không yêu cầu phí thuê bao bổ sung](/articles/cach-chon-dong-ho-thong-minh-smartwatch-2026-tieu-chi-tuong-thich.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/7h4wRSdHws8/hqdefault.jpg" alt="Oura Ring 5 unboxing kich co nhan thong minh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/7h4wRSdHws8/hqdefault.jpg" alt="Oura Ring 5 unboxing kich co nhan thong minh" loading="lazy" width="1280" height="480">
   <figcaption>Oura Ring 5 có nhiều kích cỡ để phù hợp với từng kiểu ngón tay khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

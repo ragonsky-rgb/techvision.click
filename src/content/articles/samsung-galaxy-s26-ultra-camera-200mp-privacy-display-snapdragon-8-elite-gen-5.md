@@ -76,7 +76,7 @@ Hệ thống camera bốn ống được hoàn thiện với ống siêu rộng 
 Tính năng này đặc biệt hữu ích khi dùng điện thoại ở nơi công cộng như trên xe buýt, máy bay hay quán cà phê, giúp bảo vệ thông tin nhạy cảm như tin nhắn, email hay giao dịch ngân hàng khỏi ánh mắt tò mò xung quanh. Trước đây, người dùng phải dán miếng chống nhìn trộm rời vốn làm giảm độ sáng và độ nét. Việc tích hợp ngay vào màn hình là giải pháp tiện lợi và tinh tế hơn, cho thấy Samsung chú trọng tới quyền riêng tư.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sBSts9BrmPY/maxresdefault.jpg" alt="Đánh giá camera Galaxy S26 Ultra so với S25 Ultra" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/sBSts9BrmPY/maxresdefault.jpg" alt="Đánh giá camera Galaxy S26 Ultra so với S25 Ultra" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình 6.9 inch tích hợp Privacy Display chống nhìn trộm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về sức mạnh, Galaxy S26 Ultra dùng chip Snapdragon 8 Elite Gen 5 phiên b
 Về thiết kế, máy có màn hình 6.9 inch lớn với lớp chống phản chiếu giúp nhìn rõ hơn ngoài trời, cùng khung Armor Aluminum được làm bo tròn ở các góc cho cảm giác cầm thoải mái hơn. Những tinh chỉnh này tuy không quá đột phá nhưng cho thấy Samsung chú ý tới trải nghiệm thực tế. Người dùng quan tâm tới các tính năng phần mềm có thể tham khảo thêm bài [One UI 8.5 có gì mới](/articles/samsung-one-ui-8-5-android-16-tinh-nang-galaxy-ai-moi-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BwzwamULPMI/maxresdefault.jpg" alt="Galaxy S26 Ultra camera test zoom và chế độ đêm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BwzwamULPMI/maxresdefault.jpg" alt="Galaxy S26 Ultra camera test zoom và chế độ đêm" loading="lazy" width="1280" height="720">
   <figcaption>Chip Snapdragon 8 Elite Gen 5 và Galaxy AI mang trải nghiệm mượt mà. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Galaxy S26 Ultra bước vào thị trường flagship Android cạnh tranh kh�
 So với đời tiền nhiệm S25 Ultra, các nâng cấp tập trung vào camera sáng hơn, chip mạnh hơn và tính năng màn hình mới, thay vì thay đổi thiết kế lớn. Đây là cách tiếp cận hoàn thiện dần quen thuộc của dòng Ultra. Với người đang dùng máy cũ vài đời, đây là nâng cấp đáng giá, nhưng người dùng S25 Ultra có thể cân nhắc kỹ vì mức chênh lệch chưa quá lớn. Người thích camera mạnh cũng có thể so sánh với các đối thủ như [Oppo Find X10 Pro](/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OV6wS8cr55E/maxresdefault.jpg" alt="Galaxy S26 Ultra đánh giá từ góc nhìn người chụp ảnh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OV6wS8cr55E/maxresdefault.jpg" alt="Galaxy S26 Ultra đánh giá từ góc nhìn người chụp ảnh" loading="lazy" width="1280" height="720">
   <figcaption>S26 Ultra nâng cấp camera và hiệu năng so với đời trước. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -77,7 +77,7 @@ Song song đó, hãy đặt mật khẩu thật mạnh. Một mật khẩu tốt
 Phần lớn vụ chiếm nick bắt nguồn từ link lừa đảo. Kẻ xấu gửi tin nhắn giả mạo Facebook báo tài khoản vi phạm, trúng thưởng hoặc nhờ bình chọn, kèm link dẫn tới trang đăng nhập giả trông y hệt thật. Khi bạn nhập tài khoản và mật khẩu, thông tin lập tức rơi vào tay chúng. Tuyệt đối không bấm link đăng nhập gửi qua tin nhắn, và luôn kiểm tra địa chỉ trang web phải là facebook.com chính xác trước khi nhập mật khẩu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Zkte-uW1emM/maxresdefault.jpg" alt="Cách bảo vệ tài khoản Facebook tránh bị hack ai cũng nên biết" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Zkte-uW1emM/maxresdefault.jpg" alt="Cách bảo vệ tài khoản Facebook tránh bị hack ai cũng nên biết" loading="lazy" width="1280" height="720">
   <figcaption>Cảnh giác với link lạ là cách tránh mất nick hiệu quả nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Ngoài ra, hãy cẩn trọng với các ứng dụng hứa hẹn tăng lượt 
 Chuẩn bị trước phương án khôi phục giúp bạn lấy lại tài khoản nhanh nếu bị chiếm. Hãy thêm email và số điện thoại dự phòng còn dùng được, đồng thời thiết lập liên hệ tin cậy gồm vài người bạn để Facebook hỗ trợ xác minh khi cần. Ngoài ra, luôn cập nhật trình duyệt và hệ điều hành lên bản mới để tránh lỗ hổng bảo mật. Nếu muốn hiểu sâu hơn về lớp bảo vệ này, có thể xem bài [cách bật xác thực hai lớp](/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html) và [cách nhận biết lừa đảo online](/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/36iZMYvfgYQ/maxresdefault.jpg" alt="Cách bảo mật Facebook bảo vệ tài khoản không bị hack nick" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/36iZMYvfgYQ/maxresdefault.jpg" alt="Cách bảo mật Facebook bảo vệ tài khoản không bị hack nick" loading="lazy" width="1280" height="720">
   <figcaption>Gỡ ứng dụng lạ và thêm liên hệ tin cậy tăng độ an toàn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Nếu nghi ngờ tài khoản bị xâm nhập, hành động sớm sẽ giảm 
 Nếu đã mất hoàn toàn quyền truy cập, hãy dùng công cụ khôi phục của Facebook tại trang trợ giúp, làm theo quy trình xác minh danh tính qua email, số điện thoại hoặc liên hệ tin cậy đã thiết lập trước. Trong lúc chờ lấy lại, nên báo cho bạn bè và người thân biết tài khoản đang bị chiếm để họ cảnh giác với các tin nhắn vay tiền hay nhờ chuyển khoản giả danh. Sự chủ động này vừa bảo vệ bạn vừa bảo vệ những người xung quanh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Xn7ZhJhc1QY/maxresdefault.jpg" alt="Cách bảo mật tài khoản Facebook tránh bị khóa bị hack" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Xn7ZhJhc1QY/maxresdefault.jpg" alt="Cách bảo mật tài khoản Facebook tránh bị khóa bị hack" loading="lazy" width="1280" height="720">
   <figcaption>Hành động sớm khi nghi bị xâm nhập giúp giảm thiệt hại. Nguồn: YouTube</figcaption>
 </figure>
 

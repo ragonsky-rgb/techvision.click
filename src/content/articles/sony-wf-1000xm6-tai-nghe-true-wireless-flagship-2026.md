@@ -66,7 +66,7 @@ Sony chính thức giới thiệu WF-1000XM6, thế hệ mới nhất trong dòn
 Về thiết kế, tai nghe có hình dáng oval thon dài, mỏng hơn 11% so với thế hệ trước, giúp đeo thoải mái và vừa vặn hơn với nhiều dáng tai khác nhau. Hộp sạc cũng được thiết kế lại với mặt trên và dưới phẳng hơn, mang lại vẻ ngoài gọn gàng, hiện đại hơn so với hình dáng tròn trịa của các thế hệ trước.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ryJcqbt7PaQ/mqdefault.jpg" alt="Sony WF-1000XM6 tot nhat cho gaming du lich 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ryJcqbt7PaQ/mqdefault.jpg" alt="Sony WF-1000XM6 tot nhat cho gaming du lich 2026" loading="lazy" width="1280" height="480">
   <figcaption>Sony WF-1000XM6 được nhiều reviewer đánh giá phù hợp cả nhu cầu chơi game lẫn di chuyển, du lịch. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ So với đối thủ cạnh tranh trực tiếp AirPods Pro, Sony WF-1000XM6 đ
 Với người mới bắt đầu tìm hiểu các tiêu chí quan trọng khi chọn tai nghe chống ồn, bài viết [cách chọn tai nghe chống ồn ANC năm 2026](/articles/cach-chon-tai-nghe-chong-on-anc-2026-tieu-chi.html) cung cấp thêm thông tin hữu ích trước khi quyết định đầu tư vào một sản phẩm cao cấp như WF-1000XM6. Người quan tâm tới các dòng tai nghe chụp tai flagship khác của Sony cũng có thể tham khảo bài viết [Sony 1000X ColleXion: tai nghe flagship 10 năm](/articles/sony-1000x-collexion-tai-nghe-flagship-10-nam-2026.html) để có thêm lựa chọn phù hợp với sở thích đeo tai nghe over-ear thay vì true wireless.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zK4bc8zmk4g/hqdefault.jpg" alt="Sony WF-1000XM6 danh gia toan dien 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zK4bc8zmk4g/hqdefault.jpg" alt="Sony WF-1000XM6 danh gia toan dien 2026" loading="lazy" width="1280" height="480">
   <figcaption>Sony WF-1000XM6 được đánh giá toàn diện qua nhiều bài kiểm tra thực tế khắt khe. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Sony WF-1000XM6 phù hợp nhất với người dùng ưu tiên chất lượng
 Tuy nhiên, một số điểm cần lưu ý là thiết kế của WF-1000XM6 vẫn to hơn và có hình dáng vuông vắn hơn so với thiết kế thon gọn kiểu cuống của AirPods Pro, khiến một số người dùng có thể cảm thấy hơi cộm khi đeo trong thời gian dài, đặc biệt với người có ống tai nhỏ. Về mức giá, 329,99 USD cũng là con số không nhỏ, đặt sản phẩm vào phân khúc cao cấp nhất của thị trường tai nghe true wireless, khiến người mua cần cân nhắc kỹ liệu các cải tiến về chống ồn và pin có thực sự xứng đáng với khoản đầu tư này so với các lựa chọn tầm trung khác trên thị trường hay không, tùy theo nhu cầu sử dụng thực tế hằng ngày của bản thân.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ryJcqbt7PaQ/hq720.jpg" alt="Sony WF-1000XM6 thiet ke moi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ryJcqbt7PaQ/hq720.jpg" alt="Sony WF-1000XM6 thiet ke moi 2026" loading="lazy" width="1280" height="480">
   <figcaption>Thiết kế mỏng hơn 11% giúp Sony WF-1000XM6 đeo thoải mái hơn trong thời gian dài. Nguồn: YouTube</figcaption>
 </figure>
 

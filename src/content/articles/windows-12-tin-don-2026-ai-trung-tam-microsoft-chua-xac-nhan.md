@@ -76,7 +76,7 @@ Theo các tin đồn, định hướng nổi bật nhất của Windows 12 là l
 Các khả năng AI được đồn đoán gồm tìm kiếm theo ngữ cảnh, tạo hình nền bằng AI, quản lý hiệu năng chủ động, phát hiện lỗi bảo mật sớm, gợi ý tác vụ theo ngữ cảnh, tóm tắt thời gian thực, tạo nội dung tự động, phân loại tài liệu thông minh và tìm kiếm theo ngữ nghĩa. Hướng đi này, nếu đúng, phù hợp với chiến lược AI mà Microsoft đang theo đuổi, bao gồm cả việc phát triển các mô hình AI riêng được đề cập trong bài [Microsoft tung mô hình AI MAI](/articles/microsoft-mai-mo-hinh-ai-tu-phat-trien-giam-phu-thuoc-openai-2026.html). Dù vậy, đây vẫn chỉ là dự đoán.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/yjZZQrVlfn4/maxresdefault.jpg" alt="Thông tin hé lộ về Windows 12 đang được Microsoft nghiên cứu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yjZZQrVlfn4/maxresdefault.jpg" alt="Thông tin hé lộ về Windows 12 đang được Microsoft nghiên cứu" loading="lazy" width="1280" height="720">
   <figcaption>Windows 12 được đồn lấy AI làm trung tâm, nhưng chưa xác nhận. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một chủ đề gây quan tâm là yêu cầu phần cứng. Một số tin đ
 Đây là lo ngại chính đáng, bởi việc nâng yêu cầu phần cứng từng gây tranh cãi khi Windows 11 ra mắt. Tuy nhiên, cần nhắc lại rằng cấu hình thực tế chỉ rõ ràng khi Microsoft công bố chính thức. Các dòng chip mới đã tích hợp NPU mạnh, như nền tảng được giới thiệu trong bài [Intel Panther Lake](/articles/intel-panther-lake-core-ultra-3-ces-2026-18a-npu-ai-pc.html), nên các máy đời mới nhiều khả năng sẽ đáp ứng. Với máy cũ, người dùng nên chờ thông tin chính thức thay vì vội vàng nâng cấp dựa trên tin đồn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rpL4In64Ksc/maxresdefault.jpg" alt="Hỏi đáp về Windows 12 AI ARM x64" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rpL4In64Ksc/maxresdefault.jpg" alt="Hỏi đáp về Windows 12 AI ARM x64" loading="lazy" width="1280" height="720">
   <figcaption>Tin đồn về yêu cầu NPU cho Windows 12 vẫn cần Microsoft xác nhận. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sự xuất hiện dày đặc của tin đồn về Windows 12 phản ánh hai 
 Tuy nhiên, chính sự quan tâm này cũng khiến thông tin sai lệch dễ phát tán. Trong thời đại nội dung được tạo nhanh, kể cả bằng AI, người đọc cần cẩn trọng với các tiêu đề giật gân và nguồn không rõ ràng. Việc đối chiếu thông tin với các nguồn uy tín và đặc biệt là thông báo chính thức từ Microsoft là cách tốt nhất để không bị dẫn dắt. Đây cũng là kỹ năng quan trọng nói chung khi tiếp nhận tin tức công nghệ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bQ1KLqlhuJA/maxresdefault.jpg" alt="Trải nghiệm Windows Copilot trợ lý AI tích hợp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bQ1KLqlhuJA/maxresdefault.jpg" alt="Trải nghiệm Windows Copilot trợ lý AI tích hợp" loading="lazy" width="1280" height="720">
   <figcaption>Microsoft liên tục thêm AI vào Windows, làm dấy lên đồn đoán về Windows 12. Nguồn: YouTube</figcaption>
 </figure>
 

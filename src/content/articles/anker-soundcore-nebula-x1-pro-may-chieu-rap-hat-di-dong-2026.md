@@ -66,7 +66,7 @@ Trái tim của Nebula X1 Pro là engine laser ba màu LaserForge 2.0 làm mát 
 Máy đạt chuẩn kháng nước bụi IP43 cho thân máy chính và IP54 cho cụm loa, đủ để chống chịu mưa nhẹ trong thời gian ngắn, cho phép người dùng tự tin mang thiết bị ra sân vườn tổ chức buổi chiếu phim buổi tối mà không quá lo lắng về thời tiết thất thường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XrKhHDYDiQ0/hqdefault.jpg" alt="Nebula X1 Pro review 6 thang su dung thuc te 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/XrKhHDYDiQ0/hqdefault.jpg" alt="Nebula X1 Pro review 6 thang su dung thuc te 2026" loading="lazy" width="1280" height="480">
   <figcaption>Sau 6 tháng sử dụng thực tế, nhiều reviewer vẫn đánh giá cao độ ổn định của Nebula X1 Pro khi dùng ngoài trời. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Máy đạt chuẩn kháng nước bụi IP43 cho thân máy chính và IP54 cho
 Với người đang tìm mua thêm loa soundbar hoặc dàn âm thanh rạp hát tại nhà để nâng cấp trải nghiệm xem phim, bài viết [top loa soundbar đáng mua tháng 7/2026](/articles/top-loa-soundbar-dang-mua-thang-7-2026.html) tổng hợp nhiều lựa chọn ở các phân khúc giá khác nhau, từ tầm trung tới cao cấp, phù hợp bổ sung cho những ai chưa sẵn sàng chi 4.999 USD cho một hệ thống all-in-one như Nebula X1 Pro.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/A3G6Th7h2RE/hqdefault.jpg" alt="Nebula X1 Pro rap chieu phim ngoai troi 200 inch 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/A3G6Th7h2RE/hqdefault.jpg" alt="Nebula X1 Pro rap chieu phim ngoai troi 200 inch 2026" loading="lazy" width="1280" height="480">
   <figcaption>Cấu hình rạp chiếu phim ngoài trời 200 inch hoàn chỉnh dựng từ một mình Nebula X1 Pro. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Với người đang tìm mua thêm loa soundbar hoặc dàn âm thanh rạp há
 Nebula X1 Pro có giá bán khởi điểm 4.999 USD, mức giá cao hơn hẳn phần lớn máy chiếu gia đình phổ thông trên thị trường nhưng phản ánh đúng bản chất sản phẩm: thay thế toàn bộ một dàn thiết bị nghe nhìn phòng khách bao gồm máy chiếu, loa vòm và loa siêu trầm bằng một khối thiết bị duy nhất. Trọng lượng gần 33kg và chiều cao khoảng 76cm là hai điểm trừ lớn, dù máy có bánh xe và tay cầm kéo hỗ trợ di chuyển giữa các phòng hoặc ra sân vườn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0_kqyV_w_u4/mqdefault.jpg" alt="Nebula X1 Pro thiet lap rap hat ngoai troi 4K 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/0_kqyV_w_u4/mqdefault.jpg" alt="Nebula X1 Pro thiet lap rap hat ngoai troi 4K 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nebula X1 Pro được thiết kế tối ưu cho các buổi chiếu phim ngoài trời quy mô lớn. Nguồn: YouTube</figcaption>
 </figure>
 

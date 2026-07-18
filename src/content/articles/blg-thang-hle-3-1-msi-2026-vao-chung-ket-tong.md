@@ -73,7 +73,7 @@ Sang tới ván 2, BLG tiếp tục duy trì phong độ hủy diệt với tỉ
 Đứng trước nguy cơ bị loại trắng, HLE đã có màn thể hiện tốt hơn hẳn ở ván 3, tận dụng hiệu quả lợi thế có được từ giai đoạn đầu trận và duy trì quyền kiểm soát bản đồ xuyên suốt ván đấu để giành chiến thắng, qua đó thu hẹp cách biệt tỉ số và kéo dài hy vọng cho đội nhà. Đây là tín hiệu cho thấy HLE hoàn toàn không thiếu năng lực chuyên môn, mà có thể chỉ đơn giản là đã có sự chuẩn bị chiến thuật chưa tối ưu ở hai ván đầu trước lối chơi áp đảo của BLG.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wsc_yJNk1bQ/hqdefault.jpg" alt="Toàn bộ diễn biến các ván đấu giữa HLE và BLG tại chung kết nhánh thắng MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wsc_yJNk1bQ/hqdefault.jpg" alt="Toàn bộ diễn biến các ván đấu giữa HLE và BLG tại chung kết nhánh thắng MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>HLE nỗ lực xoay chuyển tình thế nhưng không thể ngăn cản đà tiến của BLG. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,14 +84,14 @@ Tuy vậy, nỗ lực gỡ hòa của HLE không đủ để xoay chuyển cục
 Kết quả này đẩy HLE xuống nhánh thua, buộc đội phải tiếp tục thi đấu để giành tấm vé chung kết tổng còn lại, trong khi BLG giờ đây có thể nghỉ ngơi và chuẩn bị kỹ lưỡng cho trận đấu cuối cùng của giải đấu. Diễn biến này một lần nữa cho thấy MSI 2026 là một mùa giải đầy biến động, nơi ngay cả những đội hạt giống mạnh nhất cũng có thể gặp khó khăn bất ngờ, tương tự như câu chuyện [T1 của Faker từng bị loại sớm nhất lịch sử sau khi thua G2](/articles/t1-thua-g2-msi-2026-bi-loai-som-nhat-lich-su.html) hay việc [TSW để thua đáng thất vọng trước chính HLE ở vòng đấu trước đó](/articles/tsw-thua-hle-msi-2026-bi-chi-trich-nang-ne.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/TdmxTJWbRvQ/hqdefault.jpg" alt="Highlight toàn bộ các ván đấu giữa BLG và HLE tại vòng phân nhánh MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TdmxTJWbRvQ/hqdefault.jpg" alt="Highlight toàn bộ các ván đấu giữa BLG và HLE tại vòng phân nhánh MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>BLG tiếp tục chứng minh phong độ ổn định xuyên suốt cả mùa giải MSI 2026. Nguồn: YouTube</figcaption>
 </figure>
 
 Trước loạt trận này, cộng đồng người hâm mộ đã đặc biệt chú ý tới màn đối đầu được ví như cuộc chiến giữa hai ngôi sao đường trên hàng đầu thế giới, khi [Bin của BLG từng công khai thách thức Zeus trước thềm trận đấu với HLE](/articles/bin-thach-dau-zeus-blg-hle-msi-2026-chung-ket-nhanh-thang.html). Với chiến thắng 3-1 thuyết phục này, BLG đã chứng minh được sức mạnh toàn diện của cả đội hình, không chỉ dừng lại ở màn trình diễn cá nhân xuất sắc của một vài tuyển thủ, tạo tiền đề tâm lý vững chắc trước khi bước vào trận chung kết tổng đầy cam go phía trước.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xu43VZsxHs4/hqdefault.jpg" alt="BLG áp đảo HLE ở vòng phân nhánh MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xu43VZsxHs4/hqdefault.jpg" alt="BLG áp đảo HLE ở vòng phân nhánh MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Lối chơi chủ động và phối hợp nhịp nhàng giúp BLG áp đảo HLE xuyên suốt loạt trận. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Một lợi thế của Android là nhiều máy có sẵn mã test ẩn. Trên 
 Bên cạnh mã test, hãy tự kiểm tra thủ công. Soi màn hình bằng một ảnh nền trắng và một ảnh nền đen để tìm điểm chết, đốm sáng hay vùng ám màu. Thử cảm ứng đa điểm, kiểm tra vân tay và mở khóa khuôn mặt. Chụp thử camera trước sau, quay một đoạn video để nghe lại loa và mic, gọi thử để kiểm tra sóng và loa thoại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kuzhQkqjWg4/maxresdefault.jpg" alt="Hướng dẫn check test điện thoại Samsung cũ chi tiết" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/kuzhQkqjWg4/maxresdefault.jpg" alt="Hướng dẫn check test điện thoại Samsung cũ chi tiết" loading="lazy" width="1280" height="720">
   <figcaption>Mã test ẩn giúp kiểm tra nhanh nhiều chức năng cùng lúc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tình trạng pin trên Android khó xem trực tiếp như iPhone, nhưng vẫn
 Đừng quên thử đủ các kết nối gồm wifi, Bluetooth và GPS định vị, vì đây là những lỗi hay gặp ở máy đã sửa. Cuối cùng, quan sát kỹ ngoại hình: viền màn có hở hay keo thừa không, các con ốc và khe máy có dấu cạy mở không. Android ít cảnh báo linh kiện hơn iPhone, nên ngoại hình và trải nghiệm thực tế là manh mối quan trọng để phát hiện máy đã can thiệp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wtOTpbEKd4s/hq720.jpg" alt="Cách kiểm tra độ chai pin trên điện thoại Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wtOTpbEKd4s/hq720.jpg" alt="Cách kiểm tra độ chai pin trên điện thoại Android" loading="lazy" width="1280" height="720">
   <figcaption>Độ chai pin ảnh hưởng lớn tới giá trị và trải nghiệm của máy cũ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Trên thị trường Android cũ có nhiều nguồn gốc máy khác nhau, ả
 Khi mua, hãy hỏi rõ máy là bản quốc tế hay nội địa, hỗ trợ một hay hai SIM, có dùng được eSIM hay không nếu cần. Lắp thử SIM của mình để kiểm tra sóng nghe gọi và dữ liệu di động ngay tại chỗ là cách chắc chắn nhất. Một chiếc máy đúng nguồn gốc, đủ băng tần và còn nhận cập nhật sẽ bền giá trị hơn nhiều so với một máy giá rẻ nhưng kén sóng và sớm lỗi thời về phần mềm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/YEaEVgoiIoM/maxresdefault.jpg" alt="Cách kiểm tra test điện thoại Android cũ đơn giản" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YEaEVgoiIoM/maxresdefault.jpg" alt="Cách kiểm tra test điện thoại Android cũ đơn giản" loading="lazy" width="1280" height="720">
   <figcaption>Lắp thử SIM và kiểm tra sóng giúp xác định đúng nguồn gốc máy. Nguồn: YouTube</figcaption>
 </figure>
 

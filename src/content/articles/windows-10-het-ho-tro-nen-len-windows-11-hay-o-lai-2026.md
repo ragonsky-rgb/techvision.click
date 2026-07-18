@@ -59,7 +59,7 @@ Trong nhiều năm, Windows 10 là hệ điều hành máy tính phổ biến nh
 Khi một hệ điều hành hết hỗ trợ, Microsoft ngừng ba thứ: bản vá bảo mật, cập nhật tính năng và hỗ trợ kỹ thuật. Trong đó, việc ngừng vá bảo mật là đáng lo nhất. Mỗi tháng, giới nghiên cứu phát hiện thêm nhiều lỗ hổng mới, và nếu chúng không được vá, kẻ xấu có thể lợi dụng để cài mã độc, đánh cắp dữ liệu hoặc chiếm tài khoản. Máy càng để lâu không vá thì rủi ro càng chồng chất theo thời gian.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BOKJXSormPY/hqdefault.jpg" alt="Windows 11 đáng nâng cấp không trong năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BOKJXSormPY/hqdefault.jpg" alt="Windows 11 đáng nâng cấp không trong năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nâng cấp Windows 11 mang lại bảo mật dài hạn nhưng đòi hỏi phần cứng đạt chuẩn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ Với người dùng phổ thông chỉ lướt web, xem phim, thi thoảng so�
 Hiểu rằng không phải máy nào cũng lên được Windows 11, Microsoft mở chương trình Extended Security Updates dành cho cả người dùng cá nhân, điều chưa từng có với các phiên bản Windows trước. ESU cung cấp riêng các bản vá bảo mật quan trọng cho Windows 10 phiên bản 22H2, và bạn ghi danh ngay trong Settings, mục Windows Update, thông qua một trình hướng dẫn tích hợp sẵn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xy0FVH0Qyhw/hqdefault.jpg" alt="Chương trình ESU gia hạn bảo mật cho Windows 10 tới tháng 10 2027" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xy0FVH0Qyhw/hqdefault.jpg" alt="Chương trình ESU gia hạn bảo mật cho Windows 10 tới tháng 10 2027" loading="lazy" width="1280" height="720">
   <figcaption>ESU giúp máy Windows 10 tiếp tục nhận bản vá bảo mật quan trọng dù đã hết hỗ trợ chính thức. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Một lưu ý quan trọng: rất nhiều máy báo không đủ điều kiện 
 Tính tới đầu năm 2026, Windows 11 đã vươn lên chiếm khoảng 72,6% thị phần, trong khi Windows 10 lùi về quanh 26,5%, cho thấy làn sóng chuyển đổi đang diễn ra mạnh. Nếu máy của bạn đủ chuẩn, hãy nâng cấp Windows 11 miễn phí ngay, vừa an toàn vừa nhận thêm các tính năng mới, có thể tham khảo bài [Windows 11 25H2 với cập nhật hiệu năng và tìm kiếm NPU](/articles/windows-11-25h2-cap-nhat-2026-hieu-nang-tim-kiem-npu-khoi-phuc.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/cgxFSR6ofo8/hqdefault.jpg" alt="Người dùng cân nhắc nên lên Windows 11 hay ở lại Windows 10" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/cgxFSR6ofo8/hqdefault.jpg" alt="Người dùng cân nhắc nên lên Windows 11 hay ở lại Windows 10" loading="lazy" width="1280" height="720">
   <figcaption>Lựa chọn phụ thuộc vào phần cứng máy và nhu cầu sử dụng của mỗi người. Nguồn: YouTube</figcaption>
 </figure>
 

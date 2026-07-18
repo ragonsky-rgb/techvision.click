@@ -68,7 +68,7 @@ Micro thu âm chất lượng ngày càng trở nên quan trọng khi xu hướn
 Hướng thu âm, hay còn gọi là polar pattern, quyết định micro sẽ thu âm thanh mạnh nhất từ hướng nào. Hướng cardioid thu âm chủ yếu từ phía trước micro, hạn chế đáng kể tiếng ồn từ hai bên và phía sau, phù hợp nhất cho thu giọng nói cá nhân khi livestream hoặc thu âm một người. Hướng omnidirectional thu âm đều từ mọi hướng xung quanh, phù hợp cho các buổi phỏng vấn nhóm, thu âm cuộc họp có nhiều người tham gia cùng lúc mà không cần trang bị riêng cho mỗi người một chiếc micro cá nhân.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/PEEes959TFA/hqdefault.jpg" alt="Tat ca cac loai micro pho bien chon micro livestream vlog 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/PEEes959TFA/hqdefault.jpg" alt="Tat ca cac loai micro pho bien chon micro livestream vlog 2026" loading="lazy" width="1280" height="480">
   <figcaption>Hiểu rõ các loại micro phổ biến giúp chọn đúng thiết bị phù hợp mục đích sử dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Micro kết nối USB cắm trực tiếp vào máy tính hoặc điện thoại
 Với micro USB, người dùng không bắt buộc phải mua thêm soundcard vì bộ chuyển đổi tín hiệu đã được tích hợp sẵn bên trong thân micro. Với micro XLR chuyên nghiệp, bắt buộc phải có soundcard hoặc mixer riêng để chuyển đổi tín hiệu analog sang digital, đồng thời cấp nguồn phantom power cần thiết cho micro condenser hoạt động đúng cách. Người mới bắt đầu nên cân nhắc kỹ chi phí tổng thể bao gồm cả soundcard nếu chọn hướng đầu tư micro XLR, vì tổng chi phí có thể cao hơn đáng kể so với dự tính ban đầu chỉ tính riêng giá micro, chưa kể chi phí phụ kiện đi kèm khác như chân đế, lọc âm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/k_db5XdB_nQ/hqdefault.jpg" alt="Top 4 bo mic live stream co dung autotune 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/k_db5XdB_nQ/hqdefault.jpg" alt="Top 4 bo mic live stream co dung autotune 2026" loading="lazy" width="1280" height="480">
   <figcaption>Bộ mic livestream đi kèm soundcard tích hợp tính năng autotune ngày càng phổ biến với người hát livestream. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Với micro USB, người dùng không bắt buộc phải mua thêm soundcard v
 Cuối cùng, cần xác định ngân sách phù hợp với mục đích sử dụng chính. Với nhu cầu trò chuyện livestream cơ bản, họp trực tuyến, micro tầm giá dưới 1 triệu đồng đã đáp ứng đủ. Với người làm podcast, thu âm giọng nói chuyên nghiệp, nên đầu tư tầm giá 2 tới 4 triệu đồng cho micro USB cao cấp hoặc bộ micro XLR cơ bản kèm soundcard. Với ca sĩ nghiệp dư hát livestream thường xuyên, cần đầu tư trọn bộ micro XLR chuyên dụng cùng soundcard có tính năng chỉnh âm, khử tiếng vang, mức chi phí có thể lên tới nhiều triệu đồng tùy chất lượng mong muốn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WxGrJ2pE1bg/hqdefault.jpg" alt="Chu y truoc khi lua chon mua thiet bi thu am hat livestream 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WxGrJ2pE1bg/hqdefault.jpg" alt="Chu y truoc khi lua chon mua thiet bi thu am hat livestream 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nên tìm hiểu kỹ trước khi đầu tư trọn bộ thiết bị thu âm, hát livestream chuyên nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 

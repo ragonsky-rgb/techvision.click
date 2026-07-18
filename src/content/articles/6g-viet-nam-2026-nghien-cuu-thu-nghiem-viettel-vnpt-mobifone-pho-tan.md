@@ -76,7 +76,7 @@ Một yếu tố nền tảng cho 6G là phổ tần. Việt Nam đã phê duy�
 Quyết định mở băng tần này giúp Việt Nam không bị tụt hậu khi công nghệ 6G chín muồi, đồng thời tạo điều kiện cho các nhà mạng nghiên cứu và thử nghiệm hiệu quả. Quản lý phổ tần hợp lý là một phần của chiến lược hạ tầng số tổng thể, bên cạnh các thành phần khác như cáp quang biển và trung tâm dữ liệu. Hạ tầng kết nối quốc tế cũng được đầu tư song song, như nêu trong bài [cáp quang biển Việt Nam 2026](/articles/cap-quang-bien-viet-nam-2026-adc-tuyen-moi-singapore-350-tbps.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BmKbV-1ju7k/maxresdefault.jpg" alt="Việt Nam mở băng tần 6 GHz chuẩn bị cho mạng 6G" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BmKbV-1ju7k/maxresdefault.jpg" alt="Việt Nam mở băng tần 6 GHz chuẩn bị cho mạng 6G" loading="lazy" width="1280" height="720">
   <figcaption>Băng tần 6 GHz được dành sẵn cho công nghệ 6G. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Trong các nhà mạng, Viettel thể hiện tham vọng rõ nét nhất với 6
 Lộ trình này cho thấy Viettel muốn không chỉ là nhà mạng sử dụng công nghệ mà còn tham gia phát triển và làm chủ 6G. Việc đóng góp vào xây dựng tiêu chuẩn quốc tế là bước tiến quan trọng, nâng vị thế của Việt Nam trong ngành viễn thông toàn cầu. Tham vọng làm chủ công nghệ cao này gắn liền với các nỗ lực khác như phát triển bán dẫn, thể hiện qua bài [Viettel khởi công nhà máy chip](/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/UeVpd71WuHA/maxresdefault.jpg" alt="Viettel công bố lộ trình nghiên cứu và thương mại 6G" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/UeVpd71WuHA/maxresdefault.jpg" alt="Viettel công bố lộ trình nghiên cứu và thương mại 6G" loading="lazy" width="1280" height="720">
   <figcaption>Viettel đặt lộ trình thử nghiệm tiền thương mại 6G từ 2028. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Việt Nam không chỉ nghiên cứu trong nước mà còn tham gia hợp tác
 Việc tham gia liên minh quốc tế mang lại lợi ích về chia sẻ tri thức, xây dựng tiêu chuẩn chung và tiếp cận công nghệ tiên tiến. Tuy nhiên, cần nhìn nhận rằng 6G vẫn là công nghệ đang trong giai đoạn nghiên cứu, với nhiều thách thức về kỹ thuật và chi phí. Tham vọng của Việt Nam là đáng khích lệ, nhưng thành công đòi hỏi đầu tư bền bỉ và việc khai thác hiệu quả 5G trước đã. Đây là hành trình dài hạn cần được theo dõi qua thời gian.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sbI6Hkn23AA/maxresdefault.jpg" alt="Việt Nam tham gia liên minh 6G toàn cầu cùng FPT Viettel VNG" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/sbI6Hkn23AA/maxresdefault.jpg" alt="Việt Nam tham gia liên minh 6G toàn cầu cùng FPT Viettel VNG" loading="lazy" width="1280" height="720">
   <figcaption>Doanh nghiệp Việt góp mặt trong liên minh 6G toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 

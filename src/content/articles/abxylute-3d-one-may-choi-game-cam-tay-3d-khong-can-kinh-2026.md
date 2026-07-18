@@ -58,7 +58,7 @@ Abxylute vừa chính thức ra mắt 3D One, một trong những máy chơi gam
 Điểm nhấn kỹ thuật lớn nhất của 3D One là màn hình 11 inch độ phân giải 2,5K có khả năng hiển thị hình ảnh 3D mà không cần người dùng phải đeo kính chuyên dụng như các công nghệ 3D truyền thống. Máy sử dụng camera theo dõi vị trí mắt người dùng theo thời gian thực, kết hợp hiển thị hai hình ảnh hơi lệch góc nhìn tương ứng với mỗi mắt để tạo cảm giác chiều sâu, một cách tiếp cận kỹ thuật phức tạp hơn nhiều so với màn hình 2D thông thường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-7EHphSXWh4/hqdefault.jpg" alt="Nhin sau hon ve cong nghe man hinh Abxylute 3D One" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/-7EHphSXWh4/hqdefault.jpg" alt="Nhin sau hon ve cong nghe man hinh Abxylute 3D One" loading="lazy" width="1280" height="480">
   <figcaption>Phân tích chuyên sâu về cách công nghệ theo dõi mắt tạo hiệu ứng 3D trên màn hình Abxylute 3D One. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Công nghệ theo dõi mắt này đòi hỏi camera phải liên tục xử lý
 Khác với các máy chơi game cầm tay chuyên dụng chỉ chạy hệ điều hành riêng, 3D One chạy Windows đầy đủ, kết hợp chip Intel Core Ultra 7 258V và GPU tích hợp Arc 140V, cho phép chơi được cả game PC thông thường lẫn khoảng 50 tựa game được nhà sản xuất xác nhận hỗ trợ hiệu ứng 3D, gồm cả game thiết kế 3D gốc và game 2D được chuyển đổi qua phần mềm xử lý riêng của Abxylute, mở rộng đáng kể phạm vi ứng dụng của thiết bị so với các máy chơi game cầm tay chuyên biệt khác. Cách tiếp cận này giúp máy vừa là thiết bị chơi game 3D độc đáo, vừa là một chiếc máy tính bảng Windows đa năng có thể dùng cho các tác vụ khác ngoài chơi game.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZynpOfnL8I8/hqdefault.jpg" alt="Abxylute 3D One danh gia thiet bi chuoi game ky la" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZynpOfnL8I8/hqdefault.jpg" alt="Abxylute 3D One danh gia thiet bi chuoi game ky la" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết về thiết kế độc đáo nhưng cũng gây tranh cãi của Abxylute 3D One. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Khác với các máy chơi game cầm tay chuyên dụng chỉ chạy hệ đi�
 Các bài đánh giá quốc tế đánh giá cao ý tưởng táo bạo và chất lượng màn hình của 3D One, nhưng cũng chỉ ra một số hạn chế đáng cân nhắc, bao gồm kích thước máy khá cồng kềnh so với các máy chơi game cầm tay thông thường, thời lượng pin chưa thực sự ấn tượng, và hiệu ứng 3D đôi khi mang tính chất thử nghiệm hơn là mang lại trải nghiệm chơi game đột phá thực sự như kỳ vọng ban đầu của nhiều người dùng. Nhiều reviewer nhận định phần đáng giá nhất của sản phẩm không hẳn nằm ở tính năng 3D, mà ở cấu hình phần cứng tổng thể và trải nghiệm Windows đầy đủ trên một thiết bị cầm tay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AfJuW8qzAOI/hqdefault.jpg" alt="Abxylute 3D One phan hay nhat khong phai 3D" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/AfJuW8qzAOI/hqdefault.jpg" alt="Abxylute 3D One phan hay nhat khong phai 3D" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều đánh giá cho rằng phần đáng giá nhất của Abxylute 3D One nằm ở cấu hình tổng thể chứ không chỉ tính năng 3D. Nguồn: YouTube</figcaption>
 </figure>
 

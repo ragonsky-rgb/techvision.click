@@ -71,7 +71,7 @@ Tuy nhiên câu chuyện rẽ hướng bất ngờ vào tháng 3/2023, khi tờ 
 Câu chuyện của Haaland thực chất phản ánh một thực tế khá phổ biến trong ngành công nghiệp giải trí và thể thao đỉnh cao. Phần lớn hợp đồng đại sứ thương hiệu chỉ ràng buộc nghĩa vụ xuất hiện trong các chiến dịch quảng cáo chính thức, sự kiện ra mắt sản phẩm hoặc đăng tải nội dung được tài trợ trên mạng xã hội cá nhân, chứ hiếm khi kiểm soát chặt chẽ được thiết bị cá nhân mà người đó sử dụng trong sinh hoạt hàng ngày. Với những ngôi sao có mạng lưới quan hệ rộng như bạn bè, gia đình, đồng đội, việc mượn hoặc sử dụng thiết bị khác ngoài sản phẩm được tài trợ là điều khó tránh khỏi và không hiếm khi xảy ra.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/W_x2TWl0zhU/hqdefault.jpg" alt="Haaland has a Samsung phản ứng cộng đồng mạng về câu chuyện điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/W_x2TWl0zhU/hqdefault.jpg" alt="Haaland has a Samsung phản ứng cộng đồng mạng về câu chuyện điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Câu chuyện Haaland và chiếc điện thoại đã trở thành đề tài được cộng đồng mạng bàn tán rộng rãi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Câu chuyện đại sứ thương hiệu dùng máy đối thủ thực chất 
 Bên cạnh câu chuyện điện thoại, danh mục hợp đồng tài trợ của Haaland còn mở rộng sang nhiều lĩnh vực khác ngoài công nghệ, phản ánh sức hút thương mại vượt trội của chân sút này trên toàn cầu. Ước tính mỗi năm Haaland thu về hơn 26 triệu euro chỉ riêng từ các hợp đồng quảng cáo, chưa kể khoản lương thi đấu khổng lồ tại Manchester City, biến anh trở thành một trong những vận động viên có giá trị thương mại cao nhất làng thể thao thế giới hiện nay, ngang hàng với những cái tên như Ronaldo hay Mbappe về mức độ phủ sóng truyền thông.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sHUAq7f_oUU/hqdefault.jpg" alt="Haaland tiếp tục ký hợp đồng đại sứ thương hiệu với nhiều nhãn hàng khác nhau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/sHUAq7f_oUU/hqdefault.jpg" alt="Haaland tiếp tục ký hợp đồng đại sứ thương hiệu với nhiều nhãn hàng khác nhau" loading="lazy" width="1280" height="720">
   <figcaption>Haaland sở hữu danh mục hợp đồng tài trợ đa dạng, trải dài từ thời trang thể thao đến công nghệ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Bên cạnh câu chuyện điện thoại, danh mục hợp đồng tài trợ c
 Về bản chất truyền thông, những khoảnh khắc đại sứ thương hiệu bị bắt gặp sử dụng sản phẩm của đối thủ luôn có sức lan truyền mạnh mẽ vì chúng chạm đến tâm lý tò mò rất tự nhiên của công chúng, đó là mong muốn nhìn thấy phiên bản "thật" đằng sau lớp vỏ hào nhoáng của quảng cáo. Đối với người hâm mộ, đây không đơn thuần là một sai sót truyền thông mà còn là bằng chứng cho thấy ngay cả những ngôi sao được trả hàng chục triệu euro mỗi năm để quảng bá sản phẩm cũng có những lựa chọn cá nhân riêng, không hoàn toàn bị chi phối bởi hợp đồng thương mại. Về phía Samsung và ê-kíp của Haaland, cả hai bên đều không đưa ra bình luận chính thức nào sau khi câu chuyện lan truyền, cho thấy sự việc được xử lý theo hướng giảm nhẹ mức độ nghiêm trọng, thay vì biến thành một cuộc khủng hoảng truyền thông thực sự.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XK9WVRErnBQ/hqdefault.jpg" alt="Một ngày trong cuộc sống của cầu thủ chuyên nghiệp Erling Haaland" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XK9WVRErnBQ/hqdefault.jpg" alt="Một ngày trong cuộc sống của cầu thủ chuyên nghiệp Erling Haaland" loading="lazy" width="1280" height="720">
   <figcaption>Lịch trình dày đặc của một cầu thủ chuyên nghiệp khiến việc kiểm soát mọi chi tiết hình ảnh trở nên khó khăn hơn. Nguồn: YouTube</figcaption>
 </figure>
 

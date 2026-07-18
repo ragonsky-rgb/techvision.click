@@ -70,7 +70,7 @@ Việc thay đổi tỷ lệ màn hình sau nhiều thế hệ giữ nguyên cho
 Bên cạnh màn hình, camera cũng là điểm nâng cấp đáng chú ý của Fold8 Ultra, với camera chính độ phân giải 200MP, kết hợp camera tele 10MP và đặc biệt là camera góc siêu rộng 50MP hoàn toàn mới, độ phân giải cao hơn nhiều so với camera góc rộng trên các thế hệ Fold trước đây thường chỉ dừng ở mức 12MP. Nâng cấp này cho thấy Samsung đang nỗ lực thu hẹp khoảng cách chất lượng camera giữa dòng Fold Ultra và dòng flagship thanh S Ultra, vốn luôn dẫn đầu về camera trong danh mục sản phẩm của hãng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/GeGd8tKVTMU/hqdefault.jpg" alt="Samsung Galaxy Z Fold8 Ultra ky nguyen Ultra bat dau" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/GeGd8tKVTMU/hqdefault.jpg" alt="Samsung Galaxy Z Fold8 Ultra ky nguyen Ultra bat dau" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều nguồn tin gọi Fold8 Ultra là khởi đầu cho kỷ nguyên Ultra thực sự trên dòng điện thoại gập của Samsung. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,14 +79,14 @@ Bên cạnh màn hình, camera cũng là điểm nâng cấp đáng chú ý củ
 Theo rò rỉ, Fold8 Ultra sẽ trang bị chip Snapdragon 8 Elite Gen 5 mới nhất của Qualcomm, RAM tối đa 16GB cùng các tùy chọn bộ nhớ trong 256GB, 512GB hoặc 1TB, đáp ứng tốt nhu cầu đa nhiệm nặng trên màn hình lớn. Giá bán khởi điểm dự kiến khoảng 2.100 USD, biến Fold8 Ultra thành smartphone chính hãng đắt nhất trong danh mục sản phẩm phổ thông của Samsung, cao hơn đáng kể so với các thế hệ Fold trước đây, phản ánh xu hướng tăng giá linh kiện chung của toàn ngành di động trong năm 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4gry7j36MCs/hqdefault.jpg" alt="Samsung Galaxy Z Fold8 Ultra camera 200MP hinh anh chinh thuc" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/4gry7j36MCs/hqdefault.jpg" alt="Samsung Galaxy Z Fold8 Ultra camera 200MP hinh anh chinh thuc" loading="lazy" width="1280" height="480">
   <figcaption>Cụm camera 200MP cùng camera góc siêu rộng mới là điểm nâng cấp đáng chú ý của Galaxy Z Fold8 Ultra. Nguồn: YouTube</figcaption>
 </figure>
 
 Các màu sắc rò rỉ gồm Cream, Graphite, Green Shadow và Violet Shadow, cho thấy Samsung tiếp tục theo đuổi bảng màu trầm, sang trọng thay vì các gam màu sặc sỡ, phù hợp định vị sản phẩm cao cấp dành cho đối tượng khách hàng doanh nhân và người dùng chuyên nghiệp vốn là nhóm khách hàng chính của dòng Fold Ultra kể từ khi ra mắt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/uIhBvGVOfsg/hqdefault.jpg" alt="Samsung Galaxy Z Fold8 Ultra sua diem yeu lon nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/uIhBvGVOfsg/hqdefault.jpg" alt="Samsung Galaxy Z Fold8 Ultra sua diem yeu lon nhat" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều nguồn tin cho rằng Fold8 Ultra đã khắc phục được điểm yếu lớn nhất về camera của các thế hệ Fold trước đây. Nguồn: YouTube</figcaption>
 </figure>
 

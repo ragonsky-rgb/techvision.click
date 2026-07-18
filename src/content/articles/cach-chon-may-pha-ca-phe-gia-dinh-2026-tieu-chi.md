@@ -69,7 +69,7 @@ Hiện nay máy pha cà phê gia đình được chia thành ba nhóm chính: m�
 Với gia đình chỉ uống khoảng 1 đến 2 ly cà phê mỗi ngày, máy công suất nhỏ, dung tích bình chứa nước khiêm tốn là đủ dùng, giúp tiết kiệm chi phí đầu tư ban đầu. Ngược lại, với gia đình đông người hoặc thường xuyên tiếp khách, nên chọn máy có dung tích bình chứa nước lớn hơn cùng công suất pha nhanh hơn, hạn chế tình trạng phải châm nước hoặc chờ đợi nhiều lần trong ngày khi có đông người cùng sử dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Ae24TxRVnVM/hqdefault.jpg" alt="May pha ca phe gia dinh nam 2026 nen mua loai nao" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ae24TxRVnVM/hqdefault.jpg" alt="May pha ca phe gia dinh nam 2026 nen mua loai nao" loading="lazy" width="1280" height="480">
   <figcaption>Việc chọn công suất máy phù hợp giúp tối ưu trải nghiệm sử dụng hằng ngày cho cả gia đình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Với những gia đình đang hoàn thiện không gian bếp thông minh, có 
 Máy pha cà phê gia đình có mức giá dao động rất rộng, từ khoảng 2 triệu đồng cho các mẫu phổ thông tới hàng chục triệu đồng cho các dòng cao cấp nhập khẩu từ châu Âu. Trước khi quyết định đầu tư, nên cân nhắc kỹ tần suất sử dụng thực tế của cả gia đình, vì đầu tư quá nhiều cho một chiếc máy công suất lớn, tính năng cao cấp nhưng chỉ dùng vài lần mỗi tuần thường không mang lại giá trị kinh tế tương xứng. Người dùng có thể tham khảo thêm [top máy pha cà phê đáng mua tháng 7/2026](/articles/top-may-pha-ca-phe-dang-mua-thang-7-2026.html) để xem gợi ý cụ thể theo từng phân khúc giá phù hợp nhu cầu sử dụng của mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/azvsJvhaujU/mqdefault.jpg" alt="So sanh cac dong may pha ca phe gia dinh gia re va cao cap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/azvsJvhaujU/mqdefault.jpg" alt="So sanh cac dong may pha ca phe gia dinh gia re va cao cap" loading="lazy" width="1280" height="480">
   <figcaption>So sánh các dòng máy pha cà phê gia đình giúp người mua dễ chọn lựa phù hợp ngân sách. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nhiều gia đình hiện nay đang xây dựng một góc bếp nhỏ gọn, t�
 Cuối cùng, nên tìm hiểu kỹ về chi phí vận hành lâu dài của từng loại máy trước khi quyết định, bao gồm chi phí hạt cà phê hoặc viên nén, chi phí thay thế bộ lọc nước định kỳ và chi phí bảo trì khi máy gặp sự cố sau thời gian bảo hành, vì tổng chi phí sở hữu lâu dài đôi khi chênh lệch đáng kể giữa các dòng máy có mức giá mua ban đầu tương đương nhau.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hBizVHtVDu4/mqdefault.jpg" alt="Danh gia chi tiet may pha ca phe tu dong cao cap chau Au" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hBizVHtVDu4/mqdefault.jpg" alt="Danh gia chi tiet may pha ca phe tu dong cao cap chau Au" loading="lazy" width="1280" height="480">
   <figcaption>Các dòng máy pha cà phê tự động nhập khẩu châu Âu thường có mức giá cao hơn nhưng bù lại độ bền và tính năng vượt trội. Nguồn: YouTube</figcaption>
 </figure>
 

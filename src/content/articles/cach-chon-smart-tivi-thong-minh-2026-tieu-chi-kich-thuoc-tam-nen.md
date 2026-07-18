@@ -76,7 +76,7 @@ Tấm nền quyết định chất lượng hình ảnh cốt lõi của tivi. O
 QLED là công nghệ LED cải tiến với lớp chấm lượng tử, mang lại độ sáng cao và màu sắc rực rỡ, độ bền tốt và phù hợp với phòng nhiều ánh sáng. Đây là lựa chọn cân bằng giữa chất lượng và giá. Cuối cùng, tivi LED thông thường có giá dễ tiếp cận nhất, phù hợp ngân sách hạn chế hoặc nhu cầu xem cơ bản. Việc chọn loại nào tùy thuộc vào điều kiện ánh sáng phòng, nhu cầu xem và ngân sách của bạn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/QdYsMoC56f0/maxresdefault.jpg" alt="Nên chọn mua tivi loại nào Sony Samsung LG TCL" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/QdYsMoC56f0/maxresdefault.jpg" alt="Nên chọn mua tivi loại nào Sony Samsung LG TCL" loading="lazy" width="1280" height="720">
   <figcaption>Mỗi loại tấm nền có thế mạnh riêng tùy điều kiện phòng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về độ phân giải, 4K hiện là tiêu chuẩn của smart tivi và hầu 
 Hệ điều hành quyết định trải nghiệm sử dụng hằng ngày. Các nền tảng phổ biến như Google TV, Tizen của Samsung hay webOS của LG đều mượt và có kho ứng dụng phong phú. Điều quan trọng là hệ điều hành chạy nhanh, ổn định, có đủ các ứng dụng xem phim bạn cần và được cập nhật lâu dài. Nên trải nghiệm thử giao diện tại cửa hàng để xem có dễ dùng với cả gia đình, đặc biệt là người lớn tuổi, hay không.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/USY3sPUiR4Y/maxresdefault.jpg" alt="Smart tivi là gì, Android tivi là gì cần biết trước khi mua" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/USY3sPUiR4Y/maxresdefault.jpg" alt="Smart tivi là gì, Android tivi là gì cần biết trước khi mua" loading="lazy" width="1280" height="720">
   <figcaption>Hệ điều hành mượt và nhiều ứng dụng giúp trải nghiệm tốt hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một yếu tố dễ bị bỏ qua là cổng kết nối. Nên chọn tivi có
 Về âm thanh, cần lưu ý rằng tivi ngày càng mỏng nên loa tích hợp thường hạn chế về chất lượng, đặc biệt là âm trầm. Nếu bạn đề cao trải nghiệm xem phim hoặc nghe nhạc, hãy cân nhắc trang bị thêm loa soundbar để cải thiện đáng kể. Đây là khoản đầu tư bổ sung hợp lý, biến chiếc tivi thành một hệ thống giải trí hoàn chỉnh hơn cho gia đình. Để hiểu thêm về tấm nền và tần số quét, có thể tham khảo bài [tần số quét màn hình là gì](/articles/tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/NhAoOBHNWmk/hqdefault.jpg" alt="So sánh nên mua smart tivi hay đầu Android box TV" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NhAoOBHNWmk/hqdefault.jpg" alt="So sánh nên mua smart tivi hay đầu Android box TV" loading="lazy" width="1280" height="720">
   <figcaption>Cổng kết nối và âm thanh cũng là yếu tố nên cân nhắc. Nguồn: YouTube</figcaption>
 </figure>
 

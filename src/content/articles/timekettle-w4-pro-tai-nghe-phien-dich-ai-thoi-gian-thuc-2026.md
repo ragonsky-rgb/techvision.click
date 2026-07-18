@@ -68,7 +68,7 @@ TimeKettle vừa chính thức giới thiệu W4 Pro, thế hệ tai nghe phiên
 Các đánh giá thực tế từ nhiều kênh công nghệ cho thấy độ chính xác dịch thuật của W4 Pro đạt khoảng 95% với các ngôn ngữ phổ biến như tiếng Anh, tiếng Trung hay tiếng Nhật, đủ để người dùng nắm được nội dung chính của cuộc hội thoại trong các tình huống giao tiếp cơ bản như hỏi đường, gọi món ăn tại nhà hàng hay trao đổi công việc đơn giản. Tuy nhiên, một số đánh giá cũng lưu ý rằng độ chính xác có thể giảm đáng kể với các ngôn ngữ ít phổ biến hơn hoặc trong môi trường có nhiều tiếng ồn xung quanh, nơi micro khó thu âm chính xác giọng nói của người dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/J0CRLECV-KA/mqdefault.jpg" alt="TimeKettle W4 Pro dich thuat hai chieu thoi gian thuc trong tai" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/J0CRLECV-KA/mqdefault.jpg" alt="TimeKettle W4 Pro dich thuat hai chieu thoi gian thuc trong tai" loading="lazy" width="1280" height="480">
   <figcaption>TimeKettle W4 Pro mang lại trải nghiệm dịch thuật hai chiều ngay trong tai người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Với mức giá trên 300 USD, TimeKettle W4 Pro phù hợp hơn với đối t
 Với người Việt thường xuyên đi công tác hoặc du lịch tới các quốc gia không sử dụng tiếng Anh phổ biến, thiết bị phiên dịch AI chuyên dụng như TimeKettle W4 Pro có thể là công cụ hỗ trợ hữu ích, giúp vượt qua rào cản ngôn ngữ trong các tình huống giao tiếp cơ bản hằng ngày mà không cần thuê phiên dịch viên đi kèm. Tuy nhiên, với mức giá còn khá cao so với thu nhập trung bình, người dùng nên cân nhắc kỹ tần suất sử dụng thực tế trước khi quyết định đầu tư, hoặc có thể thử nghiệm trước các ứng dụng dịch thuật miễn phí trên điện thoại để đánh giá nhu cầu thực tế của bản thân.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hDQEUkSjoR0/hqdefault.jpg" alt="Danh gia TimeKettle W4 Pro trai nghiem dich thuat thuc te" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hDQEUkSjoR0/hqdefault.jpg" alt="Danh gia TimeKettle W4 Pro trai nghiem dich thuat thuc te" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm thực tế cho thấy TimeKettle W4 Pro xử lý tốt các tình huống giao tiếp cơ bản khi du lịch, công tác. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Ngoài phiên bản W4 Pro cao cấp, TimeKettle cũng có các dòng sản ph�
 Nhìn rộng hơn, sự phát triển của các thiết bị phiên dịch AI chuyên dụng như W4 Pro cũng phản ánh xu hướng chung trong ngành công nghệ, nơi các công cụ hỗ trợ giao tiếp bằng AI ngày càng len lỏi vào đời sống hằng ngày, tương tự cách người dùng ngày càng quen thuộc với việc [viết prompt hiệu quả cho các trợ lý AI như ChatGPT, Gemini](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html) để phục vụ công việc và học tập hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/J0CRLECV-KA/sddefault.jpg" alt="Cong nghe phien dich AI TimeKettle ung dung trong cong tac quoc te" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/J0CRLECV-KA/sddefault.jpg" alt="Cong nghe phien dich AI TimeKettle ung dung trong cong tac quoc te" loading="lazy" width="1280" height="480">
   <figcaption>Công nghệ phiên dịch AI của TimeKettle hướng tới hỗ trợ giao tiếp hiệu quả trong công tác quốc tế. Nguồn: YouTube</figcaption>
 </figure>
 

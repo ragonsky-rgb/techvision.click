@@ -68,7 +68,7 @@ Cộng đồng công nghệ Việt Nam, với tin tức được nhiều trang t
 Cơ sở công suất 24 megawatt này được kết nối trực tiếp với một trang trại điện gió ngoài khơi công suất 200 megawatt, với hơn 50 turbine gió, cung cấp trên 95% tổng lượng điện năng cần thiết cho toàn bộ hoạt động của trung tâm dữ liệu. Đây là điểm khác biệt lớn so với phần lớn trung tâm dữ liệu AI hiện nay trên thế giới vẫn chủ yếu dựa vào lưới điện thông thường, thường có tỷ lệ năng lượng tái tạo thấp hơn đáng kể, khiến dự án Thượng Hải trở thành ví dụ điển hình về hạ tầng AI xanh, giảm thiểu tác động môi trường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KZoNyjBllxo/sddefault.jpg" alt="Trung Quoc xay dung trung tam du lieu duoi nuoc dung dien gio" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/KZoNyjBllxo/sddefault.jpg" alt="Trung Quoc xay dung trung tam du lieu duoi nuoc dung dien gio" loading="lazy" width="1280" height="480">
   <figcaption>Dự án trung tâm dữ liệu dưới nước sử dụng điện gió của Trung Quốc thu hút sự chú ý lớn từ giới công nghệ toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,14 +83,14 @@ Dự án này cũng phản ánh xu hướng đầu tư mạnh mẽ vào hạ t�
 Từ góc độ theo dõi xu hướng hạ tầng công nghệ, tôi cho rằng dự án này đặt ra một câu hỏi thú vị cho toàn ngành: liệu mô hình kết hợp làm mát bằng nước biển và điện gió ngoài khơi có thể trở thành giải pháp phổ biến cho bài toán tiêu thụ năng lượng khổng lồ của các trung tâm dữ liệu AI trên toàn cầu hay không. Với nhu cầu tính toán AI tăng theo cấp số nhân trong khi lo ngại về tiêu thụ điện năng và nước của các trung tâm dữ liệu ngày càng lớn, cách tiếp cận sáng tạo này của Trung Quốc, dù đòi hỏi vốn đầu tư ban đầu lớn và công nghệ xây dựng dưới nước phức tạp, có thể trở thành hình mẫu tham khảo cho các quốc gia có đường bờ biển dài và tiềm năng điện gió ngoài khơi tốt, tương tự cách [OpenAI đầu tư phát triển chip AI riêng Jalapeño](/articles/openai-jalapeno-chip-ai-dau-tien-hop-tac-broadcom-2026.html) để tối ưu hiệu suất năng lượng cho hạ tầng tính toán AI của riêng mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KZoNyjBllxo/mqdefault.jpg" alt="Trung tam du lieu duoi bien Thuong Hai hoat dong thuong mai day du" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/KZoNyjBllxo/mqdefault.jpg" alt="Trung tam du lieu duoi bien Thuong Hai hoat dong thuong mai day du" loading="lazy" width="1280" height="480">
   <figcaption>Trung tâm dữ liệu dưới biển tại Thượng Hải hiện đã hoạt động thương mại đầy đủ sau giai đoạn thử nghiệm ban đầu. Nguồn: YouTube</figcaption>
 </figure>
 
 Với người dùng công nghệ Việt Nam quan tâm tới các mô hình AI được huấn luyện và vận hành trên hạ tầng như thế này, có thể tham khảo thêm [Google Gemma 4 12B, mô hình AI mã nguồn mở chạy trực tiếp trên laptop](/articles/google-gemma-4-12b-mo-hinh-ai-chay-tren-laptop-2026.html) để hiểu thêm về xu hướng song song, nơi một số mô hình AI được tối ưu để chạy cục bộ, giảm phụ thuộc vào các trung tâm dữ liệu quy mô lớn như dự án dưới biển này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_Wsgtkjrri0/mqdefault.jpg" alt="Cong nghe xay dung trung tam du lieu duoi nuoc phuc tap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_Wsgtkjrri0/mqdefault.jpg" alt="Cong nghe xay dung trung tam du lieu duoi nuoc phuc tap" loading="lazy" width="1280" height="480">
   <figcaption>Xây dựng trung tâm dữ liệu dưới nước đòi hỏi công nghệ kỹ thuật phức tạp và chi phí đầu tư ban đầu lớn. Nguồn: YouTube</figcaption>
 </figure>
 

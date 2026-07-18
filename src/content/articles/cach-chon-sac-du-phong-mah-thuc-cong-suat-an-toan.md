@@ -76,7 +76,7 @@ Sau dung lượng, công suất là yếu tố quyết định trải nghiệm. 
 Về cổng kết nối, nên ưu tiên loại có cổng USB-C hỗ trợ cả vào lẫn ra, để vừa sạc thiết bị vừa nạp lại sạc dự phòng nhanh bằng cùng một dây. Nếu thường mang theo nhiều thiết bị, chọn cục có nhiều cổng để sạc đồng thời. Một số mẫu cao cấp còn tích hợp sẵn dây cáp, rất tiện khi ra ngoài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/o-8GTtwP_6M/maxresdefault.jpg" alt="Cách chọn pin sạc dự phòng xịn đúng nhu cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/o-8GTtwP_6M/maxresdefault.jpg" alt="Cách chọn pin sạc dự phòng xịn đúng nhu cầu" loading="lazy" width="1280" height="720">
   <figcaption>Chọn công suất và số cổng theo thiết bị bạn thường mang theo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ An toàn là yếu tố không nên tiết kiệm. Sạc dự phòng tích trữ
 Nếu hay đi máy bay, cần nhớ sạc dự phòng phải để trong hành lý xách tay, không được ký gửi, và thường bị giới hạn dung lượng tối đa 100Wh, tương đương khoảng 27.000mAh. Hãy xem thông số Wh in trên thân sạc và kiểm tra quy định của hãng bay trước chuyến đi để tránh bị giữ lại tại sân bay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/nyKRC0qlYxg/hq720.jpg" alt="Lưu ý sử dụng và chọn sạc dự phòng tương thích" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nyKRC0qlYxg/hq720.jpg" alt="Lưu ý sử dụng và chọn sạc dự phòng tương thích" loading="lazy" width="1280" height="720">
   <figcaption>Hàng chính hãng có chứng nhận giúp giảm rủi ro phồng pin và chập cháy. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Ngoài dung lượng và công suất, thị trường còn nhiều tính năng 
 Màn hình hiển thị phần trăm pin còn lại là tiện ích nhỏ nhưng hữu ích, giúp biết chính xác còn bao nhiêu năng lượng thay vì đoán qua dãy đèn led. Tính năng sạc dòng thấp cho thiết bị nhỏ như tai nghe true wireless cũng đáng lưu tâm, vì nhiều cục công suất cao tự ngắt khi dòng tải quá thấp. Cuối cùng, trọng lượng và kích thước thực tế nên được cân nhắc cùng dung lượng, bởi một cục quá nặng sẽ ít khi được mang theo dù thông số ấn tượng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/N5xBkMb_7PY/maxresdefault.jpg" alt="Tổng hợp sạc dự phòng nhỏ gọn nhiều thương hiệu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/N5xBkMb_7PY/maxresdefault.jpg" alt="Tổng hợp sạc dự phòng nhỏ gọn nhiều thương hiệu" loading="lazy" width="1280" height="720">
   <figcaption>Cân nhắc trọng lượng và tính năng phụ bên cạnh dung lượng và công suất. Nguồn: YouTube</figcaption>
 </figure>
 

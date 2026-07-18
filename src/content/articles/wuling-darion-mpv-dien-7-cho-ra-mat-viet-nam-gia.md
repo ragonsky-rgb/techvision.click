@@ -74,7 +74,7 @@ Với các gia đình nhiều thế hệ hoặc người thường xuyên chở 
 Là một mẫu xe thuần điện, yếu tố then chốt với Darion là quãng đường đi được và tốc độ sạc. Xe có hai phiên bản với tầm vận hành lần lượt 450km và 500km mỗi lần sạc đầy, con số đủ để yên tâm di chuyển trong đô thị cả tuần hoặc thực hiện các chuyến đi liên tỉnh mà không quá lo lắng về trạm sạc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wH6AnT3mOnQ/hqdefault.jpg" alt="Nội thất và khoang cabin rộng rãi của Wuling Darion" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wH6AnT3mOnQ/hqdefault.jpg" alt="Nội thất và khoang cabin rộng rãi của Wuling Darion" loading="lazy" width="1280" height="720">
   <figcaption>Darion bố trí 7 chỗ dạng 2-2-3, hàng ghế thứ hai chỉnh cơ 4 hướng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Bên cạnh tầm vận hành, khả năng sạc nhanh cũng là điểm cộng 
 Ở phân khúc MPV điện còn non trẻ tại Việt Nam, đối thủ trực tiếp của Wuling Darion là BYD M6. Cuộc đối đầu giữa hai thương hiệu Trung Quốc này phản ánh xu hướng lớn hơn: các hãng xe đang tích cực đưa những mẫu MPV điện giá hợp lý vào thị trường, đón đầu nhu cầu xe gia đình xanh ngày càng tăng. Với giá dự kiến từ 730 triệu, Darion có lợi thế nếu giữ được mức giá này khi bán ra chính thức.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/YyvXtbC5RZ4/hqdefault.jpg" alt="Wuling Darion phiên bản cao cấp với tầm vận hành lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YyvXtbC5RZ4/hqdefault.jpg" alt="Wuling Darion phiên bản cao cấp với tầm vận hành lớn" loading="lazy" width="1280" height="720">
   <figcaption>Bản cao cấp của Darion có tầm vận hành lên tới 500km, cạnh tranh trực tiếp với BYD M6. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Sự xuất hiện của Darion nằm trong bức tranh điện hóa đang phủ
 ## Có nên chờ đợi Wuling Darion
 
 <figure>
-  <img src="https://i.ytimg.com/vi/n6wfwliW7UM/hqdefault.jpg" alt="Wuling Darion MPV điện phù hợp cho gia đình" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/n6wfwliW7UM/hqdefault.jpg" alt="Wuling Darion MPV điện phù hợp cho gia đình" loading="lazy" width="1280" height="720">
   <figcaption>Với không gian lớn và giá dễ tiếp cận, Darion là lựa chọn đáng cân nhắc cho gia đình đông người. Nguồn: YouTube</figcaption>
 </figure>
 

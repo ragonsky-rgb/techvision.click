@@ -76,7 +76,7 @@ Cửa sổ ngữ cảnh 2 triệu token mở ra nhiều ứng dụng thực tế
 Với lập trình viên, ngữ cảnh lớn giúp mô hình hiểu toàn bộ kiến trúc của một dự án thay vì chỉ vài tệp rời rạc, từ đó đưa ra gợi ý sát hơn và ít nhầm lẫn hơn. Với người làm nghiên cứu, phân tích hay nội dung, khả năng nạp cùng lúc nhiều nguồn dữ liệu giúp tổng hợp và đối chiếu thông tin nhanh hơn. Đây là lý do cửa sổ ngữ cảnh trở thành một trong những thông số được quan tâm nhất ở các mô hình AI hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/j98kW6LN5vo/maxresdefault.jpg" alt="Gemini 3.5 với cửa sổ ngữ cảnh hàng triệu token" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/j98kW6LN5vo/maxresdefault.jpg" alt="Gemini 3.5 với cửa sổ ngữ cảnh hàng triệu token" loading="lazy" width="1280" height="720">
   <figcaption>Ngữ cảnh siêu lớn giúp xử lý tài liệu và mã nguồn quy mô lớn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về cách tiếp cận, Google cung cấp Gemini 3.5 Pro qua các gói đăng k
 Trước Pro, Google đã ra mắt Gemini 3.5 Flash vào tháng 5/2026, phiên bản nhẹ, nhanh và rẻ hơn, phù hợp các tác vụ cần phản hồi nhanh ở quy mô lớn. Sự phân tầng giữa Flash và Pro cho phép người dùng chọn đúng công cụ theo nhu cầu và ngân sách, thay vì luôn dùng mô hình mạnh nhất và đắt nhất. Đây là chiến lược phổ biến giúp đưa AI vào nhiều ứng dụng với chi phí hợp lý hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/v1xqYZ3s23s/maxresdefault.jpg" alt="Gemini 3.5 Flash bản nhẹ nhanh của Google ra trước" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/v1xqYZ3s23s/maxresdefault.jpg" alt="Gemini 3.5 Flash bản nhẹ nhanh của Google ra trước" loading="lazy" width="1280" height="720">
   <figcaption>Gemini 3.5 Flash bản nhẹ ra trước, Pro là bản đầu bảng mạnh hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Gemini 3.5 Pro ra mắt giữa lúc cuộc đua mô hình AI đầu bảng nóng
 Với sức mạnh tích hợp sâu vào hệ sinh thái Google, từ tìm kiếm, Workspace tới Android, Gemini 3.5 Pro có lợi thế tiếp cận hàng tỷ người dùng. Tuy nhiên, sức mạnh thực tế còn phụ thuộc vào trải nghiệm khi triển khai rộng và mức độ ổn định. Cuộc cạnh tranh giữa các mô hình hàng đầu cuối cùng có lợi cho người dùng, khi chất lượng tăng và giá có xu hướng hợp lý hơn theo thời gian. Để dùng các mô hình này hiệu quả, có thể tham khảo bài [cách viết prompt AI hiệu quả](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9Uv1ERS7y-I/maxresdefault.jpg" alt="Các tính năng Gemini Pro cần biết trong năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9Uv1ERS7y-I/maxresdefault.jpg" alt="Các tính năng Gemini Pro cần biết trong năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Cuộc đua mô hình AI đầu bảng giữa Google, OpenAI và Anthropic. Nguồn: YouTube</figcaption>
 </figure>
 

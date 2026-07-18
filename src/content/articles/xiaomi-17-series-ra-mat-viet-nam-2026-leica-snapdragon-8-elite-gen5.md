@@ -76,7 +76,7 @@ Trong phân khúc này, người dùng cũng có thể tham khảo thêm các l�
 Về sạc, Xiaomi 17 hỗ trợ sạc nhanh có dây 90W, giúp nạp đầy pin trong thời gian ngắn. Đây là thông số cạnh tranh tốt so với nhiều đối thủ trong phân khúc, đặc biệt khi so sánh với các mẫu điện thoại gập như [Honor Magic V5](/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html), nơi tốc độ sạc thường bị hạn chế hơn do thiết kế mỏng và pin chia làm hai phần.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AwUZbzpBYMs/maxresdefault.jpg" alt="Xiaomi 17 Ultra Leica Edition man hinh AMOLED hieu nang Snapdragon" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AwUZbzpBYMs/maxresdefault.jpg" alt="Xiaomi 17 Ultra Leica Edition man hinh AMOLED hieu nang Snapdragon" loading="lazy" width="1280" height="720">
   <figcaption>Xiaomi 17 Ultra bản Leica Edition với cấu hình cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Camera tiếp tục là yếu tố được Xiaomi đầu tư mạnh nhất cho 
 Về khả năng quay video, Xiaomi 17 hỗ trợ độ phân giải lên tới 8K, hoặc lựa chọn 4K ở 60 khung hình mỗi giây với định dạng Dolby Vision HDR, mang lại chất lượng màu sắc và độ sáng vượt trội. Đây là tính năng hấp dẫn với người dùng có nhu cầu sáng tạo nội dung video chuyên nghiệp ngay trên điện thoại, không cần đầu tư thiết bị quay chuyên dụng đắt đỏ. So với dòng phụ Redmi cùng hãng vốn tập trung vào pin và hiệu năng gaming như [Redmi K90 Ultra](/articles/redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re.html), Xiaomi 17 Series rõ ràng nhắm tới nhóm người dùng coi trọng trải nghiệm nhiếp ảnh và quay video hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vLLXnJi42S0/maxresdefault.jpg" alt="Xiaomi 17 Ultra camera Leica zoom co hoc Master Zoom Ring" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vLLXnJi42S0/maxresdefault.jpg" alt="Xiaomi 17 Ultra camera Leica zoom co hoc Master Zoom Ring" loading="lazy" width="1280" height="720">
   <figcaption>Xiaomi 17 Ultra có vòng zoom cơ học Master Zoom Ring độc đáo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Với mức giá từ 26,99 triệu đồng, Xiaomi 17 Series là lựa chọn �
 Tuy nhiên, người dùng cũng nên cân nhắc nhu cầu thực tế trước khi quyết định, vì phân khúc flagship hiện có nhiều lựa chọn cạnh tranh từ các thương hiệu khác. Nếu ưu tiên thiết kế gập độc đáo, các mẫu như Honor Magic V5 là phương án thay thế. Nếu cần pin trâu cho gaming với giá dễ tiếp cận hơn, dòng Redmi K90 Ultra cũng là cái tên đáng thử. Việc so sánh kỹ các thông số và đọc đánh giá thực tế trước khi mua sẽ giúp người dùng chọn được sản phẩm phù hợp nhất với nhu cầu và ngân sách.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XFzL30xo_eA/hqdefault.jpg" alt="Xiaomi 17 Ultra Leica Edition thiet ke cao cap flagship 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/XFzL30xo_eA/hqdefault.jpg" alt="Xiaomi 17 Ultra Leica Edition thiet ke cao cap flagship 2026" loading="lazy" width="1280" height="480">
   <figcaption>Xiaomi 17 Ultra Leica Edition là phiên bản cao cấp nhất trong dòng máy. Nguồn: YouTube</figcaption>
 </figure>
 

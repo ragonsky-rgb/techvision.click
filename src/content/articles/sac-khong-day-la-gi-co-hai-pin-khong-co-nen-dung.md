@@ -76,7 +76,7 @@ Chuẩn phổ biến nhất là Qi, được hầu hết điện thoại hỗ tr
 Tuy nhiên trên thực tế, mức ảnh hưởng không đáng kể nếu dùng đúng cách. Điện thoại đời mới có cơ chế quản lý nhiệt và điều tiết dòng sạc, tự giảm tốc khi máy nóng. Miễn là không vừa sạc không dây vừa chơi game nặng, không đặt máy nơi bí nóng, pin sẽ không xuống cấp nhanh hơn đáng kể so với sạc dây. Nguyên tắc giữ máy mát khi sạc cũng giống như với sạc dây, đã nói trong bài [sạc nhanh có hại pin không](/articles/sac-nhanh-co-hai-pin-khong-cach-sac-dung-keo-dai-tuoi-tho-pin.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kkC3353mYFw/maxresdefault.jpg" alt="Thực hư sạc không dây MagSafe làm nóng máy và hại pin" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/kkC3353mYFw/maxresdefault.jpg" alt="Thực hư sạc không dây MagSafe làm nóng máy và hại pin" loading="lazy" width="1280" height="720">
   <figcaption>Giữ máy mát là chìa khóa để sạc không dây không hại pin. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tuy nhiên trên thực tế, mức ảnh hưởng không đáng kể nếu dùn
 Nhược điểm là tốc độ thường chậm hơn sạc nhanh có dây và hiệu suất thấp hơn, tức tốn điện hơn một chút cho cùng lượng pin nạp vào. Sạc không dây cũng kén vị trí, đặt lệch là sạc chậm hoặc ngắt, và khó vừa sạc vừa cầm máy dùng. Đây là những đánh đổi cần cân nhắc tùy theo thói quen sử dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mXgDRnh12FM/maxresdefault.jpg" alt="So sánh tốc độ sạc Qi, Qi2 và MagSafe" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mXgDRnh12FM/maxresdefault.jpg" alt="So sánh tốc độ sạc Qi, Qi2 và MagSafe" loading="lazy" width="1280" height="720">
   <figcaption>So sánh tốc độ giữa Qi, Qi2 và MagSafe khi sạc không dây. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Qi2 ra đời để giải quyết chính vấn đề đó. Điểm cốt lõi c
 Lời khuyên chung là dùng kết hợp cả hai hình thức. Sạc không dây phù hợp cho sự tiện lợi ban ngày và qua đêm, còn khi cần đầy pin thật nhanh trước khi ra ngoài, sạc dây vẫn là lựa chọn tối ưu. Cách dùng linh hoạt này vừa tiện vừa giữ pin bền, tận dụng được điểm mạnh của mỗi kiểu sạc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wVmIeZtojvQ/maxresdefault.jpg" alt="Sạc không dây ảnh hưởng tới sức khỏe pin và mẹo dùng bền" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wVmIeZtojvQ/maxresdefault.jpg" alt="Sạc không dây ảnh hưởng tới sức khỏe pin và mẹo dùng bền" loading="lazy" width="1280" height="720">
   <figcaption>Giữ máy mát giúp sạc không dây không ảnh hưởng tới sức khỏe pin. Nguồn: YouTube</figcaption>
 </figure>
 

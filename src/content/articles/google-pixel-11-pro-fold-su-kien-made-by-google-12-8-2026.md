@@ -64,7 +64,7 @@ Việc Google chọn ngày 12/8 cho sự kiện Made by Google là một tín hi
 Theo thông tin đã công bố, sự kiện dự kiến giới thiệu bộ ba Pixel 11, Pixel 11 Pro và Pixel 11 Pro Fold, cùng với đồng hồ Pixel Watch 5. Trong đó, bản gập Pixel 11 Pro Fold là sản phẩm được mong chờ nhất, vì đây là dòng máy cao cấp nhất và cũng là nơi Google phô diễn toàn bộ năng lực phần cứng lẫn AI của mình. Những nâng cấp về chip Tensor thế hệ mới và camera đã được đề cập trong bài viết về [Pixel 11 Pro với chip Tensor G6 tiến trình 2nm và camera bar phát sáng](/articles/google-pixel-11-pro-tensor-g6-2nm-pixel-glow-camera-ai-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AWoNIYH6fJg/maxresdefault.jpg" alt="Thiết kế Google Pixel 11 Pro Fold dựng lại từ các bản rò rỉ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AWoNIYH6fJg/maxresdefault.jpg" alt="Thiết kế Google Pixel 11 Pro Fold dựng lại từ các bản rò rỉ" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh công nghệ đã dựng lại thiết kế Pixel 11 Pro Fold dựa trên các bản rò rỉ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một chi tiết cho thấy tác động của bối cảnh vĩ mô tới từng
 Diễn biến này ăn khớp với bức tranh chung của thị trường, khi [giá máy tính và điện thoại năm 2026 được dự báo tăng mạnh vì cơn khát chip nhớ phục vụ AI](/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html). Với người dùng, việc bỏ bản 128GB vừa có mặt tích cực là dung lượng mặc định lớn hơn, vừa có mặt tiêu cực là giá khởi điểm bị đẩy lên cao hơn. Đây là ví dụ rõ ràng cho thấy những biến động ở tầng chuỗi cung ứng cuối cùng sẽ chạm tới túi tiền người tiêu dùng ra sao.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Ju0FOE1ljeQ/maxresdefault.jpg" alt="Pixel 11 Pro Fold với dung lượng khởi điểm 256GB do thiếu chip nhớ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ju0FOE1ljeQ/maxresdefault.jpg" alt="Pixel 11 Pro Fold với dung lượng khởi điểm 256GB do thiếu chip nhớ" loading="lazy" width="1280" height="720">
   <figcaption>Việc bỏ bản 128GB đẩy dung lượng khởi điểm của Pixel 11 lên 256GB. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Với người dùng Việt Nam, rào cản lớn nhất khi tiếp cận Pixel 
 Ở góc độ cạnh tranh, Pixel 11 Pro Fold sẽ đối đầu trực tiếp với [bộ đôi Galaxy Z Fold 8 và Z Flip 8 mà Samsung vừa mở đặt trước tại Việt Nam](/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html). Pixel mạnh về tính năng AI và trải nghiệm phần mềm thuần Google, trong khi Samsung có lợi thế về hệ sinh thái, kênh phân phối chính hãng và kinh nghiệm nhiều năm làm máy gập. Với người dùng còn phân vân giữa các lựa chọn, việc nắm rõ [những tiêu chí quan trọng khi chọn mua điện thoại gập](/articles/cach-chon-dien-thoai-gap-foldable-2026-tieu-chi.html) sẽ giúp đưa ra quyết định phù hợp với nhu cầu và điều kiện sử dụng thực tế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rX7EZ3fRdKQ/maxresdefault.jpg" alt="So sánh Pixel 11 Pro Fold và Galaxy Z Fold 8 trong cuộc đua máy gập 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rX7EZ3fRdKQ/maxresdefault.jpg" alt="So sánh Pixel 11 Pro Fold và Galaxy Z Fold 8 trong cuộc đua máy gập 2026" loading="lazy" width="1280" height="720">
   <figcaption>Pixel 11 Pro Fold và Galaxy Z Fold 8 là hai đối thủ đáng chú ý nhất phân khúc gập nửa cuối 2026. Nguồn: YouTube</figcaption>
 </figure>
 

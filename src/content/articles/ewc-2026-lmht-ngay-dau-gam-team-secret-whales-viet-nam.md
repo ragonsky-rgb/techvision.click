@@ -76,7 +76,7 @@ Việc bốc thăm đưa GAM vào chung bảng với T1 khiến trận ra quân 
 Kết quả ngày mở màn không như kỳ vọng của người hâm mộ Việt Nam. GAM Esports để thua T1, nhà đương kim vô địch thế giới 2025, trong trận đối đầu chênh lệch về kinh nghiệm sân khấu lớn. Ở một bảng khác, Team Secret Whales cũng nhận thất bại trước Sentinels, đại diện của khu vực Bắc Mỹ. Như vậy, cả hai lá cờ đầu của Việt Nam đều lỡ hẹn với chiến thắng trong ngày đầu tiên.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Lmax3cdqi4Y/hqdefault.jpg" alt="Trận đấu giữa T1 và GAM Esports tại vòng bảng EWC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Lmax3cdqi4Y/hqdefault.jpg" alt="Trận đấu giữa T1 và GAM Esports tại vòng bảng EWC 2026" loading="lazy" width="1280" height="720">
   <figcaption>GAM Esports thi đấu nỗ lực nhưng chưa thể tạo bất ngờ trước T1. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Kết quả ngày mở màn không như kỳ vọng của người hâm mộ Vi�
 Ở nhóm ứng viên vô địch, ngày đầu diễn ra phần lớn theo đúng dự đoán. Gen.G, đương kim vô địch EWC 2025, đã đánh bại Karmine Corp trong trận ra quân, đánh dấu màn trở lại đáng chú ý sau khi đội bất ngờ vắng mặt tại MSI 2026. Bên cạnh đó, nhà vô địch thế giới T1 cũng có ba điểm khởi đầu nhờ thắng GAM, dù mùa giải quốc tế 2026 của họ trước đó khá chật vật.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZKrCJCX10pE/hqdefault.jpg" alt="Gen.G đối đầu Karmine Corp trong ngày đầu EWC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZKrCJCX10pE/hqdefault.jpg" alt="Gen.G đối đầu Karmine Corp trong ngày đầu EWC 2026" loading="lazy" width="1280" height="720">
   <figcaption>Đương kim vô địch Gen.G thắng Karmine Corp, mở màn hành trình bảo vệ ngôi vương. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Nhắc tới T1, người hâm mộ hẳn chưa quên hành trình đáng thất
 Ở các cặp đấu còn lại, đại diện Trung Quốc Bilibili Gaming vượt qua Movistar KOI, trong khi G2 Esports thắng FURIA và AG.AL tạo bất ngờ khi hạ Dplus KIA. Bức tranh vòng bảng cho thấy khoảng cách trình độ giữa các khu vực đang thu hẹp, khi những cái tên ít được kỳ vọng cũng đủ sức gây khó cho các ông lớn. Đây là tín hiệu tốt cho tính hấp dẫn của giải, dù đồng nghĩa hành trình của hai đội Việt Nam sẽ càng nhiều chông gai. Có thể xem [kết quả đầy đủ vòng bảng nhánh thắng, nhánh thua EWC 2026 LMHT](/articles/ewc-2026-lmht-ket-qua-vong-bang-nhanh-thang-nhanh-thua-cap-nhat.html) để nắm toàn cảnh giải đấu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rsWuS2mWagQ/hqdefault.jpg" alt="Không khí vòng bảng ngày đầu EWC 2026 bộ môn Liên Minh Huyền Thoại tại Paris" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rsWuS2mWagQ/hqdefault.jpg" alt="Không khí vòng bảng ngày đầu EWC 2026 bộ môn Liên Minh Huyền Thoại tại Paris" loading="lazy" width="1280" height="720">
   <figcaption>Ngày đầu vòng bảng EWC 2026 chứng kiến nhiều kết quả bám đuổi sát sao. Nguồn: YouTube</figcaption>
 </figure>
 

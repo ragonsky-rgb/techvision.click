@@ -66,7 +66,7 @@ Roborock chính thức giới thiệu Saros Z70, mẫu robot hút bụi lau nhà
 Tuy nhiên, công nghệ này vẫn còn nhiều hạn chế đáng kể ở thế hệ đầu tiên. Cánh tay chỉ có thể nhận diện và xử lý 4 nhóm vật thể cụ thể: tất, khăn nhỏ, giấy ăn và dép nhẹ có trọng lượng dưới 300 gram, chưa thể mở rộng sang các loại đồ vật khác phức tạp hơn trên sàn nhà.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/I0AGhb6p8sE/hqdefault.jpg" alt="Roborock Saros Z70 gimmick hay tuong lai 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/I0AGhb6p8sE/hqdefault.jpg" alt="Roborock Saros Z70 gimmick hay tuong lai 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều reviewer vẫn còn tranh luận liệu đây là bước đột phá thực sự hay chỉ là tính năng gây chú ý. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,14 +75,14 @@ Tuy nhiên, công nghệ này vẫn còn nhiều hạn chế đáng kể ở th�
 Theo nhiều bài đánh giá độc lập, cánh tay OmniGrip chỉ thành công khoảng 50% số lần thử nghiệm thực tế trong việc nhận diện và nhặt vật thể, một con số cho thấy đây vẫn là tính năng thế hệ đầu tiên còn nhiều điểm cần hoàn thiện thêm qua các bản cập nhật phần mềm trong tương lai. Dù vậy, Roborock Saros Z70 vẫn được vinh danh là robot hút bụi sáng tạo nhất giữa năm 2025, ghi nhận nỗ lực đẩy giới hạn công nghệ robot gia dụng tiêu dùng xa hơn bất kỳ đối thủ nào khác trong cùng năm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ykPW3EbDIR4/mqdefault.jpg" alt="Roborock Saros Z70 OmniGrip nhat do vat CES 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ykPW3EbDIR4/mqdefault.jpg" alt="Roborock Saros Z70 OmniGrip nhat do vat CES 2026" loading="lazy" width="1280" height="480">
   <figcaption>Cánh tay OmniGrip có thể nhặt tất, khăn nhỏ và một số vật dụng nhẹ khác trên sàn nhà. Nguồn: YouTube</figcaption>
 </figure>
 
 Về giá bán, Roborock Saros Z70 có giá 1.999 USD, thuộc phân khúc cao cấp nhất trong dòng sản phẩm robot hút bụi lau nhà hiện nay của hãng, phản ánh đúng chi phí phát triển một công nghệ hoàn toàn mới chưa từng xuất hiện trên thị trường tiêu dùng trước đây. Với người chỉ cần tính năng hút bụi, lau nhà cơ bản mà không quá quan tâm tới cánh tay cơ khí còn đang trong giai đoạn hoàn thiện, bài viết [top robot hút bụi đáng mua tháng 7/2026](/articles/top-robot-hut-bui-dang-mua-thang-7-2026.html) gợi ý nhiều lựa chọn khác trong tầm giá thấp hơn nhưng vẫn đảm bảo hiệu năng dọn dẹp ổn định hằng ngày. Người muốn tìm hiểu đầy đủ các tiêu chí quan trọng trước khi quyết định đầu tư vào một robot hút bụi cao cấp cũng nên tham khảo thêm bài viết [cách chọn robot hút bụi lau nhà năm 2026](/articles/cach-chon-robot-hut-bui-lau-nha-2026-tieu-chi.html) để cân nhắc kỹ giữa tính năng mới lạ và nhu cầu sử dụng thực tế hằng ngày của gia đình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/MIF7_x7fJw0/hqdefault.jpg" alt="Roborock Saros Z70 nhat do vat thoi gian thuc te 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/MIF7_x7fJw0/hqdefault.jpg" alt="Roborock Saros Z70 nhat do vat thoi gian thuc te 2026" loading="lazy" width="1280" height="480">
   <figcaption>Quá trình nhặt vật thể của cánh tay OmniGrip mất vài giây cho mỗi lần thao tác thành công. Nguồn: YouTube</figcaption>
 </figure>
 

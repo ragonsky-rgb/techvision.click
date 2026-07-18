@@ -58,7 +58,7 @@ Nhu cầu nâng cấp tủ lạnh dung tích lớn, tiết kiệm điện ngày 
 Ở phân khúc giá tốt, các mẫu tủ lạnh 2 cánh dung tích khoảng 200-300 lít là lựa chọn đáng chú ý nhất, mức giá khởi điểm khoảng 7-9 triệu đồng. Nhóm sản phẩm này phù hợp gia đình mới ra riêng cần thiết bị bảo quản thực phẩm cơ bản, đáp ứng tốt nhu cầu sử dụng hằng ngày mà không đòi hỏi ngân sách quá cao. Trước khi mua, nên tham khảo [cách chọn tủ lạnh theo 5 tiêu chí quan trọng](/articles/cach-chon-tu-lanh-2026-tieu-chi.html) để hiểu rõ hơn về dung tích và công nghệ tiết kiệm điện phù hợp nhu cầu của mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6wulSJaxE4Y/sddefault.jpg" alt="Danh gia tu lanh Panasonic Inverter 290 lit tiet kiem dien" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/6wulSJaxE4Y/sddefault.jpg" alt="Danh gia tu lanh Panasonic Inverter 290 lit tiet kiem dien" loading="lazy" width="1280" height="480">
   <figcaption>Tủ lạnh 2 cánh dung tích vừa phải vẫn đủ đáp ứng nhu cầu bảo quản thực phẩm cơ bản của gia đình mới ra riêng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Bên cạnh SmartThings, một điểm cộng khác của Samsung tầm trung l�
 Với nhu cầu thiết bị ổn định lâu dài nhất, tủ lạnh Panasonic là lựa chọn đáng đầu tư nhất, nhờ công nghệ Inverter tiết kiệm tới 40% điện năng so với công nghệ cũ, cùng độ bền cao được nhiều người dùng đánh giá là tượng đài trong ngành hàng gia dụng Nhật Bản. Sản phẩm còn tích hợp công nghệ bảo quản thực phẩm chuyên biệt, giúp giữ thịt cá tươi ngon lâu hơn mà không cần rã đông, phù hợp gia đình ưu tiên độ bền và hiệu quả tiết kiệm điện lâu dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ByHUQPvdViE/mqdefault.jpg" alt="Tu lanh Panasonic nhieu canh dung tich lon cho gia dinh dong nguoi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ByHUQPvdViE/mqdefault.jpg" alt="Tu lanh Panasonic nhieu canh dung tich lon cho gia dinh dong nguoi" loading="lazy" width="1280" height="480">
   <figcaption>Dòng tủ lạnh nhiều cánh dung tích 500-600 lít phù hợp gia đình đông người, ưu tiên bảo quản đa dạng loại thực phẩm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Với dòng cao cấp nhiều cánh, Panasonic còn trang bị thêm cảm biế
 Với gia đình đông người, thường xuyên tích trữ thực phẩm cho cả tuần, tủ lạnh 4 cánh dung tích 500-600 lít mang lại lợi thế rõ rệt so với tủ 2 cánh thông thường. Việc phân chia không gian thành nhiều ngăn riêng biệt giúp giảm thất thoát hơi lạnh mỗi lần mở cửa, đồng thời hạn chế lẫn mùi giữa thực phẩm sống và chín. Tuy mức giá đầu tư ban đầu cao hơn, nhưng xét về lâu dài, khả năng tiết kiệm điện nhờ công nghệ Inverter cùng độ bền của các thương hiệu lớn thường bù lại phần chênh lệch chi phí sau vài năm sử dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6wulSJaxE4Y/mqdefault.jpg" alt="So sanh tu lanh 2 canh va 4 canh cho gia dinh dong nguoi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/6wulSJaxE4Y/mqdefault.jpg" alt="So sanh tu lanh 2 canh va 4 canh cho gia dinh dong nguoi" loading="lazy" width="1280" height="480">
   <figcaption>Tủ lạnh 4 cánh giúp phân chia không gian bảo quản rõ ràng hơn, phù hợp gia đình đông người cần dự trữ thực phẩm dài ngày. Nguồn: YouTube</figcaption>
 </figure>
 

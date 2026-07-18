@@ -68,7 +68,7 @@ Unitree Robotics, công ty robot hình người có trụ sở tại Hàng Châu
 Unitree hiện là hãng bán robot hình người nhiều nhất thế giới, với 5.500 robot hình người bán ra trong năm 2025, chiếm tới 51,5% doanh thu cốt lõi của công ty trong cùng năm. Con số này cho thấy Unitree đã vượt qua giai đoạn chỉ trình diễn công nghệ để bước vào giai đoạn thương mại hóa thực sự, một cột mốc mà nhiều công ty robot hình người khác trên thế giới vẫn đang nỗ lực đạt được.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AhXvwqGmedk/hqdefault.jpg" alt="Robot hinh nguoi Unitree trinh dien tai su kien AWE 2026 Thuong Hai" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/AhXvwqGmedk/hqdefault.jpg" alt="Robot hinh nguoi Unitree trinh dien tai su kien AWE 2026 Thuong Hai" loading="lazy" width="1280" height="480">
   <figcaption>Robot hình người Unitree trình diễn khả năng vận động linh hoạt tại sự kiện công nghệ AWE 2026 ở Thượng Hải. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Việc Unitree được duyệt IPO nhanh chóng cũng phản ánh chiến lư�
 Với giới đầu tư công nghệ tại Việt Nam, đợt IPO của Unitree là tín hiệu đáng chú ý cho thấy ngành công nghiệp robot hình người đang bước vào giai đoạn trưởng thành về mặt tài chính, không còn chỉ là các dự án nghiên cứu thuần túy. Các doanh nghiệp sản xuất, logistics tại Việt Nam quan tâm tới tự động hóa cũng nên theo dõi sát diễn biến giá cổ phiếu và tốc độ mở rộng sản xuất của Unitree sau IPO, vì đây có thể là chỉ báo quan trọng cho thời điểm robot hình người trở nên khả thi về mặt chi phí triển khai thực tế tại các thị trường đang phát triển như Việt Nam.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4bXV4Q-qt3c/mqdefault.jpg" alt="Unitree Robotics vi the dan dau nganh robot hinh nguoi toan cau" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/4bXV4Q-qt3c/mqdefault.jpg" alt="Unitree Robotics vi the dan dau nganh robot hinh nguoi toan cau" loading="lazy" width="1280" height="480">
   <figcaption>Unitree Robotics củng cố vị thế dẫn đầu ngành robot hình người toàn cầu sau đợt IPO thành công. Nguồn: YouTube</figcaption>
 </figure>
 
 Nhìn xa hơn, việc các công ty như Unitree gọi vốn thành công trên thị trường chứng khoán cũng mở ra khả năng tương tự cho các công ty AI và robot khác đang phát triển các giải pháp tự động hóa doanh nghiệp, tương tự cách nhiều nhóm phát triển hiện đang xây dựng [AI agent tự động hóa máy tính theo hướng dẫn CrewAI, AutoGen](/articles/ai-agent-tu-dong-hoa-may-tinh-crewai-autogen-huong-dan-2026.html) để tự động hóa quy trình làm việc văn phòng, cho thấy làn sóng đầu tư vào tự động hóa bằng AI đang lan rộng ở cả mảng phần cứng robot lẫn phần mềm tự động hóa máy tính.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AhXvwqGmedk/mqdefault.jpg" alt="Robot hinh nguoi Unitree bieu dien tai su kien cong nghe Trung Quoc" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/AhXvwqGmedk/mqdefault.jpg" alt="Robot hinh nguoi Unitree bieu dien tai su kien cong nghe Trung Quoc" loading="lazy" width="1280" height="480">
   <figcaption>Các sự kiện trình diễn công khai giúp Unitree quảng bá năng lực vận động của robot tới công chúng toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 

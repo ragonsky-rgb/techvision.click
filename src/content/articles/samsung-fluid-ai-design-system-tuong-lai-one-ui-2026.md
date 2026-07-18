@@ -62,7 +62,7 @@ Trong khi cả ngành công nghệ chạy đua nhồi trợ lý AI vào từng �
 Samsung mô tả đây là bước chuyển từ việc con người điều khiển giao diện một cách thủ công sang một trải nghiệm theo dòng chảy, được đồng sáng tạo cùng AI. Nói cách khác, thay vì bạn phải tìm đúng ứng dụng và đúng nút bấm, hệ thống chủ động dựng lên đúng thứ bạn cần vào đúng lúc. Đó là một sự đảo ngược căn bản trong triết lý thiết kế giao diện suốt nhiều thập kỷ qua.
 
 <figure>
-  <img src="https://techvision.click/images/samsung-fluid-ai-design-system-tuong-lai-one-ui-2026/fluid-ai-context.jpg" alt="Fluid AI Design System hiển thị thẻ ngữ cảnh về lịch họp và thời gian rảnh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://techvision.click/images/samsung-fluid-ai-design-system-tuong-lai-one-ui-2026/fluid-ai-context.jpg" alt="Fluid AI Design System hiển thị thẻ ngữ cảnh về lịch họp và thời gian rảnh" loading="lazy" width="1280" height="720">
   <figcaption>Giao diện tự dựng thẻ ngữ cảnh: một cuộc họp lúc 16:00 và gợi ý bạn còn 2 giờ 40 phút rảnh kèm chỉ đường. Nguồn: Samsung, Sammy Fans</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Trên thực tế, bản cập nhật mà người dùng Galaxy sắp nhận là
 Một khía cạnh thú vị khác của concept là AI Agent không chỉ sống trên màn hình điện thoại. Các hình ảnh cho thấy giao diện tạo sinh xuất hiện trên nhiều bề mặt trong nhà, từ màn hình lớn tới các thiết bị gia dụng, với những nhắc nhở theo ngữ cảnh như đừng quên mang ô. Đây là hình dung về một hệ sinh thái nơi trải nghiệm số theo chân người dùng qua mọi thiết bị, thay vì bị khóa trong một chiếc điện thoại.
 
 <figure>
-  <img src="https://techvision.click/images/samsung-fluid-ai-design-system-tuong-lai-one-ui-2026/fluid-ai-ambient.jpg" alt="Fluid AI Design System hiển thị trên các bề mặt và thiết bị trong nhà" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://techvision.click/images/samsung-fluid-ai-design-system-tuong-lai-one-ui-2026/fluid-ai-ambient.jpg" alt="Fluid AI Design System hiển thị trên các bề mặt và thiết bị trong nhà" loading="lazy" width="1280" height="720">
   <figcaption>Concept hình dung giao diện AI len lỏi vào không gian sống, hiện nhắc nhở theo ngữ cảnh trên nhiều thiết bị. Nguồn: Samsung, Sammy Fans</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Cách tiếp cận này gợi liên tưởng tới định hướng thiết bị
 ## Vì sao một concept lại đáng bàn
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Nmc4B7PuDhg/hqdefault.jpg" alt="Trải nghiệm One UI 9 trên thiết bị Samsung Galaxy" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Nmc4B7PuDhg/hqdefault.jpg" alt="Trải nghiệm One UI 9 trên thiết bị Samsung Galaxy" loading="lazy" width="1280" height="720">
   <figcaption>Trước khi tương lai giao diện AI thành hiện thực, người dùng Galaxy sẽ trải nghiệm One UI 9 trong năm nay. Nguồn: YouTube</figcaption>
 </figure>
 

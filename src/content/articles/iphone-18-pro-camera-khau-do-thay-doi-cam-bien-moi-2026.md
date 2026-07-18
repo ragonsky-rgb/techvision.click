@@ -74,7 +74,7 @@ Cụ thể, máy có thể mở khẩu độ khi chụp trong điều kiện thi
 Đi kèm với khẩu độ thay đổi, camera chính của iPhone 18 Pro và iPhone 18 Pro Max được cho là sẽ chuyển sang sử dụng cảm biến Sony IMX905, thay thế cho cảm biến IMX903 trên thế hệ hiện tại. Cảm biến chính 48MP này được đồn đoán có kích thước lên tới 1/1,12 inch, lớn hơn đáng kể so với thế hệ trước, đồng nghĩa với khả năng thu sáng tốt hơn và chi tiết ảnh chụp sắc nét hơn, đặc biệt trong điều kiện ánh sáng yếu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/VKjvdIw0gCI/hqdefault.jpg" alt="Nâng cấp camera mà người dùng iPhone đã chờ đợi từ lâu trên iPhone 18 Pro Max" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VKjvdIw0gCI/hqdefault.jpg" alt="Nâng cấp camera mà người dùng iPhone đã chờ đợi từ lâu trên iPhone 18 Pro Max" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều reviewer công nghệ đánh giá đây là nâng cấp camera được mong đợi nhất trong nhiều năm của dòng iPhone Pro. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Không dừng lại ở camera chính, camera tele của iPhone 18 Pro cũng đ�
 Tất nhiên, những nâng cấp camera đáng kể này không đến miễn phí về mặt thiết kế. Theo các mẫu dummy rò rỉ, cụm camera của iPhone 18 Pro Max sẽ nhô cao hơn khoảng 2mm so với thế hệ hiện tại, khiến tổng độ dày của máy, tính cả phần ống kính lồi lên, tăng lên đáng kể. Nguồn tin rò rỉ cho thấy vụ việc này bắt nguồn từ một vụ rò rỉ dữ liệu quy mô lớn tại Tata Electronics, đối tác sản xuất của Apple tại Ấn Độ, khiến hơn 200.000 tệp tin nội bộ bao gồm danh sách linh kiện, dữ liệu nhà cung cấp và hình ảnh các mẫu thử nghiệm iPhone 18 Pro bị công khai trên mạng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2_pVdLZ9Ojo/hqdefault.jpg" alt="Tổng hợp 8 rò rỉ mới nhất về iPhone 18 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2_pVdLZ9Ojo/hqdefault.jpg" alt="Tổng hợp 8 rò rỉ mới nhất về iPhone 18 Pro" loading="lazy" width="1280" height="720">
   <figcaption>Hàng loạt thông tin rò rỉ mới liên tục xuất hiện khi ngày ra mắt iPhone 18 Pro đến gần. Nguồn: YouTube</figcaption>
 </figure>
 
 Dù cụm camera dày hơn có thể ảnh hưởng phần nào tới tính thẩm mỹ tổng thể của máy, phần lớn phản ứng ban đầu từ cộng đồng công nghệ đều nghiêng về hướng tích cực, khi cho rằng đây là sự đánh đổi xứng đáng để có được chất lượng camera vượt trội hơn hẳn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AphzG6OayUw/hqdefault.jpg" alt="Toàn cảnh những gì được biết về iPhone 18 Pro tính đến hiện tại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AphzG6OayUw/hqdefault.jpg" alt="Toàn cảnh những gì được biết về iPhone 18 Pro tính đến hiện tại" loading="lazy" width="1280" height="720">
   <figcaption>Cộng đồng công nghệ liên tục cập nhật và tổng hợp mọi thông tin rò rỉ mới nhất về iPhone 18 Pro. Nguồn: YouTube</figcaption>
 </figure>
 

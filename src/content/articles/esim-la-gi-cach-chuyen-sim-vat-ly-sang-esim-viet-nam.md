@@ -76,7 +76,7 @@ Phần lớn iPhone từ đời XS trở lên, nhiều mẫu Samsung Galaxy cao 
 Nên kiểm tra kỹ điều này trước khi chuyển đổi, vì sau khi chuyển sang eSIM, SIM vật lý cũ sẽ bị vô hiệu. Nếu máy không hỗ trợ eSIM mà đã lỡ chuyển, người dùng sẽ phải nhờ nhà mạng cấp lại SIM. Với người hay đổi máy qua lại, đây là yếu tố cần cân nhắc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_zCPNmtuFg0/maxresdefault.jpg" alt="Chuyển sim vật lý sang eSIM bằng ứng dụng nhà mạng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_zCPNmtuFg0/maxresdefault.jpg" alt="Chuyển sim vật lý sang eSIM bằng ứng dụng nhà mạng" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều nhà mạng cho phép chuyển eSIM trực tuyến qua ứng dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Khả năng kích hoạt từ xa cũng là điểm cộng lớn. Thay vì phải
 Đổi lại, eSIM có vài hạn chế cần cân nhắc. Thứ nhất, không phải máy nào cũng hỗ trợ, nên người hay dùng máy đời cũ hoặc thường xuyên mượn, đổi máy qua lại sẽ thấy SIM nhựa tiện hơn vì chỉ cần tháo lắp. Thứ hai, khi máy hỏng nặng không mở được, việc lấy lại thuê bao trên eSIM phức tạp hơn so với rút SIM nhựa sang máy khác. Thứ ba, quy trình chuyển eSIM giữa các máy đôi khi phụ thuộc vào chính sách nhà mạng, có thể cần xác thực lại. Hiểu rõ những điểm này giúp quyết định chuyển đổi phù hợp với thói quen sử dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/QmsvtsQoulQ/maxresdefault.jpg" alt="Hướng dẫn đổi từ sim vật lý sang esim qua app nhà mạng Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/QmsvtsQoulQ/maxresdefault.jpg" alt="Hướng dẫn đổi từ sim vật lý sang esim qua app nhà mạng Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Các nhà mạng lớn tại Việt Nam đều hỗ trợ chuyển eSIM ngay trong ứng dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Một lỗi khác là máy nhận eSIM nhưng không có sóng hoặc không và
 Quan trọng nhất, tuyệt đối không vứt bỏ SIM nhựa cũ cho tới khi xác nhận eSIM hoạt động đầy đủ, gồm cả nghe gọi, nhắn tin và truy cập dữ liệu. Sau khi chuyển, SIM vật lý cũ sẽ bị vô hiệu, nhưng giữ lại vài ngày để đối chiếu vẫn an toàn hơn. Việc giữ thuê bao chính chủ và xác thực đúng thông tin cũng rất quan trọng để tránh rủi ro mất số, một chủ đề được phân tích kỹ trong bài [Starlink Việt Nam và lựa chọn kết nối](/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html) khi nói về hạ tầng viễn thông trong nước.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jwV9kOFbxws/maxresdefault.jpg" alt="Chuyển đổi eSIM online đơn giản không cần ra cửa hàng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jwV9kOFbxws/maxresdefault.jpg" alt="Chuyển đổi eSIM online đơn giản không cần ra cửa hàng" loading="lazy" width="1280" height="720">
   <figcaption>Xác nhận eSIM nghe gọi và vào mạng được trước khi bỏ SIM vật lý cũ. Nguồn: YouTube</figcaption>
 </figure>
 

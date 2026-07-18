@@ -66,7 +66,7 @@ Yếu tố đầu tiên và quan trọng nhất khi chọn balo laptop là khả
 Người dùng nên ưu tiên thử đặt tay ấn vào phần đáy và hai mặt bên balo trước khi mua, cảm nhận độ dày và độ đàn hồi của lớp đệm để đánh giá sơ bộ khả năng bảo vệ thực tế, thay vì chỉ tin vào mô tả quảng cáo trên bao bì sản phẩm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6Igmp7QBS-g/hqdefault.jpg" alt="Top 5 balo laptop tot nhat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/6Igmp7QBS-g/hqdefault.jpg" alt="Top 5 balo laptop tot nhat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Danh sách balo laptop được đánh giá cao thường có điểm chung là ngăn đệm laptop tách biệt kỹ lưỡng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Chất liệu vỏ ngoài balo cũng là yếu tố không thể bỏ qua, đặ
 Về dung tích, người có nhu cầu đi làm hoặc đi học hằng ngày với ít đồ dùng thường chỉ cần balo 15-20 lít là đủ. Ngược lại, người cần mang thêm nhiều vật dụng như sách vở, quần áo dự phòng hoặc thiết bị phụ kiện nên cân nhắc balo dung tích 25-30 lít để có đủ không gian sắp xếp gọn gàng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/YM3UKI5UUOc/hqdefault.jpg" alt="Balo laptop toi gian phong cach 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/YM3UKI5UUOc/hqdefault.jpg" alt="Balo laptop toi gian phong cach 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhóm balo laptop phong cách tối giản đang được ưa chuộng nhờ thiết kế gọn gàng, dễ phối đồ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Với người đã sở hữu ổ cứng SSD di động hoặc nhiều phụ ki
 Ngăn chống trộm, thường được thiết kế ẩn ở mặt sau lưng người đeo, là tính năng ngày càng phổ biến trên các mẫu balo laptop tầm trung trở lên. Thiết kế này giúp giảm đáng kể nguy cơ bị móc túi lấy trộm đồ ở những nơi đông người như sân bay, bến xe hoặc trên các phương tiện giao thông công cộng, đặc biệt hữu ích với người thường xuyên đi công tác hoặc du lịch xa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gj8AfoxYxus/hqdefault.jpg" alt="Tomtoc balo laptop danh gia chi tiet 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/gj8AfoxYxus/hqdefault.jpg" alt="Tomtoc balo laptop danh gia chi tiet 2026" loading="lazy" width="1280" height="480">
   <figcaption>Tomtoc là một trong những thương hiệu balo laptop tầm trung được đánh giá cao về độ bền và thiết kế. Nguồn: YouTube</figcaption>
 </figure>
 

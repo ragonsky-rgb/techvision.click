@@ -61,7 +61,7 @@ Rocket Lab, công ty hàng không vũ trụ tư nhân được xem là đối th
 Theo công bố ngày 29/6/2026, Rocket Lab và Iridium đã đạt thỏa thuận trong đó mỗi cổ phiếu Iridium được định giá 54 USD, áp dụng cơ cấu thanh toán hỗn hợp gồm 27 USD tiền mặt cộng với cổ phiếu phổ thông Rocket Lab theo tỷ lệ hoán đổi có giới hạn, với mức sàn tham chiếu 67,5 USD và mức trần 112,5 USD. Mức giá này tương đương khoản chênh lệch 24,1% so với giá Iridium giao dịch ngay trước khi thương vụ được công bố, một mức premium đáng kể phản ánh giá trị chiến lược mà Rocket Lab nhìn nhận ở Iridium.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ooOeVR7DOKw/hqdefault.jpg" alt="Rocket Lab mua Iridium 8 ty USD cong bo thuong vu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ooOeVR7DOKw/hqdefault.jpg" alt="Rocket Lab mua Iridium 8 ty USD cong bo thuong vu" loading="lazy" width="1280" height="480">
   <figcaption>Hình ảnh từ video công bố thương vụ Rocket Lab mua lại Iridium. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,14 +80,14 @@ Ngay sau khi thông tin được công bố, cổ phiếu Iridium (mã IRDM) tă
 Điểm mấu chốt khiến thương vụ này được giới phân tích đánh giá là thách thức trực tiếp với Starlink nằm ở việc Rocket Lab sẽ tiếp quản toàn bộ mạng 66 vệ tinh quỹ đạo thấp của Iridium cùng băng tần L-Band được cấp phép trên toàn cầu, một loại tài nguyên phổ tần hiếm và có giá trị chiến lược lớn trong ngành viễn thông vệ tinh. Kết hợp với năng lực phóng tên lửa và sản xuất vệ tinh sẵn có, Rocket Lab giờ đây sở hữu mô hình tích hợp dọc tương tự cách SpaceX vận hành Starlink, từ thiết kế, sản xuất, phóng cho tới khai thác dịch vụ vệ tinh, thay vì chỉ đóng vai trò nhà cung cấp dịch vụ phóng cho khách hàng khác như trước đây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/63w39z-Emj8/hqdefault.jpg" alt="Rocket Lab CEO Peter Beck Iridium thuong vu ve tinh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/63w39z-Emj8/hqdefault.jpg" alt="Rocket Lab CEO Peter Beck Iridium thuong vu ve tinh" loading="lazy" width="1280" height="480">
   <figcaption>CEO Rocket Lab Peter Beck cùng lãnh đạo Iridium công bố chi tiết thương vụ. Nguồn: YouTube</figcaption>
 </figure>
 
 Mạng lưới khách hàng hơn 2,55 triệu thuê bao của Iridium, trải khắp các lĩnh vực chính phủ, quốc phòng, hàng không, hàng hải và thương mại, cùng hệ sinh thái hơn 500 đối tác phân phối, cũng mang lại cho Rocket Lab một nền tảng doanh thu ổn định ngay lập tức, điều mà các công ty vũ trụ non trẻ thường mất nhiều năm để xây dựng. Đây là khác biệt lớn so với Starlink của SpaceX, vốn tập trung chủ yếu vào dịch vụ internet băng rộng cho người dùng cuối, trong khi Iridium mạnh về điện thoại vệ tinh, theo dõi tài sản và kết nối IoT cho các ngành công nghiệp đặc thù.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/63w39z-Emj8/mqdefault.jpg" alt="Rocket Lab Iridium mang ve tinh quy dao thap L-Band" loading="lazy" width="320" height="180">
+  <img decoding="async" src="https://i.ytimg.com/vi/63w39z-Emj8/mqdefault.jpg" alt="Rocket Lab Iridium mang ve tinh quy dao thap L-Band" loading="lazy" width="320" height="180">
   <figcaption>Mạng vệ tinh quỹ đạo thấp và băng tần L-Band của Iridium là tài sản chiến lược trong thương vụ. Nguồn: YouTube</figcaption>
 </figure>
 

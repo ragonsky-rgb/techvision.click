@@ -68,7 +68,7 @@ Nothing vừa chính thức giới thiệu Ear (3), tai nghe true wireless flags
 Về mặt thiết kế, Ear (3) tiếp tục giữ ngôn ngữ thiết kế đặc trưng của Nothing với vỏ kim loại bắt mắt, khác biệt rõ rệt so với phần lớn tai nghe true wireless nhựa bóng phổ biến trên thị trường. Về chất âm, sản phẩm mang lại âm thanh mạnh mẽ, có thể tùy chỉnh sâu thông qua ứng dụng đi kèm, cho phép người dùng điều chỉnh dải tần theo sở thích cá nhân, phù hợp cả người nghe nhạc thể loại nặng lẫn người ưu tiên giọng hát rõ ràng khi nghe podcast hay sách nói.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FHwumk4Z7Sk/hqdefault.jpg" alt="Danh gia dai han Nothing Ear 3 sau thoi gian su dung thuc te" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/FHwumk4Z7Sk/hqdefault.jpg" alt="Danh gia dai han Nothing Ear 3 sau thoi gian su dung thuc te" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá dài hạn cho thấy Nothing Ear (3) duy trì ổn định về hiệu năng sau thời gian sử dụng thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ So với các đối thủ flagship khác trên thị trường, ví dụ như [
 Với người dùng Việt Nam yêu thích công nghệ và muốn trải nghiệm những tính năng mới lạ, Nothing Ear (3) là sản phẩm đáng cân nhắc trong phân khúc tai nghe true wireless cao cấp, đặc biệt phù hợp người thường xuyên phải gọi điện thoại trong môi trường ồn ào như đường phố đông đúc hay quán cà phê. Người dùng có ngân sách eo hẹp hơn hoặc chưa sẵn sàng thử nghiệm tính năng mới có thể tham khảo thêm [top tai nghe không dây đáng mua tháng 7/2026](/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html) để tìm được lựa chọn phù hợp hơn với ngân sách và nhu cầu sử dụng cơ bản hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sb6pkQ6qdjU/mqdefault.jpg" alt="Thiet ke kim loai doc dao cua Nothing Ear 3" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/sb6pkQ6qdjU/mqdefault.jpg" alt="Thiet ke kim loai doc dao cua Nothing Ear 3" loading="lazy" width="1280" height="480">
   <figcaption>Thiết kế kim loại độc đáo là điểm nhận diện thương hiệu quen thuộc của các sản phẩm Nothing. Nguồn: YouTube</figcaption>
 </figure>
 
 Nhìn xa hơn, sự xuất hiện liên tục của các thế hệ tai nghe mới từ Nothing qua từng năm cho thấy hãng đang xây dựng được một lượng người dùng trung thành đáng kể, những người sẵn sàng nâng cấp thiết bị mỗi khi có phiên bản mới ra mắt, tương tự cách nhiều người dùng iPhone trung thành luôn chờ đợi AirPods thế hệ mới mỗi năm. Chiến lược tập trung vào thiết kế độc đáo kết hợp tính năng sáng tạo, thay vì chỉ chạy đua thông số kỹ thuật thuần túy, dường như đang mang lại hiệu quả tốt cho Nothing trong việc xây dựng bản sắc thương hiệu riêng biệt giữa thị trường tai nghe true wireless vốn đã bão hòa với rất nhiều lựa chọn tương tự nhau.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FHwumk4Z7Sk/mqdefault.jpg" alt="Nothing Ear 3 duy tri hieu nang on dinh sau thoi gian dai su dung" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/FHwumk4Z7Sk/mqdefault.jpg" alt="Nothing Ear 3 duy tri hieu nang on dinh sau thoi gian dai su dung" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá dài hạn cho thấy Nothing Ear (3) vẫn duy trì tốt hiệu năng sau nhiều tháng sử dụng thực tế. Nguồn: YouTube</figcaption>
 </figure>
 

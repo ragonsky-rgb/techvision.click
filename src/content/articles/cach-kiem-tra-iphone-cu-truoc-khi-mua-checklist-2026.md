@@ -77,7 +77,7 @@ Vào Cài đặt, mục Pin, rồi Tình trạng pin và sạc để xem dung l�
 Với màn hình, mở một ảnh nền trắng và một ảnh nền đen toàn màn để soi điểm chết, đốm sáng hay vùng ám màu. Kiểm tra True Tone còn hoạt động trong Trung tâm điều khiển, vì True Tone thường mất khi màn bị thay bằng panel không chính hãng. Quan trọng không kém, vào Cài đặt chung, Giới thiệu, kéo xuống phần Bộ phận và lịch sử dịch vụ để xem máy có bị thay màn, pin hay camera bằng linh kiện ngoài hay không. Sau khi mua được máy ưng ý, bạn cũng nên biết [cách giải phóng dung lượng iPhone khi đầy bộ nhớ](/articles/cach-giai-phong-dung-luong-iphone-day-bo-nho.html) để máy luôn chạy mượt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KB8ZNYg56-s/maxresdefault.jpg" alt="Test toàn bộ chức năng khi đi mua iPhone cũ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KB8ZNYg56-s/maxresdefault.jpg" alt="Test toàn bộ chức năng khi đi mua iPhone cũ" loading="lazy" width="1280" height="720">
   <figcaption>Test đủ chức năng giúp phát hiện sớm máy lỗi hoặc đã sửa chữa. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Sau phần phần mềm, hãy test lần lượt các chức năng phần cứng
 Cuối cùng, cắm sạc để xem cổng còn nhận tốt không, bấm thử các nút nguồn, âm lượng, gạt rung, và quan sát kỹ ngoại hình quanh viền, mặt lưng, cụm camera xem có dấu cạy mở hay không. Một chiếc máy zin, đủ chức năng và ngoại hình khớp với mức giá là tín hiệu đáng tin để xuống tiền.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/leeYlkWTGto/maxresdefault.jpg" alt="Bảy bước kiểm tra iPhone cũ đơn giản để tránh bị lừa" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/leeYlkWTGto/maxresdefault.jpg" alt="Bảy bước kiểm tra iPhone cũ đơn giản để tránh bị lừa" loading="lazy" width="1280" height="720">
   <figcaption>Kiểm tra lần lượt từng chức năng giúp không bỏ sót lỗi tiềm ẩn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Sau khi kiểm tra kỹ, kết quả thu được chính là cơ sở để thư
 Đừng quên hỏi về giấy tờ và phụ kiện đi kèm. Hóa đơn mua hàng, hộp, cáp sạc nguyên bản và lịch sử bảo hành nếu còn đều làm tăng độ tin cậy của giao dịch. Với máy còn trong thời gian bảo hành chính hãng, hãy kiểm tra ngày hết hạn bằng số serial trên công cụ tra cứu chính thức. Một bộ giấy tờ rõ ràng không chỉ giúp yên tâm về nguồn gốc mà còn thuận lợi nếu sau này cần bán lại máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/GBBZeTgfmk0/maxresdefault.jpg" alt="Bí mật kiểm tra iPhone cũ ai cũng cần biết" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GBBZeTgfmk0/maxresdefault.jpg" alt="Bí mật kiểm tra iPhone cũ ai cũng cần biết" loading="lazy" width="1280" height="720">
   <figcaption>Đối chiếu thông tin phần mềm với ngoại hình giúp lộ ra máy dựng. Nguồn: YouTube</figcaption>
 </figure>
 

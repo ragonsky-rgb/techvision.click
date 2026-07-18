@@ -69,7 +69,7 @@ Nồi cơm điện là thiết bị gần như không thể thiếu trong mỗi 
 Nhiều dòng nồi cơm điện cao cấp hiện nay còn tích hợp thêm công nghệ áp suất, giúp rút ngắn đáng kể thời gian nấu trong khi vẫn đảm bảo chất lượng cơm chín sâu, dẻo đều. Áp lực tạo ra trong quá trình nấu giúp hạt gạo hấp thụ nhiệt và độ ẩm tốt hơn, giữ được vị ngọt tự nhiên của gạo, một tính năng đáng cân nhắc với gia đình bận rộn muốn tiết kiệm thời gian nấu nướng mà vẫn không đánh đổi chất lượng bữa ăn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kHmjSQiYHyg/sddefault.jpg" alt="Danh gia noi com dien tu ap suat Cuckoo CRP R1000F" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/kHmjSQiYHyg/sddefault.jpg" alt="Danh gia noi com dien tu ap suat Cuckoo CRP R1000F" loading="lazy" width="1280" height="480">
   <figcaption>Nồi cơm điện áp suất từ Hàn Quốc được đánh giá cao về khả năng giữ trọn vị ngọt tự nhiên của gạo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Với những gia đình đang hoàn thiện không gian bếp hiện đại, c�
 Ngoài chức năng nấu cơm cơ bản, nhiều dòng nồi cơm điện cao tần hiện nay còn tích hợp thêm nhiều chế độ nấu đa năng như nấu cháo, hấp rau củ, làm bánh hay nấu cơm gạo lứt, cơm trộn. Đây là tính năng đáng cân nhắc với gia đình có nhu cầu đa dạng về món ăn, giúp tận dụng tối đa một thiết bị duy nhất thay vì phải mua thêm nhiều dụng cụ nấu nướng chuyên biệt khác, tiết kiệm không gian bếp và chi phí đầu tư tổng thể cho gian bếp gia đình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kHmjSQiYHyg/mqdefault.jpg" alt="Noi com dien cao tan Toshiba dung roi moi biet co dang tien" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/kHmjSQiYHyg/mqdefault.jpg" alt="Noi com dien cao tan Toshiba dung roi moi biet co dang tien" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm thực tế giúp người mua đánh giá đúng liệu nồi cơm cao tần có thực sự đáng đầu tư hay không. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nhiều gia đình hiện đang xây dựng gian bếp hiện đại, tích hợ
 Cuối cùng, người mua cũng nên tìm hiểu kỹ chính sách bảo hành cho từng bộ phận của nồi, đặc biệt là mâm nhiệt và lòng nồi, hai bộ phận dễ hao mòn nhất sau thời gian dài sử dụng liên tục, để đảm bảo quyền lợi lâu dài khi cần sửa chữa hoặc thay thế linh kiện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/q1zifxNTrXk/mqdefault.jpg" alt="Cong nghe ap suat dien tu Cuckoo giup com deo va thom ngon" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/q1zifxNTrXk/mqdefault.jpg" alt="Cong nghe ap suat dien tu Cuckoo giup com deo va thom ngon" loading="lazy" width="1280" height="480">
   <figcaption>Công nghệ áp suất điện tử giúp cơm dẻo và giữ trọn hương vị tự nhiên của gạo. Nguồn: YouTube</figcaption>
 </figure>
 

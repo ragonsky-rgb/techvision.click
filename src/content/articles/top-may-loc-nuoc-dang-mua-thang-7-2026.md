@@ -68,7 +68,7 @@ Nhu cầu sử dụng nguồn nước sạch, an toàn ngày càng tăng khiến
 Ở phân khúc tầm trung, các dòng máy lọc nước Kangaroo là lựa chọn nổi bật nhờ là thương hiệu lâu đời tại thị trường Việt Nam, chất lượng ổn định đã được kiểm chứng qua nhiều năm sử dụng. Sản phẩm tích hợp lõi bù khoáng chất lượng tốt, giúp nước sau lọc vừa tinh khiết vừa có lợi cho sức khỏe hơn so với nước RO thuần túy, phù hợp gia đình muốn nâng cấp chất lượng nước uống mà vẫn giữ mức giá hợp lý.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/HbKcB-paLtw/sddefault.jpg" alt="So sanh may loc nuoc RO Karofi Kangaroo A O Smith co dang tien" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/HbKcB-paLtw/sddefault.jpg" alt="So sanh may loc nuoc RO Karofi Kangaroo A O Smith co dang tien" loading="lazy" width="1280" height="480">
   <figcaption>So sánh chi tiết các thương hiệu máy lọc nước phổ biến giúp người mua dễ chọn lựa phù hợp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Nhiều gia đình hiện đang xây dựng gian bếp hiện đại, tích hợ
 Trước khi quyết định xuống tiền, người dùng nên xác định rõ mục đích sử dụng chính, ví dụ ưu tiên ngân sách tiết kiệm cho nhu cầu cơ bản, cần chất lượng ổn định lâu năm cho gia đình sử dụng thường xuyên, hay sẵn sàng đầu tư cho nguồn nước chất lượng cao cấp nhất, vì mỗi thương hiệu trong danh sách đều có thế mạnh riêng phù hợp từng nhóm đối tượng khác nhau. Nên ưu tiên mua tại đại lý ủy quyền chính hãng để được hưởng chế độ bảo hành đầy đủ cùng dịch vụ thay lõi lọc định kỳ tận nhà, đảm bảo nguồn nước luôn đạt chất lượng tốt nhất trong suốt quá trình sử dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/HbKcB-paLtw/mqdefault.jpg" alt="Top 4 may loc nuoc dang chu y nhat tai Viet Nam 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/HbKcB-paLtw/mqdefault.jpg" alt="Top 4 may loc nuoc dang chu y nhat tai Viet Nam 2026" loading="lazy" width="1280" height="480">
   <figcaption>Top các mẫu máy lọc nước đáng chú ý nhất tại thị trường Việt Nam năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Ngoài ba thương hiệu tiêu biểu kể trên, thị trường máy lọc n�
 Với các gia đình có trẻ nhỏ hoặc người cao tuổi trong nhà, nên ưu tiên các dòng máy có lõi bù khoáng chất lượng tốt và chứng nhận an toàn rõ ràng từ cơ quan y tế, thay vì chỉ quan tâm tới mức giá thấp nhất, vì nguồn nước uống hằng ngày ảnh hưởng trực tiếp và lâu dài tới sức khỏe của toàn bộ thành viên trong gia đình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wOwM1pU8uGs/mqdefault.jpg" alt="Danh gia chi tiet cac hang may loc nuoc pho bien tai Viet Nam" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/wOwM1pU8uGs/mqdefault.jpg" alt="Danh gia chi tiet cac hang may loc nuoc pho bien tai Viet Nam" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết giúp người mua nắm rõ ưu nhược điểm của từng thương hiệu máy lọc nước trước khi quyết định. Nguồn: YouTube</figcaption>
 </figure>
 

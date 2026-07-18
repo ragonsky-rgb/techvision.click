@@ -76,7 +76,7 @@ Ngoài quy tắc 20-20-20, hãy đứng dậy nghỉ giải lao sau mỗi khoả
 Bên cạnh ánh sáng xanh, độ sáng màn hình cũng rất quan trọng. Nên chỉnh độ sáng phù hợp với ánh sáng môi trường, không quá sáng trong phòng tối cũng không quá tối khi ở nơi sáng. Màn hình lệch quá nhiều so với môi trường khiến mắt phải điều tiết nhiều, gây mỏi. Bật tính năng tự động điều chỉnh độ sáng giúp thiết bị tự thích nghi. Việc chọn màn hình có tần số quét phù hợp cũng góp phần cho trải nghiệm dễ chịu hơn, như đề cập trong bài [tần số quét 60Hz, 90Hz, 120Hz là gì](/articles/tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/8AsF27MilUQ/maxresdefault.jpg" alt="Bật chế độ lọc ánh sáng xanh và chỉnh độ sáng màn hình" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/8AsF27MilUQ/maxresdefault.jpg" alt="Bật chế độ lọc ánh sáng xanh và chỉnh độ sáng màn hình" loading="lazy" width="1280" height="720">
   <figcaption>Lọc ánh sáng xanh và chỉnh độ sáng giúp giảm mỏi mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Khoảng cách giữa mắt và màn hình ảnh hưởng trực tiếp tới m�
 Một thói quen quan trọng nhưng hay bị quên là chớp mắt thường xuyên. Khi tập trung nhìn màn hình, ta chớp mắt ít hơn bình thường, khiến mắt khô và mỏi. Hãy có ý thức chớp mắt đều đặn, và nếu mắt khô có thể dùng nước mắt nhân tạo theo tư vấn của chuyên gia. Đảm bảo phòng có đủ ánh sáng, tránh dùng thiết bị trong bóng tối hoàn toàn, vì sự tương phản gắt giữa màn hình sáng và phòng tối làm mắt mỏi nhanh hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZgrRUL2kRSo/maxresdefault.jpg" alt="Giữ khoảng cách và tư thế đúng khi dùng màn hình bảo vệ mắt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZgrRUL2kRSo/maxresdefault.jpg" alt="Giữ khoảng cách và tư thế đúng khi dùng màn hình bảo vệ mắt" loading="lazy" width="1280" height="720">
   <figcaption>Khoảng cách và tư thế đúng giúp giảm mỏi mắt, đau cổ vai. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Cỡ chữ quá nhỏ buộc mắt phải căng để đọc, gây mỏi nhanh. 
 Cuối cùng, đừng quên khám mắt định kỳ. Mỏi mắt do dùng thiết bị thường giảm khi nghỉ ngơi và điều chỉnh thói quen, nhưng nếu tình trạng kéo dài, kèm nhức đầu, mờ mắt hay khô rát nặng, bạn nên đi khám bác sĩ mắt. Khám định kỳ giúp phát hiện sớm vấn đề thị lực và được tư vấn phù hợp, chẳng hạn việc đeo kính đúng độ. Khi chọn màn hình cho công việc, các tiêu chí về tấm nền và độ phân giải cũng đáng cân nhắc để bảo vệ mắt, được nêu trong bài [cách chọn màn hình máy tính](/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1sbKsJx6rvY/maxresdefault.jpg" alt="Điều chỉnh cỡ chữ và khám mắt định kỳ để bảo vệ mắt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1sbKsJx6rvY/maxresdefault.jpg" alt="Điều chỉnh cỡ chữ và khám mắt định kỳ để bảo vệ mắt" loading="lazy" width="1280" height="720">
   <figcaption>Cỡ chữ phù hợp và khám mắt định kỳ giúp bảo vệ thị lực. Nguồn: YouTube</figcaption>
 </figure>
 

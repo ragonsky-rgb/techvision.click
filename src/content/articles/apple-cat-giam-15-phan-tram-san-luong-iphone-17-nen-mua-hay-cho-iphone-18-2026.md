@@ -60,7 +60,7 @@ featured: true
 Khi một dòng sản phẩm sắp có thế hệ kế nhiệm, việc nhà sản xuất giảm sản lượng để tránh tồn kho là quy trình bình thường trong ngành. Apple cần dọn dẹp kho hàng iPhone 17 trước khi iPhone 18 Pro và các sản phẩm mới lên kệ vào tháng 9, nên việc điều chỉnh sản lượng cuối chu kỳ không đồng nghĩa với thất bại thương mại. Nói cách khác, đây là tín hiệu của lịch trình sản phẩm chứ không phải dấu hiệu iPhone 17 ế ẩm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/A_WH6M6bDww/hqdefault.jpg" alt="iPhone 17 danh gia hieu nang va camera" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/A_WH6M6bDww/hqdefault.jpg" alt="iPhone 17 danh gia hieu nang va camera" loading="lazy" width="1280" height="720">
   <figcaption>iPhone 17 vẫn được đánh giá cao về hiệu năng và độ hoàn thiện, giữ vững sức bán ở nhiều thị trường. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Nhà báo Mark Gurman của Bloomberg thậm chí cho rằng giá bán thực t�
 Một chi tiết đáng lưu ý là lịch ra mắt năm nay có thể bị tách làm hai đợt. Nhiều nguồn tin cho rằng iPhone 18 tiêu chuẩn và iPhone 18e sẽ không xuất hiện cùng nhóm Pro vào tháng 9 mà bị dời sang mùa xuân 2027. Điều này có nghĩa nếu người dùng nhắm tới một chiếc iPhone 18 bản thường giá phải chăng, thời gian chờ có thể kéo dài hơn nửa năm so với thông lệ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/T0zVP08LL9k/hqdefault.jpg" alt="iPhone 18 Pro thiet ke va nang cap chip A20" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/T0zVP08LL9k/hqdefault.jpg" alt="iPhone 18 Pro thiet ke va nang cap chip A20" loading="lazy" width="1280" height="720">
   <figcaption>iPhone 18 Pro được kỳ vọng dùng chip A20 tiến trình 2nm, ra mắt trong sự kiện tháng 9/2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Câu trả lời phụ thuộc vào nhu cầu và ngân sách cụ thể. Với 
 Ngược lại, nếu người dùng muốn sở hữu công nghệ mới nhất, đặc biệt là thiết kế gập hoặc hiệu năng chip A20, việc chờ tới sau sự kiện tháng 9 là đáng cân nhắc. Ngay cả khi cuối cùng vẫn chọn iPhone 17, thời điểm sau ra mắt thế hệ mới thường mang lại mức giảm giá sâu hơn cho máy đời cũ. Với những ai định mua máy đã qua sử dụng để tiết kiệm, nên trang bị kiến thức kiểm tra kỹ lưỡng, có thể tham khảo [checklist kiểm tra iPhone cũ trước khi mua](/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html) để tránh rủi ro.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Y4p_ZrP-2Gk/hqdefault.jpg" alt="iPhone 17 va iPhone 18 so sanh nen mua may nao" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Y4p_ZrP-2Gk/hqdefault.jpg" alt="iPhone 17 va iPhone 18 so sanh nen mua may nao" loading="lazy" width="1280" height="720">
   <figcaption>Giai đoạn giao mùa giữa iPhone 17 và iPhone 18 là thời điểm giá cả linh hoạt nhất trong năm. Nguồn: YouTube</figcaption>
 </figure>
 

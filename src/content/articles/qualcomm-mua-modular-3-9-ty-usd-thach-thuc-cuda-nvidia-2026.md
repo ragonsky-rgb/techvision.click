@@ -74,7 +74,7 @@ Trong bối cảnh nhu cầu AI bùng nổ đẩy giá và làm khan hiếm cả
 Modular sở hữu hai công nghệ cốt lõi. Đầu tiên là Mojo, ngôn ngữ lập trình được thiết kế cho AI với mục tiêu vừa dễ dùng như Python vừa nhanh như các ngôn ngữ cấp thấp. Thứ hai là MAX, engine giúp triển khai và chạy các mô hình AI hiệu quả trên nhiều loại phần cứng khác nhau. Điểm chung của cả hai là triết lý không khóa chặt vào một hãng chip, khác hẳn cách tiếp cận của CUDA.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KL7pMJ2nkAk/hqdefault.jpg" alt="So sánh ngôn ngữ Mojo của Modular với CUDA của Nvidia" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KL7pMJ2nkAk/hqdefault.jpg" alt="So sánh ngôn ngữ Mojo của Modular với CUDA của Nvidia" loading="lazy" width="1280" height="720">
   <figcaption>Mojo và engine MAX được định vị là lựa chọn thay thế đa phần cứng cho hệ sinh thái CUDA. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Với triết lý này, Modular hướng tới việc trở thành lớp phần 
 Với Qualcomm, thương vụ này phục vụ một mục tiêu rõ ràng: xây dựng năng lực AI toàn diện. Qualcomm vốn mạnh ở mảng chip cho thiết bị biên như điện thoại, xe hơi và thiết bị đeo, nơi AI xử lý ngay trên máy ngày càng quan trọng. Sở hữu nền tảng phần mềm của Modular giúp hãng mở rộng lên cả mảng trung tâm dữ liệu, tạo thành giải pháp trọn gói từ đầu này tới đầu kia.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/k2fOyb0Npz4/hqdefault.jpg" alt="Modular xây dựng hệ sinh thái hạ tầng AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/k2fOyb0Npz4/hqdefault.jpg" alt="Modular xây dựng hệ sinh thái hạ tầng AI" loading="lazy" width="1280" height="720">
   <figcaption>Modular liên tục mở rộng hệ sinh thái hạ tầng AI trước khi về tay Qualcomm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Với Qualcomm, thương vụ này phục vụ một mục tiêu rõ ràng: xây
 ## Ý nghĩa với cuộc đua AI
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ua5yCwMj8pM/hq720.jpg" alt="Thương vụ Qualcomm Modular định hình lại cạnh tranh phần mềm AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ua5yCwMj8pM/hq720.jpg" alt="Thương vụ Qualcomm Modular định hình lại cạnh tranh phần mềm AI" loading="lazy" width="1280" height="720">
   <figcaption>Cạnh tranh ở lớp phần mềm nền tảng có thể định hình lại cuộc đua chip AI. Nguồn: YouTube</figcaption>
 </figure>
 

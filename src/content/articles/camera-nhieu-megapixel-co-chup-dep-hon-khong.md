@@ -76,7 +76,7 @@ Quan trọng hàng đầu là kích thước cảm biến. Cảm biến càng l�
 Bên cạnh phần cứng là khẩu độ ống kính, khả năng chống rung và đặc biệt là xử lý ảnh. Phần mềm xử lý của mỗi hãng quyết định rất lớn tới màu sắc, dải tương phản và độ chi tiết cuối cùng. Đây là lý do hai máy cùng cảm biến nhưng cho ảnh khác hẳn nhau. Nhiếp ảnh điện thoại ngày nay là cuộc chơi của phần mềm nhiều như phần cứng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/YmS5wkdyb8k/maxresdefault.jpg" alt="Thử nghiệm điện thoại camera 200MP có ống tele" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YmS5wkdyb8k/maxresdefault.jpg" alt="Thử nghiệm điện thoại camera 200MP có ống tele" loading="lazy" width="1280" height="720">
   <figcaption>Camera 200MP ấn tượng về thông số nhưng chất ảnh còn phụ thuộc nhiều yếu tố. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Số chấm cao không chỉ tốn kém mà còn kéo theo một số bất ti�
 Bên cạnh đó, cảm biến nhiều megapixel nhưng kích thước vật lý không đổi buộc mỗi điểm ảnh phải nhỏ hơn, dễ nhiễu hơn khi thiếu sáng nếu không có pixel binning hỗ trợ. Ảnh độ phân giải cực cao cũng đòi tay máy chắc và lấy nét chính xác hơn, vì mọi rung lắc nhỏ đều lộ rõ khi phóng to. Đây là lý do với đa số người dùng phổ thông, chế độ mặc định được tối ưu sẵn cho trải nghiệm tốt hơn là cố chụp full-res mọi lúc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5wG_8ZAxDWU/maxresdefault.jpg" alt="Lầm tưởng về megapixel trên máy ảnh và điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5wG_8ZAxDWU/maxresdefault.jpg" alt="Lầm tưởng về megapixel trên máy ảnh và điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều megapixel kéo theo file nặng và yêu cầu cao hơn về tay máy. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Một ví dụ điển hình cho thấy megapixel không phải tất cả là v
 Điều này không có nghĩa là megapixel cao vô dụng. Khi đi kèm cảm biến lớn và xử lý tốt, độ phân giải cao mang lại lợi thế rõ khi cần cắt cúp hay zoom kỹ thuật số. Vấn đề chỉ nằm ở chỗ con số megapixel bị quảng cáo thổi phồng thành yếu tố quyết định, trong khi thực tế nó chỉ là một mảnh ghép. Hiểu đúng điều này giúp người mua không trả thêm tiền chỉ vì một con số ấn tượng trên giấy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BbvjMOUOkYA/maxresdefault.jpg" alt="Vì sao điện thoại bị chê chụp ảnh xấu nhưng vẫn được thích" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BbvjMOUOkYA/maxresdefault.jpg" alt="Vì sao điện thoại bị chê chụp ảnh xấu nhưng vẫn được thích" loading="lazy" width="1280" height="720">
   <figcaption>Xử lý ảnh và cảm biến quan trọng hơn con số megapixel. Nguồn: YouTube</figcaption>
 </figure>
 

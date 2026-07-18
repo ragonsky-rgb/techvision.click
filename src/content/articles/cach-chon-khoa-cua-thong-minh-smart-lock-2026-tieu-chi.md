@@ -66,7 +66,7 @@ Yếu tố đầu tiên cần cân nhắc là phương thức mở khóa mà thi
 Với người dùng hệ sinh thái Apple, các mẫu khóa hỗ trợ Apple Home Key qua công nghệ UWB đang trở thành xu hướng được ưa chuộng nhất, cho phép mở khóa liền mạch chỉ bằng cách tiến gần cửa với iPhone hoặc Apple Watch trong túi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/HqJ1g4GqW1s/hqdefault.jpg" alt="Aqara U400 lap dat cong nghe ranh tay 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/HqJ1g4GqW1s/hqdefault.jpg" alt="Aqara U400 lap dat cong nghe ranh tay 2026" loading="lazy" width="1280" height="480">
   <figcaption>Công nghệ mở khóa rảnh tay đang trở thành xu hướng nổi bật trên khóa cửa thông minh cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,14 +75,14 @@ Với người dùng hệ sinh thái Apple, các mẫu khóa hỗ trợ Apple Ho
 Về khả năng tích hợp, chuẩn Matter đang ngày càng phổ biến, giúp một khóa cửa thông minh duy nhất có thể tương thích với nhiều hệ sinh thái nhà thông minh khác nhau cùng lúc, từ Apple Home, Google Home cho tới Samsung SmartThings, thay vì bị giới hạn chỉ hoạt động với một nền tảng duy nhất như trước đây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XUjUXt4l2cQ/hqdefault.jpg" alt="Aqara U400 khoa dau tien ho tro Apple Home Key 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/XUjUXt4l2cQ/hqdefault.jpg" alt="Aqara U400 khoa dau tien ho tro Apple Home Key 2026" loading="lazy" width="1280" height="480">
   <figcaption>Aqara U400 được xem là một trong những khóa cửa thông minh đầu tiên hỗ trợ đầy đủ công nghệ UWB kết hợp Apple Home Key. Nguồn: YouTube</figcaption>
 </figure>
 
 Về khả năng lắp đặt, phần lớn khóa cửa thông minh hiện nay được thiết kế dạng lắp thay thế (retrofit), giữ nguyên phần khóa chốt cơ khí bên ngoài cửa và chỉ thay thế phần bên trong, cho phép lắp đặt lên hầu hết các loại cửa có sẵn mà không cần khoan đục thêm, đồng thời vẫn giữ được chìa khóa cơ dự phòng trong trường hợp hết pin hoặc sự cố kỹ thuật. Về mức giá tham khảo, khóa cửa thông minh cơ bản với đầy đủ tính năng mở khóa bằng vân tay, mã PIN và ứng dụng di động thường dao động 3-5 triệu đồng, trong khi các mẫu cao cấp tích hợp công nghệ UWB tự động mở khóa và tương thích đa hệ sinh thái như Aqara U400 có giá tham khảo khoảng 6-10 triệu đồng. Người muốn xây dựng hệ thống an ninh gia đình toàn diện hơn, kết hợp cả khóa cửa thông minh lẫn camera giám sát, có thể tham khảo thêm bài viết [cách chọn camera an ninh gia đình năm 2026](/articles/cach-chon-camera-an-ninh-gia-dinh-2026.html) để có cái nhìn đầy đủ hơn về giải pháp bảo vệ ngôi nhà của mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gVlFRptNSU4/hqdefault.jpg" alt="Aqara U400 giai phap mo khoa toi uu 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/gVlFRptNSU4/hqdefault.jpg" alt="Aqara U400 giai phap mo khoa toi uu 2026" loading="lazy" width="1280" height="480">
   <figcaption>Aqara U400 được nhiều reviewer đánh giá là giải pháp mở khóa toàn diện nhất hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 

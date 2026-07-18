@@ -59,7 +59,7 @@ Bước sang tháng 7/2026, hàng loạt cơ quan công an từ trung ương t�
 Kịch bản thường bắt đầu bằng một cuộc gọi hoặc tin nhắn mạo danh cán bộ công an, viện lý do cần cập nhật thông tin căn cước hay kích hoạt định danh mức 2, rồi hướng dẫn nạn nhân tải một ứng dụng VNeID qua đường link lạ. Ứng dụng giả này được thiết kế giao diện gần như y hệt bản thật, khiến người dùng khó phân biệt. Khi cài xong, nó xin hàng loạt quyền, đặc biệt là quyền Trợ năng, thứ cho phép đọc nội dung màn hình và tự thao tác thay người dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2nPDvlIIs6k/hqdefault.jpg" alt="Ứng dụng VNeID giả mạo được cảnh báo trên báo chí năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2nPDvlIIs6k/hqdefault.jpg" alt="Ứng dụng VNeID giả mạo được cảnh báo trên báo chí năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ứng dụng VNeID giả mạo có giao diện giống hệt bản thật, khiến nhiều người sập bẫy. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ Một khi đã có quyền Trợ năng, mã độc gần như nắm toàn quyề
 Thủ đoạn giả mạo ứng dụng chỉ là một mảnh trong bức tranh lừa đảo trực tuyến đang nhức nhối. Theo thống kê, trong năm 2025, lừa đảo trực tuyến gây thiệt hại ước tính từ 6.000 tới 8.000 tỷ đồng tại Việt Nam, còn nếu tính rộng ra tội phạm mạng giai đoạn 2020 tới 2025, con số lên tới gần 40.000 tỷ đồng. Điểm tích cực là tỷ lệ người dân trở thành nạn nhân đã giảm, cho thấy nhận thức cộng đồng đang được nâng lên, nhưng số tiền mỗi vụ lại có xu hướng lớn hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OWzIT8lF43o/hqdefault.jpg" alt="Công an cảnh báo thủ đoạn kích hoạt ứng dụng VNeID giả mạo" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OWzIT8lF43o/hqdefault.jpg" alt="Công an cảnh báo thủ đoạn kích hoạt ứng dụng VNeID giả mạo" loading="lazy" width="1280" height="720">
   <figcaption>Cơ quan công an khẳng định không bao giờ yêu cầu người dân cài ứng dụng hay đọc OTP qua điện thoại. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Nhìn rộng ra, đây là biến thể tại Việt Nam của một xu hướng
 Để không trở thành nạn nhân, hãy ghi nhớ bốn nguyên tắc. Thứ nhất, chỉ cài VNeID và các ứng dụng khác từ App Store hoặc CH Play chính thức, tuyệt đối không cài file APK gửi qua tin nhắn hay link lạ. Thứ hai, không bao giờ cấp quyền Trợ năng cho ứng dụng lạ, và nên rà lại danh sách app đang giữ quyền này. Thứ ba, không đọc mã OTP, mật khẩu ngân hàng cho bất kỳ ai, kể cả người tự xưng là công an hay nhân viên nhà mạng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XkZxBjLs_fI/hqdefault.jpg" alt="Cảnh giác trước các chiêu lừa đảo chiếm đoạt tài khoản trực tuyến" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XkZxBjLs_fI/hqdefault.jpg" alt="Cảnh giác trước các chiêu lừa đảo chiếm đoạt tài khoản trực tuyến" loading="lazy" width="1280" height="720">
   <figcaption>Cảnh giác và xác minh trực tiếp là lớp phòng thủ hiệu quả nhất trước lừa đảo trực tuyến. Nguồn: YouTube</figcaption>
 </figure>
 

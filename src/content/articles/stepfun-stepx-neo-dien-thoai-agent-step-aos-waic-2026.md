@@ -76,7 +76,7 @@ Về mặt kỹ thuật, Step AOS được xây dựng từ các thành phần A
 Đi cùng Step AOS là trợ lý AI mang tên Amoo. Điểm mạnh của Amoo là khả năng thực hiện các tác vụ nhiều bước xuyên nhiều ứng dụng khác nhau. Ví dụ, thay vì người dùng phải tự mở ứng dụng gọi xe, rồi ứng dụng thanh toán, rồi ứng dụng bản đồ, Amoo có thể tự phối hợp các bước này để hoàn thành một yêu cầu duy nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/TIrMrmTDMeQ/hqdefault.jpg" alt="Trợ lý Amoo trên StepX Neo thực hiện tác vụ nhiều bước xuyên nhiều ứng dụng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TIrMrmTDMeQ/hqdefault.jpg" alt="Trợ lý Amoo trên StepX Neo thực hiện tác vụ nhiều bước xuyên nhiều ứng dụng" loading="lazy" width="1280" height="720">
   <figcaption>Amoo có thể điều phối nhiều ứng dụng để hoàn thành một yêu cầu của người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Một yếu tố đáng chú ý khác là khả năng hoạt động ngay trên 
 ## Cuộc đua điện thoại AI agent nóng lên
 
 <figure>
-  <img src="https://i.ytimg.com/vi/RdQp1-8uotE/hqdefault.jpg" alt="StepX Neo tham gia cuộc đua điện thoại AI agent đang nóng lên trên toàn cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/RdQp1-8uotE/hqdefault.jpg" alt="StepX Neo tham gia cuộc đua điện thoại AI agent đang nóng lên trên toàn cầu" loading="lazy" width="1280" height="720">
   <figcaption>StepX Neo là một trong nhiều sản phẩm định hình lại khái niệm điện thoại AI. Nguồn: YouTube</figcaption>
 </figure>
 
 Sự xuất hiện của StepX Neo diễn ra trong bối cảnh cuộc đua điện thoại AI agent đang tăng nhiệt. Nhiều công ty, cả những ông lớn lẫn startup, đều đang tìm cách định nghĩa lại chiếc điện thoại trong kỷ nguyên AI. Điều thú vị là trong khi một số tên tuổi lớn vẫn đang phát triển ý tưởng, các công ty Trung Quốc lại tỏ ra rất nhanh trong việc đưa sản phẩm ra thị trường. Ngay tại Trung Quốc, StepFun cũng không đơn độc, khi có những sản phẩm cạnh tranh như [Nubia Navi X Ultra được quảng bá là điện thoại AI agent đầu tiên thế giới](/articles/nubia-ai-agent-smartphone-dau-tien-the-gioi-waic-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9e3IWOazSuQ/hqdefault.jpg" alt="Điện thoại AI agent thực sự đầu tiên được cho là đến từ startup Trung Quốc thay vì các hãng lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9e3IWOazSuQ/hqdefault.jpg" alt="Điện thoại AI agent thực sự đầu tiên được cho là đến từ startup Trung Quốc thay vì các hãng lớn" loading="lazy" width="1280" height="720">
   <figcaption>Việc startup Trung Quốc dẫn trước cho thấy tốc độ đổi mới nhanh của khu vực. Nguồn: YouTube</figcaption>
 </figure>
 

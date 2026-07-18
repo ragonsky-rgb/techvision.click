@@ -60,7 +60,7 @@ Thị trường máy tính bảng tháng 7/2026 tiếp tục sôi động với 
 Nếu cần không gian làm việc rộng hơn nữa, dòng Galaxy Tab S11 Ultra cỡ lớn cũng là một lựa chọn đáng cân nhắc trong cùng hệ sinh thái Samsung, dù mức giá sẽ cao hơn đáng kể so với bản tiêu chuẩn. Với người thường xuyên làm việc với nhiều cửa sổ ứng dụng cùng lúc hoặc cần trình chiếu nội dung cho nhóm, kích thước lớn hơn của bản Ultra mang lại lợi thế rõ rệt so với bản Tab S11 gọn nhẹ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vWgaGIHh_B0/hqdefault.jpg" alt="Galaxy Tab S11 Ultra man hinh lon cho cong viec sang tao" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/vWgaGIHh_B0/hqdefault.jpg" alt="Galaxy Tab S11 Ultra man hinh lon cho cong viec sang tao" loading="lazy" width="1280" height="480">
   <figcaption>Galaxy Tab S11 Ultra là lựa chọn cho ai cần màn hình lớn hơn trong cùng hệ sinh thái Samsung. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Nếu cần không gian làm việc rộng hơn nữa, dòng Galaxy Tab S11 Ultr
 Với người đang tìm hiểu thêm về cách chọn thiết bị phù hợp trước khi quyết định giữa các thương hiệu, bài viết [cách chọn máy tính bảng theo 5 tiêu chí quan trọng năm 2026](/articles/cach-chon-may-tinh-bang-tablet-2026-tieu-chi.html) sẽ giúp xác định rõ nhu cầu sử dụng thực tế trước khi so sánh giá và cấu hình cụ thể giữa các mẫu máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/b2tNYBRy8Y8/hqdefault.jpg" alt="Xiaomi Pad 8 Pro mo hop cau hinh cao Snapdragon 8 Elite" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/b2tNYBRy8Y8/hqdefault.jpg" alt="Xiaomi Pad 8 Pro mo hop cau hinh cao Snapdragon 8 Elite" loading="lazy" width="1280" height="480">
   <figcaption>Xiaomi Pad 8 Pro gây chú ý với cấu hình Snapdragon 8 Elite ngang ngửa điện thoại flagship. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Với người đang tìm hiểu thêm về cách chọn thiết bị phù hợp
 Ở phân khúc phổ thông, iPad Gen 11 trang bị chip A16 vẫn là lựa chọn được nhiều học sinh, sinh viên ưu tiên nhờ mức giá dễ tiếp cận, khởi điểm từ 9,49 triệu đồng cho bản Wi-Fi 128GB. Máy sở hữu màn hình Liquid Retina 11 inch độ phân giải 2360 x 1640 pixel, camera sau 12MP hỗ trợ quay video 4K, cùng thời lượng pin lên tới 10 giờ sử dụng liên tục. Máy tương thích tốt với Apple Pencil chuẩn USB-C và bàn phím Magic Keyboard Folio, phù hợp cho nhu cầu ghi chú, học trực tuyến và làm bài tập hằng ngày trong môi trường học đường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SOyp4OcK7wA/hqdefault.jpg" alt="iPad Gen 11 A16 gia re danh cho hoc sinh sinh vien 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SOyp4OcK7wA/hqdefault.jpg" alt="iPad Gen 11 A16 gia re danh cho hoc sinh sinh vien 2026" loading="lazy" width="1280" height="480">
   <figcaption>iPad Gen 11 dùng chip A16 vẫn là lựa chọn phổ thông được nhiều học sinh, sinh viên ưu tiên. Nguồn: YouTube</figcaption>
 </figure>
 

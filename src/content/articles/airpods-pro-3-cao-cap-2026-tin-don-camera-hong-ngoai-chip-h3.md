@@ -76,7 +76,7 @@ Một tin đồn khác là việc AirPods Pro cao cấp có thể dùng chip H3 
 Bên cạnh đó, AirPods Pro mới được đồn sẽ hỗ trợ điều khiển bằng cử chỉ tay, có thể thay thế các nút bấm cảm áp trên thân tai nghe hiện nay. Nếu kết hợp với camera hồng ngoại, tính năng cử chỉ sẽ mang lại cách tương tác mới mẻ và tiện lợi hơn. Đây là những cải tiến hứa hẹn, nhưng cần nhắc lại rằng tất cả vẫn là tin đồn. Với người dùng quan tâm tới chất lượng âm thanh và chống ồn, thị trường hiện đã có nhiều lựa chọn tốt, chẳng hạn được phân tích trong bài [Sony WH-1000XM6](/articles/sony-wh-1000xm6-tai-nghe-chong-on-dau-bang-qn3-pin-30-gio.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9Z-c20kT9cE/maxresdefault.jpg" alt="Tin đồn AirPods Pro chip H3 và điều khiển bằng cử chỉ tay" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9Z-c20kT9cE/maxresdefault.jpg" alt="Tin đồn AirPods Pro chip H3 và điều khiển bằng cử chỉ tay" loading="lazy" width="1280" height="720">
   <figcaption>Chip H3 và điều khiển cử chỉ là các tin đồn đáng chú ý. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một nâng cấp khác được đồn đoán là hỗ trợ GymKit qua iOS 27.
 Xu hướng này phù hợp với việc các phiên bản AirPods Pro gần đây đã bổ sung các tính năng sức khỏe như cảm biến nhịp tim. Việc tích hợp sâu hơn với hệ sinh thái Apple, từ Watch tới Vision Pro, giúp tai nghe trở nên hữu ích hơn ngoài chức năng nghe nhạc. Tuy vậy, mức độ và cách triển khai thực tế của các tính năng này vẫn cần chờ Apple xác nhận. Với người mới tìm hiểu, hiểu rõ công nghệ chống ồn cũng quan trọng, được giải thích trong bài [tai nghe chống ồn ANC là gì](/articles/tai-nghe-chong-on-anc-la-gi-co-nen-mua.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/c9eBtoWDTC0/maxresdefault.jpg" alt="AirPods Pro tích hợp sâu hơn với hệ sinh thái Apple qua iOS 27" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/c9eBtoWDTC0/maxresdefault.jpg" alt="AirPods Pro tích hợp sâu hơn với hệ sinh thái Apple qua iOS 27" loading="lazy" width="1280" height="720">
   <figcaption>AirPods Pro được đồn tích hợp sâu hơn với hệ sinh thái Apple. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Cần đặt các tin đồn này trong bối cảnh phù hợp. Phiên bản Ai
 Quan trọng nhất, đây vẫn là tin đồn và rò rỉ, chưa được Apple xác nhận. Các thông tin rò rỉ về sản phẩm Apple đôi khi chính xác, nhưng cũng có khi sai lệch hoặc chỉ phản ánh các nguyên mẫu chưa chắc được thương mại hóa. Vì vậy, người dùng nên giữ thái độ thận trọng, xem đây là dự đoán thú vị thay vì thông tin chắc chắn. Mọi quyết định mua sắm nên dựa trên sản phẩm thực tế và thông tin chính thức.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/beBcojZi4qY/maxresdefault.jpg" alt="Tổng hợp tin đồn và rò rỉ cuối cùng về AirPods Pro 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/beBcojZi4qY/maxresdefault.jpg" alt="Tổng hợp tin đồn và rò rỉ cuối cùng về AirPods Pro 2026" loading="lazy" width="1280" height="720">
   <figcaption>Mọi thông tin vẫn là tin đồn cho tới khi Apple công bố. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -73,7 +73,7 @@ Việc đưa nhãn AI vào My Ad Center là một phần trong xu hướng minh 
 Điểm mấu chốt khiến giới quan sát tranh luận nằm ở cách Google phân loại nguồn gốc AI thành hai tầng. Với những quảng cáo được tạo bằng chính các công cụ AI tạo sinh của Google, hệ thống sẽ tự động gắn nhãn mà nhà quảng cáo không cần làm gì thêm. Đây là phần đáng tin cậy nhất, bởi Google nắm rõ quy trình tạo nội dung trong hệ sinh thái của mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OMhKgQmeMhI/hqdefault.jpg" alt="Người dùng kiểm tra thông tin quảng cáo trong My Ad Center" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OMhKgQmeMhI/hqdefault.jpg" alt="Người dùng kiểm tra thông tin quảng cáo trong My Ad Center" loading="lazy" width="1280" height="720">
   <figcaption>Quảng cáo tạo bằng công cụ AI của Google được gắn nhãn tự động, không cần thao tác. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Sự thận trọng này là dễ hiểu, bởi nội dung do AI tạo ra không
 Không phải mọi khu vực đều áp dụng cùng một mức độ minh bạch. Với các chiến dịch nhắm tới người dùng tại Liên minh châu Âu, Ấn Độ và bang New York của Mỹ, Google áp dụng biện pháp mạnh hơn, đó là hiển thị lớp phủ trực quan ngay trên chính hình ảnh quảng cáo được đánh dấu là chỉnh sửa bằng AI. Thay vì phải chủ động mở My Ad Center để tra cứu, người dùng ở những khu vực này sẽ nhìn thấy dấu hiệu nhận biết rõ ràng ngay trên nội dung.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KrwrT2FrNzU/hqdefault.jpg" alt="Quy định minh bạch nội dung AI tại châu Âu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KrwrT2FrNzU/hqdefault.jpg" alt="Quy định minh bạch nội dung AI tại châu Âu" loading="lazy" width="1280" height="720">
   <figcaption>Tại EU, Ấn Độ và New York, quảng cáo AI có lớp phủ trực quan ngay trên hình ảnh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Sự khác biệt theo vùng này gắn chặt với áp lực pháp lý. Độn
 Dù các lớp phủ trực quan bắt buộc chưa áp dụng cho Việt Nam, xu hướng minh bạch hóa nội dung AI vẫn có ý nghĩa với người dùng trong nước. Quảng cáo tạo bằng AI đang xuất hiện ngày càng nhiều trên các nền tảng số, và việc có thêm một công cụ để kiểm tra nguồn gốc, dù ở dạng tự nguyện, vẫn tốt hơn là không có gì. Người dùng nên hình thành thói quen kiểm tra thông tin quảng cáo khi nghi ngờ, đồng thời cảnh giác với những nội dung quá hoàn hảo hoặc quá giật gân. Đây cũng là kỹ năng quan trọng để [nhận biết và phòng tránh lừa đảo online](/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html) trong thời đại nội dung AI tràn lan.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bhTo8fDmr5I/hqdefault.jpg" alt="Người dùng Việt Nam kiểm tra nguồn gốc quảng cáo trên điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bhTo8fDmr5I/hqdefault.jpg" alt="Người dùng Việt Nam kiểm tra nguồn gốc quảng cáo trên điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Người dùng nên hình thành thói quen kiểm tra thông tin quảng cáo khi nghi ngờ. Nguồn: YouTube</figcaption>
 </figure>
 

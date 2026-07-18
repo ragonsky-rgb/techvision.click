@@ -68,7 +68,7 @@ Mặt lưng trong suốt của máy không còn để lộ quạt tản nhiệt 
 ## Màn hình và hiệu năng chơi game
 
 <figure>
-  <img src="https://i.ytimg.com/vi/pNKeXwlsw5E/hqdefault.jpg" alt="Danh gia hieu nang choi game tren may tinh bang RedMagic Astra" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/pNKeXwlsw5E/hqdefault.jpg" alt="Danh gia hieu nang choi game tren may tinh bang RedMagic Astra" loading="lazy" width="1280" height="480">
   <figcaption>Máy tính bảng gaming RedMagic được đánh giá cao về hiệu năng chơi game ổn định trong thời gian dài. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Với những ai đang tìm kiếm thêm thiết bị gaming cầm tay khác, [R
 RedMagic Gaming Tablet 5 Pro hiện đã lên kệ tại Trung Quốc với giá khởi điểm khoảng 4.999 nhân dân tệ, tương đương khoảng 735 USD cho phiên bản 12GB RAM, 256GB bộ nhớ trong. RedMagic đã xác nhận kế hoạch mở bán toàn cầu dưới tên gọi RedMagic Astra 2, với thời gian đặt hàng sớm diễn ra từ ngày 10 tới 16/7/2026, mức giá khởi điểm dự kiến khoảng 549 USD cho thị trường quốc tế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hQsg_AJVdzY/mqdefault.jpg" alt="Thiet ke mat lung trong suot RedMagic Gaming Tablet 5 Pro" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hQsg_AJVdzY/mqdefault.jpg" alt="Thiet ke mat lung trong suot RedMagic Gaming Tablet 5 Pro" loading="lazy" width="1280" height="480">
   <figcaption>Thiết kế mặt lưng trong suốt để lộ hệ thống làm mát chất lỏng là điểm nhấn thị giác nổi bật của máy. Nguồn: YouTube</figcaption>
 </figure>
 
 So với thế hệ RedMagic Astra đầu tiên, Astra 2 nâng cấp đáng kể về hiệu năng xử lý nhờ chip Snapdragon 8 Elite Gen 5 mới, đồng thời cải thiện hệ thống tản nhiệt vốn đã được đánh giá cao ở thế hệ trước, cho thấy RedMagic đang tập trung phát triển liên tục dòng sản phẩm máy tính bảng gaming chuyên biệt thay vì chỉ ra mắt một lần rồi dừng lại như một số đối thủ khác trong ngành.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/pNKeXwlsw5E/mqdefault.jpg" alt="RedMagic Astra dong may tinh bang gaming duoc danh gia cao" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/pNKeXwlsw5E/mqdefault.jpg" alt="RedMagic Astra dong may tinh bang gaming duoc danh gia cao" loading="lazy" width="1280" height="480">
   <figcaption>Dòng máy tính bảng gaming RedMagic Astra liên tục được nâng cấp qua từng thế hệ sản phẩm. Nguồn: YouTube</figcaption>
 </figure>
 

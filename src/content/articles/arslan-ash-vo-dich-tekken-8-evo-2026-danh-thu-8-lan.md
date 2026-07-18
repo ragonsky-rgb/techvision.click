@@ -76,7 +76,7 @@ Chiến thắng tại EVO 2026 giúp Arslan Ash giành danh hiệu EVO thứ tá
 Dù thống trị cả giải, Arslan Ash vẫn phải trải qua một trận chung kết đầy cam go trước Rangchu của Hàn Quốc. Tỷ số 3-2 cho thấy đây là một cuộc so tài cân não, nơi ranh giới giữa chiến thắng và thất bại rất mong manh. Rangchu đã chơi một trận xuất sắc, đẩy nhà vô địch vào thế khó và biến trận đấu thành một màn rượt đuổi tỷ số hấp dẫn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-2xThw__tI4/hqdefault.jpg" alt="Arslan Ash dùng Nina Williams đối đầu Rangchu dùng Fahkumram trong chung kết Tekken 8 EVO 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-2xThw__tI4/hqdefault.jpg" alt="Arslan Ash dùng Nina Williams đối đầu Rangchu dùng Fahkumram trong chung kết Tekken 8 EVO 2026" loading="lazy" width="1280" height="720">
   <figcaption>Trận chung kết giữa Arslan Ash và Rangchu là màn rượt đuổi tỷ số nghẹt thở. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Về phía Rangchu, dù không thể lên ngôi, hành trình vào tới trận 
 ## Bệ phóng tới Esports World Cup
 
 <figure>
-  <img src="https://i.ytimg.com/vi/on1_iUOMQ0U/hqdefault.jpg" alt="Top 4 Tekken 8 EVO 2026 giành suất dự Esports World Cup 2026 tại Paris" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/on1_iUOMQ0U/hqdefault.jpg" alt="Top 4 Tekken 8 EVO 2026 giành suất dự Esports World Cup 2026 tại Paris" loading="lazy" width="1280" height="720">
   <figcaption>Thành tích tại EVO 2026 mở đường tới Esports World Cup cho các tuyển thủ hàng đầu. Nguồn: YouTube</figcaption>
 </figure>
 
 Kết quả EVO 2026 còn mang ý nghĩa quan trọng với chặng đường phía trước. Top 4 nội dung Tekken 8, gồm Arslan Ash, Rangchu, LowHigh và JeonDDing, đều giành suất trực tiếp dự nội dung Tekken 8 tại Esports World Cup 2026 ở Paris. Đây là giải đấu có tổng giải thưởng lên tới 1 triệu USD, một trong những sự kiện lớn nhất của làng đối kháng trong năm. Như vậy, thành tích tại EVO không chỉ mang lại vinh quang tức thời mà còn là bệ phóng cho những cơ hội lớn tiếp theo.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/PzJ7MYUeEEY/hqdefault.jpg" alt="Arslan Ash tiếp tục khẳng định vị thế huyền thoại của làng Tekken thế giới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PzJ7MYUeEEY/hqdefault.jpg" alt="Arslan Ash tiếp tục khẳng định vị thế huyền thoại của làng Tekken thế giới" loading="lazy" width="1280" height="720">
   <figcaption>Arslan Ash củng cố vị thế một trong những tay đấu Tekken vĩ đại nhất. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Thực tế, tín hiệu về hướng đi này đã xuất hiện từ trước
 Phản ứng của thị trường đến gần như ngay lập tức và rất tiêu cực với nhóm cung cấp hạ tầng AI chuyên biệt. Cổ phiếu CoreWeave giảm khoảng 10,8%, còn Nebius mất khoảng 12,4% giá trị sau khi thông tin từ Bloomberg lan ra. Đây là mức giảm đáng kể chỉ trong một phiên, phản ánh nỗi lo thực sự của giới đầu tư.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/W0v74tB4pZE/hqdefault.jpg" alt="Cổ phiếu CoreWeave và Nebius giảm mạnh sau tin Meta xây dịch vụ đám mây" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/W0v74tB4pZE/hqdefault.jpg" alt="Cổ phiếu CoreWeave và Nebius giảm mạnh sau tin Meta xây dịch vụ đám mây" loading="lazy" width="1280" height="720">
   <figcaption>Nhà đầu tư lo ngại Meta vừa là khách hàng lớn vừa có thể thành đối thủ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Thứ hai, và đáng ngại hơn, là viễn cảnh Meta trở thành đối th
 Kế hoạch của Meta chỉ là một mảnh ghép trong bức tranh đầu tư hạ tầng AI đang bùng nổ trên toàn cầu. Riêng Meta dự kiến chi khoảng 145 tỷ USD cho hạ tầng AI trong năm 2026, và con số này nằm trong tổng vốn được ước tính vượt 700 tỷ USD mà các hãng công nghệ lớn đổ vào lĩnh vực này. Với những khoản chi tiêu ở quy mô đó, câu hỏi làm thế nào để tối ưu hóa và thu hồi vốn trở nên cấp thiết.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XXIK0JTwqz4/hqdefault.jpg" alt="Meta ký hợp đồng 21 tỷ USD với CoreWeave và đầu tư mạnh vào hạ tầng AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XXIK0JTwqz4/hqdefault.jpg" alt="Meta ký hợp đồng 21 tỷ USD với CoreWeave và đầu tư mạnh vào hạ tầng AI" loading="lazy" width="1280" height="720">
   <figcaption>Meta chi hàng trăm tỷ USD cho hạ tầng, và bán phần dư thừa là cách tối ưu chi phí. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Tuy nhiên, đằng sau nó là một sự dịch chuyển đáng chú ý. Ranh 
 ## Ý nghĩa với thị trường và người dùng
 
 <figure>
-  <img src="https://i.ytimg.com/vi/VRo6GjN7sQU/hqdefault.jpg" alt="Meta xây dịch vụ đám mây định hình lại cục diện thị trường điện toán AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VRo6GjN7sQU/hqdefault.jpg" alt="Meta xây dịch vụ đám mây định hình lại cục diện thị trường điện toán AI" loading="lazy" width="1280" height="720">
   <figcaption>Sự tham gia của Meta có thể định hình lại cục diện thị trường đám mây AI. Nguồn: YouTube</figcaption>
 </figure>
 

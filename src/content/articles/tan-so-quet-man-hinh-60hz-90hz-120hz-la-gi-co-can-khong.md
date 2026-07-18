@@ -64,7 +64,7 @@ Tần số quét là số lần màn hình làm mới hình ảnh trong một gi
 Khác biệt rõ nhất khi cuộn trang web, lướt mạng xã hội và chơi game. Ở 120Hz, nội dung trôi mượt và phản hồi tức thì hơn hẳn so với 60Hz. Với xem video hay các tác vụ tĩnh, khác biệt ít rõ hơn vì nội dung vốn không thay đổi nhanh. Tuy nhiên, khi đã quen với 120Hz, nhiều người thấy khó quay lại 60Hz.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bAziTE3mBE4/maxresdefault.jpg" alt="So sánh tần số quét 60Hz, 120Hz và 144Hz nên chọn mức nào" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bAziTE3mBE4/maxresdefault.jpg" alt="So sánh tần số quét 60Hz, 120Hz và 144Hz nên chọn mức nào" loading="lazy" width="1280" height="720">
   <figcaption>Mức tần số quét phù hợp tùy vào nhu cầu chơi game, lướt nội dung hay tiết kiệm pin. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Một điểm gây nhầm lẫn phổ biến là giữa tần số quét màn h�
 Tần số quét cảm ứng quyết định độ nhạy và độ trễ khi chạm, nên cực kỳ quan trọng với game thủ cần thao tác nhanh và chính xác. Hai thông số này khác nhau, một chiếc máy có thể có màn 120Hz nhưng tần số quét cảm ứng cao hơn nhiều. Khi chọn máy chơi game, nên để ý cả hai chỉ số này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/YNKbQexB8wg/hqdefault.jpg" alt="Tần số quét cảm ứng quan trọng khi chọn điện thoại chơi game" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YNKbQexB8wg/hqdefault.jpg" alt="Tần số quét cảm ứng quan trọng khi chọn điện thoại chơi game" loading="lazy" width="1280" height="720">
   <figcaption>Tần số quét cảm ứng ảnh hưởng lớn tới trải nghiệm chơi game. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Phần lớn phim và video trên mạng được quay ở 24 tới 30 khung hì
 Ngoài ra, để cảm giác mượt thật sự liền mạch, hệ thống cần duy trì khung hình ổn định chứ không chỉ đạt đỉnh cao. Một chiếc máy chạy ổn định ở 90 khung hình thường cho trải nghiệm dễ chịu hơn máy lúc vọt lên 120 lúc tụt xuống 60. Đây là lý do tối ưu phần mềm và sức mạnh chip cũng quan trọng không kém con số tần số quét trên giấy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vlfVSD78Kkg/maxresdefault.jpg" alt="Quay chậm cho thấy khác biệt độ mượt giữa màn 120Hz và 60Hz" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vlfVSD78Kkg/maxresdefault.jpg" alt="Quay chậm cho thấy khác biệt độ mượt giữa màn 120Hz và 60Hz" loading="lazy" width="1280" height="720">
   <figcaption>Quay chậm cho thấy chuyển động ở 120Hz liền mạch hơn rõ rệt so với 60Hz. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Trái tim của nền tảng là GPU Rubin, một bước nhảy lớn về quy 
 Quy mô khổng lồ này giúp Rubin xử lý các mô hình AI ngày càng lớn và phức tạp. Đây là yếu tố then chốt trong cuộc đua AI, khi các mô hình tiên tiến đòi hỏi sức mạnh tính toán vượt trội. Việc liên tục đẩy giới hạn về tiến trình và số transistor cho thấy NVIDIA đầu tư mạnh để duy trì lợi thế. Cạnh tranh trong mảng chip AI cũng ngày càng gay gắt, với nhiều đối thủ tham gia, chẳng hạn được nêu trong bài [Qualcomm AI200, AI250 đấu NVIDIA](/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Lk-tipAlW1Q/maxresdefault.jpg" alt="GPU NVIDIA Rubin với 336 tỷ transistor trên tiến trình 3nm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Lk-tipAlW1Q/maxresdefault.jpg" alt="GPU NVIDIA Rubin với 336 tỷ transistor trên tiến trình 3nm" loading="lazy" width="1280" height="720">
   <figcaption>GPU Rubin có 336 tỷ transistor, tăng 1,6 lần so với Blackwell. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một trong những điểm nhấn quan trọng nhất của Vera Rubin là hi�
 Việc giảm chi phí vận hành AI có ý nghĩa lớn với cả ngành. Chạy các mô hình AI hiện rất tốn kém về phần cứng và điện năng, nên giảm chi phí giúp AI dễ tiếp cận hơn cho nhiều doanh nghiệp và ứng dụng. Điều này có thể thúc đẩy làn sóng ứng dụng AI rộng hơn, khi rào cản chi phí được hạ thấp. Hiệu quả năng lượng cao hơn cũng góp phần giảm áp lực lên hạ tầng điện của các trung tâm dữ liệu, một thách thức lớn của ngành.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/dLNeGN4wEyY/maxresdefault.jpg" alt="Nền tảng Vera Rubin giảm chi phí suy luận và huấn luyện AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/dLNeGN4wEyY/maxresdefault.jpg" alt="Nền tảng Vera Rubin giảm chi phí suy luận và huấn luyện AI" loading="lazy" width="1280" height="720">
   <figcaption>Vera Rubin hứa hẹn giảm mạnh chi phí vận hành AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ NVIDIA cho biết Rubin đã vào sản xuất hàng loạt, với các sản ph
 Vị thế dẫn đầu của NVIDIA trong mảng chip AI hiện rất vững chắc, nhưng cạnh tranh đang gia tăng từ nhiều phía. Việc hãng liên tục tung ra các nền tảng mạnh hơn và hiệu quả hơn là cách giữ khoảng cách với đối thủ. Sự thống trị này cũng đặt ra câu hỏi về sự phụ thuộc của ngành vào một nhà cung cấp, thúc đẩy nhiều công ty tìm kiếm giải pháp thay thế. Dù vậy, với Vera Rubin, NVIDIA tiếp tục đặt ra chuẩn mực mới cho hạ tầng AI toàn cầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/GUTg1LlH3sQ/maxresdefault.jpg" alt="Lộ trình NVIDIA Vera Rubin và Rubin Ultra cho hạ tầng AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GUTg1LlH3sQ/maxresdefault.jpg" alt="Lộ trình NVIDIA Vera Rubin và Rubin Ultra cho hạ tầng AI" loading="lazy" width="1280" height="720">
   <figcaption>NVIDIA công bố lộ trình với Rubin Ultra năm 2027. Nguồn: YouTube</figcaption>
 </figure>
 

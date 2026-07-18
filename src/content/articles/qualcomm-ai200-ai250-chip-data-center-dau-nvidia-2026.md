@@ -64,7 +64,7 @@ Cả AI200 và AI250 đều dựa trên Hexagon, dòng NPU mà Qualcomm đã mà
 Đây là lựa chọn có chủ đích. Thị trường chip AI lâu nay chia làm hai phần: huấn luyện (training) và suy luận (inference). Nvidia thống trị mảng huấn luyện với GPU mạnh và đắt. Nhưng khi các mô hình lớn đã được huấn luyện và bắt đầu phục vụ hàng tỷ lượt truy vấn mỗi ngày, chi phí suy luận mới là khoản lớn dần và kéo dài. Qualcomm đặt cược vào chính phần này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hGCxJ_9GN_E/maxresdefault.jpg" alt="Qualcomm AI200 và AI250 là nước cờ mạnh đấu Nvidia và AMD" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hGCxJ_9GN_E/maxresdefault.jpg" alt="Qualcomm AI200 và AI250 là nước cờ mạnh đấu Nvidia và AMD" loading="lazy" width="1280" height="720">
   <figcaption>AI200 và AI250 đưa Qualcomm vào thẳng cuộc đua chip data center với Nvidia và AMD. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Qualcomm không cố thắng Nvidia ở tốc độ thô, một cuộc chiến g
 Logic đằng sau khá thuyết phục. Khi AI chuyển từ giai đoạn xây dựng mô hình sang giai đoạn phục vụ hàng loạt, các trung tâm dữ liệu quan tâm tới số truy vấn xử lý được trên mỗi đồng điện và mỗi đồng vốn, nhiều hơn là kỷ lục hiệu năng. Nvidia hiểu rõ điều này và cũng đang củng cố mảng suy luận của mình, như phân tích trong [kiến trúc Vera Rubin tại Nvidia GTC 2026](/articles/nvidia-gtc-2026-vera-rubin-dgx-station.html). Nói cách khác, mặt trận suy luận đang trở thành chiến trường nóng nhất của ngành chip AI.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_uvIkPwDu5A/maxresdefault.jpg" alt="Suy luận AI trở thành chiến trường chính của chip data center năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_uvIkPwDu5A/maxresdefault.jpg" alt="Suy luận AI trở thành chiến trường chính của chip data center năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Suy luận AI là phần tăng trưởng nhanh và kéo dài nhất trong nhu cầu hạ tầng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Lãnh đạo Qualcomm mô tả đây là bước chuẩn bị cho giai đoạn t
 Trước mắt, AI200 và AI250 không phải sản phẩm người dùng cuối có thể mua, mà là phần cứng dành cho các nhà vận hành đám mây và trung tâm dữ liệu. Nhưng tác động sẽ chảy xuống theo thời gian. Mỗi dịch vụ AI mà người Việt đang dùng hằng ngày, từ chatbot, công cụ dịch, trợ lý ảo tới các tính năng AI trong ứng dụng, đều chạy trên hạ tầng suy luận như thế này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-fKmLOTKipY/hqdefault.jpg" alt="Cổ phiếu Qualcomm tăng mạnh sau công bố chip AI data center" loading="lazy" width="480" height="360">
+  <img decoding="async" src="https://i.ytimg.com/vi/-fKmLOTKipY/hqdefault.jpg" alt="Cổ phiếu Qualcomm tăng mạnh sau công bố chip AI data center" loading="lazy" width="480" height="360">
   <figcaption>Cổ phiếu Qualcomm bật tăng mạnh ngay khi hãng công bố tham vọng data center. Nguồn: YouTube</figcaption>
 </figure>
 

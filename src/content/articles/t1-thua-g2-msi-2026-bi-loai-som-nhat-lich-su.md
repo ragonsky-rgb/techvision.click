@@ -73,7 +73,7 @@ Ván 2 chứng kiến G2 thể hiện phong độ áp đảo hoàn toàn, dẫn 
 Ván 4, cũng là ván đấu định đoạt toàn bộ loạt trận, kéo dài gần 51 phút với thế trận cân bằng và nhiều lần đảo chiều liên tục. Cuối cùng, G2 Esports là đội giữ được cái đầu lạnh hơn trong những phút cuối để khép lại chiến thắng, chính thức loại T1 khỏi giải đấu ngay trên đất nhà Hàn Quốc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/RxUT_z9X2zg/hqdefault.jpg" alt="Highlight ván 1 trận đấu giữa T1 và G2 Esports tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/RxUT_z9X2zg/hqdefault.jpg" alt="Highlight ván 1 trận đấu giữa T1 và G2 Esports tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ván 1 mở màn loạt trận với thế trận giằng co kéo dài hơn 40 phút. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Ván 4, cũng là ván đấu định đoạt toàn bộ loạt trận, kéo dà
 Bên cạnh đó, chiến thắng của G2 Esports còn phá vỡ một chuỗi thành tích kéo dài suốt nhiều năm. Đây là lần đầu tiên kể từ năm 2019 G2 Esports thắng được T1 trong một loạt trận đối đầu trực tiếp, chấm dứt giai đoạn dài đội tuyển châu Âu này luôn phải chịu lép vế mỗi khi chạm trán đại diện đến từ khu vực LCK.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/R1dn5EtXMhg/hqdefault.jpg" alt="Highlight ván 4 quyết định giữa T1 và G2 Esports" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/R1dn5EtXMhg/hqdefault.jpg" alt="Highlight ván 4 quyết định giữa T1 và G2 Esports" loading="lazy" width="1280" height="720">
   <figcaption>Ván 4 kéo dài gần 51 phút, quyết định số phận của cả hai đội tại MSI 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Dù thống trị đấu trường Chung kết thế giới suốt nhiều mùa 
 Một số nhà phân tích và cựu tuyển thủ trong nước từng đặt dấu hỏi về chiến thuật cấm chọn của T1 trong các trận đấu vòng bảng, cho rằng đội có phần thử nghiệm quá nhiều thay vì chơi an toàn với đội hình quen thuộc đã giúp họ thành công tại Chung kết thế giới. Thất bại trước G2 Esports một lần nữa làm dấy lên tranh luận về việc liệu T1 có cần điều chỉnh lại cách tiếp cận chiến thuật khi bước vào các giải đấu quốc tế có format và mật độ thi đấu khác biệt so với Chung kết thế giới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/PusV0BQhdvg/maxresdefault.jpg" alt="Highlights G2 vs T1 tại vòng phân nhánh MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PusV0BQhdvg/maxresdefault.jpg" alt="Highlights G2 vs T1 tại vòng phân nhánh MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Highlights loạt trận G2 vs T1 tại vòng phân nhánh MSI 2026 từ kênh LoL Esports VN. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Theo công bố, WAICO hướng tới mục tiêu bảo đảm trí tuệ nhân 
 Lễ ký thành lập WAICO diễn ra ngay trước thềm WAIC 2026, sự kiện AI lớn được tổ chức ở Thượng Hải từ ngày 17 tới 20/7. WAIC 2026 năm nay có quy mô kỷ lục, với hàng loạt màn ra mắt sản phẩm công nghệ. Từ các nền tảng hạ tầng tính toán như [siêu nút AI Atlas 950 của Huawei](/articles/huawei-atlas-950-superpod-sieu-nut-ai-manh-nhat-waic-2026.html), cho tới những ứng dụng thực tế như [cửa hàng robot tự động SenseMartGo của SenseTime](/articles/sensetime-sensemartgo-cua-hang-robot-tu-dong-waic-2026.html), sự kiện phản ánh bức tranh AI đa dạng và sôi động.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-92PrsqHP1Y/hqdefault.jpg" alt="WAIC 2026 tại Thượng Hải kết hợp hội nghị AI với cuộc họp cấp cao về quản trị AI toàn cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-92PrsqHP1Y/hqdefault.jpg" alt="WAIC 2026 tại Thượng Hải kết hợp hội nghị AI với cuộc họp cấp cao về quản trị AI toàn cầu" loading="lazy" width="1280" height="720">
   <figcaption>WAIC 2026 kết hợp hội nghị công nghệ với cuộc họp cấp cao về quản trị AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Một điểm khiến WAIC 2026 đặc biệt đáng chú ý là sự tham dự 
 ## Ý nghĩa với bức tranh quản trị AI
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZwzEtnLqZZ0/hqdefault.jpg" alt="WAICO được xem là nỗ lực định hình khuôn khổ hợp tác và quản trị AI cho các nước đang phát triển" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZwzEtnLqZZ0/hqdefault.jpg" alt="WAICO được xem là nỗ lực định hình khuôn khổ hợp tác và quản trị AI cho các nước đang phát triển" loading="lazy" width="1280" height="720">
   <figcaption>WAICO được giới quan sát xem là bước đi trong định hình quản trị AI toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 
 Việc thành lập một tổ chức liên chính phủ chuyên về AI là diễn biến đáng chú ý trong bối cảnh thế giới vẫn đang tìm kiếm các khuôn khổ chung để quản lý công nghệ này. Trí tuệ nhân tạo phát triển nhanh hơn nhiều so với tốc độ xây dựng luật lệ, nên các nỗ lực hợp tác quốc tế, dù dưới hình thức nào, đều phản ánh nhu cầu thực tế về việc cùng bàn thảo các quy tắc chung. Giới quan sát nhìn nhận WAICO là một tổ chức chú trọng tới các nước đang phát triển, mang tới một góc nhìn khác trong các cuộc thảo luận về quản trị AI vốn lâu nay thường do các nước phát triển dẫn dắt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tShyIer0y_o/hqdefault.jpg" alt="Bài phát biểu khai mạc WAIC 2026 nhấn mạnh hợp tác quốc tế trong phát triển AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tShyIer0y_o/hqdefault.jpg" alt="Bài phát biểu khai mạc WAIC 2026 nhấn mạnh hợp tác quốc tế trong phát triển AI" loading="lazy" width="1280" height="720">
   <figcaption>Thông điệp tại WAIC 2026 nhấn mạnh vai trò của hợp tác quốc tế trong AI. Nguồn: YouTube</figcaption>
 </figure>
 

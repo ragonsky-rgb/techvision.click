@@ -68,7 +68,7 @@ Nhu cầu chơi game PC mọi lúc mọi nơi tiếp tục thúc đẩy thị tr
 Ở phân khúc tầm trung, Lenovo Legion Go là lựa chọn nổi bật nhờ thiết kế tay cầm tháo rời linh hoạt tương tự Joy-Con trên Nintendo Switch, kết hợp màn hình lớn hơn Steam Deck cho trải nghiệm hình ảnh sống động hơn. Thiết kế tháo rời còn cho phép sử dụng tay cầm kèm chân đế riêng để chơi game trên màn hình lớn, mang lại sự linh hoạt cao hơn nhiều so với các dòng máy chơi game cầm tay có thiết kế cố định truyền thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/NJPg8anQl_8/hqdefault.jpg" alt="Lenovo Legion Go danh gia tay cam thao roi linh hoat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/NJPg8anQl_8/hqdefault.jpg" alt="Lenovo Legion Go danh gia tay cam thao roi linh hoat" loading="lazy" width="1280" height="480">
   <figcaption>Lenovo Legion Go với thiết kế tay cầm tháo rời linh hoạt là điểm nhấn khác biệt so với đối thủ cùng phân khúc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Nhu cầu chơi game PC mọi lúc mọi nơi tiếp tục thúc đẩy thị tr
 Với nhu cầu chơi mượt các tựa game AAA nặng, MSI Claw 8 AI+ là lựa chọn đáng đầu tư nhất, nhờ chip xử lý cao cấp đạt công suất TDP tối đa 80-90W, cho hiệu năng xử lý đồ họa mạnh mẽ hàng đầu trong phân khúc máy chơi game cầm tay hiện nay. Sản phẩm phù hợp game thủ ưu tiên hiệu năng cao nhất để chơi các tựa game mới ở độ phân giải và khung hình cao, dù phải đánh đổi thời lượng pin ngắn hơn khi chạy ở mức công suất tối đa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BnxZqCFcHkU/hqdefault.jpg" alt="MSI Claw 8 AI Plus danh gia hieu nang cao cap nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/BnxZqCFcHkU/hqdefault.jpg" alt="MSI Claw 8 AI Plus danh gia hieu nang cao cap nhat" loading="lazy" width="1280" height="480">
   <figcaption>MSI Claw 8 AI+ được đánh giá là một trong những máy chơi game cầm tay hiệu năng mạnh nhất hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Với nhu cầu chơi mượt các tựa game AAA nặng, MSI Claw 8 AI+ là l�
 Nhiều game thủ hiện đang xây dựng không gian chơi game hoàn chỉnh, kết hợp cả máy chơi game cầm tay tiện lợi khi di chuyển lẫn ghế gaming thoải mái khi chơi tại nhà trong thời gian dài. Người dùng có thể tham khảo thêm [ROG Xbox Ally X20, máy chơi game cầm tay màn hình OLED mới nhất](/articles/rog-xbox-ally-x20-may-choi-game-cam-tay-oled-tmr-2026.html) cùng [top ghế gaming đáng mua tháng 7/2026](/articles/top-ghe-gaming-dang-mua-thang-7-2026.html) để hoàn thiện thêm bộ thiết bị gaming cho trải nghiệm chơi game toàn diện nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/85bRdT0xqwQ/hqdefault.jpg" alt="Huong dan mua may choi game cam tay giua nam 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/85bRdT0xqwQ/hqdefault.jpg" alt="Huong dan mua may choi game cam tay giua nam 2026" loading="lazy" width="1280" height="480">
   <figcaption>Hướng dẫn tổng hợp giúp người dùng chọn mua máy chơi game cầm tay phù hợp giữa năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

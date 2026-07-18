@@ -76,7 +76,7 @@ Học từ vựng là nỗi vất vả của nhiều người, đặc biệt khi
 Một cách thú vị là nhờ AI tạo một đoạn hội thoại hoặc câu chuyện ngắn sử dụng các từ bạn cần học. Khi từ vựng xuất hiện trong ngữ cảnh có ý nghĩa, não bộ ghi nhớ tốt hơn nhờ liên kết. Bạn cũng có thể yêu cầu AI kiểm tra lại bằng cách đặt câu hỏi hoặc tạo bài tập điền từ. Việc học chủ động qua tương tác với AI hiệu quả hơn nhiều so với đọc thụ động, và bạn có thể điều chỉnh chủ đề từ vựng theo công việc, sở thích hay nhu cầu cụ thể của mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/fbhoif8nJA0/maxresdefault.jpg" alt="Luyện phản xạ giao tiếp tiếng Anh cùng AI miễn phí" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fbhoif8nJA0/maxresdefault.jpg" alt="Luyện phản xạ giao tiếp tiếng Anh cùng AI miễn phí" loading="lazy" width="1280" height="720">
   <figcaption>Học từ vựng theo ngữ cảnh giúp ghi nhớ lâu hơn học vẹt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ AI là công cụ tuyệt vời để cải thiện ngữ pháp và kỹ năng v
 Bạn cũng có thể nhờ AI viết lại một đoạn theo nhiều phong cách khác nhau, từ trang trọng tới thân mật, để học cách diễn đạt linh hoạt. Với người luyện viết email, bài luận hay nội dung công việc, AI giúp nâng cao chất lượng và sự tự tin. Để khai thác tốt, hãy yêu cầu cụ thể, ví dụ nhờ AI giải thích lỗi bằng tiếng Việt nếu bạn mới bắt đầu. Các trợ lý AI ngày càng mạnh về ngôn ngữ, như mô hình được giới thiệu trong bài [Google Gemini 3.5 Pro](/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html), giúp việc hỗ trợ học ngày càng chính xác.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KLPj3_u-NrI/maxresdefault.jpg" alt="Bí quyết dùng ChatGPT để học từ vựng tiếng Anh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KLPj3_u-NrI/maxresdefault.jpg" alt="Bí quyết dùng ChatGPT để học từ vựng tiếng Anh" loading="lazy" width="1280" height="720">
   <figcaption>AI chỉ ra lỗi ngữ pháp và giải thích giúp hiểu sâu hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Phát âm là khía cạnh nhiều người Việt gặp khó, và AI cũng có 
 Để luyện nghe, bạn có thể yêu cầu AI đọc các đoạn văn, tạo bài tập nghe hiểu, hoặc tóm tắt và đặt câu hỏi về nội dung. Kết hợp với việc nghe podcast, xem video tiếng Anh và dùng AI để giải thích những phần khó là cách học toàn diện. Một số ứng dụng còn dùng AI để nghe và nhận xét cách phát âm của bạn theo thời gian thực, tạo vòng phản hồi giúp tiến bộ nhanh hơn. Sự kết hợp giữa nghe, nói và phản hồi tức thì là điểm mạnh mà AI mang lại cho việc tự học.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/d0wvV6igF18/maxresdefault.jpg" alt="Tự luyện nói tiếng Anh tại nhà bằng ChatGPT trên điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/d0wvV6igF18/maxresdefault.jpg" alt="Tự luyện nói tiếng Anh tại nhà bằng ChatGPT trên điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>AI đọc mẫu và nhận xét giúp cải thiện phát âm và nghe. Nguồn: YouTube</figcaption>
 </figure>
 

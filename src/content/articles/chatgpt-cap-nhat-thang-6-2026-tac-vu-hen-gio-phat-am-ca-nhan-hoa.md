@@ -76,7 +76,7 @@ Một bổ sung hữu ích cho việc học là hướng dẫn phát âm. ChatGP
 Bên cạnh đó, ChatGPT bổ sung khả năng học tập tương tác, trình bày các mô-đun trực quan cho phép người dùng thử nghiệm với công thức và biến số theo thời gian thực. Tính năng này được triển khai cho hơn 70 chủ đề toán và khoa học, biến việc học từ đọc thụ động thành trải nghiệm thao tác trực tiếp. Đây là hướng đi cho thấy AI không chỉ trả lời mà còn có thể trở thành công cụ hỗ trợ học tập sinh động hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/HUV6xZ57Loo/maxresdefault.jpg" alt="Tự động hóa công việc với tác vụ hẹn giờ của ChatGPT" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/HUV6xZ57Loo/maxresdefault.jpg" alt="Tự động hóa công việc với tác vụ hẹn giờ của ChatGPT" loading="lazy" width="1280" height="720">
   <figcaption>Các tính năng mới giúp ChatGPT hỗ trợ học tập và công việc tốt hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một điểm đáng hoan nghênh là OpenAI chú trọng hơn tới minh bạch
 Đi cùng đó là kiểm soát quyền với ứng dụng kết nối. Người dùng có thể chọn khi nào ChatGPT hỏi trước khi sử dụng các ứng dụng được kết nối, gồm luôn hỏi, hỏi trước khi thực hiện thay đổi, hoặc chỉ hỏi trước các thay đổi quan trọng. Trong bối cảnh trợ lý AI ngày càng có nhiều quyền truy cập, các tùy chọn kiểm soát này giúp người dùng cân bằng giữa tiện lợi và an toàn dữ liệu, một yếu tố ngày càng quan trọng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FuWtMwg8XcY/maxresdefault.jpg" alt="Các thiết lập và tính năng mới của ChatGPT năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FuWtMwg8XcY/maxresdefault.jpg" alt="Các thiết lập và tính năng mới của ChatGPT năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>ChatGPT bổ sung tùy chọn minh bạch bộ nhớ và quyền ứng dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Nhìn tổng thể, loạt cập nhật này cho thấy ChatGPT đang chuyển t
 Tuy nhiên, trợ lý càng chủ động và càng nhiều quyền truy cập thì người dùng càng cần thận trọng. Việc trao cho AI quyền chạy tác vụ tự động hay truy cập ứng dụng đòi hỏi sự cân nhắc về bảo mật và quyền riêng tư. Các tùy chọn kiểm soát mà OpenAI bổ sung là bước đi đúng hướng, nhưng trách nhiệm cuối cùng vẫn nằm ở người dùng trong việc quyết định cấp quyền tới đâu. Để dùng các trợ lý này hiệu quả và an toàn, có thể tham khảo bài [cách viết prompt AI hiệu quả](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3QxiTfTSU8Q/maxresdefault.jpg" alt="Hướng dẫn đầy đủ các nâng cấp ChatGPT năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3QxiTfTSU8Q/maxresdefault.jpg" alt="Hướng dẫn đầy đủ các nâng cấp ChatGPT năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Trợ lý AI ngày càng chủ động, kéo theo yêu cầu cao về kiểm soát. Nguồn: YouTube</figcaption>
 </figure>
 

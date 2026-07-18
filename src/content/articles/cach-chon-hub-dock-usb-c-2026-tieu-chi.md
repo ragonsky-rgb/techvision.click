@@ -71,7 +71,7 @@ Ngoài số lượng, cũng cần chú ý loại cổng cụ thể trên hub, v�
 Công suất sạc pass-through là khả năng dock vừa truyền dữ liệu vừa sạc laptop cùng lúc qua một cổng USB-C duy nhất, giúp giảm đáng kể số lượng dây cắm cần thiết trên bàn làm việc hằng ngày. Công suất phổ biến hiện nay dao động 60-100W, người dùng cần kiểm tra kỹ công suất sạc yêu cầu của laptop đang sử dụng, đặc biệt với các dòng laptop gaming hiệu năng cao thường cần công suất sạc lớn hơn đáng kể so với laptop văn phòng thông thường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/COqJu6uFUtc/hqdefault.jpg" alt="Top 5 dock USB-C tot nhat khong nen bo qua" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/COqJu6uFUtc/hqdefault.jpg" alt="Top 5 dock USB-C tot nhat khong nen bo qua" loading="lazy" width="1280" height="480">
   <figcaption>So sánh chi tiết các mẫu dock USB-C hàng đầu, bao gồm khả năng sạc pass-through công suất cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Với người dùng đang cân nhắc thêm màn hình ngoài cho không gian l
 Tốc độ truyền dữ liệu của cổng USB và khe thẻ nhớ trên dock ảnh hưởng trực tiếp tới thời gian sao chép file, đặc biệt quan trọng với người thường xuyên làm việc với file dung lượng lớn như video độ phân giải cao. Chuẩn USB-C thông thường đạt tốc độ khoảng 10Gbps, trong khi chuẩn Thunderbolt có thể đạt tới 40Gbps, nhanh hơn đáng kể nhưng đi kèm mức giá cao hơn tương ứng. Người dùng có nhu cầu lưu trữ dữ liệu di động tốc độ cao có thể tham khảo thêm [cách chọn ổ cứng SSD di động theo 5 tiêu chí quan trọng](/articles/cach-chon-o-cung-di-dong-ssd-2026.html) để kết hợp cùng dock USB-C cho một hệ thống làm việc di động hoàn chỉnh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Wdfd3oa9k-4/hqdefault.jpg" alt="Dock USB-C tot nhat cho MacBook Pro" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Wdfd3oa9k-4/hqdefault.jpg" alt="Dock USB-C tot nhat cho MacBook Pro" loading="lazy" width="1280" height="480">
   <figcaption>So sánh các mẫu dock USB-C tốt nhất dành riêng cho MacBook Pro với tốc độ truyền dữ liệu cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Tốc độ truyền dữ liệu của cổng USB và khe thẻ nhớ trên dock
 Độ ổn định kết nối là yếu tố dễ bị bỏ qua nhưng ảnh hưởng lớn tới trải nghiệm sử dụng lâu dài. Các dòng dock giá rẻ không rõ nguồn gốc thường gặp tình trạng rớt tín hiệu màn hình hoặc mất kết nối USB đột ngột sau một thời gian sử dụng, đặc biệt khi dock phải xử lý nhiều thiết bị cùng lúc và tỏa nhiệt trong quá trình vận hành liên tục nhiều giờ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/f2L3Q4bDyDA/hqdefault.jpg" alt="Dock Thunderbolt 5 cho MacBook Pro da man hinh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/f2L3Q4bDyDA/hqdefault.jpg" alt="Dock Thunderbolt 5 cho MacBook Pro da man hinh" loading="lazy" width="1280" height="480">
   <figcaption>Dock Thunderbolt 5 cao cấp hỗ trợ xuất hình đa màn hình ổn định cho MacBook Pro. Nguồn: YouTube</figcaption>
 </figure>
 

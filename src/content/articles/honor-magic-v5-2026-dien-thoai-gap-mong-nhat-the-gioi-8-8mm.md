@@ -76,7 +76,7 @@ Một thành tựu kỹ thuật đáng chú ý là việc Honor Magic V5 vừa m
 Honor được cho là dùng pin với tỷ lệ silicon-carbon cao, một trong những lý do chính giúp máy đạt được sự cân bằng hiếm có giữa độ mỏng và thời lượng pin. Công nghệ pin tiên tiến này đang trở thành xu hướng trên các flagship, đặc biệt là điện thoại gập và máy mỏng. Pin dung lượng lớn rất quan trọng với điện thoại gập, vì màn hình lớn tiêu tốn nhiều năng lượng hơn. Đây là yếu tố giúp Magic V5 trở thành thiết bị thực dụng cho cả ngày dùng, không chỉ đẹp về thiết kế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tIzWPZsGabs/maxresdefault.jpg" alt="Honor Magic V5 pin silicon carbon dung lượng lớn trong thân mỏng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tIzWPZsGabs/maxresdefault.jpg" alt="Honor Magic V5 pin silicon carbon dung lượng lớn trong thân mỏng" loading="lazy" width="1280" height="720">
   <figcaption>Pin silicon-carbon giúp Magic V5 vừa mỏng vừa pin lớn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về hiệu năng, Honor Magic V5 dùng chip Snapdragon 8 Elite đầu bảng, 1
 Độ bền cũng là điểm mạnh của Magic V5. Honor trang bị bản lề thép cấp khiên chịu được 500.000 lần gập, cùng chuẩn kháng nước bụi IP58 và IP59. Đây là các thông số ấn tượng cho điện thoại gập, vốn thường bị lo ngại về độ bền bản lề và khả năng chống nước. Bản lề chắc chắn và khả năng kháng nước bụi giúp người dùng yên tâm hơn khi sử dụng hằng ngày. Cuộc cạnh tranh điện thoại gập đang đẩy các hãng cải thiện cả thiết kế lẫn độ bền, mang lại lợi ích cho người dùng, với nhiều mẫu mới sắp ra mắt như trong bài [Samsung Galaxy Unpacked 22/7](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/f3fSF60eRe4/maxresdefault.jpg" alt="Honor Magic V5 chip Snapdragon 8 Elite và bản lề bền 500000 lần gập" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/f3fSF60eRe4/maxresdefault.jpg" alt="Honor Magic V5 chip Snapdragon 8 Elite và bản lề bền 500000 lần gập" loading="lazy" width="1280" height="720">
   <figcaption>Magic V5 mạnh mẽ với bản lề bền và kháng nước bụi cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Honor Magic V5 cho thấy điện thoại gập đang bước vào giai đoạn 
 Điện thoại gập từng bị xem là sản phẩm thử nghiệm đắt đỏ, nhưng giờ đây đang trở thành lựa chọn thực sự cho người dùng cao cấp muốn màn hình lớn trong thân máy gọn. Honor Magic V5 cùng các đối thủ từ Samsung, cũng như các flagship truyền thống mạnh mẽ như trong bài [Oppo Find X10 Pro](/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html), tạo nên thị trường smartphone cao cấp đa dạng. Người dùng có nhiều lựa chọn hơn bao giờ hết, từ điện thoại gập tới flagship dạng thanh truyền thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/8vr8sxRHIpE/maxresdefault.jpg" alt="Honor Magic V5 trong cuộc đua điện thoại gập cao cấp 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/8vr8sxRHIpE/maxresdefault.jpg" alt="Honor Magic V5 trong cuộc đua điện thoại gập cao cấp 2026" loading="lazy" width="1280" height="720">
   <figcaption>Magic V5 khẳng định vị thế trong phân khúc điện thoại gập cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 

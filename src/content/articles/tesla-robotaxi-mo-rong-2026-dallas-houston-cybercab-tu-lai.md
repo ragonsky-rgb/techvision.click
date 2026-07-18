@@ -76,7 +76,7 @@ Tesla đặt mục tiêu mở rộng Robotaxi tới nhiều thành phố Mỹ tr
 Tham vọng này gắn liền với kỳ vọng lớn từ giới đầu tư, vốn xem robotaxi là động lực tăng trưởng quan trọng cho Tesla. Nếu thành công, dịch vụ xe tự lái có thể tạo ra nguồn doanh thu định kỳ khổng lồ, khác với mô hình bán xe truyền thống. Tuy nhiên, việc mở rộng đòi hỏi vượt qua nhiều rào cản kỹ thuật và pháp lý ở từng địa phương. Công nghệ tự lái và robot là những lĩnh vực Tesla đầu tư mạnh, song hành với dự án robot hình người được nêu trong bài [Tesla Optimus Gen 3](/articles/tesla-optimus-gen-3-robot-hinh-nguoi-2026-san-xuat-gia-duoi-20000-usd.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/H_f9zHzyBlQ/maxresdefault.jpg" alt="Tesla tham vọng mở rộng Robotaxi và sản xuất Cybercab" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/H_f9zHzyBlQ/maxresdefault.jpg" alt="Tesla tham vọng mở rộng Robotaxi và sản xuất Cybercab" loading="lazy" width="1280" height="720">
   <figcaption>Tesla đặt tham vọng phủ Robotaxi tới nhiều thành phố. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một phần quan trọng trong chiến lược của Tesla là Cybercab, mẫu 
 Nền tảng của tất cả là công nghệ Full Self Driving của Tesla, vốn liên tục được cải tiến. Tesla cũng đạt thêm các phê duyệt cho phần mềm tự lái có giám sát tại một số nước châu Âu, mở rộng phạm vi áp dụng. Việc phát triển phần mềm tự lái an toàn và đáng tin cậy là yếu tố quyết định thành công của robotaxi. Đây là lĩnh vực công nghệ cao tương tự robot hình người, nơi AI và cảm biến đóng vai trò then chốt, như đề cập trong bài [Boston Dynamics Atlas và Gemini Robotics](/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/thk3Tx2qcmw/maxresdefault.jpg" alt="Tesla Cybercab xe tự lái chuyên dụng và công nghệ FSD" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/thk3Tx2qcmw/maxresdefault.jpg" alt="Tesla Cybercab xe tự lái chuyên dụng và công nghệ FSD" loading="lazy" width="1280" height="720">
   <figcaption>Cybercab là xe tự lái chuyên dụng cho dịch vụ robotaxi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Dù tham vọng lớn, Tesla đối mặt với thực tế là lịch mở rộ
 Xe tự lái không người giám sát đòi hỏi độ an toàn rất cao, kiểm định nghiêm ngặt và phê duyệt pháp lý ở từng địa phương. Mỗi thành phố có điều kiện giao thông, luật lệ và yêu cầu riêng, khiến việc mở rộng không thể vội vàng. Cách tiếp cận thận trọng là cần thiết để đảm bảo an toàn và xây dựng niềm tin của công chúng. Việc cân bằng giữa tham vọng tăng trưởng và an toàn vận hành là bài toán mà Tesla cùng mọi hãng phát triển xe tự lái đều phải giải.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Rw0_kj_Cl0g/hqdefault.jpg" alt="Tesla mở rộng Robotaxi từ Austin ra các thành phố Texas" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Rw0_kj_Cl0g/hqdefault.jpg" alt="Tesla mở rộng Robotaxi từ Austin ra các thành phố Texas" loading="lazy" width="1280" height="720">
   <figcaption>Mở rộng xe tự lái đòi hỏi kiểm định an toàn và pháp lý chặt chẽ. Nguồn: YouTube</figcaption>
 </figure>
 

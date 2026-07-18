@@ -73,7 +73,7 @@ Chính vì vậy, việc LYON quét sạch G2 với tỉ số 3-0 tuyệt đối
 Nổi bật nhất trong màn trình diễn của LYON là tuyển thủ đường rừng người Ba Lan Kacper "Inspired" Słoma, người được xem là nhân tố gây rối và hiệu quả nhất xuyên suốt cả loạt trận. Với kinh nghiệm thi đấu quốc tế dày dạn, Inspired liên tục tạo áp lực lên các tuyến đường của G2, mở ra không gian cho đồng đội phát triển lợi thế mà không cho đối thủ cơ hội phản công có tổ chức.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/86Vv7K_LMfg/hqdefault.jpg" alt="G2 Esports đối đầu LYON tại ván 1 vòng nhánh thua MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/86Vv7K_LMfg/hqdefault.jpg" alt="G2 Esports đối đầu LYON tại ván 1 vòng nhánh thua MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>G2 tỏ ra bối rối trước lối chơi kiểm soát vĩ mô sắc bén của LYON ngay từ ván đấu đầu tiên. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Thành tích này càng trở nên ấn tượng hơn khi đặt trong bối c�
 Với chiến thắng này, LYON sẽ bước vào trận chung kết nhánh thua đầy cam go trước HLE, đội tuyển hạt giống số một khu vực LCK từng để thua BLG với tỉ số 1-3 ở chung kết nhánh thắng trước đó. Trận đấu giữa LYON và HLE dự kiến diễn ra vào ngày 11/7, và đội chiến thắng sẽ giành tấm vé cuối cùng vào chung kết tổng MSI 2026, nơi họ sẽ phải đối đầu [BLG, đội tuyển vừa xuất sắc hạ gục HLE để giành vé chung kết tổng đầu tiên](/articles/blg-thang-hle-3-1-msi-2026-vao-chung-ket-tong.html), vào ngày 12/7.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/MU2FZBb8gig/hqdefault.jpg" alt="Phân tích chiến thắng của LYON trước G2 tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/MU2FZBb8gig/hqdefault.jpg" alt="Phân tích chiến thắng của LYON trước G2 tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Giới phân tích dành nhiều lời khen cho lối chơi kỷ luật và có tổ chức của LYON xuyên suốt giải đấu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Trận đấu này cũng gợi nhắc lại hành trình đầy biến động c
 Nếu LYON tiếp tục chiến thắng, đây sẽ là một trong những câu chuyện cổ tích đáng nhớ nhất lịch sử MSI, khi một đội tuyển không được đánh giá cao trước giải đấu liên tục quật ngã hàng loạt đối thủ sừng sỏ để tiến thẳng vào trận chung kết tổng. Ngược lại, nếu HLE giành chiến thắng, đội sẽ có cơ hội phục thù ngay lập tức trước BLG, đội tuyển vừa đánh bại chính họ chỉ vài ngày trước đó, tạo nên một kịch bản chung kết đầy cảm xúc cho người hâm mộ theo dõi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/qhQiej8R2sE/hqdefault.jpg" alt="LYON tự tin bước vào trận chung kết nhánh thua trước HLE" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qhQiej8R2sE/hqdefault.jpg" alt="LYON tự tin bước vào trận chung kết nhánh thua trước HLE" loading="lazy" width="1280" height="720">
   <figcaption>LYON bước vào trận đấu với HLE trong tâm thế tự tin sau chuỗi trận thắng ấn tượng. Nguồn: YouTube</figcaption>
 </figure>
 

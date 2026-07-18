@@ -64,7 +64,7 @@ Siri AI là bản làm lại toàn diện của trợ lý ảo Apple, xây dựn
 Đây là nâng cấp lớn nhất của Siri trong nhiều năm. Toàn bộ những gì Apple công bố được tổng hợp đầy đủ trong [WWDC 2026 recap: tất cả công bố Siri AI, iOS 27, macOS Golden Gate](/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/V2_Wr47gVQ8/maxresdefault.jpg" alt="Tổng hợp tính năng Apple Intelligence và Siri AI mới trên iOS 27" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/V2_Wr47gVQ8/maxresdefault.jpg" alt="Tổng hợp tính năng Apple Intelligence và Siri AI mới trên iOS 27" loading="lazy" width="1280" height="720">
   <figcaption>Siri AI mang hàng loạt tính năng mới nhưng cần thời gian hoàn thiện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Cần lưu ý rằng Apple thường triển khai các tính năng AI theo từn
 Điểm cần phân biệt rõ: iPhone đời cũ hơn như iPhone 14, 13 hay 11 vẫn có thể cập nhật lên iOS 27 và dùng các tính năng giao diện, bảo mật thông thường, nhưng sẽ không có Siri AI do giới hạn chip xử lý AI. Vì vậy, nếu mục tiêu chính là dùng Siri AI tiếng Việt, máy tối thiểu cần có là iPhone 15 Pro.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/il15TWJrfGQ/maxresdefault.jpg" alt="Kiểm chứng Siri AI thao tác liên ứng dụng trên iOS 27 bản beta" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/il15TWJrfGQ/maxresdefault.jpg" alt="Kiểm chứng Siri AI thao tác liên ứng dụng trên iOS 27 bản beta" loading="lazy" width="1280" height="720">
   <figcaption>Siri AI thao tác liên ứng dụng khá tốt trên bản beta, dù còn vài vấn đề. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Nếu chưa muốn chờ tới mùa thu hoặc máy chưa đủ điều kiện c
 Thú vị là chính Apple cũng tích hợp Google Gemini vào Siri AI trên iOS 27 cho một số tác vụ phức tạp, chi tiết trong bài [Siri AI kết hợp Google Gemini trên iOS 27](/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html). Điều này có nghĩa trải nghiệm của hai bên sẽ ngày càng gần nhau, và việc làm quen với một trợ lý AI hội thoại từ bây giờ là bước chuẩn bị tốt cho khi Siri AI chính thức lên kệ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/nTciOowmIE0/maxresdefault.jpg" alt="Test thực tế Siri AI tiếng Việt trên iOS 27" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nTciOowmIE0/maxresdefault.jpg" alt="Test thực tế Siri AI tiếng Việt trên iOS 27" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế Siri AI trên iOS 27, chờ bản chính thức để đánh giá đầy đủ. Nguồn: YouTube</figcaption>
 </figure>
 

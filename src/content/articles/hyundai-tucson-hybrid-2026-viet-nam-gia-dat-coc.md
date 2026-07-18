@@ -74,7 +74,7 @@ Về thiết kế và không gian, Tucson Hybrid được cho là dùng chung n�
 Theo thông tin từ các đại lý, Tucson Hybrid có giá bán lẻ dự đoán hơn 1 tỷ đồng. Đây là mức giá phản ánh đúng vị trí của một bản hybrid trong phân khúc SUV cỡ C, cao hơn các bản thuần xăng nhưng đổi lại là công nghệ điện hóa và chi phí vận hành thấp hơn về lâu dài. Với nhóm khách hàng tính toán kỹ chi phí sử dụng, khoản chênh ban đầu có thể được bù đắp dần qua tiền xăng tiết kiệm được.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ajtAbG8lNBk/hqdefault.jpg" alt="Ngoại thất Hyundai Tucson 2026 thế hệ mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ajtAbG8lNBk/hqdefault.jpg" alt="Ngoại thất Hyundai Tucson 2026 thế hệ mới" loading="lazy" width="1280" height="720">
   <figcaption>Tucson 2026 gây ấn tượng với thiết kế hiện đại, nền tảng cho bản hybrid sắp ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Theo thông tin từ các đại lý, Tucson Hybrid có giá bán lẻ dự đo�
 Sự xuất hiện của Tucson Hybrid nằm trong bức tranh lớn hơn của thị trường ô tô Việt Nam, nơi các mẫu xe điện và hybrid ngày càng chiếm sóng. Từ xe điện mini giá rẻ tới SUV và bán tải, làn sóng điện hóa đang lan tới mọi phân khúc, buộc các hãng phải bổ sung lựa chọn xanh để giữ sức cạnh tranh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/IVx4uo9eXN8/hqdefault.jpg" alt="Nội thất và trang bị Hyundai Tucson 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IVx4uo9eXN8/hqdefault.jpg" alt="Nội thất và trang bị Hyundai Tucson 2026" loading="lazy" width="1280" height="720">
   <figcaption>Khoang cabin Tucson 2026 rộng rãi và nhiều tiện nghi, yếu tố được giữ lại trên bản hybrid. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Có thể thấy rõ xu hướng này qua loạt sản phẩm mới liên tục 
 ## Có nên đặt cọc ngay
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-vcMtLfa6-c/hqdefault.jpg" alt="Hyundai Tucson 2026 vận hành trên đường" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-vcMtLfa6-c/hqdefault.jpg" alt="Hyundai Tucson 2026 vận hành trên đường" loading="lazy" width="1280" height="720">
   <figcaption>Tucson Hybrid hướng tới nhóm khách hàng ưu tiên tiết kiệm nhiên liệu và vận hành êm. Nguồn: YouTube</figcaption>
 </figure>
 

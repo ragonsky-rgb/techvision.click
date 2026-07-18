@@ -71,14 +71,14 @@ Bên trong thân máy nhỏ bé là động cơ DC không chổi than có thể 
 Một điểm cộng lớn khác của HushJet Mini Cool là khả năng sử dụng linh hoạt theo ba cách khác nhau nhờ vòi phun có thể xoay 360 độ. Người dùng có thể cầm trực tiếp trên tay khi cần làm mát nhanh, đặt đứng trên bàn làm việc như một chiếc quạt để bàn thu nhỏ, hoặc đeo trên người, ví dụ gắn vào dây đeo túi hoặc để trong túi áo với phần vòi phun hướng lên, biến chiếc quạt nhỏ này thành một thiết bị làm mát cá nhân đa dụng phù hợp nhiều hoàn cảnh sử dụng khác nhau trong ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KVe4C2F3zSA/hq720.jpg" alt="Dyson HushJet Mini Cool 3 trong 1 cam tay de ban deo nguoi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/KVe4C2F3zSA/hq720.jpg" alt="Dyson HushJet Mini Cool 3 trong 1 cam tay de ban deo nguoi 2026" loading="lazy" width="1280" height="480">
   <figcaption>Thiết kế 3 trong 1 giúp HushJet Mini Cool linh hoạt trong nhiều tình huống sử dụng khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
 Về thời lượng pin, máy tích hợp viên pin 5.000mAh, một dung lượng khá lớn so với kích thước tổng thể của thiết bị, cho thời gian sử dụng tối đa khoảng 6 giờ tùy theo mức tốc độ gió được chọn. Khi cần sạc lại, người dùng chỉ mất khoảng 3 giờ để sạc đầy qua cổng USB-C tiêu chuẩn, tương thích với hầu hết củ sạc và cáp sạc điện thoại thông thường đang có sẵn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/g-qkqNctgHM/hqdefault.jpg" alt="Dyson HushJet Mini Cool pin 6 gio danh gia uu nhuoc diem 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/g-qkqNctgHM/hqdefault.jpg" alt="Dyson HushJet Mini Cool pin 6 gio danh gia uu nhuoc diem 2026" loading="lazy" width="1280" height="480">
   <figcaption>Pin 5.000mAh cho thời gian sử dụng lên tới 6 giờ, phù hợp mang theo cả ngày dài. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về thời lượng pin, máy tích hợp viên pin 5.000mAh, một dung lượ
 Với giá bán khởi điểm chỉ 99 USD, HushJet Mini Cool được xem là một trong những sản phẩm có mức giá dễ tiếp cận nhất từng được Dyson giới thiệu, đặc biệt khi so sánh với hình ảnh thương hiệu cao cấp, đắt đỏ mà hãng đã xây dựng qua nhiều năm với các dòng máy hút bụi, máy sấy tóc và quạt lớn. Sản phẩm được mở bán theo từng đợt màu sắc khác nhau, bắt đầu với phối màu Stone/Blush từ tháng 4/2026, tiếp theo là Carnelian/Sky vào tháng 5 và Ink/Cobalt vào tháng 6/2026, cho thấy chiến lược ra mắt theo từng giai đoạn thay vì tung toàn bộ sản phẩm cùng lúc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6_zK_soP6HQ/hqdefault.jpg" alt="Dyson HushJet Mini Cool gia 99 USD co dang mua 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/6_zK_soP6HQ/hqdefault.jpg" alt="Dyson HushJet Mini Cool gia 99 USD co dang mua 2026" loading="lazy" width="1280" height="480">
   <figcaption>Mức giá 99 USD giúp HushJet Mini Cool dễ tiếp cận hơn nhiều so với các dòng quạt Dyson trước đây. Nguồn: YouTube</figcaption>
 </figure>
 

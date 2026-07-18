@@ -58,7 +58,7 @@ ASUS vừa chính thức ra mắt thế hệ mới của ROG Strix G16 và G18, 
 Điểm nhấn kỹ thuật lớn nhất của thế hệ 2026 là việc ASUS lần đầu đưa công nghệ màn hình Mini LED Nebula HDR xuống dòng Strix, vốn trước đây chỉ dùng tấm nền LCD thông thường. G16 sử dụng tấm nền độ phân giải 2,5K, tần số quét 300Hz, với hơn 2.000 vùng làm mờ độc lập giúp kiểm soát độ tương phản chi tiết hơn nhiều so với màn hình LCD thông thường, đạt độ sáng đỉnh 1.200 nit. G18 với kích thước lớn hơn còn đạt độ sáng cao hơn, lên tới 1.600 nit, mang lại trải nghiệm hình ảnh HDR ấn tượng khi xem nội dung độ tương phản cao hoặc chơi game hỗ trợ HDR.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LhyXronSApc/hqdefault.jpg" alt="ROG CES 2026 dan laptop gaming moi ra mat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/LhyXronSApc/hqdefault.jpg" alt="ROG CES 2026 dan laptop gaming moi ra mat" loading="lazy" width="1280" height="480">
   <figcaption>ASUS trình làng dàn laptop gaming ROG mới, bao gồm Strix G16/G18 với màn hình Mini LED, tại sự kiện CES 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Công nghệ Mini LED với nhiều vùng làm mờ độc lập giúp khắc ph
 Cả G16 và G18 đều sử dụng chip Intel Core Ultra 9 290HX Plus, kết hợp GPU đồ họa tối đa RTX 5080 Laptop GPU, cho hiệu năng xử lý mạnh mẽ phù hợp chơi game AAA ở độ phân giải cao và cả các tác vụ sáng tạo nội dung chuyên nghiệp như dựng phim hay chỉnh sửa ảnh RAW. Cấu hình này đặt Strix G16/G18 vào phân khúc laptop gaming hiệu năng cao, cạnh tranh trực tiếp với các dòng sản phẩm cao cấp hơn của chính ASUS như Scar hay Zephyrus, dù mức giá vẫn dễ tiếp cận hơn đáng kể. Hệ thống tản nhiệt cũng được cải tiến với nhiều quạt và ống đồng dẫn nhiệt hơn, giúp duy trì xung nhịp ổn định của cả CPU và GPU trong các phiên chơi game kéo dài mà không bị giảm hiệu năng đáng kể do quá nhiệt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sP84ECWf1y4/hqdefault.jpg" alt="ASUS ROG Strix G16 2026 danh gia trung thuc hieu nang" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/sP84ECWf1y4/hqdefault.jpg" alt="ASUS ROG Strix G16 2026 danh gia trung thuc hieu nang" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá trung thực về hiệu năng và trải nghiệm sử dụng thực tế của ASUS ROG Strix G16 thế hệ 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Cả G16 và G18 đều sử dụng chip Intel Core Ultra 9 290HX Plus, kết h�
 Bên cạnh màn hình và cấu hình, ASUS còn thiết kế lại thân máy Strix G16/G18 để dễ nâng cấp và bảo trì hơn đáng kể. Nắp đáy máy giờ đây có thể mở bằng cần gạt đơn giản thay vì phải tháo nhiều ốc vít như trước, cùng khay gắn SSD sử dụng cơ chế Q-Latch không cần dụng cụ, giúp người dùng tự nâng cấp RAM hoặc bổ sung ổ cứng SSD dễ dàng hơn nhiều mà không cần mang tới trung tâm bảo hành. Đây là cải tiến được nhiều người dùng am hiểu kỹ thuật đánh giá cao, đặc biệt trong bối cảnh giá RAM và SSD biến động liên tục, tương tự tình trạng đã ghi nhận ở [đợt tăng giá RTX 5090 do khủng hoảng DRAM](/articles/rtx-5090-gia-tang-vot-khung-hoang-dram-2026.html) gần đây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Icvi5oYJPCo/hqdefault.jpg" alt="Unbox chinh thuc ASUS ROG Strix G16 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Icvi5oYJPCo/hqdefault.jpg" alt="Unbox chinh thuc ASUS ROG Strix G16 2026" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm mở hộp chính thức ASUS ROG Strix G16 2026 với thiết kế thân máy dễ nâng cấp hơn. Nguồn: YouTube</figcaption>
 </figure>
 

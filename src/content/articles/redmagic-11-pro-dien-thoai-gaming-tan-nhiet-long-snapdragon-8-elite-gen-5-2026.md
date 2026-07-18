@@ -66,7 +66,7 @@ Trái tim của RedMagic 11 Pro là hệ thống làm mát mang tên AquaCore. L
 Ý nghĩa thực tế của hệ thống này nằm ở khả năng duy trì hiệu năng. Với các máy thường, chip mạnh sẽ bị giảm xung khi nóng lên để tránh hư hại, khiến khung hình game tụt sau thời gian dài. RedMagic 11 Pro giải quyết đúng điểm yếu đó, giúp con chip Snapdragon 8 Elite Gen 5 chạy ổn định ở mức cao. Muốn hiểu vì sao con chip này lại đòi hỏi giải pháp làm mát mạnh đến vậy, bạn có thể đọc thêm [bài phân tích về Snapdragon 8 Elite Gen 5, con chip Android mạnh nhất hiện nay](/articles/snapdragon-8-elite-gen-5-la-gi-chip-android-manh-nhat-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/StYwzXPQVNo/hqdefault.jpg" alt="Hệ thống tản nhiệt lỏng và quạt turbo bên trong RedMagic 11 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/StYwzXPQVNo/hqdefault.jpg" alt="Hệ thống tản nhiệt lỏng và quạt turbo bên trong RedMagic 11 Pro" loading="lazy" width="1280" height="720">
   <figcaption>Mặt lưng trong suốt cho thấy dòng chất lỏng làm mát và buồng hơi cỡ lớn bên trong máy. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Về sức mạnh thô, RedMagic 11 Pro nằm trong nhóm điện thoại Androi
 Điểm khiến máy trở thành công cụ chơi game đúng nghĩa là bộ phím cò vai cảm ứng với tần số lấy mẫu 520Hz, mang lại trải nghiệm bấm gần như tay cầm chơi game chuyên dụng. Máy còn có loa kép chất lượng cao, phản hồi rung 4D, jack tai nghe 3,5mm quen thuộc với game thủ và chuẩn kháng nước IPX8. Toàn bộ được điều khiển qua nền tảng RedMagic OS 11 với chế độ Game Space tối ưu riêng cho từng tựa game.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/TRkyKno__7Y/hqdefault.jpg" alt="RedMagic 11 Pro chơi game với phím cò vai 520Hz và màn hình 144Hz" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TRkyKno__7Y/hqdefault.jpg" alt="RedMagic 11 Pro chơi game với phím cò vai 520Hz và màn hình 144Hz" loading="lazy" width="1280" height="720">
   <figcaption>Phím cò vai 520Hz cùng màn 144Hz mang lại trải nghiệm gần với tay cầm chơi game chuyên dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Viên pin 7.500mAh thuộc nhóm lớn nhất trên smartphone hiện nay, hỗ 
 RedMagic 11 Pro có giá khởi điểm 699 USD cho bản 12GB RAM và 256GB bộ nhớ, 799 USD cho bản 16GB/512GB và 999 USD cho bản cao nhất 24GB/1TB. So với các flagship truyền thống cùng chip, đây là mức giá cạnh tranh, đặc biệt khi tính tới cấu hình bộ nhớ lớn và hệ thống tản nhiệt độc quyền. Tuy nhiên, hãng chưa phân phối chính hãng tại Việt Nam, nên máy chủ yếu về nước qua kênh xách tay, kéo theo lưu ý về bảo hành, cập nhật phần mềm và tính tương thích mạng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Na_atxb_X4w/hqdefault.jpg" alt="RedMagic 11 Pro màn hình 144Hz không khuyết điểm khi chơi game toàn màn hình" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Na_atxb_X4w/hqdefault.jpg" alt="RedMagic 11 Pro màn hình 144Hz không khuyết điểm khi chơi game toàn màn hình" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình liền mạch không nốt ruồi camera giúp trải nghiệm chơi game toàn màn hình trọn vẹn hơn. Nguồn: YouTube</figcaption>
 </figure>
 

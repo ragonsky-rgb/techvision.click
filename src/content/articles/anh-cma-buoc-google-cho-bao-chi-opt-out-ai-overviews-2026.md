@@ -64,7 +64,7 @@ Theo quy định, Google phải trao cho các nhà xuất bản quyền kiểm s
 Ngoài quyền từ chối, Google còn phải dẫn nguồn nội dung của tòa soạn bằng các liên kết rõ ràng trong kết quả AI, và cho phép họ rút nội dung khỏi quá trình tinh chỉnh model. Google có khoảng chín tháng để triển khai, với Anh là nơi áp dụng đầu tiên trước khi mở rộng ra toàn cầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/f7WjqI90zzM/maxresdefault.jpg" alt="AI Overviews trả lời ngay trên trang kết quả tìm kiếm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/f7WjqI90zzM/maxresdefault.jpg" alt="AI Overviews trả lời ngay trên trang kết quả tìm kiếm" loading="lazy" width="1280" height="720">
   <figcaption>AI Overviews khiến người dùng ít bấm vào trang nguồn hơn hẳn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tác động lên doanh thu và lưu lượng đã hiện rõ trước cả khi 
 Đáng chú ý, trong số ít những nguồn được AI Overviews dẫn link, YouTube, Wikipedia và Reddit chiếm phần lớn. Điều này khiến nhiều tòa soạn buộc phải dồn công sức sang các nền tảng như YouTube, thay vì trông chờ vào tìm kiếm truyền thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bhTo8fDmr5I/maxresdefault.jpg" alt="Các tòa soạn tìm cách thích nghi với AI search" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bhTo8fDmr5I/maxresdefault.jpg" alt="Các tòa soạn tìm cách thích nghi với AI search" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều tòa soạn chuyển hướng đầu tư sang YouTube và kênh riêng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Việc Anh đi trước tạo ra một khuôn mẫu mà các cơ quan quản lý
 Với người làm nội dung tại Việt Nam, đây là tín hiệu đáng theo dõi. Các nền tảng AI tìm kiếm cũng đang định hình lại cách người đọc tiếp cận thông tin trong nước. Bức tranh chiến lược AI của Google được nói thêm trong bài [Google I/O 2026: Gemini Omni, Android XR và toàn bộ công bố](/articles/google-io-2026-recap-gemini-omni-android-xr.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kOnsqqVbIeY/maxresdefault.jpg" alt="Google trình bày hướng đi AI Mode và AI Overviews trong tìm kiếm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/kOnsqqVbIeY/maxresdefault.jpg" alt="Google trình bày hướng đi AI Mode và AI Overviews trong tìm kiếm" loading="lazy" width="1280" height="720">
   <figcaption>Google đang dồn trọng tâm tìm kiếm vào AI Mode và AI Overviews. Nguồn: YouTube</figcaption>
 </figure>
 

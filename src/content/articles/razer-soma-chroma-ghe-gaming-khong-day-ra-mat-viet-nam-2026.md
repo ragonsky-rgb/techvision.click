@@ -75,7 +75,7 @@ Theo công bố từ nhà sản xuất, hệ thống hiện đã tương thích 
 Khi không ở trong trận đấu, người dùng hoàn toàn có thể tùy chỉnh trải nghiệm ánh sáng theo sở thích cá nhân. Soma Chroma hỗ trợ tới 16,8 triệu màu sắc cùng 10 thiết lập ánh sáng dựng sẵn, tất cả đều có thể điều chỉnh thông qua phần mềm quen thuộc Razer Synapse. Đáng chú ý, ánh sáng trên ghế có thể được đồng bộ hoá với các thiết bị Chroma RGB khác trong cùng góc chơi game, từ bàn phím, chuột cho tới đèn nền màn hình, tạo ra một hệ sinh thái ánh sáng thống nhất thay vì các thiết bị hoạt động rời rạc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1t5WfvfmkJM/hqdefault.jpg" alt="Câu chuyện thiết kế đằng sau ghế gaming Razer Soma Chroma" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1t5WfvfmkJM/hqdefault.jpg" alt="Câu chuyện thiết kế đằng sau ghế gaming Razer Soma Chroma" loading="lazy" width="1280" height="720">
   <figcaption>Razer chia sẻ hành trình thiết kế và phát triển của Soma Chroma trước khi sản phẩm chính thức ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Khi không ở trong trận đấu, người dùng hoàn toàn có thể tùy ch
 Về nguồn năng lượng, Razer Soma Chroma có thể hoạt động bằng củ sạc thông thường qua cổng USB-C hoặc sử dụng pin sạc dự phòng, đi kèm một túi chứa pin chuyên dụng được thiết kế kín đáo ngay phía sau tựa lưng ghế nhằm giữ tính thẩm mỹ tổng thể. Người mua cần lưu ý rằng pin sạc dự phòng, củ sạc và cáp USB-C nối dài sẽ không được đi kèm sẵn trong hộp sản phẩm, đồng nghĩa với việc cần chuẩn bị thêm phụ kiện nếu muốn sử dụng chế độ hoàn toàn không dây ngay từ đầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/aVOvHrMs1Cc/hqdefault.jpg" alt="Đánh giá thực tế trải nghiệm ghế gaming RGB của Razer" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/aVOvHrMs1Cc/hqdefault.jpg" alt="Đánh giá thực tế trải nghiệm ghế gaming RGB của Razer" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều reviewer quốc tế đánh giá cao trải nghiệm ánh sáng và độ hoàn thiện của dòng ghế gaming RGB mới từ Razer. Nguồn: YouTube</figcaption>
 </figure>
 
 Bên cạnh chất lượng đèn RGB, giới đánh giá cũng dành nhiều lời khen cho độ hoàn thiện tổng thể của Soma Chroma, từ chất liệu bọc ghế, độ êm của phần đệm cho tới cơ chế ngả lưng vận hành mượt mà. Đây là những yếu tố quan trọng không kém tính năng ánh sáng, bởi ghế gaming vẫn trước hết cần đáp ứng tốt vai trò cốt lõi là mang lại sự thoải mái cho người dùng trong những phiên chơi game hoặc làm việc kéo dài nhiều giờ liên tục.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/QZvpSVExwYM/hqdefault.jpg" alt="Hướng dẫn lắp ráp ghế gaming Razer Soma Chroma" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/QZvpSVExwYM/hqdefault.jpg" alt="Hướng dẫn lắp ráp ghế gaming Razer Soma Chroma" loading="lazy" width="1280" height="720">
   <figcaption>Razer cung cấp hướng dẫn lắp ráp chi tiết giúp người dùng tự lắp đặt Soma Chroma tại nhà. Nguồn: YouTube</figcaption>
 </figure>
 

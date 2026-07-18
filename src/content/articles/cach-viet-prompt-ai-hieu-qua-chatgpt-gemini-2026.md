@@ -76,7 +76,7 @@ Một mẹo mạnh là cho ví dụ mẫu. Khi bạn dán một đoạn viết t
 Mẹo thứ hai là chia nhiệm vụ lớn thành các bước nhỏ. Thay vì yêu cầu viết cả một kế hoạch dài trong một lần, hãy đi từng bước: lập dàn ý trước, duyệt dàn ý, rồi mới viết từng phần. Đừng kỳ vọng prompt đầu tiên cho kết quả hoàn hảo. Hãy xem đây là cuộc trò chuyện, tinh chỉnh dần qua nhiều lượt, yêu cầu AI sửa lại chỗ chưa ưng, cho tới khi đạt ý.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bxzlOB9k-F4/hqdefault.jpg" alt="Tư duy viết prompt cho người mới bắt đầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bxzlOB9k-F4/hqdefault.jpg" alt="Tư duy viết prompt cho người mới bắt đầu" loading="lazy" width="1280" height="720">
   <figcaption>Viết prompt là kỹ năng rèn được qua thực hành và tinh chỉnh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Một lỗi khác là tin hoàn toàn vào câu trả lời. AI có thể đưa 
 Với công việc nội dung, prompt nên nêu rõ nền tảng đăng và đối tượng, ví dụ viết ba phiên bản tiêu đề cho bài đăng Facebook về khóa học tiếng Anh, hướng tới phụ huynh, mỗi tiêu đề dưới 15 từ. Điểm chung của các ví dụ này là đều có vai trò, bối cảnh, nhiệm vụ cụ thể và ràng buộc rõ ràng về độ dài hay giọng văn, nhờ đó AI cho kết quả sát ý ngay từ lượt đầu thay vì phải sửa nhiều lần.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0TjAbMYlqEw/maxresdefault.jpg" alt="Cách viết prompt cho ChatGPT và Gemini kèm prompt mẫu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0TjAbMYlqEw/maxresdefault.jpg" alt="Cách viết prompt cho ChatGPT và Gemini kèm prompt mẫu" loading="lazy" width="1280" height="720">
   <figcaption>Prompt có ràng buộc rõ ràng cho kết quả sát ý hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Công thức prompt nền tảng áp dụng tốt cho hầu hết trợ lý AI, 
 Một lưu ý là độ dài và cách trình bày prompt có thể khác nhau giữa các mô hình. Với những tác vụ phức tạp, việc nói rõ từng bước và yêu cầu AI trình bày quá trình suy luận thường cho kết quả tốt hơn. Quan trọng nhất vẫn là thực hành đều đặn để cảm nhận cách mỗi công cụ phản hồi, từ đó rút ra cách viết prompt phù hợp với phong cách làm việc của riêng mình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sSfiaefWtUo/hqdefault.jpg" alt="Kỹ thuật viết prompt cho Gemini AI trong công việc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/sSfiaefWtUo/hqdefault.jpg" alt="Kỹ thuật viết prompt cho Gemini AI trong công việc" loading="lazy" width="1280" height="720">
   <figcaption>Mỗi công cụ AI có thế mạnh riêng khi xử lý prompt. Nguồn: YouTube</figcaption>
 </figure>
 

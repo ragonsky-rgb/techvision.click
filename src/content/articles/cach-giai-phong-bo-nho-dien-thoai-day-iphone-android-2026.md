@@ -76,7 +76,7 @@ Cache, hay bộ nhớ đệm, là dữ liệu tạm mà ứng dụng lưu lại 
 Xóa cache thường an toàn vì đây chỉ là dữ liệu tạm, ứng dụng vẫn hoạt động bình thường sau đó. Tuy nhiên, cần phân biệt với xóa dữ liệu ứng dụng: xóa dữ liệu có thể khiến bạn phải đăng nhập lại hoặc mất thiết lập đã lưu, nên hãy cân nhắc trước khi thao tác. Trên iPhone, mục Khác chính là tập hợp của các dữ liệu tạm này, và việc dọn trình duyệt cùng khởi động lại máy thường giúp giảm bớt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZA9DBOAwb8E/maxresdefault.jpg" alt="Cách xóa cache và dữ liệu tạm để giải phóng bộ nhớ điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZA9DBOAwb8E/maxresdefault.jpg" alt="Cách xóa cache và dữ liệu tạm để giải phóng bộ nhớ điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Xóa cache là cách nhanh để lấy lại dung lượng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Xóa cache thường an toàn vì đây chỉ là dữ liệu tạm, ứng dụn
 Tiếp theo là gỡ các ứng dụng ít hoặc không còn dùng. Nhiều ứng dụng chiếm dung lượng đáng kể cùng dữ liệu đi kèm. Trên iPhone có tính năng gỡ tải ứng dụng, giữ lại dữ liệu nhưng xóa phần ứng dụng để tiết kiệm dung lượng. Hãy rà soát danh sách ứng dụng định kỳ và mạnh dạn gỡ những thứ không cần. Việc quản lý gọn gàng này, kết hợp với thói quen sạc và bảo trì hợp lý, giúp máy bền hơn, như đề cập trong bài [sạc nhanh có hại pin không](/articles/sac-nhanh-co-hai-pin-khong-cach-sac-dung-keo-dai-tuoi-tho-pin.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2f1kRJOtUYY/maxresdefault.jpg" alt="Dọn ảnh video và gỡ ứng dụng ít dùng trên điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2f1kRJOtUYY/maxresdefault.jpg" alt="Dọn ảnh video và gỡ ứng dụng ít dùng trên điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Ảnh, video và ứng dụng ít dùng chiếm nhiều dung lượng nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Khi đã dọn các file không cần mà vẫn muốn giữ ảnh, video quan t
 Khi dùng đám mây, hãy chú ý tới bảo mật. Bật xác thực hai yếu tố cho tài khoản và dùng mật khẩu mạnh là điều cần thiết, bởi đây là nơi lưu trữ dữ liệu cá nhân quan trọng. Việc bảo vệ tài khoản đám mây cũng quan trọng như bảo vệ các tài khoản chính khác, một chủ đề được hướng dẫn chi tiết trong bài [cách bảo mật tài khoản Google](/articles/cach-bao-mat-tai-khoan-google-chong-hack-2026.html). Khi đã thiết lập đám mây và bảo mật tốt, bạn có thể yên tâm giải phóng bộ nhớ máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/APACpGeAQo0/maxresdefault.jpg" alt="Chuyển ảnh video lên đám mây để giải phóng bộ nhớ điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/APACpGeAQo0/maxresdefault.jpg" alt="Chuyển ảnh video lên đám mây để giải phóng bộ nhớ điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Đám mây giúp giữ dữ liệu mà vẫn giải phóng bộ nhớ máy. Nguồn: YouTube</figcaption>
 </figure>
 

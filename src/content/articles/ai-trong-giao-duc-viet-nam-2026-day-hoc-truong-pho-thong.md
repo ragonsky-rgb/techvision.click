@@ -76,7 +76,7 @@ Trong lớp học, AI đang thay đổi cách giáo viên giảng dạy và họ
 Lợi ích nổi bật nhất là khả năng cá nhân hóa. Các nền tảng học tập tích hợp AI có thể phân tích năng lực của từng học sinh và đề xuất nội dung phù hợp, giúp người học tiến bộ theo nhịp độ riêng thay vì học theo một khuôn chung. Điều này đặc biệt hữu ích trong các lớp đông, nơi giáo viên khó theo sát từng cá nhân. Để khai thác AI hiệu quả, cả giáo viên và học sinh cần biết cách đặt câu hỏi đúng, một kỹ năng được hướng dẫn trong bài [cách viết prompt AI hiệu quả](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Z4JZGErllqg/maxresdefault.jpg" alt="Ứng dụng AI trong dạy và học bước tiến giáo dục hiện đại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Z4JZGErllqg/maxresdefault.jpg" alt="Ứng dụng AI trong dạy và học bước tiến giáo dục hiện đại" loading="lazy" width="1280" height="720">
   <figcaption>AI giúp cá nhân hóa việc học và hỗ trợ giáo viên giảng dạy. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tiềm năng của AI trong giáo dục Việt Nam được thể hiện qua cá
 Sự tăng trưởng đến từ nhiều phía: chủ trương của nhà nước, nhu cầu nâng cao chất lượng giáo dục, và sự tham gia của các doanh nghiệp công nghệ giáo dục. Các hệ thống trường tư và nền tảng học trực tuyến đang tích cực tích hợp AI để tạo lợi thế cạnh tranh. Đây là cơ hội lớn cho các startup công nghệ giáo dục Việt Nam phát triển sản phẩm phù hợp với người học trong nước, đồng thời góp phần vào tiến trình chuyển đổi số của ngành giáo dục.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/yNB6j6j4ZUo/maxresdefault.jpg" alt="Triển khai giáo dục AI trong trường phổ thông cần thận trọng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yNB6j6j4ZUo/maxresdefault.jpg" alt="Triển khai giáo dục AI trong trường phổ thông cần thận trọng" loading="lazy" width="1280" height="720">
   <figcaption>Thị trường AI giáo dục Việt Nam được dự báo tăng trưởng mạnh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Dù mở ra nhiều cơ hội, việc đưa AI vào giáo dục cũng đặt ra 
 Một lo ngại lớn khác là cách học sinh sử dụng AI. Nếu lạm dụng AI để làm bài thay vì học thật, công nghệ có thể phản tác dụng, làm giảm khả năng tư duy độc lập. Vì vậy, việc dạy học sinh dùng AI có trách nhiệm, kết hợp với rèn tư duy phản biện, là rất quan trọng. Ngoài ra, vấn đề bảo mật dữ liệu của học sinh khi dùng các nền tảng AI cũng cần được chú ý, liên quan tới các nguyên tắc trong bài [bảo vệ quyền riêng tư và dữ liệu cá nhân](/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FyOGHGrQ-GM/hq720.jpg" alt="Ứng dụng AI nâng cao hiệu quả dạy học tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FyOGHGrQ-GM/hq720.jpg" alt="Ứng dụng AI nâng cao hiệu quả dạy học tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>AI trong giáo dục mang lại cơ hội nhưng cũng đặt ra thách thức. Nguồn: YouTube</figcaption>
 </figure>
 

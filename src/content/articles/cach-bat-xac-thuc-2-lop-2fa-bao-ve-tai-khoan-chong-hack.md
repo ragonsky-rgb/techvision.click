@@ -76,7 +76,7 @@ Hãy ưu tiên bật 2FA cho email trước tiên, vì email thường là nơi 
 Sau email và mạng xã hội, hãy bật tiếp cho tài khoản ngân hàng, ví điện tử, sàn thương mại và các dịch vụ lưu dữ liệu quan trọng. Khi bật, hệ thống thường cấp một bộ mã dự phòng. Đây là cứu cánh khi mất điện thoại, nên hãy lưu cẩn thận ở nơi an toàn, ví dụ ghi ra giấy cất kỹ hoặc lưu trong trình quản lý mật khẩu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/d4RF9Pl1Qn8/maxresdefault.jpg" alt="Cách bật xác minh 2 bước cho tài khoản Google" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/d4RF9Pl1Qn8/maxresdefault.jpg" alt="Cách bật xác minh 2 bước cho tài khoản Google" loading="lazy" width="1280" height="720">
   <figcaption>Email nên là tài khoản đầu tiên được bật xác thực 2 lớp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Sai lầm nguy hiểm nhất là đọc mã OTP cho người khác. Kẻ lừa �
 Một sai lầm khác là quên chuyển ứng dụng authenticator khi đổi máy. Mã trong app gắn với thiết bị, nên nếu reset hay đổi máy mà chưa chuyển, người dùng có thể bị khóa ngoài chính tài khoản của mình. Hãy dùng tính năng chuyển sang máy mới của app hoặc bật sao lưu mã trước khi xóa máy, như đã lưu ý trong bài [sao lưu dữ liệu trước khi đổi máy](/articles/cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5NlT5rw6_S8/maxresdefault.jpg" alt="Cách bật xác thực hai yếu tố cho tài khoản Facebook" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5NlT5rw6_S8/maxresdefault.jpg" alt="Cách bật xác thực hai yếu tố cho tài khoản Facebook" loading="lazy" width="1280" height="720">
   <figcaption>Facebook cũng nên được bật xác thực hai yếu tố bằng ứng dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Mỗi phương thức xác thực 2 lớp có ưu nhược điểm riêng, nên 
 Ứng dụng authenticator tạo mã ngay trên thiết bị theo chuẩn mã dùng một lần đổi theo thời gian, thường gọi là TOTP. Vì mã sinh ra cục bộ và không truyền qua mạng di động, phương thức này tránh được phần lớn rủi ro của SMS. Mức cao nhất là khóa bảo mật vật lý theo chuẩn FIDO, một thiết bị nhỏ cắm qua USB hoặc chạm không dây, gần như miễn nhiễm với lừa đảo vì nó xác thực đúng địa chỉ trang web thật trước khi cho đăng nhập. Đây là lựa chọn phù hợp với người quản trị hệ thống, nhà báo hoặc bất kỳ ai cần mức bảo vệ tối đa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/VBCLzQ4PBLs/maxresdefault.jpg" alt="Hướng dẫn bật xác minh 2 bước bảo mật tài khoản" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VBCLzQ4PBLs/maxresdefault.jpg" alt="Hướng dẫn bật xác minh 2 bước bảo mật tài khoản" loading="lazy" width="1280" height="720">
   <figcaption>Mỗi phương thức 2FA có mức an toàn và sự tiện lợi khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

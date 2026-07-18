@@ -76,7 +76,7 @@ Tận dụng khoảng trống, Google củng cố vị thế dẫn đầu với 
 Tại sự kiện I/O ngày 19/5/2026, Google giới thiệu thêm Gemini Omni Flash, thành viên đầu tiên của họ mô hình đa phương thức Omni. Mô hình này nhận đầu vào đa dạng gồm văn bản, hình ảnh, âm thanh và video, đồng thời tạo ra video ngắn tới khoảng 10 giây. Đáng chú ý, Omni Flash được tích hợp miễn phí trong tính năng YouTube Shorts Remix, đưa khả năng tạo video bằng AI tới đông đảo người dùng phổ thông, không chỉ giới chuyên nghiệp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-MluR9dqt5w/maxresdefault.jpg" alt="So sánh các mô hình AI tạo video Veo Sora Kling 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-MluR9dqt5w/maxresdefault.jpg" alt="So sánh các mô hình AI tạo video Veo Sora Kling 2026" loading="lazy" width="1280" height="720">
   <figcaption>Google dẫn dắt với Veo 3.1 và Gemini Omni Flash. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh hai ông lớn, thị trường AI tạo video còn sôi động v�
 Cuộc đua nhiều bên này thúc đẩy đổi mới với tốc độ chóng mặt, khi các mô hình mới ra mắt gần như hằng tháng với khả năng ngày càng ấn tượng. Tuy nhiên, sự đa dạng cũng khiến người dùng khó theo kịp và lựa chọn. Một mô hình dẫn đầu hôm nay có thể bị vượt qua chỉ sau vài tuần. Điều này đòi hỏi người dùng và doanh nghiệp linh hoạt, không phụ thuộc cứng vào một công cụ, đồng thời cập nhật thường xuyên để chọn giải pháp phù hợp nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/NmCAtCueJI8/maxresdefault.jpg" alt="So sánh các trình tạo video AI tốt nhất năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NmCAtCueJI8/maxresdefault.jpg" alt="So sánh các trình tạo video AI tốt nhất năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều đối thủ như Kling, Runway cùng tham gia cuộc đua. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ AI tạo video mang lại cơ hội lớn cho người sáng tạo nội dung, g
 Tuy nhiên, làn sóng này cũng đặt ra nhiều thách thức. Nội dung video giả mạo do AI tạo có thể bị lợi dụng để lừa đảo hoặc lan truyền thông tin sai lệch, làm tăng nhu cầu về công cụ phát hiện và nhãn minh bạch. Bản quyền và quyền lợi của người làm nghề cũng là vấn đề gây tranh cãi. Vì vậy, sử dụng AI tạo video một cách có trách nhiệm và minh bạch là điều quan trọng. Để nhận biết nội dung giả mạo, có thể tham khảo bài [cách nhận biết ảnh, video deepfake](/articles/cach-nhan-biet-anh-video-deepfake-ai-gia-mao-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Kib8UcDiNJA/maxresdefault.jpg" alt="Hướng dẫn về AI tạo video Sora Veo Runway 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Kib8UcDiNJA/maxresdefault.jpg" alt="Hướng dẫn về AI tạo video Sora Veo Runway 2026" loading="lazy" width="1280" height="720">
   <figcaption>AI tạo video mở ra cơ hội nhưng cũng đặt ra thách thức về minh bạch. Nguồn: YouTube</figcaption>
 </figure>
 

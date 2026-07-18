@@ -74,7 +74,7 @@ Tính chung nửa đầu năm 2026, doanh thu lũy kế của TSMC đạt khoả
 Đằng sau những con số kỷ lục là sự dịch chuyển cơ cấu khách hàng rõ rệt. TSMC dự kiến chip AI sẽ mang về hơn 40 tỷ USD trong năm 2026, tương đương khoảng một phần tư tổng doanh thu cả năm. Nhóm điện toán hiệu năng cao, bao gồm các bộ tăng tốc AI, đã vươn lên chiếm tỷ trọng áp đảo trong cơ cấu doanh thu, vượt xa mảng smartphone vốn từng là trụ cột truyền thống của hãng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5Pb7EX3iVaE/hqdefault.jpg" alt="Nhu cầu chip AI thúc đẩy doanh thu TSMC tăng vọt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5Pb7EX3iVaE/hqdefault.jpg" alt="Nhu cầu chip AI thúc đẩy doanh thu TSMC tăng vọt" loading="lazy" width="1280" height="720">
   <figcaption>Bộ tăng tốc AI trở thành động lực tăng trưởng chính, vượt qua mảng chip smartphone. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Sức mạnh của TSMC còn nằm ở vị thế gần như độc quyền ở 
 Một chỉ dấu quan trọng cho thấy đà tăng chưa dừng lại là tình trạng năng lực sản xuất. Tiến trình 3nm của TSMC, nền tảng cho gần như mọi dòng GPU và CPU AI đầu bảng ra mắt trong năm nay, hiện đã kín đơn hàng cả năm. Điều này đồng nghĩa doanh thu của hãng trong các quý tới phần lớn đã được đảm bảo trước, giúp giảm rủi ro biến động ngắn hạn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zuCROsAz77A/hqdefault.jpg" alt="Nhà máy TSMC sản xuất chip tiến trình 3nm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zuCROsAz77A/hqdefault.jpg" alt="Nhà máy TSMC sản xuất chip tiến trình 3nm" loading="lazy" width="1280" height="720">
   <figcaption>Năng lực tiến trình 3nm của TSMC đã được đặt kín bởi các khách hàng chip AI hàng đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Không chỉ khâu sản xuất wafer, năng lực đóng gói chip tiên tiến
 ## Điều nhà đầu tư chờ đợi ngày 16/7
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AnqxPRVoJJU/hqdefault.jpg" alt="Nhà đầu tư theo dõi báo cáo tài chính TSMC" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AnqxPRVoJJU/hqdefault.jpg" alt="Nhà đầu tư theo dõi báo cáo tài chính TSMC" loading="lazy" width="1280" height="720">
   <figcaption>Báo cáo đầy đủ ngày 16/7 sẽ hé lộ biên lợi nhuận và dự báo nửa cuối năm của TSMC. Nguồn: YouTube</figcaption>
 </figure>
 

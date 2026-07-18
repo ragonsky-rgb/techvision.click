@@ -66,7 +66,7 @@ Dreame, thương hiệu vốn được biết đến nhiều nhất với các d
 Về phần cứng camera, máy sử dụng cảm biến 1/1,3 inch kết hợp ống kính góc rộng 155 độ, khẩu độ f/2.8, hỗ trợ quay video tối đa 8K ở 30fps, 4K ở 60fps kèm chế độ HDR để chuyển động mượt mà hơn. Dreame công bố dải nhạy sáng đạt khoảng 13,5 stop, con số ấn tượng được nhiều reviewer so sánh gần với máy ảnh compact cao cấp hơn là một camera hành động thông thường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xAShW8DbTs4/hqdefault.jpg" alt="Dreame Leaptic Cube 8K camera hanh dong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xAShW8DbTs4/hqdefault.jpg" alt="Dreame Leaptic Cube 8K camera hanh dong 2026" loading="lazy" width="1280" height="480">
   <figcaption>Dreame Leaptic Cube mang tới trải nghiệm quay 8K trong một thiết kế camera hành động hoàn toàn mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Về phần cứng camera, máy sử dụng cảm biến 1/1,3 inch kết hợp 
 Một điểm nhấn công nghệ khác là chip xử lý AI 4nm dựa trên nền tảng Qualcomm, có khả năng xử lý mã hóa 8K thời gian thực trong khi vẫn chạy đồng thời các tính năng nhiếp ảnh điện toán. Thay vì dựa vào cài đặt thủ công, Leaptic Cube sử dụng công nghệ nhận diện khung cảnh để tự động điều chỉnh phơi sáng, cân bằng màu sắc và độ chi tiết theo thời gian thực, cùng các tính năng AI khác như theo dõi chủ thể, tự động lấy khung hình và điều khiển bằng giọng nói qua ứng dụng di động.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/lOft9SNJkL4/mqdefault.jpg" alt="Dreame Leaptic Cube hands-on 4K120 pin ngoai 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/lOft9SNJkL4/mqdefault.jpg" alt="Dreame Leaptic Cube hands-on 4K120 pin ngoai 2026" loading="lazy" width="1280" height="480">
   <figcaption>Bộ pin ngoài gắn từ tính giúp kéo dài đáng kể thời lượng sử dụng của Dreame Leaptic Cube. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Về lưu trữ, module camera có bộ nhớ trong 64GB hoặc 128GB tùy phiê
 Với người muốn so sánh thêm với các camera hành động cao cấp khác trên thị trường, bài viết [GoPro Mission 1 Pro: camera hành động cảm biến 1 inch](/articles/gopro-mission-1-pro-camera-hanh-dong-cam-bien-1-inch-2026.html) giới thiệu một lựa chọn khác ở phân khúc giá cao hơn nhưng đến từ thương hiệu lâu năm hơn trong lĩnh vực này. Người quan tâm tới các sản phẩm khác của Dreame ngoài lĩnh vực camera cũng có thể tham khảo thêm bài viết [Dreame Aero Pro Steam: máy hút bụi lau nhà hơi nước](/articles/dreame-aero-pro-steam-may-hut-bui-lau-nha-hoi-nuoc-2026.html) để thấy rõ hơn chiến lược mở rộng danh mục sản phẩm đa dạng của thương hiệu này trong năm 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/QjTQnuZIB90/mqdefault.jpg" alt="Dreame Leaptic Cube pha vo quy tac thiet ke 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/QjTQnuZIB90/mqdefault.jpg" alt="Dreame Leaptic Cube pha vo quy tac thiet ke 2026" loading="lazy" width="1280" height="480">
   <figcaption>Thiết kế phá cách của Dreame Leaptic Cube nhận được nhiều phản ứng trái chiều từ cộng đồng công nghệ. Nguồn: YouTube</figcaption>
 </figure>
 

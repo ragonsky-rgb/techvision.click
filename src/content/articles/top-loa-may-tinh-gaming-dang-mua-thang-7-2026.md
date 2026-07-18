@@ -70,7 +70,7 @@ Với người mới bắt đầu setup bàn làm việc gaming, loa 2.0 giá t�
 Ở phân khúc tầm trung, loa 2.1 có subwoofer riêng là lựa chọn nổi bật, phù hợp người chơi game hành động hoặc xem phim thường xuyên tại bàn, cần trải nghiệm bass sâu và mạnh hơn để nghe rõ hiệu ứng âm thanh nổ, tiếng súng và bước chân trong game. Subwoofer thường được đặt dưới gầm bàn, giúp tiết kiệm diện tích mặt bàn trong khi vẫn mang lại hiệu ứng âm thanh trầm ấn tượng hơn hẳn loa 2.0.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/dZMKzi0u0B4/hqdefault.jpg" alt="Loa may tinh 2.1 gaming am thanh trong tro choi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/dZMKzi0u0B4/hqdefault.jpg" alt="Loa may tinh 2.1 gaming am thanh trong tro choi" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết loa máy tính 2.1 tích hợp subwoofer, mang lại âm thanh sống động cho cả gaming và nghe nhạc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Với người mới bắt đầu setup bàn làm việc gaming, loa 2.0 giá t�
 Với nhu cầu trải nghiệm âm thanh nhập vai tối đa, loa gaming cao cấp tích hợp RGB và âm thanh vòm ảo DTS:X là lựa chọn đáng đầu tư nhất, đặc biệt hữu ích với game thủ cần định vị âm thanh chính xác trong các tựa game bắn súng góc nhìn thứ nhất. Công nghệ DTS:X giả lập âm thanh vòm nhiều kênh chỉ từ hai loa vệ tinh, giúp người chơi phân biệt rõ hướng tiếng bước chân hoặc súng nổ mà không cần đầu tư hệ thống loa 5.1 phức tạp và tốn diện tích.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Kn3DOhV3pJ4/hqdefault.jpg" alt="Loa gaming cao cap RGB am thanh vom ao 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Kn3DOhV3pJ4/hqdefault.jpg" alt="Loa gaming cao cap RGB am thanh vom ao 2026" loading="lazy" width="1280" height="480">
   <figcaption>Những mẫu loa gaming cao cấp tích hợp RGB và công nghệ âm thanh vòm ảo, mang lại trải nghiệm nhập vai tối đa. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Ngoài âm thanh vòm ảo, người dùng ở phân khúc cao cấp cũng nên 
 Người dùng cũng nên cân nhắc thêm khả năng kết nối đa thiết bị cùng lúc trên loa cao cấp, ví dụ vừa cắm dây với máy tính bàn vừa kết nối Bluetooth với điện thoại, cho phép chuyển đổi nguồn phát linh hoạt chỉ với một nút bấm thay vì phải cắm rút dây liên tục mỗi khi đổi thiết bị nghe nhạc hoặc xem phim.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/dewCPzME8Yw/hqdefault.jpg" alt="7 loa may tinh gaming tot nhat da kiem nghiem 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/dewCPzME8Yw/hqdefault.jpg" alt="7 loa may tinh gaming tot nhat da kiem nghiem 2026" loading="lazy" width="1280" height="480">
   <figcaption>Tổng hợp và kiểm nghiệm 7 mẫu loa máy tính gaming đáng chú ý nhất, so sánh chi tiết từng phân khúc giá. Nguồn: YouTube</figcaption>
 </figure>
 

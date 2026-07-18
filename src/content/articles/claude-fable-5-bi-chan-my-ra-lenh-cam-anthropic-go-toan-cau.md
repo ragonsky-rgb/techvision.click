@@ -64,7 +64,7 @@ Ngày 12/6/2026, Anthropic nhận được một chỉ thị từ chính phủ M
 Chỉ thị buộc Anthropic phải hành động gần như tức thì. Thay vì chỉ giới hạn một nhóm người dùng, hệ quả thực tế là cả hai mô hình bị vô hiệu hóa hoàn toàn, khiến mọi khách hàng đều mất quyền truy cập chỉ trong thời gian ngắn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/l-w8yWuPzOA/maxresdefault.jpg" alt="Phân tích đầy đủ vụ chính phủ Mỹ chặn Claude Fable 5 và Mythos 5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/l-w8yWuPzOA/maxresdefault.jpg" alt="Phân tích đầy đủ vụ chính phủ Mỹ chặn Claude Fable 5 và Mythos 5" loading="lazy" width="1280" height="720">
   <figcaption>Vụ việc gây chấn động cộng đồng AI ngay khi được công bố. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Nhiều người thắc mắc tại sao một lệnh cấm nhắm vào người 
 Trên thực tế, không có cách kỹ thuật nào bảo đảm tách riêng và chặn đúng nhóm người dùng này một cách tuyệt đối. Để chắc chắn tuân thủ và tránh rủi ro pháp lý, Anthropic chọn phương án an toàn nhất là vô hiệu hóa hoàn toàn Fable 5 và Mythos 5 cho tất cả. Đây là lý do một mệnh lệnh tưởng như giới hạn lại tạo ra hệ quả toàn cầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rJ1je5IdSTY/maxresdefault.jpg" alt="Claude Mythos 5 và Fable 5 bị cấm trên phạm vi toàn cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rJ1je5IdSTY/maxresdefault.jpg" alt="Claude Mythos 5 và Fable 5 bị cấm trên phạm vi toàn cầu" loading="lazy" width="1280" height="720">
   <figcaption>Cả hai mô hình bị gỡ khỏi mọi khách hàng để bảo đảm tuân thủ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Anthropic chọn cách tuân thủ chỉ thị nhưng đồng thời công khai 
 Công ty cho biết họ tin rằng có một sự hiểu lầm trong chỉ thị và đang làm việc tích cực để khôi phục quyền truy cập sớm nhất có thể. Cách phản ứng này phản ánh thế khó của các hãng AI hàng đầu: vừa phải tuân thủ yêu cầu an ninh, vừa phải bảo vệ tính liên tục của sản phẩm và niềm tin của người dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/41yzx5uohHI/maxresdefault.jpg" alt="Anthropic phản đối chỉ thị chặn Fable 5 và Mythos 5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/41yzx5uohHI/maxresdefault.jpg" alt="Anthropic phản đối chỉ thị chặn Fable 5 và Mythos 5" loading="lazy" width="1280" height="720">
   <figcaption>Anthropic tuân thủ nhưng cho rằng chỉ thị xuất phát từ một sự hiểu lầm. Nguồn: YouTube</figcaption>
 </figure>
 

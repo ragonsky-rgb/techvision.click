@@ -77,7 +77,7 @@ So với thế hệ trước, Gemma 4 nâng cửa sổ ngữ cảnh từ 128K l�
 Gemma 4 cũng thêm chế độ suy luận Thinking Mode trên các bản E4B và 31B, cải thiện rõ khả năng viết mã và gọi công cụ tự động. Về đa phương thức, mọi bản đều nhận đầu vào ảnh và video, riêng E2B và E4B nhận thêm âm thanh, mở đường cho các ứng dụng trợ lý giọng nói chạy ngay trên máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/d0gTthacB5c/maxresdefault.jpg" alt="Gemma 4 chạy cục bộ trên iPhone không cần kết nối Internet" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/d0gTthacB5c/maxresdefault.jpg" alt="Gemma 4 chạy cục bộ trên iPhone không cần kết nối Internet" loading="lazy" width="1280" height="720">
   <figcaption>Gemma 4 chạy được ngay trên điện thoại, kể cả iPhone, hoàn toàn ngoại tuyến. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ AI chạy trên thiết bị giải quyết ba điểm yếu cố hữu của AI
 Xu hướng này cũng giảm gánh nặng chi phí vận hành máy chủ cho nhà phát triển ứng dụng. Thay vì trả tiền cho mỗi lượt gọi API lên đám mây, ứng dụng có thể dùng model chạy ngay trên máy người dùng. Với một model mã nguồn mở, nhẹ và đa ngôn ngữ như Gemma 4, rào cản để tích hợp AI vào sản phẩm hạ thấp đáng kể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/O6499i4TFYA/maxresdefault.jpg" alt="Google giới thiệu Gemma 4 và AI Edge Gallery cho AI chạy trên thiết bị" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/O6499i4TFYA/maxresdefault.jpg" alt="Google giới thiệu Gemma 4 và AI Edge Gallery cho AI chạy trên thiết bị" loading="lazy" width="1280" height="720">
   <figcaption>Google đẩy mạnh AI on-device qua Gemma 4 và bộ công cụ AI Edge. Nguồn: YouTube</figcaption>
 </figure>
 

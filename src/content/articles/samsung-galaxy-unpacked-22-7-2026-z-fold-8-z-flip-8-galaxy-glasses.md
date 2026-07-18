@@ -76,7 +76,7 @@ Về cấu hình, dòng Z Fold 8 được cho là dùng chip Snapdragon 8 Elite 
 Đáng chú ý nhất là bản Z Fold 8 Wide. Thay vì chỉ làm mỏng và nhẹ hơn, Samsung được cho là thử nghiệm thân máy rộng hơn để khi mở ra cho trải nghiệm gần với máy tính bảng. Nếu đúng, đây là lần đầu dòng Fold rẽ nhánh thiết kế rõ rệt, mở thêm lựa chọn cho người dùng. Sức ép cạnh tranh từ các đối thủ Android như [Oppo Find X10 Pro](/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html) cũng buộc Samsung phải làm mới dòng cao cấp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/VTu0nR6ZLww/maxresdefault.jpg" alt="Rò rỉ thiết kế Samsung Galaxy Z Fold 8 Wide bản gập rộng hơn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VTu0nR6ZLww/maxresdefault.jpg" alt="Rò rỉ thiết kế Samsung Galaxy Z Fold 8 Wide bản gập rộng hơn" loading="lazy" width="1280" height="720">
   <figcaption>Bản Z Fold 8 Wide được cho là hướng thiết kế gập rộng mới của Samsung. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Giá khởi điểm bản Fold được đồn giữ quanh mức 1.999 USD, tư�
 Người quan tâm có thể theo dõi diễn biến sự kiện tại trang [Sự kiện Galaxy Unpacked 2026](/su-kien/samsung-galaxy-unpacked-2026.html) của LongTechVision. Trước khi đặt cọc hay nâng cấp, nên chờ thông số và giá chính thức, vì mọi thông tin hiện tại vẫn là tin đồn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/S4s2w4WAcqw/maxresdefault.jpg" alt="Rò rỉ cấu hình và thiết kế Samsung Galaxy Z Fold 8" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/S4s2w4WAcqw/maxresdefault.jpg" alt="Rò rỉ cấu hình và thiết kế Samsung Galaxy Z Fold 8" loading="lazy" width="1280" height="720">
   <figcaption>Z Fold 8 được đồn dùng Snapdragon 8 Elite Gen 5 và pin lớn hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Bên cạnh điện thoại gập, hai sản phẩm đeo được nhắc tới n
 Galaxy Glasses mới là ẩn số thú vị nhất. Trong bối cảnh kính AI nóng trở lại với sự tham gia của nhiều ông lớn, một cặp kính thông minh của Samsung kết hợp trợ lý AI, camera và hiển thị thông tin có thể mở ra hướng thiết bị đeo hoàn toàn mới. Nếu Samsung thực sự ra mắt Galaxy Glasses tại sự kiện, đây sẽ là tâm điểm được giới công nghệ mổ xẻ, dù mức độ hoàn thiện và giá bán vẫn là dấu hỏi lớn ở thời điểm hiện tại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2Pw8abzJES4/maxresdefault.jpg" alt="Rò rỉ Samsung Galaxy Z Fold 8 Wide và hệ sinh thái thiết bị" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2Pw8abzJES4/maxresdefault.jpg" alt="Rò rỉ Samsung Galaxy Z Fold 8 Wide và hệ sinh thái thiết bị" loading="lazy" width="1280" height="720">
   <figcaption>Samsung mở rộng hệ sinh thái với đồng hồ và kính thông minh. Nguồn: YouTube</figcaption>
 </figure>
 

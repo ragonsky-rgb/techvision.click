@@ -69,21 +69,21 @@ Việc giảm nhiệt khi sạc không dây không chỉ mang lại cảm giác 
 Công nghệ StealthCharge được áp dụng trên ba sản phẩm mới ra mắt cùng lúc. Cao cấp nhất là 4-in-1 Wireless Charge Stand giá 179,95 USD, có khả năng sạc đồng thời iPhone trên đế nghiêng góc điều chỉnh được, Apple Watch, AirPods và thêm một thiết bị thứ tư như laptop thông qua cổng USB-C 60W tích hợp sẵn phía sau có thể thu gọn khi không dùng tới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1zLa9kGq2ko/hqdefault.jpg" alt="Mophie 3 trong 1 sac khong day danh gia 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/1zLa9kGq2ko/hqdefault.jpg" alt="Mophie 3 trong 1 sac khong day danh gia 2026" loading="lazy" width="1280" height="480">
   <figcaption>3-in-1 Wireless Charge Stand giữ lại đầy đủ tính năng sạc chính với mức giá dễ tiếp cận hơn. Nguồn: YouTube</figcaption>
 </figure>
 
 Phiên bản 3-in-1 Wireless Charge Stand giá 149,95 USD lược bỏ cổng USB-C phía sau nhưng vẫn giữ nguyên khả năng sạc nghiêng góc 25W cho iPhone cùng các đế sạc cho Apple Watch và AirPods. Cùng mức giá này còn có Roam 3-in-1 Travel Charger, thiết kế dạng gấp gọn nhỏ nhắn kèm túi đựng du lịch riêng, mang tới đầy đủ lợi ích của công nghệ StealthCharge cho người thường xuyên di chuyển, đồng thời vẫn hỗ trợ sạc nhanh iPhone 25W cùng sạc nhanh cho Apple Watch và AirPods. Với người di chuyển thường xuyên và cần thêm nguồn điện dự phòng ngoài sạc không dây tại chỗ, bài viết [top sạc dự phòng đáng mua tháng 7/2026](/articles/top-sac-du-phong-dang-mua-thang-7-2026.html) là gợi ý bổ sung hữu ích để chuẩn bị đầy đủ bộ phụ kiện sạc gọn nhẹ cho các chuyến công tác hoặc du lịch dài ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DCWgTMea5Ls/hqdefault.jpg" alt="Mophie 3 in 1 charger co dang mua khong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/DCWgTMea5Ls/hqdefault.jpg" alt="Mophie 3 in 1 charger co dang mua khong 2026" loading="lazy" width="1280" height="480">
   <figcaption>Cả ba sản phẩm StealthCharge đều hướng tới hệ sinh thái thiết bị Apple. Nguồn: YouTube</figcaption>
 </figure>
 
 Hiện cả ba sản phẩm chỉ được bán độc quyền tại các cửa hàng Apple trên toàn cầu, trang Apple.com và trang chính thức của Mophie, chưa mở rộng phân phối qua các kênh bán lẻ khác. Với người dùng Việt Nam quan tâm tới các giải pháp sạc không dây, bài viết giải thích [sạc không dây là gì, có hại pin không, có nên dùng](/articles/sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung.html) là tài liệu tham khảo hữu ích để hiểu rõ hơn về công nghệ này trước khi quyết định đầu tư vào một bộ sạc không dây cao cấp như StealthCharge.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9g6JIpe5GNY/hqdefault.jpg" alt="Mophie StealthCharge Roam trai nghiem thuc te 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/9g6JIpe5GNY/hqdefault.jpg" alt="Mophie StealthCharge Roam trai nghiem thuc te 2026" loading="lazy" width="1280" height="480">
   <figcaption>Roam 3-in-1 Travel Charger phù hợp người thường xuyên di chuyển, cần sạc gọn nhẹ mang theo. Nguồn: YouTube</figcaption>
 </figure>
 

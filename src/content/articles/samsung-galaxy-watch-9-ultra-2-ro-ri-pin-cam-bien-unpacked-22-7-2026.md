@@ -76,7 +76,7 @@ Màn hình cũng là một điểm được nhắc tới, khi Ultra 2 được c
 Ở phân khúc dễ tiếp cận hơn, Galaxy Watch 9 vẫn giữ hai lựa chọn kích cỡ 40mm và 44mm. Rò rỉ cho biết bản 40mm dùng màn 438 x 438 điểm ảnh với pin 382mAh, tăng khoảng 23% so với đời cũ, trong khi bản 44mm và Ultra 2 dùng màn 480 x 480. Điểm khác biệt là Watch 9 có thể vẫn dùng chip Exynos W1000 từ thế hệ Watch 8, thay vì chuyển sang Snapdragon như bản Ultra.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5rVWO05kyRk/hqdefault.jpg" alt="Rò rỉ thiết kế và màu sắc Galaxy Watch 9 bản tiêu chuẩn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5rVWO05kyRk/hqdefault.jpg" alt="Rò rỉ thiết kế và màu sắc Galaxy Watch 9 bản tiêu chuẩn" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Watch 9 giữ hai kích cỡ 40mm và 44mm với một số thay đổi thiết kế nhỏ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bù lại cho việc dùng chip cũ hơn, Watch 9 được cho là bổ sung đ�
 Cả hai mẫu đồng hồ được cho là những thiết bị đeo đầu tiên của Samsung chạy One UI 9 Watch, xây trên nền Wear OS 7. Phần mềm mới hứa hẹn hoạt ảnh mượt hơn, tích hợp Galaxy AI sâu hơn để đưa ra gợi ý luyện tập và quản lý căng thẳng cá nhân hóa, đồng thời đồng bộ chặt chẽ hơn với điện thoại, máy tính bảng và tai nghe Galaxy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LumkD25neaA/hqdefault.jpg" alt="Giao diện One UI 9 Watch và tính năng sức khỏe trên Galaxy Watch Ultra 2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LumkD25neaA/hqdefault.jpg" alt="Giao diện One UI 9 Watch và tính năng sức khỏe trên Galaxy Watch Ultra 2" loading="lazy" width="1280" height="720">
   <figcaption>One UI 9 Watch nền Wear OS 7 mang giao diện mới và Galaxy AI tích hợp sâu hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Hướng đi này cho thấy Samsung tiếp tục xem thiết bị đeo là mả
 Trên thị trường thiết bị đeo, Samsung đang chịu sức ép không nhỏ từ các đối thủ Android khác, đặc biệt ở khía cạnh thời lượng pin. Nhiều mẫu đồng hồ cạnh tranh quảng bá khả năng dùng cả tuần hoặc lâu hơn, chẳng hạn như [Huawei Watch GT 6 với pin lên tới 21 ngày](/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html). Việc Ultra 2 nâng pin là bước đi cần thiết để Samsung không bị bỏ lại quá xa ở tiêu chí này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/IwCD0NiVhl8/hqdefault.jpg" alt="So sánh Galaxy Watch 9 và Galaxy Watch Ultra 2 qua rò rỉ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IwCD0NiVhl8/hqdefault.jpg" alt="So sánh Galaxy Watch 9 và Galaxy Watch Ultra 2 qua rò rỉ" loading="lazy" width="1280" height="720">
   <figcaption>Watch 9 hướng tới sự cân bằng, còn Ultra 2 nhắm nhóm người dùng thể thao cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 

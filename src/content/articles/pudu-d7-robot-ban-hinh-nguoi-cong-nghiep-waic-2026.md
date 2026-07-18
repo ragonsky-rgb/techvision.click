@@ -76,7 +76,7 @@ Về thông số, D7 cao 165 cm và nặng 45 kg, một tầm vóc gần với c
 Bên cạnh phần cứng, điểm khiến Pudu D7 đáng chú ý là kiến trúc phần mềm mang tên một bộ não nhiều hiện thân. Ý tưởng cốt lõi là nhiều loại robot với hình dạng khác nhau có thể cùng chia sẻ một bộ não chung, thay vì mỗi loại robot lại cần một hệ thống riêng biệt. Cách tiếp cận này giúp việc phát triển và triển khai robot trở nên linh hoạt và hiệu quả hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1hQVdf0W-oI/hqdefault.jpg" alt="Pudu D7 dùng kiến trúc một bộ não nhiều hiện thân với hệ điều hành PuduAgent OS" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1hQVdf0W-oI/hqdefault.jpg" alt="Pudu D7 dùng kiến trúc một bộ não nhiều hiện thân với hệ điều hành PuduAgent OS" loading="lazy" width="1280" height="720">
   <figcaption>Kiến trúc một bộ não nhiều hiện thân cho phép nhiều loại robot chia sẻ chung trí tuệ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Trung tâm của kiến trúc này là hệ điều hành PuduAgent OS, đóng v
 ## Bức tranh robot hình người Trung Quốc
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Xpvn_u1fMbY/hqdefault.jpg" alt="Robot Pudu D7 học hỏi và cải thiện qua từng thao tác trong môi trường công nghiệp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Xpvn_u1fMbY/hqdefault.jpg" alt="Robot Pudu D7 học hỏi và cải thiện qua từng thao tác trong môi trường công nghiệp" loading="lazy" width="1280" height="720">
   <figcaption>D7 được thiết kế để học hỏi và thích nghi với môi trường làm việc năng động. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Sự xuất hiện của Pudu D7 nằm trong một bức tranh lớn hơn về t
 WAIC 2026 là nơi hội tụ của làn sóng này, với hơn 300 sản phẩm AI ra mắt toàn cầu và hàng loạt robot hình người, bàn tay robot khéo léo được giới thiệu. Cùng với đó là những nền tảng hạ tầng tính toán khổng lồ như [siêu nút AI Atlas 950 SuperPoD của Huawei](/articles/huawei-atlas-950-superpod-sieu-nut-ai-manh-nhat-waic-2026.html), tạo nên một hệ sinh thái AI hoàn chỉnh từ phần cứng tính toán tới robot vật lý.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/5_rZIH2Apx4/hqdefault.jpg" alt="Pudu D7 thế hệ đầu đại diện cho hướng đi thực dụng của robot hình người công nghiệp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5_rZIH2Apx4/hqdefault.jpg" alt="Pudu D7 thế hệ đầu đại diện cho hướng đi thực dụng của robot hình người công nghiệp" loading="lazy" width="1280" height="720">
   <figcaption>Pudu D7 đại diện cho hướng đi thực dụng, đưa robot vào công việc thực tế. Nguồn: YouTube</figcaption>
 </figure>
 

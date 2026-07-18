@@ -66,7 +66,7 @@ ASUS vừa chính thức ra mắt ROG NUC 16 Edition 20, đánh dấu cột mố
 Đội ngũ kỹ sư ASUS cho biết quá trình phát triển hệ thống tản nhiệt 3 quạt kép buồng hơi mất nhiều tháng thử nghiệm để cân bằng giữa hiệu năng, độ ồn và kích thước tổng thể, vì chỉ cần sai lệch nhỏ trong thiết kế luồng khí cũng có thể khiến GPU bị giảm xung nhịp đáng kể trong không gian chật hẹp như vậy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/YTAdeiCJ_pc/hqdefault.jpg" alt="ASUS nhet GPU RTX 5090 vao mini PC nho gon" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/YTAdeiCJ_pc/hqdefault.jpg" alt="ASUS nhet GPU RTX 5090 vao mini PC nho gon" loading="lazy" width="1280" height="480">
   <figcaption>ASUS đã tìm ra giải pháp kỹ thuật để nhét vừa GPU RTX 5090 vào một thân máy mini PC nhỏ gọn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Việc chọn màu vàng làm điểm nhấn thay vì màu đỏ truyền thốn
 RAM tối đa 128GB DDR5-6400 hai kênh trên Edition 20 cũng là con số ấn tượng cho một mini PC, vượt xa nhu cầu chơi game thông thường và cho thấy ASUS đang nhắm cả tới nhóm khách hàng chuyên nghiệp cần xử lý các tác vụ nặng như dựng phim 8K hay chạy mô hình AI cục bộ, không chỉ đơn thuần là một cỗ máy chơi game.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vDL23aEjbkI/hqdefault.jpg" alt="ASUS ROG NUC 16 Edition 20 danh gia mini PC 6000 USD" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/vDL23aEjbkI/hqdefault.jpg" alt="ASUS ROG NUC 16 Edition 20 danh gia mini PC 6000 USD" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết thiết kế và hiệu năng của ASUS ROG NUC 16 Edition 20 với mức giá hơn 6.000 USD. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ RAM tối đa 128GB DDR5-6400 hai kênh trên Edition 20 cũng là con số ấn
 Với cấu hình cơ bản 64GB RAM và 2TB SSD, ROG NUC 16 Edition 20 có giá khởi điểm 5.999 USD tại thị trường Mỹ, trong khi phiên bản 128GB RAM tại Trung Quốc có giá khoảng 51.999 nhân dân tệ, tương đương khoảng 7.645 USD. Đây là mức giá cao cấp, phản ánh cả chi phí linh kiện GPU RTX 5090 vốn đang [tăng giá mạnh do khủng hoảng nguồn cung DRAM](/articles/rtx-5090-gia-tang-vot-khung-hoang-dram-2026.html), lẫn chi phí kỹ thuật để thu nhỏ toàn bộ hệ thống tản nhiệt phức tạp vào thân máy nhỏ gọn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/79C8UlfnD40/hqdefault.jpg" alt="ROG NUC 16 Gaming Mini PC tong quan" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/79C8UlfnD40/hqdefault.jpg" alt="ROG NUC 16 Gaming Mini PC tong quan" loading="lazy" width="1280" height="480">
   <figcaption>Tổng quan về dòng ROG NUC 16 Gaming Mini PC mới của ASUS. Nguồn: YouTube</figcaption>
 </figure>
 

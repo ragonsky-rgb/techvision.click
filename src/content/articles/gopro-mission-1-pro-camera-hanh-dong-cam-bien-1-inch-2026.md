@@ -66,7 +66,7 @@ GoPro chính thức ra mắt Mission 1 Pro, camera hành động được xem l�
 Kết hợp cùng khẩu độ f/2.8 và chip xử lý GP3 hoàn toàn mới, máy có thể quay video 8K ở 60fps, 4K ở 240fps để tạo hiệu ứng quay chậm mượt mà, và thậm chí 1080p ở 960fps cho hiệu ứng siêu chậm ấn tượng. Chế độ màu GP-Log2 10-bit cùng tốc độ dữ liệu cao 240Mbps giúp footage giữ được nhiều chi tiết và linh hoạt hơn khi chỉnh màu hậu kỳ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sk2ZTHCs4eY/hqdefault.jpg" alt="GoPro Mission 1 Pro FPV review 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/sk2ZTHCs4eY/hqdefault.jpg" alt="GoPro Mission 1 Pro FPV review 2026" loading="lazy" width="1280" height="480">
   <figcaption>GoPro Mission 1 Pro được đánh giá là bước tiến lớn mà hãng cuối cùng cũng đã thực hiện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Kết hợp cùng khẩu độ f/2.8 và chip xử lý GP3 hoàn toàn mới, m�
 Một tính năng cao cấp khác trên Mission 1 Pro là khả năng tháo rời và thay đổi ống kính, mang lại sự linh hoạt cao hơn hẳn so với thiết kế ống kính cố định truyền thống trên các dòng GoPro trước đây, cho phép người dùng tùy chỉnh góc nhìn và hiệu ứng quang học tùy theo nhu cầu quay dựng cụ thể trong từng tình huống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OQorg1bSqvc/hqdefault.jpg" alt="GoPro Mission 1 Pro cam bien 1 inch 960fps 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/OQorg1bSqvc/hqdefault.jpg" alt="GoPro Mission 1 Pro cam bien 1 inch 960fps 2026" loading="lazy" width="1280" height="480">
   <figcaption>Cảm biến 1 inch cùng khả năng quay 960fps là hai điểm nhấn công nghệ ấn tượng nhất trên Mission 1 Pro. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Về giá bán, GoPro Mission 1 Pro có giá khởi điểm 599 USD (hoặc 600 
 Với người quan tâm tới các dòng camera hành động khác của GoPro ở phân khúc giá thấp hơn, bài viết [GoPro MAX2: cập nhật firmware 200Mbps, 10-bit](/articles/gopro-max2-cap-nhat-firmware-200mbps-10bit-2026.html) giới thiệu thêm một lựa chọn khác trong hệ sinh thái sản phẩm của hãng. Người cần thêm thiết bị ổn định hình ảnh khi quay dựng nội dung cùng camera hành động cũng có thể tham khảo bài viết [DJI Osmo Mobile 8P: gimbal FrameTap](/articles/dji-osmo-mobile-8p-gimbal-frametap-2026.html) để hoàn thiện bộ thiết bị quay phim chuyên nghiệp hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sD1YOKN8YBg/hqdefault.jpg" alt="GoPro Mission 1 Pro hands-on 63 dieu can biet 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/sD1YOKN8YBg/hqdefault.jpg" alt="GoPro Mission 1 Pro hands-on 63 dieu can biet 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều kênh công nghệ dành hẳn video hands-on chi tiết ngay khi GoPro Mission 1 Pro vừa ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 

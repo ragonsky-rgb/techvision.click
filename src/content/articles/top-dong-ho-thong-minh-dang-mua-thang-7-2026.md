@@ -73,7 +73,7 @@ Người dùng muốn hiểu rõ hơn các tiêu chí quan trọng cần cân nh
 Ở phía Android, Samsung Galaxy Watch 8 là cái tên đáng chú ý nhất nhờ trở thành smartwatch đầu tiên tích hợp sẵn trợ lý Gemini AI ngay trên cổ tay. Gemini cho phép tóm tắt tin nhắn dài, soạn trả lời nhanh, xử lý các lệnh thoại phức tạp và tra cứu thông tin sức khỏe mà không cần lấy điện thoại ra, được nhiều bài đánh giá so sánh trực tiếp xem là vượt trội hơn hẳn Siri trên Apple Watch Series 11 về khả năng hiểu ngữ cảnh và xử lý câu hỏi nhiều bước. Máy có giá khởi điểm 349,99 USD cho bản 40mm và 379,99 USD cho bản 44mm có LTE, mức giá được xem là hợp lý so với những gì sản phẩm mang lại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/IA8kzVBQ-dU/hqdefault.jpg" alt="Samsung Galaxy Watch 8 tich hop Gemini AI 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/IA8kzVBQ-dU/hqdefault.jpg" alt="Samsung Galaxy Watch 8 tich hop Gemini AI 2026" loading="lazy" width="1280" height="480">
   <figcaption>Samsung Galaxy Watch 8, smartwatch đầu tiên tích hợp sẵn trợ lý Gemini AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Người dùng Galaxy Watch quan tâm sâu hơn tới các tính năng sức kh�
 Với người mới bắt đầu hoặc ngân sách hạn chế hơn, Apple Watch SE 3 là lựa chọn được nhiều đánh giá quốc tế xem là giá trị tốt nhất trong dòng Apple Watch hiện tại. Máy vẫn giữ được các tính năng theo dõi sức khỏe và thể thao cơ bản quan trọng nhất như đo nhịp tim, theo dõi giấc ngủ, phát hiện té ngã và đồng bộ mượt mà với hệ sinh thái Apple, trong khi giá bán thấp hơn đáng kể so với Series 11. Đây là lựa chọn phù hợp cho người lần đầu trải nghiệm smartwatch, phụ huynh mua cho con theo dõi sức khỏe và vị trí, hoặc người dùng chỉ cần các tính năng cơ bản mà không quá đặt nặng các công nghệ cảm biến cao cấp nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/pzUOg87NSzU/hqdefault.jpg" alt="Apple Watch SE 3 lua chon gia tot 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/pzUOg87NSzU/hqdefault.jpg" alt="Apple Watch SE 3 lua chon gia tot 2026" loading="lazy" width="1280" height="480">
   <figcaption>Apple Watch SE 3 được đánh giá là lựa chọn smartwatch giá tốt nhất cho người mới bắt đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Với người dùng đang cân nhắc kết hợp thêm thiết bị đeo theo 
 Trước khi quyết định xuống tiền, người dùng nên xác định rõ hệ điều hành điện thoại đang sử dụng, vì Apple Watch chỉ tương thích đầy đủ với iPhone trong khi Galaxy Watch chạy Wear OS tương thích tốt nhất với điện thoại Samsung Galaxy, dù vẫn dùng được với nhiều điện thoại Android khác ở mức hạn chế hơn. Ngoài ra, nên cân nhắc kỹ giữa việc ưu tiên tính năng AI tiên tiến như Gemini trên Galaxy Watch 8, hay ưu tiên độ ổn định và hệ sinh thái khép kín mượt mà của Apple Watch, tùy theo thói quen sử dụng thiết bị hàng ngày của bản thân.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AKlrGLELj3I/hqdefault.jpg" alt="So sanh dong ho thong minh Apple Watch Galaxy Watch 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/AKlrGLELj3I/hqdefault.jpg" alt="So sanh dong ho thong minh Apple Watch Galaxy Watch 2026" loading="lazy" width="1280" height="480">
   <figcaption>So sánh trực tiếp giữa các mẫu đồng hồ thông minh đáng chú ý tháng 7/2026. Nguồn: YouTube</figcaption>
 </figure>
 

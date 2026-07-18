@@ -68,7 +68,7 @@ Nhu cầu nâng cấp máy giặt thông minh, tiết kiệm điện nước ng�
 Ở phân khúc tầm trung, các dòng máy giặt Samsung AI Ecobubble là lựa chọn nổi bật nhờ tự động phân phối nước giặt, nước xả dựa trên cảm biến thông minh, giúp người dùng không cần ước lượng thủ công lượng bột giặt mỗi lần sử dụng. Sản phẩm còn có tới 24 chế độ giặt đa dạng, nhiều hơn hẳn so với nhiều đối thủ cùng phân khúc, phù hợp gia đình bận rộn cần sự tiện lợi tối đa trong việc giặt giũ hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SZei9OgenNw/sddefault.jpg" alt="Danh gia may giat LG AI DD truyen dong truc tiep" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SZei9OgenNw/sddefault.jpg" alt="Danh gia may giat LG AI DD truyen dong truc tiep" loading="lazy" width="1280" height="480">
   <figcaption>Máy giặt LG AI DD được đánh giá cao về khả năng vận hành êm ái, bền bỉ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Nhiều gia đình hiện đang xây dựng không gian sống hiện đại to�
 Trước khi quyết định xuống tiền, người dùng nên xác định rõ mục đích sử dụng chính, ví dụ ưu tiên ngân sách tiết kiệm cho nhu cầu cơ bản, cần tính năng thông minh tiện lợi cho gia đình bận rộn, hay sẵn sàng đầu tư cho độ bền và vận hành êm ái nhất, vì mỗi thương hiệu trong danh sách đều có thế mạnh riêng phù hợp từng nhóm đối tượng khác nhau. Nên ưu tiên mua tại đại lý ủy quyền chính hãng để được hưởng chế độ bảo hành đầy đủ, đồng thời tận dụng các chương trình khuyến mãi, trả góp 0% lãi suất phổ biến hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Dc81LpzS0uI/mqdefault.jpg" alt="So sanh cac dong may giat tu pho thong den cao cap 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Dc81LpzS0uI/mqdefault.jpg" alt="So sanh cac dong may giat tu pho thong den cao cap 2026" loading="lazy" width="1280" height="480">
   <figcaption>So sánh các dòng máy giặt từ phổ thông tới cao cấp giúp người mua dễ đưa ra quyết định phù hợp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Ngoài hai thương hiệu tiêu biểu kể trên, thị trường máy giặt 
 Với các gia đình sống tại chung cư, nên đặc biệt lưu ý tới độ ồn và độ rung của máy giặt khi vận hành, tránh ảnh hưởng tới các căn hộ lân cận, đặc biệt nếu đặt máy giặt ở khu vực gần tường chung với nhà hàng xóm hoặc vận hành vào khung giờ đêm khuya.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SZei9OgenNw/mqdefault.jpg" alt="May giat thong minh AI tien loi cho gia dinh ban ron" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SZei9OgenNw/mqdefault.jpg" alt="May giat thong minh AI tien loi cho gia dinh ban ron" loading="lazy" width="1280" height="480">
   <figcaption>Máy giặt tích hợp AI mang lại sự tiện lợi đáng kể cho các gia đình bận rộn hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 

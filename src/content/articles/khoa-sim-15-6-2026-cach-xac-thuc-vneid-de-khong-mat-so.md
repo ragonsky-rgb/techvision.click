@@ -64,7 +64,7 @@ Theo thống kê của các nhà mạng, đã có hơn 93 triệu số điện t
 Nhóm có nguy cơ cao nhất gồm: người chưa xác thực sinh trắc học, SIM đang đứng tên người khác, thuê bao dùng giấy tờ cũ hoặc thông tin sai lệch, người lớn tuổi không quen thao tác công nghệ, và người ở vùng sâu vùng xa khó tiếp cận dịch vụ. Nếu bạn hoặc người thân thuộc các nhóm này, hãy kiểm tra ngay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3m-u1wdcaVA/maxresdefault.jpg" alt="Hướng dẫn xác thực số điện thoại chính chủ trên ứng dụng VNeID" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3m-u1wdcaVA/maxresdefault.jpg" alt="Hướng dẫn xác thực số điện thoại chính chủ trên ứng dụng VNeID" loading="lazy" width="1280" height="720">
   <figcaption>Xác thực SIM chính chủ có thể tự làm trên app VNeID. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Nếu không dùng được VNeID, bạn có hai lựa chọn thay thế: dùng 
 Lưu ý: tên mục và bước thao tác có thể thay đổi theo phiên bản app. Nếu không tìm thấy hoặc thông tin không khớp, hãy liên hệ tổng đài nhà mạng hoặc ra cửa hàng để được hỗ trợ, tránh làm theo các hướng dẫn không chính thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/qya_-1M9H6I/maxresdefault.jpg" alt="Các bước xác thực SIM chính chủ trên VNeID cho người dùng Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qya_-1M9H6I/maxresdefault.jpg" alt="Các bước xác thực SIM chính chủ trên VNeID cho người dùng Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Toàn bộ quá trình xác thực thường chỉ mất vài phút nếu thông tin khớp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Bước một, từ 15/6/2026, thuê bao chưa xác thực bị khóa một chi�
 Tính theo mốc 15/6, thời điểm khóa hai chiều rơi vào khoảng giữa tháng 8, và thu hồi số khoảng vài ngày sau đó. Vì vậy, dù mới chỉ bị khóa một chiều, bạn nên xác thực càng sớm càng tốt thay vì chờ tới sát hạn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xJDXqyk8GGw/maxresdefault.jpg" alt="Hạn chót xác thực thuê bao di động và ảnh hưởng tới người dùng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xJDXqyk8GGw/maxresdefault.jpg" alt="Hạn chót xác thực thuê bao di động và ảnh hưởng tới người dùng" loading="lazy" width="1280" height="720">
   <figcaption>Bỏ lỡ các mốc thời gian có thể khiến thuê bao bị thu hồi vĩnh viễn. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -64,7 +64,7 @@ Cái tên được nhắc tới nhiều nhất trong giới công nghệ thời 
 Việc tin đồn xuất hiện dày đặc phản ánh một thực tế của ngành AI, đó là nhịp ra mắt phiên bản ngày càng ngắn. Thay vì những bước nhảy lớn cách nhau nhiều năm, các phòng thí nghiệm nay tung bản cập nhật nhỏ liên tục để giữ lợi thế cạnh tranh. Người dùng nên đón nhận các thông tin này một cách thận trọng, chờ thông báo chính thức thay vì vội tin vào các bảng so sánh chưa được kiểm chứng. Trước đó, OpenAI đã có bước đi đáng chú ý khi [cập nhật ChatGPT với GPT-5.5 và hệ thống bộ nhớ mới](/articles/openai-chatgpt-gpt-5-5-cap-nhat-thang-6-2026-bo-nho-moi-khai-tu.html), cho thấy hướng phát triển tập trung vào cá nhân hóa và ghi nhớ ngữ cảnh dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-AAJLw2t0Ac/maxresdefault.jpg" alt="Tin đồn GPT-5.6 và các bản cập nhật ChatGPT của OpenAI năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-AAJLw2t0Ac/maxresdefault.jpg" alt="Tin đồn GPT-5.6 và các bản cập nhật ChatGPT của OpenAI năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Tin đồn về GPT-5.6 xuất hiện dày đặc nhưng chưa được OpenAI xác nhận. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Việc tin đồn xuất hiện dày đặc phản ánh một thực tế của 
 Trong khi đó, Anthropic định vị Claude Opus 4.7 quanh thế mạnh lập trình và viết lách. Các mô hình Claude nổi tiếng với khả năng đọc hiểu tài liệu dài và giữ mạch logic tốt trong những tác vụ phức tạp, nhờ cửa sổ ngữ cảnh lớn có thể lên tới khoảng một triệu token, tương đương hàng nghìn trang văn bản hoặc toàn bộ một mã nguồn lớn. Sự khác biệt trong định vị giữa Google và Anthropic cho thấy cuộc đua AI không còn là chuyện ai mạnh nhất, mà là ai phù hợp nhất với từng loại công việc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/A9G3s8Qeu_8/maxresdefault.jpg" alt="So sánh Gemini và Claude về suy luận, lập trình và viết lách" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/A9G3s8Qeu_8/maxresdefault.jpg" alt="So sánh Gemini và Claude về suy luận, lập trình và viết lách" loading="lazy" width="1280" height="720">
   <figcaption>Google và Anthropic chọn hai hướng định vị khác nhau cho mô hình đầu bảng của mình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Một diễn biến đáng chú ý khác là sự vươn lên của các mô hì
 Không dừng ở chatbot, các phòng thí nghiệm Trung Quốc còn đẩy mạnh mảng robot AI. Một startup có trụ sở tại Hàng Châu từng thông báo mô hình robot của họ vươn lên vị trí dẫn đầu ở một bảng xếp hạng đánh giá quốc tế, cho thấy tham vọng vượt ra ngoài phần mềm. Khi các mô hình mạnh nhưng rẻ xuất hiện ngày càng nhiều, áp lực giảm giá lan sang toàn ngành, và người dùng cuối là bên hưởng lợi rõ nhất nhờ được tiếp cận công cụ tốt với chi phí thấp hơn trước.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WrzjjM2DSxU/maxresdefault.jpg" alt="Mô hình AI giá rẻ của Trung Quốc cạnh tranh với ChatGPT và Claude" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WrzjjM2DSxU/maxresdefault.jpg" alt="Mô hình AI giá rẻ của Trung Quốc cạnh tranh với ChatGPT và Claude" loading="lazy" width="1280" height="720">
   <figcaption>Các mô hình Trung Quốc cạnh tranh mạnh nhờ hiệu quả trên chi phí, gây áp lực giảm giá toàn ngành. Nguồn: YouTube</figcaption>
 </figure>
 

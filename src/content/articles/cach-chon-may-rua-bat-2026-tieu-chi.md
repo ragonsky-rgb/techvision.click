@@ -69,7 +69,7 @@ Với gia đình khoảng 4-5 người, máy rửa bát sức chứa khoảng 12
 Số lượng chương trình rửa càng nhiều thì máy càng linh hoạt trong việc xử lý nhiều loại bát đĩa khác nhau, từ chén bát thông thường, nồi niêu dính dầu mỡ nặng, tới ly thủy tinh mỏng manh cần chế độ rửa nhẹ nhàng hơn. Các dòng cao cấp thường có thêm chương trình rửa nhanh tiết kiệm thời gian và chương trình rửa tiết kiệm năng lượng cho những lần không cần rửa gấp, mang lại sự linh hoạt tối đa cho người sử dụng tùy theo nhu cầu cụ thể từng lần.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/CjmjkObSo4c/sddefault.jpg" alt="Review may rua bat Bosch am tu Series 6 giao lap dat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/CjmjkObSo4c/sddefault.jpg" alt="Review may rua bat Bosch am tu Series 6 giao lap dat" loading="lazy" width="1280" height="480">
   <figcaption>Quá trình giao hàng và lắp đặt máy rửa bát âm tủ Bosch Series 6 thực tế tại nhà khách hàng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Máy rửa bát âm tủ được lắp đặt cố định vào hệ tủ bếp
 Với gia đình có không gian bếp mở, thông với phòng khách hoặc phòng ăn, độ ồn khi vận hành là yếu tố cần cân nhắc kỹ để không ảnh hưởng tới sinh hoạt chung của gia đình. Các dòng máy cao cấp thường có công nghệ giảm ồn tốt hơn, phù hợp chạy máy vào ban đêm hoặc trong lúc cả gia đình đang sinh hoạt tại khu vực gần đó mà không gây khó chịu về tiếng ồn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/CjmjkObSo4c/mqdefault.jpg" alt="Cau tao ben trong may rua bat Bosch chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/CjmjkObSo4c/mqdefault.jpg" alt="Cau tao ben trong may rua bat Bosch chi tiet" loading="lazy" width="1280" height="480">
   <figcaption>Hiểu rõ cấu tạo bên trong giúp người dùng bảo trì máy rửa bát hiệu quả hơn trong quá trình sử dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nhiều gia đình hiện đang xây dựng gian bếp hiện đại toàn diệ
 Cuối cùng, người mua cũng nên kiểm tra kỹ hệ thống cấp thoát nước hiện có trong bếp trước khi lắp đặt máy rửa bát, đảm bảo có sẵn đường ống cấp nước và thoát nước phù hợp, tránh phát sinh chi phí cải tạo đường ống lớn ngoài dự kiến ban đầu khi quyết định lắp đặt thiết bị mới này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hrNy14IIK5E/mqdefault.jpg" alt="Lap dat may rua bat am tu tai nha khach hang" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hrNy14IIK5E/mqdefault.jpg" alt="Lap dat may rua bat am tu tai nha khach hang" loading="lazy" width="1280" height="480">
   <figcaption>Quá trình lắp đặt máy rửa bát âm tủ cần được thực hiện đúng kỹ thuật để đảm bảo vận hành ổn định lâu dài. Nguồn: YouTube</figcaption>
 </figure>
 

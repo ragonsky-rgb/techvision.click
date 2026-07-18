@@ -72,7 +72,7 @@ Bức tranh cả năm còn u ám hơn. IDC dự báo lượng smartphone xuất 
 Gốc rễ của vấn đề nằm ở cơn sốt xây dựng trung tâm dữ liệu AI. Ba nhà sản xuất bộ nhớ lớn nhất thế giới là Samsung, SK Hynix và Micron đang dồn phần lớn công suất wafer cho bộ nhớ băng thông cao HBM, loại chip có biên lợi nhuận vượt trội dùng trong các cụm máy chủ huấn luyện và suy luận AI. Cứ mỗi bit HBM được sản xuất, các hãng phải hy sinh nhiều bit DRAM thông thường vốn dành cho điện thoại và máy tính.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-YNk9_e4pg4/hqdefault.jpg" alt="Khủng hoảng RAM toàn cầu ngày càng trầm trọng vì nhu cầu AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-YNk9_e4pg4/hqdefault.jpg" alt="Khủng hoảng RAM toàn cầu ngày càng trầm trọng vì nhu cầu AI" loading="lazy" width="1280" height="720">
   <figcaption>Nguồn cung RAM cho thiết bị tiêu dùng ngày càng eo hẹp khi các hãng bộ nhớ ưu tiên đơn hàng HBM cho AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Trong bức tranh chung ảm đạm, hai ông lớn đầu bảng lại đang tr
 Apple thậm chí còn đi ngược thị trường khi lượng máy xuất xưởng tăng 3%, đạt thị phần kỷ lục 20% trong một quý 2. Đáng chú ý, Apple là hãng lớn duy nhất chưa tăng giá bán trong quý vừa qua nhờ các hợp đồng mua bộ nhớ dài hạn được ký từ trước với giá tốt, dù CEO Tim Cook đã thừa nhận sức ép tăng giá đang lớn dần với các sản phẩm ra mắt tới đây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BxRkZtfv6Xo/hq720.jpg" alt="Xiaomi OPPO vivo giảm hai chữ số vì lệ thuộc phân khúc điện thoại giá rẻ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BxRkZtfv6Xo/hq720.jpg" alt="Xiaomi OPPO vivo giảm hai chữ số vì lệ thuộc phân khúc điện thoại giá rẻ" loading="lazy" width="1280" height="720">
   <figcaption>Nhóm thương hiệu dựa vào phân khúc giá rẻ chịu thiệt hại nặng nhất khi chi phí bộ nhớ tăng vọt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Ngược lại, Xiaomi, OPPO và vivo đều ghi nhận mức giảm hai chữ s
 Với người mua tại Việt Nam, tác động dễ thấy nhất là mặt bằng giá điện thoại phổ thông và tầm trung sẽ tiếp tục nhích lên trong nửa cuối năm, đúng như cảnh báo trong bài [Gartner dự báo giá máy tính tăng 17%, điện thoại tăng 13% trong 2026](/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html). Một số hãng thậm chí chọn cách giảm cấu hình RAM và bộ nhớ trong ở máy giá rẻ để giữ giá niêm yết, nghĩa là người mua trả tiền như cũ nhưng nhận về phần cứng ít hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/txOupbbDfPo/hq720.jpg" alt="Giá điện thoại phổ thông tại Việt Nam chịu sức ép tăng vì chi phí chip nhớ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/txOupbbDfPo/hq720.jpg" alt="Giá điện thoại phổ thông tại Việt Nam chịu sức ép tăng vì chi phí chip nhớ" loading="lazy" width="1280" height="720">
   <figcaption>Chi phí bộ nhớ tăng khiến điện thoại phổ thông hoặc tăng giá, hoặc bị cắt giảm cấu hình RAM. Nguồn: YouTube</figcaption>
 </figure>
 

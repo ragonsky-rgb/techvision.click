@@ -76,7 +76,7 @@ Một tính năng được nhiều người chú ý là teleprompter, cho phép 
 Về di chuyển, tính năng điều hướng người đi bộ đã được mở rộng tới 32 thành phố, hiển thị chỉ dẫn ngay trước mắt mà không cần nhìn xuống điện thoại. Kính cũng bổ sung các tiện ích đời thường như theo dõi dinh dưỡng bằng cách chụp ảnh hoặc ra lệnh giọng nói để ghi lại món ăn, xem và tương tác với Instagram Reels, cùng các phím tắt Spotify cho danh sách phát yêu thích. Những bổ sung này hướng tới việc dùng kính liền mạch trong sinh hoạt hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Kmdu2uenbnA/maxresdefault.jpg" alt="Meta Ray-Ban Display kỷ nguyên mới của kính thông minh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Kmdu2uenbnA/maxresdefault.jpg" alt="Meta Ray-Ban Display kỷ nguyên mới của kính thông minh" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình trong tròng kính mở ra nhiều tiện ích rảnh tay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Theo các nguồn tin, một bản cập nhật phần mềm lớn trong tháng 
 Tuy nhiên, Meta cũng được cho là điều chỉnh chiến lược, ưu tiên thị trường Mỹ và lùi kế hoạch bán quốc tế để tập trung nguồn lực. Điều này phản ánh thực tế rằng kính thông minh có màn hình vẫn là dòng sản phẩm mới, cần thời gian hoàn thiện và xây dựng hệ sinh thái. Dù vậy, hướng đi rõ ràng của Meta là biến kính thành nền tảng trợ lý AI đeo trên người, cạnh tranh trực tiếp với các sản phẩm như Snap Specs.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/NTKC-LExZlI/maxresdefault.jpg" alt="Trải nghiệm thực tế kính Meta Ray-Ban Display" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NTKC-LExZlI/maxresdefault.jpg" alt="Trải nghiệm thực tế kính Meta Ray-Ban Display" loading="lazy" width="1280" height="720">
   <figcaption>Meta hoàn thiện kính qua các bản cập nhật phần mềm liên tục. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sự đầu tư mạnh của Meta vào Ray-Ban Display diễn ra giữa lúc th�
 Cuộc cạnh tranh này có lợi cho người dùng, khi các tính năng được hoàn thiện nhanh và giá có thể hợp lý hơn theo thời gian. Tuy nhiên, các thách thức cố hữu của kính thông minh như thời lượng pin, sự thoải mái khi đeo lâu và lo ngại về quyền riêng tư vẫn cần được giải quyết. Meta Ray-Ban Display là một trong những sản phẩm đáng theo dõi để hình dung kính AI sẽ tiến hóa ra sao, có thể so sánh thêm với [Snap Specs](/articles/snap-specs-kinh-ar-2026-ra-mat-gia-2195-usd-doi-thu-apple-vision-pro.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/yyzJQmveKZU/maxresdefault.jpg" alt="So sánh kính Meta Ray-Ban Display với các đối thủ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yyzJQmveKZU/maxresdefault.jpg" alt="So sánh kính Meta Ray-Ban Display với các đối thủ" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều hãng cùng đua kính AI với các cách tiếp cận khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

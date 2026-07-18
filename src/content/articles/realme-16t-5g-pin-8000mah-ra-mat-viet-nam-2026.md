@@ -76,7 +76,7 @@ Realme còn đi xa hơn khi công bố tuổi thọ pin lên tới 7 năm, với
 Realme 16T không chỉ là một cục pin biết gọi điện. Máy được trang bị màn hình có tần số quét cao 144Hz, mang lại trải nghiệm cuộn lướt và chơi game mượt mà, một yếu tố quan trọng với nhóm người dùng trẻ và game thủ mà sản phẩm nhắm tới. Tần số quét cao kết hợp với pin lớn tạo nên một combo hấp dẫn cho nhu cầu giải trí kéo dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/c4NQ6W3TIlc/hqdefault.jpg" alt="Realme 16T 5G có màn hình 144Hz và camera cảm biến Sony cho phân khúc tầm trung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/c4NQ6W3TIlc/hqdefault.jpg" alt="Realme 16T 5G có màn hình 144Hz và camera cảm biến Sony cho phân khúc tầm trung" loading="lazy" width="1280" height="720">
   <figcaption>Realme 16T cân bằng giữa pin lớn, màn hình mượt và độ bền cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Về nhiếp ảnh, máy sử dụng camera với cảm biến Sony, hứa hẹn
 ## Vị thế tại thị trường Việt Nam
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WzLSTgsrw2U/hqdefault.jpg" alt="Realme 16T 5G cạnh tranh trong phân khúc tầm trung tại Việt Nam với giá từ 7 triệu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WzLSTgsrw2U/hqdefault.jpg" alt="Realme 16T 5G cạnh tranh trong phân khúc tầm trung tại Việt Nam với giá từ 7 triệu" loading="lazy" width="1280" height="720">
   <figcaption>Realme 16T định vị ở phân khúc tầm trung với lợi thế pin và độ bền. Nguồn: YouTube</figcaption>
 </figure>
 
 Tại Việt Nam, Realme 16T được giới thiệu với mức giá khởi điểm từ khoảng 7 triệu đồng, tùy phiên bản bộ nhớ và chương trình của từng nhà bán lẻ. Ở tầm giá này, máy bước vào một phân khúc cực kỳ cạnh tranh, nơi có nhiều lựa chọn từ các thương hiệu khác nhau. Lợi thế cạnh tranh của Realme 16T nằm rõ ràng ở viên pin vượt trội và định hướng độ bền, những yếu tố dễ tạo ấn tượng với người mua thực dụng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/j6sllgrE6K4/hqdefault.jpg" alt="Realme 16T với pin siêu lớn hướng tới người dùng trẻ và game thủ tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/j6sllgrE6K4/hqdefault.jpg" alt="Realme 16T với pin siêu lớn hướng tới người dùng trẻ và game thủ tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Pin trâu và giá hợp lý là công thức quen thuộc giúp Realme hút người dùng trẻ. Nguồn: YouTube</figcaption>
 </figure>
 

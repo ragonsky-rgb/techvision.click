@@ -60,7 +60,7 @@ Mỗi năm cứ đến khoảng giữa hè, thị trường iPhone chính hãng 
 Ở phân khúc dễ tiếp cận nhất, iPhone 17e bản 256GB hiện được niêm yết quanh 17,49 triệu đồng, thậm chí có nơi kéo xuống vùng 15 triệu trong các đợt khuyến mãi cuối tuần. Đây là mức hấp dẫn cho một chiếc iPhone còn rất mới, sở hữu chip đời gần nhất và thời lượng pin tốt, phù hợp với người lần đầu lên iPhone hoặc muốn đổi máy mà không cần cấu hình quá cao.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0ROezf4ugWk/hqdefault.jpg" alt="iPhone 17 bản tiêu chuẩn giảm giá tại Việt Nam tháng 7/2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0ROezf4ugWk/hqdefault.jpg" alt="iPhone 17 bản tiêu chuẩn giảm giá tại Việt Nam tháng 7/2026" loading="lazy" width="1280" height="720">
   <figcaption>iPhone 17 tiêu chuẩn với màn hình 120Hz và khởi điểm 256GB đang về vùng giá dễ chịu hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Lên một bậc, iPhone 17 bản tiêu chuẩn 256GB dao động quanh 23,5 t�
 Trong cả dòng, iPhone Air là cái tên gây chú ý nhất khi phiên bản dung lượng cao giảm tới 29%, tương đương bốc hơi gần 9 triệu đồng và về quanh mốc 31,99 triệu. Đây là mẫu máy mỏng nhẹ thiên về thiết kế, nên khi giá hạ mạnh, nó trở nên hấp dẫn với nhóm người dùng ưu tiên cảm giác cầm nắm và ngoại hình hơn là camera hay pin dung lượng lớn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4pCeMkRkQLk/hqdefault.jpg" alt="iPhone 17 Pro Max giảm giá khoảng 2 triệu đồng tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4pCeMkRkQLk/hqdefault.jpg" alt="iPhone 17 Pro Max giảm giá khoảng 2 triệu đồng tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>iPhone 17 Pro Max 256GB lùi về quanh 35,99 triệu, kèm nhiều ưu đãi thu cũ và mua theo combo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Bối cảnh giá linh kiện cũng góp phần khiến đợt giảm này đán
 Câu hỏi lớn nhất với người đang phân vân là có nên chờ iPhone 18. Theo các nguồn tin quốc tế, iPhone 18 Pro và Pro Max dự kiến ra mắt quanh ngày 9/9/2026 và lên kệ giữa tháng 9, với chip A20 dùng tiến trình 2nm lần đầu tiên. Tuy nhiên, mùa thu năm nay Apple được cho là chỉ tung ra bản Pro, Pro Max và iPhone Fold, còn iPhone 18 tiêu chuẩn lùi sang mùa xuân 2027.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/K46bEiVPSrI/hqdefault.jpg" alt="So sánh iPhone 17 và iPhone 18 sắp ra mắt tháng 9/2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/K46bEiVPSrI/hqdefault.jpg" alt="So sánh iPhone 17 và iPhone 18 sắp ra mắt tháng 9/2026" loading="lazy" width="1280" height="720">
   <figcaption>Mùa thu 2026 chỉ có iPhone 18 bản Pro và Pro Max, nên người cần máy mới giá mềm khó có lựa chọn ngay. Nguồn: YouTube</figcaption>
 </figure>
 

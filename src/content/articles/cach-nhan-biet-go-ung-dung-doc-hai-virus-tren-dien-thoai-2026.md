@@ -76,7 +76,7 @@ Khi đã xác định có ứng dụng đáng ngờ, hãy gỡ chúng. Vào ph�
 Với những app cứng đầu không gỡ được, hãy khởi động máy vào chế độ an toàn. Chế độ này vô hiệu hóa tạm thời các app bên thứ ba, giúp bạn gỡ chúng dễ dàng hơn mà không bị chúng cản trở. Sau khi gỡ, nên khởi động lại máy bình thường và quét lại bằng công cụ bảo mật để chắc chắn không còn sót. Việc kiểm soát quyền của ứng dụng cũng quan trọng để bảo vệ dữ liệu cá nhân, như hướng dẫn trong bài [cách bảo vệ quyền riêng tư dữ liệu cá nhân](/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BI85W152iOs/maxresdefault.jpg" alt="Gỡ ứng dụng độc hại và thu hồi quyền quản trị trên điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BI85W152iOs/maxresdefault.jpg" alt="Gỡ ứng dụng độc hại và thu hồi quyền quản trị trên điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Gỡ app lạ và thu hồi quyền là bước quan trọng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh việc gỡ thủ công, hãy tận dụng các công cụ quét b�
 Một bước quan trọng khác là kiểm tra quyền của các ứng dụng. Nhiều app xin quyền vượt quá nhu cầu, ví dụ một app đèn pin lại xin quyền truy cập danh bạ, tin nhắn hay vị trí. Hãy rà soát và thu hồi các quyền bất thường, đặc biệt là quyền nhạy cảm như tin nhắn, danh bạ, micro và camera. Việc giới hạn quyền giúp giảm rủi ro ngay cả khi một app có ý đồ xấu. Quản lý quyền chặt chẽ là thói quen bảo mật tốt, song hành với việc bảo vệ các tài khoản quan trọng như nêu trong bài [cách bảo mật tài khoản Google](/articles/cach-bao-mat-tai-khoan-google-chong-hack-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/lIbc-Qjhegk/hqdefault.jpg" alt="Quét bảo mật và kiểm tra quyền ứng dụng trên điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/lIbc-Qjhegk/hqdefault.jpg" alt="Quét bảo mật và kiểm tra quyền ứng dụng trên điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Quét bảo mật và kiểm tra quyền giúp phát hiện mã độc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Nếu đã gỡ app độc hại và quét bảo mật mà máy vẫn có dấu 
 Sau khi xử lý máy, một bước quan trọng không nên bỏ qua là đổi mật khẩu các tài khoản quan trọng, vì chúng có thể đã bị lộ khi máy nhiễm mã độc. Ưu tiên đổi mật khẩu email, ngân hàng và mạng xã hội, đồng thời bật xác thực hai lớp để tăng bảo vệ. Nếu nghi ngờ tài khoản ngân hàng bị ảnh hưởng, hãy liên hệ ngân hàng ngay. Trường hợp không tự xử lý được, nên mang máy tới cơ sở uy tín thay vì tự ý cài các app diệt virus không rõ nguồn gốc, vì chúng có thể chính là mã độc trá hình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/u_gO1z-7PFQ/maxresdefault.jpg" alt="Khôi phục cài đặt gốc và đổi mật khẩu khi điện thoại nhiễm mã độc nặng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/u_gO1z-7PFQ/maxresdefault.jpg" alt="Khôi phục cài đặt gốc và đổi mật khẩu khi điện thoại nhiễm mã độc nặng" loading="lazy" width="1280" height="720">
   <figcaption>Khôi phục cài đặt gốc và đổi mật khẩu khi nhiễm nặng. Nguồn: YouTube</figcaption>
 </figure>
 

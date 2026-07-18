@@ -76,7 +76,7 @@ Trong bối cảnh AI PC trở thành xu hướng chủ đạo, khối xử lý 
 Việc tích hợp NPU mạnh phản ánh sự dịch chuyển của ngành sang điện toán AI trên thiết bị, nơi laptop có thể xử lý các tác vụ như tạo ảnh, tóm tắt văn bản hay trợ lý thông minh mà không phụ thuộc kết nối mạng. Intel cạnh tranh trực tiếp với các nền tảng khác cũng nhấn mạnh NPU, như chip Snapdragon dùng kiến trúc ARM. Cuộc đua này thúc đẩy các hãng liên tục nâng cấp năng lực AI trên máy tính cá nhân.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LnefvaoGukU/maxresdefault.jpg" alt="Intel ra mắt chip Panther Lake Core Ultra Series 3 tại CES" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LnefvaoGukU/maxresdefault.jpg" alt="Intel ra mắt chip Panther Lake Core Ultra Series 3 tại CES" loading="lazy" width="1280" height="720">
   <figcaption>NPU 50 TOPS giúp Panther Lake đáp ứng chuẩn Copilot+ PC. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về hiệu năng, Intel công bố Core Ultra Series 3 mang lại bước nhả
 Cần lưu ý rằng đây là các con số do Intel công bố trong điều kiện thử nghiệm, còn hiệu năng và thời lượng pin thực tế phụ thuộc vào từng mẫu laptop, cấu hình và cách sử dụng. Tuy nhiên, mức cải thiện lớn cho thấy Panther Lake là một bước tiến thực sự, đặc biệt với người dùng văn phòng và sáng tạo nội dung cần máy mạnh nhưng vẫn di động. Để chọn laptop phù hợp, có thể tham khảo bài [cách chọn laptop sinh viên, văn phòng](/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/l_5HTStMvvo/maxresdefault.jpg" alt="Panther Lake có thể là chip cho laptop tiếp theo của bạn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/l_5HTStMvvo/maxresdefault.jpg" alt="Panther Lake có thể là chip cho laptop tiếp theo của bạn" loading="lazy" width="1280" height="720">
   <figcaption>Panther Lake cải thiện mạnh hiệu năng và thời lượng pin. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sự ra mắt của Panther Lake làm nóng thêm cuộc cạnh tranh trên th�
 Với hơn 200 mẫu thiết kế từ các đối tác như MSI, Lenovo và ASUS dự kiến ra thị trường trong nửa đầu năm, Panther Lake sẽ hiện diện rộng rãi trên nhiều phân khúc laptop. Điều này mang lại cho người mua nhiều lựa chọn, từ máy mỏng nhẹ tới máy hiệu năng cao. Sự đa dạng này, cùng với năng lực AI và thời lượng pin cải thiện, định hình lại tiêu chuẩn của một chiếc laptop hiện đại trong năm 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ABgBWfQm-Rc/maxresdefault.jpg" alt="Phân tích chuyên sâu chip Panther Lake Core Ultra 3 cùng Intel" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ABgBWfQm-Rc/maxresdefault.jpg" alt="Phân tích chuyên sâu chip Panther Lake Core Ultra 3 cùng Intel" loading="lazy" width="1280" height="720">
   <figcaption>Hơn 200 mẫu laptop Panther Lake dự kiến ra mắt nửa đầu năm. Nguồn: YouTube</figcaption>
 </figure>
 

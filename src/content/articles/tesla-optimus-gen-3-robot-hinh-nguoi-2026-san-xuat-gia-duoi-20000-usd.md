@@ -76,7 +76,7 @@ Tesla đã trưng bày robot Optimus tại triển lãm Appliance & Electronics 
 Về kỹ thuật, các thông tin lan truyền cho biết Gen 3 cải thiện đáng kể khả năng vận động, với đôi chân mới được cho là đạt tốc độ cao hơn hẳn thế hệ trước, cùng bộ não AI nâng cấp. Tuy nhiên, nhiều chi tiết trong số này đến từ các nguồn không chính thức và cần được kiểm chứng khi Tesla công bố thông số đầy đủ. Điều chắc chắn là Tesla đặt cược lớn vào Optimus như một trụ cột tăng trưởng tương lai, bên cạnh mảng kinh doanh cốt lõi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Mw3paQyb1ZI/maxresdefault.jpg" alt="Tesla Optimus Gen 3 với đôi chân mới và khả năng vận động cải thiện" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Mw3paQyb1ZI/maxresdefault.jpg" alt="Tesla Optimus Gen 3 với đôi chân mới và khả năng vận động cải thiện" loading="lazy" width="1280" height="720">
   <figcaption>Gen 3 được kỳ vọng cải thiện mạnh về vận động so với thế hệ trước. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tesla không đơn độc trong cuộc đua này. Đối thủ đáng gờm nh�
 Bên cạnh đó, các công ty Trung Quốc như Unitree cũng tăng tốc, với số lượng robot xuất xưởng lớn và tham vọng mở rộng mạnh trong năm 2026. Sự cạnh tranh đa chiều này thúc đẩy cả ngành tiến nhanh hơn, từ cải thiện phần cứng tới giảm giá thành. Với Tesla, việc đối thủ đã đi vào sản xuất thương mại tạo áp lực phải sớm biến lời hứa thành sản phẩm thực, thay vì chỉ dừng ở các màn trình diễn ấn tượng trên sân khấu. Bức tranh robot hình người rộng hơn cũng được phân tích trong bài [Boston Dynamics Atlas và Gemini Robotics](/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FeHMoqP416U/hqdefault.jpg" alt="Tesla Optimus Gen 3 first look so sánh với đối thủ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FeHMoqP416U/hqdefault.jpg" alt="Tesla Optimus Gen 3 first look so sánh với đối thủ" loading="lazy" width="1280" height="720">
   <figcaption>Figure và Unitree khiến cuộc đua robot hình người thêm quyết liệt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Trước mắt, robot hình người chủ yếu hướng tới ứng dụng cô
 Về dài hạn, tham vọng của các hãng là đưa robot vào nhiều môi trường hơn, thậm chí hỗ trợ trong gia đình. Tuy nhiên, công nghệ vẫn ở giai đoạn đầu, với nhiều thách thức về an toàn khi hoạt động gần con người, chi phí, độ bền và khung pháp lý. Sự phát triển của robot hình người cũng đặt ra câu hỏi về tác động tới việc làm, một chủ đề ngày càng được quan tâm song song với làn sóng AI. Vấn đề này được đề cập thêm trong bài [AI và làn sóng mất việc đầu 2026](/articles/ai-88000-nguoi-my-mat-viec-5-thang-dau-2026-challenger.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0MdqMYxGJKU/maxresdefault.jpg" alt="Tesla Bot Gen 3 thông số so sánh với Figure" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0MdqMYxGJKU/maxresdefault.jpg" alt="Tesla Bot Gen 3 thông số so sánh với Figure" loading="lazy" width="1280" height="720">
   <figcaption>Robot hình người trước mắt tập trung vào ứng dụng công nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 

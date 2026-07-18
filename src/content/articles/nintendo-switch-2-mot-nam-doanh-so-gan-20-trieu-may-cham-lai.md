@@ -76,7 +76,7 @@ Bên cạnh các con số tích cực, Nintendo tỏ ra thận trọng về tư�
 Việc chững lại sau năm đầu bùng nổ thực ra là hiện tượng quen thuộc với các máy chơi game. Nhóm người hâm mộ trung thành thường mua sớm ngay khi máy ra mắt, nên sau giai đoạn đầu, tốc độ bán tự nhiên giảm cho tới khi có các game bom tấn mới hoặc đợt giảm giá kích cầu. Thách thức của Nintendo là duy trì sức hút qua kho game độc quyền và các phiên bản, gói khuyến mãi hấp dẫn trong những năm tiếp theo.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4HHvbTaZR2I/maxresdefault.jpg" alt="Dữ liệu doanh số Nintendo Switch 2 được công bố" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4HHvbTaZR2I/maxresdefault.jpg" alt="Dữ liệu doanh số Nintendo Switch 2 được công bố" loading="lazy" width="1280" height="720">
   <figcaption>Nintendo dự báo doanh số năm thứ hai của Switch 2 giảm so với năm đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một lý do khiến Switch 2 được đón nhận là bước nhảy đáng k�
 Khi cắm dock để chơi trên TV, Switch 2 có thể xuất hình ảnh ở độ phân giải 4K tốc độ 60Hz, đưa trải nghiệm tới gần hơn với các console cạnh tranh. Sức mạnh đồ họa này giúp Switch 2 chạy được nhiều tựa game mà bản gốc không thể kham nổi, mở rộng thư viện game và thu hút cả các nhà phát triển bên thứ ba. Đây là yếu tố quan trọng để nền tảng giữ được sức sống lâu dài, bên cạnh các game độc quyền của Nintendo.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/f62n5Toxrcg/maxresdefault.jpg" alt="Sự thật về doanh số Nintendo Switch 2 năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/f62n5Toxrcg/maxresdefault.jpg" alt="Sự thật về doanh số Nintendo Switch 2 năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Bước nhảy phần cứng giúp Switch 2 chạy nhiều game nặng hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sức mạnh thực sự của một console nằm ở kho game, và đây là n
 Chặng đường phía trước của Switch 2 phụ thuộc nhiều vào việc Nintendo cân bằng giữa giá bán, nguồn cung và sức hấp dẫn của game. Nếu giữ được nhịp ra game bom tấn và có chiến lược giá hợp lý, máy hoàn toàn có thể duy trì vị thế dù đà bán chậm lại theo chu kỳ tự nhiên. Với người chơi, điều quan trọng là thư viện game ngày càng phong phú, yếu tố quyết định giá trị thực của một nền tảng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/t7TOubFHkys/maxresdefault.jpg" alt="Ấn tượng đầu tiên về Nintendo Switch 2 năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/t7TOubFHkys/maxresdefault.jpg" alt="Ấn tượng đầu tiên về Nintendo Switch 2 năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Kho game độc quyền là yếu tố giữ sức sống cho Switch 2. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -67,7 +67,7 @@ Sáng kiến tập hợp một danh sách đối tác hiếm thấy trong ngành
 Đứng sau Project Glasswing là Claude Mythos, model AI mạnh nhất của Anthropic tính tới hiện tại. Khác với các phiên bản Claude thông thường, Mythos được giữ kín và không mở cho công chúng. Mô hình có khả năng tự động tìm ra hàng nghìn lỗ hổng zero-day chỉ trong vài tuần, một tốc độ vượt xa năng lực của đội ngũ con người.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Y9Wz2PV404E/maxresdefault.jpg" alt="Claude Mythos, model AI mạnh nhất của Anthropic đứng sau Project Glasswing" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Y9Wz2PV404E/maxresdefault.jpg" alt="Claude Mythos, model AI mạnh nhất của Anthropic đứng sau Project Glasswing" loading="lazy" width="1280" height="720">
   <figcaption>Mythos là model mạnh nhất của Anthropic, được giữ kín thay vì phát hành công khai do lo ngại bị lạm dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Anthropic nói thẳng lý do không phát hành Mythos: cùng năng lực giúp
 Theo Anthropic, các đối tác Project Glasswing đã xác định hơn 10.000 lỗ hổng mức cao hoặc nghiêm trọng trong phần mềm trọng yếu. Trong đó có những zero-day tồn tại suốt hàng chục năm, kể cả một lỗ hổng đã ẩn mình 27 năm, nằm trong gần như mọi hệ điều hành và trình duyệt phổ biến.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KKnYbdQZM2A/maxresdefault.jpg" alt="AI tự động phát hiện lỗ hổng zero-day ẩn trong phần mềm trọng yếu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KKnYbdQZM2A/maxresdefault.jpg" alt="AI tự động phát hiện lỗ hổng zero-day ẩn trong phần mềm trọng yếu" loading="lazy" width="1280" height="720">
   <figcaption>AI có thể phát hiện các lỗ hổng zero-day ẩn mình nhiều năm trong những phần mềm dùng hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ Theo Anthropic, các đối tác Project Glasswing đã xác định hơn 10.000
 Project Glasswing cho thấy AI đang chuyển vai trò trong an ninh mạng, từ công cụ hỗ trợ sang lực lượng phòng thủ chủ động ở quy mô lớn. Nếu các lỗ hổng được vá trước khi bị khai thác, hàng triệu người dùng phần mềm phổ biến được hưởng lợi gián tiếp mà không cần làm gì.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Fg9hCKH1sYs/maxresdefault.jpg" alt="AI chuyển sang vai trò phòng thủ chủ động trong an ninh mạng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Fg9hCKH1sYs/maxresdefault.jpg" alt="AI chuyển sang vai trò phòng thủ chủ động trong an ninh mạng" loading="lazy" width="1280" height="720">
   <figcaption>An ninh mạng bước vào giai đoạn AI vừa là vũ khí phòng thủ vừa là rủi ro nếu rơi vào tay kẻ xấu. Nguồn: YouTube</figcaption>
 </figure>
 

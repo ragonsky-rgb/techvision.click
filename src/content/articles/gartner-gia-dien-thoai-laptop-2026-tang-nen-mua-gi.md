@@ -64,7 +64,7 @@ Theo Gartner, mức tăng 17% với máy tính và 13% với điện thoại là
 Đây là kiểu tăng giá khác với các đợt biến động ngắn hạn trước đây do tỷ giá hay chi phí vận chuyển. Lần này, gốc rễ nằm ở chính linh kiện quan trọng bậc nhất trong mọi thiết bị điện tử, đó là chip nhớ. Khi chi phí đầu vào của một thành phần cốt lõi tăng và duy trì ở mức cao trong nhiều quý, giá thành phẩm gần như chắc chắn bị kéo lên theo, bất kể thương hiệu hay phân khúc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/GzPN3Zpzusg/hqdefault.jpg" alt="Giá RAM và chip nhớ tăng mạnh ảnh hưởng tới giá máy tính năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GzPN3Zpzusg/hqdefault.jpg" alt="Giá RAM và chip nhớ tăng mạnh ảnh hưởng tới giá máy tính năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Giá RAM và chip nhớ tăng theo quý là yếu tố kéo giá máy nguyên chiếc đi lên. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Nguyên nhân gốc của đợt tăng giá là làn sóng đầu tư khổng l�
 Hệ quả là chip nhớ dành cho máy tính và điện thoại tiêu dùng ngày càng ít đi, trong khi nhu cầu thực tế của người dùng không hề giảm. Quy luật cung cầu đẩy giá RAM và bộ nhớ lên, và vì chip nhớ là thành phần có mặt trong mọi thiết bị, từ laptop, điện thoại đến máy chơi game và thiết bị đeo, hiệu ứng lan tỏa ra toàn bộ thị trường. Diễn biến này đã được phản ánh qua việc [giá RAM được dự báo tăng thêm khoảng 20% trong quý 3/2026](/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html), cho thấy áp lực chưa hạ nhiệt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/GnHQNG4mSA0/maxresdefault.jpg" alt="Các tập đoàn AI gom mua chip nhớ HBM cho trung tâm dữ liệu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GnHQNG4mSA0/maxresdefault.jpg" alt="Các tập đoàn AI gom mua chip nhớ HBM cho trung tâm dữ liệu" loading="lazy" width="1280" height="720">
   <figcaption>Nhu cầu chip nhớ cho trung tâm dữ liệu AI hút phần lớn nguồn cung khỏi thị trường tiêu dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Trong bối cảnh giá khó giảm, chiến lược hợp lý nhất là mua đ
 Về cấu hình, nguyên tắc vàng lúc này là chọn dung lượng RAM và bộ nhớ vừa đủ nhu cầu thực tế, bởi đây chính là hai thành phần chịu tác động giá mạnh nhất. Một chiếc laptop 16GB RAM đủ dùng cho phần lớn công việc văn phòng và học tập, không nhất thiết phải nhảy lên 32GB nếu không chạy tác vụ nặng. Với điện thoại, bản bộ nhớ trung bình thường có mức chênh giá hợp lý hơn so với bản dung lượng cao nhất. Người mua laptop có thể tham khảo thêm phân tích chi tiết trong bài [giá laptop có thể tăng tới 30% vì khủng hoảng RAM AI và nên mua gì](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html) để lên kế hoạch ngân sách phù hợp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/PEuvslSm1Ow/hqdefault.jpg" alt="Lời khuyên chọn cấu hình máy tính điện thoại khi giá linh kiện tăng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PEuvslSm1Ow/hqdefault.jpg" alt="Lời khuyên chọn cấu hình máy tính điện thoại khi giá linh kiện tăng" loading="lazy" width="1280" height="720">
   <figcaption>Chọn cấu hình vừa đủ nhu cầu là cách tối ưu chi phí khi giá linh kiện leo thang. Nguồn: YouTube</figcaption>
 </figure>
 

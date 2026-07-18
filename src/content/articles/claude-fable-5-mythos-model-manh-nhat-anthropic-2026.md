@@ -85,7 +85,7 @@ Fable 5 và Claude Mythos 5 dùng chung một model nền, nhưng tồn tại �
 Cái tên Mythos không xa lạ với độc giả LongTechVision. Đây chính là model lõi của sáng kiến an ninh mạng được nói tới trong bài [Project Glasswing: AI Claude Mythos tìm hơn 10.000 lỗ hổng bảo mật](/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html). Việc đưa Mythos ra công chúng dưới tên Fable 5 cho thấy Anthropic đã đủ tự tin về các biện pháp an toàn để mở rộng quyền truy cập.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/IZ-iCJ1GnGI/maxresdefault.jpg" alt="Anthropic giữ kín bản Claude Mythos đầy đủ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IZ-iCJ1GnGI/maxresdefault.jpg" alt="Anthropic giữ kín bản Claude Mythos đầy đủ" loading="lazy" width="1280" height="720">
   <figcaption>Bản Mythos 5 đầy đủ chỉ mở cho nhà nghiên cứu được xét duyệt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Người dùng trả phí gồm Claude Pro, Max, Team và Enterprise được d�
 Một chi tiết đáng chú ý về an toàn: các câu hỏi chạm tới an ninh mạng, vũ khí sinh học hoặc chưng cất model sẽ được tự động chuyển sang Opus 4.8 an toàn hơn, dự kiến ảnh hưởng dưới 5% số phiên.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DNhjITZy7cQ/maxresdefault.jpg" alt="Tác động của model Mythos tới lập trình viên" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DNhjITZy7cQ/maxresdefault.jpg" alt="Tác động của model Mythos tới lập trình viên" loading="lazy" width="1280" height="720">
   <figcaption>Lớp model Mythos thay đổi cách lập trình viên giao việc cho AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -111,7 +111,7 @@ SWE-Bench Pro là một trong những bộ chuẩn đo phổ biến cho năng l�
 Khả năng tự chủ kéo dài cũng đặt ra những thách thức mới về độ tin cậy và an toàn. Một agent chạy nhiều bước có thể tích lũy sai sót qua từng vòng, hoặc thực hiện hành động ngoài ý muốn nếu không có giới hạn rõ ràng. Đây là lý do các hãng phát triển model mạnh thường đi kèm các lớp kiểm soát, và là bối cảnh chung mà ngành AI đang cân nhắc khi trao thêm quyền tự hành cho phần mềm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/h0gZf1hL4D4/maxresdefault.jpg" alt="Đánh giá thực tế năng lực lập trình của model AI Anthropic" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/h0gZf1hL4D4/maxresdefault.jpg" alt="Đánh giá thực tế năng lực lập trình của model AI Anthropic" loading="lazy" width="1280" height="720">
   <figcaption>Lập trình kiểu agent là khả năng AI tự hoàn thành chuỗi tác vụ thay vì gợi ý từng dòng. Nguồn: YouTube</figcaption>
 </figure>
 

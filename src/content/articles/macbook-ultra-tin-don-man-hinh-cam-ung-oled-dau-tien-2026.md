@@ -66,7 +66,7 @@ Tin đồn về MacBook Ultra, mẫu Mac cao cấp được cho là sẽ tạo r
 Đi kèm màn hình cảm ứng, Apple còn được cho là sẽ loại bỏ notch quen thuộc trên các dòng MacBook Pro hiện tại, thay bằng cụm Dynamic Island tương tự thiết kế đã áp dụng trên iPhone từ nhiều năm nay, mang lại giao diện phần mềm nhất quán hơn giữa các thiết bị trong hệ sinh thái Apple.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/n_zVqEDhAqU/hqdefault.jpg" alt="MacBook Ultra tin xau ve thoi diem ra mat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/n_zVqEDhAqU/hqdefault.jpg" alt="MacBook Ultra tin xau ve thoi diem ra mat 2026" loading="lazy" width="1280" height="480">
   <figcaption>Một số báo cáo gần đây cho biết thời điểm ra mắt MacBook Ultra có thể bị trì hoãn so với dự kiến ban đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Tin đồn về MacBook Ultra, mẫu Mac cao cấp được cho là sẽ tạo r
 Trái với suy đoán ban đầu rằng MacBook Ultra sẽ đi kèm chip M6 hoàn toàn mới, Mark Gurman cho biết sản phẩm nhiều khả năng sẽ sử dụng chip M5 Pro và M5 Max hiện có, giúp Apple rút ngắn thời gian phát triển và không phải phụ thuộc vào tiến độ ra mắt dòng chip thế hệ kế tiếp. Máy được đồn đoán có hai tùy chọn kích thước màn hình 14 inch và 16 inch, giữ nguyên phân khúc tương tự dòng MacBook Pro hiện tại nhưng định vị ở vị trí cao cấp hơn hẳn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3ctS2b9r6qo/hqdefault.jpg" alt="MacBook Ultra gia ban cao nhat lich su du kien 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/3ctS2b9r6qo/hqdefault.jpg" alt="MacBook Ultra gia ban cao nhat lich su du kien 2026" loading="lazy" width="1280" height="480">
   <figcaption>MacBook Ultra được đồn đoán sẽ là chiếc MacBook có giá bán cao nhất từ trước tới nay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Về thời điểm ra mắt, các nguồn tin ban đầu kỳ vọng cuối nă
 Ngoài phần cứng, một số nhà phát triển và người dùng thử nghiệm phiên bản beta hệ điều hành macOS gần đây đã phát hiện nhiều đoạn mã và tính năng ẩn liên quan tới thao tác cảm ứng, cho thấy Apple đang âm thầm chuẩn bị nền tảng phần mềm cho một chiếc Mac có màn hình cảm ứng trong tương lai gần. Đây được xem là dấu hiệu gián tiếp nhưng khá đáng tin cậy, củng cố thêm cho loạt tin đồn phần cứng đã được nhiều nguồn tin độc lập xác nhận trong suốt nhiều tháng qua.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/EkJyeP1_oBM/hqdefault.jpg" alt="MacBook Ultra 2026 thong tin ro ri moi nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/EkJyeP1_oBM/hqdefault.jpg" alt="MacBook Ultra 2026 thong tin ro ri moi nhat" loading="lazy" width="1280" height="480">
   <figcaption>Thông tin rò rỉ về MacBook Ultra liên tục được cập nhật qua các kênh phân tích chuỗi cung ứng. Nguồn: YouTube</figcaption>
 </figure>
 

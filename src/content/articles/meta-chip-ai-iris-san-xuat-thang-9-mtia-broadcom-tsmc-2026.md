@@ -73,7 +73,7 @@ Việc kiểm thử suôn sẻ là yếu tố then chốt trước khi bước v
 Iris nằm trong một kế hoạch đầu tư hạ tầng AI có quy mô rất lớn. Meta đặt mục tiêu triển khai khoảng 7 gigawatt năng lực điện toán vào cuối năm 2026 và nâng gấp đôi lên 14 gigawatt trong năm 2027. Đây là những con số phản ánh lượng điện năng dành cho các trung tâm dữ liệu AI, một thước đo ngày càng phổ biến để đánh giá quy mô hạ tầng của các hãng công nghệ lớn. Tổng chi tiêu cho hạ tầng AI của Meta trong năm 2026 được dự báo có thể lên tới khoảng 125 đến 145 tỷ USD, phần lớn đổ vào phần cứng và trung tâm dữ liệu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FX8nEssWdRM/hqdefault.jpg" alt="Chip bán dẫn AI được sản xuất trên tiến trình tiên tiến" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FX8nEssWdRM/hqdefault.jpg" alt="Chip bán dẫn AI được sản xuất trên tiến trình tiên tiến" loading="lazy" width="1280" height="720">
   <figcaption>Iris được gia công tại TSMC, nhà sản xuất bán dẫn theo hợp đồng lớn nhất thế giới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Sự hợp tác giữa Meta và Broadcom cũng không chỉ dừng ở Iris. Hai
 Meta không đơn độc trên con đường này. Làn sóng các hãng công nghệ lớn tự phát triển chip AI riêng đã hình thành rõ nét, với động lực chung là giảm phụ thuộc vào một nhà cung cấp duy nhất và kiểm soát tốt hơn chi phí điện toán. Google từ lâu đã đầu tư mạnh vào dòng chip TPU của riêng mình, trong khi nhiều tên tuổi khác cũng công bố các dự án silicon tùy chỉnh. Khi nhu cầu tính toán cho AI tăng theo cấp số nhân, việc phụ thuộc hoàn toàn vào GPU bên ngoài trở thành rủi ro cả về nguồn cung lẫn giá thành.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SJeSdDAWlT4/hqdefault.jpg" alt="Trung tâm dữ liệu AI với hệ thống chip tăng tốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SJeSdDAWlT4/hqdefault.jpg" alt="Trung tâm dữ liệu AI với hệ thống chip tăng tốc" loading="lazy" width="1280" height="720">
   <figcaption>Năng lực điện toán tính bằng gigawatt trở thành thước đo quy mô hạ tầng AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Cuộc đua này diễn ra trong bối cảnh giá linh kiện bán dẫn và b�
 Với người dùng phổ thông, một con chip nội bộ như Iris nghe có vẻ xa vời, nhưng tác động của nó lại khá thực tế. Chi phí vận hành hạ tầng AI càng thấp, các hãng càng có dư địa để cung cấp dịch vụ AI với giá hợp lý hơn hoặc mở rộng tính năng miễn phí. Khi Meta tối ưu được phần cứng cho các mô hình của mình, các sản phẩm AI trên Facebook, Instagram, WhatsApp hay kính thông minh của hãng có thể được nâng cấp nhanh và rộng hơn, phục vụ lượng người dùng khổng lồ trên toàn cầu, bao gồm cả Việt Nam.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/lcbT5_jJ9K0/hqdefault.jpg" alt="Chip AI tự phát triển giúp giảm chi phí vận hành dịch vụ AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/lcbT5_jJ9K0/hqdefault.jpg" alt="Chip AI tự phát triển giúp giảm chi phí vận hành dịch vụ AI" loading="lazy" width="1280" height="720">
   <figcaption>Chi phí hạ tầng AI càng thấp, các hãng càng có dư địa mở rộng tính năng cho người dùng. Nguồn: YouTube</figcaption>
 </figure>
 

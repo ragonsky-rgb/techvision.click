@@ -64,7 +64,7 @@ iOS 27 beta là bản thử nghiệm của hệ điều hành iOS 27, được A
 Điểm thay đổi đáng chú ý là tài khoản Apple Developer nay đã miễn phí, nên ai cũng có thể đăng ký để cài developer beta mà không phải trả phí thành viên như trước. Toàn bộ tính năng mới trong bản này được tổng hợp trong bài [iOS 27: tổng hợp tính năng mới sau WWDC 2026](/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BFBnVAlowYY/maxresdefault.jpg" alt="iOS 27 beta 1 có những tính năng mới gì" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BFBnVAlowYY/maxresdefault.jpg" alt="iOS 27 beta 1 có những tính năng mới gì" loading="lazy" width="1280" height="720">
   <figcaption>iOS 27 beta mang nhiều thay đổi về giao diện và tính năng AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Nếu không muốn dùng bản developer nhiều lỗi, hãy chờ public beta 
 Sau khi đăng ký, khởi động lại iPhone rồi mở Cài đặt, vào Cài đặt chung, chọn Cập nhật phần mềm, chạm Cập nhật beta và chọn iOS 27 Public Beta khi nó hiện ra. Public beta thường ổn định hơn developer beta, phù hợp với người muốn thử tính năng mới nhưng vẫn cần máy chạy tương đối ổn định cho việc dùng hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/fS_F7HNJjGM/maxresdefault.jpg" alt="Các tính năng mới đáng chú ý trên iOS 27" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fS_F7HNJjGM/maxresdefault.jpg" alt="Các tính năng mới đáng chú ý trên iOS 27" loading="lazy" width="1280" height="720">
   <figcaption>Public beta giúp trải nghiệm tính năng mới với độ ổn định cao hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Khi muốn quay lại bản ổn định, cách nhẹ nhàng nhất là vào Cà
 Một lưu ý quan trọng khi gỡ về bản chính thức là vấn đề tương thích sao lưu. Bản sao lưu tạo trên iOS 27 beta thường không khôi phục được lên một máy đang chạy iOS phiên bản cũ hơn, vì cấu trúc dữ liệu của bản beta mới hơn. Đây chính là lý do nên giữ lại bản sao lưu tạo ngay trước khi cài beta, vì đó mới là bản phục hồi an toàn nếu muốn lùi về bản ổn định trước thời điểm bản chính thức kế tiếp ra mắt. Nếu chỉ tắt nhận bản beta mà không khôi phục, máy vẫn ở phiên bản beta hiện tại cho tới khi có bản cập nhật mới đè lên.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Sga6_tKN4qw/maxresdefault.jpg" alt="iOS 27 chính thức tối ưu và mượt hơn trên iPhone" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Sga6_tKN4qw/maxresdefault.jpg" alt="iOS 27 chính thức tối ưu và mượt hơn trên iPhone" loading="lazy" width="1280" height="720">
   <figcaption>Chờ bản chính thức mùa thu nếu cần máy ổn định cho công việc. Nguồn: YouTube</figcaption>
 </figure>
 

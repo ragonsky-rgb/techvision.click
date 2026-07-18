@@ -76,7 +76,7 @@ Bản cập nhật tháng 6/2026 mang nhiều cải tiến cụ thể. Đáng ch
 Một bổ sung phản ánh xu hướng AI PC là cột NPU trong Task Manager. Khả năng theo dõi NPU nay mở rộng từ trang Performance vào cấp tiến trình, với các cột tùy chọn cho phép xem ứng dụng nào đang dùng NPU. NPU là bộ xử lý chuyên cho tác vụ AI, ngày càng phổ biến trên máy mới. Việc có công cụ theo dõi NPU tương tự CPU và GPU cho thấy AI chạy trực tiếp trên máy đang trở thành phần quan trọng của trải nghiệm, song hành với các nâng cấp AI trong phần mềm như nêu ở bài [Microsoft Copilot 2026](/articles/microsoft-copilot-cap-nhat-2026-tac-nhan-may-tinh-gpt-5-5-office.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/oieq0Ivqjx4/maxresdefault.jpg" alt="Windows 11 tìm kiếm hai ký tự và cột NPU trong Task Manager" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/oieq0Ivqjx4/maxresdefault.jpg" alt="Windows 11 tìm kiếm hai ký tự và cột NPU trong Task Manager" loading="lazy" width="1280" height="720">
   <figcaption>Tìm kiếm nhanh hơn và theo dõi NPU trong Task Manager. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bản cập nhật cũng bổ sung nhiều tính năng tiện ích đáng chú �
 Những tính năng này tuy không quá lớn nhưng giải quyết các nhu cầu thực tế của người dùng, cho thấy Microsoft chú ý tới trải nghiệm chi tiết. Việc cải thiện cả hiệu năng lẫn các tiện ích nhỏ giúp Windows 11 trở nên hữu dụng và dễ chịu hơn khi sử dụng hằng ngày. Đây là cách tiếp cận khác với việc chạy theo các tính năng phô trương, tập trung vào những gì người dùng thực sự cần. Microsoft cũng cho biết phiên bản 26H2 đang tới gần, hứa hẹn tiếp tục các cải tiến.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Ly3TQnu2NH8/maxresdefault.jpg" alt="Windows 11 hỗ trợ âm thanh chia sẻ đa camera và chế độ độ trễ thấp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ly3TQnu2NH8/maxresdefault.jpg" alt="Windows 11 hỗ trợ âm thanh chia sẻ đa camera và chế độ độ trễ thấp" loading="lazy" width="1280" height="720">
   <figcaption>Âm thanh chia sẻ, đa camera và độ trễ thấp là tiện ích mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một tính năng đáng giá khác là khôi phục theo thời điểm, hay Po
 Tính năng này đặc biệt có ý nghĩa với người dùng hay thử nghiệm phần mềm hoặc lo ngại sự cố sau cập nhật. Khả năng quay lui dễ dàng mang lại sự an tâm, khuyến khích người dùng cập nhật và thử cái mới mà không sợ hỏng máy. Cùng với trọng tâm hiệu năng và bảo mật, đây là những cải tiến thiết thực. So với các tin đồn về một hệ điều hành thế hệ mới, các nâng cấp thực tế cho Windows 11 mới là điều người dùng cảm nhận rõ, trong khi Windows 12 vẫn chỉ là tin đồn như phân tích ở bài [Windows 12 tin đồn 2026](/articles/windows-12-tin-don-2026-ai-trung-tam-microsoft-chua-xac-nhan.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gdnr57WGZ-A/maxresdefault.jpg" alt="Windows 11 tính năng khôi phục theo thời điểm Point-in-Time Restore" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gdnr57WGZ-A/maxresdefault.jpg" alt="Windows 11 tính năng khôi phục theo thời điểm Point-in-Time Restore" loading="lazy" width="1280" height="720">
   <figcaption>Khôi phục theo thời điểm giúp đưa hệ thống về trạng thái trước. Nguồn: YouTube</figcaption>
 </figure>
 

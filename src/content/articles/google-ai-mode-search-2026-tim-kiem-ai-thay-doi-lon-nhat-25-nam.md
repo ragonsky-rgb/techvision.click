@@ -76,7 +76,7 @@ Một trong những thay đổi dễ thấy nhất là ô tìm kiếm được t
 Tính năng này bắt đầu được triển khai ngay tại các quốc gia và ngôn ngữ có AI Mode. Việc cho phép kết hợp nhiều nguồn đầu vào phản ánh cách con người thực sự tư duy và đặt câu hỏi, vốn thường liên quan tới nhiều dạng thông tin cùng lúc. Sức mạnh này đến từ các mô hình AI ngày càng tiên tiến của Google, trong đó dòng Gemini đóng vai trò trung tâm, được phân tích chi tiết trong bài [Google Gemini 3.5 Pro](/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html). Sự kết hợp giữa mô hình mạnh và giao diện mới định hình lại trải nghiệm tìm kiếm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0IsnLpb8jRI/maxresdefault.jpg" alt="Google nâng cấp tìm kiếm AI với search agents và Generative UI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0IsnLpb8jRI/maxresdefault.jpg" alt="Google nâng cấp tìm kiếm AI với search agents và Generative UI" loading="lazy" width="1280" height="720">
   <figcaption>Ô tìm kiếm mới cho phép nhập đa dạng dữ liệu đầu vào. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Google cũng tuyên bố bước vào kỷ nguyên tác tử tìm kiếm, nơi n
 Một tính năng đột phá khác là Generative UI, cho phép Google tự dựng các giao diện tương tác như bảng, biểu đồ và mini-app ngay trong kết quả tìm kiếm. Thay vì chỉ trả về danh sách liên kết, Tìm kiếm có thể tạo ra trải nghiệm trực quan và tương tác phù hợp với truy vấn. Khả năng theo dõi hội thoại nối tiếp cũng đã hoạt động trên cả máy tính và di động trên toàn cầu. Những tính năng này cho thấy Google muốn biến Tìm kiếm thành nơi người dùng hoàn thành tác vụ, không chỉ tìm liên kết rồi rời đi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/hBRxTpV80Lw/maxresdefault.jpg" alt="Năm cập nhật quan trọng tại Google I/O 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hBRxTpV80Lw/maxresdefault.jpg" alt="Năm cập nhật quan trọng tại Google I/O 2026" loading="lazy" width="1280" height="720">
   <figcaption>Search agents và Generative UI đưa Tìm kiếm thành nơi hoàn thành tác vụ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Những thay đổi này mang lại lợi ích rõ cho người dùng: tìm ki�
 Khi AI trả lời trực tiếp trong kết quả, lượt nhấp vào các trang nguồn có thể giảm, ảnh hưởng tới các nhà xuất bản và doanh nghiệp dựa vào lưu lượng tìm kiếm. Đây là vấn đề gây tranh cãi, liên quan tới quyền lợi của báo chí và nội dung gốc, từng được đề cập trong bài [Anh buộc Google cho báo chí opt-out khỏi AI Overviews](/articles/anh-cma-buoc-google-cho-bao-chi-opt-out-ai-overviews-2026.html). Người làm nội dung sẽ phải thích nghi với cách tối ưu cho AI, trong khi các cơ quan quản lý theo dõi sát tác động tới cạnh tranh và hệ sinh thái thông tin.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OMhKgQmeMhI/maxresdefault.jpg" alt="Tóm tắt keynote Google I/O 2026 về AI và Tìm kiếm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OMhKgQmeMhI/maxresdefault.jpg" alt="Tóm tắt keynote Google I/O 2026 về AI và Tìm kiếm" loading="lazy" width="1280" height="720">
   <figcaption>AI trả lời trực tiếp thay đổi cách website nhận lưu lượng. Nguồn: YouTube</figcaption>
 </figure>
 

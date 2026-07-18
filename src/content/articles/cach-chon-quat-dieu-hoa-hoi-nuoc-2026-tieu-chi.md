@@ -69,7 +69,7 @@ Lưu lượng gió là yếu tố quan trọng nhất quyết định hiệu qu�
 Dung tích bình chứa nước ảnh hưởng trực tiếp tới thời gian quạt có thể hoạt động liên tục mà không cần châm nước thêm. Các mẫu bình chứa lớn, ví dụ từ 30 tới 40 lít, giúp quạt duy trì khả năng làm mát bằng hơi nước suốt nhiều giờ liền, tiện lợi hơn đáng kể so với các mẫu bình nhỏ chỉ dùng được vài giờ trước khi cạn nước và cần châm lại giữa chừng, gây gián đoạn khi đang sử dụng, đặc biệt bất tiện vào ban đêm khi mọi người đang ngủ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vT-Ak4MMHYU/mqdefault.jpg" alt="Quat dieu hoa dang mua nhat mua he nay" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/vT-Ak4MMHYU/mqdefault.jpg" alt="Quat dieu hoa dang mua nhat mua he nay" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết một mẫu quạt điều hòa phổ biến giúp người mua hiểu rõ hơn tính năng thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Nhiều mẫu quạt điều hòa hơi nước hiện nay tích hợp thêm hệ
 Độ ồn là yếu tố quan trọng cần cân nhắc, đặc biệt nếu có ý định đặt quạt điều hòa trong phòng ngủ. Nên ưu tiên các dòng có chế độ ngủ đêm, tự động giảm tốc độ quạt và độ ồn theo thời gian, giúp không ảnh hưởng tới giấc ngủ trong khi vẫn duy trì được hiệu quả làm mát cơ bản suốt đêm. Với phòng khách hoặc không gian sinh hoạt chung ban ngày, độ ồn ít quan trọng hơn và có thể ưu tiên công suất làm mát mạnh hơn thay vì vận hành êm ái tối đa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bjvtkYRj1Xw/hqdefault.jpg" alt="Top 5 quat dieu hoa Sunhouse dang mua nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/bjvtkYRj1Xw/hqdefault.jpg" alt="Top 5 quat dieu hoa Sunhouse dang mua nhat" loading="lazy" width="1280" height="480">
   <figcaption>So sánh các mẫu quạt điều hòa Sunhouse giúp người mua dễ chọn lựa phù hợp nhu cầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Nhiều gia đình hiện đang xây dựng không gian sống tiện nghi hơn 
 Ngoài các tiêu chí kỹ thuật kể trên, người mua cũng nên cân nhắc vị trí đặt quạt trong nhà, vì quạt điều hòa hơi nước hoạt động hiệu quả nhất khi có luồng không khí lưu thông qua cửa sổ hoặc cửa ra vào mở, khác với máy lạnh cần phòng kín hoàn toàn để đạt hiệu quả làm mát tối đa. Việc đặt quạt gần cửa sổ hoặc nơi có gió tự nhiên thổi qua thường mang lại hiệu quả làm mát tốt hơn đáng kể so với đặt trong góc phòng kín gió.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WCuFK7wQ0ZA/hqdefault.jpg" alt="Review chi tiet quat dieu hoa Sunhouse 7727 cap nhat gia moi nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WCuFK7wQ0ZA/hqdefault.jpg" alt="Review chi tiet quat dieu hoa Sunhouse 7727 cap nhat gia moi nhat" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết giúp người mua nắm rõ hơn tính năng và mức giá thực tế của các mẫu quạt điều hòa phổ biến. Nguồn: YouTube</figcaption>
 </figure>
 

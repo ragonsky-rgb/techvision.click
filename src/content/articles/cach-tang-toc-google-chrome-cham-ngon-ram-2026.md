@@ -77,7 +77,7 @@ Theo thời gian, Chrome tích tụ nhiều dữ liệu tạm như cache, lịch
 Quản lý tab là yếu tố ảnh hưởng lớn nhất tới RAM. Mỗi tab mở là một tiến trình tiêu tốn bộ nhớ, nên thói quen mở hàng chục tab cùng lúc là nguyên nhân hàng đầu làm máy chậm. Hãy đóng bớt tab không dùng, hoặc dùng tính năng nhóm tab và đánh dấu trang để lưu lại trang cần đọc sau. Ngoài ra, vào Cài đặt tắt tùy chọn cho phép Chrome chạy ngầm khi đã đóng cửa sổ, để trình duyệt không âm thầm chiếm tài nguyên.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0XiItc4pHlw/maxresdefault.jpg" alt="Các cách khắc phục tình trạng Chrome ngốn RAM" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0XiItc4pHlw/maxresdefault.jpg" alt="Các cách khắc phục tình trạng Chrome ngốn RAM" loading="lazy" width="1280" height="720">
   <figcaption>Đóng bớt tab và dọn cache giúp Chrome bớt ngốn bộ nhớ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Luôn cập nhật Chrome lên phiên bản mới nhất, vì mỗi bản cập 
 Nếu Chrome vẫn chậm bất thường, có thể máy dính phần mềm quảng cáo hoặc tiện ích độc hại. Trên Windows, Chrome có công cụ dọn dẹp giúp tìm và gỡ phần mềm gây hại cho trình duyệt. Khi mọi cách đều không ăn thua, biện pháp mạnh là đặt lại Chrome về mặc định, thao tác này tắt tiện ích, xóa cài đặt tạm nhưng giữ lại dấu trang và mật khẩu. Đây là cách dứt điểm khi trình duyệt quá ì sau thời gian dài dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KPsdDPqmF1k/maxresdefault.jpg" alt="Cách để Chrome dùng ít RAM hơn trên máy tính" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KPsdDPqmF1k/maxresdefault.jpg" alt="Cách để Chrome dùng ít RAM hơn trên máy tính" loading="lazy" width="1280" height="720">
   <figcaption>Cập nhật và đặt lại Chrome giúp khắc phục tình trạng ì ạch. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Ngoài các bước tối ưu một lần, thói quen hằng ngày quyết đị
 Bên cạnh đó, hãy cân nhắc trước khi cài thêm tiện ích mới, chỉ thêm khi thực sự cần và gỡ ngay khi không dùng nữa. Cài một trình chặn quảng cáo uy tín cũng giúp các trang nặng tải nhanh hơn và bớt tiêu tốn tài nguyên. Kết hợp việc tối ưu Chrome với việc tăng tốc toàn hệ thống sẽ cho hiệu quả tốt nhất, có thể tham khảo thêm bài [cách tăng tốc laptop Windows](/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html) để máy chạy mượt toàn diện. Nếu dùng nhiều thiết bị, bạn cũng nên xem [cách tăng tốc điện thoại Android](/articles/cach-tang-toc-dien-thoai-android-cham-lag-muot-hon-2026.html) và [cách tăng tốc WiFi tại nhà](/articles/cach-tang-toc-wifi-tai-nha-mang-cham-lag-2026.html) để trải nghiệm mượt hơn ở mọi nơi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/UiqTy-PqybI/hq720.jpg" alt="Chữa bệnh ngốn RAM của Chrome và trình duyệt khác" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/UiqTy-PqybI/hq720.jpg" alt="Chữa bệnh ngốn RAM của Chrome và trình duyệt khác" loading="lazy" width="1280" height="720">
   <figcaption>Thói quen quản lý tab và tiện ích giúp trình duyệt luôn nhẹ. Nguồn: YouTube</figcaption>
 </figure>
 

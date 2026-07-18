@@ -64,7 +64,7 @@ Theo NATIF, đợt khảo sát nhằm thu thập nhu cầu thực tế của doa
 Điểm đáng chú ý là tính hai chiều của khảo sát. Doanh nghiệp không chỉ nhận thông tin, mà còn góp tiếng nói trực tiếp vào việc định hình các gói hỗ trợ sắp tới. Nếu nhiều doanh nghiệp cùng phản ánh một nhu cầu, ví dụ vốn cho chuyển giao công nghệ hoặc kinh phí thương mại hóa sản phẩm, khả năng cao nhu cầu đó sẽ được ưu tiên trong kế hoạch của quỹ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/8pqboMsJTzE/maxresdefault.jpg" alt="Chính sách khoa học công nghệ tạo hành lang cho doanh nghiệp đổi mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/8pqboMsJTzE/maxresdefault.jpg" alt="Chính sách khoa học công nghệ tạo hành lang cho doanh nghiệp đổi mới" loading="lazy" width="1280" height="720">
   <figcaption>Khảo sát của NATIF nằm trong nỗ lực hoàn thiện chính sách hỗ trợ đổi mới công nghệ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Quỹ đưa ra ba hình thức hỗ trợ, mỗi hình thức nhắm tới một
 Thứ nhất là hỗ trợ lãi suất, dành cho vay các dự án ứng dụng công nghệ, chuyển giao công nghệ, đổi mới công nghệ và sáng tạo. Đây là phần giúp giảm gánh nặng chi phí vốn khi doanh nghiệp đầu tư vào thiết bị, dây chuyền hay công nghệ mới. Thứ hai là hỗ trợ voucher, tức phiếu hỗ trợ tài chính nhằm thúc đẩy đổi mới sáng tạo và thương mại hóa sản phẩm, hợp với giai đoạn đưa kết quả nghiên cứu ra thị trường. Thứ ba là tài trợ trực tiếp cho các nhiệm vụ đổi mới công nghệ, phát triển sở hữu trí tuệ và khởi nghiệp sáng tạo.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/7MfI-bdu9zA/maxresdefault.jpg" alt="Ba hình thức hỗ trợ doanh nghiệp khoa học công nghệ của NATIF" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7MfI-bdu9zA/maxresdefault.jpg" alt="Ba hình thức hỗ trợ doanh nghiệp khoa học công nghệ của NATIF" loading="lazy" width="1280" height="720">
   <figcaption>Hỗ trợ lãi suất, voucher và tài trợ trực tiếp bao phủ nhiều giai đoạn đổi mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Các quỹ hỗ trợ đổi mới công nghệ tồn tại ở nhiều quốc g
 Việc cần làm trước mắt rất gọn: truy cập địa chỉ khaosat.natif.vn và điền thông tin về nhu cầu của doanh nghiệp trước ngày 30/6/2026. Vì khảo sát là bước đầu để quỹ lên kế hoạch hỗ trợ cho năm 2027, tham gia sớm vừa giúp doanh nghiệp được tính vào nhu cầu chung, vừa là cách cập nhật sớm hướng hỗ trợ sắp tới. Đây là một phần trong nỗ lực thúc đẩy đổi mới công nghệ tại Việt Nam, bên cạnh bức tranh [khởi nghiệp công nghệ Việt Nam 2026 với bài toán gọi vốn](/articles/khoi-nghiep-cong-nghe-viet-nam-2026-goi-von-startup-ai-thach-thuc.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/I452P34EO8Q/maxresdefault.jpg" alt="Doanh nghiệp Việt Nam ứng dụng công nghệ mới để nâng cao năng lực cạnh tranh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/I452P34EO8Q/maxresdefault.jpg" alt="Doanh nghiệp Việt Nam ứng dụng công nghệ mới để nâng cao năng lực cạnh tranh" loading="lazy" width="1280" height="720">
   <figcaption>Tham gia khảo sát là cách doanh nghiệp góp phần định hình gói hỗ trợ đổi mới 2027. Nguồn: YouTube</figcaption>
 </figure>
 

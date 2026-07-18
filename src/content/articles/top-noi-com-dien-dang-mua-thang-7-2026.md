@@ -68,7 +68,7 @@ Nồi cơm điện là thiết bị không thể thiếu trong mỗi gia đình 
 Ở phân khúc tầm trung, các dòng nồi cơm điện Toshiba là lựa chọn nổi bật nhờ kết hợp công nghệ gia nhiệt cao tần IH với áp suất, giúp nhiệt lượng thẩm thấu sâu vào từng hạt gạo, cơm chín đều tăm tắp, dẻo thơm và giữ trọn vị ngọt tự nhiên. Với mức giá tham khảo từ khoảng 2,2 triệu đồng, đây là lựa chọn hợp lý cho gia đình muốn nâng cấp chất lượng cơm mà không cần chi quá nhiều, cùng cấu tạo lòng nồi nhiều lớp phủ chống dính an toàn, bền bỉ theo thời gian.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/q1zifxNTrXk/sddefault.jpg" alt="Danh gia noi com dien cao tan Toshiba co dang tien" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/q1zifxNTrXk/sddefault.jpg" alt="Danh gia noi com dien cao tan Toshiba co dang tien" loading="lazy" width="1280" height="480">
   <figcaption>Nồi cơm điện cao tần Toshiba được đánh giá cao về khả năng nấu cơm chín đều với mức giá hợp lý. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Nhiều gia đình hiện đang xây dựng gian bếp hiện đại, tích hợ
 Trước khi quyết định xuống tiền, người dùng nên xác định rõ mục đích sử dụng chính, ví dụ ưu tiên ngân sách tiết kiệm cho nhu cầu cơ bản, cần công nghệ IH cho gia đình sử dụng thường xuyên, hay sẵn sàng đầu tư cho trải nghiệm bữa cơm cao cấp nhất, vì mỗi mẫu nồi cơm điện trong danh sách đều có thế mạnh riêng phù hợp từng nhóm đối tượng khác nhau. Nên ưu tiên mua tại các hệ thống bán lẻ điện máy uy tín để được hưởng chế độ bảo hành đầy đủ, đồng thời tận dụng các chương trình khuyến mãi, trả góp 0% lãi suất phổ biến hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kHmjSQiYHyg/mqdefault.jpg" alt="So sanh cac dong noi com dien tu pho thong den cao cap 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/kHmjSQiYHyg/mqdefault.jpg" alt="So sanh cac dong noi com dien tu pho thong den cao cap 2026" loading="lazy" width="1280" height="480">
   <figcaption>So sánh các dòng nồi cơm điện từ phổ thông tới cao cấp giúp người mua dễ đưa ra quyết định phù hợp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Ngoài ba thương hiệu tiêu biểu kể trên, thị trường nồi cơm đ
 Với các gia đình có thói quen ăn cơm gạo lứt hoặc các loại ngũ cốc đặc biệt, nên kiểm tra kỹ chế độ nấu chuyên biệt của từng mẫu nồi trước khi mua, vì không phải dòng nào cũng hỗ trợ đầy đủ các chế độ nấu đa dạng như nhau, một số mẫu phổ thông chỉ tối ưu cho gạo trắng thông thường mà chưa có chế độ riêng cho các loại gạo đặc biệt khác.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/q1zifxNTrXk/mqdefault.jpg" alt="Noi com dien ap suat Cuckoo lua chon cao cap cho gia dinh Viet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/q1zifxNTrXk/mqdefault.jpg" alt="Noi com dien ap suat Cuckoo lua chon cao cap cho gia dinh Viet" loading="lazy" width="1280" height="480">
   <figcaption>Nồi cơm điện áp suất Cuckoo là lựa chọn cao cấp được nhiều gia đình Việt tin dùng. Nguồn: YouTube</figcaption>
 </figure>
 

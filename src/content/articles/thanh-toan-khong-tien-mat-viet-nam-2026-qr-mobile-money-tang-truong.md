@@ -76,7 +76,7 @@ Một điểm sáng nổi bật là thanh toán qua mã QR. Dù chỉ tăng 16,4
 Sự phổ cập của QR đến từ tính tiện lợi vượt trội: người mua chỉ cần mở ứng dụng ngân hàng hoặc ví điện tử, quét mã và xác nhận, không cần mang tiền mặt hay thẻ. Người bán cũng dễ dàng triển khai với chi phí thấp, chỉ cần một mã QR in sẵn. Hạ tầng thanh toán QR liên thông giữa các ngân hàng và ví điện tử giúp người dùng thanh toán ở bất cứ đâu chỉ với một ứng dụng, tạo nên trải nghiệm liền mạch thúc đẩy thói quen không tiền mặt lan rộng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-PZMpf6akmc/maxresdefault.jpg" alt="Sử dụng Mobile Money để thanh toán nhanh chóng tiện lợi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-PZMpf6akmc/maxresdefault.jpg" alt="Sử dụng Mobile Money để thanh toán nhanh chóng tiện lợi" loading="lazy" width="1280" height="720">
   <figcaption>Mã QR và Mobile Money giúp thanh toán nhanh, không cần tiền mặt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh QR và ngân hàng số, Mobile Money đóng vai trò quan trọng t
 Điểm đáng chú ý là khoảng 70% tài khoản Mobile Money nằm ở khu vực nông thôn, vùng sâu vùng xa, biên giới và hải đảo. Điều này cho thấy Mobile Money đang phát huy đúng vai trò thúc đẩy tài chính toàn diện, mang dịch vụ thanh toán số tới những người khó tiếp cận ngân hàng truyền thống. Việc định danh và xác thực người dùng ngày càng thuận tiện hơn nhờ các nền tảng số quốc gia, trong đó có ứng dụng được giới thiệu ở bài [VNeID cập nhật loạt tiện ích 2026](/articles/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.html), góp phần mở rộng tiếp cận dịch vụ tài chính số.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rUyx7HWGXko/maxresdefault.jpg" alt="Hướng dẫn đăng ký và dùng Mobile Money tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rUyx7HWGXko/maxresdefault.jpg" alt="Hướng dẫn đăng ký và dùng Mobile Money tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Mobile Money mang thanh toán số tới vùng nông thôn, vùng xa. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Song song với sự lên ngôi của thanh toán số là xu hướng giảm d�
 Để hỗ trợ đà phát triển này, Việt Nam đang hoàn thiện hành lang pháp lý cho dịch vụ Mobile Money và các phương thức thanh toán nhỏ. Khung pháp lý rõ ràng giúp các dịch vụ vận hành ổn định, bảo vệ người dùng tốt hơn và tạo niềm tin để thanh toán số phát triển bền vững. Sự kết hợp giữa hạ tầng công nghệ, chính sách và thói quen người dùng đang đưa Việt Nam tiến nhanh trên hành trình trở thành nền kinh tế ít tiền mặt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/c-dC4drukWo/maxresdefault.jpg" alt="Hướng dẫn thanh toán QR trên ứng dụng ngân hàng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/c-dC4drukWo/maxresdefault.jpg" alt="Hướng dẫn thanh toán QR trên ứng dụng ngân hàng" loading="lazy" width="1280" height="720">
   <figcaption>Người dân ngày càng ít rút tiền mặt, chuyển sang thanh toán số. Nguồn: YouTube</figcaption>
 </figure>
 

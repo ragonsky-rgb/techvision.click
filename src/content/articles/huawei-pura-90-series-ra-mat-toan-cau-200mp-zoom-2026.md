@@ -66,7 +66,7 @@ Huawei vừa chính thức xác nhận sự kiện ra mắt toàn cầu dòng Pu
 Ngoài camera tele, dòng Pura 90 còn trang bị camera chính độ phân giải cao cùng camera góc siêu rộng, tạo thành bộ ba camera toàn diện phục vụ đa dạng nhu cầu chụp ảnh, từ phong cảnh rộng, chân dung tới chụp xa với chi tiết sắc nét nhờ cảm biến độ phân giải cao trên ống kính tele.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/j5FiHEBbdUs/hqdefault.jpg" alt="Huawei Pura 90 Pro Max kiem tra zoom 200MP thuc te" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/j5FiHEBbdUs/hqdefault.jpg" alt="Huawei Pura 90 Pro Max kiem tra zoom 200MP thuc te" loading="lazy" width="1280" height="480">
   <figcaption>Bài kiểm tra thực tế khả năng zoom 200MP trên Huawei Pura 90 Pro Max trong nhiều điều kiện ánh sáng khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Ngoài camera tele, dòng Pura 90 còn trang bị camera chính độ phân gi�
 Về phần cứng, Pura 90 series sử dụng chip Kirin 9010s tự phát triển của Huawei, kết hợp RAM 16GB và bộ nhớ trong 512GB ở cấu hình cao nhất. Máy chạy hệ điều hành HarmonyOS 6.1 thay vì Android tiêu chuẩn, đồng nghĩa với việc không có sẵn các dịch vụ và ứng dụng Google như Play Store, Gmail hay Maps do lệnh cấm vận thương mại từ Mỹ vẫn còn hiệu lực với Huawei suốt nhiều năm qua. Đây tiếp tục là rào cản lớn nhất với người dùng ở các thị trường quen thuộc với hệ sinh thái Google, dù HarmonyOS đã phát triển kho ứng dụng riêng khá đầy đủ tại thị trường nội địa Trung Quốc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/TOEs9wpNJoM/hqdefault.jpg" alt="Huawei Pura 90 series danh gia tong quan thiet ke" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/TOEs9wpNJoM/hqdefault.jpg" alt="Huawei Pura 90 series danh gia tong quan thiet ke" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá tổng quan thiết kế và trải nghiệm sử dụng toàn bộ dòng Huawei Pura 90 series. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Việc Huawei quyết định đưa Pura 90 ra thị trường toàn cầu cho t
 Rào cản lớn nhất với Pura 90 tại các thị trường phương Tây vẫn là việc thiếu dịch vụ Google, khiến nhiều người dùng phổ thông ngần ngại chuyển đổi dù chất lượng camera được đánh giá cao. Tuy nhiên, tại các thị trường quen thuộc với hệ sinh thái ứng dụng thay thế hoặc ưu tiên tuyệt đối chất lượng camera, Pura 90 vẫn có thể tìm được chỗ đứng riêng nhờ khả năng zoom vượt trội so với phần lớn đối thủ cùng phân khúc, kể cả [OPPO Find X10 Pro vừa được xem là đối thủ trực tiếp của iPhone 18 Pro Max](/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html) trong cuộc đua camera 200MP.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Fp2wIuayE0M/hqdefault.jpg" alt="Huawei Pura 90 Pro Max trai nghiem chup anh chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Fp2wIuayE0M/hqdefault.jpg" alt="Huawei Pura 90 Pro Max trai nghiem chup anh chi tiet" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm chụp ảnh chi tiết trên Huawei Pura 90 Pro Max, đánh giá khả năng cạnh tranh với các đối thủ camera flagship khác. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Trình quản lý mật khẩu là công cụ giúp tạo, lưu trữ và tự �
 Có nhiều lựa chọn trình quản lý mật khẩu. Đơn giản nhất là trình tích hợp sẵn trong trình duyệt như Chrome, tiện lợi cho người mới bắt đầu. Bên cạnh đó là các ứng dụng chuyên dụng như 1Password hay KeePass, thường có thêm tính năng như hoạt động đa nền tảng, chia sẻ an toàn và lưu nhiều loại thông tin. Dù chọn cách nào, các trình quản lý uy tín đều mã hóa dữ liệu mạnh, an toàn hơn nhiều so với việc dùng lại mật khẩu hay ghi ra giấy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Z8WMN8P0nOs/maxresdefault.jpg" alt="Cách dùng trình quản lý mật khẩu KeePass an toàn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Z8WMN8P0nOs/maxresdefault.jpg" alt="Cách dùng trình quản lý mật khẩu KeePass an toàn" loading="lazy" width="1280" height="720">
   <figcaption>Có nhiều trình quản lý mật khẩu cho người dùng lựa chọn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Khi dùng trình quản lý mật khẩu, mật khẩu chính trở thành chìa
 Bên cạnh mật khẩu chính mạnh, hãy bật xác thực hai lớp cho trình quản lý mật khẩu nếu được hỗ trợ. Đây là lớp bảo vệ bổ sung quan trọng, vì ngay cả khi ai đó biết mật khẩu chính, họ vẫn cần yếu tố thứ hai để truy cập. Việc bảo vệ trình quản lý chặt chẽ là điều kiện tiên quyết để toàn bộ hệ thống mật khẩu của bạn an toàn. Nguyên tắc bảo vệ nhiều lớp này áp dụng cho mọi tài khoản quan trọng, như hướng dẫn chi tiết trong bài [cách bảo mật tài khoản Google](/articles/cach-bao-mat-tai-khoan-google-chong-hack-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/UUzgbVndoYE/maxresdefault.jpg" alt="Đặt mật khẩu chính mạnh và bảo vệ trình quản lý mật khẩu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/UUzgbVndoYE/maxresdefault.jpg" alt="Đặt mật khẩu chính mạnh và bảo vệ trình quản lý mật khẩu" loading="lazy" width="1280" height="720">
   <figcaption>Mật khẩu chính mạnh và xác thực hai lớp bảo vệ trình quản lý. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Dù dùng trình quản lý mật khẩu, bạn vẫn cần cảnh giác với l
 Một số sai lầm thường gặp cần tránh gồm: dùng mật khẩu chính yếu hoặc trùng với mật khẩu khác, không sao lưu dữ liệu trình quản lý, chia sẻ mật khẩu qua kênh không an toàn, và bỏ qua các cảnh báo về mật khẩu bị lộ. Nhiều trình quản lý có tính năng kiểm tra mật khẩu yếu hoặc đã bị rò rỉ, hãy tận dụng để đổi kịp thời. Cảnh giác với lừa đảo là kỹ năng quan trọng, được phân tích thêm trong bài [cách bảo vệ tài khoản Facebook](/articles/cach-bao-ve-tai-khoan-facebook-khong-bi-hack-chiem-nick-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bUC6wcjiYt0/maxresdefault.jpg" alt="Cảnh giác lừa đảo và tránh sai lầm khi quản lý mật khẩu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bUC6wcjiYt0/maxresdefault.jpg" alt="Cảnh giác lừa đảo và tránh sai lầm khi quản lý mật khẩu" loading="lazy" width="1280" height="720">
   <figcaption>Cảnh giác lừa đảo giúp bảo vệ mật khẩu hiệu quả hơn. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -62,14 +62,14 @@ Chỉ còn vài ngày nữa là tới sự kiện Galaxy Unpacked, và dường 
 Ngôi sao của đợt rò rỉ lần này chính là màu sắc. Theo các ảnh render, Galaxy Z Fold 8 bản Wide sẽ có ba tùy chọn màu chính gồm Kem, Than chì và Oải hương. Đây là những gam màu khá trung tính và thanh lịch, phù hợp với định vị cao cấp của dòng máy gập. Ngoài ba màu này, một phiên bản màu Pistachio nhiều khả năng sẽ được bán độc quyền trên trang web của Samsung, theo đúng chiến lược quen thuộc mà hãng áp dụng nhiều năm qua.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Ahfr4jthFM8/hqdefault.jpg" alt="Ảnh render Galaxy Z Fold 8 rò rỉ với các màu Kem, Than chì và Oải hương" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ahfr4jthFM8/hqdefault.jpg" alt="Ảnh render Galaxy Z Fold 8 rò rỉ với các màu Kem, Than chì và Oải hương" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z Fold 8 bản Wide lộ ba màu Kem, Than chì và Oải hương qua ảnh render. Nguồn: YouTube</figcaption>
 </figure>
 
 Điều thú vị là các ảnh render cũng xác nhận một thay đổi lớn về thiết kế. Galaxy Z Fold 8 bản Wide được cho là có hình dáng ngắn và rộng hơn so với thế hệ trước, mang lại tỷ lệ mặt trước dễ dùng hơn khi gập lại. Đây là một trong những thay đổi đáng chú ý nhất, bởi tỷ lệ thân máy ảnh hưởng trực tiếp tới trải nghiệm cầm nắm và sử dụng màn hình ngoài. Sự thay đổi này cho thấy Samsung đang lắng nghe phản hồi của người dùng về công thái học của dòng gập dọc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xojFOVl_btI/hqdefault.jpg" alt="Toàn bộ màu sắc Galaxy Z Fold 8 bản Wide được hé lộ qua ảnh render rò rỉ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xojFOVl_btI/hqdefault.jpg" alt="Toàn bộ màu sắc Galaxy Z Fold 8 bản Wide được hé lộ qua ảnh render rò rỉ" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế ngắn và rộng hơn của Z Fold 8 Wide hiện rõ trong các ảnh render. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Về camera, theo rò rỉ, Galaxy Z Fold 8 sẽ được trang bị camera chí
 Không kém phần thu hút, Galaxy Z Flip 8 cũng lộ trọn bộ màu sắc qua các ảnh render. Mẫu gập vỏ sò này được cho là sẽ có ba màu chính gồm Kem, Than chì và Hồng. So với Z Fold 8, bảng màu của Z Flip 8 có phần trẻ trung và cá tính hơn, phù hợp với nhóm khách hàng mà dòng Flip nhắm tới. Tương tự đàn anh, một màu Bạc hà nhiều khả năng sẽ trở lại dưới dạng phiên bản độc quyền trên trang Samsung.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/WfkFASaLhP8/hqdefault.jpg" alt="Ảnh render Galaxy Z Flip 8 rò rỉ với các màu Kem, Than chì và Hồng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WfkFASaLhP8/hqdefault.jpg" alt="Ảnh render Galaxy Z Flip 8 rò rỉ với các màu Kem, Than chì và Hồng" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z Flip 8 khoe bảng màu trẻ trung gồm Kem, Than chì và Hồng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,14 +99,14 @@ Sự khác biệt trong định hướng của hai dòng máy khá rõ ràng. Tr
 Một điểm đáng chú ý khác từ các đợt rò rỉ là sự tồn tại của phiên bản Galaxy Z Fold 8 Ultra, biến thể cao cấp hơn bên cạnh bản Wide tiêu chuẩn. Theo các nguồn tin, bản Ultra sẽ có màn hình lớn hơn và cấu hình mạnh hơn, hướng tới nhóm người dùng cao cấp nhất sẵn sàng chi trả cho trải nghiệm tốt nhất mà dòng gập của Samsung mang lại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/r0RewlJkK6Y/hqdefault.jpg" alt="Video trên tay Galaxy Z Fold 8 Ultra rò rỉ hé lộ phiên bản gập cao cấp của Samsung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/r0RewlJkK6Y/hqdefault.jpg" alt="Video trên tay Galaxy Z Fold 8 Ultra rò rỉ hé lộ phiên bản gập cao cấp của Samsung" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z Fold 8 Ultra là biến thể cao cấp bên cạnh bản Wide tiêu chuẩn. Nguồn: YouTube</figcaption>
 </figure>
 
 Việc có tới nhiều phiên bản trong cùng một dòng cho thấy chiến lược đa dạng hóa của Samsung, nhằm phủ nhiều phân khúc giá và nhu cầu khác nhau. Cách làm này giúp hãng tối đa hóa doanh số, nhưng cũng khiến người dùng phải cân nhắc kỹ hơn khi lựa chọn. Với những ai đang phân vân giữa các dòng máy gập, việc nắm rõ [các tiêu chí chọn điện thoại gập](/articles/cach-chon-dien-thoai-gap-foldable-2026-tieu-chi.html) sẽ rất hữu ích trước khi xuống tiền.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jiYwiT_vhFk/hqdefault.jpg" alt="Ảnh render Galaxy Z Fold 8 bản Wide rò rỉ đầy đủ trước sự kiện Unpacked" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jiYwiT_vhFk/hqdefault.jpg" alt="Ảnh render Galaxy Z Fold 8 bản Wide rò rỉ đầy đủ trước sự kiện Unpacked" loading="lazy" width="1280" height="720">
   <figcaption>Các ảnh render cho thấy Samsung đã hoàn thiện sản phẩm trước ngày ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 

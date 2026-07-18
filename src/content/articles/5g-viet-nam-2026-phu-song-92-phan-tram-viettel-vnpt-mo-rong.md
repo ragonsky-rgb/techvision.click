@@ -76,7 +76,7 @@ Trong năm 2026, các nhà mạng tiếp tục đầu tư mạnh để mở rộ
 VNPT cũng có kế hoạch tham vọng, dự kiến mở rộng vùng phủ băng tần C và đưa vào khai thác băng tần 700 MHz mới được cấp phép. Băng tần thấp như 700 MHz có lợi thế phủ sóng rộng và xuyên vật cản tốt, phù hợp cho vùng nông thôn và trong nhà. VNPT cũng đã hoàn thành triển khai mạng 5G tại toàn bộ 34 tỉnh thành. Sự cạnh tranh giữa các nhà mạng thúc đẩy chất lượng và độ phủ ngày càng tốt hơn cho người dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/IYvSUxNim7Y/maxresdefault.jpg" alt="Viettel thương mại hóa trạm 5G công nghệ mới tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IYvSUxNim7Y/maxresdefault.jpg" alt="Viettel thương mại hóa trạm 5G công nghệ mới tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Các nhà mạng đua mở rộng trạm và băng tần 5G năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Việc phát triển 5G nằm trong định hướng lớn về hạ tầng số
 5G không chỉ phục vụ nhu cầu cá nhân mà còn mở đường cho hàng loạt ứng dụng công nghệ mới. Với tốc độ cao và độ trễ thấp, 5G là nền tảng cho nhà máy thông minh, xe tự hành, thực tế ảo, y tế từ xa và Internet vạn vật. Khi kết hợp với các nỗ lực khác như trung tâm dữ liệu và công nghiệp bán dẫn, 5G góp phần tạo nên hệ sinh thái công nghệ giúp nâng cao năng suất và năng lực cạnh tranh của nền kinh tế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/yMdjvoCGLpg/maxresdefault.jpg" alt="Mục tiêu phủ sóng 5G toàn quốc và hạ tầng số hiện đại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yMdjvoCGLpg/maxresdefault.jpg" alt="Mục tiêu phủ sóng 5G toàn quốc và hạ tầng số hiện đại" loading="lazy" width="1280" height="720">
   <figcaption>5G là nền tảng cho kinh tế số và các ứng dụng công nghệ mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Bên cạnh thành tựu về vùng phủ, các nhà mạng cũng đối mặt v
 Một thách thức khác là đảm bảo chất lượng trải nghiệm đồng đều, không chỉ ở đô thị mà cả vùng sâu vùng xa. Đây là nơi các giải pháp bổ sung như internet vệ tinh có thể đóng vai trò, phủ tới những nơi hạ tầng mặt đất khó vươn tới. Sự kết hợp giữa 5G mặt đất và các công nghệ kết nối khác sẽ giúp thu hẹp khoảng cách số. Người quan tâm tới kết nối vùng xa có thể tham khảo bài [Starlink Việt Nam 2026](/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3_CsTDHnFzw/maxresdefault.jpg" alt="Lý giải về tốc độ mạng 5G tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3_CsTDHnFzw/maxresdefault.jpg" alt="Lý giải về tốc độ mạng 5G tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Phủ sóng rộng cần đi kèm dịch vụ tạo giá trị để 5G hiệu quả. Nguồn: YouTube</figcaption>
 </figure>
 

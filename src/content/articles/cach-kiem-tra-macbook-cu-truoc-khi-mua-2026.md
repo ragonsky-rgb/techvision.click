@@ -74,7 +74,7 @@ Việc kiểm tra ngoại hình kỹ càng đặc biệt quan trọng với MacB
 Màn hình là bộ phận quan trọng cần kiểm tra kỹ, đặc biệt với các dòng MacBook Pro có màn hình mini-LED hoặc OLED cao cấp. Nên mở các hình ảnh có nền màu đơn sắc như đỏ, xanh lá, xanh dương, trắng và đen để dễ phát hiện điểm chết hoặc các vết kẻ sọc bất thường trên màn hình. Đồng thời kiểm tra độ sáng tối đa và độ đồng đều ánh sáng trên toàn màn hình, tránh tình trạng ố màu hoặc loang sáng ở các góc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/53REpUUXCEQ/hqdefault.jpg" alt="Kiem tra man hinh ban phim trackpad MacBook cu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/53REpUUXCEQ/hqdefault.jpg" alt="Kiem tra man hinh ban phim trackpad MacBook cu" loading="lazy" width="1280" height="480">
   <figcaption>Kiểm tra kỹ màn hình, bàn phím và trackpad trước khi quyết định mua MacBook cũ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Pin là một trong những yếu tố quan trọng nhất ảnh hưởng tới 
 Theo khuyến nghị từ các chuyên gia bán lẻ, nên chọn MacBook cũ có dung lượng pin còn lại trên 80% để đảm bảo thời lượng sử dụng hợp lý cho công việc hàng ngày. Nếu dung lượng pin xuống dưới mức này, người mua nên đàm phán giảm giá tương ứng hoặc tính toán thêm chi phí thay pin trong tương lai gần, vì chi phí thay pin chính hãng cho MacBook thường không hề rẻ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tAj4f_DJyVQ/hqdefault.jpg" alt="Kiem tra pin MacBook cu so lan sac dung luong con lai" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/tAj4f_DJyVQ/hqdefault.jpg" alt="Kiem tra pin MacBook cu so lan sac dung luong con lai" loading="lazy" width="1280" height="480">
   <figcaption>Kiểm tra số lần sạc và dung lượng pin còn lại trước khi mua MacBook cũ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Bước kiểm tra quan trọng nhất, không thể bỏ qua, là kiểm tra t�
 Sau khi hoàn tất các bước kiểm tra kỹ thuật, người mua cũng nên chú ý tới nơi mua hàng. Nên ưu tiên các cửa hàng có chính sách bảo hành rõ ràng và hỗ trợ đổi trả trong một khoảng thời gian nhất định, thay vì mua từ cá nhân không có hóa đơn hoặc cam kết bảo hành cụ thể. Nhiều cửa hàng lớn hiện nay cũng cung cấp dịch vụ kiểm tra máy cũ miễn phí, giúp người mua yên tâm hơn về tình trạng thực tế trước khi xuống tiền.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ePEWhXNvmjA/hqdefault.jpg" alt="Mua MacBook cu uy tin co bao hanh ho tro doi tra" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ePEWhXNvmjA/hqdefault.jpg" alt="Mua MacBook cu uy tin co bao hanh ho tro doi tra" loading="lazy" width="1280" height="480">
   <figcaption>Ưu tiên mua MacBook cũ tại nơi có chính sách bảo hành và hỗ trợ đổi trả rõ ràng. Nguồn: YouTube</figcaption>
 </figure>
 

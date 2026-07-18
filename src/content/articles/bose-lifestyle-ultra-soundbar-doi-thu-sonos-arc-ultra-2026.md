@@ -73,7 +73,7 @@ Lifestyle Ultra Soundbar là mẫu loa thanh cao cấp mới nhất của Bose, 
 Trong nhiều năm qua, các dòng soundbar của Bose chủ yếu cải tiến phần mềm và nâng cấp linh kiện trên một bộ khung thiết kế quen thuộc đã tồn tại từ lâu. Lifestyle Ultra Soundbar đánh dấu lần đầu tiên Bose thay đổi toàn diện cả kiến trúc bố trí driver, vật liệu vỏ ngoài lẫn triết lý thiết kế tổng thể, được giới chuyên môn đánh giá là bước chuyển mình đáng kể nhất của hãng trong mảng loa thanh kể từ hơn 10 năm trở lại đây. Việc lắp đặt cũng được tối ưu để đơn giản hơn, người dùng chỉ cần kết nối soundbar với TV qua cổng HDMI eARC, cắm điện cho loa siêu trầm và mở ứng dụng Bose để hệ thống tự động ghép nối, hiệu chỉnh âm thanh theo đặc điểm không gian phòng mà không cần can thiệp thủ công nhiều bước.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/JEfDF_deZ3c/hqdefault.jpg" alt="Bose Lifestyle Ultra Soundbar danh gia chi tiet am thanh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/JEfDF_deZ3c/hqdefault.jpg" alt="Bose Lifestyle Ultra Soundbar danh gia chi tiet am thanh" loading="lazy" width="1280" height="480">
   <figcaption>Bose Lifestyle Ultra Soundbar được đánh giá cao về độ rõ của thoại và khả năng tái tạo Dolby Atmos. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Người dùng đang tìm hiểu cách bố trí soundbar và loa siêu trầm s
 Theo nhiều bài đánh giá so sánh trực tiếp, Bose Lifestyle Ultra Soundbar là đối thủ thực sự đầu tiên đủ sức cạnh tranh sòng phẳng với Sonos Arc Ultra trong phân khúc loa thanh cao cấp. Sonos Arc Ultra dùng kiến trúc 9.1.4 kênh phức tạp hơn và hỗ trợ Tidal Connect, còn Bose Lifestyle Ultra tuy dùng kiến trúc 5.1.2 kênh đơn giản hơn nhưng bù lại có lợi thế hỗ trợ Google Cast, tính năng mà Sonos Arc Ultra hiện chưa có. Cả hai sản phẩm đều hỗ trợ Apple AirPlay và Spotify Connect, giúp người dùng phát nhạc trực tiếp từ điện thoại mà không cần qua kết nối Bluetooth. Về giá bán, Bose Lifestyle Ultra Soundbar có giá 1.099 USD, cao hơn 100 USD so với mức 999 USD của Sonos Arc Ultra, một khoảng chênh lệch không quá lớn khi đặt trong bối cảnh cả hai đều thuộc phân khúc loa thanh cao cấp nhất thị trường hiện nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wWauifRHKa0/hqdefault.jpg" alt="So sanh Bose Lifestyle Ultra Soundbar voi Sonos Arc Ultra" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/wWauifRHKa0/hqdefault.jpg" alt="So sanh Bose Lifestyle Ultra Soundbar voi Sonos Arc Ultra" loading="lazy" width="1280" height="480">
   <figcaption>So sánh trực tiếp Bose Lifestyle Ultra Soundbar với Sonos Arc Ultra và Sony Bravia Theatre Bar 8. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Bose Lifestyle Ultra Soundbar hỗ trợ chuẩn Wi-Fi 6 và Bluetooth 5.3 mới
 Sự xuất hiện của Lifestyle Ultra Soundbar cũng phản ánh xu hướng chung của thị trường loa thanh cao cấp năm 2026, khi các hãng lớn đều đang chạy đua tích hợp nhiều nền tảng cast khác nhau thay vì chỉ trung thành với một hệ sinh thái duy nhất, nhằm tiếp cận rộng hơn nhóm khách hàng sở hữu nhiều thiết bị từ các thương hiệu khác nhau trong cùng một ngôi nhà thông minh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9hYxK6TZtrU/hqdefault.jpg" alt="Bo tri vi tri dat soundbar Dolby Atmos chuan" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/9hYxK6TZtrU/hqdefault.jpg" alt="Bo tri vi tri dat soundbar Dolby Atmos chuan" loading="lazy" width="1280" height="480">
   <figcaption>Vị trí đặt soundbar và độ cao trần nhà ảnh hưởng trực tiếp tới hiệu ứng âm thanh Dolby Atmos. Nguồn: YouTube</figcaption>
 </figure>
 

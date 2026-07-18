@@ -67,7 +67,7 @@ Theo các nguồn rò rỉ từ GSMArena, Android Headlines và Gizmochina, Find
 Cảm biến tele 200MP là điểm đáng chú ý nhất về mặt thông số, bởi rất ít flagship hiện nay dùng ống tele độ phân giải cao đến vậy. Nếu rò rỉ chính xác, Find X10 Pro có thể chụp xa và cắt cúp ảnh tele mà vẫn giữ chi tiết tốt, một thế mạnh mà nhiều máy Android lẫn iPhone chưa làm được ở mức này. Cảm biến đa phổ đi kèm giúp đo màu chính xác hơn, cho ra ảnh trung thực hơn dưới ánh sáng phức tạp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kJfdQakqezQ/maxresdefault.jpg" alt="So sánh camera 200MP của Oppo Find X10 Pro với đối thủ Android cao cấp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/kJfdQakqezQ/maxresdefault.jpg" alt="So sánh camera 200MP của Oppo Find X10 Pro với đối thủ Android cao cấp" loading="lazy" width="1280" height="720">
   <figcaption>Cụm camera 200MP kép đặt Find X10 Pro vào nhóm flagship chụp ảnh hàng đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Về phần còn lại, máy được đồn dùng màn OLED LTPO 6.78 inch đ�
 Ở chiều ngược lại, iPhone 18 Pro Max được cho là dùng chip A20 Pro 2nm thường dẫn đầu về hiệu năng đơn nhân và tối ưu phần mềm, cùng thế mạnh quen thuộc về quay video, độ ổn định, khả năng giữ giá và hệ sinh thái iOS. Người quan tâm tới biến động giá iPhone đời mới có thể xem thêm bài [iPhone 18 tăng giá vì bộ nhớ AI](/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/v3P5Buwiy1k/maxresdefault.jpg" alt="Rò rỉ cụm camera ba ống 200MP trên Oppo Find X10 Pro Max" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/v3P5Buwiy1k/maxresdefault.jpg" alt="Rò rỉ cụm camera ba ống 200MP trên Oppo Find X10 Pro Max" loading="lazy" width="1280" height="720">
   <figcaption>Bản Pro Max được đồn còn nâng lên cụm camera 200MP nhiều ống. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Về phần còn lại, máy được đồn dùng màn OLED LTPO 6.78 inch đ�
 Bên cạnh Find X10 Pro, các nguồn rò rỉ còn nhắc tới một bản Find X10 Pro Max cao cấp hơn, được cho là nâng cụm camera lên nhiều ống với tổng độ phân giải rất lớn. Đây sẽ là lần đầu Oppo tách riêng phiên bản Pro Max, đi theo hướng mà Apple và Samsung đã làm để phục vụ nhóm người dùng sẵn sàng chi nhiều hơn cho camera và màn hình đỉnh nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/l2Wi8w-oKUk/maxresdefault.jpg" alt="Bản Oppo Find X10 Pro Max được đồn nâng cấp camera lên độ phân giải rất cao" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/l2Wi8w-oKUk/maxresdefault.jpg" alt="Bản Oppo Find X10 Pro Max được đồn nâng cấp camera lên độ phân giải rất cao" loading="lazy" width="1280" height="720">
   <figcaption>Bản Pro Max được đồn nâng cấp mạnh về camera so với bản Pro tiêu chuẩn. Nguồn: YouTube</figcaption>
 </figure>
 

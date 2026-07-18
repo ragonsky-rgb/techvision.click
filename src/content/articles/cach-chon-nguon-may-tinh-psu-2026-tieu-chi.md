@@ -67,7 +67,7 @@ Công suất nguồn máy tính cần thiết phụ thuộc vào tổng công su
 Người mới xây dựng máy tính lần đầu thường có xu hướng mua nguồn công suất thấp hơn cần thiết để tiết kiệm chi phí ban đầu, nhưng đây là quyết định rủi ro vì nguồn thiếu công suất có thể gây tắt máy đột ngột khi tải cao, hoặc tệ hơn là làm giảm tuổi thọ của toàn bộ linh kiện do phải hoạt động liên tục ở mức tải gần giới hạn tối đa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zG71dQ9qRbc/hqdefault.jpg" alt="Giai dap cac cau hoi thuong gap ve nguon may tinh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zG71dQ9qRbc/hqdefault.jpg" alt="Giai dap cac cau hoi thuong gap ve nguon may tinh" loading="lazy" width="1280" height="480">
   <figcaption>Giải đáp các câu hỏi thường gặp về công suất và cách chọn nguồn máy tính phù hợp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Người mới xây dựng máy tính lần đầu thường có xu hướng mua
 Chuẩn 80 Plus là chứng nhận đo hiệu suất chuyển đổi điện năng của nguồn máy tính, từ mức cơ bản tới các cấp cao hơn gồm Bronze, Silver, Gold, Platinum và Titanium theo thứ tự tăng dần về hiệu suất. Chuẩn càng cao, nguồn càng ít lãng phí điện năng dưới dạng nhiệt, giúp tiết kiệm chi phí điện về lâu dài và giảm nhiệt tỏa ra trong quá trình vận hành, đồng thời thường đi kèm linh kiện chất lượng tốt hơn giúp nguồn bền bỉ hơn theo thời gian.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/dXuoklTQq_Y/hqdefault.jpg" alt="Giai thich chuan 80 Plus Bronze Silver Gold Platinum Titanium" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/dXuoklTQq_Y/hqdefault.jpg" alt="Giai thich chuan 80 Plus Bronze Silver Gold Platinum Titanium" loading="lazy" width="1280" height="480">
   <figcaption>Giải thích chi tiết các cấp chuẩn hiệu suất 80 Plus từ Bronze tới Titanium trên nguồn máy tính. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Với người dùng đang cân nhắc nâng cấp đồng bộ nhiều linh ki�
 Nguồn máy tính module hóa cho phép người dùng chỉ cắm những dây cáp thực sự cần thiết cho cấu hình của mình, thay vì phải giấu bớt các dây thừa như nguồn không module hóa, giúp việc đi dây trong case gọn gàng hơn đáng kể. Điều này không chỉ mang lại tính thẩm mỹ tốt hơn mà còn cải thiện luồng khí lưu thông trong case, hỗ trợ tản nhiệt tốt hơn cho toàn bộ hệ thống, đặc biệt quan trọng với các case nhỏ gọn có không gian hạn chế.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1IRX16XgAug/hqdefault.jpg" alt="Ngung mua nguon may tinh te top nguon PSU 2025" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/1IRX16XgAug/hqdefault.jpg" alt="Ngung mua nguon may tinh te top nguon PSU 2025" loading="lazy" width="1280" height="480">
   <figcaption>Cảnh báo về những mẫu nguồn máy tính kém chất lượng và gợi ý các lựa chọn tốt nhất năm 2025. Nguồn: YouTube</figcaption>
 </figure>
 

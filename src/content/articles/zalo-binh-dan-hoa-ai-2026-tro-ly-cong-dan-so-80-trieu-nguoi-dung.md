@@ -75,7 +75,7 @@ Một trong những sản phẩm AI nổi bật nhất của Zalo là trợ lý 
 Việc tích hợp trợ lý AI hành chính vào ứng dụng nhắn tin phổ biến cũng phản ánh xu hướng chuyển đổi số mạnh mẽ của các dịch vụ công Việt Nam. Tương tự, ứng dụng VNeID của Bộ Công an cũng liên tục [bổ sung tiện ích mới](/articles/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.html) như phản ánh lừa đảo và tra cứu lý lịch tư pháp, cho thấy chính phủ và doanh nghiệp công nghệ đang cùng hướng tới mục tiêu số hóa dịch vụ công toàn diện hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/pGjDsP9hLDY/hqdefault.jpg" alt="Zalo tro ly Cong dan so tra cuu thu tuc hanh chinh AI" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/pGjDsP9hLDY/hqdefault.jpg" alt="Zalo tro ly Cong dan so tra cuu thu tuc hanh chinh AI" loading="lazy" width="1280" height="480">
   <figcaption>Trợ lý Công dân số hỗ trợ tra cứu thủ tục hành chính 24/7. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Số liệu cho thấy Zalo đạt 80,2 triệu người dùng hoạt động h�
 Ngoài trợ lý Công dân số, Zalo còn ứng dụng AI cho nhiều tính năng khác như soạn tin nhắn tự động, phụ đề cho cuộc gọi video, dịch tự động theo thời gian thực, và tính năng trích xuất chữ từ ảnh ra mắt gần đây. Với doanh nghiệp, Zalo OA cũng tích hợp các công cụ AI Agent giúp tự động hóa chăm sóc khách hàng, cho thấy chiến lược AI của Zalo không chỉ dừng ở người dùng cá nhân mà còn mở rộng sang đối tượng doanh nghiệp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DiyokZY5xDo/hqdefault.jpg" alt="Zalo OA AI Agent ho tro doanh nghiep tu dong hoa cham soc khach hang" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/DiyokZY5xDo/hqdefault.jpg" alt="Zalo OA AI Agent ho tro doanh nghiep tu dong hoa cham soc khach hang" loading="lazy" width="1280" height="480">
   <figcaption>Zalo OA tích hợp AI Agent giúp doanh nghiệp tự động hóa chăm sóc khách hàng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Câu chuyện của Zalo phản ánh một hướng đi đáng chú ý trong là
 Tuy nhiên, để duy trì đà phát triển, Zalo cũng cần tiếp tục đầu tư vào chất lượng và độ chính xác của các trợ lý AI, đặc biệt với những tính năng liên quan tới thông tin pháp lý và hành chính, nơi sai sót có thể gây ảnh hưởng trực tiếp tới quyền lợi người dùng. Sự kết hợp giữa quy mô người dùng lớn, chiến lược rõ ràng và đầu tư công nghệ bài bản cho thấy Zalo đang đặt nền móng vững chắc để trở thành một trong những điểm sáng của ngành AI Việt Nam trong những năm tới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/pGjDsP9hLDY/hqdefault.jpg" alt="Zalo VNG chien luoc AI pho cap cho nguoi Viet 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/pGjDsP9hLDY/hqdefault.jpg" alt="Zalo VNG chien luoc AI pho cap cho nguoi Viet 2026" loading="lazy" width="1280" height="480">
   <figcaption>VNG đặt mục tiêu phổ cập AI rộng khắp thông qua Zalo. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Với hơn 40 triệu người dùng hoạt động và khoảng 140.000 điểm
 Một ví dụ ấn tượng về sức mạnh AI là khả năng chấm điểm và ra quyết định cho vay trong dưới hai giây, đồng thời giảm rủi ro nhờ dự đoán chính xác hơn. Tốc độ và độ chính xác này là lợi thế cạnh tranh lớn, giúp MoMo cung cấp tín dụng nhanh mà vẫn kiểm soát rủi ro. Việc ứng dụng AI vào tài chính đang là xu hướng mạnh tại Việt Nam, không chỉ ở fintech mà cả ngành ngân hàng, như phân tích trong bài [ngân hàng AI Việt Nam 2026](/articles/ngan-hang-ai-viet-nam-2026-tro-ly-ao-chatbot-chuyen-doi-so.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2jYMl315R0w/maxresdefault.jpg" alt="MoMo dùng AI và GPU NVIDIA cho chatbot và chấm điểm vay" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2jYMl315R0w/maxresdefault.jpg" alt="MoMo dùng AI và GPU NVIDIA cho chatbot và chấm điểm vay" loading="lazy" width="1280" height="720">
   <figcaption>MoMo dùng GPU NVIDIA cho chatbot, eKYC và chấm điểm vay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ MoMo đã gọi vốn qua nhiều vòng để hỗ trợ tăng trưởng và đ�
 Với nguồn vốn dồi dào và quy mô người dùng lớn, MoMo có nền tảng để cạnh tranh và phát triển bền vững. Về kế hoạch niêm yết, từng có thông tin về dự định IPO, nhưng chưa có công bố chính thức cụ thể. Sự phát triển của fintech cũng gắn liền với khung pháp lý đang hoàn thiện cho lĩnh vực tài chính số tại Việt Nam, bao gồm cả tài sản số, được phân tích trong bài [Việt Nam có khung pháp lý tài sản mã hóa 2026](/articles/viet-nam-luat-tai-san-ma-hoa-2026-san-giao-dich-thi-diem-khung-phap-ly.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/yGaTGRnqKy8/maxresdefault.jpg" alt="MoMo gọi vốn Series E và mở rộng dịch vụ fintech" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yGaTGRnqKy8/maxresdefault.jpg" alt="MoMo gọi vốn Series E và mở rộng dịch vụ fintech" loading="lazy" width="1280" height="720">
   <figcaption>MoMo gọi vốn Series E 200 triệu USD do Mizuho dẫn dắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Là nền tảng tài chính với hàng chục triệu người dùng, MoMo đ�
 Người dùng cũng nên cẩn trọng với các liên kết lạ, tin nhắn yêu cầu cung cấp thông tin tài khoản, và chỉ giao dịch qua ứng dụng chính thức tải từ kho ứng dụng uy tín. Khi sử dụng các dịch vụ tài chính như vay hay đầu tư, hãy đọc kỹ điều khoản và chỉ quyết định trong khả năng tài chính của mình. MoMo mang lại nhiều tiện ích, nhưng sử dụng thông minh và an toàn mới giúp người dùng tận dụng tối đa lợi ích mà tránh rủi ro. Việc trang bị kiến thức bảo mật là cách bảo vệ tốt nhất cho tài chính cá nhân.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/qb8sN5k36ps/hq720.jpg" alt="Sử dụng MoMo an toàn và cảnh giác lừa đảo ví điện tử" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qb8sN5k36ps/hq720.jpg" alt="Sử dụng MoMo an toàn và cảnh giác lừa đảo ví điện tử" loading="lazy" width="1280" height="720">
   <figcaption>Người dùng cần cảnh giác lừa đảo khi dùng ví điện tử. Nguồn: YouTube</figcaption>
 </figure>
 

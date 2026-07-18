@@ -74,14 +74,14 @@ Bên cạnh độ bền, thiết kế của T-Rex Ultra 2 cũng được chăm c
 Với một chiếc đồng hồ thể thao, độ chính xác của định vị là yếu tố quan trọng hàng đầu. T-Rex Ultra 2 trang bị hệ thống GPS đa băng tần, cho phép ghi lại lộ trình chạy bộ, đạp xe hay leo núi với sai số thấp. Trong các bài đánh giá so sánh với những tên tuổi như Garmin, Coros và Suunto, sản phẩm của Amazfit cho kết quả định vị cạnh tranh, điều không dễ đạt được ở tầm giá này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OBXo2UXk4dA/hqdefault.jpg" alt="Các tính năng thể thao và sức khỏe của Amazfit T-Rex Ultra 2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OBXo2UXk4dA/hqdefault.jpg" alt="Các tính năng thể thao và sức khỏe của Amazfit T-Rex Ultra 2" loading="lazy" width="1280" height="720">
   <figcaption>T-Rex Ultra 2 tích hợp nhiều chế độ thể thao cùng các tính năng theo dõi sức khỏe. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài định vị, máy còn tích hợp loạt tính năng sức khỏe và luyện tập chuyên sâu, từ đo nhịp tim, theo dõi giấc ngủ, đo nồng độ oxy trong máu tới hàng loạt chế độ thể thao. Đây là bộ công cụ đủ đầy cho người tập luyện nghiêm túc, giúp theo dõi tiến bộ và điều chỉnh cường độ tập một cách khoa học. Thời lượng pin nhiều ngày cũng là lợi thế lớn, giúp người dùng không phải sạc liên tục, đặc biệt quan trọng trong những chuyến đi dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FBcTb00sEbU/hqdefault.jpg" alt="So sánh độ chính xác GPS của Amazfit T-Rex Ultra 2 với các đối thủ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FBcTb00sEbU/hqdefault.jpg" alt="So sánh độ chính xác GPS của Amazfit T-Rex Ultra 2 với các đối thủ" loading="lazy" width="1280" height="720">
   <figcaption>Trong các bài so sánh GPS với Garmin, Coros và Suunto, T-Rex Ultra 2 cho kết quả cạnh tranh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Sự kết hợp giữa GPS chính xác, pin lâu và tính năng đầy đủ k
 Điểm hấp dẫn nhất của T-Rex Ultra 2 nằm ở bài toán giá trị. Với mức giá tham khảo khoảng 550 USD, chiếc đồng hồ này rẻ hơn đáng kể so với các dòng Garmin Fenix cao cấp, trong khi cung cấp nhiều tính năng tương đương. Đây chính là chiến lược giúp Amazfit ngày càng lấn sân vào phân khúc vốn là sân nhà của Garmin.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OoHlxwu5CAc/hqdefault.jpg" alt="Amazfit T-Rex Ultra 2 sau thời gian sử dụng thực tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OoHlxwu5CAc/hqdefault.jpg" alt="Amazfit T-Rex Ultra 2 sau thời gian sử dụng thực tế" loading="lazy" width="1280" height="720">
   <figcaption>Sau thời gian sử dụng thực tế, T-Rex Ultra 2 được đánh giá cao về giá trị trên số tiền bỏ ra. Nguồn: YouTube</figcaption>
 </figure>
 

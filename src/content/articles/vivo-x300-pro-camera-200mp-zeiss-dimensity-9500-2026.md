@@ -65,7 +65,7 @@ Trọng tâm của Vivo X300 Pro nằm ở cụm camera. Máy dùng camera chín
 Việc đặt một cảm biến độ phân giải cao và kích thước lớn cho ống tele giúp X300 Pro chụp xa mà vẫn giữ chi tiết, đồng thời cho phép cắt cúp linh hoạt ở nhiều tiêu cự trung gian. Nhiều bài đánh giá quốc tế nhận định đây là một trong những máy chụp tele tốt nhất hiện nay, thậm chí ổn định hơn cả camera chính trong một số tình huống. Dĩ nhiên, phần lớn độ nét ở tiêu cự cực xa đến từ xử lý tính toán chứ không hoàn toàn là quang học thuần túy, điều người dùng cần hiểu đúng để có kỳ vọng hợp lý.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SYAVHyuZFWo/hqdefault.jpg" alt="Cụm camera Zeiss ba ống kính của Vivo X300 Pro với tele 200MP" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SYAVHyuZFWo/hqdefault.jpg" alt="Cụm camera Zeiss ba ống kính của Vivo X300 Pro với tele 200MP" loading="lazy" width="1280" height="720">
   <figcaption>Cụm camera Zeiss ba ống kính đặt tele 200MP làm điểm nhấn cạnh tranh về khả năng zoom. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Bên dưới lớp vỏ, Vivo X300 Pro chạy chip MediaTek Dimensity 9500 sản
 Sự kết hợp giữa một con chip tổng và một chip ảnh chuyên dụng là hướng đi ngày càng phổ biến ở nhóm flagship camera. Nó giúp máy giảm tải cho vi xử lý chính, đồng thời tạo ra dấu ấn màu sắc và cách xử lý riêng cho từng hãng. Với X300 Pro, Vivo đặt cược rằng chất ảnh mang màu Zeiss cùng khả năng xử lý mạnh sẽ là điểm níu chân người dùng, trong bối cảnh cấu hình phần cứng giữa các flagship ngày càng khó tạo khác biệt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Ty0C0bE-hKE/hqdefault.jpg" alt="Ảnh chụp thử từ Vivo X300 Pro thể hiện khả năng xử lý màu Zeiss" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ty0C0bE-hKE/hqdefault.jpg" alt="Ảnh chụp thử từ Vivo X300 Pro thể hiện khả năng xử lý màu Zeiss" loading="lazy" width="1280" height="720">
   <figcaption>Chip ảnh V3+ kết hợp Dimensity 9500 đảm nhận các tác vụ nhiếp ảnh tính toán nặng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Bản tiêu chuẩn X300 cũng đáng chú ý khi mang camera chính 200MP, màn
 Tại Trung Quốc, Vivo X300 Pro bản 16GB/256GB có giá quy đổi từ khoảng 660 USD, còn bản tiêu chuẩn X300 khởi điểm thấp hơn. Đây là mức giá cạnh tranh cho một flagship camera, đặc biệt khi tính tới cấu hình bộ nhớ và hệ thống ống kính. Dòng X300 đang mở rộng ra thị trường toàn cầu, và với việc Vivo có kênh phân phối chính hãng tại Việt Nam, khả năng máy về nước là khá cao, dù giá bán và thời điểm chính thức vẫn cần chờ hãng xác nhận.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/McN8sfNAcL4/hqdefault.jpg" alt="Vivo X300 Pro sau thời gian dùng dài đánh giá độ ổn định camera và pin" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/McN8sfNAcL4/hqdefault.jpg" alt="Vivo X300 Pro sau thời gian dùng dài đánh giá độ ổn định camera và pin" loading="lazy" width="1280" height="720">
   <figcaption>Sau thời gian dùng dài, X300 Pro được đánh giá cao về độ ổn định camera và thời lượng pin. Nguồn: YouTube</figcaption>
 </figure>
 

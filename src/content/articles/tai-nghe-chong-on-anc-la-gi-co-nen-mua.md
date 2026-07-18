@@ -74,14 +74,14 @@ Chống ồn chủ động, viết tắt ANC, dùng các micro nhỏ để thu t
 Đi cùng ANC là chế độ xuyên âm, còn gọi là transparency hay ambient mode. Chế độ này làm điều ngược lại: dùng micro thu âm thanh môi trường rồi phát vào tai để người dùng nghe rõ xung quanh mà không cần tháo tai nghe. Nó rất hữu ích khi đi đường, trò chuyện nhanh, nghe thông báo ở sân bay hay gọi món ở quán, vừa tiện vừa an toàn hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9QJwO_gYgU4/maxresdefault.jpg" alt="Đánh giá khả năng chống ồn và chế độ xuyên âm trên tai nghe true wireless" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9QJwO_gYgU4/maxresdefault.jpg" alt="Đánh giá khả năng chống ồn và chế độ xuyên âm trên tai nghe true wireless" loading="lazy" width="1280" height="720">
   <figcaption>Chế độ xuyên âm cho phép nghe rõ môi trường mà không cần tháo tai nghe. Nguồn: YouTube</figcaption>
 </figure>
 
 Tuy nhiên, ANC không phải phép màu. Công nghệ này hiệu quả nhất với tiếng ồn đều đều và tần số thấp như tiếng động cơ máy bay, điều hòa, quạt và ồn nền văn phòng. Với những âm thanh đột ngột, thay đổi nhanh như tiếng nói chuyện hay va đập, ANC kém hiệu quả hơn nhiều. Vì vậy đừng kỳ vọng nó làm im lặng tuyệt đối mọi môi trường, mà hãy xem là công cụ giảm mệt mỏi do tiếng ồn nền.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/EoDhbzVmddQ/maxresdefault.jpg" alt="Chống ồn thụ động và chống ồn chủ động ANC khác gì nhau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/EoDhbzVmddQ/maxresdefault.jpg" alt="Chống ồn thụ động và chống ồn chủ động ANC khác gì nhau" loading="lazy" width="1280" height="720">
   <figcaption>ANC kết hợp với nút tai khít cho hiệu quả chống ồn tốt nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Hiệu quả chống ồn còn phụ thuộc nhiều vào kiểu dáng tai nghe.
 Tai nghe nhét trong (in-ear true wireless) gọn nhẹ và phổ biến nhất hiện nay. Nhờ nút tai silicon ôm khít ống tai, loại này vẫn đạt chống ồn khá tốt dù bộ phát ANC nhỏ hơn. Hiệu quả phụ thuộc rất lớn vào việc chọn đúng cỡ nút tai, vì chỉ cần hở nhẹ là tiếng ồn lọt vào và ANC mất tác dụng đáng kể. Trong khi đó, các mẫu open-fit hay clip không bịt kín ống tai gần như không có chống ồn thụ động, nên ANC trên chúng chỉ giảm được phần nhỏ tiếng ồn nền.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FTp79t4t_7w/maxresdefault.jpg" alt="So sánh tai nghe chụp tai chống ồn cao cấp với các kiểu tai nghe khác" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FTp79t4t_7w/maxresdefault.jpg" alt="So sánh tai nghe chụp tai chống ồn cao cấp với các kiểu tai nghe khác" loading="lazy" width="1280" height="720">
   <figcaption>Tai nghe chụp tai thường chống ồn tốt nhất nhờ kết hợp cách âm thụ động và ANC. Nguồn: YouTube</figcaption>
 </figure>
 

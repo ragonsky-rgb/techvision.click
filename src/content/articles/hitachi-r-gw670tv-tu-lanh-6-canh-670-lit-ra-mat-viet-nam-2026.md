@@ -75,7 +75,7 @@ Về mặt thiết kế, tủ lạnh sử dụng mặt gương phẳng bóng b�
 Điểm nhấn công nghệ đáng chú ý nhất trên Hitachi R-GW670TV là ngăn chân không, duy trì áp suất khoảng 0,8 atm kết hợp cùng chất xúc tác Platinum và Ruthenium. Cơ chế này giúp giảm đáng kể quá trình oxy hóa thực phẩm, từ đó bảo toàn dưỡng chất và kéo dài độ tươi ngon lâu hơn hẳn so với các ngăn bảo quản bán chân không thông thường trên thị trường.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xRb45A9scbU/hqdefault.jpg" alt="Tủ lạnh Hitachi dòng cao cấp trang bị công nghệ bảo quản thực phẩm tiên tiến" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xRb45A9scbU/hqdefault.jpg" alt="Tủ lạnh Hitachi dòng cao cấp trang bị công nghệ bảo quản thực phẩm tiên tiến" loading="lazy" width="1280" height="720">
   <figcaption>Các dòng tủ lạnh Hitachi cao cấp đều được trang bị công nghệ bảo quản thực phẩm chuyên sâu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Song song với ngăn chân không, sản phẩm còn tích hợp công nghệ l
 Dù sở hữu dung tích lớn và nhiều tính năng cao cấp, Hitachi R-GW670TV vẫn đạt chứng nhận tiết kiệm điện 5 sao, mức cao nhất theo thang đánh giá hiệu suất năng lượng hiện hành, với mức tiêu thụ điện trung bình hàng năm chỉ khoảng 466 kWh. Đây là con số ấn tượng đối với một sản phẩm có dung tích lên tới 670 lít, giúp giảm đáng kể chi phí vận hành lâu dài cho người dùng so với nhiều mẫu tủ lạnh cùng phân khúc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gQwYdHiUqXY/hqdefault.jpg" alt="Tủ lạnh Hitachi nhiều cánh trang bị bộ lọc khử mùi và diệt khuẩn hiện đại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gQwYdHiUqXY/hqdefault.jpg" alt="Tủ lạnh Hitachi nhiều cánh trang bị bộ lọc khử mùi và diệt khuẩn hiện đại" loading="lazy" width="1280" height="720">
   <figcaption>Bộ lọc khử mùi 3 lớp Triple Power giúp không gian bên trong tủ luôn sạch sẽ và an toàn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Theo thông tin từ các nhà bán lẻ, giá niêm yết chính hãng của Hi
 Sự xuất hiện của Hitachi R-GW670TV góp phần làm sôi động thêm phân khúc tủ lạnh cao cấp tại Việt Nam, vốn đã có sự cạnh tranh đáng kể từ các thương hiệu khác. Trước đó không lâu, thị trường cũng đã đón nhận [dòng tủ lạnh 4 cánh âm tường thế hệ mới của Panasonic](/articles/panasonic-tu-lanh-4-canh-am-tuong-2026-ai-econavi-ra-mat-vn.html), cho thấy các hãng gia dụng lớn đều đang đồng loạt đẩy mạnh đầu tư vào phân khúc thiết bị nhà bếp cao cấp trong năm 2026. Xu hướng này cũng tương tự những gì đang diễn ra ở mảng thiết bị gia dụng thông minh khác, như [Xiaomi vừa ra mắt loạt TV Mini LED và robot hút bụi H50 tại Việt Nam](/articles/xiaomi-tv-mini-led-robot-hut-bui-h50-ra-mat-viet-nam-2026.html), phản ánh nhu cầu ngày càng tăng của người tiêu dùng Việt đối với các thiết bị gia dụng tích hợp công nghệ hiện đại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/lSHkoTmpWJg/hqdefault.jpg" alt="Phân khúc tủ lạnh cao cấp nhiều cánh ngày càng đa dạng lựa chọn tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/lSHkoTmpWJg/hqdefault.jpg" alt="Phân khúc tủ lạnh cao cấp nhiều cánh ngày càng đa dạng lựa chọn tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Người tiêu dùng Việt Nam ngày càng có nhiều lựa chọn ở phân khúc tủ lạnh nhiều cánh cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 

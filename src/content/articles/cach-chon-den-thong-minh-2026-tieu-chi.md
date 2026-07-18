@@ -68,7 +68,7 @@ featured: false
 Độ sáng của đèn được tính bằng đơn vị lumen, chỉ số càng cao đèn càng sáng. Với phòng ngủ nhỏ, ánh sáng phụ trợ, mức lumen khoảng 400 đến 600 đã đủ dùng. Với phòng khách diện tích trung bình 15 đến 20m2 dùng làm ánh sáng chính, nên chọn đèn có độ sáng tối thiểu khoảng 800 đến 1.000 lumen mỗi bóng, có thể cần kết hợp nhiều bóng tùy cách bố trí không gian thực tế. Nên tránh chọn đèn có độ sáng quá thấp so với diện tích phòng, dễ khiến không gian tối, ảnh hưởng tới sinh hoạt hằng ngày, đặc biệt với các hoạt động cần độ sáng cao như đọc sách, làm việc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/n8egzi1llS8/hqdefault.jpg" alt="Kham pha he thong chieu sang trong nha thong minh lumen 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/n8egzi1llS8/hqdefault.jpg" alt="Kham pha he thong chieu sang trong nha thong minh lumen 2026" loading="lazy" width="1280" height="480">
   <figcaption>Chọn đúng độ sáng lumen phù hợp diện tích giúp không gian sống thoải mái hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ featured: false
 Với nhu cầu chiếu sáng cơ bản hằng ngày, đèn trắng ấm hoặc trắng trung tính có thể điều chỉnh độ sáng đã hoàn toàn đáp ứng đủ, đồng thời có mức giá thấp hơn đáng kể so với đèn đa sắc. Đèn đa sắc RGB phù hợp nếu có nhu cầu trang trí, tạo không khí giải trí đa dạng theo dịp lễ, sự kiện hoặc sở thích cá nhân, cho phép đổi màu ánh sáng linh hoạt theo tâm trạng hoặc hoạt động, ví dụ ánh sáng dịu nhẹ khi xem phim, ánh sáng rực rỡ khi tổ chức tiệc tại nhà.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/oP7gqhp9CyA/hqdefault.jpg" alt="He thong den chieu sang thong minh Orvibo da sac RGB 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/oP7gqhp9CyA/hqdefault.jpg" alt="He thong den chieu sang thong minh Orvibo da sac RGB 2026" loading="lazy" width="1280" height="480">
   <figcaption>Đèn đa sắc RGB tạo không khí trang trí sinh động, phù hợp không gian giải trí tại nhà. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Với nhu cầu chiếu sáng cơ bản hằng ngày, đèn trắng ấm hoặc 
 Cuối cùng, cần xác định ngân sách phù hợp dựa trên số lượng bóng đèn dự kiến lắp đặt trong toàn bộ căn nhà, vì chi phí có thể tăng nhanh nếu trang bị đồng loạt nhiều phòng cùng lúc. Nên bắt đầu từ một vài phòng chính như phòng khách, phòng ngủ để trải nghiệm trước khi quyết định mở rộng ra toàn bộ căn nhà, đồng thời đảm bảo đường truyền wifi đủ ổn định cho tất cả thiết bị hoạt động trơn tru, tham khảo thêm bài viết [cách tăng tốc wifi tại nhà khi mạng chậm, lag](/articles/cach-tang-toc-wifi-tai-nha-mang-cham-lag-2026.html) nếu nhà có nhiều thiết bị thông minh kết nối cùng lúc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/uqnvuUO7cQc/hqdefault.jpg" alt="Huong dan lap dat cong tac thong minh dieu khien wifi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/uqnvuUO7cQc/hqdefault.jpg" alt="Huong dan lap dat cong tac thong minh dieu khien wifi 2026" loading="lazy" width="1280" height="480">
   <figcaption>Kết hợp công tắc thông minh cùng đèn thông minh giúp mở rộng khả năng điều khiển ánh sáng cả nhà. Nguồn: YouTube</figcaption>
 </figure>
 

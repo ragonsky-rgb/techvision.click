@@ -75,7 +75,7 @@ Về mặt kiến trúc, Exynos 2600 trang bị CPU 10 nhân dựa trên kiến 
 Điểm nhấn lớn nhất của Exynos 2600 nằm ở bộ xử lý thần kinh NPU thế hệ mới, mang lại mức cải thiện hiệu năng AI tạo sinh lên tới 113% so với chip tiền nhiệm Exynos 2500. Không chỉ dừng lại ở các tác vụ AI cơ bản như nhận diện ảnh hay xử lý ngôn ngữ đơn giản, NPU trên Exynos 2600 còn được thiết kế hướng thẳng tới kỷ nguyên Agentic AI, tức khả năng tự phân tích và xử lý các khối lượng phép tính phức tạp trực tiếp trên thiết bị thay vì phải gửi dữ liệu lên máy chủ đám mây để xử lý rồi chờ phản hồi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SJeSdDAWlT4/hqdefault.jpg" alt="Đánh giá hiệu năng và độ ổn định thực tế của Exynos 2600" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SJeSdDAWlT4/hqdefault.jpg" alt="Đánh giá hiệu năng và độ ổn định thực tế của Exynos 2600" loading="lazy" width="1280" height="720">
   <figcaption>Các bài đánh giá độc lập tập trung phân tích hiệu năng thực tế và độ ổn định nhiệt của Exynos 2600. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Cách tiếp cận này mang lại hai lợi ích rõ rệt: tốc độ phản 
 Về mặt đồ hoạ, Exynos 2600 trang bị GPU Xclipse 960 mới, mang lại hiệu năng tổng thể gấp đôi so với thế hệ tiền nhiệm, cùng khả năng dò tia (ray tracing) cải thiện tới 50%, hứa hẹn cải thiện đáng kể trải nghiệm chơi game đồ hoạ nặng trên các mẫu Galaxy S26 sử dụng chip này. Samsung cũng giới thiệu công nghệ Heat Path Block mới nhằm cải thiện hiệu quả tản nhiệt, giúp máy duy trì hiệu năng cao trong thời gian dài hơn mà không bị giảm tốc do quá nhiệt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/FX8nEssWdRM/hqdefault.jpg" alt="Kết quả benchmark chi tiết của chip Exynos 2600 trên Galaxy S26" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FX8nEssWdRM/hqdefault.jpg" alt="Kết quả benchmark chi tiết của chip Exynos 2600 trên Galaxy S26" loading="lazy" width="1280" height="720">
   <figcaption>Kết quả benchmark thực tế cho thấy bức tranh vừa tích cực vừa còn nhiều tranh cãi về Exynos 2600. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Ngoài hiệu năng, Exynos 2600 còn được trang bị công nghệ bảo m�
 Về mặt phân phối, Exynos 2600 hiện chỉ được trang bị trên phiên bản châu Âu của Galaxy S26 và Galaxy S26 Plus, trong khi các thị trường khác tiếp tục sử dụng chip Snapdragon 8 Elite Gen 5, duy trì chiến lược phân phối chip theo khu vực mà Samsung đã áp dụng nhiều năm qua.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/fCCJzvLKPSo/hqdefault.jpg" alt="So sánh Exynos 2600 với Snapdragon 8 Elite Gen 5 và Dimensity 9500" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fCCJzvLKPSo/hqdefault.jpg" alt="So sánh Exynos 2600 với Snapdragon 8 Elite Gen 5 và Dimensity 9500" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh công nghệ đã thực hiện so sánh trực tiếp giữa Exynos 2600 với các đối thủ cạnh tranh cùng phân khúc. Nguồn: YouTube</figcaption>
 </figure>
 

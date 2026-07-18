@@ -74,7 +74,7 @@ Tất nhiên, một ý tưởng mới luôn đi kèm câu hỏi về tính thự
 Bên cạnh phần cứng, realme đầu tư vào chất ảnh thông qua hợp tác với Ricoh, thương hiệu máy ảnh nổi tiếng, đặc biệt với dòng compact GR được giới nhiếp ảnh đường phố yêu thích. Sự hợp tác này giúp tinh chỉnh cụm camera 200MP của GT 8 Pro theo một phong cách màu sắc và trải nghiệm chụp mang bản sắc riêng, thay vì chỉ chạy theo con số điểm ảnh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZlbiEvZ_g6w/hqdefault.jpg" alt="realme GT 8 Pro với hai phong cách thiết kế khác nhau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZlbiEvZ_g6w/hqdefault.jpg" alt="realme GT 8 Pro với hai phong cách thiết kế khác nhau" loading="lazy" width="1280" height="720">
   <figcaption>GT 8 Pro cho phép tùy biến kiểu dáng, tạo cảm giác một sản phẩm mang dấu ấn cá nhân. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Việc các hãng smartphone bắt tay với thương hiệu máy ảnh danh ti�
 Ẩn sau lớp vỏ độc đáo là cấu hình đúng chuẩn đầu bảng. realme GT 8 Pro dùng chip Snapdragon 8 Elite Gen 5, vi xử lý mạnh nhất của Qualcomm cho Android, đủ sức chiến mọi tựa game nặng và xử lý các tác vụ AI trên thiết bị mượt mà. Đây là nền tảng đảm bảo máy không chỉ đẹp và lạ mà còn mạnh mẽ thực sự.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ji5qdRCUFgQ/maxresdefault.jpg" alt="realme GT 8 Pro thử nghiệm camera và hiệu năng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ji5qdRCUFgQ/maxresdefault.jpg" alt="realme GT 8 Pro thử nghiệm camera và hiệu năng" loading="lazy" width="1280" height="720">
   <figcaption>Máy dùng chip Snapdragon 8 Elite Gen 5 cùng camera 200MP, cân bằng giữa hiệu năng và nhiếp ảnh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Việc các hãng smartphone bắt tay với thương hiệu máy ảnh danh ti�
 ## realme muốn gì ở phân khúc cao cấp
 
 <figure>
-  <img src="https://i.ytimg.com/vi/IlG7eDlKcLo/maxresdefault.jpg" alt="Tổng quan thiết kế và trang bị realme GT 8 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IlG7eDlKcLo/maxresdefault.jpg" alt="Tổng quan thiết kế và trang bị realme GT 8 Pro" loading="lazy" width="1280" height="720">
   <figcaption>GT 8 Pro là canh bạc của realme nhằm tạo dấu ấn riêng ở phân khúc flagship. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Một nguyên tắc quan trọng là chia sẻ càng ít thông tin cá nhân c�
 Các nền tảng cũng đang bổ sung công cụ giúp giảm lộ thông tin. Chẳng hạn, một số ứng dụng nhắn tin cho phép dùng tên người dùng để liên hệ thay vì số điện thoại, như tính năng mới của WhatsApp. Tận dụng các tùy chọn này giúp bạn kết nối mà không phải trao thông tin nhạy cảm cho người lạ. Đây là cách bảo vệ thiết thực trong bối cảnh lừa đảo qua tin nhắn và cuộc gọi ngày càng phổ biến.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SBh8bZ_4c4A/maxresdefault.jpg" alt="Cách khóa bảo vệ trang cá nhân trên điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SBh8bZ_4c4A/maxresdefault.jpg" alt="Cách khóa bảo vệ trang cá nhân trên điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Đặt chế độ riêng tư cho thông tin cá nhân trên mạng xã hội. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một tình huống nhiều người bỏ qua là khi đem điện thoại đi s
 Việc sao lưu định kỳ cũng quan trọng để vừa bảo vệ dữ liệu vừa sẵn sàng cho các tình huống mất hay hỏng máy. Nên dùng các phương án sao lưu an toàn như dịch vụ đám mây có mã hóa hoặc ổ cứng riêng. Khi bán hoặc thanh lý máy cũ, hãy xóa sạch dữ liệu bằng tính năng khôi phục cài đặt gốc và đăng xuất toàn bộ tài khoản, tránh để thông tin cá nhân rơi vào tay người mua lại. Có thể tham khảo thêm bài [cách sao lưu dữ liệu trước khi đổi máy](/articles/cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/QdAtvko33ww/maxresdefault.jpg" alt="Bảo vệ dữ liệu cá nhân khi đi sửa điện thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/QdAtvko33ww/maxresdefault.jpg" alt="Bảo vệ dữ liệu cá nhân khi đi sửa điện thoại" loading="lazy" width="1280" height="720">
   <figcaption>Sao lưu và ẩn dữ liệu trước khi giao máy cho thợ sửa. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Bảo vệ tài khoản là một phần cốt lõi của quyền riêng tư. H�
 Về mạng, hãy cẩn trọng với Wi-Fi công cộng vì tiềm ẩn rủi ro bị nghe lén, nhất là các mạng không mật khẩu. Tránh đăng nhập ngân hàng hay nhập thông tin nhạy cảm khi dùng Wi-Fi công cộng; nếu cần, hãy ưu tiên mạng di động cho các giao dịch quan trọng. Kết hợp các biện pháp này với việc cảnh giác trước các đường link và tin nhắn lạ sẽ tạo nên một lớp phòng vệ vững chắc, như đề cập trong bài [cách bật xác thực 2 lớp](/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tMtmgiy-P6k/maxresdefault.jpg" alt="Luật bảo vệ dữ liệu cá nhân người dùng được bảo vệ những gì" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tMtmgiy-P6k/maxresdefault.jpg" alt="Luật bảo vệ dữ liệu cá nhân người dùng được bảo vệ những gì" loading="lazy" width="1280" height="720">
   <figcaption>Người dùng có thêm quyền với dữ liệu nhờ luật bảo vệ dữ liệu cá nhân. Nguồn: YouTube</figcaption>
 </figure>
 

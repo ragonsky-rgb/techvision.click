@@ -76,7 +76,7 @@ Nhiều router hiện nay hỗ trợ hai băng tần 2.4GHz và 5GHz, mỗi lo�
 Bên cạnh băng tần, kênh WiFi cũng quan trọng. Ở khu dân cư đông đúc, nhiều router có thể dùng chung một kênh, gây nhiễu và làm chậm mạng. Bạn có thể vào trang cấu hình router để đổi sang kênh ít bị trùng, giúp giảm nhiễu. Một số router hiện đại tự động chọn kênh tối ưu. Việc tối ưu băng tần và kênh là cách hiệu quả để cải thiện tốc độ mà không cần thay thiết bị, đặc biệt hữu ích cho cả thiết bị di động lẫn máy tính.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Tq-fIPy7GcM/maxresdefault.jpg" alt="Chọn băng tần và kênh WiFi để giảm nhiễu tăng tốc mạng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Tq-fIPy7GcM/maxresdefault.jpg" alt="Chọn băng tần và kênh WiFi để giảm nhiễu tăng tốc mạng" loading="lazy" width="1280" height="720">
   <figcaption>Chọn đúng băng tần và kênh giúp giảm nhiễu, tăng tốc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một trong những cách đơn giản nhất để khắc phục mạng chậm 
 Cập nhật firmware router cũng quan trọng nhưng hay bị bỏ qua. Các bản cập nhật thường vá lỗi bảo mật, cải thiện hiệu năng và độ ổn định. Hãy vào trang cấu hình router để kiểm tra và cập nhật định kỳ. Đồng thời, đặt mật khẩu WiFi mạnh để tránh bị người lạ dùng ké làm chậm mạng và gây rủi ro bảo mật. Bảo mật mạng tại nhà là một phần của việc bảo vệ an toàn thông tin nói chung, liên quan tới các nguyên tắc trong bài [cách bảo mật tài khoản Google](/articles/cach-bao-mat-tai-khoan-google-chong-hack-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mhjX6ZgIbIw/hq720.jpg" alt="Khởi động lại và cập nhật firmware router để tăng tốc WiFi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mhjX6ZgIbIw/hq720.jpg" alt="Khởi động lại và cập nhật firmware router để tăng tốc WiFi" loading="lazy" width="1280" height="720">
   <figcaption>Khởi động lại và cập nhật firmware giúp mạng ổn định hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Nếu nhà rộng, nhiều tầng hoặc có nhiều góc khuất mà một rout
 Ngoài ra, nếu router đã quá cũ, việc nâng cấp lên thiết bị mới hỗ trợ chuẩn WiFi mới hơn có thể cải thiện đáng kể tốc độ và khả năng phục vụ nhiều thiết bị cùng lúc. Router cũ thường là nút thắt cổ chai dù gói cước cao. Khi chọn router mới, hãy cân nhắc số thiết bị trong nhà, diện tích cần phủ và nhu cầu sử dụng để chọn cấu hình phù hợp. Một mạng nhanh và ổn định cũng giúp các thiết bị khác hoạt động tốt hơn, chẳng hạn khi tối ưu máy tính theo bài [cách tăng tốc laptop Windows](/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/aBi24le50Ak/maxresdefault.jpg" alt="Mesh WiFi và router mới giúp phủ sóng và tăng tốc cho nhà rộng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/aBi24le50Ak/maxresdefault.jpg" alt="Mesh WiFi và router mới giúp phủ sóng và tăng tốc cho nhà rộng" loading="lazy" width="1280" height="720">
   <figcaption>Mesh WiFi giúp phủ sóng liền mạch cho nhà rộng. Nguồn: YouTube</figcaption>
 </figure>
 

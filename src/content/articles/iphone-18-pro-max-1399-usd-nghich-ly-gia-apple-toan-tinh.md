@@ -64,7 +64,7 @@ Theo tổng hợp từ báo chí công nghệ quốc tế, iPhone 18 Pro Max đ�
 Tuy vậy, cần thẳng thắn rằng con số này vẫn là ước tính và còn dao động tùy nguồn. Một số dự báo nêu mức khởi điểm thấp hơn cho bản tiêu chuẩn, số khác cho rằng bản Pro Max có thể còn cao hơn nữa. Điểm chung của mọi dự báo là giá iPhone 18 năm nay chắc chắn đi lên, và nguyên nhân thì gần như ai cũng chỉ về một phía: chi phí bộ nhớ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bXz4awae01s/maxresdefault.jpg" alt="Thiết kế iPhone 18 Pro Max qua các bản dựng và mô hình case nước ngoài" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bXz4awae01s/maxresdefault.jpg" alt="Thiết kế iPhone 18 Pro Max qua các bản dựng và mô hình case nước ngoài" loading="lazy" width="1280" height="720">
   <figcaption>iPhone 18 Pro Max qua các bản dựng case sớm từ giới rò rỉ quốc tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Thủ phạm chính là cơn khủng hoảng bộ nhớ mà giới công nghệ 
 Cụ thể, theo các ước tính được dẫn lại, chi phí RAM trên một chiếc iPhone Pro nhảy từ khoảng 39 USD ở đời 17 lên tới 145 USD ở đời 18. Chi phí lưu trữ cũng tăng từ khoảng 13 USD lên hơn 50 USD. Cộng thêm hệ thống camera mới được cho là đắt hơn tới 50%, tổng chi phí sản xuất một chiếc iPhone Pro được ước tính tăng từ khoảng 530 lên 726 USD, tức cao hơn 37%. Chính Tim Cook cũng thừa nhận Apple đang chịu những đợt tăng giá rất lớn từ chuỗi cung ứng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/A_WH6M6bDww/maxresdefault.jpg" alt="Giá iPhone leo thang khi khủng hoảng chip nhớ ảnh hưởng tới Apple" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/A_WH6M6bDww/maxresdefault.jpg" alt="Giá iPhone leo thang khi khủng hoảng chip nhớ ảnh hưởng tới Apple" loading="lazy" width="1280" height="720">
   <figcaption>Giới tài chính quốc tế cũng nói về việc giá iPhone leo thang vì thiếu hụt chip nhớ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Cụ thể, theo các ước tính được dẫn lại, chi phí RAM trên mộ
 Đây là phần thú vị nhất. Nếu Apple muốn giữ biên lợi nhuận khoảng 47% như iPhone 17 Pro, với chi phí sản xuất mới quanh 726 USD, giá bán hợp lý sẽ rơi vào tầm 1.370 USD. Từ đó, Apple có thể chọn một mức tròn dễ chịu về tâm lý là 1.299 hoặc 1.399 USD. Nói cách khác, mức 1.399 USD không phải con số ngẫu nhiên, mà là kết quả của bài toán chi phí cộng lợi nhuận.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ppH_lAl1Iag/maxresdefault.jpg" alt="Apple được cho là xác nhận chiến lược giá mới cho iPhone 18 Pro Max" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ppH_lAl1Iag/maxresdefault.jpg" alt="Apple được cho là xác nhận chiến lược giá mới cho iPhone 18 Pro Max" loading="lazy" width="1280" height="720">
   <figcaption>Apple được cho là đang định hình chiến lược giá dài hạn cho dòng Pro Max. Nguồn: YouTube</figcaption>
 </figure>
 

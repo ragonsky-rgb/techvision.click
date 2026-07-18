@@ -76,7 +76,7 @@ FPT AI Factory không chỉ là hạ tầng phô trương mà đã đi vào vậ
 Việc cung cấp năng lực tính toán AI trong nước mang lại nhiều lợi ích cho doanh nghiệp Việt và khu vực. Doanh nghiệp có thể phát triển ứng dụng AI với chi phí và độ trễ thấp hơn so với dùng hạ tầng nước ngoài, đồng thời thuận lợi hơn về tuân thủ dữ liệu. AI đang được ứng dụng rộng rãi trong nhiều ngành tại Việt Nam, đặc biệt là tài chính ngân hàng, như phân tích trong bài [ngân hàng AI Việt Nam 2026](/articles/ngan-hang-ai-viet-nam-2026-tro-ly-ao-chatbot-chuyen-doi-so.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/qei3_Eq3yBI/maxresdefault.jpg" alt="FPT AI Factory phục vụ hơn 18.000 người dùng trong y tế tài chính" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qei3_Eq3yBI/maxresdefault.jpg" alt="FPT AI Factory phục vụ hơn 18.000 người dùng trong y tế tài chính" loading="lazy" width="1280" height="720">
   <figcaption>FPT AI Factory phục vụ hàng chục nghìn người dùng nhiều lĩnh vực. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một khái niệm trọng tâm gắn với FPT AI Factory là AI có chủ quy�
 Bổ sung cho hạ tầng tính toán, GreenNode xây dựng các mô hình ngôn ngữ lớn tiếng Việt với bộ dữ liệu chất lượng cao, phù hợp văn hóa, cùng khả năng triển khai quy mô lớn và an toàn. GreenNode cung cấp dịch vụ AI và GPU dựa trên công nghệ NVIDIA, với trung tâm dữ liệu tại Khu chế xuất Tân Thuận. Mô hình tiếng Việt là yếu tố quan trọng để AI thực sự hữu ích cho người Việt, đặc biệt trong giáo dục, như phân tích trong bài [AI trong giáo dục Việt Nam 2026](/articles/ai-trong-giao-duc-viet-nam-2026-day-hoc-truong-pho-thong.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wjRMYxWikDM/maxresdefault.jpg" alt="FPT và NVIDIA hợp tác phát triển AI có chủ quyền cho Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wjRMYxWikDM/maxresdefault.jpg" alt="FPT và NVIDIA hợp tác phát triển AI có chủ quyền cho Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>FPT hợp tác NVIDIA hướng tới AI có chủ quyền cho Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ FPT AI Factory là một phần trong tầm nhìn lớn hơn của Việt Nam v�
 Tuy nhiên, để đạt mục tiêu, Việt Nam cần vượt qua nhiều thách thức về nhân lực AI chất lượng cao, nguồn điện cho trung tâm dữ liệu và khả năng cạnh tranh với các nước trong khu vực. Việc có hạ tầng như FPT AI Factory là khởi đầu tốt, nhưng thành công cuối cùng phụ thuộc vào việc khai thác hiệu quả và xây dựng hệ sinh thái hoàn chỉnh. Đây là hành trình dài hạn, đòi hỏi sự bền bỉ và phối hợp giữa nhà nước, doanh nghiệp và giới nghiên cứu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/LMUf6rMrYxk/maxresdefault.jpg" alt="Việt Nam đặt mục tiêu top 4 quốc gia AI Đông Nam Á 2030" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LMUf6rMrYxk/maxresdefault.jpg" alt="Việt Nam đặt mục tiêu top 4 quốc gia AI Đông Nam Á 2030" loading="lazy" width="1280" height="720">
   <figcaption>Việt Nam hướng tới top 4 quốc gia AI Đông Nam Á vào 2030. Nguồn: YouTube</figcaption>
 </figure>
 

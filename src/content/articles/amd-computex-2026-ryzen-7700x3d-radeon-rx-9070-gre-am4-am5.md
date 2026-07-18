@@ -76,7 +76,7 @@ Về đồ họa, AMD ra mắt toàn cầu card Radeon RX 9070 GRE từ ngày 2/
 Việc mở rộng dòng RDNA 4 ra toàn cầu giúp nhiều người chơi tiếp cận card đồ họa hiệu năng tốt với mức giá vừa phải. Trong bối cảnh thị trường GPU thường bị chi phối bởi các sản phẩm cao cấp đắt đỏ, một lựa chọn tầm trung mạnh mẽ là điều game thủ phổ thông mong chờ. Tuy nhiên, như mọi sản phẩm, giá trị thực tế còn phụ thuộc vào giá bán lẻ tại từng thị trường và sự cạnh tranh từ các card cùng phân khúc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kU2Yl99tY_4/maxresdefault.jpg" alt="AMD xác nhận lộ trình AM5 và giá Ryzen 5800X3D, RX 9070 GRE" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/kU2Yl99tY_4/maxresdefault.jpg" alt="AMD xác nhận lộ trình AM5 và giá Ryzen 5800X3D, RX 9070 GRE" loading="lazy" width="1280" height="720">
   <figcaption>RX 9070 GRE nhắm tới game thủ chơi ở độ phân giải 1440p. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một điểm nhấn quan trọng tại Computex 2026 là AMD cam kết tiếp t
 Việc kỷ niệm 10 năm nền tảng AM4 vẫn còn được dùng rộng rãi cũng củng cố thông điệp này. Cách làm của AMD giúp người dùng tiết kiệm chi phí nâng cấp lâu dài, đồng thời tạo sự tin tưởng khi đầu tư vào hệ sinh thái của hãng. Trong bối cảnh giá linh kiện máy tính ngày càng cao, khả năng nâng cấp tiết kiệm là yếu tố quan trọng ảnh hưởng tới quyết định mua sắm của nhiều người dựng máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/tbPXbfX_6Hc/maxresdefault.jpg" alt="AMD làm nền tảng AM4 trở nên đáng giá trở lại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tbPXbfX_6Hc/maxresdefault.jpg" alt="AMD làm nền tảng AM4 trở nên đáng giá trở lại" loading="lazy" width="1280" height="720">
   <figcaption>Cam kết hỗ trợ AM5 tới 2029 mang lại lộ trình nâng cấp dài. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Các công bố của AMD tại Computex 2026 diễn ra trong bối cảnh thị
 Tất nhiên, hiệu năng và giá trị thực tế của từng sản phẩm cần được kiểm chứng qua các bài đánh giá độc lập. Một số ý kiến cho rằng giá của các sản phẩm mới vẫn còn cao so với kỳ vọng, đặc biệt với card đồ họa. Người mua nên tham khảo nhiều nguồn đánh giá và so sánh với các lựa chọn cạnh tranh trước khi quyết định. Để hiểu thêm về phân khúc card cao cấp, có thể xem bài [RTX 5090 vs 5090 Ti](/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xhNTCAe92W4/maxresdefault.jpg" alt="Đánh giá card đồ họa AMD Radeon RX 9070 GRE về giá và hiệu năng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xhNTCAe92W4/maxresdefault.jpg" alt="Đánh giá card đồ họa AMD Radeon RX 9070 GRE về giá và hiệu năng" loading="lazy" width="1280" height="720">
   <figcaption>Giá trị thực tế của sản phẩm cần kiểm chứng qua đánh giá độc lập. Nguồn: YouTube</figcaption>
 </figure>
 

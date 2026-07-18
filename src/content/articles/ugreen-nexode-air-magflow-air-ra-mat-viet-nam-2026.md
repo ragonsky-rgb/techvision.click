@@ -68,14 +68,14 @@ Mở đầu dòng sản phẩm Air Editions là Nexode Air 45W, củ sạc tích
 Sản phẩm thứ hai trong bộ đôi ra mắt lần này là MagFlow Air, pin sạc dự phòng dung lượng 10.000mAh với thiết kế mỏng chỉ 13,9mm, tích hợp nam châm định vị theo chuẩn Qi2, cho phép gắn trực tiếp và sạc không dây cho các dòng iPhone hỗ trợ MagSafe với công suất tối đa 15W. Ngoài khả năng sạc không dây, MagFlow Air còn tích hợp sẵn một dây cáp USB Type-C có thể kéo ra từ góc dưới thiết bị, hỗ trợ sạc có dây với công suất tối đa 30W, đồng thời dây cáp này còn có thể gập lại để dùng như một dây đeo tiện lợi khi di chuyển.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/PdkNUi77GI0/hqdefault.jpg" alt="UGREEN Nexode Air GaN 65W nhỏ gọn nhưng công suất mạnh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PdkNUi77GI0/hqdefault.jpg" alt="UGREEN Nexode Air GaN 65W nhỏ gọn nhưng công suất mạnh" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế mỏng, nhẹ và tích hợp nhiều tính năng là điểm nhấn chung của toàn bộ dòng sản phẩm Air Editions từ UGREEN. Nguồn: YouTube</figcaption>
 </figure>
 
 Đáng chú ý, thiết bị còn có thêm một cổng USB Type-C riêng ở phần thân, cho phép vừa sạc cho MagFlow Air vừa kết nối sạc cho một thiết bị thứ ba cùng lúc, tăng thêm tính linh hoạt khi sử dụng thực tế. Chất liệu vỏ ngoài của MagFlow Air cũng được nâng cấp lên nhôm nguyên khối, vừa giúp tản nhiệt tốt hơn trong quá trình sạc không dây công suất cao, vừa mang lại cảm giác cầm nắm cao cấp hơn hẳn so với thế hệ pin sạc từ tính vỏ nhựa trước đó của hãng. Với mức giá bán lẻ đề xuất 1.499.000 đồng, MagFlow Air được xếp vào phân khúc pin sạc dự phòng cao cấp, cạnh tranh trực tiếp với các sản phẩm sạc từ tính khác đang có mặt tại thị trường Việt Nam, trong đó có những cái tên vừa ra mắt gần đây như [Baseus EnerGeek GP12 với công suất sạc lên tới 145W](/articles/baseus-energeek-gp12-sac-du-phong-145w-2026.html), dù định hướng sản phẩm của hai hãng có phần khác nhau khi Baseus tập trung vào công suất lớn còn UGREEN ưu tiên độ mỏng nhẹ tối đa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Tt-wDElEsqs/hqdefault.jpg" alt="Mở hộp UGREEN MagFlow Air pin sạc dự phòng từ tính" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Tt-wDElEsqs/hqdefault.jpg" alt="Mở hộp UGREEN MagFlow Air pin sạc dự phòng từ tính" loading="lazy" width="1280" height="720">
   <figcaption>MagFlow Air sử dụng chất liệu nhôm cao cấp, mỏng và nhẹ hơn đáng kể so với thế hệ pin sạc từ tính trước đó của UGREEN. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Cả Nexode Air lẫn MagFlow Air đều nằm trong chiến dịch mang tên "G
 Với mức giá dễ tiếp cận so với mặt bằng chung phân khúc phụ kiện cao cấp, cùng thiết kế nhỏ gọn phù hợp thói quen mang theo thiết bị sạc mọi lúc mọi nơi của người dùng Việt Nam, bộ đôi Nexode Air và MagFlow Air được kỳ vọng sẽ nhanh chóng có mặt rộng rãi tại các hệ thống bán lẻ phụ kiện công nghệ lớn trong nước thời gian tới.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/AafQYWpOYWY/hqdefault.jpg" alt="Toàn bộ dòng sạc UGREEN Nexode Air Series thiết kế tối giản" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AafQYWpOYWY/hqdefault.jpg" alt="Toàn bộ dòng sạc UGREEN Nexode Air Series thiết kế tối giản" loading="lazy" width="1280" height="720">
   <figcaption>UGREEN định vị dòng Nexode Air Series là giải pháp sạc tối giản, hướng tới nhóm khách hàng ưu tiên thiết kế gọn nhẹ hơn là công suất tối đa. Nguồn: YouTube</figcaption>
 </figure>
 

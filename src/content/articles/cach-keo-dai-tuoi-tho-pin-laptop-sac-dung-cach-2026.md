@@ -77,7 +77,7 @@ Bộ sạc ảnh hưởng trực tiếp tới độ an toàn và tuổi thọ pi
 Nhiều dòng laptop hiện nay có sẵn tính năng bảo vệ pin, tự dừng sạc quanh mức 80% để giảm thời gian pin nằm ở mức đầy. Hãng Lenovo, Asus, Dell hay HP đều có phần mềm riêng cho phép bật chế độ này, và một số máy còn tích hợp ngay trong Windows. Nếu bạn thường cắm sạc cố định khi làm việc tại bàn, bật giới hạn sạc là cách dễ nhất để kéo dài tuổi thọ pin mà không phải nhớ rút sạc thủ công.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zTZO9VbrTmk/maxresdefault.jpg" alt="Mẹo sạc pin laptop đúng cách để tăng tuổi thọ pin" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zTZO9VbrTmk/maxresdefault.jpg" alt="Mẹo sạc pin laptop đúng cách để tăng tuổi thọ pin" loading="lazy" width="1280" height="720">
   <figcaption>Sạc đúng cách và đúng công suất giúp pin bền hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Giảm các tác nhân ngốn pin vừa giúp dùng được lâu hơn mỗi l�
 Các ứng dụng chạy nền cũng âm thầm bào mòn pin. Mở Task Manager để xem chương trình nào ngốn nhiều tài nguyên rồi tắt bớt app không cần thiết tự chạy cùng máy. Trình duyệt mở quá nhiều tab cũng là thủ phạm phổ biến, nên đóng bớt tab và tiện ích mở rộng ít dùng. Những điều chỉnh nhỏ này cộng lại giúp pin trụ lâu hơn rõ rệt trong một ngày làm việc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1EsR86Qhbdw/maxresdefault.jpg" alt="Thiết lập mức cảnh báo pin laptop để bảo vệ và kéo dài tuổi thọ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1EsR86Qhbdw/maxresdefault.jpg" alt="Thiết lập mức cảnh báo pin laptop để bảo vệ và kéo dài tuổi thọ" loading="lazy" width="1280" height="720">
   <figcaption>Quản lý nguồn và cảnh báo pin giúp tránh xả cạn ngoài ý muốn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Sau một thời gian dùng, phần trăm pin hiển thị có thể sai lệch 
 Để biết pin còn tốt hay không, trên Windows có thể tạo báo cáo pin bằng lệnh trong Command Prompt, cho biết dung lượng thiết kế ban đầu và dung lượng thực tế hiện tại. Khi độ chênh lớn, thời lượng giảm mạnh, máy hay tự tắt hoặc pin phồng làm cong vỏ máy và kênh bàn rê, đó là lúc nên thay pin. Pin phồng cần xử lý sớm vì có nguy cơ an toàn. Để hiểu thêm về sạc nhanh và ảnh hưởng tới pin, có thể tham khảo bài [sạc nhanh có hại pin không](/articles/sac-nhanh-co-hai-pin-khong-cach-sac-dung-keo-dai-tuoi-tho-pin.html), còn khi cần chọn máy mới thì xem [cách chọn laptop phù hợp](/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9uIwujwMM2A/maxresdefault.jpg" alt="Sử dụng pin laptop sao cho hiệu quả và bền lâu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9uIwujwMM2A/maxresdefault.jpg" alt="Sử dụng pin laptop sao cho hiệu quả và bền lâu" loading="lazy" width="1280" height="720">
   <figcaption>Kiểm tra độ chai pin định kỳ giúp chủ động thay khi cần. Nguồn: YouTube</figcaption>
 </figure>
 

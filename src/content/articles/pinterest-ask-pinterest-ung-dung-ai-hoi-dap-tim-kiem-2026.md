@@ -76,7 +76,7 @@ Yếu tố giúp Ask Pinterest khác biệt là kho dữ liệu sở thích Tast
 Lợi thế dữ liệu là điều khó sao chép, và Pinterest đang tận dụng nó như một điểm khác biệt cạnh tranh. Trong khi nhiều công cụ AI mạnh về ngôn ngữ nhưng thiếu hiểu biết sâu về sở thích trực quan của người dùng, Pinterest có cả hai. Sự kết hợp giữa khả năng hội thoại của AI và chiều sâu dữ liệu sở thích có thể tạo ra trải nghiệm khám phá sản phẩm vừa tự nhiên vừa đúng gu, đặc biệt trong các lĩnh vực như thời trang, trang trí và phong cách sống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/iPQD9Ud9rr0/hq720.jpg" alt="Công cụ AI mới trên Pinterest hỗ trợ khám phá sản phẩm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/iPQD9Ud9rr0/hq720.jpg" alt="Công cụ AI mới trên Pinterest hỗ trợ khám phá sản phẩm" loading="lazy" width="1280" height="720">
   <figcaption>Pinterest kết hợp AI hội thoại với kho dữ liệu sở thích người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Việc ra mắt ngay trước liên hoan quảng cáo Cannes Lions, một trong 
 Động thái này cũng đặt Pinterest vào cuộc cạnh tranh rộng hơn về tìm kiếm và mua sắm bằng AI hội thoại, nơi nhiều ông lớn công nghệ đang tham gia. Khi người dùng ngày càng quen với việc hỏi đáp tự nhiên với AI, các nền tảng buộc phải thích nghi để không bị tụt lại. Với thế mạnh về dữ liệu trực quan và ý định mua sắm, Pinterest có cơ sở riêng để cạnh tranh, dù thành công còn phụ thuộc vào trải nghiệm thực tế khi mở rộng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/59mP7rC-c2g/maxresdefault.jpg" alt="Các thiết lập AI mới trên Pinterest người dùng nên biết" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/59mP7rC-c2g/maxresdefault.jpg" alt="Các thiết lập AI mới trên Pinterest người dùng nên biết" loading="lazy" width="1280" height="720">
   <figcaption>Pinterest đẩy mạnh AI giữa cuộc đua tìm kiếm và mua sắm thông minh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Ask Pinterest là một ví dụ rõ nét cho xu hướng lớn hơn: tìm kiế
 Với người dùng, sự chuyển dịch này hứa hẹn trải nghiệm tự nhiên và tiết kiệm thời gian hơn, khi có thể diễn đạt nhu cầu phức tạp trong một câu. Tuy nhiên, nó cũng đặt ra câu hỏi về tính minh bạch của gợi ý, quyền riêng tư dữ liệu và mức độ ảnh hưởng của quảng cáo lên kết quả. Người dùng nên giữ tư duy chủ động, đối chiếu nhiều nguồn khi ra quyết định mua sắm. Để dùng các công cụ AI hiệu quả, có thể tham khảo bài [cách viết prompt AI hiệu quả](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gjagFj5a6wI/maxresdefault.jpg" alt="Pinterest và xu hướng AI trong nội dung, tìm kiếm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gjagFj5a6wI/maxresdefault.jpg" alt="Pinterest và xu hướng AI trong nội dung, tìm kiếm" loading="lazy" width="1280" height="720">
   <figcaption>Tìm kiếm đang dịch chuyển từ từ khóa sang hội thoại bằng AI. Nguồn: YouTube</figcaption>
 </figure>
 

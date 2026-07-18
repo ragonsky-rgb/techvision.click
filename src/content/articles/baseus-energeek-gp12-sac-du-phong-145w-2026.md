@@ -72,7 +72,7 @@ Với dung lượng 20.800mAh, sản phẩm đủ khả năng sạc đầy một
 Về khả năng kết nối, Baseus EnerGeek GP12 được trang bị tổng cộng 4 cổng sạc, gồm 2 cổng USB-C và 2 cổng USB-A, cho phép sạc đồng thời tối đa 4 thiết bị khác nhau cùng một lúc, rất tiện lợi cho những tình huống cần sạc nhiều món đồ điện tử như smartphone, tai nghe true wireless, đồng hồ thông minh và máy tính bảng trong cùng một chuyến đi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/NPgjnEuC518/hqdefault.jpg" alt="Màn hình hiển thị thông minh trên Baseus EnerGeek GP12" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NPgjnEuC518/hqdefault.jpg" alt="Màn hình hiển thị thông minh trên Baseus EnerGeek GP12" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình hiển thị thông minh giúp người dùng dễ dàng theo dõi tình trạng sạc theo thời gian thực. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,14 +81,14 @@ Về khả năng kết nối, Baseus EnerGeek GP12 được trang bị tổng c�
 ## Thiết kế nhỏ gọn, đạt chuẩn an toàn mang lên máy bay
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rv58f9pYOMY/hqdefault.jpg" alt="Thiết kế nhỏ gọn của dòng sạc dự phòng Baseus EnerGeek" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rv58f9pYOMY/hqdefault.jpg" alt="Thiết kế nhỏ gọn của dòng sạc dự phòng Baseus EnerGeek" loading="lazy" width="1280" height="720">
   <figcaption>Dòng sản phẩm EnerGeek của Baseus được đánh giá cao nhờ khả năng cân bằng giữa công suất lớn và thiết kế nhỏ gọn. Nguồn: YouTube</figcaption>
 </figure>
 
 Về mặt thiết kế, dù sở hữu dung lượng và công suất lớn, Baseus EnerGeek GP12 vẫn duy trì được form factor tương đối nhỏ gọn, dễ dàng bỏ vào túi xách hoặc balo mang theo hàng ngày mà không gây cồng kềnh quá mức. Sản phẩm cũng đạt tiêu chuẩn an toàn TSA, cho phép mang theo trong hành lý xách tay khi di chuyển bằng đường hàng không, một yếu tố quan trọng đối với nhóm khách hàng thường xuyên phải di chuyển công tác hoặc du lịch bằng máy bay, tương tự tiêu chí an toàn mà nhiều sản phẩm sạc dự phòng cao cấp khác như [Belkin UltraCharge Pro với thiết kế vòng từ tính cũng đang hướng tới](/articles/belkin-ultracharge-pro-pin-du-phong-vong-tu-tinh-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vcR03JzA9P8/hqdefault.jpg" alt="Baseus EnerGeek GP12 sạc đồng thời nhiều thiết bị trong thử nghiệm thực tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vcR03JzA9P8/hqdefault.jpg" alt="Baseus EnerGeek GP12 sạc đồng thời nhiều thiết bị trong thử nghiệm thực tế" loading="lazy" width="1280" height="720">
   <figcaption>Thử nghiệm thực tế cho thấy sản phẩm duy trì hiệu suất ổn định khi sạc đồng thời nhiều thiết bị khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

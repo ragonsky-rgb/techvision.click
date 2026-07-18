@@ -76,7 +76,7 @@ Chỉ ít ngày sau động thái của Anthropic, OpenAI, công ty tạo ra Cha
 Việc hai công ty dẫn đầu cùng tiến tới sàn gần như đồng thời biến năm 2026 thành thời điểm bước ngoặt của ngành. Cả hai đều muốn trở thành công ty AI tiên phong đầu tiên niêm yết đại chúng, qua đó tiếp cận nguồn vốn lớn để tài trợ cho chi phí khổng lồ trong việc đào tạo mô hình và xây dựng hạ tầng tính toán. Cuộc đua lên sàn vì thế cũng phản ánh nhu cầu vốn ngày càng lớn của lĩnh vực này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KjnrFdy4M8s/maxresdefault.jpg" alt="Anthropic nộp hồ sơ IPO sau khi đạt định giá 965 tỷ USD" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KjnrFdy4M8s/maxresdefault.jpg" alt="Anthropic nộp hồ sơ IPO sau khi đạt định giá 965 tỷ USD" loading="lazy" width="1280" height="720">
   <figcaption>Anthropic đạt định giá 965 tỷ USD trước khi nộp hồ sơ IPO. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Sự xuất hiện cùng lúc của các thương vụ IPO khổng lồ từ Spa
 Tuy nhiên, quy mô này cũng đặt ra câu hỏi về định giá và rủi ro. Khi dòng tiền tập trung mạnh vào một số ít công ty với mức giá kỷ lục, nguy cơ hình thành bong bóng và biến động lớn là điều nhà đầu tư cần cân nhắc. Lịch sử cho thấy các đợt niêm yết được kỳ vọng cao đôi khi đi kèm biến động dữ dội sau đó. Bối cảnh này gắn liền với các thương vụ lớn khác như [SpaceX IPO 2026](/articles/spacex-ipo-2026-lon-nhat-lich-su-spcx-nguoi-viet-mua-duoc-khong.html) và [SpaceX mua Cursor](/articles/spacex-mua-cursor-anysphere-60-ty-usd-thuong-vu-startup-lon-nhat.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4mTDk_ksofg/maxresdefault.jpg" alt="OpenAI nộp hồ sơ IPO tại Mỹ sau Anthropic" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4mTDk_ksofg/maxresdefault.jpg" alt="OpenAI nộp hồ sơ IPO tại Mỹ sau Anthropic" loading="lazy" width="1280" height="720">
   <figcaption>OpenAI bám đuổi Anthropic trong cuộc đua lên sàn năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Tuy nhiên, quy mô này cũng đặt ra câu hỏi về định giá và rủi 
 Lên sàn cũng mang lại tính minh bạch và uy tín, giúp các công ty AI dễ ký kết hợp đồng lớn với doanh nghiệp và chính phủ. Đổi lại, họ phải chịu sự giám sát chặt chẽ hơn về tài chính và quản trị, cũng như áp lực từ cổ đông về tăng trưởng và lợi nhuận. Đây là sự đánh đổi quen thuộc khi một công ty công nghệ chuyển từ giai đoạn khởi nghiệp sang công ty đại chúng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/E-vnEbJnYz8/maxresdefault.jpg" alt="Làn sóng IPO 2026 của SpaceX, OpenAI và Anthropic" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/E-vnEbJnYz8/maxresdefault.jpg" alt="Làn sóng IPO 2026 của SpaceX, OpenAI và Anthropic" loading="lazy" width="1280" height="720">
   <figcaption>Năm 2026 chứng kiến loạt IPO khổng lồ trong công nghệ và AI. Nguồn: YouTube</figcaption>
 </figure>
 

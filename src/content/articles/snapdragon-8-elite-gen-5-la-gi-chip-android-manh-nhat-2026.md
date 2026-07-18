@@ -64,7 +64,7 @@ Trước khi nói về Snapdragon 8 Elite Gen 5, cần hiểu chip di động, h
 Vì gói gọn nhiều thành phần như vậy, chip quyết định phần lớn trải nghiệm của một chiếc điện thoại, từ độ mượt khi lướt, tốc độ mở ứng dụng, khả năng chơi game, chất lượng chụp ảnh quay video cho tới thời lượng pin. Một con chip mạnh và hiệu quả giúp máy vừa nhanh vừa tiết kiệm điện, đồng thời mở khóa các tính năng cao cấp như AI xử lý ngay trên thiết bị mà không cần gửi dữ liệu lên máy chủ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BwzwamULPMI/maxresdefault.jpg" alt="Cấu trúc chip di động SoC gồm CPU GPU và NPU trên một miếng silicon" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BwzwamULPMI/maxresdefault.jpg" alt="Cấu trúc chip di động SoC gồm CPU GPU và NPU trên một miếng silicon" loading="lazy" width="1280" height="720">
   <figcaption>Một chip di động tích hợp CPU, GPU, NPU và nhiều thành phần khác trên cùng một con chip. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Vì gói gọn nhiều thành phần như vậy, chip quyết định phần l�
 Về đồ họa, GPU Adreno thế hệ mới cải thiện tốc độ khung hình trong game nặng và hỗ trợ các hiệu ứng đồ họa cao cấp như ray tracing, vốn quen thuộc trên máy chơi game và PC. Trong khi đó, bộ xử lý AI NPU được nâng cấp để chạy nhanh các tác vụ trí tuệ nhân tạo ngay trên máy, từ chỉnh sửa ảnh thông minh, dịch thuật thời gian thực cho tới các trợ lý AI. Đây là lý do các hãng như Samsung có thể tích hợp sâu tính năng AI vào máy, điển hình là [Galaxy S26 Ultra với cụm camera 200MP và loạt tính năng AI dựa trên chip này](/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/cNc3_1pU-HU/maxresdefault.jpg" alt="Hiệu năng chơi game và đồ họa của flagship dùng Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/cNc3_1pU-HU/maxresdefault.jpg" alt="Hiệu năng chơi game và đồ họa của flagship dùng Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
   <figcaption>GPU Adreno thế hệ mới giúp các flagship chơi game nặng mượt và mát hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Việc hàng loạt máy đầu bảng dùng chung Snapdragon 8 Elite Gen 5 khô
 Kết quả là người dùng có một mặt bằng hiệu năng chung rất cao giữa các flagship, và sự khác biệt chuyển dịch sang các yếu tố khác. Chẳng hạn, cùng dùng Snapdragon 8 Elite Gen 5 nhưng [Xiaomi 17 Series lại tạo dấu ấn bằng hệ thống camera hợp tác với Leica](/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html), trong khi Samsung nhấn mạnh trải nghiệm gập và hệ sinh thái. Với người mua, điều này có nghĩa là khi đã chọn phân khúc flagship, bạn gần như yên tâm về sức mạnh xử lý, và nên cân nhắc kỹ hơn ở camera, màn hình cùng phần mềm phù hợp nhu cầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OV6wS8cr55E/maxresdefault.jpg" alt="So sánh các flagship Android 2026 cùng dùng Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OV6wS8cr55E/maxresdefault.jpg" alt="So sánh các flagship Android 2026 cùng dùng Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
   <figcaption>Cùng nền tảng chip, các flagship 2026 cạnh tranh nhau ở camera, màn hình và phần mềm. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -77,7 +77,7 @@ Sau nhiều năm dùng, máy thường tích tụ rất nhiều phần mềm cà
 Một thiết lập ít người để ý là chế độ nguồn. Khi cắm sạc và cần hiệu năng tối đa, vào Settings, mục Power, chọn chế độ Best performance để máy không bị giới hạn xung nhịp. Bên cạnh đó, tắt bớt hiệu ứng giao diện cũng giúp máy phản hồi nhanh hơn. Gõ tìm Adjust the appearance and performance of Windows, sau đó chọn Adjust for best performance hoặc tự bỏ các hiệu ứng động không cần thiết. Giao diện sẽ bớt mượt mà về thị giác nhưng thao tác nhạy hơn thấy rõ, đặc biệt trên máy cấu hình thấp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/dIA1yCvuuA4/maxresdefault.jpg" alt="Nhiều cách giúp laptop chạy nhanh hơn không cần cài phần mềm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/dIA1yCvuuA4/maxresdefault.jpg" alt="Nhiều cách giúp laptop chạy nhanh hơn không cần cài phần mềm" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều mẹo nhỏ cộng lại tạo khác biệt lớn về tốc độ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Luôn cập nhật Windows và driver lên bản mới nhất, vì các bản v�
 Cuối cùng, hãy khởi động lại máy vài ngày một lần thay vì chỉ đóng nắp cho ngủ. Thao tác đơn giản này giải phóng bộ nhớ tạm và đóng các tiến trình treo, giúp máy trở lại trạng thái mượt mà. Nếu cần chọn cấu hình phù hợp khi mua máy mới, có thể tham khảo bài [cách chọn laptop sinh viên, văn phòng](/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html) hoặc dòng chip tiết kiệm điện như [Snapdragon X2 Elite](/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0mrmRBjPjlE/maxresdefault.jpg" alt="Hướng dẫn tăng tốc máy tính bị chậm trên Windows" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0mrmRBjPjlE/maxresdefault.jpg" alt="Hướng dẫn tăng tốc máy tính bị chậm trên Windows" loading="lazy" width="1280" height="720">
   <figcaption>Cập nhật và quét virus định kỳ giúp máy ổn định hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nếu đã làm hết các bước phần mềm mà máy vẫn chậm, rất có
 Nâng RAM là bước tiếp theo nếu bạn thường mở nhiều ứng dụng hoặc hàng chục tab trình duyệt cùng lúc và thấy máy hay đầy bộ nhớ, ổ đĩa hoạt động liên tục. Trước khi mua, nên kiểm tra loại RAM và số khe cắm máy hỗ trợ, vì một số laptop mỏng nhẹ hàn chết RAM và không nâng được. Khi cả SSD lẫn RAM đều đã ổn mà máy vẫn ì sau nhiều năm, biện pháp mạnh nhất là cài lại Windows để xóa sạch phần mềm tích tụ, nhớ sao lưu dữ liệu quan trọng trước khi thực hiện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/N9UcvYp3Omg/hq720.jpg" alt="Mẹo giảm lag và chậm máy trên Windows 11" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/N9UcvYp3Omg/hq720.jpg" alt="Mẹo giảm lag và chậm máy trên Windows 11" loading="lazy" width="1280" height="720">
   <figcaption>Nâng SSD và RAM giúp máy cũ chạy nhẹ nhàng hơn hẳn. Nguồn: YouTube</figcaption>
 </figure>
 

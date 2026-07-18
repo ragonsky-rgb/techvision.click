@@ -71,14 +71,14 @@ Chỉ ba tuần trước thềm sự kiện Galaxy Unpacked tại London, Samsun
 Theo các nguồn rò rỉ kỹ thuật, bao gồm cả manh mối tìm thấy trong một bản dựng firmware One UI chưa phát hành, Galaxy Z Fold 8 Wide sẽ sở hữu màn hình trong với tỉ lệ 4:3, kích thước khoảng 7,6 inch, đánh dấu sự thay đổi rõ rệt so với tấm nền gần vuông mà Samsung đã sử dụng trên các đời Fold gần đây. Màn hình ngoài khi gập lại được cho là có kích thước khoảng 5,5 inch với tỉ lệ 16:10, mang lại cảm giác sử dụng gần giống một chiếc điện thoại thông thường hơn là một màn hình phụ hẹp dài như trước.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/a_9XtHfU7b0/hqdefault.jpg" alt="Galaxy Z Fold 8 Wide man hinh 4:3 thiet ke moi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/a_9XtHfU7b0/hqdefault.jpg" alt="Galaxy Z Fold 8 Wide man hinh 4:3 thiet ke moi 2026" loading="lazy" width="1280" height="480">
   <figcaption>Màn hình trong của Galaxy Z Fold 8 Wide được đồn đoán có tỉ lệ 4:3, ngắn và rộng hơn hẳn thế hệ trước. Nguồn: YouTube</figcaption>
 </figure>
 
 Thay đổi tỉ lệ màn hình theo hướng ngắn, rộng hơn được kỳ vọng mang lại trải nghiệm đa nhiệm và xem nội dung thoải mái hơn, gần với cảm giác dùng máy tính bảng cỡ nhỏ thay vì một màn hình dài, hẹp khó chia đôi ứng dụng như trước đây. Đây cũng là hướng đi mà nhiều nhà sản xuất điện thoại gập khác đã và đang thử nghiệm trong vài năm gần đây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jKXCuMQsGF4/hqdefault.jpg" alt="Galaxy Z Fold 8 Wide so sanh Fold 8 tieu chuan 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/jKXCuMQsGF4/hqdefault.jpg" alt="Galaxy Z Fold 8 Wide so sanh Fold 8 tieu chuan 2026" loading="lazy" width="1280" height="480">
   <figcaption>Galaxy Z Fold 8 Wide được cho là sẽ tồn tại song song với phiên bản Fold 8 tiêu chuẩn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Thay đổi tỉ lệ màn hình theo hướng ngắn, rộng hơn được kỳ
 Một chi tiết khiến giới công nghệ đặc biệt chú ý là một trong các đoạn teaser của Samsung được đặt tựa đề mang tính ẩn ý, được nhiều kênh tin tức diễn giải như một lời nhắn gửi trực tiếp tới Apple. Điều này trùng hợp với thời điểm rộ lên tin đồn Apple cũng đang phát triển chiếc iPhone Fold đầu tiên, với màn hình trong được đồn đoán cũng theo tỉ lệ 4:3 kiểu iPad mini. Giới quan sát cho rằng động thái công bố sớm của Samsung có thể là chiến lược nhằm giữ thế chủ động trên thị trường điện thoại gập, ra mắt trước khi Apple chính thức tham gia cuộc chơi vào cuối năm nay.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kDRbVHbid4E/hqdefault.jpg" alt="Galaxy Z Fold 8 Wide thiet ke chinh thuc Samsung cong bo 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/kDRbVHbid4E/hqdefault.jpg" alt="Galaxy Z Fold 8 Wide thiet ke chinh thuc Samsung cong bo 2026" loading="lazy" width="1280" height="480">
   <figcaption>Thiết kế chính thức của Galaxy Z Fold 8 Wide vẫn còn được giữ kín cho tới ngày Unpacked. Nguồn: YouTube</figcaption>
 </figure>
 

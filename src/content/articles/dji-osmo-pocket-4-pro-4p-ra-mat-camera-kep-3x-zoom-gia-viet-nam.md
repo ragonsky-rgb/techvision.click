@@ -77,7 +77,7 @@ Về thông số quay, Pocket 4 Pro đạt tối đa 6K ở 60 khung hình mỗi
 Đi cùng là bộ codec 10-bit D-Log 2, profile màu phẳng cho phép kéo sáng, đổi tông và ghép màu giữa nhiều thiết bị trong khâu hậu kỳ. Tổ hợp 6K60, 17 stop và D-Log 2 đưa Pocket 4 Pro ra khỏi nhóm máy quay vlog giải trí, nhắm thẳng vào người làm nội dung nghiêm túc cần chất lượng dựng chuyên sâu, tương tự nhu cầu của người dùng máy ảnh như [Sony A7R VI cảm biến 67MP](/articles/sony-a7r-vi-67mp-camera.html) nhưng trong thân máy bỏ túi.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/sljOduPr_A8/maxresdefault.jpg" alt="DJI Osmo Pocket 4 Pro đặt cạnh Pocket 4 và Insta360 Luna Ultra để so sánh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/sljOduPr_A8/maxresdefault.jpg" alt="DJI Osmo Pocket 4 Pro đặt cạnh Pocket 4 và Insta360 Luna Ultra để so sánh" loading="lazy" width="1280" height="720">
   <figcaption>Pocket 4 Pro được đặt lên bàn cân với Pocket 4 thường và Insta360 Luna Ultra. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Sự nổi lên của dòng camera gimbal bỏ túi gắn liền với làn són
 Trong vài năm gần đây, cuộc cạnh tranh trong phân khúc này ngày càng gay gắt, với các hãng liên tục bổ sung cảm biến lớn hơn, khả năng zoom quang học và các tính năng bám chủ thể bằng AI. Sự xuất hiện cùng thời điểm của Pocket 4 Pro và [Insta360 Luna Ultra](/articles/insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket.html) cho thấy phân khúc camera bỏ túi cao cấp đang bước vào giai đoạn sôi động nhất từ trước tới nay, mang lại nhiều lựa chọn hơn cho người dùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DjNaJScp1PM/hq720.jpg" alt="Đánh giá DJI Osmo Pocket 4 Pro so sánh với Pocket 4 và Pocket 3" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DjNaJScp1PM/hq720.jpg" alt="Đánh giá DJI Osmo Pocket 4 Pro so sánh với Pocket 4 và Pocket 3" loading="lazy" width="1280" height="720">
   <figcaption>Camera gimbal bỏ túi kết hợp chống rung cơ học với cảm biến lớn trong thân máy nhỏ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ Trong vài năm gần đây, cuộc cạnh tranh trong phân khúc này ngày c�
 Pocket 4 Pro là bước nhảy lớn nhất của dòng Osmo Pocket cho tới nay, nhưng không phải ai cũng cần. Với người chỉ quay vlog đời thường, du lịch và nội dung mạng xã hội ở góc rộng, bản Osmo Pocket 4 thường vẫn cho chất lượng dư dùng với mức giá dễ chịu hơn nhiều. Nếu ưu tiên các cảnh quay vận động mạnh, bạn có thể cân nhắc [cách chọn camera hành động](/articles/cach-chon-camera-hanh-dong-action-camera-2026-tieu-chi.html) thay cho gimbal camera.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SCnK92hmv-c/maxresdefault.jpg" alt="So sánh trên tay DJI Osmo Pocket 4P và Pocket 4 về camera và zoom" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SCnK92hmv-c/maxresdefault.jpg" alt="So sánh trên tay DJI Osmo Pocket 4P và Pocket 4 về camera và zoom" loading="lazy" width="1280" height="720">
   <figcaption>Phân khúc camera bỏ túi cao cấp đang cạnh tranh sôi động trong năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

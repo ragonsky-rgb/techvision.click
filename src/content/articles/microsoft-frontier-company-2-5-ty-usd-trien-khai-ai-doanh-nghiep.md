@@ -74,7 +74,7 @@ Cách làm này xuất phát từ một thực tế phổ biến trong ngành c�
 Theo công bố ban đầu của Microsoft, Frontier Company sẽ bắt đầu triển khai với các khách hàng lớn bao gồm Unilever, tập đoàn hàng tiêu dùng toàn cầu với hàng trăm thương hiệu quen thuộc trên khắp thế giới, và Novo Nordisk, công ty dược phẩm lớn của Đan Mạch nổi tiếng với các sản phẩm điều trị tiểu đường và giảm cân. Việc lựa chọn hai tập đoàn có quy mô hoạt động toàn cầu và ngành nghề khác biệt nhau, một bên tiêu dùng nhanh và một bên dược phẩm, cho thấy Microsoft muốn chứng minh mô hình Frontier Company có thể áp dụng linh hoạt cho nhiều lĩnh vực kinh doanh khác nhau.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/oZbJ7NdvZrM/hqdefault.jpg" alt="Microsoft công bố khoản đầu tư 2,5 tỷ USD vào công ty triển khai AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/oZbJ7NdvZrM/hqdefault.jpg" alt="Microsoft công bố khoản đầu tư 2,5 tỷ USD vào công ty triển khai AI" loading="lazy" width="1280" height="720">
   <figcaption>Microsoft đầu tư mạnh vào việc giúp doanh nghiệp thực sự khai thác giá trị từ AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Với những tập đoàn có quy mô toàn cầu như hai khách hàng đầu 
 Động thái của Microsoft diễn ra trong bối cảnh ngành công nghệ toàn cầu đang bước vào giai đoạn được nhiều chuyên gia gọi là chuyển tiếp từ cuộc đua xây dựng mô hình AI mạnh nhất sang cuộc đua giúp doanh nghiệp thực sự ứng dụng AI hiệu quả vào hoạt động kinh doanh hàng ngày. Sau nhiều năm các hãng công nghệ tập trung phần lớn nguồn lực vào việc phát triển các mô hình AI ngày càng lớn và thông minh hơn, câu hỏi đặt ra ngày càng nhiều hơn là liệu các doanh nghiệp có thực sự thu được lợi ích tương xứng với khoản đầu tư khổng lồ đã bỏ ra hay không.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/fZVmKxuMWXM/hqdefault.jpg" alt="Microsoft thành lập Frontier Company phục vụ AI doanh nghiệp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fZVmKxuMWXM/hqdefault.jpg" alt="Microsoft thành lập Frontier Company phục vụ AI doanh nghiệp" loading="lazy" width="1280" height="720">
   <figcaption>Frontier Company đánh dấu bước chuyển trọng tâm của Microsoft sang triển khai AI thực chiến. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sự xuất hiện của Frontier Company nằm trong bức tranh rộng hơn v�
 Xu hướng này cũng diễn ra song song với những cập nhật liên tục khác trong ngành AI, tương tự cách [Samsung vừa ghi nhận lợi nhuận kỷ lục nhờ nhu cầu bộ nhớ AI](/articles/samsung-loi-nhuan-quy-2-2026-tang-18-lan-chip-nho-ai.html) hay [DeepSeek đang tự phát triển chip AI riêng](/articles/deepseek-tu-phat-trien-chip-ai-rieng-thach-thuc-nvidia-huawei-2026.html), cho thấy toàn bộ chuỗi giá trị AI, từ phần cứng bộ nhớ, chip xử lý cho tới dịch vụ triển khai thực tế, đều đang chứng kiến những khoản đầu tư và thay đổi chiến lược lớn cùng lúc trong năm 2026. Đối với người dùng cuối, những nâng cấp trợ lý AI như [Google Gemini vừa tích hợp tính năng mua sắm tại Việt Nam](/articles/google-gemini-tro-ly-mua-sam-viet-nam-thang-7-2026.html) cũng là một biểu hiện khác của cùng làn sóng đưa AI vào ứng dụng thực tế mà Frontier Company đang theo đuổi ở quy mô doanh nghiệp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Gg0-8Mu-KJs/hqdefault.jpg" alt="Microsoft xây dựng đơn vị triển khai AI 2,5 tỷ USD để cạnh tranh với các công ty IT tư vấn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Gg0-8Mu-KJs/hqdefault.jpg" alt="Microsoft xây dựng đơn vị triển khai AI 2,5 tỷ USD để cạnh tranh với các công ty IT tư vấn" loading="lazy" width="1280" height="720">
   <figcaption>Frontier Company được xem là bước đi cạnh tranh trực tiếp với các công ty tư vấn công nghệ truyền thống. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Wi-Fi 7, tên kỹ thuật 802.11be, mang vài nâng cấp cốt lõi. Đầu ti
 Ngoài thiết bị, tốc độ ra Internet còn phụ thuộc gói cước nhà mạng. Wi-Fi chỉ là kết nối trong nhà, nên nếu gói internet chỉ vài chục Mbps thì router Wi-Fi 7 không làm mạng ra ngoài nhanh hơn. Wi-Fi 7 thực sự đáng tiền khi gói mạng nhanh và trong nhà có nhiều thiết bị dùng đồng thời.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/VXyxxQ0m8dM/maxresdefault.jpg" alt="Wi-Fi 7 so với Wi-Fi 6 có đáng nâng cấp không" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VXyxxQ0m8dM/maxresdefault.jpg" alt="Wi-Fi 7 so với Wi-Fi 6 có đáng nâng cấp không" loading="lazy" width="1280" height="720">
   <figcaption>Wi-Fi 7 đáng giá nhất với nhà nhiều thiết bị và gói internet tốc độ cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Ngoài thiết bị, tốc độ ra Internet còn phụ thuộc gói cước nh�
 Quyết định nâng cấp nên dựa trên nhu cầu thực tế. Nếu nhà có nhiều thiết bị thông minh, nhiều người dùng cùng lúc, hay chơi game, livestream, làm việc cần độ ổn định cao và đang dùng gói internet tốc độ lớn, Wi-Fi 7 mang lại khác biệt đáng kể về độ mượt và ổn định. Đây là khoản đầu tư hợp lý cho tương lai.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/JChrqZDmpzo/maxresdefault.jpg" alt="So sánh Wi-Fi 7 và Wi-Fi 6 có gì vượt trội" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/JChrqZDmpzo/maxresdefault.jpg" alt="So sánh Wi-Fi 7 và Wi-Fi 6 có gì vượt trội" loading="lazy" width="1280" height="720">
   <figcaption>Wi-Fi 7 cải thiện rõ độ ổn định và độ trễ nhờ MLO. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Wi-Fi 7 đi xa hơn ở chính các giới hạn đó. Chuẩn mới nâng kênh
 Tuy nhiên, với phần đông người dùng phổ thông, khác biệt giữa 6E và 7 trong sử dụng hàng ngày không quá lớn nếu gói mạng và số thiết bị còn khiêm tốn. Điểm đáng cân nhắc là Wi-Fi 7 mang tính đầu tư cho tương lai, khi thiết bị hỗ trợ ngày càng nhiều và nhu cầu băng thông tiếp tục tăng theo thời gian.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/T8LBpLZRNsk/maxresdefault.jpg" alt="Giải thích chi tiết chuẩn Wi-Fi 7 và các công nghệ mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/T8LBpLZRNsk/maxresdefault.jpg" alt="Giải thích chi tiết chuẩn Wi-Fi 7 và các công nghệ mới" loading="lazy" width="1280" height="720">
   <figcaption>Wi-Fi 7 nâng cấp ở tầng kỹ thuật cơ bản chứ không chỉ mở thêm băng tần như 6E. Nguồn: YouTube</figcaption>
 </figure>
 

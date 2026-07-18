@@ -66,7 +66,7 @@ Sony chính thức trình làng InZone H9 II, thế hệ tai nghe gaming không 
 Người dùng quan tâm sâu hơn tới công nghệ chống ồn gốc có thể tham khảo thêm [Sony WH-1000XM6, tai nghe chống ồn đầu bảng](/articles/sony-wh-1000xm6-tai-nghe-chong-on-dau-bang-qn3-pin-30-gio.html) để hiểu rõ hơn nền tảng công nghệ mà InZone H9 II kế thừa và tùy biến riêng cho nhu cầu chơi game.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ci7_S6KnlkE/hqdefault.jpg" alt="Sony InZone H9 II mo hop va danh gia chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ci7_S6KnlkE/hqdefault.jpg" alt="Sony InZone H9 II mo hop va danh gia chi tiet" loading="lazy" width="1280" height="480">
   <figcaption>Trải nghiệm mở hộp và đánh giá chi tiết Sony InZone H9 II, từ thiết kế tới chất lượng âm thanh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Người dùng quan tâm sâu hơn tới công nghệ chống ồn gốc có th�
 Với trọng lượng chỉ 260g, InZone H9 II thuộc hàng nhẹ nhất trong phân khúc tai nghe gaming chống ồn cao cấp, giúp giảm đáng kể cảm giác mỏi đầu khi đeo trong các phiên chơi game kéo dài nhiều giờ liên tục. Driver 30mm được tinh chỉnh riêng cho game thi đấu, mang lại âm thanh định vị chính xác, giúp người chơi nhận biết rõ hướng bước chân hoặc tiếng súng của đối phương trong các tựa game bắn súng góc nhìn thứ nhất mà vẫn giữ được chất âm phong phú, không quá thiên về một dải tần số cụ thể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/TdvAHowbiiM/hqdefault.jpg" alt="Sony InZone H9 II mo hop tieng Duc chong on" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/TdvAHowbiiM/hqdefault.jpg" alt="Sony InZone H9 II mo hop tieng Duc chong on" loading="lazy" width="1280" height="480">
   <figcaption>Video mở hộp tai nghe gaming không dây InZone H9 II tích hợp công nghệ chống ồn chủ động. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Sony InZone H9 II có giá bán khởi điểm 349,99 USD, thuộc phân khúc c
 Người dùng quan tâm tới phân khúc tai nghe gaming có thể tham khảo thêm [cách chọn tai nghe gaming theo 5 tiêu chí quan trọng](/articles/cach-chon-tai-nghe-gaming-2026-tieu-chi.html) hoặc [cách chọn tai nghe chống ồn ANC](/articles/cach-chon-tai-nghe-chong-on-anc-2026-tieu-chi.html) để hiểu rõ hơn các yếu tố kỹ thuật cần cân nhắc trước khi đầu tư vào một chiếc tai nghe cao cấp như InZone H9 II.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-ycCkSiJ85I/hqdefault.jpg" alt="Sony InZone H9 II an tuong dau tien mo hop" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/-ycCkSiJ85I/hqdefault.jpg" alt="Sony InZone H9 II an tuong dau tien mo hop" loading="lazy" width="1280" height="480">
   <figcaption>Ấn tượng đầu tiên khi mở hộp Sony InZone H9 II, từ chất liệu vỏ ngoài tới cảm giác đeo. Nguồn: YouTube</figcaption>
 </figure>
 

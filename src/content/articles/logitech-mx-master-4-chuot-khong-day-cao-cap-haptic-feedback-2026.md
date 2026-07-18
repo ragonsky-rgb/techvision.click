@@ -74,7 +74,7 @@ Theo Logitech, ý tưởng đằng sau Actuate Haptic xuất phát từ phản h
 Bên cạnh tính năng haptic mới, MX Master 4 vẫn giữ những thế mạnh quen thuộc giúp dòng MX Master trở thành lựa chọn hàng đầu trong phân khúc chuột văn phòng cao cấp. Cảm biến Darkfield cho độ chính xác cao tới 8.000 DPI, hoạt động tốt trên hầu hết các bề mặt kể cả mặt kính, kết hợp cùng 8 nút bấm có thể tùy chỉnh chức năng riêng cho từng phần mềm khác nhau. Bánh xe cuộn MagSpeed tiếp tục hỗ trợ cả chế độ cuộn từng nấc lẫn cuộn tự do tốc độ cao, hữu ích khi làm việc với các bảng tính dài hoặc dòng thời gian dựng phim.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rzsSwOx-5jg/hqdefault.jpg" alt="Logitech MX Master 4 cam bien Darkfield 8000 DPI 8 nut bam" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/rzsSwOx-5jg/hqdefault.jpg" alt="Logitech MX Master 4 cam bien Darkfield 8000 DPI 8 nut bam" loading="lazy" width="1280" height="480">
   <figcaption>Cảm biến Darkfield và 8 nút bấm tùy chỉnh tiếp tục là thế mạnh của MX Master 4. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Với người dùng đang tìm cách tối ưu toàn bộ trạm làm việc ch
 Logitech cải thiện đáng kể thời lượng pin trên MX Master 4 so với thế hệ trước, với viên pin 650mAh cho thời gian sử dụng tối đa khoảng 70 ngày mỗi lần sạc đầy trong điều kiện sử dụng thông thường. Trong trường hợp cần dùng gấp mà quên sạc, chỉ cần cắm sạc nhanh qua cổng USB-C khoảng 1 phút đã đủ dùng tiếp khoảng 3 giờ, giúp giảm bớt nỗi lo hết pin giữa buổi làm việc quan trọng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/U7T2-P9-WUk/hqdefault.jpg" alt="Logitech MX Master 4 pin 70 ngay sac nhanh USB-C" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/U7T2-P9-WUk/hqdefault.jpg" alt="Logitech MX Master 4 pin 70 ngay sac nhanh USB-C" loading="lazy" width="1280" height="480">
   <figcaption>Thời lượng pin 70 ngày và sạc nhanh USB-C giúp MX Master 4 phù hợp người làm việc cường độ cao. Nguồn: YouTube</figcaption>
 </figure>
 
 Người dùng thường xuyên gặp tình trạng laptop hoặc máy tính bàn ì ạch khi xử lý đa nhiệm cùng nhiều thiết bị ngoại vi cũng có thể tham khảo thêm [cách tăng tốc laptop Windows bị chậm, lag để mượt hơn](/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html), giúp tận dụng tối đa hiệu năng phần cứng hiện có trước khi nghĩ tới nâng cấp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/NXOlU91dmjI/hqdefault.jpg" alt="Logitech MX Master 4 danh gia khong tai tro so sanh MX Master 3S" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/NXOlU91dmjI/hqdefault.jpg" alt="Logitech MX Master 4 danh gia khong tai tro so sanh MX Master 3S" loading="lazy" width="1280" height="480">
   <figcaption>So sánh thực tế giữa MX Master 4 và MX Master 3S cho thấy mức nâng cấp đáng giá ra sao. Nguồn: YouTube</figcaption>
 </figure>
 

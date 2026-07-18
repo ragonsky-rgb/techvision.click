@@ -86,7 +86,7 @@ Kết quả vòng bảng cho thấy sự khốc liệt của thể thức GSL lo
 Theo sơ đồ, đội thắng cặp HLE và T1 sẽ gặp đội thắng cặp AG.AL và Karmine Corp ở bán kết thứ nhất. Tương tự, đội thắng cặp Gen.G và JD Gaming sẽ đối đầu đội thắng cặp BLG và Dplus KIA ở bán kết còn lại. Hai đội thắng bán kết bước vào chung kết tổng, trong khi hai đội thua tranh hạng ba.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SNZ-YLDl_3A/hqdefault.jpg" alt="Các đội mạnh bước vào vòng tứ kết EWC 2026 LMHT" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SNZ-YLDl_3A/hqdefault.jpg" alt="Các đội mạnh bước vào vòng tứ kết EWC 2026 LMHT" loading="lazy" width="1280" height="720">
   <figcaption>Tám đội mạnh nhất bước vào vòng tứ kết EWC 2026 theo sơ đồ loại trực tiếp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Cặp đấu được quan tâm nhất có lẽ là màn tái ngộ nội bộ H
 Với người hâm mộ Việt, điều đáng tiếc là cả hai đại diện đều không vượt qua vòng bảng. Team Secret Whales ở bảng B thua Sentinels ở trận mở màn rồi bị Karmine Corp loại với tỉ số 1-2. GAM Esports ở bảng C có hành trình kiên cường hơn: sau khi thua T1 trận mở màn, GAM thắng Movistar KOI 2-1 ở nhánh thua để tạo trận quyết định gặp lại T1.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/mYcZ3ljBpRk/hqdefault.jpg" alt="GAM Esports dừng bước trước T1 tại EWC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mYcZ3ljBpRk/hqdefault.jpg" alt="GAM Esports dừng bước trước T1 tại EWC 2026" loading="lazy" width="1280" height="720">
   <figcaption>GAM Esports thua T1 0-2 ở trận quyết định, khép lại hành trình EWC 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Với người hâm mộ Việt, điều đáng tiếc là cả hai đại diệ
 Vòng tứ kết diễn ra ngày 17/7 với bốn cặp đấu theo thể thức Bo3. Bán kết tiếp nối vào ngày 18/7, cũng đánh Bo3, trong khi trận tranh hạng ba và chung kết tổng theo thể thức Bo5 diễn ra ngày 19/7. Từ giai đoạn này, mọi sai lầm đều phải trả giá bằng việc bị loại, nên cục diện được dự báo càng lúc càng căng thẳng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/lYI4kiNjhwI/hqdefault.jpg" alt="Vòng tứ kết EWC 2026 LMHT hứa hẹn nhiều bất ngờ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/lYI4kiNjhwI/hqdefault.jpg" alt="Vòng tứ kết EWC 2026 LMHT hứa hẹn nhiều bất ngờ" loading="lazy" width="1280" height="720">
   <figcaption>Với thể thức Bo3, các cặp tứ kết EWC 2026 đều tiềm ẩn bất ngờ. Nguồn: YouTube</figcaption>
 </figure>
 

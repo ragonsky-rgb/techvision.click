@@ -70,7 +70,7 @@ Trận đấu diễn ra ngay trước phát ngôn này cũng phần nào minh ch
 Cơ sở chính cho tuyên bố tự tin của Keria đến từ bảng thành tích đồ sộ mà anh đã cùng T1 xây dựng trong những năm gần đây, nổi bật nhất là 3 chức vô địch Chung kết thế giới (CKTG) liên tiếp, đưa Keria chính thức bước vào hàng ngũ những tuyển thủ vĩ đại nhất lịch sử Liên Minh Huyền Thoại. Trong khi nhiều tuyển thủ hỗ trợ huyền thoại của các thế hệ trước đã giải nghệ hoặc sa sút phong độ theo thời gian, Keria vẫn duy trì được vị thế đỉnh cao và tiếp tục là nhân tố không thể thay thế trong đội hình T1, một sự bền bỉ hiếm có ở vị trí đòi hỏi khả năng thích nghi liên tục với meta thay đổi qua từng mùa giải.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zR1NpHlV5mE/hqdefault.jpg" alt="Keria chia sẻ về những khó khăn của T1 tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zR1NpHlV5mE/hqdefault.jpg" alt="Keria chia sẻ về những khó khăn của T1 tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Keria từng nhiều lần chia sẻ thẳng thắn về những thử thách mà T1 phải đối mặt trong hành trình chinh phục MSI 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,14 +81,14 @@ Về mặt chuyên môn, Keria sở hữu vũ khí tướng thuộc hàng rộng
 Ngay sau khi phát ngôn của Keria được lan truyền, cộng đồng Liên Minh Huyền Thoại toàn cầu nhanh chóng chia thành hai luồng ý kiến trái chiều. Một bên cho rằng với bảng thành tích 3 chức vô địch thế giới liên tiếp cùng khả năng ảnh hưởng lối chơi vượt trội, Keria hoàn toàn xứng đáng với danh xưng này. Bên còn lại lại cho rằng việc so sánh giữa các thế hệ tuyển thủ hỗ trợ khác nhau, khi meta và cách chơi vị trí này đã thay đổi đáng kể qua từng năm, là điều khó có thể phân định rạch ròi, đặc biệt khi nhiều huyền thoại hỗ trợ đời trước cũng từng để lại dấu ấn không kém phần đậm nét trong lịch sử bộ môn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Yg4b-MHr9kk/hqdefault.jpg" alt="Cộng đồng LMHT tranh luận về tuyên bố GOAT hỗ trợ của Keria" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Yg4b-MHr9kk/hqdefault.jpg" alt="Cộng đồng LMHT tranh luận về tuyên bố GOAT hỗ trợ của Keria" loading="lazy" width="1280" height="720">
   <figcaption>Tuyên bố của Keria nhanh chóng trở thành chủ đề bàn tán sôi nổi trên các diễn đàn và mạng xã hội Liên Minh Huyền Thoại. Nguồn: YouTube</figcaption>
 </figure>
 
 Dù gây tranh cãi, không thể phủ nhận rằng phát ngôn của Keria đã góp phần tạo thêm sự chú ý cho MSI 2026, giải đấu vốn đã quy tụ nhiều câu chuyện đáng nhớ trong suốt mùa giải, từ hành trình vượt khó của các đội tuyển tới những phát biểu thẳng thắn hậu trận đấu như [chia sẻ của Faker và T1 sau các thất bại đáng tiếc tại giải đấu năm nay](/articles/faker-t1-len-tieng-that-bai-msi-2026.html), cho thấy MSI 2026 tiếp tục là sân khấu giàu cảm xúc bậc nhất của làng Liên Minh Huyền Thoại chuyên nghiệp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZwCDp-D_EMU/hqdefault.jpg" alt="Keria trả lời phỏng vấn chính thức tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZwCDp-D_EMU/hqdefault.jpg" alt="Keria trả lời phỏng vấn chính thức tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Phát ngôn của Keria được đưa ra trong buổi phỏng vấn chính thức của giải đấu ngay sau trận thắng Karmine Corp. Nguồn: YouTube</figcaption>
 </figure>
 

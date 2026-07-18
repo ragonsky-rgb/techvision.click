@@ -69,7 +69,7 @@ Bản Pro Max được cho là khác biệt rõ ở ba điểm gồm camera chí
 Sức nặng của dòng Redmi Note nằm ở quy mô. Đây là một trong những dòng smartphone bán chạy nhất thế giới, với doanh số cộng dồn được cho là đã vượt mốc nửa tỷ máy trên toàn cầu qua nhiều thế hệ. Chính vì vậy, mỗi lần Redmi Note ra đời mới đều được người dùng phổ thông theo dõi sát, bởi nó thường định hình mặt bằng cấu hình mà cả phân khúc tầm trung phải chạy theo trong năm đó. Việc bổ sung bản Pro Max cho thấy Xiaomi tự tin mở rộng dòng sản phẩm chủ lực này lên một nấc cao hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jnZ1etiAtMU/hqdefault.jpg" alt="Redmi Note 17 Pro Max với viên pin 10.100mAh dung lượng lớn nhất phân khúc tầm trung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jnZ1etiAtMU/hqdefault.jpg" alt="Redmi Note 17 Pro Max với viên pin 10.100mAh dung lượng lớn nhất phân khúc tầm trung" loading="lazy" width="1280" height="720">
   <figcaption>Viên pin 10.100mAh trên bản Pro Max là con số hiếm thấy ở phân khúc tầm trung. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Sức nặng của dòng Redmi Note nằm ở quy mô. Đây là một trong nh�
 Pin lớn kết hợp sạc nhanh 100W giúp máy vừa trụ lâu, vừa nạp nhanh, giải quyết hai nỗi lo phổ biến nhất của người dùng phổ thông. Với nhóm khách hàng ưu tiên thời lượng dùng cả ngày mà không cần cắm sạc, đây là lợi thế cạnh tranh rất mạnh, đặc biệt khi nhiều đối thủ tầm trung vẫn dừng ở mức 5.000 đến 7.000mAh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/_0I19on7-6Q/hqdefault.jpg" alt="Thiết kế mặt lưng Redmi Note 17 Pro với cụm camera vuông ở góc trên" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_0I19on7-6Q/hqdefault.jpg" alt="Thiết kế mặt lưng Redmi Note 17 Pro với cụm camera vuông ở góc trên" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế mới đưa cụm camera vuông về góc trên bên trái, khác kiểu đặt giữa của đời Note 15. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ Ngoài pin, camera cũng là mảng được nâng cấp mạnh. Bản Pro Max d
 Về giá, một số dự đoán cho rằng bản Pro Max khi về Việt Nam theo đường chính hãng có thể chạm mốc khoảng 20 triệu đồng, cao hơn hẳn các đời Redmi Note trước vốn quen thuộc ở tầm 6 đến 12 triệu. Mức tăng này không chỉ đến từ nâng cấp phần cứng mà còn từ bối cảnh chung, khi giá linh kiện đang leo thang trên toàn cầu.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/OPT3slqSO7Y/hqdefault.jpg" alt="Redmi Note 17 Pro giới thiệu camera 200MP và cấu hình tầm trung cao cấp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OPT3slqSO7Y/hqdefault.jpg" alt="Redmi Note 17 Pro giới thiệu camera 200MP và cấu hình tầm trung cao cấp" loading="lazy" width="1280" height="720">
   <figcaption>Camera 200MP đưa Redmi Note 17 Pro Max lên nhóm tầm trung cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 

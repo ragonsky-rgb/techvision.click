@@ -76,7 +76,7 @@ Sức mạnh của loạt kính mới đến từ Muse Spark, AI closed-weight �
 Với Muse Spark, người dùng có thể nói chuyện với AI để dịch ngôn ngữ, mô tả và hiểu khung cảnh xung quanh, hay nhận hỗ trợ thông tin theo thời gian thực. Khả năng dịch và mô tả khung cảnh đặc biệt hữu ích khi đi du lịch hoặc trong các tình huống cần thông tin tức thì. Đây là hướng biến kính thành trợ lý AI luôn sẵn sàng, cạnh tranh với các thiết bị AR khác trên thị trường, chẳng hạn dòng kính được nêu trong bài [Snap Specs đối thủ Apple Vision Pro](/articles/snap-specs-kinh-ar-2026-ra-mat-gia-2195-usd-doi-thu-apple-vision-pro.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/m_5lzvPB55k/maxresdefault.jpg" alt="Kính AI Meta chạy Muse Spark với camera và loa cá nhân" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/m_5lzvPB55k/maxresdefault.jpg" alt="Kính AI Meta chạy Muse Spark với camera và loa cá nhân" loading="lazy" width="1280" height="720">
   <figcaption>Muse Spark cho phép dịch và mô tả khung cảnh qua giọng nói. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Khác với các mẫu kính cao cấp có màn hình hiển thị thông tin tr
 Cách tiếp cận không màn hình phù hợp với những ai muốn một thiết bị nhẹ nhàng, kín đáo, tập trung vào ghi hình và trợ lý giọng nói thay vì trải nghiệm AR phức tạp. Việc loại bỏ màn hình cũng giúp kính trông tự nhiên hơn, một yếu tố quan trọng để người dùng thoải mái đeo nơi công cộng. Phân khúc kính không màn hình đang là điểm sáng của thị trường, cho thấy nhu cầu thực tế với thiết bị đơn giản, giá hợp lý.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/y-yKrXXREJg/maxresdefault.jpg" alt="Kính thông minh Meta không màn hình tập trung camera và trợ lý AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/y-yKrXXREJg/maxresdefault.jpg" alt="Kính thông minh Meta không màn hình tập trung camera và trợ lý AI" loading="lazy" width="1280" height="720">
   <figcaption>Kính tập trung vào camera và trợ lý AI bằng giọng nói. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Cách tiếp cận không màn hình phù hợp với những ai muốn một th
 Việc hạ giá xuống 299 USD là nước đi chiến lược nhằm củng cố thị phần trước khi các đối thủ lớn tham gia sâu hơn. Cuộc đua kính AI dự kiến còn nóng, khi nhiều hãng công nghệ lớn đều xem đây là nền tảng tính toán tương lai, sau điện thoại. Các hãng Android cũng đang phát triển sản phẩm tương tự, chẳng hạn Galaxy Glasses được nhắc tới trong bài [Samsung Galaxy Unpacked 22/7](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html). Cạnh tranh càng gay gắt thì người dùng càng có nhiều lựa chọn với giá tốt hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9QTIdBvzIBE/maxresdefault.jpg" alt="Thị trường kính thông minh AI tăng trưởng mạnh năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9QTIdBvzIBE/maxresdefault.jpg" alt="Thị trường kính thông minh AI tăng trưởng mạnh năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thị trường kính AI tăng trưởng nóng với Meta dẫn đầu. Nguồn: YouTube</figcaption>
 </figure>
 

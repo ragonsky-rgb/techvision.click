@@ -65,7 +65,7 @@ Khái niệm flagship killer, tức chiếc máy mang hiệu năng cận cao c�
 Pin lớn từ lâu là điểm yếu cố hữu của smartphone mỏng nhẹ, nên việc OnePlus nhồi được viên pin dung lượng cao mà vẫn giữ thân máy hợp lý là thành tựu kỹ thuật đáng ghi nhận. Với người dùng thường xuyên di chuyển, chơi game hay xem video nhiều, đây có thể là lý do đủ để chọn 15R thay vì các máy cùng tầm giá. Thời lượng pin cũng là yếu tố ngày càng được ưu tiên khi người dùng dùng điện thoại ngày một nhiều giờ hơn cho công việc lẫn giải trí.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6LB5n-YtV4Q/hqdefault.jpg" alt="OnePlus 15R với viên pin 7400mAh trong bài thử thời lượng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6LB5n-YtV4Q/hqdefault.jpg" alt="OnePlus 15R với viên pin 7400mAh trong bài thử thời lượng" loading="lazy" width="1280" height="720">
   <figcaption>Viên pin 7.400mAh giúp OnePlus 15R bám sát cả flagship đầu bảng trong bài thử xả pin. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ OnePlus 15R chạy chip Snapdragon 8 Gen 5 sản xuất trên tiến trình 3nm,
 So với con chip đầu bảng Snapdragon 8 Elite Gen 5 xuất hiện trên các flagship cao cấp nhất, phiên bản 8 Gen 5 trên 15R có phần nhẹ hơn một bậc, nhưng chênh lệch trong sử dụng thực tế không quá lớn với đa số người dùng. Nếu muốn hiểu rõ sự khác biệt giữa các dòng chip Snapdragon cao cấp năm nay, bạn có thể tham khảo [bài phân tích về Snapdragon 8 Elite Gen 5, con chip Android mạnh nhất hiện nay](/articles/snapdragon-8-elite-gen-5-la-gi-chip-android-manh-nhat-2026.html) để đặt hiệu năng của 15R vào đúng bối cảnh.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/DVhasuI1zmM/hqdefault.jpg" alt="Màn hình 165Hz và thiết kế khung nhôm của OnePlus 15R" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DVhasuI1zmM/hqdefault.jpg" alt="Màn hình 165Hz và thiết kế khung nhôm của OnePlus 15R" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình 165Hz cùng khung nhôm mặt kính Gorilla Glass 7i mang lại cảm giác cao cấp trên giá tiền. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Về giá, OnePlus 15R khởi điểm 699 USD cho bản 256GB và 799 USD cho b�
 Đặt trong bối cảnh thị trường, OnePlus 15R là lời nhắc rằng người dùng không nhất thiết phải chi số tiền lớn nhất để có trải nghiệm cao cấp. Với những ai đang cân nhắc giữa nhiều lựa chọn trong tầm giá cận cao cấp, việc so sánh trực tiếp là cần thiết. Chẳng hạn, [iPhone 16 đang giảm giá cũng là một lựa chọn tối ưu trong tháng 7](/articles/iphone-16-giam-gia-thang-7-2026-lua-chon-toi-uu.html) cho người ưu tiên hệ sinh thái Apple, tạo ra thế cạnh tranh thú vị với các flagship killer Android.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zYGceYDYnsk/hqdefault.jpg" alt="So sánh OnePlus 15R với OnePlus 15 đầu bảng về hiệu năng và pin" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zYGceYDYnsk/hqdefault.jpg" alt="So sánh OnePlus 15R với OnePlus 15 đầu bảng về hiệu năng và pin" loading="lazy" width="1280" height="720">
   <figcaption>Trong nhiều bài so sánh, 15R bám sát bản 15 đầu bảng ở hiệu năng và pin nhưng giá dễ chịu hơn. Nguồn: YouTube</figcaption>
 </figure>
 

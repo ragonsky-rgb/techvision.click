@@ -76,7 +76,7 @@ Microsoft đưa mô hình GPT-5.5, bao gồm phiên bản suy luận, vào Copil
 Đây là cách Microsoft tận dụng các mô hình AI hàng đầu để nâng cao giá trị sản phẩm. Cuộc đua đưa mô hình mạnh vào ứng dụng đang diễn ra giữa các hãng lớn, mỗi bên tích hợp AI vào hệ sinh thái của mình. Mô hình GPT-5.5 cũng là tâm điểm trong các cập nhật của OpenAI, được phân tích trong bài [ChatGPT nâng cấp tháng 6/2026 với GPT-5.5](/articles/openai-chatgpt-gpt-5-5-cap-nhat-thang-6-2026-bo-nho-moi-khai-tu.html). Việc cùng một dòng mô hình xuất hiện trên nhiều nền tảng cho thấy sự liên kết chặt chẽ trong ngành.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/fosVJ2QkhnE/maxresdefault.jpg" alt="Microsoft đưa GPT-5.5 vào Word Excel PowerPoint qua Copilot" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fosVJ2QkhnE/maxresdefault.jpg" alt="Microsoft đưa GPT-5.5 vào Word Excel PowerPoint qua Copilot" loading="lazy" width="1280" height="720">
   <figcaption>GPT-5.5 được tích hợp vào bộ công cụ Office qua Copilot. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Microsoft 365 Copilot Chat được mở rộng để hoạt động trong nhi�
 Bên cạnh đó, một lớp điều phối mới trong Copilot Studio cải thiện cách các tác nhân thực hiện quy trình nghiệp vụ. Theo Microsoft, nó giúp tăng khoảng 20% hiệu quả đánh giá trong khi giảm khoảng 50% lượng token tiêu thụ ròng. Cải tiến này có ý nghĩa lớn về cả chất lượng lẫn chi phí, vì token quyết định chi phí vận hành AI ở quy mô lớn. Hiệu quả cao hơn với chi phí thấp hơn là hướng đi mà cả ngành theo đuổi, tương tự chiến lược của các đối thủ như nêu trong bài [Google Gemini 3 Flash](/articles/google-gemini-3-flash-mo-hinh-ai-mac-dinh-nhanh-tiet-kiem-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/qNcbrSZtbNs/maxresdefault.jpg" alt="Copilot Chat mở rộng trong Teams và lớp điều phối mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qNcbrSZtbNs/maxresdefault.jpg" alt="Copilot Chat mở rộng trong Teams và lớp điều phối mới" loading="lazy" width="1280" height="720">
   <figcaption>Copilot Chat tích hợp sâu trong Teams, lớp điều phối tối ưu chi phí. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Ngoài các nâng cấp lớn, Microsoft còn bổ sung nhiều tính năng nh�
 Một tính năng đáng chú ý khác là Copilot Tuning, bổ sung các mẫu mới trong Agent Builder cho các tác vụ như soạn thảo tài liệu phức tạp, kiểm tra tài liệu theo hướng dẫn, và biên tập theo phong cách viết riêng. Những công cụ này giúp doanh nghiệp tùy chỉnh Copilot theo nhu cầu cụ thể, biến trợ lý AI thành công cụ phù hợp với quy trình và phong cách của từng tổ chức. Khả năng tùy chỉnh là yếu tố quan trọng để AI thực sự hữu ích trong môi trường doanh nghiệp đa dạng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Pu4J2Nb91eM/maxresdefault.jpg" alt="Tính năng sáng tạo và Copilot Tuning trong Microsoft Copilot 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Pu4J2Nb91eM/maxresdefault.jpg" alt="Tính năng sáng tạo và Copilot Tuning trong Microsoft Copilot 2026" loading="lazy" width="1280" height="720">
   <figcaption>Copilot bổ sung hiệu ứng ảnh và công cụ tùy chỉnh tác nhân. Nguồn: YouTube</figcaption>
 </figure>
 

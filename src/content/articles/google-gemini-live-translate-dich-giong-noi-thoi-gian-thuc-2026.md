@@ -68,7 +68,7 @@ Google vừa chính thức triển khai Gemini 3.5 Live Translate, mô hình âm
 Một điểm nổi bật khác được Google nhấn mạnh là khả năng tạo ra giọng nói dịch mượt mà, tự nhiên, giữ được ngữ điệu, nhịp điệu và cao độ gần với giọng nói gốc của người nói, thay vì chỉ đọc văn bản dịch theo giọng máy đơn điệu như nhiều công cụ dịch thuật trước đây. Điều này giúp trải nghiệm giao tiếp qua công cụ dịch trở nên gần gũi, tự nhiên hơn, giữ được phần nào cá tính và cảm xúc trong giọng nói của người đang trò chuyện.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xdPIwgDriTg/sddefault.jpg" alt="Google Gemini 3.5 Live Translate xoa bo rao can ngon ngu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xdPIwgDriTg/sddefault.jpg" alt="Google Gemini 3.5 Live Translate xoa bo rao can ngon ngu" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều kênh công nghệ đánh giá Gemini 3.5 Live Translate là bước tiến lớn trong việc xóa bỏ rào cản ngôn ngữ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Sự xuất hiện của Gemini Live Translate tích hợp miễn phí trên đi
 Với người Việt thường xuyên làm việc với đối tác nước ngoài hoặc đi du lịch, công tác quốc tế, Gemini Live Translate là công cụ đáng thử nghiệm ngay vì tính miễn phí và dễ tiếp cận ngay trên điện thoại đang sử dụng hằng ngày, không cần đầu tư thêm chi phí phần cứng. Tuy nhiên, nên thử nghiệm kỹ với chính ngôn ngữ mình cần giao tiếp thường xuyên trước khi hoàn toàn phụ thuộc vào công cụ này cho các tình huống giao tiếp quan trọng, vì chất lượng dịch thực tế có thể khác nhau đáng kể tùy theo cặp ngôn ngữ cụ thể và độ phức tạp của nội dung hội thoại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xdPIwgDriTg/mqdefault.jpg" alt="Gemini Live Translate ho tro dich giong noi tren Google Meet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xdPIwgDriTg/mqdefault.jpg" alt="Gemini Live Translate ho tro dich giong noi tren Google Meet" loading="lazy" width="1280" height="480">
   <figcaption>Gemini Live Translate được tích hợp vào Google Meet, hỗ trợ dịch giọng nói trong các cuộc họp trực tuyến. Nguồn: YouTube</figcaption>
 </figure>
 
 Xu hướng tích hợp AI trực tiếp vào các ứng dụng giao tiếp phổ biến như Google Meet cũng phản ánh chiến lược rộng hơn của Google trong việc tối ưu hóa trải nghiệm sử dụng các mô hình AI, tương tự cách [Gemini 3 Flash được Google định vị làm mô hình mặc định nhanh, tiết kiệm chi phí](/articles/google-gemini-3-flash-mo-hinh-ai-mac-dinh-nhanh-tiet-kiem-2026.html) cho nhiều ứng dụng cần phản hồi tức thời khác nhau trong hệ sinh thái sản phẩm của công ty.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/g58RYctmCFQ/mqdefault.jpg" alt="Danh gia Gemini Live Translate xoa bo rao can ngon ngu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/g58RYctmCFQ/mqdefault.jpg" alt="Danh gia Gemini Live Translate xoa bo rao can ngon ngu" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều đánh giá cho rằng Gemini Live Translate là bước tiến quan trọng trong việc phá vỡ rào cản ngôn ngữ toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 

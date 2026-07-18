@@ -76,7 +76,7 @@ Tâm điểm của làn sóng đầu tư là NVIDIA, hãng chip AI hàng đầu 
 NVIDIA không phải mới đến Việt Nam. Hãng đã đầu tư vào hệ sinh thái công nghệ trong nước suốt 8 năm, làm việc với hơn 100 startup AI Việt qua chương trình Inception và 65 trường đại học. Trọng tâm là phát triển phần mềm, tận dụng nguồn nhân lực STEM dồi dào và thúc đẩy ứng dụng AI trong doanh nghiệp, chính phủ và giáo dục. Cam kết dài hạn này tạo nền tảng cho hệ sinh thái AI nội địa phát triển bền vững hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/jmzTf536CAA/maxresdefault.jpg" alt="NVIDIA ký thỏa thuận xây trung tâm nghiên cứu AI tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jmzTf536CAA/maxresdefault.jpg" alt="NVIDIA ký thỏa thuận xây trung tâm nghiên cứu AI tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>NVIDIA lập VRDC và AI Data Center, hợp tác cùng Chính phủ Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Có nhiều lý do khiến Việt Nam trở thành điểm đến hấp dẫn ch
 Việt Nam cũng đang xây dựng các năng lực công nghệ nền tảng khác, từ bán dẫn tới AI, tạo nên hệ sinh thái đồng bộ hơn. Tham vọng tự chủ công nghệ thể hiện rõ qua các dự án lớn, chẳng hạn nỗ lực phát triển ngành bán dẫn được phân tích trong bài [Viettel khởi công nhà máy chip](/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html). Sự kết hợp giữa hạ tầng dữ liệu, chip và nhân lực là điều kiện cần để Việt Nam vươn lên trong chuỗi giá trị công nghệ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9E8fNVNAjaY/maxresdefault.jpg" alt="Thị trường trung tâm dữ liệu AI bùng nổ công suất 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9E8fNVNAjaY/maxresdefault.jpg" alt="Thị trường trung tâm dữ liệu AI bùng nổ công suất 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhu cầu hạ tầng AI tăng mạnh trên toàn cầu và khu vực. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Bên cạnh cơ hội, các dự án trung tâm dữ liệu AI đặt ra thách 
 Với Việt Nam, để biến vốn đầu tư đề xuất thành dự án vận hành thực tế, cần đảm bảo nguồn điện ổn định, giải pháp làm mát hiệu quả và hạ tầng kết nối tốt. Đây là yếu tố then chốt quyết định khả năng cạnh tranh dài hạn. Nếu giải tốt bài toán hạ tầng, Việt Nam có cơ hội trở thành trung tâm dữ liệu khu vực; ngược lại, các dự án có thể chậm tiến độ hoặc dịch chuyển sang nơi khác. Đây là điểm các nhà hoạch định chính sách cần đặc biệt quan tâm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/2wrxUDB_eiI/maxresdefault.jpg" alt="Hạ tầng điện và làm mát cho trung tâm dữ liệu AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2wrxUDB_eiI/maxresdefault.jpg" alt="Hạ tầng điện và làm mát cho trung tâm dữ liệu AI" loading="lazy" width="1280" height="720">
   <figcaption>Điện và làm mát là thách thức lớn của trung tâm dữ liệu AI. Nguồn: YouTube</figcaption>
 </figure>
 

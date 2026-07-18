@@ -71,7 +71,7 @@ Theo giới chuyên môn theo dõi giải đấu, điểm yếu lớn nhất c�
 Trước khi dừng bước ở tứ kết, Saigon Phantom từng trải qua vòng Swiss Stage đầy cam go, phải thi đấu tới những lượt cuối cùng mới giành được tấm vé góp mặt trong top 8 đội mạnh nhất giải đấu, cùng với [FPT x Flash và FPT Polytechnic tạo nên bộ ba đại diện Việt Nam hiếm hoi cùng lọt vào vòng tứ kết](/articles/apl-2026-viet-nam-3-dai-dien-tu-ket-lien-quan-mobile.html) của một kỳ APL. Thành tích này từng được xem là cột mốc đáng tự hào cho Liên Quân Mobile Việt Nam, phản ánh sự tiến bộ đáng kể của các đội tuyển trong nước trước những đối thủ quốc tế dày dạn kinh nghiệm.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/K-nAF5jr-6k/hqdefault.jpg" alt="Saigon Phantom thi đấu tại vòng tứ kết APL 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/K-nAF5jr-6k/hqdefault.jpg" alt="Saigon Phantom thi đấu tại vòng tứ kết APL 2026" loading="lazy" width="1280" height="720">
   <figcaption>Saigon Phantom từng trải qua hành trình đầy cảm xúc trước khi dừng bước tại vòng tứ kết. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,14 +82,14 @@ Trên chặng đường tới tứ kết, Saigon Phantom cũng để lại nhi�
 Với việc Saigon Phantom chính thức dừng bước, đại diện Việt Nam duy nhất còn trụ lại tại APL 2026 hiện chỉ còn FPT Polytechnic, đội tuyển từng gây địa chấn lớn khi [lội ngược dòng đánh bại chính đàn anh FPT x Flash với tỷ số 4-1 đầy thuyết phục](/articles/fpt-polytechnic-thang-fpt-x-flash-4-1-apl-2026.html) tại vòng nhánh thua chỉ vài ngày sau khi để thua Full Sense 2-3 ở tứ kết. Hành trình đầy biến động của FPT Polytechnic, đội tuyển vốn được xem là ngựa ô của giải đấu năm nay, giờ đây đang gánh trên vai kỳ vọng của toàn bộ cộng đồng Liên Quân Mobile Việt Nam trong việc tiến sâu hơn nữa tại APL 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ZYfMsJPBbms/hqdefault.jpg" alt="Saigon Phantom trong một trận đấu vòng Swiss Stage trước khi dừng bước ở tứ kết" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZYfMsJPBbms/hqdefault.jpg" alt="Saigon Phantom trong một trận đấu vòng Swiss Stage trước khi dừng bước ở tứ kết" loading="lazy" width="1280" height="720">
   <figcaption>Dù dừng bước ở tứ kết, Saigon Phantom vẫn để lại nhiều dấu ấn đáng nhớ trong lòng người hâm mộ suốt giải đấu. Nguồn: YouTube</figcaption>
 </figure>
 
 Diễn biến này cũng phần nào cho thấy mức độ cạnh tranh khốc liệt ngày càng tăng tại đấu trường quốc tế của tựa game Liên Quân Mobile / Arena of Valor, khi các khu vực như GCS, nơi Deep Cross Gaming đại diện, đang thể hiện sự tiến bộ vượt bậc so với những mùa giải trước, buộc các đội tuyển Việt Nam phải không ngừng nâng cao trình độ chuyên môn nếu muốn duy trì vị thế cạnh tranh sòng phẳng trên đấu trường quốc tế, tương tự cách khu vực LCK của Liên Minh Huyền Thoại cũng đang chứng kiến [những trận đấu nghẹt thở như màn ngược dòng của HLE trước LYON tại MSI 2026](/articles/hle-nguoc-dong-lyon-3-2-vao-chung-ket-tong-msi-2026.html) để giữ vững sức hút toàn cầu của bộ môn esports.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/pAwmvJL_hqo/hqdefault.jpg" alt="Saigon Phantom trong một pha giao tranh căng thẳng tại vòng Swiss Stage APL 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/pAwmvJL_hqo/hqdefault.jpg" alt="Saigon Phantom trong một pha giao tranh căng thẳng tại vòng Swiss Stage APL 2026" loading="lazy" width="1280" height="720">
   <figcaption>Những pha giao tranh nghẹt thở tại vòng Swiss Stage từng giúp Saigon Phantom giành được sự yêu mến lớn từ người hâm mộ. Nguồn: YouTube</figcaption>
 </figure>
 

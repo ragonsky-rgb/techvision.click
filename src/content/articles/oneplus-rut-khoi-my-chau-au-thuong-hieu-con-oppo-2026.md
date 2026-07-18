@@ -64,7 +64,7 @@ Theo trang công nghệ Đức WinFuture đăng ngày 13/7, OnePlus và công ty
 Thực tế, những dấu hiệu về việc thu hẹp đã xuất hiện từ trước. Trong nửa đầu năm 2026, nhiều người dùng nhận thấy sản phẩm OnePlus dần biến mất khỏi kệ của một số chuỗi bán lẻ tại Mỹ, làm dấy lên đồn đoán về khả năng rút lui. Báo cáo của WinFuture, nếu chính xác, sẽ là bước chính thức hóa quá trình đã âm thầm diễn ra.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KfVCwe0FfnI/hqdefault.jpg" alt="Cửa hàng bán lẻ với các mẫu điện thoại OnePlus dần vắng bóng năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KfVCwe0FfnI/hqdefault.jpg" alt="Cửa hàng bán lẻ với các mẫu điện thoại OnePlus dần vắng bóng năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Sản phẩm OnePlus được cho là đã dần biến mất khỏi một số chuỗi bán lẻ tại Mỹ trước báo cáo này. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Với những ai đang sở hữu điện thoại OnePlus tại Mỹ và châu �
 Điều thay đổi nằm ở tương lai. Sẽ không còn sản phẩm OnePlus mới nào ra mắt cho hai thị trường này, và lượng hàng còn lại sẽ được bán hết dần trong những tuần và tháng tới thay vì nhập thêm. Với người hâm mộ vốn quen chờ đợi các dòng flagship và flagship killer mới của hãng, đây là tín hiệu cho thấy lựa chọn của họ sẽ thu hẹp đáng kể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Qr2uvcG26T8/hqdefault.jpg" alt="Người dùng cầm điện thoại OnePlus và bàn về tương lai thương hiệu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Qr2uvcG26T8/hqdefault.jpg" alt="Người dùng cầm điện thoại OnePlus và bàn về tương lai thương hiệu" loading="lazy" width="1280" height="720">
   <figcaption>Người dùng hiện tại được cho là vẫn nhận cập nhật tới hết vòng đời máy, nhưng không còn sản phẩm mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Phần đáng chú ý nhất của báo cáo là định hướng tương lai c�
 Đi kèm với đó là khả năng thay đổi phần mềm. Một số báo cáo cho rằng OnePlus có thể tiến tới thay thương hiệu OxygenOS bằng ColorOS của Oppo trên các thiết bị tương lai. OxygenOS từng là điểm cộng lớn tạo nên bản sắc riêng của OnePlus, với giao diện gọn, mượt và gần Android gốc. Nếu bị thay thế, thương hiệu sẽ mất đi một trong những yếu tố từng giúp nó khác biệt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/32BT7Lk7bPw/hqdefault.jpg" alt="Điện thoại OnePlus và biểu tượng thương hiệu bên cạnh logo Oppo" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/32BT7Lk7bPw/hqdefault.jpg" alt="Điện thoại OnePlus và biểu tượng thương hiệu bên cạnh logo Oppo" loading="lazy" width="1280" height="720">
   <figcaption>OnePlus được cho là sẽ hợp nhất sâu hơn vào Oppo, trở thành dòng sản phẩm giá rẻ. Nguồn: YouTube</figcaption>
 </figure>
 

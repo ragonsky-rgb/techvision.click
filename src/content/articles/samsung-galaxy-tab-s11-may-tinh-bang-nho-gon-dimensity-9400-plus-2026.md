@@ -72,7 +72,7 @@ Về thiết kế, máy chỉ dày 5,5mm và nặng khoảng 469g ở bản Wi-F
 Bên trong máy là chip Dimensity 9400+ của MediaTek kết hợp RAM 12GB, mang lại hiệu năng đủ mạnh cho các tác vụ đa nhiệm, chỉnh sửa ảnh video cơ bản và chơi game phổ thông mượt mà. Bộ nhớ trong có ba tùy chọn 128GB, 256GB và 512GB, phù hợp với nhiều nhu cầu lưu trữ khác nhau, từ dùng cơ bản tới lưu nhiều tài liệu, ảnh và video công việc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/8lE6_ma46QI/hqdefault.jpg" alt="Samsung Galaxy Tab S11 S Pen gan nam cham Dimensity 9400 Plus" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/8lE6_ma46QI/hqdefault.jpg" alt="Samsung Galaxy Tab S11 S Pen gan nam cham Dimensity 9400 Plus" loading="lazy" width="1280" height="480">
   <figcaption>S Pen đi kèm Galaxy Tab S11 gắn vào máy bằng nam châm ở mặt sau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Với người dùng muốn tìm hiểu sâu hơn về các tính năng phần m
 Galaxy Tab S11 trang bị viên pin 8.400mAh, hỗ trợ sạc nhanh 45W, đủ dùng thoải mái cho một ngày làm việc xen kẽ giải trí mà không cần sạc lại giữa chừng. Tại thị trường Việt Nam, máy được bán chính hãng với giá khởi điểm khoảng 15,3 triệu đồng cho bản Wi-Fi 12GB/128GB, trong khi bản 5G cùng cấu hình có giá khoảng 18 triệu đồng. Các phiên bản dung lượng lưu trữ cao hơn sẽ có giá nhích lên tương ứng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/SQPc2mXeM_Q/hqdefault.jpg" alt="Samsung Galaxy Tab S11 gia ban Viet Nam so sanh iPad Pro" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SQPc2mXeM_Q/hqdefault.jpg" alt="Samsung Galaxy Tab S11 gia ban Viet Nam so sanh iPad Pro" loading="lazy" width="1280" height="480">
   <figcaption>Galaxy Tab S11 được nhiều đánh giá so sánh trực tiếp với dòng iPad Pro ở cùng phân khúc giá. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Galaxy Tab S11 trang bị viên pin 8.400mAh, hỗ trợ sạc nhanh 45W, đủ 
 So với các máy tính bảng Android cùng tầm giá, Galaxy Tab S11 có lợi thế lớn nhờ hệ sinh thái phần mềm ổn định, thời gian cập nhật phần mềm dài hơi và khả năng đồng bộ tốt với các thiết bị Samsung khác như điện thoại Galaxy hay đồng hồ Galaxy Watch. Với người dùng đang cân nhắc giữa hệ sinh thái Android và Apple, việc theo dõi thêm các bản cập nhật giao diện phần mềm cũng là yếu tố đáng tham khảo trước khi quyết định gắn bó lâu dài với một hệ sinh thái. Nhìn chung, đây là lựa chọn phù hợp cho người dùng ưu tiên máy tính bảng gọn nhẹ, có bút cảm ứng đi kèm mà không cần mua thêm phụ kiện rời, phục vụ tốt cho nhu cầu ghi chú, đọc tài liệu và giải trí hằng ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/efGBLl3xiHs/hqdefault.jpg" alt="Samsung Galaxy Tab S11 trai nghiem thuc te sau nhieu thang su dung" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/efGBLl3xiHs/hqdefault.jpg" alt="Samsung Galaxy Tab S11 trai nghiem thuc te sau nhieu thang su dung" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều người dùng thực tế đánh giá tích cực về độ bền và trải nghiệm sử dụng lâu dài của Galaxy Tab S11. Nguồn: YouTube</figcaption>
 </figure>
 

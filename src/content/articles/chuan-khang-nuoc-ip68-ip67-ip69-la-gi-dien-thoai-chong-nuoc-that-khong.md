@@ -76,7 +76,7 @@ Nếu một trong hai vị trí là chữ X, ví dụ IPX4, nghĩa là chỉ s�
 Vì vậy, nên hiểu kháng nước là lớp bảo vệ giúp yên tâm khi gặp mưa, đổ nước hay lỡ rơi máy vào bồn rửa, chứ không phải để cố tình quay phim dưới hồ bơi hay ngâm máy lâu. Khả năng này cũng giảm dần theo thời gian khi gioăng cao su và keo dán xuống cấp, đặc biệt sau va đập hoặc sửa chữa mở máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/31ssdh6WMFE/maxresdefault.jpg" alt="Kháng nước và bụi IP trên smartphone là gì cần biết" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/31ssdh6WMFE/maxresdefault.jpg" alt="Kháng nước và bụi IP trên smartphone là gì cần biết" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng kháng nước giảm dần theo tuổi máy và sau va đập. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Vì vậy, nên hiểu kháng nước là lớp bảo vệ giúp yên tâm khi g
 Một điểm ít người để ý là chuẩn IP chỉ kiểm định với nước, không bao gồm các chất lỏng khác. Cà phê, nước ngọt có ga, nước biển hay xà phòng đều có thành phần ăn mòn hoặc để lại cặn, có thể làm hỏng gioăng và bảng mạch dù máy ghi IP68. Vì vậy, con số trên hộp chỉ là điểm khởi đầu để hiểu giới hạn của máy, không phải lời hứa cho mọi tình huống tiếp xúc chất lỏng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zWKcBFV57Kc/maxresdefault.jpg" alt="So sánh kháng nước và chống nước trên điện thoại theo chuẩn IP" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zWKcBFV57Kc/maxresdefault.jpg" alt="So sánh kháng nước và chống nước trên điện thoại theo chuẩn IP" loading="lazy" width="1280" height="720">
   <figcaption>Kháng nước và chống nước là hai khái niệm khác nhau cần phân biệt rõ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Người thường xuyên làm việc ngoài trời, đi rừng, công trường
 Cuối cùng, một thói quen đơn giản giúp kéo dài khả năng kháng nước là giữ cho khay SIM, cổng sạc và các gioăng luôn sạch và khô. Bụi bẩn kẹt vào gioăng cao su làm hở khe rất nhỏ, đủ để nước thấm qua theo thời gian. Lau khô máy sau khi tiếp xúc nước, không tự ý tháo máy và mang đi kiểm tra định kỳ nếu máy từng rơi vỡ sẽ giúp lớp bảo vệ này duy trì lâu hơn. Khi mua máy đã qua sử dụng, việc kiểm tra tình trạng gioăng và dấu hiệu từng mở máy cũng rất đáng làm, tương tự các bước trong bài [cách kiểm tra iPhone cũ trước khi mua](/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/u-8Y-qK-4qM/maxresdefault.jpg" alt="Những điều cần biết về kháng nước trên điện thoại smartphone" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/u-8Y-qK-4qM/maxresdefault.jpg" alt="Những điều cần biết về kháng nước trên điện thoại smartphone" loading="lazy" width="1280" height="720">
   <figcaption>Giữ gioăng và cổng sạch khô giúp duy trì khả năng kháng nước lâu hơn. Nguồn: YouTube</figcaption>
 </figure>
 

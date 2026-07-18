@@ -76,7 +76,7 @@ Hai tính năng được nhắc tới nhiều là Ask to Browse và Time Allowan
 Time Allowances mang lại cách quản lý thời gian linh hoạt hơn nhiều so với giới hạn chung trước đây. Cha mẹ có thể đặt thời lượng riêng cho từng nhóm ứng dụng như Giải trí, Game và Mạng xã hội. Nhờ đó, phụ huynh có thể rộng rãi hơn với ứng dụng học tập trong khi siết chặt game hay mạng xã hội, phù hợp với nhu cầu và thói quen thực tế của từng gia đình. Đi kèm là phần Screen Time được thiết kế lại, giúp việc theo dõi và điều chỉnh trực quan hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/KwUfE27kn5U/maxresdefault.jpg" alt="Apple giới thiệu tính năng an toàn trẻ em mới trên iPhone" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KwUfE27kn5U/maxresdefault.jpg" alt="Apple giới thiệu tính năng an toàn trẻ em mới trên iPhone" loading="lazy" width="1280" height="720">
   <figcaption>Ask to Browse và Time Allowances cho cha mẹ kiểm soát linh hoạt hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Apple cũng mở rộng tính năng Communication Safety. Trước đây, tính 
 Điểm đáng chú ý về quyền riêng tư là cách Apple xử lý xác định độ tuổi. Thay vì yêu cầu xác minh tuổi truyền thống vốn cần thông tin nhạy cảm, hãng giới thiệu Declared Age Range API. Công cụ này cho phép nhà phát triển điều chỉnh trải nghiệm theo khoảng tuổi của trẻ mà không thu thập ngày sinh chính xác. Cách chia sẻ khoảng tuổi giúp ứng dụng có đủ thông tin để thích ứng, đồng thời hạn chế lộ dữ liệu cá nhân, một sự cân bằng được nhiều chuyên gia đánh giá tích cực.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ELuwScOC8hc/maxresdefault.jpg" alt="Các công cụ kiểm soát của cha mẹ mới của Apple" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ELuwScOC8hc/maxresdefault.jpg" alt="Các công cụ kiểm soát của cha mẹ mới của Apple" loading="lazy" width="1280" height="720">
   <figcaption>Apple mở rộng lọc nội dung và bảo vệ dữ liệu khi xác định độ tuổi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Apple cũng mở rộng tính năng Communication Safety. Trước đây, tính 
 Tuy nhiên, một số phân tích lưu ý vẫn còn những điểm bỏ ngỏ, như mức độ hiệu quả thực tế khi trẻ tìm cách lách, hay sự phối hợp cần thiết từ phía nhà phát triển ứng dụng. Công nghệ chỉ là một phần của giải pháp, bên cạnh vai trò đồng hành và giáo dục của cha mẹ. Dù vậy, bộ công cụ mới được xem là bước tiến đáng ghi nhận, cung cấp cho phụ huynh nhiều lựa chọn hơn để bảo vệ con.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/quyCII-jyko/maxresdefault.jpg" alt="Hướng dẫn quản lý iPhone của trẻ bằng Screen Time 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/quyCII-jyko/maxresdefault.jpg" alt="Hướng dẫn quản lý iPhone của trẻ bằng Screen Time 2026" loading="lazy" width="1280" height="720">
   <figcaption>Công nghệ hỗ trợ, nhưng vai trò đồng hành của cha mẹ vẫn quan trọng. Nguồn: YouTube</figcaption>
 </figure>
 

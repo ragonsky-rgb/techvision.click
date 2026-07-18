@@ -69,7 +69,7 @@ Công nghệ RO, viết tắt của thẩm thấu ngược, sử dụng màng l�
 Số lượng lõi lọc trong máy quyết định trực tiếp mức độ tinh khiết của nước đầu ra, mỗi lõi thường đảm nhận một chức năng lọc riêng biệt, từ loại bỏ cặn thô, khử clo, tới lọc màng RO chính và các lõi chức năng bổ sung phía sau. Máy có nhiều lõi lọc thường cho chất lượng nước tốt hơn, nhưng cũng đồng nghĩa với chi phí thay thế định kỳ cao hơn, nên cần cân nhắc giữa chất lượng mong muốn và ngân sách bảo trì lâu dài.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wOwM1pU8uGs/sddefault.jpg" alt="Top 4 may loc nuoc tot nhat 2026 Kangaroo Karofi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/wOwM1pU8uGs/sddefault.jpg" alt="Top 4 may loc nuoc tot nhat 2026 Kangaroo Karofi" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá top các mẫu máy lọc nước đáng chú ý nhất hiện nay tại thị trường Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Với gia đình khoảng 4 tới 5 người, công suất lọc trung bình c�
 Chi phí thay lõi lọc định kỳ, thường mỗi 6 tới 12 tháng tùy chất lượng nguồn nước đầu vào tại từng khu vực, là khoản chi phí duy trì cần tính vào tổng chi phí sở hữu máy lọc nước lâu dài, bên cạnh giá mua ban đầu khoảng 4 tới 11 triệu đồng tùy thương hiệu và công nghệ. Lõi lọc kém chất lượng hoặc không được thay đúng hạn có thể ảnh hưởng trực tiếp tới chất lượng nước đầu ra, thậm chí gây phản tác dụng so với mục đích ban đầu là bảo vệ sức khỏe gia đình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/wOwM1pU8uGs/mqdefault.jpg" alt="Danh gia chi phi va chat luong may loc nuoc RO gia dinh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/wOwM1pU8uGs/mqdefault.jpg" alt="Danh gia chi phi va chat luong may loc nuoc RO gia dinh" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá tổng thể về chi phí và chất lượng giúp người mua chọn được máy lọc nước phù hợp ngân sách. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Nhiều gia đình hiện đang xây dựng không gian bếp và sinh hoạt ti
 Cuối cùng, người mua cũng nên kiểm tra kỹ chất lượng nguồn nước đầu vào tại khu vực sinh sống trước khi chọn mua, vì nguồn nước có độ cứng cao hoặc nhiễm phèn nặng có thể cần thêm bộ tiền xử lý riêng trước khi đưa vào máy lọc RO chính, giúp kéo dài tuổi thọ màng lọc và giảm tần suất thay lõi so với việc chỉ dùng một máy lọc RO đơn thuần không qua xử lý sơ bộ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/HbKcB-paLtw/mqdefault.jpg" alt="Top may loc nuoc dang chu y nhat tai Viet Nam 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/HbKcB-paLtw/mqdefault.jpg" alt="Top may loc nuoc dang chu y nhat tai Viet Nam 2026" loading="lazy" width="1280" height="480">
   <figcaption>Nhiều thương hiệu máy lọc nước tại Việt Nam liên tục cải tiến công nghệ để đáp ứng nhu cầu người dùng. Nguồn: YouTube</figcaption>
 </figure>
 

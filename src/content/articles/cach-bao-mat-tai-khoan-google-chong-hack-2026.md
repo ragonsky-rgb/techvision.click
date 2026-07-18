@@ -76,7 +76,7 @@ Song song với xác minh hai bước, hãy đặt mật khẩu thật mạnh ch
 Tiếp theo, hãy định kỳ kiểm tra các thiết bị đang đăng nhập vào tài khoản. Vào mục Bảo mật trong quản lý tài khoản Google, phần thiết bị của bạn để xem danh sách thiết bị và vị trí truy cập. Nếu phát hiện thiết bị hoặc vị trí lạ, hãy đăng xuất khỏi thiết bị đó ngay lập tức và đổi mật khẩu. Google cũng gửi cảnh báo khi có đăng nhập đáng ngờ, nên đừng bỏ qua các thông báo này. Việc kiểm tra thường xuyên giúp phát hiện sớm nếu tài khoản bị xâm nhập.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/TEHtOB_w3LU/maxresdefault.jpg" alt="Bật tắt xác minh 2 bước bảo vệ tài khoản Gmail" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TEHtOB_w3LU/maxresdefault.jpg" alt="Bật tắt xác minh 2 bước bảo vệ tài khoản Gmail" loading="lazy" width="1280" height="720">
   <figcaption>Kiểm tra thiết bị đăng nhập giúp phát hiện sớm xâm nhập. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Theo thời gian, nhiều người đăng nhập vào các ứng dụng, trang w
 Chuẩn bị trước phương án khôi phục cũng rất quan trọng. Hãy cập nhật email và số điện thoại dự phòng còn dùng được, để bạn có thể lấy lại tài khoản nếu chẳng may bị mất quyền truy cập. Đây là các thông tin Google dùng để xác minh danh tính khi khôi phục, nên hãy đảm bảo chúng chính xác. Cách tiếp cận bảo vệ tài khoản này cũng tương tự với các nền tảng khác, ví dụ được hướng dẫn trong bài [cách bảo vệ tài khoản Facebook](/articles/cach-bao-ve-tai-khoan-facebook-khong-bi-hack-chiem-nick-2026.html), giúp bạn xây dựng thói quen bảo mật nhất quán.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/waQLLuLjTQQ/maxresdefault.jpg" alt="Hướng dẫn bật xác minh hai bước tài khoản Google" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/waQLLuLjTQQ/maxresdefault.jpg" alt="Hướng dẫn bật xác minh hai bước tài khoản Google" loading="lazy" width="1280" height="720">
   <figcaption>Gỡ quyền ứng dụng lạ và cập nhật thông tin khôi phục. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Google cung cấp một công cụ rất hữu ích là Kiểm tra bảo mật, 
 Bên cạnh các thiết lập kỹ thuật, cảnh giác với lừa đảo là yếu tố then chốt. Phần lớn các vụ chiếm tài khoản bắt nguồn từ email và trang web giả mạo dụ người dùng nhập mật khẩu. Tuyệt đối không bấm vào link đăng nhập gửi qua email lạ, luôn kiểm tra địa chỉ trang web trước khi nhập thông tin, và không cung cấp mã xác minh cho bất kỳ ai. Google không bao giờ yêu cầu mật khẩu hay mã qua email. Việc kết hợp thiết lập bảo mật với ý thức cảnh giác tạo nên lá chắn vững chắc, tương tự các nguyên tắc bảo vệ dữ liệu trong bài [bảo vệ quyền riêng tư và dữ liệu cá nhân](/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/BguIZT-0mhg/maxresdefault.jpg" alt="Bảo mật Google hướng dẫn thiết lập xác minh hai bước" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BguIZT-0mhg/maxresdefault.jpg" alt="Bảo mật Google hướng dẫn thiết lập xác minh hai bước" loading="lazy" width="1280" height="720">
   <figcaption>Công cụ Kiểm tra bảo mật giúp rà soát toàn diện tài khoản. Nguồn: YouTube</figcaption>
 </figure>
 

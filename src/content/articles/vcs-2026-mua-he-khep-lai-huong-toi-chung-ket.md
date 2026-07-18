@@ -72,7 +72,7 @@ VCS 2026 mùa Hè quy tụ sáu đội tuyển gồm Saigon MVK Academy, Saigon 
 Sau vòng thi đấu chính, giải đấu khép lại bằng trận chung kết mùa Hè quy tụ hai cái tên Saigon Warriors và Saigon Dino, tranh tấm vé trực tiếp thứ hai vào giai đoạn Chung Kết VCS 2026, bên cạnh suất đã có sẵn của Saigon MVK Academy, đội tuyển đã lên ngôi vô địch mùa Xuân 2026 trước đó. Saigon Warriors bước vào trận chung kết mùa Hè với tư cách đội tuyển từng về nhì tại chung kết mùa Xuân, trong khi Saigon Dino cũng là cái tên giàu kinh nghiệm thi đấu tại các giải đấu lớn của VCS trong nhiều mùa giải gần đây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-u_V5GVXeGI/hqdefault.jpg" alt="Saigon Warriors đối đầu Saigon Dino tại VCS 2026 mùa Xuân" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-u_V5GVXeGI/hqdefault.jpg" alt="Saigon Warriors đối đầu Saigon Dino tại VCS 2026 mùa Xuân" loading="lazy" width="1280" height="720">
   <figcaption>Saigon Warriors và Saigon Dino từng nhiều lần chạm trán nhau tại các vòng đấu của VCS 2026, trước khi cùng góp mặt ở trận chung kết mùa Hè. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,14 +81,14 @@ Trên thực tế, đây không phải lần đầu tiên hai đội tuyển nà
 Đội tuyển giành chiến thắng trong trận chung kết mùa Hè sẽ chính thức có tên trong danh sách các đội giành vé trực tiếp vào giai đoạn Chung Kết VCS 2026, dự kiến diễn ra từ ngày 1/8 tới 6/9/2026, nơi các đội tuyển mạnh nhất trong nước sẽ tranh chức vô địch quốc gia cùng suất đại diện Việt Nam tại các giải đấu khu vực và quốc tế trong thời gian tới, một sân chơi có ý nghĩa quan trọng không kém các giải đấu Liên Quân Mobile như [APL 2026 hiện đang bước vào tuần chung kết tại Đà Nẵng](/articles/apl-2026-tuan-chung-ket-da-nang-fpt-polytechnic.html) đối với cộng đồng esports Việt Nam.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xwXYmCqXo7Y/hqdefault.jpg" alt="Highlights trận chung kết VCS mùa Hè 2026 giữa Saigon Warriors và Saigon Dino" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xwXYmCqXo7Y/hqdefault.jpg" alt="Highlights trận chung kết VCS mùa Hè 2026 giữa Saigon Warriors và Saigon Dino" loading="lazy" width="1280" height="720">
   <figcaption>Trận chung kết mùa Hè giữa Saigon Warriors và Saigon Dino quyết định tấm vé trực tiếp thứ hai vào giai đoạn Chung Kết VCS 2026. Nguồn: YouTube</figcaption>
 </figure>
 
 ## Áp lực dồn về giai đoạn Chung Kết tháng 8
 
 <figure>
-  <img src="https://i.ytimg.com/vi/-u_V5GVXeGI/hqdefault.jpg" alt="Saigon Dino thi đấu tại vòng playoff VCS 2026 mùa Hè" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-u_V5GVXeGI/hqdefault.jpg" alt="Saigon Dino thi đấu tại vòng playoff VCS 2026 mùa Hè" loading="lazy" width="1280" height="720">
   <figcaption>Các đội tuyển còn lại của VCS 2026 sẽ tiếp tục cạnh tranh ở vòng playoff tổng trước khi bước vào giai đoạn Chung Kết tháng 8. Nguồn: YouTube</figcaption>
 </figure>
 

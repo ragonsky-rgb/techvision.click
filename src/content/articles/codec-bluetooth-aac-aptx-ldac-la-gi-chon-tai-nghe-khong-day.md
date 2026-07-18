@@ -76,7 +76,7 @@ SBC là codec cơ bản mọi thiết bị Bluetooth đều có, đủ dùng cho
 Với Android, hệ aptX của Qualcomm rất đáng chú ý, gồm aptX cho chất lượng tốt, aptX HD cho độ phân giải cao hơn, aptX Adaptive cân bằng chất lượng và độ trễ, và aptX Lossless hướng tới âm thanh gần như không mất dữ liệu. LDAC của Sony nhắm tới người mê âm thanh hi-res với bitrate cao. Mới hơn, LC3 đi cùng Bluetooth LE Audio cải thiện hiệu quả và độ trễ, là tương lai của âm thanh không dây.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/rRxF8uXXYh0/maxresdefault.jpg" alt="Giải thích các codec Bluetooth đang phổ biến" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rRxF8uXXYh0/maxresdefault.jpg" alt="Giải thích các codec Bluetooth đang phổ biến" loading="lazy" width="1280" height="720">
   <figcaption>Mỗi codec có thế mạnh riêng về chất lượng và độ trễ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ LDAC chẳng hạn, có thể chạy ở ba mức bitrate khác nhau và tự h�
 Độ trễ là yếu tố ít được quảng cáo nhưng ảnh hưởng rõ khi xem phim hoặc chơi game. Độ trễ cao khiến âm thanh lệch so với hình ảnh, gây khó chịu. Các codec và chế độ độ trễ thấp như aptX Adaptive ở mode low latency, hoặc codec LC3 của Bluetooth LE Audio, giúp giảm đáng kể khoảng lệch này. Người chủ yếu xem nội dung video nên ưu tiên yếu tố này thay vì bitrate tối đa.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/oLHsvJi3KfA/maxresdefault.jpg" alt="Hướng dẫn cho người mới về các codec Bluetooth trước khi mua tai nghe" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/oLHsvJi3KfA/maxresdefault.jpg" alt="Hướng dẫn cho người mới về các codec Bluetooth trước khi mua tai nghe" loading="lazy" width="1280" height="720">
   <figcaption>Bitrate cao không phải lúc nào cũng đồng nghĩa với trải nghiệm nghe tốt hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ LE Audio còn mở ra các tính năng mới ngoài chất lượng thuần túy
 Với người đang chọn mua tai nghe trong giai đoạn chuyển giao này, một thiết bị hỗ trợ cả các codec quen thuộc lẫn LC3 sẽ bền tương lai hơn. Dù vậy, cũng không cần vội thay tai nghe chỉ vì LC3, vì các codec hiện có vẫn cho trải nghiệm tốt và hệ sinh thái LE Audio cần thêm thời gian để đầy đủ. Tư duy chọn theo nhu cầu thực tế này cũng đúng khi cân nhắc cấu hình phần cứng nói chung, như khi quyết định [màn hình OLED hay LCD phù hợp hơn](/articles/man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/zOaYhLgNV4E/hqdefault.jpg" alt="Cách thiết lập codec âm thanh Bluetooth trên điện thoại Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zOaYhLgNV4E/hqdefault.jpg" alt="Cách thiết lập codec âm thanh Bluetooth trên điện thoại Android" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều máy Android cho phép chọn codec Bluetooth trong phần cài đặt nhà phát triển. Nguồn: YouTube</figcaption>
 </figure>
 

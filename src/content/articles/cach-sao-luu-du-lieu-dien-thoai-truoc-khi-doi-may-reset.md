@@ -76,7 +76,7 @@ Android sao lưu chủ yếu theo tài khoản Google. Vào Cài đặt, tìm m�
 Với máy Samsung, công cụ Smart Switch cho phép chuyển dữ liệu nhanh giữa hai máy qua cáp hoặc không dây, kể cả từ iPhone sang. Các hãng khác cũng có công cụ tương tự. Khi chuyển từ Android sang iPhone hoặc ngược lại, có ứng dụng chính thức hỗ trợ di chuyển danh bạ, ảnh và tin nhắn, giúp việc đổi hệ điều hành bớt phiền hà.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kRjwUiS3C70/maxresdefault.jpg" alt="Cách dùng Smart Switch chuyển dữ liệu trên điện thoại Galaxy" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/kRjwUiS3C70/maxresdefault.jpg" alt="Cách dùng Smart Switch chuyển dữ liệu trên điện thoại Galaxy" loading="lazy" width="1280" height="720">
   <figcaption>Smart Switch chuyển nhanh dữ liệu giữa hai máy qua cáp hoặc không dây. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Nhiều người sao lưu ảnh và danh bạ rất kỹ nhưng lại quên các
 Một nhóm dữ liệu khác hay bị quên là nội dung trong các ứng dụng làm việc và trò chơi. Tiến trình game, tài liệu trong ứng dụng văn phòng hay thiết lập riêng của một số app chỉ được giữ lại nếu chúng đồng bộ với tài khoản trực tuyến. Trước khi reset, hãy mở lần lượt những ứng dụng quan trọng nhất, đăng nhập tài khoản và bật đồng bộ để chắc chắn dữ liệu được lưu trên máy chủ. Dành ít phút rà soát danh sách này giúp tránh tình huống khôi phục máy xong mới phát hiện thiếu những thứ không thể lấy lại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/RqO4owZNinQ/maxresdefault.jpg" alt="Chuyển đổi dữ liệu từ thiết bị Android sang Galaxy" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/RqO4owZNinQ/maxresdefault.jpg" alt="Chuyển đổi dữ liệu từ thiết bị Android sang Galaxy" loading="lazy" width="1280" height="720">
   <figcaption>Kiểm tra dữ liệu trong từng ứng dụng giúp tránh bỏ sót khi sao lưu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Một nhóm dữ liệu khác hay bị quên là nội dung trong các ứng d�
 Trước khi xóa máy, ngoài việc sao lưu đầy đủ, có vài bước quan trọng dễ bị quên. Đầu tiên, đăng xuất tài khoản iCloud trên iPhone hoặc xóa tài khoản Google trên Android để gỡ khóa kích hoạt, nếu không máy mới hoặc người mua lại sẽ không dùng được. Đây cũng là điều cần kiểm tra khi mua máy cũ, như đã nêu trong bài [cách kiểm tra iPhone cũ trước khi mua](/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Tctwm8GADKs/maxresdefault.jpg" alt="Cách sao lưu dữ liệu trên điện thoại Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Tctwm8GADKs/maxresdefault.jpg" alt="Cách sao lưu dữ liệu trên điện thoại Android" loading="lazy" width="1280" height="720">
   <figcaption>Bật sao lưu Google One giúp khôi phục nhanh khi đổi máy. Nguồn: YouTube</figcaption>
 </figure>
 

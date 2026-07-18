@@ -76,7 +76,7 @@ Tên gọi ProPanel xuất phát từ việc Acer nâng cấp đáng kể chất
 Một điểm khác biệt lớn khác của Nitro ProPanel AN16S so với các mẫu laptop gaming truyền thống nằm ở thiết kế mỏng nhẹ. Với độ dày chỉ 19,9mm và trọng lượng khoảng 2,18kg, đây được xem là một trong những laptop gaming trang bị GPU rời cao cấp mỏng nhẹ nhất hiện có trên thị trường Việt Nam, giúp việc mang theo máy đi học, đi làm hay di chuyển thường xuyên trở nên dễ dàng hơn đáng kể so với các mẫu laptop gaming dày cộp truyền thống.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/bohiNFBPrho/hqdefault.jpg" alt="Acer Nitro ProPanel AN16S-61 với thiết kế mới, cấu hình mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bohiNFBPrho/hqdefault.jpg" alt="Acer Nitro ProPanel AN16S-61 với thiết kế mới, cấu hình mới" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế mới của Nitro ProPanel AN16S-61 hướng tới sự cân bằng giữa hiệu năng và tính di động. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Việc đạt được độ mỏng này trong khi vẫn duy trì hiệu năng �
 Phiên bản cao cấp nhất của dòng Nitro ProPanel, trang bị GPU RTX 5070 8GB, có giá khởi điểm dao động khoảng 50 đến 60 triệu đồng tùy cấu hình RAM và dung lượng ổ cứng cụ thể mà người mua lựa chọn. Ngoài phiên bản đầu bảng, dòng sản phẩm còn có các tùy chọn thấp hơn dùng GPU RTX 5060, mức giá dễ tiếp cận hơn cho nhóm khách hàng có ngân sách hạn chế hơn nhưng vẫn muốn trải nghiệm tấm nền ProPanel cao cấp.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Gx4hSEBB-z4/hqdefault.jpg" alt="Acer Nitro ProPanel AN16S-61 bước chuyển mình của dòng Nitro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Gx4hSEBB-z4/hqdefault.jpg" alt="Acer Nitro ProPanel AN16S-61 bước chuyển mình của dòng Nitro" loading="lazy" width="1280" height="720">
   <figcaption>Nitro ProPanel đánh dấu bước chuyển mình lớn của dòng laptop gaming phổ thông Acer. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Phiên bản cao cấp nhất của dòng Nitro ProPanel, trang bị GPU RTX 507
 Với những game thủ đang cân nhắc nâng cấp dàn máy chơi game, việc chọn một laptop gaming có màn hình chất lượng cao như Nitro ProPanel cũng nên đi kèm với việc đầu tư phụ kiện phù hợp, tương tự gợi ý trong bài viết về [cách chọn tản nhiệt CPU 2026](/articles/cach-chon-tan-nhiet-cpu-2026-tieu-chi.html) dành cho những ai build thêm dàn PC để bàn song song với laptop, hoặc tham khảo thêm các lựa chọn laptop hai màn hình như [ASUS Zenbook Duo 2026](/articles/asus-zenbook-duo-2026-laptop-2-man-hinh-oled-panther-lake.html) nếu ưu tiên đa nhiệm hơn là chơi game thuần túy. Đây cũng là thời điểm sôi động của làng game thủ Việt khi các giải đấu quốc tế như [MSI 2026 vừa khép lại với kết quả gây chấn động](/articles/t1-thua-g2-msi-2026-bi-loai-som-nhat-lich-su.html), càng khiến nhu cầu nâng cấp thiết bị chơi game và xem giải đấu tăng cao trong giai đoạn này.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/87SnDMTFkm0/hqdefault.jpg" alt="Acer Nitro V 16 ProPanel với hiệu năng khủng, giá hợp lý" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/87SnDMTFkm0/hqdefault.jpg" alt="Acer Nitro V 16 ProPanel với hiệu năng khủng, giá hợp lý" loading="lazy" width="1280" height="720">
   <figcaption>Dòng Nitro ProPanel còn có nhiều tùy chọn cấu hình khác nhau phù hợp từng phân khúc giá. Nguồn: YouTube</figcaption>
 </figure>
 

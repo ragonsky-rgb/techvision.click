@@ -70,7 +70,7 @@ Với những đội ngũ kỹ thuật tại Việt Nam đang xây dựng sản 
 DeepSeek-V4 được xây dựng trên kiến trúc Mixture-of-Experts, cơ chế chỉ kích hoạt một phần nhỏ mạng nơ-ron cho mỗi lượt xử lý thay vì toàn bộ mô hình, giúp tiết kiệm đáng kể tài nguyên tính toán so với model đặc (dense model) cùng quy mô tham số. Phiên bản V4-Pro sở hữu tổng cộng khoảng 1,6 nghìn tỷ tham số, trong khi V4-Flash gọn nhẹ hơn với 284 tỷ tham số tổng nhưng chỉ kích hoạt 13 tỷ tham số mỗi lượt suy luận. Cả hai đều hỗ trợ cửa sổ ngữ cảnh mặc định lên tới 1 triệu token, đủ để xử lý toàn bộ một cuốn sách dài hoặc kho mã nguồn cỡ trung bình trong một lượt gọi duy nhất.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XJUpuOBpT-4/hqdefault.jpg" alt="Kiến trúc Mixture of Experts của DeepSeek V4 minh hoạ qua các thử nghiệm thực tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XJUpuOBpT-4/hqdefault.jpg" alt="Kiến trúc Mixture of Experts của DeepSeek V4 minh hoạ qua các thử nghiệm thực tế" loading="lazy" width="1280" height="720">
   <figcaption>DeepSeek-V4 sử dụng kiến trúc lai kết hợp Compressed Sparse Attention và Heavily Compressed Attention để tối ưu hiệu suất xử lý ngữ cảnh dài. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ DeepSeek-V4 được xây dựng trên kiến trúc Mixture-of-Experts, cơ ch�
 Ngày 27/6/2026, DeepSeek tiếp tục gây bất ngờ khi công bố DSpark, một khung suy đoán giải mã (speculative decoding) được phát triển hợp tác cùng Đại học Bắc Kinh. Cơ chế của DSpark không thay đổi kiến trúc gốc của model, mà bổ sung một module giải mã tích hợp vào nền tảng V4-Pro để tối ưu hiệu suất vận hành. Kỹ thuật suy đoán giải mã hoạt động bằng cách dùng một model nhẹ tạo trước các phương án dự đoán token tiếp theo, sau đó model chính chỉ cần xác minh lại thay vì phải sinh tuần tự từng token, qua đó giảm đáng kể thời gian xử lý và lãng phí tính toán mà không làm thay đổi chất lượng câu trả lời cuối cùng.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/9UO1kjR1_0A/hqdefault.jpg" alt="So sánh tốc độ phản hồi trước và sau khi áp dụng DSpark trên DeepSeek V4" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9UO1kjR1_0A/hqdefault.jpg" alt="So sánh tốc độ phản hồi trước và sau khi áp dụng DSpark trên DeepSeek V4" loading="lazy" width="1280" height="720">
   <figcaption>DeepSeek công bố tốc độ sinh phản hồi cho một người dùng có thể tăng từ 60% tới 85% ở cùng mức thông lượng khi áp dụng DSpark. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Theo số liệu DeepSeek công bố, tốc độ sinh phản hồi cho một ng
 ## Giá rẻ tiếp tục là vũ khí cạnh tranh chính của DeepSeek
 
 <figure>
-  <img src="https://i.ytimg.com/vi/1vTTIUugGr8/hqdefault.jpg" alt="Benchmark hiệu năng DeepSeek V4 Pro và Flash so với các model đối thủ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1vTTIUugGr8/hqdefault.jpg" alt="Benchmark hiệu năng DeepSeek V4 Pro và Flash so với các model đối thủ" loading="lazy" width="1280" height="720">
   <figcaption>Các bài test benchmark thực tế cho thấy DeepSeek-V4 duy trì tỷ lệ hiệu năng trên chi phí thuộc nhóm tốt nhất thị trường. Nguồn: YouTube</figcaption>
 </figure>
 

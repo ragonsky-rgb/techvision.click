@@ -76,7 +76,7 @@ Không chỉ Pacific, cả bốn khu vực lớn của Valorant đều đồng l
 Đích đến của mọi nỗ lực ở Stage 2 chính là Valorant Champions 2026, giải đấu diễn ra từ 24/9 tới 18/10. Đây là sự kiện lớn nhất năm của bộ môn, quy tụ 16 đội mạnh nhất thế giới tranh tổng giải thưởng lên tới 2,25 triệu USD. Chức vô địch Champions là danh hiệu cao quý nhất mà một đội Valorant có thể đạt được, tương đương ngôi vô địch thế giới ở các bộ môn khác.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/VmsTui8-7No/hqdefault.jpg" alt="Các đội VCT Pacific tranh tài trong vòng playoff" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VmsTui8-7No/hqdefault.jpg" alt="Các đội VCT Pacific tranh tài trong vòng playoff" loading="lazy" width="1280" height="720">
   <figcaption>Thành tích playoff Stage 2 kết hợp điểm VCT quyết định tấm vé dự Champions. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Cách bố trí lịch thi đấu này tạo nên một mùa giải có cao trà
 Điểm khiến VCT Pacific 2026 đặc biệt với khán giả trong nước là việc vòng chung kết Stage 1 được tổ chức ngay tại TP.HCM. Đây là tín hiệu cho thấy Việt Nam đang trở thành điểm đến đáng chú ý của Valorant khu vực, bên cạnh vị thế vốn có ở các bộ môn như Liên Quân Mobile hay Liên Minh Huyền Thoại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/xXEA5fW4IFs/hqdefault.jpg" alt="Khán giả Việt Nam theo dõi các trận đấu VCT Pacific" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xXEA5fW4IFs/hqdefault.jpg" alt="Khán giả Việt Nam theo dõi các trận đấu VCT Pacific" loading="lazy" width="1280" height="720">
   <figcaption>Việc đăng cai chung kết Stage 1 tại TP.HCM phản ánh sức hút của Valorant tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Khu vực Pacific quy tụ nhiều đội mạnh của châu Á Thái Bình Dư�
 ## Điều chờ đợi ở Stage 2
 
 <figure>
-  <img src="https://i.ytimg.com/vi/0iIaDh38PMs/hqdefault.jpg" alt="Các đội tuyển chuẩn bị cho VCT Pacific 2026 Stage 2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0iIaDh38PMs/hqdefault.jpg" alt="Các đội tuyển chuẩn bị cho VCT Pacific 2026 Stage 2" loading="lazy" width="1280" height="720">
   <figcaption>Stage 2 hứa hẹn nhiều bất ngờ khi các đội dồn toàn lực cho tấm vé dự Champions. Nguồn: YouTube</figcaption>
 </figure>
 

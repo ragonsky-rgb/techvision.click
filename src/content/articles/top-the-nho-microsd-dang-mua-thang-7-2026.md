@@ -70,7 +70,7 @@ Ngoài dung lượng, người mua ở phân khúc giá tốt cũng nên chú ý
 Ở phân khúc tầm trung, thẻ nhớ đạt chuẩn tốc độ ứng dụng A2 là lựa chọn nổi bật, phù hợp máy chơi game cầm tay như Steam Deck cần tải game nhanh và mượt mà từ thẻ nhớ mở rộng. Chuẩn A2 giúp giảm đáng kể tình trạng giật lag khi load màn chơi mới trong game, mang lại trải nghiệm chơi game gần như tương đương với việc chạy game trực tiếp từ ổ cứng trong của máy.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/kgjI0b5NIEI/hqdefault.jpg" alt="The nho microSD tot nhat cho Steam Deck" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/kgjI0b5NIEI/hqdefault.jpg" alt="The nho microSD tot nhat cho Steam Deck" loading="lazy" width="1280" height="480">
   <figcaption>Gợi ý thẻ nhớ microSD tốt nhất cho Steam Deck và các máy chơi game cầm tay khác. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,14 +79,14 @@ Ngoài dung lượng, người mua ở phân khúc giá tốt cũng nên chú ý
 Với nhu cầu quay video chuyên nghiệp bằng flycam và máy ảnh hành động ngoài trời, thẻ nhớ cao cấp dung lượng 512GB-1TB có khả năng chống nước, chống sốc là lựa chọn đáng đầu tư nhất. Độ bền cao giúp bảo vệ dữ liệu tốt hơn trong điều kiện sử dụng khắc nghiệt như mưa, va đập hay môi trường bụi bặm, đặc biệt quan trọng với những chuyến đi dài ngày nơi việc mất dữ liệu ảnh và video kỷ niệm là điều không thể khắc phục được.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/syu0AmacLgw/hqdefault.jpg" alt="Giai thich chuan toc do the nho SD Card can biet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/syu0AmacLgw/hqdefault.jpg" alt="Giai thich chuan toc do the nho SD Card can biet" loading="lazy" width="1280" height="480">
   <figcaption>Hiểu rõ các chuẩn tốc độ trên thẻ nhớ giúp người dùng chọn đúng sản phẩm phù hợp nhu cầu quay video chuyên nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
 Việc hiểu rõ các chuẩn tốc độ này đặc biệt quan trọng khi mua thẻ nhớ cho flycam, vì nhiều dòng flycam cao cấp hiện nay quay video độ phân giải 6K hoặc 8K, đòi hỏi tốc độ ghi ổn định vượt xa yêu cầu của video 4K thông thường để tránh hiện tượng rớt khung hình giữa chừng khi đang ghi hình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/iwRE77wPHJg/hqdefault.jpg" alt="The nho microSD tot nhat cho flycam DJI va camera" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/iwRE77wPHJg/hqdefault.jpg" alt="The nho microSD tot nhat cho flycam DJI va camera" loading="lazy" width="1280" height="480">
   <figcaption>Thẻ nhớ microSD cao cấp chống nước, chống sốc phù hợp quay video chuyên nghiệp bằng flycam DJI và máy ảnh hành động. Nguồn: YouTube</figcaption>
 </figure>
 

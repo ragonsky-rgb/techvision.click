@@ -66,7 +66,7 @@ HKC gây chú ý lớn tại CES và Computex 2026 khi trình làng M10 Ultra, m
 Lớp đèn nền của M10 Ultra sở hữu tới 4.788 vùng làm mờ độc lập, con số cao vượt trội so với đa số màn hình Mini LED trên thị trường hiện nay vốn thường chỉ có vài trăm tới hơn một nghìn vùng làm mờ, giúp kiểm soát độ sáng và độ tối chi tiết hơn nhiều ở từng khu vực nhỏ trên màn hình, cải thiện đáng kể độ tương phản tổng thể trong các cảnh có cả vùng sáng và vùng tối cùng lúc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/POOAiWVRzXo/hqdefault.jpg" alt="HKC M10 Ultra man hinh gaming 4K 144Hz Mini LED danh gia" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/POOAiWVRzXo/hqdefault.jpg" alt="HKC M10 Ultra man hinh gaming 4K 144Hz Mini LED danh gia" loading="lazy" width="1280" height="480">
   <figcaption>Đánh giá chi tiết màn hình gaming HKC M10 Ultra độ phân giải 4K, tần số quét cao và công nghệ Mini LED. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Lớp đèn nền của M10 Ultra sở hữu tới 4.788 vùng làm mờ độc 
 Về màn hình, M10 Ultra sử dụng tấm nền Fast VA kích thước 31,5 inch, độ phân giải 4K (3840x2160), tần số quét 165Hz, đủ đáp ứng tốt nhu cầu chơi game AAA đồ họa cao lẫn công việc sáng tạo nội dung chuyên nghiệp. Đáng chú ý, màn hình còn hỗ trợ chế độ kép chuyển sang độ phân giải 1080p ở tần số quét lên tới 330Hz, phù hợp game thủ thi đấu cạnh tranh cần tốc độ khung hình cực cao trong các tựa game bắn súng góc nhìn thứ nhất, nơi tần số quét cao mang lại lợi thế phản xạ đáng kể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/I5RbMXVN_-w/hqdefault.jpg" alt="HKC RGB Mini LED 1000Hz gaming Computex 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/I5RbMXVN_-w/hqdefault.jpg" alt="HKC RGB Mini LED 1000Hz gaming Computex 2026" loading="lazy" width="1280" height="480">
   <figcaption>Tổng hợp công nghệ RGB Mini LED và các màn hình gaming tốc độ cao mới nhất tại Computex 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ HKC dự kiến bán M10 Ultra với giá khoảng 899 USD tại thị trường
 Sự xuất hiện của công nghệ RGB Mini LED cũng đặt ra câu hỏi về tương lai cạnh tranh giữa các công nghệ hiển thị hiện có, khi OLED vẫn giữ ưu thế về độ tương phản và độ đen tuyệt đối, trong khi RGB Mini LED hứa hẹn độ sáng cao hơn và không lo hiện tượng lưu ảnh burn-in vốn là nhược điểm cố hữu của OLED. Trước khi quyết định đầu tư vào công nghệ màn hình mới, người dùng cũng nên tham khảo thêm [cách chọn màn hình máy tính theo tấm nền, độ phân giải và tần số quét](/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html) để hiểu rõ hơn các yếu tố kỹ thuật quan trọng cần cân nhắc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/lNVgasSaumY/hqdefault.jpg" alt="HKC Koorui AntGamer Computex 2026 man hinh gaming" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/lNVgasSaumY/hqdefault.jpg" alt="HKC Koorui AntGamer Computex 2026 man hinh gaming" loading="lazy" width="1280" height="480">
   <figcaption>Tổng hợp các mẫu màn hình gaming mới nhất từ HKC, KOORUI và ANTGAMER trưng bày tại Computex 2026. Nguồn: YouTube</figcaption>
 </figure>
 

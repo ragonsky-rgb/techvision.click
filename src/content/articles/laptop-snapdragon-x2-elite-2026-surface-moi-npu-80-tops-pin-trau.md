@@ -76,7 +76,7 @@ Microsoft đã làm mới Surface Pro và Surface Laptop, dùng chip Snapdragon 
 Không chỉ Microsoft, Lenovo giới thiệu Yoga Slim 7x với bản X2 Elite 18 nhân, màn OLED 2.8K và pin tới 29 giờ, giá tham khảo quanh 950 USD. Asus cũng có Zenbook A14 siêu nhẹ chạy chip mới. Làn sóng sản phẩm phong phú này cho thấy các hãng đang đặt cược lớn vào laptop AI nền ARM trong 2026.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/gkEiRcxA2kM/maxresdefault.jpg" alt="Đánh giá hiệu năng chip Snapdragon X2 Elite trên laptop" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gkEiRcxA2kM/maxresdefault.jpg" alt="Đánh giá hiệu năng chip Snapdragon X2 Elite trên laptop" loading="lazy" width="1280" height="720">
   <figcaption>Snapdragon X2 Elite gây ấn tượng về hiệu năng lẫn thời lượng pin. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Con số 80 TOPS của NPU thường bị xem là thông số marketing, nhưng 
 Lợi thế của việc xử lý AI cục bộ là dữ liệu không phải rời khỏi máy, giảm độ trễ và bảo vệ quyền riêng tư tốt hơn so với xử lý trên đám mây. Khi các mô hình ngôn ngữ nhỏ chạy trực tiếp trên thiết bị ngày càng phổ biến, một NPU mạnh sẽ là yếu tố giúp laptop dùng được lâu hơn trước khi lỗi thời về khả năng AI. Đây cũng là điểm Qualcomm nhấn mạnh để cạnh tranh với chip Intel Core Ultra và AMD Ryzen AI cùng phân khúc.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/Qu76JY0RjU4/maxresdefault.jpg" alt="Snapdragon X2 Elite so sánh hiệu năng với MacBook" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Qu76JY0RjU4/maxresdefault.jpg" alt="Snapdragon X2 Elite so sánh hiệu năng với MacBook" loading="lazy" width="1280" height="720">
   <figcaption>X2 Elite được so sánh trực tiếp với chip Apple Silicon về hiệu năng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Trong nhóm chip ARM cho laptop, đối thủ trực tiếp của Snapdragon X2 
 So với chip x86 truyền thống của Intel và AMD, ưu thế của X2 Elite nằm ở thời lượng pin và nhiệt độ thấp khi tải nhẹ, đổi lại là rủi ro tương thích phần mềm. Người dùng cần cân nhắc giữa hai nhóm ưu tiên: nếu coi trọng pin và độ mát thì nền ARM hấp dẫn hơn, còn nếu cần chạy mọi phần mềm chuyên dụng không gặp trở ngại thì nền x86 vẫn an toàn hơn ở thời điểm hiện tại.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/efXmm7aeGO4/maxresdefault.jpg" alt="Qualcomm Snapdragon X2 Elite 18 nhân 5GHz 80 TOPS" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/efXmm7aeGO4/maxresdefault.jpg" alt="Qualcomm Snapdragon X2 Elite 18 nhân 5GHz 80 TOPS" loading="lazy" width="1280" height="720">
   <figcaption>X2 Elite với 18 nhân, xung tới 5GHz và NPU 80 TOPS. Nguồn: YouTube</figcaption>
 </figure>
 

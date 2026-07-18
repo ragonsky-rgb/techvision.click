@@ -82,14 +82,14 @@ Sản phẩm họ tạo ra là Cursor, một trình soạn thảo mã tích hợ
 Kết quả là tốc độ tăng trưởng hiếm thấy. Cursor nhanh chóng trở thành công cụ lập trình AI được giới kỹ sư phần mềm chuyên nghiệp ưa dùng nhất, lan truyền tự nhiên trong cộng đồng phát triển. Doanh thu định kỳ năm của công ty vượt mốc 1 tỷ USD vào cuối năm 2025, và Anysphere từng được định giá tới 29,3 tỷ USD. Với một công ty mới bốn năm tuổi, đây là những con số gần như chưa có tiền lệ.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/deMrq2uzRKA/maxresdefault.jpg" alt="Michael Truell nói về cách Cursor xây dựng sản phẩm với tốc độ AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/deMrq2uzRKA/maxresdefault.jpg" alt="Michael Truell nói về cách Cursor xây dựng sản phẩm với tốc độ AI" loading="lazy" width="1280" height="720">
   <figcaption>Cursor được xây dựng bởi chính các lập trình viên muốn dùng công cụ đó. Nguồn: YouTube</figcaption>
 </figure>
 
 Thành công của Cursor cũng phản ánh một xu hướng lớn hơn: lập trình với sự hỗ trợ của AI đã đi từ tính năng phụ trợ thành trung tâm của quy trình phát triển phần mềm. Khi các công cụ AI giúp viết, sửa và kiểm thử mã nhanh hơn, năng suất của lập trình viên thay đổi rõ rệt, và Cursor đứng ở tâm điểm làn sóng đó. Người mới làm quen với AI có thể tham khảo thêm cách khai thác công cụ hiệu quả trong bài [cách viết prompt AI hiệu quả](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/En5cSXgGvZM/maxresdefault.jpg" alt="Sự trỗi dậy của Cursor công cụ AI lập trình tăng trưởng nhanh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/En5cSXgGvZM/maxresdefault.jpg" alt="Sự trỗi dậy của Cursor công cụ AI lập trình tăng trưởng nhanh" loading="lazy" width="1280" height="720">
   <figcaption>Cursor trở thành công cụ lập trình AI tăng trưởng nhanh bậc nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Tháng 6/2026, SpaceX của Elon Musk công bố mua lại Anysphere trong thư�
 Sở hữu Cursor mang lại cho nhóm công ty của Musk một sản phẩm thương mại trưởng thành, có tệp khách hàng kỹ sư và doanh nghiệp sẵn có, đủ sức cạnh tranh trực diện với các công cụ lập trình AI của Anthropic và OpenAI. Chi tiết về cấu trúc và ý nghĩa thương vụ được phân tích trong bài [SpaceX mua Cursor 60 tỷ USD](/articles/spacex-mua-cursor-anysphere-60-ty-usd-thuong-vu-startup-lon-nhat.html). Với Michael Truell, đây vừa là sự công nhận, vừa mở ra một chương mới khi sản phẩm của anh bước vào một đế chế công nghệ lớn hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/6sJMpKOsZU0/maxresdefault.jpg" alt="SpaceX mua Cursor AI 60 tỷ USD và những tác động" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6sJMpKOsZU0/maxresdefault.jpg" alt="SpaceX mua Cursor AI 60 tỷ USD và những tác động" loading="lazy" width="1280" height="720">
   <figcaption>Thương vụ đưa Cursor vào hệ sinh thái công nghệ của Elon Musk. Nguồn: YouTube</figcaption>
 </figure>
 
