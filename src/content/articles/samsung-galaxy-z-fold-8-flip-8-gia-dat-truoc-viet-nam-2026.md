@@ -113,3 +113,6 @@ Về kích thước, máy được cho là mỏng hơn khi mở, kích thước 
 <div class="art-callout">
   💡 <strong>Lưu ý:</strong> Toàn bộ thông số kỹ thuật và mức giá trong bài đều là thông tin dự kiến, tổng hợp từ nguồn rò rỉ và truyền thông quốc tế trước ngày ra mắt. Giá bán, cấu hình và chính sách bán hàng chính thức chỉ được xác nhận sau sự kiện Galaxy Unpacked ngày 22/7/2026. Người dùng nên kiểm tra trực tiếp tại đại lý chính hãng trước khi đặt cọc.
 </div>
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top điện thoại gập tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-dien-thoai-gap-tot-nhat-nua-dau-2026-theo-nhu-cau.html).

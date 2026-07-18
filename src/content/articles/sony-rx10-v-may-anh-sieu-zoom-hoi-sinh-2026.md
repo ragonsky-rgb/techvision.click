@@ -106,3 +106,6 @@ Với mức giá 2.299,99 USD và dự kiến lên kệ từ tháng 8/2026, RX10
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Giá bán và ngày lên kệ chính thức tại thị trường Việt Nam có thể khác với giá niêm yết tại Mỹ, tuỳ theo chính sách phân phối của Sony Việt Nam. Người mua nên liên hệ đại lý ủy quyền để cập nhật thông tin chính xác nhất.
 </div>
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top camera tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-camera-tot-nhat-nua-dau-2026-theo-nhu-cau.html).

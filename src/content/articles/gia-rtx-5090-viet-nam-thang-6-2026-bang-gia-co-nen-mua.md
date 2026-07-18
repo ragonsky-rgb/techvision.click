@@ -111,3 +111,6 @@ Lời khuyên thực tế cho người mua tại Việt Nam là theo dõi giá t
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bảng giá dựa trên niêm yết tại các đại lý lớn ở Việt Nam thời điểm tháng 7/2026 và có thể thay đổi theo nguồn cung GDDR7. LongTechVision sẽ cập nhật khi giá biến động hoặc khi RTX 5090 Ti được công bố chính thức.
 </div>
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top card đồ họa tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-card-do-hoa-tot-nhat-nua-dau-2026-theo-nhu-cau.html).
