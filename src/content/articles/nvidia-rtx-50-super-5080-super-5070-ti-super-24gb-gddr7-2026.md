@@ -101,3 +101,6 @@ Cần nhấn mạnh rằng toàn bộ thông số và lịch trình nêu trên �
 <div class="art-callout">
   ⚠️ <strong>Tin đồn:</strong> Thông số và lịch ra mắt RTX 50 Super tổng hợp từ Tom's Hardware, VideoCardz và TechPowerUp, đều là rò rỉ chưa được NVIDIA công bố. Cấu hình cuối cùng và giá bán có thể thay đổi, nhất là dưới tác động của khủng hoảng giá bộ nhớ 2026.
 </div>
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top card đồ họa tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-card-do-hoa-tot-nhat-nua-dau-2026-theo-nhu-cau.html).

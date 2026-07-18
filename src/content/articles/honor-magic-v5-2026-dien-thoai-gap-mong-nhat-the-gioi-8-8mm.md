@@ -111,3 +111,6 @@ Quan trọng hơn cả là cân nhắc nhu cầu thực sự với màn hình g�
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp từ thông tin của Honor và các đánh giá về Magic V5. Thông số chi tiết và giá bán có thể khác theo phiên bản và thị trường. LongTechVision sẽ cập nhật khi có thông tin mới.
 </div>
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top điện thoại gập tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-dien-thoai-gap-tot-nhat-nua-dau-2026-theo-nhu-cau.html).
