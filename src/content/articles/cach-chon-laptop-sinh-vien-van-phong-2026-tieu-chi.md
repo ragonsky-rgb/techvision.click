@@ -113,3 +113,6 @@ Cuối cùng, cân nhắc giữa máy mới và máy cũ. Máy mới yên tâm v
 <div class="art-callout">
   ✅ <strong>Tóm lại:</strong> Chọn laptop theo nhu cầu và ngành học, ưu tiên RAM 16GB và SSD, màn IPS Full HD, pin tốt nếu hay di chuyển. Trong bối cảnh giá RAM tăng, hãy chọn cấu hình vừa đủ và dồn ngân sách cho thứ thực sự dùng tới.
 </div>
+
+
+Nếu bạn còn phân vân giữa các loại sản phẩm trước khi chọn, có thể tham khảo bài so sánh [Laptop mỏng nhẹ hay laptop gaming: chọn loại nào 2026?](/articles/laptop-van-phong-mong-nhe-hay-laptop-gaming-chon-loai-nao-2026.html) để hiểu rõ ưu nhược điểm từng loại và quyết định phù hợp với nhu cầu.
