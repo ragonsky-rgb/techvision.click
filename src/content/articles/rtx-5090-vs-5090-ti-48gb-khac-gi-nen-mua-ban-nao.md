@@ -123,3 +123,6 @@ Một bản card tiêu dùng với dung lượng nhớ lớn vì vậy lấp đ�
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Thông số RTX 5090 Ti trong bài dựa trên tin đồn từ các nguồn phần cứng, chưa được NVIDIA xác nhận. LongTechVision sẽ cập nhật khi RTX 5090 Ti ra mắt chính thức cùng giá bán và hiệu năng thực tế.
 </div>
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top card đồ họa tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-card-do-hoa-tot-nhat-nua-dau-2026-theo-nhu-cau.html).

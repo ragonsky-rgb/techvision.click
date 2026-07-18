@@ -98,3 +98,6 @@ Với những nhiếp ảnh gia đang cân nhắc đầu tư vào một hệ th�
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp từ Leica, Digital Camera World và CineD. Giá bán và thông tin phân phối tại Việt Nam có thể thay đổi theo thời điểm.
 </div>
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top camera tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-camera-tot-nhat-nua-dau-2026-theo-nhu-cau.html).

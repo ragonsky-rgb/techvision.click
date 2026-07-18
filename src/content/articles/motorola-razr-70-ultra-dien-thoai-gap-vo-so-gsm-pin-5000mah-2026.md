@@ -103,3 +103,6 @@ Về bản lề gập, Motorola tiếp tục sử dụng cơ chế giọt nướ
 </div>
 
 Nhìn chung, dù mức nâng cấp năm nay không quá lớn, Razr 70 Ultra vẫn cho thấy Motorola tiếp tục kiên định với triết lý màn hình phụ đa năng, một hướng đi khác biệt so với Samsung trong cuộc đua điện thoại gập vỏ sò, giúp người dùng có thêm lựa chọn phù hợp với thói quen sử dụng của riêng mình.
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top điện thoại gập tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-dien-thoai-gap-tot-nhat-nua-dau-2026-theo-nhu-cau.html).

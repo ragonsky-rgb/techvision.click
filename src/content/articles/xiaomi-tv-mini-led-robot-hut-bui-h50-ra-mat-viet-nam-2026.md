@@ -105,3 +105,6 @@ Dù vậy, mức độ hoàn thiện chi tiết và một số tính năng phầ
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Giá bán cụ thể theo từng kích thước TV và phiên bản robot hút bụi có thể thay đổi theo chương trình khuyến mãi tại từng thời điểm. Người mua nên kiểm tra trực tiếp tại hệ thống Mi Việt Nam hoặc đại lý ủy quyền để có thông tin giá và tình trạng hàng cập nhật mới nhất.
 </div>
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top smart tivi tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-smart-tivi-tot-nhat-nua-dau-2026-theo-nhu-cau.html).

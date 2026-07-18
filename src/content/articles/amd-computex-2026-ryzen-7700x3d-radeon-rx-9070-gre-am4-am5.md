@@ -111,3 +111,6 @@ Như thường lệ, giá bán tại Việt Nam có thể cao hơn giá đề xu
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp từ các công bố của AMD tại Computex 2026. Giá và thời điểm bán có thể thay đổi theo thị trường. LongTechVision sẽ cập nhật khi có thông tin chính thức tại Việt Nam.
 </div>
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top card đồ họa tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-card-do-hoa-tot-nhat-nua-dau-2026-theo-nhu-cau.html).
