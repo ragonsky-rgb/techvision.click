@@ -269,7 +269,7 @@ const breadcrumbLd = {
 
     <p class="art-deck">{deck}</p>
 
-    <img class="art-hero" src={heroImage} alt={heroAlt || title} loading="eager" fetchpriority="high" width={isYtMaxres ? 1280 : undefined} height={isYtMaxres ? 720 : undefined} onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')" />
+    <img class="art-hero" src={heroImage} alt={heroAlt || title} loading="eager" fetchpriority="high" decoding="async" width={isYtMaxres ? 1280 : undefined} height={isYtMaxres ? 720 : undefined} onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')" />
     {heroCaption && <p class="art-hero-caption">{heroCaption}</p>}
 
     <div class="art-tldr">
@@ -335,7 +335,7 @@ const breadcrumbLd = {
     )}
 
     <div class="art-author-card">
-      <img class="author-avatar" src="/uploads/favicon-avatar.jpg" alt="Nguyễn Tấn Thiên Long" loading="lazy" />
+      <img class="author-avatar" src="/uploads/favicon-avatar.jpg" alt="Nguyễn Tấn Thiên Long" width="60" height="60" loading="lazy" decoding="async" />
       <div class="author-info">
         <div class="author-name">Nguyễn Tấn Thiên Long</div>
         <div class="author-bio">{bio}</div>
