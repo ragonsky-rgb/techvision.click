@@ -105,3 +105,6 @@ Trước khi quyết định xuống tiền, người dùng nên dành thời gi
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp từ CellphoneS, Hoàng Hà Mobile, Thế Giới Di Động và các nguồn đánh giá người dùng thực tế. Giá bán có thể thay đổi theo từng thời điểm và chương trình khuyến mãi tại các hệ thống bán lẻ. LongTechVision sẽ cập nhật định kỳ theo diễn biến thị trường.
 </div>
+
+
+Để có cái nhìn tổng quan hơn cho cả nửa năm, bạn có thể xem thêm bài [Top điện thoại tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-dien-thoai-tot-nhat-nua-dau-2026-theo-nhu-cau.html).
