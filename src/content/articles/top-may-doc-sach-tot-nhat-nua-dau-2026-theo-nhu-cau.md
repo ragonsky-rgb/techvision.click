@@ -85,7 +85,7 @@ Một câu hỏi thường gặp là nên chọn máy đọc sách hay máy tín
 
 ## Cách chọn máy đọc sách phù hợp
 
-Khi chọn máy đọc sách, bạn nên xác định rõ thói quen đọc, nhu cầu ghi chú và loại nội dung mình đọc, vì những yếu tố này quyết định máy phù hợp. Ngoài ra, kích thước màn hình, độ phân giải, đèn nền điều chỉnh nhiệt màu để đọc ban đêm, khả năng chống nước cho người thích đọc khi thư giãn, cùng hệ sinh thái sách và ngân sách cũng rất quan trọng. Bạn nên chọn kích thước vừa tay và phù hợp với nơi mình hay đọc. Người thích cầm đọc trên tay lâu sẽ ưu tiên máy nhẹ và màn hình vừa phải, trong khi người hay đọc tài liệu, PDF lại cần màn hình lớn hơn để hiển thị rõ ràng.
+Khi chọn máy đọc sách, bạn nên xác định rõ thói quen đọc, nhu cầu ghi chú và loại nội dung mình đọc, vì những yếu tố này quyết định máy phù hợp. Ngoài ra, kích thước màn hình, độ phân giải, đèn nền điều chỉnh nhiệt màu để đọc ban đêm, khả năng chống nước cho người thích đọc khi thư giãn, cùng hệ sinh thái sách và ngân sách cũng rất quan trọng. Bạn nên chọn kích thước vừa tay và phù hợp với nơi mình hay đọc, và có thể tham khảo bài [cách chọn máy đọc sách](/articles/cach-chon-may-doc-sach-2026-tieu-chi.html) để nắm rõ các tiêu chí quan trọng. Người thích cầm đọc trên tay lâu sẽ ưu tiên máy nhẹ và màn hình vừa phải, trong khi người hay đọc tài liệu, PDF lại cần màn hình lớn hơn để hiển thị rõ ràng.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/1RIsA2sssvE/hqdefault.jpg" alt="Hướng dẫn chọn máy đọc sách theo thói quen đọc và nhu cầu năm 2026" loading="lazy" width="1280" height="720">
