@@ -96,3 +96,6 @@ Ngoài yếu tố công nghệ hiển thị, Bravia 9 II còn được trang b�
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp từ Sony, What Hi-Fi? và ecoustics. Hiện chưa có thông tin chính thức về giá bán và thời điểm phân phối sản phẩm tại Việt Nam.
 </div>
+
+
+Để so sánh với các lựa chọn khác cùng phân khúc theo từng nhu cầu, bạn có thể xem bài tổng hợp [Top smart tivi tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-smart-tivi-tot-nhat-nua-dau-2026-theo-nhu-cau.html).
