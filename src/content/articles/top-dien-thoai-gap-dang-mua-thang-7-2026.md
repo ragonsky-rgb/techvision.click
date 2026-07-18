@@ -99,3 +99,6 @@ Trước khi quyết định xuống tiền, người dùng nên cân nhắc th�
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp từ Samsung, Honor và các kênh đánh giá công nghệ uy tín. Giá bán và thông số có thể thay đổi theo từng thời điểm và khu vực phân phối.
 </div>
+
+
+Để có cái nhìn tổng quan hơn cho cả nửa năm, bạn có thể xem thêm bài [Top điện thoại gập tốt nhất nửa đầu 2026 theo nhu cầu](/articles/top-dien-thoai-gap-tot-nhat-nua-dau-2026-theo-nhu-cau.html).
