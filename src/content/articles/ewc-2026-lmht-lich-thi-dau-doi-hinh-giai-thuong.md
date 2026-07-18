@@ -103,3 +103,6 @@ EWC 2026 không chỉ có ý nghĩa về giải thưởng và danh hiệu tức 
 <div class="art-callout">✅ <strong>Lưu ý:</strong> Thể thức, phân bảng và lịch thi đấu có thể được ban tổ chức điều chỉnh sát ngày khởi tranh. Người hâm mộ nên theo dõi kênh chính thức của Esports World Cup để cập nhật giờ thi đấu chính xác theo múi giờ Việt Nam, tránh nhầm lẫn do chênh lệch thời gian với châu Âu.</div>
 
 Dù ai bước lên bục cao nhất, EWC 2026 hứa hẹn là bữa tiệc LMHT hấp dẫn giữa mùa hè, nơi những đội mạnh nhất thế giới hội tụ trong một thể thức không khoan nhượng. Và với người hâm mộ Việt Nam, sự góp mặt của GAM Esports cùng dàn đại diện quen thuộc là thêm một lý do để thức khuya theo dõi, trước khi mọi ánh mắt đổ dồn về [đấu trường CKTG 2026 cuối năm](/articles/cktg-2026-to-chuc-o-dau-khi-nao-lich-dia-diem.html).
+
+
+Cập nhật diễn biến mới nhất của giải: [EWC 2026 LMHT: Karmine Corp hạ T1, vào chung kết](/articles/ewc-2026-lmht-karmine-corp-ha-t1-vao-chung-ket.html), khi đại diện châu Âu tạo bất ngờ lớn ở vòng loại trực tiếp.

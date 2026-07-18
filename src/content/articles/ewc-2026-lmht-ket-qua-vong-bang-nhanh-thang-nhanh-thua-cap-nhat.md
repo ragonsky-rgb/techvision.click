@@ -117,3 +117,6 @@ Sự vắng mặt của G2 Esports cùng nhiều tên tuổi lớn ngay từ vò
 <div class="art-callout">✅ <strong>Lưu ý:</strong> Đây là bản cập nhật kết quả tới thời điểm viết bài. Sơ đồ tứ kết được lấy từ bảng playoff chính thức của giải. Kết quả các trận tứ kết trở đi sẽ tiếp tục được cập nhật khi giải tiến triển. Người hâm mộ nên theo dõi kênh chính thức của Esports World Cup để cập nhật kết quả từng trận theo thời gian thực và chính xác nhất.</div>
 
 Nhìn chung, vòng bảng EWC 2026 LMHT đã đi qua với không ít bất ngờ, và vòng tứ kết với bốn cặp đấu chất lượng hứa hẹn còn kịch tính hơn nữa. Dù hai đại diện Việt Nam đã dừng bước, người hâm mộ trong nước vẫn có nhiều lý do để theo dõi giai đoạn playoff, nơi những đội mạnh nhất thế giới bước vào cuộc chiến sinh tử. So với hành trình tại [đấu trường CKTG cuối năm](/articles/cktg-2026-to-chuc-o-dau-khi-nao-lich-dia-diem.html), EWC là dịp để các đội thử lửa và khẳng định phong độ giữa mùa.
+
+
+Cập nhật diễn biến mới nhất của giải: [EWC 2026 LMHT: Karmine Corp hạ T1, vào chung kết](/articles/ewc-2026-lmht-karmine-corp-ha-t1-vao-chung-ket.html), khi đại diện châu Âu tạo bất ngờ lớn ở vòng loại trực tiếp.
