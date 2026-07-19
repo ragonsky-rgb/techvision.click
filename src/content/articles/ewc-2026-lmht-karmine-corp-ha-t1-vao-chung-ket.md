@@ -99,3 +99,6 @@ Trận chung kết tổng diễn ra ngày 19/7 theo thể thức Bo5, tức đ�
 <div class="art-callout">✅ <strong>Lưu ý:</strong> Thông tin trong bài được tổng hợp từ kết quả và lịch thi đấu chính thức của Esports World Cup 2026 bộ môn Liên Minh Huyền Thoại tính tới ngày 18/7. Kết quả cặp bán kết Gen.G gặp Dplus KIA và trận chung kết ngày 19/7 sẽ được cập nhật khi có diễn biến chính thức từ ban tổ chức.</div>
 
 Tựu trung, việc Karmine Corp hạ T1 2-1 để lần đầu vào chung kết là điểm nhấn lớn nhất của vòng bán kết EWC 2026 bộ môn Liên Minh Huyền Thoại. Chiến thắng này vừa khẳng định phong độ ấn tượng của đại diện châu Âu, vừa cho thấy các giải đấu quốc tế đang ngày càng khó đoán khi khoảng cách giữa các khu vực được thu hẹp. Người hâm mộ giờ sẽ hướng sự chú ý tới cặp bán kết còn lại giữa Gen.G và Dplus KIA, và đặc biệt là trận chung kết tổng Bo5 ngày 19/7, nơi Karmine Corp có cơ hội hoàn tất một hành trình đáng nhớ tại kỳ Esports World Cup năm nay.
+
+
+Cập nhật: đối thủ của Karmine Corp ở chung kết đã lộ diện khi Dplus KIA hạ Gen.G 2-1 ở bán kết còn lại. Xem chi tiết ở bài [EWC 2026 LMHT: chung kết Karmine Corp gặp Dplus KIA](/articles/ewc-2026-lmht-chung-ket-karmine-corp-dplus-kia.html).
