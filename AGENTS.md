@@ -10,6 +10,7 @@
 - **Giọng trung lập**, không clickbait, không nhồi tính từ. Tiếng Việt là chính, kèm thuật ngữ tiếng Anh khi cần.
 - **Internal link rõ anchor text**: 2-3 link sang bài liên quan trong thân bài, anchor mô tả đúng đích (không dùng "tại đây").
 - **Số liệu phải có nguồn thật** (báo/hãng), ghi rõ trong `sourceUrl` / `sourceDomains`. Tin đồn phải nói rõ là tin đồn.
+- **Commit THẲNG vào nhánh `main`, TUYỆT ĐỐI không tạo nhánh phụ / Pull Request để viết bài.** Chỉ `main` mới deploy lên production; bài viết trên nhánh phụ (kể cả build preview OK) sẽ KHÔNG bao giờ lên site chính, gây "bài bị treo" phải merge thủ công. Luôn `git pull --rebase origin main` trước khi làm và `git push origin main` sau mỗi bài. Nếu vì lý do kỹ thuật buộc phải làm trên nhánh khác, phải merge lại `main` ngay khi xong, đừng để tồn.
 - **Mô hình nguồn 3 lớp cho bài tin (bắt buộc):** (1) *Radar* = báo lớn VN (VnExpress, Genk, Tinhte, CafeF, Znews) CHỈ để bắt chủ đề đang hot + search demand VN, KHÔNG lấy làm nguồn dữ kiện; (2) *Dữ kiện gốc* = nguồn quốc tế GỐC (The Verge, TechCrunch, MacRumors, 9to5Mac, Reuters), lấy số liệu/giá/ngày/quote chuẩn, ≥2 nguồn gốc + URL; (3) *Giá trị riêng* = phân tích + bối cảnh VN + so sánh + internal link. KHÔNG đua breaking news với VnExpress — định vị "giải thích đầy đủ nhất qua lăng kính quốc tế". Check SERP top Google VN trước khi viết để viết cho thắng, không echo lại.
 
 ## 0b. Checklist chống lỗi trước khi commit (bắt buộc)
@@ -17,7 +18,7 @@ Chạy đủ 4 bước này trước MỖI lần commit để máy/AI khác khô
 1. **`node scripts/check-media.mjs`** → phải ra **0 ảnh lỗi · 0 video lỗi · 0 bài media dồn cụm**. Script quét cả `src/content/articles`, `public/articles` và `public/su-kien`. Nếu có lỗi: sửa (thay thumbnail sống, hạ maxres→hqdefault, giãn media) rồi chạy lại tới khi sạch.
 2. **Build sạch** bằng lệnh ở §5, không warning/lỗi.
 3. **Ảnh/video mới**: verify HTTP 200 + kích thước thật (maxres có thể trả ảnh xám ~1KB status 200, xem §4). Video embed phải còn sống + cho nhúng. KHÔNG dán URL chưa kiểm tra.
-4. **Commit chỉ file nguồn**, KHÔNG commit `dist/`. Máy mới: set `git config user.email` trước (xem §7). Sau đó `git push origin main`.
+4. **Commit chỉ file nguồn**, KHÔNG commit `dist/`. Máy mới: set `git config user.email` trước (xem §7). Sau đó `git push origin main` — **push thẳng `main`, không dùng nhánh phụ/PR** (xem quy tắc vàng §0, bài trên nhánh phụ không lên production).
 
 ## 0c. Cơ cấu một batch (mặc định)
 Khi được yêu cầu "viết tiếp"/"viết một batch", mặc định mỗi batch gồm **4 bài** theo tỷ lệ cố định:
