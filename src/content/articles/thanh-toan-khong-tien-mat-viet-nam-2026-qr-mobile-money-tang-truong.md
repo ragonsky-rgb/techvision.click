@@ -65,7 +65,7 @@ Kênh điện thoại di động tiếp tục đóng vai trò chủ lực khi t�
 
 <div class="art-video-label">VIDEO · Xu hướng thanh toán không dùng tiền mặt tại Việt Nam</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/VumgDfKcn54" title="Xu hướng thanh toán qua QR Code tại Việt Nam" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/B9-sjMiBYzk" title="Xu hướng thanh toán qua QR Code tại Việt Nam" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">QR Code trở thành phương thức thanh toán phổ biến tại Việt Nam. Nguồn: YouTube</p>
 

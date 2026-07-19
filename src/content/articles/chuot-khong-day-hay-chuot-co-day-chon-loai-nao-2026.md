@@ -88,7 +88,7 @@ Về nguồn điện, chuột không dây có loại dùng pin thay được và
 Về giá, ở cùng phân khúc và thương hiệu, chuột có dây thường có giá dễ chịu hơn một chút vì cấu tạo đơn giản hơn, không cần pin và mạch không dây. Chuột không dây, nhất là loại gaming độ trễ thấp và loại văn phòng cao cấp, thường nhỉnh hơn về giá. Tuy nhiên, cả hai đều trải rộng nhiều mức giá, nên bạn hoàn toàn có thể tìm được lựa chọn tốt trong ngân sách của mình. Việc so sánh giá nên đi kèm nhu cầu thực tế, vì sự tiện lợi của không dây cũng là giá trị đáng cân nhắc với nhiều người, không chỉ nhìn vào con số đơn thuần.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/sBOXOjcCzYE/hqdefault.jpg" alt="Hướng dẫn chọn chuột không dây hay chuột có dây theo nhu cầu năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fKqFzsX3rmc/hqdefault.jpg" alt="Hướng dẫn chọn chuột không dây hay chuột có dây theo nhu cầu năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Chọn loại chuột phù hợp thói quen giúp trải nghiệm dùng thoải mái hơn. Nguồn: YouTube</figcaption>
 </figure>
 

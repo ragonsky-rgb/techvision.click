@@ -72,7 +72,7 @@ Ngược lại, ghế gaming nổi bật với thiết kế thể thao, nhiều 
 Về phong cách và sự thoải mái, mỗi loại có ưu thế riêng. Ghế gaming thường tạo điểm nhấn cho góc chơi game với thiết kế thể thao và dáng ôm, phù hợp với những ai thích không gian cá tính. Ghế công thái học thường có thiết kế tối giản, chuyên nghiệp, hợp với không gian làm việc và văn phòng, cùng khả năng điều chỉnh chi tiết để nâng đỡ cơ thể. Cả hai đều có thể ngồi thoải mái, nên việc chọn nên dựa trên gu thẩm mỹ, không gian phòng và mức độ coi trọng hỗ trợ sức khỏe của bạn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2td8k_RNGOs/hqdefault.jpg" alt="Ghế gaming thiết kế thể thao ôm người cho góc chơi game năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WYk217ZWtQ4/hqdefault.jpg" alt="Ghế gaming thiết kế thể thao ôm người cho góc chơi game năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ghế gaming tạo điểm nhấn phong cách cho góc chơi game. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -74,7 +74,7 @@ Với Karmine Corp, việc vào chung kết là câu chuyện đáng chú ý khi
 Trận chung kết đánh theo thể thức Bo5, tức đội thắng trước ba ván sẽ đăng quang, diễn ra ngày 19/7. Cùng ngày còn có trận tranh hạng ba giữa hai đội thua ở bán kết là T1 và Gen.G, hai cái tên vốn được kỳ vọng cao. Việc hai ông lớn này gặp nhau ở trận tranh hạng ba thay vì chung kết cho thấy mức độ khó lường của giải năm nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/izD_R-HL0yY/hqdefault.jpg" alt="Dplus KIA thi đấu bán kết trước Gen.G tại EWC 2026 Liên Minh Huyền Thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hQsGH0C05Vo/hqdefault.jpg" alt="Dplus KIA thi đấu bán kết trước Gen.G tại EWC 2026 Liên Minh Huyền Thoại" loading="lazy" width="1280" height="720">
   <figcaption>Dplus KIA vượt qua đương kim vô địch Gen.G để vào chung kết. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Cuộc đối đầu giữa Karmine Corp và Dplus KIA cũng mang tính biểu t
 Với người hâm mộ Việt Nam, dù hai đại diện GAM Esports và Team Secret Whales đã dừng bước từ vòng bảng, trận chung kết vẫn rất đáng theo dõi nhờ tính bất ngờ và chất lượng chuyên môn cao. Bạn có thể xem lại thể thức và bối cảnh giải trong bài [lịch thi đấu, 16 đội và giải thưởng EWC 2026 LMHT](/articles/ewc-2026-lmht-lich-thi-dau-doi-hinh-giai-thuong.html) để hiểu rõ hơn về hành trình của các đội tại giải năm nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/OVOQEi_B5B4/hqdefault.jpg" alt="Điểm nhấn hành trình của Karmine Corp và Dplus KIA tại EWC 2026 LMHT" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TvBlfPKQKSY/hqdefault.jpg" alt="Điểm nhấn hành trình của Karmine Corp và Dplus KIA tại EWC 2026 LMHT" loading="lazy" width="1280" height="720">
   <figcaption>Cả hai đội đều vào chung kết bằng những chiến thắng bất ngờ. Nguồn: YouTube</figcaption>
 </figure>
 

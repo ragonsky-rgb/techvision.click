@@ -97,7 +97,7 @@ Cặp đấu được quan tâm nhất có lẽ là màn tái ngộ nội bộ H
 Với người hâm mộ Việt, điều đáng tiếc là cả hai đại diện đều không vượt qua vòng bảng. Team Secret Whales ở bảng B thua Sentinels ở trận mở màn rồi bị Karmine Corp loại với tỉ số 1-2. GAM Esports ở bảng C có hành trình kiên cường hơn: sau khi thua T1 trận mở màn, GAM thắng Movistar KOI 2-1 ở nhánh thua để tạo trận quyết định gặp lại T1.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mYcZ3ljBpRk/hqdefault.jpg" alt="GAM Esports dừng bước trước T1 tại EWC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/my9niG9GsIQ/hqdefault.jpg" alt="GAM Esports dừng bước trước T1 tại EWC 2026" loading="lazy" width="1280" height="720">
   <figcaption>GAM Esports thua T1 0-2 ở trận quyết định, khép lại hành trình EWC 2026. Nguồn: YouTube</figcaption>
 </figure>
 
