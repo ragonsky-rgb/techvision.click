@@ -715,6 +715,11 @@
     .vgrid-notice{padding:3rem 1.5rem;text-align:center;color:var(--dim);font-size:.82rem;letter-spacing:.08em;border:1px solid var(--line)}
 
     /* ── Responsive ── */
+    /* 961-1180px: nén nav để đủ chỗ 9 mục (dưới 960px chuyển sang burger) */
+    @media (max-width: 1180px) {
+      .nav-links { gap: 1rem; }
+      .nav-links a { font-size: 0.68rem; }
+    }
     @media (max-width: 960px) {
       nav.main-nav { padding: 1.2rem 2rem; }
       .nav-links { display: none; }
