@@ -8,7 +8,7 @@ type: "tin-tuc"
 datePublished: "2026-07-20T15:30:00+07:00"
 dateModified: "2026-07-20T15:30:00+07:00"
 deck: "Marvel vừa tung trailer đầu tiên của Avengers: Doomsday và mở bán vé theo chuẩn rạp mới Infinity Vision, chứng nhận rạp Premium Large Format do Disney lập ra. Vì tiêu chí đòi máy chiếu laser và màn cực lớn, không phải rạp IMAX nào tại Việt Nam cũng đáp ứng. Bài viết đối chiếu từng rạp IMAX trong nước để bạn chọn đúng nơi xem bom tấn cuối năm."
-heroImage: "https://i.ytimg.com/vi/y38hvApwRfI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/irVNGjRFZGk/maxresdefault.jpg"
 heroAlt: "Avengers Doomsday chieu chuan Infinity Vision tai rap IMAX Laser Viet Nam 2026"
 heroCaption: "Avengers: Doomsday khởi chiếu 18/12/2026 kèm chuẩn rạp Infinity Vision. Nguồn: YouTube"
 tldr: "Marvel phát hành trailer đầu tiên của <strong>Avengers: Doomsday</strong> (chiếu <strong>18/12/2026</strong>) và mở bán vé theo chuẩn <strong>Infinity Vision</strong>, chứng nhận rạp PLF của Disney đòi màn rộng <strong>tối thiểu 45 ft</strong>, máy chiếu <strong>laser</strong>, độ sáng ≥14 footlambert và âm thanh Dolby Atmos hoặc 7.1. Tại Việt Nam, các rạp dùng <strong>IMAX with Laser</strong> gồm CGV Sư Vạn Hạnh, Galaxy Sala, CGV AEON Bình Tân và CGV Vincom Metropolis Liễu Giai (Hà Nội) là những nơi đạt tiêu chí kỹ thuật. Các rạp IMAX máy Xenon cũ như Landmark 81, VivoCity, AEON Hà Đông nhiều khả năng không đạt."
@@ -75,7 +75,7 @@ Trailer đầu tiên của Avengers: Doomsday được phát hành ngay trước
 
 <div class="art-video-label">VIDEO · Trailer chính thức Avengers: Doomsday, khởi chiếu 18/12</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/irVNGjRFZGk" title="Avengers Doomsday Official Trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/y38hvApwRfI" title="Avengers Doomsday Trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Trailer chính thức Avengers: Doomsday với màn ra mắt của Doctor Doom. Nguồn: YouTube</p>
 
