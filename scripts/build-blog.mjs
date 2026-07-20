@@ -48,7 +48,22 @@ articles.sort((a, b) => (b.datePublished || '').localeCompare(a.datePublished ||
 // --- Helpers ---
 const esc = (s) => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const dmy = (iso) => { const d = (iso || '').slice(0, 10).split('-'); return d.length === 3 ? `${d[2]}/${d[1]}/${d[0]}` : ''; };
-const dataCat = (c) => String(c || 'AI').toLowerCase().replace(/\s+/g, '');
+// Chuẩn hoá chuyên mục về đúng tập slug của các nút lọc trên blog.html
+// (phải sync với public/articles/_article.js — CAT_MAP dùng cho breadcrumb bài viết)
+const CAT_MAP = {
+  'côngnghệ': 'congnghe', 'congnghe': 'congnghe', 'phântích': 'congnghe',
+  'giadụng': 'congnghe', 'smarthome': 'congnghe', 'reviews': 'congnghe',
+  'ai': 'ai', 'ai&developer': 'ai',
+  'smartphone': 'smartphone', 'điệnthoại': 'smartphone', 'android': 'smartphone',
+  'apple': 'apple', 'ios': 'apple',
+  'laptop': 'laptop', 'laptop&pc': 'laptop', 'pc': 'laptop',
+  'gaming': 'gaming', 'game': 'gaming', 'esports': 'gaming',
+  'audio': 'audio', 'âmthanh': 'audio',
+  'camera': 'camera',
+  'wearable': 'wearable',
+  'internet': 'internet', 'viễnthông': 'internet'
+};
+const dataCat = (c) => CAT_MAP[String(c || '').toLowerCase().replace(/\s+/g, '')] || 'khac';
 // Thumbnail YouTube: dùng hqdefault (luôn tạo từ khung hình thật cho video còn sống),
 // tránh maxresdefault vốn trả ảnh xám placeholder với nhiều video không có bản HD.
 const thumb = (u) => esc(String(u || '').replace('maxresdefault', 'hqdefault'));

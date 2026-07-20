@@ -132,6 +132,8 @@
     .nav-links a{font-size:14px;color:#B7BECF;font-weight:600;transition:color .2s}
     .nav-links a:hover{color:#fff}
     .nav-right{display:flex;align-items:center;gap:14px}
+    .bar-back{font-size:13px;color:#B7BECF;font-weight:600;white-space:nowrap;transition:color .2s}
+    .bar-back:hover{color:#fff}
     .live-badge{display:inline-flex;align-items:center;gap:7px;font-size:12px;font-weight:600;color:#9FE9FF;letter-spacing:.3px}
     .live-badge .d{width:7px;height:7px;border-radius:50%;background:#46E6FF;animation:pulseDot 2s infinite}
     .lang{cursor:pointer;display:flex;align-items:center;padding:4px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);user-select:none}
@@ -294,6 +296,7 @@
       <a href="#watch" data-i="navWatch"></a>
     </div>
     <div class="nav-right">
+      <a class="bar-back" href="/su-kien/" data-i="navBack"></a>
       <span class="live-badge"><span class="d"></span><span data-i="heroBadge"></span></span>
       <div class="lang" id="lang" role="button" tabindex="0" aria-label="Language toggle">
         <span id="langVI">VI</span><span id="langEN">EN</span>
@@ -516,7 +519,7 @@
   (function(){
     var I18N = {
       vi: {
-        navProducts:'Sản phẩm', navRoadmap:'Lộ trình', navExpect:'Chờ đợi gì', navPricing:'Giá', navWatch:'Xem trực tiếp',
+        navProducts:'Sản phẩm', navRoadmap:'Lộ trình', navExpect:'Chờ đợi gì', navPricing:'Giá', navWatch:'Xem trực tiếp', navBack:'← Sự kiện',
         heroBadge:'Sắp diễn ra', heroKicker:'Samsung Galaxy Unpacked',
         heroSub:'Sự kiện mùa hè của Samsung tại London ngày 22/7. Tâm điểm Galaxy Z Fold 8 Ultra (đồn từ 1.999 USD), bản gập rộng Z Fold 8 Wide và Z Flip 8, cùng màn chào sân thương mại của kính AI Galaxy Glasses.',
         cdDays:'Ngày', cdHours:'Giờ', cdMins:'Phút', cdSecs:'Giây',
@@ -543,7 +546,7 @@
         footerLinks:[{label:'Trang chủ',url:'/'},{label:'Tech News',url:'/blog.html'},{label:'Sự kiện',url:'/su-kien/'},{label:'Giới thiệu',url:'/cv.html'}]
       },
       en: {
-        navProducts:'Products', navRoadmap:'Roadmap', navExpect:'What to expect', navPricing:'Price', navWatch:'Watch live',
+        navProducts:'Products', navRoadmap:'Roadmap', navExpect:'What to expect', navPricing:'Price', navWatch:'Watch live', navBack:'← Events',
         heroBadge:'Upcoming', heroKicker:'Samsung Galaxy Unpacked',
         heroSub:"Samsung's summer event in London on 22 July. Headlined by the Galaxy Z Fold 8 Ultra (rumored from $1,999), the wide-folding Z Fold 8 Wide and Z Flip 8, plus the commercial debut of the Galaxy Glasses AI eyewear.",
         cdDays:'Days', cdHours:'Hours', cdMins:'Mins', cdSecs:'Secs',

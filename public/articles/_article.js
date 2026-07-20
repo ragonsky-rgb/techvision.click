@@ -270,4 +270,40 @@
     }
   })();
 
+  // Breadcrumb chuyên mục → link lọc blog (phải sync với scripts/build-blog.mjs)
+  try {
+    const CAT_MAP = {
+      'côngnghệ': 'congnghe', 'congnghe': 'congnghe', 'phântích': 'congnghe',
+      'giadụng': 'congnghe', 'smarthome': 'congnghe', 'reviews': 'congnghe',
+      'ai': 'ai', 'ai&developer': 'ai',
+      'smartphone': 'smartphone', 'điệnthoại': 'smartphone', 'android': 'smartphone',
+      'apple': 'apple', 'ios': 'apple',
+      'laptop': 'laptop', 'laptop&pc': 'laptop', 'pc': 'laptop',
+      'gaming': 'gaming', 'game': 'gaming', 'esports': 'gaming',
+      'audio': 'audio', 'âmthanh': 'audio',
+      'camera': 'camera',
+      'wearable': 'wearable',
+      'internet': 'internet', 'viễnthông': 'internet'
+    };
+    // Slug hoá tên chuyên mục, không có trong map thì về 'khac'
+    function catSlug(c) {
+      const k = String(c || '').toLowerCase().replace(/\s+/g, '');
+      return CAT_MAP[k] || 'khac';
+    }
+    const bc = document.querySelector('nav.art-breadcrumb');
+    if (bc) {
+      // Lấy span cuối không phải bc-sep (cover cả bc-cat lẫn span trần của Astro)
+      const spans = bc.querySelectorAll('span:not(.bc-sep)');
+      const catSpan = spans.length ? spans[spans.length - 1] : null;
+      const txt = catSpan ? catSpan.textContent.trim() : '';
+      if (catSpan && txt) {
+        const a = document.createElement('a');
+        a.href = '/blog.html?cat=' + catSlug(txt);
+        a.textContent = txt;
+        if (catSpan.className) a.className = catSpan.className;
+        catSpan.parentNode.replaceChild(a, catSpan);
+      }
+    }
+  } catch (e) { /* im lặng — không làm vỡ trang bài viết */ }
+
 })();
