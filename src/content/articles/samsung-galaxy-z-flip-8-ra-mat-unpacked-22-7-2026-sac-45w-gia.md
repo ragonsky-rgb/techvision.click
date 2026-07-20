@@ -8,9 +8,9 @@ type: "tin-tuc"
 datePublished: "2026-07-20T12:50:00+07:00"
 dateModified: "2026-07-20T12:50:00+07:00"
 deck: "Samsung Galaxy Z Flip 8 sẽ chính thức ra mắt tại sự kiện Galaxy Unpacked ngày 22/7/2026 ở London, cùng dòng Galaxy Z Fold 8. Mẫu gập vỏ sò năm nay được nâng cấp chip Snapdragon 8 Elite Gen 5 for Galaxy, sạc nhanh có dây 45W thay cho 25W, pin dung lượng nhỉnh hơn, giữ màn hình phụ lớn và giá khởi điểm dự kiến quanh mốc 1.099 USD, dù có tin đồn tăng nhẹ vì giá bộ nhớ leo thang."
-heroImage: "https://i.ytimg.com/vi/2Pw8abzJES4/maxresdefault.jpg"
-heroAlt: "Samsung Galaxy Z Flip 8 điện thoại gập vỏ sò ra mắt Unpacked 22/7/2026"
-heroCaption: "Galaxy Z Flip 8 lộ diện trước thềm Unpacked 22/7/2026. Nguồn: YouTube"
+heroImage: "https://techvision.click/images/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia/z-flip-8-camera-specs.jpg"
+heroAlt: "Cấu hình camera Galaxy Z Flip 8: 50MP chính, 12MP siêu rộng, 10MP selfie qua ảnh render"
+heroCaption: "Cấu hình camera Galaxy Z Flip 8 lộ diện qua ảnh render trước Unpacked 22/7. Nguồn: ảnh rò rỉ"
 tldr: "<strong>Samsung Galaxy Z Flip 8</strong> ra mắt tại <strong>Galaxy Unpacked 22/7/2026</strong>, dùng chip <strong>Snapdragon 8 Elite Gen 5 for Galaxy</strong>. Nâng cấp lớn nhất là sạc nhanh có dây <strong>45W</strong> thay cho 25W, cùng pin dung lượng đánh giá khoảng <strong>4.300mAh</strong>. Máy giữ màn hình chính gập <strong>6.9 inch</strong> 120Hz và màn phụ <strong>4.1 inch</strong>, độ sáng đỉnh <strong>2.600 nit</strong>. Giá khởi điểm dự kiến từ <strong>1.099 USD</strong> bản 256GB, có tin đồn tăng do giá bộ nhớ. Máy lên kệ quốc tế khoảng đầu tháng 8."
 tags: ["Smartphone", "Samsung", "GalaxyZFlip8", "DienThoaiGap", "Unpacked", "Snapdragon"]
 about: ["Samsung Galaxy Z Flip 8", "Điện thoại gập", "Samsung"]
@@ -76,8 +76,8 @@ Người dùng Việt quan tâm toàn cảnh sự kiện có thể xem trước 
 Dù vậy, cần nhìn nhận thực tế rằng gập vỏ sò luôn bị giới hạn dung lượng pin do phải chia đôi thân máy và dành chỗ cho cơ cấu bản lề. Vì thế mức pin của Z Flip 8 vẫn khiêm tốn nếu so với điện thoại thanh cùng phân khúc, và người dùng nặng sẽ cần sạc trong ngày. Bù lại, chip Snapdragon 8 Elite Gen 5 for Galaxy cải thiện hiệu quả điện năng so với thế hệ cũ, giúp máy cầm cự tốt hơn cho nhu cầu lướt web, mạng xã hội và nhắn tin thông thường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Fp-f-GzgpU0/maxresdefault.jpg" alt="Galaxy Z Flip 8 man hinh phu lon che do camera va thong bao" loading="lazy" width="1280" height="720">
-  <figcaption>Màn hình phụ mặt ngoài tiếp tục là điểm nhấn của dòng gập vỏ sò. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia/z-flip-8-z-fold-8-tren-tay-doc.jpg" alt="Anh render Galaxy Z Flip 8 mau hong cung Galaxy Z Fold 8 mau tim va oai huong tren tay" loading="lazy" width="1154" height="1502">
+  <figcaption>Galaxy Z Flip 8 (hồng) bên cạnh Galaxy Z Fold 8 qua ảnh render rò rỉ. Nguồn: Android Headlines</figcaption>
 </figure>
 
 ## Màn hình, thiết kế và camera
@@ -87,8 +87,8 @@ Về màn hình, Galaxy Z Flip 8 được cho là giữ nguyên kích thước s
 Thiết kế tổng thể được dự báo không thay đổi lớn, Samsung ưu tiên hoàn thiện bản lề, độ bền và nếp gấp thay vì làm mới kiểu dáng. Về nhiếp ảnh, máy tinh chỉnh thuật toán xử lý ảnh với các tính năng Galaxy AI, tối ưu chụp đêm và chân dung. Người dùng muốn so sánh với người anh em màn hình lớn có thể tham khảo [Galaxy Z Fold 8 Ultra với camera 200MP](/articles/samsung-galaxy-z-fold-8-ultra-camera-200mp-unpacked-22-7-2026.html), phiên bản hướng tới nhóm cần cấu hình và camera cao cấp nhất trong dòng gập.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/S4s2w4WAcqw/maxresdefault.jpg" alt="Thiet ke Galaxy Z Flip 8 gap vo so nho gon thoi trang" loading="lazy" width="1280" height="720">
-  <figcaption>Galaxy Z Flip 8 giữ triết lý nhỏ gọn, bỏ túi dễ dàng. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia/z-flip-8-z-fold-8-tren-tay-ngang.jpg" alt="Bo ba Galaxy Z Flip 8 va Z Fold 8 nhieu mau sac tren tay theo anh render" loading="lazy" width="1154" height="534">
+  <figcaption>Dàn Galaxy Z Flip 8 và Z Fold 8 với các tùy chọn màu mới qua ảnh render. Nguồn: Android Headlines</figcaption>
 </figure>
 
 ## Có nên chờ mua Galaxy Z Flip 8
