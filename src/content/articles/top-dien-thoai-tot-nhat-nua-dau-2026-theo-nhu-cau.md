@@ -13,7 +13,7 @@ heroAlt: "Tổng hợp những điện thoại flagship tốt nhất nửa đầ
 heroCaption: "Những điện thoại đáng chú ý nhất nửa đầu 2026, chọn theo từng nhu cầu. Nguồn: YouTube"
 tldr: "Nửa đầu 2026 chứng kiến nhiều siêu phẩm điện thoại, và không có mẫu nào tốt nhất cho tất cả. Về <strong>flagship tổng thể</strong>, Samsung <strong>Galaxy S26 Ultra</strong> với camera 200MP, chip Snapdragon 8 Elite Gen 5 là lựa chọn toàn diện. Fan Apple có <strong>iPhone 18 Pro Max</strong>. Về <strong>camera</strong>, Xiaomi 17 Ultra với cảm biến 1 inch Leica và Oppo Find X10 Pro 200MP nổi bật. <strong>Điện thoại gập</strong> tốt nhất là Galaxy Z Fold 8 Ultra. Muốn <strong>pin trâu</strong>, Oppo Find X10 Pro có pin 8.000mAh. Cần <strong>giá tốt</strong>, OnePlus 15R là flagship killer đáng cân nhắc. Người mê Android thuần có Google Pixel 11 Pro. Mỗi máy có thế mạnh riêng, quan trọng là chọn đúng nhu cầu."
 tags: ["DienThoai", "Flagship2026", "TopList", "Smartphone"]
-about: ["Điện thoại 2026", "Flagship", "Galaxy S26 Ultra", "iPhone 18"]
+about: ["Samsung Galaxy S26 Ultra", "iPhone 18 Pro Max", "Xiaomi 17 Ultra", "Oppo Find X10 Pro", "Galaxy Z Fold 8 Ultra", "OnePlus 15R", "Google Pixel 11 Pro"]
 authorBio: "Founder LongTechVision. Theo dõi các diễn biến lớn của ngành công nghệ và thị trường thiết bị tại Việt Nam."
 sourceUrl: "https://techvision.click/blog.html"
 sourceName: "Tổng hợp điện thoại 2026 - LongTechVision"

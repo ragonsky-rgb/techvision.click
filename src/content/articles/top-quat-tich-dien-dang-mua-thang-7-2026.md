@@ -1,6 +1,6 @@
 ---
 slug: "top-quat-tich-dien-dang-mua-thang-7-2026"
-title: "Top quạt tích điện đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
+title: "Top quạt tích điện đáng mua tháng 7/2026"
 description: "Gợi ý quạt tích điện đáng mua tháng 7/2026: mẫu giá tốt cho sinh viên, Sunhouse tầm trung pin bền, Kangaroo cao cấp dung lượng lớn dùng được lâu nhất."
 keywords: "top quạt tích điện tháng 7 2026, quạt tích điện đáng mua, Sunhouse, Kangaroo, quạt sạc pin mất điện giá tốt"
 category: "Công nghệ"

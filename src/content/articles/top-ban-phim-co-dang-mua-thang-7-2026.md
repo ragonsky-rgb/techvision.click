@@ -7,19 +7,19 @@ category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-07-02T22:00:00+07:00"
 dateModified: "2026-07-02T22:00:00+07:00"
-deck: "Thị trường bàn phím cơ tháng 7/2026 tiếp tục sôi động với nhiều lựa chọn ở mọi phân khúc giá. Bài viết tổng hợp 3 mẫu bàn phím cơ đáng mua nhất hiện nay, từ phân khúc giá tốt, tầm trung hotswap tới cao cấp dành cho người dùng chuyên sâu."
+deck: "Thị trường bàn phím cơ tháng 7/2026 tiếp tục sôi động với nhiều lựa chọn ở mọi phân khúc giá. Bài viết tổng hợp 5 mẫu bàn phím cơ đáng mua nhất hiện nay, từ giá tốt, tầm trung hotswap, cao cấp chuyên sâu tới lựa chọn văn phòng không dây và gaming Hall Effect."
 heroImage: "https://i.ytimg.com/vi/opoGkfbeoJE/hqdefault.jpg"
 heroAlt: "Top ban phim co dang mua thang 7 2026"
 heroCaption: "Tổng hợp bàn phím cơ đáng mua nhất tháng 7/2026 theo từng phân khúc giá. Nguồn: YouTube"
 tldr: "Tháng 7/2026, ở phân khúc <strong>giá tốt</strong> đáng chú ý nhất là <strong>AKKO 5075B Plus</strong>, giá khoảng 2 triệu đồng, hotswap, 3 chế độ kết nối. Phân khúc <strong>tầm trung</strong> có <strong>Keychron K2 HE</strong>, tích hợp switch Hall Effect từ tính cho độ chính xác cao. Với người cần trải nghiệm <strong>cao cấp chuyên sâu</strong>, <strong>Keychron Q Ultra</strong> gây ấn tượng với pin dùng liên tục tới <strong>660 giờ</strong> và tần số polling 8K, giá từ 229,99 USD. Bài viết phân tích điểm mạnh và đối tượng phù hợp cho từng mẫu."
 tags: ["BanPhimCo", "TopSanPham", "AKKO", "Keychron", "TinTuc"]
-about: ["AKKO 5075B Plus", "Keychron K2 HE", "Keychron Q Ultra"]
+about: ["AKKO 5075B Plus", "Keychron K2 HE", "Keychron Q Ultra", "Logitech MX Mechanical", "Wooting 80HE"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các dòng bàn phím cơ, phụ kiện máy tính cho người dùng Việt."
 sourceUrl: "https://www.keychron.com/"
 sourceName: "Keychron, AKKO và các kênh đánh giá công nghệ"
 sourceDomains: "keychron.com, akko.vn, youtube.com"
 stats:
-  - { num: "3", label: "Mẫu bàn phím cơ nổi bật được tổng hợp trong bài" }
+  - { num: "5", label: "Mẫu bàn phím cơ nổi bật được tổng hợp trong bài" }
   - { num: "2tr", label: "Giá khởi điểm AKKO 5075B Plus" }
   - { num: "660h", label: "Thời lượng pin liên tục của Keychron Q Ultra" }
   - { num: "8K", label: "Tần số polling tối đa trên dòng Q Ultra" }
@@ -41,7 +41,7 @@ related:
 featured: true
 ---
 
-Thị trường bàn phím cơ tháng 7/2026 tiếp tục sôi động với nhiều lựa chọn trải dài từ phân khúc giá tốt tới cao cấp chuyên sâu. Để giúp người dùng dễ dàng đưa ra quyết định phù hợp với nhu cầu sử dụng và ngân sách, bài viết tổng hợp ba mẫu bàn phím cơ đáng mua nhất hiện nay, dựa trên thông số thực tế và đánh giá từ các kênh công nghệ uy tín.
+Thị trường bàn phím cơ tháng 7/2026 tiếp tục sôi động với nhiều lựa chọn trải dài từ phân khúc giá tốt tới cao cấp chuyên sâu. Để giúp người dùng dễ dàng đưa ra quyết định phù hợp với nhu cầu sử dụng và ngân sách, bài viết tổng hợp năm mẫu bàn phím cơ đáng mua nhất hiện nay, dựa trên thông số thực tế và đánh giá từ các kênh công nghệ uy tín.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Tổng quan bàn phím cơ đáng mua tháng 7/2026</div>
@@ -49,7 +49,8 @@ Thị trường bàn phím cơ tháng 7/2026 tiếp tục sôi động với nhi
     <tr><td>Giá tốt</td><td>AKKO 5075B Plus, khoảng 2 triệu đồng, hotswap</td></tr>
     <tr><td>Tầm trung</td><td>Keychron K2 HE, switch Hall Effect từ tính</td></tr>
     <tr><td>Cao cấp</td><td>Keychron Q Ultra, pin 660 giờ, polling 8K</td></tr>
-    <tr><td>Layout chung</td><td>75% phổ biến nhất trên cả 3 mẫu</td></tr>
+    <tr><td>Văn phòng không dây</td><td>Logitech MX Mechanical, kết nối 3 thiết bị</td></tr>
+    <tr><td>Gaming Hall Effect</td><td>Wooting 80HE, rapid trigger cho esports</td></tr>
   </table>
 </div>
 
@@ -82,6 +83,10 @@ Với người dùng cần trải nghiệm cao cấp chuyên sâu, dòng Q Ultra
   <img decoding="async" src="https://i.ytimg.com/vi/W9uPprOjZAI/hqdefault.jpg" alt="So sanh AKKO Keychron ban phim co 2026" loading="lazy" width="1280" height="480">
   <figcaption>AKKO và Keychron tiếp tục là hai thương hiệu được so sánh nhiều nhất trong cộng đồng bàn phím cơ Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
+
+## Thêm hai lựa chọn đáng cân nhắc: Logitech MX Mechanical và Wooting 80HE
+
+Ngoài ba mẫu chủ lực ở trên, hai cái tên khác cũng rất đáng cân nhắc tùy theo nhu cầu sử dụng. Với dân văn phòng ưu tiên gõ êm và kết nối không dây ổn định cho nhiều thiết bị, Logitech MX Mechanical là lựa chọn hợp lý nhờ switch cơ tactile hành trình thấp, khả năng kết nối cùng lúc ba thiết bị qua Bluetooth và đầu thu Logi Bolt, cùng đèn nền tự điều chỉnh theo ánh sáng môi trường. Ở chiều ngược lại, game thủ nghiêm túc nên nhắm tới Wooting 80HE, bàn phím dùng switch Hall Effect từ tính với tính năng rapid trigger và điều chỉnh điểm nhả phím theo thời gian thực, được nhiều tuyển thủ esports đánh giá cao về độ nhạy cùng khả năng reset phím cực nhanh. Hai mẫu này giúp danh sách phủ trọn từ nhu cầu văn phòng cho tới thi đấu chuyên nghiệp.
 
 ## Lưu ý khi chốt mua bàn phím cơ trong tháng 7/2026
 

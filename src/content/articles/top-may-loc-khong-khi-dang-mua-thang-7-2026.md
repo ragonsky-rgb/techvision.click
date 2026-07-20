@@ -1,6 +1,6 @@
 ---
 slug: "top-may-loc-khong-khi-dang-mua-thang-7-2026"
-title: "Top máy lọc không khí đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
+title: "Top máy lọc không khí đáng mua tháng 7/2026"
 description: "Gợi ý máy lọc không khí đáng mua tháng 7/2026: Xiaomi giá tốt, Sharp công nghệ Plasmacluster tầm trung, Coway cao cấp cho từng nhu cầu gia đình."
 keywords: "top máy lọc không khí tháng 7 2026, máy lọc không khí đáng mua, Xiaomi Air Purifier 4 Lite, Sharp Plasmacluster, Coway"
 category: "Công nghệ"

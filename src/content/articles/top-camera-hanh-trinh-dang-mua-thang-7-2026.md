@@ -1,6 +1,6 @@
 ---
 slug: "top-camera-hanh-trinh-dang-mua-thang-7-2026"
-title: "Top camera hành trình đáng mua tháng 7/2026: Viofo A329S, Vueroid S1 4K Infinite"
+title: "Top camera hành trình đáng mua tháng 7/2026: Viofo A329S"
 description: "Tổng hợp camera hành trình đáng cân nhắc tháng 7/2026: Viofo A329S, Vueroid S1 4K Infinite, so sánh giá, độ phân giải và tính năng AI cho ô tô."
 keywords: "top camera hanh trinh thang 7 2026, dash cam dang mua, Viofo A329S, Vueroid S1 4K Infinite, camera hanh trinh AI"
 category: "Công nghệ"

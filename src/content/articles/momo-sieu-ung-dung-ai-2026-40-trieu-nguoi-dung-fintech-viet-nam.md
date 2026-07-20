@@ -87,7 +87,7 @@ MoMo đã gọi vốn qua nhiều vòng để hỗ trợ tăng trưởng và đ�
 Với nguồn vốn dồi dào và quy mô người dùng lớn, MoMo có nền tảng để cạnh tranh và phát triển bền vững. Về kế hoạch niêm yết, từng có thông tin về dự định IPO, nhưng chưa có công bố chính thức cụ thể. Sự phát triển của fintech cũng gắn liền với khung pháp lý đang hoàn thiện cho lĩnh vực tài chính số tại Việt Nam, bao gồm cả tài sản số, được phân tích trong bài [Việt Nam có khung pháp lý tài sản mã hóa 2026](/articles/viet-nam-luat-tai-san-ma-hoa-2026-san-giao-dich-thi-diem-khung-phap-ly.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/yGaTGRnqKy8/maxresdefault.jpg" alt="MoMo gọi vốn Series E và mở rộng dịch vụ fintech" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TmsvWdChGNc/maxresdefault.jpg" alt="MoMo gọi vốn Series E và mở rộng dịch vụ fintech" loading="lazy" width="1280" height="720">
   <figcaption>MoMo gọi vốn Series E 200 triệu USD do Mizuho dẫn dắt. Nguồn: YouTube</figcaption>
 </figure>
 

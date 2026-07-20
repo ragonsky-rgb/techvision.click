@@ -1,6 +1,6 @@
 ---
 slug: "top-may-pha-ca-phe-dang-mua-thang-7-2026"
-title: "Top máy pha cà phê đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
+title: "Top máy pha cà phê đáng mua tháng 7/2026"
 description: "Gợi ý máy pha cà phê đáng mua tháng 7/2026: mẫu giá tốt cho người mới, Philips tầm trung bán tự động, De'Longhi cao cấp tự động xay pha một chạm."
 keywords: "top máy pha cà phê tháng 7 2026, máy pha cà phê đáng mua, De'Longhi, Philips, máy pha cà phê gia đình giá tốt"
 category: "Công nghệ"

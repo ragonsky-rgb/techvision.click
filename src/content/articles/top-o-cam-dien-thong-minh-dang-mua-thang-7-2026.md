@@ -1,6 +1,6 @@
 ---
 slug: "top-o-cam-dien-thong-minh-dang-mua-thang-7-2026"
-title: "Top ổ cắm điện thông minh đáng mua tháng 7/2026: Kasa KP125M, Tapo P125M, Wyze Plug"
+title: "Top ổ cắm điện thông minh đáng mua tháng 7/2026: Kasa KP125M"
 description: "Tổng hợp ổ cắm điện thông minh đáng cân nhắc tháng 7/2026: Kasa KP125M, TP-Link Tapo P125M, Wyze Plug, so sánh giá, tính năng Matter và theo dõi điện năng."
 keywords: "top o cam dien thong minh thang 7 2026, smart plug dang mua, Kasa KP125M, Tapo P125M, Wyze Plug"
 category: "Công nghệ"

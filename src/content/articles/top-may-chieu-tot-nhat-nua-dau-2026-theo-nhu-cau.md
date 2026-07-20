@@ -1,7 +1,7 @@
 ---
 slug: "top-may-chieu-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top máy chiếu tốt nhất nửa đầu 2026 theo nhu cầu"
-description: "Top máy chiếu tốt nhất nửa đầu 2026 theo nhu cầu: Anker Nebula X1 Pro, XGIMI Horizon 20 Pro, Dangbei DBOX02 Pro, BenQ X300G, Epson EH-TW6250, XGIMI MoGo 4, Wanbo Mozart 1 Pro."
+description: "Top máy chiếu tốt nhất nửa đầu 2026 theo nhu cầu: Anker Nebula X1 Pro, XGIMI Horizon 20 Pro, Dangbei DBOX02 Pro, BenQ X300G, Epson EH-TW6250, XGIMI MoGo 4"
 keywords: "may chieu tot nhat 2026, top may chieu 2026, Anker Nebula X1 Pro, XGIMI Horizon 20 Pro, Dangbei DBOX02 Pro, BenQ X300G, Wanbo Mozart 1 Pro, may chieu mini, may chieu 4K"
 category: "Công nghệ"
 type: "tin-tuc"

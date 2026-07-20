@@ -1,6 +1,6 @@
 ---
 slug: "top-may-chieu-mini-dang-mua-thang-7-2026"
-title: "Top máy chiếu mini đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
+title: "Top máy chiếu mini đáng mua tháng 7/2026"
 description: "Gợi ý máy chiếu mini đáng mua tháng 7/2026: mẫu giá tốt cho phòng ngủ, Xiaomi Mi Smart Projector tầm trung, Anker Nebula cao cấp có pin và loa mạnh."
 keywords: "top máy chiếu mini tháng 7 2026, máy chiếu mini đáng mua, Xiaomi Mi Smart Projector, Anker Nebula, máy chiếu di động giá tốt"
 category: "Công nghệ"

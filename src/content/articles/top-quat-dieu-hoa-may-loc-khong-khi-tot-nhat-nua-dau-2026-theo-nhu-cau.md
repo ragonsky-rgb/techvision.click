@@ -1,7 +1,7 @@
 ---
 slug: "top-quat-dieu-hoa-may-loc-khong-khi-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top quạt điều hòa và máy lọc không khí tốt nhất 2026"
-description: "Tổng hợp quạt điều hòa hơi nước (Sunhouse, Kangaroo) và máy lọc không khí (Xiaomi, Sharp, Coway) tốt nhất nửa đầu 2026 theo nhu cầu: làm mát mùa hè, lọc bụi mịn và chọn theo diện tích."
+description: "Tổng hợp quạt điều hòa hơi nước (Sunhouse, Kangaroo) và máy lọc không khí (Xiaomi, Sharp, Coway) tốt nhất nửa đầu 2026 theo nhu cầu: làm mát mùa hè"
 keywords: "quat dieu hoa tot nhat 2026, may loc khong khi 2026, lam mat mua he, loc bui min, top 2026"
 category: "Công nghệ"
 type: "tin-tuc"

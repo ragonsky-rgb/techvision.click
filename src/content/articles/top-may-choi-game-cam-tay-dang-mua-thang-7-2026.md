@@ -1,6 +1,6 @@
 ---
 slug: "top-may-choi-game-cam-tay-dang-mua-thang-7-2026"
-title: "Top máy chơi game cầm tay đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
+title: "Top máy chơi game cầm tay đáng mua tháng 7/2026"
 description: "Gợi ý máy chơi game cầm tay đáng mua tháng 7/2026: Steam Deck OLED giá tốt SteamOS, Lenovo Legion Go tầm trung, MSI Claw 8 AI+ cao cấp hiệu năng mạnh."
 keywords: "top máy chơi game cầm tay tháng 7 2026, Steam Deck, Legion Go, MSI Claw, ROG Ally"
 category: "Gaming"

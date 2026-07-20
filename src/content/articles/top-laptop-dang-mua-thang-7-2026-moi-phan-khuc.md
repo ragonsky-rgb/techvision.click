@@ -13,7 +13,7 @@ heroAlt: "Top laptop dang mua thang 7 2026 moi phan khuc gia"
 heroCaption: "MacBook Air M5 là một trong những lựa chọn cao cấp đáng mua nhất tháng 7/2026. Nguồn: YouTube"
 tldr: "Tháng 7/2026, phân khúc <strong>cao cấp</strong> đáng chú ý nhất gồm <strong>MacBook Air M5</strong> và <strong>ASUS Zenbook Duo</strong> hai màn hình OLED. Ở phân khúc <strong>tầm trung</strong>, <strong>ASUS Zenbook 14</strong> là lựa chọn cân bằng giữa thiết kế và hiệu năng. Phân khúc <strong>giá rẻ, sinh viên</strong> có <strong>Acer Aspire 3/Aspire Go 15</strong> với chip Intel Core i3-N305 tiết kiệm điện. Bài viết tổng hợp cấu hình, giá bán tham khảo và đối tượng phù hợp cho từng nhóm người dùng, trong bối cảnh giá laptop đang chịu áp lực tăng vì khan hiếm RAM."
 tags: ["Laptop", "TopLaptop", "MacBookAirM5", "ASUSZenbook", "TinTuc"]
-about: ["MacBook Air M5", "ASUS Zenbook", "Acer Aspire"]
+about: ["MacBook Air M5", "ASUS Zenbook Duo", "ASUS Zenbook 14", "Acer Aspire 3", "Acer Aspire Go 15"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các sản phẩm công nghệ và giải trí cho người dùng Việt."
 sourceUrl: "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-a16-ux3607/"
 sourceName: "Apple, ASUS, Acer, các kênh đánh giá công nghệ"
