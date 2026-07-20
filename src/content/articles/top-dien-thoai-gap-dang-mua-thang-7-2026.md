@@ -13,7 +13,7 @@ heroAlt: "Top dien thoai gap dang mua thang 7 2026"
 heroCaption: "Tổng hợp điện thoại gập đáng mua nhất tháng 7/2026 theo từng nhu cầu sử dụng. Nguồn: YouTube"
 tldr: "Tháng 7/2026, ở phân khúc <strong>toàn diện</strong> đáng chú ý nhất là <strong>Samsung Galaxy Z Fold 7</strong>, màn hình 8 inch, camera 200MP, giá từ khoảng 39,5 triệu đồng. Phân khúc <strong>mỏng nhẹ</strong> có <strong>Honor Magic V5</strong>, độ dày chỉ 8,8mm khi gập lại, mỏng nhất thế giới hiện nay. Với người muốn trải nghiệm thiết kế <strong>độc đáo nhất</strong>, <strong>Samsung Galaxy Z TriFold</strong> gập ba đầu tiên trên thị trường là lựa chọn khác biệt, dù giá bán lên tới 2.899 USD. Bài viết phân tích điểm mạnh và đối tượng phù hợp cho từng mẫu."
 tags: ["DienThoaiGap", "TopSanPham", "Samsung", "Honor", "TinTuc"]
-about: ["Samsung Galaxy Z Fold 7", "Honor Magic V5", "Samsung Galaxy Z TriFold"]
+about: ["Samsung Galaxy Z Fold 7", "Honor Magic V5", "Samsung Galaxy Z TriFold", "Samsung Galaxy Z Flip 7", "Motorola Razr 60 Ultra"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các dòng điện thoại gập, thiết bị di động cao cấp cho người dùng Việt."
 sourceUrl: "https://www.samsung.com/vn/smartphones/galaxy-z-fold7/"
 sourceName: "Samsung, Honor và các kênh đánh giá công nghệ"
@@ -49,6 +49,7 @@ Trước thềm Samsung dự kiến ra mắt thế hệ Galaxy Z Fold 8 Wide v�
     <tr><td>Toàn diện</td><td>Samsung Galaxy Z Fold 7, màn 8 inch, camera 200MP</td></tr>
     <tr><td>Mỏng nhẹ</td><td>Honor Magic V5, dày 8,8mm khi gập</td></tr>
     <tr><td>Độc đáo nhất</td><td>Samsung Galaxy Z TriFold, gập ba, 2.899 USD</td></tr>
+    <tr><td>Gập vỏ sò</td><td>Galaxy Z Flip 7, Motorola Razr 60 Ultra</td></tr>
     <tr><td>Lưu ý</td><td>Galaxy Z Fold 8 Wide dự kiến ra mắt 22/7/2026</td></tr>
   </table>
 </div>
@@ -86,6 +87,10 @@ Do mức giá cao và số lượng bản lề gấp đôi so với điện tho�
   <img decoding="async" src="https://i.ytimg.com/vi/XLKX07dIElA/hqdefault.jpg" alt="So sanh dien thoai gap Samsung Oppo Honor 2026" loading="lazy" width="1280" height="480">
   <figcaption>Thị trường điện thoại gập ngày càng đa dạng với nhiều lựa chọn từ Samsung, Oppo và Honor. Nguồn: YouTube</figcaption>
 </figure>
+
+## Gập vỏ sò nhỏ gọn: Galaxy Z Flip 7 và Motorola Razr 60 Ultra
+
+Bên cạnh dòng gập kiểu sách, nhóm gập vỏ sò là lựa chọn đáng cân nhắc cho người ưu tiên sự nhỏ gọn và thời trang. Samsung Galaxy Z Flip 7 là cái tên phổ biến nhất phân khúc này, với màn hình ngoài lớn gần như tràn viền cho phép thao tác nhanh nhiều tác vụ mà không cần mở máy, cấu hình flagship và khả năng bỏ gọn trong túi nhỏ. Đối thủ trực tiếp là Motorola Razr 60 Ultra, gây ấn tượng với màn hình ngoài lớn dùng được gần như một chiếc điện thoại thu nhỏ, thiết kế lưng da nhiều màu trẻ trung. Cả hai đều có giá dễ tiếp cận hơn dòng gập kiểu sách, phù hợp người muốn trải nghiệm điện thoại gập nhưng vẫn ưu tiên tính di động và mức giá vừa phải.
 
 ## Lưu ý khi chốt mua điện thoại gập trong tháng 7/2026
 

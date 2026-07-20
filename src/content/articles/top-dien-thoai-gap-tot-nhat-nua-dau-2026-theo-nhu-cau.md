@@ -13,7 +13,7 @@ heroAlt: "Tổng hợp các điện thoại gập tốt nhất nửa đầu 2026
 heroCaption: "Những điện thoại gập đáng chú ý nhất nửa đầu 2026, chọn theo từng nhu cầu. Nguồn: YouTube"
 tldr: "Nửa đầu 2026 có nhiều điện thoại gập đáng chú ý, và lựa chọn tốt nhất tùy nhu cầu. Về <strong>gập dọc cao cấp</strong>, Samsung Galaxy Z Fold 8 và Honor Magic V6 dẫn đầu. Muốn <strong>mỏng nhẹ nhất</strong>, Honor Magic V5 với độ mỏng 8,8mm gây ấn tượng. Cần <strong>pin lớn</strong>, Honor Magic V6 với pin 6600mAh nổi bật. Thích <strong>gập vỏ sò thời trang</strong>, Samsung Galaxy Z Flip 8 và Motorola Razr 70 Ultra đáng cân nhắc. Quan trọng là chọn đúng theo cách dùng và phong cách của bạn."
 tags: ["DienThoaiGap", "Foldable2026", "TopList", "GalaxyZFold"]
-about: ["Điện thoại gập 2026", "Samsung Galaxy Z Fold 8", "Honor Magic V6", "Foldable"]
+about: ["Samsung Galaxy Z Fold 8", "Samsung Galaxy Z Flip 8", "Honor Magic V6", "Honor Magic V5", "Motorola Razr 70 Ultra"]
 authorBio: "Founder LongTechVision. Theo dõi các diễn biến lớn của ngành công nghệ và thị trường thiết bị tại Việt Nam."
 sourceUrl: "https://techvision.click/blog.html"
 sourceName: "Tổng hợp điện thoại gập 2026 - LongTechVision"
