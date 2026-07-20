@@ -75,7 +75,7 @@ Trailer đầu tiên của Avengers: Doomsday được phát hành ngay trước
 
 <div class="art-video-label">VIDEO · Trailer chính thức Avengers: Doomsday, khởi chiếu 18/12</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/y38hvApwRfI" title="Avengers Doomsday Trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/sG1gruO7prQ" title="Avengers Doomsday Trailer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Trailer chính thức Avengers: Doomsday với màn ra mắt của Doctor Doom. Nguồn: YouTube</p>
 
