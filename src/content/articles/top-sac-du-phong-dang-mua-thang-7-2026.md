@@ -13,7 +13,7 @@ heroAlt: "Top sac du phong dang mua thang 7 2026"
 heroCaption: "Tổng hợp các mẫu sạc dự phòng đáng mua nhất theo từng nhu cầu sử dụng tháng 7/2026. Nguồn: YouTube"
 tldr: "Tháng 7/2026, ở phân khúc <strong>công suất lớn</strong> đáng chú ý nhất là <strong>Anker Prime 26.250mAh</strong> với tổng công suất 300W, đủ sạc nhanh cả MacBook Pro 16 inch. Phân khúc <strong>đa dụng cho laptop</strong> có <strong>UGREEN Nexode 20.000mAh 100W</strong>, tích hợp màn hình theo dõi trạng thái sạc thời gian thực. Với người cần thiết bị <strong>nhỏ gọn mang theo hằng ngày</strong>, <strong>Anker Nano 30W</strong> có dây cáp USB-C tích hợp sẵn tiện lợi. Bài viết tổng hợp điểm mạnh, đối tượng phù hợp và lưu ý khi chọn mua cho từng mẫu."
 tags: ["SacDuPhong", "Anker", "UGREEN", "PhuKien", "TinTuc"]
-about: ["Anker Prime", "UGREEN Nexode", "Anker Nano"]
+about: ["Anker Prime", "UGREEN Nexode", "Anker Nano", "Baseus Blade 2", "Xiaomi Power Bank 165W"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các sản phẩm phụ kiện công nghệ cho người dùng Việt."
 sourceUrl: "https://www.anker.com/"
 sourceName: "Anker, UGREEN, các kênh đánh giá phụ kiện công nghệ"
@@ -87,6 +87,10 @@ Phân khúc nhỏ gọn cho nhu cầu hằng ngày có Anker Nano là cái tên 
   <img decoding="async" src="https://i.ytimg.com/vi/RQSSiyeq73w/hqdefault.jpg" alt="Anker Nano sac du phong nho gon day cap tich hop 2026" loading="lazy" width="1280" height="480">
   <figcaption>Anker Nano nhỏ gọn với dây cáp tích hợp sẵn, tiện lợi cho di chuyển hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
+
+## Sạc laptop và giá tốt: Baseus Blade 2 cùng Xiaomi Power Bank 165W
+
+Bên cạnh ba lựa chọn trên, hai mẫu nữa rất đáng cân nhắc tùy nhu cầu. Baseus Blade 2 là gợi ý quen thuộc cho người thường mang laptop đi làm nhờ thiết kế dẹt bỏ gọn trong balo, công suất đủ sạc nhanh laptop mỏng nhẹ và nhiều cổng USB-C công suất cao, màn hình hiển thị dung lượng còn lại trực quan. Ở nhu cầu công suất khủng với mức giá cạnh tranh, Xiaomi Power Bank 165W là lựa chọn đáng chú ý, đủ sức sạc nhanh cả laptop lẫn điện thoại cùng lúc, dung lượng lớn phù hợp cho những chuyến đi dài hoặc khi cần dự phòng năng lượng cho nhiều thiết bị. Hai mẫu này bổ sung phương án chuyên cho laptop và một lựa chọn công suất cao giá tốt, giúp danh sách phủ đủ mọi nhu cầu di động.
 
 ## Lưu ý khi chốt mua sạc dự phòng trong tháng 7/2026
 
