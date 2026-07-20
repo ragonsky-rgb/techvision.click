@@ -55,6 +55,8 @@ Trận chung kết tổng EWC 2026 bộ môn Liên Minh Huyền Thoại đã xá
   </table>
 </div>
 
+<div class="art-callout">✅ <strong>Đã có kết quả:</strong> Trận chung kết đã kết thúc với chiến thắng 3-0 của Dplus KIA trước Karmine Corp. Xem tường thuật đầy đủ, tỉ số từng ván, tiền thưởng và MVP ở bài [Dplus KIA vô địch EWC 2026 LMHT sau khi hạ Karmine Corp 3-0](/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html).</div>
+
 ## Hai đội vượt khó vào chung kết
 
 Điểm chung của trận chung kết năm nay là cả hai đội đều đi lên bằng những chiến thắng trước các đối thủ được đánh giá cao hơn. Dplus KIA giành vé vào trận cuối sau khi đánh bại Gen.G với tỉ số 2-1 ở bán kết, một kết quả đáng chú ý bởi Gen.G là ứng viên hàng đầu và đương kim vô địch. Ở phía còn lại, Karmine Corp hạ T1 cũng với tỉ số 2-1, điều mà bài [Karmine Corp hạ T1 vào chung kết](/articles/ewc-2026-lmht-karmine-corp-ha-t1-vao-chung-ket.html) đã đề cập chi tiết. Kết quả là trận cuối vắng mặt các cái tên nặng ký nhất trước giải.
