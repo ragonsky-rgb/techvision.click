@@ -7,6 +7,7 @@
 - **Không dùng em-dash (—)** ở bất kỳ đâu. Dùng dấu phẩy, "tức là", hoặc ngoặc đơn.
 - **Tối thiểu 5 media/bài, đều phải distinct**: 1 hero + tối thiểu 3 `<figure>` + tối thiểu 1 video `<iframe>`. Hero KHÔNG được trùng ID với video embed.
 - **Độ dài thân bài ≥ 1.100 từ.** Bài dưới ~900 từ là "cụt", phải mở rộng.
+- **Bài listicle "top" BẮT BUỘC nêu ÍT NHẤT 5 tên sản phẩm cụ thể** (thương hiệu + mã model thật, ví dụ "Sony WH-1000XM6", "Samsung 990 Pro", "Roborock Saros"), KHÔNG viết chung chung kiểu "tai nghe chống ồn cao cấp" hay "SSD tốc độ cao" mà không có tên. Mỗi model kèm ít nhất 1 chi tiết thật (thông số/tầm giá VN). Tên model phải verify là có thật, KHÔNG bịa. Áp dụng cho cả bài "top ... đáng mua" lẫn "top ... tốt nhất theo nhu cầu"; nêu model ở cả bảng so sánh, `tldr`, `stats` và thân bài.
 - **Giọng trung lập**, không clickbait, không nhồi tính từ. Tiếng Việt là chính, kèm thuật ngữ tiếng Anh khi cần.
 - **Internal link rõ anchor text**: 2-3 link sang bài liên quan trong thân bài, anchor mô tả đúng đích (không dùng "tại đây").
 - **Số liệu phải có nguồn thật** (báo/hãng), ghi rõ trong `sourceUrl` / `sourceDomains`. Tin đồn phải nói rõ là tin đồn.
