@@ -5,8 +5,8 @@ description: "Rò rỉ trước Unpacked 22/7 hé lộ Galaxy Watch 9 và Watch 
 keywords: "Galaxy Watch 9, Galaxy Watch Ultra 2, Galaxy Watch 9 ro ri, Galaxy Unpacked 22/7 2026, dong ho Samsung 2026"
 category: "Wearable"
 type: "tin-tuc"
-datePublished: "2026-07-15T16:50:00+07:00"
-dateModified: "2026-07-15T16:50:00+07:00"
+datePublished: "2026-07-21T21:00:00+07:00"
+dateModified: "2026-07-21T21:00:00+07:00"
 deck: "Chỉ còn ít ngày nữa là tới sự kiện Galaxy Unpacked ngày 22/7 tại London, và loạt rò rỉ mới nhất đã hé lộ gần như toàn bộ về hai mẫu đồng hồ Galaxy Watch 9 và Galaxy Watch Ultra 2. Theo các nguồn tin, Ultra 2 nâng pin lên khoảng 800mAh, dùng chip Snapdragon Wear Elite và bổ sung ba cảm biến sức khỏe thử nghiệm chưa từng có. Bản Watch 9 tiêu chuẩn cũng được cho là tăng pin, thêm định vị siêu băng rộng UWB và tính năng đo thính lực. Đây đều là thông tin rò rỉ, cần chờ Samsung xác nhận chính thức."
 heroImage: "https://i.ytimg.com/vi/BPQDYohpuxA/hqdefault.jpg"
 heroAlt: "Rò rỉ thiết kế Samsung Galaxy Watch 9 và Galaxy Watch Ultra 2 trước Unpacked 22/7/2026"
@@ -40,7 +40,7 @@ related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Galaxy Unpacked 22/7/2026: Z Fold 8, Z Flip 8, Galaxy Glasses" }
   - { href: "/articles/samsung-health-ai-2026-galaxy-watch-tro-ly-suc-khoe-chu-dong.html", cat: "AI", title: "Samsung Health AI 2026: Galaxy Watch thành trợ lý sức khỏe" }
   - { href: "/articles/cach-chon-dong-ho-thong-minh-smartwatch-2026-tieu-chi-tuong-thich.html", cat: "Wearable", title: "Cách chọn đồng hồ thông minh 2026: tiêu chí và tương thích" }
-featured: false
+featured: true
 ---
 
 Chỉ còn ít ngày nữa là tới sự kiện Galaxy Unpacked ngày 22/7 tại London, nhưng gần như toàn bộ thông tin về hai mẫu đồng hồ mới của Samsung đã lộ ra qua loạt rò rỉ dày đặc. Galaxy Watch 9 và Galaxy Watch Ultra 2 được cho là mang tới những nâng cấp đáng kể về pin, chip xử lý và đặc biệt là cảm biến sức khỏe, cho thấy Samsung đang muốn đẩy mạnh hướng đi biến chiếc đồng hồ thành một thiết bị theo dõi sức khỏe nghiêm túc chứ không chỉ đếm bước chân.

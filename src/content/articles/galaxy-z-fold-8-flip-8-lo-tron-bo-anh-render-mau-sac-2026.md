@@ -5,8 +5,8 @@ description: "Trọn bộ ảnh render Galaxy Z Fold 8, Z Fold 8 Ultra và Z Fli
 keywords: "Galaxy Z Fold 8 render, Galaxy Z Flip 8 mau sac, Z Fold 8 Ultra 200MP, Samsung Unpacked 22-7, Z Fold 8 Flip 8 anh render"
 category: "Công nghệ"
 type: "tin-tuc"
-datePublished: "2026-07-18T10:30:00+07:00"
-dateModified: "2026-07-18T10:30:00+07:00"
+datePublished: "2026-07-21T20:30:00+07:00"
+dateModified: "2026-07-21T20:30:00+07:00"
 deck: "Chỉ còn vài ngày nữa là tới sự kiện Galaxy Unpacked, và Samsung gần như không còn gì để giữ bí mật. Một loạt ảnh render trông rất giống ảnh báo chí chính thức của Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 vừa rò rỉ, hé lộ trọn vẹn thiết kế, màu sắc cùng thông số camera của cả ba mẫu. Đáng chú ý nhất, bản Z Fold 8 Ultra lộ cụm ba camera với cảm biến chính lên tới 200MP và ống kính tele zoom quang 3x, trong khi bản Z Fold 8 tiêu chuẩn dùng bộ đôi 50MP. Bên cạnh phần cứng, các ảnh concept về giao diện One UI mới với ngôn ngữ thiết kế Fluid AI cũng xuất hiện, và ngôi sao BTS J-Hope thậm chí bị bắt gặp cầm trên tay một chiếc Z Fold 8 màu tím. Đây là những hình ảnh rõ nét nhất về bộ đôi gập mới của Samsung trước giờ G ngày 22/7 tại London."
 heroImage: "https://techvision.click/images/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026/z-fold-8-ba-che-do.jpg"
 heroAlt: "Ảnh render Galaxy Z Fold 8 ở ba chế độ gập mở rò rỉ trước sự kiện Unpacked 22/7"
@@ -40,7 +40,7 @@ related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Công nghệ", title: "Samsung Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
   - { href: "/articles/samsung-galaxy-z-fold-8-ultra-camera-200mp-unpacked-22-7-2026.html", cat: "Công nghệ", title: "Galaxy Z Fold 8 Ultra: camera 200MP, Unpacked 22/7" }
   - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Công nghệ", title: "Galaxy Z Fold 8, Flip 8 giá đặt trước tại Việt Nam" }
-featured: false
+featured: true
 ---
 
 Chỉ còn vài ngày nữa là tới sự kiện Galaxy Unpacked, và dường như Samsung không còn gì để giữ bí mật. Một loạt ảnh render trông rất giống ảnh báo chí chính thức của Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 vừa rò rỉ trên mạng, hé lộ trọn vẹn thiết kế, màu sắc cùng thông số camera của cả ba mẫu. Đây là những hình ảnh rõ nét nhất về bộ đôi gập mới của Samsung trước giờ G.
