@@ -11,9 +11,9 @@ deck: "Marvel vừa tung trailer đầu tiên của Avengers: Doomsday và mở 
 heroImage: "https://i.ytimg.com/vi/irVNGjRFZGk/maxresdefault.jpg"
 heroAlt: "Avengers Doomsday chieu chuan Infinity Vision tai rap IMAX Laser Viet Nam 2026"
 heroCaption: "Avengers: Doomsday khởi chiếu 18/12/2026 kèm chuẩn rạp Infinity Vision. Nguồn: YouTube"
-tldr: "Marvel phát hành trailer đầu tiên của <strong>Avengers: Doomsday</strong> (chiếu <strong>18/12/2026</strong>) và mở bán vé theo chuẩn <strong>Infinity Vision</strong>, chứng nhận rạp PLF của Disney đòi màn rộng <strong>tối thiểu 45 ft</strong>, máy chiếu <strong>laser</strong>, độ sáng ≥14 footlambert và âm thanh Dolby Atmos hoặc 7.1. Tại Việt Nam, các rạp dùng <strong>IMAX with Laser</strong> gồm CGV Sư Vạn Hạnh, Galaxy Sala, CGV AEON Bình Tân và CGV Vincom Metropolis Liễu Giai (Hà Nội) là những nơi đạt tiêu chí kỹ thuật. Các rạp IMAX máy Xenon cũ như Landmark 81, VivoCity, AEON Hà Đông nhiều khả năng không đạt."
+tldr: "Marvel phát hành trailer đầu tiên của <strong>Avengers: Doomsday</strong> (chiếu <strong>18/12/2026</strong>) và mở bán vé theo chuẩn <strong>Infinity Vision</strong>, chứng nhận rạp PLF của Disney đòi màn rộng <strong>tối thiểu 45 ft</strong>, máy chiếu <strong>laser</strong>, độ sáng ≥14 footlambert và âm thanh Dolby Atmos hoặc 7.1. Tại Việt Nam, các rạp dùng <strong>IMAX with Laser</strong> gồm CGV Sư Vạn Hạnh, Galaxy Sala, CGV AEON Bình Tân (TP.HCM), CGV Vincom Metropolis Liễu Giai và Galaxy CineX Hanoi Centre (Hà Nội) là những nơi đạt tiêu chí kỹ thuật. Các rạp IMAX máy Xenon cũ như Landmark 81, VivoCity, AEON Hà Đông nhiều khả năng không đạt."
 tags: ["AvengersDoomsday", "InfinityVision", "IMAX", "Marvel", "TinTuc"]
-about: ["Avengers: Doomsday", "Infinity Vision", "IMAX with Laser", "CGV Sư Vạn Hạnh", "Galaxy Sala", "Marvel Studios"]
+about: ["Avengers: Doomsday", "Infinity Vision", "IMAX with Laser", "CGV Sư Vạn Hạnh", "Galaxy Sala", "Galaxy CineX Hanoi Centre", "Marvel Studios"]
 authorBio: "Founder LongTechVision. Theo dõi các diễn biến lớn của ngành công nghệ, giải trí và thị trường thiết bị tại Việt Nam."
 sourceUrl: "https://www.marvel.com/articles/movies/avengers-doomsday-trailer-infinity-vision-tickets"
 sourceName: "Marvel, Forbes, FlatpanelsHD, CGV Cinemas"
@@ -22,14 +22,14 @@ stats:
   - { num: "18/12/2026", label: "Ngày Avengers: Doomsday khởi chiếu" }
   - { num: "45 ft", label: "Bề rộng màn tối thiểu để đạt chuẩn Infinity Vision" }
   - { num: "14 fL", label: "Độ sáng tối thiểu khi chiếu 2D theo chuẩn" }
-  - { num: "4 rạp", label: "Số rạp IMAX Laser tại VN đạt tiêu chí kỹ thuật" }
+  - { num: "5 rạp", label: "Số rạp IMAX Laser tại VN đạt tiêu chí kỹ thuật" }
   - { num: "300", label: "Rạp PLF quốc tế được chứng nhận (tháng 4/2026)" }
   - { num: "9/2026", label: "Thời điểm chương trình khởi động với Endgame Encore" }
 faq:
   - q: "Infinity Vision là gì?"
     a: "Infinity Vision là chương trình chứng nhận rạp Premium Large Format (PLF) do Walt Disney lập ra, cho khán giả biết một phòng chiếu đã đạt các tiêu chuẩn kỹ thuật gồm màn hình lớn, máy chiếu laser đủ sáng và âm thanh immersive. Để được cấp chứng nhận, một phòng chiếu cần màn rộng tối thiểu khoảng 45 ft (một số nguồn ghi 50 ft), độ sáng ít nhất 14 footlambert khi chiếu 2D và hệ thống âm thanh Dolby Atmos hoặc 7.1. Đây là cách Disney bảo chứng chất lượng trình chiếu cho các bom tấn của hãng, bắt đầu áp dụng rộng từ tháng 9/2026."
   - q: "Ở Việt Nam xem Avengers: Doomsday chuẩn Infinity Vision ở rạp nào?"
-    a: "Vì tiêu chí đòi máy chiếu laser, các rạp phù hợp nhất tại Việt Nam là những phòng dùng IMAX with Laser, gồm CGV Sư Vạn Hạnh, Galaxy Sala (Thiso Mall, Thủ Thiêm), CGV AEON Bình Tân tại TP.HCM và CGV Vincom Metropolis Liễu Giai tại Hà Nội. Đây là các phòng đạt tiêu chí kỹ thuật, còn nhãn Infinity Vision chính thức sẽ hiển thị trên trang đặt vé khi rạp áp dụng. Bạn nên kiểm tra định dạng phòng ngay lúc chọn suất chiếu."
+    a: "Vì tiêu chí đòi máy chiếu laser, các rạp phù hợp nhất tại Việt Nam là những phòng dùng IMAX with Laser, gồm CGV Sư Vạn Hạnh, Galaxy Sala (Thiso Mall, Thủ Thiêm), CGV AEON Bình Tân tại TP.HCM, cùng CGV Vincom Metropolis Liễu Giai và Galaxy CineX Hanoi Centre tại Hà Nội. Đây là các phòng đạt tiêu chí kỹ thuật, còn nhãn Infinity Vision chính thức sẽ hiển thị trên trang đặt vé khi rạp áp dụng. Bạn nên kiểm tra định dạng phòng ngay lúc chọn suất chiếu."
   - q: "Vì sao IMAX ở Landmark 81 lại chưa chắc đạt chuẩn?"
     a: "CGV Vincom Landmark 81 có màn IMAX lớn nhất Việt Nam nhưng vẫn dùng máy chiếu Xenon thế hệ cũ với độ phân giải kỹ thuật số 2K, không phải máy laser. Trong khi đó, tiêu chí Infinity Vision nhấn mạnh máy chiếu laser và độ sáng cao, nên một phòng IMAX Xenon dù màn rất to vẫn có thể không đáp ứng. Tương tự là các phòng IMAX Xenon tại VivoCity và AEON Hà Đông."
   - q: "Infinity Vision khác gì IMAX và Dolby Cinema?"
@@ -99,16 +99,16 @@ CGV Sư Vạn Hạnh là địa chỉ IMAX with Laser quen thuộc với khán g
 
 Với riêng CGV AEON Bình Tân, một vài nguồn ghi phòng laser tại đây theo định dạng riêng của CGV thay vì đúng IMAX with Laser, nên bạn hãy xác nhận lại đúng tên định dạng phòng ngay khi đặt vé để tránh nhầm lẫn.
 
-## Hà Nội: Metropolis Liễu Giai là lựa chọn laser
+## Hà Nội: Metropolis Liễu Giai và Galaxy CineX là lựa chọn laser
 
-Ở phía Bắc, phòng IMAX with Laser đầu tiên của CGV tại Hà Nội đặt ở CGV Vincom Center Metropolis Liễu Giai, chính thức mở cửa từ ngày 19/12/2025. Đây là thế hệ máy chiếu laser 4K mới với hệ thống quang học tiên tiến, cho hình ảnh sắc nét, sáng và tương phản sâu hơn, đúng nhóm tiêu chí mà Infinity Vision đề cao. Với khán giả thủ đô muốn xem Doomsday sát chuẩn nhất, đây hiện là địa chỉ hợp lý nhất.
+Ở phía Bắc, khán giả thủ đô hiện có hai địa chỉ IMAX with Laser. Phòng IMAX with Laser đầu tiên của CGV tại Hà Nội đặt ở CGV Vincom Center Metropolis Liễu Giai, chính thức mở cửa từ ngày 19/12/2025, dùng thế hệ máy chiếu laser 4K mới với hệ thống quang học tiên tiến, cho hình ảnh sắc nét, sáng và tương phản sâu hơn, đúng nhóm tiêu chí mà Infinity Vision đề cao. Bên cạnh đó, rạp flagship Galaxy CineX Hanoi Centre của Galaxy Studio, khai trương chính thức ngày 6/3/2026, cũng tiên phong đưa IMAX with Laser ra Hà Nội, đồng thời trang bị âm thanh Dolby Atmos cùng phòng màn hình Onyx Cinema LED, một tổ hợp công nghệ trình chiếu cao cấp hiếm có. Cả hai đều là lựa chọn hợp lý cho người muốn xem Doomsday sát chuẩn nhất tại thủ đô.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/EVJ8-kuI-tU/hqdefault.jpg" alt="CGV Vincom Metropolis Lieu Giai rap IMAX Laser dau tien tai Ha Noi" loading="lazy" width="1280" height="720">
   <figcaption>CGV Vincom Metropolis Liễu Giai, phòng IMAX with Laser đầu tiên tại Hà Nội. Nguồn: YouTube</figcaption>
 </figure>
 
-Ngoài phòng laser này, các cụm rạp khác ở Hà Nội hiện chủ yếu dùng định dạng thường hoặc phòng chiếu lớn không đạt chuẩn máy laser, nên nếu ưu tiên trải nghiệm hình ảnh tốt nhất, người xem nên cân nhắc di chuyển tới Metropolis thay vì chọn phòng gần nhà theo thói quen.
+Ngoài hai phòng laser này, các cụm rạp khác ở Hà Nội hiện chủ yếu dùng định dạng thường hoặc phòng chiếu lớn không đạt chuẩn máy laser, nên nếu ưu tiên trải nghiệm hình ảnh tốt nhất, người xem nên ưu tiên Metropolis Liễu Giai hoặc Galaxy CineX thay vì chọn phòng gần nhà theo thói quen.
 
 ## Rạp IMAX Xenon nên cân nhắc kỹ
 
@@ -120,7 +120,7 @@ Ngoài phòng laser này, các cụm rạp khác ở Hà Nội hiện chủ yế
 
 Khi mở bán suất chiếu tại Việt Nam, người xem nên làm ba việc để không mua nhầm. Thứ nhất, đọc kỹ tên định dạng phòng trên trang đặt vé, ưu tiên các dòng ghi rõ IMAX with Laser thay vì chỉ IMAX chung chung, và để ý xem nhãn Infinity Vision có xuất hiện hay không. Thứ hai, nếu ở khu vực có nhiều lựa chọn như TP.HCM, hãy so sánh giữa các phòng laser gần nhau về vị trí ghế và khung giờ thay vì mặc định chọn rạp quen. Thứ ba, với các suất chiếu sớm ngày đầu công chiếu thường kín chỗ rất nhanh, nên đặt trước ngay khi rạp mở bán để giữ được ghế trung tâm ở phòng laser.
 
-Tổng kết lại, Avengers: Doomsday là dịp để chuẩn rạp Infinity Vision lần đầu được nhiều khán giả Việt Nam chú ý tới, và nó vô tình làm nổi bật sự khác biệt giữa phòng IMAX laser và phòng Xenon cũ. Bốn phòng IMAX with Laser hiện có gồm CGV Sư Vạn Hạnh, Galaxy Sala, CGV AEON Bình Tân và CGV Vincom Metropolis Liễu Giai là những lựa chọn sát tiêu chí nhất tính tới thời điểm này. Danh sách có thể thay đổi khi các cụm rạp nâng cấp thiết bị hoặc khi Disney công bố chứng nhận chính thức, vì vậy người xem vẫn nên kiểm tra lại định dạng phòng ngay tại bước đặt vé.
+Tổng kết lại, Avengers: Doomsday là dịp để chuẩn rạp Infinity Vision lần đầu được nhiều khán giả Việt Nam chú ý tới, và nó vô tình làm nổi bật sự khác biệt giữa phòng IMAX laser và phòng Xenon cũ. Năm phòng IMAX with Laser hiện có gồm CGV Sư Vạn Hạnh, Galaxy Sala, CGV AEON Bình Tân, CGV Vincom Metropolis Liễu Giai và Galaxy CineX Hanoi Centre là những lựa chọn sát tiêu chí nhất tính tới thời điểm này. Danh sách có thể thay đổi khi các cụm rạp nâng cấp thiết bị hoặc khi Disney công bố chứng nhận chính thức, vì vậy người xem vẫn nên kiểm tra lại định dạng phòng ngay tại bước đặt vé.
 
 <div class="art-callout">
   💡 <strong>Lưu ý:</strong> Bài viết đối chiếu tiêu chí Infinity Vision với thiết bị từng rạp IMAX tại Việt Nam dựa trên thông tin công khai từ Marvel, Disney và CGV. Disney chưa công bố danh sách rạp certified riêng cho Việt Nam, nên hãy xác nhận nhãn định dạng khi đặt vé. Thông tin có thể thay đổi theo cập nhật của các cụm rạp.
