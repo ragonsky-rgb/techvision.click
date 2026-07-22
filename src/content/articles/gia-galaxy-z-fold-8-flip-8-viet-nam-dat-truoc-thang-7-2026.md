@@ -1,17 +1,17 @@
 ---
 slug: "gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026"
 title: "Giá Galaxy Z Fold 8, Z Flip 8 tại VN: đặt trước ở đâu lợi?"
-description: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: Flip 8 từ khoảng 28 triệu, Fold 8 từ khoảng 47 triệu, đặt trước cọc 500K nhận máy từ 8/8, so ưu đãi từng đại lý."
+description: "Giá chính hãng Galaxy Z Fold 8, Z Flip 8 tại VN: Flip 8 256GB 31,99tr, Fold 8 từ 46,99tr, Ultra từ 52,99tr, kèm so sánh ưu đãi đặt trước từng đại lý."
 keywords: "gia Galaxy Z Fold 8 Viet Nam, gia Galaxy Z Flip 8, dat truoc Galaxy Z Fold 8, dat truoc o dau loi, Galaxy Z Fold 8 Ultra gia, uu dai thu cu Galaxy Z, Samsung Z Fold 8 Flip 8 gia"
 category: "Smartphone"
 type: "tin-tuc"
-datePublished: "2026-07-22T20:00:00+07:00"
-dateModified: "2026-07-22T20:00:00+07:00"
-deck: "Ngay sau khi Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 ra mắt tại Unpacked 22/7, các đại lý Việt Nam đồng loạt mở đặt trước với cọc 500.000 đồng, giao máy sớm từ 8/8 trước ngày mở bán rộng 18/8. Bài viết tổng hợp giá dự kiến từng phiên bản và so sánh ưu đãi đặt trước ở CellphoneS, Thế Giới Di Động, FPT Shop, Viettel Store để bạn chọn nơi mua lợi nhất."
+datePublished: "2026-07-22T21:00:00+07:00"
+dateModified: "2026-07-22T21:00:00+07:00"
+deck: "Ngay sau khi Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 ra mắt tại Unpacked 22/7, các đại lý Việt Nam đồng loạt mở đặt trước với cọc 500.000 đồng, giao máy sớm từ 8/8 trước ngày mở bán rộng 18/8. Bài viết tổng hợp giá niêm yết chính hãng từng phiên bản và so sánh ưu đãi đặt trước ở CellphoneS, Thế Giới Di Động, FPT Shop, Viettel Store để bạn chọn nơi mua lợi nhất."
 heroImage: "https://i.ytimg.com/vi/EG38N3Lo0pM/hqdefault.jpg"
 heroAlt: "Gia Galaxy Z Fold 8 Z Flip 8 tai Viet Nam va uu dai dat truoc thang 7 2026"
 heroCaption: "Galaxy Z Fold 8, Z Flip 8 mở đặt trước tại Việt Nam ngay sau Unpacked 22/7. Nguồn: YouTube"
-tldr: "Sau Unpacked 22/7, <strong>Galaxy Z Flip 8</strong> tại Việt Nam có giá dự kiến từ khoảng <strong>28 triệu đồng</strong>, <strong>Galaxy Z Fold 8</strong> từ khoảng <strong>47 triệu</strong> (tùy bộ nhớ), còn <strong>Z Fold 8 Ultra</strong> đặt trước từ khoảng <strong>52,99 triệu</strong>, bản cao nhất lên tới khoảng 84 triệu. Đặt trước mở từ <strong>22/7 đến 7/8</strong>, chỉ cần cọc <strong>500.000 đồng</strong>, nhận máy sớm từ <strong>8/8</strong>, mở bán rộng <strong>18/8</strong>. Về nơi mua, mỗi đại lý mạnh một kiểu: CellphoneS quà đặt trước nhiều, Thế Giới Di Động và Samsung Store thu cũ giá cao, FPT Shop tặng phụ kiện chính hãng."
+tldr: "Sau Unpacked 22/7, giá niêm yết chính hãng tại Việt Nam: <strong>Galaxy Z Flip 8</strong> bản 256GB <strong>31,99 triệu</strong>, <strong>Galaxy Z Fold 8</strong> từ <strong>46,99 triệu</strong> (512GB 52,99 triệu, 1TB 61,99 triệu), <strong>Z Fold 8 Ultra</strong> từ <strong>52,99 triệu</strong> (512GB 58,99 triệu, 1TB 67,99 triệu). Đặt trước <strong>22/7 đến 7/8</strong>, cọc từ <strong>500.000 đồng</strong>, nhận máy sớm từ <strong>8/8</strong>, mở bán rộng <strong>18/8</strong>. Cộng ưu đãi phiếu mua hàng, thu cũ và thanh toán, giá chỉ từ có thể giảm khoảng <strong>5 triệu</strong>."
 tags: ["Smartphone", "Samsung", "GalaxyZFold8", "GalaxyZFlip8", "GiaVietNam", "DatTruoc"]
 about: ["Samsung Galaxy Z Fold 8", "Samsung Galaxy Z Flip 8", "Giá Việt Nam", "Đặt trước", "Samsung"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các sản phẩm công nghệ và giải trí cho người dùng Việt."
@@ -19,15 +19,15 @@ sourceUrl: "https://viettelstore.vn/tin-tuc/samsung-galaxy-z-fold-8-ro-ri"
 sourceName: "Viettel Store, FPT Shop, CellphoneS, Thế Giới Di Động"
 sourceDomains: "viettelstore.vn, fptshop.com.vn, cellphones.com.vn, thegioididong.com"
 stats:
-  - { num: "22/7", label: "Mở đặt trước Galaxy Z Fold 8, Z Flip 8 tại VN" }
-  - { num: "~28 triệu", label: "Giá khởi điểm dự kiến Galaxy Z Flip 8" }
-  - { num: "~47 triệu", label: "Giá khởi điểm dự kiến Galaxy Z Fold 8" }
-  - { num: "~52,99 triệu", label: "Đặt trước Z Fold 8 Ultra (Viettel Store)" }
+  - { num: "31,99tr", label: "Giá chính hãng Galaxy Z Flip 8 bản 256GB" }
+  - { num: "46,99tr", label: "Giá chính hãng Galaxy Z Fold 8 bản 256GB" }
+  - { num: "52,99tr", label: "Giá chính hãng Galaxy Z Fold 8 Ultra bản 256GB" }
   - { num: "500.000đ", label: "Tiền cọc đặt trước, nhận máy sớm từ 8/8" }
+  - { num: "~5 triệu", label: "Mức giảm khi cộng đủ ưu đãi phiếu, thu cũ, thanh toán" }
   - { num: "18/8", label: "Ngày mở bán rộng tại Việt Nam" }
 faq:
   - q: "Giá Galaxy Z Fold 8 và Z Flip 8 tại Việt Nam bao nhiêu?"
-    a: "Theo mức giá các đại lý công bố quanh sự kiện, Galaxy Z Flip 8 có giá dự kiến từ khoảng 28 triệu đến hơn 31 triệu đồng tùy bộ nhớ và chương trình, Galaxy Z Fold 8 từ khoảng 47 triệu đến 63 triệu đồng, còn Galaxy Z Fold 8 Ultra đặt trước từ khoảng 52,99 triệu đồng với bản cao nhất lên tới khoảng 84 triệu. Đây là giá dự kiến quanh thời điểm mở đặt trước, mức chính hãng cuối cùng có thể thay đổi theo phiên bản và ưu đãi."
+    a: "Theo bảng giá niêm yết chính hãng ghi nhận đồng nhất tại Thế Giới Di Động, CellphoneS và FPT Shop: Galaxy Z Flip 8 bản 256GB giá 31,99 triệu đồng; Galaxy Z Fold 8 giá 46,99 triệu (256GB), 52,99 triệu (512GB) và 61,99 triệu (1TB); Galaxy Z Fold 8 Ultra giá 52,99 triệu (256GB), 58,99 triệu (512GB) và 67,99 triệu (1TB). Nếu cộng các ưu đãi phiếu mua hàng, thu cũ và thanh toán, giá thực trả có thể giảm khoảng 5 triệu đồng."
   - q: "Đặt trước Galaxy Z Fold 8, Z Flip 8 ở đâu lợi nhất?"
     a: "Mỗi hệ thống mạnh một kiểu. CellphoneS thường có gói quà đặt trước giá trị cao hơn 1 đến 2 triệu đồng so với mua sau khi mở bán. Thế Giới Di Động và Samsung Store thường định giá thu cũ đổi mới cao hơn mặt bằng, hợp người muốn lên đời từ máy cũ. FPT Shop hay tặng phụ kiện chính hãng như bao da, sạc nhanh 45W kèm gói bảo hành mở rộng. Viettel Store áp dụng giảm tiền trực tiếp khi mua kèm gói cước. Bạn nên so sánh tổng giá trị nhận được thay vì chỉ nhìn giá niêm yết."
   - q: "Đặt trước cần cọc bao nhiêu và khi nào nhận máy?"
@@ -43,29 +43,29 @@ related:
 featured: true
 ---
 
-Ngay sau khi Samsung công bố Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 tại sự kiện Galaxy Unpacked ngày 22 tháng 7, các đại lý lớn tại Việt Nam đã đồng loạt mở chương trình đặt trước. Với người dùng đang cân nhắc lên đời điện thoại gập, câu hỏi quan trọng nhất lúc này không chỉ là giá bao nhiêu, mà còn là đặt trước ở đâu để nhận được tổng giá trị tốt nhất. Bài viết tổng hợp mức giá dự kiến từng phiên bản cùng so sánh nhanh ưu đãi đặt trước ở các hệ thống, giúp bạn ra quyết định hợp lý trong giai đoạn cao điểm.
+Ngay sau khi Samsung công bố Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 tại sự kiện Galaxy Unpacked ngày 22 tháng 7, các đại lý lớn tại Việt Nam đã đồng loạt mở chương trình đặt trước. Với người dùng đang cân nhắc lên đời điện thoại gập, câu hỏi quan trọng nhất lúc này không chỉ là giá bao nhiêu, mà còn là đặt trước ở đâu để nhận được tổng giá trị tốt nhất. Bài viết tổng hợp giá niêm yết chính hãng từng phiên bản cùng so sánh nhanh ưu đãi đặt trước ở các hệ thống, giúp bạn ra quyết định hợp lý trong giai đoạn cao điểm.
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Giá dự kiến Galaxy Z Fold 8, Flip 8 tại Việt Nam</div>
+  <div class="spec-box-title">📋 Bảng giá niêm yết chính hãng tại Việt Nam (cập nhật 22/7/2026)</div>
   <table>
-    <tr><td>Galaxy Z Flip 8</td><td>Từ khoảng 28 triệu đến hơn 31 triệu đồng</td></tr>
-    <tr><td>Galaxy Z Fold 8</td><td>Từ khoảng 47 triệu đến 63 triệu đồng</td></tr>
-    <tr><td>Galaxy Z Fold 8 Ultra</td><td>Đặt trước từ khoảng 52,99 triệu, cao nhất khoảng 84 triệu</td></tr>
-    <tr><td>Đặt trước</td><td>22/7 đến 7/8, cọc 500.000đ</td></tr>
-    <tr><td>Nhận máy</td><td>Sớm từ 8/8, mở bán rộng 18/8</td></tr>
+    <tr><td><strong>Phiên bản</strong></td><td><strong>Z Flip 8</strong></td><td><strong>Z Fold 8</strong></td><td><strong>Z Fold 8 Ultra</strong></td></tr>
+    <tr><td>256GB</td><td>31,99 triệu</td><td>46,99 triệu</td><td>52,99 triệu</td></tr>
+    <tr><td>512GB</td><td>Đang cập nhật</td><td>52,99 triệu</td><td>58,99 triệu</td></tr>
+    <tr><td>1TB</td><td>Không có</td><td>61,99 triệu</td><td>67,99 triệu</td></tr>
+    <tr><td>Giá sau ưu đãi (chỉ từ)</td><td>~26,99 triệu</td><td>~41,99 triệu</td><td>~47,99 triệu</td></tr>
   </table>
 </div>
 
 ## Giá chính thức từng phiên bản tại Việt Nam
 
-Ở phân khúc dễ tiếp cận nhất, Galaxy Z Flip 8 có giá dự kiến từ khoảng 28 triệu đến hơn 31 triệu đồng tùy dung lượng bộ nhớ và chương trình khuyến mãi đi kèm, giữ vai trò lựa chọn gập vỏ sò nhỏ gọn cho người dùng trẻ. Galaxy Z Fold 8 bản tiêu chuẩn nằm trong khoảng 47 triệu đến 63 triệu đồng, tương ứng các phiên bản bộ nhớ khác nhau, đây là mẫu gập kiểu sách với thiết kế màn hình rộng mới và trọng lượng nhẹ 201g. Cao cấp nhất là Galaxy Z Fold 8 Ultra, được một số hệ thống như Viettel Store mở đặt trước từ khoảng 52,99 triệu đồng, còn bản dung lượng cao nhất có thể lên tới khoảng 84 triệu đồng theo bảng giá mà FPT Shop công bố.
+Ở phân khúc dễ tiếp cận nhất, Galaxy Z Flip 8 bản 256GB có giá niêm yết chính hãng 31,99 triệu đồng, giữ vai trò lựa chọn gập vỏ sò nhỏ gọn cho người dùng trẻ. Galaxy Z Fold 8 bản tiêu chuẩn có giá 46,99 triệu đồng cho bản 256GB, 52,99 triệu cho bản 512GB và 61,99 triệu cho bản 1TB, đây là mẫu gập kiểu sách với thiết kế màn hình rộng mới và trọng lượng nhẹ 201g. Cao cấp nhất là Galaxy Z Fold 8 Ultra với camera 200MP, giá 52,99 triệu cho bản 256GB, 58,99 triệu cho bản 512GB và 67,99 triệu cho bản 1TB. Các mức trên là giá niêm yết ghi nhận đồng nhất giữa Thế Giới Di Động, CellphoneS và FPT Shop.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/ZPtmD3dmRss/hqdefault.jpg" alt="Galaxy Z Flip 8 gia va cau hinh chinh thuc tai Viet Nam" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z Flip 8 là bản có giá dễ tiếp cận nhất trong bộ ba gập mới. Nguồn: YouTube</figcaption>
 </figure>
 
-Cần lưu ý đây là mức giá dự kiến ghi nhận quanh thời điểm mở đặt trước, có thể chênh lệch giữa các đại lý và thay đổi khi bước vào giai đoạn mở bán chính thức. Người mua nên kiểm tra lại giá niêm yết trực tiếp trên trang của từng hệ thống trước khi đặt cọc, đồng thời so sánh với mức giá gốc quốc tế đã công bố để hình dung phần chênh do thuế và chi phí phân phối tại Việt Nam.
+Điểm đáng chú ý là giá niêm yết gần như đồng nhất giữa các hệ thống, nên yếu tố tạo khác biệt thực sự nằm ở gói ưu đãi đi kèm. Nếu cộng các khoản phiếu mua hàng, trợ giá thu cũ và ưu đãi thanh toán, giá thực trả có thể giảm khoảng 5 triệu đồng, đưa mức chỉ từ về khoảng 26,99 triệu với Flip 8, 41,99 triệu với Fold 8 và 47,99 triệu với Ultra. Người mua nên kiểm tra lại khuyến mãi trực tiếp trên trang từng đại lý trước khi đặt cọc.
 
 ## Lịch đặt trước, tiền cọc và ngày nhận máy
 
@@ -86,10 +86,10 @@ Mỗi hệ thống bán lẻ có thế mạnh riêng, nên nơi lợi nhất ph�
 <div class="spec-box">
   <div class="spec-box-title">📋 So sánh nhanh ưu đãi đặt trước</div>
   <table>
-    <tr><td>CellphoneS</td><td>Gói quà đặt trước giá trị cao, thường hơn 1 đến 2 triệu so với mua sau</td></tr>
-    <tr><td>Thế Giới Di Động</td><td>Giá sát niêm yết, kèm Galaxy Buds hoặc voucher phụ kiện, thu cũ giá tốt</td></tr>
-    <tr><td>FPT Shop</td><td>Tặng bao da, sạc nhanh 45W chính hãng và gói bảo hành mở rộng ưu đãi</td></tr>
-    <tr><td>Viettel Store</td><td>Giảm tiền trực tiếp khi mua kèm gói cước, cọc 500.000đ</td></tr>
+    <tr><td>CellphoneS</td><td>Phiếu mua hàng 2 triệu, thu cũ thêm 1 triệu, ưu đãi thanh toán 2 triệu</td></tr>
+    <tr><td>Thế Giới Di Động</td><td>Cọc 500.000đ, trả chậm 0%, thu cũ đổi mới định giá tốt</td></tr>
+    <tr><td>FPT Shop</td><td>Chọn 1 trong 2: phiếu 2 triệu kèm Vô Lo FPT, hoặc phiếu 4 triệu; thu cũ thêm tới 3 triệu, trả góp 0% tới 18 tháng</td></tr>
+    <tr><td>Viettel Store</td><td>Cọc 500.000đ, quà đặt trước, giảm thêm khi mua kèm gói cước</td></tr>
     <tr><td>Samsung Store</td><td>Thu cũ đổi mới định giá cao, nhiều ưu đãi hệ sinh thái Galaxy</td></tr>
   </table>
 </div>
@@ -117,5 +117,5 @@ Ngoài ra, người mua cũng nên cân nhắc phiên bản bộ nhớ phù hợ
 Nếu bạn đã chắc chắn về phiên bản muốn mua và có nhu cầu dùng sớm, đặt trước trong giai đoạn đầu là lựa chọn hợp lý nhờ mức cọc thấp, được nhận máy sớm từ 8/8 và giữ được quà tặng giới hạn. Ngược lại, nếu chưa vội, bạn có thể chờ tới sau ngày mở bán rộng 18/8 để tham khảo các bài đánh giá thực tế về thời lượng pin, độ bền bản lề và chất lượng camera, đồng thời quan sát xem giá có được điều chỉnh hay có thêm chương trình khuyến mãi hay không. Dù chọn cách nào, việc so sánh tổng giá trị nhận được giữa các đại lý, gồm giá bán, quà tặng, mức thu cũ và điều kiện trả góp, vẫn là bước quan trọng nhất để không mua hớ trong mùa cao điểm này.
 
 <div class="art-callout">
-  ✅ <strong>Cập nhật:</strong> Giá và ưu đãi đặt trước tổng hợp từ các hệ thống bán lẻ lớn tại Việt Nam quanh thời điểm Unpacked 22/7/2026. Mức giá là dự kiến và có thể thay đổi theo phiên bản, thời điểm và chương trình từng đại lý. LongTechVision cập nhật khi có bảng giá chính hãng đầy đủ và các chương trình mở bán chính thức.
+  ✅ <strong>Cập nhật:</strong> Giá niêm yết tổng hợp trực tiếp từ Thế Giới Di Động, CellphoneS và FPT Shop ngày 22/7/2026, ghi nhận đồng nhất giữa các hệ thống. Ưu đãi phiếu mua hàng, thu cũ và thanh toán có thể thay đổi theo thời điểm và chương trình từng đại lý. LongTechVision cập nhật khi có điều chỉnh mới.
 </div>
