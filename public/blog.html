@@ -819,6 +819,13 @@
     /* Deep-link ?cat= cuộn tới grid không bị masthead fixed che */
     .news-main { scroll-margin-top: 11rem; }
 
+    /* Focus ring cho bàn phím (taste: accessibility bắt buộc) */
+    :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+
+    /* Skip-link: ẩn tới khi Tab vào */
+    .skip-link { position: fixed; top: -100%; left: 1rem; z-index: 999; background: var(--accent); color: #fff; padding: 0.6rem 1rem; font-size: 0.8rem; border-radius: 4px; text-decoration: none; transition: top 0.2s; }
+    .skip-link:focus { top: 1rem; }
+
     /* Responsive */
     @media (max-width: 980px) {
       .news-hero { grid-template-columns: 1fr; }
@@ -857,6 +864,7 @@
 </head>
 <body>
 
+  <a class="skip-link" href="#main">Bỏ qua điều hướng</a>
   <div class="read-progress"><div class="read-progress-bar" id="progressBar"></div></div>
 
   <!-- Masthead -->
@@ -904,7 +912,7 @@
     </nav>
   </header>
 
-  <main>
+  <main id="main">
     <div class="news-head">
       <p class="nh-eyebrow">TechVision · Tin công nghệ quốc tế, dịch tiếng Việt</p>
       <h1>Tin Công Nghệ <em>TechVision</em></h1>
@@ -1200,7 +1208,7 @@
           <img class="card-thumb" src="https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg" alt="Avengers Doomsday chieu chuan Infinity Vision tai rap IMAX Laser Viet Nam 2026" loading="lazy" onerror="this.onerror=null;this.src=this.src.replace('maxresdefault','hqdefault')">
         </div>
         <h2 class="card-title">Avengers: Doomsday Infinity Vision: rạp IMAX Laser nào tại VN?</h2>
-        <p class="card-desc">Avengers: Doomsday chiếu 18/12/2026 kèm chuẩn rạp Infinity Vision. Tại Việt Nam, các rạp IMAX Laser như CGV Sư Vạn Hạnh, Galaxy Sala, Metropolis đạt tiêu chí.</p>
+        <p class="card-desc">Avengers: Doomsday chiếu 18/12/2026 kèm chuẩn Infinity Vision. Rạp IMAX Laser đạt tiêu chí: CGV Sư Vạn Hạnh, Galaxy Sala, Metropolis, Galaxy CineX Hà Nội.</p>
         <span class="card-read">Đọc thêm</span>
       </a>
 

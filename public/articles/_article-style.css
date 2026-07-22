@@ -701,3 +701,9 @@ body.dark .art-author-card { background: rgba(240,237,232,0.05); }
   a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 9pt; color: #555; }
 }
 
+
+/* Taste: tôn trọng người dùng tắt animation (prefers-reduced-motion) */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
+}

@@ -387,6 +387,17 @@
 
     /* ── Fade-up ── */
     .fu { opacity: 0; transform: translateY(24px); transition: opacity 0.72s ease, transform 0.72s ease; }
+
+    /* Taste: tiêu đề không để chữ mồ côi, focus ring bàn phím, tôn trọng reduced-motion */
+    h1, h2, h3 { text-wrap: balance; }
+    :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 3px; }
+    .skip-link { position: fixed; top: -100%; left: 1rem; z-index: 999; background: var(--accent); color: #fff; padding: 0.6rem 1rem; font-size: 0.8rem; border-radius: 4px; text-decoration: none; transition: top 0.2s; }
+    .skip-link:focus { top: 1rem; }
+    @media (prefers-reduced-motion: reduce) {
+      .fu { opacity: 1; transform: none; transition: none; }
+      html { scroll-behavior: auto; }
+      * { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
+    }
     .fu.in { opacity: 1; transform: translateY(0); }
     .fu.d1 { transition-delay: 0.1s; }
     .fu.d2 { transition-delay: 0.2s; }
@@ -792,6 +803,7 @@
 </head>
 
 <body>
+  <a class="skip-link" href="#hero">Bỏ qua điều hướng</a>
 
   <!-- Reading progress bar -->
   <div class="read-progress"><div class="read-progress-bar" id="progressBar"></div></div>
