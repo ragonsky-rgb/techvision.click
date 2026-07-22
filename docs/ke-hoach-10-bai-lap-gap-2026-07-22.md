@@ -33,7 +33,7 @@ Bằng chứng GSC 90 ngày: query "giá rtx 5090 việt nam" về đều ở v�
 
 ## Tiến độ
 
-- [ ] Bài 9
+- [x] Bài 9 (DONE: gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026)
 - [ ] Bài 1
 - [ ] Bài 5
 - [ ] Bài 8
