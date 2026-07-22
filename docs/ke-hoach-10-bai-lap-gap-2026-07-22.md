@@ -34,7 +34,7 @@ Bằng chứng GSC 90 ngày: query "giá rtx 5090 việt nam" về đều ở v�
 ## Tiến độ
 
 - [x] Bài 9 (DONE: gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026)
-- [ ] Bài 1
+- [x] Bài 1 (DONE: galaxy-z-fold-8-vs-z-fold-8-ultra-so-sanh-chon-ban-nao-2026 - doi huong sang so sanh Z Fold 8 vs Z Fold 8 Ultra thay vi vs iPhone Fold, bam su kien Unpacked)
 - [ ] Bài 5
 - [ ] Bài 8
 - [ ] Bài 2
