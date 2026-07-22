@@ -74,7 +74,40 @@ async function sitemaps() {
   (data.sitemap || []).forEach((s) => console.log(`${s.path}  ·  ${s.contents?.[0]?.submitted || 0} URL  ·  lastDl ${s.lastDownloaded || '-'}`));
 }
 
+// Keyword radar: tìm query "striking distance" (vị trí 4-20) để chọn chủ đề viết bài.
+// Đây là nhu cầu THẬT của người dùng đang tìm mà site chưa chiếm top - viết/nâng bài là ăn ngay.
+async function radar(n = 28) {
+  const sc = google.searchconsole({ version: 'v1', auth: auth() });
+  const range = { startDate: days(Number(n)), endDate: days(1) };
+  const { data } = await sc.searchanalytics.query({
+    siteUrl: SITE,
+    requestBody: { ...range, dimensions: ['query'], rowLimit: 500 },
+  });
+  const rows = data.rows || [];
+  const striking = rows.filter((r) => r.position >= 4 && r.position <= 20 && r.impressions >= 5)
+    .sort((a, b) => b.impressions - a.impressions);
+  const ctrGap = rows.filter((r) => r.position < 4 && r.impressions >= 20 && r.ctr < 0.02)
+    .sort((a, b) => b.impressions - a.impressions);
+
+  console.log(`\n══ KEYWORD RADAR ${range.startDate} → ${range.endDate} (${rows.length} query có dữ liệu) ══`);
+  console.log(`\n── 🎯 Striking distance (pos 4-20, viết bài mới / nâng bài cũ) — ${striking.length} query ──`);
+  striking.slice(0, 40).forEach((r, i) => {
+    console.log(
+      `${String(i + 1).padStart(2)}. ${r.keys[0].slice(0, 55).padEnd(55)} ` +
+      `impr ${String(r.impressions).padStart(5)} · pos ${r.position.toFixed(1).padStart(5)} · clicks ${r.clicks}`
+    );
+  });
+  console.log(`\n── ⚠️ CTR gap (đã top 1-3 nhưng CTR < 2%: sửa title/description) — ${ctrGap.length} query ──`);
+  ctrGap.slice(0, 15).forEach((r, i) => {
+    console.log(
+      `${String(i + 1).padStart(2)}. ${r.keys[0].slice(0, 55).padEnd(55)} ` +
+      `impr ${String(r.impressions).padStart(5)} · pos ${r.position.toFixed(1)} · CTR ${(r.ctr * 100).toFixed(1)}%`
+    );
+  });
+  console.log('\nGợi ý: chọn 1-2 query striking-distance có impressions cao nhất chưa có bài riêng làm chủ đề batch tới.');
+}
+
 const [cmd, arg] = process.argv.slice(2);
-const run = { report: () => report(arg), inspect: () => inspect(arg), sitemap: () => sitemap(arg), sitemaps };
-(run[cmd] || (() => console.error('Lệnh: report | inspect | sitemap | sitemaps')))()
+const run = { report: () => report(arg), radar: () => radar(arg || 28), inspect: () => inspect(arg), sitemap: () => sitemap(arg), sitemaps };
+(run[cmd] || (async () => console.error('Lệnh: report | radar | inspect | sitemap | sitemaps')))()
   .catch((e) => { console.error('❌', e.errors?.[0]?.message || e.message); process.exit(1); });

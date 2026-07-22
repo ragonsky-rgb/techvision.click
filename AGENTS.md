@@ -31,6 +31,22 @@ Kèm theo (khi tới kỳ): refresh 1 bài "tháng cũ" sang tháng hiện tại
 
 Batch nhỏ hơn 4 bài CHỈ chấp nhận khi thật sự không kiếm đủ chủ đề mới, dedup sạch, video đã verify thật cho một thể loại. Khi đó ghi rõ lý do bỏ bớt bài nào.
 
+## 0d. Keyword radar - chọn chủ đề theo dữ liệu (GSC + OpenSEO)
+
+Trước khi chọn chủ đề cho batch (nhất là bài cẩm nang/top), chạy radar để viết đúng thứ người dùng ĐANG tìm:
+
+1. `node scripts/gsc/gsc.mjs radar 28` - liệt kê query **striking distance** (vị trí 4-20, sắp theo impressions) và query **CTR gap** (top 1-3 nhưng CTR < 2%).
+   - Striking distance chưa có bài riêng → ứng viên số 1 cho bài mới của batch.
+   - Striking distance đã có bài → nâng cấp bài đó (thêm section trả lời đúng query, cập nhật title/H2).
+   - CTR gap → chỉ sửa title/description cho hấp dẫn hơn, KHÔNG cần bài mới.
+   - Nếu báo `invalid_grant`: token Google hết hạn, nhờ anh Long chạy `cd scripts/gsc && npm run auth` (cần đăng nhập Google, AI không tự làm).
+2. **OpenSEO** (tra volume/độ khó khi cần, self-host tại `/Users/nguyenlong/open-seo`):
+   - Chạy: `cd /Users/nguyenlong/open-seo && docker compose up -d` → UI tại `http://localhost:3001`, MCP tại `http://localhost:3001/mcp`.
+   - Cần `DATAFORSEO_API_KEY` trong `.env` (anh Long tự dán, trả phí theo lượt gọi). Chưa có key thì bỏ qua tầng này, radar GSC vẫn đủ dùng.
+   - Nối vào Claude Code: `claude mcp add --transport http openseo http://localhost:3001/mcp`. Skill kèm theo đã cài ở `~/.claude/skills/openseo-*` (keyword-research, seo-project-setup, competitor-analysis).
+   - Quy trình chuẩn của skill keyword-research: lấy query striking-distance từ radar → `get_keyword_metrics` để gắn volume/KD/intent → ưu tiên query volume khá + KD thấp + đúng ngách.
+3. Chủ đề chọn từ radar vẫn phải qua dedup §0b và cơ cấu batch §0c như thường.
+
 ## 1. Vị trí & định dạng bài
 - Bài mới: `src/content/articles/<slug>.md` (Astro content collection, render bởi `src/layouts/ArticleLayout.astro`).
 - Bài cũ dạng HTML: `public/articles/*.html` (legacy, chỉ sửa khi cần).
