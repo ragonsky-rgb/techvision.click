@@ -35,11 +35,11 @@ Bằng chứng GSC 90 ngày: query "giá rtx 5090 việt nam" về đều ở v�
 
 - [x] Bài 9 (DONE: gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026)
 - [x] Bài 1 (DONE: galaxy-z-fold-8-vs-z-fold-8-ultra-so-sanh-chon-ban-nao-2026 - doi huong sang so sanh Z Fold 8 vs Z Fold 8 Ultra thay vi vs iPhone Fold, bam su kien Unpacked)
-- [ ] Bài 5
-- [ ] Bài 8
+- [x] Bài 5 (DONE: tren-tay-samsung-galaxy-glasses-kinh-ai-gemini-android-xr-2026 - goc trai nghiem/tren tay)
+- [x] Bài 8 (DONE: gia-rtx-5090-5090-ti-viet-nam-thang-8-2026 - noi chuoi gia VN thang 8, slug moi)
 - [ ] Bài 2
 - [ ] Bài 3
-- [ ] Bài 4
+- [x] Bài 4 (DONE: xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026 - doi sang Xiaomi 17 vs iQOO 15 vi ca 2 co bai goc + media that; huong so sanh camera Leica vs gaming/pin)
 - [ ] Bài 6
 - [ ] Bài 7
 - [ ] Bài 10
