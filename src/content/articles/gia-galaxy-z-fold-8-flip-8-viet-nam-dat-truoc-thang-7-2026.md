@@ -6,12 +6,12 @@ keywords: "gia Galaxy Z Fold 8 Viet Nam, gia Galaxy Z Flip 8, dat truoc Galaxy Z
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-22T21:00:00+07:00"
-dateModified: "2026-07-22T21:00:00+07:00"
+dateModified: "2026-07-22T21:30:00+07:00"
 deck: "Ngay sau khi Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 ra mắt tại Unpacked 22/7, các đại lý Việt Nam đồng loạt mở đặt trước với cọc 500.000 đồng, giao máy sớm từ 8/8 trước ngày mở bán rộng 18/8. Bài viết tổng hợp giá niêm yết chính hãng từng phiên bản và so sánh ưu đãi đặt trước ở CellphoneS, Thế Giới Di Động, FPT Shop, Viettel Store để bạn chọn nơi mua lợi nhất."
 heroImage: "https://i.ytimg.com/vi/EG38N3Lo0pM/hqdefault.jpg"
 heroAlt: "Gia Galaxy Z Fold 8 Z Flip 8 tai Viet Nam va uu dai dat truoc thang 7 2026"
 heroCaption: "Galaxy Z Fold 8, Z Flip 8 mở đặt trước tại Việt Nam ngay sau Unpacked 22/7. Nguồn: YouTube"
-tldr: "Sau Unpacked 22/7, giá niêm yết chính hãng tại Việt Nam: <strong>Galaxy Z Flip 8</strong> bản 256GB <strong>31,99 triệu</strong>, <strong>Galaxy Z Fold 8</strong> từ <strong>46,99 triệu</strong> (512GB 52,99 triệu, 1TB 61,99 triệu), <strong>Z Fold 8 Ultra</strong> từ <strong>52,99 triệu</strong> (512GB 58,99 triệu, 1TB 67,99 triệu). Đặt trước <strong>22/7 đến 7/8</strong>, cọc từ <strong>500.000 đồng</strong>, nhận máy sớm từ <strong>8/8</strong>, mở bán rộng <strong>18/8</strong>. Cộng ưu đãi phiếu mua hàng, thu cũ và thanh toán, giá chỉ từ có thể giảm khoảng <strong>5 triệu</strong>."
+tldr: "Sau Unpacked 22/7, giá niêm yết chính hãng tại Việt Nam: <strong>Galaxy Z Flip 8</strong> 256GB <strong>31,99 triệu</strong> (512GB 37,99 triệu), <strong>Galaxy Z Fold 8</strong> từ <strong>46,99 triệu</strong> (512GB 52,99 triệu, 1TB 61,99 triệu), <strong>Z Fold 8 Ultra</strong> từ <strong>52,99 triệu</strong> (512GB 58,99 triệu, 1TB 67,99 triệu). Đặt trước <strong>22/7 đến 7/8</strong>, cọc từ <strong>500.000 đồng</strong>, nhận máy sớm từ <strong>8/8</strong>, mở bán rộng <strong>18/8</strong>. Cộng ưu đãi phiếu mua hàng, thu cũ và thanh toán, giá chỉ từ có thể giảm khoảng <strong>5 triệu</strong>."
 tags: ["Smartphone", "Samsung", "GalaxyZFold8", "GalaxyZFlip8", "GiaVietNam", "DatTruoc"]
 about: ["Samsung Galaxy Z Fold 8", "Samsung Galaxy Z Flip 8", "Giá Việt Nam", "Đặt trước", "Samsung"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các sản phẩm công nghệ và giải trí cho người dùng Việt."
@@ -27,7 +27,7 @@ stats:
   - { num: "18/8", label: "Ngày mở bán rộng tại Việt Nam" }
 faq:
   - q: "Giá Galaxy Z Fold 8 và Z Flip 8 tại Việt Nam bao nhiêu?"
-    a: "Theo bảng giá niêm yết chính hãng ghi nhận đồng nhất tại Thế Giới Di Động, CellphoneS và FPT Shop: Galaxy Z Flip 8 bản 256GB giá 31,99 triệu đồng; Galaxy Z Fold 8 giá 46,99 triệu (256GB), 52,99 triệu (512GB) và 61,99 triệu (1TB); Galaxy Z Fold 8 Ultra giá 52,99 triệu (256GB), 58,99 triệu (512GB) và 67,99 triệu (1TB). Nếu cộng các ưu đãi phiếu mua hàng, thu cũ và thanh toán, giá thực trả có thể giảm khoảng 5 triệu đồng."
+    a: "Theo bảng giá niêm yết chính hãng ghi nhận đồng nhất tại Thế Giới Di Động, CellphoneS và FPT Shop: Galaxy Z Flip 8 giá 31,99 triệu (256GB) và 37,99 triệu (512GB); Galaxy Z Fold 8 giá 46,99 triệu (256GB), 52,99 triệu (512GB) và 61,99 triệu (1TB); Galaxy Z Fold 8 Ultra giá 52,99 triệu (256GB), 58,99 triệu (512GB) và 67,99 triệu (1TB). Nếu cộng các ưu đãi phiếu mua hàng, thu cũ và thanh toán, giá thực trả có thể giảm khoảng 5 triệu đồng."
   - q: "Đặt trước Galaxy Z Fold 8, Z Flip 8 ở đâu lợi nhất?"
     a: "Mỗi hệ thống mạnh một kiểu. CellphoneS thường có gói quà đặt trước giá trị cao hơn 1 đến 2 triệu đồng so với mua sau khi mở bán. Thế Giới Di Động và Samsung Store thường định giá thu cũ đổi mới cao hơn mặt bằng, hợp người muốn lên đời từ máy cũ. FPT Shop hay tặng phụ kiện chính hãng như bao da, sạc nhanh 45W kèm gói bảo hành mở rộng. Viettel Store áp dụng giảm tiền trực tiếp khi mua kèm gói cước. Bạn nên so sánh tổng giá trị nhận được thay vì chỉ nhìn giá niêm yết."
   - q: "Đặt trước cần cọc bao nhiêu và khi nào nhận máy?"
@@ -50,7 +50,7 @@ Ngay sau khi Samsung công bố Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 t�
   <table>
     <tr><td><strong>Phiên bản</strong></td><td><strong>Z Flip 8</strong></td><td><strong>Z Fold 8</strong></td><td><strong>Z Fold 8 Ultra</strong></td></tr>
     <tr><td>256GB</td><td>31,99 triệu</td><td>46,99 triệu</td><td>52,99 triệu</td></tr>
-    <tr><td>512GB</td><td>Đang cập nhật</td><td>52,99 triệu</td><td>58,99 triệu</td></tr>
+    <tr><td>512GB</td><td>37,99 triệu</td><td>52,99 triệu</td><td>58,99 triệu</td></tr>
     <tr><td>1TB</td><td>Không có</td><td>61,99 triệu</td><td>67,99 triệu</td></tr>
     <tr><td>Giá sau ưu đãi (chỉ từ)</td><td>~26,99 triệu</td><td>~41,99 triệu</td><td>~47,99 triệu</td></tr>
   </table>
@@ -58,7 +58,7 @@ Ngay sau khi Samsung công bố Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 t�
 
 ## Giá chính thức từng phiên bản tại Việt Nam
 
-Ở phân khúc dễ tiếp cận nhất, Galaxy Z Flip 8 bản 256GB có giá niêm yết chính hãng 31,99 triệu đồng, giữ vai trò lựa chọn gập vỏ sò nhỏ gọn cho người dùng trẻ. Galaxy Z Fold 8 bản tiêu chuẩn có giá 46,99 triệu đồng cho bản 256GB, 52,99 triệu cho bản 512GB và 61,99 triệu cho bản 1TB, đây là mẫu gập kiểu sách với thiết kế màn hình rộng mới và trọng lượng nhẹ 201g. Cao cấp nhất là Galaxy Z Fold 8 Ultra với camera 200MP, giá 52,99 triệu cho bản 256GB, 58,99 triệu cho bản 512GB và 67,99 triệu cho bản 1TB. Các mức trên là giá niêm yết ghi nhận đồng nhất giữa Thế Giới Di Động, CellphoneS và FPT Shop.
+Ở phân khúc dễ tiếp cận nhất, Galaxy Z Flip 8 có giá niêm yết chính hãng 31,99 triệu đồng bản 256GB và 37,99 triệu bản 512GB, giữ vai trò lựa chọn gập vỏ sò nhỏ gọn cho người dùng trẻ. Galaxy Z Fold 8 bản tiêu chuẩn có giá 46,99 triệu đồng cho bản 256GB, 52,99 triệu cho bản 512GB và 61,99 triệu cho bản 1TB, đây là mẫu gập kiểu sách với thiết kế màn hình rộng mới và trọng lượng nhẹ 201g. Cao cấp nhất là Galaxy Z Fold 8 Ultra với camera 200MP, giá 52,99 triệu cho bản 256GB, 58,99 triệu cho bản 512GB và 67,99 triệu cho bản 1TB. Các mức trên là giá niêm yết ghi nhận đồng nhất giữa Thế Giới Di Động, CellphoneS và FPT Shop.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/ZPtmD3dmRss/hqdefault.jpg" alt="Galaxy Z Flip 8 gia va cau hinh chinh thuc tai Viet Nam" loading="lazy" width="1280" height="720">
