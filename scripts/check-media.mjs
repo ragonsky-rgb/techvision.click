@@ -9,7 +9,10 @@ const AR = path.join(ROOT, 'src/content/articles');
 const PB = path.join(ROOT, 'public/articles');
 const SK = path.join(ROOT, 'public/su-kien');
 const MIN_WORDS = 35; // tối thiểu số từ prose giữa 2 khối media
-const UA = { 'User-Agent': 'Mozilla/5.0' };
+const UA = {
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+  'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+};
 
 const files = [];
 for (const r of [AR, PB, SK]) if (fs.existsSync(r)) for (const f of fs.readdirSync(r)) if (/\.(md|html)$/.test(f)) files.push(path.join(r, f));
