@@ -110,6 +110,11 @@
     @media(max-width:720px){.pf-grid{grid-template-columns:1fr}}
     .pf-card{display:flex;flex-direction:column;gap:0.5rem;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:1rem 1.15rem;transition:border-color .2s,transform .15s,box-shadow .2s}
     a.pf-card:hover{border-color:rgba(192,57,43,0.45);transform:translateY(-2px);box-shadow:0 10px 28px -20px rgba(28,26,23,0.45)}
+    .pf-partners{display:flex;flex-wrap:wrap;gap:0.7rem;margin:0 0 2.6rem}
+    .pf-partner{display:inline-flex;align-items:center;gap:0.55rem;border:1px solid var(--line);background:var(--surface);border-radius:99px;padding:0.45rem 1rem 0.45rem 0.5rem;font-size:0.8rem;font-weight:600;color:var(--text);transition:border-color .2s,transform .15s}
+    a.pf-partner:hover{border-color:rgba(192,57,43,0.45);transform:translateY(-1px)}
+    .pf-partner img{width:30px;height:30px;border-radius:50%;object-fit:cover;background:#fff}
+    .pf-partner.txt{padding-left:1rem}
     .pf-desc{font-size:0.8rem;color:var(--dim);line-height:1.6}
     .pf-thumb{margin:-1rem -1.15rem 0.35rem;border-radius:11px 11px 0 0;overflow:hidden;aspect-ratio:16/9;background:var(--line);display:block}
     .pf-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .25s}
@@ -187,6 +192,14 @@
       <div class="wrap">
 
         <!-- 0. BRAND ACTIVATION -->
+        <div class="pf-partners">
+          <span style="width:100%;font-size:0.66rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--dim);font-weight:700">🤝 Đối tác &amp; thương hiệu đã hợp tác</span>
+          <a class="pf-partner" href="https://fastcare.vn" target="_blank" rel="noopener"><img src="/portfolio/partners/fastcare.jpg" alt="Fastcare" loading="lazy">FASTCARE</a>
+          <a class="pf-partner" href="https://www.youtube.com/@TonyPhungStudio" target="_blank" rel="noopener"><img src="/portfolio/partners/tony-phung-studio.jpg" alt="Tony Phùng Studio" loading="lazy">Tony Phùng Studio</a>
+          <a class="pf-partner" href="https://guuads.com/" target="_blank" rel="noopener"><img src="/portfolio/partners/guuads.png" alt="GuuAds" loading="lazy">GuuAds</a>
+          <a class="pf-partner txt" href="https://www.thegioididong.com/" target="_blank" rel="noopener">Thế Giới Di Động</a>
+        </div>
+
         <section class="pf-section" id="san-pham">
           <h2 class="pf-h">🧭 Phát triển sản phẩm &amp; dịch vụ mới</h2>
           <p class="pf-sub">Dự án xây dựng dịch vụ mới cho doanh nghiệp: nghiên cứu chương trình đối tác, chuẩn bị hồ sơ và làm việc trực tiếp với đối tác quốc tế.</p>
