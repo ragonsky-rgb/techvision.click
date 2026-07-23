@@ -6,7 +6,7 @@ keywords: "iPhone 18 Pro lộ ảnh, hacker hack iPhone 18, Tata Electronics b�
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-07-01T21:00:00+07:00"
-dateModified: "2026-07-01T21:00:00+07:00"
+dateModified: "2026-07-23T14:15:00+07:00"
 deck: "Một nhóm tin tặc vừa công bố hơn 630GB dữ liệu đánh cắp từ Tata Electronics, đối tác sản xuất quan trọng của Apple tại Ấn Độ, làm rò rỉ hàng loạt ảnh, video thử độ bền và sơ đồ linh kiện của iPhone 18 Pro chưa ra mắt. Đây được xem là một trong những vụ rò rỉ lớn nhất trong lịch sử Apple."
 heroImage: "https://i.ytimg.com/vi/YBpl_ZvW7Pw/hqdefault.jpg"
 heroAlt: "iPhone 18 Pro anh that ro ri hacker tan cong Tata Electronics 2026"
@@ -110,16 +110,13 @@ Với những dòng máy sắp ra mắt được trang bị chip mới và các 
 
 Ngoài phần cứng bên trong, một đoạn video khác lan truyền trên X còn cho thấy quá trình kiểm tra phụ kiện đi kèm iPhone 18, được cho là cũng nằm trong kho dữ liệu bị đánh cắp từ Tata Electronics. Đoạn video ghi lại các bước kiểm tra chất lượng phụ kiện trước khi xuất xưởng, một quy trình mà Apple thường thực hiện rất kín kẽ tại các nhà máy đối tác để đảm bảo đồng bộ tiêu chuẩn trước ngày ra mắt sản phẩm chính thức.
 
-<div class="art-video-label">VIDEO · Quá trình kiểm tra phụ kiện iPhone 18 rò rỉ trên X</div>
-<blockquote class="twitter-tweet"><a href="https://twitter.com/DeepseaIX/status/2070771280442478849"></a></blockquote>
-<p class="art-video-caption">Video rò rỉ cho thấy quá trình kiểm tra phụ kiện đi kèm iPhone 18. Nguồn: X (@DeepseaIX)</p>
 
 ## iPhone 18 bản tiêu chuẩn: tin đồn dời sang năm 2027
 
 Một chi tiết đáng chú ý khác cũng xuất hiện trên X ngay sau vụ rò rỉ, cho rằng iPhone 18 bản tiêu chuẩn, tức phiên bản thường không phải Pro, có thể sẽ không ra mắt cùng thời điểm với iPhone 18 Pro và Pro Max vào tháng 9/2026 như thông lệ, mà bị dời sang đầu năm 2027. Nếu thông tin này chính xác, đây sẽ là lần đầu tiên Apple tách lịch ra mắt giữa bản tiêu chuẩn và bản Pro xa tới vậy, thay vì cùng công bố trong một sự kiện duy nhất như nhiều năm trước đây.
 
 <div class="art-video-label">VIDEO · iPhone 18 bản tiêu chuẩn được cho là dời sang 2027</div>
-<blockquote class="twitter-tweet"><a href="https://twitter.com/SpecScout_/status/2071943278254043302"></a></blockquote>
+<blockquote class="twitter-tweet"><a href="https://x.com/SpecScout_/status/2071943278254043302"></a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p class="art-video-caption">Video được cho là của iPhone 18 bản tiêu chuẩn, dự kiến ra mắt năm 2027. Nguồn: X (@SpecScout_)</p>
 
