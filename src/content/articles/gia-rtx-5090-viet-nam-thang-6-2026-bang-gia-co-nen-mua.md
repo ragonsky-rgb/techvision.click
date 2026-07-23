@@ -1,17 +1,17 @@
 ---
 slug: "gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua"
 title: "Giá RTX 5090 tại Việt Nam tháng 7/2026: bảng giá, có nên mua?"
-description: "Giá RTX 5090 tại Việt Nam tháng 7/2026 dao động 63 tới hơn 100 triệu đồng tùy bản, tăng vì khủng hoảng GDDR7. Bảng giá theo hãng và nên mua hay chờ."
+description: "Giá RTX 5090 tại Việt Nam tháng 7/2026 dao động 65 tới hơn 105 triệu đồng tùy bản, tăng vì khủng hoảng GDDR7. Bảng giá theo hãng và nên mua hay chờ."
 keywords: "giá RTX 5090, giá RTX 5090 Việt Nam, RTX 5090 Ti 48GB, giá GPU 2026, RTX 5090 bao nhiêu tiền, card đồ họa RTX 5090, GDDR7 thiếu hàng"
 category: "Laptop"
 type: "tin-tuc"
 datePublished: "2026-06-13T16:00:00+07:00"
-dateModified: "2026-07-13T14:40:00+07:00"
+dateModified: "2026-07-23T09:00:00+07:00"
 deck: "Hơn một năm sau khi ra mắt, RTX 5090 vẫn là tấm card chơi game mạnh nhất thị trường, nhưng giá tại Việt Nam lại đang đi ngược kỳ vọng. Thay vì hạ nhiệt, giá bật tăng trở lại từ đầu 2026 vì khủng hoảng bộ nhớ GDDR7. Bài viết tổng hợp bảng giá thực tế theo từng hãng, làm rõ tin đồn RTX 5090 Ti 48GB và trả lời thẳng câu hỏi nên mua bây giờ hay chờ."
 heroImage: "https://i.ytimg.com/vi/AHodEL9WclM/maxresdefault.jpg"
 heroAlt: "Giá RTX 5090 tại Việt Nam tăng cao vì khủng hoảng bộ nhớ GDDR7 năm 2026"
 heroCaption: "RTX 5090 vẫn là card mạnh nhất nhưng giá tại Việt Nam tăng trở lại trong 2026. Nguồn: YouTube"
-tldr: "<strong>Giá RTX 5090 tại Việt Nam tháng 7/2026</strong> dao động từ khoảng <strong>63 triệu</strong> (bản thấp nhất, hiếm hàng) tới hơn <strong>100 triệu đồng</strong> (bản cao cấp như ROG Astral). Bản phổ biến như <strong>ASUS TUF</strong> từ ~73 triệu, <strong>Gigabyte Gaming OC</strong> khoảng <strong>83 triệu</strong>. Giá tăng trở lại từ đầu 2026 vì <strong>khủng hoảng bộ nhớ GDDR7</strong>, do NVIDIA ưu tiên chip nhớ cho GPU data center. <strong>RTX 5090 Ti 48GB</strong> vẫn là tin đồn, chưa bán chính thức. Nếu chưa gấp, nên chờ qua giai đoạn căng thẳng nguồn cung; nếu cần máy làm việc ngay, mua bản TUF hoặc Gaming OC là hợp lý nhất."
+tldr: "<strong>Giá RTX 5090 tại Việt Nam tháng 7/2026</strong> dao động từ khoảng <strong>65 triệu</strong> (bản thấp nhất, hiếm hàng) tới hơn <strong>105 triệu đồng</strong> (bản cao cấp như ROG Astral). Bản phổ biến như <strong>ASUS TUF</strong> khoảng 74 tới 76 triệu, <strong>Gigabyte Gaming OC</strong> khoảng <strong>84 triệu</strong>. Giá tăng trở lại từ đầu 2026 vì <strong>khủng hoảng bộ nhớ GDDR7</strong>, do NVIDIA ưu tiên chip nhớ cho GPU data center. <strong>RTX 5090 Ti 48GB</strong> vẫn là tin đồn, chưa bán chính thức. Nếu chưa gấp, nên chờ qua giai đoạn căng thẳng nguồn cung; nếu cần máy làm việc ngay, mua bản TUF hoặc Gaming OC là hợp lý nhất."
 tags: ["RTX5090", "NVIDIA", "GPU", "GiaVietNam", "GDDR7", "PCGaming"]
 about: ["NVIDIA GeForce RTX 5090", "NVIDIA", "RTX 5090 Ti", "GDDR7"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường phần cứng PC tại Việt Nam, từ giá GPU, biến động nguồn cung tới hiệu năng thực tế cho người dùng và nhà sáng tạo."
@@ -27,13 +27,13 @@ stats:
   - { num: "1999 USD", label: "Giá niêm yết gốc của NVIDIA khi ra mắt" }
 faq:
   - q: "Giá RTX 5090 tại Việt Nam tháng 7/2026 là bao nhiêu?"
-    a: "Giá dao động từ khoảng 63 triệu đồng cho bản cơ bản thấp nhất (hiếm hàng) tới hơn 100 triệu đồng cho bản cao cấp. Các bản phổ biến gồm ASUS TUF từ khoảng 73 triệu, Gigabyte Gaming OC khoảng 83 triệu, và ROG Astral trên 100 triệu đồng. Mức giá biến động theo nguồn cung bộ nhớ GDDR7 và có thể thay đổi từng tuần."
+    a: "Giá dao động từ khoảng 65 triệu đồng cho bản cơ bản thấp nhất (hiếm hàng) tới hơn 105 triệu đồng cho bản cao cấp. Các bản phổ biến gồm ASUS TUF khoảng 74 tới 76 triệu, Gigabyte Gaming OC khoảng 84 triệu, và ROG Astral trên 105 triệu đồng. Mức giá biến động theo nguồn cung bộ nhớ GDDR7 và có thể thay đổi từng tuần."
   - q: "Vì sao giá RTX 5090 lại tăng trong năm 2026?"
     a: "Nguyên nhân chính là khủng hoảng bộ nhớ GDDR7. NVIDIA ưu tiên phân bổ chip nhớ cho các GPU data center phục vụ AI vốn có biên lợi nhuận cao hơn, khiến nguồn cung cho card chơi game như RTX 5090 bị siết lại. Cung giảm trong khi cầu vẫn cao đẩy giá bán lẻ tăng trở lại từ đầu 2026."
   - q: "RTX 5090 Ti 48GB đã bán tại Việt Nam chưa?"
     a: "Chưa. RTX 5090 Ti với 48GB bộ nhớ hiện vẫn là tin đồn, NVIDIA chưa công bố hay mở bán chính thức. Trong bối cảnh thiếu hụt GDDR7, nếu ra mắt, nhiều khả năng card này sẽ có giá rất cao và hướng tới nhóm người dùng chuyên nghiệp về AI và sáng tạo nội dung hơn là game thủ phổ thông."
   - q: "Có nên mua RTX 5090 lúc này hay nên chờ?"
-    a: "Nếu cần một cỗ máy mạnh để làm việc ngay với dựng phim, render 3D hay chạy mô hình AI cục bộ, mua bản TUF hoặc Gaming OC ở mức 73 tới 83 triệu là hợp lý. Nếu chỉ chơi game và chưa gấp, nên chờ qua giai đoạn căng thẳng nguồn cung GDDR7, vì giá có thể hạ nhiệt khi cung bộ nhớ ổn định trở lại."
+    a: "Nếu cần một cỗ máy mạnh để làm việc ngay với dựng phim, render 3D hay chạy mô hình AI cục bộ, mua bản TUF hoặc Gaming OC ở mức 74 tới 84 triệu là hợp lý. Nếu chỉ chơi game và chưa gấp, nên chờ qua giai đoạn căng thẳng nguồn cung GDDR7, vì giá có thể hạ nhiệt khi cung bộ nhớ ổn định trở lại."
   - q: "RTX 5090 có bao nhiêu bộ nhớ và mạnh cỡ nào?"
     a: "RTX 5090 tiêu chuẩn có 32GB bộ nhớ GDDR7, là card chơi game mạnh nhất thị trường hiện nay, dư sức cân mọi tựa game ở độ phân giải 4K. Ngoài game, dung lượng nhớ lớn còn rất hữu ích cho dựng video 8K, render 3D và chạy các mô hình AI ngay trên máy cá nhân."
 related:
@@ -48,10 +48,10 @@ Tháng 7/2026, RTX 5090 vẫn giữ ngôi card đồ họa chơi game mạnh nh�
 <div class="spec-box">
   <div class="spec-box-title">📋 RTX 5090 · Bảng giá tham khảo tại Việt Nam (7/2026)</div>
   <table>
-    <tr><td>Bản cơ bản thấp nhất</td><td>Từ khoảng 63 triệu đồng (hiếm hàng, khó mua)</td></tr>
-    <tr><td>ASUS TUF Gaming</td><td>Từ khoảng 73 triệu đồng, bản phổ biến dễ mua</td></tr>
-    <tr><td>Gigabyte Gaming OC</td><td>Khoảng 83 triệu đồng, mức tham chiếu phổ thông</td></tr>
-    <tr><td>ASUS ROG Astral</td><td>Trên 100 triệu đồng, tản nhiệt và ép xung cao cấp</td></tr>
+    <tr><td>Bản cơ bản thấp nhất</td><td>Từ khoảng 65 triệu đồng (hiếm hàng, khó mua)</td></tr>
+    <tr><td>ASUS TUF Gaming</td><td>Khoảng 74 tới 76 triệu đồng, bản phổ biến dễ mua</td></tr>
+    <tr><td>Gigabyte Gaming OC</td><td>Khoảng 84 triệu đồng, mức tham chiếu phổ thông</td></tr>
+    <tr><td>ASUS ROG Astral</td><td>Trên 105 triệu đồng, tản nhiệt và ép xung cao cấp</td></tr>
     <tr><td>Bộ nhớ</td><td>32GB GDDR7 (bản tiêu chuẩn)</td></tr>
     <tr><td>Giá gốc NVIDIA</td><td>1999 USD khi ra mắt</td></tr>
   </table>
@@ -59,9 +59,9 @@ Tháng 7/2026, RTX 5090 vẫn giữ ngôi card đồ họa chơi game mạnh nh�
 
 ## Bảng giá RTX 5090 theo từng bản ra sao?
 
-Khoảng cách giá giữa các phiên bản RTX 5090 tại Việt Nam hiện rất rộng. Ở đáy bảng, một số bản cơ bản từng được niêm yết quanh 63 triệu đồng, nhưng gần như luôn trong tình trạng hết hàng hoặc chỉ về số lượng nhỏ giọt. Thực tế, mức giá người mua dễ tiếp cận nhất nằm ở dải 73 tới 83 triệu đồng với các bản như ASUS TUF Gaming hay Gigabyte Gaming OC.
+Khoảng cách giá giữa các phiên bản RTX 5090 tại Việt Nam hiện rất rộng. Ở đáy bảng, một số bản cơ bản từng được niêm yết quanh 65 triệu đồng, nhưng gần như luôn trong tình trạng hết hàng hoặc chỉ về số lượng nhỏ giọt. Thực tế, mức giá người mua dễ tiếp cận nhất nằm ở dải 74 tới 84 triệu đồng với các bản như ASUS TUF Gaming hay Gigabyte Gaming OC.
 
-Lên cao hơn, những bản cao cấp như ASUS ROG Astral với hệ thống tản nhiệt đồ sộ và khả năng ép xung tốt có thể vượt mốc 100 triệu đồng. Mức chênh này phản ánh cả chất lượng tản nhiệt lẫn độ khan hiếm: bản nào nguồn cung càng ít thì giá đội lên càng mạnh trong giai đoạn căng thẳng bộ nhớ hiện nay.
+Lên cao hơn, những bản cao cấp như ASUS ROG Astral với hệ thống tản nhiệt đồ sộ và khả năng ép xung tốt có thể vượt mốc 105 triệu đồng. Mức chênh này phản ánh cả chất lượng tản nhiệt lẫn độ khan hiếm: bản nào nguồn cung càng ít thì giá đội lên càng mạnh trong giai đoạn căng thẳng bộ nhớ hiện nay.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/eA5lFiP3mrs/maxresdefault.jpg" alt="RTX 5090 với 32GB GDDR7 là card chơi game mạnh nhất thị trường" loading="lazy" width="1280" height="720">
@@ -93,7 +93,7 @@ Quan trọng hơn, trong bối cảnh GDDR7 đang khan hiếm, một card tăng 
 
 ## Có nên mua RTX 5090 bây giờ hay chờ?
 
-Câu trả lời phụ thuộc vào việc bạn cần card để làm gì. Với người làm công việc đòi hỏi sức mạnh ngay như dựng phim, render 3D hay chạy mô hình AI cục bộ, thời gian là tiền bạc, và mua một bản TUF hoặc Gaming OC ở dải 73 tới 83 triệu đồng là quyết định hợp lý. Hiệu năng và 32GB bộ nhớ của RTX 5090 thừa sức phục vụ các tác vụ nặng này trong nhiều năm tới.
+Câu trả lời phụ thuộc vào việc bạn cần card để làm gì. Với người làm công việc đòi hỏi sức mạnh ngay như dựng phim, render 3D hay chạy mô hình AI cục bộ, thời gian là tiền bạc, và mua một bản TUF hoặc Gaming OC ở dải 74 tới 84 triệu đồng là quyết định hợp lý. Hiệu năng và 32GB bộ nhớ của RTX 5090 thừa sức phục vụ các tác vụ nặng này trong nhiều năm tới.
 
 Ngược lại, nếu mục đích chính chỉ là chơi game và chưa thực sự gấp, lời khuyên là chờ. Giá hiện tại đang bị thổi lên bởi yếu tố nhất thời là thiếu hụt bộ nhớ, không phản ánh giá trị thật của sản phẩm. Khi nguồn cung GDDR7 ổn định trở lại, giá nhiều khả năng sẽ hạ nhiệt. Người muốn tiết kiệm cũng có thể cân nhắc các lựa chọn phần cứng khác trong hệ sinh thái đang mở rộng, chẳng hạn nền tảng [chip Arm NVIDIA N1X cho laptop](/articles/nvidia-n1x-n1-chip-arm-laptop-computex-2026.html).
 
