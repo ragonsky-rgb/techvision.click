@@ -72,17 +72,24 @@
   // bo dau tieng Viet de so khop de dai
   function fold(s) { return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd'); }
   function search(q, n) {
-    if (!index) return [];
+    if (!index || !index.length) return [];
     var toks = fold(q).split(/[^a-z0-9]+/).filter(function (t) { return t.length > 1; });
     if (!toks.length) return [];
+    // trong so IDF: tu cang hiem trong kho bai cang quan trong
+    // ("iphone gap" phai thang "gia bao nhieu" von xuat hien khap noi)
+    var N = index.length;
+    var w = toks.map(function (t) {
+      var df = 0;
+      for (var i = 0; i < N; i++) if (index[i]._f.indexOf(t) >= 0) df++;
+      return Math.log((N + 1) / (df + 1)) + 0.05;
+    });
     return index.map(function (a) {
-      var hay = fold(a.t + ' ' + a.d + ' ' + a.c);
       var score = 0;
-      toks.forEach(function (t) {
-        if (hay.indexOf(t) >= 0) score += (fold(a.t).indexOf(t) >= 0 ? 3 : 1);
+      toks.forEach(function (t, i) {
+        if (a._f.indexOf(t) >= 0) score += w[i] * (a._ft.indexOf(t) >= 0 ? 3 : 1);
       });
       return [score, a];
-    }).filter(function (x) { return x[0] > 1; })
+    }).filter(function (x) { return x[0] > 0.6; })
       .sort(function (x, y) { return y[0] - x[0] || (y[1].dt || '').localeCompare(x[1].dt || ''); })
       .slice(0, n || 5).map(function (x) { return x[1]; });
   }
@@ -103,7 +110,10 @@
 
   function ensureIndex() {
     if (index) return Promise.resolve();
-    return fetch('/chat-index.json').then(function (r) { return r.json(); }).then(function (j) { index = j; }).catch(function () { index = []; });
+    return fetch('/chat-index.json').then(function (r) { return r.json(); }).then(function (j) {
+      j.forEach(function (a) { a._ft = fold(a.t); a._f = a._ft + ' ' + fold(a.d + ' ' + a.c); });
+      index = j;
+    }).catch(function () { index = []; });
   }
 
   function fallbackReply(q, latest) {
