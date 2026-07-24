@@ -71,9 +71,13 @@
 
   // bo dau tieng Viet de so khop de dai
   function fold(s) { return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd'); }
+  var STOP = {gia:1,bao:1,nhieu:1,la:1,gi:1,co:1,nen:1,mua:1,nao:1,khong:1,hay:1,cho:1,va:1,cua:1,den:1,tu:1,ve:1,em:1,anh:1,chi:1,cac:1,nhu:1,the:1,nay:1};
   function search(q, n) {
     if (!index || !index.length) return [];
-    var toks = fold(q).split(/[^a-z0-9]+/).filter(function (t) { return t.length > 1; });
+    var all = fold(q).split(/[^a-z0-9]+/).filter(function (t) { return t.length > 1; });
+    // bo tu dung (tu hoi pho bien) - tru khi cau hoi CHI gom tu dung
+    var toks = all.filter(function (t) { return !STOP[t]; });
+    if (!toks.length) toks = all;
     if (!toks.length) return [];
     // trong so IDF: tu cang hiem trong kho bai cang quan trong
     // ("iphone gap" phai thang "gia bao nhieu" von xuat hien khap noi)
@@ -81,7 +85,8 @@
     var w = toks.map(function (t) {
       var df = 0;
       for (var i = 0; i < N; i++) if (index[i]._f.indexOf(t) >= 0) df++;
-      return Math.log((N + 1) / (df + 1)) + 0.05;
+      var idf = Math.log((N + 1) / (df + 1)) + 0.05;
+      return idf * idf; // binh phuong de tu hiem ap dao tu pho bien
     });
     return index.map(function (a) {
       var score = 0;
@@ -89,7 +94,7 @@
         if (a._f.indexOf(t) >= 0) score += w[i] * (a._ft.indexOf(t) >= 0 ? 3 : 1);
       });
       return [score, a];
-    }).filter(function (x) { return x[0] > 0.6; })
+    }).filter(function (x) { return x[0] > 0.8; })
       .sort(function (x, y) { return y[0] - x[0] || (y[1].dt || '').localeCompare(x[1].dt || ''); })
       .slice(0, n || 5).map(function (x) { return x[1]; });
   }
