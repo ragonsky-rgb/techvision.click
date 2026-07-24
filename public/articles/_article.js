@@ -306,4 +306,9 @@
     }
   } catch (e) { /* im lặng — không làm vỡ trang bài viết */ }
 
+  // Tro ly ao TechVision (chat widget dung chung toan site)
+  var tvcs = document.createElement('script');
+  tvcs.src = '/chat-widget.js'; tvcs.defer = true;
+  document.head.appendChild(tvcs);
+
 })();

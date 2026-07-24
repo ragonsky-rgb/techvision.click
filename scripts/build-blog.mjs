@@ -151,3 +151,16 @@ if (existsSync(HOME)) {
     console.log(`✅ index.html cập nhật: 5 bài mới nhất trên trang chủ`);
   }
 }
+
+// --- Chat index: du lieu cho tro ly ao /chat-widget.js (tim bai theo cau hoi) ---
+{
+  const chatIndex = articles.map((a) => ({
+    t: a.title,
+    d: String(a.description || '').slice(0, 160),
+    u: url(a),
+    c: a.category || '',
+    dt: String(a.datePublished || '').slice(0, 10),
+  }));
+  writeFileSync('public/chat-index.json', JSON.stringify(chatIndex));
+  console.log(`✅ chat-index.json: ${chatIndex.length} bài cho trợ lý ảo`);
+}
