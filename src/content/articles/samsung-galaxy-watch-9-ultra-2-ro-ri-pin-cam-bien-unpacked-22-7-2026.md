@@ -6,7 +6,7 @@ keywords: "Galaxy Watch 9, Galaxy Watch Ultra 2, Galaxy Watch 9 ro ri, Galaxy Un
 category: "Wearable"
 type: "tin-tuc"
 datePublished: "2026-07-21T21:00:00+07:00"
-dateModified: "2026-07-21T21:00:00+07:00"
+dateModified: "2026-07-24T08:25:00+07:00"
 deck: "Chỉ còn ít ngày nữa là tới sự kiện Galaxy Unpacked ngày 22/7 tại London, và loạt rò rỉ mới nhất đã hé lộ gần như toàn bộ về hai mẫu đồng hồ Galaxy Watch 9 và Galaxy Watch Ultra 2. Theo các nguồn tin, Ultra 2 nâng pin lên khoảng 800mAh, dùng chip Snapdragon Wear Elite và bổ sung ba cảm biến sức khỏe thử nghiệm chưa từng có. Bản Watch 9 tiêu chuẩn cũng được cho là tăng pin, thêm định vị siêu băng rộng UWB và tính năng đo thính lực. Đây đều là thông tin rò rỉ, cần chờ Samsung xác nhận chính thức."
 heroImage: "https://i.ytimg.com/vi/BPQDYohpuxA/hqdefault.jpg"
 heroAlt: "Rò rỉ thiết kế Samsung Galaxy Watch 9 và Galaxy Watch Ultra 2 trước Unpacked 22/7/2026"
@@ -55,6 +55,10 @@ Chỉ còn ít ngày nữa là tới sự kiện Galaxy Unpacked ngày 22/7 tạ
     <tr><td>Cảm biến mới</td><td>3 cảm biến sức khỏe thử nghiệm</td></tr>
     <tr><td>Giá rò rỉ</td><td>Watch 9 từ 349 USD, Ultra 2 quanh 699 USD</td></tr>
   </table>
+</div>
+
+<div class="art-callout">
+  📌 <strong>Cập nhật:</strong> Galaxy Watch 9 và Watch Ultra 2 đã ra mắt chính thức tại Unpacked 22/7. Xem <a href="/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html">thông số và giá bán chính thức tại Việt Nam</a>.
 </div>
 
 ## Watch Ultra 2 và tham vọng theo dõi sức khỏe
