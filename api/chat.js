@@ -17,7 +17,7 @@ export default async function handler(req) {
   }
   if (req.method !== 'POST') return new Response('Method Not Allowed', { status: 405 });
 
-  const key = process.env.GROQ_API_KEY;
+  const key = (process.env.GROQ_API_KEY || '').trim();
   if (!key) {
     return new Response(JSON.stringify({ fallback: true, reason: 'no_key' }), {
       status: 503,
