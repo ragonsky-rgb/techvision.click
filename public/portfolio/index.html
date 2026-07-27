@@ -72,8 +72,9 @@
     .mast-logo img{width:34px;height:34px;border-radius:50%}
     .mast-logo .ml-name{font-family:var(--serif);font-size:1.18rem;font-weight:700;color:var(--text)}
     .mast-logo .ml-name em{color:var(--accent);font-style:normal}
-    .mast-nav{margin-left:auto;display:flex;gap:1.4rem;align-items:center}
-    .mast-nav a{font-size:0.66rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--dim);transition:color .2s}
+    .mast-nav{margin-left:auto;display:flex;gap:1.4rem;align-items:center;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;min-width:0}
+    .mast-nav::-webkit-scrollbar{display:none}
+    .mast-nav a{font-size:0.66rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--dim);transition:color .2s;white-space:nowrap;flex-shrink:0}
     .mast-nav a:hover,.mast-nav a.active{color:var(--accent)}
     @media(max-width:560px){.mast-nav{gap:0.9rem}.mast-logo .ml-name{font-size:1rem}.mast-nav a{font-size:0.58rem}}
 
@@ -153,6 +154,9 @@
         <a href="/su-kien/">Sự kiện</a>
         <a href="/portfolio/" class="active">Portfolio</a>
         <a href="/tai-nguyen/">Tài nguyên</a>
+        <a href="/reviews.html">Reviews</a>
+        <a href="/certificates.html">Credentials</a>
+        <a href="/cv.html">CV</a>
       </nav>
     </div>
   </header>

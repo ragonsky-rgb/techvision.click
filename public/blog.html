@@ -718,7 +718,9 @@
     .mast-search input::placeholder { color: var(--dim); }
     .mast-search input:focus { border-color: var(--accent); background: var(--bg); }
     .mast-search > svg { position: absolute; left: 0.8rem; top: 50%; transform: translateY(-50%); width: 0.9rem; height: 0.9rem; color: var(--dim); pointer-events: none; }
-    .mast-home { font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--dim); text-decoration: none; flex-shrink: 0; }
+    .mast-links { display: flex; align-items: center; gap: 1.1rem; min-width: 0; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+    .mast-links::-webkit-scrollbar { display: none; }
+    .mast-home { font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--dim); text-decoration: none; flex-shrink: 0; white-space: nowrap; }
     .mast-home:hover { color: var(--accent); }
     .mast-cats { border-top: 1px solid var(--line); position: relative; }
     .mast-cats-inner { max-width: 1180px; margin: 0 auto; display: flex; gap: 0.35rem; padding: 0.5rem 2rem; overflow-x: auto; scrollbar-width: none; -ms-overflow-style: none; -webkit-overflow-scrolling: touch; overscroll-behavior-x: contain; scroll-snap-type: x proximity; scroll-padding-left: 2rem; }
@@ -838,7 +840,7 @@
       .masthead .mast-top { padding: 0.7rem 1.2rem; gap: 0.8rem; flex-wrap: wrap; }
       .mast-logo .ml-name { display: none; }
       .mast-home { font-size: 0.58rem; letter-spacing: 0.08em; }
-      .mast-home:first-of-type { margin-left: auto; }
+      .mast-links { margin-left: auto; gap: 0.8rem; }
       .mast-search { order: 3; flex-basis: 100%; max-width: none; }
       /* Easier-to-tap category pills + scroll affordance */
       .mast-cats-inner { padding: 0.55rem 1.2rem; gap: 0.45rem; scroll-padding-left: 1.2rem; }
@@ -882,10 +884,15 @@
         <input type="search" id="searchInput" placeholder="Tìm bài viết theo từ khoá..." autocomplete="off">
         <button class="search-clear" id="searchClear" aria-label="Xoá tìm kiếm">×</button>
       </div>
-      <a href="/" class="mast-home">Trang chủ</a>
-      <a href="/su-kien/" class="mast-home">Sự kiện</a>
-      <a href="/portfolio/" class="mast-home">Portfolio</a>
-      <a href="/tai-nguyen/" class="mast-home">Tài nguyên</a>
+      <nav class="mast-links" aria-label="Liên kết trang">
+        <a href="/" class="mast-home">Trang chủ</a>
+        <a href="/su-kien/" class="mast-home">Sự kiện</a>
+        <a href="/portfolio/" class="mast-home">Portfolio</a>
+        <a href="/tai-nguyen/" class="mast-home">Tài nguyên</a>
+        <a href="/reviews.html" class="mast-home">Reviews</a>
+        <a href="/certificates.html" class="mast-home">Credentials</a>
+        <a href="/cv.html" class="mast-home">CV</a>
+      </nav>
     </div>
     <nav class="mast-cats mast-types" aria-label="Lọc theo loại bài">
       <div class="mast-cats-inner">

@@ -66,6 +66,10 @@
     }
     .back-link:hover { color: var(--accent); }
     .back-link::before { content: '←'; font-size: 1rem; line-height: 1; }
+    .tb-nav { display: flex; align-items: center; gap: 1.1rem; min-width: 0; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+    .tb-nav::-webkit-scrollbar { display: none; }
+    .tb-nav a { font-family: var(--sans); font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; white-space: nowrap; flex-shrink: 0; transition: color .2s; }
+    .tb-nav a:hover, .tb-nav a.active { color: var(--accent); }
     .page-label {
       font-family: var(--serif); font-size: 0.9rem; font-weight: 400;
       font-style: italic; color: var(--dim);
@@ -188,8 +192,16 @@
 
   <!-- Top bar -->
   <nav class="top-bar">
-    <a href="/" class="back-link">← techvision.click</a>
-    <span class="page-label">Credentials</span>
+    <a href="/" class="back-link">techvision.click</a>
+    <nav class="tb-nav" aria-label="Liên kết trang">
+    <a href="/blog.html">Tech News</a>
+    <a href="/su-kien/">Sự kiện</a>
+    <a href="/portfolio/">Portfolio</a>
+    <a href="/tai-nguyen/">Tài nguyên</a>
+    <a href="/reviews.html">Reviews</a>
+    <a href="/certificates.html" class="active">Credentials</a>
+    <a href="/cv.html">CV</a>
+  </nav>
   </nav>
 
   <main>

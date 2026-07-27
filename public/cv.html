@@ -118,6 +118,10 @@
       transition: color 0.2s;
     }
     .top-bar-back:hover { color: var(--accent); }
+    .tb-nav { display: flex; align-items: center; gap: 1.1rem; min-width: 0; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+    .tb-nav::-webkit-scrollbar { display: none; }
+    .tb-nav a { font-family: var(--sans); font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; white-space: nowrap; flex-shrink: 0; transition: color .2s; }
+    .tb-nav a:hover, .tb-nav a.active { color: var(--accent); }
     .top-bar-label {
       font-family: var(--serif); font-style: italic; font-size: 0.92rem;
       color: var(--dim); letter-spacing: 0.02em;
@@ -466,7 +470,8 @@
 
     @media (max-width: 540px) {
       nav.top-bar { padding: 1rem 1.25rem; }
-      .top-bar-label { display: none; }
+      .tb-nav { gap: 0.8rem; }
+      .tb-nav a { font-size: 0.58rem; }
       .dark-toggle { bottom: 1.25rem; left: 1.25rem; }
     }
 
@@ -488,7 +493,16 @@
 <!-- Top Bar -->
 <nav class="top-bar" role="navigation" aria-label="Page navigation">
   <a href="/" class="top-bar-back" aria-label="Back to techvision.click">← techvision.click</a>
-  <span class="top-bar-label">CV &amp; Portfolio · <a href="/cv-harvard.html" style="color:inherit;text-decoration:underline">Bản Harvard (in/PDF)</a></span>
+  <nav class="tb-nav" aria-label="Liên kết trang">
+    <a href="/blog.html">Tech News</a>
+    <a href="/su-kien/">Sự kiện</a>
+    <a href="/portfolio/">Portfolio</a>
+    <a href="/tai-nguyen/">Tài nguyên</a>
+    <a href="/reviews.html">Reviews</a>
+    <a href="/certificates.html">Credentials</a>
+    <a href="/cv.html" class="active">CV</a>
+    <a href="/cv-harvard.html" style="text-decoration:underline">Bản in/PDF</a>
+  </nav>
 </nav>
 
 <!-- Dark Mode Toggle -->
