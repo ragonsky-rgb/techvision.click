@@ -14,6 +14,7 @@ export async function GET() {
     { loc: `${SITE}/reviews.html`, cf: 'weekly', pri: '0.6', lm: '2026-06-19' },
     { loc: `${SITE}/certificates.html`, cf: 'monthly', pri: '0.5', lm: '2026-06-19' },
     { loc: `${SITE}/cv.html`, cf: 'monthly', pri: '0.5', lm: '2026-06-15' },
+    { loc: `${SITE}/cv-en.html`, cf: 'monthly', pri: '0.5', lm: '2026-07-22' },
     { loc: `${SITE}/chinh-sach.html`, cf: 'yearly', pri: '0.4' },
   ];
   const urls = [
