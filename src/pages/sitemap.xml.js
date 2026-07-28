@@ -8,6 +8,7 @@ export async function GET() {
     { loc: `${SITE}/su-kien/`, cf: 'weekly', pri: '0.7', lm: '2026-06-15' },
     { loc: `${SITE}/tai-nguyen/`, cf: 'weekly', pri: '0.8', lm: '2026-06-16' },
     { loc: `${SITE}/portfolio/`, cf: 'weekly', pri: '0.7', lm: '2026-06-19' },
+    { loc: `${SITE}/portfolio/en/`, cf: 'weekly', pri: '0.5', lm: '2026-07-28' },
     { loc: `${SITE}/su-kien/wwdc-2026.html`, cf: 'weekly', pri: '0.8', lm: '2026-06-12' },
     { loc: `${SITE}/su-kien/apple-september-2026.html`, cf: 'daily', pri: '0.8', lm: '2026-07-23' },
     { loc: `${SITE}/su-kien/samsung-galaxy-unpacked-2026.html`, cf: 'weekly', pri: '0.7', lm: '2026-07-23' },
