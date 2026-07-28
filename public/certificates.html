@@ -63,6 +63,7 @@
       color: var(--muted); text-decoration: none;
       display: flex; align-items: center; gap: 0.5rem;
       transition: color .2s;
+      white-space: nowrap; flex-shrink: 0;
     }
     .back-link:hover { color: var(--accent); }
     .back-link::before { content: '←'; font-size: 1rem; line-height: 1; }
@@ -180,7 +181,10 @@
 
     /* ── Responsive ── */
     @media (max-width: 640px) {
-      .top-bar { padding: 1.2rem 1.5rem; }
+      .top-bar { padding: 1.2rem 1.5rem; gap: 0.9rem; }
+      .back-link { font-size: 0.6rem; letter-spacing: 0.08em; }
+      .tb-nav { gap: 0.8rem; }
+      .tb-nav a { font-size: 0.58rem; }
       main { padding: 7rem 1.5rem 4rem; }
       .cert-verify { display: none; }
       footer { padding: 2rem 1.5rem; flex-direction: column; text-align: center; gap: 0.75rem; }

@@ -42,11 +42,12 @@ async function inspect(url, tries = 3) {
 const urls = await getUrls();
 console.error(`Quét ${urls.length} URL...`);
 const notIndexed = [];
+const indexedUrls = [];
 let done = 0, indexed = 0;
 for (const u of urls) {
   const r = await inspect(u);
   done++;
-  if (r.verdict === 'PASS') indexed++;
+  if (r.verdict === 'PASS') { indexed++; indexedUrls.push({ url: u, lastCrawl: r.lastCrawlTime || null }); }
   else notIndexed.push({ url: u, verdict: r.verdict, coverage: r.coverageState, lastCrawl: r.lastCrawlTime || null });
   if (done % 25 === 0) console.error(`  ...${done}/${urls.length} (indexed ${indexed}, chưa ${notIndexed.length})`);
   await sleep(120);
@@ -63,4 +64,5 @@ for (const [state, list] of Object.entries(byState).sort((a, b) => b[1].length -
 }
 
 fs.writeFileSync(path.join(DIR, 'not-indexed.json'), JSON.stringify(notIndexed, null, 2));
-console.error(`\nĐã lưu chi tiết -> not-indexed.json`);
+fs.writeFileSync(path.join(DIR, 'indexed.json'), JSON.stringify(indexedUrls, null, 2));
+console.error(`\nĐã lưu chi tiết -> not-indexed.json, indexed.json`);
