@@ -311,4 +311,122 @@
   tvcs.src = '/chat-widget.js'; tvcs.defer = true;
   document.head.appendChild(tvcs);
 
+  // ── Social Kit: AI soan nhap dang X/Threads/FB/TikTok/YouTube ngay duoi khoi chia se ──
+  try {
+    var shareSec = document.querySelector('.share-section');
+    var slugM = location.pathname.match(/\/articles\/([\w-]+)\.html/);
+    if (shareSec && slugM) {
+      var SLUG = slugM[1];
+      var PURL = 'https://techvision.click/articles/' + SLUG + '.html';
+      var st = document.createElement('style');
+      st.textContent =
+        '.tvk{margin-top:1.2rem;border:1px solid var(--line,rgba(28,26,23,.1));border-radius:12px;background:var(--card,#fdfbf7);overflow:hidden}' +
+        '.tvk-head{display:flex;flex-wrap:wrap;align-items:center;gap:.7rem;padding:.85rem 1.1rem}' +
+        '.tvk-head b{font-size:.85rem}' +
+        '.tvk-head span{font-size:.72rem;color:var(--dim,rgba(28,26,23,.58))}' +
+        '.tvk-btn{margin-left:auto;padding:.45rem 1rem;border-radius:999px;border:1px solid #c0392b;background:#c0392b;color:#fff;font:inherit;font-size:.76rem;font-weight:600;cursor:pointer;white-space:nowrap}' +
+        '.tvk-btn:hover{filter:brightness(1.08)}' +
+        '.tvk-btn[disabled]{opacity:.6;cursor:wait}' +
+        '.tvk-body{display:none;padding:0 1.1rem 1.1rem;grid-gap:.8rem;gap:.8rem}' +
+        '.tvk-body.on{display:grid}' +
+        '.tvk-card{border:1px solid var(--line,rgba(28,26,23,.1));border-radius:10px;overflow:hidden}' +
+        '.tvk-kh{display:flex;align-items:center;gap:.5rem;padding:.6rem .9rem;border-bottom:1px solid var(--line,rgba(28,26,23,.1));font-size:.8rem;font-weight:700}' +
+        '.tvk-kh a{margin-left:auto;font-size:.68rem;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:#c0392b;text-decoration:none}' +
+        '.tvk-blk{position:relative;margin:.7rem .9rem;background:var(--bg,#f3efe8);border:1px solid var(--line,rgba(28,26,23,.1));border-radius:8px;padding:.65rem .8rem}' +
+        '.tvk-bl{font-size:.6rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--dim,rgba(28,26,23,.58));margin-bottom:.25rem}' +
+        '.tvk-blk pre{font:inherit;font-size:.84rem;white-space:pre-wrap;word-break:break-word;margin:0}' +
+        '.tvk-cp{position:absolute;top:.5rem;right:.55rem;padding:.2rem .65rem;font-size:.66rem;font-weight:600;border-radius:999px;border:1px solid var(--line,rgba(28,26,23,.1));background:var(--card,#fdfbf7);cursor:pointer;font-family:inherit;color:inherit}' +
+        '.tvk-cp:hover{border-color:#c0392b;color:#c0392b}' +
+        '.tvk-cp.ok{background:#2e7d32;border-color:#2e7d32;color:#fff}' +
+        '.tvk-status{padding:0 1.1rem 1rem;font-size:.8rem;color:var(--dim,rgba(28,26,23,.58))}';
+      document.head.appendChild(st);
+
+      var wrap = document.createElement('div');
+      wrap.className = 'tvk';
+      wrap.innerHTML =
+        '<div class="tvk-head"><b>🚀 Đăng lại lên social</b>' +
+        '<span>AI soạn nháp cho X · Threads · Facebook · TikTok · YouTube</span>' +
+        '<button class="tvk-btn" id="tvkGen">✨ Tạo bản nháp</button></div>' +
+        '<div class="tvk-status" id="tvkStatus" style="display:none"></div>' +
+        '<div class="tvk-body" id="tvkBody"></div>';
+      shareSec.parentNode.insertBefore(wrap, shareSec.nextSibling);
+
+      var esc = function (s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); };
+      var tags = function (arr) { return (arr || []).map(function (h) { return '#' + String(h).replace(/^#/, ''); }).join(' '); };
+      var blk = function (label, text) {
+        return '<div class="tvk-blk"><div class="tvk-bl">' + esc(label) + '</div><pre>' + esc(text) + '</pre><button class="tvk-cp">Copy</button></div>';
+      };
+
+      var busy = false;
+      document.getElementById('tvkGen').addEventListener('click', function () {
+        if (busy) return;
+        var btn = this, stEl = document.getElementById('tvkStatus'), body = document.getElementById('tvkBody');
+        busy = true; btn.disabled = true; btn.textContent = 'Đang soạn...';
+        stEl.style.display = 'block';
+        stEl.textContent = 'AI đang đọc bài và soạn nháp cho 5 nền tảng (5-10 giây)...';
+        fetch('/api/social-kit?slug=' + SLUG)
+          .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+          .then(function (res) {
+            busy = false; btn.disabled = false; btn.textContent = '↺ Tạo lại';
+            if (!res.ok || !res.j.kit) {
+              stEl.textContent = (res.j && res.j.error) || 'Có lỗi, thử lại nhé.';
+              return;
+            }
+            stEl.style.display = 'none';
+            var kit = res.j.kit, h = '';
+            if (kit.x && typeof kit.x === 'string') kit.x = { post: kit.x, hashtags: [] };
+            if (kit.x) {
+              var xText = (kit.x.post || '') + (kit.x.hashtags && kit.x.hashtags.length ? '\n' + tags(kit.x.hashtags) : '');
+              h += '<div class="tvk-card"><div class="tvk-kh">𝕏 X (Twitter)' +
+                '<a target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent(xText) + '">Mở X ↗</a></div>' +
+                blk('Post đơn', xText) +
+                (kit.x_thread && kit.x_thread.length ? blk('Thread ' + kit.x_thread.length + ' tweet', kit.x_thread.map(function (t, i) { return (i + 1) + '/ ' + t; }).join('\n\n')) : '') +
+                '</div>';
+            }
+            if (kit.threads) {
+              h += '<div class="tvk-card"><div class="tvk-kh">@ Threads' +
+                '<a target="_blank" rel="noopener" href="https://www.threads.net/intent/post?text=' + encodeURIComponent(kit.threads) + '">Mở Threads ↗</a></div>' +
+                blk('Post', kit.threads) + '</div>';
+            }
+            if (kit.facebook) {
+              h += '<div class="tvk-card"><div class="tvk-kh">📘 Facebook' +
+                '<a target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(PURL) + '">Mở FB ↗</a></div>' +
+                blk('Post (dán vào phần lời nhắn)', kit.facebook) + '</div>';
+            }
+            if (kit.tiktok) {
+              h += '<div class="tvk-card"><div class="tvk-kh">🎵 TikTok</div>' +
+                blk('Hook 3 giây đầu', kit.tiktok.hook || '') +
+                blk('Kịch bản 30-45s', kit.tiktok.script || '') +
+                blk('Caption', (kit.tiktok.caption || '') + (kit.tiktok.hashtags && kit.tiktok.hashtags.length ? '\n' + tags(kit.tiktok.hashtags) : '')) +
+                '</div>';
+            }
+            if (kit.youtube) {
+              h += '<div class="tvk-card"><div class="tvk-kh">▶️ YouTube</div>' +
+                blk('Tiêu đề video', kit.youtube.title || '') +
+                blk('Mô tả', kit.youtube.description || '') +
+                blk('Tags', (kit.youtube.tags || []).join(', ')) +
+                blk('Kịch bản Shorts 45-60s', kit.youtube.shorts_script || '') +
+                '</div>';
+            }
+            body.innerHTML = h;
+            body.classList.add('on');
+          })
+          .catch(function () {
+            busy = false; btn.disabled = false; btn.textContent = '✨ Tạo bản nháp';
+            stEl.textContent = 'Mất kết nối, thử lại nhé.';
+          });
+      });
+
+      wrap.addEventListener('click', function (e) {
+        var b = e.target.closest('.tvk-cp');
+        if (!b) return;
+        var pre = b.parentNode.querySelector('pre');
+        navigator.clipboard.writeText(pre.textContent).then(function () {
+          b.textContent = 'Đã copy ✓'; b.classList.add('ok');
+          setTimeout(function () { b.textContent = 'Copy'; b.classList.remove('ok'); }, 1600);
+        });
+      });
+    }
+  } catch (e) { /* im lang - khong lam vo trang bai viet */ }
+
 })();
