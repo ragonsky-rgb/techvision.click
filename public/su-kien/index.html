@@ -74,7 +74,16 @@
     .mast-nav::-webkit-scrollbar{display:none}
     .mast-nav a{font-size:0.66rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--dim);transition:color .2s;white-space:nowrap;flex-shrink:0}
     .mast-nav a:hover,.mast-nav a.active{color:var(--accent)}
-    @media(max-width:560px){.mast-nav{gap:1rem}.mast-logo .ml-name{font-size:1rem}}
+    .nav-more { position: relative; flex-shrink: 0; }
+    .nav-more summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 0.28rem; font-family: var(--sans); font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); transition: color .2s; white-space: nowrap; }
+    .nav-more summary::-webkit-details-marker { display: none; }
+    .nav-more summary::after { content: "\25BE"; font-size: 0.85em; }
+    .nav-more[open] summary, .nav-more summary:hover, .nav-more summary.active { color: var(--accent); }
+    .nav-more-menu { position: absolute; right: 0; top: calc(100% + 0.7rem); background: var(--bg); border: 1px solid var(--line); box-shadow: 0 10px 28px rgba(0,0,0,0.12); min-width: 176px; padding: 0.4rem 0; display: flex; flex-direction: column; z-index: 400; }
+    .nav-more-menu a { padding: 0.6rem 1.1rem; font-family: var(--sans); font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; white-space: nowrap; transition: color .2s; }
+    .nav-more-menu a:hover, .nav-more-menu a.active { color: var(--accent); }
+
+    @media(max-width:560px){.mast-nav{gap:0.75rem}.mast-logo .ml-name{display:none}.mast-nav a{font-size:0.58rem}.nav-more summary{font-size:0.58rem}.mast-nav > a[href="/"]{display:none}}
 
     /* hero */
     .page-hero{padding:7rem 0 2.5rem;border-bottom:1px solid var(--line)}
@@ -127,10 +136,15 @@
         <a href="/blog.html">Tech News</a>
         <a href="/su-kien/" class="active">Sự kiện</a>
         <a href="/portfolio/">Portfolio</a>
-        <a href="/tai-nguyen/">Tài nguyên</a>
-        <a href="/reviews.html">Reviews</a>
-        <a href="/certificates.html">Credentials</a>
-        <a href="/cv.html">CV</a>
+        <details class="nav-more">
+          <summary>Thêm</summary>
+          <div class="nav-more-menu">
+            <a href="/tai-nguyen/">Tài nguyên</a>
+            <a href="/reviews.html">Reviews & Deals</a>
+            <a href="/certificates.html">Credentials</a>
+            <a href="/cv.html">CV</a>
+          </div>
+        </details>
       </nav>
     </div>
   </header>
@@ -209,5 +223,6 @@
     <div class="foot-copy">© 2026 Nguyễn Tấn Thiên Long · LongTechVision</div>
   </footer>
 
+<script>document.addEventListener('click',function(e){document.querySelectorAll('details.nav-more[open]').forEach(function(d){if(!d.contains(e.target))d.removeAttribute('open')})});</script>
 </body>
 </html>

@@ -345,6 +345,15 @@
     .nav-links a.active { color: var(--text); }
     .nav-links a:hover::after,
     .nav-links a.active::after { width: 100%; }
+    .nav-more { position: relative; flex-shrink: 0; }
+    .nav-more summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 0.28rem; font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); transition: color .2s; white-space: nowrap; }
+    .nav-more summary::-webkit-details-marker { display: none; }
+    .nav-more summary::after { content: "\25BE"; font-size: 0.85em; }
+    .nav-more[open] summary, .nav-more summary:hover, .nav-more summary.active { color: var(--accent); }
+    .nav-more-menu { position: absolute; right: 0; top: calc(100% + 0.7rem); background: var(--bg); border: 1px solid var(--line); box-shadow: 0 10px 28px rgba(0,0,0,0.12); min-width: 176px; padding: 0.4rem 0; display: flex; flex-direction: column; z-index: 400; }
+    .nav-more-menu a { padding: 0.6rem 1.1rem; font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); text-decoration: none; white-space: nowrap; transition: color .2s; }
+    .nav-more-menu a:hover, .nav-more-menu a.active { color: var(--accent); }
+
 
     .nav-burger {
       display: none; flex-direction: column; gap: 5px; cursor: pointer; padding: 4px;
@@ -374,8 +383,8 @@
       display: none; position: fixed; inset: 0; z-index: 250; background: rgba(0,0,0,0.5);
     }
     .nav-overlay.open { display: block; }
-    /* ≤1280px: 13 mục không còn đủ chỗ - chuyển sang burger (drawer có đầy đủ mục, kể cả CV) */
-    @media (max-width: 1280px) {
+    /* ≤1024px: nav không còn đủ chỗ - chuyển sang burger (drawer có đầy đủ mục, kể cả CV) */
+    @media (max-width: 1024px) {
       .nav-links { display: none; }
       .nav-burger { display: flex; }
       .nav-drawer { display: flex; }
@@ -842,10 +851,15 @@
       <li><a href="/blog.html" style="color:var(--accent)">Tech News ↗</a></li>
       <li><a href="/su-kien/" style="color:var(--accent)">Sự kiện ↗</a></li>
       <li><a href="/portfolio/" style="color:var(--accent)">Portfolio ↗</a></li>
-      <li class="nav-extra"><a href="/tai-nguyen/" style="color:var(--accent)">Tài nguyên ↗</a></li>
-      <li class="nav-extra"><a href="/reviews.html" style="color:var(--accent)">Reviews ↗</a></li>
-      <li class="nav-extra"><a href="/certificates.html" style="color:var(--accent)">Credentials ↗</a></li>
-      <li class="nav-extra"><a href="/cv.html" style="color:var(--accent)">CV ↗</a></li>
+      <li class="nav-extra"><details class="nav-more">
+        <summary>Thêm</summary>
+        <div class="nav-more-menu">
+          <a href="/tai-nguyen/">Tài nguyên</a>
+          <a href="/reviews.html">Reviews &amp; Deals</a>
+          <a href="/certificates.html">Credentials</a>
+          <a href="/cv.html">CV</a>
+        </div>
+      </details></li>
     </ul>
     <div class="nav-burger" id="nav-burger" role="button" aria-label="Menu">
       <span></span><span></span><span></span>
@@ -1482,5 +1496,6 @@
     })();
   </script>
 
+<script>document.addEventListener('click',function(e){document.querySelectorAll('details.nav-more[open]').forEach(function(d){if(!d.contains(e.target))d.removeAttribute('open')})});</script>
 </body>
 </html>
