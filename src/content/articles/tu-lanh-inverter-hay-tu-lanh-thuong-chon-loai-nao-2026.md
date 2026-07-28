@@ -72,7 +72,7 @@ Ngược lại, tủ lạnh thường dùng máy nén bật tắt liên tục đ
 Về chi phí lâu dài, tủ lạnh là thiết bị đặc biệt vì chạy liên tục 24 giờ mỗi ngày quanh năm, nên phần điện tiết kiệm được của inverter tích lũy theo thời gian có thể bù lại chênh lệch giá mua. Tủ lạnh thường rẻ hơn ban đầu nhưng tốn điện hơn về sau. Cả hai đều làm lạnh và bảo quản thực phẩm được, nên việc chọn nên dựa trên mức độ bạn dùng tủ thường xuyên và coi trọng chi phí ban đầu hay chi phí điện lâu dài.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FIDHjLHjBXc/hqdefault.jpg" alt="Tủ lạnh inverter điều chỉnh công suất máy nén tiết kiệm điện năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9a4vFGuTxF8/hqdefault.jpg" alt="Tủ lạnh inverter điều chỉnh công suất máy nén tiết kiệm điện năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Tủ lạnh inverter điều chỉnh công suất linh hoạt, tiết kiệm điện khi chạy lâu. Nguồn: YouTube</figcaption>
 </figure>
 
