@@ -14,6 +14,11 @@
       "has": [{ "type": "host", "value": "www.techvision.click" }],
       "destination": "https://techvision.click/:path*",
       "permanent": true
+    },
+    {
+      "source": "/articles/google-gemini-spark-tro-ly-ai-agentic-lam-viec-24-7-2026.html",
+      "destination": "/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html",
+      "permanent": true
     }
   ],
   "headers": [
