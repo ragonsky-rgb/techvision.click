@@ -1,12 +1,12 @@
 ---
 slug: "gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026"
-title: "Giá Galaxy Z Fold 8, Z Flip 8 tại VN: đặt trước ở đâu lợi?"
-description: "Giá chính hãng Galaxy Z Fold 8, Z Flip 8 tại VN: Flip 8 256GB 31,99tr, Fold 8 từ 46,99tr, Ultra từ 52,99tr, kèm so sánh ưu đãi đặt trước từng đại lý."
+title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8"
+description: "Giá chính hãng Galaxy Z Fold 8 từ 46,99 triệu, Ultra từ 52,99 triệu, Flip 8 từ 31,99 triệu. Nhận máy sớm 8/8, mở bán rộng 18/8, đại lý giảm tới 8,5-9 triệu."
 keywords: "gia Galaxy Z Fold 8 Viet Nam, gia Galaxy Z Flip 8, dat truoc Galaxy Z Fold 8, dat truoc o dau loi, Galaxy Z Fold 8 Ultra gia, uu dai thu cu Galaxy Z, Samsung Z Fold 8 Flip 8 gia"
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-22T21:00:00+07:00"
-dateModified: "2026-07-22T21:30:00+07:00"
+dateModified: "2026-08-03T14:00:00+07:00"
 deck: "Ngay sau khi Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 ra mắt tại Unpacked 22/7, các đại lý Việt Nam đồng loạt mở đặt trước với cọc 500.000 đồng, giao máy sớm từ 8/8 trước ngày mở bán rộng 18/8. Bài viết tổng hợp giá niêm yết chính hãng từng phiên bản và so sánh ưu đãi đặt trước ở CellphoneS, Thế Giới Di Động, FPT Shop, Viettel Store để bạn chọn nơi mua lợi nhất."
 heroImage: "https://i.ytimg.com/vi/EG38N3Lo0pM/hqdefault.jpg"
 heroAlt: "Gia Galaxy Z Fold 8 Z Flip 8 tai Viet Nam va uu dai dat truoc thang 7 2026"
@@ -118,4 +118,8 @@ Nếu bạn đã chắc chắn về phiên bản muốn mua và có nhu cầu d�
 
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Giá niêm yết tổng hợp trực tiếp từ Thế Giới Di Động, CellphoneS và FPT Shop ngày 22/7/2026, ghi nhận đồng nhất giữa các hệ thống. Ưu đãi phiếu mua hàng, thu cũ và thanh toán có thể thay đổi theo thời điểm và chương trình từng đại lý. LongTechVision cập nhật khi có điều chỉnh mới.
+</div>
+
+<div class="art-callout">
+  🔥 <strong>Cập nhật 3/8:</strong> Tuần này bước vào giai đoạn nhận máy sớm (từ 8/8) trước khi mở bán rộng 18/8. Ưu đãi hiện tại: CellphoneS giảm tới khoảng 8,5 triệu, FPT Shop tới khoảng 9 triệu kèm trả góp 0%; mức giảm thay đổi theo ngày, bạn nên đối chiếu trực tiếp trước khi chốt.
 </div>

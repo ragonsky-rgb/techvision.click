@@ -1,17 +1,17 @@
 ---
 slug: "samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026"
-title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: đặt trước, quà tặng"
-description: "Samsung mở đặt trước Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 từ 8/7/2026, ra mắt 22/7. Giá dự kiến Z Fold 8 từ 45 triệu, Z Flip 8 từ 29 triệu đồng."
+title: "Đặt trước Galaxy Z Fold 8, Z Flip 8: quà tặng từng đại lý"
+description: "Chương trình đặt trước Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: quà tặng, cọc 500.000đ. Giá chính thức: Fold 8 từ 46,99 triệu, Flip 8 từ 31,99 triệu đồng."
 keywords: "Galaxy Z Fold 8 giá, Galaxy Z Flip 8 giá Việt Nam, Galaxy Z Fold 8 đặt trước, Samsung Unpacked 22 7 2026, Galaxy Z Fold 8 Ultra, cấu hình Galaxy Z Fold 8"
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-21T21:30:00+07:00"
-dateModified: "2026-07-21T21:30:00+07:00"
+dateModified: "2026-08-03T14:00:00+07:00"
 deck: "Chương trình đặt trước bộ ba điện thoại gập mới của Samsung, gồm Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8, được cho là mở từ ngày 8/7/2026 tại Việt Nam, trước thềm sự kiện Galaxy Unpacked diễn ra ở London ngày 22/7. Giá bán chính hãng dự kiến vẫn nằm ở nhóm cao cấp, nhưng các đại lý tung nhiều ưu đãi đặt cọc để kéo khách sớm."
 heroImage: "https://i.ytimg.com/vi/2Pw8abzJES4/maxresdefault.jpg"
 heroAlt: "Galaxy Z Fold 8 và Z Flip 8 mở đặt trước tại Việt Nam tháng 7 2026"
 heroCaption: "Bộ ba Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 mở đặt trước tại Việt Nam trước sự kiện Unpacked 22/7. Nguồn: YouTube"
-tldr: "Samsung được cho là mở <strong>đặt trước Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8</strong> tại Việt Nam từ <strong>8/7/2026</strong>, với sự kiện ra mắt chính thức <strong>Galaxy Unpacked</strong> tổ chức ở London ngày <strong>22/7</strong>. Theo các thông tin rò rỉ, <strong>Z Fold 8</strong> dùng chip Snapdragon 8 Elite Gen 5, camera chính 200MP, thân mở mỏng khoảng 4,5mm, còn <strong>Z Flip 8</strong> nâng pin lên 4.300mAh. Giá dự kiến tại Việt Nam khoảng <strong>45 đến 60 triệu đồng</strong> cho Z Fold 8 và <strong>từ 29 triệu đồng</strong> cho Z Flip 8. Mức giá cuối cùng chỉ được xác nhận sau đêm Unpacked."
+tldr: "Samsung được cho là mở <strong>đặt trước Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8</strong> tại Việt Nam từ <strong>8/7/2026</strong>, với sự kiện ra mắt chính thức <strong>Galaxy Unpacked</strong> tổ chức ở London ngày <strong>22/7</strong>. Theo các thông tin rò rỉ, <strong>Z Fold 8</strong> dùng chip Snapdragon 8 Elite Gen 5, camera chính 200MP, thân mở mỏng khoảng 4,5mm, còn <strong>Z Flip 8</strong> nâng pin lên 4.300mAh. Giá dự kiến tại Việt Nam khoảng <strong>45 đến 60 triệu đồng</strong> cho Z Fold 8 và <strong>từ 29 triệu đồng</strong> cho Z Flip 8. Giá chính thức công bố sau Unpacked: Z Fold 8 từ <strong>46,99 triệu</strong>, Ultra từ <strong>52,99 triệu</strong>, Z Flip 8 từ <strong>31,99 triệu đồng</strong>."
 tags: ["GalaxyZFold8", "GalaxyZFlip8", "SamsungVietNam", "Foldable2026"]
 about: ["Samsung Galaxy Z Fold 8", "Samsung Galaxy Z Flip 8", "Điện thoại gập", "Samsung Galaxy Unpacked"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường smartphone gập và chiến lược ra mắt của Samsung tại Việt Nam."
@@ -44,6 +44,10 @@ featured: true
 ---
 
 Sau nhiều tháng rò rỉ liên tục, dòng điện thoại gập mới của Samsung cuối cùng cũng bước vào giai đoạn thương mại tại Việt Nam. Theo các thông tin từ đại lý, bộ ba Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 được cho là mở đặt trước ngay từ ngày 8/7/2026, trong khi lễ ra mắt toàn cầu Galaxy Unpacked sẽ diễn ra tại London vào ngày 22/7. Đây là thời điểm được người dùng yêu thích thiết bị gập tại Việt Nam chờ đợi cả năm, bởi đây là dòng sản phẩm định hình lại toàn bộ phân khúc cao cấp Android trong nửa cuối năm.
+
+<div class="art-callout">
+  ✅ <strong>Đã có giá chính thức:</strong> Samsung Việt Nam công bố Z Fold 8 từ 46,99 triệu, Z Fold 8 Ultra từ 52,99 triệu, Z Flip 8 từ 31,99 triệu đồng; nhận máy sớm từ 8/8, mở bán rộng 18/8. Xem bảng giá đầy đủ và nơi mua lợi nhất trong bài <a href="/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html">Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8</a>.
+</div>
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Galaxy Z Fold 8 và Z Flip 8 · Thông tin dự kiến</div>

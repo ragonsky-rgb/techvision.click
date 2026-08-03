@@ -1,8 +1,8 @@
 ---
 slug: "ai-88000-nguoi-my-mat-viec-5-thang-dau-2026-challenger"
 title: "AI khiến 88.000 người Mỹ mất việc 5 tháng đầu 2026"
-description: "Báo cáo Challenger: AI gây 87.714 ca sa thải tại Mỹ trong 5 tháng đầu 2026, vượt cả năm 2025. Tháng 5, AI dẫn đầu lý do sa thải tháng thứ ba liên tiếp."
-keywords: "AI sa thải, AI mất việc 2026, Challenger Gray Christmas, agentic AI việc làm, AI thay thế con người, sa thải vì AI, thị trường lao động AI"
+description: "AI khiến 87.714 người Mỹ mất việc chỉ trong 5 tháng đầu 2026, vượt cả năm 2025. Ngành nào bị cắt mạnh nhất, ai an toàn? Số liệu Challenger và bài học cho người Việt."
+keywords: "AI88000, AI 88000 việc làm, AI sa thải, AI mất việc 2026, Challenger Gray Christmas, agentic AI việc làm, AI thay thế con người, sa thải vì AI, thị trường lao động AI"
 category: "AI"
 type: "tin-tuc"
 datePublished: "2026-06-15T14:00:00+07:00"
