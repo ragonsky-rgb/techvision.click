@@ -64,7 +64,7 @@ Dấu hiệu dễ nhận thấy nhất là quảng cáo tự bật toàn màn h�
 
 <div class="art-video-label">VIDEO · Dấu hiệu điện thoại dính virus</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/7bfjHP9dS-c" title="5 dau hieu cho thay dien thoai bi dinh virus ma doc" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/7dIrtZZUjAk" title="5 dau hieu cho thay dien thoai bi dinh virus ma doc" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Những dấu hiệu phổ biến cho thấy điện thoại có thể đã dính virus. Nguồn: YouTube</p>
 

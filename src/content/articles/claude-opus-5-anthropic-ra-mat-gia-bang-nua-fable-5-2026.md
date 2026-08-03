@@ -64,7 +64,7 @@ Về con số, Opus 5 tính 5 USD cho mỗi triệu token đầu vào và 25 USD
 Với các đội ngũ đang xây dựng sản phẩm dựa trên API, đây là kiểu thay đổi ảnh hưởng trực tiếp tới bài toán vận hành. Một tính năng trước đây phải dùng mô hình đắt tiền mới đạt chất lượng chấp nhận được thì nay có thể chuyển sang Opus 5 và cắt gần một nửa hóa đơn. Anthropic còn cho biết chi phí có thể giảm thêm tới 90% nhờ bộ nhớ đệm prompt và khoảng 50% khi xử lý theo lô, hai kỹ thuật khá phổ biến trong triển khai thực tế.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zeU01CttpK4/hqdefault.jpg" alt="Chien luoc gia canh tranh cua cac mo hinh AI nam 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4bTs-QWy5zs/hqdefault.jpg" alt="Chien luoc gia canh tranh cua cac mo hinh AI nam 2026" loading="lazy" width="1280" height="720">
   <figcaption>Chiến lược giá cạnh tranh đang là yếu tố quyết định lựa chọn mô hình của nhà phát triển. Nguồn: YouTube</figcaption>
 </figure>
 

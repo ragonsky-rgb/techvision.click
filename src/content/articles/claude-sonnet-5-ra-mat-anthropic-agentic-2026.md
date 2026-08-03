@@ -71,7 +71,7 @@ Theo Anthropic, Sonnet 5 có khả năng tự lập kế hoạch, sử dụng c�
 Về mặt giá cả, Claude Sonnet 5 mở bán với mức giá ưu đãi 2 USD cho mỗi triệu token đầu vào và 10 USD cho mỗi triệu token đầu ra, áp dụng đến hết ngày 31/8/2026, sau đó sẽ tăng lên mức tiêu chuẩn 3 USD và 15 USD mỗi triệu token. Dù đã tăng, mức giá này vẫn chỉ bằng khoảng một nửa tới hai phần ba so với Opus 4.8, hiện vẫn duy trì mức giá 5 USD đầu vào và 25 USD đầu ra mỗi triệu token, biến Sonnet 5 trở thành lựa chọn kinh tế hơn đáng kể cho các nhà phát triển muốn triển khai agent AI ở quy mô lớn mà không phải gánh chi phí vận hành quá cao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zeU01CttpK4/hqdefault.jpg" alt="Tổng quan các tính năng và cải tiến của Claude Sonnet 5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4bTs-QWy5zs/hqdefault.jpg" alt="Tổng quan các tính năng và cải tiến của Claude Sonnet 5" loading="lazy" width="1280" height="720">
   <figcaption>Chiến lược giá cạnh tranh giúp Claude Sonnet 5 trở thành lựa chọn hấp dẫn cho các nhà phát triển agent AI. Nguồn: YouTube</figcaption>
 </figure>
 
