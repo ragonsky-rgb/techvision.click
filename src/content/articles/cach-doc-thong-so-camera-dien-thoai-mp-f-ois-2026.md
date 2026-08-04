@@ -15,9 +15,9 @@ tldr: "Một bảng thông số camera điện thoại đầy đủ gồm nhiề
 tags: ["Camera", "Smartphone", "CamNang", "ThongSoCamera", "OIS"]
 about: ["Thông số camera điện thoại", "Khẩu độ f", "OIS EIS", "Cảm biến camera", "Ống kính tele"]
 authorBio: "Founder LongTechVision. Quan tâm tới nhiếp ảnh di động và cách chọn thiết bị chụp ảnh hợp nhu cầu."
-sourceUrl: "https://www.androidpolice.com/smartphone-camera-guide/"
-sourceName: "Android Police: Smartphone cameras explained"
-sourceDomains: "androidpolice.com · dxomark.com · gsmarena.com"
+sourceUrl: "https://fptshop.com.vn/tin-tuc/danh-gia/khau-do-camera-la-gi-y-nghia-cua-khau-do-trong-chup-anh-tren-smartphone-82394"
+sourceName: "FPT Shop"
+sourceDomains: "fptshop.com.vn · hoanghamobile.com · gsmarena.com"
 stats:
   - { num: "MP", label: "Số điểm ảnh, quyết định kích thước ảnh chứ không phải độ đẹp" }
   - { num: "f/1.6", label: "Khẩu độ càng nhỏ, ống kính thu sáng càng nhiều" }
