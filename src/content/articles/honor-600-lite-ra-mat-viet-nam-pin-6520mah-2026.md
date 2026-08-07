@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/honor-600-series-camera-200mp-ai-image-to-video-2026.html", cat: "Smartphone", title: "Honor 600 Series: Camera 200MP biến ảnh thành video bằng AI, pin 7.000mAh, IP69K, giá tại Việt Nam 2026" }
   - { href: "/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html", cat: "Smartphone", title: "Xiaomi 17T Series ra mắt 28/5: Leica 5x zoom, pin 6.500mAh, giá từ 12.9 triệu tại Việt Nam" }
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
 featured: true
 ---
 

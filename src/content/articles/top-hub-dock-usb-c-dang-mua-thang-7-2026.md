@@ -37,7 +37,7 @@ faq:
     a: "Nên ưu tiên mua tại đại lý ủy quyền chính hãng hoặc gian hàng chính hãng trên sàn thương mại điện tử lớn để được hưởng chế độ bảo hành đầy đủ, đồng thời tận dụng các chương trình khuyến mãi phổ biến hiện nay."
 related:
   - { href: "/articles/cach-chon-hub-dock-usb-c-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn hub/dock USB-C 2026: 5 tiêu chí" }
-  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 7/2026" }
+  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
   - { href: "/articles/top-man-hinh-may-tinh-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top màn hình máy tính đáng mua tháng 7/2026" }
 featured: true
 ---

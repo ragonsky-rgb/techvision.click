@@ -35,7 +35,7 @@ faq:
   - q: "Điện thoại gập có đáng mua trong năm 2026 không?"
     a: "Điện thoại gập phù hợp người có ngân sách dư dả, thích trải nghiệm công nghệ mới và có nhu cầu thực sự về màn hình lớn di động hoặc thiết kế nhỏ gọn thời trang. Với ngân sách hạn chế hoặc ưu tiên độ bền tối đa, điện thoại thanh nguyên khối vẫn là lựa chọn an toàn hơn."
 related:
-  - { href: "/articles/top-dien-thoai-gap-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top điện thoại gập đáng mua tháng 7/2026" }
+  - { href: "/articles/top-dien-thoai-gap-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top điện thoại gập đáng mua tháng 8/2026: Z Fold 8 vừa lên kệ" }
   - { href: "/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html", cat: "Smartphone", title: "Honor Magic V5: điện thoại gập mỏng nhất thế giới, 8,8mm" }
   - { href: "/articles/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.html", cat: "Smartphone", title: "Samsung Galaxy Z TriFold: điện thoại gập ba đầu tiên, giá 2.899 USD" }
 featured: false

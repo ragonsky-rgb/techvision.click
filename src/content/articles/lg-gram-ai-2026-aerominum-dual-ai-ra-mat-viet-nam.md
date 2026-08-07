@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/google-gemma-4-12b-mo-hinh-ai-chay-tren-laptop-2026.html", cat: "AI", title: "Google Gemma 4 12B: mô hình AI chạy trên laptop" }
   - { href: "/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn laptop cho sinh viên, văn phòng 2026" }
-  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Công nghệ", title: "Top laptop đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Công nghệ", title: "Top laptop đáng mua tháng 8/2026: chọn theo từng phân khúc giá" }
 featured: true
 ---
 

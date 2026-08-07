@@ -37,7 +37,7 @@ faq:
   - q: "Nên mua RTX 5090 hay chờ RTX 5090 Ti?"
     a: "Nếu bạn chủ yếu chơi game hoặc làm việc thông thường, mua RTX 5090 ngay là quyết định hợp lý vì 32GB đã quá đủ và bản Ti không cải thiện game đáng kể. Nếu bạn chạy mô hình AI cục bộ, dựng video 8K hoặc cần dung lượng nhớ tối đa, chờ bản 48GB có thể xứng đáng, miễn là chấp nhận giá cao hơn và thời gian chờ."
 related:
-  - { href: "/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html", cat: "Laptop", title: "Giá RTX 5090 tại Việt Nam tháng 6/2026: bảng giá, có nên mua?" }
+  - { href: "/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html", cat: "Laptop", title: "Giá RTX 5090 tại Việt Nam tháng 8/2026: bảng giá, có nên mua?" }
   - { href: "/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html", cat: "Laptop", title: "Tin đồn RTX 5090 Ti 48GB GDDR7: NVIDIA chuẩn bị gì?" }
   - { href: "/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html", cat: "AI", title: "Khủng hoảng bộ nhớ RAM tăng giá vì trung tâm dữ liệu AI" }
 featured: true

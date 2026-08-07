@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/cach-chon-loa-bluetooth-di-dong-2026.html", cat: "Audio", title: "Cách chọn loa Bluetooth di động 2026" }
   - { href: "/articles/logitech-mx-master-4-chuot-khong-day-cao-cap-haptic-feedback-2026.html", cat: "Công nghệ", title: "Logitech MX Master 4: chuột không dây cao cấp, haptic feedback" }
-  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 8/2026: chọn theo nhu cầu" }
 featured: false
 ---
 

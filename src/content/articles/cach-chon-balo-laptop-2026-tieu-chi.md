@@ -36,7 +36,7 @@ faq:
     a: "Với nhu cầu sử dụng phổ thông, mức giá 800.000 đến 2 triệu đồng đã có thể mua được balo laptop chất lượng tốt từ các thương hiệu như Tomtoc, Targus, Matein. Người cần thêm tính năng cao cấp như chống trộm nâng cao, chất liệu bền bỉ đặc biệt có thể cân nhắc phân khúc trên 2 triệu đồng."
 related:
   - { href: "/articles/anker-soundcore-nebula-x1-pro-may-chieu-rap-hat-di-dong-2026.html", cat: "Công nghệ", title: "Anker Soundcore Nebula X1 Pro: máy chiếu rạp hát di động" }
-  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 7/2026" }
+  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
   - { href: "/articles/cach-chon-chuot-gaming-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn chuột gaming 2026" }
 featured: false
 ---

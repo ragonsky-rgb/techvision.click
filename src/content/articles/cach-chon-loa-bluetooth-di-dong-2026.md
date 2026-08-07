@@ -39,7 +39,7 @@ faq:
     a: "Nếu có ý định nâng cấp trải nghiệm nghe nhạc trong không gian rộng hoặc thích phối hai loa để tạo hiệu ứng âm thanh stereo thực sự, nên chọn các mẫu hỗ trợ tính năng ghép đôi như dòng JBL Charge hoặc Marshall Emberton, cho phép kết nối hai loa cùng lúc qua ứng dụng đi kèm để tăng âm lượng và chiều sâu âm thanh."
 related:
   - { href: "/articles/cach-chon-o-cung-di-dong-ssd-2026.html", cat: "Công nghệ", title: "Cách chọn ổ cứng di động SSD ngoài năm 2026" }
-  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 7/2026" }
+  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 8/2026: chọn theo từng phân khúc giá" }
   - { href: "/articles/man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon.html", cat: "Công nghệ", title: "OLED, AMOLED, LCD khác gì nhau?" }
 featured: false
 ---

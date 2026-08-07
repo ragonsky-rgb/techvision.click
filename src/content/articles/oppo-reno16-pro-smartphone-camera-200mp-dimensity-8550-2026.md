@@ -36,7 +36,7 @@ faq:
   - q: "OPPO Reno16 series đã bán tại Việt Nam chưa?"
     a: "Tính tới thời điểm hiện tại, OPPO chưa công bố lịch phân phối chính thức dòng Reno16 tại Việt Nam, người quan tâm nên theo dõi thêm thông báo từ OPPO Việt Nam và các đại lý ủy quyền trong thời gian tới để cập nhật giá bán và thời điểm mở bán chính xác."
 related:
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Điện thoại", title: "Top điện thoại đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Điện thoại", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
   - { href: "/articles/oppo-enco-x3s-tai-nghe-chong-on-55db-dich-thuat-ai-2026.html", cat: "Audio", title: "OPPO Enco X3s: tai nghe chống ồn 55dB, dịch thuật AI" }
   - { href: "/articles/xiaomi-redmi-a7-pro-smartphone-gia-re-pin-6000mah-2026.html", cat: "Điện thoại", title: "Xiaomi Redmi A7 Pro: smartphone giá rẻ pin 6.000mAh" }
 featured: true

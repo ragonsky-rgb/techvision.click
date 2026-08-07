@@ -36,7 +36,7 @@ faq:
     a: "TP-Link Deco, eero và Asus ZenWiFi hiện là ba thương hiệu được đánh giá cao nhất năm 2026. TP-Link Deco phù hợp người cần giá trị tốt nhất trong tầm giá, eero mạnh về tích hợp nhà thông minh và trải nghiệm ứng dụng, còn Asus ZenWiFi phù hợp người dùng cần tùy chỉnh nâng cao hơn."
 related:
   - { href: "/articles/macbook-ultra-tin-don-man-hinh-cam-ung-oled-dau-tien-2026.html", cat: "AI", title: "MacBook Ultra: tin đồn Mac màn hình cảm ứng OLED đầu tiên" }
-  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 7/2026" }
+  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
   - { href: "/articles/cach-chon-webcam-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn webcam 2026" }
 featured: false
 ---

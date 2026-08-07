@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/cach-chon-o-cung-di-dong-ssd-2026.html", cat: "Công nghệ", title: "Cách chọn ổ cứng di động SSD 2026" }
   - { href: "/articles/ssd-vs-hdd-khac-gi-nen-chon-o-cung-nao-2026.html", cat: "Công nghệ", title: "SSD vs HDD khác gì, nên chọn ổ cứng nào 2026" }
-  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 7/2026" }
+  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
 featured: false
 ---
 

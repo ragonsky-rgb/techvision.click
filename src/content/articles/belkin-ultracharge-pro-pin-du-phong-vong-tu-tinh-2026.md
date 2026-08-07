@@ -37,7 +37,7 @@ faq:
 related:
   - { href: "/articles/mophie-stealthcharge-sac-khong-day-mat-lanh-2026.html", cat: "Công nghệ", title: "Mophie StealthCharge: sạc không dây mát lạnh" }
   - { href: "/articles/cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan.html", cat: "Công nghệ", title: "Cách chọn sạc dự phòng: mAh thực, công suất an toàn" }
-  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top sạc dự phòng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top sạc dự phòng đáng mua tháng 8/2026: chọn theo nhu cầu" }
 featured: false
 ---
 

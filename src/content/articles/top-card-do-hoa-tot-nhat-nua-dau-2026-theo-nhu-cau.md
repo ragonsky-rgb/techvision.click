@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/nvidia-rtx-50-super-5080-super-5070-ti-super-24gb-gddr7-2026.html", cat: "Công nghệ", title: "NVIDIA RTX 50 Super: 5080 Super, 5070 Ti Super 24GB GDDR7 2026" }
   - { href: "/articles/amd-computex-2026-ryzen-7700x3d-radeon-rx-9070-gre-am4-am5.html", cat: "Công nghệ", title: "AMD Computex 2026: Ryzen 7700X3D, Radeon RX 9070 GRE" }
-  - { href: "/articles/top-card-do-hoa-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top card đồ họa đáng mua tháng 7/2026" }
+  - { href: "/articles/top-card-do-hoa-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top card đồ họa đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
 featured: false
 ---
 

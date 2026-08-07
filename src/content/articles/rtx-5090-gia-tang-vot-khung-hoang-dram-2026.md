@@ -36,7 +36,7 @@ faq:
   - q: "Người dùng nên làm gì trước tình trạng giá GPU tăng cao?"
     a: "Người dùng có nhu cầu nâng cấp GPU trong ngắn hạn nên cân nhắc mua sớm trước khi giá tiếp tục tăng, hoặc tạm thời sử dụng GPU thế hệ cũ hơn nếu ngân sách hạn chế, đồng thời theo dõi sát các đợt giảm giá hiếm hoi có thể xuất hiện khi nguồn cung tạm thời ổn định trở lại."
 related:
-  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 8/2026: chọn theo từng phân khúc giá" }
   - { href: "/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html", cat: "Laptop", title: "Giá laptop tăng 30% vì khủng hoảng RAM: nên mua gì?" }
   - { href: "/articles/nvidia-rtx-spark-superchip-laptop-arm-blackwell-2026.html", cat: "Laptop", title: "NVIDIA RTX Spark: superchip laptop ARM kết hợp GPU Blackwell" }
 featured: true

@@ -36,7 +36,7 @@ faq:
   - q: "RTX Spark có bán tại Việt Nam không?"
     a: "Tính tới thời điểm hiện tại, NVIDIA và các đối tác chưa công bố cụ thể lịch phân phối laptop dùng RTX Spark tại Việt Nam, người quan tâm nên theo dõi thêm thông báo chính thức từ các đại lý ủy quyền Microsoft, ASUS, Dell, HP, Lenovo và MSI tại Việt Nam trong thời gian tới."
 related:
-  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 8/2026: chọn theo từng phân khúc giá" }
   - { href: "/articles/asus-rog-zephyrus-g14-2026-doi-sang-intel-panther-lake.html", cat: "Laptop", title: "ASUS ROG Zephyrus G14 2026: chia tay AMD sau 6 năm" }
   - { href: "/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html", cat: "Laptop", title: "Laptop Snapdragon X2 Elite 2026: NPU 80 TOPS, pin trâu" }
 featured: true

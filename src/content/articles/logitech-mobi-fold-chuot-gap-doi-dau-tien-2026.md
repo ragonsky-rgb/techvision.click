@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/logitech-mx-master-4-chuot-khong-day-cao-cap-haptic-feedback-2026.html", cat: "Công nghệ", title: "Logitech MX Master 4: chuột không dây cao cấp, haptic feedback" }
   - { href: "/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn laptop cho sinh viên, văn phòng: tiêu chí 2026" }
-  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 8/2026: chọn theo nhu cầu" }
 featured: false
 ---
 

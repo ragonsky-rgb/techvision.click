@@ -36,7 +36,7 @@ faq:
   - q: "Redmi A7 Pro có bán chính thức tại Việt Nam không?"
     a: "Tính tới thời điểm hiện tại, thông tin phân phối chính thức của Redmi A7 Pro tại thị trường Việt Nam chưa được Xiaomi công bố cụ thể, người quan tâm nên theo dõi thêm thông báo chính thức từ các đại lý ủy quyền Xiaomi tại Việt Nam trong thời gian tới."
 related:
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Điện thoại", title: "Top điện thoại đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Điện thoại", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
   - { href: "/articles/iphone-18-pro-lo-thiet-ke-hack-tata-electronics-2026.html", cat: "Công nghệ", title: "iPhone 18 Pro lộ thiết kế sau vụ hack Tata Electronics" }
   - { href: "/articles/top-cua-hang-mua-iphone-chinh-hang-gia-tot-2026.html", cat: "Điện thoại", title: "Top cửa hàng mua iPhone chính hãng giá tốt 2026" }
 featured: true

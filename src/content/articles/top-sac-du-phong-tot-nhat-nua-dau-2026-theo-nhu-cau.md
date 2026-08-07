@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/baseus-energeek-gp12-sac-du-phong-145w-2026.html", cat: "Công nghệ", title: "Baseus Energeek GP12: sạc dự phòng 145W 2026" }
   - { href: "/articles/usb-c-la-gi-chuan-cap-sac-nhanh-pd-phan-biet-day-cap-2026.html", cat: "Công nghệ", title: "USB-C là gì: chuẩn cáp sạc nhanh PD và cách phân biệt dây" }
-  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top sạc dự phòng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top sạc dự phòng đáng mua tháng 8/2026: chọn theo nhu cầu" }
 featured: false
 ---
 

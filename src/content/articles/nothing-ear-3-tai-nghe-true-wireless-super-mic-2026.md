@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/airpods-pro-3-cao-cap-2026-tin-don-camera-hong-ngoai-chip-h3.html", cat: "Công nghệ", title: "AirPods Pro 3: tin đồn camera hồng ngoại, chip H3" }
   - { href: "/articles/cach-chon-tai-nghe-true-wireless-tws-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn tai nghe true wireless 2026: 5 tiêu chí" }
-  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top tai nghe không dây đáng mua tháng 7/2026" }
+  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top tai nghe không dây đáng mua tháng 8/2026: chọn theo nhu cầu" }
 featured: true
 ---
 

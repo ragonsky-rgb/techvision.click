@@ -36,7 +36,7 @@ faq:
     a: "Bản Super lấy dung lượng bộ nhớ lớn làm điểm bán hàng chính, nhưng năm 2026 giá chip nhớ tăng phi mã do nhu cầu từ trung tâm dữ liệu AI. Điều này khiến chi phí trang bị thêm bộ nhớ đắt hơn nhiều, có thể làm NVIDIA lùi lịch hoặc điều chỉnh giá, và người mua tại Việt Nam cũng cần lưu ý giá VGA nói chung đang chịu áp lực tăng."
 related:
   - { href: "/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html", cat: "Công nghệ", title: "RTX 5090 vs 5090 Ti 48GB khác gì, nên mua bản nào?" }
-  - { href: "/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html", cat: "Công nghệ", title: "Giá RTX 5090 Việt Nam tháng 6/2026, có nên mua?" }
+  - { href: "/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html", cat: "Công nghệ", title: "Giá RTX 5090 tại Việt Nam tháng 8/2026: bảng giá, có nên mua?" }
   - { href: "/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html", cat: "Laptop", title: "Khủng hoảng bộ nhớ 2026: RAM, SSD tăng giá vì AI gom hàng" }
 featured: true
 ---

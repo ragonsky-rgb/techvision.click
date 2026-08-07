@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html", cat: "Công nghệ", title: "Galaxy S26 Ultra: camera 200MP, màn hình riêng tư, Snapdragon 8 Elite Gen 5" }
   - { href: "/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html", cat: "Công nghệ", title: "Oppo Find X10 Pro: camera 200MP, pin 8.000mAh" }
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Công nghệ", title: "Top điện thoại đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Công nghệ", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
 featured: false
 ---
 

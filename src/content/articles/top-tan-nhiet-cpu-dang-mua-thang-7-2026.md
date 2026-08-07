@@ -37,8 +37,8 @@ faq:
     a: "Nên ưu tiên mua tại đại lý ủy quyền chính hãng hoặc gian hàng chính hãng trên sàn thương mại điện tử lớn để được hưởng chế độ bảo hành đầy đủ, đặc biệt quan trọng với tản nước AIO vì có bơm và chất lỏng dễ gặp lỗi rò rỉ nếu mua hàng trôi nổi."
 related:
   - { href: "/articles/cach-chon-tan-nhiet-cpu-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn tản nhiệt CPU 2026: 5 tiêu chí" }
-  - { href: "/articles/top-card-do-hoa-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top card đồ họa đáng mua tháng 7/2026" }
-  - { href: "/articles/top-ram-may-tinh-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top RAM máy tính đáng mua tháng 7/2026" }
+  - { href: "/articles/top-card-do-hoa-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top card đồ họa đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
+  - { href: "/articles/top-ram-may-tinh-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top RAM máy tính đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
 featured: true
 ---
 

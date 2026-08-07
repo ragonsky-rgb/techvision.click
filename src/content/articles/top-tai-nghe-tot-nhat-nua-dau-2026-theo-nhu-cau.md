@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/sony-wh-1000xm6-tai-nghe-chong-on-dau-bang-qn3-pin-30-gio.html", cat: "Công nghệ", title: "Sony WH-1000XM6: tai nghe chống ồn đầu bảng, chip QN3, pin 30 giờ" }
   - { href: "/articles/sony-wf-1000xm6-tai-nghe-true-wireless-flagship-2026.html", cat: "Công nghệ", title: "Sony WF-1000XM6: tai nghe true wireless flagship 2026" }
-  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top tai nghe không dây đáng mua tháng 7/2026" }
+  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top tai nghe không dây đáng mua tháng 8/2026: chọn theo nhu cầu" }
 featured: false
 ---
 

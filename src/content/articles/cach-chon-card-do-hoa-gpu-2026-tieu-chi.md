@@ -36,7 +36,7 @@ faq:
   - q: "Mua card đồ họa chính hãng ở đâu tại Việt Nam?"
     a: "Nên ưu tiên mua tại đại lý ủy quyền chính hãng hoặc gian hàng chính hãng trên sàn thương mại điện tử lớn để được hưởng chế độ bảo hành đầy đủ, tránh mua hàng đã qua sử dụng không rõ nguồn gốc dễ gặp rủi ro về độ bền và hiệu năng thực tế."
 related:
-  - { href: "/articles/top-card-do-hoa-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top card đồ họa đáng mua tháng 7/2026" }
+  - { href: "/articles/top-card-do-hoa-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top card đồ họa đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
   - { href: "/articles/rtx-5090-gia-tang-vot-khung-hoang-dram-2026.html", cat: "Laptop", title: "RTX 5090 giá tăng vọt lên 4.000 USD" }
   - { href: "/articles/cach-chon-ram-may-tinh-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn RAM máy tính 2026: 5 tiêu chí" }
 featured: true

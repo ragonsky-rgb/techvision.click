@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/apple-macbook-pro-m5-pro-max-2026-hieu-nang-ai-gpu-neural-accelerator.html", cat: "Công nghệ", title: "MacBook Pro M5 Pro Max: hiệu năng AI, GPU Neural Accelerator" }
   - { href: "/articles/asus-rog-strix-g16-g18-2026-mini-led-nebula-hdr.html", cat: "Công nghệ", title: "Asus ROG Strix G16, G18 2026: màn Mini LED Nebula HDR" }
-  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Công nghệ", title: "Top laptop đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Công nghệ", title: "Top laptop đáng mua tháng 8/2026: chọn theo từng phân khúc giá" }
 featured: false
 ---
 

@@ -35,7 +35,7 @@ faq:
   - q: "Micro thu âm giá rẻ có đáng mua không?"
     a: "Micro giá rẻ dưới 1 triệu đồng phù hợp nhu cầu livestream trò chuyện cơ bản, họp trực tuyến, nhưng chất lượng âm thanh thu được thường không đủ tốt cho thu âm hát hoặc làm nội dung podcast chuyên nghiệp, nên cân nhắc đầu tư cao hơn nếu có nhu cầu sử dụng nghiêm túc lâu dài."
 related:
-  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 7/2026" }
+  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
   - { href: "/articles/cach-chon-loa-bluetooth-di-dong-2026.html", cat: "Audio", title: "Cách chọn loa Bluetooth di động 2026" }
   - { href: "/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn laptop cho sinh viên, văn phòng: tiêu chí 2026" }
 featured: false

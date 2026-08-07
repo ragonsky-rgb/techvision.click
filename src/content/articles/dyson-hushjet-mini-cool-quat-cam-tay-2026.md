@@ -36,7 +36,7 @@ faq:
   - q: "Giá bán Dyson HushJet Mini Cool là bao nhiêu?"
     a: "Sản phẩm có giá bán khởi điểm 99 USD tại thị trường Mỹ, được xem là mức giá dễ tiếp cận hơn đáng kể so với các dòng quạt cầm tay Dyson trước đây, mở bán theo từng đợt với ba phối màu khác nhau từ tháng 4 tới tháng 6/2026."
 related:
-  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 8/2026: chọn theo nhu cầu" }
   - { href: "/articles/logitech-mobi-fold-chuot-gap-doi-dau-tien-2026.html", cat: "Công nghệ", title: "Logitech Mobi Fold: chuột gập đôi đầu tiên, bỏ túi được" }
   - { href: "/articles/cach-chon-o-cung-di-dong-ssd-2026.html", cat: "Công nghệ", title: "Cách chọn ổ cứng di động SSD 2026" }
 featured: false

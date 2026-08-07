@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/cach-chon-ban-phim-co-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn bàn phím cơ 2026: 5 tiêu chí trước khi xuống tiền" }
   - { href: "/articles/logitech-mobi-fold-chuot-gap-doi-dau-tien-2026.html", cat: "Công nghệ", title: "Logitech Mobi Fold: chuột gập đôi đầu tiên, bỏ túi được" }
-  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 8/2026: chọn theo từng phân khúc giá" }
 featured: true
 ---
 

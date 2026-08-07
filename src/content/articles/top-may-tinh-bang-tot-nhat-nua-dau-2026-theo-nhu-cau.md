@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/samsung-galaxy-tab-s11-may-tinh-bang-nho-gon-dimensity-9400-plus-2026.html", cat: "Công nghệ", title: "Samsung Galaxy Tab S11: máy tính bảng nhỏ gọn, Dimensity 9400+" }
   - { href: "/articles/huawei-matepad-12-x-2026-papermatte-144hz-m-pencil-pro.html", cat: "Công nghệ", title: "Huawei MatePad 12 X 2026: PaperMatte 144Hz, M-Pencil Pro" }
-  - { href: "/articles/top-may-tinh-bang-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top máy tính bảng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-may-tinh-bang-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top máy tính bảng đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
 featured: false
 ---
 

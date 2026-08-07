@@ -150,6 +150,12 @@ echo "media: $(grep -cE '<img |<iframe' $F) | em-dash: $(grep -c '—' $F)"
 ```bash
 node scripts/list-monthly-refresh.mjs   # liệt kê bài top-*/cach-chon-* gắn tháng cũ
 ```
+
+⚠️ **SAU MỖI KỲ REFRESH BẮT BUỘC CHẠY:**
+```bash
+node scripts/fix-stale-anchors.mjs --write
+```
+Bài refresh giữ nguyên slug nhưng đổi title sang tháng mới, còn mọi chỗ trỏ tới nó (thẻ `related` ở bài khác, anchor trong thân bài) vẫn ghi tháng cũ. Ngày 07/08/2026 quét ra **56 anchor lệch tháng** tồn từ nhiều kỳ, ví dụ 8 bài trỏ tới "Giá RTX 5090 tại Việt Nam tháng 6/2026" trong khi bài đó đã là tháng 8. Google đọc anchor lệch tháng là tín hiệu nội dung cũ. Script đồng bộ `related` theo title hiện tại và đổi số tháng trong anchor thân bài, chạy không tham số để xem trước.
 Với mỗi bài: cập nhật giá/sản phẩm còn bán, đổi "tháng X" trong title/description/thân bài sang tháng mới, bump `dateModified`. Giữ nguyên slug.
 
 ## 9. Tham chiếu

@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/cach-chon-the-nho-microsd-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn thẻ nhớ microSD 2026: 5 tiêu chí" }
   - { href: "/articles/top-may-choi-game-cam-tay-dang-mua-thang-7-2026.html", cat: "Gaming", title: "Top máy chơi game cầm tay đáng mua tháng 7/2026" }
-  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 7/2026" }
+  - { href: "/articles/top-o-cung-ssd-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top ổ cứng SSD đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
 featured: true
 ---
 

@@ -41,7 +41,7 @@ faq:
     a: "Nếu đang dùng Xperia 1 VII, người dùng có thể cân nhắc chờ thêm vì khác biệt phần cứng giữa hai thế hệ chủ yếu nằm ở chip xử lý, thiết kế và camera tele, chưa phải bước nhảy vọt toàn diện. Nhưng với người dùng các dòng Xperia cũ hơn hoặc đang dùng smartphone Android khác muốn chuyển sang, đây là thời điểm hợp lý để nâng cấp nhờ cấu hình mạnh và quà tặng tai nghe đi kèm."
 related:
   - { href: "/articles/sony-wh-1000xm6-tai-nghe-chong-on-dau-bang-qn3-pin-30-gio.html", cat: "Audio", title: "Sony WH-1000XM6: tai nghe chống ồn đầu bảng QN3, pin 30 giờ" }
-  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Audio", title: "Top tai nghe không dây đáng mua tháng 7/2026" }
+  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Audio", title: "Top tai nghe không dây đáng mua tháng 8/2026: chọn theo nhu cầu" }
   - { href: "/articles/camera-nhieu-megapixel-co-chup-dep-hon-khong.html", cat: "Smartphone", title: "Camera nhiều megapixel có chụp đẹp hơn không?" }
 featured: false
 ---

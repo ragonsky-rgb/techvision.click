@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/cach-chon-tay-cam-choi-game-2026-tieu-chi.html", cat: "Gaming", title: "Cách chọn tay cầm chơi game 2026: 5 tiêu chí" }
   - { href: "/articles/top-chuot-gaming-dang-mua-thang-7-2026.html", cat: "Gaming", title: "Top chuột gaming đáng mua tháng 7/2026" }
-  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Audio", title: "Top tai nghe không dây đáng mua tháng 7/2026" }
+  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Audio", title: "Top tai nghe không dây đáng mua tháng 8/2026: chọn theo nhu cầu" }
 featured: true
 ---
 

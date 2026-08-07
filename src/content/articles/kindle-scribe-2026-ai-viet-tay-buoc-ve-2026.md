@@ -37,7 +37,7 @@ faq:
     a: "Có. Tính năng Smart Shapes cho phép người dùng vẽ một hình dạng bằng một nét bút rồi giữ đầu bút lại cuối nét vẽ, hệ thống sẽ tự động làm gọn hình dạng đó thành hình chuẩn, tiện lợi khi cần vẽ sơ đồ hoặc minh họa nhanh trong lúc ghi chú."
 related:
   - { href: "/articles/cach-chon-may-tinh-bang-tablet-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn máy tính bảng 2026: 5 tiêu chí trước khi xuống tiền" }
-  - { href: "/articles/top-may-tinh-bang-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top máy tính bảng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-may-tinh-bang-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top máy tính bảng đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
   - { href: "/articles/cach-chon-o-cung-di-dong-ssd-2026.html", cat: "Công nghệ", title: "Cách chọn ổ cứng di động SSD 2026" }
 featured: false
 ---

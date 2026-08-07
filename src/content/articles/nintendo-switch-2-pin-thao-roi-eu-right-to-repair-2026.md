@@ -39,7 +39,7 @@ faq:
     a: "Đúng vậy. Quyền được sửa chữa đang trở thành một xu hướng chính sách quan trọng, buộc nhiều hãng công nghệ phải thiết kế lại sản phẩm theo hướng dễ sửa chữa và thay thế linh kiện hơn. Trường hợp của Nintendo cho thấy ngay cả những sản phẩm có thiết kế kín cũng phải thích nghi với các quy định mới."
 related:
   - { href: "/articles/nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai.html", cat: "Công nghệ", title: "Nintendo Switch 2 sau một năm: doanh số gần 20 triệu máy" }
-  - { href: "/articles/game-hay-nintendo-switch-2-thang-7-2026-splatoon-raiders-final-fantasy.html", cat: "Game", title: "Game hay Nintendo Switch 2 tháng 7/2026" }
+  - { href: "/articles/game-hay-nintendo-switch-2-thang-7-2026-splatoon-raiders-final-fantasy.html", cat: "Game", title: "Game hay trên Switch 2 tháng 8/2026: Elden Ring, Lies of P" }
   - { href: "/articles/pokemon-winds-waves-the-he-10-switch-2-2026.html", cat: "Game", title: "Pokemon Winds và Waves thế hệ 10 trên Switch 2" }
 featured: false
 ---

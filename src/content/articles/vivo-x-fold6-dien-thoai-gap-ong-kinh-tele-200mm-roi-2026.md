@@ -36,7 +36,7 @@ faq:
   - q: "vivo X Fold6 có bán tại Việt Nam không?"
     a: "Tính tới thời điểm hiện tại, vivo chưa công bố lịch phân phối chính thức X Fold6 tại thị trường Việt Nam, người quan tâm nên theo dõi thêm thông báo từ vivo Việt Nam và các đại lý ủy quyền trong thời gian tới."
 related:
-  - { href: "/articles/top-dien-thoai-gap-dang-mua-thang-7-2026.html", cat: "Điện thoại", title: "Top điện thoại gập đáng mua tháng 7/2026" }
+  - { href: "/articles/top-dien-thoai-gap-dang-mua-thang-7-2026.html", cat: "Điện thoại", title: "Top điện thoại gập đáng mua tháng 8/2026: Z Fold 8 vừa lên kệ" }
   - { href: "/articles/cach-chon-dien-thoai-gap-foldable-2026-tieu-chi.html", cat: "Điện thoại", title: "Cách chọn điện thoại gập foldable 2026: 5 tiêu chí" }
   - { href: "/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html", cat: "Điện thoại", title: "Honor Magic V5 2026: điện thoại gập mỏng nhất thế giới" }
 featured: true

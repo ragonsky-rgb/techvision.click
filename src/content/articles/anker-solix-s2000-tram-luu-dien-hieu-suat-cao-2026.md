@@ -36,7 +36,7 @@ faq:
   - q: "Giá bán Anker Solix S2000 là bao nhiêu?"
     a: "Sản phẩm mở bán với giá ưu đãi sớm 649 USD, giá giới thiệu sau đó khoảng 679,99 USD, trong khi giá niêm yết chính thức là 1.199,99 USD. Hiện chưa có thông tin phân phối chính thức tại Việt Nam."
 related:
-  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 8/2026: chọn theo nhu cầu" }
   - { href: "/articles/cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan.html", cat: "Smartphone", title: "Cách chọn sạc dự phòng: dung lượng thực, công suất và an toàn" }
   - { href: "/articles/cach-chon-camera-an-ninh-gia-dinh-2026.html", cat: "Camera", title: "Cách chọn camera an ninh gia đình 2026" }
 featured: false

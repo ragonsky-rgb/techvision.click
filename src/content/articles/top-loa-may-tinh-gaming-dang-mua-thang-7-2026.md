@@ -37,7 +37,7 @@ faq:
     a: "Nên ưu tiên mua tại đại lý ủy quyền chính hãng hoặc gian hàng chính hãng trên sàn thương mại điện tử lớn để được hưởng chế độ bảo hành đầy đủ, đồng thời nên nghe thử trực tiếp tại cửa hàng nếu có thể trước khi quyết định mua."
 related:
   - { href: "/articles/cach-chon-loa-may-tinh-gaming-2026-tieu-chi.html", cat: "Gaming", title: "Cách chọn loa máy tính gaming 2026: 5 tiêu chí" }
-  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Gaming", title: "Top tai nghe không dây đáng mua tháng 7/2026" }
+  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Gaming", title: "Top tai nghe không dây đáng mua tháng 8/2026: chọn theo nhu cầu" }
   - { href: "/articles/top-loa-soundbar-dang-mua-thang-7-2026.html", cat: "Gaming", title: "Top loa soundbar đáng mua tháng 7/2026" }
 featured: true
 ---

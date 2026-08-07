@@ -36,7 +36,7 @@ faq:
     a: "Sạc không dây truyền năng lượng qua cảm ứng điện từ, quá trình này vốn kém hiệu quả hơn sạc có dây trực tiếp, sinh ra nhiệt lượng dư thừa đáng kể, đặc biệt ở các mức công suất cao như 25W, nếu không có giải pháp tản nhiệt tốt sẽ ảnh hưởng tới tuổi thọ pin về lâu dài."
 related:
   - { href: "/articles/sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung.html", cat: "Smartphone", title: "Sạc không dây là gì, có hại pin không, có nên dùng" }
-  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 8/2026: chọn theo nhu cầu" }
   - { href: "/articles/usb-c-la-gi-chuan-cap-sac-nhanh-pd-phan-biet-day-cap-2026.html", cat: "Smartphone", title: "USB-C là gì, chuẩn cáp sạc nhanh PD, phân biệt dây cáp" }
 featured: false
 ---

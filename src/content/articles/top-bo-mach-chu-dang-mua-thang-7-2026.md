@@ -37,7 +37,7 @@ faq:
     a: "Nên ưu tiên mua tại đại lý ủy quyền chính hãng hoặc gian hàng chính hãng trên sàn thương mại điện tử lớn để được hưởng chế độ bảo hành đầy đủ, đồng thời kiểm tra kỹ thông tin socket CPU và chipset trước khi đặt hàng để tránh mua nhầm phiên bản không tương thích."
 related:
   - { href: "/articles/cach-chon-bo-mach-chu-mainboard-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn bo mạch chủ (mainboard) 2026: 5 tiêu chí" }
-  - { href: "/articles/top-ram-may-tinh-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top RAM máy tính đáng mua tháng 7/2026" }
+  - { href: "/articles/top-ram-may-tinh-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top RAM máy tính đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
   - { href: "/articles/top-case-pc-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top case PC đáng mua tháng 7/2026" }
 featured: true
 ---

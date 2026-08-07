@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/asus-rog-zephyrus-duo-2026-laptop-gaming-2-man-hinh-oled.html", cat: "Laptop", title: "ASUS ROG Zephyrus Duo 2026: laptop gaming 2 màn hình OLED" }
   - { href: "/articles/asus-rog-zephyrus-g14-2026-doi-sang-intel-panther-lake.html", cat: "Laptop", title: "ASUS ROG Zephyrus G14 2026: chia tay AMD sau 6 năm" }
-  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 8/2026: chọn theo từng phân khúc giá" }
 featured: true
 ---
 

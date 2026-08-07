@@ -36,7 +36,7 @@ faq:
   - q: "ROG Zephyrus G14 2026 đã bán tại Việt Nam chưa?"
     a: "Tính tới thời điểm hiện tại, ASUS Việt Nam chưa công bố lịch phân phối chính thức và giá bán cụ thể tại thị trường trong nước, người quan tâm nên theo dõi thêm thông báo từ ASUS Việt Nam và các đại lý ủy quyền trong thời gian tới."
 related:
-  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 7/2026 mọi phân khúc" }
+  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 8/2026: chọn theo từng phân khúc giá" }
   - { href: "/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html", cat: "Laptop", title: "Laptop Snapdragon X2 Elite 2026: NPU 80 TOPS, pin trâu" }
   - { href: "/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html", cat: "Laptop", title: "Giá laptop tăng 30% vì khủng hoảng RAM: nên mua gì?" }
 featured: true

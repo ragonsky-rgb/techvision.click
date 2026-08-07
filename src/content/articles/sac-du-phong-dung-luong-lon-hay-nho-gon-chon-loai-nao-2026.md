@@ -39,7 +39,7 @@ faq:
     a: "Bạn nên chọn sạc dự phòng dung lượng lớn nếu hay đi xa dài ngày, sạc nhiều thiết bị, cần sạc cả laptop hoặc dùng cho cả nhóm, và chấp nhận trọng lượng nặng hơn. Chọn loại nhỏ gọn nếu coi trọng sự gọn nhẹ, mang theo mỗi ngày và chủ yếu chỉ cần sạc điện thoại một hai lần. Đây là hai loại phục vụ thói quen di chuyển khác nhau chứ không đơn thuần hơn kém, nên nhiều người có cả hai, cục lớn cho chuyến đi xa và cục nhỏ cho mang theo hằng ngày, tùy nhu cầu và ngân sách."
 related:
   - { href: "/articles/top-sac-du-phong-tot-nhat-nua-dau-2026-theo-nhu-cau.html", cat: "Công nghệ", title: "Top sạc dự phòng tốt nhất nửa đầu 2026 theo nhu cầu" }
-  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top sạc dự phòng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top sạc dự phòng đáng mua tháng 8/2026: chọn theo nhu cầu" }
   - { href: "/articles/cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan.html", cat: "Công nghệ", title: "Cách chọn sạc dự phòng theo mAh thực và công suất an toàn" }
 featured: false
 ---

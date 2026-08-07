@@ -36,7 +36,7 @@ faq:
     a: "Ngoài định vị tích hợp, vali còn có vỏ polycarbonate bền chắc, bánh xe lăn êm, túi đựng đồ giặt chống mùi ẩn giấu bên trong ngăn chính và dây đai nén Y-Strap giúp tối ưu không gian chứa đồ khi đóng gói hành lý."
 related:
   - { href: "/articles/cach-chon-o-cung-di-dong-ssd-2026.html", cat: "Công nghệ", title: "Cách chọn ổ cứng di động SSD 2026" }
-  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-sac-du-phong-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top sạc dự phòng đáng mua tháng 8/2026: chọn theo nhu cầu" }
   - { href: "/articles/esim-la-gi-cach-chuyen-sim-vat-ly-sang-esim-viet-nam.html", cat: "Viễn thông", title: "eSIM là gì, cách chuyển SIM vật lý sang eSIM tại Việt Nam" }
 featured: false
 ---

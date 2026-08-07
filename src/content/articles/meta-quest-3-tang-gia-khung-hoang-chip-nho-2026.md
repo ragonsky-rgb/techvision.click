@@ -36,8 +36,8 @@ faq:
     a: "Nhiều đánh giá độc lập vẫn cho rằng Quest 3 là lựa chọn VR đáng cân nhắc nhất trong tầm giá, dù mức giá mới khiến sản phẩm bớt hấp dẫn hơn so với trước, đặc biệt khi so sánh với các lựa chọn giá rẻ hơn như Quest 3S."
 related:
   - { href: "/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html", cat: "Laptop", title: "Giá laptop tăng 30% vì khủng hoảng RAM: nên mua gì" }
-  - { href: "/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html", cat: "Công nghệ", title: "Giá RTX 5090 Việt Nam tháng 6/2026, bảng giá, có nên mua" }
-  - { href: "/articles/top-may-tinh-bang-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top máy tính bảng đáng mua tháng 7/2026" }
+  - { href: "/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html", cat: "Công nghệ", title: "Giá RTX 5090 tại Việt Nam tháng 8/2026: bảng giá, có nên mua?" }
+  - { href: "/articles/top-may-tinh-bang-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top máy tính bảng đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
 featured: false
 ---
 

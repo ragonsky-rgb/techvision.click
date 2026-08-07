@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/cach-chon-camera-an-ninh-gia-dinh-2026.html", cat: "Camera", title: "Cách chọn camera an ninh gia đình 2026: 5 tiêu chí trước khi lắp đặt" }
   - { href: "/articles/cach-tang-toc-wifi-tai-nha-mang-cham-lag-2026.html", cat: "Internet", title: "Cách tăng tốc wifi tại nhà, mạng chậm, lag" }
-  - { href: "/articles/top-may-tinh-bang-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top máy tính bảng đáng mua tháng 7/2026" }
+  - { href: "/articles/top-may-tinh-bang-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top máy tính bảng đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
 featured: true
 ---
 

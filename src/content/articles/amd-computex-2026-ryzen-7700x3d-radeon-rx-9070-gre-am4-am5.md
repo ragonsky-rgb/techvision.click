@@ -39,7 +39,7 @@ faq:
     a: "Với game thủ và người dựng máy tính tại Việt Nam, các sản phẩm mới của AMD mang lại lựa chọn hiệu năng cao trong tầm giá hợp lý. Đặc biệt, chiến lược kéo dài vòng đời nền tảng giúp người dùng AM4 và AM5 có thêm lựa chọn nâng cấp tiết kiệm. Nên theo dõi giá bán chính thức tại Việt Nam và các bài đánh giá thực tế trước khi quyết định mua."
 related:
   - { href: "/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html", cat: "Công nghệ", title: "RTX 5090 vs 5090 Ti 48GB khác gì, nên mua bản nào?" }
-  - { href: "/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html", cat: "Công nghệ", title: "Giá RTX 5090 tại Việt Nam tháng 6/2026: có nên mua?" }
+  - { href: "/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html", cat: "Công nghệ", title: "Giá RTX 5090 tại Việt Nam tháng 8/2026: bảng giá, có nên mua?" }
   - { href: "/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html", cat: "Laptop", title: "Cách chọn màn hình máy tính: tấm nền, độ phân giải, tần số quét" }
 featured: false
 ---

@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html", cat: "Apple", title: "iPhone 18 Pro Max 1.399 USD: nghịch lý giá, toan tính của Apple" }
   - { href: "/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html", cat: "Apple", title: "iPhone 18 tăng giá, bộ nhớ, AI Apple Intelligence 2026" }
-  - { href: "/articles/iphone-16-giam-gia-thang-7-2026-lua-chon-toi-uu.html", cat: "Apple", title: "iPhone 16 giảm giá mạnh tháng 7/2026" }
+  - { href: "/articles/iphone-16-giam-gia-thang-7-2026-lua-chon-toi-uu.html", cat: "Apple", title: "Giá iPhone 16 tháng 8/2026: 16e từ 12,79 triệu, Pro Max chạm đáy" }
 featured: false
 ---
 

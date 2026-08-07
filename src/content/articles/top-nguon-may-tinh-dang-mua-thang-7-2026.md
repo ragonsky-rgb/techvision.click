@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/cach-chon-nguon-may-tinh-psu-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn nguồn máy tính (PSU) 2026: 5 tiêu chí" }
   - { href: "/articles/top-tan-nhiet-cpu-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top tản nhiệt CPU đáng mua tháng 7/2026" }
-  - { href: "/articles/top-card-do-hoa-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top card đồ họa đáng mua tháng 7/2026" }
+  - { href: "/articles/top-card-do-hoa-dang-mua-thang-7-2026.html", cat: "Laptop", title: "Top card đồ họa đáng mua tháng 8/2026: từ phổ thông đến cao cấp" }
 featured: true
 ---
 

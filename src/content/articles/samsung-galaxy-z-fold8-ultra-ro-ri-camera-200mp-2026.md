@@ -37,7 +37,7 @@ faq:
     a: "Với người ưu tiên camera và hiệu năng cao cấp nhất, chờ đợi Fold8 Ultra là hợp lý nếu ngân sách cho phép. Tuy nhiên, người cần mua ngay có thể cân nhắc các lựa chọn hiện có như vivo X Fold6 hoặc Honor Magic V5 với mức giá dễ tiếp cận hơn."
 related:
   - { href: "/articles/vivo-x-fold6-dien-thoai-gap-ong-kinh-tele-200mm-roi-2026.html", cat: "Điện thoại", title: "vivo X Fold6: điện thoại gập ống kính tele 200mm rời" }
-  - { href: "/articles/top-dien-thoai-gap-dang-mua-thang-7-2026.html", cat: "Điện thoại", title: "Top điện thoại gập đáng mua tháng 7/2026" }
+  - { href: "/articles/top-dien-thoai-gap-dang-mua-thang-7-2026.html", cat: "Điện thoại", title: "Top điện thoại gập đáng mua tháng 8/2026: Z Fold 8 vừa lên kệ" }
   - { href: "/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html", cat: "Điện thoại", title: "Honor Magic V5 2026: điện thoại gập mỏng nhất thế giới" }
 featured: true
 ---
