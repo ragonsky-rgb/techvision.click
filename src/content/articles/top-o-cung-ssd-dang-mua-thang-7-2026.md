@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-o-cung-ssd-dang-mua-thang-7-2026"
 title: "Top ổ cứng SSD đáng mua tháng 8/2026: từ phổ thông đến cao cấp"
 description: "Gợi ý ổ cứng SSD đáng mua tháng 8/2026: Kingston NV2 giá tốt, Samsung T7 Shield di động bền bỉ, WD cao cấp cho dựng phim, làm việc chuyên nghiệp."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-sac-du-phong-dang-mua-thang-7-2026"
 title: "Top sạc dự phòng đáng mua tháng 8/2026: chọn theo nhu cầu"
 description: "Gợi ý sạc dự phòng đáng mua tháng 8/2026: Anker Prime công suất lớn, UGREEN Nexode 100W cho laptop, Anker Nano nhỏ gọn cho từng nhu cầu sử dụng."

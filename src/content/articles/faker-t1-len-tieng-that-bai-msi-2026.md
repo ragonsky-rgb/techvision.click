@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "faker-t1-len-tieng-that-bai-msi-2026"
 title: "Faker lên tiếng sau thất bại cay đắng nhất sự nghiệp tại MSI 2026"
 description: "Faker thừa nhận T1 mắc quá nhiều sai lầm khi thua G2 tại MSI 2026, kết quả quốc tế tệ nhất sự nghiệp, hướng tới EWC và LCK vòng 3-4 để cứu vãn mùa giải."

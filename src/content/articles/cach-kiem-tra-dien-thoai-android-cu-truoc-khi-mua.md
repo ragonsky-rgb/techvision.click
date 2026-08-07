@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-kiem-tra-dien-thoai-android-cu-truoc-khi-mua"
 title: "Cách kiểm tra điện thoại Android cũ trước khi mua: checklist đầy đủ"
 description: "Mua điện thoại Android cũ giúp tiết kiệm nhiều tiền, nhưng cũng dễ gặp máy dính tài khoản Google, pin chai, màn thay hay linh kiện lỗi."

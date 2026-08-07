@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cmf-buds-2-plus-tai-nghe-ldac-pin-61-gio-2026"
 title: "CMF Buds 2 Plus: tai nghe true wireless hỗ trợ LDAC, pin 61,5 giờ, giá 1,8 triệu"
 description: "CMF Buds 2 Plus ra mắt với hỗ trợ LDAC hiếm có ở tầm giá, chống ồn chủ động 50dB, pin tổng cộng 61,5 giờ, 6 micro HD, giá bán khoảng 1,8 triệu đồng."

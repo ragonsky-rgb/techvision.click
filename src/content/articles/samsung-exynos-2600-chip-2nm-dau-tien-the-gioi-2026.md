@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026"
 title: "Samsung Exynos 2600: chip smartphone 2nm đầu tiên thế giới, AI tăng 113%"
 description: "Samsung công bố Exynos 2600, chip smartphone 2nm GAA đầu tiên thế giới, hiệu năng AI tạo sinh tăng 113%, trang bị trên Galaxy S26 và S26 Plus phiên bản châu Âu."

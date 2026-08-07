@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "google-gemini-tro-ly-mua-sam-viet-nam-thang-7-2026"
 title: "Google Gemini thành trợ lý mua sắm AI tại Việt Nam: chat một cửa, so giá tức thì"
 description: "Google vừa triển khai bản cập nhật lớn cho Gemini tại Việt Nam tháng 7/2026, biến chatbot thành trợ lý mua sắm dựa trên Shopping Graph với hơn 50 tỷ sản phẩm."

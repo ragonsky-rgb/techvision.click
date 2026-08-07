@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tu-dong-hay-tu-mat-chon-loai-nao-2026"
 title: "Tủ đông hay tủ mát: chọn loại nào 2026?"
 description: "So sánh tủ đông và tủ mát 2026: nhiệt độ, thời gian bảo quản, mục đích dùng, kinh doanh và giá, giúp bạn chọn đúng loại tủ bảo quản thực phẩm theo nhu cầu."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-tai-nghe-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top tai nghe tốt nhất nửa đầu 2026 theo từng nhu cầu"
 description: "Tổng hợp tai nghe tốt nhất nửa đầu 2026 theo nhu cầu: chụp tai chống ồn, true wireless, gaming, dịch thuật AI và giá tốt, từ Sony XM6 tới AirPods Pro 3."

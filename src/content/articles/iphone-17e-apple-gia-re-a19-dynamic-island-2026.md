@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "iphone-17e-apple-gia-re-a19-dynamic-island-2026"
 title: "iPhone 17e ra mắt: iPhone giá rẻ nhất 2026 với chip A19, Dynamic Island"
 description: "Apple ra mắt iPhone 17e giá rẻ với chip A19 ngang iPhone 17, màn OLED 6.1 inch, camera 48MP, Dynamic Island và MagSafe trở lại"

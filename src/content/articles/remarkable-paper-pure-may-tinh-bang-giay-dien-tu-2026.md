@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "remarkable-paper-pure-may-tinh-bang-giay-dien-tu-2026"
 title: "reMarkable Paper Pure: máy tính bảng giấy điện tử kế nhiệm reMarkable 2 sau 6 năm, giá 399 USD"
 description: "reMarkable Paper Pure kế nhiệm reMarkable 2 sau 6 năm chờ đợi, nhẹ 360 gram, pin 3 tuần, không đèn nền, không hỗ trợ bàn phím, giá 399 USD."

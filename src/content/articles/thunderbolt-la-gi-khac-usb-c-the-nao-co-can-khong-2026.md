@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "thunderbolt-la-gi-khac-usb-c-the-nao-co-can-khong-2026"
 title: "Thunderbolt là gì, khác USB-C thế nào, có cần không?"
 description: "Thunderbolt là gì, khác cổng USB-C ra sao, băng thông và công dụng thực tế, cách nhận biết cổng Thunderbolt trên laptop và khi nào bạn thực sự cần tới nó 2026."

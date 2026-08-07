@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tivi-oled-hay-qled-chon-loai-nao-2026"
 title: "Tivi OLED hay QLED: chọn loại nào 2026?"
 description: "So sánh tivi OLED và QLED 2026: độ đen tương phản, độ sáng, màu sắc, điều kiện phòng và giá, giúp bạn chọn đúng công nghệ tivi theo nhu cầu."

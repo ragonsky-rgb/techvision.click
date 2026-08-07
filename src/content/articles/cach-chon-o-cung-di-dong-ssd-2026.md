@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-o-cung-di-dong-ssd-2026"
 title: "Cách chọn ổ cứng di động SSD ngoài năm 2026: dung lượng, tốc độ, thương hiệu"
 description: "Hướng dẫn chọn ổ cứng di động SSD ngoài năm 2026: nên mua dung lượng bao nhiêu, chuẩn kết nối USB nào nhanh, thương hiệu uy tín Samsung, WD, SanDisk, Crucial"

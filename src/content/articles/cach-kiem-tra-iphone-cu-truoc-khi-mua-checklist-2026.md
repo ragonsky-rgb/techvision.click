@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026"
 title: "Cách kiểm tra iPhone cũ trước khi mua: checklist 10 bước tránh bị lừa"
 description: "Mua iPhone cũ là cách tiết kiệm phổ biến, nhưng cũng đầy rủi ro: máy dính iCloud, pin chai, màn thay, linh kiện không zin hay thậm chí máy dựng."

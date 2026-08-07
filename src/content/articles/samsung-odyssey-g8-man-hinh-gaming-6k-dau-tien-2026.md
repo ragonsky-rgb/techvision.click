@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-odyssey-g8-man-hinh-gaming-6k-dau-tien-2026"
 title: "Samsung Odyssey G8: màn hình gaming 6K đầu tiên thế giới, 165Hz, giá khoảng 1.600 USD"
 description: "Samsung Odyssey G8 G80HS là màn hình gaming 6K đầu tiên thế giới, độ phân giải 6144x3456, tần số quét 165Hz ở 6K hoặc 330Hz ở 3K, giá khoảng 1.600 USD."

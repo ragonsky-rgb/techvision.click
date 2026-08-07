@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "amazon-chip-tu-thiet-ke-20-ty-usd-trainium-thach-thuc-nvidia-2026"
 title: "Chip tự thiết kế của Amazon đạt 20 tỷ USD, thách thức Nvidia"
 description: "Mảng chip tự thiết kế của Amazon đạt nhịp doanh thu 20 tỷ USD mỗi năm, dẫn đầu là chip AI Trainium với hơn 225 tỷ USD cam kết, thách thức thế độc quyền Nvidia."

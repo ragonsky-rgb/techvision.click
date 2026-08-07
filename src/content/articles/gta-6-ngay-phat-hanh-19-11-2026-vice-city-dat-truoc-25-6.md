@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "gta-6-ngay-phat-hanh-19-11-2026-vice-city-dat-truoc-25-6"
 title: "GTA 6 chốt ngày phát hành 19/11/2026: trở lại Vice City, mở đặt trước 25/6"
 description: "Rockstar chốt GTA 6 phát hành ngày 19/11/2026 sau khi dời lịch, công bố ảnh bìa mới ngày 18/6, mở đặt trước từ 25/6. Game trở lại Vice City hiện đại"

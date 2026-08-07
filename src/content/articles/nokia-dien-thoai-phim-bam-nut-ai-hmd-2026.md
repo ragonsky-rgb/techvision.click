@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nokia-dien-thoai-phim-bam-nut-ai-hmd-2026"
 title: "Nokia ra 4 điện thoại phím bấm gắn nút AI: có gì lạ?"
 description: "HMD ra 4 điện thoại phím bấm Nokia 200, 210, 215 và 235 4G gắn nút trợ lý AI riêng, miễn phí 180 ngày rồi thu phí thuê bao, giá khởi điểm khoảng 29 USD."

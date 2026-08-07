@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "bose-lifestyle-ultra-soundbar-doi-thu-sonos-arc-ultra-2026"
 title: "Bose Lifestyle Ultra Soundbar: thiết kế lại sau 10 năm, đối đầu Sonos Arc Ultra"
 description: "Bose Lifestyle Ultra Soundbar giá 1.099 USD, Dolby Atmos 5.1.2 kênh, là lần thiết kế lại lớn nhất của Bose sau hơn một thập kỷ, thách thức Sonos Arc Ultra"

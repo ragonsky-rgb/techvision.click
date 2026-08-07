@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "wwdc-2026-ios-27-siri-ai-apple-intelligence-nang-cap-lon"
 title: "WWDC 2026: iOS 27 và Siri AI lột xác, bản nâng cấp Apple Intelligence lớn nhất"
 description: "Apple giới thiệu iOS 27 và Siri AI tại WWDC 2026: trợ lý hiểu ngữ cảnh cá nhân, app Siri riêng, Apple Intelligence nâng cấp mạnh trên iPhone 11 trở lên"

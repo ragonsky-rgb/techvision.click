@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ewc-2026-lmht-karmine-corp-ha-t1-vao-chung-ket"
 title: "EWC 2026 LMHT: Karmine Corp hạ T1, vào chung kết"
 description: "Karmine Corp gây địa chấn khi hạ T1 2-1 ở bán kết EWC 2026 LMHT, lần đầu vào chung kết tổng và chờ đối thủ từ cặp Gen.G gặp Dplus KIA, chung kết Bo5 ngày 19/7."

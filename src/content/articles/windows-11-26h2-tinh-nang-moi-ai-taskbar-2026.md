@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "windows-11-26h2-tinh-nang-moi-ai-taskbar-2026"
 title: "Windows 11 26H2: Ask Copilot thay công cụ tìm kiếm, taskbar dời được vị trí"
 description: "Windows 11 26H2 bắt đầu thử nghiệm với Ask Copilot thay thế tìm kiếm mặc định, cho phép di chuyển taskbar và hộp thoại Run được thiết kế lại sau gần 3 thập kỷ."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "man-hinh-ltpo-la-gi-tan-so-quet-thich-ung-tiet-kiem-pin-2026"
 title: "Màn hình LTPO là gì, tần số quét thích ứng có lợi gì?"
 description: "Màn hình LTPO là gì, vì sao cho phép tần số quét thích ứng từ 1Hz đến 120Hz, giúp tiết kiệm pin ra sao và khác gì màn hình tần số quét cao thông thường 2026."

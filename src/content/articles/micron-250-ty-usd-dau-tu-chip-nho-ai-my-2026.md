@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "micron-250-ty-usd-dau-tu-chip-nho-ai-my-2026"
 title: "Micron nâng vốn đầu tư chip nhớ AI tại Mỹ lên 250 tỷ USD"
 description: "Micron nâng cam kết đầu tư chip nhớ AI tại Mỹ lên hơn 250 tỷ USD tới 2035, xây nhà máy lớn nhất lịch sử ngành bán dẫn Mỹ gần Syracuse, New York."

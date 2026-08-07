@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "thanh-toan-khong-tien-mat-viet-nam-2026-qr-mobile-money-tang-truong"
 title: "Thanh toán không tiền mặt Việt Nam 2026: QR và Mobile Money bứt tốc"
 description: "Thanh toán không tiền mặt Việt Nam quý 1/2026 tăng gần 38% về số lượng, QR tăng 52% về giá trị, Mobile Money đạt gần 11 triệu tài khoản, giao dịch ATM giảm dần"

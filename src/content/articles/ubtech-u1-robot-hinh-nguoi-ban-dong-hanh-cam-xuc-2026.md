@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ubtech-u1-robot-hinh-nguoi-ban-dong-hanh-cam-xuc-2026"
 title: "UBTECH ra mắt U1: robot hình người bạn đồng hành cảm xúc chân thực nhất"
 description: "UBTECH ra mắt dòng robot hình người U1 dưới thương hiệu UWORLD, tích hợp LLM nhận biết cảm xúc, 88 khớp servo, giá từ 119.800 tới 990.000 nhân dân tệ."

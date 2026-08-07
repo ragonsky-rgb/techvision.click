@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau"
 title: "Làn sóng laptop Snapdragon X2 Elite 2026: Surface mới, NPU 80 TOPS, pin cực trâu"
 description: "Năm 2026 được xem là năm của laptop AI, và chip Snapdragon X2 Elite đang dẫn đầu làn sóng đó."

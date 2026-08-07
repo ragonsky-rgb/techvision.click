@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "logitech-g-pro-x2-superstrike-chuot-gaming-hall-effect-2026"
 title: "Logitech G Pro X2 Superstrike: chuột gaming không nút bấm cơ học, dùng cảm biến Hall Effect"
 description: "Logitech G Pro X2 Superstrike dùng công nghệ H.I.T.S thay nút bấm cơ học, chỉnh 10 mức nhạy, nặng 61g, pin 90 giờ, giá 180 USD, không còn lỗi double-click."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "amd-zen-6-ryzen-2026-tien-trinh-2nm-24-nhan-ai-nang-cap"
 title: "AMD Zen 6 ra mắt 2026: tiến trình 2nm, lên tới 24 nhân, tăng cường AI"
 description: "AMD xác nhận kiến trúc Zen 6 ra mắt 2026 trên tiến trình TSMC 2nm, desktop lên tới 24 nhân, cache lớn hơn và thêm lệnh AI, EPYC Venice tối đa 256 nhân"

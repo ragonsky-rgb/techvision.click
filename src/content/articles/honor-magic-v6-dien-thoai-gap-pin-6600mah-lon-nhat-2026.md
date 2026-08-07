@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "honor-magic-v6-dien-thoai-gap-pin-6600mah-lon-nhat-2026"
 title: "HONOR Magic V6: điện thoại gập pin 6.600mAh lớn nhất phân khúc, mỏng chỉ 8,75mm"
 description: "HONOR Magic V6 có pin silicon-carbon 6.600mAh lớn nhất phân khúc gập, độ mỏng 8,75mm khi gập, chip Snapdragon 8 Elite Gen 5, camera 50MP, chuẩn IP69."

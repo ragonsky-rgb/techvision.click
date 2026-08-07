@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apple-wwdc-2026-tinh-nang-an-toan-tre-em-kiem-soat-cua-cha-me"
 title: "Apple WWDC 2026: loạt tính năng an toàn trẻ em và kiểm soát của cha mẹ"
 description: "Tại WWDC 2026, Apple công bố loạt tính năng an toàn trẻ em ở cấp thiết bị, giúp cha mẹ kiểm soát con truy cập gì, liên lạc với ai và dùng máy bao lâu."

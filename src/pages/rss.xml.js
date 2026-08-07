@@ -1,7 +1,7 @@
-import { getAllArticles, SITE, xmlEscape } from '../lib/articles.mjs';
+import { getAllArticles, indexable, SITE, xmlEscape } from '../lib/articles.mjs';
 
 export async function GET() {
-  const all = (await getAllArticles()).slice(0, 40);
+  const all = indexable(await getAllArticles()).slice(0, 40);
   const items = all.map((a) => {
     const link = `${SITE}/articles/${a.slug}.html`;
     const pub = a.datePublished ? new Date(a.datePublished).toUTCString() : '';

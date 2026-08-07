@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi"
 title: "Cách chọn laptop sinh viên, văn phòng 2026: 7 tiêu chí cần nhớ"
 description: "Chọn laptop cho học tập và làm việc không nhất thiết phải đắt, mà cần đúng nhu cầu. Mua máy quá yếu sẽ ì ạch, mua quá mạnh lại lãng phí."

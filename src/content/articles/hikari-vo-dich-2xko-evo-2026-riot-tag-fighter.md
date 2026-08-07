@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "hikari-vo-dich-2xko-evo-2026-riot-tag-fighter"
 title: "Hikari vô địch 2XKO tại EVO 2026, ngược dòng từ nhánh thua"
 description: "Hikari vô địch 2XKO của Riot tại EVO 2026, ngược dòng từ nhánh thua với thành tích 14-1, đánh bại SonicFox và INZEM ở chung kết, thành nhà vô địch EVO 4 lần."

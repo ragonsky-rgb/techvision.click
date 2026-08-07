@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dong-ho-thong-minh-hay-nhan-thong-minh-chon-gi-2026"
 title: "Đồng hồ thông minh hay nhẫn thông minh: nên chọn gì 2026?"
 description: "So sánh đồng hồ thông minh và nhẫn thông minh 2026: theo dõi sức khỏe, giấc ngủ, pin, tính năng và sự thoải mái, giúp bạn chọn đúng thiết bị đeo theo nhu cầu."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "halo-campaign-evolved-remake-unreal-engine-5-2026"
 title: "Halo: Campaign Evolved: bản làm lại hoàn chỉnh trên Unreal Engine 5, ra mắt cả PS5"
 description: "Halo: Campaign Evolved là bản làm lại hoàn chỉnh Halo: Combat Evolved trên Unreal Engine 5, ra mắt 28/7/2026 trên Xbox, PC và lần đầu tiên cả PlayStation 5."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "binh-nong-lanh-truc-tiep-hay-gian-tiep-chon-loai-nao-2026"
 title: "Bình nóng lạnh trực tiếp hay gián tiếp 2026?"
 description: "So sánh bình nóng lạnh trực tiếp và gián tiếp 2026: cách làm nóng, lượng nước, mùa lạnh, an toàn và giá, giúp bạn chọn đúng máy nước nóng cho gia đình."

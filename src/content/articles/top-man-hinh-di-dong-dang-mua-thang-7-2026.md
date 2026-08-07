@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-man-hinh-di-dong-dang-mua-thang-7-2026"
 title: "Top màn hình di động đáng mua tháng 7/2026"
 description: "Gợi ý màn hình di động đáng mua tháng 7/2026: mẫu giá tốt cho sinh viên, ASUS ZenScreen tầm trung phổ biến, và mẫu cao cấp 4K cho dân thiết kế di chuyển nhiều."

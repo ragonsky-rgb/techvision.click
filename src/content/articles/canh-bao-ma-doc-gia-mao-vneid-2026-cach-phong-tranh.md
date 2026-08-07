@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "canh-bao-ma-doc-gia-mao-vneid-2026-cach-phong-tranh"
 title: "Cảnh báo mã độc giả VNeID 2026: cách phòng mất tiền"
 description: "Công an cảnh báo thủ đoạn giả mạo ứng dụng VNeID cài mã độc chiếm tài khoản ngân hàng tháng 7/2026. Dấu hiệu nhận biết và cách phòng tránh mất tiền."

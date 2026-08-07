@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-ghe-cong-thai-hoc-ergonomic-2026-tieu-chi"
 title: "Cách chọn ghế công thái học (ergonomic) 2026: 5 tiêu chí quan trọng trước khi mua"
 description: "Hướng dẫn chọn ghế công thái học năm 2026: hỗ trợ thắt lưng, khả năng điều chỉnh đa hướng, chất liệu đệm ngồi, độ bền khung ghế và mức giá phù hợp nhu cầu."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dreame-aero-pro-steam-may-hut-bui-lau-nha-hoi-nuoc-2026"
 title: "Dreame Aero Pro Steam: máy hút bụi lau nhà hơi nước 392°F, giá 599,99 USD"
 description: "Dreame Aero Pro Steam dùng hơi nước 392°F làm sạch vết bẩn cứng đầu không cần hóa chất, thân máy siêu mỏng nằm phẳng 180 độ, giá bán 599,99 USD."

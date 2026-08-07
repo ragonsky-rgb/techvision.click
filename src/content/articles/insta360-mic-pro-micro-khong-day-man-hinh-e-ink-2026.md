@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "insta360-mic-pro-micro-khong-day-man-hinh-e-ink-2026"
 title: "Insta360 Mic Pro: micro không dây đầu tiên có màn hình E-Ink tùy chỉnh, giá từ 99 USD"
 description: "Insta360 Mic Pro tích hợp màn hình E-Ink 6 màu 1,22 inch tùy chỉnh, thu âm 32-bit float với 3 micro chuyển đổi hướng thu, giá khởi điểm 99 USD."

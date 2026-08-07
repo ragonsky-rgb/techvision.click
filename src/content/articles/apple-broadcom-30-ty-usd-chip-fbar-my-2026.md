@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apple-broadcom-30-ty-usd-chip-fbar-my-2026"
 title: "Apple chi hơn 30 tỷ USD ký hợp đồng chip với Broadcom tới năm 2031"
 description: "Apple ký hợp đồng cung ứng chip hơn 30 tỷ USD với Broadcom tới 2031, sản xuất ít nhất 15 tỷ chip FBAR filter, một phần chiến lược đưa sản xuất về Mỹ."

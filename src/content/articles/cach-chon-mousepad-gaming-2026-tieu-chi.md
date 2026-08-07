@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-mousepad-gaming-2026-tieu-chi"
 title: "Cách chọn mousepad gaming 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn mousepad gaming 2026: bề mặt vải hay cứng, kích thước phù hợp thể loại game, độ dày và cạnh viền, độ bám bàn, tương thích cảm biến chuột."

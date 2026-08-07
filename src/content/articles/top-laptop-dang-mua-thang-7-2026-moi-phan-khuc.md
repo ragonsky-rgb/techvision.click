@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-laptop-dang-mua-thang-7-2026-moi-phan-khuc"
 title: "Top laptop đáng mua tháng 8/2026: chọn theo từng phân khúc giá"
 description: "Gợi ý laptop đáng mua tháng 8/2026 theo 3 phân khúc: cao cấp MacBook Air M5, Zenbook Duo, tầm trung Zenbook 14, giá rẻ Acer Aspire cho sinh viên"

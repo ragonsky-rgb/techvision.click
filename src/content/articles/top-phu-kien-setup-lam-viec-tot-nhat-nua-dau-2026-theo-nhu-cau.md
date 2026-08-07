@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-phu-kien-setup-lam-viec-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top phụ kiện setup làm việc tốt nhất nửa đầu 2026"
 description: "Cẩm nang chọn phụ kiện setup làm việc tốt nhất nửa đầu 2026 theo nhu cầu: giá đỡ laptop, hub dock USB-C và bàn nâng hạ, giúp góc làm việc thoải mái hơn."

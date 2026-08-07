@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "meta-watermelon-mo-hinh-ai-bat-kip-gpt-5-5-2026"
 title: "Meta nói mô hình AI Watermelon đã bắt kịp GPT-5.5"
 description: "Giám đốc AI Meta Alexandr Wang nói mô hình mới codename Watermelon đã bắt kịp GPT-5.5 của OpenAI trên một số benchmark, dùng gấp 10 lần năng lực tính toán."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "stepfun-stepx-neo-dien-thoai-agent-step-aos-waic-2026"
 title: "StepFun ra StepX Neo, điện thoại agent chạy Step AOS"
 description: "StepFun ra mắt StepX Neo, điện thoại agent với hệ điều hành Step AOS thay mô hình ứng dụng bằng ý định và tác vụ, trợ lý Amoo chạy đa bước ngay trên máy."

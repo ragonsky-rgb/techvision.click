@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nubia-ai-agent-smartphone-dau-tien-the-gioi-waic-2026"
 title: "Nubia Navi X Ultra: smartphone AI Agent đầu tiên lộ diện"
 description: "Nubia lộ diện Navi X Ultra, smartphone AI Agent đầu tiên thế giới, với 4 màu, nút AI cam riêng, cụm 3 camera, chạy Doubao, ra mắt tại WAIC 2026 ngày 17-20/7."

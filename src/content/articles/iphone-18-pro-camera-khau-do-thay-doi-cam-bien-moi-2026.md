@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "iphone-18-pro-camera-khau-do-thay-doi-cam-bien-moi-2026"
 title: "iPhone 18 Pro lộ camera nâng cấp lớn nhất nhiều năm: khẩu độ thay đổi, cảm biến Sony IMX905"
 description: "iPhone 18 Pro rò rỉ nâng cấp camera lớn nhất nhiều năm với khẩu độ thay đổi lần đầu trên iPhone, cảm biến Sony IMX905 lớn hơn, camera tele 200MP."

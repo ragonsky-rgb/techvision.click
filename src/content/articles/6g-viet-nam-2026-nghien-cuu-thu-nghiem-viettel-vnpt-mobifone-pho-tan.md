@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "6g-viet-nam-2026-nghien-cuu-thu-nghiem-viettel-vnpt-mobifone-pho-tan"
 title: "6G Việt Nam 2026: bắt đầu nghiên cứu, thử nghiệm, mở phổ tần hướng tới 2030"
 description: "Việt Nam khởi động nghiên cứu, thử nghiệm 6G năm 2026, TP.HCM giao Viettel, VNPT, MobiFone, mở băng tần 6 GHz, hướng mạng thử nghiệm 2028, thương mại 2030"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "micro-rgb-la-gi-cong-nghe-tv-samsung-2026"
 title: "Micro RGB là gì? Công nghệ TV chủ lực của Samsung năm 2026"
 description: "Micro RGB là gì, khác gì Mini LED và OLED? Giải mã công nghệ TV chủ lực 2026 của Samsung: dòng R95H, R85H từ 55 tới 115 inch, giá từ 1.599 USD."

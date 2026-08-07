@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "lg-ultragear-gx7-oled-720hz-man-hinh-gaming-2026"
 title: "LG UltraGear GX7: màn hình OLED gaming 720Hz đầu tiên trên thế giới"
 description: "LG ra mắt UltraGear GX7, màn hình OLED gaming Dual Mode 720Hz tại HD, 540Hz tại QHD, đáp ứng 0,02ms, giá 999 USD, dùng tấm RGB Tandem 2.0 thế hệ 4"

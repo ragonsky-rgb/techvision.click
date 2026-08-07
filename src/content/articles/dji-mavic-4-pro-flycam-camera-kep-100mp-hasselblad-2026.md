@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dji-mavic-4-pro-flycam-camera-kep-100mp-hasselblad-2026"
 title: "DJI Mavic 4 Pro: flycam camera ba ống kính, Hasselblad 100MP, giá Việt Nam"
 description: "DJI Mavic 4 Pro: ba camera Hasselblad 100MP, gimbal xoay 360 độ, quay 6K60 D-Log, pin bay 51 phút, truyền hình ảnh O4+ 30km. Giá tại Việt Nam từ 50 triệu."

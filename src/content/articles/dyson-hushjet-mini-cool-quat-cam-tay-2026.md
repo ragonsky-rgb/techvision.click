@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dyson-hushjet-mini-cool-quat-cam-tay-2026"
 title: "Dyson HushJet Mini Cool: quạt cầm tay không cánh, giá chỉ 99 USD"
 description: "Dyson HushJet Mini Cool là quạt cá nhân cầm tay không cánh, tốc độ gió 55mph, pin 6 giờ, nặng 212g, giá bán 99 USD, ba cách dùng cầm tay, để bàn, đeo người."

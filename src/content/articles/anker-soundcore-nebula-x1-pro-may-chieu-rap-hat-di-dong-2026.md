@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "anker-soundcore-nebula-x1-pro-may-chieu-rap-hat-di-dong-2026"
 title: "Anker Soundcore Nebula X1 Pro: máy chiếu rạp hát di động 5.000 USD, loa Dolby Atmos 400W"
 description: "Soundcore Nebula X1 Pro kết hợp máy chiếu laser 3.500 ANSI lumens với dàn loa Dolby Atmos 7.1.4 công suất 400W trên một khung có bánh xe, giá 4.999 USD."

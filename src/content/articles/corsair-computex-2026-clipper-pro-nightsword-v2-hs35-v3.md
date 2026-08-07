@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "corsair-computex-2026-clipper-pro-nightsword-v2-hs35-v3"
 title: "CORSAIR ra mắt bộ ba gear gaming mới: bàn phím Hall Effect, chuột có nút Stream Deck, tai nghe Dolby Atmos"
 description: "CORSAIR ra mắt Clipper Pro Mini 60, Nightsword v2 Wireless SD với nút Stream Deck riêng và tai nghe HS35 v3 Dolby Atmos, mở bán từ 2/6/2026, giá từ 44 USD."

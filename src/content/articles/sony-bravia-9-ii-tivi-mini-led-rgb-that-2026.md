@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sony-bravia-9-ii-tivi-mini-led-rgb-that-2026"
 title: "Sony Bravia 9 II: tivi Mini LED RGB thật đầu tiên, giá từ 3.599 USD"
 description: "Sony Bravia 9 II dùng công nghệ Mini LED RGB thật với 15.000 đèn LED, độ sáng 4.000 nit, 4 kích thước từ 65 tới 115 inch, giá khởi điểm 3.599,99 USD."

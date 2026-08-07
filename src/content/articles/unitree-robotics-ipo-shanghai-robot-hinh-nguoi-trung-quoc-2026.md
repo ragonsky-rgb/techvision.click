@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "unitree-robotics-ipo-shanghai-robot-hinh-nguoi-trung-quoc-2026"
 title: "Unitree Robotics được duyệt IPO Thượng Hải 610 triệu USD, dẫn đầu robot hình người"
 description: "Unitree Robotics, hãng robot hình người bán chạy nhất thế giới, vừa được duyệt IPO trên sàn STAR Market Thượng Hải, dự kiến huy động khoảng 610 triệu USD."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "google-gemini-live-translate-dich-giong-noi-thoi-gian-thuc-2026"
 title: "Google ra mắt Gemini Live Translate: dịch giọng nói thời gian thực giữ nguyên ngữ điệu"
 description: "Google ra mắt Gemini 3.5 Live Translate, dịch giọng nói thời gian thực trên 70 ngôn ngữ, giữ nguyên ngữ điệu người nói, tích hợp Google Translate và Meet."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "card-do-hoa-roi-hay-card-tich-hop-chon-loai-nao-2026"
 title: "Card đồ họa rời hay card tích hợp: chọn loại nào 2026?"
 description: "So sánh card đồ họa rời và card tích hợp 2026: hiệu năng, chơi game, dựng hình, điện năng và giá, giúp bạn chọn đúng giải pháp đồ họa cho máy tính theo nhu cầu."

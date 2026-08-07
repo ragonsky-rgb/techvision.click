@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "openai-chatgpt-gpt-5-5-cap-nhat-thang-6-2026-bo-nho-moi-khai-tu"
 title: "ChatGPT nâng cấp tháng 6/2026: GPT-5.5 thành chuẩn, bộ nhớ mới, khai tử model cũ"
 description: "OpenAI nâng cấp ChatGPT tháng 6/2026: GPT-5.5 Instant làm mặc định, bộ nhớ mới, cá nhân hóa cho bản miễn phí, khai tử GPT-5.2 và GPT-4.5"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "rtx-5090-gia-tang-vot-khung-hoang-dram-2026"
 title: "RTX 5090 giá tăng vọt lên 4.000 USD, tin đồn có thể chạm mốc 5.000 USD năm 2026"
 description: "RTX 5090 từ giá gốc 1.999 USD đã tăng lên 2.500-4.000 USD ngoài thị trường, dự báo có thể chạm mốc 5.000 USD do khủng hoảng DRAM phục vụ AI trung tâm dữ liệu."

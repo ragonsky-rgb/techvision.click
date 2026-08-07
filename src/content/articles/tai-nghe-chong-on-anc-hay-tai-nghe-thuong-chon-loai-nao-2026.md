@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tai-nghe-chong-on-anc-hay-tai-nghe-thuong-chon-loai-nao-2026"
 title: "Tai nghe chống ồn ANC hay tai nghe thường 2026?"
 description: "So sánh tai nghe chống ồn ANC và tai nghe thường 2026: khả năng cách âm, môi trường dùng, thời lượng pin và giá, giúp bạn chọn đúng tai nghe theo nhu cầu."

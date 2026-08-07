@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nvidia-rtx-spark-superchip-laptop-arm-blackwell-2026"
 title: "NVIDIA RTX Spark: superchip laptop ARM kết hợp GPU Blackwell, RAM chia sẻ 128GB"
 description: "NVIDIA RTX Spark: superchip laptop kết hợp CPU Grace ARM với GPU Blackwell, RAM hợp nhất 128GB, dùng trên Surface Laptop Ultra và nhiều đối tác khác."

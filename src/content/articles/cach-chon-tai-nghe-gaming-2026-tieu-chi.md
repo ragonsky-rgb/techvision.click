@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-tai-nghe-gaming-2026-tieu-chi"
 title: "Cách chọn tai nghe gaming 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn cách chọn tai nghe gaming phù hợp năm 2026: âm thanh định vị, micro, kết nối, độ thoải mái và ngân sách, giúp tránh mua nhầm tai nghe."

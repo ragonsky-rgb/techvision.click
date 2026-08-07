@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "logitech-mobi-fold-chuot-gap-doi-dau-tien-2026"
 title: "Logitech Mobi Fold: chuột gập đôi đầu tiên, bỏ túi được, giá 79,99 USD"
 description: "Logitech Mobi Fold là chuột không dây gập đôi đầu tiên của hãng, gập gọn bỏ túi, pin 32 ngày, sạc 1 phút dùng 22 giờ, giá bán 79,99 USD."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "lego-smart-bricks-vien-gach-thong-minh-tich-hop-cong-nghe-2026"
 title: "LEGO Smart Bricks: viên gạch thông minh tích hợp chip, cảm biến, đèn LED"
 description: "LEGO ra mắt Smart Bricks, dòng gạch lắp ráp tích hợp chip nhỏ bằng một viên gạch, cảm biến, đèn LED và loa, phản ứng theo chạm, chuyển động và khoảng cách."

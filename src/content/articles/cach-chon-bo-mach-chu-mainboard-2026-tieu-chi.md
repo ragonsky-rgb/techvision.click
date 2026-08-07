@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-bo-mach-chu-mainboard-2026-tieu-chi"
 title: "Cách chọn bo mạch chủ (mainboard) 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn bo mạch chủ 2026: socket CPU tương thích, chipset và tính năng, kích thước form factor, chất lượng VRM, cổng kết nối PCIe và M.2."

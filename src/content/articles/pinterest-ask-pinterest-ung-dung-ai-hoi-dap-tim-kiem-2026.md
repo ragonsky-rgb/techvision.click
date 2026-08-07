@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "pinterest-ask-pinterest-ung-dung-ai-hoi-dap-tim-kiem-2026"
 title: "Pinterest ra mắt Ask Pinterest: tìm kiếm bằng hội thoại AI thay vì ảnh"
 description: "Pinterest vừa giới thiệu Ask Pinterest, một ứng dụng thử nghiệm độc lập chuyển cách khám phá sản phẩm từ tìm kiếm bằng hình ảnh sang trò chuyện bằng ngôn ngữ."

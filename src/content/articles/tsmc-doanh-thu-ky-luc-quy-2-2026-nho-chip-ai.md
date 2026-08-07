@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tsmc-doanh-thu-ky-luc-quy-2-2026-nho-chip-ai"
 title: "TSMC lập kỷ lục doanh thu quý 2/2026 nhờ cơn sốt chip AI"
 description: "TSMC đạt doanh thu quý 2/2026 kỷ lục 39,6 tỷ USD, tăng 36% so với cùng kỳ nhờ nhu cầu chip AI, riêng tháng 6 tăng 67,9%. Báo cáo đầy đủ công bố ngày 16/7."

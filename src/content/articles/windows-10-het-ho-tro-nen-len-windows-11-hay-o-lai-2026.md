@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "windows-10-het-ho-tro-nen-len-windows-11-hay-o-lai-2026"
 title: "Windows 10 hết hỗ trợ: nên lên Windows 11 hay ở lại?"
 description: "Windows 10 đã hết hỗ trợ từ 14/10/2025. Chương trình ESU gia hạn tới tháng 10/2027, yêu cầu Windows 11 và ba lựa chọn cho người dùng Việt 2026."

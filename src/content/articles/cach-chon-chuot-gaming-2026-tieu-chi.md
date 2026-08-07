@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-chuot-gaming-2026-tieu-chi"
 title: "Cách chọn chuột gaming 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn cách chọn chuột gaming phù hợp năm 2026: cảm biến DPI, số nút bấm, trọng lượng, kết nối và ngân sách, giúp tránh mua nhầm chuột không hợp tay."

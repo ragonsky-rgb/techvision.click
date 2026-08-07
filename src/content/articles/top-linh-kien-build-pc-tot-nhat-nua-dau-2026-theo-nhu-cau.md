@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-linh-kien-build-pc-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top linh kiện build PC tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Linh kiện build PC tốt nhất nửa đầu 2026 theo nhu cầu: Ryzen 7 9800X3D, Core Ultra 9 285K, RTX 5090, RX 9070 XT, Samsung 990 Pro và nhiều lựa chọn khác."

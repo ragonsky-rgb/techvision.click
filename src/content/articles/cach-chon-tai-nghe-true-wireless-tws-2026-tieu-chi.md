@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-tai-nghe-true-wireless-tws-2026-tieu-chi"
 title: "Cách chọn tai nghe true wireless (TWS) 2026: 7 tiêu chí quan trọng"
 description: "Thị trường tai nghe true wireless rất đa dạng, từ vài trăm nghìn tới nhiều triệu đồng, khiến việc chọn lựa dễ rối."

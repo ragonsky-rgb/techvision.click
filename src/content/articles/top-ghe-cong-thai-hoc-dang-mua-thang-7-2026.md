@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-ghe-cong-thai-hoc-dang-mua-thang-7-2026"
 title: "Top ghế công thái học đáng mua tháng 7/2026"
 description: "Tổng hợp ghế công thái học đáng mua tháng 7/2026: Branch Ergonomic Chair Pro, Steelcase Karman, so sánh giá và khả năng điều chỉnh cho từng nhu cầu."

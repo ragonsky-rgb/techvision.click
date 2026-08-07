@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-dien-thoai-manh-nhat-antutu-thang-7-2026-xep-hang"
 title: "Điện thoại mạnh nhất AnTuTu 2026: bảng xếp hạng"
 description: "Bảng xếp hạng AnTuTu 2026: RedMagic 11S Pro+, iQOO 15 Ultra, Vivo X300 Ultra dẫn đầu, Snapdragon 8 Elite Gen 5 chiếm 9 trên 10 vị trí."

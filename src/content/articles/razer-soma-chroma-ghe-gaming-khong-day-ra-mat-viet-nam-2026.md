@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "razer-soma-chroma-ghe-gaming-khong-day-ra-mat-viet-nam-2026"
 title: "Razer Soma Chroma: ghế gaming RGB không dây đầu tiên, giá 17,49 triệu, ra mắt VN"
 description: "Razer Soma Chroma, ghế gaming RGB không dây đầu tiên phản hồi theo game, lên kệ Việt Nam giá 17,49 triệu đồng, tương thích hơn 300 tựa game qua Chroma RGB."

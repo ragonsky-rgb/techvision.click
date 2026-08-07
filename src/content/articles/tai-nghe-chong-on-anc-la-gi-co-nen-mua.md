@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tai-nghe-chong-on-anc-la-gi-co-nen-mua"
 title: "Chống ồn ANC trên tai nghe là gì? Có nên mua tai nghe chống ồn?"
 description: "Chống ồn chủ động ANC từng là tính năng cao cấp, nay đã xuất hiện trên cả tai nghe tầm trung và giá rẻ."

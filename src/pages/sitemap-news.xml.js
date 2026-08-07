@@ -1,7 +1,7 @@
-import { getAllArticles, recentForNews, SITE, xmlEscape } from '../lib/articles.mjs';
+import { getAllArticles, indexable, recentForNews, SITE, xmlEscape } from '../lib/articles.mjs';
 
 export async function GET() {
-  const all = await getAllArticles();
+  const all = indexable(await getAllArticles());
   const recent = recentForNews(all, 48);
   const items = recent.map((a) => {
     const kw = typeof a.keywords === 'string' ? a.keywords : (a.keywords || []).join(', ');

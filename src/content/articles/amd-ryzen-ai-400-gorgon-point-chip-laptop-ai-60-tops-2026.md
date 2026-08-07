@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "amd-ryzen-ai-400-gorgon-point-chip-laptop-ai-60-tops-2026"
 title: "AMD Ryzen AI 400 Gorgon Point: chip laptop AI 60 TOPS"
 description: "AMD Ryzen AI 400 Gorgon Point ra mắt tại CES 2026: tối đa 12 nhân Zen 5, NPU 60 TOPS đạt chuẩn Copilot+, đồ họa RDNA 3.5, pin tới 24 giờ."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-tang-toc-dien-thoai-android-cham-lag-muot-hon-2026"
 title: "Cách tăng tốc điện thoại Android bị chậm, lag: 9 mẹo không cần cài app"
 description: "Sau một thời gian sử dụng, hầu hết điện thoại Android đều chậm dần: vuốt không mượt, mở ứng dụng lâu, đa nhiệm hay khựng."

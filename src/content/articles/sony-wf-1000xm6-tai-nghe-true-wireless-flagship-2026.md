@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sony-wf-1000xm6-tai-nghe-true-wireless-flagship-2026"
 title: "Sony WF-1000XM6: tai nghe true wireless chống ồn tốt nhất của Sony, giá 329,99 USD"
 description: "Sony WF-1000XM6 có 16 microphone chống ồn, driver 8,4mm, pin 9 giờ, thiết kế mỏng hơn 11%, tai nghe true wireless tốt nhất của Sony, giá 329,99 USD."

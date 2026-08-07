@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "acer-nitro-propanel-an16s-rtx-5070-ra-mat-viet-nam-2026"
 title: "Acer Nitro ProPanel AN16S chính thức bán tại Việt Nam: RTX 5070, màn 180Hz, giá từ 50 triệu"
 description: "Acer Nitro ProPanel AN16S mở bán tại Việt Nam, trang bị RTX 50 Series, màn hình 2K+ 180Hz phủ 100% sRGB, thân máy mỏng 19,9mm, giá khởi điểm khoảng 50 triệu."

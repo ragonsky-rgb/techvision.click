@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tai-nghe-khong-day-hay-tai-nghe-co-day-chon-loai-nao-2026"
 title: "Tai nghe không dây hay tai nghe có dây 2026?"
 description: "So sánh tai nghe không dây và tai nghe có dây 2026: chất âm, độ trễ, sự tiện lợi, độ ổn định và giá, giúp bạn chọn đúng loại tai nghe nghe nhạc theo nhu cầu."

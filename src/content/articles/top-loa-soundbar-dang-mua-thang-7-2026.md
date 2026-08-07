@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-loa-soundbar-dang-mua-thang-7-2026"
 title: "Top loa soundbar đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
 description: "Gợi ý loa soundbar đáng mua tháng 7/2026: JBL bass mạnh giá tốt, Samsung thiết kế thời thượng, LG Dolby Atmos cao cấp cho rạp hát tại nhà."

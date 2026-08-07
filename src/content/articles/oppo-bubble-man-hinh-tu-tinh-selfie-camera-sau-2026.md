@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "oppo-bubble-man-hinh-tu-tinh-selfie-camera-sau-2026"
 title: "OPPO Bubble: màn hình từ tính selfie bằng camera sau, giá khoảng 73 USD"
 description: "OPPO Bubble là màn hình AMOLED tròn 1,73 inch gắn từ tính sau điện thoại, xem trước camera sau khi selfie, điều khiển từ xa 10m, giá khoảng 73 USD."

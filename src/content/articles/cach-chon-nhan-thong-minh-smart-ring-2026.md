@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-nhan-thong-minh-smart-ring-2026"
 title: "Cách chọn nhẫn thông minh (smart ring) 2026: 6 tiêu chí cần biết"
 description: "Cách chọn nhẫn thông minh 2026: pin, chống nước, đo sức khỏe, kích cỡ, thương hiệu Oura, Galaxy Ring, Ultrahuman, so sánh với đồng hồ thông minh"

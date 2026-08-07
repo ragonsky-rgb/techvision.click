@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "oura-ring-5-ra-mat-mong-nhat-the-gioi-pin-9-ngay"
 title: "Oura Ring 5 ra mắt: nhẫn thông minh mỏng nhất thế giới, pin 9 ngày"
 description: "Oura Ring 5 ra mắt giá 399 USD, mỏng 2,8mm, nhỏ hơn 40% bản cũ, pin 9 ngày, theo dõi GLP-1 và huyết áp chủ động, cạnh tranh Galaxy Ring"

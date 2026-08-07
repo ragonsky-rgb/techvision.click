@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "asus-rog-zephyrus-duo-2026-laptop-gaming-2-man-hinh-oled"
 title: "ASUS ROG Zephyrus Duo 2026: laptop gaming 2 màn hình OLED đầu tiên trên thế giới"
 description: "ASUS ROG Zephyrus Duo 2026 là laptop gaming 2 màn hình OLED 16 inch đầu tiên thế giới, bản lề gập 320 độ, chip Intel Panther Lake, RTX 5090, giá từ 4.499 USD."

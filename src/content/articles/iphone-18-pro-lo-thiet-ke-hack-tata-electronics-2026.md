@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "iphone-18-pro-lo-thiet-ke-hack-tata-electronics-2026"
 title: "iPhone 18 Pro lộ thiết kế sau vụ hack 630GB dữ liệu tại đối tác Tata Electronics"
 description: "Vụ tấn công mã độc vào Tata Electronics làm lộ hơn 630GB dữ liệu nội bộ, hé lộ thiết kế, linh kiện và video drop test của iPhone 18 Pro trước ngày ra mắt."

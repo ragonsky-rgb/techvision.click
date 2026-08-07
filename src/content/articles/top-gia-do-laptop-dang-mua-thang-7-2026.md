@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-gia-do-laptop-dang-mua-thang-7-2026"
 title: "Top giá đỡ laptop đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
 description: "Top giá đỡ laptop đáng mua tháng 7/2026: Ugreen 40289, MOFT Stand, Baseus Metal, Rain Design mStand và Baseus UltraStable chịu tải 20kg, kèm tầm giá tại VN."

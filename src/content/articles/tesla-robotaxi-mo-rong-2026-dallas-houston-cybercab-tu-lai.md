@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tesla-robotaxi-mo-rong-2026-dallas-houston-cybercab-tu-lai"
 title: "Tesla Robotaxi mở rộng 2026: thêm Dallas, Houston, tham vọng phủ nhiều thành phố"
 description: "Tesla mở rộng Robotaxi tự lái 2026, ra mắt tại Dallas và Houston từ 18/4, tham vọng phủ thêm nhiều thành phố Mỹ và sản xuất Cybercab, dù lịch trình chậm lại"

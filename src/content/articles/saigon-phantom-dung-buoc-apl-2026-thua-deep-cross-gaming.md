@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "saigon-phantom-dung-buoc-apl-2026-thua-deep-cross-gaming"
 title: "Saigon Phantom dừng bước tại APL 2026, thua Deep Cross Gaming 0-3 ở tứ kết"
 description: "Saigon Phantom khép lại hành trình tại APL 2026 sau thất bại 0-3 trước Deep Cross Gaming, chỉ còn FPT Polytechnic là đại diện Việt Nam trụ lại giải đấu."

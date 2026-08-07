@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-nha-hang-galaxy-z-fold-8-wide-ti-le-moi-43-2026"
 title: "Samsung nhá hàng Galaxy Z Fold 8 Wide: tỉ lệ màn hình mới 4:3, loạt ảnh teaser bí ẩn"
 description: "Samsung tung loạt teaser chính thức cho Galaxy Z Fold 8 Wide, hé lộ tỉ lệ màn hình trong 4:3 hoàn toàn mới, ngắn và rộng hơn hẳn các thế hệ Fold trước đây."

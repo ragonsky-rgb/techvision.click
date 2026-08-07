@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-case-pc-dang-mua-thang-7-2026"
 title: "Top case PC đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
 description: "Gợi ý case PC đáng mua tháng 7/2026: case airflow giá tốt cho cấu hình phổ thông, case tầm trung cân bằng thẩm mỹ, case cao cấp cho dàn máy hiệu năng cao."

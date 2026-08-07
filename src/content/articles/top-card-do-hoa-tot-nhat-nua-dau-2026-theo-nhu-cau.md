@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-card-do-hoa-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top card đồ họa tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Tổng hợp card đồ họa tốt nhất nửa đầu 2026 theo nhu cầu: đầu bảng 4K, RTX 50 Super mới, tầm trung QHD và AMD giá tốt, từ RTX 5090 tới Radeon RX 9070."

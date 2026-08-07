@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re"
 title: "Redmi K90 Ultra lộ diện: vũ khí gaming pin 8500mAh, quạt tản nhiệt, giá rẻ"
 description: "Redmi chuẩn bị ra mắt K90 Ultra, mẫu điện thoại được định vị là vũ khí gaming giá phải chăng với cấu hình gây chú ý: chip Snapdragon 8 Elite, pin 8500mAh, sạc."

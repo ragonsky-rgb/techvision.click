@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "trung-tam-du-lieu-duoi-bien-dau-tien-the-gioi-dien-gio-2026"
 title: "Trung Quốc vận hành trung tâm dữ liệu dưới biển đầu tiên thế giới dùng điện gió"
 description: "Trung Quốc chính thức vận hành trung tâm dữ liệu dưới biển đầu tiên thế giới ngoài khơi Thượng Hải, dùng điện gió ngoài khơi, chứa gần 2.000 máy chủ AI."

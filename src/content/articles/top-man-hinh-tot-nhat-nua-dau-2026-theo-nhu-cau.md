@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-man-hinh-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top màn hình tốt nhất nửa đầu 2026 theo từng nhu cầu"
 description: "Tổng hợp màn hình tốt nhất nửa đầu 2026 theo nhu cầu: gaming tốc độ cao, OLED sáng tạo nội dung, mini LED công nghệ mới và màn hình di động, từ LG tới Samsung."

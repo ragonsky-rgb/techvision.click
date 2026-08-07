@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "trung-tam-du-lieu-ai-viet-nam-2026-von-dau-tu-7-ty-usd-ha-tang"
 title: "Trung tâm dữ liệu AI Việt Nam hút hơn 7 tỷ USD: hạ tầng cho làn sóng AI"
 description: "Việt Nam hút hơn 7 tỷ USD vốn đầu tư trung tâm dữ liệu và AI, với NVIDIA lập trung tâm R&D và AI Data Center, định hình lại hạ tầng số cho doanh nghiệp"

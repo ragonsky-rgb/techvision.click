@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "logitech-g3-series-g305x-g316x-chuot-ban-phim-gaming-2026"
 title: "Logitech G3 Series: bộ đôi chuột G305 X Superlight và bàn phím G316 X 98 giá dễ chịu"
 description: "Logitech G3 Series gồm chuột G305 X Superlight nặng 59g giá 79,99 USD và bàn phím cơ G316 X 98 hoán đổi switch, polling 8kHz, giá 119,99 USD."

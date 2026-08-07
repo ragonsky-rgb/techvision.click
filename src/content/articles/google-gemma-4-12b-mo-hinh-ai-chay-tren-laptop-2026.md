@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "google-gemma-4-12b-mo-hinh-ai-chay-tren-laptop-2026"
 title: "Google Gemma 4 12B: mô hình AI mã nguồn mở chạy trực tiếp trên laptop"
 description: "Google ra mắt Gemma 4 12B, mô hình AI mã nguồn mở đa phương thức chạy trực tiếp trên laptop 16GB RAM, hiệu năng gần bằng bản 26B nhưng nhẹ hơn một nửa."

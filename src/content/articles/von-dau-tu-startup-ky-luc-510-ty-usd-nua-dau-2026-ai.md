@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "von-dau-tu-startup-ky-luc-510-ty-usd-nua-dau-2026-ai"
 title: "Vốn đầu tư startup lập kỷ lục 510 tỷ USD nửa đầu 2026 nhờ AI"
 description: "Vốn đầu tư mạo hiểm toàn cầu đạt kỷ lục 510 tỷ USD nửa đầu 2026 theo Crunchbase, riêng OpenAI và Anthropic chiếm 217 tỷ, cho thấy AI hút phần lớn dòng tiền."

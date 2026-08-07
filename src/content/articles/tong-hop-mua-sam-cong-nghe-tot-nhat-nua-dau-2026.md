@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tong-hop-mua-sam-cong-nghe-tot-nhat-nua-dau-2026"
 title: "Tổng hợp mua sắm công nghệ tốt nhất nửa đầu 2026"
 description: "Cẩm nang tổng hợp các bài tốt nhất nửa đầu 2026 theo danh mục: điện thoại, laptop, tai nghe, loa, tivi, gaming, nhà thông minh, giúp bạn chọn đúng theo nhu cầu."

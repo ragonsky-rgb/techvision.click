@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "circular-ring-2-nhan-thong-minh-khong-can-thue-bao-2026"
 title: "Circular Ring 2: nhẫn thông minh có ECG, không cần trả phí thuê bao, giá 349 USD"
 description: "Circular Ring 2 tích hợp cảm biến ECG phát hiện rung nhĩ tim đạt chuẩn FDA, không yêu cầu thuê bao hằng tháng như Oura Ring, giá bán 349 USD."

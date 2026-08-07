@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "bmw-x1-2026-chot-gia-viet-nam-1-689-ty-dong"
 title: "BMW X1 2026 chốt giá Việt Nam: 1,689 tỷ, có gì đáng mua?"
 description: "BMW X1 2026 nhận đặt cọc tại Việt Nam với một phiên bản sDrive20i giá 1,689 tỷ đồng, nhập Đức, giao xe từ tháng 10, rẻ hơn Audi Q3 tới 410 triệu đồng."

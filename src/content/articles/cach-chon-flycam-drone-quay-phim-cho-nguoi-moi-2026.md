@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-flycam-drone-quay-phim-cho-nguoi-moi-2026"
 title: "Cách chọn flycam (drone) quay phim cho người mới bắt đầu 2026"
 description: "Người mới chơi flycam nên ưu tiên trọng lượng, camera, thời gian bay và quy định pháp lý. Hướng dẫn chọn flycam quay phim phù hợp ngân sách năm 2026."

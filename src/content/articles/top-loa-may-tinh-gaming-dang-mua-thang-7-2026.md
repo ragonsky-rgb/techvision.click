@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-loa-may-tinh-gaming-dang-mua-thang-7-2026"
 title: "Top loa máy tính gaming đáng mua tháng 7/2026"
 description: "Gợi ý loa máy tính gaming đáng mua tháng 7/2026: loa 2.0 giá tốt cho bàn nhỏ, loa 2.1 tầm trung có subwoofer, loa cao cấp RGB âm thanh vòm ảo DTS:X."

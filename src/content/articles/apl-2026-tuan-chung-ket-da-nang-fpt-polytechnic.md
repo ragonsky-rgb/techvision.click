@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apl-2026-tuan-chung-ket-da-nang-fpt-polytechnic"
 title: "APL 2026 bước vào tuần chung kết tại Đà Nẵng: FPT Polytechnic viết tiếp giấc mơ ngựa ô"
 description: "APL 2026 vào tuần chung kết tại Đà Nẵng ngày 18-19/7, giải thưởng 500.000 USD, FPT Polytechnic là điểm sáng Việt Nam sau khi hạ đương kim vô địch FPT x Flash."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "esim-la-gi-cach-chuyen-sim-vat-ly-sang-esim-viet-nam"
 title: "eSIM là gì? Cách chuyển SIM vật lý sang eSIM tại nhà ở Việt Nam"
 description: "eSIM đang dần thay thế chiếc SIM nhựa quen thuộc: gọn hơn, dễ dùng hai số một máy và đặc biệt tiện khi đi nước ngoài."

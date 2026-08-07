@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-ghe-gaming-cong-thai-hoc-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top ghế gaming và công thái học tốt nhất nửa đầu 2026"
 description: "Tổng hợp ghế gaming và ghế công thái học tốt nhất nửa đầu 2026 theo nhu cầu: gaming cao cấp có RGB, ergonomic cho làm việc lâu, giá tốt và cách chọn."

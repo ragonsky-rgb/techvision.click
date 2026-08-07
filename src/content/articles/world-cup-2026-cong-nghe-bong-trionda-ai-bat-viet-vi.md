@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "world-cup-2026-cong-nghe-bong-trionda-ai-bat-viet-vi"
 title: "Công nghệ đứng sau World Cup 2026: bóng Trionda cảm biến, AI bắt việt vị, chó robot bảo vệ sân"
 description: "World Cup 2026 dùng loạt công nghệ chưa từng có: bóng Trionda cảm biến 500Hz, AI theo dõi 29 điểm trên cơ thể cầu thủ để bắt việt vị, chó robot an ninh."

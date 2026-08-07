@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-cua-hang-mua-iphone-chinh-hang-gia-tot-2026"
 title: "Top cửa hàng mua iPhone chính hãng giá tốt 2026 tại Việt Nam"
 description: "Tổng hợp top cửa hàng mua iPhone chính hãng giá tốt 2026: TopZone, FPT Shop, CellphoneS, Shopee Mall, kèm mẹo so sánh giá và kiểm tra bảo hành."

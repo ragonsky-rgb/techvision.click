@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "rog-xbox-ally-x20-may-choi-game-cam-tay-oled-tmr-2026"
 title: "ROG Xbox Ally X20: máy chơi game cầm tay màn hình OLED, cần analog chống lệch TMR"
 description: "ROG Xbox Ally X20 có màn hình OLED 7,4 inch 1.400 nit, cần analog TMR chống lệch, D-Pad xoay 4/8 hướng, bán kèm kính Xreal R1, giá dự kiến 2.000-2.500 USD."

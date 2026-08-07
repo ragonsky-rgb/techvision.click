@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "alienware-aw3926qw-man-hinh-oled-5k-39-inch-2026"
 title: "Alienware AW3926QW: màn hình gaming OLED 5K 39 inch đầu tiên thế giới"
 description: "Alienware AW3926QW là màn hình gaming OLED 5K 39 inch cong đầu tiên thế giới dùng tấm nền RGB Tandem, tần số quét 165-330Hz, độ sáng 1.300 nit, giá 1.099 USD."

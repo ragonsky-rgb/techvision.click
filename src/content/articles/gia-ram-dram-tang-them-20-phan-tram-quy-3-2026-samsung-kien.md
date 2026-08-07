@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien"
 title: "Giá RAM tăng thêm 20% trong quý 3/2026, Samsung và SK hynix bị kiện thao túng giá"
 description: "Samsung được cho là chuẩn bị tăng giá DRAM thêm khoảng 20% ngay trong quý 3/2026, cùng lúc Samsung, SK hynix và Micron đối mặt cáo buộc thao túng giá bộ nhớ."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "zuckerberg-meta-ai-agents-cham-hon-ky-vong-2026"
 title: "Zuckerberg thừa nhận AI agents của Meta chậm hơn kỳ vọng"
 description: "Zuckerberg thừa nhận AI agents của Meta 4 tháng qua chưa tăng tốc như kỳ vọng, dù sa thải 8.000 người và chi 125-145 tỷ USD cho AI năm 2026."

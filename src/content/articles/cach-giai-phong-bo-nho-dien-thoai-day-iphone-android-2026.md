@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-giai-phong-bo-nho-dien-thoai-day-iphone-android-2026"
 title: "Cách giải phóng bộ nhớ điện thoại đầy: 8 mẹo cho iPhone và Android 2026"
 description: "Hướng dẫn giải phóng bộ nhớ điện thoại đầy trên iPhone và Android 2026: xóa cache, dọn ảnh trùng, gỡ app ít dùng, chuyển lên đám mây và nhiều mẹo khác"

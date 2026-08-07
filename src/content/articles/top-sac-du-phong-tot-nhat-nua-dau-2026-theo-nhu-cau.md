@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-sac-du-phong-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top sạc dự phòng tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Tổng hợp sạc dự phòng tốt nhất nửa đầu 2026 theo nhu cầu: công suất cao sạc laptop, dung lượng lớn, nhỏ gọn và chuẩn USB-C PD, từ Baseus tới sạc nhanh."

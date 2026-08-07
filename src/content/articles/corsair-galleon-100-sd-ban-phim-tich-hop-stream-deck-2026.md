@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "corsair-galleon-100-sd-ban-phim-tich-hop-stream-deck-2026"
 title: "Corsair Galleon 100 SD: bàn phím cơ đầu tiên tích hợp sẵn Stream Deck, giá 350 USD"
 description: "Corsair Galleon 100 SD là bàn phím cơ đầu tiên tích hợp Stream Deck của Elgato, thay numpad bằng 12 phím LCD tùy chỉnh, màn hình 5 inch, giá 350 USD."

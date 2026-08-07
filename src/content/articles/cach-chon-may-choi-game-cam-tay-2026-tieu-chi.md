@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-may-choi-game-cam-tay-2026-tieu-chi"
 title: "Cách chọn máy chơi game cầm tay 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn máy chơi game cầm tay 2026: hệ điều hành SteamOS hay Windows, hiệu năng chip xử lý, thời lượng pin, màn hình và thư viện game tương thích."

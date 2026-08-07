@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "meta-quest-3-tang-gia-khung-hoang-chip-nho-2026"
 title: "Meta Quest 3 tăng giá 100 USD, nạn nhân mới của khủng hoảng chip nhớ"
 description: "Meta tăng giá Quest 3 và Quest 3S từ 19/4/2026 do chi phí chip nhớ tăng cao, bản 512GB từ 499,99 USD lên 599,99 USD, ảnh hưởng cả thị trường kính VR."

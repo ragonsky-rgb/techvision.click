@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "quat-tich-dien-hay-quat-dien-thuong-chon-loai-nao-2026"
 title: "Quạt tích điện hay quạt điện thường: chọn loại nào 2026?"
 description: "So sánh quạt tích điện và quạt điện thường 2026: khả năng dùng khi mất điện, công suất gió, tính di động và giá, giúp bạn chọn đúng loại quạt theo nhu cầu."

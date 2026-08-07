@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-tan-nhiet-cpu-dang-mua-thang-7-2026"
 title: "Top tản nhiệt CPU đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
 description: "Gợi ý tản nhiệt CPU đáng mua tháng 7/2026: tản khí giá tốt cho CPU tầm trung, AIO 240mm cân bằng hiệu năng, AIO 360mm cao cấp cho CPU hiệu năng cao nhất."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026"
 title: "iQOO 15: chip 8 Elite Gen 5, pin 7.000mAh, giá bao nhiêu?"
 description: "iQOO 15 chạy Snapdragon 8 Elite Gen 5, màn 2K 144Hz, pin 7.000mAh, ba camera 50MP, chuẩn IP69. Cấu hình, giá bán và vị thế flagship gaming 2026."

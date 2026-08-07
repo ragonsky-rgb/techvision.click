@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5"
 title: "Galaxy S26 Ultra ra mắt: camera 200MP f/1.4, màn Privacy Display đầu tiên"
 description: "Samsung Galaxy S26 Ultra ra mắt tại Unpacked: camera chính 200MP khẩu f/1.4 thu thêm 47% sáng, chip Snapdragon 8 Elite Gen 5, màn 6.9 inch Privacy Display"

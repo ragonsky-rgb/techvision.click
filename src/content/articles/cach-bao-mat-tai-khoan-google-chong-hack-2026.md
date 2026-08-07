@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-bao-mat-tai-khoan-google-chong-hack-2026"
 title: "Cách bảo mật tài khoản Google chống hack: 8 bước nên làm ngay"
 description: "Hướng dẫn bảo mật tài khoản Google chống hack: bật xác minh 2 bước, dùng passkey, kiểm tra thiết bị đăng nhập, gỡ quyền ứng dụng lạ và lập kế hoạch khôi phục"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "huawei-atlas-950-superpod-sieu-nut-ai-manh-nhat-waic-2026"
 title: "Huawei ra mắt Atlas 950 SuperPoD, siêu nút AI mạnh nhất"
 description: "Huawei trình làng Atlas 950 SuperPoD tại WAIC 2026, siêu nút AI nối 8.192 chip, mạnh gấp 6,7 lần cụm NVL144 của Nvidia, ra mắt quý 4/2026."

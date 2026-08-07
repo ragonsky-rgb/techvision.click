@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sk-hynix-vuot-samsung-von-hoa-han-quoc-ai-hbm-2026"
 title: "SK Hynix vượt Samsung trở thành công ty giá trị nhất Hàn Quốc nhờ AI"
 description: "SK Hynix vượt Samsung về vốn hóa lần đầu sau 26 năm, đạt 1,35 nghìn tỷ USD nhờ thống lĩnh 61% thị phần chip nhớ HBM phục vụ AI cho Nvidia, Google"

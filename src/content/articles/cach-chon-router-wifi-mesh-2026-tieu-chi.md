@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-router-wifi-mesh-2026-tieu-chi"
 title: "Cách chọn router wifi mesh 2026: 5 tiêu chí quan trọng trước khi mua"
 description: "Hướng dẫn chọn router wifi mesh năm 2026: chuẩn wifi 6/7, số lượng node phù hợp diện tích nhà, cổng mạng, quản lý qua app và mức giá tương xứng nhu cầu."

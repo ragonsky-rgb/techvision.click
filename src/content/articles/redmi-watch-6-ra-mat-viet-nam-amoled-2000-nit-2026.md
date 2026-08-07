@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "redmi-watch-6-ra-mat-viet-nam-amoled-2000-nit-2026"
 title: "REDMI Watch 6 ra mắt Việt Nam: AMOLED 2000 nit, GPS kép, giá 2,99 triệu"
 description: "Xiaomi đưa REDMI Watch 6 lên kệ Việt Nam, màn AMOLED 2000 nit, định vị vệ tinh kép, pin dùng tới 24 ngày, giá 2.990.000 đồng."

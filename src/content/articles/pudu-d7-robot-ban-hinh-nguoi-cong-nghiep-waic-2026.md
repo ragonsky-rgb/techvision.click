@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "pudu-d7-robot-ban-hinh-nguoi-cong-nghiep-waic-2026"
 title: "Pudu D7: robot bán hình người công nghiệp tại WAIC 2026"
 description: "Pudu Robotics trình diễn robot bán hình người công nghiệp D7 tại WAIC 2026, cao 165cm, tải 14kg, chạy hơn 8 giờ, dùng kiến trúc một bộ não nhiều hiện thân."

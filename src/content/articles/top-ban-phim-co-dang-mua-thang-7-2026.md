@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-ban-phim-co-dang-mua-thang-7-2026"
 title: "Top bàn phím cơ đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
 description: "Gợi ý bàn phím cơ đáng mua tháng 7/2026: AKKO 5075B Plus giá tốt, Keychron K2 HE hotswap tầm trung, Keychron Q Ultra cao cấp pin 660 giờ."

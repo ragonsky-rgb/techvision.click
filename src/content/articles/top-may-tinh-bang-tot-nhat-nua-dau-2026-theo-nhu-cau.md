@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-may-tinh-bang-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top máy tính bảng tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Tổng hợp máy tính bảng tốt nhất nửa đầu 2026 theo nhu cầu: Android cao cấp, làm việc viết vẽ, gaming, đọc sách và giá tốt, từ Galaxy Tab S11 tới iPad Pro M5."

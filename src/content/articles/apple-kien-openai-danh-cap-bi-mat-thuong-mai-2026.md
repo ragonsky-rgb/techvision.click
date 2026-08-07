@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apple-kien-openai-danh-cap-bi-mat-thuong-mai-2026"
 title: "Apple kiện OpenAI: cáo buộc đánh cắp bí mật thương mại"
 description: "Apple kiện OpenAI ngày 10/7/2026 tại California, cáo buộc đánh cắp bí mật thương mại phần cứng qua nhóm cựu nhân viên do lãnh đạo Tang Tan dẫn dắt."

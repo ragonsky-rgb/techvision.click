@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ssd-vs-hdd-khac-gi-nen-chon-o-cung-nao-2026"
 title: "SSD và HDD khác gì nhau? Nên chọn ổ cứng nào cho laptop và PC 2026"
 description: "SSD và HDD là hai loại ổ cứng phổ biến nhất, khác nhau cơ bản về cách lưu dữ liệu, tốc độ và độ bền."

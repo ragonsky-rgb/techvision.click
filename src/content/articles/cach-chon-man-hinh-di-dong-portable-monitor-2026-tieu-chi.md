@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-man-hinh-di-dong-portable-monitor-2026-tieu-chi"
 title: "Cách chọn màn hình di động (portable monitor) 2026: 5 tiêu chí quan trọng trước khi mua"
 description: "Hướng dẫn chọn màn hình di động năm 2026: độ phân giải, tần số quét, nguồn điện qua USB-C, độ mỏng nhẹ và mức giá phù hợp nhu cầu làm việc, chơi game di động."

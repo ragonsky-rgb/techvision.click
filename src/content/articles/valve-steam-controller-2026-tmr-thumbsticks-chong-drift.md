@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "valve-steam-controller-2026-tmr-thumbsticks-chong-drift"
 title: "Valve Steam Controller 2026: tay cầm dùng TMR thumbsticks chống drift vĩnh viễn"
 description: "Valve Steam Controller 2026 dùng thumbsticks TMR chống drift, puck không dây độ trễ thấp, pin tháo rời, giá 99 USD, được GamersNexus đánh giá cao."

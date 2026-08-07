@@ -5,7 +5,7 @@ const {
   datePublished, dateModified,
   deck, heroImage, heroAlt, heroCaption, tldr, tags,
   stats, videos, faq, sourceUrl, sourceName, sourceDomains,
-  related, about, authorBio,
+  related, about, authorBio, noindex,
 } = data;
 
 const SITE = 'https://techvision.click';
@@ -91,7 +91,7 @@ const breadcrumbLd = {
   <meta name="description" content={description} />
   <meta name="keywords" content={keywords} />
   <meta name="theme-color" content="#c0392b" />
-  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'} />
   <link rel="canonical" href={url} />
   <link rel="alternate" hreflang="vi" href={url} />
   <link rel="alternate" hreflang="x-default" href={url} />

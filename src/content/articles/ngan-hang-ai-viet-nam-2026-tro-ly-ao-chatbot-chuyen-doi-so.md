@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ngan-hang-ai-viet-nam-2026-tro-ly-ao-chatbot-chuyen-doi-so"
 title: "Ngân hàng AI Việt Nam 2026: trợ lý ảo, chatbot tăng tốc chuyển đổi số"
 description: "Ngân hàng Việt Nam tăng tốc ứng dụng AI 2026: trợ lý ảo và chatbot 24/7 tại Vietcombank, MB, VietinBank, BIDV, cùng nền tảng AI doanh nghiệp quy mô lớn"

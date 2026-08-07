@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "kindle-scribe-2026-ai-viet-tay-buoc-ve-2026"
 title: "Kindle Scribe 2026: chip nhanh hơn 40%, AI tìm kiếm sổ tay viết tay"
 description: "Kindle Scribe 2026 có 3 phiên bản, chip mới nhanh hơn 40%, bút từ không cần sạc, AI tìm kiếm sổ tay viết tay, giá từ 429,99 USD tới 629,99 USD."

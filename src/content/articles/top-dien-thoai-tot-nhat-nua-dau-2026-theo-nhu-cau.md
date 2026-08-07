@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-dien-thoai-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top điện thoại tốt nhất nửa đầu 2026 theo từng nhu cầu"
 description: "Tổng hợp điện thoại tốt nhất nửa đầu 2026 theo nhu cầu: flagship, camera, điện thoại gập, pin trâu và giá tốt, từ Galaxy S26 Ultra tới iPhone 18."

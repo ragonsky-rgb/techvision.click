@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "leica-sl3-p-may-anh-full-frame-44mp-2026"
 title: "Leica SL3-P: máy ảnh full-frame 44MP mới, giá 5.900 Euro"
 description: "Leica SL3-P sở hữu cảm biến full-frame 44MP, nằm giữa dòng SL3-S 24MP và SL3 60MP, lấy nét tự động cải tiến, giá bán 5.900 Euro, được đánh giá là SL tốt nhất."

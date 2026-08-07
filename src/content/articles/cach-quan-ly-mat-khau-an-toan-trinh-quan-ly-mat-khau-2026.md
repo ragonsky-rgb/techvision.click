@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-quan-ly-mat-khau-an-toan-trinh-quan-ly-mat-khau-2026"
 title: "Cách quản lý mật khẩu an toàn: dùng trình quản lý mật khẩu đúng cách 2026"
 description: "Quản lý mật khẩu an toàn 2026: tạo mật khẩu mạnh, không dùng lại, dùng trình quản lý mật khẩu, bật xác thực hai lớp và tránh các sai lầm thường gặp"

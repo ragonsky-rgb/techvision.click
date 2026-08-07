@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "t1-thua-g2-msi-2026-bi-loai-som-nhat-lich-su"
 title: "T1 thua sốc G2 Esports 1-3 tại MSI 2026, bị loại sớm nhất lịch sử đội"
 description: "T1 của Faker để thua G2 Esports 1-3 ở vòng nhánh thua MSI 2026 chiều 8/7, chính thức bị loại và cán đích hạng 5, lần đầu tiên không lọt top 4 một giải quốc tế."

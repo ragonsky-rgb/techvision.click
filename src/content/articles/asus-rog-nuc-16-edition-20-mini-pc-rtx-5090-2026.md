@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "asus-rog-nuc-16-edition-20-mini-pc-rtx-5090-2026"
 title: "ASUS ROG NUC 16 Edition 20: mini PC đầu tiên nhét vừa GPU RTX 5090"
 description: "ASUS ROG NUC 16 Edition 20 là mini PC đầu tiên trang bị GPU RTX 5090 Laptop, thân máy 3 lít, RAM tối đa 128GB, giá khởi điểm 5.999 USD, mừng 20 năm ROG."

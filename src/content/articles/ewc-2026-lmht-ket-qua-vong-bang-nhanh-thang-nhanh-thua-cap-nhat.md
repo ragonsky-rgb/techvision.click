@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ewc-2026-lmht-ket-qua-vong-bang-nhanh-thang-nhanh-thua-cap-nhat"
 title: "EWC 2026 LMHT: kết quả vòng bảng và sơ đồ tứ kết"
 description: "Kết quả vòng bảng EWC 2026 LMHT và sơ đồ tứ kết: HLE gặp T1, AG.AL gặp Karmine Corp, Gen.G gặp JDG, BLG gặp Dplus KIA. 8 đội đi tiếp, tứ kết ngày 17/7 Bo3."

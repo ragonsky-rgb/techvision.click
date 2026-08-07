@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "eufy-video-doorbell-s4-chuong-cua-camera-ai-tracking-2026"
 title: "eufy Video Doorbell S4: chuông cửa camera AI theo dõi 360 độ, giá 279 USD"
 description: "eufy Video Doorbell S4 có camera xoay theo dõi AI OmniTrack, góc nhìn toàn cảnh 180 độ, độ phân giải 3K, lưu trữ 64GB tại chỗ, giá bán 279,99 USD."

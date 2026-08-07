@@ -60,6 +60,10 @@ const articles = defineCollection({
 
     // Cho phép promote lên hero trang chủ
     featured: z.boolean().default(false),
+
+    // Gỡ khỏi index Google: meta robots noindex + loại khỏi sitemap/RSS.
+    // Trang vẫn sống, vẫn đọc được, vẫn nhận traffic trực tiếp và từ AI.
+    noindex: z.boolean().default(false),
   }),
 });
 

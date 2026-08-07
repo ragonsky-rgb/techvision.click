@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "logitech-mx-master-4-chuot-khong-day-cao-cap-haptic-feedback-2026"
 title: "Logitech MX Master 4: chuột không dây cao cấp có phản hồi rung haptic"
 description: "Logitech MX Master 4 giá 120 USD: cảm biến Darkfield 8.000 DPI, pin 70 ngày, sạc nhanh USB-C, lần đầu có bảng cảm ứng phản hồi rung Actuate Haptic."

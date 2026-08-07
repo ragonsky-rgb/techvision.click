@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ban-phim-full-size-hay-tkl-chon-loai-nao-2026"
 title: "Bàn phím full-size hay TKL: chọn loại nào 2026?"
 description: "So sánh bàn phím full-size và TKL 2026: phím số, không gian bàn, tư thế chuột, di động và giá, giúp bạn chọn đúng kích thước bàn phím cho làm việc và chơi game."

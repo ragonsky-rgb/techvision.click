@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-may-choi-game-cam-tay-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top máy chơi game cầm tay tốt nhất nửa đầu 2026"
 description: "Tổng hợp máy chơi game cầm tay tốt nhất nửa đầu 2026 theo nhu cầu: hệ Windows Xbox, SteamOS, đồ họa Intel Arc và công nghệ mới, từ ROG Ally tới Legion Go."

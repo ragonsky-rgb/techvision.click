@@ -1,7 +1,7 @@
-import { getAllArticles, SITE } from '../lib/articles.mjs';
+import { getAllArticles, indexable, SITE } from '../lib/articles.mjs';
 
 export async function GET() {
-  const arts = await getAllArticles();
+  const arts = indexable(await getAllArticles());
   const staticPages = [
     { loc: `${SITE}/`, cf: 'weekly', pri: '1.0', lm: '2026-06-15' },
     { loc: `${SITE}/blog.html`, cf: 'weekly', pri: '0.9', lm: '2026-06-15' },

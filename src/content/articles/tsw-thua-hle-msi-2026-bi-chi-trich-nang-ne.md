@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tsw-thua-hle-msi-2026-bi-chi-trich-nang-ne"
 title: "TSW thua HLE tại MSI 2026, dàn sao Team Secret Whales bị chỉ trích nặng nề"
 description: "TSW để thua Hanwha Life Esports tại nhánh thắng MSI 2026, phong độ đội hình bị chỉ trích dữ dội, cơ hội đi tiếp tại giải đấu ngày càng mong manh."

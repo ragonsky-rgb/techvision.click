@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "jadepuffer-ransomware-ai-tu-dong-tan-cong-2026"
 title: "JadePuffer: chiến dịch ransomware đầu tiên do AI tự vận hành từ đầu đến cuối"
 description: "Sysdig phát hiện JadePuffer, chiến dịch ransomware đầu tiên do AI agent tự thực hiện toàn bộ, từ trinh sát, đánh cắp thông tin tới mã hoá dữ liệu tống tiền."

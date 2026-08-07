@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "microsoft-frontier-company-2-5-ty-usd-trien-khai-ai-doanh-nghiep"
 title: "Microsoft rót 2,5 tỷ USD lập Frontier Company, cử 6.000 nhân viên trực tiếp triển khai AI"
 description: "Microsoft công bố Frontier Company, đơn vị mới trị giá 2,5 tỷ USD với 6.000 nhân viên làm việc trực tiếp tại doanh nghiệp để triển khai AI vào vận hành thực tế."

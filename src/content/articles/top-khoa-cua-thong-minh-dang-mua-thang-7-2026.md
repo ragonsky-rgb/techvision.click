@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-khoa-cua-thong-minh-dang-mua-thang-7-2026"
 title: "Top khóa cửa thông minh đáng mua tháng 7/2026: Aqara U400"
 description: "Tổng hợp khóa cửa thông minh đáng cân nhắc tháng 7/2026: Aqara U400, Eufy FamiLock S3 Max, so sánh giá, tính năng nhận diện và mở khóa cho từng nhu cầu."

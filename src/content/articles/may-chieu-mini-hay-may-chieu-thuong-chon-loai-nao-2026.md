@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "may-chieu-mini-hay-may-chieu-thuong-chon-loai-nao-2026"
 title: "Máy chiếu mini hay máy chiếu thường: chọn loại nào 2026?"
 description: "So sánh máy chiếu mini và máy chiếu thường 2026: độ sáng, kích thước hình, tính di động, chất lượng và giá, giúp bạn chọn đúng máy chiếu xem phim tại nhà."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ps5-pro-pssr-2-2026-nang-cap-do-hoa-ai-gia-tang"
 title: "PS5 Pro nâng cấp PSSR 2.0: đồ họa AI tốt hơn, nhưng giá tăng lên 899 USD"
 description: "Sony tung bản cập nhật PSSR 2.0 cho PS5 Pro năm 2026, nâng chất lượng nâng scale bằng AI cho game PS5 Pro Enhanced. Tuy nhiên giá máy đã tăng lên 899 USD"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-router-wifi-mesh-dang-mua-thang-7-2026"
 title: "Top router wifi mesh đáng mua tháng 7/2026: TP-Link Deco BE63"
 description: "Tổng hợp router wifi mesh đáng cân nhắc tháng 7/2026: TP-Link Deco BE63, Asus ZenWiFi BQ16 Pro, so sánh giá, tốc độ và vùng phủ sóng cho từng nhu cầu nhà ở."

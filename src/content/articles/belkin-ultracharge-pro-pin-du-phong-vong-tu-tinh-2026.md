@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "belkin-ultracharge-pro-pin-du-phong-vong-tu-tinh-2026"
 title: "Belkin UltraCharge Pro: pin dự phòng 10.000mAh có vòng từ tính gắn thêm phụ kiện, giá 99 USD"
 description: "Belkin UltraCharge Pro Power Bank 10K có vòng từ tính phụ để gắn thêm ví, giá đỡ khi đang sạc, hỗ trợ Qi2.2 25W không dây và 30W có dây, giá 99 USD."

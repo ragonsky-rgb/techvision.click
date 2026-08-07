@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-hub-dock-usb-c-dang-mua-thang-7-2026"
 title: "Top hub/dock USB-C đáng mua tháng 7/2026"
 description: "Gợi ý hub dock USB-C đáng mua tháng 7/2026: hub giá tốt gọn nhẹ, dock tầm trung đa cổng cho văn phòng, dock Thunderbolt cao cấp đa màn hình chuyên nghiệp."

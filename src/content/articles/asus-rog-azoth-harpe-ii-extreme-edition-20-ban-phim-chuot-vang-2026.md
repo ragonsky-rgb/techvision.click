@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "asus-rog-azoth-harpe-ii-extreme-edition-20-ban-phim-chuot-vang-2026"
 title: "ASUS ROG Azoth và Harpe II Extreme Edition 20: bàn phím, chuột mạ vàng 24K kỷ niệm 20 năm ROG"
 description: "ASUS ROG Azoth và Harpe II Extreme Edition 20 là bộ bàn phím, chuột mạ vàng 24K kỷ niệm 20 năm ROG, cảm biến AimPoint Pro 65K DPI, giá từ 259,99 USD."

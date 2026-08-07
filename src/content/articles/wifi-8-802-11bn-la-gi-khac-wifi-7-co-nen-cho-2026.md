@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "wifi-8-802-11bn-la-gi-khac-wifi-7-co-nen-cho-2026"
 title: "Wi-Fi 8 là gì, khác Wi-Fi 7 thế nào, có nên chờ nâng cấp"
 description: "Wi-Fi 8 (IEEE 802.11bn) không tăng tốc độ so với Wi-Fi 7 mà tập trung vào độ ổn định, độ trễ thấp. Khác biệt, router đầu tiên và có nên chờ nâng cấp 2026."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "google-ai-mode-search-2026-tim-kiem-ai-thay-doi-lon-nhat-25-nam"
 title: "Google AI Mode 2026: cuộc đại tu tìm kiếm lớn nhất trong 25 năm"
 description: "Google nâng cấp Tìm kiếm tại I/O 2026 với AI Mode dùng Gemini 3.5 Flash, ô tìm kiếm thông minh đa phương thức, search agents và Generative UI"

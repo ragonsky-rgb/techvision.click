@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "jbl-live-780nc-680nc-tune-series-ra-mat-viet-nam-2026"
 title: "JBL ra mắt 6 mẫu tai nghe mới tại Việt Nam: Bluetooth 6.0, pin 80 giờ, giá từ 1,9 triệu"
 description: "JBL mở bán tại Việt Nam bộ đôi Live 780NC, Live 680NC và bộ tứ Tune Series, trang bị Bluetooth 6.0, chống ồn ANC, pin tới 80 giờ, giá từ 1,9 triệu đồng."

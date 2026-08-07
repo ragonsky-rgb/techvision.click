@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao"
 title: "Cách nhận biết và phòng tránh lừa đảo online, tin nhắn giả mạo"
 description: "Lừa đảo trên mạng ngày càng tinh vi: tin nhắn giả mạo ngân hàng, cuộc gọi giả danh công an, lời mời việc nhẹ lương cao hay trúng thưởng bất ngờ."

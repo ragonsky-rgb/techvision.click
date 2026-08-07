@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "xai-grok-cap-nhat-thang-6-2026-grok-4-3-aws-grok-cho-word-mo-hinh-moi"
 title: "xAI Grok dồn dập cập nhật tháng 6/2026: lên AWS, vào Word, mô hình mới"
 description: "xAI của Elon Musk có một tháng 6/2026 bận rộn với loạt cập nhật cho trợ lý Grok."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "pokemon-winds-waves-the-he-10-switch-2-2026"
 title: "Pokémon Winds và Waves: game thế hệ 10 cho Switch 2"
 description: "Pokémon Winds và Waves mở ra thế hệ 10 với vùng đất quần đảo giống Đông Nam Á, độc quyền Switch 2, ra mắt 2027. Bundle Pokopia lên kệ 23/7/2026."

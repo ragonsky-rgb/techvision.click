@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ban-phim-hall-effect-hay-switch-co-chon-loai-nao-2026"
 title: "Bàn phím Hall Effect hay switch cơ: chọn loại nào 2026?"
 description: "So sánh bàn phím Hall Effect và switch cơ truyền thống 2026: độ trễ, rapid trigger, độ bền, cảm giác gõ và giá, giúp bạn chọn đúng bàn phím theo nhu cầu."

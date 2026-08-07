@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tay-cam-choi-game-khong-day-hay-co-day-chon-loai-nao-2026"
 title: "Tay cầm chơi game không dây hay có dây 2026?"
 description: "So sánh tay cầm chơi game không dây và có dây 2026: độ trễ, sự tiện lợi, pin, độ ổn định và giá, giúp bạn chọn đúng tay cầm theo nhu cầu."

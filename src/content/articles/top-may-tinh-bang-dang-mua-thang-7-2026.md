@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-may-tinh-bang-dang-mua-thang-7-2026"
 title: "Top máy tính bảng đáng mua tháng 8/2026: từ phổ thông đến cao cấp"
 description: "Gợi ý máy tính bảng đáng mua tháng 8/2026: Galaxy Tab S11 cao cấp, Xiaomi Pad 8 Pro hiệu năng mạnh, iPad Gen 11 phổ thông cho học sinh sinh viên."

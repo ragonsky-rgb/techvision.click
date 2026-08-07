@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sensetime-sensemartgo-cua-hang-robot-tu-dong-waic-2026"
 title: "SenseTime mở cửa hàng robot tự động SenseMartGo ở Thượng Hải"
 description: "SenseTime ra mắt SenseMartGo, cửa hàng tiện lợi vận hành bằng robot hình người ở Thượng Hải, xử lý tới 400 đơn mỗi ngày, đặt mục tiêu 100 điểm cuối 2026."

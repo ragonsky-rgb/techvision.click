@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "thuong-mai-dien-tu-viet-nam-2026-tiktok-shop-shopee-livestream-luat-moi"
 title: "Thương mại điện tử Việt Nam 2026: TikTok Shop bám đuổi Shopee, luật mới từ 1/7"
 description: "Thương mại điện tử Việt Nam 2026 đạt 35-40 tỷ USD: TikTok Shop nâng thị phần lên 42% bám đuổi Shopee, livestream bùng nổ, luật mới từ 1/7"

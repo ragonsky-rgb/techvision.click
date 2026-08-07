@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "may-anh-du-lich-hay-dien-thoai-chup-anh-chon-loai-nao-2026"
 title: "Máy ảnh du lịch hay điện thoại chụp ảnh 2026?"
 description: "So sánh máy ảnh du lịch compact và điện thoại chụp ảnh 2026: chất lượng ảnh, zoom, sự tiện lợi, quay video và giá, giúp bạn chọn đúng thiết bị theo nhu cầu."

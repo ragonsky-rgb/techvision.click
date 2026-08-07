@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "rocket-lab-mua-iridium-8-ty-usd-doi-dau-starlink-2026"
 title: "Rocket Lab mua lại Iridium giá 8 tỷ USD, thách thức Starlink của SpaceX"
 description: "Rocket Lab công bố mua lại Iridium Communications giá 8 tỷ USD, sở hữu mạng vệ tinh, băng tần L-Band riêng, tạo đối thủ vệ tinh mới cạnh tranh Starlink"

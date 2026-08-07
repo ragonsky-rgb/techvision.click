@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dreame-leaptic-cube-camera-hanh-dong-8k-thiet-ke-tach-roi-2026"
 title: "Dreame Leaptic Cube: camera hành động 8K thiết kế tách rời module và màn hình, giá từ 439,99 USD"
 description: "Dreame Leaptic Cube là camera hành động đầu tiên của hãng, thiết kế tách rời module camera và màn hình điều khiển, quay 8K30fps, xem trực tiếp từ xa 30 mét."

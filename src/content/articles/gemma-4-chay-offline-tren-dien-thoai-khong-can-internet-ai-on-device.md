@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "gemma-4-chay-offline-tren-dien-thoai-khong-can-internet-ai-on-device"
 title: "Gemma 4 chạy offline trên điện thoại: AI không cần Internet, miễn phí"
 description: "Google vừa đưa AI tạo sinh ra khỏi đám mây và đặt thẳng vào túi quần người dùng."

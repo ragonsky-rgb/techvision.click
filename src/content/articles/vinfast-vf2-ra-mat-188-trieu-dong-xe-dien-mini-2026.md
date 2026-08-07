@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "vinfast-vf2-ra-mat-188-trieu-dong-xe-dien-mini-2026"
 title: "VinFast VF2 giá 188 triệu đồng: thông số, đặt cọc, ưu đãi"
 description: "VinFast ra mắt VF 2, ô tô điện đô thị cỡ nhỏ giá 188 triệu đồng gồm pin, tầm hoạt động 210km, mở cọc từ 15/7 với ưu đãi 8 triệu đồng trong 3 ngày vàng."

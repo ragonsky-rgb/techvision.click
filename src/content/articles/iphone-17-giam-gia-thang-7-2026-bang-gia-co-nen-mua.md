@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "iphone-17-giam-gia-thang-7-2026-bang-gia-co-nen-mua"
 title: "iPhone 17 giảm giá tháng 8/2026: bảng giá và có nên mua"
 description: "iPhone 17 series đồng loạt giảm 3 tới 29% tại Việt Nam tháng 8/2026. Bảng giá từng phiên bản, lý do giảm và có nên mua ngay trước iPhone 18."

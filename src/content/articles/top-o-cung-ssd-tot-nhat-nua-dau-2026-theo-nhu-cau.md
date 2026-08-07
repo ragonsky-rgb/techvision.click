@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-o-cung-ssd-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top ổ cứng SSD tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Tổng hợp ổ cứng SSD tốt nhất nửa đầu 2026 theo nhu cầu: SSD di động sáng tạo, NVMe gắn trong, lưu trữ dung lượng lớn và cách chọn SSD so với HDD."

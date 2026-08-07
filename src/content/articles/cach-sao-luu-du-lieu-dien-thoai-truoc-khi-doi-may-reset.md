@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset"
 title: "Cách sao lưu dữ liệu điện thoại trước khi đổi máy hoặc reset (iPhone & Android)"
 description: "Đổi máy mới hay khôi phục cài đặt gốc mà quên sao lưu là cách nhanh nhất để mất sạch ảnh, danh bạ và dữ liệu quan trọng."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "anthropic-openai-nop-ho-so-ipo-2026-lan-song-giga-ipo-ai"
 title: "Anthropic và OpenAI nộp hồ sơ IPO: làn sóng giga-IPO ngành AI 2026"
 description: "Anthropic, công ty tạo ra Claude, đã nộp hồ sơ IPO mật ngày 1/6/2026 ở mức định giá 965 tỷ USD, lần đầu vượt qua OpenAI."

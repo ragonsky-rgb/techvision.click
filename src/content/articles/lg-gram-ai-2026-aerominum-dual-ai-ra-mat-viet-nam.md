@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "lg-gram-ai-2026-aerominum-dual-ai-ra-mat-viet-nam"
 title: "LG gram AI 2026 ra mắt Việt Nam: vật liệu Aerominum, Dual AI dùng được cả khi ngoại tuyến"
 description: "LG gram AI 2026 chính thức ra mắt Việt Nam với vật liệu Aerominum siêu nhẹ, nền tảng Dual AI kết hợp xử lý tại máy và đám mây, giá khởi điểm từ 1.149 USD."

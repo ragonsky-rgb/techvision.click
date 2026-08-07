@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "adobe-photoshop-firefly-ai-2026-tro-ly-ai-image-model-5"
 title: "Adobe nâng cấp AI 2026: trợ lý AI cho Photoshop, Firefly Image Model 5"
 description: "Adobe đưa AI lên tầm mới năm 2026: trợ lý AI chỉnh ảnh bằng lời trong Photoshop, Firefly Image Model 5, và trợ lý sáng tạo điều phối workflow đa bước"

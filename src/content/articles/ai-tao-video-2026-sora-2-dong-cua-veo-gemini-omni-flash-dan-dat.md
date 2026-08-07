@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ai-tao-video-2026-sora-2-dong-cua-veo-gemini-omni-flash-dan-dat"
 title: "Cuộc đua AI tạo video 2026: Sora 2 đóng cửa, Veo và Gemini dẫn dắt"
 description: "Thị trường AI tạo video 2026 biến động: OpenAI Sora 2 đóng cửa, Google Veo 3.1 tạo video 4K kèm âm thanh, Gemini Omni Flash vào YouTube Shorts Remix"

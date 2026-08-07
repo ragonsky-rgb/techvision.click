@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-tang-toc-wifi-tai-nha-mang-cham-lag-2026"
 title: "Cách tăng tốc WiFi tại nhà: 8 mẹo khắc phục mạng chậm, lag 2026"
 description: "Hướng dẫn tăng tốc WiFi tại nhà 2026: đặt router đúng chỗ, đổi băng tần, khởi động lại modem, cập nhật firmware, dùng mesh và nhiều mẹo khắc phục mạng chậm"

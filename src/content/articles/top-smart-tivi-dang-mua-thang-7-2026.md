@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-smart-tivi-dang-mua-thang-7-2026"
 title: "Top smart tivi đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
 description: "Gợi ý smart tivi đáng mua tháng 7/2026: TCL giá tốt, Samsung Neo QLED tầm trung AI, Sony cao cấp cho trải nghiệm điện ảnh tại nhà."

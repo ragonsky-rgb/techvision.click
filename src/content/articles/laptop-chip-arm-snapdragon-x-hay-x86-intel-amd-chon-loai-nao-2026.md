@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "laptop-chip-arm-snapdragon-x-hay-x86-intel-amd-chon-loai-nao-2026"
 title: "Laptop chip ARM hay x86 Intel, AMD: chọn loại nào?"
 description: "Laptop chip ARM như Snapdragon X khác chip x86 Intel, AMD thế nào về pin, hiệu năng và tương thích phần mềm, và nên chọn loại nào theo nhu cầu năm 2026."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apptronik-apollo-2-robot-park-huan-luyen-robot-hinh-nguoi-2026"
 title: "Apptronik mở Robot Park 8.400 m2 huấn luyện robot hình người Apollo 2"
 description: "Apptronik khai trương Robot Park gần 8.400 m2 tại Austin, nơi robot hình người Apollo 2 làm việc thực tế để thu thập dữ liệu huấn luyện AI."

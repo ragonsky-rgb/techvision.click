@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ugreen-nexode-air-magflow-air-ra-mat-viet-nam-2026"
 title: "UGREEN ra mắt bộ đôi sạc siêu mỏng Nexode Air, MagFlow Air tại Việt Nam"
 description: "UGREEN đưa Nexode Air 45W và pin sạc từ MagFlow Air 10.000mAh về Việt Nam, giá từ 559.000 đồng, hướng riêng tới người dùng iPhone chuẩn Qi2."

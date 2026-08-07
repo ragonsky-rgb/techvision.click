@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-chuot-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top chuột tốt nhất nửa đầu 2026 theo từng nhu cầu"
 description: "Tổng hợp chuột tốt nhất nửa đầu 2026 theo nhu cầu: gaming Hall Effect, văn phòng cao cấp, thiết kế di động và phổ thông, từ Logitech G Pro X2 tới MX Master 4."

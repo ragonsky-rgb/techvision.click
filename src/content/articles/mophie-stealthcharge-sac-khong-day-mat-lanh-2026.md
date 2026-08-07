@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "mophie-stealthcharge-sac-khong-day-mat-lanh-2026"
 title: "Mophie StealthCharge: sạc không dây mát hơn, nhanh hơn, giá từ 149,95 USD"
 description: "Mophie StealthCharge tái thiết kế vị trí linh kiện sạc Qi2.2, giảm nhiệt khi sạc không dây 25W cho iPhone, ba mẫu giá từ 149,95 tới 179,95 USD."

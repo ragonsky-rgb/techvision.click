@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "figure-ai-robot-dong-hon-nguoi-botq-2026"
 title: "Figure AI: số robot hình người lần đầu vượt số nhân viên công ty"
 description: "Figure AI xác nhận số robot hình người tại công ty đã vượt qua số nhân viên, nhờ nhà máy BotQ đạt tốc độ sản xuất 1 robot mỗi giờ, tăng 24 lần trong 120 ngày."

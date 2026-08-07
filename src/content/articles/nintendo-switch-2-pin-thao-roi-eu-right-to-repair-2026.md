@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nintendo-switch-2-pin-thao-roi-eu-right-to-repair-2026"
 title: "Nintendo làm Switch 2 pin tháo rời cho EU theo luật mới"
 description: "Nintendo thiết kế lại Switch 2 với pin người dùng tự thay được cho thị trường EU, nhằm tuân thủ quy định pin mới có hiệu lực từ tháng 2/2027."

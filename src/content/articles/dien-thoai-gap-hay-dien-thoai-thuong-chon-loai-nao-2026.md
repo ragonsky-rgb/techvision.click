@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dien-thoai-gap-hay-dien-thoai-thuong-chon-loai-nao-2026"
 title: "Điện thoại gập hay điện thoại thường: chọn loại nào 2026?"
 description: "So sánh điện thoại màn hình gập và điện thoại thường 2026: màn hình, độ bền, tính di động, trải nghiệm và giá, giúp bạn chọn đúng loại điện thoại theo nhu cầu."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nfc-la-gi-cach-dung-nfc-tren-dien-thoai-2026"
 title: "NFC là gì? Cách dùng NFC trên điện thoại để thanh toán, đọc thẻ, kết nối"
 description: "NFC là gì và dùng để làm gì? Hướng dẫn bật và dùng NFC trên Android, iPhone để thanh toán không chạm, đọc thẻ căn cước, chuyển dữ liệu và kết nối thiết bị nhanh"

@@ -14,6 +14,17 @@
 - **Commit THẲNG vào nhánh `main`, TUYỆT ĐỐI không tạo nhánh phụ / Pull Request để viết bài.** Chỉ `main` mới deploy lên production; bài viết trên nhánh phụ (kể cả build preview OK) sẽ KHÔNG bao giờ lên site chính, gây "bài bị treo" phải merge thủ công. Luôn `git pull --rebase origin main` trước khi làm và `git push origin main` sau mỗi bài. Nếu vì lý do kỹ thuật buộc phải làm trên nhánh khác, phải merge lại `main` ngay khi xong, đừng để tồn.
 - **Mô hình nguồn 3 lớp cho bài tin (bắt buộc):** (1) *Radar* = báo lớn VN (VnExpress, Genk, Tinhte, CafeF, Znews) CHỈ để bắt chủ đề đang hot + search demand VN, KHÔNG lấy làm nguồn dữ kiện; (2) *Dữ kiện gốc* = nguồn quốc tế GỐC (The Verge, TechCrunch, MacRumors, 9to5Mac, Reuters), lấy số liệu/giá/ngày/quote chuẩn, ≥2 nguồn gốc + URL; (3) *Giá trị riêng* = phân tích + bối cảnh VN + so sánh + internal link. KHÔNG đua breaking news với VnExpress — định vị "giải thích đầy đủ nhất qua lăng kính quốc tế". Check SERP top Google VN trước khi viết để viết cho thắng, không echo lại.
 
+## 0a. TRẦN NHỊP ĐĂNG BÀI - luật cứng từ 07/08/2026
+
+> Bối cảnh: tới 07/08/2026 site có 704 bài markdown sinh ra trong 53 ngày (**13,3 bài/ngày**, ngày đỉnh **66 bài**). Kết quả: chỉ **2,7%** bài markdown từng có 1 lượt hiển thị trên Google, trong khi 61 bài legacy viết tay từng bài đạt **41%**. Chênh 15 lần. Google crawl rồi từ chối lập chỉ mục (*Crawled - currently not indexed*) dù kỹ thuật sạch - đây là tín hiệu *scaled content abuse*. Đã gỡ 480 bài khỏi index và xóa 47 bài lạc ngách để dọn.
+
+- **Tối đa 2 bài/ngày, tối đa 8 bài/tuần.** Không có ngoại lệ cho "batch", "bù bài", hay "tin nóng nhiều quá".
+- **Cấm tuyệt đối các series template** kiểu đổi danh từ giữ nguyên khung: `Cách chọn X 2026: 5 tiêu chí`, `X hay Y chọn loại nào`, `Top X đáng mua tháng N`, `X là gì`. Toàn bộ 171 bài dạng này đã bị noindex vì 0 lượt hiển thị.
+- **Chỉ viết đúng ngách công nghệ.** Cấm đồ gia dụng (nồi cơm, tủ lạnh, máy giặt, bếp từ, máy sấy tóc, máy lọc nước...) - 47 bài dạng này đã bị xóa.
+- **Mỗi bài phải có thứ mà nguồn quốc tế không có**: giá VN thật, so sánh máy bán ở VN, trải nghiệm thật, hoặc góc phân tích riêng. Bài chỉ dịch lại tin nước ngoài thì đừng đăng.
+- **Bài mới mặc định `noindex: false`.** Chỉ đặt `noindex: true` khi cố ý giữ bài ngoài index.
+- Trước khi thêm bài, chạy `node scripts/check-cadence.mjs` - script chặn nếu vượt trần.
+
 ## 0b. Checklist chống lỗi trước khi commit (bắt buộc)
 Chạy đủ 4 bước này trước MỖI lần commit để máy/AI khác không tái tạo lỗi cũ:
 1. **`node scripts/check-media.mjs`** → phải ra **0 ảnh lỗi · 0 video lỗi · 0 bài media dồn cụm**. Script quét cả `src/content/articles`, `public/articles` và `public/su-kien`. Nếu có lỗi: sửa (thay thumbnail sống, hạ maxres→hqdefault, giãn media) rồi chạy lại tới khi sạch.

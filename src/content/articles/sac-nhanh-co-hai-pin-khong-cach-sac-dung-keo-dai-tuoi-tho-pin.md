@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sac-nhanh-co-hai-pin-khong-cach-sac-dung-keo-dai-tuoi-tho-pin"
 title: "Sạc nhanh có hại pin không? Cách sạc đúng để pin bền lâu"
 description: "Sạc nhanh có hại pin điện thoại không, có nên sạc qua đêm, có cần xả cạn 0%? Giải đáp và 8 mẹo sạc đúng cách giúp pin Li-ion bền lâu, hạn chế chai pin."

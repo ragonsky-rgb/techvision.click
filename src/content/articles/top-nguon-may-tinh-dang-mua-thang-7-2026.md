@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-nguon-may-tinh-dang-mua-thang-7-2026"
 title: "Top nguồn máy tính đáng mua tháng 7/2026"
 description: "Gợi ý nguồn máy tính đáng mua tháng 7/2026: nguồn 650W chuẩn Bronze giá tốt, 850W Gold tầm trung, 1000W+ Platinum cao cấp cho GPU flagship."

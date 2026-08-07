@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-tang-toc-google-chrome-cham-ngon-ram-2026"
 title: "Cách tăng tốc Google Chrome chậm, ngốn RAM: 8 mẹo cho máy nhẹ hơn"
 description: "Google Chrome là trình duyệt phổ biến nhất nhưng cũng nổi tiếng ngốn RAM, dễ làm máy chậm khi mở nhiều tab và tiện ích."

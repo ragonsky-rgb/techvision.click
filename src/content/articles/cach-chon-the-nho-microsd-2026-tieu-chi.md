@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-the-nho-microsd-2026-tieu-chi"
 title: "Cách chọn thẻ nhớ microSD 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn thẻ nhớ microSD 2026: dung lượng phù hợp nhu cầu, tốc độ đọc ghi, chuẩn tốc độ ứng dụng A1/A2, độ bền và nguồn gốc chính hãng tránh hàng giả."

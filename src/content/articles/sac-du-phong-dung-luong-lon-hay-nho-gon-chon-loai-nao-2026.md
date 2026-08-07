@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sac-du-phong-dung-luong-lon-hay-nho-gon-chon-loai-nao-2026"
 title: "Sạc dự phòng dung lượng lớn hay nhỏ gọn 2026?"
 description: "So sánh sạc dự phòng dung lượng lớn và nhỏ gọn 2026: số lần sạc, tính di động, cân nặng, công suất và giá, giúp bạn chọn đúng pin dự phòng theo nhu cầu."

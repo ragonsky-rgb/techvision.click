@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "may-tinh-bang-android-hay-ipad-chon-loai-nao-2026"
 title: "Máy tính bảng Android hay iPad: chọn loại nào 2026?"
 description: "So sánh máy tính bảng Android và iPad 2026: hệ điều hành, ứng dụng, bút cảm ứng, hệ sinh thái và giá, giúp bạn chọn đúng tablet theo nhu cầu."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-camera-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top camera tốt nhất nửa đầu 2026 theo từng nhu cầu"
 description: "Tổng hợp camera tốt nhất nửa đầu 2026 theo nhu cầu: action cam thể thao, camera hành trình, máy ảnh chuyên nghiệp và máy ảnh lấy liền, từ GoPro tới Leica."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nothing-ear-3-tai-nghe-true-wireless-super-mic-2026"
 title: "Nothing Ear (3): tai nghe true wireless flagship với tính năng Super Mic độc đáo"
 description: "Nothing Ear (3) là tai nghe true wireless flagship mới nhất của Nothing, nổi bật với tính năng Super Mic tích hợp vào hộp sạc, âm thanh mạnh mẽ và chống ồn tốt."

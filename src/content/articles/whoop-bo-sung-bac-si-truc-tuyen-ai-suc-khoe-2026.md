@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "whoop-bo-sung-bac-si-truc-tuyen-ai-suc-khoe-2026"
 title: "Whoop bổ sung tính năng gọi bác sĩ trực tuyến và AI sức khỏe mới ngay trong ứng dụng"
 description: "Whoop bổ sung tính năng gọi video bác sĩ trực tuyến và hai công cụ AI mới My Memory, Proactive Check-Ins, đồng bộ hồ sơ bệnh án điện tử qua HealthEx."

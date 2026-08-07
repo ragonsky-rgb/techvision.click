@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "openai-huy-dong-122-ty-usd-dinh-gia-852-ty-2026"
 title: "OpenAI huy động 122 tỷ USD, định giá kỷ lục 852 tỷ"
 description: "OpenAI hoàn tất vòng gọi vốn 122 tỷ USD ở định giá 852 tỷ USD, lớn nhất lịch sử tư nhân, với Amazon, Nvidia, SoftBank hậu thuẫn, doanh thu 2,6 tỷ USD mỗi tháng."

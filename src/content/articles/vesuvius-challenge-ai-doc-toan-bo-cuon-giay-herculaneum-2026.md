@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "vesuvius-challenge-ai-doc-toan-bo-cuon-giay-herculaneum-2026"
 title: "Vesuvius Challenge: AI đọc trọn vẹn cuộn giấy Herculaneum 2.000 năm tuổi lần đầu tiên"
 description: "Vesuvius Challenge dùng AI và tia X đọc trọn vẹn cuộn giấy PHerc. 1667 bị núi lửa Vesuvius thiêu cháy 2.000 năm trước mà không cần mở ra."

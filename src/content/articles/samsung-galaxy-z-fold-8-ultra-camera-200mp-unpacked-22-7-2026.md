@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-galaxy-z-fold-8-ultra-camera-200mp-unpacked-22-7-2026"
 title: "Samsung Galaxy Z Fold 8 Ultra: camera 200MP, Snapdragon 8 Elite Gen 5, ra mắt Unpacked 22/7"
 description: "Galaxy Z Fold 8 Ultra rò rỉ trước Unpacked 22/7: camera 200MP, chip Snapdragon 8 Elite Gen 5, pin 5.000mAh, giá dự kiến từ 1.999 USD. Tất tần tật cấu hình."

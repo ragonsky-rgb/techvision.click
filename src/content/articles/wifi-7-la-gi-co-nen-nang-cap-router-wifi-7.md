@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "wifi-7-la-gi-co-nen-nang-cap-router-wifi-7"
 title: "Wi-Fi 7 là gì? Có nên nâng cấp router Wi-Fi 7 năm 2026?"
 description: "Wi-Fi 7 được quảng cáo nhanh gấp nhiều lần Wi-Fi 6 và đang xuất hiện trên ngày càng nhiều router cùng điện thoại đầu bảng."

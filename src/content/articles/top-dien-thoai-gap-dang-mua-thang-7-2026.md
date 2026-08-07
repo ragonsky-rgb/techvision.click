@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-dien-thoai-gap-dang-mua-thang-7-2026"
 title: "Top điện thoại gập đáng mua tháng 8/2026: Z Fold 8 vừa lên kệ"
 description: "Điện thoại gập đáng mua tháng 8/2026: Galaxy Z Fold 8 từ 46,99 triệu vừa mở bán, Z Fold 7 xả giá sâu, Honor Magic V5 mỏng nhất, Z TriFold gập ba độc đáo."

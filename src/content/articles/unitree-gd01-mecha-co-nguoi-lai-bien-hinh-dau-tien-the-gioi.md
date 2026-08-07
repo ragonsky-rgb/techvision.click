@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "unitree-gd01-mecha-co-nguoi-lai-bien-hinh-dau-tien-the-gioi"
 title: "Unitree GD01: mecha có người lái biến hình đầu tiên thế giới"
 description: "Unitree GD01, mecha có người lái biến hình đầu tiên thế giới, gây sốt tại WAIC 2026: cao 2,7m, đi 2 hoặc 4 chân, giá từ 3,9 triệu tệ, khoảng 650.000 USD."

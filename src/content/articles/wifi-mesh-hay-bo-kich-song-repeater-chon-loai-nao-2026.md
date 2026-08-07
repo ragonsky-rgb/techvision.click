@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "wifi-mesh-hay-bo-kich-song-repeater-chon-loai-nao-2026"
 title: "Wi-Fi mesh hay bộ kích sóng: chọn loại nào 2026?"
 description: "So sánh wifi mesh và bộ kích sóng repeater 2026: vùng phủ, độ ổn định, chuyển vùng liền mạch, lắp đặt và giá, giúp bạn chọn đúng giải pháp phủ sóng nhà."

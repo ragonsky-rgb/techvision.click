@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-camera-hanh-dong-action-camera-2026-tieu-chi"
 title: "Cách chọn camera hành động (action camera) 2026: 5 tiêu chí quan trọng trước khi mua"
 description: "Hướng dẫn chọn camera hành động năm 2026: chống rung hình ảnh, chất lượng thiếu sáng, thời lượng pin, khả năng chống nước và mức giá phù hợp nhu cầu."

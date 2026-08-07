@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "anthropic-mythos-fable-5-go-bo-kiem-soat-xuat-khau-2026"
 title: "Mỹ gỡ bỏ kiểm soát xuất khẩu với Claude Mythos 5, Fable 5 của Anthropic"
 description: "Chính phủ Mỹ gỡ bỏ kiểm soát xuất khẩu với Claude Mythos 5, Fable 5 sau gần 3 tuần đình chỉ vì lo ngại bảo mật, cho phép Anthropic khôi phục truy cập quốc tế."

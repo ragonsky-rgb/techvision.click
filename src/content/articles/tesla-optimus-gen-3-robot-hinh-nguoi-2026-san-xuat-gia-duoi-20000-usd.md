@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tesla-optimus-gen-3-robot-hinh-nguoi-2026-san-xuat-gia-duoi-20000-usd"
 title: "Tesla Optimus Gen 3: robot hình người hướng tới sản xuất, giá dưới 20.000 USD"
 description: "Tesla đặt mục tiêu bắt đầu sản xuất robot hình người Optimus thế hệ thứ ba từ mùa hè 2026, với giá mục tiêu dưới 20.000 USD ở quy mô lớn."

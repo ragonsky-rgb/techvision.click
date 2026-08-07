@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-router-wifi-mesh-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top router wifi mesh tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Tổng hợp router wifi mesh tốt nhất nửa đầu 2026 theo nhu cầu: hiệu năng cao cho nhà lớn, giá tốt, chuẩn WiFi 7 và cách chọn, giúp phủ sóng ổn định."

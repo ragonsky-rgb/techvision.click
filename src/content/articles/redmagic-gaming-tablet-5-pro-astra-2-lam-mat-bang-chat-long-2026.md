@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "redmagic-gaming-tablet-5-pro-astra-2-lam-mat-bang-chat-long-2026"
 title: "RedMagic Gaming Tablet 5 Pro: máy tính bảng gaming làm mát bằng chất lỏng đầu tiên"
 description: "RedMagic ra mắt Gaming Tablet 5 Pro (Astra 2), máy tính bảng gaming đầu tiên làm mát bằng chất lỏng, màn hình OLED 185Hz, giả lập PC chơi được game Steam."

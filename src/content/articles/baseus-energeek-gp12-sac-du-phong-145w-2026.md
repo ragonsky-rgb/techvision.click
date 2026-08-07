@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "baseus-energeek-gp12-sac-du-phong-145w-2026"
 title: "Baseus EnerGeek GP12 ra mắt Việt Nam: sạc dự phòng 20.800mAh, công suất 145W cho 4 thiết bị"
 description: "Baseus EnerGeek GP12 chính thức có mặt tại Việt Nam, dung lượng 20.800mAh, sạc nhanh 145W cho 4 thiết bị cùng lúc, màn hình hiển thị thông minh."

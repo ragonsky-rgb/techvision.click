@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "usb-c-la-gi-chuan-cap-sac-nhanh-pd-phan-biet-day-cap-2026"
 title: "USB-C là gì? Hiểu chuẩn sạc nhanh PD và cách phân biệt dây cáp 2026"
 description: "USB-C đã trở thành cổng kết nối chung trên điện thoại, laptop và phụ kiện, nhưng cùng một hình dáng cổng lại ẩn chứa nhiều khả năng rất khác nhau."

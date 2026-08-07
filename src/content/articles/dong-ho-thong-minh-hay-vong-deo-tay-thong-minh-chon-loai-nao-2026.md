@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dong-ho-thong-minh-hay-vong-deo-tay-thong-minh-chon-loai-nao-2026"
 title: "Đồng hồ thông minh hay vòng đeo tay thông minh 2026?"
 description: "So sánh đồng hồ thông minh và vòng đeo tay thông minh 2026: tính năng, màn hình, thời lượng pin và giá, giúp bạn chọn đúng thiết bị đeo theo nhu cầu."

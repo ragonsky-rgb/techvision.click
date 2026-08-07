@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-ghe-gaming-dang-mua-thang-7-2026"
 title: "Top 8 ghế gaming đáng mua tháng 7/2026: phổ thông tới cao cấp"
 description: "Top 8 ghế gaming đáng mua tháng 7/2026: E-Dra Mars EGC202, Warrior WGC206, Corsair TC100, Hercules EGC203 Pro, DXRacer Craft, Secretlab TITAN Evo."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "turtle-beach-stealth-pro-ii-tai-nghe-gaming-flagship-2026"
 title: "Turtle Beach Stealth Pro II: tai nghe gaming flagship kết nối 4 thiết bị, pin kép 40 giờ mỗi cục"
 description: "Turtle Beach Stealth Pro II kết nối không dây 4 thiết bị cùng lúc, hai pin sạc luân phiên mỗi cục 40 giờ, âm thanh trưởng thành hơn bản cũ, giá 350 USD."

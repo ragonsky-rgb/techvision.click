@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-smart-tivi-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top smart tivi tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Tổng hợp smart tivi tốt nhất nửa đầu 2026 theo nhu cầu: cao cấp công nghệ RGB, mini LED, giá tốt và cách chọn, từ Sony Bravia 9 II tới Samsung Micro RGB."

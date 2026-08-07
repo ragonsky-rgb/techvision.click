@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "honor-magic-8-pro-camera-200mp-snapdragon-8-elite-gen-5-2026"
 title: "Honor Magic 8 Pro: camera 200MP, pin 7100mAh có gì hot?"
 description: "Honor Magic 8 Pro có chip Snapdragon 8 Elite Gen 5, camera tele 200MP và pin 7100mAh, một trong những flagship Android toàn cầu đầu tiên năm 2026."

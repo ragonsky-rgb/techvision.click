@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-may-chieu-mini-2026-tieu-chi"
 title: "Cách chọn máy chiếu mini 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn máy chiếu mini 2026: độ sáng ANSI lumens, độ phân giải, pin tích hợp, hệ điều hành thông minh và không gian sử dụng phù hợp."

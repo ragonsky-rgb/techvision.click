@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "1x-neo-robot-ban-tay-moi-25-bac-tu-do-2026"
 title: "1X trình làng bàn tay robot mới cho NEO: 25 bậc tự do, khéo léo như người"
 description: "1X Technologies ra mắt bàn tay robot mới cho NEO với 25 bậc tự do, cơ chế gân kéo, cảm biến lực toàn phần, có thể nhặt nho, lắp bóng đèn chính xác."

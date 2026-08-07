@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-webcam-2026-tieu-chi"
 title: "Cách chọn webcam 2026: 5 tiêu chí trước khi mua"
 description: "Hướng dẫn cách chọn webcam phù hợp năm 2026: độ phân giải, tốc độ khung hình, khẩu độ ống kính, tính năng AI và kết nối, tránh mua nhầm webcam."

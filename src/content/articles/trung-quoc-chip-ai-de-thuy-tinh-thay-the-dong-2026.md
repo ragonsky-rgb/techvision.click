@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "trung-quoc-chip-ai-de-thuy-tinh-thay-the-dong-2026"
 title: "Trung Quốc đột phá chip AI đế thủy tinh 20 lớp, đe dọa thay thế đế đồng truyền thống"
 description: "Trung Quốc công bố công nghệ đế thủy tinh 20 lớp cho chip AI vượt qua bài kiểm tra quan trọng, mở đường thay thế đế đồng trong đóng gói chip cao cấp."

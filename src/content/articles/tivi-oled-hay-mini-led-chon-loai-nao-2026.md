@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tivi-oled-hay-mini-led-chon-loai-nao-2026"
 title: "Tivi OLED hay mini LED: nên chọn loại nào 2026?"
 description: "So sánh tivi OLED và mini LED 2026: độ tương phản, độ sáng, lo ngại lưu ảnh, độ bền và giá, giúp bạn chọn đúng công nghệ tivi theo phòng và nhu cầu xem."

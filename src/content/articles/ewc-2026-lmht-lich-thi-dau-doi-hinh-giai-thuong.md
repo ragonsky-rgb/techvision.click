@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ewc-2026-lmht-lich-thi-dau-doi-hinh-giai-thuong"
 title: "EWC 2026 LMHT: lịch thi đấu, 16 đội, giải 2 triệu USD"
 description: "Esports World Cup 2026 bộ môn LMHT diễn ra 15 tới 19/7 tại Paris với 16 đội, tổng thưởng 2 triệu USD, thể thức GSL loại kép, T1 và Gen.G cùng góp mặt."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh"
 title: "iPhone 18 Pro Max 1.399 USD: nghịch lý giá và toan tính của Apple"
 description: "iPhone 18 Pro Max dự kiến 1.399 USD, tăng khoảng 300 USD vì khủng hoảng RAM do AI. Vì sao Apple tăng giá mạnh 2026 và toan tính giữ giá cho iPhone 20 năm 2027?"

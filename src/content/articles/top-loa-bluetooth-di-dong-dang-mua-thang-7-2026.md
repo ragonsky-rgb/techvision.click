@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-loa-bluetooth-di-dong-dang-mua-thang-7-2026"
 title: "Top loa bluetooth di động đáng mua tháng 7/2026: 5 lựa chọn hay"
 description: "Tổng hợp loa bluetooth di động đáng cân nhắc tháng 7/2026: JBL Charge 6, JBL Flip 7, Sony SRS-XB100, so sánh giá, thời lượng pin và chất lượng âm thanh."

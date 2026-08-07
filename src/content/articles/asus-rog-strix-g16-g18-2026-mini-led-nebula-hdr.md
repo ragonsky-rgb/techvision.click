@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "asus-rog-strix-g16-g18-2026-mini-led-nebula-hdr"
 title: "ASUS ROG Strix G16/G18 2026: laptop gaming đầu tiên dùng màn hình Mini LED Nebula HDR"
 description: "ASUS ROG Strix G16/G18 2026: màn hình Mini LED Nebula HDR đầu tiên dòng Strix, độ sáng 1.200-1.600 nit, chip Intel Panther Lake, RTX 5080, giá từ 2.499 USD."

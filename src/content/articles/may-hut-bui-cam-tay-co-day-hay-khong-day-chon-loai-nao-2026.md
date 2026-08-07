@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "may-hut-bui-cam-tay-co-day-hay-khong-day-chon-loai-nao-2026"
 title: "Máy hút bụi cầm tay có dây hay không dây 2026?"
 description: "So sánh máy hút bụi cầm tay có dây và không dây 2026: lực hút, thời gian dùng, sự tiện lợi và giá, giúp bạn chọn đúng loại theo nhu cầu."

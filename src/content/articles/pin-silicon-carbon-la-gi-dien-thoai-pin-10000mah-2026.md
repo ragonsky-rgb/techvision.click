@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "pin-silicon-carbon-la-gi-dien-thoai-pin-10000mah-2026"
 title: "Pin Silicon-Carbon là gì? Điện thoại pin 10.000mAh 2026"
 description: "Pin Silicon-Carbon giúp smartphone 2026 nhồi tới 10.000mAh mà vẫn mỏng. Công nghệ này là gì, có những máy nào và vì sao Apple, Samsung còn dè dặt."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-den-thong-minh-2026-tieu-chi"
 title: "Cách chọn đèn thông minh 2026: 5 tiêu chí trước khi mua"
 description: "Hướng dẫn cách chọn đèn thông minh phù hợp năm 2026: giao thức kết nối, độ sáng, dải màu, hệ sinh thái tương thích và ngân sách, tránh mua nhầm đèn."

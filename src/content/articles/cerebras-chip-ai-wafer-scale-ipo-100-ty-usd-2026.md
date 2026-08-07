@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cerebras-chip-ai-wafer-scale-ipo-100-ty-usd-2026"
 title: "Cerebras: startup chip AI to bằng cái đĩa, định giá vượt 100 tỷ USD sau IPO"
 description: "Cerebras IPO vang dội, cổ phiếu tăng gần gấp đôi ngày đầu, định giá vượt 100 tỷ USD nhờ chip AI Wafer-Scale Engine to bằng cái đĩa ăn, thách thức Nvidia."

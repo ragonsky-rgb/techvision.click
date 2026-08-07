@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "waico-to-chuc-hop-tac-ai-the-gioi-29-nuoc-waic-2026"
 title: "WAICO ra đời: 29 nước lập Tổ chức Hợp tác AI Thế giới"
 description: "29 quốc gia ký thành lập Tổ chức Hợp tác AI Thế giới WAICO đặt trụ sở tại Thượng Hải, bên lề WAIC 2026, hướng tới hợp tác và quản trị AI toàn cầu."

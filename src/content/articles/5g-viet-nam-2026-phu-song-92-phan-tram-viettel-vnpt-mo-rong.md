@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "5g-viet-nam-2026-phu-song-92-phan-tram-viettel-vnpt-mo-rong"
 title: "5G Việt Nam 2026: phủ sóng gần 92% dân số, nhà mạng đua mở rộng"
 description: "Mạng 5G Việt Nam 2026 phủ gần 92% dân số với hơn 22 triệu thuê bao. Viettel, VNPT đua mở rộng trạm và băng tần, hướng mục tiêu 99% dân số phủ 5G"

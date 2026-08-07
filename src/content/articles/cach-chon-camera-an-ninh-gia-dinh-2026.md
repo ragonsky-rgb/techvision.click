@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-camera-an-ninh-gia-dinh-2026"
 title: "Cách chọn camera an ninh gia đình 2026: 5 tiêu chí trước khi lắp đặt"
 description: "Hướng dẫn cách chọn camera an ninh gia đình phù hợp năm 2026: độ phân giải, kết nối wifi, lưu trữ, tính năng thông minh và không gian lắp đặt trong nhà."

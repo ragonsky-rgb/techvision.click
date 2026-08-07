@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "roborock-qrevo-2-pro-ra-mat-viet-nam-hyperforce-2026"
 title: "Roborock Qrevo 2 Pro ra mắt Việt Nam: hút 25.000Pa, rảnh tay 65 ngày, giá 13,49 triệu"
 description: "Roborock Qrevo 2 Pro mở bán Việt Nam, lực hút HyperForce 25.000Pa, giẻ lau xoay kép 200 vòng/phút, dock đa năng rảnh tay 65 ngày, giá 13,49 triệu đồng."

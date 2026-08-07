@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "openai-khai-tu-chatgpt-atlas-trinh-duyet-ai-2026"
 title: "OpenAI khai tử trình duyệt ChatGPT Atlas sau chưa đầy một năm ra mắt"
 description: "OpenAI ngừng hỗ trợ trình duyệt AI Atlas từ 9/8/2026, chuyển hướng tích hợp tính năng agent vào ứng dụng ChatGPT desktop và tiện ích mở rộng Chrome."

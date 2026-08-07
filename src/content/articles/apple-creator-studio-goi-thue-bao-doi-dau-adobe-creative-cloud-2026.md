@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apple-creator-studio-goi-thue-bao-doi-dau-adobe-creative-cloud-2026"
 title: "Apple Creator Studio: gói thuê bao sáng tạo đối đầu Adobe Creative Cloud, giá 12,99 USD/tháng"
 description: "Apple Creator Studio gộp Final Cut Pro, Logic Pro, Pixelmator Pro vào một gói thuê bao 12,99 USD/tháng, rẻ hơn 5 lần Adobe Creative Cloud."

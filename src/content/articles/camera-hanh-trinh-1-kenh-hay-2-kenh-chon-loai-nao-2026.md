@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "camera-hanh-trinh-1-kenh-hay-2-kenh-chon-loai-nao-2026"
 title: "Camera hành trình 1 kênh hay 2 kênh 2026?"
 description: "So sánh camera hành trình 1 kênh và 2 kênh 2026: ghi hình trước sau, bảo vệ, lắp đặt và chi phí, giúp bạn chọn đúng camera hành trình ô tô theo nhu cầu."

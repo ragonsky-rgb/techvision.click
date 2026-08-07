@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "wuling-darion-mpv-dien-7-cho-ra-mat-viet-nam-gia"
 title: "Wuling Darion: MPV điện 7 chỗ về VN, giá từ 730 triệu"
 description: "Wuling Darion sắp ra mắt Việt Nam: MPV điện 7 chỗ, cửa lùa như Carnival, tầm 450 tới 500km mỗi lần sạc, giá dự kiến 730 tới 799 triệu đồng, đấu BYD M6."

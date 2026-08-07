@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-dong-ho-thong-minh-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top đồng hồ thông minh tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Tổng hợp đồng hồ thông minh tốt nhất nửa đầu 2026 theo nhu cầu: cao cấp, pin trâu, thể thao bền bỉ, giá tốt và theo dõi sức khỏe, từ Galaxy Watch tới Amazfit."

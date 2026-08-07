@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "vct-pacific-2026-stage-2-lich-the-thuc-co-hoi-champions"
 title: "VCT Pacific 2026 Stage 2: lịch, thể thức, vé đi Champions"
 description: "VCT Pacific 2026 Stage 2 khởi tranh từ 16/7 với tổng thưởng 250.000 USD, tranh vé dự Valorant Champions 2026. Nhìn lại chung kết Stage 1 tổ chức tại TP.HCM."

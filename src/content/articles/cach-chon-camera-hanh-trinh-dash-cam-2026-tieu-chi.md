@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-camera-hanh-trinh-dash-cam-2026-tieu-chi"
 title: "Cách chọn camera hành trình (dash cam) 2026: 5 tiêu chí quan trọng trước khi mua"
 description: "Hướng dẫn chọn camera hành trình năm 2026: độ phân giải video, số kênh camera, chế độ đỗ xe, kết nối Wi-Fi và mức giá phù hợp nhu cầu sử dụng ô tô."

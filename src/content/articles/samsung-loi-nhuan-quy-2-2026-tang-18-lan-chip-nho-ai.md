@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-loi-nhuan-quy-2-2026-tang-18-lan-chip-nho-ai"
 title: "Samsung ước lãi quý 2/2026 tăng gấp 18 lần nhờ cơn sốt chip nhớ AI, lập kỷ lục lịch sử"
 description: "Samsung Electronics dự kiến lợi nhuận hoạt động quý 2/2026 đạt khoảng 56,35 tỷ USD, tăng 18 lần so với cùng kỳ, nhờ giá DRAM và NAND tăng mạnh vì nhu cầu AI."

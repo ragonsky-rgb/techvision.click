@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sony-1000x-collexion-tai-nghe-flagship-10-nam-2026"
 title: "Sony 1000X The ColleXion: tai nghe kỷ niệm 10 năm dòng 1000X, giá 649,99 USD"
 description: "Sony 1000X The ColleXion dùng driver carbon fiber 40mm mới, da thuần chay cao cấp, pin 24 giờ có ANC, cùng chip chống ồn QN3 như XM6, giá 649,99 USD."

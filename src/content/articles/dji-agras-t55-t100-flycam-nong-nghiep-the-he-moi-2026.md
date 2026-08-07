@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dji-agras-t55-t100-flycam-nong-nghiep-the-he-moi-2026"
 title: "DJI ra mắt Agras T55, T100 Dual Battery: flycam nông nghiệp thế hệ mới"
 description: "DJI chính thức mở bán toàn cầu Agras T55 và T100 Dual Battery, flycam nông nghiệp mới mang radar sóng milimet, tải trọng lớn và pin kép tăng 50% thời gian bay."

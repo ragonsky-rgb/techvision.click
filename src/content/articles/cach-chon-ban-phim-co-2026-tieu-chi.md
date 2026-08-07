@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-ban-phim-co-2026-tieu-chi"
 title: "Cách chọn bàn phím cơ 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn cách chọn bàn phím cơ phù hợp năm 2026: loại switch, layout, kết nối, chất liệu keycap và ngân sách, giúp tránh mua nhầm phím không đúng nhu cầu."

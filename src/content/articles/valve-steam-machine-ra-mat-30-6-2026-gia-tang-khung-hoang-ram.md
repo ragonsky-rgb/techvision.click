@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "valve-steam-machine-ra-mat-30-6-2026-gia-tang-khung-hoang-ram"
 title: "Valve Steam Machine chính thức ra mắt 30/6/2026, giá tăng vì khủng hoảng RAM"
 description: "Valve ra mắt Steam Machine ngày 30/6/2026, giá từ 1.049 USD, tăng do chi phí RAM tăng hơn 170% vì nhu cầu trung tâm dữ liệu AI, cạnh tranh PlayStation Xbox"

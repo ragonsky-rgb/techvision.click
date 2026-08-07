@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "iphone-16-giam-gia-thang-7-2026-lua-chon-toi-uu"
 title: "Giá iPhone 16 tháng 8/2026: 16e từ 12,79 triệu, Pro Max chạm đáy"
 description: "Bảng giá iPhone 16 series tháng 8/2026 giảm sâu, 16e chỉ từ 12,79 triệu đồng, Pro Max giảm đến 8 triệu, trở thành lựa chọn hiệu năng trên giá thành tốt nhất."

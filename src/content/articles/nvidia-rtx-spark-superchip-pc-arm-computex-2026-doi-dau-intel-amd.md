@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nvidia-rtx-spark-superchip-pc-arm-computex-2026-doi-dau-intel-amd"
 title: "Nvidia RTX Spark: superchip ARM cho PC, đối đầu Intel và AMD"
 description: "Nvidia chính thức bước vào thị trường vi xử lý PC với RTX Spark Superchip công bố tại Computex 2026."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi"
 title: "Gartner cảnh báo giá máy tính tăng 17%, điện thoại tăng 13% trong 2026: nên mua gì lúc này?"
 description: "Gartner dự báo giá máy tính toàn cầu 2026 tăng khoảng 17%, điện thoại 13% do cơn khát chip nhớ AI. Vì sao giá tăng và người dùng Việt nên mua gì bây giờ."

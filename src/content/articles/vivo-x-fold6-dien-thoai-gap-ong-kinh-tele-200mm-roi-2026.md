@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "vivo-x-fold6-dien-thoai-gap-ong-kinh-tele-200mm-roi-2026"
 title: "vivo X Fold6: điện thoại gập đầu tiên có ống kính tele 200mm rời, pin 7.000mAh"
 description: "vivo X Fold6 ra mắt với ống kính tele 200mm rời gắn ngoài, pin silicon-carbon 7.000mAh, chip Dimensity 9500 Super Edition, camera chính 200MP, giá từ 1.176 USD."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-mousepad-gaming-dang-mua-thang-7-2026"
 title: "Top mousepad gaming đáng mua tháng 7/2026"
 description: "Gợi ý mousepad gaming đáng mua tháng 7/2026: mousepad vải giá tốt cho kiểm soát tốt, mousepad cỡ lớn tầm trung, mousepad kính cao cấp tốc độ trượt nhanh."

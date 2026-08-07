@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "gopro-mission-1-pro-camera-hanh-dong-cam-bien-1-inch-2026"
 title: "GoPro Mission 1 Pro: camera hành động đầu tiên có cảm biến 1 inch, quay 8K60, giá 599 USD"
 description: "GoPro Mission 1 Pro trang bị cảm biến 50MP kích thước 1 inch lớn nhất từng có trên camera hành động, quay 8K60, 4K240fps, ống kính tháo rời, giá từ 599 USD."

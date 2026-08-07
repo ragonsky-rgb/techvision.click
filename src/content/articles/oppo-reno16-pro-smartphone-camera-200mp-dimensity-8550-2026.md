@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "oppo-reno16-pro-smartphone-camera-200mp-dimensity-8550-2026"
 title: "OPPO Reno16 Pro: smartphone camera 200MP, chip Dimensity 8550 vừa ra mắt toàn cầu"
 description: "OPPO Reno16 Pro ra mắt toàn cầu với camera chính 200MP, chip Dimensity 8550, pin 6.700mAh sạc 80W, màn hình AMOLED 144Hz, mặt lưng thiết kế 3D nổi bật."

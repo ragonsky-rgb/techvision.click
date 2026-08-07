@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "oppo-find-x9-ultra-camera-multispectral-danxia-2026"
 title: "OPPO Find X9 Ultra: camera đa phổ Danxia mà các flagship khác đều bỏ quên"
 description: "OPPO Find X9 Ultra dùng cảm biến màu đa phổ Danxia 3,2MP độc quyền, camera chính kép 200MP, tele 10x zoom quang học tương đương 20x, video 8K30."

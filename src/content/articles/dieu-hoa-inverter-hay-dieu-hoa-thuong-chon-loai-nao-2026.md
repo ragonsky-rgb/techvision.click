@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dieu-hoa-inverter-hay-dieu-hoa-thuong-chon-loai-nao-2026"
 title: "Điều hòa inverter hay điều hòa thường 2026?"
 description: "So sánh điều hòa inverter và điều hòa thường 2026: tiết kiệm điện, độ bền nhiệt độ, độ ồn, thời gian dùng và giá, giúp bạn chọn đúng loại máy lạnh theo nhu cầu."

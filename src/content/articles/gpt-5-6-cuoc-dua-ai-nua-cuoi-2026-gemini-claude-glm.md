@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "gpt-5-6-cuoc-dua-ai-nua-cuoi-2026-gemini-claude-glm"
 title: "GPT-5.6 và cuộc đua mô hình AI nửa cuối 2026: OpenAI, Gemini, Claude và làn sóng Trung Quốc"
 description: "Tin đồn GPT-5.6 sắp ra mắt cùng loạt cập nhật Gemini 3.1, Claude Opus 4.7 và mô hình giá rẻ GLM-5.2 của Trung Quốc định hình lại cuộc đua AI nửa cuối 2026."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ford-ranger-2026-ra-mat-viet-nam-gia-707-trieu"
 title: "Ford Ranger 2026 ra mắt Việt Nam: giá từ 707 triệu, có gì mới"
 description: "Ford Ranger 2026 ra mắt Việt Nam với 5 phiên bản giá 707 triệu tới 1,448 tỷ đồng, toàn bộ dùng hộp số tự động 10 cấp, bàn giao xe từ tháng 7/2026."

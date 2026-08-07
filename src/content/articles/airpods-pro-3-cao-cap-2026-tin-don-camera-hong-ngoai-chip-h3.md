@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "airpods-pro-3-cao-cap-2026-tin-don-camera-hong-ngoai-chip-h3"
 title: "AirPods Pro bản cao cấp 2026: tin đồn camera hồng ngoại, chip H3, điều khiển cử chỉ"
 description: "Tin đồn AirPods Pro bản cao cấp 2026 có camera hồng ngoại hỗ trợ AI, chip H3, điều khiển bằng cử chỉ tay và GymKit qua iOS 27. Apple chưa xác nhận"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-thiet-bi-dich-thuat-ai-dang-mua-thang-7-2026"
 title: "Top thiết bị dịch thuật AI đáng mua tháng 7/2026"
 description: "Gợi ý thiết bị dịch thuật AI đáng mua tháng 7/2026: ứng dụng dịch miễn phí cho người mới, tai nghe true wireless tích hợp dịch, và TimeKettle W4 Pro cao cấp."

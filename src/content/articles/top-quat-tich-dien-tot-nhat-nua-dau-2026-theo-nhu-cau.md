@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-quat-tich-dien-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top quạt tích điện tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Cẩm nang chọn quạt tích điện tốt nhất nửa đầu 2026 theo nhu cầu: quạt cầm tay mini, quạt để bàn và đứng, thời lượng pin cùng công suất gió cho mùa hè."

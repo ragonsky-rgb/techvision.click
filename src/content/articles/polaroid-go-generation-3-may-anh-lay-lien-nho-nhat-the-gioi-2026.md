@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "polaroid-go-generation-3-may-anh-lay-lien-nho-nhat-the-gioi-2026"
 title: "Polaroid Go Generation 3: máy ảnh lấy liền nhỏ nhất thế giới, ống kính mới, đèn flash Xenon"
 description: "Polaroid Go Generation 3 nâng cấp ống kính 63,75mm và đèn flash Xenon mạnh hơn, khắc phục nhược điểm ảnh mờ, thiếu sáng của các thế hệ trước, giá 89,99 USD."

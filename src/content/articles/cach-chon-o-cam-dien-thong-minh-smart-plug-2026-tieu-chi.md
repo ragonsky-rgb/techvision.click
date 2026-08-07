@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-o-cam-dien-thong-minh-smart-plug-2026-tieu-chi"
 title: "Cách chọn ổ cắm điện thông minh (smart plug) 2026: 5 tiêu chí quan trọng trước khi mua"
 description: "Hướng dẫn chọn ổ cắm điện thông minh năm 2026: khả năng theo dõi điện năng, tích hợp Matter, độ trễ phản hồi, công suất chịu tải và mức giá phù hợp nhu cầu."

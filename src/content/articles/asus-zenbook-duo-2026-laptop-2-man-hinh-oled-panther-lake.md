@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "asus-zenbook-duo-2026-laptop-2-man-hinh-oled-panther-lake"
 title: "ASUS Zenbook Duo 2026: laptop 2 màn hình OLED 144Hz, bản lề mới mỏng 8,28mm"
 description: "ASUS Zenbook Duo 2026 nâng cấp bản lề mỏng 8,28mm, 2 màn hình OLED 14 inch 144Hz 1.000 nit, chip Intel Core Ultra Series 3 Panther Lake, giá từ 2.299 USD."

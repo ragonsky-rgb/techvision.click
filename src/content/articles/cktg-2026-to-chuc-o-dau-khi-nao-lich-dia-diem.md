@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cktg-2026-to-chuc-o-dau-khi-nao-lich-dia-diem"
 title: "CKTG 2026 tổ chức ở đâu, khi nào? Chung kết tại New York 14/11"
 description: "CKTG 2026 diễn ra tại Mỹ từ 15/10 đến 14/11: khởi động ở Los Angeles, vòng Thụy Sĩ tại Texas, chung kết tại Barclays Center New York. 19 đội tham dự."

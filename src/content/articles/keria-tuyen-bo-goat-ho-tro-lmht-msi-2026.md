@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "keria-tuyen-bo-goat-ho-tro-lmht-msi-2026"
 title: "Keria tuyên bố là GOAT hỗ trợ LMHT sau chiến thắng KC tại MSI 2026"
 description: "Tuyển thủ hỗ trợ Keria của T1 tuyên bố là GOAT hỗ trợ Liên Minh Huyền Thoại sau chiến thắng trước Karmine Corp tại MSI 2026, gây tranh luận trong cộng đồng."

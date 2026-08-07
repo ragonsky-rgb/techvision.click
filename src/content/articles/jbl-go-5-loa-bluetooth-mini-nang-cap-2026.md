@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "jbl-go-5-loa-bluetooth-mini-nang-cap-2026"
 title: "JBL Go 5: loa Bluetooth mini nâng cấp Bluetooth 6.0, đèn viền, giá từ 1,5 triệu"
 description: "JBL Go 5 nâng cấp Bluetooth 6.0, chuẩn IP68, ghép đôi stereo AirTouch, đèn viền cảm ứng, pin 10 giờ với Playtime Boost, giá tại Việt Nam từ khoảng 1,5 triệu."

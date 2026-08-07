@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "spotify-ai-2026-prompted-playlist-taste-profile-minh-bach-ai"
 title: "Spotify đẩy mạnh AI 2026: tạo playlist bằng lời, hồ sơ gu nghe, minh bạch AI"
 description: "Spotify mở rộng tính năng AI năm 2026: tạo playlist bằng mô tả ngôn ngữ tự nhiên, hồ sơ Taste Profile cho người nghe tinh chỉnh gợi ý, và nhãn minh bạch nhạc AI"

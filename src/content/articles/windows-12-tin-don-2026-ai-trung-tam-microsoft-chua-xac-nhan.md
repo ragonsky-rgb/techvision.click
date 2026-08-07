@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "windows-12-tin-don-2026-ai-trung-tam-microsoft-chua-xac-nhan"
 title: "Windows 12: tin đồn 2026 về hệ điều hành lấy AI làm trung tâm"
 description: "Tổng hợp tin đồn về Windows 12: có thể ra cuối 2026 với AI làm trung tâm, Copilot tích hợp toàn hệ thống, yêu cầu NPU. Lưu ý Microsoft chưa xác nhận chính thức"

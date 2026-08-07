@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-tay-cam-choi-game-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top tay cầm chơi game tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Tay cầm chơi game tốt nhất nửa đầu 2026 theo nhu cầu: Xbox Wireless, DualSense, 8BitDo Ultimate 2, GameSir G7 Pro, Flydigi Vader 4 Pro, GuliKit KingKong 3 Max"

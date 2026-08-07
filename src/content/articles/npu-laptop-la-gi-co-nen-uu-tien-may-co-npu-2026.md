@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "npu-laptop-la-gi-co-nen-uu-tien-may-co-npu-2026"
 title: "NPU laptop là gì, năm 2026 có nên ưu tiên máy có NPU?"
 description: "NPU là bộ xử lý AI trên laptop, đo bằng TOPS. Bài giải thích NPU là gì, ngưỡng 40 TOPS của Copilot+ PC và có nên ưu tiên NPU khi mua laptop 2026 hay không."

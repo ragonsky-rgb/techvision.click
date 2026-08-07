@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "bin-thach-dau-zeus-blg-hle-msi-2026-chung-ket-nhanh-thang"
 title: "Bin gửi chiến thư tới Zeus trước đại chiến BLG vs HLE, chung kết nhánh thắng MSI 2026"
 description: "Bin của BLG thách đấu Zeus 1-1 trước trận chung kết nhánh thắng MSI 2026 ngày 9/7, cuộc tái ngộ được chờ đợi nhất giữa hai đường trên hàng đầu thế giới."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "soundcore-liberty-5-pro-max-tai-nghe-hop-sac-man-hinh-amoled-2026"
 title: "Soundcore Liberty 5 Pro Max: tai nghe true wireless với hộp sạc màn hình AMOLED, giá 229,99 USD"
 description: "Soundcore Liberty 5 Pro Max có hộp sạc màn hình AMOLED 1,78 inch, tính năng AI ghi chú giọng nói, đạt kỷ lục Guinness về chất lượng đàm thoại, giá 229,99 USD."

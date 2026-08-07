@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apple-macbook-pro-m5-pro-max-2026-hieu-nang-ai-gpu-neural-accelerator"
 title: "Apple MacBook Pro M5 Pro và M5 Max: GPU có Neural Accelerator, AI gấp 4 lần"
 description: "Apple ra mắt MacBook Pro với chip M5 Pro và M5 Max: CPU nhanh hàng đầu, GPU thế hệ mới gắn Neural Accelerator mỗi nhân cho hiệu năng AI gấp 4 lần đời trước"

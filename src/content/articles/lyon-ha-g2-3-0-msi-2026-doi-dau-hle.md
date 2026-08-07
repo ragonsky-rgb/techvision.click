@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "lyon-ha-g2-3-0-msi-2026-doi-dau-hle"
 title: "LYON gây địa chấn, quét sạch G2 3-0 tại MSI 2026, chờ đấu HLE"
 description: "LYON đánh bại G2 Esports với tỉ số 3-0 ở nhánh thua MSI 2026, tiễn đại diện LEC về nước, chuẩn bị đối đầu HLE tranh vé cuối vào chung kết tổng."

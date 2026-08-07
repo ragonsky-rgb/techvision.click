@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung"
 title: "Sạc không dây là gì? Có hại pin không và có nên dùng?"
 description: "Đặt máy lên đế là sạc, không cần cắm dây: sạc không dây ngày càng phổ biến trên điện thoại từ tầm trung tới cao cấp."

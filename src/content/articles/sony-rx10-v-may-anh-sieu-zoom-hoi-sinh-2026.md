@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sony-rx10-v-may-anh-sieu-zoom-hoi-sinh-2026"
 title: "Sony RX10 V: máy ảnh siêu zoom hồi sinh sau 9 năm, 4K 120p, zoom 25x"
 description: "Sony chính thức hồi sinh dòng RX10 sau 9 năm với RX10 V, ống kính ZEISS 24-600mm f2.4-4, quay 4K 120p, chụp liên tục 30fps, giá 2.299,99 USD."

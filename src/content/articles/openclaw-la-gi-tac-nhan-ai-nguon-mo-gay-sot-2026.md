@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "openclaw-la-gi-tac-nhan-ai-nguon-mo-gay-sot-2026"
 title: "OpenClaw là gì? Tác nhân AI nguồn mở gây sốt 2026"
 description: "OpenClaw là gì, vì sao tác nhân AI nguồn mở này đạt hơn 214.000 sao GitHub, kết nối Zalo, Telegram và tự làm việc thay cho bạn."

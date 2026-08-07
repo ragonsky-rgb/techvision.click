@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "meta-ray-ban-kinh-thong-minh-2026-cap-nhat-ai-muse-spark-nhan-dien-khuon-mat"
 title: "Kính Meta Ray-Ban 2026: cập nhật AI Muse Spark và tranh cãi nhận diện khuôn mặt"
 description: "Kính Meta Ray-Ban nhận loạt cập nhật mùa hè 2026: tóm tắt WhatsApp rảnh tay, viết tay thần kinh, AI Muse Spark. Wired nêu lo ngại về mã nhận diện khuôn mặt"

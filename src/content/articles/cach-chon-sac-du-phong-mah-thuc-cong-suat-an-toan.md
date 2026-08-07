@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan"
 title: "Cách chọn sạc dự phòng: dung lượng thực, công suất và an toàn"
 description: "Sạc dự phòng 10.000mAh nhưng sạc đầy điện thoại chưa được hai lần? Đó không hẳn là hàng dởm, mà do cách tính dung lượng."

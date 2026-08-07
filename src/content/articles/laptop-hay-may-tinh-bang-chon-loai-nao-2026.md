@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "laptop-hay-may-tinh-bang-chon-loai-nao-2026"
 title: "Laptop hay máy tính bảng: chọn loại nào 2026?"
 description: "So sánh laptop và máy tính bảng 2026: hiệu năng, tính di động, cách nhập liệu và giá, giúp bạn chọn đúng thiết bị cho học tập và làm việc theo nhu cầu."

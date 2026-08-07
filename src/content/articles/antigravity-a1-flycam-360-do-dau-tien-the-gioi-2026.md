@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "antigravity-a1-flycam-360-do-dau-tien-the-gioi-2026"
 title: "Antigravity A1: flycam quay 360 độ đầu tiên thế giới, điều khiển bằng kính và cần cầm tay"
 description: "Antigravity A1 là flycam 360 độ 8K đầu tiên trên thị trường tiêu dùng, điều khiển bằng kính thực tế ảo và cần cầm tay, giá từ 1.599 USD."

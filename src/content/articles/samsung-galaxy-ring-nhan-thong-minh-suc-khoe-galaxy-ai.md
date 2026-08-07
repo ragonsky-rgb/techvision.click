@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-galaxy-ring-nhan-thong-minh-suc-khoe-galaxy-ai"
 title: "Samsung Galaxy Ring: nhẫn thông minh theo dõi sức khỏe, pin 6 ngày"
 description: "Samsung Galaxy Ring là nhẫn thông minh theo dõi sức khỏe tích hợp Galaxy AI: đo nhịp tim, HRV, SpO2, giấc ngủ, khung titanium, pin tới 6 ngày"

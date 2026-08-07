@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "asus-rog-zephyrus-g14-2026-doi-sang-intel-panther-lake"
 title: "ASUS ROG Zephyrus G14 2026: chia tay AMD sau 6 năm, chuyển sang Intel Panther Lake"
 description: "ASUS ROG Zephyrus G14 2026 chuyển từ AMD sang chip Intel Panther Lake, màn hình OLED 3K 120Hz, RTX 5080, pin dùng lâu hơn 86% so với thế hệ trước."

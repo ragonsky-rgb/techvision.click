@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nothing-headphone-a-tai-nghe-chup-tai-pin-5-ngay-2026"
 title: "Nothing Headphone (a): tai nghe chụp tai pin 5 ngày, giá 199 USD"
 description: "Nothing Headphone (a) là tai nghe chụp tai chống ồn chủ động ANC, hỗ trợ LDAC Hi-Res, pin dùng tới 5 ngày, chuẩn kháng nước IP52, giá bán 199 USD."

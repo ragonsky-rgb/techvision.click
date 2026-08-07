@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-loa-soundbar-dan-am-thanh-xem-phim-tai-nha-2026"
 title: "Cách chọn loa soundbar, dàn âm thanh xem phim tại nhà 2026"
 description: "Hướng dẫn chọn loa soundbar phù hợp năm 2026: số kênh âm thanh, hỗ trợ Dolby Atmos, kết nối HDMI eARC, loa siêu trầm và cách bố trí đúng chuẩn"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "meta-khai-tu-muse-image-tranh-cai-quyen-rieng-tu-2026"
 title: "Meta khai tử tính năng AI tạo ảnh Muse Image chỉ sau vài ngày vì tranh cãi quyền riêng tư"
 description: "Meta gỡ bỏ tính năng AI tạo ảnh Muse Image chỉ 4 ngày sau ra mắt, do dùng ảnh Instagram công khai làm dữ liệu tham chiếu mà không cần người dùng đồng ý."

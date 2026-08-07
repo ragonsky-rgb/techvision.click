@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-ram-may-tinh-2026-tieu-chi"
 title: "Cách chọn RAM máy tính 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn RAM máy tính 2026: DDR4 hay DDR5, dung lượng phù hợp nhu cầu, tốc độ bus, độ trễ CAS latency và khả năng tương thích bo mạch chủ."

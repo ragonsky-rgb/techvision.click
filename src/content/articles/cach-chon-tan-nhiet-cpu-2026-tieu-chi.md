@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-tan-nhiet-cpu-2026-tieu-chi"
 title: "Cách chọn tản nhiệt CPU 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn tản nhiệt CPU 2026: tản khí hay AIO nước, công suất tản nhiệt TDP phù hợp CPU, kích thước tương thích case, độ ồn quạt và độ bền lâu dài."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sac-khong-day-hay-sac-co-day-chon-loai-nao-2026"
 title: "Sạc không dây hay sạc có dây: chọn loại nào 2026?"
 description: "So sánh sạc không dây và sạc có dây 2026: tốc độ sạc, sự tiện lợi, nhiệt độ, hiệu suất và giá, giúp bạn chọn đúng cách sạc điện thoại theo nhu cầu hằng ngày."

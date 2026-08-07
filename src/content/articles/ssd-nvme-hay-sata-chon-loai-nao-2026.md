@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ssd-nvme-hay-sata-chon-loai-nao-2026"
 title: "SSD NVMe hay SATA: nên chọn loại nào 2026?"
 description: "So sánh SSD NVMe và SATA 2026: tốc độ, giá, khả năng tương thích và khi nào cần NVMe, giúp bạn chọn đúng ổ cứng SSD cho máy tính theo nhu cầu và ngân sách."

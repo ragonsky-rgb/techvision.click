@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ai-trong-giao-duc-viet-nam-2026-day-hoc-truong-pho-thong"
 title: "AI trong giáo dục Việt Nam 2026: đẩy mạnh dạy và học bằng trí tuệ nhân tạo"
 description: "Năm học 2025-2026, Bộ GD&ĐT đẩy mạnh giáo dục AI cho học sinh, các trường tăng ứng dụng AI và dữ liệu lớn trong quản lý và dạy học"

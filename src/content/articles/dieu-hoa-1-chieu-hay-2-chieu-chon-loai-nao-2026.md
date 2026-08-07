@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dieu-hoa-1-chieu-hay-2-chieu-chon-loai-nao-2026"
 title: "Điều hòa 1 chiều hay 2 chiều: chọn loại nào 2026?"
 description: "So sánh điều hòa 1 chiều và 2 chiều 2026: khả năng sưởi ấm, khí hậu vùng miền, chi phí và giá, giúp bạn chọn đúng loại điều hòa cho gia đình."

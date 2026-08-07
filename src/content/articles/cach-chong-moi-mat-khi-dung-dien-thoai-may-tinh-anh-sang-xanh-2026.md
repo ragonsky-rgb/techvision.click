@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chong-moi-mat-khi-dung-dien-thoai-may-tinh-anh-sang-xanh-2026"
 title: "Cách chống mỏi mắt khi dùng điện thoại, máy tính: 8 mẹo bảo vệ mắt 2026"
 description: "Chống mỏi mắt khi dùng điện thoại, máy tính 2026: quy tắc 20-20-20, bật lọc ánh sáng xanh, chỉnh độ sáng, khoảng cách và nhiều mẹo bảo vệ mắt"

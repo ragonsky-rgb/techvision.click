@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "free-fire-ewc-2026-esports-world-cup-vong-bang"
 title: "Free Fire tại EWC 2026: vòng bảng, 24 đội, sức nóng VN"
 description: "Free Fire bước vào Esports World Cup 2026 với vòng bảng ngày 15 và 16/7, 24 đội và 120 tuyển thủ tranh tài, phát trực tiếp trên kênh Free Fire Esports Việt Nam."

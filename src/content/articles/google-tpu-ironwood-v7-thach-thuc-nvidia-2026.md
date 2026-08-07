@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "google-tpu-ironwood-v7-thach-thuc-nvidia-2026"
 title: "Google TPU Ironwood v7: chip AI mạnh gấp 24 lần siêu máy tính, thách thức Nvidia"
 description: "Google Ironwood TPU v7 đạt 4,6 petaflops mỗi chip, Anthropic đặt mua tới 1 triệu chip, trực tiếp thách thức vị thế thống trị của Nvidia trên thị trường chip AI."

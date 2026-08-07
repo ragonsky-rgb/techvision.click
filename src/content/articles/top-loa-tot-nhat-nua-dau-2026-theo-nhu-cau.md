@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-loa-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top loa tốt nhất nửa đầu 2026 theo từng nhu cầu"
 description: "Tổng hợp loa tốt nhất nửa đầu 2026 theo nhu cầu: loa bluetooth di động, loa thông minh, soundbar xem phim và loa máy tính gaming, từ JBL Go 5 tới Bose."

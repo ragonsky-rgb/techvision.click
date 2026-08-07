@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "meta-xay-dam-may-ban-nang-luc-ai-du-thua-2026"
 title: "Meta xây dịch vụ đám mây bán năng lực AI dư thừa"
 description: "Meta lên kế hoạch xây dịch vụ đám mây bán năng lực tính toán AI dư thừa, theo Bloomberg. Động thái khiến cổ phiếu CoreWeave, Nebius lao dốc."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "codec-bluetooth-aac-aptx-ldac-la-gi-chon-tai-nghe-khong-day"
 title: "Codec Bluetooth AAC, aptX, LDAC là gì? Chọn tai nghe không dây sao cho đúng"
 description: "SBC, AAC, aptX, LDAC: bảng thông số tai nghe không dây đầy những cái tên codec khó hiểu."

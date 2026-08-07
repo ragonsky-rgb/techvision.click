@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-chuot-gaming-dang-mua-thang-7-2026"
 title: "Top chuột gaming đáng mua tháng 7/2026: 5 lựa chọn nổi bật"
 description: "Tổng hợp chuột gaming đáng cân nhắc tháng 7/2026: Razer Viper V4 Pro, Logitech G Pro X2 Superstrike, Glorious Model O Eternal, so sánh giá và tính năng."

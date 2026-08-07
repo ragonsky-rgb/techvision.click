@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "openai-jalapeno-chip-ai-dau-tien-hop-tac-broadcom-2026"
 title: "OpenAI ra mắt Jalapeño: chip AI đầu tiên hợp tác cùng Broadcom"
 description: "OpenAI công bố Jalapeño, chip AI đầu tiên tự thiết kế hợp tác cùng Broadcom, tối ưu cho suy luận mô hình ngôn ngữ lớn, phát triển chỉ trong 9 tháng."

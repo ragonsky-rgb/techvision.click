@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-keo-dai-tuoi-tho-pin-laptop-sac-dung-cach-2026"
 title: "Cách kéo dài tuổi thọ pin laptop: 8 thói quen sạc đúng tránh chai pin"
 description: "Pin là linh kiện hao mòn theo thời gian, nhưng cách dùng và sạc hằng ngày quyết định pin laptop bền được bao lâu."

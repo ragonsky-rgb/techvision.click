@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026"
 title: "iPhone 18 tăng giá vì bộ nhớ AI: 12GB RAM, nên mua hay chờ?"
 description: "Cơn khát bộ nhớ của các trung tâm dữ liệu AI đang tràn sang gadget tiêu dùng, và iPhone 18 là một trong những sản phẩm chịu sức ép giá rõ nhất."

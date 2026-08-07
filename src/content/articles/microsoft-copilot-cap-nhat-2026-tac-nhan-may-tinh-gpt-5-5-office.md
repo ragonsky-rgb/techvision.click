@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "microsoft-copilot-cap-nhat-2026-tac-nhan-may-tinh-gpt-5-5-office"
 title: "Microsoft Copilot nâng cấp 2026: tác nhân điều khiển máy tính, GPT-5.5 trong Office"
 description: "Microsoft Copilot 2026 bổ sung tác nhân điều khiển máy tính, đưa GPT-5.5 vào Word, Excel, PowerPoint, mở rộng Copilot Chat trong Teams, tối ưu chi phí"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "harmonyos-7-huawei-co-gi-moi-xiaoyi-ai-agent-thiet-ke-khong-gian"
 title: "HarmonyOS 7 của Huawei có gì mới: trợ lý Xiaoyi thành AI agent, thiết kế không gian"
 description: "HarmonyOS 7 ra mắt tại HDC 2026: Xiaoyi thành AI agent cấp hệ thống, thiết kế không gian 3D, hiệu năng tăng 15% và mô hình openPangu 2.0."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "openai-codex-micro-ban-phim-ai-230-usd-dieu-khien-agent-2026"
 title: "OpenAI Codex Micro: bàn phím AI 230 USD đầu tiên có gì?"
 description: "OpenAI ra mắt Codex Micro, phần cứng đầu tiên của hãng: bàn phím 230 USD điều khiển agent lập trình, có phím agent phát sáng và núm chỉnh mức suy luận."

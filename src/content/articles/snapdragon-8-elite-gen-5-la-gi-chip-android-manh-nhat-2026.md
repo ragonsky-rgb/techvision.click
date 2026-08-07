@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "snapdragon-8-elite-gen-5-la-gi-chip-android-manh-nhat-2026"
 title: "Snapdragon 8 Elite Gen 5 là gì? Chip Android mạnh nhất 2026"
 description: "Snapdragon 8 Elite Gen 5 là chip đầu bảng của Qualcomm cho flagship Android 2026, có mặt trên Galaxy Z Fold 8, S26 Ultra và Xiaomi 17. Giải thích dễ hiểu."

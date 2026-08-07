@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack"
 title: "Cách bật xác thực 2 lớp (2FA) bảo vệ tài khoản khỏi hack"
 description: "Mật khẩu mạnh thôi chưa đủ."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "openai-gpt-5-6-sol-terra-luna-chinh-thuc-mo-chatgpt-work-2026"
 title: "GPT-5.6 chính thức mở cho tất cả: ba mức Sol, Terra, Luna và agent ChatGPT Work"
 description: "OpenAI mở rộng rãi GPT-5.6 ngày 9/7/2026 với ba mức Sol, Terra, Luna cùng agent ChatGPT Work, giá API từ 1 USD mỗi triệu token đầu vào."

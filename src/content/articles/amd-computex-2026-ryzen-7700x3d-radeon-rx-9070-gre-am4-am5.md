@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "amd-computex-2026-ryzen-7700x3d-radeon-rx-9070-gre-am4-am5"
 title: "AMD tại Computex 2026: Ryzen 7700X3D, Radeon RX 9070 GRE, AM5 tới 2029"
 description: "AMD công bố tại Computex 2026: Ryzen 7 7700X3D giá 329 USD, Ryzen 5800X3D bản kỷ niệm cho AM4, card RX 9070 GRE 549 USD và cam kết hỗ trợ AM5 tới 2029"

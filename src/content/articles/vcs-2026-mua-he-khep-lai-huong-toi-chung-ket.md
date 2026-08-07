@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "vcs-2026-mua-he-khep-lai-huong-toi-chung-ket"
 title: "VCS 2026 mùa Hè khép lại: Saigon Warriors, Saigon Dino tranh vé thẳng vào giai đoạn Chung Kết"
 description: "VCS 2026 mùa Hè kết thúc ngày 20/6 với trận chung kết Saigon Warriors gặp Saigon Dino, tranh vé trực tiếp vào giai đoạn Chung Kết cùng Saigon MVK Academy."

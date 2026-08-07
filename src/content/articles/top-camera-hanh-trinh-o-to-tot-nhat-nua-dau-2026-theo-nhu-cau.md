@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-camera-hanh-trinh-o-to-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top camera hành trình ô tô tốt nhất nửa đầu 2026"
 description: "Cẩm nang chọn camera hành trình ô tô tốt nhất nửa đầu 2026 theo nhu cầu: camera kép trước sau, độ phân giải cao đọc biển số, giám sát đỗ xe và cách chọn."

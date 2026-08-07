@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026"
 title: "HUAWEI Watch GT 6 ra mắt Việt Nam: pin 21 ngày, độ sáng 3000 nit, từ 4,99 triệu"
 description: "HUAWEI Watch GT 6 Series chính thức ra mắt Việt Nam, pin dùng tới 21 ngày, màn AMOLED độ sáng 3000 nit, hơn 100 chế độ tập luyện, giá từ 4,99 triệu đồng."

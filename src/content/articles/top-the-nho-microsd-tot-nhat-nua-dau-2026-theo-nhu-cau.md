@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-the-nho-microsd-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top thẻ nhớ microSD tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Cẩm nang chọn thẻ nhớ microSD tốt nhất nửa đầu 2026 theo nhu cầu: cho camera quay video, flycam action cam, điện thoại máy chơi game và cách chọn theo tốc độ."

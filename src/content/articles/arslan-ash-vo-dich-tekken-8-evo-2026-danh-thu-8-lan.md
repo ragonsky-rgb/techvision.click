@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "arslan-ash-vo-dich-tekken-8-evo-2026-danh-thu-8-lan"
 title: "Arslan Ash vô địch Tekken 8 EVO 2026, danh hiệu thứ 8"
 description: "Arslan Ash vô địch Tekken 8 tại EVO 2026, đánh bại Rangchu 3-2 ở chung kết, cân bằng kỷ lục 8 lần vô địch EVO sau mạch bất bại 11-0 qua 1.355 tuyển thủ."

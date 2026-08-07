@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "chuan-khang-nuoc-ip68-ip67-ip69-la-gi-dien-thoai-chong-nuoc-that-khong"
 title: "Chuẩn kháng nước IP68, IP67, IP69 là gì? Điện thoại có chống nước thật không?"
 description: "IP67, IP68, IP69: các con số kháng nước xuất hiện trên hầu hết điện thoại đời mới khiến nhiều người yên tâm mang máy ra mưa hay xuống hồ bơi."

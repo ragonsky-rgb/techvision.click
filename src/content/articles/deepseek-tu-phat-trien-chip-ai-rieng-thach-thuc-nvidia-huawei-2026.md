@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "deepseek-tu-phat-trien-chip-ai-rieng-thach-thuc-nvidia-huawei-2026"
 title: "DeepSeek tự phát triển chip AI riêng, giảm phụ thuộc Nvidia và Huawei"
 description: "DeepSeek được cho là đã âm thầm thiết kế chip AI suy luận riêng, nhằm giảm phụ thuộc Nvidia và Huawei, khiến cổ phiếu Nvidia giảm ngay khi tin lan ra."

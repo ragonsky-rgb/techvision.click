@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-den-thong-minh-dang-mua-thang-7-2026"
 title: "Top đèn thông minh đáng mua tháng 7/2026"
 description: "Gợi ý đèn thông minh đáng mua tháng 7/2026: Xiaomi Philips giá tốt, Yeelight tầm trung đa dạng, Philips Hue cao cấp cho hệ sinh thái nhà thông minh."

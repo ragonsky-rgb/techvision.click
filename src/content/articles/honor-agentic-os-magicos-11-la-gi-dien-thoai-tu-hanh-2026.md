@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "honor-agentic-os-magicos-11-la-gi-dien-thoai-tu-hanh-2026"
 title: "HONOR Agentic OS là gì, MagicOS 11 đổi cách dùng máy ra sao?"
 description: "HONOR công bố kiến trúc Agentic OS trong tháng 7/2026, đưa tới người dùng qua MagicOS 11 với cách điều hướng theo ý định thay vì theo ứng dụng."

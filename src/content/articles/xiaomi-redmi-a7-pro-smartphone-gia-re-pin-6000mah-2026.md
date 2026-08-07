@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "xiaomi-redmi-a7-pro-smartphone-gia-re-pin-6000mah-2026"
 title: "Xiaomi Redmi A7 Pro: smartphone giá rẻ pin 6.000mAh cho thị trường mới nổi"
 description: "Xiaomi ra mắt Redmi A7 Pro, smartphone giá rẻ với pin 6.000mAh, chip Unisoc T7250, giá khởi điểm khoảng 101 USD, kế nhiệm dòng Redmi A5 phổ biến."

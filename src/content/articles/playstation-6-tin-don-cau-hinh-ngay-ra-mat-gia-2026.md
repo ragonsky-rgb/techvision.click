@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "playstation-6-tin-don-cau-hinh-ngay-ra-mat-gia-2026"
 title: "PlayStation 6: tin đồn cấu hình, ngày ra mắt và giá bán"
 description: "Tin đồn PlayStation 6: chip TSMC 2nm, CPU AMD Zen 6, GPU RDNA 5, RAM GDDR7, có thể lùi lịch sang 2028 vì khủng hoảng bộ nhớ. Sony chưa xác nhận."

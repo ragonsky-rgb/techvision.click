@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026"
 title: "Cách viết prompt AI hiệu quả: công thức cho ChatGPT, Gemini và Claude"
 description: "Cùng một công cụ AI, người biết viết prompt nhận kết quả vượt trội so với người chỉ hỏi qua loa."

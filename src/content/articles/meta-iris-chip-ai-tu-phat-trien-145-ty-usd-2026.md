@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "meta-iris-chip-ai-tu-phat-trien-145-ty-usd-2026"
 title: "Meta sản xuất chip AI Iris từ tháng 9/2026, tham vọng giảm phụ thuộc Nvidia"
 description: "Meta sản xuất chip AI Iris từ tháng 9/2026, một phần kế hoạch chi 145 tỷ USD cho hạ tầng AI, nâng gấp đôi năng lực tính toán lên 14 gigawatt vào 2027."

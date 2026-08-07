@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-do-gia-dung-nha-bep-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top đồ gia dụng nhà bếp tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Cẩm nang chọn đồ gia dụng nhà bếp tốt nhất nửa đầu 2026 theo nhu cầu: nồi chiên không dầu, máy pha cà phê, nồi cơm điện, bếp từ và máy rửa bát cho gia đình."

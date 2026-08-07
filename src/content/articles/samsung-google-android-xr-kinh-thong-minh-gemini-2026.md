@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-google-android-xr-kinh-thong-minh-gemini-2026"
 title: "Samsung, Google giới thiệu kính thông minh Android XR tích hợp Gemini"
 description: "Samsung và Google công bố kính thông minh Android XR tích hợp trợ lý Gemini, hợp tác cùng Gentle Monster và Warby Parker, ra mắt mùa thu 2026."

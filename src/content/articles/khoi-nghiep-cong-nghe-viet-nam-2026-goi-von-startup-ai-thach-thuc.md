@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "khoi-nghiep-cong-nghe-viet-nam-2026-goi-von-startup-ai-thach-thuc"
 title: "Khởi nghiệp công nghệ Việt Nam 2026: gọi vốn khó, AI và agri-tech lên ngôi"
 description: "Khởi nghiệp công nghệ Việt Nam 2026: vốn mạo hiểm giảm xuống mức thấp nhiều năm, dòng tiền dồn giai đoạn sau, AI và agri-tech là hướng tăng trưởng"

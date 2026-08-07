@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "huawei-pura-90-series-ra-mat-toan-cau-200mp-zoom-2026"
 title: "Huawei Pura 90 series ra mắt toàn cầu: camera tele periscope 200MP, zoom 100x"
 description: "Huawei Pura 90 series ra mắt toàn cầu 14/7 tại Kuala Lumpur, camera tele periscope 200MP zoom quang 4x, Pura 90s Pro Max zoom số tới 100x, pin 6.500mAh."

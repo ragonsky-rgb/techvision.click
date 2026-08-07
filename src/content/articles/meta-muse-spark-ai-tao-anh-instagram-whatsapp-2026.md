@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "meta-muse-spark-ai-tao-anh-instagram-whatsapp-2026"
 title: "Meta tung Muse Spark: mô hình AI tạo ảnh tích hợp thẳng vào Instagram, WhatsApp"
 description: "Meta Superintelligence Labs ra mắt Muse Spark, mô hình AI tạo ảnh đầu tiên tích hợp vào Meta AI, Instagram Stories và WhatsApp, dùng ảnh công khai làm gợi ý."

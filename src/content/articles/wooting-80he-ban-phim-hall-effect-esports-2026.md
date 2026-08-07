@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "wooting-80he-ban-phim-hall-effect-esports-2026"
 title: "Wooting 80HE: bàn phím Hall Effect được nhiều tuyển thủ esports dùng nhất 2026"
 description: "Wooting 80HE dùng switch Hall Effect Lekker L60, polling 8KHz, Rapid Trigger, được 306 tuyển thủ chuyên nghiệp CS2, Valorant dùng làm bàn phím chính năm 2026."

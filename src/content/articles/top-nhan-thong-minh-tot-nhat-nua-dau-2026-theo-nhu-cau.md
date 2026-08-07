@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-nhan-thong-minh-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top nhẫn thông minh tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Top nhẫn thông minh nửa đầu 2026: Galaxy Ring, Oura Ring 4, Ultrahuman Ring Air, Circular Ring 2, RingConn Gen 2, Amazfit Helio Ring, chọn theo từng nhu cầu."

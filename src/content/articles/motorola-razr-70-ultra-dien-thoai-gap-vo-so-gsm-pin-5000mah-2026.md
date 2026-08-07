@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "motorola-razr-70-ultra-dien-thoai-gap-vo-so-gsm-pin-5000mah-2026"
 title: "Motorola Razr 70 Ultra: điện thoại gập vỏ sò pin 5.000mAh, màn hình phụ 4 inch"
 description: "Motorola Razr 70 Ultra nâng pin lên 5.000mAh, giữ chip Snapdragon 8 Elite, màn hình gập 7 inch 165Hz và màn hình phụ 4 inch, giá 1.500 USD tại Mỹ."

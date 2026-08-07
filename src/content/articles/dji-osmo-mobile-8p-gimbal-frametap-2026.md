@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dji-osmo-mobile-8p-gimbal-frametap-2026"
 title: "DJI Osmo Mobile 8P: gimbal điện thoại có remote FrameTap tháo rời, giá từ 159 Euro"
 description: "DJI Osmo Mobile 8P tích hợp remote FrameTap tháo rời điều khiển từ xa 10 mét, ActiveTrack 8.0, 4 chế độ quay điện ảnh mới, giá từ 159 Euro, không bán tại Mỹ."

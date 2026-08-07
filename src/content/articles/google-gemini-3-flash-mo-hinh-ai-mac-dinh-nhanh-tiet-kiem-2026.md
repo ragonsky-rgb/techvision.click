@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "google-gemini-3-flash-mo-hinh-ai-mac-dinh-nhanh-tiet-kiem-2026"
 title: "Google Gemini 3 Flash thành mô hình mặc định: nhanh hơn, rẻ hơn, mạnh hơn"
 description: "Google đưa Gemini 3 Flash làm mô hình mặc định trong app Gemini 2026, nâng cấp lớn so với 2.5 Flash. Gemini 3 Pro lên preview, Deep Think tăng suy luận"

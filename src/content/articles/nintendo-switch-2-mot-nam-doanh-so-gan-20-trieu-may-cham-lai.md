@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai"
 title: "Nintendo Switch 2 sau một năm: gần 20 triệu máy nhưng đà bán chậm lại"
 description: "Sau một năm bán ra, Nintendo Switch 2 đạt gần 20 triệu máy, trở thành máy chơi game bán nhanh nhất lịch sử Nintendo và có quý vượt cả PS5."

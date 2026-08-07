@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-tay-cam-choi-game-dang-mua-thang-7-2026"
 title: "Top tay cầm chơi game đáng mua tháng 7/2026"
 description: "Gợi ý tay cầm chơi game đáng mua tháng 7/2026: mẫu giá tốt đa nền tảng, DualSense với haptic tiên tiến, 8BitDo Ultimate 2 hoàn thiện cao cấp cho PC."

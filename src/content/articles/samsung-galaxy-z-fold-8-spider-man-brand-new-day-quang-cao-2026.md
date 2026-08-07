@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-galaxy-z-fold-8-spider-man-brand-new-day-quang-cao-2026"
 title: "Samsung bắt tay Spider-Man quảng bá Galaxy Z Fold 8"
 description: "Samsung hợp tác Sony Pictures cho phim Spider-Man: Brand New Day, tung loạt quảng cáo điện ảnh nhá hàng Galaxy Z Fold 8, Z Flip 8 trước thềm Unpacked 22/7."

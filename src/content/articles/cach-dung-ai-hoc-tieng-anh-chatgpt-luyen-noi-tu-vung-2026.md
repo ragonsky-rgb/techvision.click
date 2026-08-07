@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-dung-ai-hoc-tieng-anh-chatgpt-luyen-noi-tu-vung-2026"
 title: "Cách dùng AI học tiếng Anh: luyện nói, từ vựng, ngữ pháp với ChatGPT"
 description: "Hướng dẫn dùng AI như ChatGPT, Gemini để học tiếng Anh hiệu quả: luyện phản xạ nói, học từ vựng theo ngữ cảnh, sửa lỗi ngữ pháp và luyện phát âm"

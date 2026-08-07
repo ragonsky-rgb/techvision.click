@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-tai-nghe-khong-day-dang-mua-thang-7-2026"
 title: "Top tai nghe không dây đáng mua tháng 8/2026: chọn theo nhu cầu"
 description: "Gợi ý tai nghe không dây đáng mua tháng 8/2026: Sony WH-1000XM6, AirPods Pro 3 chống ồn, Galaxy Buds 3 Pro tầm trung cho từng nhu cầu sử dụng"

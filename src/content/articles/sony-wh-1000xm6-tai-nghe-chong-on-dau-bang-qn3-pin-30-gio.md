@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sony-wh-1000xm6-tai-nghe-chong-on-dau-bang-qn3-pin-30-gio"
 title: "Sony WH-1000XM6: tai nghe chống ồn đầu bảng, chip QN3, pin 30 giờ"
 description: "Sony WH-1000XM6 nâng cấp chống ồn với chip QN3 nhanh gấp 7 lần, 12 micro, pin 30 giờ, sạc nhanh 3 phút dùng 3 giờ, thiết kế gấp gọn nhẹ 254g"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "laptop-van-phong-mong-nhe-hay-laptop-gaming-chon-loai-nao-2026"
 title: "Laptop mỏng nhẹ hay laptop gaming: chọn loại nào 2026?"
 description: "So sánh laptop văn phòng mỏng nhẹ và laptop gaming 2026: hiệu năng, pin, tính di động, tản nhiệt và giá, giúp bạn chọn đúng laptop theo nhu cầu."

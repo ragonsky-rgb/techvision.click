@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026"
 title: "Nvidia bắt tay SK hynix làm bộ nhớ AI HBM4: vì sao giá RAM còn tăng?"
 description: "Nvidia và SK hynix vừa nâng quan hệ nhà cung cấp lâu năm thành một hợp tác chiến lược nhiều năm để cùng phát triển bộ nhớ thế hệ mới cho các nhà máy AI."

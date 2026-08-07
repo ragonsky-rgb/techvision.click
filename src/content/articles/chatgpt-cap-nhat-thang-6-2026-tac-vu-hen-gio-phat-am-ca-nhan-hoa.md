@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "chatgpt-cap-nhat-thang-6-2026-tac-vu-hen-gio-phat-am-ca-nhan-hoa"
 title: "ChatGPT cập nhật tháng 6/2026: tác vụ hẹn giờ, phát âm 60+ ngôn ngữ"
 description: "OpenAI tung loạt cập nhật cho ChatGPT trong tháng 6/2026, nổi bật là tác vụ hẹn giờ cho phép trợ lý tự chạy theo lịch, hướng dẫn phát âm hơn 60 ngôn ngữ kèm."

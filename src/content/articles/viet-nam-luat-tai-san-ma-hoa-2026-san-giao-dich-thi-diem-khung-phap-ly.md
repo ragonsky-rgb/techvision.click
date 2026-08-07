@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "viet-nam-luat-tai-san-ma-hoa-2026-san-giao-dich-thi-diem-khung-phap-ly"
 title: "Việt Nam có khung pháp lý tài sản mã hóa 2026: thí điểm sàn giao dịch, vốn 10.000 tỷ"
 description: "Luật Công nghiệp công nghệ số hiệu lực 1/1/2026 lần đầu công nhận tài sản số tại Việt Nam, mở thí điểm sàn giao dịch tài sản mã hóa, vốn điều lệ 10.000 tỷ"

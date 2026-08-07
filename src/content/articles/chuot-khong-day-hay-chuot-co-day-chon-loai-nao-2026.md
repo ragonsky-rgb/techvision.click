@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "chuot-khong-day-hay-chuot-co-day-chon-loai-nao-2026"
 title: "Chuột không dây hay chuột có dây: chọn loại nào 2026?"
 description: "So sánh chuột không dây và chuột có dây 2026: độ trễ, sự tiện lợi, độ ổn định, pin và giá, giúp bạn chọn đúng loại chuột cho gaming và văn phòng theo nhu cầu."

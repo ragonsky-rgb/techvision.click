@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-gia-do-laptop-2026-tieu-chi"
 title: "Cách chọn giá đỡ laptop 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn giá đỡ laptop 2026: chiều cao điều chỉnh theo tầm mắt, chất liệu nhôm hay nhựa, độ ổn định chống rung lắc, khả năng gấp gọn di động, tản nhiệt."

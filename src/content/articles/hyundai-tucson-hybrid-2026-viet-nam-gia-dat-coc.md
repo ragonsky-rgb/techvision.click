@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "hyundai-tucson-hybrid-2026-viet-nam-gia-dat-coc"
 title: "Hyundai Tucson Hybrid 2026 nhận cọc VN, giá hơn 1 tỷ"
 description: "Hyundai Tucson Hybrid 2026 nhận đặt cọc tại Việt Nam với một bản lắp ráp trong nước, giá hơn 1 tỷ đồng, ra mắt tháng 7, đấu Honda CR-V e:HEV."

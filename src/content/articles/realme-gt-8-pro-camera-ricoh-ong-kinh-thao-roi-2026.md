@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "realme-gt-8-pro-camera-ricoh-ong-kinh-thao-roi-2026"
 title: "realme GT 8 Pro: camera Ricoh, ống kính tháo rời độc đáo"
 description: "realme GT 8 Pro gây chú ý với camera 200MP tinh chỉnh bởi Ricoh, mô đun camera tháo rời đầu tiên thế giới, chip Snapdragon 8 Elite Gen 5, pin 7000mAh."

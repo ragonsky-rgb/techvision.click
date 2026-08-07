@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-ghe-gaming-2026-tieu-chi"
 title: "Cách chọn ghế gaming 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn ghế gaming 2026: chất liệu bọc ghế, điều chỉnh tựa lưng, tay vịn, hỗ trợ thắt lưng, kích thước phù hợp vóc dáng và độ bền khung ghế."

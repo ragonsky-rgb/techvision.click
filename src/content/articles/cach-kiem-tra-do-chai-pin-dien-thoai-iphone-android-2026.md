@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-kiem-tra-do-chai-pin-dien-thoai-iphone-android-2026"
 title: "Cách kiểm tra độ chai pin điện thoại: hướng dẫn cho iPhone và Android 2026"
 description: "Hướng dẫn kiểm tra độ chai pin điện thoại trên iPhone và Android năm 2026: xem dung lượng pin tối đa, dùng ứng dụng đo, hiểu chu kỳ sạc và khi nào nên thay pin"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon"
 title: "Màn hình OLED, AMOLED, LCD khác gì nhau? Loại nào tốt hơn?"
 description: "OLED, AMOLED, Super AMOLED, IPS LCD, LTPO: bảng thông số điện thoại đầy những cái tên màn hình dễ gây rối."

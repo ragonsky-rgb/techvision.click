@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "anthropic-samsung-chip-ai-rieng-2nm-2026"
 title: "Anthropic đàm phán Samsung sản xuất chip AI riêng, nhắm tiến trình 2nm"
 description: "Anthropic đang trong giai đoạn đầu phát triển chip AI riêng, đàm phán với Samsung sản xuất trên tiến trình 2nm nhằm giảm phụ thuộc vào Nvidia."

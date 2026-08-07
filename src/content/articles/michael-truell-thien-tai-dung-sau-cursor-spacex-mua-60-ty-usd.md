@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "michael-truell-thien-tai-dung-sau-cursor-spacex-mua-60-ty-usd"
 title: "Michael Truell: thiên tài 25 tuổi đứng sau Cursor được SpaceX mua 60 tỷ USD"
 description: "Chân dung Michael Truell, CEO 25 tuổi bỏ học MIT sáng lập Cursor, công cụ lập trình AI vừa được SpaceX mua lại 60 tỷ USD."

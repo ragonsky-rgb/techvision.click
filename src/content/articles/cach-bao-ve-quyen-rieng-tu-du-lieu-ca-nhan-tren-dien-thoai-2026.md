@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026"
 title: "Cách bảo vệ quyền riêng tư và dữ liệu cá nhân trên điện thoại 2026"
 description: "Hướng dẫn bảo vệ quyền riêng tư trên điện thoại: quản lý quyền ứng dụng, tắt theo dõi quảng cáo, khóa dữ liệu khi sửa máy, hạn chế lộ số điện thoại và thông tin"

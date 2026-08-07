@@ -14,13 +14,18 @@ export async function getAllArticles() {
     dateModified: e.data.dateModified || e.data.datePublished,
     image: e.data.heroImage,
     keywords: e.data.keywords || '',
+    noindex: e.data.noindex === true,
     source: 'collection',
   }));
-  const fromLegacy = legacy.map((l) => ({ ...l, source: 'legacy' }));
+  const fromLegacy = legacy.map((l) => ({ ...l, noindex: l.noindex === true, source: 'legacy' }));
   const all = [...fromColl, ...fromLegacy];
   all.sort((a, b) => (b.datePublished || '').localeCompare(a.datePublished || ''));
   return all;
 }
+
+// Bài được phép nằm trong sitemap / RSS: bỏ những bài đã gắn noindex.
+// Trang vẫn build và vẫn truy cập được, chỉ không mời Google lập chỉ mục.
+export const indexable = (arts) => arts.filter((a) => !a.noindex);
 
 // Bài "tin nóng" cho news sitemap: trong vòng 48h so với bài mới nhất
 // (tự tương đối, không lệ thuộc đồng hồ máy build).

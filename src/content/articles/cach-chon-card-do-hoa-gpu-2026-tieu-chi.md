@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-card-do-hoa-gpu-2026-tieu-chi"
 title: "Cách chọn card đồ họa (GPU) 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn card đồ họa 2026: dung lượng VRAM phù hợp độ phân giải, hiệu năng theo nhu cầu chơi game, mức tiêu thụ điện, kích thước case và giá bán."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "loa-bluetooth-hay-soundbar-chon-loai-nao-2026"
 title: "Loa bluetooth hay soundbar: nên chọn loại nào 2026?"
 description: "So sánh loa bluetooth và soundbar 2026: mục đích sử dụng, chất âm, tính di động, nâng cấp âm thanh tivi và giá, giúp bạn chọn đúng loại loa theo nhu cầu."

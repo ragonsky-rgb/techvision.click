@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah"
 title: "Oppo Find X10 Pro lộ diện: camera 200MP kép, pin 8000mAh đấu iPhone 18 Pro Max"
 description: "Rò rỉ Oppo Find X10 Pro: chip Dimensity 9600 2nm, camera 200MP kép Hasselblad, pin khoảng 8000mAh sạc 100W. Đối thủ đáng gờm của iPhone 18 Pro Max cuối 2026."

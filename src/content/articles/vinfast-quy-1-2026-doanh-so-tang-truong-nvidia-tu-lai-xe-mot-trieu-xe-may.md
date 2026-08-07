@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "vinfast-quy-1-2026-doanh-so-tang-truong-nvidia-tu-lai-xe-mot-trieu-xe-may"
 title: "VinFast quý 1/2026: giao 58.577 xe, bắt tay NVIDIA làm tự lái, đạt 1 triệu xe máy điện"
 description: "VinFast quý 1/2026 giao 58.577 xe điện tăng 61%, doanh thu tăng 41,7%, bắt tay NVIDIA làm xe tự lái cấp 4, cán mốc 1 triệu xe máy điện"

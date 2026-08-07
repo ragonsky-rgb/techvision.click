@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-may-tinh-bang-tablet-2026-tieu-chi"
 title: "Cách chọn máy tính bảng 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn cách chọn máy tính bảng phù hợp năm 2026: hệ điều hành, màn hình, hiệu năng, pin và phụ kiện đi kèm, giúp tránh mua nhầm máy không đúng nhu cầu."

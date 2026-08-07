@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-ban-phim-co-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top bàn phím cơ tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Tổng hợp bàn phím cơ tốt nhất nửa đầu 2026 theo nhu cầu: Hall Effect esports, tích hợp sáng tạo, custom cao cấp và giá tốt, từ Wooting 80HE tới ROG Azoth."

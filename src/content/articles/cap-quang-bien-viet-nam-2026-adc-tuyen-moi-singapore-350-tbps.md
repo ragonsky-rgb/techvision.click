@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cap-quang-bien-viet-nam-2026-adc-tuyen-moi-singapore-350-tbps"
 title: "Cáp quang biển Việt Nam 2026: ADC 50 Tbps, tuyến tự chủ tới Singapore, mục tiêu 350 Tbps"
 description: "Cáp quang biển Việt Nam 2026: ADC 50 Tbps lớn nhất đã chạy, tuyến tự chủ tới Singapore, Viettel hợp tác Singtel, mục tiêu 15 tuyến và 350 Tbps tới 2030"

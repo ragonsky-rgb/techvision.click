@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "camera-nhieu-megapixel-co-chup-dep-hon-khong"
 title: "Camera nhiều megapixel có chụp đẹp hơn không? Sự thật về 50MP, 200MP"
 description: "108MP, 200MP: các con số megapixel ngày càng lớn trên quảng cáo điện thoại khiến nhiều người tin rằng càng nhiều chấm thì ảnh càng đẹp."

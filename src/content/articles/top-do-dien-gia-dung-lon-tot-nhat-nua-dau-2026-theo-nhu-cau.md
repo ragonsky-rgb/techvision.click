@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-do-dien-gia-dung-lon-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top đồ điện gia dụng lớn tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Cẩm nang chọn đồ điện gia dụng lớn tốt nhất nửa đầu 2026 theo nhu cầu: máy giặt, tủ lạnh, máy hút ẩm và máy lọc nước, giúp gia đình tiện nghi và tiết kiệm điện."

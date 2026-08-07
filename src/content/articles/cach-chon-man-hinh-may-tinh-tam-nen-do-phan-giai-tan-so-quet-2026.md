@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026"
 title: "Cách chọn màn hình máy tính: tấm nền, độ phân giải, tần số quét 2026"
 description: "Một màn hình tốt ảnh hưởng tới trải nghiệm hằng ngày nhiều hơn nhiều người nghĩ, từ độ rõ chữ, độ chính xác màu tới độ mượt khi chơi game."

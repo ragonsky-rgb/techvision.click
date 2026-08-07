@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "agibot-robot-hinh-nguoi-embodied-ai-waic-2026"
 title: "AgiBot: robot hình người embodied AI dẫn đầu WAIC 2026"
 description: "AgiBot mang robot hình người embodied AI tới WAIC 2026 với demo bóng bàn, võ thuật, được Omdia xếp dẫn đầu sản lượng, đấu Unitree và Tesla Optimus."

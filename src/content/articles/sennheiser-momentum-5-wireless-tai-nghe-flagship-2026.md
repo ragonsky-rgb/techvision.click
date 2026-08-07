@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sennheiser-momentum-5-wireless-tai-nghe-flagship-2026"
 title: "Sennheiser Momentum 5 Wireless: flagship mới, pin thay được, giá 399,99 USD"
 description: "Sennheiser Momentum 5 Wireless có pin thay được, chống ồn mạnh hơn 3 lần, hỗ trợ aptX Lossless, pin 57 giờ ANC, giá bán 399,99 USD."

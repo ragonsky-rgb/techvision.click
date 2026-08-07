@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-may-doc-sach-2026-tieu-chi"
 title: "Cách chọn máy đọc sách 2026: tiêu chí và lưu ý quan trọng"
 description: "Hướng dẫn cách chọn máy đọc sách 2026 theo tiêu chí: màn hình e-ink, kích thước, đèn nền, chống nước, ghi chú viết tay và hệ sinh thái sách phù hợp."

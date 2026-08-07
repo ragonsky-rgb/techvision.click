@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-dien-thoai-gap-foldable-2026-tieu-chi"
 title: "Cách chọn điện thoại gập 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn cách chọn điện thoại gập phù hợp năm 2026: kiểu gập, độ bền bản lề, nếp gấp màn hình, pin và giá bán, giúp tránh mua nhầm máy không đúng nhu cầu."

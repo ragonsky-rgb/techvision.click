@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "plaud-notepin-s-thiet-bi-ghi-am-ghi-chu-ai-deo-nguoi-2026"
 title: "Plaud NotePin S: thiết bị ghi âm, ghi chú AI đeo người, pin dùng 20 giờ liên tục"
 description: "Plaud NotePin S là thiết bị ghi âm AI đeo người dạng vòng cổ, kẹp áo hoặc vòng tay, tự động phiên âm và tóm tắt cuộc họp, pin ghi liên tục 20 giờ, nặng 17 gram."

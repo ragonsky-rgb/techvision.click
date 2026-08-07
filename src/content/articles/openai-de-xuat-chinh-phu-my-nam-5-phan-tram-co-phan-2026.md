@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "openai-de-xuat-chinh-phu-my-nam-5-phan-tram-co-phan-2026"
 title: "OpenAI đề xuất chính phủ Mỹ nắm 5% cổ phần, giá trị khoảng 42,6 tỷ USD"
 description: "OpenAI đề xuất cho chính phủ Mỹ nắm giữ 5% cổ phần công ty, trị giá khoảng 42,6 tỷ USD theo định giá 852 tỷ USD, nhằm xoa dịu áp lực chính trị tại Washington."

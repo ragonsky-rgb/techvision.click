@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apl-2026-viet-nam-3-dai-dien-tu-ket-lien-quan-mobile"
 title: "APL 2026: Việt Nam có 3 đại diện vào tứ kết Liên Quân Mobile, chung kết tại Đà Nẵng"
 description: "Swiss Stage APL 2026 khép lại, Việt Nam góp 3 đại diện vào tứ kết: FPT x Flash, Saigon Phantom, FPT Polytechnic, hướng tới chung kết tại Đà Nẵng 19/7."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "msi-2026-chung-ket-tong-blg-con-duong-hoang-kim"
 title: "MSI 2026 chung kết tổng 12/7: BLG chờ đối thủ, hướng tới Con đường hoàng kim"
 description: "BLG chờ đối thủ từ trận LYON vs HLE để vào chung kết tổng MSI 2026 ngày 12/7, cơ hội hoàn thành Con đường hoàng kim với danh hiệu quốc tế thứ hai trong năm."

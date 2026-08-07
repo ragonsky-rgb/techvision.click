@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-tai-nghe-chong-on-anc-2026-tieu-chi"
 title: "Cách chọn tai nghe chống ồn ANC 2026: 5 tiêu chí quan trọng trước khi mua"
 description: "Hướng dẫn chọn tai nghe chống ồn ANC năm 2026: hiệu quả khử ồn, chất lượng âm thanh, thời lượng pin, độ thoải mái đeo lâu và mức giá phù hợp nhu cầu."

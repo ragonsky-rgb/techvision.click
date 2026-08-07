@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "may-doc-sach-hay-may-tinh-bang-doc-sach-nen-chon-gi-2026"
 title: "Máy đọc sách hay máy tính bảng: đọc sách nên chọn gì 2026?"
 description: "So sánh máy đọc sách và máy tính bảng cho việc đọc năm 2026: màn hình, mắt, pin, tính đa năng và chi phí, giúp bạn chọn đúng thiết bị theo thói quen đọc."

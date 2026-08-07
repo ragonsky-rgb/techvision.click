@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "hle-nguoc-dong-lyon-3-2-vao-chung-ket-tong-msi-2026"
 title: "HLE ngược dòng nghẹt thở trước LYON 3-2, giành vé chung kết tổng MSI 2026 gặp BLG"
 description: "Hanwha Life Esports lội ngược dòng đánh bại LYON với tỷ số 3-2 tại chung kết nhánh thua MSI 2026, giành vé cuối cùng vào chung kết tổng gặp BLG ngày 12/7."

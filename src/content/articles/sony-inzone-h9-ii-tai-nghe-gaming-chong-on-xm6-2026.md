@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sony-inzone-h9-ii-tai-nghe-gaming-chong-on-xm6-2026"
 title: "Sony InZone H9 II: tai nghe gaming chống ồn dùng driver từ WH-1000XM6"
 description: "Sony InZone H9 II là tai nghe gaming không dây chống ồn ANC hàng đầu, dùng driver 30mm từ WH-1000XM6, nặng 260g, mic AI khử ồn, giá 349,99 USD."

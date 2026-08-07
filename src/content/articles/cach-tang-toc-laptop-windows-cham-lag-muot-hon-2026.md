@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026"
 title: "Cách tăng tốc laptop Windows bị chậm, lag: 10 cách không cần cài phần mềm"
 description: "Laptop chạy Windows thường chậm dần theo thời gian: khởi động lâu, mở ứng dụng ì ạch, đa nhiệm giật khựng."

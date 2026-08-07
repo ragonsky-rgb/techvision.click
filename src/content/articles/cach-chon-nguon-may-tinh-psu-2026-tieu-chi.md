@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-nguon-may-tinh-psu-2026-tieu-chi"
 title: "Cách chọn nguồn máy tính (PSU) 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn nguồn máy tính PSU 2026: công suất phù hợp cấu hình, chuẩn hiệu suất 80 Plus, độ ồn quạt, dây cáp module hóa và độ an toàn thương hiệu uy tín."

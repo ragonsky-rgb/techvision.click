@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "qualcomm-mua-modular-3-9-ty-usd-thach-thuc-cuda-nvidia-2026"
 title: "Qualcomm mua Modular 3,9 tỷ USD, thách thức CUDA Nvidia"
 description: "Qualcomm chi khoảng 3,9 tỷ USD mua Modular, startup sở hữu ngôn ngữ Mojo và engine MAX, xây nền tảng AI đa phần cứng, thách thức thế độc quyền CUDA của Nvidia."

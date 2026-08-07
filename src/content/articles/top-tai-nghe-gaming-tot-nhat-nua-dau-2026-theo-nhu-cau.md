@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-tai-nghe-gaming-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top tai nghe gaming tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Top tai nghe gaming nửa đầu 2026: Arctis Nova Pro Wireless, BlackShark V3 Pro, Astro A50 X, Cloud III Wireless, Virtuoso Max, Maxwell, INZONE H9 II."

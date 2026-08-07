@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "macbook-ultra-tin-don-man-hinh-cam-ung-oled-dau-tien-2026"
 title: "MacBook Ultra: tin đồn Mac màn hình cảm ứng OLED đầu tiên của Apple, ra mắt cuối 2026"
 description: "MacBook Ultra được đồn đoán là Mac đầu tiên có màn hình cảm ứng OLED, dùng chip M5 Pro/M5 Max, ra mắt cuối 2026 hoặc đầu 2027, giá cao nhất từ trước tới nay."

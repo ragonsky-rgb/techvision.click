@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "anker-solix-s2000-tram-luu-dien-hieu-suat-cao-2026"
 title: "Anker Solix S2000: trạm lưu điện 2kWh nhẹ nhất, chạy tủ lạnh 35 giờ"
 description: "Anker Solix S2000 là trạm lưu điện 2.009,6Wh, nhẹ hơn 25% trung bình ngành, chạy tủ lạnh liên tục 35 giờ, dòng rò rỉ khi chờ dưới 6W, giá từ 649 USD."

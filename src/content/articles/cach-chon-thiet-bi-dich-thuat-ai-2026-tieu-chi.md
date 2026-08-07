@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-thiet-bi-dich-thuat-ai-2026-tieu-chi"
 title: "Cách chọn thiết bị dịch thuật AI 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn thiết bị dịch thuật AI 2026: số ngôn ngữ hỗ trợ, độ trễ dịch thời gian thực, kết nối mạng, độ chính xác và giá bán phù hợp nhu cầu sử dụng."

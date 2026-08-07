@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "iphone-ultra-gap-pin-4883mah-dual-cell-ro-ri-2026"
 title: "iPhone Ultra gập lộ pin 4.883mAh thiết kế hai cell: Apple chơi an toàn cho máy gập đầu tay?"
 description: "Rò rỉ mới cho biết iPhone Ultra gập dùng pin hai cell tổng 4.883mAh (1.921mAh + 2.962mAh), thấp hơn tin đồn trước, ra mắt tháng 9 cùng iPhone 18 Pro."

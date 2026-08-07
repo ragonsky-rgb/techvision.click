@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-bao-ve-tai-khoan-facebook-khong-bi-hack-chiem-nick-2026"
 title: "Cách bảo vệ tài khoản Facebook không bị hack, chiếm nick: 9 bước cần làm"
 description: "Tài khoản Facebook gắn với danh tính, bạn bè và nhiều dịch vụ khác, nên là mục tiêu hàng đầu của kẻ xấu."

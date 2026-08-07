@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ram-ao-ram-plus-dien-thoai-la-gi-co-nen-bat-2026"
 title: "RAM ảo (RAM Plus) là gì, có nên bật trên điện thoại?"
 description: "RAM ảo (RAM Plus) là gì, hoạt động ra sao, có làm điện thoại nhanh hơn hay chơi game mượt hơn không, và khi nào nên bật hay tắt tính năng này năm 2026."

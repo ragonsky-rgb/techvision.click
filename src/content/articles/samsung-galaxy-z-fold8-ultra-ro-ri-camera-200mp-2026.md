@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-galaxy-z-fold8-ultra-ro-ri-camera-200mp-2026"
 title: "Samsung Galaxy Z Fold8 Ultra lộ cấu hình: màn hình 4:3 rộng hơn, camera 200MP"
 description: "Galaxy Z Fold8 Ultra rò rỉ với màn hình trong 7,6 inch tỷ lệ 4:3 rộng hơn, camera chính 200MP, chip Snapdragon 8 Elite Gen 5, giá dự kiến khoảng 2.100 USD."

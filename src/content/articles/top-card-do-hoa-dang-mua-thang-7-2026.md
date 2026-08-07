@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-card-do-hoa-dang-mua-thang-7-2026"
 title: "Top card đồ họa đáng mua tháng 8/2026: từ phổ thông đến cao cấp"
 description: "Gợi ý card đồ họa đáng mua tháng 8/2026: GPU giá tốt cho 1080p, GPU tầm trung cho 1440p, GPU cao cấp cho 4K trong bối cảnh giá GPU đang biến động mạnh."

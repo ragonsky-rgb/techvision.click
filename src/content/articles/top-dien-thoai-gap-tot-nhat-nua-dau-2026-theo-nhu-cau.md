@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-dien-thoai-gap-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top điện thoại gập tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Tổng hợp điện thoại gập tốt nhất nửa đầu 2026 theo nhu cầu: gập dọc cao cấp, mỏng nhẹ nhất, pin lớn và gập vỏ sò, từ Samsung Galaxy Z Fold 8 tới Honor Magic V6."

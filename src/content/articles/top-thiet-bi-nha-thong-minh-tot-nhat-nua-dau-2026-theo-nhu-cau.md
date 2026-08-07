@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-thiet-bi-nha-thong-minh-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top thiết bị nhà thông minh tốt nhất nửa đầu 2026"
 description: "Cẩm nang chọn thiết bị nhà thông minh tốt nhất nửa đầu 2026 theo nhu cầu: camera an ninh, khóa cửa, đèn và ổ cắm thông minh, giúp nhà an toàn tiện lợi."

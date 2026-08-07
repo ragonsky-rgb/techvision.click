@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-quat-tich-dien-2026-tieu-chi"
 title: "Cách chọn quạt tích điện 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn quạt tích điện 2026: dung lượng pin, thời gian sạc, lưu lượng gió, đèn LED tích hợp và độ bền phù hợp nhu cầu dùng khi mất điện."

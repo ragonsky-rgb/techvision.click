@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-case-pc-vo-may-tinh-2026-tieu-chi"
 title: "Cách chọn case PC (vỏ máy tính) 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn case PC 2026: kích thước phù hợp linh kiện, khả năng lưu thông khí airflow, số lượng khe quạt, khả năng quản lý dây cáp và tính thẩm mỹ."

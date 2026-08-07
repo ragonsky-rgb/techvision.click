@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "hkc-m10-ultra-man-hinh-rgb-mini-led-dau-tien-the-gioi-2026"
 title: "HKC M10 Ultra: màn hình gaming RGB Mini LED đầu tiên thế giới, 4.788 vùng làm mờ"
 description: "HKC M10 Ultra là màn hình RGB Mini LED đầu tiên thế giới, 31,5 inch 4K 165Hz, 4.788 vùng làm mờ độc lập, phủ 100% BT.2020, HDR-1400, giá dự kiến 899 USD."

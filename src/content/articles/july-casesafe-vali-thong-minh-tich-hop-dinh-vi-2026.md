@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "july-casesafe-vali-thong-minh-tich-hop-dinh-vi-2026"
 title: "July CaseSafe: vali thông minh tích hợp định vị Find My, giá 295 USD"
 description: "July CaseSafe là vali đầu tiên tích hợp sẵn định vị tương thích Find My của Apple và Find Hub của Google, pin dùng hơn 12 tháng, giá từ 295 USD."

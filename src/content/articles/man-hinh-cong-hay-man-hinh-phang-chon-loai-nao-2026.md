@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "man-hinh-cong-hay-man-hinh-phang-chon-loai-nao-2026"
 title: "Màn hình cong hay màn hình phẳng: chọn loại nào 2026?"
 description: "So sánh màn hình cong và màn hình phẳng 2026: trải nghiệm đắm chìm, độ chính xác hình ảnh, gaming, làm việc và giá, giúp bạn chọn đúng theo nhu cầu."

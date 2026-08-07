@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-camera-an-ninh-dang-mua-thang-7-2026"
 title: "Top camera an ninh đáng mua tháng 7/2026"
 description: "Gợi ý camera an ninh đáng mua tháng 7/2026: TP-Link Tapo C200 giá rẻ, Ezviz C6N xoay 360 độ tầm trung, Hikvision cho hệ thống giám sát chuyên dụng."

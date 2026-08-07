@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "vibe-coding-la-gi-2026"
 title: "Vibe coding là gì? Vì sao Google, Microsoft đều nhắc đến"
 description: "Vibe coding là gì, ai đặt ra thuật ngữ này, khác gì lập trình truyền thống và vì sao Google, Microsoft, OpenAI đều đưa nó vào sản phẩm năm 2026."

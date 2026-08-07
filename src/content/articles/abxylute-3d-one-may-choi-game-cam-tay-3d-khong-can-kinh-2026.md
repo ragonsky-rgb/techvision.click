@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "abxylute-3d-one-may-choi-game-cam-tay-3d-khong-can-kinh-2026"
 title: "Abxylute 3D One: máy chơi game cầm tay màn hình 3D không cần đeo kính"
 description: "Abxylute 3D One là máy chơi game cầm tay màn hình 11 inch 3D không cần đeo kính, chip Intel Core Ultra 7 258V, hỗ trợ khoảng 50 tựa game 3D, giá từ 1.299 USD."

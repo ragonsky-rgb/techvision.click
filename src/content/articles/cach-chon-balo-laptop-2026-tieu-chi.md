@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-balo-laptop-2026-tieu-chi"
 title: "Cách chọn balo laptop 2026: 6 tiêu chí quan trọng trước khi mua"
 description: "Hướng dẫn chọn balo laptop năm 2026: đệm chống sốc, chất liệu chống nước, dung tích, ngăn chống trộm, độ êm quai đeo và mức giá phù hợp nhu cầu."

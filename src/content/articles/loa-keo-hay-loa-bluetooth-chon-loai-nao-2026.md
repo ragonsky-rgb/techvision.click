@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "loa-keo-hay-loa-bluetooth-chon-loai-nao-2026"
 title: "Loa kéo hay loa bluetooth: chọn loại nào 2026?"
 description: "So sánh loa kéo và loa bluetooth 2026: công suất, hát karaoke, tính di động, thời lượng pin và giá, giúp bạn chọn đúng loa cho hát hò, dã ngoại và nghe nhạc."

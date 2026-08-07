@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-one-ui-8-5-android-16-tinh-nang-galaxy-ai-moi-2026"
 title: "Samsung One UI 8.5 có gì mới: Galaxy AI nâng cấp, phụ đề cuộc gọi"
 description: "Samsung One UI 8.5 dựa trên Android 16 ra mắt cùng Galaxy S26: phụ đề cuộc gọi thời gian thực, Galaxy AI nâng cấp, Now Brief và Audio Eraser"

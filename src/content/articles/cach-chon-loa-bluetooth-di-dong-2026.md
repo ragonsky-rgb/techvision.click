@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-loa-bluetooth-di-dong-2026"
 title: "Cách chọn loa bluetooth di động 2026: pin, công suất, chống nước, thương hiệu"
 description: "Hướng dẫn chọn loa bluetooth di động 2026: nên mua loa pin bao lâu, công suất bao nhiêu, chuẩn chống nước IP nào, thương hiệu uy tín JBL, Marshall, Sony, Anker"

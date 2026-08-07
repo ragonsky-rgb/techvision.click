@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-may-doc-sach-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top máy đọc sách tốt nhất nửa đầu 2026 theo nhu cầu"
 description: "Cẩm nang chọn máy đọc sách tốt nhất nửa đầu 2026 theo nhu cầu: chuyên đọc màn hình e-ink, kèm ghi chú viết tay, màn hình màu và so với máy tính bảng."

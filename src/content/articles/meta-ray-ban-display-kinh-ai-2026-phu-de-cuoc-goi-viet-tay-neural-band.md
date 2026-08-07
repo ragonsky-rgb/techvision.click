@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "meta-ray-ban-display-kinh-ai-2026-phu-de-cuoc-goi-viet-tay-neural-band"
 title: "Meta Ray-Ban Display 2026: phụ đề cuộc gọi, viết tay bằng Neural Band"
 description: "Kính AI Meta Ray-Ban Display nhận loạt nâng cấp 2026: phụ đề cuộc gọi thời gian thực, nhắn tin bằng chữ viết tay qua Neural Band và tóm tắt WhatsApp rảnh tay"

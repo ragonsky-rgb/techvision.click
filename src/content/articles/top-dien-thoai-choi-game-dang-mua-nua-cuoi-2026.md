@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-dien-thoai-choi-game-dang-mua-nua-cuoi-2026"
 title: "Top điện thoại chơi game đáng mua nửa cuối 2026"
 description: "Top điện thoại gaming nửa cuối 2026: RedMagic 11 Pro, RedMagic 11 Air, ROG Phone 9 Pro, iQOO 15 và OnePlus 15R, kèm cấu hình tản nhiệt, pin và giá tham khảo."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-nhan-biet-anh-video-deepfake-ai-gia-mao-2026"
 title: "Cách nhận biết ảnh, video deepfake AI giả mạo và phòng tránh lừa đảo"
 description: "Hướng dẫn nhận biết ảnh, video deepfake do AI tạo: dấu hiệu bất thường ở khuôn mặt, ánh sáng, giọng nói, và cách phòng tránh lừa đảo gọi video giả mạo"

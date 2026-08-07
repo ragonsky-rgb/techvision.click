@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "msi-claw-8-ex-ai-plus-may-choi-game-cam-tay-intel-arc-g3-2026"
 title: "MSI Claw 8 EX AI+: máy chơi game cầm tay đầu tiên dùng chip Intel Arc G3 Extreme"
 description: "MSI Claw 8 EX AI+ là máy chơi game cầm tay đầu tiên dùng chip Intel Arc G3 Extreme, màn hình 8 inch 120Hz, RAM 32GB, giá 1.699,99 USD, ra mắt 23/6/2026."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "vi-sao-dien-thoai-gap-doi-ti-le-43-iphone-fold-samsung-co-thiet"
 title: "Vì sao điện thoại gập đổi sang tỉ lệ 4:3, và Samsung có thực sự thiệt khi iPhone Fold ra mắt?"
 description: "Samsung và Apple cùng hướng điện thoại gập sang tỉ lệ 4:3. Phân tích lý do đổi tỉ lệ và vì sao Samsung không hẳn thiệt khi iPhone Fold ra mắt."

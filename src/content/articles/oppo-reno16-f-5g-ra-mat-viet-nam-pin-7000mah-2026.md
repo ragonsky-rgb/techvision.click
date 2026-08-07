@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "oppo-reno16-f-5g-ra-mat-viet-nam-pin-7000mah-2026"
 title: "OPPO Reno16 F 5G ra mắt Việt Nam: pin 7.000mAh, IP69K, giá từ 15 triệu"
 description: "OPPO Reno16 F 5G chính thức mở bán tại Việt Nam, pin 7.000mAh, sạc nhanh SUPERVOOC 80W, kháng nước IP69K, camera chính 50MP OIS, giá từ 15 triệu đồng."

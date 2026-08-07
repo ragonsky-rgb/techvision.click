@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "boston-dynamics-spot-gemini-robotics-er-1-6-2026"
 title: "Spot của Boston Dynamics đọc được đồng hồ đo, tự dọn nhà nhờ Gemini Robotics-ER 1.6"
 description: "Google DeepMind trang bị Gemini Robotics-ER 1.6 cho robot bốn chân Spot, giúp đọc đồng hồ đo chính xác 98% và tự hoàn thành việc nhà từ danh sách viết tay."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "openai-gpt-live-tro-ly-giong-noi-thoi-gian-thuc-2026"
 title: "OpenAI ra mắt GPT-Live: ChatGPT nghe nói cùng lúc như người thật"
 description: "OpenAI ra mắt GPT-Live, mô hình giọng nói song công toàn phần cho ChatGPT, nghe nói đồng thời, tự chuyển tác vụ phức tạp sang mô hình mạnh hơn không gián đoạn."

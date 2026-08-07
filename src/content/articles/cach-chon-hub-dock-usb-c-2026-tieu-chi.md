@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-hub-dock-usb-c-2026-tieu-chi"
 title: "Cách chọn hub/dock USB-C 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn hub dock USB-C 2026: số cổng kết nối cần thiết, công suất sạc pass-through, hỗ trợ xuất hình đa màn hình, tốc độ truyền dữ liệu và độ ổn định."

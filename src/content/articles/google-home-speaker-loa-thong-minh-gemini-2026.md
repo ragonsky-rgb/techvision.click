@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "google-home-speaker-loa-thong-minh-gemini-2026"
 title: "Google Home Speaker: loa thông minh đầu tiên chạy Gemini AI sau 6 năm, giá 99 USD"
 description: "Google Home Speaker là loa thông minh đầu tiên của Google sau 6 năm, chạy Gemini AI thay Google Assistant, driver 58mm, hỗ trợ Thread 1.4, giá 99 USD."

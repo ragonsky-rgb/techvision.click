@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "meo-chup-anh-dep-bang-dien-thoai-bo-cuc-anh-sang"
 title: "Mẹo chụp ảnh đẹp bằng điện thoại: bố cục, ánh sáng và 9 thủ thuật"
 description: "Một bức ảnh đẹp không phụ thuộc hoàn toàn vào chiếc điện thoại đắt tiền, mà nằm ở cách bạn nhìn và bắt khoảnh khắc."

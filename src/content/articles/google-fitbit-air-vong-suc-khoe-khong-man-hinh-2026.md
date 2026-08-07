@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "google-fitbit-air-vong-suc-khoe-khong-man-hinh-2026"
 title: "Google Fitbit Air: vòng sức khỏe không màn hình, giá chỉ 99,99 USD"
 description: "Google Fitbit Air là vòng theo dõi sức khỏe không màn hình, đối thủ trực tiếp của Whoop, pin dùng 7 ngày, giá bán 99,99 USD, không bắt buộc trả phí hằng tháng."

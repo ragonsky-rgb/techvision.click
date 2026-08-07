@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-laptop-tot-nhat-nua-dau-2026-theo-nhu-cau"
 title: "Top laptop tốt nhất nửa đầu 2026 theo từng nhu cầu"
 description: "Tổng hợp laptop tốt nhất nửa đầu 2026 theo nhu cầu: làm việc và MacBook, gaming cao cấp, gaming giá tốt, sáng tạo và pin trâu, từ MacBook Pro M5 tới ROG Strix."

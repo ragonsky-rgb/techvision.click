@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ghe-cong-thai-hoc-hay-ghe-gaming-chon-loai-nao-2026"
 title: "Ghế công thái học hay ghế gaming: chọn loại nào 2026?"
 description: "So sánh ghế công thái học và ghế gaming 2026: hỗ trợ ngồi lâu, tư thế, thoải mái, phong cách và giá, giúp bạn chọn đúng loại ghế theo nhu cầu."

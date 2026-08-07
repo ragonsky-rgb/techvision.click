@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ai-thuc-chien-2026-vtv-gameshow-tri-tue-nhan-tao-dau-tien-viet-nam"
 title: "AI Thực chiến 2026: gameshow trí tuệ nhân tạo đầu tiên trên sóng VTV"
 description: "Ngày 19/6, Đài Truyền hình Việt Nam cùng Trung tâm Dữ liệu quốc gia và Hiệp hội Dữ liệu Quốc gia chính thức phát động AI Thực chiến 2026, cuộc thi trí tuệ."

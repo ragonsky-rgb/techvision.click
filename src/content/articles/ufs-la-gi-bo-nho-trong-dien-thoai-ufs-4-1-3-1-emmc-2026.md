@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ufs-la-gi-bo-nho-trong-dien-thoai-ufs-4-1-3-1-emmc-2026"
 title: "UFS là gì? Bộ nhớ trong UFS 4.1, 3.1 và eMMC khác gì 2026"
 description: "UFS là gì, các đời UFS 4.1, 4.0, 3.1 và eMMC khác nhau ra sao về tốc độ đọc ghi, và bộ nhớ trong ảnh hưởng thế nào tới trải nghiệm dùng điện thoại."

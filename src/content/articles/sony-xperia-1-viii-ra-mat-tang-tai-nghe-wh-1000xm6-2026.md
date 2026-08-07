@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "sony-xperia-1-viii-ra-mat-tang-tai-nghe-wh-1000xm6-2026"
 title: "Sony Xperia 1 VIII ra mắt: tặng kèm tai nghe WH-1000XM6, giá từ 1.499 Euro"
 description: "Sony Xperia 1 VIII trình làng tại châu Âu với Snapdragon 8 Elite Gen 5, thiết kế ORE mới, camera vuông nâng cấp và tặng kèm tai nghe WH-1000XM6"

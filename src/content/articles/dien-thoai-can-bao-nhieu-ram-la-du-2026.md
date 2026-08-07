@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dien-thoai-can-bao-nhieu-ram-la-du-2026"
 title: "Điện thoại cần bao nhiêu RAM là đủ năm 2026? 8GB, 12GB hay 16GB?"
 description: "RAM là thông số được nhắc tới nhiều khi mua điện thoại, nhưng nhiều hơn không phải lúc nào cũng tốt hơn, nhất là khi giá RAM đang leo thang khiến bản cấu hình."

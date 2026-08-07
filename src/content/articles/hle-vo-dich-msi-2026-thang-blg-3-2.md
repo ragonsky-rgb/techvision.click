@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "hle-vo-dich-msi-2026-thang-blg-3-2"
 title: "Kết quả MSI 2026: HLE vô địch, ngược dòng hạ BLG 3-2"
 description: "Hanwha Life Esports chính thức đăng quang MSI 2026 sau khi lội ngược dòng hạ BLG 3-2 tại chung kết tổng, Zeus được vinh danh MVP toàn giải đấu."

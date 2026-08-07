@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "lenovo-legion-go-2-steamos-may-choi-game-cam-tay-2026"
 title: "Lenovo Legion Go 2 phiên bản SteamOS: rẻ hơn, hiệu năng cao hơn bản Windows"
 description: "Lenovo Legion Go 2 bản SteamOS giá 1.199 USD, rẻ hơn 150 USD so với bản Windows, cho khung hình cao hơn 2-10fps và pin tốt hơn trên cùng cấu hình phần cứng."

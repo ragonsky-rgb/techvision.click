@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "uav-cong-nghe-chien-luoc-quoc-gia-viet-nam-1-7-2026"
 title: "UAV chính thức thành công nghệ chiến lược quốc gia Việt Nam từ 1/7/2026"
 description: "Từ 1/7/2026, UAV vào danh mục công nghệ chiến lược quốc gia theo quyết định của Thủ tướng, mở đường cho ngành công nghiệp UAV nội địa phát triển."

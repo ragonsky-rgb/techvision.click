@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "may-chieu-hay-smart-tivi-chon-loai-nao-2026"
 title: "Máy chiếu hay smart tivi: chọn loại nào 2026?"
 description: "So sánh máy chiếu và smart tivi 2026: kích thước hình ảnh, độ sáng, tính tiện dụng và giá, giúp bạn chọn đúng thiết bị xem phim tại nhà theo nhu cầu."

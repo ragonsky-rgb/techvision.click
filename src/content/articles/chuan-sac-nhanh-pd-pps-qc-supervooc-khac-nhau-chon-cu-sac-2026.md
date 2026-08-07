@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "chuan-sac-nhanh-pd-pps-qc-supervooc-khac-nhau-chon-cu-sac-2026"
 title: "Chuẩn sạc nhanh PD, PPS, QC, SuperVOOC khác gì nhau?"
 description: "Các chuẩn sạc nhanh PD, PPS, Quick Charge và SuperVOOC khác nhau thế nào, vì sao cắm nhầm củ sạc lại chậm, và cách chọn củ sạc đúng cho điện thoại năm 2026."

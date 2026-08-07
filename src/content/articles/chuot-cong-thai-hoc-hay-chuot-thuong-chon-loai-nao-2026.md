@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "chuot-cong-thai-hoc-hay-chuot-thuong-chon-loai-nao-2026"
 title: "Chuột công thái học hay chuột thường: chọn loại nào 2026?"
 description: "So sánh chuột công thái học và chuột thường 2026: chống mỏi cổ tay, tư thế, độ quen tay, chơi game và giá, giúp bạn chọn đúng loại chuột theo nhu cầu sử dụng."

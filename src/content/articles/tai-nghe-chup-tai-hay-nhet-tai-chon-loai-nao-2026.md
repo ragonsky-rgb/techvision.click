@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tai-nghe-chup-tai-hay-nhet-tai-chon-loai-nao-2026"
 title: "Tai nghe chụp tai hay nhét tai: nên chọn loại nào 2026?"
 description: "So sánh tai nghe chụp tai và nhét tai 2026: chất âm, chống ồn, sự thoải mái, tính di động và pin, giúp bạn chọn đúng loại tai nghe theo nhu cầu nghe của mình."

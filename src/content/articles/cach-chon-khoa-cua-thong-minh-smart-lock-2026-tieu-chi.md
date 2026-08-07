@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-khoa-cua-thong-minh-smart-lock-2026-tieu-chi"
 title: "Cách chọn khóa cửa thông minh (smart lock) 2026: 5 tiêu chí quan trọng trước khi mua"
 description: "Hướng dẫn chọn khóa cửa thông minh năm 2026: phương thức mở khóa, tích hợp nhà thông minh, thời lượng pin, khả năng lắp đặt và mức giá phù hợp nhu cầu."

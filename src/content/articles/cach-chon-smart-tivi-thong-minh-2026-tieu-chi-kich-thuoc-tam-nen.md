@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-smart-tivi-thong-minh-2026-tieu-chi-kich-thuoc-tam-nen"
 title: "Cách chọn smart tivi thông minh 2026: kích thước, tấm nền, hệ điều hành"
 description: "Hướng dẫn chọn smart tivi đúng nhu cầu: chọn kích thước theo khoảng cách ngồi, tấm nền OLED, QLED, LED, độ phân giải 4K, hệ điều hành và cổng kết nối quan trọng"

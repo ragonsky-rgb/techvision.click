@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "meta-kinh-ai-299-usd-2026-fury-adventurer-kylie-muse-spark"
 title: "Meta ra kính AI giá 299 USD: bộ ba Fury, Adventurer và bản Kylie, chạy Muse Spark"
 description: "Meta ra mắt kính AI giá từ 299 USD ngày 23/6/2026 gồm Fury, Adventurer và bản Kylie 399 USD, bỏ thương hiệu Ray-Ban, chạy AI Muse Spark, có camera và loa"

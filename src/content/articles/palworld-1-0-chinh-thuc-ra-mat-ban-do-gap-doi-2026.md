@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "palworld-1-0-chinh-thuc-ra-mat-ban-do-gap-doi-2026"
 title: "Palworld chính thức ra mắt bản 1.0: bản đồ gần gấp đôi, hơn 200 Pal, World Tree mở khóa"
 description: "Palworld thoát Early Access, phát hành bản 1.0 ngày 10/7/2026 với bản đồ gần gấp đôi, lai gen Genetic Recombination và khu vực World Tree."

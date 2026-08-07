@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "gopro-max2-cap-nhat-firmware-200mbps-10bit-2026"
 title: "GoPro MAX2 nhận bản cập nhật lớn: bitrate 200Mbps, quay 10-bit, thêm GP-Log"
 description: "GoPro tung firmware mới cho MAX2 với bitrate tối đa 200Mbps, màu 10-bit, chế độ GP-Log và nút chống nhấp nháy, nâng chất lượng video 360 độ"

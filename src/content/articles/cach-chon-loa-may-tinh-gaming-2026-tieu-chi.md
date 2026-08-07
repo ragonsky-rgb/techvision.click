@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-loa-may-tinh-gaming-2026-tieu-chi"
 title: "Cách chọn loa máy tính gaming 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn loa máy tính gaming 2026: cấu hình 2.0 hay 2.1 có sub, công suất RMS, kết nối và tính năng RGB, chất lượng âm bass mid treble, kích thước bàn."

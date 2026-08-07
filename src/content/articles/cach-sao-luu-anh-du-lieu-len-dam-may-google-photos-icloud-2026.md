@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-sao-luu-anh-du-lieu-len-dam-may-google-photos-icloud-2026"
 title: "Cách sao lưu ảnh và dữ liệu lên đám mây: Google Photos, iCloud, Drive"
 description: "Hướng dẫn sao lưu ảnh và dữ liệu lên đám mây an toàn: bật sao lưu Google Photos, iCloud, dùng Google Drive, quản lý dung lượng miễn phí và bảo mật tài khoản"

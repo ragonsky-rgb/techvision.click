@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "surface-laptop-for-business-8th-edition-man-hinh-rieng-tu-2026"
 title: "Surface Laptop for Business 8th Edition: laptop đầu tiên có màn hình riêng tư bật tắt bằng một phím"
 description: "Surface Laptop for Business 8th Edition có màn hình riêng tư đầu tiên trên laptop, bật tắt bằng phím F1, chip Intel Core Ultra Series 3, giá từ 1.949 USD."

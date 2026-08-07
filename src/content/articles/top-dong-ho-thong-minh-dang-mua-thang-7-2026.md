@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-dong-ho-thong-minh-dang-mua-thang-7-2026"
 title: "Top đồng hồ thông minh đáng mua tháng 7/2026 theo nhu cầu"
 description: "Gợi ý đồng hồ thông minh đáng mua tháng 7/2026: Apple Watch Series 11 cho iPhone, Galaxy Watch 8 tích hợp Gemini AI, Apple Watch SE 3 giá tốt"

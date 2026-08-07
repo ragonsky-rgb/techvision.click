@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "loa-may-tinh-2-0-hay-2-1-chon-loai-nao-2026"
 title: "Loa máy tính 2.0 hay 2.1: chọn loại nào 2026?"
 description: "So sánh loa máy tính 2.0 và 2.1 2026: âm bass, chất âm, không gian, mục đích dùng và giá, giúp bạn chọn đúng bộ loa theo nhu cầu."

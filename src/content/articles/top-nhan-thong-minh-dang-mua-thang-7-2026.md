@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-nhan-thong-minh-dang-mua-thang-7-2026"
 title: "Top nhẫn thông minh đáng mua tháng 7/2026: Oura, Galaxy Ring"
 description: "Tổng hợp các mẫu nhẫn thông minh đáng cân nhắc tháng 7/2026: Oura Ring 5, Samsung Galaxy Ring, Circular Ring 2, RingConn Gen 2 Air, so sánh giá và tính năng."

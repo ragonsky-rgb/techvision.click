@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "amd-ryzen-ai-max-395-strix-halo-mini-pc-ai-70b-2026"
 title: "Ryzen AI Max+ 395 là gì: mini PC nhỏ chạy AI 70B nội bộ"
 description: "Ryzen AI Max+ 395 (Strix Halo) gộp 16 nhân Zen 5, iGPU Radeon 8060S và 128GB RAM hợp nhất, đủ chạy mô hình AI 70B ngay trên mini PC. Giá, hiệu năng và ý nghĩa."

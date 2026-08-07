@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-flycam-dang-mua-thang-7-2026"
 title: "Top flycam đáng mua tháng 7/2026: DJI Air 3S, Mini 5 Pro"
 description: "Tổng hợp flycam đáng cân nhắc tháng 7/2026: DJI Air 3S, DJI Mini 5 Pro, DJI Mavic 4 Pro, so sánh giá, thời lượng pin và chất lượng camera cho từng nhu cầu."

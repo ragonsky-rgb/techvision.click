@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-tay-cam-choi-game-2026-tieu-chi"
 title: "Cách chọn tay cầm chơi game 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn chọn tay cầm chơi game 2026: khả năng tương thích thiết bị, cảm biến haptic, độ trễ kết nối không dây, độ bền phím bấm và thời lượng pin."

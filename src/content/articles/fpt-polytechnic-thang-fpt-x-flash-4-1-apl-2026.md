@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "fpt-polytechnic-thang-fpt-x-flash-4-1-apl-2026"
 title: "FPT Polytechnic gây địa chấn, hạ đương kim vô địch FPT x Flash 4-1 tại APL 2026"
 description: "FPT Polytechnic tiếp tục là ngựa ô APL 2026 khi đánh bại đương kim vô địch FPT x Flash 4-1 tại tứ kết nhánh thua, giành vé vào bán kết ngày 12/7."

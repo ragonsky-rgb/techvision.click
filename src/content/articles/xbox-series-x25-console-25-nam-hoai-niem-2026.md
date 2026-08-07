@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "xbox-series-x25-console-25-nam-hoai-niem-2026"
 title: "Xbox Series X25: máy chơi game trong suốt màu xanh, kỷ niệm 25 năm Xbox"
 description: "Xbox Series X25 phiên bản giới hạn kỷ niệm 25 năm, vỏ nhựa trong suốt màu xanh OG Green gợi nhớ Xbox đời đầu, dung lượng 1TB, ra mắt tháng 11/2026."

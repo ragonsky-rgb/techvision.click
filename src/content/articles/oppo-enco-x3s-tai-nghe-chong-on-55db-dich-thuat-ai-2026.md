@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "oppo-enco-x3s-tai-nghe-chong-on-55db-dich-thuat-ai-2026"
 title: "OPPO Enco X3s: tai nghe chống ồn 55dB, dịch thuật AI trên 20 ngôn ngữ"
 description: "OPPO ra mắt Enco X3s, tai nghe true wireless chống ồn chủ động 55dB, tinh chỉnh âm thanh cùng Dynaudio, tích hợp AI Translate dịch trực tiếp hơn 20 ngôn ngữ."

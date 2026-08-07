@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "google-pixel-11-pro-tensor-g6-2nm-pixel-glow-camera-ai-2026"
 title: "Google Pixel 11 Pro lộ diện: Tensor G6 2nm, camera bar phát sáng, AI chụp đêm"
 description: "Rò rỉ Google Pixel 11 series: chip Tensor G6 trên tiến trình 2nm, camera bar RGB Pixel Glow, Night Sight Video 2.0 chạy on-device. Dự kiến ra mắt tháng 8/2026."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dien-thoai-quat-tan-nhiet-tich-hop-la-gi-co-can-2026"
 title: "Điện thoại có quạt tản nhiệt: là gì, có thực sự cần?"
 description: "Quạt tản nhiệt tích hợp trong điện thoại là gì, hoạt động ra sao và có thực sự cần khi chơi game? Giải thích cơ chế, ưu nhược điểm và ai nên mua năm 2026."

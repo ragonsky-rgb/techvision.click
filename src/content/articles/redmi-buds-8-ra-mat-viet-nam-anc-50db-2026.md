@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "redmi-buds-8-ra-mat-viet-nam-anc-50db-2026"
 title: "REDMI Buds 8 ra mắt Việt Nam: chống ồn 50dB, pin 44 giờ, giá 1,59 triệu"
 description: "REDMI Buds 8 chính thức mở bán tại Việt Nam, chống ồn chủ động 50dB, driver 11mm, pin tổng 44 giờ, sạc nhanh 10 phút dùng 4 giờ, giá 1.590.000 đồng."

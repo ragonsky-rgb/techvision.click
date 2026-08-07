@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-fluid-ai-design-system-tuong-lai-one-ui-2026"
 title: "Fluid AI Design System: Samsung hé lộ tương lai One UI"
 description: "Samsung giới thiệu Fluid AI Design System, concept thắng Red Dot 2026 nơi AI Agent và giao diện tạo sinh hòa làm một. Chưa phải One UI mới, chỉ là tầm nhìn."

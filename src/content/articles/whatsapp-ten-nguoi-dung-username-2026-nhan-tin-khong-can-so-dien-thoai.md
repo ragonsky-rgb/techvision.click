@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "whatsapp-ten-nguoi-dung-username-2026-nhan-tin-khong-can-so-dien-thoai"
 title: "WhatsApp thêm tên người dùng: nhắn tin không cần lộ số điện thoại"
 description: "WhatsApp triển khai tính năng tên người dùng (username) toàn cầu trong 2026, cho phép nhắn tin và gọi mà không cần chia sẻ số điện thoại, tăng quyền riêng tư"

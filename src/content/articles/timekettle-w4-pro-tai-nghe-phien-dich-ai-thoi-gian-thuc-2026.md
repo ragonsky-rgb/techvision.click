@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "timekettle-w4-pro-tai-nghe-phien-dich-ai-thoi-gian-thuc-2026"
 title: "TimeKettle W4 Pro: tai nghe phiên dịch AI thời gian thực 40+ ngôn ngữ"
 description: "TimeKettle W4 Pro là tai nghe phiên dịch AI hai chiều thời gian thực, hỗ trợ hơn 40 ngôn ngữ và hàng trăm giọng vùng miền, dùng công nghệ AI Semantic Judgment."

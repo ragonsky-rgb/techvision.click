@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "telegram-cap-nhat-2026-smartwatch-ai-guardian-bot-tinh-nang-moi"
 title: "Telegram cập nhật 2026: trở lại smartwatch, thêm AI gác cổng nhóm"
 description: "Telegram tung bản cập nhật 2026: ứng dụng cho Apple Watch và Wear OS sau 5 năm, AI gác cổng sàng lọc thành viên nhóm, nâng cấp bot AI và poll, giao diện mới"

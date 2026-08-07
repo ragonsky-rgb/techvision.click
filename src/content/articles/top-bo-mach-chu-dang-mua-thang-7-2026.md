@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-bo-mach-chu-dang-mua-thang-7-2026"
 title: "Top bo mạch chủ đáng mua tháng 7/2026: từ phổ thông đến cao cấp"
 description: "Gợi ý bo mạch chủ đáng mua tháng 7/2026: chipset dòng B giá tốt cho cấu hình phổ thông, chipset tầm trung cân bằng tính năng, chipset cao cấp cho ép xung."

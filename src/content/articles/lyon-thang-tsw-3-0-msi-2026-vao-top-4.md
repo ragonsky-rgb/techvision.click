@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "lyon-thang-tsw-3-0-msi-2026-vao-top-4"
 title: "LYON quét sạch TSW 3-0 tại MSI 2026, đại diện LCP vào top 4 chung cuộc"
 description: "LYON đánh bại Team Secret Whales với tỷ số 3-0 tại vòng nhánh thua MSI 2026 chiều 8/7, chính thức chấm dứt hành trình của đại diện LCP và giành vé vào top 4."

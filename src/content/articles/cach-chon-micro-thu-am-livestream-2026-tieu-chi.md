@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-micro-thu-am-livestream-2026-tieu-chi"
 title: "Cách chọn micro thu âm, livestream 2026: 5 tiêu chí trước khi mua"
 description: "Hướng dẫn cách chọn micro thu âm, livestream phù hợp năm 2026: kiểu micro, hướng thu âm, kết nối, soundcard đi kèm và ngân sách, tránh mua nhầm."

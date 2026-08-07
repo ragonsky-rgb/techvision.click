@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "grok-4-5-beta-spacex-tesla-mo-hinh-v9-1-5-nghin-ty-tham-so"
 title: "Grok 4.5 vào giai đoạn beta nội bộ tại SpaceX và Tesla, nền tảng V9 1,5 nghìn tỷ tham số"
 description: "Elon Musk xác nhận Grok 4.5, xây trên mô hình nền tảng V9-Medium 1,5 nghìn tỷ tham số, đã hoàn tất huấn luyện và bước vào thử nghiệm nội bộ tại SpaceX, Tesla."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "valve-steam-frame-kinh-vr-doc-lap-2026"
 title: "Valve Steam Frame: kính VR độc lập chạy SteamOS, chơi được Half-Life Alyx không cần PC"
 description: "Valve Steam Frame là kính VR độc lập dùng chip Snapdragon 8 Gen 3, nặng khoảng 440g, chạy SteamOS, chơi được Half-Life Alyx mà không cần kết nối PC."

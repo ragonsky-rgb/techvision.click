@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-ban-nang-ha-standing-desk-2026-tieu-chi"
 title: "Cách chọn bàn nâng hạ (standing desk) 2026: 5 tiêu chí quan trọng trước khi mua"
 description: "Hướng dẫn chọn bàn nâng hạ độ cao năm 2026: khả năng chịu tải, phạm vi điều chỉnh độ cao, độ ổn định khi nâng cao, tốc độ động cơ và mức giá phù hợp nhu cầu."

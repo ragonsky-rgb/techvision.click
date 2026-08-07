@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-dien-thoai-pin-trau-tren-7000mah-dang-mua-thang-8-2026"
 title: "Top điện thoại pin trâu trên 7000mAh đáng mua tháng 8/2026"
 description: "Top điện thoại pin trâu trên 7000mAh tháng 8/2026: Redmi Note 17 Pro, OnePlus 15R, Oppo K15, Realme 16T, Honor Win Turbo, chọn theo nhu cầu."

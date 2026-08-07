@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "camera-an-ninh-khong-day-hay-co-day-chon-loai-nao-2026"
 title: "Camera an ninh không dây hay có dây 2026?"
 description: "So sánh camera an ninh không dây wifi và camera có dây 2026: lắp đặt, độ ổn định, đường truyền, vị trí và giá, giúp bạn chọn đúng camera giám sát cho gia đình."

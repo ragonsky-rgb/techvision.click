@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-the-nho-microsd-dang-mua-thang-7-2026"
 title: "Top thẻ nhớ microSD đáng mua tháng 7/2026"
 description: "Gợi ý thẻ nhớ microSD đáng mua tháng 7/2026: mẫu giá tốt cho điện thoại, dòng tầm trung tốc độ cao cho máy chơi game cầm tay, cao cấp bền bỉ cho flycam."

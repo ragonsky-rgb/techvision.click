@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong"
 title: "Tần số quét 60Hz, 90Hz, 120Hz là gì? Có thực sự cần thiết?"
 description: "120Hz, 144Hz, tần số quét cảm ứng: các con số Hz xuất hiện dày đặc trong quảng cáo điện thoại, nhưng không phải ai cũng hiểu chúng nghĩa là gì và có đáng để."

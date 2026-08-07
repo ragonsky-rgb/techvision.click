@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "may-choi-game-cam-tay-hay-dien-thoai-gaming-chon-loai-nao-2026"
 title: "Máy chơi game cầm tay hay điện thoại gaming 2026?"
 description: "So sánh máy chơi game cầm tay và điện thoại gaming 2026: kho game, trải nghiệm điều khiển, tính đa dụng, pin và giá, giúp bạn chọn đúng theo nhu cầu chơi."

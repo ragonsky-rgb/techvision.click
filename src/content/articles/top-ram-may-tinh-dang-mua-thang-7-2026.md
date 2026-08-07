@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-ram-may-tinh-dang-mua-thang-7-2026"
 title: "Top RAM máy tính đáng mua tháng 8/2026: từ phổ thông đến cao cấp"
 description: "Gợi ý RAM máy tính đáng mua tháng 8/2026: bộ kit DDR4 giá tốt cho hệ thống cũ, DDR5 tầm trung cân bằng, DDR5 tốc độ cao cho game thủ và dựng nội dung."
