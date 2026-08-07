@@ -8,7 +8,7 @@ type: "tin-tuc"
 datePublished: "2026-08-06T17:30:00+07:00"
 dateModified: "2026-08-06T17:30:00+07:00"
 deck: "Trong một diễn biến gây bất ngờ, Apple đã gỡ Telegram, ứng dụng nhắn tin có gần một tỷ người dùng, khỏi App Store trên phạm vi toàn cầu vào ngày 4/8/2026. Lý do được Apple đưa ra là phát hiện nội dung xâm hại trẻ em (CSAM) vi phạm quy định. Người dùng iPhone và iPad tạm thời không thể tải mới hoặc cập nhật Telegram, dù ứng dụng đã cài vẫn chạy bình thường và bản trên Android hay Mac App Store không bị ảnh hưởng. Sự việc kéo dài khoảng 40 phút trước khi ứng dụng được khôi phục. Bài viết tổng hợp diễn biến qua các nguồn quốc tế và phân tích ý nghĩa với người dùng."
-heroImage: "https://i.ytimg.com/vi/bdsL8IGC7ik/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/PUFEcyHGFEM/hqdefault.jpg"
 heroAlt: "Apple go Telegram khoi App Store toan cau vi noi dung CSAM thang 8 2026"
 heroCaption: "Apple gỡ Telegram khỏi App Store toàn cầu vì phát hiện nội dung CSAM, rồi khôi phục sau khoảng 40 phút. Nguồn: YouTube"
 tldr: "<strong>Ngày 4/8/2026</strong>, Apple gỡ ứng dụng nhắn tin <strong>Telegram</strong>, vốn có gần <strong>một tỷ người dùng</strong>, khỏi <strong>App Store toàn cầu</strong>. Apple xác nhận lý do là phát hiện <strong>nội dung CSAM</strong> (xâm hại trẻ em) vi phạm quy định. Trong thời gian này, người dùng iPhone và iPad không thể tải mới hay cập nhật Telegram, nhưng ứng dụng đã cài vẫn hoạt động, còn bản Android và trên Mac App Store không bị ảnh hưởng. Telegram nói vụ việc bắt nguồn từ <strong>một tài khoản</strong> đã bị cấm ngay, và cho biết hãng đã gỡ hơn <strong>337.900 nhóm và kênh</strong> liên quan CSAM trong năm 2026. Ứng dụng quay lại App Store sau khoảng <strong>40 phút</strong>."
@@ -66,7 +66,7 @@ Theo các nguồn quốc tế như MacRumors, 9to5Mac và Bloomberg, tối thứ
 Điểm cần nhấn mạnh là việc gỡ chỉ ảnh hưởng tới khả năng tải mới và cập nhật ứng dụng trên thiết bị Apple. Những người đã cài Telegram vẫn nhắn tin, gọi điện và truy cập tài khoản bình thường trong suốt thời gian đó. Bản Telegram trên Android không bị đụng tới, và ứng dụng trên Mac App Store cũng tiếp tục hiện diện. Nói cách khác, đây là một lệnh gỡ có phạm vi hẹp về mặt kỹ thuật nhưng lại có sức lan tỏa truyền thông rất lớn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/JTLdCNSf8UQ/hqdefault.jpg" alt="Telegram bi go khoi App Store nguoi dung iPhone khong the tai moi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LN1-Bwf-kDg/hqdefault.jpg" alt="Telegram bi go khoi App Store nguoi dung iPhone khong the tai moi" loading="lazy" width="1280" height="720">
   <figcaption>Trong thời gian Telegram bị gỡ, người dùng iPhone không thể tải mới hoặc cập nhật ứng dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Apple xác nhận nguyên nhân là phát hiện nội dung CSAM, viết tắt c
 Cần phân biệt rõ rằng lệnh gỡ không đồng nghĩa toàn bộ Telegram là nền tảng chứa nội dung xấu. Nội dung vi phạm thường do người dùng tự đăng tải trong các nhóm hoặc kênh, và trách nhiệm của nền tảng là phát hiện, gỡ bỏ kịp thời. Cách Apple phản ứng cho thấy hãng kỳ vọng các ứng dụng phải kiểm soát chặt nội dung do người dùng tạo ra, đặc biệt ở nhóm nội dung nhạy cảm nhất. Đây cũng là bài học chung cho mọi nền tảng mạng xã hội và nhắn tin.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/wkzNPBAfQOc/hqdefault.jpg" alt="Apple ap dung chinh sach nghiem ngat ve noi dung xam hai tre em CSAM" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0OwKtWAH6z4/hqdefault.jpg" alt="Apple ap dung chinh sach nghiem ngat ve noi dung xam hai tre em CSAM" loading="lazy" width="1280" height="720">
   <figcaption>Apple áp dụng chính sách nghiêm khắc với nội dung xâm hại trẻ em, kể cả với ứng dụng lớn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Về phía Telegram, hãng đưa ra giải trình rằng vụ việc bắt ngu�
 Cách xử lý sau đó diễn ra khá nhanh. Ứng dụng quay trở lại App Store sau khoảng 40 phút, cho thấy hai bên đã làm việc để khắc phục vấn đề trong thời gian ngắn. Với người dùng, khoảng thời gian này gần như không gây gián đoạn sử dụng thực tế, nhưng với giới công nghệ, nó là một ví dụ đáng chú ý về cách một nền tảng có thể ra quyết định mạnh tay và một ứng dụng lớn phải phản ứng tức thời để bảo vệ vị trí của mình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/HFvikxirrlo/hqdefault.jpg" alt="Telegram khoi phuc tren App Store sau 40 phut giai trinh mot tai khoan vi pham" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PUFEcyHGFEM/hqdefault.jpg" alt="Telegram khoi phuc tren App Store sau 40 phut giai trinh mot tai khoan vi pham" loading="lazy" width="1280" height="720">
   <figcaption>Telegram quay lại App Store sau khoảng 40 phút, nói vụ việc đến từ một tài khoản đã bị cấm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sự việc một lần nữa cho thấy sức mạnh của App Store trong hệ
 
 <div class="art-video-label">VIDEO · Diễn biến Apple gỡ Telegram khỏi App Store</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/Wu_2NKLNTWg" title="Apple go Telegram khoi App Store dien bien" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/LN1-Bwf-kDg" title="Telegram bi go khoi App Store" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Vụ Apple gỡ rồi khôi phục Telegram cho thấy quyền kiểm soát mạnh của nền tảng App Store. Nguồn: YouTube</p>
 
