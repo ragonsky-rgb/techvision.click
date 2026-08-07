@@ -37,9 +37,9 @@ faq:
   - q: "Redmi Note 17 dùng chip gì?"
     a: "Cấu hình chip của từng bản vẫn đang ở dạng rò rỉ và có sự khác nhau giữa các nguồn. Bản Pro Max nhiều khả năng dùng MediaTek Dimensity 7500, trong khi bản tiêu chuẩn và Pro dùng các chip Snapdragon hoặc Dimensity tầm trung khác. Thông số chính thức sẽ được Xiaomi xác nhận trong sự kiện ngày 14/7."
 related:
-  - { href: "/articles/oppo-reno16-f-5g-ra-mat-viet-nam-pin-7000mah-2026.html", cat: "Smartphone", title: "OPPO Reno16 F 5G ra mắt Việt Nam, pin 7.000mAh" }
-  - { href: "/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html", cat: "Công nghệ", title: "Giá RAM DRAM tăng thêm 20% quý 3 2026" }
-  - { href: "/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html", cat: "Công nghệ", title: "Gartner: giá điện thoại, laptop 2026 tăng, nên mua gì" }
+  - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro ra mắt: pin 9.000mAh, giá từ 1.599 tệ" }
+  - { href: "/articles/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.html", cat: "Smartphone", title: "Honor 600 Pro: camera 200MP, pin 7000mAh có gì đáng mua?" }
+  - { href: "/articles/xiaomi-17-max-pin-8000mah-camera-200mp-leica-gia-viet-nam-2026.html", cat: "Smartphone", title: "Xiaomi 17 Max vừa ra mắt: Pin 8.000mAh, Camera Leica 200MP, Giá Xách Tay Việt Nam Dự Kiến Bao Nhiêu?" }
 featured: true
 ---
 

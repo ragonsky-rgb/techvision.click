@@ -37,9 +37,9 @@ faq:
   - q: "Thiết bị Sweetpea có thay thế được smartphone không?"
     a: "Sam Altman mô tả thiết bị như một lựa chọn bình yên và nhẹ nhàng thay cho smartphone, chứ không hẳn là vật thay thế hoàn toàn. Vì không có màn hình và tập trung vào giọng nói, thiết bị phù hợp cho các tác vụ nhanh như hỏi đáp, ghi chú, nhắc việc hay điều khiển trợ lý AI mà không phải rút điện thoại ra. Trong giai đoạn đầu, nhiều khả năng nó đóng vai trò bổ trợ cho điện thoại hơn là thay thế ngay lập tức."
 related:
-  - { href: "/articles/openai-jalapeno-chip-ai-dau-tien-hop-tac-broadcom-2026.html", cat: "AI", title: "OpenAI Jalapeno: chip AI đầu tiên hợp tác Broadcom" }
-  - { href: "/articles/openai-gpt-live-tro-ly-giong-noi-thoi-gian-thuc-2026.html", cat: "AI", title: "OpenAI GPT Live: trợ lý giọng nói thời gian thực" }
-  - { href: "/articles/apple-kien-openai-danh-cap-bi-mat-thuong-mai-2026.html", cat: "AI", title: "Apple kiện OpenAI vì cáo buộc đánh cắp bí mật thương mại" }
+  - { href: "/articles/hdmi-hay-displayport-chon-cong-nao-pc-man-hinh-2026.html", cat: "Công nghệ", title: "HDMI hay DisplayPort? Chọn cổng nào cho PC, màn hình 2026" }
+  - { href: "/articles/minimax-m3-mo-hinh-ai-ma-nguon-mo-1-trieu-token-2026.html", cat: "AI", title: "MiniMax M3: mô hình AI mã nguồn mở 1 triệu token" }
+  - { href: "/articles/google-gemini-3-6-flash-flash-lite-flash-cyber-ra-mat-2026.html", cat: "AI", title: "Google ra mắt Gemini 3.6 Flash và 2 mô hình AI mới 2026" }
 featured: false
 ---
 

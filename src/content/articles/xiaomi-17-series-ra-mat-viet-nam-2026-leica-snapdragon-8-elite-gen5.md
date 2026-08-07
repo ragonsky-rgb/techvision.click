@@ -37,9 +37,9 @@ faq:
   - q: "Nên chọn Xiaomi 17 hay các đối thủ cùng phân khúc?"
     a: "Lựa chọn phụ thuộc vào nhu cầu sử dụng. Nếu ưu tiên camera và thương hiệu lâu năm, Xiaomi 17 với camera Leica là lựa chọn đáng cân nhắc trong tầm giá. Người dùng cũng nên so sánh với các đối thủ Android khác cùng phân khúc như Honor Magic V5 nếu quan tâm thiết kế gập, hoặc Redmi K90 Ultra nếu ưu tiên pin và hiệu năng gaming với mức giá dễ tiếp cận hơn."
 related:
-  - { href: "/articles/redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re.html", cat: "Smartphone", title: "Redmi K90 Ultra: vũ khí gaming pin 8500mAh giá rẻ" }
+  - { href: "/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html", cat: "Smartphone", title: "Xiaomi 17T Series ra mắt 28/5: Leica 5x zoom, pin 6.500mAh, giá từ 12.9 triệu tại Việt Nam" }
   - { href: "/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html", cat: "Smartphone", title: "Honor Magic V5: điện thoại gập mỏng nhất thế giới" }
-  - { href: "/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html", cat: "Smartphone", title: "Oppo Find X10 Pro: đối thủ iPhone 18 Pro Max" }
+  - { href: "/articles/xiaomi-17-max-pin-8000mah-camera-200mp-leica-gia-viet-nam-2026.html", cat: "Smartphone", title: "Xiaomi 17 Max vừa ra mắt: Pin 8.000mAh, Camera Leica 200MP, Giá Xách Tay Việt Nam Dự Kiến Bao Nhiêu?" }
 featured: false
 ---
 

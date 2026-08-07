@@ -37,9 +37,8 @@ faq:
   - q: "EWC 2026 có ý nghĩa gì với làng Valorant?"
     a: "Esports World Cup là sự kiện esports tổng hợp quy tụ nhiều bộ môn, và Valorant là một trong những tựa game được chú ý nhất. Chức vô địch của 100 Thieves khẳng định sức mạnh của khu vực Bắc Mỹ, đồng thời mang tới những trận đấu chất lượng cao cho người hâm mộ toàn cầu."
 related:
-  - { href: "/articles/ewc-2026-lmht-ket-qua-vong-bang-nhanh-thang-nhanh-thua-cap-nhat.html", cat: "Game", title: "EWC 2026 LMHT: kết quả vòng bảng nhánh thắng, nhánh thua" }
-  - { href: "/articles/free-fire-ewc-2026-esports-world-cup-vong-bang.html", cat: "Game", title: "Free Fire tại EWC 2026: vòng bảng Esports World Cup" }
-  - { href: "/articles/apl-2026-viet-nam-3-dai-dien-tu-ket-lien-quan-mobile.html", cat: "Game", title: "APL 2026: Việt Nam có 3 đại diện vào tứ kết Liên Quân Mobile" }
+  - { href: "/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html", cat: "Gaming", title: "EWC 2026 LMHT: Dplus KIA vô địch, hạ Karmine Corp 3-0" }
+  - { href: "/articles/free-fire-ewc-2026-lyon-vo-dich-ky-luc-ha-guc.html", cat: "Gaming", title: "Free Fire EWC 2026: LYON vô địch, lập kỷ lục hạ gục" }
 featured: false
 ---
 

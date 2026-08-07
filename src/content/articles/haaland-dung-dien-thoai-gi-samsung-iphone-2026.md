@@ -35,9 +35,9 @@ faq:
   - q: "Người dùng Việt Nam nên rút ra điều gì từ câu chuyện này?"
     a: "Câu chuyện là lời nhắc rằng hình ảnh quảng cáo của người nổi tiếng không phải lúc nào cũng phản ánh trải nghiệm sử dụng thực tế. Khi cân nhắc mua smartphone, người dùng nên dựa vào nhu cầu cá nhân, ngân sách và đánh giá thông số thực tế thay vì chỉ dựa vào việc một ngôi sao nào đó đang quảng cáo cho sản phẩm nào."
 related:
-  - { href: "/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html", cat: "Smartphone", title: "Samsung Galaxy S26 Ultra camera 200MP, Snapdragon 8 Elite Gen 5" }
-  - { href: "/articles/iphone-17e-apple-gia-re-a19-dynamic-island-2026.html", cat: "Apple", title: "iPhone 17e, Apple giá rẻ chip A19, Dynamic Island" }
-  - { href: "/articles/iphone-18-pro-camera-khau-do-thay-doi-cam-bien-moi-2026.html", cat: "Apple", title: "iPhone 18 Pro, camera khẩu độ thay đổi, cảm biến mới" }
+  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
+  - { href: "/articles/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.html", cat: "Smartphone", title: "Samsung Galaxy Z TriFold: điện thoại gập ba đầu tiên, mở ra 10 inch" }
+  - { href: "/articles/iphone-fold-2026-apple-foldable.html", cat: "Smartphone", title: "iPhone Fold: Apple ra mắt điện thoại gập đầu tiên, mỏng 4.5mm, màn 7.8 inch, giá từ $2,000" }
 featured: false
 ---
 

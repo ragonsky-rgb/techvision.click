@@ -37,9 +37,9 @@ faq:
   - q: "Có nên chờ mua Galaxy S26 FE không?"
     a: "Nếu bạn muốn một chiếc điện thoại Samsung có trải nghiệm gần flagship nhưng giá mềm hơn, cập nhật phần mềm dài hạn và không cần cấu hình mạnh nhất, thì Galaxy S26 FE đáng để chờ. Tuy nhiên, vì mọi thông tin hiện là tin đồn, bạn nên đợi tới khi Samsung công bố chính thức về cấu hình, giá và ngày bán, rồi so sánh với các lựa chọn cùng tầm giá trước khi quyết định."
 related:
-  - { href: "/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html", cat: "Smartphone", title: "Galaxy S26 Ultra: camera 200MP, Snapdragon 8 Elite Gen 5" }
-  - { href: "/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html", cat: "Smartphone", title: "Samsung Exynos 2600: chip 2nm đầu tiên thế giới 2026" }
-  - { href: "/articles/iphone-17e-apple-gia-re-a19-dynamic-island-2026.html", cat: "Smartphone", title: "iPhone 17e: iPhone giá rẻ chip A19, Dynamic Island" }
+  - { href: "/articles/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia.html", cat: "Smartphone", title: "Galaxy Z Flip 8: cấu hình, sạc 45W, giá ra mắt 22/7/2026" }
+  - { href: "/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP" }
+  - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Fold 2026: giá dự kiến, cấu hình, ngày ra mắt" }
 featured: true
 ---
 

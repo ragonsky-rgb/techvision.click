@@ -35,9 +35,9 @@ faq:
   - q: "MiniMax M3 có dùng được cho lập trình viên Việt Nam không?"
     a: "Vì là mô hình mã nguồn mở, MiniMax M3 về lý thuyết có thể được lập trình viên và doanh nghiệp Việt Nam tải về hoặc truy cập qua các công cụ lập trình hỗ trợ. Đây là cơ hội để tiếp cận một mô hình mạnh mà không tốn chi phí bản quyền lớn, dù việc triển khai thực tế còn phụ thuộc vào hạ tầng tính toán."
 related:
-  - { href: "/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html", cat: "AI", title: "Google Gemini 3.5 Pro: 2 triệu token, Deep Think" }
+  - { href: "/articles/kimi-k3-moonshot-ai-2800-ty-tham-so-mo-hinh-ma-nguon-mo-lon-nhat-2026.html", cat: "AI", title: "Kimi K3 là gì: mô hình AI mã nguồn mở 2.800 tỷ tham số" }
   - { href: "/articles/apple-afm-3-mo-hinh-ai-apple-hop-tac-google-gemini-2026.html", cat: "AI", title: "Apple AFM 3: mô hình AI mới, bắt tay Google Gemini" }
-  - { href: "/articles/openai-huy-dong-122-ty-usd-dinh-gia-852-ty-2026.html", cat: "AI", title: "OpenAI huy động 122 tỷ USD, định giá kỷ lục 852 tỷ" }
+  - { href: "/articles/kimi-k2-7-code-mo-hinh-ai-ma-nguon-mo-github-copilot-2026.html", cat: "AI", title: "Kimi K2.7 Code: mô hình AI mã nguồn mở vào GitHub Copilot" }
 featured: false
 ---
 

@@ -38,7 +38,7 @@ faq:
     a: "Nên ưu tiên mua tại các cửa hàng có chính sách bảo hành rõ ràng, hỗ trợ đổi trả trong thời gian nhất định, thay vì mua từ cá nhân không có hóa đơn hoặc bảo hành. Trong trường hợp ngân sách hạn chế và muốn mua máy mới với giá tốt, người dùng cũng có thể tham khảo danh sách các cửa hàng uy tín bán MacBook chính hãng để có thêm lựa chọn so sánh giá."
 related:
   - { href: "/articles/top-10-cua-hang-mua-macbook-gia-tot-2026-shopee-fpt-cellphones.html", cat: "Laptop", title: "Top 10 cửa hàng mua MacBook giá tốt 2026" }
-  - { href: "/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html", cat: "Apple", title: "Cách kiểm tra iPhone cũ trước khi mua: checklist 2026" }
+  - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
   - { href: "/articles/apple-tang-gia-macbook-ipad-mac-studio-viet-nam-2026.html", cat: "Apple", title: "Apple tăng giá MacBook, iPad, Mac Studio tại Việt Nam" }
 featured: false
 ---

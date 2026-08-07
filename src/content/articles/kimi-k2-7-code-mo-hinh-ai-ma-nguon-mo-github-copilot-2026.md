@@ -36,7 +36,7 @@ faq:
     a: "Vì là mô hình mã nguồn mở, Kimi K2.7 Code về lý thuyết có thể được lập trình viên và doanh nghiệp Việt Nam truy cập qua các nền tảng hỗ trợ hoặc tự triển khai. Đây là cơ hội tiếp cận một công cụ lập trình AI mạnh với chi phí thấp, dù việc chạy mô hình lớn vẫn đòi hỏi hạ tầng tính toán phù hợp."
 related:
   - { href: "/articles/minimax-m3-mo-hinh-ai-ma-nguon-mo-1-trieu-token-2026.html", cat: "AI", title: "MiniMax M3: mô hình AI mã nguồn mở 1 triệu token" }
-  - { href: "/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html", cat: "AI", title: "Google Gemini 3.5 Pro: 2 triệu token, Deep Think" }
+  - { href: "/articles/kimi-k3-moonshot-ai-2800-ty-tham-so-mo-hinh-ma-nguon-mo-lon-nhat-2026.html", cat: "AI", title: "Kimi K3 là gì: mô hình AI mã nguồn mở 2.800 tỷ tham số" }
   - { href: "/articles/apple-afm-3-mo-hinh-ai-apple-hop-tac-google-gemini-2026.html", cat: "AI", title: "Apple AFM 3: mô hình AI mới, bắt tay Google Gemini" }
 featured: false
 ---

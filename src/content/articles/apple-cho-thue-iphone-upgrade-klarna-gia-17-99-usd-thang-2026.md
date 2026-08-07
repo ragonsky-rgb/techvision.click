@@ -39,8 +39,8 @@ faq:
   - q: "Vì sao Apple chuyển sang cho thuê thiết bị?"
     a: "Giới phân tích cho rằng mô hình thuê giúp hạ rào cản chi phí ban đầu, biến iPhone hay Mac thành một khoản chi hàng tháng thay vì khoản tiền lớn trả một lần, qua đó kích thích doanh số và giữ khách hàng gắn bó lâu hơn với hệ sinh thái Apple trong bối cảnh chu kỳ nâng cấp máy đang kéo dài ra."
 related:
-  - { href: "/articles/apple-creator-studio-goi-thue-bao-doi-dau-adobe-creative-cloud-2026.html", cat: "Apple", title: "Apple Creator Studio: gói thuê bao đối đầu Adobe Creative Cloud" }
-  - { href: "/articles/iphone-17-giam-gia-thang-7-2026-bang-gia-co-nen-mua.html", cat: "Apple", title: "iPhone 17 giảm giá tháng 7/2026: bảng giá và có nên mua" }
+  - { href: "/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html", cat: "Apple", title: "iPhone 18 Pro: giá bán, tính năng, ngày ra mắt tháng 9/2026" }
+  - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Fold 2026: giá dự kiến, cấu hình, ngày ra mắt" }
   - { href: "/articles/apple-cat-giam-15-phan-tram-san-luong-iphone-17-nen-mua-hay-cho-iphone-18-2026.html", cat: "Apple", title: "Apple cắt giảm 15% sản lượng iPhone 17: nên mua hay chờ iPhone 18" }
 featured: true
 ---

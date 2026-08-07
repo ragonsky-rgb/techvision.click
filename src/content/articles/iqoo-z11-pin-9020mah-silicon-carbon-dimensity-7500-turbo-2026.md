@@ -39,7 +39,7 @@ faq:
   - q: "iQOO Z11 cạnh tranh với máy nào?"
     a: "iQOO Z11 tham gia vào cuộc đua điện thoại pin lớn đang rất sôi động, cạnh tranh với nhiều mẫu có pin từ 7000mAh trở lên. Lợi thế của máy là pin 9020mAh cùng thân mỏng nhờ công nghệ silicon-carbon, trong khi các đối thủ có thể mạnh hơn ở màn hình, camera hay thương hiệu. Lựa chọn cuối cùng phụ thuộc vào việc bạn ưu tiên pin, hiệu năng hay các yếu tố khác trong tầm giá."
 related:
-  - { href: "/articles/top-dien-thoai-pin-trau-tren-7000mah-dang-mua-thang-8-2026.html", cat: "Smartphone", title: "Top điện thoại pin trâu trên 7000mAh đáng mua tháng 8/2026" }
+  - { href: "/articles/honor-win-turbo-pin-10000mah-sac-80w-dimensity-8500-2026.html", cat: "Smartphone", title: "Honor WIN Turbo: điện thoại pin 10000mAh, sạc 80W, Dimensity 8500" }
   - { href: "/articles/redmi-k100-k100-pro-ro-ri-pin-9000mah-man-185hz-2026.html", cat: "Smartphone", title: "Redmi K100, K100 Pro rò rỉ: pin 9000mAh, màn 185Hz" }
   - { href: "/articles/xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026.html", cat: "Smartphone", title: "Xiaomi 17 vs iQOO 15: camera Leica hay gaming, chọn máy nào" }
 featured: true

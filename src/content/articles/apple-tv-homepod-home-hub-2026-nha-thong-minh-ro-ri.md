@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html", cat: "Apple", title: "Siri AI có tiếng Việt không? Lộ trình và máy nào dùng được" }
   - { href: "/articles/ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet.html", cat: "Apple", title: "iOS 27 có gì mới? 12 tính năng cho người dùng iPhone Việt" }
-  - { href: "/articles/google-home-speaker-loa-thong-minh-gemini-2026.html", cat: "Công nghệ", title: "Google Home Speaker: loa thông minh đầu tiên chạy Gemini AI" }
+  - { href: "/articles/iphone-18-pro-anh-that-ro-ri-hacker-tan-cong-tata-electronics-2026.html", cat: "Apple", title: "iPhone 18 Pro lộ ảnh thật: hacker tấn công nhà cung ứng Tata của Apple" }
 featured: true
 ---
 

@@ -35,8 +35,7 @@ faq:
   - q: "Mục tiêu điện toán 14 gigawatt của Meta có ý nghĩa gì?"
     a: "Meta đặt mục tiêu triển khai khoảng 7 gigawatt năng lực điện toán vào cuối 2026 và nâng gấp đôi lên 14 gigawatt trong năm 2027. Đây là chỉ số phản ánh quy mô điện năng dành cho các trung tâm dữ liệu AI, cho thấy mức đầu tư khổng lồ vào hạ tầng của công ty."
 related:
-  - { href: "/articles/openai-jalapeno-chip-ai-dau-tien-hop-tac-broadcom-2026.html", cat: "Công nghệ", title: "OpenAI Jalapeño, chip AI đầu tiên hợp tác Broadcom" }
-  - { href: "/articles/google-tpu-ironwood-v7-thach-thuc-nvidia-2026.html", cat: "Công nghệ", title: "Google TPU Ironwood v7, thách thức Nvidia" }
+  - { href: "/articles/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.html", cat: "AI", title: "NVIDIA Vera Rubin vào sản xuất: nền tảng AI mới với GPU 336 tỷ transistor" }
   - { href: "/articles/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.html", cat: "Công nghệ", title: "Nvidia Vera Rubin, nền tảng AI 336 tỷ transistor" }
 featured: false
 ---

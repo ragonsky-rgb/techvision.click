@@ -37,9 +37,9 @@ faq:
   - q: "Redmi Note 17 Pro có kháng nước không?"
     a: "Có. Redmi Note 17 Pro đạt chuẩn kháng nước, kháng bụi IP69K, mức cao cho phép chịu được tia nước áp lực lớn và nhiệt độ cao, vượt trên chuẩn IP68 thường thấy. Cùng với kính cường lực và khả năng chống rơi vỡ được nhấn mạnh, Xiaomi định vị dòng Note 17 là lựa chọn bền bỉ trong tầm giá phổ thông."
 related:
-  - { href: "/articles/oppo-reno16-f-5g-ra-mat-viet-nam-pin-7000mah-2026.html", cat: "Smartphone", title: "OPPO Reno16 F 5G ra mắt Việt Nam, pin 7.000mAh" }
-  - { href: "/articles/redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re.html", cat: "Smartphone", title: "Redmi K90 Ultra: pin 8.500mAh, quạt tản nhiệt gắn trong" }
-  - { href: "/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html", cat: "Công nghệ", title: "Gartner: giá điện thoại, laptop 2026 tăng, nên mua gì" }
+  - { href: "/articles/redmi-k100-k100-pro-ro-ri-pin-9000mah-man-185hz-2026.html", cat: "Smartphone", title: "Redmi K100 và K100 Pro lộ cấu hình: pin 9.000mAh, màn 185Hz" }
+  - { href: "/articles/redmi-note-17-series-ra-mat-14-7-pin-10100mah-200mp-2026.html", cat: "Smartphone", title: "Redmi Note 17 series ra mắt 14/7: pin 10.100mAh, camera 200MP và biến thể Pro Max lần đầu xuất hiện" }
+  - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Công nghệ", title: "Realme 16T 5G pin 8.000mAh ra mắt Việt Nam, giá từ 7 triệu" }
 featured: true
 ---
 

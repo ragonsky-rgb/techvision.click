@@ -35,9 +35,9 @@ faq:
   - q: "Khi nào khủng hoảng chip nhớ hạ nhiệt?"
     a: "Counterpoint cho rằng tình trạng thiếu hụt sẽ kéo dài sang năm 2027, trong khi một số lãnh đạo ngành bán dẫn cảnh báo có thể lâu hơn. Các nhà máy bộ nhớ mới chỉ bổ sung nguồn cung đáng kể từ giai đoạn 2027-2028."
 related:
-  - { href: "/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html", cat: "Công nghệ", title: "Giá RAM DRAM tăng thêm 20% trong quý 3/2026" }
-  - { href: "/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html", cat: "Công nghệ", title: "Gartner cảnh báo giá máy tính tăng 17%, điện thoại tăng 13%" }
-  - { href: "/articles/iphone-16-giam-gia-thang-7-2026-lua-chon-toi-uu.html", cat: "Apple", title: "Giá iPhone 16 tháng 7/2026: 16e từ 12,79 triệu" }
+  - { href: "/articles/gia-smartphone-cao-cap-viet-nam-tang-manh-2026-thieu-chip-nho.html", cat: "Công nghệ", title: "Giá smartphone cao cấp tại Việt Nam tăng mạnh năm 2026" }
+  - { href: "/articles/poco-f8-ultra-f8-pro-gia-viet-nam-snapdragon-8-elite-loa-bose-2026.html", cat: "Smartphone", title: "POCO F8 Ultra, F8 Pro giá Việt Nam: Snapdragon 8, loa Bose" }
+  - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8" }
 featured: false
 ---
 

@@ -38,8 +38,8 @@ faq:
     a: "Tùy nhu cầu. Xiaomi Redmi Note mạnh về camera và pin trên giá tiền. Samsung Galaxy A ăn điểm ở màn hình đẹp, chính sách cập nhật phần mềm dài và giá trị bán lại tốt. OPPO A-series ưu thế pin lớn và độ bền. Bạn nên cân nhắc hệ sinh thái và thói quen dùng máy trước khi chọn."
 related:
   - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 7/2026 mọi phân khúc" }
-  - { href: "/articles/xiaomi-redmi-a7-pro-smartphone-gia-re-pin-6000mah-2026.html", cat: "Smartphone", title: "Xiaomi Redmi A7 Pro smartphone giá rẻ pin 6000mAh" }
-  - { href: "/articles/iphone-17e-apple-gia-re-a19-dynamic-island-2026.html", cat: "Smartphone", title: "iPhone 17e Apple giá rẻ chip A19" }
+  - { href: "/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html", cat: "Laptop", title: "Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu" }
+  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
 featured: false
 ---
 

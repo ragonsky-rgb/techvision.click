@@ -38,7 +38,7 @@ faq:
     a: "Thinking Machines Lab nói thẳng trong công bố rằng Inkling không phải mô hình mạnh nhất hiện có, dù là mô hình mở hay đóng. Công ty đặt cược vào khả năng tùy biến và hiệu quả chi phí thay vì điểm số benchmark tuyệt đối. Với một số bài kiểm tra, mô hình đạt 97,1% ở AIME 2026 và 77,6% ở SWEBench Verified theo số liệu tự công bố, nên cần kiểm chứng độc lập."
 related:
   - { href: "/articles/qwen-3-6-max-mo-hinh-ai-alibaba-lap-trinh-2026.html", cat: "AI", title: "Qwen 3.6 Max: mô hình AI Alibaba đứng đầu về lập trình" }
-  - { href: "/articles/google-gemma-4-12b-mo-hinh-ai-chay-tren-laptop-2026.html", cat: "AI", title: "Google Gemma 4 12B: mô hình AI chạy trên laptop" }
+  - { href: "/articles/kimi-k3-moonshot-ai-2800-ty-tham-so-mo-hinh-ma-nguon-mo-lon-nhat-2026.html", cat: "AI", title: "Kimi K3 là gì: mô hình AI mã nguồn mở 2.800 tỷ tham số" }
   - { href: "/articles/deepseek-v4-dspark-khai-tu-api-cu-24-7-2026.html", cat: "AI", title: "DeepSeek V4 dSpark và việc khai tử API cũ" }
 featured: true
 ---

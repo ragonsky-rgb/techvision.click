@@ -38,8 +38,6 @@ faq:
     a: "Chỉ tải VNeID từ kho ứng dụng chính thức và tuyệt đối không cài các ứng dụng VNeID giả mạo qua đường link lạ. Cơ quan chức năng không yêu cầu người dân cài app qua điện thoại hay cung cấp mã OTP, mật khẩu. Hãy cảnh giác với các cuộc gọi mạo danh công an yêu cầu cập nhật thông tin, và bảo mật passcode của ứng dụng cẩn thận."
 related:
   - { href: "/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html", cat: "Viễn thông", title: "Khóa SIM 15/6/2026: cách xác thực VNeID để không mất số" }
-  - { href: "/articles/cach-nhan-biet-anh-video-deepfake-ai-gia-mao-2026.html", cat: "Internet", title: "Cách nhận biết ảnh, video deepfake AI giả mạo" }
-  - { href: "/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html", cat: "Internet", title: "Cách bảo vệ quyền riêng tư và dữ liệu cá nhân trên điện thoại" }
 featured: false
 ---
 

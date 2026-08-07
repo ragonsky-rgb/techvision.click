@@ -37,9 +37,7 @@ faq:
   - q: "ROG Flow Z13 có chạy được tác vụ AI không?"
     a: "Có. Nhờ NPU XDNA 50 TOPS và khả năng dùng nhiều bộ nhớ hợp nhất, máy có thể chạy các tác vụ AI ngay trên thiết bị, tương tự các mini PC dùng cùng chip Strix Halo. Điều này giúp máy phù hợp với người vừa cần chơi game, vừa làm sáng tạo nội dung hoặc thử nghiệm các mô hình AI cục bộ khi di chuyển."
 related:
-  - { href: "/articles/amd-ryzen-ai-max-395-strix-halo-mini-pc-ai-70b-2026.html", cat: "Công nghệ", title: "Ryzen AI Max+ 395 là gì: mini PC nhỏ chạy AI 70B nội bộ" }
-  - { href: "/articles/asus-rog-strix-g16-g18-2026-mini-led-nebula-hdr.html", cat: "Laptop", title: "ASUS ROG Strix G16, G18 2026: màn Mini LED Nebula HDR" }
-  - { href: "/articles/lenovo-legion-go-2-steamos-may-choi-game-cam-tay-2026.html", cat: "Công nghệ", title: "Lenovo Legion Go 2 chạy SteamOS: máy chơi game cầm tay 2026" }
+  - { href: "/articles/computex-2026-amd-ryzen-ai-400-qualcomm-snapdragon-x2-elite-asus-rog.html", cat: "Laptop", title: "Computex 2026: AMD Ryzen AI 400, Qualcomm Snapdragon X2 Elite và ASUS ROG ra mắt ấn tượng tại Taipei" }
 featured: true
 ---
 

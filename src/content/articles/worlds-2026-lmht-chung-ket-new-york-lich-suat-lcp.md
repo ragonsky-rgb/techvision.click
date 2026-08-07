@@ -40,7 +40,7 @@ faq:
     a: "Trong khi Worlds 2026 diễn ra tại Mỹ, giải giữa mùa MSI 2026 được tổ chức tại Daejeon, Hàn Quốc. Việc hai giải đấu quốc tế lớn nhất năm đặt ở hai châu lục khác nhau cho thấy Riot Games đang cố gắng đưa sự kiện tới gần nhiều thị trường người hâm mộ hơn thay vì tập trung ở một khu vực."
 related:
   - { href: "/articles/vcs-2026-mua-he-saigon-warriors-vo-dich-chung-ket-ve-lcp.html", cat: "Esports", title: "Saigon Warriors vô địch VCS mùa hè, giành vé LCP" }
-  - { href: "/articles/msi-2026-chung-ket-tong-blg-con-duong-hoang-kim.html", cat: "Esports", title: "MSI 2026: con đường tới ngôi vương của BLG" }
+  - { href: "/articles/ewc-2026-lmht-chung-ket-karmine-corp-dplus-kia.html", cat: "Gaming", title: "EWC 2026 LMHT: chung kết Karmine Corp gặp Dplus KIA" }
   - { href: "/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html", cat: "Esports", title: "EWC 2026 LMHT: Dplus Kia vô địch, thắng Karmine Corp 3-0" }
 featured: true
 ---

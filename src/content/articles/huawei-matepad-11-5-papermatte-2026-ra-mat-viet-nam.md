@@ -38,8 +38,8 @@ faq:
     a: "Máy phù hợp với học sinh, sinh viên và người dùng văn phòng cần một thiết bị đa năng cho việc ghi chú, đọc tài liệu, làm việc nhẹ và giải trí. Với màn hình chống chói và pin lớn, đây là lựa chọn đáng cân nhắc cho những ai ưu tiên trải nghiệm viết và sự thoải mái khi dùng lâu."
 related:
   - { href: "/articles/huawei-matepad-12-x-2026-papermatte-144hz-m-pencil-pro.html", cat: "Công nghệ", title: "Huawei MatePad 12 X 2026: PaperMatte 144Hz, M-Pencil Pro" }
-  - { href: "/articles/harmonyos-7-huawei-co-gi-moi-xiaoyi-ai-agent-thiet-ke-khong-gian.html", cat: "Công nghệ", title: "HarmonyOS 7 của Huawei có gì mới: Xiaoyi AI Agent" }
-  - { href: "/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html", cat: "Công nghệ", title: "Huawei Watch GT 6 ra mắt Việt Nam, pin 21 ngày" }
+  - { href: "/articles/hyundai-palisade-2026-ra-mat-viet-nam-suv-hybrid-gia-2026.html", cat: "Công nghệ", title: "Hyundai Palisade 2026 ra mắt Việt Nam: SUV hybrid giá từ 1,7 tỷ" }
+  - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Công nghệ", title: "Realme 16T 5G pin 8.000mAh ra mắt Việt Nam, giá từ 7 triệu" }
 featured: false
 ---
 

@@ -37,9 +37,9 @@ faq:
   - q: "Xu hướng tăng giá sẽ kéo dài bao lâu?"
     a: "Xu hướng này phụ thuộc lớn vào tình hình chuỗi cung ứng chip nhớ, vốn đang chịu sức ép từ nhu cầu khổng lồ của các trung tâm dữ liệu AI. Chừng nào cơn sốt hạ tầng AI còn tiếp diễn và nguồn cung chip chưa được cải thiện, giá linh kiện và theo đó là giá thiết bị tiêu dùng nhiều khả năng vẫn ở mức cao."
 related:
-  - { href: "/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html", cat: "Công nghệ", title: "Gartner cảnh báo giá máy tính tăng 17%, điện thoại tăng 13% trong 2026" }
-  - { href: "/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html", cat: "Công nghệ", title: "Giá RAM DRAM tăng thêm 20% trong quý 3/2026" }
-  - { href: "/articles/samsung-loi-nhuan-quy-2-2026-tang-18-lan-chip-nho-ai.html", cat: "Công nghệ", title: "Samsung lãi quý 2/2026 tăng 18 lần nhờ chip nhớ AI" }
+  - { href: "/articles/thi-truong-smartphone-quy-2-2026-xuat-xuong-thap-nhat-13-nam.html", cat: "Smartphone", title: "Thị trường smartphone quý 2/2026: thấp nhất 13 năm, giá còn tăng" }
+  - { href: "/articles/hyundai-palisade-2026-ra-mat-viet-nam-suv-hybrid-gia-2026.html", cat: "Công nghệ", title: "Hyundai Palisade 2026 ra mắt Việt Nam: SUV hybrid giá từ 1,7 tỷ" }
+  - { href: "/articles/lynk-co-02-ra-mat-viet-nam-gia-du-kien-900-trieu.html", cat: "Công nghệ", title: "Lynk & Co 02 sắp về Việt Nam, giá dự kiến từ 900 triệu" }
 featured: false
 ---
 

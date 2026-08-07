@@ -38,8 +38,7 @@ faq:
     a: "Ngoài giải bóng đá robot hình người, RoboCup 2026 còn bao gồm nhiều hạng mục khác như robot ứng phó thảm hoạ, robot dịch vụ gia đình và các bài toán robot tự chủ khác, thu hút các đội thi từ nhiều lĩnh vực nghiên cứu robot và AI khác nhau trên toàn thế giới."
 related:
   - { href: "/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html", cat: "AI", title: "Boston Dynamics Atlas dùng Gemini Robotics" }
-  - { href: "/articles/apptronik-apollo-2-robot-park-huan-luyen-robot-hinh-nguoi-2026.html", cat: "AI", title: "Apptronik Apollo 2, robot Park huấn luyện robot hình người" }
-  - { href: "/articles/unitree-robotics-ipo-shanghai-robot-hinh-nguoi-trung-quoc-2026.html", cat: "AI", title: "Unitree Robotics IPO Shanghai, robot hình người Trung Quốc" }
+  - { href: "/articles/trung-quoc-lineshine-sieu-may-tinh-nhanh-nhat-the-gioi-2026.html", cat: "Công nghệ", title: "Trung Quốc giành lại ngôi siêu máy tính nhanh nhất thế giới với LineShine" }
 featured: false
 ---
 

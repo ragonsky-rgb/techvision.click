@@ -39,9 +39,9 @@ faq:
   - q: "Dùng ảnh AI cần lưu ý gì về bản quyền và riêng tư?"
     a: "Không nên tải lên ảnh nhạy cảm hoặc ảnh người khác khi chưa được phép, và nên kiểm tra điều khoản sử dụng của Google về nội dung do AI tạo. Ảnh phục chế hay tạo ra nên được ghi chú là có sự hỗ trợ của AI khi dùng cho mục đích công khai."
 related:
-  - { href: "/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html", cat: "AI", title: "Google Gemini 3.5 Pro ra mắt: 2 triệu token, Deep Think" }
-  - { href: "/articles/meta-muse-spark-ai-tao-anh-instagram-whatsapp-2026.html", cat: "AI", title: "Meta Muse Spark: tạo ảnh AI trên Instagram, WhatsApp" }
-  - { href: "/articles/google-gemini-3-flash-mo-hinh-ai-mac-dinh-nhanh-tiet-kiem-2026.html", cat: "AI", title: "Gemini 3 Flash: mô hình AI mặc định nhanh, tiết kiệm" }
+  - { href: "/articles/cach-quay-video-dep-bang-dien-thoai-meo-on-dinh-anh-sang-bo-cuc.html", cat: "Công nghệ", title: "Cách quay video đẹp bằng điện thoại: mẹo ổn định, ánh sáng, bố cục" }
+  - { href: "/articles/google-gan-nhan-quang-cao-ai-how-this-ad-was-made-2026.html", cat: "Internet", title: "Google gắn nhãn quảng cáo tạo bằng AI: xem 'How this ad was made' để không bị đánh lừa" }
+  - { href: "/articles/google-gemini-3-6-flash-flash-lite-flash-cyber-ra-mat-2026.html", cat: "AI", title: "Google ra mắt Gemini 3.6 Flash và 2 mô hình AI mới 2026" }
 featured: false
 ---
 

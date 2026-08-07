@@ -38,8 +38,8 @@ faq:
     a: "Đây là sản phẩm dành cho nhóm người dùng đam mê công nghệ mới, sẵn sàng chi trả cao và muốn trải nghiệm thiết kế gập ba độc đáo. Với phần lớn người dùng, mức giá rất cao, độ dày khi gập và việc là thế hệ đầu khiến đây chưa phải lựa chọn thực dụng. Nên cân nhắc kỹ nhu cầu thực tế và chờ các đánh giá dài hạn về độ bền bản lề trước khi quyết định."
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
-  - { href: "/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html", cat: "Smartphone", title: "Oppo Find X10 Pro: camera 200MP kép, pin 8000mAh" }
-  - { href: "/articles/redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re.html", cat: "Smartphone", title: "Redmi K90 Ultra: pin 8500mAh, quạt tản nhiệt" }
+  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
+  - { href: "/articles/haaland-dung-dien-thoai-gi-samsung-iphone-2026.html", cat: "Smartphone", title: "Haaland dùng điện thoại gì: đại sứ Galaxy nhưng từng bị bắt gặp cầm iPhone" }
 featured: false
 ---
 

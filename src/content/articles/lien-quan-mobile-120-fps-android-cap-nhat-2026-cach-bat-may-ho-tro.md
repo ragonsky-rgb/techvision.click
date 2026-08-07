@@ -37,8 +37,7 @@ faq:
   - q: "Bật 120 FPS có tốn pin và làm nóng máy không?"
     a: "Có. Chạy ở 120 FPS đòi hỏi vi xử lý và GPU làm việc nhiều hơn nên máy tỏa nhiệt cao hơn và hao pin nhanh hơn so với 60 FPS. Bạn nên cân nhắc theo nhu cầu, chọn 90 FPS khi muốn cân bằng, và ưu tiên các máy có hệ thống tản nhiệt tốt nếu chơi lâu."
 related:
-  - { href: "/articles/apl-2026-viet-nam-3-dai-dien-tu-ket-lien-quan-mobile.html", cat: "Smartphone", title: "APL 2026: Việt Nam có 3 đại diện vào tứ kết Liên Quân" }
-  - { href: "/articles/snapdragon-8-elite-gen-5-la-gi-chip-android-manh-nhat-2026.html", cat: "Smartphone", title: "Snapdragon 8 Elite Gen 5 là gì, chip Android mạnh nhất 2026" }
+  - { href: "/articles/cach-chuyen-du-lieu-android-sang-iphone-danh-ba-anh-2026.html", cat: "Smartphone", title: "Cách chuyển dữ liệu từ Android sang iPhone: danh bạ, ảnh, tin nhắn 2026" }
   - { href: "/articles/redmagic-11-pro-dien-thoai-gaming-tan-nhiet-long-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "RedMagic 11 Pro: điện thoại gaming tản nhiệt lỏng" }
 featured: false
 ---

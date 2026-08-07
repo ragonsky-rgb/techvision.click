@@ -37,9 +37,9 @@ faq:
   - q: "Volvo EX90 và ES90 cạnh tranh với những xe nào tại Việt Nam?"
     a: "Ở phân khúc xe điện cao cấp, EX90 và ES90 sẽ cạnh tranh với các mẫu điện của Mercedes-Benz và BMW, đồng thời đối mặt sức ép từ hãng nội địa VinFast vốn đang mở rộng nhanh dải sản phẩm thuần điện tại thị trường Việt Nam."
 related:
-  - { href: "/articles/vinfast-quy-1-2026-doanh-so-tang-truong-nvidia-tu-lai-xe-mot-trieu-xe-may.html", cat: "Công nghệ", title: "VinFast quý 1/2026: giao 58.577 xe, bắt tay NVIDIA làm tự lái" }
+  - { href: "/articles/gia-smartphone-cao-cap-viet-nam-tang-manh-2026-thieu-chip-nho.html", cat: "Công nghệ", title: "Giá smartphone cao cấp tại Việt Nam tăng mạnh năm 2026" }
   - { href: "/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html", cat: "Internet", title: "Starlink Việt Nam: giá cước, tốc độ và ai nên dùng" }
-  - { href: "/articles/thuong-mai-dien-tu-viet-nam-2026-tiktok-shop-shopee-livestream-luat-moi.html", cat: "Internet", title: "Thương mại điện tử Việt Nam 2026: TikTok Shop bám đuổi Shopee" }
+  - { href: "/articles/hyundai-palisade-2026-ra-mat-viet-nam-suv-hybrid-gia-2026.html", cat: "Công nghệ", title: "Hyundai Palisade 2026 ra mắt Việt Nam: SUV hybrid giá từ 1,7 tỷ" }
 featured: false
 ---
 

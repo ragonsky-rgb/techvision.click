@@ -39,9 +39,9 @@ faq:
   - q: "PPI cao có luôn đồng nghĩa với màn hình đẹp hơn không?"
     a: "Không hẳn. PPI chỉ đo độ mịn của điểm ảnh, còn độ đẹp tổng thể của màn hình còn phụ thuộc vào công nghệ tấm nền (OLED hay LCD), độ sáng, độ chính xác màu sắc, độ tương phản và tần số quét. Một màn OLED FHD+ hiệu chỉnh màu tốt hoàn toàn có thể đẹp mắt hơn một màn 2K nhưng màu sắc nhợt nhạt. Khi chọn máy, nên nhìn tổng thể các yếu tố này thay vì chỉ so PPI trên giấy."
 related:
-  - { href: "/articles/man-hinh-ltpo-la-gi-tan-so-quet-thich-ung-tiet-kiem-pin-2026.html", cat: "Smartphone", title: "Màn hình LTPO là gì, tần số quét thích ứng tiết kiệm pin" }
-  - { href: "/articles/tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong.html", cat: "Smartphone", title: "Tần số quét màn hình 60Hz, 90Hz, 120Hz là gì" }
-  - { href: "/articles/man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon.html", cat: "Smartphone", title: "Màn hình OLED, AMOLED, LCD khác gì nhau" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
+  - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
+  - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 giá bao nhiêu, lộ cấu hình trước ngày 12/8" }
 featured: false
 ---
 

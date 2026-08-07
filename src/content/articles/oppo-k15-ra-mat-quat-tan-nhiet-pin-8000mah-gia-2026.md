@@ -38,8 +38,8 @@ faq:
     a: "Tại thời điểm ra mắt, Oppo K15 mới được công bố cho thị trường Trung Quốc và chưa có thông tin về việc phân phối chính hãng ở Việt Nam. Dòng K của Oppo hiếm khi về Việt Nam theo đường chính ngạch, người dùng trong nước thường tiếp cận qua hàng xách tay, đồng nghĩa với việc không có bảo hành chính hãng và có thể thiếu một số dải sóng. Ở thị trường Việt, Oppo thường thay thế bằng các model thuộc dòng Reno hoặc A với định vị tương đương."
 related:
   - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Smartphone", title: "Realme 16T 5G pin 8.000mAh ra mắt Việt Nam, giá từ 7 triệu" }
-  - { href: "/articles/redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re.html", cat: "Smartphone", title: "Redmi K90 Ultra: vũ khí gaming pin 8500mAh, quạt tản nhiệt, giá rẻ" }
-  - { href: "/articles/top-dien-thoai-choi-game-dang-mua-nua-cuoi-2026.html", cat: "Smartphone", title: "Top điện thoại chơi game đáng mua nửa cuối 2026" }
+  - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro ra mắt: pin 9.000mAh, giá từ 1.599 tệ" }
+  - { href: "/articles/iqoo-15-ultra-gaming-antutu-quat-tan-nhiet-pin-7400mah-2026.html", cat: "Smartphone", title: "iQOO 15 Ultra: gaming phone AnTuTu 4,5 triệu, có quạt tản nhiệt" }
 featured: false
 ---
 

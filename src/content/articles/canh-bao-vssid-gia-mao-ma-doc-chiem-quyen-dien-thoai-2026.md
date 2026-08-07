@@ -37,9 +37,7 @@ faq:
   - q: "Vì sao mã độc chỉ đòi vài quyền mà lại nguy hiểm đến vậy?"
     a: "Điểm mấu chốt là quyền Trợ năng và quyền đọc tin nhắn. Khi có quyền Trợ năng, một ứng dụng có thể tự bấm nút, điền biểu mẫu và thao tác thay bạn trên các app khác, kể cả app ngân hàng. Khi đọc được tin nhắn, nó lấy luôn mã OTP gửi về máy. Kết hợp hai quyền này, kẻ gian có thể vừa lấy mã xác thực vừa tự thực hiện lệnh chuyển tiền mà bạn không kịp nhận ra, nên hậu quả thường rất nặng."
 related:
-  - { href: "/articles/canh-bao-ma-doc-gia-mao-vneid-2026-cach-phong-tranh.html", cat: "Internet", title: "Cảnh báo mã độc giả mạo VNeID và cách phòng tránh" }
-  - { href: "/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html", cat: "Internet", title: "Cách nhận biết, phòng tránh lừa đảo online và tin nhắn giả mạo" }
-  - { href: "/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html", cat: "Internet", title: "Cách bảo vệ quyền riêng tư và dữ liệu cá nhân trên điện thoại" }
+  - { href: "/articles/cach-nhan-biet-go-ung-dung-doc-hai-virus-tren-dien-thoai-2026.html", cat: "Internet", title: "Cách nhận biết và gỡ ứng dụng độc hại trên điện thoại: 8 bước bảo vệ 2026" }
 featured: false
 ---
 

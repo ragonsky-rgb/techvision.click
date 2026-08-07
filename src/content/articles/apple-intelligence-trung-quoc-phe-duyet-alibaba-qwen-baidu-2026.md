@@ -39,7 +39,6 @@ faq:
 related:
   - { href: "/articles/qwen-3-6-max-mo-hinh-ai-alibaba-lap-trinh-2026.html", cat: "AI", title: "Qwen 3.6 Max: mô hình AI Alibaba đứng đầu về lập trình" }
   - { href: "/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html", cat: "Apple", title: "Siri AI có tiếng Việt không? Lộ trình và máy nào dùng được" }
-  - { href: "/articles/apple-kien-openai-danh-cap-bi-mat-thuong-mai-2026.html", cat: "Công nghệ", title: "Apple kiện OpenAI: cáo buộc đánh cắp bí mật thương mại" }
 featured: true
 ---
 

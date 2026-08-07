@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html", cat: "Laptop", title: "Giá laptop tăng 30% vì khủng hoảng RAM AI, nên mua gì" }
   - { href: "/articles/top-10-cua-hang-mua-macbook-gia-tot-2026-shopee-fpt-cellphones.html", cat: "Laptop", title: "Top 10 cửa hàng mua MacBook giá tốt 2026" }
-  - { href: "/articles/apple-macbook-pro-m5-pro-max-2026-hieu-nang-ai-gpu-neural-accelerator.html", cat: "Apple", title: "MacBook Pro M5 Pro, M5 Max: hiệu năng AI, GPU Neural Accelerator" }
+  - { href: "/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html", cat: "Laptop", title: "Khủng hoảng bộ nhớ 2026: RAM, SSD tăng giá vì AI gom hàng" }
 featured: false
 ---
 

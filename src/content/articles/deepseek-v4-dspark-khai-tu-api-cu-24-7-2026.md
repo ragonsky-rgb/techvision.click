@@ -36,7 +36,7 @@ faq:
     a: "DeepSeek-V4 Flash có giá chỉ 0,14 USD cho một triệu token đầu vào và 0,28 USD cho một triệu token đầu ra, rẻ hơn đáng kể so với phần lớn model đóng nguồn cùng phân khúc hiệu năng, tiếp tục là một trong những lựa chọn có tỷ lệ hiệu năng trên chi phí tốt nhất thị trường."
 related:
   - { href: "/articles/claude-sonnet-5-ra-mat-anthropic-agentic-2026.html", cat: "AI", title: "Claude Sonnet 5 ra mắt, Anthropic agentic" }
-  - { href: "/articles/deepseek-tu-phat-trien-chip-ai-rieng-thach-thuc-nvidia-huawei-2026.html", cat: "AI", title: "DeepSeek tự phát triển chip AI riêng" }
+  - { href: "/articles/sony-khai-tu-dia-vat-ly-playstation-tu-2028.html", cat: "Gaming", title: "Sony khai tử đĩa vật lý PlayStation từ năm 2028, chuyển hẳn sang kỷ nguyên số" }
   - { href: "/articles/neura-robotics-goi-von-1-4-ty-usd-nvidia-amazon-2026.html", cat: "AI", title: "Neura Robotics gọi vốn 1,4 tỷ USD từ Nvidia, Amazon" }
 featured: true
 ---

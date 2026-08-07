@@ -38,7 +38,7 @@ faq:
     a: "Claude Opus 5 là mô hình mặc định trên gói Claude Max và là mô hình mạnh nhất có sẵn trên gói Claude Pro. Điều này có nghĩa người dùng Max sẽ tự động dùng Opus 5 mà không cần thao tác chuyển đổi, còn người dùng Pro cần chọn thủ công nếu muốn dùng mô hình cao nhất trong gói. Anthropic kỳ vọng Opus 5 trở thành lựa chọn mặc định cho phần lớn nhu cầu công việc hằng ngày."
 related:
   - { href: "/articles/claude-sonnet-5-ra-mat-anthropic-agentic-2026.html", cat: "AI", title: "Claude Sonnet 5 ra mắt: mô hình agentic của Anthropic" }
-  - { href: "/articles/gpt-5-6-cuoc-dua-ai-nua-cuoi-2026-gemini-claude-glm.html", cat: "AI", title: "Cuộc đua AI nửa cuối 2026: GPT-5.6, Gemini, Claude và GLM" }
+  - { href: "/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html", cat: "AI", title: "Claude Fable 5 ra mắt: model mạnh nhất của Anthropic, đứng trên cả Opus" }
   - { href: "/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html", cat: "AI", title: "Claude Fable 5 và Mythos 5: model mạnh nhất của Anthropic" }
 featured: true
 ---

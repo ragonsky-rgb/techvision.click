@@ -39,9 +39,7 @@ faq:
   - q: "Xem lại các trận VCS Mùa Hè 2026 ở đâu?"
     a: "Người hâm mộ có thể theo dõi các trận đấu và bản highlight trên các kênh phát sóng chính thức của giải cùng những kênh esports Liên Minh Huyền Thoại tại Việt Nam. Các trận playoff và chung kết thường có bản xem lại đầy đủ cùng highlight ngắn, tiện cho khán giả nắm nhanh diễn biến và những pha xử lý đáng chú ý của nhà vô địch."
 related:
-  - { href: "/articles/vcs-2026-mua-he-khep-lai-huong-toi-chung-ket.html", cat: "Công nghệ", title: "VCS 2026 Mùa Hè khép lại, hướng tới vòng chung kết" }
   - { href: "/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html", cat: "Công nghệ", title: "EWC 2026 LMHT: Dplus KIA vô địch, thắng Karmine Corp 3-0" }
-  - { href: "/articles/ewc-2026-lmht-lich-thi-dau-doi-hinh-giai-thuong.html", cat: "Công nghệ", title: "EWC 2026 LMHT: lịch thi đấu, đội hình, giải thưởng" }
 featured: true
 ---
 

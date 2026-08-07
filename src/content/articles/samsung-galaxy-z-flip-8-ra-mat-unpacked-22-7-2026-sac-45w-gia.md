@@ -38,7 +38,7 @@ faq:
     a: "Lựa chọn phụ thuộc nhu cầu. Galaxy Z Flip 8 dạng gập vỏ sò nhỏ gọn, bỏ túi dễ, hợp người thích thời trang và dùng một tay, giá mềm hơn. Galaxy Z Fold 8 lại là máy gập mở ra màn hình lớn như máy tính bảng, phù hợp làm việc, chia đôi màn hình và giải trí, nhưng nặng và đắt hơn. Nếu ưu tiên sự nhỏ gọn và ngân sách vừa phải thì Z Flip 8 hợp lý, còn nếu cần màn hình lớn để đa nhiệm thì Z Fold 8 đáng cân nhắc hơn."
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Samsung Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
-  - { href: "/articles/samsung-galaxy-z-fold-8-ultra-camera-200mp-unpacked-22-7-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 Ultra: camera 200MP tại Unpacked 22/7" }
+  - { href: "/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP" }
   - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Smartphone", title: "Giá đặt trước Galaxy Z Fold 8 và Z Flip 8 tại Việt Nam" }
 featured: true
 ---

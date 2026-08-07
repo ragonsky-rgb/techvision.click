@@ -37,9 +37,9 @@ faq:
   - q: "Khi nào giá RAM, SSD sẽ hạ nhiệt?"
     a: "Chưa có mốc chắc chắn. Nhiều phân tích cho rằng do nhu cầu AI vẫn rất lớn và việc mở rộng công suất sản xuất chip nhớ cần thời gian, tình trạng căng thẳng có thể kéo dài tới khoảng năm 2028 mới dịu lại. Vì vậy, kỳ vọng giá giảm nhanh trong ngắn hạn là không thực tế, và người dùng nên lên kế hoạch mua sắm dựa trên nhu cầu thay vì chờ một đợt giảm giá sâu."
 related:
-  - { href: "/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html", cat: "Công nghệ", title: "Giá RAM tăng thêm 20% quý 3/2026, Samsung và SK hynix bị kiện" }
-  - { href: "/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html", cat: "Công nghệ", title: "Gartner: giá máy tính tăng 17%, điện thoại tăng 13% trong 2026" }
-  - { href: "/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn laptop sinh viên, văn phòng 2026: 7 tiêu chí cần nhớ" }
+  - { href: "/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html", cat: "Laptop", title: "Khủng hoảng bộ nhớ 2026: RAM, SSD tăng giá vì AI gom hàng" }
+  - { href: "/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html", cat: "Laptop", title: "Giá laptop tăng tới 30% vì RAM: khủng hoảng AI kéo dài tới 2028" }
+  - { href: "/articles/laptop-ai-copilot-plus-pc-2026-nen-mua-nao-huong-dan.html", cat: "Laptop", title: "Laptop AI Copilot+ PC 2026: nên mua loại nào, giá bao nhiêu?" }
 featured: true
 ---
 

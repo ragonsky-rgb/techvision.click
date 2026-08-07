@@ -38,8 +38,8 @@ faq:
     a: "Đặt trước thường đi kèm ưu đãi như phiếu giảm giá, tặng bộ nhớ nâng cấp hoặc thu cũ đổi mới giá cao. Tuy nhiên người dùng nên cân nhắc chính sách đặt cọc, điều kiện hoàn cọc và chờ đánh giá thực tế sau ngày 22/7 trước khi quyết định xuống tiền cho một sản phẩm giá cao."
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Samsung Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8 và kính Galaxy" }
-  - { href: "/articles/samsung-galaxy-z-fold8-ultra-ro-ri-camera-200mp-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 Ultra rò rỉ camera 200MP" }
-  - { href: "/articles/cach-chon-dien-thoai-gap-foldable-2026-tieu-chi.html", cat: "Smartphone", title: "Cách chọn điện thoại gập 2026: tiêu chí cần biết" }
+  - { href: "/articles/galaxy-z-fold-8-flip-8-lo-tron-bo-anh-render-mau-sac-2026.html", cat: "Công nghệ", title: "Galaxy Z Fold 8, Flip 8 lộ trọn bộ ảnh render trước ra mắt" }
+  - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-unpacked-2026.html", cat: "Smartphone", title: "Samsung Galaxy Z Fold 8 & Flip 8: full leak specs trước Unpacked London 22/7/2026" }
 featured: true
 ---
 

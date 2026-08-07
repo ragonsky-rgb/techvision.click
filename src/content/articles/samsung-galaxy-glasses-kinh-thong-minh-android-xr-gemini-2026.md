@@ -37,9 +37,9 @@ faq:
   - q: "Galaxy Glasses dùng chip và camera gì?"
     a: "Theo rò rỉ, Galaxy Glasses trang bị chip Qualcomm Snapdragon AR1 chuyên cho kính thông minh, camera 12MP dùng cảm biến Sony IMX681 có lấy nét tự động, loa stereo và nhiều micro phục vụ gọi và ra lệnh giọng nói. Kính kết nối Bluetooth và Wi-Fi, chưa hỗ trợ SIM cellular, tròng kính đổi màu tự động khi ra nắng. Samsung hợp tác cùng thương hiệu kính mắt Gentle Monster và Warby Parker cho phần thiết kế gọng."
 related:
-  - { href: "/articles/samsung-google-android-xr-kinh-thong-minh-gemini-2026.html", cat: "Công nghệ", title: "Samsung và Google làm kính Android XR tích hợp Gemini" }
-  - { href: "/articles/meta-ray-ban-display-kinh-ai-2026-phu-de-cuoc-goi-viet-tay-neural-band.html", cat: "Công nghệ", title: "Meta Ray-Ban Display: kính AI có màn hình, vòng Neural Band" }
-  - { href: "/articles/snap-specs-kinh-ar-2026-ra-mat-gia-2195-usd-doi-thu-apple-vision-pro.html", cat: "Công nghệ", title: "Snap Specs: kính AR ra mắt, đối thủ Apple Vision Pro" }
+  - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?" }
+  - { href: "/articles/samsung-galaxy-glasses-july-2026.html", cat: "Wearable", title: "Samsung Galaxy Glasses: kính AI Gemini, ra mắt 22/7/2026, giá từ $379" }
+  - { href: "/articles/tren-tay-samsung-galaxy-glasses-intelligent-eyewear-2026.html", cat: "Công nghệ", title: "Trên tay Samsung Galaxy Glasses: kính AI Gemini có gì đặc biệt?" }
 featured: true
 ---
 

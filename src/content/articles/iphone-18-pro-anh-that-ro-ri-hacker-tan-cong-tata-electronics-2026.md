@@ -40,9 +40,9 @@ faq:
   - q: "iPhone 18 bản tiêu chuẩn có ra mắt cùng lúc với bản Pro không?"
     a: "Theo một số thông tin lan truyền trên X, iPhone 18 bản tiêu chuẩn có thể sẽ không ra mắt cùng thời điểm tháng 9/2026 với bản Pro và Pro Max, mà bị dời sang đầu năm 2027. Đây mới chỉ là tin đồn, chưa được Apple xác nhận chính thức."
 related:
-  - { href: "/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html", cat: "Apple", title: "iPhone 18 Pro Max 1.399 USD: nghịch lý giá, toan tính của Apple" }
-  - { href: "/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html", cat: "Apple", title: "iPhone 18 tăng giá, bộ nhớ, AI Apple Intelligence 2026" }
-  - { href: "/articles/cach-nhan-biet-anh-video-deepfake-ai-gia-mao-2026.html", cat: "AI", title: "Cách nhận biết ảnh, video deepfake AI giả mạo" }
+  - { href: "/articles/macbook-pro-m6-oled-cam-ung-thiet-ke-moi-2026.html", cat: "Laptop", title: "MacBook Pro M6 OLED cảm ứng: đại tu lớn nhất của Apple, bỏ notch" }
+  - { href: "/articles/apple-tv-homepod-home-hub-2026-nha-thong-minh-ro-ri.html", cat: "Apple", title: "Apple TV, HomePod, Home Hub 2026: bộ ba nhà thông minh mới" }
+  - { href: "/articles/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.html", cat: "Apple", title: "Apple cho thuê iPhone giá từ 17,99 USD/tháng qua Klarna" }
 featured: true
 ---
 

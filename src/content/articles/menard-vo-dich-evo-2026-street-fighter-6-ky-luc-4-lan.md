@@ -38,8 +38,7 @@ faq:
     a: "MenaRD là tuyển thủ Street Fighter chuyên nghiệp người Dominica, một trong những cái tên hàng đầu của làng đối kháng thế giới. Với bốn chức vô địch EVO Street Fighter 6 và hai lần liên tiếp lên ngôi tại Las Vegas, anh được xem là một trong những huyền thoại của bộ môn."
 related:
   - { href: "/articles/100-thieves-vo-dich-valorant-ewc-2026-danh-bai-nrg.html", cat: "Game", title: "100 Thieves vô địch Valorant EWC 2026, hạ NRG 3-1" }
-  - { href: "/articles/ewc-2026-lmht-ket-qua-vong-bang-nhanh-thang-nhanh-thua-cap-nhat.html", cat: "Game", title: "EWC 2026 LMHT: kết quả vòng bảng nhánh thắng, nhánh thua" }
-  - { href: "/articles/apl-2026-viet-nam-3-dai-dien-tu-ket-lien-quan-mobile.html", cat: "Game", title: "APL 2026: Việt Nam có 3 đại diện vào tứ kết Liên Quân Mobile" }
+  - { href: "/articles/free-fire-ewc-2026-lyon-vo-dich-ky-luc-ha-guc.html", cat: "Gaming", title: "Free Fire EWC 2026: LYON vô địch, lập kỷ lục hạ gục" }
 featured: false
 ---
 

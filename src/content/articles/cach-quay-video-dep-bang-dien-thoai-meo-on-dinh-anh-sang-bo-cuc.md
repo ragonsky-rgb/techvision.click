@@ -37,9 +37,9 @@ faq:
   - q: "Làm sao cải thiện âm thanh khi quay video?"
     a: "Micro tích hợp của điện thoại dễ thu tạp âm và tiếng gió. Hãy quay ở nơi yên tĩnh, đứng gần nguồn âm thanh cần thu, và tránh nơi nhiều gió. Với nội dung cần chất lượng cao như phỏng vấn hay vlog, một chiếc micro rời cắm vào điện thoại sẽ cải thiện âm thanh rõ rệt, vốn là yếu tố quan trọng không kém hình ảnh."
 related:
-  - { href: "/articles/meo-chup-anh-dep-bang-dien-thoai-bo-cuc-anh-sang.html", cat: "Camera", title: "Mẹo chụp ảnh đẹp bằng điện thoại: bố cục, ánh sáng" }
-  - { href: "/articles/camera-nhieu-megapixel-co-chup-dep-hon-khong.html", cat: "Camera", title: "Camera nhiều megapixel có chụp đẹp hơn không?" }
-  - { href: "/articles/cach-giai-phong-dung-luong-iphone-day-bo-nho.html", cat: "Apple", title: "Cách giải phóng dung lượng iPhone đầy bộ nhớ" }
+  - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-cho-sinh-vien-2026.html", cat: "Công nghệ", title: "Cách vệ sinh điện thoại, laptop cho sinh viên đúng cách" }
+  - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-dung-cach-2026.html", cat: "Công nghệ", title: "Vệ sinh điện thoại, laptop đúng cách: xử lý khi dính nước" }
+  - { href: "/articles/cach-phuc-che-anh-cu-tao-anh-ai-gemini-nano-banana-2026.html", cat: "AI", title: "Cách phục chế ảnh cũ và tạo ảnh AI bằng Gemini 2026" }
 featured: false
 ---
 

@@ -36,10 +36,6 @@ faq:
     a: "Máy Nintendo Switch 2 hiện chủ yếu về Việt Nam qua đường xách tay và các cửa hàng game chuyên nhập khẩu. Game có thể mua dạng thẻ vật lý hoặc tải trên eShop tùy khu vực tài khoản. Giá bán cụ thể thay đổi theo cửa hàng và thời điểm, nên người mua nên tham khảo nhiều nơi trước khi quyết định."
   - q: "Tháng 7/2026 có bao nhiêu game đáng chú ý cho Switch 2?"
     a: "Có khoảng sáu tựa lớn đáng chú ý gồm Digimon Story: Time Stranger, Moss: The Forgotten Relic, Splatoon Raiders, Avatar Legends: The Fighting Game, Final Fantasy X/X-2 HD Remaster và Xenoblade Chronicles 2 bản Switch 2 Edition, trải đều từ đầu tới cuối tháng."
-related:
-  - { href: "/articles/nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai.html", cat: "Gaming", title: "Nintendo Switch 2 một năm: doanh số gần 20 triệu máy chậm lại" }
-  - { href: "/articles/pokemon-winds-waves-the-he-10-switch-2-2026.html", cat: "Gaming", title: "Pokemon Winds & Waves: thế hệ 10 trên Switch 2 năm 2026" }
-  - { href: "/articles/rog-xbox-ally-x20-may-choi-game-cam-tay-oled-tmr-2026.html", cat: "Gaming", title: "ROG Xbox Ally X20: máy chơi game cầm tay OLED, cần TMR 2026" }
 featured: false
 ---
 

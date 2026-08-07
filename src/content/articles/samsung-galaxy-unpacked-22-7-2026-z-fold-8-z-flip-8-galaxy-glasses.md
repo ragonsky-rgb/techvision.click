@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-unpacked-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 và Flip 8: tổng hợp tin đồn Unpacked 2026" }
   - { href: "/articles/samsung-galaxy-glasses-july-2026.html", cat: "Wearable", title: "Samsung Galaxy Glasses: kính thông minh ra mắt tháng 7" }
-  - { href: "/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html", cat: "Smartphone", title: "Oppo Find X10 Pro: camera 200MP kép, pin 8000mAh" }
+  - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Smartphone", title: "Đặt trước Galaxy Z Fold 8, Z Flip 8: quà tặng từng đại lý" }
 featured: true
 ---
 

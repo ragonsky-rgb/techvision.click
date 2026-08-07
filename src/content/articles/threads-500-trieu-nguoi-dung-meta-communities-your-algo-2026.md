@@ -37,9 +37,8 @@ faq:
   - q: "Người dùng Việt Nam có dùng được các tính năng mới của Threads không?"
     a: "Threads đã có mặt tại Việt Nam và người dùng trong nước vẫn có thể trải nghiệm các tính năng nền tảng như Communities. Tuy nhiên, Your Algo hiện mới triển khai tại Mỹ, Canada, Anh, Australia và New Zealand, nên người dùng Việt Nam có thể cần chờ thêm để tính năng này được mở rộng tới khu vực Đông Nam Á, tương tự cách nhiều tính năng Meta ra mắt theo từng giai đoạn quốc gia."
 related:
-  - { href: "/articles/whatsapp-ten-nguoi-dung-username-2026-nhan-tin-khong-can-so-dien-thoai.html", cat: "Internet", title: "WhatsApp ra mắt tên người dùng, nhắn tin không cần số" }
-  - { href: "/articles/telegram-cap-nhat-2026-smartwatch-ai-guardian-bot-tinh-nang-moi.html", cat: "Internet", title: "Telegram cập nhật 2026: smartwatch, AI Guardian Bot" }
-  - { href: "/articles/xai-grok-cap-nhat-thang-6-2026-grok-4-3-aws-grok-cho-word-mo-hinh-moi.html", cat: "AI", title: "xAI Grok cập nhật tháng 6/2026: Grok 4.3, AWS" }
+  - { href: "/articles/momo-sieu-ung-dung-ai-2026-40-trieu-nguoi-dung-fintech-viet-nam.html", cat: "Công nghệ", title: "MoMo: siêu ứng dụng AI dẫn đầu fintech Việt Nam với hơn 40 triệu người dùng" }
+  - { href: "/articles/zalo-binh-dan-hoa-ai-2026-tro-ly-cong-dan-so-80-trieu-nguoi-dung.html", cat: "AI", title: "Zalo bình dân hóa AI: trợ lý Công dân số phục vụ gần 80 triệu người dùng" }
 featured: false
 ---
 

@@ -38,10 +38,6 @@ faq:
     a: "Việc một nhóm nhà khoa học AI hàng đầu cùng rời Google để lập startup cho thấy làn sóng nhân tài dịch chuyển mạnh trong ngành AI. Với người Việt, đây là dấu ấn tự hào khi Lê Viết Quốc đứng ở trung tâm một dự án được các huyền thoại công nghệ và cả Alphabet đặt niềm tin. Hướng đi dùng AI cho nghiên cứu khoa học cũng được xem là một trong những lằn ranh tiếp theo của lĩnh vực này."
   - q: "Discovery Loop có sản phẩm nào chưa?"
     a: "Ở thời điểm công bố, Discovery Loop mới thành lập và tập trung vào định hướng nghiên cứu, chưa có sản phẩm thương mại cụ thể ra mắt công chúng. Thông tin chi tiết về công nghệ, lộ trình và đối tác dự kiến sẽ được hé lộ dần trong thời gian tới. Người quan tâm nên theo dõi các công bố chính thức từ công ty và các nhà đầu tư."
-related:
-  - { href: "/articles/gpt-5-6-cuoc-dua-ai-nua-cuoi-2026-gemini-claude-glm.html", cat: "AI", title: "GPT-5.6 và cuộc đua AI nửa cuối 2026: Gemini, Claude, GLM" }
-  - { href: "/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html", cat: "AI", title: "Google Gemini 3.5 Pro ra mắt: 2 triệu token, Deep Think" }
-  - { href: "/articles/grok-4-5-beta-spacex-tesla-mo-hinh-v9-1-5-nghin-ty-tham-so.html", cat: "AI", title: "Grok 4.5 beta: mô hình 1,5 nghìn tỷ tham số" }
 featured: true
 ---
 

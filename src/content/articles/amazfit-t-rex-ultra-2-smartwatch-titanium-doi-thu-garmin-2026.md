@@ -36,8 +36,6 @@ faq:
     a: "Amazfit là thương hiệu smartwatch ngày càng phổ biến tại Việt Nam nhờ sản phẩm đa dạng, nhiều tính năng và giá cạnh tranh. Các dòng đồng hồ thể thao và theo dõi sức khỏe của hãng được nhiều người dùng lựa chọn như giải pháp thay thế hợp lý cho các thương hiệu đắt tiền hơn."
 related:
   - { href: "/articles/cach-chon-dong-ho-thong-minh-smartwatch-2026-tieu-chi-tuong-thich.html", cat: "Công nghệ", title: "Cách chọn đồng hồ thông minh 2026: tiêu chí, tương thích" }
-  - { href: "/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html", cat: "Công nghệ", title: "Huawei Watch GT 6 ra mắt Việt Nam, pin 21 ngày" }
-  - { href: "/articles/redmi-watch-6-ra-mat-viet-nam-amoled-2000-nit-2026.html", cat: "Công nghệ", title: "Redmi Watch 6 ra mắt Việt Nam, AMOLED 2000 nit" }
 featured: false
 ---
 

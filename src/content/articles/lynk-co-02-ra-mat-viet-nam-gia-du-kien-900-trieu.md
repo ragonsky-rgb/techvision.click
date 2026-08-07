@@ -35,9 +35,9 @@ faq:
   - q: "Lynk & Co 02 cạnh tranh với xe nào?"
     a: "Ở phân khúc xe gầm cao cỡ C tại Việt Nam, Lynk & Co 02 cạnh tranh với nhiều mẫu xe từ các thương hiệu Nhật, Hàn và các tên tuổi mới nổi. Lợi thế của xe nằm ở thiết kế trẻ, trang bị tiện nghi và mức giá dự kiến cạnh tranh, nhắm tới khách hàng ưa sự khác biệt."
 related:
-  - { href: "/articles/wuling-darion-mpv-dien-7-cho-ra-mat-viet-nam-gia.html", cat: "Công nghệ", title: "Wuling Darion: MPV điện 7 chỗ về VN, giá từ 730 triệu" }
-  - { href: "/articles/hyundai-tucson-hybrid-2026-viet-nam-gia-dat-coc.html", cat: "Công nghệ", title: "Hyundai Tucson Hybrid nhận cọc VN, giá hơn 1 tỷ" }
-  - { href: "/articles/bmw-x1-2026-chot-gia-viet-nam-1-689-ty-dong.html", cat: "Công nghệ", title: "BMW X1 2026 chốt giá Việt Nam: 1,689 tỷ đồng" }
+  - { href: "/articles/nothing-phone-ban-chinh-hang-viet-nam-cellphones-2026.html", cat: "Smartphone", title: "Nothing Phone bán chính hãng tại Việt Nam qua CellphoneS, giá dự kiến từ 6,49 triệu" }
+  - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Công nghệ", title: "Realme 16T 5G pin 8.000mAh ra mắt Việt Nam, giá từ 7 triệu" }
+  - { href: "/articles/asus-proart-p16-px13-ra-mat-viet-nam-gia-copilot-pc-2026.html", cat: "Laptop", title: "ASUS ProArt P16 và PX13 ra mắt Việt Nam, giá từ 76,99 triệu" }
 featured: false
 ---
 

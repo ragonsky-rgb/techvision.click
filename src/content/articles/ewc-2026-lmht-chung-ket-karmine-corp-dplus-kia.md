@@ -37,9 +37,9 @@ faq:
   - q: "EWC 2026 bộ môn LMHT có tổng giải thưởng bao nhiêu?"
     a: "Bộ môn Liên Minh Huyền Thoại tại Esports World Cup 2026 có tổng giải thưởng 2 triệu USD, với 16 đội mạnh từ nhiều khu vực tham dự. Ngoài phần thưởng của riêng bộ môn, thành tích tại EWC còn đóng góp điểm vào bảng xếp hạng tổng của các câu lạc bộ trong khuôn khổ Esports World Cup, nên trận chung kết mang ý nghĩa lớn với cả hai đội."
 related:
-  - { href: "/articles/ewc-2026-lmht-karmine-corp-ha-t1-vao-chung-ket.html", cat: "Gaming", title: "EWC 2026 LMHT: Karmine Corp hạ T1, vào chung kết" }
-  - { href: "/articles/ewc-2026-lmht-ket-qua-vong-bang-nhanh-thang-nhanh-thua-cap-nhat.html", cat: "Gaming", title: "EWC 2026 LMHT: kết quả vòng bảng và sơ đồ tứ kết" }
-  - { href: "/articles/ewc-2026-lmht-lich-thi-dau-doi-hinh-giai-thuong.html", cat: "Gaming", title: "EWC 2026 LMHT: lịch thi đấu, 16 đội, giải 2 triệu USD" }
+  - { href: "/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html", cat: "Gaming", title: "EWC 2026 LMHT: Dplus KIA vô địch, hạ Karmine Corp 3-0" }
+  - { href: "/articles/worlds-2026-lmht-chung-ket-new-york-lich-suat-lcp.html", cat: "Công nghệ", title: "Worlds 2026 LMHT: chung kết New York, lịch và suất LCP" }
+  - { href: "/articles/ewc-2026-lmht-ngay-dau-gam-team-secret-whales-viet-nam.html", cat: "Gaming", title: "EWC 2026 LMHT: 2 đội Việt Nam ra quân ngày đầu ở Paris" }
 featured: false
 ---
 

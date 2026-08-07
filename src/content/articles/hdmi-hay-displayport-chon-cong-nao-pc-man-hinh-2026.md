@@ -37,9 +37,9 @@ faq:
   - q: "Máy chơi game console nên cắm cổng nào?"
     a: "Console như PlayStation hay Xbox chỉ dùng HDMI, nên đây không phải lựa chọn mà là mặc định. Để tận dụng 4K 120Hz và VRR trên các máy đời mới, bạn cần màn hoặc TV có cổng HDMI 2.1 cùng sợi cáp Ultra High Speed. Cắm vào cổng HDMI đời cũ sẽ giới hạn ở mức thấp hơn dù màn và console đều hỗ trợ chuẩn cao."
 related:
-  - { href: "/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html", cat: "Công nghệ", title: "Cách chọn màn hình máy tính: tấm nền, độ phân giải, tần số quét" }
-  - { href: "/articles/thunderbolt-la-gi-khac-usb-c-the-nao-co-can-khong-2026.html", cat: "Công nghệ", title: "Thunderbolt là gì, khác USB-C thế nào, có cần không?" }
-  - { href: "/articles/usb-c-la-gi-chuan-cap-sac-nhanh-pd-phan-biet-day-cap-2026.html", cat: "Công nghệ", title: "USB-C là gì, chuẩn cáp sạc nhanh PD và cách phân biệt dây" }
+  - { href: "/articles/o-cung-ssd-gan-trong-hay-o-cung-di-dong-chon-loai-nao-2026.html", cat: "Công nghệ", title: "SSD gắn trong hay ổ cứng di động: chọn loại nào 2026?" }
+  - { href: "/articles/xiaomi-band-10-pro.html", cat: "Wearable", title: "Xiaomi Band 10 Pro: vòng đeo tay thông minh với màn hình cong, dây cao su mềm" }
+  - { href: "/articles/openai-sweetpea-thiet-bi-ai-deo-khong-man-hinh-jony-ive-2026.html", cat: "AI", title: "OpenAI Sweetpea: thiết bị AI đeo tai không màn hình của Jony Ive" }
 featured: false
 ---
 

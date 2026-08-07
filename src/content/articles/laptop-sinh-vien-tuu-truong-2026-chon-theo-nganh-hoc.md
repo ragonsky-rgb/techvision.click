@@ -37,8 +37,7 @@ faq:
   - q: "Có nên chờ khuyến mãi hay mua ngay trong tháng 8?"
     a: "Trong bối cảnh giá chip nhớ toàn cầu đang leo thang và kéo giá RAM cùng SSD đi lên, việc chờ đợi quá lâu có thể phản tác dụng. Nhiều mẫu laptop đã điều chỉnh giá tăng nhẹ trong nửa đầu 2026. Lời khuyên thực tế là nếu đã tìm được máy đúng nhu cầu và trong ngân sách, nên chốt sớm trong đợt khuyến mãi tựu trường tháng 8 thay vì chờ giảm sâu hơn vào cuối năm."
 related:
-  - { href: "/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn laptop sinh viên, văn phòng 2026: tiêu chí cần nhớ" }
-  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 7/2026 theo từng phân khúc" }
+  - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-cho-sinh-vien-2026.html", cat: "Công nghệ", title: "Cách vệ sinh điện thoại, laptop cho sinh viên đúng cách" }
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Công nghệ", title: "Giá RAM và SSD tăng vọt 2026: có nên mua laptop lúc này?" }
 featured: false
 ---

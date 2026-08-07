@@ -37,7 +37,7 @@ faq:
   - q: "Chờ iPhone 18 Pro Max có đáng không?"
     a: "Đáng chờ nếu bạn ưu tiên chip mới nhất, pin lớn và không cần đổi máy gấp. Việc chờ vài tuần còn giúp bạn thấy giá thực tế, đọc bài đo độc lập và tránh mua hớ. Ngược lại, nếu máy hiện tại đã hỏng hoặc bạn cần dùng ngay, Galaxy S26 Ultra đang bán là phương án chắc chắn hơn. Chờ đợi chỉ hợp lý khi bạn còn thời gian và không bị gián đoạn công việc."
 related:
-  - { href: "/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html", cat: "Smartphone", title: "Galaxy S26 Ultra: camera 200MP, Snapdragon 8 Elite Gen 5" }
+  - { href: "/articles/iphone-18-pro-max-day-nang-hon-pin-lon-thiet-ke-2026.html", cat: "Smartphone", title: "iPhone 18 Pro Max dày và nặng hơn: đánh đổi lấy pin lớn" }
   - { href: "/articles/chip-a20-pro-iphone-18-pro-2nm-manh-co-nao-2026.html", cat: "Smartphone", title: "Chip A20 Pro iPhone 18 Pro: bước nhảy 2nm mạnh cỡ nào" }
   - { href: "/articles/iphone-18-pro-max-day-nang-hon-pin-lon-thiet-ke-2026.html", cat: "Smartphone", title: "iPhone 18 Pro Max dày và nặng hơn: đánh đổi lấy pin lớn" }
 featured: true

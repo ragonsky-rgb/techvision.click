@@ -37,9 +37,8 @@ faq:
   - q: "Đây có phải danh hiệu lớn đầu tiên của BLG trong năm 2026 không?"
     a: "Không. BLG bước vào MSI 2026 với tư cách đương kim vô địch giải First Stand, cho thấy đội đang có một mùa giải đầy ấn tượng và tiếp tục khẳng định vị thế là một trong những đội tuyển mạnh nhất khu vực LPL lẫn thế giới trong năm 2026."
 related:
-  - { href: "/articles/bin-thach-dau-zeus-blg-hle-msi-2026-chung-ket-nhanh-thang.html", cat: "Gaming", title: "Bin thách đấu Zeus, BLG đại chiến HLE" }
-  - { href: "/articles/tsw-thua-hle-msi-2026-bi-chi-trich-nang-ne.html", cat: "Gaming", title: "TSW thua HLE tại MSI 2026, bị chỉ trích nặng nề" }
-  - { href: "/articles/t1-thua-g2-msi-2026-bi-loai-som-nhat-lich-su.html", cat: "Gaming", title: "T1 thua G2, bị loại sớm nhất lịch sử MSI" }
+  - { href: "/articles/msi-2026-chung-ket-tong-blg-hle-doi-dau-vuong-mien.html", cat: "Gaming", title: "MSI 2026 chung kết tổng: BLG đối đầu HLE tranh vương miện tối nay 12/7" }
+  - { href: "/articles/ewc-2026-lmht-chung-ket-karmine-corp-dplus-kia.html", cat: "Gaming", title: "EWC 2026 LMHT: chung kết Karmine Corp gặp Dplus KIA" }
 featured: false
 ---
 

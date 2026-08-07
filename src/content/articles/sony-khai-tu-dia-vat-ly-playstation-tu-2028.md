@@ -35,9 +35,7 @@ faq:
   - q: "Người chơi có còn có thể mua game PlayStation dưới dạng hộp vật lý sau 2028 không?"
     a: "Có khả năng. Sony cho biết sẽ tạo điều kiện để các nhà phát hành phát hành game mới tại các cửa hàng bán lẻ dưới dạng hộp chứa mã tải kỹ thuật số thay vì đĩa vật lý truyền thống, tuy chi tiết cụ thể vẫn chưa được công bố đầy đủ."
 related:
-  - { href: "/articles/palworld-1-0-chinh-thuc-ra-mat-ban-do-gap-doi-2026.html", cat: "Gaming", title: "Palworld chính thức ra mắt bản 1.0, bản đồ gần gấp đôi" }
-  - { href: "/articles/xbox-series-x25-console-25-nam-hoai-niem-2026.html", cat: "Gaming", title: "Xbox Series X25, console 25 năm hoài niệm" }
-  - { href: "/articles/valve-steam-machine-ra-mat-30-6-2026-gia-tang-khung-hoang-ram.html", cat: "Gaming", title: "Valve Steam Machine ra mắt, giá tăng vì khủng hoảng RAM" }
+  - { href: "/articles/deepseek-v4-dspark-khai-tu-api-cu-24-7-2026.html", cat: "AI", title: "DeepSeek khai tử API cũ ngày 24/7: vì sao phải chuyển sang V4" }
 featured: false
 ---
 

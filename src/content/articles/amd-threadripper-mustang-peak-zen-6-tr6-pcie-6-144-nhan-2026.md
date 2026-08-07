@@ -35,8 +35,6 @@ faq:
   - q: "Threadripper Mustang Peak khi nào ra mắt?"
     a: "Tài liệu của AMD không nêu ngày ra mắt cụ thể, cho thấy sản phẩm vẫn còn cách thời điểm bán ra khá xa. Giới quan sát dự đoán Threadripper Mustang Peak sớm nhất cũng phải tới giữa hoặc cuối năm 2027 mới xuất hiện, phù hợp với lộ trình kiến trúc Zen 6 của AMD."
 related:
-  - { href: "/articles/amd-zen-6-ryzen-2026-tien-trinh-2nm-24-nhan-ai-nang-cap.html", cat: "Công nghệ", title: "AMD Zen 6 Ryzen 2026: tiến trình 2nm, 24 nhân, nâng cấp AI" }
-  - { href: "/articles/amd-computex-2026-ryzen-7700x3d-radeon-rx-9070-gre-am4-am5.html", cat: "Công nghệ", title: "AMD Computex 2026: Ryzen 7700X3D, Radeon RX 9070 GRE" }
   - { href: "/articles/intel-panther-lake-core-ultra-3-ces-2026-18a-npu-ai-pc.html", cat: "Công nghệ", title: "Intel Panther Lake Core Ultra 3: tiến trình 18A, NPU AI PC" }
 featured: true
 ---

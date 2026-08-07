@@ -38,8 +38,8 @@ faq:
     a: "Theo thông tin công bố, Realme 16T được trang bị khả năng chống chịu tốt với chuẩn kháng nước và bụi, cùng độ bền được quảng bá ở mức cao. Điều này giúp máy phù hợp với những người dùng năng động, thường xuyên sử dụng thiết bị trong nhiều điều kiện môi trường khác nhau."
 related:
   - { href: "/articles/gia-smartphone-cao-cap-viet-nam-tang-manh-2026-thieu-chip-nho.html", cat: "Công nghệ", title: "Giá smartphone cao cấp tại Việt Nam tăng mạnh năm 2026" }
-  - { href: "/articles/realme-gt-8-pro-camera-ricoh-ong-kinh-thao-roi-2026.html", cat: "Công nghệ", title: "Realme GT 8 Pro: camera Ricoh, ống kính tháo rời" }
-  - { href: "/articles/pin-silicon-carbon-la-gi-dien-thoai-pin-10000mah-2026.html", cat: "Công nghệ", title: "Pin silicon carbon là gì, điện thoại pin 10.000mAh" }
+  - { href: "/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html", cat: "Smartphone", title: "HONOR 600 Lite ra mắt Việt Nam: pin 6.520mAh, camera 108MP, giá 10,99 triệu" }
+  - { href: "/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html", cat: "Smartphone", title: "Xiaomi 17T Series ra mắt 28/5: Leica 5x zoom, pin 6.500mAh, giá từ 12.9 triệu tại Việt Nam" }
 featured: false
 ---
 

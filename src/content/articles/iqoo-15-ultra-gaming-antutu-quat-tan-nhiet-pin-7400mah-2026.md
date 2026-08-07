@@ -37,9 +37,9 @@ faq:
   - q: "Nên chọn iQOO 15 Ultra hay điện thoại gaming khác?"
     a: "Nếu ưu tiên hiệu năng thô cao nhất kèm tản nhiệt chủ động, iQOO 15 Ultra là lựa chọn hàng đầu trong nhóm gaming 2026. Tuy nhiên nếu bạn muốn thiết kế đậm chất gaming với đèn RGB và nút bấm phụ, các mẫu như RedMagic cũng đáng cân nhắc. Người thích cân bằng giữa chơi game và chụp ảnh có thể nhìn sang các flagship camera. Lựa chọn cuối cùng phụ thuộc vào việc bạn coi trọng hiệu năng, nhiếp ảnh hay thời lượng pin nhiều hơn."
 related:
-  - { href: "/articles/iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026.html", cat: "Smartphone", title: "iQOO 15: Snapdragon 8 Elite Gen 5, pin 7000mAh" }
+  - { href: "/articles/oppo-k15-ra-mat-quat-tan-nhiet-pin-8000mah-gia-2026.html", cat: "Smartphone", title: "Oppo K15 ra mắt: quạt tản nhiệt tích hợp, pin 8.000mAh" }
   - { href: "/articles/redmagic-11s-pro-plus-vo-dich-antutu-dien-thoai-gaming-2026.html", cat: "Smartphone", title: "RedMagic 11S Pro+ vô địch AnTuTu điện thoại gaming" }
-  - { href: "/articles/honor-magic-8-pro-camera-200mp-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "Honor Magic 8 Pro: camera 200MP, Snapdragon 8 Elite Gen 5" }
+  - { href: "/articles/redmagic-11-pro-dien-thoai-gaming-tan-nhiet-long-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "RedMagic 11 Pro: điện thoại gaming tản nhiệt lỏng đầu tiên, Snapdragon 8 Elite Gen 5, pin 7.500mAh" }
 featured: false
 ---
 

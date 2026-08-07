@@ -37,9 +37,9 @@ faq:
   - q: "Bao lâu nên vệ sinh điện thoại và laptop một lần?"
     a: "Nên lau nhẹ màn hình, mặt lưng điện thoại và vỏ laptop hằng tuần vì đây là nơi tiếp xúc tay nhiều. Vệ sinh sâu hơn như làm sạch cổng sạc, loa, bàn phím và thổi bụi khe tản nhiệt nên làm mỗi 1 tới 3 tháng, hoặc sớm hơn nếu bạn thấy máy sạc chập chờn, loa nhỏ tiếng hay laptop nóng và quạt kêu to bất thường. Duy trì đều đặn giúp máy bền và hoạt động ổn định hơn."
 related:
-  - { href: "/articles/chuan-khang-nuoc-ip68-ip67-ip69-la-gi-dien-thoai-chong-nuoc-that-khong.html", cat: "Công nghệ", title: "Chuẩn kháng nước IP68, IP67 là gì" }
-  - { href: "/articles/cach-chon-tan-nhiet-cpu-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn tản nhiệt CPU 2026" }
-  - { href: "/articles/chuan-sac-nhanh-pd-pps-qc-supervooc-khac-nhau-chon-cu-sac-2026.html", cat: "Công nghệ", title: "Chuẩn sạc nhanh PD, PPS, QC, SuperVOOC khác nhau" }
+  - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-dung-cach-2026.html", cat: "Công nghệ", title: "Vệ sinh điện thoại, laptop đúng cách: xử lý khi dính nước" }
+  - { href: "/articles/cach-nhan-biet-go-ung-dung-doc-hai-virus-tren-dien-thoai-2026.html", cat: "Internet", title: "Cách nhận biết và gỡ ứng dụng độc hại trên điện thoại: 8 bước bảo vệ 2026" }
+  - { href: "/articles/cach-doc-thong-so-camera-dien-thoai-mp-f-ois-2026.html", cat: "Camera", title: "Cách đọc thông số camera điện thoại: MP, khẩu độ f, OIS 2026" }
 featured: true
 ---
 

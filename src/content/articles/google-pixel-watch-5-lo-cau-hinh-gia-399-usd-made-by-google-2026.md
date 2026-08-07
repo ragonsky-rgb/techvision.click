@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026.html", cat: "Smartphone", title: "Made by Google 12/8/2026: Pixel 11 Pro và bản gập" }
   - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?" }
-  - { href: "/articles/top-dong-ho-thong-minh-dang-mua-thang-7-2026.html", cat: "Wearable", title: "Top đồng hồ thông minh đáng mua tháng 7/2026" }
+  - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
 featured: false
 ---
 

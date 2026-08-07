@@ -38,8 +38,8 @@ faq:
     a: "Sau khi trọng số được mở ngày 27/7/2026, các nhóm kỹ thuật tại Việt Nam có thể tự lưu trữ Kimi K3 nếu có đủ hạ tầng máy chủ và GPU, hoặc truy cập qua các nền tảng cung cấp API. Với doanh nghiệp không đủ hạ tầng, chi phí tự vận hành mô hình 2.800 tỷ tham số là rất lớn, nên lựa chọn thực tế thường là gọi API hoặc dùng các bản chưng cất nhỏ hơn. Người dùng nên so sánh chi phí, độ trễ và mức độ riêng tư dữ liệu trước khi quyết định."
 related:
   - { href: "/articles/kimi-k2-7-code-mo-hinh-ai-ma-nguon-mo-github-copilot-2026.html", cat: "AI", title: "Kimi K2.7 Code: mô hình AI mã nguồn mở vào GitHub Copilot" }
-  - { href: "/articles/gpt-5-6-cuoc-dua-ai-nua-cuoi-2026-gemini-claude-glm.html", cat: "AI", title: "GPT-5.6 và cuộc đua mô hình AI nửa cuối 2026" }
-  - { href: "/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html", cat: "AI", title: "Google Gemini 3.5 Pro: cửa sổ 2 triệu token và Deep Think" }
+  - { href: "/articles/minimax-m3-mo-hinh-ai-ma-nguon-mo-1-trieu-token-2026.html", cat: "AI", title: "MiniMax M3: mô hình AI mã nguồn mở 1 triệu token" }
+  - { href: "/articles/thinking-machines-inkling-mo-hinh-ai-mo-mira-murati-2026.html", cat: "AI", title: "Inkling: mô hình AI mở đầu tiên của Mira Murati, 975 tỷ tham số" }
 featured: false
 ---
 

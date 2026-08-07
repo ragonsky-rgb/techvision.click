@@ -37,9 +37,9 @@ faq:
   - q: "Gen.G và T1 thi đấu ra sao ngày đầu?"
     a: "Đương kim vô địch EWC 2025 là Gen.G đã thắng Karmine Corp trong trận ra quân, đánh dấu màn trở lại sau khi vắng mặt ở MSI 2026. T1, nhà vô địch thế giới 2025, cũng khởi đầu thuận lợi khi vượt qua GAM Esports của Việt Nam."
 related:
-  - { href: "/articles/ewc-2026-lmht-lich-thi-dau-doi-hinh-giai-thuong.html", cat: "Gaming", title: "EWC 2026 LMHT: lịch thi đấu, 16 đội, giải 2 triệu USD" }
-  - { href: "/articles/vcs-2026-mua-he-khep-lai-huong-toi-chung-ket.html", cat: "Gaming", title: "VCS 2026 mùa hè khép lại, hướng tới vòng chung kết" }
-  - { href: "/articles/t1-thua-g2-msi-2026-bi-loai-som-nhat-lich-su.html", cat: "Gaming", title: "T1 thua G2 ở MSI 2026, bị loại sớm nhất lịch sử" }
+  - { href: "/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html", cat: "Gaming", title: "EWC 2026 LMHT: Dplus KIA vô địch, hạ Karmine Corp 3-0" }
+  - { href: "/articles/huawei-matepad-11-5-papermatte-2026-ra-mat-viet-nam.html", cat: "Công nghệ", title: "Huawei MatePad 11.5 PaperMatte 2026 ra mắt Việt Nam" }
+  - { href: "/articles/ewc-2026-lmht-chung-ket-karmine-corp-dplus-kia.html", cat: "Gaming", title: "EWC 2026 LMHT: chung kết Karmine Corp gặp Dplus KIA" }
 featured: false
 ---
 

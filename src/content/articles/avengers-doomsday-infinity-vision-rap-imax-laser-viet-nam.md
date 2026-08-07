@@ -36,10 +36,6 @@ faq:
     a: "IMAX và Dolby Cinema là các định dạng rạp cụ thể do IMAX và Dolby vận hành, gắn với phần cứng riêng của họ. Infinity Vision không phải một định dạng phần cứng mới mà là một chứng nhận của Disney, cấp cho những phòng PLF đủ chuẩn bất kể thuộc thương hiệu nào, miễn đạt yêu cầu về màn, độ sáng laser và âm thanh. Nói cách khác, một phòng IMAX with Laser có thể vừa là IMAX vừa được dán nhãn Infinity Vision."
   - q: "Khi nào mở bán vé Avengers: Doomsday tại Việt Nam?"
     a: "Marvel đã mở bán vé Infinity Vision cho Avengers: Doomsday tại nhiều thị trường cùng thời điểm tung trailer, trước phim khoảng năm tháng. Tại Việt Nam, lịch mở bán suất chiếu cụ thể do các cụm rạp như CGV, Galaxy công bố gần ngày khởi chiếu 18/12/2026. Bạn nên theo dõi trang đặt vé của rạp và ưu tiên chọn suất ở phòng IMAX with Laser nếu muốn trải nghiệm sát chuẩn Infinity Vision nhất."
-related:
-  - { href: "/articles/anker-soundcore-nebula-x1-pro-may-chieu-rap-hat-di-dong-2026.html", cat: "Công nghệ", title: "Anker Nebula X1 Pro: máy chiếu rạp hát di động 2026" }
-  - { href: "/articles/cach-chon-smart-tivi-thong-minh-2026-tieu-chi-kich-thuoc-tam-nen.html", cat: "Công nghệ", title: "Cách chọn smart tivi 2026: tiêu chí kích thước, tấm nền" }
-  - { href: "/articles/top-may-chieu-tot-nhat-nua-dau-2026-theo-nhu-cau.html", cat: "Công nghệ", title: "Top máy chiếu tốt nhất nửa đầu 2026 theo nhu cầu" }
 featured: true
 ---
 

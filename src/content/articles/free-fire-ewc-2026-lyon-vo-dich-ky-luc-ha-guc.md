@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/100-thieves-vo-dich-valorant-ewc-2026-danh-bai-nrg.html", cat: "Gaming", title: "100 Thieves vô địch Valorant EWC 2026, đánh bại NRG" }
   - { href: "/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html", cat: "Gaming", title: "EWC 2026 LMHT: Dplus Kia vô địch, thắng Karmine Corp 3-0" }
-  - { href: "/articles/ewc-2026-lmht-lich-thi-dau-doi-hinh-giai-thuong.html", cat: "Gaming", title: "EWC 2026 LMHT: lịch thi đấu, đội hình, giải thưởng" }
+  - { href: "/articles/menard-vo-dich-evo-2026-street-fighter-6-ky-luc-4-lan.html", cat: "Game", title: "MenaRD vô địch EVO 2026 Street Fighter 6, kỷ lục 4 lần" }
 featured: true
 ---
 

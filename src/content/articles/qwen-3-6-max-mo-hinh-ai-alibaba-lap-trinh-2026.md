@@ -37,7 +37,7 @@ faq:
 related:
   - { href: "/articles/minimax-m3-mo-hinh-ai-ma-nguon-mo-1-trieu-token-2026.html", cat: "AI", title: "MiniMax M3: mô hình AI mã nguồn mở 1 triệu token" }
   - { href: "/articles/kimi-k2-7-code-mo-hinh-ai-ma-nguon-mo-github-copilot-2026.html", cat: "AI", title: "Kimi K2.7 Code: mô hình AI mã nguồn mở vào GitHub Copilot" }
-  - { href: "/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html", cat: "AI", title: "Google Gemini 3.5 Pro: 2 triệu token, Deep Think" }
+  - { href: "/articles/kimi-k3-moonshot-ai-2800-ty-tham-so-mo-hinh-ma-nguon-mo-lon-nhat-2026.html", cat: "AI", title: "Kimi K3 là gì: mô hình AI mã nguồn mở 2.800 tỷ tham số" }
 featured: false
 ---
 

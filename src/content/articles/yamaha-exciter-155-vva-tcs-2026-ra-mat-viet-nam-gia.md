@@ -38,7 +38,7 @@ faq:
     a: "Ở phân khúc xe côn tay dưới 175 phân khối tại Việt Nam, đối thủ trực tiếp của Exciter 155 là Honda Winner X. Với việc bổ sung TCS, ABS và loạt công nghệ kết nối, Exciter 155 2026 muốn tạo khoảng cách về trang bị an toàn và tiện nghi so với đối thủ, dù đi kèm là mức giá cao hơn thế hệ trước."
 related:
   - { href: "/articles/vinfast-kyo-kinet-xe-may-dien-ra-mat-gia-tu-30-trieu-2026.html", cat: "Công nghệ", title: "VinFast Kyo, Kinet: xe máy điện mới, giá từ 30 triệu" }
-  - { href: "/articles/vinfast-vf2-ra-mat-188-trieu-dong-xe-dien-mini-2026.html", cat: "Công nghệ", title: "VinFast VF2 ra mắt: xe điện mini, giá 188 triệu" }
+  - { href: "/articles/gac-gs3-emzoom-ra-mat-viet-nam-gia-639-trieu-2026.html", cat: "Công nghệ", title: "GAC GS3 Emzoom ra mắt Việt Nam: giá 639 triệu, 174 mã lực" }
   - { href: "/articles/volvo-ex90-es90-xe-dien-ve-viet-nam-quy-4-2026-nhan-coc.html", cat: "Công nghệ", title: "Volvo EX90, ES90: xe điện về Việt Nam quý 4/2026" }
 featured: true
 ---

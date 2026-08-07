@@ -35,9 +35,7 @@ faq:
   - q: "Đấu giá kho số có ý nghĩa gì với thị trường viễn thông?"
     a: "Việc đấu giá công khai giúp phân bổ tài nguyên kho số minh bạch theo giá trị thị trường, đồng thời bổ sung nguồn số cho các nhà mạng đáp ứng nhu cầu thuê bao và dịch vụ số ngày càng tăng, trong bối cảnh nhiều nhóm đầu số 09x đã cạn."
 related:
-  - { href: "/articles/5g-viet-nam-2026-phu-song-92-phan-tram-viettel-vnpt-mo-rong.html", cat: "Viễn thông", title: "5G Việt Nam 2026, phủ sóng 92% Viettel VNPT mở rộng" }
   - { href: "/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html", cat: "Viễn thông", title: "Khóa SIM 15/6, cách xác thực VNeID để không mất số" }
-  - { href: "/articles/6g-viet-nam-2026-nghien-cuu-thu-nghiem-viettel-vnpt-mobifone-pho-tan.html", cat: "Viễn thông", title: "6G Việt Nam 2026, nghiên cứu thử nghiệm Viettel VNPT" }
 featured: true
 ---
 

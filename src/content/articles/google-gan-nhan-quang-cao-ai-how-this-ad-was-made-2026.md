@@ -35,9 +35,7 @@ faq:
   - q: "Quy định này liên quan gì tới luật AI của châu Âu?"
     a: "Động thái của Google diễn ra ngay trước thời điểm Điều 50 của Đạo luật AI châu Âu về nghĩa vụ minh bạch bắt đầu có hiệu lực từ 2/8/2026, với mức phạt có thể lên tới 15 triệu euro hoặc 3% doanh thu toàn cầu hằng năm đối với vi phạm."
 related:
-  - { href: "/articles/google-ai-mode-search-2026-tim-kiem-ai-thay-doi-lon-nhat-25-nam.html", cat: "Internet", title: "Google AI Mode, tìm kiếm AI thay đổi lớn nhất 25 năm" }
-  - { href: "/articles/cach-nhan-biet-anh-video-deepfake-ai-gia-mao-2026.html", cat: "Công nghệ", title: "Cách nhận biết ảnh video deepfake AI giả mạo" }
-  - { href: "/articles/ai-overviews-la-gi-cach-hoat-dong-anh-huong-website.html", cat: "Internet", title: "AI Overviews là gì, cách hoạt động và ảnh hưởng website" }
+  - { href: "/articles/cach-phuc-che-anh-cu-tao-anh-ai-gemini-nano-banana-2026.html", cat: "AI", title: "Cách phục chế ảnh cũ và tạo ảnh AI bằng Gemini 2026" }
 featured: false
 ---
 

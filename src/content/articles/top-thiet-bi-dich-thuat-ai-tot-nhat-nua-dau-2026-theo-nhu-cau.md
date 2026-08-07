@@ -37,9 +37,9 @@ faq:
   - q: "Chọn thiết bị dịch thuật AI cần lưu ý gì nhất?"
     a: "Bạn nên xác định rõ tần suất và môi trường sử dụng, như du lịch, làm việc quốc tế hay chỉ thỉnh thoảng cần dịch, vì những yếu tố này quyết định loại thiết bị phù hợp. Ngoài ra, số ngôn ngữ hỗ trợ, độ chính xác, độ trễ, khả năng ngoại tuyến và ngân sách cũng rất quan trọng. Không có thiết bị nào tốt nhất cho tất cả, nên chọn đúng theo nhu cầu giao tiếp thực tế của bạn là quan trọng nhất."
 related:
-  - { href: "/articles/timekettle-w4-pro-tai-nghe-phien-dich-ai-thoi-gian-thuc-2026.html", cat: "Công nghệ", title: "Timekettle W4 Pro: tai nghe phiên dịch AI thời gian thực 2026" }
-  - { href: "/articles/google-gemini-live-translate-dich-giong-noi-thoi-gian-thuc-2026.html", cat: "Công nghệ", title: "Google Gemini Live Translate: dịch giọng nói thời gian thực 2026" }
-  - { href: "/articles/top-thiet-bi-dich-thuat-ai-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top thiết bị dịch thuật AI đáng mua tháng 7/2026" }
+  - { href: "/articles/top-flycam-tot-nhat-nua-dau-2026-theo-nhu-cau.html", cat: "Công nghệ", title: "Top flycam tốt nhất nửa đầu 2026 theo từng nhu cầu" }
+  - { href: "/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html", cat: "Laptop", title: "Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu" }
+  - { href: "/articles/top-10-cua-hang-mua-macbook-gia-tot-2026-shopee-fpt-cellphones.html", cat: "Laptop", title: "Top 10 cửa hàng mua MacBook giá tốt 2026, có cả Shopee Mall" }
 featured: false
 ---
 

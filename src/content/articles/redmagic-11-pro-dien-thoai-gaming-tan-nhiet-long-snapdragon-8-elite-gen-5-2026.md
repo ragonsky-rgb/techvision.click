@@ -37,9 +37,9 @@ faq:
   - q: "Ai nên mua RedMagic 11 Pro?"
     a: "Máy phù hợp với game thủ di động nghiêm túc, những người chơi các tựa nặng như Genshin Impact, PUBG Mobile hay Liên Quân ở khung hình cao trong thời gian dài. Người dùng phổ thông chỉ lướt web, mạng xã hội hay chụp ảnh sẽ không tận dụng hết sức mạnh và thiết kế đặc thù của dòng máy này."
 related:
-  - { href: "/articles/snapdragon-8-elite-gen-5-la-gi-chip-android-manh-nhat-2026.html", cat: "Smartphone", title: "Snapdragon 8 Elite Gen 5 là gì, chip Android mạnh nhất 2026" }
-  - { href: "/articles/wooting-80he-ban-phim-hall-effect-esports-2026.html", cat: "Công nghệ", title: "Wooting 80HE: bàn phím Hall Effect cho esports 2026" }
-  - { href: "/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html", cat: "Công nghệ", title: "Gartner: giá điện thoại, laptop 2026 tăng, nên mua gì" }
+  - { href: "/articles/nothing-phone-4b-ra-mat-gia-re-glyph-snapdragon-6-gen-4-2026.html", cat: "Smartphone", title: "Nothing Phone 4b ra mắt: điện thoại giá rẻ có Glyph, Snapdragon 6 Gen 4, pin 5.200mAh" }
+  - { href: "/articles/honor-magicpad-3-pro-tablet-snapdragon-8-elite-gen-5-gia-viet-nam-2026.html", cat: "Công nghệ", title: "HONOR MagicPad 3 Pro: tablet Snapdragon 8 Elite Gen 5, 14 triệu" }
+  - { href: "/articles/redmagic-11s-pro-plus-vo-dich-antutu-dien-thoai-gaming-2026.html", cat: "Smartphone", title: "RedMagic 11S Pro+: vô địch AnTuTu, pin 8000mAh" }
 featured: true
 ---
 

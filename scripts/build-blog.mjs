@@ -38,11 +38,18 @@ if (existsSync(mdDir)) {
       datePublished: fm.datePublished || null,
       image: fm.heroImage || '',
       heroAlt: fm.heroAlt || fm.title || '',
+      noindex: String(fm.noindex).trim() === 'true',
       source: 'collection',
     });
   }
 }
 articles = articles.filter((a) => a.slug && a.datePublished);
+// Hub chỉ liệt kê bài còn nằm trong index. Bài đã gắn noindex vẫn sống và vẫn
+// truy cập được qua URL trực tiếp, nhưng không được ngốn crawl budget của hub:
+// trước khi lọc, blog.html trỏ tới 718 bài mà 480 trong đó là noindex.
+const hidden = articles.filter((a) => a.noindex).length;
+articles = articles.filter((a) => !a.noindex);
+if (hidden) console.log(`   (ẩn ${hidden} bài noindex khỏi blog.html)`);
 articles.sort((a, b) => (b.datePublished || '').localeCompare(a.datePublished || ''));
 
 // --- Helpers ---

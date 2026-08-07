@@ -35,9 +35,9 @@ faq:
   - q: "Khi nào các thiết bị Android khác ngoài Pixel nhận được Android 17?"
     a: "Sau khi phát hành cho Pixel vào giữa tháng 6/2026, Android 17 sẽ tiếp tục được các nhà sản xuất khác như Samsung, Xiaomi, OPPO triển khai cho thiết bị của mình theo lịch trình riêng trong suốt năm 2026, thường chậm hơn Pixel vài tháng tuỳ nhà sản xuất."
 related:
-  - { href: "/articles/windows-11-26h2-tinh-nang-moi-ai-taskbar-2026.html", cat: "Công nghệ", title: "Windows 11 26H2, tính năng mới AI taskbar" }
+  - { href: "/articles/samsung-one-ui-85-thiet-bi-duoc-cap-nhat-one-ui-90-khi-nao.html", cat: "Android", title: "Samsung One UI 8.5: Máy nào được cập nhật và One UI 9.0 ra mắt khi nào?" }
   - { href: "/articles/google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026.html", cat: "Smartphone", title: "Google Pixel 11 Pro Fold, sự kiện Made by Google" }
-  - { href: "/articles/openai-gpt-live-tro-ly-giong-noi-thoi-gian-thuc-2026.html", cat: "AI", title: "OpenAI GPT Live, trợ lý giọng nói thời gian thực" }
+  - { href: "/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html", cat: "Apple", title: "iPhone 18 Pro: giá bán, tính năng, ngày ra mắt tháng 9/2026" }
 featured: false
 ---
 

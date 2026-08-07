@@ -37,9 +37,9 @@ faq:
   - q: "MoMo có kế hoạch niêm yết không?"
     a: "MoMo đã gọi vốn nhiều vòng, gần nhất là Series E trị giá 200 triệu USD do tập đoàn Mizuho của Nhật dẫn dắt, cùng các quỹ đầu tư khác. Đây là nguồn lực để MoMo mở rộng và đầu tư công nghệ. Về kế hoạch niêm yết, từng có thông tin về dự định IPO, nhưng chưa có công bố chính thức cụ thể cho thời điểm gần. Người quan tâm nên theo dõi thông báo chính thức từ MoMo để có thông tin chính xác."
 related:
-  - { href: "/articles/thanh-toan-khong-tien-mat-viet-nam-2026-qr-mobile-money-tang-truong.html", cat: "Internet", title: "Thanh toán không tiền mặt Việt Nam 2026: QR, Mobile Money" }
-  - { href: "/articles/ngan-hang-ai-viet-nam-2026-tro-ly-ao-chatbot-chuyen-doi-so.html", cat: "AI", title: "Ngân hàng AI Việt Nam 2026: trợ lý ảo và chatbot" }
-  - { href: "/articles/viet-nam-luat-tai-san-ma-hoa-2026-san-giao-dich-thi-diem-khung-phap-ly.html", cat: "Công nghệ", title: "Việt Nam có khung pháp lý tài sản mã hóa 2026" }
+  - { href: "/articles/lynk-co-02-ra-mat-viet-nam-gia-du-kien-900-trieu.html", cat: "Công nghệ", title: "Lynk & Co 02 sắp về Việt Nam, giá dự kiến từ 900 triệu" }
+  - { href: "/articles/zalo-binh-dan-hoa-ai-2026-tro-ly-cong-dan-so-80-trieu-nguoi-dung.html", cat: "AI", title: "Zalo bình dân hóa AI: trợ lý Công dân số phục vụ gần 80 triệu người dùng" }
+  - { href: "/articles/gac-gs3-emzoom-ra-mat-viet-nam-gia-639-trieu-2026.html", cat: "Công nghệ", title: "GAC GS3 Emzoom ra mắt Việt Nam: giá 639 triệu, 174 mã lực" }
 featured: false
 ---
 

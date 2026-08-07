@@ -37,9 +37,9 @@ faq:
   - q: "Motorola Edge 70 Max giá bao nhiêu?"
     a: "Giá khởi điểm là 699,99 bảng tại Anh và 799,99 euro tại châu Âu. Bản Ấn Độ có giá 54.999 rupee cho phiên bản 8GB/256GB và 59.999 rupee cho bản 12GB/256GB. Giá và thời điểm bán chính hãng tại Việt Nam chưa được Motorola công bố."
 related:
-  - { href: "/articles/honor-magic-8-pro-camera-200mp-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "Honor Magic 8 Pro: camera 200MP, pin 7100mAh có gì hot?" }
-  - { href: "/articles/pin-silicon-carbon-la-gi-dien-thoai-pin-10000mah-2026.html", cat: "Công nghệ", title: "Pin silicon carbon là gì, vì sao điện thoại đạt 10000mAh" }
-  - { href: "/articles/motorola-razr-70-ultra-dien-thoai-gap-vo-so-gsm-pin-5000mah-2026.html", cat: "Smartphone", title: "Motorola Razr 70 Ultra: điện thoại gập vỏ sò pin 5.000mAh" }
+  - { href: "/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html", cat: "Smartphone", title: "Honor Magic V5: điện thoại gập mỏng nhất thế giới chỉ 8,8mm, pin 5820mAh" }
+  - { href: "/articles/iphone-18-pro-max-hay-galaxy-s26-ultra-cho-hay-mua-2026.html", cat: "Smartphone", title: "iPhone 18 Pro Max hay Galaxy S26 Ultra: chờ hay mua 2026?" }
+  - { href: "/articles/redmi-note-17-series-ra-mat-14-7-pin-10100mah-200mp-2026.html", cat: "Smartphone", title: "Redmi Note 17 series ra mắt 14/7: pin 10.100mAh, camera 200MP và biến thể Pro Max lần đầu xuất hiện" }
 featured: false
 ---
 

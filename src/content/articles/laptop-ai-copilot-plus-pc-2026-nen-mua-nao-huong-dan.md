@@ -37,9 +37,9 @@ faq:
   - q: "Mua laptop AI ở đâu uy tín tại Việt Nam?"
     a: "Người dùng có thể mua tại các hệ thống lớn như FPT Shop, CellphoneS, GearVN, ThinkPro, Phong Vũ, với chính sách bảo hành rõ ràng và thường có trả góp 0%. Nên so sánh giá, chương trình khuyến mãi và chính sách đổi trả giữa các nơi trước khi quyết định."
 related:
-  - { href: "/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html", cat: "Công nghệ", title: "Giá RAM DRAM tăng thêm 20% quý 3 2026" }
-  - { href: "/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html", cat: "Công nghệ", title: "Gartner: giá điện thoại, laptop 2026 tăng, nên mua gì" }
-  - { href: "/articles/windows-11-26h2-tinh-nang-moi-ai-taskbar-2026.html", cat: "Công nghệ", title: "Windows 11 26H2: tính năng AI mới, taskbar 2026" }
+  - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
+  - { href: "/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html", cat: "Laptop", title: "Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu" }
+  - { href: "/articles/vinfast-kyo-kinet-xe-may-dien-ra-mat-gia-tu-30-trieu-2026.html", cat: "Công nghệ", title: "VinFast Kyo và Kinet giá bao nhiêu, đổi pin thế nào?" }
 featured: true
 ---
 

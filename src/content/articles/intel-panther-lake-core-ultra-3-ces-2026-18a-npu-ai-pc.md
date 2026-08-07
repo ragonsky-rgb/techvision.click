@@ -37,9 +37,8 @@ faq:
   - q: "Khi nào laptop Panther Lake bán ra?"
     a: "Intel cho biết các bộ xử lý Core Ultra Series 3 bắt đầu bán từ tháng 1/2026, với thời điểm bán lẻ toàn cầu khoảng ngày 27/1. Hơn 200 mẫu thiết kế từ các hãng đối tác như MSI, Lenovo và ASUS dự kiến ra thị trường trong nửa đầu năm. Người dùng Việt nên theo dõi thời điểm các mẫu cụ thể về nước và giá bán."
 related:
-  - { href: "/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html", cat: "Laptop", title: "Laptop Snapdragon X2 Elite: NPU 80 TOPS, pin trâu" }
-  - { href: "/articles/amd-computex-2026-ryzen-7700x3d-radeon-rx-9070-gre-am4-am5.html", cat: "Công nghệ", title: "AMD tại Computex 2026: Ryzen 7700X3D, Radeon RX 9070 GRE" }
-  - { href: "/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn laptop sinh viên, văn phòng 2026: tiêu chí" }
+  - { href: "/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html", cat: "Laptop", title: "Chip laptop 2026: Panther Lake vs Snapdragon X2 Elite vs AMD" }
+  - { href: "/articles/lenovo-ideapad-slim-5i-2026-wildcat-lake-man-120hz-pin-22h.html", cat: "Laptop", title: "Lenovo IdeaPad Slim 5i 2026: Intel Wildcat Lake, màn 120Hz 16:10, pin 22.8 giờ - Đối thủ thật sự của MacBook Neo?" }
 featured: false
 ---
 

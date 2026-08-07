@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.html", cat: "Smartphone", title: "Samsung Galaxy Z TriFold: điện thoại gập ba đầu tiên" }
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Samsung Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
-  - { href: "/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html", cat: "Smartphone", title: "Oppo Find X10 Pro: đối thủ iPhone 18 Pro Max, pin 8000mAh" }
+  - { href: "/articles/honor-win-turbo-pin-10000mah-sac-80w-dimensity-8500-2026.html", cat: "Smartphone", title: "Honor WIN Turbo: điện thoại pin 10000mAh, sạc 80W, Dimensity 8500" }
 featured: false
 ---
 

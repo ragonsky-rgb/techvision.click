@@ -38,8 +38,8 @@ faq:
     a: "Nhiều nguồn cho rằng chi phí sản xuất wafer 2nm cao hơn đáng kể so với 3nm, và một số dự báo iPhone 18 Pro Max có thể tăng giá so với thế hệ trước. Tuy nhiên giá bán cuối cùng phụ thuộc vào chiến lược của Apple, cấu hình bộ nhớ và tỷ giá tại Việt Nam. Người dùng nên chờ mức giá niêm yết chính hãng thay vì suy đoán từ chi phí linh kiện."
 related:
   - { href: "/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html", cat: "Smartphone", title: "iPhone 18 Pro: tất tần tật tính năng, ra mắt tháng 9 2026" }
-  - { href: "/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html", cat: "Smartphone", title: "Samsung Exynos 2600: chip 2nm đầu tiên thế giới 2026" }
-  - { href: "/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html", cat: "Smartphone", title: "iPhone 18 Pro Max 1399 USD: nghịch lý giá Apple toan tính" }
+  - { href: "/articles/iphone-18-pro-max-hay-galaxy-s26-ultra-cho-hay-mua-2026.html", cat: "Smartphone", title: "iPhone 18 Pro Max hay Galaxy S26 Ultra: chờ hay mua 2026?" }
+  - { href: "/articles/iphone-18-pro-max-day-nang-hon-pin-lon-thiet-ke-2026.html", cat: "Smartphone", title: "iPhone 18 Pro Max dày và nặng hơn: đánh đổi lấy pin lớn" }
 featured: true
 ---
 

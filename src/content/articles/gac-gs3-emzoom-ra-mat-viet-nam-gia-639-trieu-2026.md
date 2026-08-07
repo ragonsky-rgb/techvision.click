@@ -38,7 +38,7 @@ faq:
     a: "GAC Việt Nam áp dụng chương trình 7-7-7 gồm bảo hành xe 7 năm hoặc 150.000 km tùy điều kiện nào đến trước, 7 năm miễn phí cứu hộ 24/7 và 7 năm miễn phí công bảo dưỡng định kỳ. Đây là một trong những chính sách bảo hành dài nhất phân khúc, nhằm trấn an người mua về độ tin cậy của một thương hiệu Trung Quốc còn mới ở thị trường Việt."
 related:
   - { href: "/articles/hyundai-palisade-2026-ra-mat-viet-nam-suv-hybrid-gia-2026.html", cat: "Công nghệ", title: "Hyundai Palisade 2026 ra mắt Việt Nam: SUV hybrid và giá bán" }
-  - { href: "/articles/hyundai-tucson-hybrid-2026-viet-nam-gia-dat-coc.html", cat: "Công nghệ", title: "Hyundai Tucson Hybrid 2026 tại Việt Nam: giá và đặt cọc" }
+  - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Công nghệ", title: "Realme 16T 5G pin 8.000mAh ra mắt Việt Nam, giá từ 7 triệu" }
   - { href: "/articles/vinfast-kyo-kinet-xe-may-dien-ra-mat-gia-tu-30-trieu-2026.html", cat: "Công nghệ", title: "VinFast Kyo và Kinet: xe máy điện mới giá từ 30 triệu" }
 featured: false
 ---

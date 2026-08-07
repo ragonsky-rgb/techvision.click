@@ -37,8 +37,8 @@ faq:
   - q: "Nhà máy có ý nghĩa gì với người dân và doanh nghiệp?"
     a: "Về dài hạn, việc phát triển công nghiệp bán dẫn nội địa giúp tạo việc làm chất lượng cao, thu hút đầu tư và nâng vị thế công nghệ của đất nước. Với doanh nghiệp, một hệ sinh thái bán dẫn mạnh hơn mở ra cơ hội hợp tác và cung ứng. Tuy nhiên, đây là ngành cần thời gian dài và đầu tư lớn, nên kết quả cụ thể sẽ rõ dần qua các năm."
 related:
-  - { href: "/articles/cuoc-dua-trung-tam-du-lieu-ai-viet-nam-2026-viettel-vnpt-fpt-vng-cmc.html", cat: "Công nghệ", title: "Cuộc đua trung tâm dữ liệu AI Việt Nam 2026" }
-  - { href: "/articles/nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026.html", cat: "AI", title: "Nvidia và SK hynix hợp tác bộ nhớ AI HBM4" }
+  - { href: "/articles/fpt-ai-factory-2026-nha-may-ai-chu-quyen-viet-nam-nvidia.html", cat: "Công nghệ", title: "FPT AI Factory: nhà máy AI đầu tiên Việt Nam, nền móng cho AI có chủ quyền" }
+  - { href: "/articles/momo-sieu-ung-dung-ai-2026-40-trieu-nguoi-dung-fintech-viet-nam.html", cat: "Công nghệ", title: "MoMo: siêu ứng dụng AI dẫn đầu fintech Việt Nam với hơn 40 triệu người dùng" }
   - { href: "/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html", cat: "Công nghệ", title: "Quỹ đổi mới công nghệ quốc gia NATIF" }
 featured: false
 ---

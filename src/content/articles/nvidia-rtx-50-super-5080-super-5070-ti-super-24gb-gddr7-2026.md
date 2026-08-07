@@ -37,7 +37,7 @@ faq:
 related:
   - { href: "/articles/rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao.html", cat: "Công nghệ", title: "RTX 5090 vs 5090 Ti 48GB khác gì, nên mua bản nào?" }
   - { href: "/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html", cat: "Công nghệ", title: "Giá RTX 5090 Việt Nam tháng 6/2026, có nên mua?" }
-  - { href: "/articles/cach-chon-card-do-hoa-gpu-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn card đồ họa GPU 2026: các tiêu chí" }
+  - { href: "/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html", cat: "Laptop", title: "Khủng hoảng bộ nhớ 2026: RAM, SSD tăng giá vì AI gom hàng" }
 featured: true
 ---
 

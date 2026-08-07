@@ -37,9 +37,9 @@ faq:
   - q: "Vì sao Google tung nhiều mô hình cùng lúc lúc này?"
     a: "Áp lực cạnh tranh là lý do chính. Trong thời gian Google im ắng ở phân khúc cao cấp, OpenAI đã đẩy GPT-5.6, Anthropic ra Claude Sonnet 5, Opus 4.8 và Fable 5, còn nhiều hãng Trung Quốc cũng tăng tốc. Ra mắt ba mô hình Flash cùng lúc, ngay trước kỳ báo cáo kinh doanh, giúp Google phát tín hiệu rằng hãng vẫn giữ nhịp độ và tập trung vào bài toán hiệu năng trên giá thành."
 related:
-  - { href: "/articles/google-gemini-3-flash-mo-hinh-ai-mac-dinh-nhanh-tiet-kiem-2026.html", cat: "AI", title: "Gemini 3 Flash: mô hình AI mặc định nhanh, tiết kiệm" }
-  - { href: "/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html", cat: "AI", title: "Gemini 3.5 Pro: 2 triệu token, chế độ Deep Think" }
-  - { href: "/articles/gpt-5-6-cuoc-dua-ai-nua-cuoi-2026-gemini-claude-glm.html", cat: "AI", title: "GPT-5.6 và cuộc đua AI nửa cuối 2026" }
+  - { href: "/articles/apple-afm-3-mo-hinh-ai-apple-hop-tac-google-gemini-2026.html", cat: "AI", title: "Apple AFM 3: mô hình AI mới, bắt tay Google Gemini" }
+  - { href: "/articles/google-gemini-intelligence-android-17.html", cat: "AI", title: "Google ra mắt 'Gemini Intelligence' trên Android 17, tuyên chiến trực diện với Apple" }
+  - { href: "/articles/google-io-2026-day-1-gemini-4-omni.html", cat: "AI", title: "Google I/O 2026, Gemini 4 Omni, Aluminium OS, Android XR glasses (preview 18/5)" }
 featured: true
 ---
 

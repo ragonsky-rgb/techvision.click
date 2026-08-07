@@ -37,7 +37,7 @@ faq:
   - q: "Cuộc đua siêu máy tính có ý nghĩa gì với Việt Nam?"
     a: "Cuộc đua siêu máy tính và chip nội địa giữa Mỹ và Trung Quốc cho thấy tầm quan trọng chiến lược của hạ tầng tính toán hiệu năng cao trong thời đại AI. Việt Nam cũng đang đẩy mạnh đầu tư hạ tầng tương tự ở quy mô nhỏ hơn, với các trung tâm dữ liệu AI của Viettel, VNPT, FPT, VNG, CMC, hướng tới mục tiêu tự chủ một phần năng lực tính toán phục vụ phát triển AI trong nước."
 related:
-  - { href: "/articles/cuoc-dua-trung-tam-du-lieu-ai-viet-nam-2026-viettel-vnpt-fpt-vng-cmc.html", cat: "Công nghệ", title: "Cuộc đua trung tâm dữ liệu AI Việt Nam: Viettel, VNPT, FPT, VNG, CMC" }
+  - { href: "/articles/robocup-2026-tsinghua-robot-hinh-nguoi-vo-dich-bong-da.html", cat: "AI", title: "RoboCup 2026: robot hình người Trung Quốc bảo vệ ngôi vô địch bóng đá AI" }
   - { href: "/articles/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.html", cat: "AI", title: "Nvidia Vera Rubin: nền tảng AI 336 tỷ transistor" }
   - { href: "/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html", cat: "AI", title: "Qualcomm AI200, AI250: chip data center đấu Nvidia" }
 featured: false

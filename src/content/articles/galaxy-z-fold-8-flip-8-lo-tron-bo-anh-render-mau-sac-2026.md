@@ -38,7 +38,7 @@ faq:
     a: "Samsung dự kiến trình làng Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 tại sự kiện Galaxy Unpacked diễn ra ở London vào ngày 22/7. Toàn bộ thông tin và hình ảnh hiện tại đều ở dạng rò rỉ, và chỉ được xác nhận chính thức khi sự kiện diễn ra."
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Công nghệ", title: "Samsung Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
-  - { href: "/articles/samsung-galaxy-z-fold-8-ultra-camera-200mp-unpacked-22-7-2026.html", cat: "Công nghệ", title: "Galaxy Z Fold 8 Ultra: camera 200MP, Unpacked 22/7" }
+  - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Smartphone", title: "Đặt trước Galaxy Z Fold 8, Z Flip 8: quà tặng từng đại lý" }
   - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Công nghệ", title: "Galaxy Z Fold 8, Flip 8 giá đặt trước tại Việt Nam" }
 featured: true
 ---

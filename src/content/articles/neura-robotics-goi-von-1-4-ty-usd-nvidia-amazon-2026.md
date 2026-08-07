@@ -36,8 +36,8 @@ faq:
     a: "Giới đầu tư ngày càng tin tưởng vào tiềm năng của AI vật lý (physical AI), thế hệ công nghệ được xem là bước tiến tiếp theo sau các chatbot và trợ lý AI hiện nay, hứa hẹn mở ra thị trường ứng dụng rộng lớn trong sản xuất công nghiệp, dịch vụ và đời sống hàng ngày."
 related:
   - { href: "/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html", cat: "AI", title: "Boston Dynamics Atlas, robot hình người tích hợp Gemini Robotics" }
-  - { href: "/articles/figure-ai-robot-dong-hon-nguoi-botq-2026.html", cat: "AI", title: "Figure AI, số robot hình người vượt số nhân viên công ty" }
-  - { href: "/articles/boston-dynamics-spot-gemini-robotics-er-1-6-2026.html", cat: "AI", title: "Boston Dynamics Spot, Gemini Robotics-ER 1.6" }
+  - { href: "/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html", cat: "AI", title: "Qualcomm tung chip AI200, AI250 đấu Nvidia ở data center" }
+  - { href: "/articles/anthropic-nop-ho-so-ipo-2026-vuot-openai-965-ty.html", cat: "AI", title: "Anthropic nộp hồ sơ IPO, định giá $965 tỷ: vượt OpenAI ra sàn" }
 featured: false
 ---
 

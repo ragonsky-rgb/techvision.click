@@ -37,9 +37,9 @@ faq:
   - q: "Chọn flycam cần lưu ý gì nhất?"
     a: "Bạn nên xác định rõ mục đích sử dụng, như quay phim chuyên nghiệp, sáng tạo nội dung, làm nông nghiệp hay chỉ để giải trí, cùng kinh nghiệm bay của mình, vì những yếu tố này quyết định flycam phù hợp. Ngoài ra, chất lượng camera, thời gian bay, tầm bay, tính năng an toàn và ngân sách cũng rất quan trọng. Không có flycam nào tốt nhất cho tất cả, nên chọn đúng theo nhu cầu và trình độ là quan trọng nhất."
 related:
-  - { href: "/articles/dji-mavic-4-pro-flycam-camera-kep-100mp-hasselblad-2026.html", cat: "Công nghệ", title: "DJI Mavic 4 Pro: flycam camera kép 100MP Hasselblad 2026" }
-  - { href: "/articles/antigravity-a1-flycam-360-do-dau-tien-the-gioi-2026.html", cat: "Công nghệ", title: "Antigravity A1: flycam quay 360 độ đầu tiên thế giới 2026" }
-  - { href: "/articles/top-flycam-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top flycam đáng mua tháng 7/2026" }
+  - { href: "/articles/top-thiet-bi-dich-thuat-ai-tot-nhat-nua-dau-2026-theo-nhu-cau.html", cat: "Công nghệ", title: "Top thiết bị dịch thuật AI tốt nhất nửa đầu 2026 theo nhu cầu" }
+  - { href: "/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html", cat: "Laptop", title: "Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu" }
+  - { href: "/articles/top-10-cua-hang-mua-macbook-gia-tot-2026-shopee-fpt-cellphones.html", cat: "Laptop", title: "Top 10 cửa hàng mua MacBook giá tốt 2026, có cả Shopee Mall" }
 featured: false
 ---
 

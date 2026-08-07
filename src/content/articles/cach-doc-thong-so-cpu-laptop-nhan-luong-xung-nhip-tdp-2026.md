@@ -40,7 +40,7 @@ faq:
     a: "Hãy bắt đầu từ nhu cầu. Nếu chủ yếu lướt web, soạn thảo và xem phim, một chip tầm trung tiết kiệm điện là đủ và giúp pin bền. Nếu làm đồ họa, dựng video hay lập trình nặng, hãy ưu tiên chip nhiều nhân, xung nhịp cao và TDP lớn kèm tản nhiệt tốt. Người hay di chuyển nên coi trọng TDP thấp và thời lượng pin. Đừng mua thừa cấu hình chỉ vì con số đẹp, vì phần dư đó thường không dùng tới mà lại tốn tiền."
 related:
   - { href: "/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html", cat: "Laptop", title: "Chip laptop 2026: Panther Lake vs Snapdragon X2 Elite vs AMD" }
-  - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua theo từng phân khúc" }
+  - { href: "/articles/cach-doc-thong-so-camera-dien-thoai-mp-f-ois-2026.html", cat: "Camera", title: "Cách đọc thông số camera điện thoại: MP, khẩu độ f, OIS 2026" }
   - { href: "/articles/intel-panther-lake-core-ultra-3-ces-2026-18a-npu-ai-pc.html", cat: "Laptop", title: "Intel Panther Lake Core Ultra 3: tiến trình 18A, NPU AI PC" }
 featured: true
 ---

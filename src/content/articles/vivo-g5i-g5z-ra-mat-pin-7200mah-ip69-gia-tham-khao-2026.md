@@ -39,9 +39,9 @@ faq:
   - q: "Máy chạy phần mềm gì?"
     a: "Vivo G5i và G5z chạy Android 16 với giao diện OriginOS 6 của Vivo, đi kèm cảm biến vân tay đặt ở cạnh viền. Giao diện này quen thuộc với người dùng Vivo, có nhiều tùy biến và tính năng hằng ngày. Người mua nên kiểm tra chính sách cập nhật phần mềm tại thị trường Việt Nam để biết máy được hỗ trợ nâng cấp trong bao lâu."
 related:
-  - { href: "/articles/top-dien-thoai-pin-trau-tren-7000mah-dang-mua-thang-8-2026.html", cat: "Smartphone", title: "Top điện thoại pin trâu trên 7000mAh đáng mua tháng 8/2026" }
+  - { href: "/articles/nothing-phone-4b-ra-mat-gia-re-glyph-snapdragon-6-gen-4-2026.html", cat: "Smartphone", title: "Nothing Phone 4b ra mắt: điện thoại giá rẻ có Glyph, Snapdragon 6 Gen 4, pin 5.200mAh" }
   - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Smartphone", title: "Realme 16T 5G pin 8000mAh ra mắt Việt Nam" }
-  - { href: "/articles/chuan-sac-nhanh-pd-pps-qc-supervooc-khac-nhau-chon-cu-sac-2026.html", cat: "Công nghệ", title: "Chuẩn sạc nhanh PD, PPS, QC, SuperVOOC khác nhau thế nào" }
+  - { href: "/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html", cat: "Smartphone", title: "HONOR 600 Lite ra mắt Việt Nam: pin 6.520mAh, camera 108MP, giá 10,99 triệu" }
 featured: true
 ---
 

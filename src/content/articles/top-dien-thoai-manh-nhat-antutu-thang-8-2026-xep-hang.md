@@ -41,7 +41,7 @@ faq:
 related:
   - { href: "/articles/iqoo-15-ultra-gaming-antutu-quat-tan-nhiet-pin-7400mah-2026.html", cat: "Smartphone", title: "iQOO 15 Ultra: gaming, quạt tản nhiệt, pin 7400mAh" }
   - { href: "/articles/redmagic-11s-pro-plus-vo-dich-antutu-dien-thoai-gaming-2026.html", cat: "Smartphone", title: "Red Magic 11S Pro+ vô địch AnTuTu điện thoại gaming" }
-  - { href: "/articles/top-dien-thoai-manh-nhat-antutu-thang-7-2026-xep-hang.html", cat: "Smartphone", title: "Top điện thoại mạnh nhất AnTuTu tháng 7/2026" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
 featured: true
 ---
 

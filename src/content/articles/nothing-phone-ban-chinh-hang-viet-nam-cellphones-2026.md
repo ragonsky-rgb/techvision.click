@@ -38,8 +38,8 @@ faq:
     a: "Ở phân khúc tầm trung tại Việt Nam, Nothing Phone cạnh tranh trực tiếp với Samsung Galaxy A, các dòng Xiaomi và Redmi cũng như OPPO. Lợi thế của hàng chính hãng là chế độ bảo hành rõ ràng và mức giá minh bạch hơn so với hàng xách tay trước đây."
 related:
   - { href: "/articles/nothing-phone-4b-ra-mat-gia-re-glyph-snapdragon-6-gen-4-2026.html", cat: "Smartphone", title: "Nothing Phone 4b ra mắt giá rẻ, Glyph, Snapdragon 6 Gen 4" }
-  - { href: "/articles/nothing-ear-3-tai-nghe-true-wireless-super-mic-2026.html", cat: "Công nghệ", title: "Nothing Ear (3) tai nghe true wireless Super Mic" }
-  - { href: "/articles/xiaomi-redmi-a7-pro-smartphone-gia-re-pin-6000mah-2026.html", cat: "Smartphone", title: "Xiaomi Redmi A7 Pro smartphone giá rẻ pin 6000mAh" }
+  - { href: "/articles/xiaomi-17t-hyperos-4-miclaw-ai-viet-nam-2026.html", cat: "Smartphone", title: "Xiaomi 17T ra mắt chính thức Việt Nam: giá từ 18.99 triệu, HyperOS 4 & MiClaw AI" }
+  - { href: "/articles/lynk-co-02-ra-mat-viet-nam-gia-du-kien-900-trieu.html", cat: "Công nghệ", title: "Lynk & Co 02 sắp về Việt Nam, giá dự kiến từ 900 triệu" }
 featured: false
 ---
 

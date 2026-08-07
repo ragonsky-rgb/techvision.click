@@ -36,9 +36,9 @@ faq:
   - q: "Galaxy Tab S11 có phù hợp cho công việc và học tập không?"
     a: "Máy phù hợp cho nhu cầu ghi chú, đọc tài liệu, xem phim và làm việc văn phòng nhẹ nhàng nhờ màn hình sắc nét cùng bút S Pen đi kèm, tuy nhiên với các tác vụ dựng phim hoặc thiết kế đồ họa nặng, dòng Ultra sẽ phù hợp hơn nhờ màn hình lớn và cấu hình cao hơn."
 related:
-  - { href: "/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html", cat: "Công nghệ", title: "Cách chọn màn hình máy tính: tấm nền, độ phân giải, tần số quét" }
-  - { href: "/articles/samsung-one-ui-8-5-android-16-tinh-nang-galaxy-ai-moi-2026.html", cat: "AI", title: "Samsung One UI 8.5 trên Android 16: tính năng Galaxy AI mới" }
-  - { href: "/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html", cat: "Smartphone", title: "Samsung Galaxy S26 Ultra: camera 200MP, Privacy Display" }
+  - { href: "/articles/android-17-cinnamon-bun-chinh-thuc-phat-hanh-2026.html", cat: "Công nghệ", title: "Android 17 ra mắt: tính năng mới, máy nào được cập nhật" }
+  - { href: "/articles/yamaha-exciter-155-vva-tcs-2026-ra-mat-viet-nam-gia.html", cat: "Công nghệ", title: "Yamaha Exciter 155 VVA-TCS 2026 ra mắt: giá từ 49,9 triệu" }
+  - { href: "/articles/samsung-galaxy-glasses-july-2026.html", cat: "Wearable", title: "Samsung Galaxy Glasses: kính AI Gemini, ra mắt 22/7/2026, giá từ $379" }
 featured: false
 ---
 

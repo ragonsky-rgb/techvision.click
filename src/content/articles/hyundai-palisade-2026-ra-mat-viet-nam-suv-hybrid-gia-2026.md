@@ -37,9 +37,9 @@ faq:
   - q: "Nên mua Hyundai Palisade 2026 hay các mẫu SUV khác?"
     a: "Lựa chọn phụ thuộc vào nhu cầu và ngân sách. Palisade 2026 phù hợp với gia đình cần SUV 7 tới 8 chỗ rộng rãi, nhiều tiện nghi và có tùy chọn hybrid tiết kiệm nhiên liệu. Nếu ngân sách thấp hơn hoặc cần xe gầm cao cỡ nhỏ hơn, người dùng có thể cân nhắc các mẫu như Tucson Hybrid cùng hãng. Với người ưu tiên xe điện thuần túy, các lựa chọn thuần điện đang ngày càng nhiều tại Việt Nam cũng đáng để so sánh trước khi quyết định."
 related:
-  - { href: "/articles/hyundai-tucson-hybrid-2026-viet-nam-gia-dat-coc.html", cat: "Công nghệ", title: "Hyundai Tucson Hybrid 2026 Việt Nam, giá và đặt cọc" }
+  - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Công nghệ", title: "Realme 16T 5G pin 8.000mAh ra mắt Việt Nam, giá từ 7 triệu" }
   - { href: "/articles/volvo-ex90-es90-xe-dien-ve-viet-nam-quy-4-2026-nhan-coc.html", cat: "Công nghệ", title: "Volvo EX90 và ES90 xe điện về Việt Nam quý 4/2026" }
-  - { href: "/articles/wuling-darion-mpv-dien-7-cho-ra-mat-viet-nam-gia.html", cat: "Công nghệ", title: "Wuling Darion: MPV điện 7 chỗ ra mắt Việt Nam" }
+  - { href: "/articles/gac-gs3-emzoom-ra-mat-viet-nam-gia-639-trieu-2026.html", cat: "Công nghệ", title: "GAC GS3 Emzoom ra mắt Việt Nam: giá 639 triệu, 174 mã lực" }
 featured: false
 ---
 

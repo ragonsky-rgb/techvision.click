@@ -37,9 +37,9 @@ faq:
   - q: "Có nên chờ thêm để mua điện thoại mới ra mắt cuối năm 2026?"
     a: "Nếu nhu cầu sử dụng không quá cấp thiết, người dùng có thể chờ tới mùa khuyến mãi cuối năm hoặc dịp ra mắt sản phẩm mới để có mức giá tốt hơn cho các mẫu hiện tại. Tuy nhiên, các mẫu flagship như iPhone 17 Pro Max và Galaxy S26 Ultra vẫn còn nguyên giá trị sử dụng lâu dài và là lựa chọn an toàn ngay ở thời điểm tháng 8/2026."
 related:
-  - { href: "/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html", cat: "Smartphone", title: "Samsung Galaxy S26 Ultra: camera 200MP, Privacy Display" }
+  - { href: "/articles/dien-thoai-duoi-10-trieu-dang-mua-nua-cuoi-2026.html", cat: "Smartphone", title: "Điện thoại dưới 10 triệu đáng mua nửa cuối 2026" }
   - { href: "/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html", cat: "Smartphone", title: "Xiaomi 17 Series ra mắt Việt Nam, Leica, Snapdragon 8 Elite Gen 5" }
-  - { href: "/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html", cat: "Smartphone", title: "OPPO Find X10 Pro: đối thủ iPhone 18 Pro Max" }
+  - { href: "/articles/top-dien-thoai-manh-nhat-antutu-thang-8-2026-xep-hang.html", cat: "Smartphone", title: "Top điện thoại mạnh nhất AnTuTu tháng 8/2026: iQOO dẫn đầu" }
 featured: true
 ---
 

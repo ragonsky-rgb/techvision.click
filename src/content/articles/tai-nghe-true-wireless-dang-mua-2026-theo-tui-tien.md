@@ -37,9 +37,9 @@ faq:
   - q: "Mua tai nghe TWS cần lưu ý gì để tránh hàng giả?"
     a: "Các mẫu bán chạy như AirPods và Galaxy Buds bị làm giả rất nhiều. Bạn nên mua ở chuỗi lớn hoặc đại lý ủy quyền, kiểm tra tem, seri trên hộp và xác thực bằng ứng dụng chính hãng khi ghép nối lần đầu. Giá rẻ bất thường so với niêm yết gần như chắc chắn là hàng giả."
 related:
-  - { href: "/articles/cach-chon-tai-nghe-true-wireless-tws-2026-tieu-chi.html", cat: "Âm thanh", title: "Cách chọn tai nghe true wireless 2026: tiêu chí" }
-  - { href: "/articles/top-tai-nghe-khong-day-dang-mua-thang-7-2026.html", cat: "Âm thanh", title: "Top tai nghe không dây đáng mua tháng 7/2026" }
-  - { href: "/articles/nothing-ear-3-tai-nghe-true-wireless-super-mic-2026.html", cat: "Âm thanh", title: "Nothing Ear 3: tai nghe true wireless Super Mic" }
+  - { href: "/articles/dien-thoai-duoi-10-trieu-dang-mua-nua-cuoi-2026.html", cat: "Smartphone", title: "Điện thoại dưới 10 triệu đáng mua nửa cuối 2026" }
+  - { href: "/articles/san-sale-cong-nghe-le-2-9-2026-meo-deal-dang-san.html", cat: "Công nghệ", title: "Săn sale công nghệ lễ 2/9/2026: mẹo và deal đáng săn" }
+  - { href: "/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html", cat: "Laptop", title: "Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu" }
 featured: false
 ---
 

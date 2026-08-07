@@ -36,9 +36,7 @@ faq:
   - q: "ROG Xreal R1 có nặng không, đeo lâu có mỏi không?"
     a: "Kính chỉ nặng khoảng 91g, nhẹ hơn nhiều so với các thiết bị thực tế ảo (VR) đội đầu truyền thống, giúp người dùng có thể đeo trong thời gian dài chơi game mà không gây áp lực lên sống mũi hay vùng thái dương."
 related:
-  - { href: "/articles/cach-chon-man-hinh-may-tinh-tam-nen-do-phan-giai-tan-so-quet-2026.html", cat: "Công nghệ", title: "Cách chọn màn hình máy tính: tấm nền, độ phân giải, tần số quét" }
-  - { href: "/articles/tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong.html", cat: "Công nghệ", title: "Tần số quét màn hình 60Hz, 90Hz, 120Hz là gì, có cần không" }
-  - { href: "/articles/meta-kinh-ai-299-usd-2026-fury-adventurer-kylie-muse-spark.html", cat: "Công nghệ", title: "Meta ra mắt kính AI 299 USD: Fury, Adventurer, Kylie" }
+  - { href: "/articles/samsung-galaxy-glasses-kinh-thong-minh-android-xr-gemini-2026.html", cat: "Công nghệ", title: "Galaxy Glasses: kính thông minh Android XR giá bao nhiêu?" }
 featured: false
 ---
 

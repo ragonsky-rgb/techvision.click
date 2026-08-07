@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html", cat: "Smartphone", title: "Honor 600 Lite ra mắt Việt Nam, pin 6520mAh" }
   - { href: "/articles/iqoo-15-ultra-gaming-antutu-quat-tan-nhiet-pin-7400mah-2026.html", cat: "Smartphone", title: "iQOO 15 Ultra: gaming AnTuTu 4,5 triệu, quạt tản nhiệt" }
-  - { href: "/articles/honor-magic-8-pro-camera-200mp-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "Honor Magic 8 Pro: camera 200MP, Snapdragon 8 Elite Gen 5" }
+  - { href: "/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html", cat: "Smartphone", title: "Honor Magic V5: điện thoại gập mỏng nhất thế giới chỉ 8,8mm, pin 5820mAh" }
 featured: false
 ---
 

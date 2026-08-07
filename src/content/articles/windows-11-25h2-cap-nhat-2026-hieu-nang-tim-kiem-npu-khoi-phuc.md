@@ -36,10 +36,6 @@ faq:
     a: "NPU là bộ xử lý chuyên cho các tác vụ AI, ngày càng phổ biến trên các máy tính AI PC mới. Việc Microsoft thêm cột NPU trong Task Manager, mở rộng từ trang Performance vào cấp tiến trình, giúp người dùng thấy ứng dụng nào đang sử dụng NPU. Điều này phản ánh xu hướng AI chạy trực tiếp trên máy ngày càng quan trọng, và người dùng cần công cụ để theo dõi tài nguyên AI tương tự như theo dõi CPU và GPU lâu nay."
   - q: "Người dùng Việt có nên cập nhật ngay không?"
     a: "Các bản cập nhật Windows thường mang lại cải thiện bảo mật và hiệu năng, nên nhìn chung người dùng nên cập nhật để được bảo vệ tốt hơn. Tuy nhiên, với các bản cập nhật lớn, nên sao lưu dữ liệu quan trọng trước khi cài để đề phòng sự cố. Người dùng phổ thông có thể chờ vài ngày sau khi bản cập nhật phát hành để xem có lỗi phổ biến nào không, rồi mới cập nhật. Tính năng khôi phục theo thời điểm cũng giúp an tâm hơn khi cập nhật."
-related:
-  - { href: "/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html", cat: "Laptop", title: "Cách tăng tốc laptop Windows chậm, lag mượt hơn 2026" }
-  - { href: "/articles/windows-12-tin-don-2026-ai-trung-tam-microsoft-chua-xac-nhan.html", cat: "Laptop", title: "Windows 12 tin đồn 2026: AI trung tâm, Microsoft chưa xác nhận" }
-  - { href: "/articles/microsoft-copilot-cap-nhat-2026-tac-nhan-may-tinh-gpt-5-5-office.html", cat: "AI", title: "Microsoft Copilot 2026: tác nhân điều khiển máy tính" }
 featured: false
 ---
 

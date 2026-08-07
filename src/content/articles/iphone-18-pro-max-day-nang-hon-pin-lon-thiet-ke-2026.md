@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html", cat: "Smartphone", title: "iPhone 18 Pro: tất tần tật tính năng, ra mắt tháng 9 2026" }
   - { href: "/articles/chip-a20-pro-iphone-18-pro-2nm-manh-co-nao-2026.html", cat: "Smartphone", title: "Chip A20 Pro iPhone 18 Pro: bước nhảy 2nm mạnh cỡ nào" }
-  - { href: "/articles/cach-kiem-tra-do-chai-pin-dien-thoai-iphone-android-2026.html", cat: "Công nghệ", title: "Cách kiểm tra độ chai pin điện thoại iPhone và Android" }
+  - { href: "/articles/iphone-18-pro-max-hay-galaxy-s26-ultra-cho-hay-mua-2026.html", cat: "Smartphone", title: "iPhone 18 Pro Max hay Galaxy S26 Ultra: chờ hay mua 2026?" }
 featured: true
 ---
 

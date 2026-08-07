@@ -37,9 +37,9 @@ faq:
   - q: "Chuyển ngược từ iPhone sang Android được không?"
     a: "Có, bạn hoàn toàn có thể chuyển dữ liệu từ iPhone sang Android. Nhiều hãng Android có ứng dụng chuyển dữ liệu riêng, như Samsung Smart Switch, giúp chuyển danh bạ, ảnh, tin nhắn và nhiều dữ liệu khác từ iPhone. Ngoài ra, danh bạ có thể đồng bộ qua tài khoản Google, ảnh qua Google Photos. Quá trình tương tự chiều ngược lại, chỉ khác công cụ. Trước khi chuyển, luôn nên sao lưu dữ liệu để an toàn, tránh rủi ro mất mát."
 related:
-  - { href: "/articles/cach-sao-luu-du-lieu-dien-thoai-truoc-khi-doi-may-reset.html", cat: "Smartphone", title: "Cách sao lưu dữ liệu điện thoại trước khi đổi máy, reset" }
-  - { href: "/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html", cat: "Smartphone", title: "Cách kiểm tra iPhone cũ trước khi mua: checklist 2026" }
-  - { href: "/articles/cach-sao-luu-anh-du-lieu-len-dam-may-google-photos-icloud-2026.html", cat: "Internet", title: "Cách sao lưu ảnh, dữ liệu lên đám mây: Google Photos, iCloud" }
+  - { href: "/articles/iphone-18-pro-max-day-nang-hon-pin-lon-thiet-ke-2026.html", cat: "Smartphone", title: "iPhone 18 Pro Max dày và nặng hơn: đánh đổi lấy pin lớn" }
+  - { href: "/articles/cach-quay-video-dep-bang-dien-thoai-meo-on-dinh-anh-sang-bo-cuc.html", cat: "Công nghệ", title: "Cách quay video đẹp bằng điện thoại: mẹo ổn định, ánh sáng, bố cục" }
+  - { href: "/articles/lien-quan-mobile-120-fps-android-cap-nhat-2026-cach-bat-may-ho-tro.html", cat: "Smartphone", title: "Cách bật 120 FPS Liên Quân Mobile trên Android, máy nào hỗ trợ" }
 featured: false
 ---
 

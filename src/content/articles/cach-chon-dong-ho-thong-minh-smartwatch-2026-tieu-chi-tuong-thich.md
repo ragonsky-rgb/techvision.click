@@ -37,9 +37,9 @@ faq:
   - q: "Nên mua đồng hồ thông minh giá bao nhiêu?"
     a: "Thị trường có đủ phân khúc, từ smartband và đồng hồ giá vài trăm nghìn tới đồng hồ cao cấp nhiều triệu đồng. Người mới hoặc nhu cầu cơ bản có thể bắt đầu với smartband hoặc đồng hồ tầm trung. Người cần nhiều tính năng, đo sức khỏe nâng cao và hệ sinh thái hoàn chỉnh có thể chọn các dòng cao cấp. Hãy chọn theo nhu cầu thực tế thay vì mua đắt nhất."
 related:
-  - { href: "/articles/cach-chon-tai-nghe-true-wireless-tws-2026-tieu-chi.html", cat: "Audio", title: "Cách chọn tai nghe true wireless (TWS): 7 tiêu chí" }
-  - { href: "/articles/sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung.html", cat: "Smartphone", title: "Sạc không dây là gì, có hại pin không, có nên dùng?" }
-  - { href: "/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html", cat: "Internet", title: "Cách bảo vệ quyền riêng tư và dữ liệu cá nhân trên điện thoại" }
+  - { href: "/articles/samsung-galaxy-glasses-kinh-thong-minh-android-xr-gemini-2026.html", cat: "Công nghệ", title: "Galaxy Glasses: kính thông minh Android XR giá bao nhiêu?" }
+  - { href: "/articles/samsung-health-ai-2026-galaxy-watch-tro-ly-suc-khoe-chu-dong.html", cat: "Công nghệ", title: "Samsung Health nâng cấp AI: biến Galaxy Watch thành trợ lý sức khỏe chủ động 2026" }
+  - { href: "/articles/o-cung-ssd-gan-trong-hay-o-cung-di-dong-chon-loai-nao-2026.html", cat: "Công nghệ", title: "SSD gắn trong hay ổ cứng di động: chọn loại nào 2026?" }
 featured: false
 ---
 

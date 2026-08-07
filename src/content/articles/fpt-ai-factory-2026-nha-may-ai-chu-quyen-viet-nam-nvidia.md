@@ -37,9 +37,9 @@ faq:
   - q: "Hạ tầng AI này có ý nghĩa gì với Việt Nam?"
     a: "Hạ tầng AI nội địa như FPT AI Factory giúp Việt Nam giảm phụ thuộc vào hạ tầng nước ngoài, đảm bảo an ninh dữ liệu và thúc đẩy ứng dụng AI trong nước. Việt Nam đặt mục tiêu xây ba trung tâm dữ liệu quốc gia và lọt top 4 quốc gia AI hàng đầu Đông Nam Á vào năm 2030. Điều này tạo cơ hội việc làm công nghệ cao, hỗ trợ doanh nghiệp và startup, đồng thời nâng vị thế của Việt Nam trên bản đồ công nghệ khu vực."
 related:
-  - { href: "/articles/trung-tam-du-lieu-ai-viet-nam-2026-von-dau-tu-7-ty-usd-ha-tang.html", cat: "Công nghệ", title: "Trung tâm dữ liệu AI Việt Nam hút hơn 7 tỷ USD" }
-  - { href: "/articles/ngan-hang-ai-viet-nam-2026-tro-ly-ao-chatbot-chuyen-doi-so.html", cat: "AI", title: "Ngân hàng AI Việt Nam 2026: trợ lý ảo và chatbot" }
-  - { href: "/articles/ai-trong-giao-duc-viet-nam-2026-day-hoc-truong-pho-thong.html", cat: "AI", title: "AI trong giáo dục Việt Nam 2026: dạy và học ở trường" }
+  - { href: "/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html", cat: "Công nghệ", title: "Viettel khởi công nhà máy chip bán dẫn đầu tiên của Việt Nam tại Hòa Lạc" }
+  - { href: "/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html", cat: "Apple", title: "WWDC 2026 mấy giờ Việt Nam? Xem ở đâu, iOS 27 và Siri mới" }
+  - { href: "/articles/huawei-matepad-11-5-papermatte-2026-ra-mat-viet-nam.html", cat: "Công nghệ", title: "Huawei MatePad 11.5 PaperMatte 2026 ra mắt Việt Nam" }
 featured: false
 ---
 

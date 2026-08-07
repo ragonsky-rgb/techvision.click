@@ -37,9 +37,9 @@ faq:
   - q: "OnePlus 15R khác gì OnePlus 15 đầu bảng?"
     a: "OnePlus 15R là bản cận cao cấp, hạ một số yếu tố như camera và chất liệu để có giá dễ chịu hơn, nhưng vẫn giữ hiệu năng cao và pin lớn. OnePlus 15 đầu bảng nhắm tới người cần trải nghiệm toàn diện nhất, còn 15R hướng tới người coi trọng hiệu năng và pin trên giá tiền."
 related:
-  - { href: "/articles/snapdragon-8-elite-gen-5-la-gi-chip-android-manh-nhat-2026.html", cat: "Smartphone", title: "Snapdragon 8 Elite Gen 5 là gì, chip Android mạnh nhất 2026" }
-  - { href: "/articles/iphone-16-giam-gia-thang-7-2026-lua-chon-toi-uu.html", cat: "Apple", title: "iPhone 16 giảm giá tháng 7 2026: lựa chọn tối ưu" }
-  - { href: "/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html", cat: "Công nghệ", title: "Gartner: giá điện thoại, laptop 2026 tăng, nên mua gì" }
+  - { href: "/articles/oneplus-16-ro-ri-snapdragon-8-elite-gen6-pro-pin-9000mah-2026.html", cat: "Smartphone", title: "OnePlus 16 rò rỉ: pin 9000mAh, camera 200MP, chip Gen 6" }
+  - { href: "/articles/oneplus-rut-khoi-my-chau-au-thuong-hieu-con-oppo-2026.html", cat: "Smartphone", title: "OnePlus rút khỏi Mỹ và châu Âu: hồi kết của flagship killer" }
+  - { href: "/articles/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.html", cat: "Smartphone", title: "Honor 600 Pro: camera 200MP, pin 7000mAh có gì đáng mua?" }
 featured: true
 ---
 

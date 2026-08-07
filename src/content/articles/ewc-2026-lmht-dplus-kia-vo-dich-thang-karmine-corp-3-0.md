@@ -38,8 +38,8 @@ faq:
     a: "Ở vòng tứ kết, Dplus KIA vượt qua Bilibili Gaming còn Karmine Corp thắng AG.AL. Tại bán kết, Dplus KIA đánh bại Gen.G 2-1, trong khi Karmine Corp hạ T1 cũng với tỉ số 2-1. Trận tranh hạng ba giữa T1 và Gen.G diễn ra cùng ngày với chung kết, khép lại bộ môn Liên Minh Huyền Thoại tại giải năm nay."
 related:
   - { href: "/articles/ewc-2026-lmht-chung-ket-karmine-corp-dplus-kia.html", cat: "Gaming", title: "EWC 2026 LMHT: chung kết Karmine Corp gặp Dplus KIA" }
-  - { href: "/articles/ewc-2026-lmht-karmine-corp-ha-t1-vao-chung-ket.html", cat: "Gaming", title: "EWC 2026 LMHT: Karmine Corp hạ T1, vào chung kết" }
-  - { href: "/articles/ewc-2026-lmht-lich-thi-dau-doi-hinh-giai-thuong.html", cat: "Gaming", title: "EWC 2026 LMHT: lịch thi đấu, 16 đội, giải 2 triệu USD" }
+  - { href: "/articles/ewc-2026-lmht-ngay-dau-gam-team-secret-whales-viet-nam.html", cat: "Gaming", title: "EWC 2026 LMHT: 2 đội Việt Nam ra quân ngày đầu ở Paris" }
+  - { href: "/articles/free-fire-ewc-2026-lyon-vo-dich-ky-luc-ha-guc.html", cat: "Gaming", title: "Free Fire EWC 2026: LYON vô địch, lập kỷ lục hạ gục" }
 featured: true
 ---
 

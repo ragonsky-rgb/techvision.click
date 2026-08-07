@@ -36,8 +36,8 @@ faq:
   - q: "PCMK3 HE có hỗ trợ hoán đổi switch không?"
     a: "Có. Bàn phím hỗ trợ switch từ tính có thể hoán đổi nóng (hot-swappable), tương thích với switch có cả hai cực từ Bắc-Nam, cho phép người dùng dễ dàng thay đổi cảm giác gõ mà không cần hàn mạch."
 related:
-  - { href: "/articles/wooting-80he-ban-phim-hall-effect-esports-2026.html", cat: "Gaming", title: "Wooting 80HE, bàn phím Hall Effect cho esports" }
-  - { href: "/articles/top-tay-cam-choi-game-dang-mua-thang-7-2026.html", cat: "Gaming", title: "Top tay cầm chơi game đáng mua tháng 7/2026" }
+  - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8" }
+  - { href: "/articles/huawei-matepad-11-5-papermatte-2026-ra-mat-viet-nam.html", cat: "Công nghệ", title: "Huawei MatePad 11.5 PaperMatte 2026 ra mắt Việt Nam" }
   - { href: "/articles/redmagic-11-pro-dien-thoai-gaming-tan-nhiet-long-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "RedMagic 11 Pro, điện thoại gaming tản nhiệt lỏng" }
 featured: false
 ---

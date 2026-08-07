@@ -37,9 +37,9 @@ faq:
   - q: "Vivo X300 Pro cạnh tranh với những máy nào?"
     a: "Ở phân khúc flagship camera, X300 Pro cạnh tranh trực tiếp với các máy dùng cảm biến 200MP như Samsung Galaxy S26 Ultra, Huawei Pura 90 và dòng Oppo Find X cao cấp. Cuộc đua tập trung vào khả năng zoom xa, xử lý ảnh bằng AI và chất lượng video."
 related:
-  - { href: "/articles/huawei-pura-90-series-ra-mat-toan-cau-200mp-zoom-2026.html", cat: "Smartphone", title: "Huawei Pura 90 series ra mắt toàn cầu: 200MP, zoom mạnh" }
-  - { href: "/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html", cat: "Smartphone", title: "Samsung Galaxy S26 Ultra: camera 200MP, Snapdragon 8 Elite Gen 5" }
-  - { href: "/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html", cat: "Công nghệ", title: "Gartner: giá điện thoại, laptop 2026 tăng, nên mua gì" }
+  - { href: "/articles/iqoo-15t-review-specs-dimensity-9500-monster-pin-8000mah-2026.html", cat: "Reviews", title: "iQOO 15T: Đánh giá specs, Dimensity 9500 Monster Edition đầu tiên thế giới, pin 8000mAh, camera 200MP" }
+  - { href: "/articles/oneplus-16-ro-ri-snapdragon-8-elite-gen6-pro-pin-9000mah-2026.html", cat: "Smartphone", title: "OnePlus 16 rò rỉ: pin 9000mAh, camera 200MP, chip Gen 6" }
+  - { href: "/articles/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.html", cat: "Smartphone", title: "Honor 600 Pro: camera 200MP, pin 7000mAh có gì đáng mua?" }
 featured: true
 ---
 

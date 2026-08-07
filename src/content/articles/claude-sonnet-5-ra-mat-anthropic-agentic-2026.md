@@ -36,8 +36,8 @@ faq:
     a: "Claude Sonnet 5 hiện đã có mặt trên mọi gói dịch vụ của Claude, trở thành lựa chọn mặc định cho người dùng Free và Pro, cũng như các gói Max, Team, Enterprise, Claude Code và Claude Platform."
 related:
   - { href: "/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html", cat: "AI", title: "Claude Fable 5 Mythos, mô hình mạnh nhất của Anthropic" }
-  - { href: "/articles/gpt-5-6-cuoc-dua-ai-nua-cuoi-2026-gemini-claude-glm.html", cat: "AI", title: "GPT-5.6, cuộc đua AI nửa cuối 2026 với Gemini, Claude, GLM" }
-  - { href: "/articles/openai-jalapeno-chip-ai-dau-tien-hop-tac-broadcom-2026.html", cat: "AI", title: "OpenAI Jalapeño, chip AI đầu tiên hợp tác Broadcom" }
+  - { href: "/articles/claude-opus-5-anthropic-ra-mat-gia-bang-nua-fable-5-2026.html", cat: "AI", title: "Claude Opus 5 ra mắt: giá bằng nửa Fable 5, mạnh cỡ nào?" }
+  - { href: "/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html", cat: "AI", title: "Project Glasswing: AI Claude Mythos của Anthropic tìm hơn 10.000 lỗ hổng bảo mật" }
 featured: true
 ---
 

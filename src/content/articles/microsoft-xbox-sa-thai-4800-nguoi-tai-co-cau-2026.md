@@ -38,9 +38,7 @@ faq:
   - q: "Đây có phải lần đầu Xbox tái cơ cấu quy mô lớn không?"
     a: "Không, nhưng CEO Asha Sharma gọi đây là cuộc tái cơ cấu lớn nhất trong lịch sử 25 năm của Xbox. Bà nhậm chức CEO Xbox từ tháng 2/2026, kế nhiệm Phil Spencer sau 12 năm điều hành thương hiệu."
 related:
-  - { href: "/articles/google-tpu-ironwood-v7-thach-thuc-nvidia-2026.html", cat: "AI", title: "Google TPU Ironwood v7 thách thức Nvidia" }
-  - { href: "/articles/bin-thach-dau-zeus-blg-hle-msi-2026-chung-ket-nhanh-thang.html", cat: "Gaming", title: "Bin thách đấu Zeus, BLG đại chiến HLE" }
-  - { href: "/articles/valve-steam-frame-kinh-vr-doc-lap-2026.html", cat: "Gaming", title: "Valve Steam Frame, kính VR độc lập" }
+  - { href: "/articles/spacex-ipo-2026-lon-nhat-lich-su-spcx-nguoi-viet-mua-duoc-khong.html", cat: "Phân tích", title: "SpaceX IPO 12/6/2026: Vụ Lên Sàn Lớn Nhất Lịch Sử 2.000 Tỷ USD, Người Việt Có Mua Được Không?" }
 featured: false
 ---
 

@@ -37,8 +37,8 @@ faq:
   - q: "Vera Rubin liên quan gì tới người dùng Việt?"
     a: "Người dùng Việt khó tiếp cận trực tiếp phần cứng Vera Rubin vì đây là nền tảng cho trung tâm dữ liệu và đám mây. Tuy nhiên, ảnh hưởng gián tiếp rất lớn: chi phí AI thấp hơn giúp các dịch vụ AI rẻ và phổ biến hơn, bao gồm cả các ứng dụng mà người Việt dùng hằng ngày. Hạ tầng AI mạnh cũng thúc đẩy làn sóng đầu tư trung tâm dữ liệu, trong đó có các dự án tại Việt Nam."
 related:
-  - { href: "/articles/nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026.html", cat: "AI", title: "NVIDIA và SK Hynix hợp tác bộ nhớ AI HBM4 cho Vera Rubin" }
-  - { href: "/articles/trung-tam-du-lieu-ai-viet-nam-2026-von-dau-tu-7-ty-usd-ha-tang.html", cat: "Công nghệ", title: "Trung tâm dữ liệu AI Việt Nam hút hơn 7 tỷ USD" }
+  - { href: "/articles/nvidia-gtc-taipei-2026-vera-rubin-dai-loan-ha-tang-ai.html", cat: "AI", title: "NVIDIA GTC Taipei 2026: Đài Loan tăng tốc hạ tầng AI Vera Rubin" }
+  - { href: "/articles/nvidia-gtc-2026-vera-rubin-dgx-station.html", cat: "AI", title: "NVIDIA GTC 2026: Vera Rubin ra mắt, DGX Station cho mọi nhà, Jensen tuyên bố doanh thu 1 nghìn tỷ USD" }
   - { href: "/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html", cat: "AI", title: "Qualcomm AI200, AI250: chip data center đấu NVIDIA" }
 featured: false
 ---

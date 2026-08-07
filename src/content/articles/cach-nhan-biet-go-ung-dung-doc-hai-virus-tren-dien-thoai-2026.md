@@ -37,9 +37,9 @@ faq:
   - q: "Bị nhiễm mã độc nặng thì làm sao?"
     a: "Nếu đã gỡ app độc hại, quét bảo mật mà máy vẫn có dấu hiệu bất thường, hoặc nghi bị nhiễm mã độc nặng, giải pháp triệt để là sao lưu dữ liệu quan trọng rồi khôi phục cài đặt gốc cho máy. Việc này xóa toàn bộ dữ liệu và app, đưa máy về trạng thái ban đầu. Sau đó, hãy đổi mật khẩu các tài khoản quan trọng vì chúng có thể đã bị lộ. Nếu không tự xử lý được, nên mang máy tới cơ sở uy tín để được hỗ trợ."
 related:
-  - { href: "/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html", cat: "Internet", title: "Cách nhận biết và phòng tránh lừa đảo online" }
-  - { href: "/articles/cach-bao-ve-quyen-rieng-tu-du-lieu-ca-nhan-tren-dien-thoai-2026.html", cat: "Internet", title: "Cách bảo vệ quyền riêng tư, dữ liệu cá nhân trên điện thoại" }
-  - { href: "/articles/cach-bao-mat-tai-khoan-google-chong-hack-2026.html", cat: "Internet", title: "Cách bảo mật tài khoản Google chống hack 2026" }
+  - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-cho-sinh-vien-2026.html", cat: "Công nghệ", title: "Cách vệ sinh điện thoại, laptop cho sinh viên đúng cách" }
+  - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-dung-cach-2026.html", cat: "Công nghệ", title: "Vệ sinh điện thoại, laptop đúng cách: xử lý khi dính nước" }
+  - { href: "/articles/dien-thoai-android-nhiem-ma-doc-dau-hieu-cach-xu-ly-2026.html", cat: "Internet", title: "Điện thoại Android nhiễm mã độc: 7 dấu hiệu và cách xử lý 2026" }
 featured: false
 ---
 

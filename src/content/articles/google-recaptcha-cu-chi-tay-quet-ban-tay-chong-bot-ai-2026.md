@@ -39,9 +39,8 @@ faq:
   - q: "Người dùng lo ngại gì về tính năng này?"
     a: "Nhiều người dùng lo ngại việc phải bật camera và đưa dữ liệu sinh trắc bàn tay cho một dịch vụ web, dù Google cam kết xóa video sau khi xác thực. Sự đánh đổi giữa tiện lợi, bảo mật và quyền riêng tư là điểm khiến tính năng gây tranh cãi ngay từ khi mới thử nghiệm."
 related:
-  - { href: "/articles/openai-khai-tu-chatgpt-atlas-trinh-duyet-ai-2026.html", cat: "AI", title: "OpenAI khai tử trình duyệt AI ChatGPT Atlas" }
+  - { href: "/articles/apple-afm-3-mo-hinh-ai-apple-hop-tac-google-gemini-2026.html", cat: "AI", title: "Apple AFM 3: mô hình AI mới, bắt tay Google Gemini" }
   - { href: "/articles/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.html", cat: "Viễn thông", title: "13 triệu SIM bị khóa 2 chiều: cách xác thực thông tin thuê bao" }
-  - { href: "/articles/ngan-hang-ai-viet-nam-2026-tro-ly-ao-chatbot-chuyen-doi-so.html", cat: "AI", title: "Ngân hàng AI Việt Nam 2026: trợ lý ảo và chatbot chuyển đổi số" }
 featured: true
 ---
 

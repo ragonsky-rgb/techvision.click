@@ -37,9 +37,9 @@ faq:
   - q: "Nothing Phone 4b phù hợp với ai?"
     a: "Máy hướng tới người dùng trẻ thích thiết kế khác biệt, ưu tiên màn hình đẹp, pin lâu và phần mềm sạch, chấp nhận hiệu năng ở mức tầm trung. Với mức giá dưới 10 triệu đồng, đây là lựa chọn đáng cân nhắc cho người muốn một chiếc điện thoại nổi bật giữa đám đông máy phổ thông na ná nhau."
 related:
-  - { href: "/articles/xiaomi-redmi-a7-pro-smartphone-gia-re-pin-6000mah-2026.html", cat: "Smartphone", title: "Xiaomi Redmi A7 Pro: smartphone giá rẻ pin 6.000mAh" }
-  - { href: "/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html", cat: "Công nghệ", title: "Giá RAM DRAM tăng thêm 20% quý 3 2026" }
-  - { href: "/articles/oppo-reno16-pro-smartphone-camera-200mp-dimensity-8550-2026.html", cat: "Smartphone", title: "Oppo Reno16 Pro: camera 200MP, Dimensity 8550" }
+  - { href: "/articles/redmagic-11-pro-dien-thoai-gaming-tan-nhiet-long-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "RedMagic 11 Pro: điện thoại gaming tản nhiệt lỏng đầu tiên, Snapdragon 8 Elite Gen 5, pin 7.500mAh" }
+  - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro ra mắt: pin 9.000mAh, giá từ 1.599 tệ" }
+  - { href: "/articles/iphone-fold-2026-apple-foldable.html", cat: "Smartphone", title: "iPhone Fold: Apple ra mắt điện thoại gập đầu tiên, mỏng 4.5mm, màn 7.8 inch, giá từ $2,000" }
 featured: true
 ---
 

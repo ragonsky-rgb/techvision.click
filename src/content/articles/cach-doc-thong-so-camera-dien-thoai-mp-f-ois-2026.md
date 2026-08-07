@@ -39,9 +39,9 @@ faq:
   - q: "Bài này khác gì bài về megapixel đã có trên site?"
     a: "Bài về megapixel tập trung riêng vào câu hỏi nhiều chấm có chụp đẹp hơn không. Bài này là bản đọc trọn bảng thông số, gom thêm khẩu độ f, OIS/EIS, kích thước cảm biến và ống tele để bạn có bức tranh đầy đủ khi so sánh hai máy cùng tầm giá, thay vì chỉ nhìn một con số megapixel duy nhất."
 related:
-  - { href: "/articles/camera-nhieu-megapixel-co-chup-dep-hon-khong.html", cat: "Camera", title: "Camera nhiều megapixel có chụp đẹp hơn không" }
-  - { href: "/articles/meo-chup-anh-dep-bang-dien-thoai-bo-cuc-anh-sang.html", cat: "Camera", title: "Mẹo chụp ảnh đẹp bằng điện thoại: bố cục, ánh sáng" }
-  - { href: "/articles/may-anh-du-lich-hay-dien-thoai-chup-anh-chon-loai-nao-2026.html", cat: "Camera", title: "Máy ảnh du lịch hay điện thoại chụp ảnh, chọn loại nào" }
+  - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-cho-sinh-vien-2026.html", cat: "Công nghệ", title: "Cách vệ sinh điện thoại, laptop cho sinh viên đúng cách" }
+  - { href: "/articles/dien-thoai-android-nhiem-ma-doc-dau-hieu-cach-xu-ly-2026.html", cat: "Internet", title: "Điện thoại Android nhiễm mã độc: 7 dấu hiệu và cách xử lý 2026" }
+  - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-dung-cach-2026.html", cat: "Công nghệ", title: "Vệ sinh điện thoại, laptop đúng cách: xử lý khi dính nước" }
 featured: false
 ---
 

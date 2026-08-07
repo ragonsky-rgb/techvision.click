@@ -38,7 +38,7 @@ faq:
     a: "Từ năm 2024, Zalo xác định mục tiêu không chỉ là nền tảng nhắn tin phục vụ nhu cầu hàng ngày mà còn là nơi để mọi người Việt tiếp cận AI. Chiến lược này phù hợp với làn sóng đầu tư mạnh vào hạ tầng và công nghệ AI tại Việt Nam, khi nhiều doanh nghiệp công nghệ trong nước đẩy mạnh nghiên cứu và ứng dụng AI để không bị tụt lại trong cuộc đua công nghệ khu vực và toàn cầu."
 related:
   - { href: "/articles/momo-sieu-ung-dung-ai-2026-40-trieu-nguoi-dung-fintech-viet-nam.html", cat: "Công nghệ", title: "MoMo: siêu ứng dụng AI dẫn đầu fintech Việt Nam" }
-  - { href: "/articles/ngan-hang-ai-viet-nam-2026-tro-ly-ao-chatbot-chuyen-doi-so.html", cat: "AI", title: "Ngân hàng AI Việt Nam 2026: trợ lý ảo và chatbot" }
+  - { href: "/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html", cat: "AI", title: "Google Gemini Spark: trợ lý AI 24/7 tự làm việc thay người dùng" }
   - { href: "/articles/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.html", cat: "Công nghệ", title: "VNeID cập nhật 2026: phản ánh lừa đảo, lý lịch tư pháp" }
 featured: false
 ---

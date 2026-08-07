@@ -37,7 +37,7 @@ faq:
   - q: "AMD đứng ở đâu trong cuộc đua này?"
     a: "AMD với dòng Ryzen AI mới tiếp tục là lựa chọn cân bằng, mạnh về hiệu năng đa nhân và đồ họa tích hợp, đồng thời giữ trọn ưu thế tương thích x86. AMD thường xuất hiện trên các laptop hiệu năng cao và gaming, nơi khả năng xử lý đa nhân và chơi game quan trọng hơn thời lượng pin tối đa. Đây là phương án đáng xem xét nếu bạn cần một chiếc máy đa năng nghiêng về hiệu năng."
 related:
-  - { href: "/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html", cat: "Laptop", title: "Laptop Snapdragon X2 Elite 2026: NPU 80 TOPS, pin trâu" }
+  - { href: "/articles/intel-panther-lake-core-ultra-3-ces-2026-18a-npu-ai-pc.html", cat: "Laptop", title: "Intel ra mắt Panther Lake tại CES 2026: chip 18A, NPU mạnh cho AI PC" }
   - { href: "/articles/intel-panther-lake-core-ultra-3-ces-2026-18a-npu-ai-pc.html", cat: "Laptop", title: "Intel Panther Lake Core Ultra 3: tiến trình 18A, NPU AI PC" }
   - { href: "/articles/laptop-ai-copilot-plus-pc-2026-nen-mua-nao-huong-dan.html", cat: "Laptop", title: "Laptop AI Copilot+ PC 2026: nên mua máy nào" }
 featured: true

@@ -37,9 +37,9 @@ faq:
   - q: "iPhone Fold hay iPhone Ultra là tên chính thức?"
     a: "Hiện chưa có tên thương mại chính thức. Giới rò rỉ dùng phổ biến tên gọi iPhone Fold để mô tả sản phẩm, trong khi một số nguồn vẫn nghiêng về phương án iPhone Ultra. Apple thường chốt tên sản phẩm rất sát ngày ra mắt, nên tên cuối cùng có thể chỉ được xác nhận tại sự kiện tháng 9."
 related:
-  - { href: "/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html", cat: "Apple", title: "iPhone 18 tăng giá vì bộ nhớ AI: 12GB RAM, nên mua hay chờ?" }
-  - { href: "/articles/vi-sao-dien-thoai-gap-doi-ti-le-43-iphone-fold-samsung-co-thiet.html", cat: "Smartphone", title: "Vì sao điện thoại gập đổi sang tỉ lệ 4:3 và Samsung có thiệt?" }
-  - { href: "/articles/cach-chon-dien-thoai-gap-foldable-2026-tieu-chi.html", cat: "Smartphone", title: "Cách chọn điện thoại gập 2026: 5 tiêu chí trước khi xuống tiền" }
+  - { href: "/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP" }
+  - { href: "/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html", cat: "Apple", title: "iPhone 18 Pro: giá bán, tính năng, ngày ra mắt tháng 9/2026" }
+  - { href: "/articles/samsung-galaxy-s26-fe-lo-cau-hinh-exynos-2500-gia-du-kien-2026.html", cat: "Smartphone", title: "Galaxy S26 FE lộ cấu hình: Exynos 2500, giá dự kiến 2026" }
 featured: true
 ---
 

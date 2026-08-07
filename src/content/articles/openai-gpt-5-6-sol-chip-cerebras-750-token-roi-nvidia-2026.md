@@ -38,10 +38,6 @@ faq:
     a: "Hai bên chính thức ký thỏa thuận nhiều năm từ tháng 1/2026, với giá trị được cho là hơn 10 tỷ USD. Thỏa thuận cung cấp tới 750 MW công suất tính toán trải dài tới khoảng năm 2028 hoặc 2029, tập trung riêng cho các tác vụ suy luận độ trễ thấp phục vụ những sản phẩm chủ lực của OpenAI như ChatGPT và các công cụ lập trình."
   - q: "Điều này ảnh hưởng gì tới thị trường chip AI?"
     a: "Việc một khách hàng lớn như OpenAI đưa mô hình chủ lực chạy trên phần cứng ngoài Nvidia là tín hiệu cho thấy thị trường chip AI đang mở rộng, không còn phụ thuộc gần như tuyệt đối vào một nhà cung cấp. Các đối thủ như Cerebras, cùng chip tự thiết kế của Amazon, Google hay Microsoft, đang tạo áp lực cạnh tranh. Về dài hạn, cạnh tranh có thể giúp hạ chi phí và đa dạng hóa nguồn cung phần cứng cho ngành AI."
-related:
-  - { href: "/articles/cerebras-chip-ai-wafer-scale-ipo-100-ty-usd-2026.html", cat: "AI", title: "Cerebras: startup chip AI to bằng cái đĩa, định giá vượt 100 tỷ USD" }
-  - { href: "/articles/amazon-chip-tu-thiet-ke-20-ty-usd-trainium-thach-thuc-nvidia-2026.html", cat: "AI", title: "Amazon chi 20 tỷ USD làm chip Trainium thách thức Nvidia" }
-  - { href: "/articles/anthropic-openai-nop-ho-so-ipo-2026-lan-song-giga-ipo-ai.html", cat: "AI", title: "Anthropic, OpenAI và làn sóng giga IPO của ngành AI" }
 featured: false
 ---
 

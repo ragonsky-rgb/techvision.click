@@ -37,9 +37,9 @@ faq:
   - q: "Làm sao kiểm tra MacBook là hàng chính hãng trước khi mua?"
     a: "Người dùng nên kiểm tra ba điểm: thứ nhất, cửa hàng có phải đại lý ủy quyền Apple (AAR) hay gian hàng chính hãng trên các sàn thương mại điện tử hay không; thứ hai, sản phẩm có hóa đơn VAT và phiếu bảo hành chính hãng kèm theo; thứ ba, có thể tra cứu số serial trên trang hỗ trợ của Apple để xác minh thông tin bảo hành và xuất xứ sản phẩm trước khi thanh toán."
 related:
-  - { href: "/articles/apple-macbook-pro-m5-pro-max-2026-hieu-nang-ai-gpu-neural-accelerator.html", cat: "Laptop", title: "MacBook Pro M5 Pro/Max: hiệu năng AI, GPU Neural Accelerator" }
-  - { href: "/articles/thuong-mai-dien-tu-viet-nam-2026-tiktok-shop-shopee-livestream-luat-moi.html", cat: "Internet", title: "Thương mại điện tử Việt Nam 2026: TikTok Shop, Shopee" }
-  - { href: "/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html", cat: "Laptop", title: "Cách chọn laptop cho sinh viên, văn phòng 2026" }
+  - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
+  - { href: "/articles/cach-kiem-tra-macbook-cu-truoc-khi-mua-2026.html", cat: "Laptop", title: "Cách kiểm tra MacBook cũ trước khi mua 2026: checklist đầy đủ từ A-Z" }
+  - { href: "/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html", cat: "Laptop", title: "Giá RTX 5090 tại Việt Nam tháng 8/2026: bảng giá, có nên mua?" }
 featured: true
 ---
 
