@@ -63,7 +63,7 @@ Với người mới bắt đầu quan tâm tới công thái học khi làm vi�
 
 <div class="art-video-label">VIDEO · Đánh giá giá đỡ laptop Twelve South Curve SE</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/QQX_8_j3g0w" title="Twelve South Curve Flex Adjustable MacBook Stand Review" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/sFie75dzPFE" title="Tren tay gia do laptop MOFT" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Đánh giá chi tiết giá đỡ Twelve South Curve Flex, mẫu giá đỡ điều chỉnh linh hoạt phổ biến cho laptop. Nguồn: YouTube</p>
 

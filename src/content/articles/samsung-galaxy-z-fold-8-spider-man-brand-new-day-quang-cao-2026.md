@@ -94,7 +94,7 @@ Thời điểm của chiến dịch được tính toán rất kỹ. Sản phẩ
 ## Vì sao cách làm này hiệu quả
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/AvXfIe7FKaY/hqdefault.jpg" alt="Bối cảnh phim Spider-Man Brand New Day ra rạp cuối tháng 7" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/62bIsvRcPv0/hqdefault.jpg" alt="Bối cảnh phim Spider-Man Brand New Day ra rạp cuối tháng 7" loading="lazy" width="1280" height="720">
   <figcaption>Spider-Man: Brand New Day ra rạp ngày 31/7, cộng hưởng với chiến dịch của Samsung. Nguồn: YouTube</figcaption>
 </figure>
 

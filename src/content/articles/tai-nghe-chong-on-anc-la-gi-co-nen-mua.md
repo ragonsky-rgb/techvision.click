@@ -98,7 +98,7 @@ Hiệu quả chống ồn còn phụ thuộc nhiều vào kiểu dáng tai nghe.
 Tai nghe nhét trong (in-ear true wireless) gọn nhẹ và phổ biến nhất hiện nay. Nhờ nút tai silicon ôm khít ống tai, loại này vẫn đạt chống ồn khá tốt dù bộ phát ANC nhỏ hơn. Hiệu quả phụ thuộc rất lớn vào việc chọn đúng cỡ nút tai, vì chỉ cần hở nhẹ là tiếng ồn lọt vào và ANC mất tác dụng đáng kể. Trong khi đó, các mẫu open-fit hay clip không bịt kín ống tai gần như không có chống ồn thụ động, nên ANC trên chúng chỉ giảm được phần nhỏ tiếng ồn nền.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FTp79t4t_7w/maxresdefault.jpg" alt="So sánh tai nghe chụp tai chống ồn cao cấp với các kiểu tai nghe khác" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Pxi5AELmL5I/maxresdefault.jpg" alt="So sánh tai nghe chụp tai chống ồn cao cấp với các kiểu tai nghe khác" loading="lazy" width="1280" height="720">
   <figcaption>Tai nghe chụp tai thường chống ồn tốt nhất nhờ kết hợp cách âm thụ động và ANC. Nguồn: YouTube</figcaption>
 </figure>
 
