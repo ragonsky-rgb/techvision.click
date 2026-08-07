@@ -25,6 +25,29 @@
 - **Bài mới mặc định `noindex: false`.** Chỉ đặt `noindex: true` khi cố ý giữ bài ngoài index.
 - Trước khi thêm bài, chạy `node scripts/check-cadence.mjs` - script chặn nếu vượt trần.
 
+## 0a-bis. Đo thực tế 07/08/2026: thứ gì THẬT SỰ quyết định bài có được index
+
+So sánh 61 bài legacy (39% có impression) với 657 bài markdown (3%), đo trên HTML đã build để công bằng:
+
+| Chỉ số | legacy | markdown | Kết luận |
+|---|---|---|---|
+| Độ dài (trung vị) | 1.695 từ | **2.059 từ** | markdown DÀI HƠN |
+| Media | 9 | **13** | markdown NHIỀU HƠN |
+| Link nội bộ | 4 | 4 | bằng nhau |
+| Link ra nguồn ngoài | 1 | 1 | bằng nhau |
+| Mục h2 | **7** | 4 | legacy nhiều hơn chút |
+| Có bảng so sánh | 54% | **100%** | markdown đồng loạt có |
+| **Nhịp đăng** | **2,5 bài/ngày** (đỉnh 7) | **12,4 bài/ngày** (đỉnh 51) | **khác 5 lần** |
+| **Có giá Việt Nam** | **67%** | 44% | **khác rõ rệt** |
+
+**Kết luận đi ngược trực giác SEO: viết dài hơn, nhiều ảnh hơn, nhiều bảng hơn, nhiều schema hơn KHÔNG giúp gì.** Nhóm markdown đã hơn legacy ở gần hết các chỉ số đó mà vẫn thua 13 lần về tỉ lệ được index. Chỉ có hai biến thật sự khác: **nhịp đăng** và **giá Việt Nam thật**.
+
+Đối chứng trong CÙNG nhóm markdown (19 bài có impression vs 638 bài không) loại bỏ yếu tố tuổi đời và thời kỳ - mọi chỉ số gần như trùng khít, chỉ **giá Việt Nam 63% so với 44%** là chênh nhất quán. Đây là biến duy nhất xuất hiện ở CẢ hai phép so sánh.
+
+⚠️ Hạn chế phải nhớ khi trích dẫn: bài legacy cũ hơn nên có nhiều thời gian được index hơn - tuổi đời là yếu tố gây nhiễu không loại bỏ hết được ở bảng trên. Phép đối chứng trong cùng nhóm markdown là bằng chứng độc lập chống lại nhiễu đó.
+
+**Áp dụng:** đừng cố "làm bài dày hơn" nữa, ngưỡng đó đã vượt từ lâu. Dồn công vào (1) giữ nhịp §0a, (2) mỗi bài phải có số liệu Việt Nam thật: giá niêm yết tại đại lý VN, ngày mở bán VN, so sánh với máy đang bán ở VN. Bài không có gì thuộc Việt Nam thì gần như chắc chắn không được index.
+
 ## 0b. Checklist chống lỗi trước khi commit (bắt buộc)
 Chạy đủ 4 bước này trước MỖI lần commit để máy/AI khác không tái tạo lỗi cũ:
 1. **`node scripts/check-media.mjs`** → phải ra **0 ảnh lỗi · 0 video lỗi · 0 bài media dồn cụm**. Script quét cả `src/content/articles`, `public/articles` và `public/su-kien`. Nếu có lỗi: sửa (thay thumbnail sống, hạ maxres→hqdefault, giãn media) rồi chạy lại tới khi sạch.
