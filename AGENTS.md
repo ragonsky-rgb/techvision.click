@@ -46,10 +46,17 @@ So sánh 61 bài legacy (39% có impression) với 657 bài markdown (3%), đo t
 
 ⚠️ Hạn chế phải nhớ khi trích dẫn: bài legacy cũ hơn nên có nhiều thời gian được index hơn - tuổi đời là yếu tố gây nhiễu không loại bỏ hết được ở bảng trên. Phép đối chứng trong cùng nhóm markdown là bằng chứng độc lập chống lại nhiễu đó.
 
-**Áp dụng:** đừng cố "làm bài dày hơn" nữa, ngưỡng đó đã vượt từ lâu. Dồn công vào (1) giữ nhịp §0a, (2) mỗi bài phải có số liệu Việt Nam thật: giá niêm yết tại đại lý VN, ngày mở bán VN, so sánh với máy đang bán ở VN. Bài không có gì thuộc Việt Nam thì gần như chắc chắn không được index.
+**Áp dụng:** đừng cố "làm bài dày hơn" nữa, ngưỡng đó đã vượt từ lâu. Dồn công vào (1) giữ nhịp §0a, (2) neo bài vào Việt Nam.
+
+Cách neo phụ thuộc LOẠI bài, không áp một kiểu cho tất cả:
+- **Bài sản phẩm** (điện thoại, laptop, xe, đồ điện tử): BẮT BUỘC có giá niêm yết tại đại lý VN, ngày mở bán/đặt trước tại VN, hoặc so sánh với máy đang bán ở VN. Không có thì đừng đăng, viết cũng phí.
+- **Bài tin ngành toàn cầu** (sa thải, gọi vốn, chính sách, nghiên cứu): KHÔNG nhồi giá VN một cách gượng ép - nhồi vào thành giả tạo, hại hơn lợi. Thay vào đó phải trả lời được "chuyện này đổi gì cho người dùng / lập trình viên / doanh nghiệp Việt Nam" bằng một mục thật sự có nội dung, không phải một câu cho có. Loại bài này nên ÍT, vì báo lớn VN luôn đưa nhanh hơn.
+
+Kiểm bằng `node scripts/check-vn-signal.mjs` (thêm `--since YYYY-MM-DD` để chỉ soi bài mới và cho script chặn commit). Script chỉ bắt được tín hiệu dạng chuỗi ký tự, KHÔNG đánh giá được bài tin ngành có góc Việt Nam thật hay không - phần đó người viết tự chịu trách nhiệm.
 
 ## 0b. Checklist chống lỗi trước khi commit (bắt buộc)
 Chạy đủ 4 bước này trước MỖI lần commit để máy/AI khác không tái tạo lỗi cũ:
+0. **`node scripts/check-cadence.mjs`** và **`node scripts/check-vn-signal.mjs --since <ngày hôm nay>`** → cả hai phải PASS. Cadence chặn đăng ồ ạt và series template (§0a); vn-signal chặn bài sản phẩm không có dữ liệu Việt Nam (§0a-bis).
 1. **`node scripts/check-media.mjs`** → phải ra **0 ảnh lỗi · 0 video lỗi · 0 bài media dồn cụm**. Script quét cả `src/content/articles`, `public/articles` và `public/su-kien`. Nếu có lỗi: sửa (thay thumbnail sống, hạ maxres→hqdefault, giãn media) rồi chạy lại tới khi sạch.
 2. **Build sạch** bằng lệnh ở §5, không warning/lỗi.
 3. **Ảnh/video mới**: verify HTTP 200 + kích thước thật (maxres có thể trả ảnh xám ~1KB status 200, xem §4). Video embed phải còn sống + cho nhúng. KHÔNG dán URL chưa kiểm tra.
