@@ -707,3 +707,24 @@ body.dark .art-author-card { background: rgba(240,237,232,0.05); }
   html { scroll-behavior: auto; }
   * { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
 }
+
+/* Khoi cap nhat cho bai cu: dan doc sang bai moi hon cung chu de.
+   Truoc day .art-callout chi duoc dinh nghia inline trong 23 file nen khong
+   dung lai duoc o cac bai khac; dua vao day de dung chung toan bo. */
+.art-callout {
+  border-left: 3px solid var(--accent);
+  padding: 1rem 1.4rem;
+  margin: 2rem 0;
+  background: rgba(192,57,43,0.04);
+  border-radius: 0 6px 6px 0;
+}
+body.dark .art-callout { background: rgba(192,57,43,0.08); }
+.art-callout p {
+  margin: 0;
+  font-size: 0.97rem;
+  line-height: 1.75;
+  color: var(--muted);
+  font-style: italic;
+}
+.art-callout strong { color: var(--text); font-style: normal; }
+.art-callout a { font-style: normal; }
