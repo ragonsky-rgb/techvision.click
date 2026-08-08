@@ -395,22 +395,58 @@ const breadcrumbLd = {
 
     <div class="comments-section" style="margin-top:3rem;padding-top:2rem;border-top:1px solid var(--line);">
       <div style="font-size:0.62rem;letter-spacing:0.22em;text-transform:uppercase;color:var(--dim);margin-bottom:1rem;">Bình luận</div>
-      <script is:inline src="https://giscus.app/client.js"
-        data-repo="ragonsky-rgb/techvision.click"
-        data-repo-id="R_kgDOShbzSw"
-        data-category="General"
-        data-category-id="DIC_kwDOShbzS84C9hJr"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="vi"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async></script>
+      <div id="giscus-slot"></div>
       <noscript>Bật JavaScript để xem bình luận.</noscript>
+      <script is:inline>
+        // Truoc day giscus duoc nhung bang <script async> chay ngay khi mo bai.
+        // Do tren mobile: client.js 1047ms, default.css 1046ms, widget 1851ms,
+        // trong khi khung binh luan nam tan cuoi trang va hau het nguoi doc
+        // khong cuon toi. data-loading="lazy" chi lam lazy cai iframe ben trong,
+        // ban than script van tai ngay. Nen chi nap khi sap toi vung nhin.
+        (function () {
+          var slot = document.getElementById('giscus-slot');
+          if (!slot) return;
+          var done = false;
+          function load() {
+            if (done) return;
+            done = true;
+            var s = document.createElement('script');
+            s.src = 'https://giscus.app/client.js';
+            var attrs = {
+              'data-repo': 'ragonsky-rgb/techvision.click',
+              'data-repo-id': 'R_kgDOShbzSw',
+              'data-category': 'General',
+              'data-category-id': 'DIC_kwDOShbzS84C9hJr',
+              'data-mapping': 'pathname',
+              'data-strict': '0',
+              'data-reactions-enabled': '1',
+              'data-emit-metadata': '0',
+              'data-input-position': 'top',
+              'data-theme': 'preferred_color_scheme',
+              'data-lang': 'vi',
+              'data-loading': 'lazy',
+            };
+            for (var k in attrs) s.setAttribute(k, attrs[k]);
+            s.crossOrigin = 'anonymous';
+            s.async = true;
+            slot.appendChild(s);
+          }
+          if (!('IntersectionObserver' in window)) return load();
+          var io = new IntersectionObserver(
+            function (es) {
+              for (var i = 0; i < es.length; i++) {
+                if (es[i].isIntersecting) {
+                  io.disconnect();
+                  load();
+                  return;
+                }
+              }
+            },
+            { rootMargin: '800px' }
+          );
+          io.observe(slot);
+        })();
+      </script>
     </div>
 
     <div class="art-nav">
