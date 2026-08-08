@@ -1,12 +1,12 @@
 ---
 slug: "samsung-galaxy-glasses-kinh-thong-minh-android-xr-gemini-2026"
 title: "Galaxy Glasses: kính thông minh Android XR giá bao nhiêu?"
-description: "Galaxy Glasses ra mắt tại Unpacked 22/7/2026: kính Android XR tích hợp Gemini, camera 12MP, chip Snapdragon AR1, giá đồn đoán 379-499 USD."
+description: "Galaxy Glasses ra mắt 22/7/2026 với tên chính thức Intelligent Eyewear: Android XR, Gemini, chip Snapdragon AR1, pin 9 giờ, bán ra mùa thu 2026."
 keywords: "Samsung Galaxy Glasses, kính thông minh Samsung, Android XR, Gemini kính AI, Galaxy Glasses giá, Snapdragon AR1, kính AI 2026, Unpacked 22/7"
 category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-07-21T22:00:00+07:00"
-dateModified: "2026-07-21T22:00:00+07:00"
+dateModified: "2026-08-09T11:15:00+07:00"
 deck: "Samsung được cho là sẽ giới thiệu Galaxy Glasses, cặp kính thông minh đầu tiên chạy nền tảng Android XR với trợ lý Gemini, ngay tại sự kiện Galaxy Unpacked ngày 22/7/2026 ở London. Thiết bị nhắm tới nhóm người dùng muốn một chiếc kính đeo hằng ngày có camera, loa và AI, cạnh tranh trực tiếp với Meta Ray-Ban. Bản thương mại được đồn sẽ lên kệ vào mùa thu 2026, mức giá rẻ hơn nhiều so với kính có màn hình."
 heroImage: "https://i.ytimg.com/vi/HZioERCcZf8/maxresdefault.jpg"
 heroAlt: "Samsung Galaxy Glasses chạy Android XR tích hợp trợ lý Gemini"
@@ -43,7 +43,11 @@ related:
 featured: true
 ---
 
-Samsung được cho là sẽ mang tới sự kiện Galaxy Unpacked ngày 22 tháng 7 năm 2026 một sản phẩm hoàn toàn mới bên cạnh dòng điện thoại gập, đó là Galaxy Glasses. Đây là cặp kính thông minh đầu tiên của hãng chạy nền tảng Android XR do Samsung, Google và Qualcomm cùng phát triển, tích hợp trợ lý Gemini để nghe, nhìn và trả lời theo ngữ cảnh. Với kiểu dáng gọng kính bình thường và trọng lượng chỉ khoảng 50g, Galaxy Glasses nhắm thẳng vào phân khúc kính AI đeo hằng ngày mà Meta đang dẫn đầu, thay vì trải nghiệm nhập vai của kính headset cồng kềnh.
+<div class="art-callout">
+  ✅ <strong>Cập nhật 9/8/2026:</strong> Sản phẩm đã ra mắt tại Unpacked ngày 22/7/2026 với tên chính thức là <strong>Intelligent Eyewear</strong>, không phải Galaxy Glasses như tin đồn. Samsung bán hai mẫu gọng do Gentle Monster và Warby Parker thiết kế, dùng chip Snapdragon AR1 Gen 1, pin khoảng 9 giờ mỗi lần sạc. Hãng chưa công bố giá, dự kiến bán ra mùa thu 2026. Chi tiết trong bài <a href="/articles/tren-tay-samsung-galaxy-glasses-intelligent-eyewear-2026.html">trên tay Samsung Intelligent Eyewear</a>.
+</div>
+
+Samsung đã mang tới sự kiện Galaxy Unpacked ngày 22 tháng 7 năm 2026 một sản phẩm hoàn toàn mới bên cạnh dòng điện thoại gập, khi đó còn được gọi theo tin đồn là Galaxy Glasses. Đây là cặp kính thông minh đầu tiên của hãng chạy nền tảng Android XR do Samsung, Google và Qualcomm cùng phát triển, tích hợp trợ lý Gemini để nghe, nhìn và trả lời theo ngữ cảnh. Với kiểu dáng gọng kính bình thường và trọng lượng chỉ khoảng 50g, Galaxy Glasses nhắm thẳng vào phân khúc kính AI đeo hằng ngày mà Meta đang dẫn đầu, thay vì trải nghiệm nhập vai của kính headset cồng kềnh.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Samsung Galaxy Glasses (theo rò rỉ)</div>

@@ -1,12 +1,12 @@
 ---
 slug: "samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia"
 title: "Galaxy Z Flip 8: cấu hình, sạc 45W, giá ra mắt 22/7/2026"
-description: "Galaxy Z Flip 8 ra mắt tại Unpacked 22/7/2026: chip Snapdragon 8 Elite Gen 5, sạc nhanh 45W, pin khoảng 4.300mAh, giá dự kiến từ 1.099 USD."
+description: "Galaxy Z Flip 8 ra mắt tại Unpacked 22/7/2026: Snapdragon 8 Elite Gen 5, sạc 45W, pin 4.300mAh. Giá chính hãng Việt Nam 31,99 triệu, mở bán 18/8."
 keywords: "Galaxy Z Flip 8, Samsung Z Flip 8, giá Galaxy Z Flip 8, Z Flip 8 cấu hình, sạc 45W, Unpacked 22/7/2026, điện thoại gập vỏ sò, Snapdragon 8 Elite Gen 5"
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-21T23:00:00+07:00"
-dateModified: "2026-07-21T23:00:00+07:00"
+dateModified: "2026-08-09T11:10:00+07:00"
 deck: "Samsung Galaxy Z Flip 8 sẽ chính thức ra mắt tại sự kiện Galaxy Unpacked ngày 22/7/2026 ở London, cùng dòng Galaxy Z Fold 8. Mẫu gập vỏ sò năm nay được nâng cấp chip Snapdragon 8 Elite Gen 5 for Galaxy, sạc nhanh có dây 45W thay cho 25W, pin dung lượng nhỉnh hơn, giữ màn hình phụ lớn và giá khởi điểm dự kiến quanh mốc 1.099 USD, dù có tin đồn tăng nhẹ vì giá bộ nhớ leo thang."
 heroImage: "https://techvision.click/images/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia/z-flip-8-camera-specs.jpg"
 heroAlt: "Cấu hình camera Galaxy Z Flip 8: 50MP chính, 12MP siêu rộng, 10MP selfie qua ảnh render"
@@ -43,7 +43,11 @@ related:
 featured: true
 ---
 
-Samsung Galaxy Z Flip 8 là mẫu điện thoại gập vỏ sò được mong chờ nhất mùa hè 2026, sẽ chính thức trình làng tại sự kiện Galaxy Unpacked ngày 22 tháng 7 ở London cùng bộ đôi Galaxy Z Fold 8. Sau nhiều năm hoàn thiện, dòng Z Flip đã trở thành lựa chọn phổ biến cho người dùng thích thiết bị nhỏ gọn, thời trang mà vẫn đủ mạnh. Năm nay Samsung tập trung khắc phục điểm yếu cố hữu của dòng gập là tốc độ sạc, đồng thời nâng cấp chip lên Snapdragon 8 Elite Gen 5 for Galaxy để bắt kịp cuộc đua hiệu năng và AI trên di động.
+<div class="art-callout">
+  ✅ <strong>Cập nhật 9/8/2026:</strong> Galaxy Z Flip 8 đã ra mắt tại Unpacked ngày 22/7/2026 và có giá chính hãng Việt Nam <strong>31,99 triệu đồng</strong> cho bản 256GB. Khách đặt cọc 500.000đ nhận máy sớm từ 8/8, máy mở bán rộng từ <strong>18/8</strong>. Xem bảng giá đầy đủ cả ba máy gập trong bài <a href="/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html">giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam</a>.
+</div>
+
+Samsung Galaxy Z Flip 8 là mẫu điện thoại gập vỏ sò được mong chờ nhất mùa hè 2026, đã chính thức trình làng tại sự kiện Galaxy Unpacked ngày 22 tháng 7 ở London cùng bộ đôi Galaxy Z Fold 8. Sau nhiều năm hoàn thiện, dòng Z Flip đã trở thành lựa chọn phổ biến cho người dùng thích thiết bị nhỏ gọn, thời trang mà vẫn đủ mạnh. Năm nay Samsung tập trung khắc phục điểm yếu cố hữu của dòng gập là tốc độ sạc, đồng thời nâng cấp chip lên Snapdragon 8 Elite Gen 5 for Galaxy để bắt kịp cuộc đua hiệu năng và AI trên di động.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Galaxy Z Flip 8 (theo rò rỉ trước ra mắt)</div>

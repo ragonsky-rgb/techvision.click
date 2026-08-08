@@ -1,17 +1,17 @@
 ---
 slug: "samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses"
-title: "Galaxy Unpacked 22/7/2026: chờ đợi gì ở Z Fold 8, Z Flip 8 và Galaxy Glasses"
-description: "Mùa Unpacked giữa năm của Samsung đang tới gần."
+title: "Galaxy Unpacked 22/7/2026: Z Fold 8, Z Flip 8, Galaxy Glasses"
+description: "Galaxy Unpacked đã diễn ra 22/7/2026 tại London: Z Fold 8, Z Fold 8 Ultra, Z Flip 8 và kính AI Intelligent Eyewear. Giá Việt Nam và mốc mở bán 18/8."
 keywords: "Galaxy Unpacked 2026, Galaxy Z Fold 8, Galaxy Z Flip 8, Galaxy Z Fold 8 Wide, Galaxy Glasses, Galaxy Watch 9, Samsung gập 2026, Snapdragon 8 Elite Gen 5"
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-21T23:30:00+07:00"
-dateModified: "2026-07-21T23:30:00+07:00"
-deck: "Mùa Unpacked giữa năm của Samsung đang tới gần. Theo loạt rò rỉ, sự kiện diễn ra ngày 22/7/2026 tại London, nơi Samsung dự kiến trình làng thế hệ điện thoại gập mới gồm Galaxy Z Fold 8, bản Z Fold 8 Wide rộng hơn và Z Flip 8, cùng Galaxy Watch 9 và cặp kính thông minh Galaxy Glasses. Tất cả vẫn là tin đồn cho tới khi Samsung chốt lịch chính thức."
+dateModified: "2026-08-09T11:00:00+07:00"
+deck: "Bài viết ngày 21/7/2026, một ngày trước Galaxy Unpacked, tổng hợp toàn bộ tin đồn về Galaxy Z Fold 8, bản Z Fold 8 Wide, Z Flip 8, Galaxy Watch 9 và kính Galaxy Glasses. Sự kiện sau đó diễn ra đúng ngày 22/7/2026 tại London; phần cập nhật đầu bài đối chiếu tin đồn với kết quả thực tế."
 heroImage: "https://i.ytimg.com/vi/Fp-f-GzgpU0/maxresdefault.jpg"
 heroAlt: "Rò rỉ Samsung Galaxy Z Fold 8 trước thềm Galaxy Unpacked 2026"
 heroCaption: "Galaxy Unpacked dự kiến diễn ra ngày 22/7/2026 tại London. Nguồn: YouTube"
-tldr: "Theo rò rỉ, <strong>Galaxy Unpacked</strong> diễn ra ngày <strong>22/7/2026</strong> tại London. Dàn sản phẩm dự kiến gồm <strong>Galaxy Z Fold 8</strong>, bản <strong>Z Fold 8 Wide</strong> rộng hơn, <strong>Z Flip 8</strong>, cùng <strong>Galaxy Watch 9</strong> và kính thông minh <strong>Galaxy Glasses</strong>. Dòng Fold được cho là dùng chip <strong>Snapdragon 8 Elite Gen 5</strong>, còn Z Flip 8 dùng <strong>Exynos 2600</strong>. Giá khởi điểm bản Fold đồn quanh <strong>1.999 USD</strong>, pin lớn hơn đời trước. Samsung chưa xác nhận chính thức, nên đây vẫn là tin đồn."
+tldr: "<strong>Galaxy Unpacked đã diễn ra ngày 22/7/2026</strong> tại London, đúng ngày mà giới rò rỉ dự đoán. Samsung ra mắt <strong>Galaxy Z Fold 8</strong>, <strong>Z Fold 8 Ultra</strong> và <strong>Z Flip 8</strong>, cùng cặp kính AI mang tên chính thức <strong>Intelligent Eyewear</strong> thay vì Galaxy Glasses như tin đồn. Giá chính hãng tại Việt Nam: Z Flip 8 từ <strong>31,99 triệu</strong>, Z Fold 8 từ <strong>46,99 triệu</strong>, Z Fold 8 Ultra từ <strong>52,99 triệu</strong>, mở bán rộng từ <strong>18/8</strong>. Bài này viết trước sự kiện nên phần bên dưới giữ nguyên các tin đồn để đối chiếu."
 tags: ["Samsung", "GalaxyUnpacked", "ZFold8", "ZFlip8", "GalaxyGlasses", "Foldable"]
 about: ["Samsung Galaxy Unpacked", "Galaxy Z Fold 8", "Galaxy Z Flip 8", "Galaxy Glasses"]
 authorBio: "Founder LongTechVision. Theo dõi điện thoại gập, thiết bị đeo và các sự kiện công nghệ lớn."
@@ -43,7 +43,11 @@ related:
 featured: true
 ---
 
-Mùa Unpacked giữa năm của Samsung đang tới gần. Theo loạt rò rỉ, sự kiện diễn ra ngày 22/7/2026 tại London, nơi Samsung dự kiến trình làng thế hệ điện thoại gập mới cùng đồng hồ và kính thông minh. Cần nói rõ ngay: Samsung chưa phát thư mời chính thức, nên ngày và toàn bộ thông tin dưới đây vẫn là tin đồn từ giới rò rỉ và báo công nghệ.
+<div class="art-callout">
+  ✅ <strong>Cập nhật 9/8/2026 - sự kiện đã diễn ra:</strong> Galaxy Unpacked mở màn ngày 22/7/2026 tại London đúng như đồn đoán. Samsung ra mắt Galaxy Z Fold 8, Z Fold 8 Ultra, Z Flip 8 và cặp kính AI với tên chính thức là <strong>Intelligent Eyewear</strong> chứ không phải Galaxy Glasses như tin đồn. Giá chính hãng tại Việt Nam: Z Flip 8 từ 31,99 triệu, Z Fold 8 từ 46,99 triệu, Z Fold 8 Ultra từ 52,99 triệu; mở bán rộng từ 18/8. Xem chi tiết trong bài <a href="/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html">giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam</a> và bài <a href="/articles/tren-tay-samsung-galaxy-glasses-intelligent-eyewear-2026.html">trên tay Intelligent Eyewear</a>. Nội dung bên dưới giữ nguyên như lúc viết trước sự kiện, để bạn đối chiếu tin đồn với thực tế.
+</div>
+
+Bài này viết ngày 21/7/2026, một ngày trước sự kiện. Ở thời điểm đó Samsung chưa phát thư mời chính thức, nên ngày tổ chức và toàn bộ thông tin bên dưới đều là tin đồn từ giới rò rỉ và báo công nghệ. Sự kiện sau đó diễn ra đúng ngày 22/7/2026 tại London, trình làng thế hệ điện thoại gập mới cùng đồng hồ và kính thông minh.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Galaxy Unpacked 2026 · Tin đồn chính</div>
