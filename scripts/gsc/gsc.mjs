@@ -58,7 +58,11 @@ async function inspect(url) {
   console.log(`   Coverage     : ${r.coverageState}`);
   console.log(`   Google canon : ${r.googleCanonical || '-'}`);
   console.log(`   Last crawl   : ${r.lastCrawlTime || 'chưa crawl'}`);
-  console.log(`   Index full   : https://search.google.com/search-console/inspect?resource_id=${encodeURIComponent(SITE)}&id=${encodeURIComponent(url)}`);
+  // Deep-link ?id=<url> da chet (Google tra 404, id gio la token doi khong doan
+  // duoc). Chi in duoc link toi property; muon bam "Yeu cau lap chi muc" thi dan
+  // URL vao o "Kiem tra moi URL..." o dau trang.
+  console.log(`   Mo GSC       : https://search.google.com/search-console?resource_id=${encodeURIComponent(SITE)}`);
+  console.log(`                  (dan URL tren vao o "Kiem tra moi URL" o dau trang)`);
 }
 
 async function sitemap(url) {
