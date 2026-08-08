@@ -6,7 +6,7 @@ keywords: "gia Galaxy Z Fold 8 Viet Nam, gia Galaxy Z Flip 8, dat truoc Galaxy Z
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-22T21:00:00+07:00"
-dateModified: "2026-08-03T14:00:00+07:00"
+dateModified: "2026-08-08T21:30:00+07:00"
 deck: "Ngay sau khi Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 ra mắt tại Unpacked 22/7, các đại lý Việt Nam đồng loạt mở đặt trước với cọc 500.000 đồng, giao máy sớm từ 8/8 trước ngày mở bán rộng 18/8. Bài viết tổng hợp giá niêm yết chính hãng từng phiên bản và so sánh ưu đãi đặt trước ở CellphoneS, Thế Giới Di Động, FPT Shop, Viettel Store để bạn chọn nơi mua lợi nhất."
 heroImage: "https://i.ytimg.com/vi/EG38N3Lo0pM/hqdefault.jpg"
 heroAlt: "Gia Galaxy Z Fold 8 Z Flip 8 tai Viet Nam va uu dai dat truoc thang 7 2026"
@@ -121,5 +121,5 @@ Nếu bạn đã chắc chắn về phiên bản muốn mua và có nhu cầu d�
 </div>
 
 <div class="art-callout">
-  🔥 <strong>Cập nhật 3/8:</strong> Tuần này bước vào giai đoạn nhận máy sớm (từ 8/8) trước khi mở bán rộng 18/8. Ưu đãi hiện tại: CellphoneS giảm tới khoảng 8,5 triệu, FPT Shop tới khoảng 9 triệu kèm trả góp 0%; mức giảm thay đổi theo ngày, bạn nên đối chiếu trực tiếp trước khi chốt.
+  🔥 <strong>Cập nhật 8/8:</strong> Hôm nay là ngày đầu tiên khách đặt trước bắt đầu nhận máy sớm, mở bán rộng vẫn giữ mốc 18/8. Giai đoạn đặt cọc đã khép lại ngày 7/8, nên từ giờ tới 18/8 nếu chưa đặt thì phải chờ hàng bán rộng hoặc hỏi suất lẻ tại đại lý. Ưu đãi ghi nhận gần nhất: CellphoneS giảm tới khoảng 8,5 triệu, FPT Shop tới khoảng 9 triệu kèm trả góp 0%; mức giảm thay đổi theo ngày, bạn nên đối chiếu trực tiếp trước khi chốt.
 </div>
