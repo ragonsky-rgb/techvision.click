@@ -728,3 +728,15 @@ body.dark .art-callout { background: rgba(192,57,43,0.08); }
 }
 .art-callout strong { color: var(--text); font-style: normal; }
 .art-callout a { font-style: normal; }
+
+/* Bien the cho YouTube Shorts (9:16) trong bai HTML cu. Khung video mac dinh
+   la 16:9 nen nhung Shorts vao se de lai hai vien den rat lon hai ben. */
+.art-video-wrap.vertical {
+  padding-bottom: 0;
+  height: auto;
+  aspect-ratio: 9 / 16;
+  max-width: 340px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.art-video-wrap.vertical iframe { position: static; height: 100%; }

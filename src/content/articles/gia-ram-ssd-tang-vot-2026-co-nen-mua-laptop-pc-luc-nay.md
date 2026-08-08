@@ -74,6 +74,12 @@ Con số cho thấy mức độ nghiêm trọng. Tính tới cuối năm 2025, g
 
 Ở Việt Nam, tác động thể hiện rõ nhất ở nhóm laptop tầm trung, khoảng 4 đến 10 triệu đồng, và các model cấu hình bộ nhớ cao như 8GB/256GB hay 12GB/512GB. Mặt bằng giá các nhóm này đã tăng khoảng 15 đến 20%, một mức đủ lớn để người mua phải tính toán lại ngân sách. Nghịch lý là chính phân khúc phổ thông, vốn nhạy cảm với giá nhất, lại chịu ảnh hưởng nặng, vì bộ nhớ chiếm tỉ trọng cao trong tổng chi phí.
 
+<div class="art-video-label">VIDEO · Phát biểu của CEO ASUS về giá linh kiện khiến cả ngành PC chú ý</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/DcUDkLr4IzY" title="CEO ASUS noi ve gia linh kien nganh PC" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Góc nhìn từ phía nhà sản xuất về đợt tăng giá bộ nhớ. Nguồn: kênh TechVision</p>
+
 Với PC lắp ráp, người dùng cảm nhận rõ khi báo giá cấu hình biến động theo tuần. Cùng một khoản tiền, số dung lượng RAM và SSD nhận được ngày càng ít đi so với một năm trước. Nhiều cửa hàng khuyên khách chốt cấu hình sớm nếu đã có kế hoạch, thay vì chờ đợi với hy vọng giá giảm. Bối cảnh này cũng trùng với cảnh báo trong [phân tích của Gartner về giá máy tính và điện thoại 2026](/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html).
 
 <figure>

@@ -106,4 +106,10 @@ Trong một thị trường giá đang lên và được dự báo còn lên t�
 
 Nếu bạn cần máy ngay để làm việc hay học tập, đừng cố chờ giá giảm, vì khả năng cao giá còn tăng chứ chưa hạ. Khi chọn cấu hình, hãy ưu tiên đủ RAM ngay từ đầu, tối thiểu 16GB cho nhu cầu thông thường, và tránh các máy chỉ 8GB nếu công việc của bạn mở nhiều tab hoặc chạy phần mềm nặng. Với máy hàn chết RAM hoặc dùng bộ nhớ unified như MacBook, điều này càng quan trọng vì không có đường nâng cấp về sau.
 
+<div class="art-video-label">VIDEO · TechVision giải thích vì sao laptop Windows tăng giá còn Apple lại giảm</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/tBq0ukg_WH8" title="Laptop Windows tang gia 30 phan tram con Apple lai giam" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Tóm tắt nhanh nghịch lý giá laptop năm nay. Nguồn: kênh TechVision</p>
+
 Nếu chỉ là nâng cấp không cấp thiết, bạn có thể trì hoãn và theo dõi các đợt sale. Đây cũng là lúc những món hời như MacBook Neo quanh 13 triệu hay các mẫu tồn kho đời trước trở nên đáng săn, miễn là mua từ nguồn uy tín và kiểm tra kỹ cấu hình. Cuối cùng, hãy nhớ rằng cơn sốt giá lần này bắt nguồn từ AI, một xu hướng còn kéo dài, nên mua đúng nhu cầu và đúng thời điểm sẽ tiết kiệm hơn là chờ một đợt giảm giá khó tới sớm.
