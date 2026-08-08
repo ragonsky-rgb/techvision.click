@@ -6,7 +6,7 @@ keywords: "Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, Gemini 3.5 Flash Cyber, mô 
 category: "AI"
 type: "tin-tuc"
 datePublished: "2026-07-24T11:30:00+07:00"
-dateModified: "2026-07-24T11:30:00+07:00"
+dateModified: "2026-08-09T12:30:00+07:00"
 deck: "Sau hơn hai tháng im ắng ở phân khúc cao cấp, Google bất ngờ ra mắt cùng lúc ba mô hình Gemini mới trong tuần cuối tháng 7/2026: Gemini 3.6 Flash nhanh và rẻ hơn, Gemini 3.5 Flash-Lite cho trợ lý nhẹ và Gemini 3.5 Flash Cyber chuyên vá lỗ hổng bảo mật. Điểm đáng chú ý là bản Gemini 3.5 Pro được chờ đợi nhất vẫn tiếp tục bị lùi lịch, giữa lúc OpenAI, Anthropic và loạt hãng Trung Quốc liên tục tung mô hình mới."
 heroImage: "https://i.ytimg.com/vi/Uw8U4-GHmt0/maxresdefault.jpg"
 heroAlt: "Google ra mat Gemini 3.6 Flash va hai mo hinh AI moi thang 7 2026"
@@ -98,6 +98,8 @@ Sự xuất hiện của một mô hình chuyên ngành như Flash Cyber cho th�
 Điểm gây tiếc nuối là bản cao cấp nhất, Gemini 3.5 Pro, không xuất hiện trong đợt này. Nhiều báo cáo trước đó cho biết quá trình phát triển bản Pro đã bị lùi nhiều tháng, và việc Google ưu tiên tung nhóm Flash cho thấy hãng chọn củng cố phân khúc phổ thông trước, thay vì chờ hoàn thiện flagship. Với người cần suy luận nặng và ngữ cảnh dài, họ vẫn phải dựa vào các bản Pro thế hệ trước như [Gemini 3.5 Pro với cửa sổ 2 triệu token](/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html) trong lúc chờ bản mới.
 
 Bối cảnh cạnh tranh giải thích phần nào nhịp độ dồn dập này. Trong thời gian Google im ắng, OpenAI đã đẩy GPT-5.6 với giới hạn sử dụng rộng hơn, Anthropic ra mắt Claude Sonnet 5, Opus 4.8 và Fable 5, còn nhiều hãng AI Trung Quốc cũng liên tục tung mô hình cạnh tranh trực diện. Ra mắt ba mô hình Flash cùng lúc, ngay trước kỳ báo cáo kinh doanh, là cách Google phát tín hiệu rằng hãng vẫn giữ nhịp và không để đối thủ chiếm hết sự chú ý. Cuộc rượt đuổi này được phân tích kỹ hơn trong bài [GPT-5.6 và cuộc đua AI nửa cuối 2026](/articles/gpt-5-6-cuoc-dua-ai-nua-cuoi-2026-gemini-claude-glm.html).
+
+Sức ép còn đến từ bên trong. Google đang chảy máu nhân sự nghiên cứu cấp cao, mà trường hợp đáng chú ý nhất là [Lê Viết Quốc rời Google để lập startup AI riêng mang tên Discovery Loop](/articles/le-viet-quoc-roi-google-lap-startup-ai-discovery-loop-2026.html), một trong những người đặt nền móng cho Google Brain và các kiến trúc mô hình mà Gemini kế thừa. Giữ nhịp ra mắt là một chuyện, giữ được đội ngũ tạo ra thế hệ mô hình tiếp theo lại là bài toán khó hơn.
 
 <div class="art-video-label">VIDEO · Đánh giá nhanh Gemini 3.6 Flash</div>
 <div class="art-video-wrap">

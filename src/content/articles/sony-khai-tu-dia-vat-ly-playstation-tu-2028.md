@@ -6,7 +6,7 @@ keywords: "Sony khai tử đĩa PlayStation, PlayStation digital only 2028, PS5 
 category: "Gaming"
 type: "tin-tuc"
 datePublished: "2026-07-12T00:15:00+07:00"
-dateModified: "2026-07-12T00:15:00+07:00"
+dateModified: "2026-08-09T12:30:00+07:00"
 deck: "Sony Interactive Entertainment vừa chính thức xác nhận sẽ ngừng sản xuất đĩa vật lý cho các tựa game PlayStation mới kể từ tháng 1/2028, đánh dấu bước chuyển quan trọng nhất trong lịch sử nền tảng sang kỷ nguyên phát hành kỹ thuật số hoàn toàn. Quyết định này đồng nghĩa thế hệ console kế tiếp, được cho là PS6, gần như chắc chắn sẽ chỉ hỗ trợ chơi game dưới dạng digital ngay từ khi ra mắt."
 heroImage: "https://i.ytimg.com/vi/CJ8SWTeckX4/maxresdefault.jpg"
 heroAlt: "Sony khai tử đĩa vật lý PlayStation từ năm 2028"
@@ -85,6 +85,8 @@ Dù vậy, quyết định này cũng làm dấy lên không ít tranh luận tr
 </figure>
 
 Diễn biến này cũng phản ánh xu hướng chuyển đổi toàn diện đang diễn ra trên khắp ngành công nghiệp giải trí kỹ thuật số nói chung, tương tự cách [Palworld vừa chính thức ra mắt bản 1.0 hoàn toàn qua nền tảng phân phối số Steam](/articles/palworld-1-0-chinh-thuc-ra-mat-ban-do-gap-doi-2026.html) mà không cần bất kỳ bản phát hành đĩa vật lý nào ngay từ đầu, cho thấy các studio phát triển game mới ngày càng ưu tiên kênh phân phối kỹ thuật số làm trọng tâm chiến lược phát hành của mình. Xu hướng này cũng từng được phản ánh phần nào qua [đợt tái cơ cấu quy mô lớn mà Microsoft áp dụng cho mảng Xbox](/articles/microsoft-xbox-sa-thai-4800-nguoi-tai-co-cau-2026.html), khi các hãng lớn liên tục điều chỉnh chiến lược để thích ứng với thị trường game đang thay đổi nhanh chóng cả về công nghệ lẫn thói quen tiêu dùng.
+
+Nintendo là ngoại lệ đáng chú ý khi vẫn duy trì thẻ game vật lý cho Switch 2 song song với kênh số, và danh mục phát hành của hãng cho thấy mô hình này chưa hề hụt hơi, xem [những game hay trên Nintendo Switch 2 với Splatoon Raiders và bản Final Fantasy X/X-2 HD Remaster](/articles/game-hay-nintendo-switch-2-thang-7-2026-splatoon-raiders-final-fantasy.html). Với người chơi coi trọng quyền sở hữu và khả năng bán lại, đây hiện là nền tảng lớn duy nhất còn giữ lựa chọn đó một cách trọn vẹn.
 
 ## Ý nghĩa đối với thế hệ console tiếp theo
 

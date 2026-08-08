@@ -6,7 +6,7 @@ keywords: "iPhone Fold vs Galaxy Z Fold 8, so sanh dien thoai gap 2026, iPhone F
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-27T09:35:00+07:00"
-dateModified: "2026-07-27T09:35:00+07:00"
+dateModified: "2026-08-09T12:30:00+07:00"
 deck: "Lần đầu tiên người dùng có thể đặt iPhone gập lên bàn cân với Galaxy Z Fold, hai triết lý trái ngược trong cùng một phân khúc. Galaxy Z Fold8 đã ra mắt chính thức ngày 22/7/2026 với thông số rõ ràng, còn iPhone Fold vẫn ở dạng tin đồn nhưng đủ chi tiết để phác họa cuộc đối đầu. Bài viết đặt hai máy cạnh nhau về màn hình, cấu hình, camera, phần mềm và giá để bạn hình dung nên chọn hướng nào."
 heroImage: "https://i.ytimg.com/vi/-2ffrPhN3Cc/maxresdefault.jpg"
 heroAlt: "iPhone Fold vs Galaxy Z Fold 8 so sanh dien thoai gap 2026"
@@ -104,6 +104,8 @@ Apple kiểm soát chặt cả iOS lẫn App Store, nên nếu hãng buộc nhà
 Về giá, hai máy khá sát. iPhone Fold được đồn từ 1.999 USD, cao hơn 100 USD so với Z Fold8 tiêu chuẩn giá 1.899 USD nhưng thấp hơn bản Z Fold8 Ultra giá 2.099 USD. Cả hai đều là hàng siêu cao cấp, nên khác biệt vài chục USD không phải điều quyết định. Với người dùng Việt, yếu tố then chốt là thời điểm và bảo hành chính hãng.
 
 Galaxy Z Fold8 đã lên kệ quốc tế từ 7/8/2026 và mở đặt trước tại Việt Nam ngay sau ra mắt, bản Ultra được một số đại lý niêm yết đặt trước quanh 52,99 triệu đồng. iPhone Fold thì phải chờ tới ít nhất tháng 9/2026 mới lộ diện, chưa kể độ trễ hàng chính hãng về Việt Nam. Nếu bạn cần máy ngay và muốn sự chín muồi, Z Fold8 là lựa chọn thực tế. Muốn tham khảo mặt bằng giá và lịch đặt trước, hãy xem bài [giá đặt trước Galaxy Z Fold8 và Z Flip8 tại Việt Nam](/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html).
+
+Ở mức tiền này, câu hỏi đáng cân nhắc trước khi xuống tiền không phải máy nào camera đẹp hơn, mà là máy gập dùng được bao lâu. Bản lề, nếp gấp giữa màn hình và tuổi thọ thực tế của tấm nền gập vẫn là điểm yếu cố hữu của cả hai hãng, chi tiết cơ chế hỏng và cách dùng để kéo dài tuổi thọ nằm trong bài [điện thoại gập có bền không](/articles/dien-thoai-gap-co-ben-khong-ban-le-nep-gap-tuoi-tho-2026.html). Nếu anh chị định giữ máy trên ba năm, đây là phần cần đọc kỹ hơn cả bảng thông số.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/rNJuiQ6gJqk/hqdefault.jpg" alt="iPhone Fold vs Galaxy Z Fold 8 gia va lua chon cho nguoi dung Viet 2026" loading="lazy" width="1280" height="720">

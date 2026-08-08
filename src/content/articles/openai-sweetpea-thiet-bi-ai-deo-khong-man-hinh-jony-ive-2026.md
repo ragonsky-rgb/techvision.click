@@ -6,7 +6,7 @@ keywords: "OpenAI Sweetpea, thiết bị AI OpenAI, Jony Ive, thiết bị AI đ
 category: "AI"
 type: "tin-tuc"
 datePublished: "2026-07-21T11:30:00+07:00"
-dateModified: "2026-07-21T11:30:00+07:00"
+dateModified: "2026-08-09T12:30:00+07:00"
 deck: "OpenAI đang tiến gần tới thiết bị phần cứng đầu tiên, mật danh Sweetpea, một thiết bị AI đeo sau tai không màn hình do Jony Ive và nhóm io thiết kế. Sam Altman mô tả đây là lựa chọn 'bình yên' thay cho smartphone. Đáng chú ý với người Việt, một phần dây chuyền sản xuất qua Foxconn được cho là đặt tại Việt Nam."
 heroImage: "https://i.ytimg.com/vi/_E0ITsOgJDk/maxresdefault.jpg"
 heroAlt: "OpenAI Sweetpea thiết bị AI đeo không màn hình do Jony Ive thiết kế"
@@ -94,6 +94,8 @@ Về sản lượng, Foxconn được chọn làm đơn vị gia công, với m�
 ## Góc nhìn Việt Nam và ý nghĩa của thiết bị
 
 Với người dùng và ngành công nghệ Việt Nam, chi tiết đáng chú ý nhất là việc một phần dây chuyền sản xuất qua Foxconn được nhắm đặt tại Việt Nam hoặc Mỹ. Nếu thành hiện thực, đây là tín hiệu tích cực cho vai trò của Việt Nam trong chuỗi cung ứng thiết bị công nghệ cao, tiếp nối việc lắp ráp điện thoại và linh kiện cho nhiều hãng lớn trong những năm qua. Một sản phẩm AI đình đám được sản xuất một phần tại Việt Nam sẽ là cột mốc đáng ghi nhận.
+
+Cần nhớ rằng trợ lý AI bằng giọng nói không phải ý tưởng mới, và các hãng đã đi trước OpenAI ở khâu phân phối: [Amazon đã đưa Alexa+ tới người dùng Prime miễn phí và bổ sung khả năng tự thực hiện tác vụ](/articles/amazon-alexa-plus-2026-tro-ly-ai-mien-phi-prime-tac-nhan.html), tức có sẵn hàng trăm triệu thiết bị trong nhà người dùng mà không cần bán thêm phần cứng nào. Sweetpea vì thế phải đủ khác biệt để thuyết phục người ta mua một món đồ mới, thay vì chỉ làm tốt hơn thứ họ đã có.
 
 Ở góc độ người dùng, Sweetpea đại diện cho nỗ lực tìm kiếm một hình thái tương tác mới với AI, ít phụ thuộc vào màn hình. Sam Altman mô tả thiết bị như một lựa chọn bình yên và nhẹ nhàng thay cho smartphone. Dù vậy, thành công hay không còn phụ thuộc vào trải nghiệm thực tế, thời lượng pin và mức độ hữu ích hằng ngày. Trong bối cảnh cạnh tranh phần cứng AI ngày càng nóng, kèm cả những tranh chấp pháp lý như vụ [Apple kiện OpenAI](/articles/apple-kien-openai-danh-cap-bi-mat-thuong-mai-2026.html), thiết bị đầu tiên này sẽ là phép thử quan trọng cho tham vọng vượt ra ngoài phần mềm của OpenAI.
 

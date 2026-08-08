@@ -6,7 +6,7 @@ keywords: "trên tay Samsung Galaxy Glasses, Samsung Intelligent Eyewear, kính 
 category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-07-23T08:20:00+07:00"
-dateModified: "2026-07-23T08:20:00+07:00"
+dateModified: "2026-08-09T12:30:00+07:00"
 deck: "Samsung đã chính thức trình làng cặp kính AI đầu tiên tại Galaxy Unpacked 22/7 ở London với tên gọi Intelligent Eyewear, thay cho tên đồn Galaxy Glasses. Bài viết tổng hợp trải nghiệm thực tế từ các phóng viên quốc tế có mặt tại sự kiện: hai mẫu gọng Gentle Monster và Warby Parker, trợ lý Gemini nhìn theo ngữ cảnh, pin 9 giờ, nhưng giá bán và ngày lên kệ cụ thể vẫn được Samsung giữ kín."
 heroImage: "https://i.ytimg.com/vi/ic8n23tprcg/maxresdefault.jpg"
 heroAlt: "Trên tay kính AI Samsung Intelligent Eyewear ra mắt tại Galaxy Unpacked 2026"
@@ -105,6 +105,8 @@ Về độ bền, ông James Choi, phụ trách mảng nghiên cứu XR của Sa
 ## Đặt cạnh Meta và góc nhìn cho người dùng Việt
 
 Bước vào thị trường mà Meta thống trị nhiều năm với dòng Ray-Ban, lợi thế của Samsung nằm ở hệ sinh thái: kính, điện thoại, đồng hồ và tai nghe Galaxy nói chung một ngôn ngữ, cộng thêm sức mạnh của Gemini trong hiểu ngữ cảnh hình ảnh. Phóng viên Tom's Guide sau buổi cầm thử thậm chí nghiêng về kính Samsung thay vì Meta nhờ thiết kế và nền tảng Android XR mở hơn. Bạn đọc muốn xem đối chiếu chi tiết từng tiêu chí có thể đọc thêm bài [so sánh Ray-Ban Meta với kính AI Samsung](/articles/ray-ban-meta-vs-samsung-galaxy-glasses-so-sanh-2026.html).
+
+Cần phân biệt rõ nhánh sản phẩm này với kính AR chuyên chơi game, vốn đi theo hướng ngược lại: thay vì gọn nhẹ để đeo cả ngày, chúng đánh đổi kích thước để lấy màn hình lớn và tần số quét cao, như [ASUS ROG Xreal R1 với tấm nền 240Hz giá 849 USD](/articles/asus-rog-xreal-r1-kinh-ar-choi-game-240hz-849-usd-2026.html). Galaxy Glasses không cạnh tranh ở sân đó, và người mua nên xác định mình cần trợ lý AI đeo được hay một màn hình di động trước khi so giá hai loại.
 
 Với người dùng Việt Nam, câu chuyện thực tế hơn nằm ở ba chữ: giá, tiếng Việt và phân phối. Mức giá đồn 379 đến 499 USD nếu thành sự thật sẽ tương đương 10 đến 13 triệu đồng trước thuế, tức ngang một điện thoại tầm trung khá. Trải nghiệm Gemini tiếng Việt trên kính, vốn phụ thuộc dịch vụ đám mây, cùng khả năng Samsung Việt Nam phân phối chính hãng sẽ quyết định sản phẩm này là món đồ chơi xách tay hay thiết bị phổ thông. Trong cùng sự kiện, Samsung cũng đã công bố giá đầy đủ cho dàn máy gập, chi tiết trong bài [tổng hợp Galaxy Unpacked 22/7](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html).
 

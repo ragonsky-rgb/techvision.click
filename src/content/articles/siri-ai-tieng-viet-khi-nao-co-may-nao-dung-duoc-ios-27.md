@@ -6,7 +6,7 @@ keywords: "Siri AI tiếng Việt, Apple Intelligence tiếng Việt, Siri AI iO
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-06-14T11:00:00+07:00"
-dateModified: "2026-06-14T11:00:00+07:00"
+dateModified: "2026-08-09T12:30:00+07:00"
 deck: "Một trong những câu hỏi được người dùng iPhone tại Việt Nam quan tâm nhất sau WWDC 2026 là Siri AI có nói được tiếng Việt không và khi nào dùng được. Câu trả lời ngắn gọn: có. Apple Intelligence đã hỗ trợ tiếng Việt, và phiên bản Siri AI mới sẽ đến cùng iOS 27 vào mùa thu 2026. Bài viết làm rõ lộ trình, danh sách máy tương thích và lựa chọn thay thế trong thời gian chờ."
 heroImage: "https://i.ytimg.com/vi/hF8swzNR1-o/maxresdefault.jpg"
 heroAlt: "Apple giới thiệu Siri AI mới tại WWDC 2026, hỗ trợ tiếng Việt"
@@ -79,6 +79,8 @@ Có. Tiếng Việt nằm trong danh sách ngôn ngữ được Apple Intelligen
 Siri AI mới đi cùng iOS 27, iPadOS 27 và macOS 27, với bản chính thức dự kiến phát hành vào mùa thu 2026 theo đúng lịch cập nhật iOS thường niên của Apple. Hiện tại, người dùng có thể trải nghiệm sớm qua bản beta dành cho nhà phát triển, dù bản beta còn nhiều lỗi và chưa nên dùng trên máy chính.
 
 Cần lưu ý rằng Apple thường triển khai các tính năng AI theo từng đợt. Một số khả năng nâng cao của Siri AI có thể đến sau bản phát hành đầu tiên ít tuần hoặc ít tháng. Cách Apple đi chậm mà chắc với trợ lý AI được phân tích kỹ trong bài [Apple nói không với agentic AI: vì sao Siri đi đường thận trọng](/articles/apple-noi-khong-agentic-ai-wwdc-2026-siri-than-trong.html).
+
+Một yếu tố nữa quyết định ngôn ngữ nào được ưu tiên là rào cản pháp lý ở từng thị trường. Trung Quốc là ví dụ rõ nhất: Apple phải chờ cơ quan quản lý phê duyệt và bắt tay với đối tác nội địa như Alibaba và Baidu thì [Apple Intelligence mới được mở tại Trung Quốc](/articles/apple-intelligence-trung-quoc-phe-duyet-alibaba-qwen-baidu-2026.html). Việt Nam không có rào cản tương tự, nên yếu tố quyết định với tiếng Việt chủ yếu vẫn là thứ tự ưu tiên ngôn ngữ của Apple chứ không phải giấy phép.
 
 <div class="art-video-label">VIDEO · iOS 27 chính thức và Siri AI</div>
 <div class="art-video-wrap">

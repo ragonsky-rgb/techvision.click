@@ -6,7 +6,7 @@ keywords: "điện thoại nhiễm mã độc, dấu hiệu điện thoại bị
 category: "Internet"
 type: "cam-nang"
 datePublished: "2026-08-01T21:00:00+07:00"
-dateModified: "2026-08-01T21:00:00+07:00"
+dateModified: "2026-08-09T12:30:00+07:00"
 deck: "Máy tự bật quảng cáo, nóng bất thường, hao pin nhanh hay xuất hiện ứng dụng lạ đều có thể là dấu hiệu điện thoại Android đã nhiễm mã độc. Bài viết liệt kê 7 dấu hiệu thường gặp nhất và hướng dẫn từng bước xử lý triệt để, từ gỡ ứng dụng lạ, thu hồi quyền Trợ năng đến khôi phục cài đặt gốc, giúp bạn giành lại quyền kiểm soát thiết bị."
 heroImage: "https://i.ytimg.com/vi/Be_MdGz1FsE/sddefault.jpg"
 heroAlt: "Nhận biết và xử lý khi điện thoại Android bị nhiễm mã độc, virus"
@@ -91,6 +91,8 @@ Trong Safe Mode, hãy vào Cài đặt và mục Ứng dụng, rà soát danh s�
 </figure>
 
 Sau khi gỡ, hãy bật Google Play Protect trong ứng dụng Google Play để quét lại toàn bộ thiết bị, đây là công cụ miễn phí có sẵn trên hầu hết máy Android. Bạn cũng nên xóa bộ nhớ đệm và dữ liệu của trình duyệt, đồng thời kiểm tra phần thông báo để chặn các trang web đã tự xin quyền gửi thông báo quảng cáo. Nếu tài khoản mạng xã hội có dấu hiệu bị lợi dụng, tham khảo thêm bài [cách bảo vệ tài khoản Facebook không bị hack, chiếm nick](/articles/cach-bao-ve-tai-khoan-facebook-khong-bi-hack-chiem-nick-2026.html) để rà soát phiên đăng nhập lạ.
+
+Một hiểu lầm phổ biến cần nói rõ: tải từ kho ứng dụng chính thức làm giảm rủi ro rất nhiều nhưng không phải là bảo chứng tuyệt đối. Chính Apple, kho ứng dụng vốn được kiểm duyệt chặt nhất, cũng đã phải [gỡ Telegram khỏi App Store trên toàn cầu vì không xử lý nội dung CSAM](/articles/apple-go-telegram-app-store-toan-cau-csam-2026.html). Thói quen đúng vẫn là xem kỹ nhà phát hành, số lượt tải và các quyền mà ứng dụng xin, kể cả khi nó nằm trên Play Store hay App Store.
 
 ## Khi nào cần khôi phục cài đặt gốc
 

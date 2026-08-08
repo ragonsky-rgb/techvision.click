@@ -6,7 +6,7 @@ keywords: "Claude Sonnet 5, Anthropic Sonnet 5, Claude Sonnet 5 giá, Claude Son
 category: "AI"
 type: "tin-tuc"
 datePublished: "2026-07-12T14:30:00+07:00"
-dateModified: "2026-07-12T14:30:00+07:00"
+dateModified: "2026-08-09T12:30:00+07:00"
 deck: "Anthropic chính thức ra mắt Claude Sonnet 5, được công ty mô tả là phiên bản Sonnet mang tính agentic nhất từ trước tới nay, có khả năng lập kế hoạch, sử dụng công cụ như trình duyệt và terminal, hoạt động độc lập ở mức độ mà chỉ vài tháng trước đây chỉ những mô hình lớn, đắt tiền hơn mới làm được. Mô hình mới đạt hiệu năng áp sát dòng Opus 4.8 cao cấp nhưng có giá chỉ bằng khoảng một nửa, hiện đã trở thành lựa chọn mặc định trên mọi gói dịch vụ của Claude."
 heroImage: "https://i.ytimg.com/vi/x-Pd8VtGkFw/maxresdefault.jpg"
 heroAlt: "Claude Sonnet 5 ra mắt với hiệu năng agentic áp sát Opus 4.8"
@@ -76,6 +76,8 @@ Về mặt giá cả, Claude Sonnet 5 mở bán với mức giá ưu đãi 2 USD
 </figure>
 
 Chiến lược định giá này phản ánh rõ tham vọng của Anthropic trong việc mở rộng tệp người dùng agentic AI ra ngoài nhóm doanh nghiệp lớn có ngân sách dồi dào, tương tự cách công ty từng gây chú ý với dòng mô hình cao cấp [Claude Fable 5 Mythos, được xem là mô hình mạnh nhất mà Anthropic từng phát triển](/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html), nhưng lần này hướng trọng tâm vào việc phổ cập công nghệ agentic cho nhóm người dùng phổ thông và các nhà phát triển độc lập.
+
+Với người mới, rào cản thật ra không nằm ở giá token mà ở chỗ không biết bắt đầu từ đâu. Một agent chạy được cần khung điều phối, công cụ và vòng lặp kiểm tra, và đó là phần các bộ khung mã nguồn mở đảm nhiệm, xem hướng dẫn [dùng CrewAI và AutoGen để dựng AI agent tự động hóa máy tính](/articles/ai-agent-tu-dong-hoa-may-tinh-crewai-autogen-huong-dan-2026.html). Giá rẻ chỉ có ý nghĩa khi anh chị đã biết ghép mô hình vào một quy trình cụ thể.
 
 ## Bảo vệ an ninh mạng thời gian thực
 

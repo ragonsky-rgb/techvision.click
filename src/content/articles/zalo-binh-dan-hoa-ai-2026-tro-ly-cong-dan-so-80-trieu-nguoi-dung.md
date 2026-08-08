@@ -6,7 +6,7 @@ keywords: "Zalo, Zalo AI, bình dân hóa AI, trợ lý ảo Zalo, Công dân s�
 category: "AI"
 type: "tin-tuc"
 datePublished: "2026-06-29T10:00:00+07:00"
-dateModified: "2026-06-29T10:00:00+07:00"
+dateModified: "2026-08-09T12:30:00+07:00"
 deck: "Zalo, ứng dụng nhắn tin lớn nhất Việt Nam của VNG, đang theo đuổi chiến lược bình dân hóa AI để đưa trí tuệ nhân tạo tới gần 80 triệu người dùng. Trợ lý Công dân số tích hợp ngay trong app giúp tra cứu thủ tục hành chính 24/7, trong khi khoảng 30% người dùng đã trải nghiệm các tính năng AI khác trên nền tảng."
 heroImage: "https://i.ytimg.com/vi/pGjDsP9hLDY/maxresdefault.jpg"
 heroAlt: "Zalo bình dân hóa AI với trợ lý Công dân số năm 2026"
@@ -81,7 +81,7 @@ Việc tích hợp trợ lý AI hành chính vào ứng dụng nhắn tin phổ 
 
 ## Quy mô người dùng và mức độ tiếp cận AI
 
-Số liệu cho thấy Zalo đạt 80,2 triệu người dùng hoạt động hàng tháng vào cuối quý 1/2026, một con số khổng lồ so với quy mô dân số Việt Nam. Đáng chú ý hơn, tính đến cuối năm 2025, khoảng 30% người dùng Zalo đã trải nghiệm ít nhất một tính năng AI trên nền tảng. Tỷ lệ này cho thấy AI không còn là khái niệm xa lạ với người dùng Việt, mà đang dần trở thành một phần quen thuộc trong trải nghiệm sử dụng ứng dụng hàng ngày.
+Số liệu cho thấy Zalo đạt 80,2 triệu người dùng hoạt động hàng tháng vào cuối quý 1/2026, một con số khổng lồ so với quy mô dân số Việt Nam. Để dễ hình dung thứ hạng, [Threads của Meta cán mốc 500 triệu người dùng hoạt động hàng tháng trên toàn cầu](/articles/threads-500-trieu-nguoi-dung-meta-communities-your-algo-2026.html), tức Zalo chỉ phục vụ một thị trường duy nhất nhưng đạt khoảng một phần sáu quy mô đó, mức độ thâm nhập gần như bão hòa mà rất ít nền tảng nội địa nào trên thế giới làm được. Đáng chú ý hơn, tính đến cuối năm 2025, khoảng 30% người dùng Zalo đã trải nghiệm ít nhất một tính năng AI trên nền tảng. Tỷ lệ này cho thấy AI không còn là khái niệm xa lạ với người dùng Việt, mà đang dần trở thành một phần quen thuộc trong trải nghiệm sử dụng ứng dụng hàng ngày.
 
 Ngoài trợ lý Công dân số, Zalo còn ứng dụng AI cho nhiều tính năng khác như soạn tin nhắn tự động, phụ đề cho cuộc gọi video, dịch tự động theo thời gian thực, và tính năng trích xuất chữ từ ảnh ra mắt gần đây. Với doanh nghiệp, Zalo OA cũng tích hợp các công cụ AI Agent giúp tự động hóa chăm sóc khách hàng, cho thấy chiến lược AI của Zalo không chỉ dừng ở người dùng cá nhân mà còn mở rộng sang đối tượng doanh nghiệp.
 
