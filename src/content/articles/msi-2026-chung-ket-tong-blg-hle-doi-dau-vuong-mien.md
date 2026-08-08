@@ -1,12 +1,12 @@
 ---
 slug: "msi-2026-chung-ket-tong-blg-hle-doi-dau-vuong-mien"
-title: "MSI 2026 chung kết tổng: BLG đối đầu HLE tranh vương miện tối nay 12/7"
-description: "BLG và HLE chính thức xác định đối đầu tại chung kết tổng MSI 2026 ngày 12/7, sau khi HLE ngược dòng hạ LYON còn BLG từng thắng chính HLE 3-1 trước đó."
+title: "MSI 2026 chung kết tổng BLG vs HLE: HLE vô địch 3-2"
+description: "Chung kết tổng MSI 2026 ngày 12/7: HLE lội ngược dòng hạ BLG 3-2 và lên ngôi vô địch. Phân tích trước trận, phong độ hai đội và diễn biến ván 5 quyết định."
 keywords: "MSI 2026 chung kết tổng BLG HLE, BLG vs HLE MSI 2026, chung kết tổng LMHT 2026, MSI 2026 12/7 trực tiếp"
 category: "Gaming"
 type: "tin-tuc"
 datePublished: "2026-07-12T10:00:00+07:00"
-dateModified: "2026-07-12T10:00:00+07:00"
+dateModified: "2026-08-09T11:40:00+07:00"
 deck: "Trận chung kết tổng MSI 2026 giữa BLG và HLE chính thức được xác định sau khi HLE hoàn tất màn ngược dòng đầy cảm xúc trước LYON tại chung kết nhánh thua, trong khi BLG đã chờ sẵn từ trước sau chiến thắng 3-1 áp đảo trước chính HLE ở chung kết nhánh thắng. Trận tái đấu mang tính quyết định danh hiệu, diễn ra tối 12/7, hứa hẹn là màn so tài đỉnh cao khép lại giải đấu Mid-Season Invitational 2026."
 heroImage: "https://i.ytimg.com/vi/wRW9Eb6mpck/maxresdefault.jpg"
 heroAlt: "MSI 2026 chung kết tổng BLG đối đầu HLE tranh vương miện"
@@ -35,13 +35,17 @@ faq:
   - q: "Người hâm mộ có thể xem trực tiếp chung kết tổng MSI 2026 ở đâu?"
     a: "Trận đấu được phát sóng trực tiếp hoàn toàn miễn phí qua các kênh chính thức như Twitch và YouTube của LoL Esports, cùng các co-stream từ nhiều streamer nổi tiếng trong cộng đồng Liên Minh Huyền Thoại."
 related:
-  - { href: "/articles/blg-thang-hle-3-1-msi-2026-vao-chung-ket-tong.html", cat: "Gaming", title: "BLG hủy diệt HLE 3-1, giành vé vào chung kết tổng MSI 2026" }
+  - { href: "/articles/hle-vo-dich-msi-2026-thang-blg-3-2.html", cat: "Gaming", title: "Kết quả MSI 2026: HLE vô địch, ngược dòng hạ BLG 3-2" }
   - { href: "/articles/blg-thang-hle-3-1-msi-2026-vao-chung-ket-tong.html", cat: "Gaming", title: "BLG thắng HLE 3-1, MSI 2026 vào chung kết tổng" }
   - { href: "/articles/ewc-2026-lmht-chung-ket-karmine-corp-dplus-kia.html", cat: "Gaming", title: "EWC 2026 LMHT: chung kết Karmine Corp gặp Dplus KIA" }
 featured: true
 ---
 
-Sau hành trình dài đầy kịch tính xuyên suốt giải đấu Mid-Season Invitational 2026, cặp đấu chung kết tổng cuối cùng đã chính thức được xác định: BLG, đại diện đến từ khu vực LPL, sẽ đối đầu HLE, đại diện của LCK, trong trận đấu quyết định chức vô địch diễn ra tối 12/7.
+<div class="art-callout">
+  ✅ <strong>Cập nhật 9/8/2026 - trận đấu đã kết thúc:</strong> <strong>HLE vô địch MSI 2026</strong> sau khi lội ngược dòng hạ BLG <strong>3-2</strong> ở chung kết tổng ngày 12/7. Ván 5 quyết định kéo dài 36 phút, Zeus được vinh danh MVP toàn giải, HLE nhận 500.000 USD tiền thưởng và trở thành đội LCK đầu tiên vô địch MSI ngay trên sân nhà Hàn Quốc. Đọc chi tiết trong bài <a href="/articles/hle-vo-dich-msi-2026-thang-blg-3-2.html">kết quả MSI 2026: HLE vô địch, ngược dòng hạ BLG 3-2</a>. Phần bên dưới là bài phân tích trước trận, giữ nguyên để bạn đối chiếu.
+</div>
+
+Sau hành trình dài đầy kịch tính xuyên suốt giải đấu Mid-Season Invitational 2026, cặp đấu chung kết tổng cuối cùng đã chính thức được xác định: BLG, đại diện đến từ khu vực LPL, đối đầu HLE, đại diện của LCK, trong trận đấu quyết định chức vô địch diễn ra tối 12/7.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Chung kết tổng MSI 2026 · Thông tin chính</div>

@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/iphone-18-pro-max-day-nang-hon-pin-lon-thiet-ke-2026.html", cat: "Smartphone", title: "iPhone 18 Pro Max dày và nặng hơn: đánh đổi lấy pin lớn" }
   - { href: "/articles/chip-a20-pro-iphone-18-pro-2nm-manh-co-nao-2026.html", cat: "Smartphone", title: "Chip A20 Pro iPhone 18 Pro: bước nhảy 2nm mạnh cỡ nào" }
-  - { href: "/articles/iphone-18-pro-max-day-nang-hon-pin-lon-thiet-ke-2026.html", cat: "Smartphone", title: "iPhone 18 Pro Max dày và nặng hơn: đánh đổi lấy pin lớn" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
 featured: true
 ---
 

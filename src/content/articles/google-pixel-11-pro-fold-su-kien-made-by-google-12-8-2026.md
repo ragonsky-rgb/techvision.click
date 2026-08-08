@@ -38,7 +38,7 @@ faq:
     a: "Cả hai đều là điện thoại gập cao cấp ra mắt trong mùa hè 2026. Pixel 11 Pro Fold mạnh về tính năng AI và trải nghiệm phần mềm thuần Google, trong khi Galaxy Z Fold 8 có lợi thế về hệ sinh thái, phân phối chính hãng tại Việt Nam và bề dày kinh nghiệm làm máy gập của Samsung."
 related:
   - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Smartphone", title: "Đặt trước Galaxy Z Fold 8, Z Flip 8: quà tặng từng đại lý" }
-  - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 và Z Flip 8 mở đặt trước tại Việt Nam" }
+  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
   - { href: "/articles/galaxy-z-fold-8-vs-z-fold-8-ultra-so-sanh-chon-ban-nao-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 vs Z Fold 8 Ultra: chọn bản nào 2026?" }
 featured: false
 ---

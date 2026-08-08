@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Công nghệ", title: "Samsung Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
   - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Smartphone", title: "Đặt trước Galaxy Z Fold 8, Z Flip 8: quà tặng từng đại lý" }
-  - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Công nghệ", title: "Galaxy Z Fold 8, Flip 8 giá đặt trước tại Việt Nam" }
+  - { href: "/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP" }
 featured: true
 ---
 

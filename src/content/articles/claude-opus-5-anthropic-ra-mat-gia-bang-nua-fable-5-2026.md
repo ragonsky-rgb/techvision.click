@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/claude-sonnet-5-ra-mat-anthropic-agentic-2026.html", cat: "AI", title: "Claude Sonnet 5 ra mắt: mô hình agentic của Anthropic" }
   - { href: "/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html", cat: "AI", title: "Claude Fable 5 ra mắt: model mạnh nhất của Anthropic, đứng trên cả Opus" }
-  - { href: "/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html", cat: "AI", title: "Claude Fable 5 và Mythos 5: model mạnh nhất của Anthropic" }
+  - { href: "/articles/anthropic-project-glasswing-claude-mythos-lo-hong-bao-mat-2026.html", cat: "AI", title: "Project Glasswing: AI Claude Mythos của Anthropic tìm hơn 10.000 lỗ hổng bảo mật" }
 featured: true
 ---
 

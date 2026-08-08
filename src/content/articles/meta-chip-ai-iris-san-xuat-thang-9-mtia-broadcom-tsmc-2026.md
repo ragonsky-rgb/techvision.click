@@ -36,7 +36,7 @@ faq:
     a: "Meta đặt mục tiêu triển khai khoảng 7 gigawatt năng lực điện toán vào cuối 2026 và nâng gấp đôi lên 14 gigawatt trong năm 2027. Đây là chỉ số phản ánh quy mô điện năng dành cho các trung tâm dữ liệu AI, cho thấy mức đầu tư khổng lồ vào hạ tầng của công ty."
 related:
   - { href: "/articles/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.html", cat: "AI", title: "NVIDIA Vera Rubin vào sản xuất: nền tảng AI mới với GPU 336 tỷ transistor" }
-  - { href: "/articles/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.html", cat: "Công nghệ", title: "Nvidia Vera Rubin, nền tảng AI 336 tỷ transistor" }
+  - { href: "/articles/ibm-nanostack-0-7nm-chip-ban-dan-2026.html", cat: "Công nghệ", title: "IBM công bố chip Nanostack 0.7nm: gần 100 tỷ transistor, mở đường chip dưới 1nm" }
 featured: false
 ---
 

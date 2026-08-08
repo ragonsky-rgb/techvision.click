@@ -38,7 +38,7 @@ faq:
     a: "Các chỉ số sức khỏe trên đồng hồ thông minh rất hữu ích để theo dõi xu hướng và nâng cao nhận thức về sức khỏe, nhưng không nên xem là chẩn đoán y khoa chính xác tuyệt đối. Đồng hồ là thiết bị tiêu dùng, có sai số nhất định. Nếu thấy chỉ số bất thường hoặc có triệu chứng sức khỏe, hãy đi khám bác sĩ thay vì chỉ dựa vào đồng hồ. Hãy dùng các tính năng này như công cụ hỗ trợ, kết hợp với lối sống lành mạnh và thăm khám định kỳ."
 related:
   - { href: "/articles/cach-chon-dong-ho-thong-minh-smartwatch-2026-tieu-chi-tuong-thich.html", cat: "Công nghệ", title: "Cách chọn đồng hồ thông minh 2026: tương thích, sức khỏe, pin, giá" }
-  - { href: "/articles/cach-chon-dong-ho-thong-minh-smartwatch-2026-tieu-chi-tuong-thich.html", cat: "Smartphone", title: "Cách chọn đồng hồ thông minh 2026: tiêu chí, tương thích" }
+  - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?" }
   - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ro-ri-pin-cam-bien-unpacked-22-7-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2: rò rỉ pin, cảm biến trước 22/7" }
 featured: false
 ---
