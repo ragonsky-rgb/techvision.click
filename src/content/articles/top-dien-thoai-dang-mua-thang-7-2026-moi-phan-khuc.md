@@ -104,6 +104,8 @@ Về phía Apple, iPhone 17 Pro Max vẫn giữ vững vị thế ổn định n
 
 Một lựa chọn khác đáng cân nhắc trong nhóm flagship là [Xiaomi 17 series với hợp tác camera Leica](/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html), sử dụng chip Snapdragon 8 Elite Gen 5 cho hiệu năng mạnh mẽ, phù hợp với người dùng yêu thích chụp ảnh chuyên nghiệp nhưng muốn mức giá dễ chịu hơn so với iPhone hoặc Samsung cùng phân khúc. Ai đặt nhiếp ảnh lên trên hết nên chờ thêm bản cao nhất của dòng này: [Xiaomi 17 Ultra dùng cảm biến 1 inch và ống tele 200MP zoom biến thiên](/articles/xiaomi-17-ultra-cam-bien-1-inch-leica-camera-2026.html), đây mới là máy Xiaomi cạnh tranh trực diện với camera của S26 Ultra.
 
+Nếu anh chị muốn chip flagship nhưng không muốn trả giá flagship, nhóm flagship killer là chỗ đáng nhìn: [POCO F8 Ultra và F8 Pro đã về Việt Nam với giá từ 16,99 triệu đồng](/articles/poco-f8-ultra-f8-pro-gia-viet-nam-snapdragon-8-elite-loa-bose-2026.html) mà vẫn dùng Snapdragon 8 Elite Gen 5, kèm hệ thống loa 2.1 tinh chỉnh cùng Bose và pin 6500mAh sạc 100W. Đổi lại, camera tele và khả năng chống nước, độ hoàn thiện vỏ máy vẫn kém một bậc so với iPhone 17 Pro Max hay S26 Ultra, nên đây là lựa chọn cho người ưu tiên hiệu năng và pin hơn là nhiếp ảnh.
+
 Một lưu ý khi so cấu hình flagship: đừng chọn máy chỉ vì con số độ phân giải màn hình lớn hơn. Ở kích thước điện thoại, mắt người gần như không phân biệt được khác biệt sau một ngưỡng nhất định, chi tiết tính toán nằm trong bài [PPI bao nhiêu là đủ](/articles/do-phan-giai-man-hinh-dien-thoai-ppi-bao-nhieu-du-2026.html). Tiền chênh vì màn hình nên dồn sang camera hoặc pin thì thực dụng hơn.
 
 ## Tầm trung: Galaxy A56 và Redmi Note 14 5G là hai lựa chọn sáng giá

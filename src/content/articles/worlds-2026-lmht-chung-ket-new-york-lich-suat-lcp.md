@@ -6,7 +6,7 @@ keywords: "Worlds 2026, chung kết thế giới LMHT 2026, Worlds 2026 địa �
 category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-08-04T14:00:00+07:00"
-dateModified: "2026-08-04T14:00:00+07:00"
+dateModified: "2026-08-09T11:30:00+07:00"
 deck: "Riot Games đã chốt toàn bộ khung thời gian, địa điểm và thể thức của Chung kết thế giới Liên Minh Huyền Thoại 2026. Giải trở lại Bắc Mỹ sau nhiều năm, trải dài ba thành phố Los Angeles, Allen (Texas) và New York, với trận chung kết tại Barclays Center ngày 14/11. Điểm đáng chú ý với người hâm mộ Việt Nam là khu vực LCP, nơi các đội Việt Nam thi đấu, tiếp tục giữ 3 suất dự giải. Bài viết tổng hợp lịch, thể thức 19 đội và cơ hội của đại diện Việt Nam qua lăng kính các nguồn quốc tế."
 heroImage: "https://i.ytimg.com/vi/gkyoEUJ_vME/maxresdefault.jpg"
 heroAlt: "Chung ket the gioi Lien Minh Huyen Thoai Worlds 2026 to chuc tai My"
@@ -31,7 +31,7 @@ faq:
   - q: "Worlds 2026 diễn ra khi nào?"
     a: "Toàn bộ giải kéo dài từ ngày 15/10 tới ngày 14/11/2026. Vòng khởi động mở màn từ 15 tới 18/10 tại Los Angeles, sau đó là vòng Thụy Sĩ và vòng loại trực tiếp ở Texas, và khép lại bằng trận chung kết tổng ngày 14/11 tại New York."
   - q: "Đội Việt Nam có dự Worlds 2026 không?"
-    a: "Có. Các đội Việt Nam thi đấu trong hệ thống LCP, tên đầy đủ là League of Legends Championship Pacific, khu vực gộp chung các đội Đông Nam Á và một số khu vực châu Á Thái Bình Dương. LCP được phân 3 suất dự Worlds 2026, và nhà vô địch VCS mùa hè đã giành vé vào hệ thống này, giữ cơ hội cho đại diện Việt Nam góp mặt tại giải thế giới."
+    a: "Có, và đã chắc chắn. Team Secret Whales (TSW) thắng CTBC Flying Oyster 3-0 ngày 2/8 tại vòng Thụy Sĩ LCP 2026 Split 3, trở thành đội Việt Nam đầu tiên và cũng là đội đầu tiên trên toàn thế giới chốt suất Worlds 2026. Các đội Việt Nam thi đấu trong hệ thống LCP, tên đầy đủ là League of Legends Championship Pacific, khu vực gộp chung các đội Đông Nam Á và một số khu vực châu Á Thái Bình Dương. LCP được phân 3 suất dự Worlds 2026, nên GAM Esports và MVK Esports vẫn còn cơ hội tranh hai vé còn lại."
   - q: "Worlds 2026 có bao nhiêu đội tham dự?"
     a: "Worlds 2026 có 19 đội, con số cao nhất từ trước tới nay. Các khu vực lớn gồm LCK của Hàn Quốc, LPL của Trung Quốc, LEC của châu Âu, LCS của Bắc Mỹ và LCP của châu Á Thái Bình Dương mỗi khu vực được 3 suất. Khu vực CBLOL của Brazil được 2 suất, cùng với suất dành cho nhà vô địch MSI và một suất bổ sung."
   - q: "Trận chung kết Worlds 2026 tổ chức ở đâu?"
@@ -85,7 +85,9 @@ Bên cạnh các suất theo khu vực, giải còn dành một suất cho nhà 
 
 Với khán giả trong nước, phần đáng quan tâm nhất là số phận của các đội Việt Nam. Từ năm 2025, Riot Games tái cấu trúc hệ thống giải khu vực, gộp các đội Đông Nam Á và một số khu vực châu Á Thái Bình Dương vào một giải chung mang tên LCP, viết tắt của League of Legends Championship Pacific. Các đội Việt Nam nay thi đấu và tranh vé Worlds thông qua hệ thống LCP này, thay vì có một suất riêng biệt như thời VCS còn là khu vực độc lập.
 
-Điểm tích cực là LCP được phân 3 suất dự Worlds 2026, ngang với các khu vực lớn khác. Điều này giữ nguyên cơ hội cho những đội mạnh nhất của khu vực, trong đó có đại diện Việt Nam, góp mặt tại sân chơi thế giới. Nhà vô địch VCS mùa hè vừa qua đã giành vé vào hệ thống LCP, một cột mốc quan trọng được ghi lại trong bài về [Saigon Warriors vô địch VCS mùa hè và tấm vé LCP](/articles/vcs-2026-mua-he-saigon-warriors-vo-dich-chung-ket-ve-lcp.html). Chặng đường tới Worlds vì thế vẫn còn dài, nhưng cánh cửa chưa bao giờ khép lại với các đội trong nước.
+Điểm tích cực là LCP được phân 3 suất dự Worlds 2026, ngang với các khu vực lớn khác. Điều này giữ nguyên cơ hội cho những đội mạnh nhất của khu vực, trong đó có đại diện Việt Nam, góp mặt tại sân chơi thế giới. Nhà vô địch VCS mùa hè vừa qua đã giành vé vào hệ thống LCP, một cột mốc quan trọng được ghi lại trong bài về [Saigon Warriors vô địch VCS mùa hè và tấm vé LCP](/articles/vcs-2026-mua-he-saigon-warriors-vo-dich-chung-ket-ve-lcp.html).
+
+Và câu trả lời đã có: tại vòng Thụy Sĩ LCP 2026 Split 3, [Team Secret Whales thắng CTBC Flying Oyster 3-0 và trở thành đội đầu tiên trên thế giới chốt suất Worlds 2026](/articles/tsw-gianh-ve-worlds-2026-dai-dien-lmht-viet-nam-dau-tien-lcp-split-3.html). Đây là lần đầu một đội Việt Nam giành vé Chung kết thế giới ngay trong mùa giải đầu tiên khu vực thi đấu dưới liên minh LCP. Hai suất còn lại của LCP vẫn đang mở, GAM Esports và MVK Esports là hai cái tên Việt Nam còn cơ hội cạnh tranh.
 
 <div class="art-video-label">VIDEO · Không khí và quy mô của một kỳ Worlds Liên Minh Huyền Thoại</div>
 <div class="art-video-wrap">

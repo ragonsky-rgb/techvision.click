@@ -6,7 +6,7 @@ keywords: "BLG thắng HLE, MSI 2026 chung kết tổng, Bilibili Gaming, Hanwha
 category: "Gaming"
 type: "tin-tuc"
 datePublished: "2026-07-09T22:00:00+07:00"
-dateModified: "2026-07-09T22:00:00+07:00"
+dateModified: "2026-08-09T11:30:00+07:00"
 deck: "Bilibili Gaming (BLG) đã đánh bại Hanwha Life Esports (HLE) với tỉ số 3-1 trong trận chung kết nhánh thắng MSI 2026, chính thức giành tấm vé đầu tiên vào chung kết tổng của giải đấu. Đại diện LPL áp đảo hoàn toàn HLE, đội hạt giống số một khu vực LCK, ở hai ván đầu tiên với cách biệt điểm hạ gục lên tới hàng chục mạng trước khi khép lại loạt trận đầy thuyết phục."
 heroImage: "https://i.ytimg.com/vi/o3r5Gmr93g0/maxresdefault.jpg"
 heroAlt: "BLG thắng HLE 3-1 vào chung kết tổng MSI 2026"
@@ -33,11 +33,11 @@ faq:
   - q: "Vì sao kết quả này được xem là gây chấn động?"
     a: "HLE bước vào loạt trận với tư cách đội hạt giống số một của khu vực LCK, được đánh giá là một trong những ứng viên vô địch hàng đầu của MSI 2026. Việc để thua 1-3 trước đại diện LPL là BLG khiến nhiều người bất ngờ, đặc biệt sau khi HLE từng thể hiện phong độ ấn tượng ở các vòng đấu trước đó."
   - q: "BLG sẽ gặp ai ở chung kết tổng MSI 2026?"
-    a: "Sau khi giành vé đầu tiên vào chung kết tổng, BLG sẽ chờ đối thủ còn lại được xác định từ nhánh thua, nơi HLE cùng các đội tuyển khác sẽ tiếp tục thi đấu để giành tấm vé chung kết tổng thứ hai."
+    a: "BLG gặp lại chính HLE. Sau thất bại 1-3 này, HLE đi hết nhánh thua để giành tấm vé chung kết tổng thứ hai và tái đấu BLG. Kết quả chung cuộc, HLE lật ngược thế cờ và thắng BLG 3-2 để vô địch MSI 2026, với Zeus được bầu chọn là MVP trận chung kết."
   - q: "Đây có phải danh hiệu lớn đầu tiên của BLG trong năm 2026 không?"
     a: "Không. BLG bước vào MSI 2026 với tư cách đương kim vô địch giải First Stand, cho thấy đội đang có một mùa giải đầy ấn tượng và tiếp tục khẳng định vị thế là một trong những đội tuyển mạnh nhất khu vực LPL lẫn thế giới trong năm 2026."
 related:
-  - { href: "/articles/msi-2026-chung-ket-tong-blg-hle-doi-dau-vuong-mien.html", cat: "Gaming", title: "MSI 2026 chung kết tổng: BLG đối đầu HLE tranh vương miện tối nay 12/7" }
+  - { href: "/articles/msi-2026-chung-ket-tong-blg-hle-doi-dau-vuong-mien.html", cat: "Gaming", title: "MSI 2026 chung kết tổng BLG vs HLE: HLE vô địch 3-2" }
   - { href: "/articles/ewc-2026-lmht-chung-ket-karmine-corp-dplus-kia.html", cat: "Gaming", title: "EWC 2026 LMHT: chung kết Karmine Corp gặp Dplus KIA" }
 featured: false
 ---
@@ -86,6 +86,8 @@ Kết quả này đẩy HLE xuống nhánh thua, buộc đội phải tiếp t�
   <img decoding="async" src="https://i.ytimg.com/vi/TdmxTJWbRvQ/hqdefault.jpg" alt="Highlight toàn bộ các ván đấu giữa BLG và HLE tại vòng phân nhánh MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>BLG tiếp tục chứng minh phong độ ổn định xuyên suốt cả mùa giải MSI 2026. Nguồn: YouTube</figcaption>
 </figure>
+
+HLE sau đó đã đi hết nhánh thua và gặp lại chính BLG ở trận đấu cuối cùng. Toàn bộ bối cảnh, thể thức và lịch thi đấu của màn tái đấu đó nằm trong bài [chung kết tổng MSI 2026 giữa BLG và HLE](/articles/msi-2026-chung-ket-tong-blg-hle-doi-dau-vuong-mien.html), và kết quả là HLE lật ngược thế cờ để [thắng BLG 3-2 và lên ngôi vô địch MSI 2026](/articles/hle-vo-dich-msi-2026-thang-blg-3-2.html), với Zeus nhận danh hiệu MVP chung kết.
 
 Trước loạt trận này, cộng đồng người hâm mộ đã đặc biệt chú ý tới màn đối đầu được ví như cuộc chiến giữa hai ngôi sao đường trên hàng đầu thế giới, khi [Bin của BLG từng công khai thách thức Zeus trước thềm trận đấu với HLE](/articles/bin-thach-dau-zeus-blg-hle-msi-2026-chung-ket-nhanh-thang.html). Với chiến thắng 3-1 thuyết phục này, BLG đã chứng minh được sức mạnh toàn diện của cả đội hình, không chỉ dừng lại ở màn trình diễn cá nhân xuất sắc của một vài tuyển thủ, tạo tiền đề tâm lý vững chắc trước khi bước vào trận chung kết tổng đầy cam go phía trước.
 
