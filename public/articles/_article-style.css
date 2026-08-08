@@ -747,3 +747,32 @@ body.dark .art-callout { background: rgba(192,57,43,0.08); }
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Hang theo doi kenh o cuoi bai. Truoc day trang chu co 11 link mang xa hoi
+   nhung bai viet khong co link nao, trong khi gan nhu toan bo nguoi doc den
+   tu tim kiem va roi thang vao bai chu khong qua trang chu. */
+.author-follow {
+  margin-top: 0.55rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.7rem;
+}
+.author-follow .af-label {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+.author-follow a {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color .2s, border-color .2s;
+}
+.author-follow a:hover { color: var(--accent); border-bottom-color: var(--accent); }
