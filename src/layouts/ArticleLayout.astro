@@ -431,20 +431,38 @@ const breadcrumbLd = {
             s.async = true;
             slot.appendChild(s);
           }
-          if (!('IntersectionObserver' in window)) return load();
-          var io = new IntersectionObserver(
-            function (es) {
-              for (var i = 0; i < es.length; i++) {
-                if (es[i].isIntersecting) {
-                  io.disconnect();
-                  load();
-                  return;
+          // Hai duong kich hoat doc lap. IntersectionObserver la duong chinh,
+          // nhung co moi truong khong giao callback (tab nen bi treo render,
+          // webview trong app), luc do binh luan se khong bao gio hien. Nen
+          // kem mot listener scroll thuan tuy hinh hoc lam duong du phong.
+          var io = null;
+          function stop() {
+            if (io) io.disconnect();
+            window.removeEventListener('scroll', onScroll);
+          }
+          function onScroll() {
+            if (slot.getBoundingClientRect().top - window.innerHeight < 800) {
+              stop();
+              load();
+            }
+          }
+          window.addEventListener('scroll', onScroll, { passive: true });
+          onScroll();
+          if ('IntersectionObserver' in window) {
+            io = new IntersectionObserver(
+              function (es) {
+                for (var i = 0; i < es.length; i++) {
+                  if (es[i].isIntersecting) {
+                    stop();
+                    load();
+                    return;
+                  }
                 }
-              }
-            },
-            { rootMargin: '800px' }
-          );
-          io.observe(slot);
+              },
+              { rootMargin: '800px' }
+            );
+            io.observe(slot);
+          }
         })();
       </script>
     </div>
