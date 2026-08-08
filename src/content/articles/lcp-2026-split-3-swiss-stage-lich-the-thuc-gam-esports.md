@@ -1,17 +1,17 @@
 ---
 slug: "lcp-2026-split-3-swiss-stage-lich-the-thuc-gam-esports"
 title: "LCP 2026 Split 3: thể thức Thụy Sĩ và cửa GAM Esports"
-description: "LCP 2026 Split 3 diễn ra 24/7 tới 30/8, 8 đội, lần đầu dùng thể thức Thụy Sĩ, tranh suất dự Chung kết thế giới 2026 cho khu vực."
+description: "LCP 2026 Split 3 diễn ra 25/7 tới 30/8, 8 đội, lần đầu dùng thể thức Thụy Sĩ, tranh suất dự Chung kết thế giới 2026 cho khu vực."
 keywords: "LCP 2026 Split 3, LCP Split 3, GAM Esports, thể thức Thụy Sĩ LMHT, lịch LCP 2026, Team Secret Whales, suất Worlds 2026"
 category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-08-06T15:30:00+07:00"
-dateModified: "2026-08-06T15:30:00+07:00"
-deck: "LCP 2026 Split 3, giai đoạn cuối của khu vực có các đội Việt Nam thi đấu, đang diễn ra từ 24/7 tới 30/8/2026 với 8 đội mạnh của châu Á Thái Bình Dương. Điểm mới là split này lần đầu áp dụng thể thức Thụy Sĩ, đội đủ 3 trận thắng vào playoffs còn đủ 3 trận thua bị loại, tổng giải thưởng 80.000 USD. Kết quả playoffs sẽ định đoạt các suất dự Chung kết thế giới 2026. Với người hâm mộ Việt Nam, tâm điểm là hành trình của GAM Esports cùng các đội trong khu vực. Bài viết tổng hợp lịch, thể thức, danh sách đội và cục diện qua lăng kính các nguồn quốc tế."
+dateModified: "2026-08-08T09:00:00+07:00"
+deck: "LCP 2026 Split 3, giai đoạn cuối của khu vực có các đội Việt Nam thi đấu, đang diễn ra từ 25/7 tới 30/8/2026 với 8 đội mạnh của châu Á Thái Bình Dương. Điểm mới là split này lần đầu áp dụng thể thức Thụy Sĩ, đội đủ 3 trận thắng vào playoffs còn đủ 3 trận thua bị loại, tổng giải thưởng 80.000 USD. Kết quả playoffs sẽ định đoạt các suất dự Chung kết thế giới 2026. Với người hâm mộ Việt Nam, tâm điểm là hành trình của GAM Esports cùng các đội trong khu vực. Bài viết tổng hợp lịch, thể thức, danh sách đội và cục diện qua lăng kính các nguồn quốc tế."
 heroImage: "https://i.ytimg.com/vi/mFR9Apo1dEM/hqdefault.jpg"
 heroAlt: "LCP 2026 Split 3 the thuc Thuy Si GAM Esports tranh suat Worlds 2026"
 heroCaption: "LCP 2026 Split 3 quyết định các suất dự Chung kết thế giới 2026 cho khu vực có Việt Nam. Nguồn: YouTube"
-tldr: "<strong>LCP 2026 Split 3</strong> diễn ra từ <strong>24/7 tới 30/8/2026</strong>, quy tụ <strong>8 đội</strong> của khu vực châu Á Thái Bình Dương, nơi các đội Việt Nam thi đấu. Đây là lần đầu split áp dụng <strong>thể thức Thụy Sĩ</strong> ở vòng bảng, đội đạt đủ <strong>3 trận thắng</strong> giành vé vào playoffs còn đội đủ <strong>3 trận thua</strong> bị loại. Tổng giải thưởng khoảng <strong>80.000 USD</strong>. Playoffs dùng thể thức nhánh thắng thua (double elimination), đấu Bo5, và kết quả sẽ quyết định các suất dự <strong>Chung kết thế giới 2026</strong>. Tâm điểm với khán giả Việt là hành trình của <strong>GAM Esports</strong> và các đội trong khu vực."
+tldr: "<strong>LCP 2026 Split 3</strong> diễn ra từ <strong>25/7 tới 30/8/2026</strong>, quy tụ <strong>8 đội</strong> của khu vực châu Á Thái Bình Dương, nơi các đội Việt Nam thi đấu. Đây là lần đầu split áp dụng <strong>thể thức Thụy Sĩ</strong> ở vòng bảng, đội đạt đủ <strong>3 trận thắng</strong> giành vé vào playoffs còn đội đủ <strong>3 trận thua</strong> bị loại. Tổng giải thưởng khoảng <strong>80.000 USD</strong>. Playoffs dùng thể thức nhánh thắng thua (double elimination), đấu Bo5, và kết quả sẽ quyết định các suất dự <strong>Chung kết thế giới 2026</strong>. Tâm điểm với khán giả Việt là hành trình của <strong>GAM Esports</strong> và các đội trong khu vực."
 tags: ["Esports", "LMHT", "LCP", "GAM Esports", "Worlds2026"]
 about: ["LCP 2026 Split 3", "GAM Esports", "Team Secret Whales", "Riot Games", "Chung kết thế giới 2026"]
 authorBio: "Founder LongTechVision. Theo dõi Liên Minh Huyền Thoại và các giải đấu esports khu vực, cập nhật lịch và thể thức chuẩn từ nguồn chính thức."
@@ -19,7 +19,7 @@ sourceUrl: "https://esports.op.gg/leagues/LCP/2026/Split%203"
 sourceName: "LCP 2026 Split 3 - OP.GG Esports"
 sourceDomains: "esports.op.gg · liquipedia.net · fptshop.com.vn"
 stats:
-  - { num: "24/7 - 30/8", label: "Thời gian diễn ra LCP 2026 Split 3" }
+  - { num: "25/7 - 30/8", label: "Thời gian diễn ra LCP 2026 Split 3" }
   - { num: "8 đội", label: "Số đội tham dự, khu vực châu Á Thái Bình Dương" }
   - { num: "Thụy Sĩ", label: "Thể thức vòng bảng lần đầu áp dụng ở split này" }
   - { num: "3 thắng / 3 thua", label: "Đủ 3 thắng vào playoffs, đủ 3 thua bị loại" }
@@ -27,7 +27,7 @@ stats:
   - { num: "Worlds 2026", label: "Playoffs quyết định suất dự Chung kết thế giới" }
 faq:
   - q: "LCP 2026 Split 3 diễn ra khi nào?"
-    a: "LCP 2026 Split 3 diễn ra từ ngày 24/7 tới 30/8/2026. Đây là giai đoạn cuối trong năm của khu vực LCP, nơi các đội Việt Nam thi đấu cùng các đội mạnh khác của châu Á Thái Bình Dương. Vòng bảng dùng thể thức Thụy Sĩ, sau đó tới playoffs. Lịch thi đấu chi tiết từng ngày do ban tổ chức công bố và có thể được cập nhật, nên người xem nên theo dõi kênh chính thức."
+    a: "LCP 2026 Split 3 diễn ra từ ngày 25/7 tới 30/8/2026. Đây là giai đoạn cuối trong năm của khu vực LCP, nơi các đội Việt Nam thi đấu cùng các đội mạnh khác của châu Á Thái Bình Dương. Vòng bảng dùng thể thức Thụy Sĩ, sau đó tới playoffs. Lịch thi đấu chi tiết từng ngày do ban tổ chức công bố và có thể được cập nhật, nên người xem nên theo dõi kênh chính thức."
   - q: "Thể thức Thụy Sĩ ở LCP Split 3 hoạt động ra sao?"
     a: "Thể thức Thụy Sĩ ghép các đội có cùng thành tích thắng thua đấu với nhau qua từng vòng. Đội đạt đủ 3 trận thắng sẽ giành vé vào playoffs, còn đội đủ 3 trận thua bị loại khỏi giải. Cách này giúp các trận đấu luôn có ý nghĩa và cân sức, đồng thời tạo nhiều kịch tính khi càng về cuối, mỗi trận càng mang tính sinh tử với các đội đang ở ngưỡng đi tiếp hay bị loại."
   - q: "Có những đội nào tham dự LCP 2026 Split 3?"
@@ -45,12 +45,12 @@ related:
 featured: true
 ---
 
-Chặng cuối cùng của mùa giải Liên Minh Huyền Thoại khu vực có Việt Nam đang bước vào giai đoạn nóng nhất. LCP 2026 Split 3 diễn ra từ 24/7 tới 30/8/2026, quy tụ 8 đội mạnh của châu Á Thái Bình Dương và lần đầu áp dụng thể thức Thụy Sĩ ở vòng bảng. Với tổng giải thưởng 80.000 USD và quan trọng hơn là các suất dự Chung kết thế giới 2026, mỗi trận đấu ở đây đều mang sức nặng lớn. Tâm điểm với khán giả Việt là hành trình của GAM Esports cùng các đội trong khu vực. Bài viết tổng hợp lịch, thể thức, danh sách đội và cục diện qua lăng kính các nguồn quốc tế.
+Chặng cuối cùng của mùa giải Liên Minh Huyền Thoại khu vực có Việt Nam đang bước vào giai đoạn nóng nhất. LCP 2026 Split 3 diễn ra từ 25/7 tới 30/8/2026, quy tụ 8 đội mạnh của châu Á Thái Bình Dương và lần đầu áp dụng thể thức Thụy Sĩ ở vòng bảng. Với tổng giải thưởng 80.000 USD và quan trọng hơn là các suất dự Chung kết thế giới 2026, mỗi trận đấu ở đây đều mang sức nặng lớn. Tâm điểm với khán giả Việt là hành trình của GAM Esports cùng các đội trong khu vực. Bài viết tổng hợp lịch, thể thức, danh sách đội và cục diện qua lăng kính các nguồn quốc tế.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 LCP 2026 Split 3 (thông tin nhanh)</div>
   <table>
-    <tr><td>Thời gian</td><td>24/7 tới 30/8/2026</td></tr>
+    <tr><td>Thời gian</td><td>25/7 tới 30/8/2026</td></tr>
     <tr><td>Số đội</td><td>8 đội khu vực châu Á Thái Bình Dương</td></tr>
     <tr><td>Thể thức vòng bảng</td><td>Thụy Sĩ, đủ 3 thắng vào playoffs, đủ 3 thua bị loại</td></tr>
     <tr><td>Thể thức playoffs</td><td>Nhánh thắng thua (double elimination), đấu Bo5</td></tr>

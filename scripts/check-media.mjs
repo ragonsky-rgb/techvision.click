@@ -27,8 +27,19 @@ for (const file of files) {
   for (const m of t.matchAll(/<img[^>]+src=["']([^"']+)["']/g)) if (/^https?:/.test(m[1]) && !m[1].includes('i.ytimg.com')) add(imgUrls, m[1], file);
   for (const m of t.matchAll(/heroImage:\s*["']?(https?:\/\/[^"'\s]+)/g)) if (!m[1].includes('i.ytimg.com')) add(imgUrls, m[1], file);
 }
-const status = async (u) => { try { const r = await fetch(u, { headers: UA }); return r.status; } catch { return 'ERR'; } };
-const ytOk = async (id) => { try { return (await fetch(`https://www.youtube.com/oembed?url=https://youtu.be/${id}&format=json`, { headers: UA })).status; } catch { return 'ERR'; } };
+// 12 luong song song ban vao i.ytimg.com hay bi tu choi tam thoi: script tung
+// bao "hong" 3 lan cho anh ma curl lai tra 200 ngay sau do. Nen thu lai truoc
+// khi ket luan, canh bao gia con dat hon mot vai giay cho.
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const retry = async (fn, tries = 3) => {
+  for (let i = 0; ; i++) {
+    const s = await fn();
+    if (s === 200 || i === tries - 1) return s;
+    await sleep(800 * (i + 1));
+  }
+};
+const status = (u) => retry(async () => { try { const r = await fetch(u, { headers: UA }); return r.status; } catch { return 'ERR'; } });
+const ytOk = (id) => retry(async () => { try { return (await fetch(`https://www.youtube.com/oembed?url=https://youtu.be/${id}&format=json`, { headers: UA })).status; } catch { return 'ERR'; } });
 const pool = async (arr, fn, n = 12) => { const out = []; let i = 0; await Promise.all(Array.from({ length: n }, async () => { while (i < arr.length) { const k = i++; out[k] = await fn(arr[k]); } })); return out; };
 
 const iu = [...imgUrls.keys()], is = await pool(iu, status);
