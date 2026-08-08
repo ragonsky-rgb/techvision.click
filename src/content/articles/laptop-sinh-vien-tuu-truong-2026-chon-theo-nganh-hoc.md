@@ -82,7 +82,7 @@ Dell Inspiron 15 3530 khoảng 15,99 triệu đồng là lựa chọn thực d�
 
 Đây là nhóm duy nhất mà card đồ họa rời thực sự cần thiết ngay từ năm nhất. Các phần mềm như AutoCAD, SolidWorks, Revit hay ETABS đều dựa vào GPU để dựng hình và tính toán mô phỏng. Máy dùng đồ họa tích hợp vẫn mở được file, nhưng sẽ giật khi xoay mô hình phức tạp và mất rất nhiều thời gian khi render.
 
-Acer Nitro V 15 khoảng 14,99 triệu đồng là mức khởi điểm hợp lý, cho card rời với chi phí thấp nhất trong nhóm. Đổi lại, bạn phải chấp nhận máy nặng quanh 2,1kg, quạt chạy ồn khi tải nặng và pin chỉ đủ vài tiếng. Đây là đánh đổi không tránh khỏi ở tầm giá này. Nếu có thể nâng ngân sách lên khoảng 20 triệu, các mẫu laptop workstation phổ thông sẽ cho trải nghiệm mát và yên tĩnh hơn nhiều khi chạy phần mềm chuyên ngành liên tục.
+Nếu ngân sách rộng hơn và bạn muốn máy dùng được cả bốn năm học lẫn chơi game, nhóm card đời mới đáng cân nhắc: [ASUS ROG với RTX 5070 và 5060 đã mở đặt trước tại Việt Nam](/articles/asus-rog-rtx-5070-5060-laptop-gaming-mo-dat-truoc-viet-nam-2026.html), mạnh hơn hẳn cho dựng hình và mô phỏng. Còn nếu chỉ cần đủ dùng, Acer Nitro V 15 khoảng 14,99 triệu đồng là mức khởi điểm hợp lý, cho card rời với chi phí thấp nhất trong nhóm. Đổi lại, bạn phải chấp nhận máy nặng quanh 2,1kg, quạt chạy ồn khi tải nặng và pin chỉ đủ vài tiếng. Đây là đánh đổi không tránh khỏi ở tầm giá này. Nếu có thể nâng ngân sách lên khoảng 20 triệu, các mẫu laptop workstation phổ thông sẽ cho trải nghiệm mát và yên tĩnh hơn nhiều khi chạy phần mềm chuyên ngành liên tục.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/BI_qjfi2C9s/maxresdefault.jpg" alt="Chon RAM va o cung SSD phu hop cho laptop sinh vien" loading="lazy" width="1280" height="720">

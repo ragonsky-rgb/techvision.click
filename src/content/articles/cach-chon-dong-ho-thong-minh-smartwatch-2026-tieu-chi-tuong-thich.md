@@ -91,6 +91,12 @@ Về thiết kế, hãy chọn kích thước mặt đồng hồ phù hợp vớ
   <figcaption>Pin và thiết kế cần cân nhắc theo thói quen sử dụng. Nguồn: YouTube</figcaption>
 </figure>
 
+## Nhóm đồng hồ bền dùng ngoài trời
+
+Nếu bạn leo núi, chạy trail hay làm việc ngoài công trường, tiêu chí đổi hoàn toàn: pin phải tính bằng tuần chứ không phải ngày, và vỏ phải chịu được va đập thay vì chỉ đẹp. Đây là sân chơi lâu nay của Garmin, nhưng năm nay có thêm đối thủ đáng cân nhắc là [Amazfit T-Rex Ultra 2 với vỏ titanium, nhắm thẳng vào phân khúc Garmin Fenix](/articles/amazfit-t-rex-ultra-2-smartwatch-titanium-doi-thu-garmin-2026.html) ở mức giá dễ chịu hơn đáng kể.
+
+Đổi lại, nhóm đồng hồ bền thường dày và nặng hơn, đeo ngủ không thoải mái bằng, và hệ sinh thái ứng dụng hẹp hơn Apple Watch hay Galaxy Watch. Nếu phần lớn thời gian bạn ở văn phòng thì không cần trả thêm cho độ bền không dùng tới.
+
 ## Chọn theo nhu cầu và ngân sách
 
 Cách chọn hiệu quả nhất là xuất phát từ nhu cầu chính của bạn. Nếu chủ yếu muốn xem thông báo, đếm bước và theo dõi sức khỏe cơ bản, một chiếc smartband hoặc đồng hồ tầm trung là đủ và tiết kiệm. Nếu cần đo sức khỏe nâng cao, nhiều chế độ thể thao và hệ sinh thái hoàn chỉnh, các dòng cao cấp như Apple Watch hay Galaxy Watch sẽ phù hợp hơn. Người mê chạy bộ đường dài có thể cân nhắc đồng hồ thể thao chuyên dụng với pin lâu và GPS chính xác.
