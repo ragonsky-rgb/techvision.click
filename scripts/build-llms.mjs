@@ -60,7 +60,16 @@ for (const a of articles) {
 const ordered = [...groups.entries()].sort((x, y) => y[1].length - x[1].length);
 
 const line = (a) => `- [${a.title}](${BASE}/articles/${a.slug}.html)`;
-const today = process.env.LLMS_DATE || new Date().toISOString().slice(0, 10);
+// May build cua Vercel chay gio UTC, neu dung toISOString thi ngay bi lui mot
+// hom so voi Viet Nam trong khoang 0h-7h. Ep ve mui gio Asia/Ho_Chi_Minh.
+const today =
+  process.env.LLMS_DATE ||
+  new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Ho_Chi_Minh',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).format(new Date());
 
 const out = `# LongTechVision - techvision.click
 

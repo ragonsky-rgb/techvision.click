@@ -11,7 +11,7 @@
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
 - **Số bài viết:** 242
-- **Cập nhật:** 2026-08-08 (sinh tự động bởi scripts/build-llms.mjs)
+- **Cập nhật:** 2026-08-09 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
