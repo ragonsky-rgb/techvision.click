@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-17T01:00:00+07:00"
 dateModified: "2026-07-17T01:00:00+07:00"
 deck: "Trong lúc robot hình người trở thành tâm điểm tại WAIC 2026, SenseTime mang tới một ví dụ rất thực tế về cách công nghệ này bước vào đời sống. Công ty AI hàng đầu Trung Quốc, thông qua công ty con SenseTime Shanhui, đã ra mắt SenseMartGo, một mô hình cửa hàng tiện lợi được vận hành hoàn toàn bằng robot hình người. Những cửa hàng đầu tiên đã xuất hiện tại Thượng Hải, nơi robot tự động tiếp nhận đơn hàng, pha cà phê, lấy kem, chào khách và thậm chí tự bổ sung hàng, dọn dẹp. Với năng lực xử lý tới 400 đơn mỗi ngày và tham vọng mở rộng lên 100 điểm bán vào cuối năm 2026, SenseMartGo cho thấy trí tuệ hiện thân không còn là khái niệm trong phòng thí nghiệm, mà đang trở thành một lực lượng lao động mới trong ngành bán lẻ."
-heroImage: "https://i.ytimg.com/vi/tyuiqmpAvFE/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/tyuiqmpAvFE/maxresdefault.jpg"
 heroAlt: "SenseTime ra mắt cửa hàng tiện lợi robot tự động SenseMartGo dạng viên nang tại Thượng Hải"
 heroCaption: "Cửa hàng robot dạng viên nang của SenseTime xuất hiện tại khu ven sông Baoshan, Thượng Hải. Nguồn: YouTube"
 tldr: "SenseTime, thông qua công ty con SenseTime Shanhui, đã ra mắt <strong>SenseMartGo</strong>, mô hình cửa hàng tiện lợi vận hành bằng robot hình người tại Thượng Hải. Robot tự động tiếp nhận đơn, <strong>pha cà phê, lấy kem</strong>, chào khách, đồng thời tự bổ sung hàng, dọn dẹp và ra quyết định về chọn hàng, định giá. Mỗi cửa hàng có thể xử lý tới <strong>400 đơn mỗi ngày</strong>. Hệ thống dựa trên công nghệ thị giác máy tính, kho dữ liệu bán lẻ khổng lồ và mô hình đa phương thức của SenseTime, với hơn 300.000 mẫu sản phẩm 2D và 100.000 mẫu 3D. Công ty đặt mục tiêu mở rộng lên <strong>100 điểm bán</strong> vào cuối năm 2026, và giới thiệu các ứng dụng AI tại WAIC 2026."
@@ -77,7 +77,7 @@ Trong cửa hàng, robot có thể tự động tiếp nhận đơn hàng, pha c
 Điều làm nên sức mạnh của SenseMartGo không chỉ là phần cứng robot, mà còn là bộ não dữ liệu khổng lồ đằng sau. Hệ thống được xây dựng trên nền tảng công nghệ thị giác máy tính, kho dữ liệu bán lẻ và các mô hình đa phương thức của SenseTime, vốn là thế mạnh cốt lõi của công ty này trong nhiều năm qua.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2NhodG2lUGo/hqdefault.jpg" alt="Robot hình người vận hành cửa hàng bán lẻ tại Trung Quốc với sự hỗ trợ của dữ liệu lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2NhodG2lUGo/maxresdefault.jpg" alt="Robot hình người vận hành cửa hàng bán lẻ tại Trung Quốc với sự hỗ trợ của dữ liệu lớn" loading="lazy" width="1280" height="720">
   <figcaption>Xu hướng cửa hàng vận hành bằng robot đang lan rộng tại nhiều thành phố Trung Quốc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Những con số cho thấy quy mô dữ liệu ấn tượng. SenseTime đã t�
 ## Trí tuệ hiện thân bước vào đời sống
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zFtLm_XqZD0/hqdefault.jpg" alt="Robot hình người từ nhiều thương hiệu Trung Quốc được triển khai trong môi trường bán lẻ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zFtLm_XqZD0/maxresdefault.jpg" alt="Robot hình người từ nhiều thương hiệu Trung Quốc được triển khai trong môi trường bán lẻ" loading="lazy" width="1280" height="720">
   <figcaption>Trí tuệ hiện thân đang trở thành lực lượng lao động mới trong ngành dịch vụ. Nguồn: YouTube</figcaption>
 </figure>
 
 Với tham vọng mở rộng lên 100 cửa hàng vào cuối năm 2026, SenseTime cho thấy SenseMartGo không phải một dự án trình diễn ngắn hạn, mà là nỗ lực thương mại hóa nghiêm túc. Nếu kế hoạch này thành hiện thực, đây sẽ là một trong những triển khai robot bán lẻ quy mô lớn nhất thế giới, đặt ra tiền lệ cho việc ứng dụng trí tuệ hiện thân vào thương mại thực tế. Đây cũng là mảnh ghép trong bức tranh AI toàn diện tại WAIC 2026, bên cạnh những nền tảng hạ tầng như [siêu nút tính toán Atlas 950 của Huawei](/articles/huawei-atlas-950-superpod-sieu-nut-ai-manh-nhat-waic-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xx35sKr3dCs/hqdefault.jpg" alt="Cửa hàng robot tiêu dùng mở ra xu hướng tự động hóa bán lẻ tại Trung Quốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xx35sKr3dCs/maxresdefault.jpg" alt="Cửa hàng robot tiêu dùng mở ra xu hướng tự động hóa bán lẻ tại Trung Quốc" loading="lazy" width="1280" height="720">
   <figcaption>Sự xuất hiện của các cửa hàng robot mở ra nhiều câu hỏi về tương lai lao động. Nguồn: YouTube</figcaption>
 </figure>
 

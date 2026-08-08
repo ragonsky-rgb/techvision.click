@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-14T11:40:00+07:00"
 dateModified: "2026-07-14T11:40:00+07:00"
 deck: "Wuling Darion, mẫu MPV thuần điện 7 chỗ, đang chuẩn bị ra mắt thị trường Việt Nam với giá dự kiến từ 730 tới 799 triệu đồng cho hai phiên bản, tương ứng tầm vận hành 450 và 500km mỗi lần sạc. Xe gây chú ý nhờ thiết kế cửa lùa như Kia Carnival, kích thước lớn hơn Toyota Innova Cross và khả năng sạc nhanh. Với mức giá này, Darion nhắm thẳng tới BYD M6 trong phân khúc MPV điện còn non trẻ nhưng đang nóng lên tại Việt Nam, mang tới lựa chọn xe gia đình chạy điện cỡ lớn với chi phí hợp lý."
-heroImage: "https://i.ytimg.com/vi/xV_k0bxNG2U/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/xV_k0bxNG2U/maxresdefault.jpg"
 heroAlt: "Wuling Darion MPV điện 7 chỗ sắp ra mắt Việt Nam giá từ 730 triệu đồng"
 heroCaption: "Wuling Darion là mẫu MPV thuần điện 7 chỗ với thiết kế cửa lùa như Carnival. Nguồn: YouTube"
 tldr: "<strong>Wuling Darion</strong> là mẫu MPV thuần điện 7 chỗ sắp ra mắt Việt Nam, giá dự kiến từ <strong>730 tới 799 triệu đồng</strong> cho hai phiên bản, tương ứng tầm vận hành <strong>450 và 500km</strong> mỗi lần sạc. Xe có thiết kế <strong>cửa lùa</strong> như Kia Carnival, kích thước 4.910 x 1.850 x 1.770mm với trục cơ sở 2.910mm, lớn hơn Toyota Innova Cross. Khoang xe bố trí 7 chỗ dạng 2-2-3, hỗ trợ sạc nhanh. Đối thủ trực tiếp là <strong>BYD M6</strong> trong phân khúc MPV điện. Đây là một trong những lựa chọn xe gia đình chạy điện cỡ lớn có giá dễ tiếp cận nhất thị trường ở thời điểm ra mắt."
@@ -75,7 +75,7 @@ Với các gia đình nhiều thế hệ hoặc người thường xuyên chở 
 Là một mẫu xe thuần điện, yếu tố then chốt với Darion là quãng đường đi được và tốc độ sạc. Xe có hai phiên bản với tầm vận hành lần lượt 450km và 500km mỗi lần sạc đầy, con số đủ để yên tâm di chuyển trong đô thị cả tuần hoặc thực hiện các chuyến đi liên tỉnh mà không quá lo lắng về trạm sạc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/wH6AnT3mOnQ/hqdefault.jpg" alt="Nội thất và khoang cabin rộng rãi của Wuling Darion" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wH6AnT3mOnQ/maxresdefault.jpg" alt="Nội thất và khoang cabin rộng rãi của Wuling Darion" loading="lazy" width="1280" height="720">
   <figcaption>Darion bố trí 7 chỗ dạng 2-2-3, hàng ghế thứ hai chỉnh cơ 4 hướng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Bên cạnh tầm vận hành, khả năng sạc nhanh cũng là điểm cộng 
 Ở phân khúc MPV điện còn non trẻ tại Việt Nam, đối thủ trực tiếp của Wuling Darion là BYD M6. Cuộc đối đầu giữa hai thương hiệu Trung Quốc này phản ánh xu hướng lớn hơn: các hãng xe đang tích cực đưa những mẫu MPV điện giá hợp lý vào thị trường, đón đầu nhu cầu xe gia đình xanh ngày càng tăng. Với giá dự kiến từ 730 triệu, Darion có lợi thế nếu giữ được mức giá này khi bán ra chính thức.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/YyvXtbC5RZ4/hqdefault.jpg" alt="Wuling Darion phiên bản cao cấp với tầm vận hành lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YyvXtbC5RZ4/maxresdefault.jpg" alt="Wuling Darion phiên bản cao cấp với tầm vận hành lớn" loading="lazy" width="1280" height="720">
   <figcaption>Bản cao cấp của Darion có tầm vận hành lên tới 500km, cạnh tranh trực tiếp với BYD M6. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Sự xuất hiện của Darion nằm trong bức tranh điện hóa đang phủ
 ## Có nên chờ đợi Wuling Darion
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/n6wfwliW7UM/hqdefault.jpg" alt="Wuling Darion MPV điện phù hợp cho gia đình" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/n6wfwliW7UM/maxresdefault.jpg" alt="Wuling Darion MPV điện phù hợp cho gia đình" loading="lazy" width="1280" height="720">
   <figcaption>Với không gian lớn và giá dễ tiếp cận, Darion là lựa chọn đáng cân nhắc cho gia đình đông người. Nguồn: YouTube</figcaption>
 </figure>
 

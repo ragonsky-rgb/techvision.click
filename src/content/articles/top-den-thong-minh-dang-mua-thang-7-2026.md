@@ -71,7 +71,7 @@ Trước khi chọn mua, người dùng nên xác định rõ tiêu chí phù h�
 Ở phân khúc tầm trung, Yeelight là lựa chọn nổi bật nhờ sự đa dạng về chủng loại sản phẩm, từ đèn ngủ, đèn trần, đèn bàn tới đèn dây LED trang trí, giá dao động khoảng 350.000 đến 380.000 đồng mỗi sản phẩm tùy loại. Yeelight cung cấp nguồn sáng ổn định, an toàn, hỗ trợ điều khiển từ xa, hẹn giờ và lên lịch chi tiết qua ứng dụng riêng kết nối wifi, phù hợp người muốn trang bị đồng bộ nhiều loại đèn khác nhau trong nhà mà không cần pha trộn quá nhiều thương hiệu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/nIXWrkfb8YY/hqdefault.jpg" alt="Yeelight Aurora day LED thong minh danh gia 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/nIXWrkfb8YY/maxresdefault.jpg" alt="Yeelight Aurora day LED thong minh danh gia 2026" loading="lazy" width="1280" height="720">
   <figcaption>Yeelight cung cấp đa dạng sản phẩm, từ bóng đèn tới đèn dây LED trang trí. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,14 +80,14 @@ Trước khi chọn mua, người dùng nên xác định rõ tiêu chí phù h�
 Với người muốn đầu tư dài hạn cho một hệ thống chiếu sáng thông minh toàn diện, Philips Hue là lựa chọn đáng tin cậy nhất trong phân khúc cao cấp, giá khởi điểm từ 650.000 đồng mỗi bóng. Điểm mạnh lớn nhất của Philips Hue nằm ở độ tương thích rộng rãi với hầu hết các hệ sinh thái nhà thông minh lớn hiện nay như Google Home, Apple HomeKit và Amazon Alexa, đồng thời hỗ trợ chuẩn Matter mới, giúp việc mở rộng và tích hợp với các thiết bị thông minh khác trở nên dễ dàng hơn nhiều so với các thương hiệu phổ thông. Chất lượng ánh sáng và độ bền của Philips Hue cũng được đánh giá cao hơn đáng kể, phù hợp cho những ai xem chiếu sáng thông minh là khoản đầu tư lâu dài cho ngôi nhà.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_4rgqyXd0vU/hqdefault.jpg" alt="Danh gia den ngu thong minh Xiaomi Philips da sac mau 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_4rgqyXd0vU/maxresdefault.jpg" alt="Danh gia den ngu thong minh Xiaomi Philips da sac mau 2026" loading="lazy" width="1280" height="720">
   <figcaption>Đèn ngủ thông minh giá tốt vẫn tích hợp đầy đủ tính năng đa sắc màu, tùy chỉnh qua điện thoại. Nguồn: YouTube</figcaption>
 </figure>
 
 Với hệ thống Philips Hue quy mô lớn, người dùng thường cần đầu tư thêm bộ điều khiển trung tâm Hue Bridge để đạt hiệu suất kết nối tốt nhất khi lắp đặt số lượng lớn bóng đèn cùng lúc trong nhà, sử dụng giao thức Zigbee ổn định hơn thay vì kết nối wifi trực tiếp từng bóng riêng lẻ như các thương hiệu phổ thông. Khoản đầu tư ban đầu cho Hue Bridge tuy làm tăng tổng chi phí lắp đặt, nhưng đổi lại mang tới độ ổn định vượt trội, ít gặp tình trạng đèn mất kết nối ngẫu nhiên, một vấn đề khá phổ biến với các hệ thống đèn wifi giá rẻ khi số lượng thiết bị kết nối cùng lúc trong nhà tăng lên nhiều.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WB0QeSDfYa4/hqdefault.jpg" alt="So sanh Philips Hue Magic Blue Xiaomi Yeelight 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WB0QeSDfYa4/maxresdefault.jpg" alt="So sanh Philips Hue Magic Blue Xiaomi Yeelight 2026" loading="lazy" width="1280" height="720">
   <figcaption>Philips Hue vẫn giữ vị thế dẫn đầu về độ tương thích và chất lượng ánh sáng trong phân khúc cao cấp. Nguồn: YouTube</figcaption>
 </figure>
 

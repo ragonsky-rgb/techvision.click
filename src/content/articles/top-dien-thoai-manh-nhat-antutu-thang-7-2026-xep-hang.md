@@ -77,7 +77,7 @@ Sức mạnh của dòng RedMagic đến từ triết lý dồn toàn lực cho 
 Với người dùng phổ thông hơn, bản iQOO 15 tiêu chuẩn cũng nằm trong nhóm đầu bảng và dễ tiếp cận tại Việt Nam. Bạn có thể xem chi tiết cấu hình và giá bán trong bài [iQOO 15 với Snapdragon 8 Elite Gen 5 và pin 7.000mAh](/articles/iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026.html). Đây là lựa chọn cân bằng giữa hiệu năng cao và mức giá dễ chịu hơn so với các bản Ultra hay máy chơi game chuyên dụng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ExZSu6HtY0E/hqdefault.jpg" alt="iQOO 15 hieu nang Snapdragon 8 Elite Gen 5 top AnTuTu 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ExZSu6HtY0E/maxresdefault.jpg" alt="iQOO 15 hieu nang Snapdragon 8 Elite Gen 5 top AnTuTu 2026" loading="lazy" width="1280" height="720">
   <figcaption>Dòng iQOO 15 góp mặt nhiều phiên bản trong nhóm đầu bảng AnTuTu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Vị trí thứ ba thuộc về Vivo X300 Ultra với 4.103.004 điểm, đại 
 Các vị trí từ thứ tư tới thứ mười lần lượt gồm iQOO 15, RedMagic 11 Pro+, Realme GT8 Pro, Oppo Find X9 Ultra bản kết nối vệ tinh, Honor WIN, iQOO 15T và Honor Magic 8 Pro. Danh sách này cho thấy sự đa dạng của thị trường, từ máy chơi game chuyên dụng, flagship camera cho tới máy hiệu năng giá tốt. Trong đó Realme GT8 Pro và Honor Magic 8 Pro là những cái tên cân bằng, dễ mua và có bản chính hãng, phù hợp với người dùng Việt muốn một chiếc máy mạnh nhưng vẫn tối ưu cho nhu cầu hằng ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/5wLBFqkgMy0/hqdefault.jpg" alt="Honor Magic 8 Pro flagship can bang top AnTuTu 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5wLBFqkgMy0/maxresdefault.jpg" alt="Honor Magic 8 Pro flagship can bang top AnTuTu 2026" loading="lazy" width="1280" height="720">
   <figcaption>Honor Magic 8 Pro đại diện cho nhóm flagship cân bằng trong bảng xếp hạng. Nguồn: YouTube</figcaption>
 </figure>
 

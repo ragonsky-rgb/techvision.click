@@ -78,7 +78,7 @@ Với dàn linh kiện này, ProArt P16 nhắm tới nhóm người dùng chuyê
 Cùng dùng chip Ryzen AI Max+ 395, PX13 chia sẻ nền tảng với một số thiết bị hiệu năng cao khác của ASUS, trong đó có mẫu máy tính bảng lai gaming từng được nhắc tới ở bài về [ASUS ROG Flow Z13 dùng chip Ryzen AI Max+ 395](/articles/asus-rog-flow-z13-ryzen-ai-max-395-may-tinh-bang-gaming-2026.html). Điều này cho thấy AMD đang đẩy dòng chip Max+ vào nhiều dạng thiết bị khác nhau, từ máy tính bảng gaming cho tới laptop sáng tạo mỏng nhẹ, nhờ khả năng cân bằng giữa hiệu năng đồ họa tích hợp và mức tiêu thụ điện.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/YFFpuQp3ptg/hqdefault.jpg" alt="ASUS ProArt P16 2026 được đánh giá là cỗ máy làm việc mạnh nhưng giá cao" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YFFpuQp3ptg/maxresdefault.jpg" alt="ASUS ProArt P16 2026 được đánh giá là cỗ máy làm việc mạnh nhưng giá cao" loading="lazy" width="1280" height="720">
   <figcaption>ProArt P16 được nhận xét là cỗ máy năng suất mạnh mẽ, phù hợp người làm chuyên nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Cùng dùng chip Ryzen AI Max+ 395, PX13 chia sẻ nền tảng với một số
 Sự đầu tư vào màn hình chuẩn màu là điểm phân biệt rõ dòng ProArt với các laptop AI phổ thông. Trong khi nhiều máy tập trung quảng bá năng lực NPU và thời lượng pin, ASUS định vị ProArt quanh nhu cầu công việc sáng tạo, nơi độ chính xác màu và chất lượng tấm nền được đặt lên hàng đầu. Người dùng muốn tìm hiểu bức tranh rộng hơn về dòng máy này có thể tham khảo bài [hướng dẫn chọn laptop AI Copilot+ PC 2026](/articles/laptop-ai-copilot-plus-pc-2026-nen-mua-nao-huong-dan.html) để so sánh giữa nhu cầu chuyên nghiệp và phổ thông.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IA1noMAJVqM/hqdefault.jpg" alt="ASUS ProArt PX13 2026 với chip Ryzen AI 9 và màn OLED 3K trong thân máy nhỏ gọn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IA1noMAJVqM/maxresdefault.jpg" alt="ASUS ProArt PX13 2026 với chip Ryzen AI 9 và màn OLED 3K trong thân máy nhỏ gọn" loading="lazy" width="1280" height="720">
   <figcaption>ProArt PX13 gây ấn tượng khi gói cấu hình mạnh trong thân máy 13 inch mỏng nhẹ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sự đầu tư vào màn hình chuẩn màu là điểm phân biệt rõ dòng 
 Việc ASUS đưa ProArt P16 và PX13 về Việt Nam nối dài làn sóng Copilot+ PC đang lan rộng trên thị trường laptop trong năm 2026, khi các hãng đua nhau tích hợp NPU đủ mạnh để chạy tính năng AI ngay trên máy. Xu hướng này song hành với việc Microsoft liên tục bổ sung năng lực cho nền tảng của mình, như đề cập trong bài về [bản cập nhật Microsoft Copilot 2026 với tác nhân điều khiển máy tính](/articles/microsoft-copilot-cap-nhat-2026-tac-nhan-may-tinh-gpt-5-5-office.html), qua đó biến chiếc laptop thành công cụ AI cá nhân thay vì chỉ là máy tính truyền thống.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/HDxrwjBF8L4/hqdefault.jpg" alt="Trải nghiệm ASUS ProArt PX13 2026 không dùng card đồ họa rời" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/HDxrwjBF8L4/maxresdefault.jpg" alt="Trải nghiệm ASUS ProArt PX13 2026 không dùng card đồ họa rời" loading="lazy" width="1280" height="720">
   <figcaption>PX13 cho thấy đồ họa tích hợp thế hệ mới đủ sức cho nhiều tác vụ sáng tạo. Nguồn: YouTube</figcaption>
 </figure>
 

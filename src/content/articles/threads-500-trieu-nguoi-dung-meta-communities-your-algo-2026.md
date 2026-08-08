@@ -85,7 +85,7 @@ Tính năng đáng chú ý nhất trong đợt cập nhật là Your Algo, một
 Your Algo hiện đang triển khai tại Mỹ, Canada, Anh, Australia và New Zealand, và nhiều khả năng sẽ mở rộng tới các khu vực khác trong thời gian tới, bao gồm thị trường Đông Nam Á. Việc cho người dùng quyền kiểm soát thuật toán là xu hướng được nhiều chuyên gia đánh giá tích cực, vì giúp giảm cảm giác bị thuật toán "áp đặt" nội dung, một vấn đề từng gây tranh cãi với nhiều nền tảng mạng xã hội lớn trong những năm qua.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/M_nYBI90sXk/hqdefault.jpg" alt="Threads Your Algo cho phep tuy chinh noi dung bang tin" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/M_nYBI90sXk/maxresdefault.jpg" alt="Threads Your Algo cho phep tuy chinh noi dung bang tin" loading="lazy" width="1280" height="720">
   <figcaption>Your Algo cho phép người dùng tự điều chỉnh nội dung xuất hiện trên bảng tin. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Sự kiện Threads đạt 500 triệu người dùng diễn ra trong giai đo�
 Với việc tận dụng lợi thế từ hệ sinh thái Instagram và Facebook, Threads có nền tảng người dùng vững chắc để tiếp tục tăng trưởng. Tuy nhiên, thử thách lớn là duy trì mức độ tương tác lâu dài, khi nhiều người dùng từng tham gia ban đầu vì hiệu ứng mới lạ nhưng giảm hoạt động sau đó. Các tính năng như Your Algo và Communities được kỳ vọng sẽ giúp giữ chân người dùng tốt hơn bằng cách tăng cảm giác kiểm soát và thuộc về cộng đồng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-dTlKodLaTk/hqdefault.jpg" alt="Threads canh tranh voi X Twitter trong thi truong mang xa hoi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/-dTlKodLaTk/maxresdefault.jpg" alt="Threads canh tranh voi X Twitter trong thi truong mang xa hoi" loading="lazy" width="1280" height="720">
   <figcaption>Threads cạnh tranh trực tiếp với X trong thị trường mạng xã hội văn bản. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -64,7 +64,7 @@ Một chiếc gaming phone đáng tiền cần đạt bốn thứ. Thứ nhất 
 Nếu bạn còn phân vân giữa điện thoại gaming và một chiếc máy chơi game cầm tay chuyên dụng, bài so sánh [máy chơi game cầm tay hay điện thoại gaming](/articles/may-choi-game-cam-tay-hay-dien-thoai-gaming-chon-loai-nao-2026.html) sẽ giúp bạn định hình nhu cầu trước khi xuống tiền.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/bXFAr-mbnJU/hqdefault.jpg" alt="He thong tan nhiet long va quat tren dien thoai gaming RedMagic" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bXFAr-mbnJU/maxresdefault.jpg" alt="He thong tan nhiet long va quat tren dien thoai gaming RedMagic" loading="lazy" width="1280" height="720">
   <figcaption>Tản nhiệt là yếu tố phân định đẳng cấp giữa các điện thoại gaming 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Nếu bạn còn phân vân giữa điện thoại gaming và một chiếc máy
 **iQOO 15** đại diện cho trường phái flagship toàn diện thiên gaming: Snapdragon 8 Elite Gen 5 kèm chip đồ họa riêng Q3, màn 2K LTPO AMOLED 144Hz, pin 7.000mAh và bộ ba camera 50MP dùng được cho cả nhu cầu chụp ảnh hằng ngày. Máy chưa có hàng chính hãng tại Việt Nam, chi tiết cấu hình và giá xách tay có trong bài [iQOO 15: Snapdragon 8 Elite Gen 5, pin 7.000mAh](/articles/iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/tZAkUA1cI1s/hqdefault.jpg" alt="iQOO 15 man hinh 2K 144Hz chip Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tZAkUA1cI1s/maxresdefault.jpg" alt="iQOO 15 man hinh 2K 144Hz chip Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
   <figcaption>iQOO 15 cân bằng giữa hiệu năng gaming và trải nghiệm flagship hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 

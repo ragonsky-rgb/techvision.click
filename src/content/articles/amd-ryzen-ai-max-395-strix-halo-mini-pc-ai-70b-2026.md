@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-14T11:30:00+07:00"
 dateModified: "2026-07-14T11:30:00+07:00"
 deck: "Trong năm 2026, một con chip của AMD đang thay đổi cách nhìn về sức mạnh của máy tính nhỏ gọn. Ryzen AI Max+ 395, tên mã Strix Halo, gộp CPU 16 nhân, iGPU mạnh nhất thị trường và tới 128GB bộ nhớ hợp nhất vào một đế, đủ để chạy các mô hình AI hàng chục tỷ tham số ngay tại chỗ, không cần đám mây."
-heroImage: "https://i.ytimg.com/vi/vMGX35mzsWg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/vMGX35mzsWg/maxresdefault.jpg"
 heroAlt: "Mini PC dùng chip AMD Ryzen AI Max+ 395 Strix Halo với thiết kế nhỏ gọn năm 2026"
 heroCaption: "Ryzen AI Max+ 395 đưa sức mạnh cỡ máy trạm vào một mini PC đặt vừa lòng bàn tay. Nguồn: YouTube"
 tldr: "<strong>Ryzen AI Max+ 395</strong>, tên mã <strong>Strix Halo</strong>, là APU mạnh nhất của AMD dành cho máy nhỏ gọn. Chip gộp <strong>16 nhân Zen 5</strong> (tối đa 5,1GHz), iGPU <strong>Radeon 8060S</strong> 40 nhân RDNA 3.5 và NPU <strong>50 TOPS</strong>. Điểm đột phá là <strong>128GB bộ nhớ LPDDR5X hợp nhất</strong>, trong đó tới 96GB có thể cấp cho GPU, đủ để nạp và chạy mô hình AI cỡ <strong>70 tỷ tham số</strong> ngay trên máy. Các mini PC như GMKtec EVO-X2 dùng chip này có giá từ khoảng <strong>1.499 USD</strong>, rẻ hơn nhiều so với máy trạm AI chuyên dụng."
@@ -66,7 +66,7 @@ Nhiều năm qua, để chạy các tác vụ nặng về đồ họa hay trí t
 Sự kết hợp này giúp một thiết bị nhỏ gọn xử lý được nhiều loại công việc mà trước đây phải chia cho nhiều cỗ máy khác nhau. Người dùng có thể vừa dựng nội dung, vừa chơi game, vừa chạy các mô hình AI cục bộ mà không cần lắp card đồ họa rời. Đây là hướng đi mà AMD đang đẩy mạnh nhằm cạnh tranh trong nhóm máy tính hiệu năng cao thu nhỏ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/UDHRo5Kqoxk/hqdefault.jpg" alt="Bo mạch mini PC gắn chip AMD Ryzen AI Max+ 395 và bộ nhớ hợp nhất" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/UDHRo5Kqoxk/maxresdefault.jpg" alt="Bo mạch mini PC gắn chip AMD Ryzen AI Max+ 395 và bộ nhớ hợp nhất" loading="lazy" width="1280" height="720">
   <figcaption>Ba khối CPU, iGPU và NPU được gộp trong một đế xử lý duy nhất của Strix Halo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Sức hút lớn nhất của Ryzen AI Max+ 395 với giới làm AI không nằ
 Điều đó mở ra khả năng nạp trọn một mô hình ngôn ngữ lớn cỡ 70 tỷ tham số vào bộ nhớ và chạy suy luận ngay tại máy. Một số mini PC dùng chip này thậm chí được quảng bá có thể nạp các mô hình lên tới hàng trăm tỷ tham số vào một khối bộ nhớ duy nhất. Đây là điều mà card đồ họa tiêu dùng phổ thông, thường chỉ có 12 đến 24GB VRAM, không thể làm được, và là lý do Strix Halo được xem như lựa chọn chạy AI nội bộ đáng giá.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jJiih4o_yi0/hqdefault.jpg" alt="Mini PC Ryzen AI Max+ 395 với 128GB RAM chạy mô hình AI cục bộ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jJiih4o_yi0/maxresdefault.jpg" alt="Mini PC Ryzen AI Max+ 395 với 128GB RAM chạy mô hình AI cục bộ" loading="lazy" width="1280" height="720">
   <figcaption>Với 128GB bộ nhớ hợp nhất, máy có thể nạp và chạy mô hình AI hàng chục tỷ tham số ngay tại chỗ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Xu hướng chạy AI ngay trên thiết bị đang lan rộng, không chỉ ở
 Dù được định vị cho AI và sáng tạo nội dung, Ryzen AI Max+ 395 cũng là một cỗ máy chơi game đáng nể. iGPU Radeon 8060S đủ sức chạy các tựa game nặng ở độ phân giải 1080p. Theo các bài thử, Cyberpunk 2077 đạt khoảng 45 đến 55 khung hình mỗi giây ở thiết lập trung bình, Battlefield 6 chạm mốc 86 khung hình ở thiết lập cao có bật FSR, còn Counter-Strike 2 vượt 250 khung hình. Đây là mức hiệu năng hiếm thấy ở một thiết bị không có GPU rời.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/RGKvUahL-_I/hqdefault.jpg" alt="Mini PC Ryzen AI Max+ 395 chạy game nặng ở độ phân giải 1080p mượt mà" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/RGKvUahL-_I/maxresdefault.jpg" alt="Mini PC Ryzen AI Max+ 395 chạy game nặng ở độ phân giải 1080p mượt mà" loading="lazy" width="1280" height="720">
   <figcaption>iGPU Radeon 8060S cho phép chơi game AAA ở 1080p mà không cần card đồ họa rời. Nguồn: YouTube</figcaption>
 </figure>
 

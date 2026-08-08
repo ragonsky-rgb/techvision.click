@@ -64,7 +64,7 @@ Galaxy S26 Ultra dùng Snapdragon 8 Elite Gen 5, một trong những chip Androi
 iPhone 18 Pro Max được đồn dùng A20 Pro trên tiến trình 2nm của TSMC, hứa hẹn bước nhảy về hiệu năng và tiết kiệm điện. Trên lý thuyết, chip Apple thường dẫn đầu về hiệu năng đơn nhân, còn Snapdragon mạnh ở đa nhân và đồ họa. Tuy nhiên, vì chưa có máy thật để đo, mọi so sánh lúc này chỉ là suy đoán. Chi tiết về con chip mới có trong bài [chip A20 Pro và bước nhảy 2nm](/articles/chip-a20-pro-iphone-18-pro-2nm-manh-co-nao-2026.html). Người cần sự chắc chắn sẽ thấy S26 Ultra an tâm hơn, còn người thích công nghệ mới nhất có lý do để chờ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/OV6wS8cr55E/hqdefault.jpg" alt="Galaxy S26 Ultra Snapdragon 8 Elite Gen 5 hieu nang da kiem chung 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OV6wS8cr55E/maxresdefault.jpg" alt="Galaxy S26 Ultra Snapdragon 8 Elite Gen 5 hieu nang da kiem chung 2026" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy S26 Ultra có lợi thế là hiệu năng đã được kiểm chứng thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Về nhiếp ảnh, Galaxy S26 Ultra mang thế mạnh linh hoạt với camera 
 iPhone truyền thống nghiêng về quay video, màu sắc tự nhiên và độ ổn định giữa các ống kính, tạo trải nghiệm nhất quán mà nhiều người sáng tạo nội dung ưa chuộng. Thông số camera iPhone 18 Pro Max vẫn là tin đồn nên chưa thể kết luận, nhưng về triết lý, hai hãng đi hai hướng: Samsung tối đa hóa sự linh hoạt và thông số, Apple tối ưu sự ổn định và chất lượng video. Bạn nên chọn theo kiểu chụp của mình, chứ không chỉ nhìn con số megapixel. Thông tin đầy đủ về máy Samsung có trong bài [Galaxy S26 Ultra camera 200MP](/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/AphzG6OayUw/hqdefault.jpg" alt="So sanh camera Galaxy S26 Ultra 200MP va iPhone 18 Pro Max 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AphzG6OayUw/maxresdefault.jpg" alt="So sanh camera Galaxy S26 Ultra 200MP va iPhone 18 Pro Max 2026" loading="lazy" width="1280" height="720">
   <figcaption>Samsung mạnh về zoom và linh hoạt, iPhone mạnh về video và sự nhất quán. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Về phần mềm, đây thường là yếu tố quyết định. Nếu bạn �
 Yếu tố thực tế nhất là giá và tình trạng hàng. Galaxy S26 Ultra đã bán chính hãng tại Việt Nam, có giá niêm yết rõ ràng, thường xuyên có khuyến mãi và chương trình thu cũ đổi mới, nên bạn biết chính xác chi phí bỏ ra. iPhone 18 Pro Max thì chưa có giá chính thức, và theo một số dự báo, chi phí chip 2nm cao có thể đẩy giá lên. Với người mua nhạy cảm về ngân sách, một sản phẩm đã có giá và đang giảm luôn dễ tính toán hơn một sản phẩm còn nằm trên tin đồn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xk3SXct0WZk/hqdefault.jpg" alt="Galaxy S26 Ultra da co gia chinh hang con iPhone 18 Pro Max cho ra mat 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xk3SXct0WZk/maxresdefault.jpg" alt="Galaxy S26 Ultra da co gia chinh hang con iPhone 18 Pro Max cho ra mat 2026" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy S26 Ultra đã có giá chính hãng, iPhone 18 Pro Max còn chờ ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 

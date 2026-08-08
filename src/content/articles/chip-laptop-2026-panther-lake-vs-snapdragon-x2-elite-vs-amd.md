@@ -64,7 +64,7 @@ Qualcomm mở màn năm 2026 tại CES với bộ ba Snapdragon X2 Elite, X2 Eli
 Lợi thế truyền thống thứ hai của Snapdragon là thời lượng pin và khả năng chạy mát, êm nhờ hiệu quả điện năng của kiến trúc ARM. Đây là lý do các laptop mỏng nhẹ như Lenovo Yoga Slim 7x hay dòng Surface đời mới chọn nền tảng này để tối ưu trải nghiệm di động. Nếu bạn thường xuyên làm việc xa ổ cắm, ưu tiên máy nhẹ, chạy cả ngày và tập trung vào tác vụ văn phòng, họp trực tuyến, duyệt web, thì Snapdragon X2 Elite là ứng viên sáng giá. Chi tiết về nền tảng này có trong bài [laptop Snapdragon X2 Elite với NPU 80 TOPS và pin trâu](/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/PULPGwGecvU/hqdefault.jpg" alt="Snapdragon X2 Elite so sanh voi Intel Panther Lake ve NPU va hieu nang" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PULPGwGecvU/maxresdefault.jpg" alt="Snapdragon X2 Elite so sanh voi Intel Panther Lake ve NPU va hieu nang" loading="lazy" width="1280" height="720">
   <figcaption>Snapdragon X2 Elite nhấn mạnh NPU mạnh và hiệu quả điện năng của kiến trúc ARM. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Intel đáp trả bằng Panther Lake, thuộc dòng Core Ultra Series 3, dùng 
 Với người dùng cần một chiếc máy làm được mọi việc mà không phải lo phần mềm nào đó không tương thích, Panther Lake là lựa chọn an toàn. Đây là nền tảng phù hợp cho dân văn phòng dùng nhiều ứng dụng cũ, người làm sáng tạo nội dung nhẹ, hay sinh viên cần một máy đa năng ổn định. Các dòng laptop phổ biến đã chuyển sang Panther Lake khá nhiều, và bạn có thể tìm hiểu sâu hơn về tiến trình cùng NPU của nền tảng này trong bài [Intel Panther Lake Core Ultra 3 với tiến trình 18A](/articles/intel-panther-lake-core-ultra-3-ces-2026-18a-npu-ai-pc.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/D0hRkT_5og0/hqdefault.jpg" alt="Cuoc dua chip 2026 Apple M5 Intel Panther Lake va Snapdragon X2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/D0hRkT_5og0/maxresdefault.jpg" alt="Cuoc dua chip 2026 Apple M5 Intel Panther Lake va Snapdragon X2" loading="lazy" width="1280" height="720">
   <figcaption>Cuộc đua NPU 2026 còn có sự góp mặt của Apple M5 bên cạnh Intel và Qualcomm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ AMD với dòng Ryzen AI mới tiếp tục là lựa chọn cân bằng nghiên
 Không thể bỏ qua Apple M5, dù nằm ngoài hệ sinh thái Windows. Dòng chip Apple Silicon tiếp tục đặt ra chuẩn mực về hiệu năng trên điện năng, và sự hiện diện của M5 tạo áp lực buộc cả ba nền tảng Windows phải cải thiện. Với người dùng đã quen macOS, M5 vẫn là lựa chọn hàng đầu, nhưng nếu bạn cần Windows, cuộc đua thực sự nằm ở ba cái tên Intel, Qualcomm và AMD.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jv4whLtksxM/hqdefault.jpg" alt="Benchmark Snapdragon X2 Elite so voi Intel va AMD tren laptop 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jv4whLtksxM/maxresdefault.jpg" alt="Benchmark Snapdragon X2 Elite so voi Intel va AMD tren laptop 2026" loading="lazy" width="1280" height="720">
   <figcaption>Các bài benchmark 2026 cho thấy mỗi nền tảng mạnh ở một khía cạnh khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

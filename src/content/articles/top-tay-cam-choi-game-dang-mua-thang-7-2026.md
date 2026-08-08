@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T19:40:00+07:00"
 dateModified: "2026-07-05T19:40:00+07:00"
 deck: "Nhu cầu nâng cấp tay cầm chơi game cho cả PC và console tiếp tục tăng cao khi ngày càng nhiều tựa game hỗ trợ chơi bằng gamepad thay vì bàn phím chuột. Bài viết tổng hợp 3 mẫu đáng chú ý nhất ở ba phân khúc giá, phù hợp từ người chơi phổ thông tới game thủ chuyên nghiệp."
-heroImage: "https://i.ytimg.com/vi/mFXNtgwiYRs/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/mFXNtgwiYRs/maxresdefault.jpg"
 heroAlt: "Top tay cam choi game dang mua thang 7 2026"
 heroCaption: "Tổng hợp tay cầm chơi game đáng mua nhất tháng 7/2026 theo từng phân khúc giá. Nguồn: YouTube"
 tldr: "Ở phân khúc <strong>giá tốt</strong>, tay cầm GameSir G7 Pro là lựa chọn đa nền tảng hợp lý cho cả Xbox và PC. Phân khúc <strong>tầm trung</strong> nổi bật với <strong>PS5 DualSense</strong>, tích hợp cảm biến haptic và rung phản hồi thích ứng ấn tượng. Ở phân khúc <strong>cao cấp</strong>, <strong>8BitDo Ultimate 2</strong> với độ hoàn thiện cao và khả năng tùy biến sâu là lựa chọn đáng đầu tư nhất cho game thủ PC nghiêm túc cần một tay cầm bền bỉ, đa năng lâu dài."
@@ -71,7 +71,7 @@ Ngoài khả năng tương thích, GameSir G7 Pro còn được đánh giá cao 
 Ở phân khúc tầm trung, PS5 DualSense là lựa chọn nổi bật nhờ tích hợp cảm biến haptic và rung phản hồi thích ứng tiên tiến, mô phỏng cảm giác vật lý chi tiết hơn rung động cơ học truyền thống rất nhiều. Trên các tựa game độc quyền PlayStation được tối ưu riêng, DualSense mang lại trải nghiệm sống động khó có tay cầm nào khác sánh được, từ cảm giác kéo căng dây cung tới lực cản khi bóp cò súng trong game bắn súng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7Xs8zuApv4M/hqdefault.jpg" alt="PS5 DualSense danh gia cam bien haptic rung phan hoi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/7Xs8zuApv4M/maxresdefault.jpg" alt="PS5 DualSense danh gia cam bien haptic rung phan hoi" loading="lazy" width="1280" height="720">
   <figcaption>PS5 DualSense nổi bật với cảm biến haptic và rung phản hồi thích ứng trên các tựa game độc quyền PlayStation. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,14 +80,14 @@ Ngoài khả năng tương thích, GameSir G7 Pro còn được đánh giá cao 
 Với nhu cầu một tay cầm bền bỉ, đa năng cho PC, 8BitDo Ultimate 2 là lựa chọn đáng đầu tư nhất, nhờ độ hoàn thiện cao, khả năng tùy biến sâu qua phần mềm đồng hành cho phép ánh xạ nút bấm, tạo profile riêng cho từng tựa game. Sản phẩm còn sử dụng cảm biến cần analog chống trôi cần, giúp duy trì độ chính xác ổn định qua hàng nghìn giờ chơi game, phù hợp game thủ PC nghiêm túc ưu tiên độ bền và khả năng tùy chỉnh sâu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/9xQphxydZ_k/hqdefault.jpg" alt="8BitDo Ultimate 2 danh gia chi tiet do hoan thien cao" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/9xQphxydZ_k/maxresdefault.jpg" alt="8BitDo Ultimate 2 danh gia chi tiet do hoan thien cao" loading="lazy" width="1280" height="720">
   <figcaption>8BitDo Ultimate 2 được đánh giá cao về độ hoàn thiện và khả năng tùy biến sâu cho game thủ PC. Nguồn: YouTube</figcaption>
 </figure>
 
 Với người dùng còn đang cân nhắc thêm các lựa chọn khác, một số tay cầm cao cấp gần đây như ASUS ROG Raikiri II cũng đã chuyển sang cảm biến từ tính Hall Effect, giải quyết triệt để vấn đề trôi cần vốn từng gây khó chịu trên nhiều dòng tay cầm Xbox đời cũ, cho thấy công nghệ này đang dần trở thành tiêu chuẩn mới trên phân khúc tay cầm cao cấp thay vì chỉ là tính năng độc quyền của một vài thương hiệu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/cUyak2P3u_M/hqdefault.jpg" alt="ASUS ROG Raikiri II tay cam khong con troi can" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/cUyak2P3u_M/maxresdefault.jpg" alt="ASUS ROG Raikiri II tay cam khong con troi can" loading="lazy" width="1280" height="720">
   <figcaption>ASUS ROG Raikiri II là một trong những tay cầm Xbox/PC mới nhất chuyển sang cảm biến chống trôi cần. Nguồn: YouTube</figcaption>
 </figure>
 

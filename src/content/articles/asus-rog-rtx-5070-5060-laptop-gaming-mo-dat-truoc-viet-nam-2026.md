@@ -66,7 +66,7 @@ ASUS ROG vừa mở đặt trước dải laptop gaming mới trang bị card đ
 Điểm chung của cả dải là dùng GPU thế hệ RTX 50, vốn hỗ trợ các công nghệ dựng hình và nâng khung hình mới của NVIDIA, cùng CPU hiệu năng cao dạng HX cho bản Strix và chip tiết kiệm điện hơn cho dòng mỏng nhẹ. Với người dùng Việt, việc ASUS đưa cả bốn phân khúc về cùng đợt giúp dễ so sánh và chọn đúng nhu cầu, thay vì phải chờ từng model rời rạc như các năm trước.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2ETXv-KrC6I/hqdefault.jpg" alt="ASUS ROG Strix G16 laptop gaming RTX 5070 tan nhiet lon man tan so quet cao" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2ETXv-KrC6I/maxresdefault.jpg" alt="ASUS ROG Strix G16 laptop gaming RTX 5070 tan nhiet lon man tan so quet cao" loading="lazy" width="1280" height="720">
   <figcaption>ROG Strix G16 và G18 là cặp máy hiệu năng cao nhất trong đợt mở đặt, với bản cao nhất dùng RTX 5070. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Về giá, mặt bằng laptop gaming RTX 50-series tại các đại lý Việt
 Yếu tố khiến đợt mua sắm này khác mọi năm là giá bộ nhớ. Giá RAM DDR5 và SSD đã tăng mạnh trong năm 2026 do các trung tâm dữ liệu AI thu mua chip nhớ ở quy mô lớn, đẩy chênh lệch giữa bản 16GB và 32GB RAM lên cao hơn trước. Với laptop gaming vốn nên có tối thiểu 16GB, nhiều người chọn mua bản RAM vừa đủ rồi nâng cấp sau, nhưng lúc này chi phí nâng cấp cũng không còn rẻ. Nếu muốn hiểu rõ nên xuống tiền bây giờ hay chờ, bạn có thể tham khảo phân tích về [giá RAM và SSD tăng vọt trong năm 2026](/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html) để cân nhắc thời điểm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/pQBRIPetIec/hqdefault.jpg" alt="Chenh lech gia RAM 16GB va 32GB tren laptop gaming RTX 50 tai Viet Nam 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/pQBRIPetIec/maxresdefault.jpg" alt="Chenh lech gia RAM 16GB va 32GB tren laptop gaming RTX 50 tai Viet Nam 2026" loading="lazy" width="1280" height="720">
   <figcaption>Giá RAM tăng khiến chênh lệch giữa bản 16GB và 32GB nới rộng, ảnh hưởng trực tiếp tới quyết định mua laptop gaming. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ ASUS ROG không phải lựa chọn duy nhất ở tầm giá này. Acer Predato
 Ở nhóm cao hơn, MSI Crosshair 16 HX AI trang bị RTX 5070 và màn hình 16 inch QHD tần số quét 240Hz, cạnh tranh trực tiếp với ROG Strix G16 về hiệu năng và trải nghiệm màn hình tốc độ cao. Nhìn chung, cả bốn thương hiệu đều xoay quanh hai lựa chọn GPU là RTX 5060 và RTX 5070, nên khác biệt lớn nằm ở tản nhiệt, chất lượng màn hình, độ hoàn thiện và giá đi kèm cấu hình RAM, bộ nhớ. Nếu bạn cân nhắc mua máy đồng bộ hoặc build một dàn PC thay vì laptop, có thể xem thêm gợi ý về [linh kiện build PC tốt nhất theo nhu cầu](/articles/top-linh-kien-build-pc-tot-nhat-nua-dau-2026-theo-nhu-cau.html) để so sánh chi phí.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7i0r7EvZRk0/hqdefault.jpg" alt="So sanh laptop gaming ASUS ROG Acer Predator Lenovo Legion MSI RTX 50 series" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7i0r7EvZRk0/maxresdefault.jpg" alt="So sanh laptop gaming ASUS ROG Acer Predator Lenovo Legion MSI RTX 50 series" loading="lazy" width="1280" height="720">
   <figcaption>Ở cùng phân khúc, khác biệt lớn nằm ở tản nhiệt, màn hình và cấu hình RAM đi kèm hơn là ở tên GPU. Nguồn: YouTube</figcaption>
 </figure>
 

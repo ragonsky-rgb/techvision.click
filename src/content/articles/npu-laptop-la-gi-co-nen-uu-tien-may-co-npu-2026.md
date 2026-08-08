@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-07-28T09:10:00+07:00"
 dateModified: "2026-07-28T09:10:00+07:00"
 deck: "Dạo một vòng cửa hàng laptop cuối năm 2026, gần như mẫu nào cũng dán nhãn AI PC hoặc Copilot+ PC, với con số TOPS được đẩy lên như một điểm bán hàng. NPU trở thành từ khóa mới, nhưng không phải người mua nào cũng hiểu nó là gì và có thực sự cần. Bài viết giải thích NPU là gì, TOPS đo cái gì, ngưỡng 40 TOPS của Copilot+ PC nghĩa là sao, và quan trọng nhất: với nhu cầu của bạn năm 2026, có nên ưu tiên máy có NPU mạnh hay không. Nội dung dựa trên thông số thật của các dòng chip đang bán, giúp bạn tránh trả tiền cho thứ mình không dùng tới."
-heroImage: "https://i.ytimg.com/vi/oGGWPXb4lqA/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/oGGWPXb4lqA/maxresdefault.jpg"
 heroAlt: "NPU laptop la gi TOPS Copilot Plus PC nam 2026 co nen uu tien"
 heroCaption: "NPU là bộ xử lý AI chuyên biệt, ngày càng phổ biến trên laptop 2026. Nguồn: YouTube"
 tldr: "<strong>NPU (Neural Processing Unit)</strong> là bộ xử lý chuyên chạy tác vụ AI trên laptop, hiệu năng đo bằng <strong>TOPS</strong> (nghìn tỷ phép tính mỗi giây). Microsoft đặt ngưỡng <strong>40 TOPS</strong> cho nhãn <strong>Copilot+ PC</strong>, mở ra các tính năng AI chạy ngay trên máy như phụ đề trực tiếp, hiệu ứng camera và trợ lý cục bộ. Các chip 2026 như <strong>Snapdragon X2 Elite (~80 TOPS)</strong>, <strong>AMD Ryzen AI 400 (~60 TOPS)</strong> và <strong>Intel Panther Lake</strong> đều vượt ngưỡng này. Tuy nhiên, NPU chỉ đáng ưu tiên nếu bạn thực sự dùng tính năng AI trên máy, còn tác vụ văn phòng phổ thông thì CPU và RAM vẫn quan trọng hơn."
@@ -65,7 +65,7 @@ NPU, viết tắt của Neural Processing Unit, là một khối xử lý chuyê
 Điểm mạnh cốt lõi của NPU là hiệu quả năng lượng. Khi chạy một tác vụ AI như lọc tiếng ồn trong cuộc gọi hay làm mờ phông nền, NPU tiêu thụ điện thấp hơn nhiều so với việc dồn công việc đó cho CPU hoặc GPU. Đây là lý do các laptop mỏng nhẹ đặc biệt hưởng lợi: chúng có thể chạy tính năng AI cả ngày mà không nóng máy hay tụt pin nhanh. Nếu bạn phân vân giữa các nền tảng chip, bài [laptop chip ARM Snapdragon X hay x86 Intel AMD](/articles/laptop-chip-arm-snapdragon-x-hay-x86-intel-amd-chon-loai-nao-2026.html) phân tích kỹ hơn khác biệt giữa các hệ máy.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/RGKvUahL-_I/hqdefault.jpg" alt="NPU khac CPU GPU chia nhau xu ly tren chip laptop AI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/RGKvUahL-_I/maxresdefault.jpg" alt="NPU khac CPU GPU chia nhau xu ly tren chip laptop AI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Trên chip AI PC, CPU, GPU và NPU chia nhau các loại tác vụ khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ NPU, viết tắt của Neural Processing Unit, là một khối xử lý chuyê
 Microsoft đặt ngưỡng 40 TOPS làm điều kiện để một chiếc laptop được gắn nhãn Copilot+ PC. Đây là mốc tối thiểu để các tính năng AI chạy cục bộ hoạt động mượt trên Windows. Điều đáng lưu ý cho người mua là gần như mọi chip laptop cao cấp năm 2026 đều đã vượt xa ngưỡng này, nên khác biệt về khả năng chạy các tính năng AI cơ bản giữa các máy Copilot+ PC không quá lớn. Nói cách khác, một khi máy đã đạt chuẩn Copilot+ PC, việc NPU là 45 hay 80 TOPS ít ảnh hưởng tới trải nghiệm hằng ngày của phần lớn người dùng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/C4X0Sy6IgQw/hqdefault.jpg" alt="Nguong 40 TOPS Copilot Plus PC va cac tinh nang AI chay tren may" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/C4X0Sy6IgQw/maxresdefault.jpg" alt="Nguong 40 TOPS Copilot Plus PC va cac tinh nang AI chay tren may" loading="lazy" width="1280" height="720">
   <figcaption>Ngưỡng 40 TOPS mở khóa các tính năng AI chạy cục bộ trên Copilot+ PC. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Câu trả lời trung thực là còn tùy nhu cầu. NPU mạnh thực sự đ
 Ngược lại, nếu công việc của bạn chủ yếu là soạn thảo, bảng tính, lướt web, xem phim và học tập, thì đừng để con số TOPS chi phối quyết định. Trong nhóm nhu cầu này, một chiếc laptop với CPU đủ nhanh, RAM từ 16GB, ổ SSD dung lượng khá và màn hình tốt sẽ mang lại trải nghiệm hằng ngày dễ chịu hơn nhiều so với việc trả thêm tiền cho NPU cực mạnh mà hiếm khi dùng tới. Bài [cách chọn laptop sinh viên, văn phòng theo tiêu chí](/articles/cach-chon-laptop-sinh-vien-van-phong-2026-tieu-chi.html) sẽ giúp bạn cân đối các yếu tố này theo ngân sách.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/PULPGwGecvU/hqdefault.jpg" alt="Chon laptop 2026 can can doi NPU voi CPU RAM SSD theo nhu cau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PULPGwGecvU/maxresdefault.jpg" alt="Chon laptop 2026 can can doi NPU voi CPU RAM SSD theo nhu cau" loading="lazy" width="1280" height="720">
   <figcaption>NPU chỉ là một tiêu chí, cần cân đối cùng CPU, RAM, SSD và giá. Nguồn: YouTube</figcaption>
 </figure>
 

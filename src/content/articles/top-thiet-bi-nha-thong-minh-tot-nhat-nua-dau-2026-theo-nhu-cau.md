@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-19T13:00:00+07:00"
 dateModified: "2026-07-20T10:00:00+07:00"
 deck: "Nhà thông minh không còn là khái niệm xa xỉ mà đã trở nên gần gũi với nhiều gia đình Việt, khi các thiết bị ngày càng dễ dùng, giá hợp lý và mang lại sự an toàn cùng tiện lợi thiết thực. Nửa đầu năm 2026, thị trường thiết bị nhà thông minh tiếp tục phát triển đa dạng với nhiều lựa chọn ở mọi phân khúc, từ camera an ninh giám sát tới khóa cửa thông minh, đèn thông minh và ổ cắm thông minh. Với người dùng đang muốn bắt đầu hoặc mở rộng hệ thống nhà thông minh, việc chọn được thiết bị phù hợp phụ thuộc rất nhiều vào nhu cầu cụ thể, ngôi nhà và hệ sinh thái đang dùng. Một gia đình coi trọng an ninh sẽ ưu tiên camera và khóa cửa, trong khi người thích sự tiện nghi lại quan tâm tới đèn và ổ cắm thông minh có thể điều khiển bằng giọng nói. Việc bắt đầu từ những thiết bị thiết thực nhất rồi mở rộng dần là cách tiếp cận hợp lý cho đa số người dùng. Bài viết này đóng vai trò một cẩm nang tổng hợp, đi qua từng nhóm thiết bị nhà thông minh phổ biến, chia theo từng nhu cầu rõ ràng, giúp bạn nhanh chóng khoanh vùng lựa chọn phù hợp với ngôi nhà và túi tiền của mình."
-heroImage: "https://i.ytimg.com/vi/tWvwKGTVGGg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/tWvwKGTVGGg/maxresdefault.jpg"
 heroAlt: "Cẩm nang chọn thiết bị nhà thông minh tốt nhất nửa đầu 2026 gồm camera an ninh và khóa cửa"
 heroCaption: "Cẩm nang chọn thiết bị nhà thông minh cho an toàn và tiện nghi nửa đầu 2026. Nguồn: YouTube"
 tldr: "Đây là cẩm nang chọn thiết bị nhà thông minh nửa đầu 2026 theo nhu cầu, kèm model cụ thể đang bán tại Việt Nam. <strong>Camera ngoài trời</strong>: TP-Link Tapo C520WS 2K xoay 360 độ, chuẩn IP66. <strong>Camera trong nhà</strong>: Ezviz C6N 2MP xoay 355 độ, đàm thoại hai chiều. <strong>Khóa cửa</strong>: Xiaomi Smart Door Lock 2 với nhiều cách mở khóa. <strong>Đèn</strong>: Yeelight Smart LED Bulb W4 Lite đui E27. <strong>Ổ cắm</strong>: TP-Link Tapo P110M chuẩn Matter, đo điện năng. <strong>Nền tảng</strong>: Aqara Hub M3, cảm biến Aqara Motion and Light Sensor P2 và loa Amazon Echo Dot Gen 5."
@@ -85,7 +85,7 @@ Với người ưu tiên sự tiện nghi trong sinh hoạt hằng ngày, đèn 
 Một lựa chọn quen thuộc ở phân khúc phổ thông là **Yeelight Smart LED Bulb W4 Lite**, mã sản phẩm YLQPD-0011, dùng đui xoắn E27 nên vặn thẳng vào đa số chuôi đèn sẵn có trong nhà. Bóng hiển thị được 16 triệu màu, tích hợp cả Wi-Fi băng tần 2.4GHz lẫn Bluetooth nên có thể dùng ngay mà không bắt buộc phải mua thêm bộ trung tâm. Sản phẩm hoạt động với Google Assistant, Amazon Alexa, Apple HomeKit và Samsung SmartThings, phù hợp cho người chưa chốt hẳn hệ sinh thái nào. Giá bán tại các cửa hàng trong nước thường quanh mức 255.000 đồng tới 270.000 đồng mỗi bóng, đủ rẻ để thử một vài bóng ở phòng khách hoặc phòng ngủ trước khi thay diện rộng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/gmhmTlOatTU/hqdefault.jpg" alt="So sánh các thiết bị nhà thông minh và camera an ninh đáng mua năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gmhmTlOatTU/maxresdefault.jpg" alt="So sánh các thiết bị nhà thông minh và camera an ninh đáng mua năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Camera an ninh là nền tảng quan trọng của một ngôi nhà thông minh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Một lựa chọn quen thuộc ở phân khúc phổ thông là **Yeelight Smar
 Đại diện đáng chú ý ở nhóm ổ cắm là **TP-Link Tapo P110M**, phiên bản mini đã được chứng nhận chuẩn Matter. Ổ cắm chịu dòng 16A tương ứng công suất khoảng 3680W, kết nối Wi-Fi 2.4GHz và có kích thước nhỏ gọn cỡ 51 x 72 x 40mm nên hạn chế che mất ổ điện bên cạnh. Điểm mạnh của model này là khả năng giám sát điện năng tiêu thụ của thiết bị đang cắm, cho phép nhập giá điện để ước tính chi phí, rất tiện khi bạn muốn biết bình nóng lạnh hay máy lạnh thực sự tốn bao nhiêu. Nhờ chuẩn Matter, bạn có thể thêm ổ cắm trực tiếp vào ứng dụng Apple Home, Google Home hay Alexa bằng cách quét mã đi kèm. Giá niêm yết chính hãng khoảng 399.000 đồng, trong khi nhiều cửa hàng bán quanh mức 270.000 đồng tới 290.000 đồng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/oRozIS6IsnY/hqdefault.jpg" alt="Đánh giá các khóa cửa thông minh và thiết bị nhà thông minh năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/oRozIS6IsnY/maxresdefault.jpg" alt="Đánh giá các khóa cửa thông minh và thiết bị nhà thông minh năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Khóa cửa thông minh mang lại cả an toàn lẫn tiện lợi cho gia đình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Nếu định đi xa hơn mức vài thiết bị lẻ, một bộ trung tâm l�
 Đi kèm hub, một cảm biến giúp ngôi nhà tự phản ứng thay vì chờ bạn bấm điện thoại. **Aqara Motion and Light Sensor P2**, mã ML-S03E, là cảm biến hai trong một gồm phát hiện chuyển động hồng ngoại và đo cường độ ánh sáng trong dải khoảng 0 tới 1500 lux, tầm phát hiện tới khoảng 7m tùy góc lắp và môi trường. Cảm biến chạy giao thức Thread, dùng hai viên pin CR2450 và kết nối được với Apple Home, Google Home, Alexa hay SmartThings thông qua Matter, với điều kiện nhà bạn đã có hub M3 hoặc một Thread Border Router khác. Với người muốn điều khiển bằng giọng nói, **Amazon Echo Dot Gen 5** là điểm khởi đầu quen thuộc vì đã hỗ trợ Matter và có thêm cảm biến nhiệt độ tích hợp để đặt kịch bản tự bật tắt điều hòa hay quạt theo ngưỡng nhiệt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/68Us9W70C0w/hqdefault.jpg" alt="Hướng dẫn xây dựng hệ thống nhà thông minh theo nhu cầu năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/68Us9W70C0w/maxresdefault.jpg" alt="Hướng dẫn xây dựng hệ thống nhà thông minh theo nhu cầu năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thị trường nhà thông minh 2026 có đủ lựa chọn cho mọi nhu cầu và ngân sách. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-02T19:00:00+07:00"
 dateModified: "2026-07-02T19:00:00+07:00"
 deck: "DJI vừa chính thức ra mắt Osmo Mobile 8P trên toàn cầu, thế hệ gimbal điện thoại mới nhất với điểm nhấn là remote FrameTap có thể tháo rời, điều khiển gimbal từ xa lên tới 10 mét. Sản phẩm nhắm tới nhóm nhà sáng tạo nội dung cần quay chủ động, không phải lúc nào cũng cầm điện thoại trên tay trong suốt quá trình ghi hình."
-heroImage: "https://i.ytimg.com/vi/8bEPb7fM6fw/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/8bEPb7fM6fw/maxresdefault.jpg"
 heroAlt: "DJI Osmo Mobile 8P gimbal FrameTap 2026"
 heroCaption: "DJI Osmo Mobile 8P, gimbal điện thoại mới với remote FrameTap tháo rời. Nguồn: YouTube"
 tldr: "<strong>DJI Osmo Mobile 8P</strong> ra mắt toàn cầu ngày 7/5/2026, nặng <strong>386g</strong>, dùng hệ ổn định 3 trục thế hệ 8 với động cơ mạnh hơn bản tiêu chuẩn. Điểm nhấn lớn nhất là <strong>Osmo FrameTap</strong>, remote màn hình cảm ứng tháo rời khỏi tay cầm, kết nối Bluetooth điều khiển gimbal từ xa tới <strong>10 mét</strong>, màn hình hiển thị hình ảnh trực tiếp từ camera. Hỗ trợ <strong>ActiveTrack 8.0</strong> bám đối tượng nâng cao, cùng Module Đa năng 2 mở rộng khả năng bám theo xe cộ, địa danh. Pin dùng tới <strong>10 giờ</strong>. Giá bán từ <strong>159 Euro</strong> (Combo tiêu chuẩn), sản phẩm không bán tại thị trường Mỹ."
@@ -72,14 +72,14 @@ Màn hình trên remote FrameTap hiển thị trực tiếp hình ảnh camera �
 Về khả năng theo dõi đối tượng, Osmo Mobile 8P hỗ trợ công nghệ ActiveTrack 8.0 thông qua ứng dụng DJI Mimo, giúp giữ người và thú cưng luôn ở giữa khung hình ngay cả trong không gian đông đúc hoặc chuyển động nhanh. Khi kết hợp cùng Module Đa năng 2 đi kèm trong bản Combo Theo dõi Nâng cao, khả năng bám đối tượng còn được mở rộng thêm, khóa bám được cả xe cộ, địa danh và nhiều loại vật thể tổng quát khác ngoài con người.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/pgTzh5s0FMM/hqdefault.jpg" alt="DJI Osmo Mobile 8P unboxing hands on 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/pgTzh5s0FMM/maxresdefault.jpg" alt="DJI Osmo Mobile 8P unboxing hands on 2026" loading="lazy" width="1280" height="720">
   <figcaption>DJI Osmo Mobile 8P đi kèm đầy đủ phụ kiện trong hộp, sẵn sàng sử dụng ngay sau khi mở hộp. Nguồn: YouTube</figcaption>
 </figure>
 
 Ứng dụng DJI Mimo còn bổ sung thêm bốn chế độ quay điện ảnh mới trên Osmo Mobile 8P, gồm DynamicZoom tạo hiệu ứng thu phóng chiều sâu, Slow Shutter cho hiệu ứng vệt sáng phơi sáng lâu trong điều kiện thiếu sáng, Action Shot dành cho chủ thể chuyển động nhanh, và Widescreen cho khung hình anamorphic tỉ lệ 2,35:1 mà không cần cắt cúp lại sau khi quay. Với người muốn tìm hiểu thêm mẹo quay video đẹp bằng điện thoại nói chung, bài viết [cách quay video đẹp bằng điện thoại: mẹo ổn định, ánh sáng, bố cục](/articles/cach-quay-video-dep-bang-dien-thoai-meo-on-dinh-anh-sang-bo-cuc.html) là tài liệu tham khảo hữu ích để tận dụng tối đa các tính năng mới này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/6vzoyXqVKfo/hqdefault.jpg" alt="DJI Osmo Mobile 8P tinh nang moi kiem tra 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/6vzoyXqVKfo/maxresdefault.jpg" alt="DJI Osmo Mobile 8P tinh nang moi kiem tra 2026" loading="lazy" width="1280" height="720">
   <figcaption>Các tính năng quay điện ảnh mới trên Osmo Mobile 8P mở rộng khả năng sáng tạo cho người dùng phổ thông. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Về khả năng theo dõi đối tượng, Osmo Mobile 8P hỗ trợ công ngh�
 DJI Osmo Mobile 8P có giá khởi điểm 159 Euro cho bản Combo tiêu chuẩn, bao gồm gimbal, kẹp điện thoại từ tính DJI OM Magnetic Phone Clamp 5, remote Osmo FrameTap, cáp sạc USB-C và túi đựng bảo quản. Bản Combo Theo dõi Nâng cao có giá 189 Euro, bổ sung thêm Module Đa năng 2 mở rộng khả năng bám đối tượng. Đáng chú ý, đây là lần thứ hai liên tiếp DJI không đưa dòng sản phẩm Osmo Mobile ra mắt chính thức tại thị trường Mỹ, sản phẩm được ra mắt tại Trung Quốc từ ngày 21/4/2026 cùng với DJI Mic Mini 2, trước khi mở rộng phân phối toàn cầu từ ngày 7/5/2026. Với người dùng quan tâm tới các sản phẩm camera khác của DJI, bài viết về [DJI Mavic 4 Pro, flycam với camera kép 100MP hợp tác cùng Hasselblad](/articles/dji-mavic-4-pro-flycam-camera-kep-100mp-hasselblad-2026.html) cũng là sản phẩm đáng chú ý khác trong hệ sinh thái thiết bị quay chụp của hãng, hay bài viết về [DJI Osmo Pocket 4 Pro, camera bỏ túi với camera kép zoom quang 3x](/articles/dji-osmo-pocket-4-pro-4p-ra-mat-camera-kep-3x-zoom-gia-viet-nam.html) dành cho những ai ưu tiên một thiết bị quay chụp độc lập, không cần dùng chung với điện thoại như gimbal Osmo Mobile.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/H0yvzt0SmoU/hqdefault.jpg" alt="DJI Osmo Mobile 8P review 2026 chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/H0yvzt0SmoU/maxresdefault.jpg" alt="DJI Osmo Mobile 8P review 2026 chi tiet" loading="lazy" width="1280" height="720">
   <figcaption>Osmo Mobile 8P được xem là một trong những nâng cấp đáng chú ý nhất của dòng gimbal điện thoại DJI trong nhiều năm. Nguồn: YouTube</figcaption>
 </figure>
 

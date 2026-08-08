@@ -64,7 +64,7 @@ Theo thông tin công bố trên hệ thống CellphoneS cùng chuyên trang Sfo
 Việc một thương hiệu còn tương đối trẻ như Nothing chọn đường chính ngạch cho thấy sức hút của thị trường Việt Nam đối với các hãng smartphone mới nổi. Các báo trong nước như Doanh nhân trên Báo Pháp luật, Điện thoại hay và Thương gia đều đưa tin về động thái này, xem đây là tín hiệu cho thấy phân khúc tầm trung tại Việt Nam vẫn còn nhiều dư địa cho những sản phẩm có bản sắc thiết kế riêng biệt thay vì chạy đua thuần túy về cấu hình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XBSmJR9R900/hqdefault.jpg" alt="Nothing Phone chính hãng phân phối qua hệ thống CellphoneS tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XBSmJR9R900/maxresdefault.jpg" alt="Nothing Phone chính hãng phân phối qua hệ thống CellphoneS tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>CellphoneS xác nhận đứng ra nhập khẩu, phân phối và bảo hành Nothing Phone tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Về giá, cần nhấn mạnh ngay rằng các con số đang lưu hành đều
 Nếu giữ đúng khung giá dự kiến, Nothing sẽ đặt mình vào đúng vùng cạnh tranh sôi động nhất của thị trường Việt Nam. Mức khởi điểm quanh 4 đến 6 triệu đồng va chạm trực tiếp với các dòng Redmi và Galaxy A số thấp, còn vùng 8 triệu đồng chạm tới nhóm tầm trung cao. Điều làm Nothing khác biệt không phải là bảng thông số vượt trội, mà là ngoại hình dễ nhận diện và trải nghiệm phần mềm gọn gàng, hai yếu tố mà nhóm khách hàng trẻ ngày càng coi trọng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/HAEeW5WA8Zc/hqdefault.jpg" alt="Bảng giá dự kiến các mẫu Nothing Phone chính hãng tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/HAEeW5WA8Zc/maxresdefault.jpg" alt="Bảng giá dự kiến các mẫu Nothing Phone chính hãng tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Giá các mẫu Nothing Phone tại Việt Nam hiện là giá dự kiến, có thể thay đổi khi mở bán. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ So với hàng xách tay từng bán trôi nổi, phiên bản chính hãng có 
 Về phần mềm, Nothing OS được xây dựng trên nền Android nhưng giữ triết lý gần với bản gốc, giao diện tối giản, ít ứng dụng cài sẵn và bộ biểu tượng đơn sắc đặc trưng. Cách tiếp cận này giúp máy vận hành nhẹ nhàng và tạo cảm giác nhất quán về thị giác, điều mà một bộ phận người dùng ưa chuộng khi đã quá quen với các giao diện tùy biến dày đặc tính năng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/KKBpzJTK2tk/hqdefault.jpg" alt="Đèn Glyph LED và thiết kế mặt lưng trong suốt đặc trưng của Nothing Phone" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KKBpzJTK2tk/maxresdefault.jpg" alt="Đèn Glyph LED và thiết kế mặt lưng trong suốt đặc trưng của Nothing Phone" loading="lazy" width="1280" height="720">
   <figcaption>Hệ thống đèn Glyph và mặt lưng trong suốt là nhận diện thị giác đặc trưng của Nothing. Nguồn: YouTube</figcaption>
 </figure>
 

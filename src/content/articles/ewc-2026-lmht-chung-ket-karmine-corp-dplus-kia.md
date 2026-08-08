@@ -76,21 +76,21 @@ Với Karmine Corp, việc vào chung kết là câu chuyện đáng chú ý khi
 Trận chung kết đánh theo thể thức Bo5, tức đội thắng trước ba ván sẽ đăng quang, diễn ra ngày 19/7. Cùng ngày còn có trận tranh hạng ba giữa hai đội thua ở bán kết là T1 và Gen.G, hai cái tên vốn được kỳ vọng cao. Việc hai ông lớn này gặp nhau ở trận tranh hạng ba thay vì chung kết cho thấy mức độ khó lường của giải năm nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/hQsGH0C05Vo/hqdefault.jpg" alt="Dplus KIA thi đấu bán kết trước Gen.G tại EWC 2026 Liên Minh Huyền Thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hQsGH0C05Vo/maxresdefault.jpg" alt="Dplus KIA thi đấu bán kết trước Gen.G tại EWC 2026 Liên Minh Huyền Thoại" loading="lazy" width="1280" height="720">
   <figcaption>Dplus KIA vượt qua đương kim vô địch Gen.G để vào chung kết. Nguồn: YouTube</figcaption>
 </figure>
 
 Cuộc đối đầu giữa Karmine Corp và Dplus KIA cũng mang tính biểu tượng của cuộc so tài giữa hai khu vực. Karmine Corp đại diện cho châu Âu, mang theo hy vọng của khu vực vốn ít khi vào tới trận cuối ở các giải quốc tế, trong khi Dplus KIA gánh trọng trách bảo vệ vị thế của khu vực Hàn Quốc sau khi cả T1 lẫn Gen.G đều đã dừng bước. Cả hai đội đều đã chứng minh phong độ ấn tượng qua các vòng loại trực tiếp, nên trận chung kết được kỳ vọng sẽ hấp dẫn và khó đoán. Dplus KIA vốn là một thương hiệu lớn của khu vực Hàn Quốc với bề dày thành tích, trong khi Karmine Corp là biểu tượng của cộng đồng người hâm mộ châu Âu với lượng cổ động viên đông đảo, nên trận đấu còn là cuộc gặp gỡ giữa hai nền văn hóa cổ vũ khác nhau.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/hd1c20izfFc/hqdefault.jpg" alt="Karmine Corp thi đấu tại vòng loại trực tiếp EWC 2026 Liên Minh Huyền Thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hd1c20izfFc/maxresdefault.jpg" alt="Karmine Corp thi đấu tại vòng loại trực tiếp EWC 2026 Liên Minh Huyền Thoại" loading="lazy" width="1280" height="720">
   <figcaption>Karmine Corp là đại diện châu Âu duy nhất còn trụ lại tới chung kết. Nguồn: YouTube</figcaption>
 </figure>
 
 Với người hâm mộ Việt Nam, dù hai đại diện GAM Esports và Team Secret Whales đã dừng bước từ vòng bảng, trận chung kết vẫn rất đáng theo dõi nhờ tính bất ngờ và chất lượng chuyên môn cao. Bạn có thể xem lại thể thức và bối cảnh giải trong bài [lịch thi đấu, 16 đội và giải thưởng EWC 2026 LMHT](/articles/ewc-2026-lmht-lich-thi-dau-doi-hinh-giai-thuong.html) để hiểu rõ hơn về hành trình của các đội tại giải năm nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TvBlfPKQKSY/hqdefault.jpg" alt="Điểm nhấn hành trình của Karmine Corp và Dplus KIA tại EWC 2026 LMHT" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TvBlfPKQKSY/maxresdefault.jpg" alt="Điểm nhấn hành trình của Karmine Corp và Dplus KIA tại EWC 2026 LMHT" loading="lazy" width="1280" height="720">
   <figcaption>Cả hai đội đều vào chung kết bằng những chiến thắng bất ngờ. Nguồn: YouTube</figcaption>
 </figure>
 

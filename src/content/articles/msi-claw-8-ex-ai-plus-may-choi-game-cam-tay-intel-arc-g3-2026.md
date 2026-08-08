@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T02:40:00+07:00"
 dateModified: "2026-07-06T02:40:00+07:00"
 deck: "MSI vừa chính thức mở bán Claw 8 EX AI+, máy chơi game cầm tay đầu tiên trên thế giới sử dụng chip Intel Arc G3 Extreme hoàn toàn mới, được thiết kế để cạnh tranh trực tiếp với Steam Deck và ROG Ally trong phân khúc máy chơi game cầm tay cao cấp nhất năm 2026."
-heroImage: "https://i.ytimg.com/vi/Fx-pv-Z84C4/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/Fx-pv-Z84C4/maxresdefault.jpg"
 heroAlt: "MSI Claw 8 EX AI Plus may choi game cam tay Intel Arc G3 2026"
 heroCaption: "MSI Claw 8 EX AI+ là máy chơi game cầm tay đầu tiên dùng chip Intel Arc G3 Extreme. Nguồn: YouTube"
 tldr: "MSI vừa mở bán <strong>Claw 8 EX AI+</strong> từ ngày <strong>23/6/2026</strong>, giá <strong>1.699,99 USD</strong>, là máy chơi game cầm tay đầu tiên dùng chip <strong>Intel Arc G3 Extreme</strong> (nền tảng Panther Lake, 14 nhân, GPU tích hợp Arc B390 với 12 nhân Xe3). Máy trang bị màn hình <strong>8 inch FHD+</strong> độ phân giải 1920x1200, tần số quét biến thiên <strong>48-120Hz</strong>, độ sáng 500 nit, cần analog và trigger Hall Effect, RAM <strong>32GB LPDDR5X</strong>, SSD 1TB. Kết quả benchmark cho thấy máy chạy Hogwarts Legacy đạt khoảng <strong>60fps</strong> ở độ phân giải 1200p mức đồ họa trung bình với XeSS."
@@ -67,7 +67,7 @@ MSI vừa chính thức mở bán Claw 8 EX AI+, đánh dấu cột mốc quan t
 Nhiều reviewer quốc tế nhận xét thiết kế tổng thể của Claw 8 EX AI+ mang lại cảm giác chắc chắn, cao cấp hơn hẳn thế hệ Claw 8 AI+ trước đó, từ chất liệu vỏ máy cho tới độ hoàn thiện của cần analog và các nút bấm vai.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/9uI0g_YhHUM/hqdefault.jpg" alt="MSI Claw 8 EX cam giac the he moi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/9uI0g_YhHUM/maxresdefault.jpg" alt="MSI Claw 8 EX cam giac the he moi" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều reviewer nhận xét MSI Claw 8 EX AI+ mang lại cảm giác sử dụng thuộc thế hệ hoàn toàn mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Nhiều reviewer quốc tế nhận xét thiết kế tổng thể của Claw 8 
 Bên cạnh chip xử lý, Claw 8 EX AI+ còn gây ấn tượng với màn hình 8 inch độ phân giải FHD+ 1920x1200, hỗ trợ tần số quét biến thiên từ 48Hz tới 120Hz cùng độ sáng đỉnh 500 nit, đủ sức hiển thị rõ nét ngay cả khi sử dụng ngoài trời. Máy còn trang bị cần analog và trigger sử dụng cảm biến từ tính Hall Effect, giúp loại bỏ hoàn toàn hiện tượng trôi cần vốn từng gây khó chịu trên nhiều thế hệ máy chơi game cầm tay trước đây sử dụng chiết áp điện trở truyền thống.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2Gy0PqODe5k/hqdefault.jpg" alt="MSI Claw 8 EX AI Plus danh gia vua ra mat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/2Gy0PqODe5k/maxresdefault.jpg" alt="MSI Claw 8 EX AI Plus danh gia vua ra mat" loading="lazy" width="1280" height="720">
   <figcaption>MSI Claw 8 EX AI+ được đánh giá là vua mới của phân khúc máy chơi game cầm tay ngay khi vừa ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Theo các bài test benchmark từ giới công nghệ quốc tế, Claw 8 EX AI
 Công nghệ XeSS, tương đương công nghệ upscaling DLSS của NVIDIA hay FSR của AMD, đóng vai trò quan trọng trong việc giúp Claw 8 EX AI+ đạt được mức khung hình ổn định như vậy, bằng cách render ở độ phân giải thấp hơn rồi dùng AI để nâng cấp hình ảnh lên độ phân giải đích, giảm tải đáng kể cho GPU tích hợp so với việc render trực tiếp ở độ phân giải gốc. Đây là lần đầu tiên công nghệ XeSS được tối ưu chuyên sâu cho một thiết bị cầm tay, thay vì chỉ chạy trên laptop và PC để bàn như trước đây.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/qXuIS7nPYJo/hqdefault.jpg" alt="Intel phat trien chip rieng cho MSI Claw 8 EX AI Plus" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/qXuIS7nPYJo/maxresdefault.jpg" alt="Intel phat trien chip rieng cho MSI Claw 8 EX AI Plus" loading="lazy" width="1280" height="720">
   <figcaption>Cận cảnh đầu tiên về chip Intel Arc G3 Extreme được phát triển chuyên biệt cho MSI Claw 8 EX AI+. Nguồn: YouTube</figcaption>
 </figure>
 

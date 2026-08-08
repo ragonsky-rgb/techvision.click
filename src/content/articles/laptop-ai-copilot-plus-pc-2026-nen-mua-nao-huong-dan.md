@@ -64,7 +64,7 @@ Copilot+ PC là tên gọi Microsoft đặt cho nhóm laptop Windows đạt mộ
 Ý nghĩa thực tế của NPU nằm ở chỗ nó cho phép chạy AI cục bộ, ngay trên máy, thay vì phụ thuộc hoàn toàn vào kết nối mạng và máy chủ đám mây. Điều này giúp bảo mật tốt hơn với dữ liệu nhạy cảm và phản hồi nhanh hơn. Máy đời 2026 đã trưởng thành đáng kể so với thế hệ đầu, khi phần lớn trang bị NPU trong khoảng 45 đến 55 TOPS, đi kèm RAM LPDDR5X và ổ SSD Gen4 tốc độ cao. Các tính năng AI của Windows cũng ngày càng hoàn thiện, như đã đề cập trong [bài viết về Windows 11 phiên bản 26H2 với loạt tính năng AI và taskbar mới](/articles/windows-11-26h2-tinh-nang-moi-ai-taskbar-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/YGH62M0MgOo/hqdefault.jpg" alt="Laptop AI mỏng nhẹ đời 2026 với chip tích hợp NPU" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YGH62M0MgOo/maxresdefault.jpg" alt="Laptop AI mỏng nhẹ đời 2026 với chip tích hợp NPU" loading="lazy" width="1280" height="720">
   <figcaption>Laptop AI đời 2026 tích hợp NPU mạnh, mỏng nhẹ và pin lâu hơn nhờ tiến trình chip mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Hiện có ba nền tảng chip đạt chuẩn Copilot+ PC, mỗi loại có th�
 Ở phía x86 quen thuộc, Intel Core Ultra và AMD Ryzen AI mang lại khả năng tương thích phần mềm tốt hơn, phù hợp với người cần chạy nhiều ứng dụng chuyên ngành. Máy dùng Intel thường đạt 14 đến 17 giờ pin, còn AMD khoảng 13 đến 16 giờ, thấp hơn Snapdragon nhưng vẫn rất tốt so với chuẩn cũ. Lựa chọn cuối cùng phụ thuộc vào ưu tiên của bạn: nếu coi trọng pin và tính di động thì Snapdragon là ứng viên sáng giá, còn nếu cần chạy phần mềm đặc thù không được tối ưu cho ARM thì Intel hoặc AMD an toàn hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TdmOT-B_M6M/hqdefault.jpg" alt="So sánh các nền tảng chip Copilot Plus PC Snapdragon Intel AMD" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TdmOT-B_M6M/maxresdefault.jpg" alt="So sánh các nền tảng chip Copilot Plus PC Snapdragon Intel AMD" loading="lazy" width="1280" height="720">
   <figcaption>Ba nền tảng chip Copilot+ PC khác nhau về thời lượng pin và mức độ tương thích phần mềm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Vấn đề nằm ở chỗ giá RAM và ổ cứng đang leo thang mạnh, do n
 Câu hỏi phổ biến nhất hiện nay là nên mua laptop ngay hay chờ giá giảm. Với xu hướng giá linh kiện còn tăng, lời khuyên chung từ nhiều chuyên gia là nếu đã có nhu cầu rõ ràng, đặc biệt cho học tập và công việc, thì nên mua sớm thay vì chờ đợi vô định. Trường hợp chưa thực sự cần, bạn có thể chờ, nhưng không nên kỳ vọng một đợt giảm giá mạnh trong ngắn hạn, bởi áp lực nguồn cung từ thị trường AI khó hạ nhiệt nhanh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/LLlvuAdGRqM/hqdefault.jpg" alt="Cân nhắc mua laptop AI Copilot Plus PC 2026 giữa lúc giá linh kiện tăng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LLlvuAdGRqM/maxresdefault.jpg" alt="Cân nhắc mua laptop AI Copilot Plus PC 2026 giữa lúc giá linh kiện tăng" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều chuyên gia khuyên nên xác định rõ nhu cầu và mua sớm nếu cần, thay vì chờ giá linh kiện giảm. Nguồn: YouTube</figcaption>
 </figure>
 

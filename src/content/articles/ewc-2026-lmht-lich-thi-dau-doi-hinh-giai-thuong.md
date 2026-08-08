@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T15:20:00+07:00"
 dateModified: "2026-07-13T15:20:00+07:00"
 deck: "Esports World Cup 2026 bộ môn Liên Minh Huyền Thoại khởi tranh từ ngày 15 tới 19/7 tại Paris, quy tụ 16 đội mạnh nhất thế giới tranh tổng giải thưởng 2 triệu USD. Giải chia làm bốn bảng đấu theo thể thức GSL loại kép, mỗi bảng bốn đội, hai suất đầu bảng đi tiếp vào vòng playoff. T1 mở màn ngay ngày đầu, trong khi Gen.G bước vào giải với tư cách đương kim vô địch EWC 2025. Bên cạnh chuyên môn, câu chuyện lệch múi giờ khi các đội Hàn Quốc bay sang châu Âu cũng là ẩn số đáng chú ý."
-heroImage: "https://i.ytimg.com/vi/ltGSLefa5Uw/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/ltGSLefa5Uw/maxresdefault.jpg"
 heroAlt: "Esports World Cup 2026 bộ môn LMHT khởi tranh tại Paris với 16 đội và giải thưởng 2 triệu USD"
 heroCaption: "EWC 2026 quy tụ những pha xử lý đỉnh cao từ 16 đội LMHT hàng đầu thế giới. Nguồn: YouTube"
 tldr: "<strong>Esports World Cup 2026</strong> bộ môn LMHT diễn ra từ <strong>15 tới 19/7</strong> tại <strong>Paris</strong>, quy tụ <strong>16 đội</strong> mạnh nhất thế giới tranh tổng thưởng <strong>2 triệu USD</strong>. Giải áp dụng thể thức <strong>GSL loại kép</strong> với bốn bảng, mỗi bảng bốn đội, hai suất đầu bảng đi tiếp. Vòng bảng dùng thể thức Bo1 ở các trận mở màn và Bo3 ở nhánh loại. <strong>T1</strong> nằm cùng bảng với Gen.G, LYON và AG.AL, ra quân ngay ngày đầu, trong khi <strong>Gen.G</strong> dự giải với tư cách đương kim vô địch EWC 2025. Bảng còn lại có HLE, TSW, G2 và BLG, hứa hẹn nhiều màn so tài đáng xem giữa các khu vực."
@@ -75,7 +75,7 @@ Với lịch thi đấu chỉ gói gọn trong năm ngày, thể lực và khả
 Cách chia bảng năm nay hứa hẹn nhiều màn so tài chất lượng ngay từ vòng bảng. Bảng có T1 quy tụ cả Gen.G, đương kim vô địch EWC 2025, cùng LYON đại diện Bắc Mỹ và AG.AL của Trung Quốc. Đây được xem là một trong những bảng đấu cân bằng và khó lường nhất, khi không có đội nào áp đảo hoàn toàn về mặt tên tuổi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/rzN7TqOvzSE/hqdefault.jpg" alt="T1 và BLG trong một trận đấu quốc tế gần đây" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rzN7TqOvzSE/maxresdefault.jpg" alt="T1 và BLG trong một trận đấu quốc tế gần đây" loading="lazy" width="1280" height="720">
   <figcaption>Các đại diện LCK và LPL nhiều lần chạm trán ở đấu trường quốc tế, hứa hẹn tái hiện tại Paris. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Cách chia bảng năm nay hứa hẹn nhiều màn so tài chất lượng ngay
 Bên cạnh chuyên môn, một yếu tố ngoài lề nhưng có sức nặng thực sự là chênh lệch múi giờ. Các đội Hàn Quốc như T1, Gen.G và HLE phải bay sang châu Âu, đối mặt với việc thích nghi thời gian trong khoảng thời gian rất ngắn trước khi vào giải. Lịch sử các giải quốc tế cho thấy yếu tố này từng ảnh hưởng không nhỏ tới phong độ, đặc biệt ở những trận sớm khi cơ thể tuyển thủ chưa kịp điều chỉnh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-cHj0tEaFvM/hqdefault.jpg" alt="HLE và T1 so tài trong một giải đấu quốc nội Hàn Quốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-cHj0tEaFvM/maxresdefault.jpg" alt="HLE và T1 so tài trong một giải đấu quốc nội Hàn Quốc" loading="lazy" width="1280" height="720">
   <figcaption>HLE bước vào EWC 2026 với vị thế nhà vô địch MSI, là ứng viên hàng đầu cho ngôi quán quân. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Ngược lại, các đội châu Âu và Bắc Mỹ được thi đấu ở khu
 ## Giải đấu bản lề trước thềm CKTG
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ltGSLefa5Uw/hq720.jpg" alt="Những pha xử lý ấn tượng tại Esports World Cup 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ltGSLefa5Uw/maxresdefault.jpg" alt="Những pha xử lý ấn tượng tại Esports World Cup 2026" loading="lazy" width="1280" height="720">
   <figcaption>EWC 2026 là dịp các đội thử nghiệm đấu pháp và khẳng định phong độ trước mùa giải quan trọng cuối năm. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -115,7 +115,7 @@ LE Audio còn mở ra các tính năng mới ngoài chất lượng thuần túy
 Với người đang chọn mua tai nghe trong giai đoạn chuyển giao này, một thiết bị hỗ trợ cả các codec quen thuộc lẫn LC3 sẽ bền tương lai hơn. Dù vậy, cũng không cần vội thay tai nghe chỉ vì LC3, vì các codec hiện có vẫn cho trải nghiệm tốt và hệ sinh thái LE Audio cần thêm thời gian để đầy đủ. Tư duy chọn theo nhu cầu thực tế này cũng đúng khi cân nhắc cấu hình phần cứng nói chung, như khi quyết định [màn hình OLED hay LCD phù hợp hơn](/articles/man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zOaYhLgNV4E/hqdefault.jpg" alt="Cách thiết lập codec âm thanh Bluetooth trên điện thoại Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zOaYhLgNV4E/sddefault.jpg" alt="Cách thiết lập codec âm thanh Bluetooth trên điện thoại Android" loading="lazy" width="640" height="480">
   <figcaption>Nhiều máy Android cho phép chọn codec Bluetooth trong phần cài đặt nhà phát triển. Nguồn: YouTube</figcaption>
 </figure>
 

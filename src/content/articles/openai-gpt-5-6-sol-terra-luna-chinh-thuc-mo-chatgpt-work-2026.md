@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-11T13:00:00+07:00"
 dateModified: "2026-07-11T13:00:00+07:00"
 deck: "OpenAI chính thức mở rộng rãi GPT-5.6 cho tất cả người dùng trên ChatGPT, Codex và API ngày 9/7/2026, sau khi hé lộ bản xem trước từ ngày 26/6. Điểm khác biệt lớn nhất là mô hình được chia thành ba mức Sol, Terra và Luna theo nhu cầu và ngân sách, đi kèm agent ChatGPT Work được thiết kế để làm trọn cả một công việc thay vì chỉ trả lời câu hỏi."
-heroImage: "https://i.ytimg.com/vi/rAKoXEw1-9k/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/rAKoXEw1-9k/maxresdefault.jpg"
 heroAlt: "OpenAI GPT-5.6 với ba mức mô hình Sol, Terra và Luna cùng agent ChatGPT Work"
 heroCaption: "GPT-5.6 chính thức mở cho tất cả người dùng trên ChatGPT, Codex và API. Nguồn: YouTube"
 tldr: "<strong>OpenAI</strong> chính thức mở rộng rãi <strong>GPT-5.6</strong> cho tất cả người dùng trên ChatGPT, Codex và API vào ngày <strong>9/7/2026</strong>, sau khi hé lộ bản xem trước từ ngày <strong>26/6</strong>. Mô hình được chia thành ba mức: <strong>Sol</strong> (bản mạnh nhất), <strong>Terra</strong> (cân bằng cho công việc hằng ngày) và <strong>Luna</strong> (nhanh và giá rẻ). Giá API mỗi 1 triệu token dao động từ <strong>1 USD</strong> đầu vào của Luna tới <strong>5 USD</strong> đầu vào và <strong>30 USD</strong> đầu ra của Sol. Bản ra mắt đi kèm agent <strong>ChatGPT Work</strong> được thiết kế để thực hiện trọn cả một công việc, cùng tính năng gọi công cụ theo lập trình trong API Responses. Sol chạy trên hạ tầng <strong>Cerebras</strong> đạt tốc độ tới <strong>750 token/giây</strong> trong tháng 7."
@@ -85,7 +85,7 @@ Bảng giá API là nơi ba mức thể hiện rõ nhất sự khác biệt về
 Về hiệu năng, OpenAI cho biết Terra đạt mức tương đương GPT-5.5 nhưng chi phí thấp hơn khoảng hai lần, tức là người dùng đang trả ít tiền hơn cho cùng một chất lượng so với thế hệ trước. Luna tuy là bản rẻ nhất nhưng được mô tả là mạnh ở mức chi phí thấp, phù hợp cho các luồng cần phản hồi nhanh. Một điểm nhấn kỹ thuật khác là bản Sol chạy trên hạ tầng chip Cerebras đạt tốc độ lên tới khoảng 750 token mỗi giây trong tháng 7, giúp các phản hồi dài và các luồng agent nhiều bước hoàn tất nhanh hơn hẳn. Các con số hiệu năng và giá này được đưa ra bởi OpenAI và được các trang như VentureBeat cùng MarkTechPost tường thuật lại trong ngày 9/7.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/AllgkVDf9gk/hqdefault.jpg" alt="So sánh giá và hiệu năng ba mức GPT-5.6 Sol, Terra, Luna" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AllgkVDf9gk/maxresdefault.jpg" alt="So sánh giá và hiệu năng ba mức GPT-5.6 Sol, Terra, Luna" loading="lazy" width="1280" height="720">
   <figcaption>Ba mức GPT-5.6 chênh nhau nhiều lần về chi phí API cho cùng khối lượng token. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Về hiệu năng, OpenAI cho biết Terra đạt mức tương đương GPT-5.5
 Song song với ba mô hình, OpenAI giới thiệu ChatGPT Work, một agent được thiết kế để thực hiện trọn cả một công việc thay vì chỉ trả lời một câu hỏi rồi dừng lại. Khác với cách dùng truyền thống, nơi người dùng đặt câu hỏi và tự thực hiện các bước tiếp theo, ChatGPT Work hướng tới việc tự chạy qua nhiều bước, gọi công cụ và hoàn tất tác vụ từ đầu tới cuối. Đây là bước đi rõ ràng theo hướng agentic AI, tức là AI hành động thay vì chỉ gợi ý.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/m8DFb060GrQ/hqdefault.jpg" alt="Agent ChatGPT Work thực hiện trọn một công việc nhiều bước" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/m8DFb060GrQ/maxresdefault.jpg" alt="Agent ChatGPT Work thực hiện trọn một công việc nhiều bước" loading="lazy" width="1280" height="720">
   <figcaption>ChatGPT Work được định vị để làm trọn một tác vụ thay vì chỉ trả lời câu hỏi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Song song với ba mô hình, OpenAI giới thiệu ChatGPT Work, một agent đ
 Một chi tiết đáng chú ý trong cách triển khai là GPT-5.6 không được mở đại trà ngay từ đầu. Ban đầu, OpenAI chỉ mở cho khoảng 20 tổ chức và chia sẻ mô hình cùng kế hoạch với chính phủ Mỹ trước, theo tường thuật của TestingCatalog và các trang chuyên theo dõi OpenAI. Chỉ tới ngày 9/7, mô hình mới được mở rộng rãi cho tất cả người dùng. Cách làm theo giai đoạn này giúp hãng thu thập phản hồi thực tế, kiểm tra an toàn và chuẩn bị hạ tầng trước khi phục vụ lượng người dùng rất lớn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XiCwiiPQRbg/hqdefault.jpg" alt="OpenAI mở GPT-5.6 theo giai đoạn từ khoảng 20 tổ chức trước khi mở cho tất cả" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XiCwiiPQRbg/maxresdefault.jpg" alt="OpenAI mở GPT-5.6 theo giai đoạn từ khoảng 20 tổ chức trước khi mở cho tất cả" loading="lazy" width="1280" height="720">
   <figcaption>GPT-5.6 được mở dần qua khoảng 20 tổ chức trước khi phổ cập ngày 9/7. Nguồn: YouTube</figcaption>
 </figure>
 

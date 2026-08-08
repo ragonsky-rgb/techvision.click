@@ -76,7 +76,7 @@ Mục tiêu của đợt chuẩn hóa lần này là bảo đảm mỗi thuê ba
 Bước đầu tiên là xác định số của bạn đã chuẩn hóa hay chưa. Cách đơn giản nhất là mở ứng dụng của nhà mạng hoặc VNeID để xem trạng thái thuê bao. Nếu số đang bị khóa một chiều, đó là dấu hiệu rõ ràng cần xác thực ngay. Với VNeID, bạn cần tài khoản đã kích hoạt mức 2, sau đó tìm tới mục xác thực số thuê bao di động, nhập số điện thoại và làm theo hướng dẫn để đối chiếu với thông tin căn cước.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mjshq5lQhoE/hqdefault.jpg" alt="Các bước xác thực SIM chính chủ trên ứng dụng VNeID" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mjshq5lQhoE/maxresdefault.jpg" alt="Các bước xác thực SIM chính chủ trên ứng dụng VNeID" loading="lazy" width="1280" height="720">
   <figcaption>VNeID cho phép xác thực số thuê bao ngay tại nhà, chỉ cần tài khoản định danh mức 2. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bước đầu tiên là xác định số của bạn đã chuẩn hóa hay ch�
 Ngoài VNeID, mỗi nhà mạng đều có ứng dụng riêng hỗ trợ xác thực. Khách hàng Viettel có thể dùng My Viettel hoặc Viettel Tammi, khách VinaPhone thực hiện trên My VNPT, còn người dùng MobiFone dùng My MobiFone, trong đó một số trường hợp hỗ trợ xác thực qua công nghệ NFC bằng cách quét chip trên thẻ căn cước. Việc chọn kênh nào tùy thuộc vào nhà mạng bạn đang dùng và mức độ thuận tiện.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/McJW95O6Baw/hqdefault.jpg" alt="Xác thực thông tin thuê bao trên ứng dụng nhà mạng My VNPT, My Viettel, My MobiFone" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/McJW95O6Baw/sddefault.jpg" alt="Xác thực thông tin thuê bao trên ứng dụng nhà mạng My VNPT, My Viettel, My MobiFone" loading="lazy" width="640" height="480">
   <figcaption>Mỗi nhà mạng có ứng dụng riêng để xác thực thông tin thuê bao chính chủ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Nếu tự làm không thành công, phương án cuối cùng vẫn là ra đi�
 Với nhiều người, số điện thoại không chỉ để liên lạc mà còn là chìa khóa cho hàng loạt tài khoản quan trọng, từ ngân hàng, ví điện tử tới các dịch vụ công. Việc bị thu hồi số có thể kéo theo phiền toái lớn khi phải cập nhật lại thông tin ở khắp nơi. Để tránh rơi vào tình huống này, bạn nên nắm rõ [cách xác thực thuê bao qua VNeID để không bị khóa SIM](/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html). Đây cũng là xu hướng chung khi các nền tảng số ngày càng gắn chặt với danh tính người dùng, tương tự cách [Zalo và nhiều dịch vụ hướng tới trợ lý công dân số cho hàng chục triệu người](/articles/zalo-binh-dan-hoa-ai-2026-tro-ly-cong-dan-so-80-trieu-nguoi-dung.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/YeZvBm-eT4w/hqdefault.jpg" alt="Người dùng hoàn tất xác thực thuê bao VinaPhone qua ứng dụng My VNPT" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YeZvBm-eT4w/maxresdefault.jpg" alt="Người dùng hoàn tất xác thực thuê bao VinaPhone qua ứng dụng My VNPT" loading="lazy" width="1280" height="720">
   <figcaption>Hoàn tất xác thực sớm giúp tránh nguy cơ mất số và gián đoạn dịch vụ. Nguồn: YouTube</figcaption>
 </figure>
 

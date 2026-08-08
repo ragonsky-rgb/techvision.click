@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T11:40:00+07:00"
 dateModified: "2026-07-04T11:40:00+07:00"
 deck: "Antigravity giới thiệu A1, flycam đầu tiên trên thị trường tiêu dùng tích hợp camera quay 360 độ, ghi lại toàn bộ khung cảnh xung quanh drone ở độ phân giải 8K liên tục trong suốt chuyến bay. Sản phẩm còn thay đổi hoàn toàn cách điều khiển truyền thống, sử dụng kính thực tế ảo và cần cầm tay thay vì tay cầm hai cần gạt quen thuộc. Giá bán từ 1.599 USD cho bộ tiêu chuẩn."
-heroImage: "https://i.ytimg.com/vi/ALajwI3cBqs/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/ALajwI3cBqs/maxresdefault.jpg"
 heroAlt: "Antigravity A1 flycam 360 do dau tien the gioi 2026"
 heroCaption: "Antigravity A1, flycam quay 360 độ đầu tiên trên thị trường tiêu dùng. Nguồn: YouTube"
 tldr: "<strong>Antigravity A1</strong> là flycam đầu tiên trên thị trường tiêu dùng tích hợp camera <strong>360 độ</strong>, ghi lại toàn bộ khung cảnh xung quanh ở độ phân giải <strong>8K</strong> liên tục trong suốt chuyến bay, cho phép chỉnh khung hình sau khi quay xong thay vì phải quyết định góc quay ngay lúc bay. Máy nặng dưới <strong>250 gram</strong>, điều khiển bằng kính thực tế ảo kết hợp cần cầm tay thay vì tay cầm hai cần gạt truyền thống, cần thêm người quan sát hỗ trợ khi bay. Giá khởi điểm <strong>1.599 USD</strong> cho bộ tiêu chuẩn."
@@ -67,7 +67,7 @@ Antigravity, thương hiệu mới nổi trong lĩnh vực flycam quay phim, ch�
 Về chất lượng hình ảnh, nhiều reviewer đánh giá kết quả tốt hơn mong đợi khi crop lại một phần khung hình cụ thể, dù vẫn chưa thể sánh ngang hoàn toàn với camera drone truyền thống được tối ưu hóa riêng cho một hướng quay cố định duy nhất. Tuy nhiên, sự linh hoạt trong việc tạo ra các góc quay điện ảnh, chuyển cảnh ấn tượng ngay cả khi kỹ năng điều khiển bay còn cơ bản mới chính là điểm bán hàng thực sự thuyết phục của sản phẩm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ALajwI3cBqs/hqdefault.jpg" alt="Antigravity A1 drone 360 do dau tien the gioi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ALajwI3cBqs/maxresdefault.jpg" alt="Antigravity A1 drone 360 do dau tien the gioi 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều reviewer gọi Antigravity A1 là chiếc drone tiêu dùng độc đáo nhất họ từng được trải nghiệm bay thử. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Về chất lượng hình ảnh, nhiều reviewer đánh giá kết quả tốt
 Antigravity A1 còn thay đổi hoàn toàn cách điều khiển flycam truyền thống. Thay vì sử dụng tay cầm với hai cần gạt quen thuộc, người dùng đeo kính thực tế ảo để xem hình ảnh trực tiếp 360 độ từ góc nhìn của drone, kết hợp cần cầm tay và chuyển động cổ tay để điều khiển hướng bay, mang lại trải nghiệm hoàn toàn khác biệt so với cách điều khiển flycam thông thường mà nhiều game thủ, nhà làm phim đã quen thuộc trong nhiều năm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ziUkKsdFVeU/hqdefault.jpg" alt="Antigravity A1 360 do kha nang sang tao 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ziUkKsdFVeU/maxresdefault.jpg" alt="Antigravity A1 360 do kha nang sang tao 2026" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng sáng tạo với 360 độ khung hình mở ra nhiều hướng đi mới cho nhà làm phim sử dụng Antigravity A1. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Do người điều khiển tập trung hoàn toàn vào hình ảnh trong kính
 Với người đã quen thuộc với flycam truyền thống và muốn tìm hiểu thêm các lựa chọn khác trên thị trường, bài viết [top flycam đáng mua tháng 7/2026](/articles/top-flycam-dang-mua-thang-7-2026.html) tổng hợp nhiều lựa chọn phổ biến hơn từ các thương hiệu lớn như DJI. Người mới bắt đầu tìm hiểu về flycam nói chung cũng nên tham khảo thêm bài viết [cách chọn flycam, drone quay phim cho người mới năm 2026](/articles/cach-chon-flycam-drone-quay-phim-cho-nguoi-moi-2026.html) trước khi cân nhắc đầu tư vào một sản phẩm độc đáo nhưng đắt tiền như Antigravity A1.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ALajwI3cBqs/mqdefault.jpg" alt="Antigravity A1 drone thay doi cach bay 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ALajwI3cBqs/maxresdefault.jpg" alt="Antigravity A1 drone thay doi cach bay 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều nhà làm phim chuyên nghiệp coi Antigravity A1 là công cụ sáng tạo hoàn toàn mới trong ngành quay phim bằng flycam. Nguồn: YouTube</figcaption>
 </figure>
 

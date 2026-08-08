@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-16T10:30:00+07:00"
 dateModified: "2026-07-16T10:30:00+07:00"
 deck: "Samsung vừa bắt tay Sony Pictures trong một chiến dịch quảng cáo đình đám, gắn dòng điện thoại gập Galaxy mới với bom tấn Spider-Man: Brand New Day. Loạt quảng cáo điện ảnh cho thấy Người Nhện dùng Galaxy Z Flip gọn nhẹ khi hành động, còn nhân vật Ned Leeds do Jacob Batalon thủ vai dùng Galaxy Z Fold và Galaxy Watch để lần tìm Spider-Man. Đoạn phim quảng cáo chính mang tên A brand new shape for a Brand New Day khéo léo nhá hàng thiết kế mới của Galaxy Z Fold 8, ngay trước thềm sự kiện Unpacked ngày 22/7. Đây là màn kết hợp marketing thông minh khi phim chính thức ra rạp ngày 31/7."
-heroImage: "https://i.ytimg.com/vi/fUE_T6qaroI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/fUE_T6qaroI/maxresdefault.jpg"
 heroAlt: "Samsung hợp tác Spider-Man Brand New Day quảng bá Galaxy Z Fold 8 năm 2026"
 heroCaption: "Quảng cáo A brand new shape for a Brand New Day nhá hàng thiết kế Galaxy Z Fold 8. Nguồn: YouTube"
 tldr: "<strong>Samsung</strong> hợp tác Sony Pictures cho bom tấn <strong>Spider-Man: Brand New Day</strong>, tung loạt quảng cáo điện ảnh gắn dòng điện thoại gập Galaxy mới với thế giới Người Nhện. Đoạn phim chính <strong>A brand new shape for a Brand New Day</strong> nhá hàng thiết kế mới của <strong>Galaxy Z Fold 8</strong>, do đạo diễn Kasra Farahani thực hiện. Quảng cáo cho thấy Spider-Man dùng <strong>Galaxy Z Flip</strong> gọn nhẹ khi hành động, còn Ned Leeds do <strong>Jacob Batalon</strong> đóng dùng Galaxy Z Fold và Galaxy Watch để tìm Người Nhện. Chiến dịch hé lộ lần đầu diện mạo <strong>Z Flip 8, Z Fold 8 và Z Fold 8 Ultra</strong>, ngay trước Unpacked <strong>22/7</strong>, còn phim ra rạp <strong>31/7</strong>."
@@ -75,7 +75,7 @@ Cách kể chuyện này biến sản phẩm thành một phần của cốt tru
 Ẩn sau lớp vỏ giải trí là mục tiêu thương mại rõ ràng: hé lộ diện mạo dòng sản phẩm mới. Tên đoạn phim A brand new shape for a Brand New Day chơi chữ khéo léo, vừa nhắc tới tên phim Brand New Day vừa ám chỉ hình dáng mới của Galaxy Z Fold 8. Chiến dịch được cho là lần đầu hé lộ diện mạo của cả Galaxy Z Flip 8, Z Fold 8 và Z Fold 8 Ultra.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IkJK8cOJUak/hqdefault.jpg" alt="Jacob Batalon trong vai Ned Leeds trong chiến dịch Samsung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IkJK8cOJUak/maxresdefault.jpg" alt="Jacob Batalon trong vai Ned Leeds trong chiến dịch Samsung" loading="lazy" width="1280" height="720">
   <figcaption>Nhân vật Ned Leeds do Jacob Batalon thủ vai là cầu nối giữa quảng cáo Samsung và bộ phim. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Theo các thông tin nhá hàng, Galaxy Z Fold 8 sẽ có hình dáng khác bi�
 Thời điểm của chiến dịch được tính toán rất kỹ. Sản phẩm ra mắt tại Unpacked ngày 22/7, trong khi phim Spider-Man: Brand New Day ra rạp ngày 31/7. Khoảng cách gần nhau này tạo ra hiệu ứng cộng hưởng: quảng cáo hâm nóng cả điện thoại lẫn bộ phim, còn sự chú ý dành cho phim lại kéo theo sự quan tâm tới sản phẩm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/KjTEXWbdYHE/hqdefault.jpg" alt="Chiến dịch Ned lần tìm Spider-Man kết hợp thiết bị Galaxy" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KjTEXWbdYHE/maxresdefault.jpg" alt="Chiến dịch Ned lần tìm Spider-Man kết hợp thiết bị Galaxy" loading="lazy" width="1280" height="720">
   <figcaption>Tuyến truyện Ned Leeds lần tìm Người Nhện giúp phô diễn khả năng đa nhiệm của Galaxy Z Fold. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Thời điểm của chiến dịch được tính toán rất kỹ. Sản phẩ
 ## Vì sao cách làm này hiệu quả
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/62bIsvRcPv0/hqdefault.jpg" alt="Bối cảnh phim Spider-Man Brand New Day ra rạp cuối tháng 7" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/62bIsvRcPv0/maxresdefault.jpg" alt="Bối cảnh phim Spider-Man Brand New Day ra rạp cuối tháng 7" loading="lazy" width="1280" height="720">
   <figcaption>Spider-Man: Brand New Day ra rạp ngày 31/7, cộng hưởng với chiến dịch của Samsung. Nguồn: YouTube</figcaption>
 </figure>
 

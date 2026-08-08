@@ -78,7 +78,7 @@ Camera là yếu tố được Honor đầu tư nhất trên 600 Pro. Cảm bi�
 Ở mặt trước, camera selfie 50MP đáp ứng tốt nhu cầu chụp chân dung và gọi video chất lượng cao. Với người dùng coi trọng nhiếp ảnh di động nhưng không muốn chi tiền cho flagship đầu bảng, cấu hình camera của Honor 600 Pro là điểm cộng đáng giá. So với các đối thủ tập trung vào hiệu năng gaming hay camera hợp tác thương hiệu như trong bài [Xiaomi 17 và iQOO 15](/articles/xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026.html), Honor 600 Pro chọn hướng cân bằng giữa camera zoom đa dụng và pin lớn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/bnIGtUfZVe4/hqdefault.jpg" alt="Honor 600 Pro thu nghiem camera 200MP anh mau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bnIGtUfZVe4/maxresdefault.jpg" alt="Honor 600 Pro thu nghiem camera 200MP anh mau" loading="lazy" width="1280" height="720">
   <figcaption>Camera chính 200MP cho ảnh chi tiết và khả năng zoom tốt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Một điểm mạnh nữa của Honor 600 Pro là viên pin dung lượng 7000m
 Màn hình AMOLED 6,57 inch với độ phân giải 1264x2728 và tần số quét 120Hz cho trải nghiệm hiển thị sắc nét, cuộn mượt và màu sắc sống động. Kích thước này khá cân đối, đủ lớn để giải trí nhưng vẫn cầm nắm thoải mái. Sự kết hợp giữa màn hình chất lượng, pin lớn và sạc nhanh giúp máy trở thành lựa chọn thực dụng cho người dùng cần một chiếc điện thoại bền bỉ trong suốt ngày dài.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DrGvmcikp1w/hqdefault.jpg" alt="Honor 600 Pro tinh nang AI va trai nghiem su dung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DrGvmcikp1w/maxresdefault.jpg" alt="Honor 600 Pro tinh nang AI va trai nghiem su dung" loading="lazy" width="1280" height="720">
   <figcaption>Honor 600 Pro bổ sung các tính năng AI trong trải nghiệm sử dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Honor 600 Pro là lựa chọn đáng cân nhắc cho người dùng ưu tiên c
 Trước khi quyết định, người dùng nên chờ giá bán chính thức tại Việt Nam và so sánh với các đối thủ cùng phân khúc. Nếu ngân sách hạn chế hơn, các mẫu trong cùng dòng như [HONOR 600 Lite với pin 6.520mAh](/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html) cũng là phương án đáng xem. Việc trải nghiệm trực tiếp camera, cảm nhận độ nặng và kiểm tra chính sách bảo hành tại đại lý chính hãng sẽ giúp bạn chọn được sản phẩm phù hợp nhất với nhu cầu và ngân sách của mình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/td8Wv0pKfi4/hqdefault.jpg" alt="So sanh Honor 600 Pro va Honor 600 camera thiet ke" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/td8Wv0pKfi4/maxresdefault.jpg" alt="So sanh Honor 600 Pro va Honor 600 camera thiet ke" loading="lazy" width="1280" height="720">
   <figcaption>Honor 600 Pro nâng cấp camera và hiệu năng so với bản tiêu chuẩn. Nguồn: YouTube</figcaption>
 </figure>
 

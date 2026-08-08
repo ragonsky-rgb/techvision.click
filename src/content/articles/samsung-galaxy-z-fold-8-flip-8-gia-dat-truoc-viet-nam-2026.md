@@ -68,7 +68,7 @@ Sau nhiều tháng rò rỉ liên tục, dòng điện thoại gập mới của
 Người dùng cần lưu ý rằng đặt trước trước ngày ra mắt đồng nghĩa với việc đăng ký khi giá bán và cấu hình chính thức chưa được công bố. Toàn bộ thông số ở thời điểm này vẫn là dự kiến dựa trên nguồn rò rỉ, và chỉ được chốt sau đêm Unpacked. Vì vậy, các chương trình đặt cọc thường cho phép hoàn cọc hoặc chuyển đổi phiên bản, và đây là điều khoản mà người mua nên đọc kỹ trước khi tham gia. Để hiểu bức tranh tổng thể về sự kiện và các sản phẩm đi kèm, bạn có thể tham khảo thêm [bài phân tích về Galaxy Unpacked ngày 22/7 và bộ đôi Z Fold 8, Z Flip 8](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/4gry7j36MCs/hqdefault.jpg" alt="Thiết kế Galaxy Z Fold 8 dựng lại từ các bản rò rỉ trước ngày ra mắt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4gry7j36MCs/maxresdefault.jpg" alt="Thiết kế Galaxy Z Fold 8 dựng lại từ các bản rò rỉ trước ngày ra mắt" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh công nghệ đã dựng lại thiết kế Galaxy Z Fold 8 dựa trên các bản rò rỉ trước ngày ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Theo các nguồn tin quốc tế, Galaxy Z Fold 8 sẽ là bước nhảy đán
 Bên cạnh bản tiêu chuẩn, Samsung được cho là bổ sung phiên bản Galaxy Z Fold 8 Ultra ở nhóm cao cấp nhất. Bản Ultra tập trung vào cụm camera đầu bảng, viên pin dung lượng lớn và trải nghiệm màn hình gập chất lượng cao, nhắm tới nhóm người dùng sẵn sàng chi trả cho thiết bị gập tốt nhất trên thị trường. Chi tiết về cụm camera của bản Ultra đã được đề cập trong [bài viết về Galaxy Z Fold 8 Ultra và cảm biến 200MP](/articles/samsung-galaxy-z-fold8-ultra-ro-ri-camera-200mp-2026.html), cho thấy Samsung muốn thu hẹp khoảng cách nhiếp ảnh giữa máy gập và các flagship dạng thanh truyền thống.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VodjFgv6SEE/hqdefault.jpg" alt="Galaxy Z Fold 8 bản Wide với tỷ lệ màn hình mới khi mở ra" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VodjFgv6SEE/maxresdefault.jpg" alt="Galaxy Z Fold 8 bản Wide với tỷ lệ màn hình mới khi mở ra" loading="lazy" width="1280" height="720">
   <figcaption>Bản Z Fold 8 tiêu chuẩn được cho là điều chỉnh tỷ lệ màn hình để dễ dùng hơn khi mở. Nguồn: YouTube</figcaption>
 </figure>
 

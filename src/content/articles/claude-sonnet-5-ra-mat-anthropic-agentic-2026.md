@@ -71,7 +71,7 @@ Theo Anthropic, Sonnet 5 có khả năng tự lập kế hoạch, sử dụng c�
 Về mặt giá cả, Claude Sonnet 5 mở bán với mức giá ưu đãi 2 USD cho mỗi triệu token đầu vào và 10 USD cho mỗi triệu token đầu ra, áp dụng đến hết ngày 31/8/2026, sau đó sẽ tăng lên mức tiêu chuẩn 3 USD và 15 USD mỗi triệu token. Dù đã tăng, mức giá này vẫn chỉ bằng khoảng một nửa tới hai phần ba so với Opus 4.8, hiện vẫn duy trì mức giá 5 USD đầu vào và 25 USD đầu ra mỗi triệu token, biến Sonnet 5 trở thành lựa chọn kinh tế hơn đáng kể cho các nhà phát triển muốn triển khai agent AI ở quy mô lớn mà không phải gánh chi phí vận hành quá cao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/4bTs-QWy5zs/hqdefault.jpg" alt="Tổng quan các tính năng và cải tiến của Claude Sonnet 5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4bTs-QWy5zs/maxresdefault.jpg" alt="Tổng quan các tính năng và cải tiến của Claude Sonnet 5" loading="lazy" width="1280" height="720">
   <figcaption>Chiến lược giá cạnh tranh giúp Claude Sonnet 5 trở thành lựa chọn hấp dẫn cho các nhà phát triển agent AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Với người mới, rào cản thật ra không nằm ở giá token mà ở c
 Một điểm đáng chú ý khác trên Claude Sonnet 5 là việc trở thành mô hình cấp Sonnet đầu tiên được trang bị các biện pháp bảo vệ an ninh mạng thời gian thực, có khả năng nhận diện và từ chối các yêu cầu liên quan tới những chủ đề an ninh mạng bị cấm hoặc có mức độ rủi ro cao. Tính năng này cho thấy Anthropic ngày càng chú trọng hơn tới khía cạnh an toàn khi triển khai các mô hình có khả năng agentic mạnh mẽ, đặc biệt trong bối cảnh các mô hình AI ngày càng có khả năng tự động thực hiện nhiều tác vụ phức tạp mà không cần giám sát chặt chẽ từng bước từ con người.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/bZeOVDX2jHw/hqdefault.jpg" alt="Đánh giá chi tiết khả năng lập trình và sử dụng công cụ của Claude Sonnet 5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bZeOVDX2jHw/maxresdefault.jpg" alt="Đánh giá chi tiết khả năng lập trình và sử dụng công cụ của Claude Sonnet 5" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều nhà phát triển đã nhanh chóng thử nghiệm khả năng lập trình agentic của Claude Sonnet 5. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Một điểm đáng chú ý khác trên Claude Sonnet 5 là việc trở thành
 Đáng chú ý, Claude Sonnet 5 đã trở thành lựa chọn mặc định trên toàn bộ hệ sinh thái sản phẩm của Anthropic ngay từ thời điểm ra mắt, bao gồm các gói Free và Pro dành cho người dùng cá nhân, cũng như Max, Team, Enterprise, Claude Code và Claude Platform dành cho nhóm khách hàng doanh nghiệp và nhà phát triển. Việc triển khai đồng loạt trên diện rộng ngay từ đầu, thay vì giới hạn ở một vài gói dịch vụ cao cấp, cho thấy mức độ tự tin cao của Anthropic vào chất lượng và độ ổn định của mô hình mới trước khi chính thức đưa ra thị trường rộng rãi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/tIyQoLeTT3s/hqdefault.jpg" alt="Trải nghiệm thực tế Claude Sonnet 5 trên nhiều tác vụ khác nhau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tIyQoLeTT3s/maxresdefault.jpg" alt="Trải nghiệm thực tế Claude Sonnet 5 trên nhiều tác vụ khác nhau" loading="lazy" width="1280" height="720">
   <figcaption>Claude Sonnet 5 nhanh chóng nhận được sự quan tâm lớn từ cộng đồng nhà phát triển ngay sau khi ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T15:40:00+07:00"
 dateModified: "2026-07-13T15:40:00+07:00"
 deck: "TSMC vừa công bố doanh thu quý 2/2026 đạt 1,27 nghìn tỷ Đài tệ, khoảng 39,6 tỷ USD, tăng 36% so với cùng kỳ và vượt mốc cao nhất trong dự báo tự đưa ra hồi tháng 4. Riêng tháng 6, hãng đúc chip Đài Loan thu về 442,68 tỷ Đài tệ, tăng 67,9% so với năm trước và là tháng cao nhất trong gần bốn thập kỷ hoạt động. Động lực đến từ nhu cầu chip AI bùng nổ, với năng lực tiến trình 3nm đã kín đơn hàng cả năm. Báo cáo tài chính đầy đủ sẽ được công bố ngày 16/7/2026."
-heroImage: "https://i.ytimg.com/vi/ytkKkW8ZQyo/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/ytkKkW8ZQyo/maxresdefault.jpg"
 heroAlt: "TSMC lập kỷ lục doanh thu quý 2/2026 nhờ nhu cầu chip AI bùng nổ"
 heroCaption: "Nhu cầu chip AI đưa doanh thu quý của TSMC lên mức cao nhất lịch sử. Nguồn: YouTube"
 tldr: "<strong>TSMC</strong> đạt doanh thu quý 2/2026 kỷ lục <strong>1,27 nghìn tỷ Đài tệ</strong>, khoảng <strong>39,6 tỷ USD</strong>, tăng <strong>36%</strong> so với cùng kỳ và vượt cận trên dự báo của chính hãng. Riêng tháng 6, doanh thu đạt <strong>442,68 tỷ Đài tệ</strong>, tăng <strong>67,9%</strong> so với năm trước và là tháng cao nhất trong lịch sử công ty. Nửa đầu năm, TSMC thu về khoảng <strong>2,404 nghìn tỷ Đài tệ</strong>, tăng 35,6%. Chip AI dự kiến mang về hơn <strong>40 tỷ USD</strong> trong năm 2026, chiếm khoảng một phần tư tổng doanh thu. Tiến trình 3nm đã kín đơn hàng, còn Nvidia được cho là đã đặt trước khoảng 60% năng lực đóng gói tiên tiến. Báo cáo đầy đủ công bố ngày <strong>16/7/2026</strong>."
@@ -75,7 +75,7 @@ Tính chung nửa đầu năm 2026, doanh thu lũy kế của TSMC đạt khoả
 Đằng sau những con số kỷ lục là sự dịch chuyển cơ cấu khách hàng rõ rệt. TSMC dự kiến chip AI sẽ mang về hơn 40 tỷ USD trong năm 2026, tương đương khoảng một phần tư tổng doanh thu cả năm. Nhóm điện toán hiệu năng cao, bao gồm các bộ tăng tốc AI, đã vươn lên chiếm tỷ trọng áp đảo trong cơ cấu doanh thu, vượt xa mảng smartphone vốn từng là trụ cột truyền thống của hãng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/5Pb7EX3iVaE/hqdefault.jpg" alt="Nhu cầu chip AI thúc đẩy doanh thu TSMC tăng vọt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5Pb7EX3iVaE/maxresdefault.jpg" alt="Nhu cầu chip AI thúc đẩy doanh thu TSMC tăng vọt" loading="lazy" width="1280" height="720">
   <figcaption>Bộ tăng tốc AI trở thành động lực tăng trưởng chính, vượt qua mảng chip smartphone. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Sức mạnh của TSMC còn nằm ở vị thế gần như độc quyền ở 
 Một chỉ dấu quan trọng cho thấy đà tăng chưa dừng lại là tình trạng năng lực sản xuất. Tiến trình 3nm của TSMC, nền tảng cho gần như mọi dòng GPU và CPU AI đầu bảng ra mắt trong năm nay, hiện đã kín đơn hàng cả năm. Điều này đồng nghĩa doanh thu của hãng trong các quý tới phần lớn đã được đảm bảo trước, giúp giảm rủi ro biến động ngắn hạn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zuCROsAz77A/hqdefault.jpg" alt="Nhà máy TSMC sản xuất chip tiến trình 3nm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zuCROsAz77A/maxresdefault.jpg" alt="Nhà máy TSMC sản xuất chip tiến trình 3nm" loading="lazy" width="1280" height="720">
   <figcaption>Năng lực tiến trình 3nm của TSMC đã được đặt kín bởi các khách hàng chip AI hàng đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Không chỉ khâu sản xuất wafer, năng lực đóng gói chip tiên tiến
 ## Điều nhà đầu tư chờ đợi ngày 16/7
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/AnqxPRVoJJU/hqdefault.jpg" alt="Nhà đầu tư theo dõi báo cáo tài chính TSMC" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AnqxPRVoJJU/maxresdefault.jpg" alt="Nhà đầu tư theo dõi báo cáo tài chính TSMC" loading="lazy" width="1280" height="720">
   <figcaption>Báo cáo đầy đủ ngày 16/7 sẽ hé lộ biên lợi nhuận và dự báo nửa cuối năm của TSMC. Nguồn: YouTube</figcaption>
 </figure>
 

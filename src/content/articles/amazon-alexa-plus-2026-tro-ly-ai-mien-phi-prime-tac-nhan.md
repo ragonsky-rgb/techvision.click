@@ -74,7 +74,7 @@ Về giá, Alexa+ có mức 19,99 USD mỗi tháng cho người dùng thông th�
 Chiến lược này phản ánh cách Amazon tận dụng hệ sinh thái sẵn có để cạnh tranh trong lĩnh vực AI. Thay vì xây dựng tệp người dùng mới, Amazon đưa AI tới những người đã dùng dịch vụ của mình. Đây là lợi thế tương tự mà các ông lớn khác khai thác, chẳng hạn việc tích hợp AI vào sản phẩm văn phòng quen thuộc, được phân tích trong bài [Microsoft Copilot 2026](/articles/microsoft-copilot-cap-nhat-2026-tac-nhan-may-tinh-gpt-5-5-office.html). Lợi thế phân phối là yếu tố quan trọng trong cuộc đua phổ cập AI.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/3dsFGoSBAag/hqdefault.jpg" alt="Amazon Alexa+ miễn phí cho thành viên Prime năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3dsFGoSBAag/sddefault.jpg" alt="Amazon Alexa+ miễn phí cho thành viên Prime năm 2026" loading="lazy" width="640" height="480">
   <figcaption>Alexa+ miễn phí cho Prime, tạo lợi thế quy mô. Nguồn: YouTube</figcaption>
 </figure>
 

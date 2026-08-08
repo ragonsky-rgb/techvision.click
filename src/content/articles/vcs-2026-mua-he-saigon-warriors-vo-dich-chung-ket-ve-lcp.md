@@ -64,7 +64,7 @@ Trận chung kết VCS Mùa Hè 2026 là màn so tài giữa hai cái tên mang 
 Trên hành trình tới trận cuối, Saigon Warriors để lại dấu ấn rõ nét ở nhánh trên khi đánh bại CyberCore với tỉ số 3:0 tại bán kết. Một chiến thắng cách biệt như vậy cho thấy đội không chỉ mạnh về cá nhân mà còn có lối chơi đồng đội mạch lạc, biết cách kiểm soát nhịp độ và khép lại trận đấu dứt khoát. Chính sự ổn định này là nền tảng giúp SGW đi tới danh hiệu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-u_V5GVXeGI/hqdefault.jpg" alt="Saigon Warriors đối đầu Saigon Dino tại VCS Mùa Hè 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-u_V5GVXeGI/maxresdefault.jpg" alt="Saigon Warriors đối đầu Saigon Dino tại VCS Mùa Hè 2026" loading="lazy" width="1280" height="720">
   <figcaption>Cặp đấu Saigon Warriors và Saigon Dino là tâm điểm của giai đoạn cuối VCS Mùa Hè 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ VCS 2026 được xây dựng quanh chủ đề Stormforce, hướng tới một
 Bối cảnh cạnh tranh của mùa này rất đáng chú ý, khi Saigon Dino kết thúc vòng đấu bảng ở nhóm đầu và được đánh giá là một trong những ứng viên nặng ký. Việc hai đội Sài Gòn cùng đi tới trận chung kết phản ánh chiều sâu của làng Liên Minh Huyền Thoại Việt Nam hiện tại, nơi khoảng cách giữa các đội đầu bảng đã thu hẹp đáng kể so với vài mùa trước. Ai đã theo dõi [chặng đường VCS 2026 Mùa Hè khép lại và hướng tới vòng chung kết](/articles/vcs-2026-mua-he-khep-lai-huong-toi-chung-ket.html) sẽ thấy rõ sự kịch tính này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xwXYmCqXo7Y/hqdefault.jpg" alt="VCS Mùa Hè 2026 chủ đề Stormforce các đội mạnh Liên Minh Huyền Thoại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xwXYmCqXo7Y/maxresdefault.jpg" alt="VCS Mùa Hè 2026 chủ đề Stormforce các đội mạnh Liên Minh Huyền Thoại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Mùa giải Stormforce đề cao nhịp độ nhanh và tính đối kháng giữa các đội hàng đầu VCS. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Chức vô địch của Saigon Warriors nối tiếp một năm sôi động c�
 Với việc Saigon Warriors giành vé LCP, sự chú ý giờ chuyển sang màn thể hiện của đội ở sân chơi khu vực và các giải quốc tế cuối năm. Người hâm mộ muốn nắm bối cảnh các giải lớn có thể tham khảo thêm [lịch thi đấu, đội hình và giải thưởng EWC 2026 bộ môn Liên Minh Huyền Thoại](/articles/ewc-2026-lmht-lich-thi-dau-doi-hinh-giai-thuong.html) để hình dung mặt bằng cạnh tranh mà các đội Việt Nam đang hướng tới.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TvBlfPKQKSY/hqdefault.jpg" alt="Esports Liên Minh Huyền Thoại Việt Nam sôi động nửa cuối 2026 với đại diện tại đấu trường khu vực" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TvBlfPKQKSY/maxresdefault.jpg" alt="Esports Liên Minh Huyền Thoại Việt Nam sôi động nửa cuối 2026 với đại diện tại đấu trường khu vực" loading="lazy" width="1280" height="720">
   <figcaption>Tấm vé LCP mở ra chương mới cho Saigon Warriors ở đấu trường khu vực nửa cuối 2026. Nguồn: YouTube</figcaption>
 </figure>
 

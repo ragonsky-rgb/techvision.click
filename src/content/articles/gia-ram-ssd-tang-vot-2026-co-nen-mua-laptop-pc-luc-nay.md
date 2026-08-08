@@ -64,7 +64,7 @@ Nút thắt nằm ở nhu cầu AI. Các trung tâm dữ liệu phục vụ mô 
 Con số cho thấy mức độ nghiêm trọng. Tính tới cuối năm 2025, giá DRAM đã tăng khoảng 171%, trong khi NAND flash, vật liệu nền để làm ổ SSD, tăng xấp xỉ 246%. Đây không phải biến động nhỏ theo mùa mà là một đợt tái định giá sâu, phản ánh sự dịch chuyển cấu trúc của cả ngành bán dẫn sang phục vụ AI. Khi bộ nhớ chiếm tỉ trọng đáng kể trong giá thành, tác động lan nhanh tới sản phẩm cuối.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/XAoH45oYw1g/hqdefault.jpg" alt="Người dùng cân nhắc mua RAM SSD trong bối cảnh giá tăng cao năm 2026" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/XAoH45oYw1g/maxresdefault.jpg" alt="Người dùng cân nhắc mua RAM SSD trong bối cảnh giá tăng cao năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Giá linh kiện tăng khiến nhiều người dùng cân nhắc kỹ hơn khi nâng cấp máy. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Con số cho thấy mức độ nghiêm trọng. Tính tới cuối năm 2025, g
 Với PC lắp ráp, người dùng cảm nhận rõ khi báo giá cấu hình biến động theo tuần. Cùng một khoản tiền, số dung lượng RAM và SSD nhận được ngày càng ít đi so với một năm trước. Nhiều cửa hàng khuyên khách chốt cấu hình sớm nếu đã có kế hoạch, thay vì chờ đợi với hy vọng giá giảm. Bối cảnh này cũng trùng với cảnh báo trong [phân tích của Gartner về giá máy tính và điện thoại 2026](/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html).
 
 <figure>
-  <img src="https://i.ytimg.com/vi/b5vT_72QVmw/hqdefault.jpg" alt="Cấu hình PC với RAM và SSD, minh họa chi phí tăng khi lắp máy năm 2026" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/b5vT_72QVmw/maxresdefault.jpg" alt="Cấu hình PC với RAM và SSD, minh họa chi phí tăng khi lắp máy năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Cùng một ngân sách, số dung lượng RAM và SSD nhận được ngày càng ít đi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Với PC lắp ráp, người dùng cảm nhận rõ khi báo giá cấu hình b
 Một số người dùng tìm tới thị trường linh kiện cũ để né mức giá mới cao, nhưng đây là con dao hai lưỡi. RAM và SSD đã qua sử dụng có thể rẻ hơn, song đi kèm rủi ro về tuổi thọ, nhất là với ổ SSD vốn có số lần ghi giới hạn. Nếu chọn hàng cũ, nên ưu tiên nguồn uy tín, kiểm tra kỹ tình trạng thiết bị và thời hạn bảo hành còn lại, thay vì chỉ nhìn vào giá rẻ trước mắt.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/x5eCNDWm14s/hqdefault.jpg" alt="So sánh giá RAM và SSD mới với hàng cũ trong bối cảnh khủng hoảng bộ nhớ" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/x5eCNDWm14s/maxresdefault.jpg" alt="So sánh giá RAM và SSD mới với hàng cũ trong bối cảnh khủng hoảng bộ nhớ" loading="lazy" width="1280" height="720">
   <figcaption>Mua linh kiện cũ có thể rẻ hơn nhưng đi kèm rủi ro về tuổi thọ và bảo hành. Nguồn: YouTube</figcaption>
 </figure>
 

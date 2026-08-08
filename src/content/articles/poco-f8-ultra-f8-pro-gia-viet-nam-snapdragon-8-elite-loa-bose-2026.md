@@ -66,7 +66,7 @@ POCO từ lâu đã nổi tiếng với công thức đưa cấu hình mạnh xu
 Đi kèm chip mạnh là RAM và bộ nhớ chuẩn cao, cùng khả năng tản nhiệt được cải thiện để giữ hiệu năng ổn định khi chơi game lâu. Trên thực tế, khoảng cách hiệu năng cảm nhận giữa POCO F8 Ultra và một flagship đắt gấp đôi là không lớn với đa số người dùng, nhất là ở các tác vụ hằng ngày. Đây là lý do dòng F của POCO luôn được nhóm người dùng trẻ và game thủ chú ý mỗi khi ra mắt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/w1APTcSP8PY/hqdefault.jpg" alt="POCO F8 Ultra chip Snapdragon 8 Elite Gen 5 hiệu năng chơi game tầm giá dưới 20 triệu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/w1APTcSP8PY/maxresdefault.jpg" alt="POCO F8 Ultra chip Snapdragon 8 Elite Gen 5 hiệu năng chơi game tầm giá dưới 20 triệu" loading="lazy" width="1280" height="720">
   <figcaption>Snapdragon 8 Elite Gen 5 giúp POCO F8 Ultra thừa sức chơi game nặng ở thiết lập cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Nếu hiệu năng là thứ POCO vốn làm tốt, thì âm thanh và màn hìn
 Về hiển thị, POCO F8 Ultra trang bị màn hình AMOLED 6.9 inch với tần số quét 120Hz và độ sáng đỉnh lên tới 3500 nit. Mức sáng này giúp máy hiển thị tốt ngay cả dưới nắng gắt ngoài trời, một điểm cộng thực tế với điều kiện thời tiết tại Việt Nam. Kết hợp với tấm nền độ phân giải cao và tần số quét cao, trải nghiệm xem nội dung và chơi game trên máy rất mượt và sống động, xứng đáng với định vị flagship giá tốt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/GobJjQgMCbw/hqdefault.jpg" alt="POCO F8 Ultra màn hình AMOLED 6.9 inch 3500 nit loa 2.1 tinh chỉnh cùng Bose" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GobJjQgMCbw/hqdefault.jpg" alt="POCO F8 Ultra màn hình AMOLED 6.9 inch 3500 nit loa 2.1 tinh chỉnh cùng Bose" loading="lazy" width="480" height="360">
   <figcaption>Màn hình 3500 nit và loa 2.1 tinh chỉnh cùng Bose là hai nâng cấp đáng chú ý của dòng F8. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Về hiển thị, POCO F8 Ultra trang bị màn hình AMOLED 6.9 inch với t�
 POCO F8 Ultra là bản được ưu ái nhất về camera trong bộ đôi, với cụm camera có ống tele kính tiềm vọng cho khả năng zoom quang 5x, thứ thường chỉ xuất hiện trên flagship đắt tiền. Nhờ đó, máy chụp xa và chụp chân dung tách nền tốt hơn đáng kể so với các máy chỉ có camera chính và góc siêu rộng. Dù camera không phải thế mạnh tuyệt đối của POCO nếu so với các flagship chuyên chụp ảnh, việc có sẵn ống zoom quang trong tầm giá này vẫn là điểm cộng lớn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Q8uNSjSN8qs/hqdefault.jpg" alt="POCO F8 Ultra camera tele kính tiềm vọng zoom quang 5x pin 6500mAh sạc 100W" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Q8uNSjSN8qs/maxresdefault.jpg" alt="POCO F8 Ultra camera tele kính tiềm vọng zoom quang 5x pin 6500mAh sạc 100W" loading="lazy" width="1280" height="720">
   <figcaption>Bản Ultra có ống tele kính tiềm vọng zoom quang 5x, hiếm thấy ở tầm giá dưới 20 triệu. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-17T00:30:00+07:00"
 dateModified: "2026-07-17T00:30:00+07:00"
 deck: "Cuộc đua đưa AI agent lên điện thoại vừa có thêm một ứng viên đáng gờm từ Trung Quốc. Startup StepFun đã ra mắt StepX Neo, được giới thiệu là điện thoại agent chạy hệ điều hành Step AOS, một cách tiếp cận hoàn toàn mới về cách con người tương tác với thiết bị. Thay vì mô hình quen thuộc dựa trên tệp và ứng dụng, Step AOS chuyển sang mô hình ý định và tác vụ, nơi người dùng chỉ cần mô tả mục tiêu bằng ngôn ngữ tự nhiên và hệ thống tự điều phối các agent để hoàn thành công việc. Đi kèm là trợ lý Amoo, có khả năng thực hiện các tác vụ nhiều bước xuyên nhiều ứng dụng, thậm chí ngay trên máy mà không cần kết nối liên tục. Trong bối cảnh nhiều ông lớn công nghệ vẫn đang loay hoay với ý tưởng điện thoại AI, việc một startup Trung Quốc kịp đưa sản phẩm ra thị trường là một diễn biến rất đáng chú ý."
-heroImage: "https://i.ytimg.com/vi/azZ4zBiXt_w/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/azZ4zBiXt_w/maxresdefault.jpg"
 heroAlt: "StepFun ra mắt điện thoại agent StepX Neo chạy hệ điều hành Step AOS với trợ lý Amoo"
 heroCaption: "StepX Neo được StepFun định vị là điện thoại agent với hệ điều hành Step AOS. Nguồn: YouTube"
 tldr: "Startup Trung Quốc <strong>StepFun</strong> đã ra mắt <strong>StepX Neo</strong>, điện thoại được giới thiệu là chạy trên <strong>Step AOS</strong>, một hệ điều hành agent. Thay vì mô hình tệp và ứng dụng truyền thống, Step AOS dùng mô hình <strong>ý định và tác vụ</strong>, cho phép người dùng mô tả mục tiêu bằng ngôn ngữ tự nhiên để hệ thống tự điều phối các agent thực hiện. Trợ lý <strong>Amoo</strong> được nhúng ở cấp hệ thống, có thể chạy các tác vụ nhiều bước xuyên ứng dụng và hoạt động ngay trên máy. Step AOS được xây dựng từ Android, Linux và RTOS, tích hợp sẵn nhiều dịch vụ phổ biến. StepX Neo ra mắt ngày <strong>13/7/2026</strong>, ngay trước thềm WAIC 2026, giữa cuộc đua điện thoại AI agent đang nóng lên."
@@ -77,7 +77,7 @@ Về mặt kỹ thuật, Step AOS được xây dựng từ các thành phần A
 Đi cùng Step AOS là trợ lý AI mang tên Amoo. Điểm mạnh của Amoo là khả năng thực hiện các tác vụ nhiều bước xuyên nhiều ứng dụng khác nhau. Ví dụ, thay vì người dùng phải tự mở ứng dụng gọi xe, rồi ứng dụng thanh toán, rồi ứng dụng bản đồ, Amoo có thể tự phối hợp các bước này để hoàn thành một yêu cầu duy nhất.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TIrMrmTDMeQ/hqdefault.jpg" alt="Trợ lý Amoo trên StepX Neo thực hiện tác vụ nhiều bước xuyên nhiều ứng dụng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TIrMrmTDMeQ/maxresdefault.jpg" alt="Trợ lý Amoo trên StepX Neo thực hiện tác vụ nhiều bước xuyên nhiều ứng dụng" loading="lazy" width="1280" height="720">
   <figcaption>Amoo có thể điều phối nhiều ứng dụng để hoàn thành một yêu cầu của người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Một yếu tố đáng chú ý khác là khả năng hoạt động ngay trên 
 ## Cuộc đua điện thoại AI agent nóng lên
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/RdQp1-8uotE/hqdefault.jpg" alt="StepX Neo tham gia cuộc đua điện thoại AI agent đang nóng lên trên toàn cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/RdQp1-8uotE/sddefault.jpg" alt="StepX Neo tham gia cuộc đua điện thoại AI agent đang nóng lên trên toàn cầu" loading="lazy" width="640" height="480">
   <figcaption>StepX Neo là một trong nhiều sản phẩm định hình lại khái niệm điện thoại AI. Nguồn: YouTube</figcaption>
 </figure>
 
 Sự xuất hiện của StepX Neo diễn ra trong bối cảnh cuộc đua điện thoại AI agent đang tăng nhiệt. Nhiều công ty, cả những ông lớn lẫn startup, đều đang tìm cách định nghĩa lại chiếc điện thoại trong kỷ nguyên AI. Điều thú vị là trong khi một số tên tuổi lớn vẫn đang phát triển ý tưởng, các công ty Trung Quốc lại tỏ ra rất nhanh trong việc đưa sản phẩm ra thị trường. Ngay tại Trung Quốc, StepFun cũng không đơn độc, khi có những sản phẩm cạnh tranh như [Nubia Navi X Ultra được quảng bá là điện thoại AI agent đầu tiên thế giới](/articles/nubia-ai-agent-smartphone-dau-tien-the-gioi-waic-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/9e3IWOazSuQ/hqdefault.jpg" alt="Điện thoại AI agent thực sự đầu tiên được cho là đến từ startup Trung Quốc thay vì các hãng lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9e3IWOazSuQ/maxresdefault.jpg" alt="Điện thoại AI agent thực sự đầu tiên được cho là đến từ startup Trung Quốc thay vì các hãng lớn" loading="lazy" width="1280" height="720">
   <figcaption>Việc startup Trung Quốc dẫn trước cho thấy tốc độ đổi mới nhanh của khu vực. Nguồn: YouTube</figcaption>
 </figure>
 

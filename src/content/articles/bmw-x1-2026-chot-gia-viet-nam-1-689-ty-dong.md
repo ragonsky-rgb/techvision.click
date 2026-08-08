@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T15:00:00+07:00"
 dateModified: "2026-07-13T15:00:00+07:00"
 deck: "BMW X1 thế hệ mới đã chốt giá tại Việt Nam ở mức 1,689 tỷ đồng cho phiên bản duy nhất sDrive20i, nhập khẩu nguyên chiếc từ Đức và bắt đầu nhận đặt cọc, dự kiến giao xe từ tháng 10/2026. Xe dùng động cơ xăng 2.0L tăng áp cho công suất 204 mã lực, hộp số tự động 7 cấp, kích thước lớn hơn đời cũ với chiều dài 4.500mm. So với hai đối thủ đồng hạng, X1 2026 có giá thấp hơn Audi Q3 tới 410 triệu đồng, một lợi thế đáng kể ở phân khúc SUV hạng sang cỡ nhỏ."
-heroImage: "https://i.ytimg.com/vi/bUHh7QYdZtc/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/bUHh7QYdZtc/maxresdefault.jpg"
 heroAlt: "BMW X1 2026 sDrive20i chốt giá 1,689 tỷ đồng tại Việt Nam, nhập khẩu từ Đức"
 heroCaption: "BMW X1 2026 bản sDrive20i xLine hướng tới nhóm khách hàng SUV hạng sang cỡ nhỏ. Nguồn: YouTube"
 tldr: "<strong>BMW X1 2026</strong> nhận đặt cọc tại Việt Nam với một phiên bản duy nhất <strong>sDrive20i</strong> giá <strong>1,689 tỷ đồng</strong>, nhập khẩu nguyên chiếc từ Đức, dự kiến giao xe từ <strong>tháng 10/2026</strong>. Xe dùng động cơ xăng <strong>2.0L tăng áp</strong> công suất <strong>204 mã lực</strong>, mô-men xoắn 300 Nm, hộp số tự động 7 cấp. Kích thước tăng lên với chiều dài <strong>4.500mm</strong>, trục cơ sở 2.692mm, nội thất có màn hình cong BMW Curved Display, ADAS, camera 360 độ và dàn âm thanh Harman Kardon. So với đối thủ, X1 2026 rẻ hơn <strong>Audi Q3</strong> khoảng <strong>410 triệu đồng</strong>, tạo lợi thế giá rõ rệt trong phân khúc SUV hạng sang cỡ nhỏ."
@@ -75,7 +75,7 @@ Lợi thế giá này càng có ý nghĩa trong bối cảnh thị trường ô 
 BMW X1 2026 có bước tiến rõ rệt về kích thước so với thế hệ trước, với chiều dài 4.500mm, rộng 1.845mm và trục cơ sở đạt 2.692mm. Những con số này trực tiếp cải thiện không gian cabin và khoang hành lý, giải quyết một trong những điểm yếu thường thấy của SUV cỡ nhỏ khi chở đủ người và hành lý cho chuyến đi xa.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Cn_Mr-Tci3M/hqdefault.jpg" alt="Nội thất BMW X1 2026 với màn hình cong BMW Curved Display" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Cn_Mr-Tci3M/maxresdefault.jpg" alt="Nội thất BMW X1 2026 với màn hình cong BMW Curved Display" loading="lazy" width="1280" height="720">
   <figcaption>Khoang lái BMW X1 2026 nổi bật với màn hình cong liền khối gồm đồng hồ 10,25 inch và màn giải trí 10,7 inch. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Bên trong, trung tâm bảng táp-lô là màn hình cong BMW Curved Display, k
 Về sức mạnh, sDrive20i sử dụng động cơ xăng 2.0L tăng áp cho công suất 204 mã lực và mô-men xoắn cực đại 300 Nm, đi cùng hộp số tự động 7 cấp và hệ dẫn động cầu trước. Đây là cấu hình cân bằng, đủ mạnh cho nhu cầu di chuyển đô thị và đường trường mà vẫn giữ mức tiêu hao nhiên liệu hợp lý. Hệ thống treo thích ứng được kỳ vọng mang lại trải nghiệm lái linh hoạt, chuyển đổi giữa cảm giác êm ái và thể thao tùy chế độ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Drk_ARegMhk/hqdefault.jpg" alt="BMW X1 2026 vận hành trên đường, mẫu SUV hạng sang cỡ nhỏ dễ tiếp cận" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Drk_ARegMhk/maxresdefault.jpg" alt="BMW X1 2026 vận hành trên đường, mẫu SUV hạng sang cỡ nhỏ dễ tiếp cận" loading="lazy" width="1280" height="720">
   <figcaption>Động cơ 2.0L tăng áp 204 mã lực đủ đáp ứng nhu cầu vận hành đô thị lẫn đường dài. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Về an toàn, BMW X1 2026 được trang bị gói hỗ trợ lái ADAS với c
 ## Có nên đặt cọc ngay
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jiv620MYFaY/hqdefault.jpg" alt="Ngoại thất BMW X1 2026 thế hệ mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jiv620MYFaY/maxresdefault.jpg" alt="Ngoại thất BMW X1 2026 thế hệ mới" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế ngoại thất BMW X1 2026 hiện đại hơn, hướng tới nhóm khách hàng trẻ và gia đình nhỏ. Nguồn: YouTube</figcaption>
 </figure>
 

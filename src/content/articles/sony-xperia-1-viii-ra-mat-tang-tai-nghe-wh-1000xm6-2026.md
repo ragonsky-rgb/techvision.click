@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-06-30T19:00:00+07:00"
 dateModified: "2026-06-30T19:00:00+07:00"
 deck: "Sony chính thức trình làng Xperia 1 VIII tại thị trường châu Âu với mức giá từ 1.499 Euro, mang thiết kế ORE phủ vân đá mới, camera module vuông nâng cấp và đặc biệt tặng kèm tai nghe chống ồn Sony WH-1000XM6 cho người đặt mua sớm."
-heroImage: "https://i.ytimg.com/vi/eYxOUuXbkDM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/eYxOUuXbkDM/maxresdefault.jpg"
 heroAlt: "Sony Xperia 1 VIII ra mat thiet ke ORE moi 2026"
 heroCaption: "Sony Xperia 1 VIII chính thức ra mắt với thiết kế ORE phủ vân đá và camera module vuông hoàn toàn mới. Nguồn: YouTube"
 tldr: "<strong>Sony Xperia 1 VIII</strong> ra mắt ngày 19/6/2026 tại châu Âu, giá từ <strong>1.399 Bảng Anh / 1.499 Euro</strong>, trang bị <strong>Snapdragon 8 Elite Gen 5</strong>, RAM 12GB, màn hình 6,5 inch, pin 5.000mAh và chạy Android 16. Máy có thiết kế ORE phủ vân đá mới cùng camera module vuông, vẫn giữ jack tai nghe 3.5mm và khe thẻ nhớ microSD hiếm hoi trên flagship 2026. Đặc biệt, Sony tặng kèm tai nghe chống ồn <strong>WH-1000XM6</strong> trị giá lớn cho khách đặt mua sớm."
@@ -75,7 +75,7 @@ Xperia 1 VIII là thế hệ kế nhiệm Xperia 1 VII, tiếp tục định v�
 Điểm thay đổi dễ nhận thấy nhất trên Xperia 1 VIII là ngôn ngữ thiết kế mới mang tên ORE, lấy cảm hứng từ vân đá tự nhiên thay vì mặt lưng kính phẳng bóng bẩy quen thuộc của các thế hệ Xperia trước. Cụm camera cũng được thiết kế lại hoàn toàn, chuyển từ dạng dải dọc đặc trưng sang module vuông gom cụm, gần giống cách bố trí camera trên nhiều flagship Android khác hiện nay. Cảm biến tele được nâng cấp lên độ phân giải 48MP với kích thước 1/1,58 inch, lớn hơn đáng kể so với thế hệ trước, giúp cải thiện rõ rệt khả năng chụp xa và chụp trong điều kiện thiếu sáng. Sony cũng bổ sung tính năng trợ lý AI nhận diện khung cảnh chụp, tự động gợi ý thiết lập phù hợp cho từng tình huống mà không cần người dùng chỉnh tay nhiều thông số phức tạp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XhkwjBdyI4w/hqdefault.jpg" alt="Sony Xperia 1 VIII camera module vuong moi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/XhkwjBdyI4w/maxresdefault.jpg" alt="Sony Xperia 1 VIII camera module vuong moi 2026" loading="lazy" width="1280" height="720">
   <figcaption>Camera module vuông mới trên Xperia 1 VIII, nâng cấp cảm biến tele lên 48MP. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Bên trong, Xperia 1 VIII sử dụng chip Snapdragon 8 Elite Gen 5, con chip ca
 Điểm gây chú ý nhất trong đợt ra mắt lần này là Sony tặng kèm tai nghe chống ồn WH-1000XM6, phiên bản thương mại đầy đủ tính năng với chip xử lý chống ồn QN3 mới và thời lượng pin lên tới 30 giờ, cho khách đặt mua Xperia 1 VIII sớm tại các thị trường ra mắt đầu tiên. Đây là mẫu tai nghe đang được đánh giá là một trong những lựa chọn chống ồn tốt nhất hiện nay, từng được LongTechVision phân tích chi tiết trong bài viết về [Sony WH-1000XM6 với chip QN3 và pin 30 giờ](/articles/sony-wh-1000xm6-tai-nghe-chong-on-dau-bang-qn3-pin-30-gio.html). Việc tặng kèm một sản phẩm có giá trị thị trường cao như vậy giúp Xperia 1 VIII trở nên hấp dẫn hơn đáng kể so với mức giá niêm yết ban đầu, đặc biệt với nhóm khách hàng vốn đã có ý định mua cả điện thoại lẫn tai nghe cao cấp trong cùng đợt này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zjLheFTEZwE/hqdefault.jpg" alt="Sony Xperia 1 VIII tang kem tai nghe WH-1000XM6" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zjLheFTEZwE/maxresdefault.jpg" alt="Sony Xperia 1 VIII tang kem tai nghe WH-1000XM6" loading="lazy" width="1280" height="720">
   <figcaption>Khách đặt mua Xperia 1 VIII sớm tại châu Âu được tặng kèm tai nghe Sony WH-1000XM6. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ Sony hiện chỉ công bố giá chính thức tại Anh và châu Âu, chưa c
 Nhìn chung, Xperia 1 VIII tiếp tục khẳng định hướng đi riêng của Sony trên thị trường smartphone cao cấp, không chạy theo số lượng camera hay độ phân giải màn hình như nhiều đối thủ, mà tập trung vào chất lượng nhiếp ảnh chuyên sâu, trải nghiệm âm thanh và giữ lại những tiện ích thực dụng mà người dùng chuyên nghiệp vẫn cần. Việc kết hợp ra mắt cùng chương trình tặng tai nghe cao cấp cũng cho thấy Sony đang tận dụng lợi thế hệ sinh thái sản phẩm điện tử đa dạng của mình, một chiến lược mà ít đối thủ nào trong ngành smartphone có thể sao chép trực tiếp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/fiXn1IPauMc/hqdefault.jpg" alt="Sony Xperia 1 VIII man hinh va cau hinh Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/fiXn1IPauMc/maxresdefault.jpg" alt="Sony Xperia 1 VIII man hinh va cau hinh Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
   <figcaption>Xperia 1 VIII dùng Snapdragon 8 Elite Gen 5, RAM 12GB, pin 5.000mAh và màn hình 6,5 inch. Nguồn: YouTube</figcaption>
 </figure>
 

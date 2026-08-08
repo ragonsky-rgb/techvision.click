@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T09:00:00+07:00"
 dateModified: "2026-07-05T09:00:00+07:00"
 deck: "OpenAI cùng Broadcom vừa công bố Jalapeño, chip AI đầu tiên do OpenAI tự thiết kế, tối ưu riêng cho suy luận các mô hình ngôn ngữ lớn, được phát triển chỉ trong 9 tháng với sự hỗ trợ của chính các mô hình AI của công ty, đánh dấu bước đi quan trọng để giảm phụ thuộc vào Nvidia."
-heroImage: "https://i.ytimg.com/vi/mYohFz6YquM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/mYohFz6YquM/maxresdefault.jpg"
 heroAlt: "OpenAI Jalapeno chip AI dau tien hop tac Broadcom"
 heroCaption: "OpenAI và Broadcom công bố Jalapeño, chip AI đầu tiên do OpenAI tự thiết kế. Nguồn: YouTube"
 tldr: "OpenAI và Broadcom vừa công bố <strong>Jalapeño</strong>, bộ xử lý trí tuệ nhân tạo đầu tiên do OpenAI tự thiết kế, tối ưu riêng cho tác vụ suy luận các mô hình ngôn ngữ lớn. Đây là chip đầu tiên trong nền tảng tính toán nhiều thế hệ mà hai công ty đang cùng xây dựng, kết hợp thiết kế của OpenAI với năng lực triển khai silicon, mạng lưới kết nối của Broadcom. Chip được thiết kế toàn bộ chỉ trong <strong>9 tháng</strong> với sự hỗ trợ từ chính các mô hình AI của OpenAI, dự kiến triển khai ban đầu vào cuối năm 2026, hiệu suất trên mỗi watt được kỳ vọng vượt trội so với chip hiện tại trên thị trường."
@@ -69,7 +69,7 @@ Jalapeño là bộ xử lý trí tuệ nhân tạo đầu tiên do OpenAI tự t
 Một điểm đáng chú ý được nhiều kênh công nghệ nhấn mạnh là tốc độ phát triển của Jalapeño. Toàn bộ quá trình thiết kế chip chỉ mất khoảng 9 tháng, một con số ấn tượng so với chu kỳ phát triển chip bán dẫn thông thường thường kéo dài nhiều năm. Điểm đặc biệt là chính các mô hình AI của OpenAI đã hỗ trợ trực tiếp trong quá trình thiết kế chip, một minh chứng thú vị cho việc AI đang được ứng dụng ngược lại để tăng tốc chính quá trình phát triển phần cứng phục vụ AI, tạo ra một vòng lặp cải tiến công nghệ ngày càng nhanh hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mYohFz6YquM/sddefault.jpg" alt="Chip Jalapeno cua OpenAI co the thay doi cach van hanh LLM" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mYohFz6YquM/maxresdefault.jpg" alt="Chip Jalapeno cua OpenAI co the thay doi cach van hanh LLM" loading="lazy" width="1280" height="720">
   <figcaption>Giới phân tích công nghệ nhận định Jalapeño có thể thay đổi đáng kể cách các mô hình ngôn ngữ lớn được vận hành. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Từ góc độ theo dõi ngành công nghệ, tôi cho rằng động thái nà
 Với người dùng công nghệ tại Việt Nam, dù không tác động trực tiếp ngay lập tức, cuộc đua phát triển chip AI chuyên dụng giữa các ông lớn công nghệ là xu hướng đáng theo dõi, vì nó sẽ định hình tốc độ phát triển và chi phí sử dụng các công cụ AI mà chúng ta dùng hằng ngày trong những năm tới, từ trợ lý viết prompt cho tới các ứng dụng AI tích hợp trên điện thoại, laptop.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mYohFz6YquM/mqdefault.jpg" alt="OpenAI Broadcom hop tac phat trien nen tang tinh toan AI nhieu the he" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mYohFz6YquM/maxresdefault.jpg" alt="OpenAI Broadcom hop tac phat trien nen tang tinh toan AI nhieu the he" loading="lazy" width="1280" height="720">
   <figcaption>OpenAI và Broadcom xây dựng nền tảng tính toán AI nhiều thế hệ, bắt đầu từ chip Jalapeño. Nguồn: YouTube</figcaption>
 </figure>
 
 Cũng cần lưu ý rằng Jalapeño mới ở giai đoạn công bố và chuẩn bị triển khai ban đầu, chưa phải sản phẩm thương mại hóa rộng rãi ngay lập tức. Các công ty AI khác như Microsoft, Amazon và Meta cũng đang âm thầm phát triển chip suy luận riêng của mình, cho thấy đây không phải nỗ lực đơn lẻ của OpenAI mà là xu hướng chung của toàn ngành trong việc giành quyền tự chủ hạ tầng tính toán, thay vì phụ thuộc hoàn toàn vào một nhà cung cấp duy nhất như trước đây.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SDyRvQlVQ5U/mqdefault.jpg" alt="Phan tich anh huong chip Jalapeno toi nganh cong nghiep AI" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SDyRvQlVQ5U/maxresdefault.jpg" alt="Phan tich anh huong chip Jalapeno toi nganh cong nghiep AI" loading="lazy" width="1280" height="720">
   <figcaption>Giới chuyên gia phân tích ảnh hưởng dài hạn của chip Jalapeño tới toàn ngành công nghiệp AI. Nguồn: YouTube</figcaption>
 </figure>
 

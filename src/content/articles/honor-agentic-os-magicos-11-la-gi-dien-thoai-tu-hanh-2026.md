@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-27T11:50:00+07:00"
 dateModified: "2026-07-27T11:50:00+07:00"
 deck: "HONOR vừa công bố kiến trúc kỹ thuật đầy đủ của Agentic OS trong tháng 7/2026, hệ điều hành mà hãng mô tả là lấy con người làm trung tâm thay vì lấy ứng dụng làm trung tâm. Các thành quả đầu tiên đến tay người dùng qua MagicOS 11, bản beta đã được đẩy tới dòng Magic 8 từ cuối tháng 6. Câu hỏi đáng quan tâm không phải hệ điều hành này nghe có kêu hay không, mà là nó thay đổi thao tác hằng ngày của bạn tới đâu."
-heroImage: "https://i.ytimg.com/vi/5wLBFqkgMy0/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/5wLBFqkgMy0/maxresdefault.jpg"
 heroAlt: "HONOR Agentic OS va MagicOS 11 he dieu hanh AI tren dien thoai 2026"
 heroCaption: "HONOR đưa hướng tiếp cận agentic lên dòng flagship của mình trong năm 2026. Nguồn: YouTube"
 tldr: "<strong>HONOR</strong> công bố kiến trúc kỹ thuật đầy đủ của <strong>Agentic OS</strong> trong <strong>tháng 7/2026</strong>, và đưa các tính năng đầu tiên tới người dùng thông qua <strong>MagicOS 11</strong>. Bản beta MagicOS 11 bắt đầu được đẩy tới dòng <strong>Magic 8</strong> từ ngày 24 và 25/6. Hệ điều hành xoay quanh <strong>bốn đặc tính</strong>: điều hướng theo ý định thay vì theo ứng dụng, tương tác đa phương thức bằng giọng nói, cử chỉ và ánh mắt, trí tuệ chủ động chạy trên nhân agentic, và kết nối đa thiết bị gốc. Nền tảng kỹ thuật dựa trên <strong>ba bước của một AI agent</strong> gồm nhận thức, lập kế hoạch và hành động, kết hợp xử lý trên máy với mô hình đám mây."
@@ -65,7 +65,7 @@ Trong khi phần lớn các hãng smartphone năm 2026 vẫn đang gắn thêm t
 Với cách tiếp cận agentic, hệ thống lấy mục tiêu của người dùng làm nền tảng và tự xác định cần gọi tới những ứng dụng nào theo thứ tự nào. Người dùng nói ra điều mình muốn, phần còn lại do hệ điều hành lo. Đây là sự khác biệt về bản chất so với việc chỉ gắn một chatbot vào máy, bởi nó đòi hỏi hệ điều hành phải có quyền và khả năng thao tác trên các ứng dụng khác thay cho người dùng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ITOp9CJ_NZ0/hqdefault.jpg" alt="HONOR canh tranh o mang AI tren dien thoai flagship" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ITOp9CJ_NZ0/maxresdefault.jpg" alt="HONOR canh tranh o mang AI tren dien thoai flagship" loading="lazy" width="1280" height="720">
   <figcaption>HONOR định vị cạnh tranh trực tiếp ở mảng AI trên dòng flagship. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Về mặt kỹ thuật, Agentic OS được xây trên ba hành động cơ b�
 Mô hình lai này phản ánh giới hạn thực tế của phần cứng di động năm 2026. Chip trong điện thoại đủ sức chạy các mô hình nhỏ cho tác vụ đơn giản, nhưng chưa đủ cho suy luận nhiều bước phức tạp. Đánh đổi ở đây khá rõ, xử lý cục bộ nhanh và giữ dữ liệu trong máy, còn gọi lên đám mây cho kết quả tốt hơn nhưng phụ thuộc kết nối và đặt ra câu hỏi về quyền riêng tư. Cách các hãng chia ranh giới giữa hai lớp này sẽ là điểm đáng theo dõi nhất, và cũng là thứ người dùng nên đọc kỹ trong phần cài đặt quyền riêng tư khi cập nhật.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DrGvmcikp1w/hqdefault.jpg" alt="Tinh nang AI trong trai nghiem su dung dien thoai HONOR" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DrGvmcikp1w/maxresdefault.jpg" alt="Tinh nang AI trong trai nghiem su dung dien thoai HONOR" loading="lazy" width="1280" height="720">
   <figcaption>Các tính năng AI ngày càng gắn sâu vào trải nghiệm sử dụng hằng ngày trên máy HONOR. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Mô hình lai này phản ánh giới hạn thực tế của phần cứng di �
 Cả hai hướng đều có lý lẽ riêng. Một trợ lý tự thao tác thay bạn trên các ứng dụng ngân hàng hay nhắn tin mà làm sai một bước có thể gây hậu quả thật, khác hẳn việc một chatbot trả lời sai. Đó là lý do Apple đi chậm. Nhưng nếu chờ tới khi hoàn hảo mới ra mắt, hãng có nguy cơ để người dùng quen với cách làm của đối thủ trước. Với người dùng Việt, điều thực tế nhất trong ngắn hạn là kiểm tra xem model mình đang dùng có nằm trong danh sách cập nhật hay không, và thử các tính năng mới ở mức tác vụ ít rủi ro trước khi giao cho máy những việc quan trọng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/iwKW4uydLHE/hqdefault.jpg" alt="HONOR canh tranh voi Samsung va Apple o phan khuc flagship" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/iwKW4uydLHE/maxresdefault.jpg" alt="HONOR canh tranh voi Samsung va Apple o phan khuc flagship" loading="lazy" width="1280" height="720">
   <figcaption>HONOR đang cạnh tranh trực diện với Samsung và Apple ở phân khúc flagship. Nguồn: YouTube</figcaption>
 </figure>
 

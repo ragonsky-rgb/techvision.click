@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-06-30T19:00:00+07:00"
 dateModified: "2026-06-30T19:00:00+07:00"
 deck: "DJI tiếp tục khẳng định vị thế dẫn đầu thị trường flycam tiêu dùng và bán chuyên nghiệp với Mavic 4 Pro, mẫu drone đầu tiên trong dòng Mavic sở hữu cụm ba camera Hasselblad cùng gimbal xoay dọc 360 độ. Máy hướng tới nhà làm phim, nhiếp ảnh gia phong cảnh và các đơn vị sản xuất nội dung cần chất lượng hình ảnh điện ảnh ngay trên không."
-heroImage: "https://i.ytimg.com/vi/EicVRSc5s4I/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/EicVRSc5s4I/maxresdefault.jpg"
 heroAlt: "DJI Mavic 4 Pro flycam ba camera Hasselblad 100MP gimbal xoay 360 do"
 heroCaption: "DJI Mavic 4 Pro gây chú ý với cụm ba camera Hasselblad và gimbal xoay 360 độ. Nguồn: YouTube"
 tldr: "<strong>DJI Mavic 4 Pro</strong> trang bị cụm <strong>ba camera Hasselblad</strong>: chính 100MP cảm biến 4/3, tele trung 48MP và tele xa 50MP tiêu cự 168mm, đi cùng <strong>gimbal cơ học xoay dọc 360 độ</strong> chưa từng có trên dòng Mavic. Máy quay video tối đa <strong>6K/60fps HDR</strong>, dải tương phản động <strong>16 stop</strong>, hỗ trợ 10-bit D-Log. Thời gian bay mỗi viên pin đạt <strong>51 phút</strong>, truyền tín hiệu hình ảnh <strong>O4+</strong> xa tới <strong>30km</strong>, cùng 6 cảm biến fisheye tránh chướng ngại vật toàn hướng. Giá tại Việt Nam khởi điểm khoảng <strong>50 triệu đồng</strong> cho bản tiêu chuẩn đi kèm RC 2, bản Fly More Combo khoảng 60 triệu và Creator Combo 512GB khoảng 80 triệu đồng."
@@ -77,7 +77,7 @@ Người dùng quan tâm tới việc độ phân giải cao có thực sự t�
 Điểm khác biệt mang tính bước ngoặt của Mavic 4 Pro nằm ở gimbal cơ học có khả năng xoay dọc toàn bộ 360 độ, một tính năng trước đây chỉ xuất hiện trên một số dòng flycam nhỏ gọn của DJI chứ chưa từng có trên dòng Mavic cao cấp. Nhờ đó, người quay có thể tạo các góc máy thẳng đứng, cảnh xoay vòng liên tục hoặc các chuyển động máy phức tạp mà trước đây phải dựng hậu kỳ hoặc cần thiết bị chuyên dụng đắt tiền hơn nhiều.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/GzwmS1bwZV8/hqdefault.jpg" alt="DJI Mavic 4 Pro gimbal xoay doc 360 do quay video dien anh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/GzwmS1bwZV8/maxresdefault.jpg" alt="DJI Mavic 4 Pro gimbal xoay doc 360 do quay video dien anh" loading="lazy" width="1280" height="720">
   <figcaption>Gimbal xoay dọc 360 độ mở ra nhiều góc quay sáng tạo hơn cho nhà làm phim. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Người dùng quan tâm tới việc độ phân giải cao có thực sự t�
 Bên cạnh chất lượng hình ảnh, Mavic 4 Pro còn gây ấn tượng với thời lượng bay thực tế lên tới 51 phút mỗi viên pin, giúp người dùng quay được nhiều phân cảnh hơn trong một lần cất cánh, đặc biệt hữu ích khi di chuyển tới các địa điểm quay xa khu dân cư. Hệ thống truyền tín hiệu hình ảnh thế hệ mới O4+ cho phép xem trực tiếp hình ảnh chất lượng cao từ khoảng cách tới 30km trong điều kiện lý tưởng, cùng 6 cảm biến fisheye độ nhạy sáng 0.1 lux giúp máy phát hiện và né chướng ngại vật toàn hướng kể cả khi bay tốc độ cao hoặc thiếu sáng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/oGRDbqiyYNo/hqdefault.jpg" alt="DJI Mavic 4 Pro pin bay 51 phut truyen hinh anh O4 Plus 30km" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/oGRDbqiyYNo/maxresdefault.jpg" alt="DJI Mavic 4 Pro pin bay 51 phut truyen hinh anh O4 Plus 30km" loading="lazy" width="1280" height="720">
   <figcaption>Thời lượng pin và khả năng truyền tín hiệu xa giúp Mavic 4 Pro phù hợp các chuyến quay dài ngày. Nguồn: YouTube</figcaption>
 </figure>
 
 Với những ai đang cân nhắc mua flycam lần đầu nhưng chưa rõ nên bắt đầu từ mẫu nào, bài viết [hướng dẫn cách chọn flycam quay phim cho người mới năm 2026](/articles/cach-chon-flycam-drone-quay-phim-cho-nguoi-moi-2026.html) sẽ giúp xác định tiêu chí phù hợp trước khi quyết định đầu tư vào dòng cao cấp như Mavic 4 Pro hay các mẫu nhỏ gọn hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WtIFRo3EpnE/hqdefault.jpg" alt="DJI Mavic 4 Pro danh gia toan dien thong so flycam" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WtIFRo3EpnE/maxresdefault.jpg" alt="DJI Mavic 4 Pro danh gia toan dien thong so flycam" loading="lazy" width="1280" height="720">
   <figcaption>DJI Mavic 4 Pro được nhiều kênh đánh giá quốc tế xếp vào nhóm flycam tốt nhất hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -99,7 +99,7 @@ Bên cạnh việc nhận biết, có những thói quen giúp giảm rủi ro t
 Đồng thời, hãy chia sẻ kiến thức này với người thân, đặc biệt là người lớn tuổi, vốn là nhóm dễ bị nhắm tới. Thống nhất trước một quy ước trong gia đình, chẳng hạn một câu hỏi bí mật hoặc nguyên tắc luôn gọi lại để xác minh khi có yêu cầu chuyển tiền. Về công cụ, dù có một số dịch vụ hỗ trợ phát hiện deepfake, chúng không hoàn hảo và công nghệ giả mạo liên tục tiến bộ, nên cảnh giác và kiểm chứng vẫn là lá chắn quan trọng nhất.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ZmdiWwFqHt8/hqdefault.jpg" alt="Lật mặt kẻ giả mạo sử dụng công nghệ deepfake" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZmdiWwFqHt8/sddefault.jpg" alt="Lật mặt kẻ giả mạo sử dụng công nghệ deepfake" loading="lazy" width="640" height="480">
   <figcaption>Chia sẻ kiến thức cho người thân giúp giảm rủi ro bị lừa. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -73,7 +73,7 @@ Về khả năng chống ồn, tai nghe được trang bị công nghệ chống
 Nhờ kích thước lớn hơn đáng kể so với tai nghe true wireless thông thường, REDMI Headphones Neo tận dụng được viên pin dung lượng 500mAh, cho thời lượng sử dụng lên tới 72 giờ khi tắt chế độ chống ồn chủ động, một con số vượt trội so với hầu hết các dòng tai nghe true wireless trên thị trường vốn thường chỉ đạt tối đa vài chục giờ kể cả tính cả hộp sạc đi kèm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/x9dsK1YMmlk/hqdefault.jpg" alt="Thiết kế và trải nghiệm mở hộp REDMI Headphones Neo" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/x9dsK1YMmlk/maxresdefault.jpg" alt="Thiết kế và trải nghiệm mở hộp REDMI Headphones Neo" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế tối giản với đệm tai lớn giúp REDMI Headphones Neo mang lại cảm giác đeo thoải mái trong thời gian dài. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Nhờ kích thước lớn hơn đáng kể so với tai nghe true wireless thô
 Về mặt thiết kế, REDMI Headphones Neo sở hữu phong cách tối giản với đệm tai kích thước lớn, hệ thống phím bấm vật lý dễ thao tác thay vì chỉ dựa vào cảm ứng, cùng trọng lượng khoảng 410g giúp cân bằng tốt giữa độ chắc chắn và cảm giác đeo thoải mái trong thời gian dài. Sản phẩm cũng đạt chuẩn chống bụi và nước IP54, đủ để yên tâm sử dụng trong điều kiện thời tiết ẩm ướt nhẹ hoặc khi tập luyện thể thao đổ mồ hôi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/doKM-3dXyFs/hqdefault.jpg" alt="Trải nghiệm sử dụng thực tế REDMI Headphones Neo khi gọi điện và nghe nhạc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/doKM-3dXyFs/maxresdefault.jpg" alt="Trải nghiệm sử dụng thực tế REDMI Headphones Neo khi gọi điện và nghe nhạc" loading="lazy" width="1280" height="720">
   <figcaption>Hệ thống 3 micro AI giúp cải thiện đáng kể chất lượng cuộc gọi ngay cả trong môi trường ồn ào. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Về khả năng đàm thoại, tai nghe được trang bị hệ thống 3 micr
 Với mức giá 2.090.000 đồng, REDMI Headphones Neo đang cạnh tranh trực tiếp ở phân khúc tai nghe over-ear giá phổ thông, nơi người dùng thường phải đánh đổi giữa chất lượng âm thanh, thời lượng pin và mức giá phải chăng. Sự kết hợp giữa driver titanium đạt chuẩn Hi-Res Audio, chống ồn 42dB và thời lượng pin lên tới 72 giờ giúp sản phẩm trở thành một trong những lựa chọn đáng cân nhắc nhất ở tầm giá này, đặc biệt phù hợp với nhóm khách hàng thường xuyên di chuyển hoặc làm việc trong môi trường ồn ào cần một chiếc tai nghe bền bỉ, ít phải sạc lại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/x9dsK1YMmlk/hqdefault.jpg" alt="So sánh REDMI Headphones Neo với các mẫu tai nghe over-ear khác cùng phân khúc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/x9dsK1YMmlk/maxresdefault.jpg" alt="So sánh REDMI Headphones Neo với các mẫu tai nghe over-ear khác cùng phân khúc" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều đánh giá độc lập nhận định REDMI Headphones Neo có tỷ lệ giá trên hiệu năng vượt trội so với các đối thủ cùng tầm giá. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T18:20:00+07:00"
 dateModified: "2026-07-08T18:20:00+07:00"
 deck: "Elon Musk xác nhận mô hình nền tảng Grok V9-Medium với 1,5 nghìn tỷ tham số đã hoàn tất huấn luyện và đang bước vào giai đoạn tinh chỉnh, học tăng cường trước khi phát hành công khai. Grok 4.5, phiên bản xây dựng trên nền tảng này, hiện đã vào thử nghiệm nội bộ tại SpaceX và Tesla, với kế hoạch ra mắt công khai trong 2 đến 3 tuần tới."
-heroImage: "https://i.ytimg.com/vi/IhPCXeAs0Zg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/IhPCXeAs0Zg/maxresdefault.jpg"
 heroAlt: "Grok 4.5 của xAI vào giai đoạn thử nghiệm nội bộ tại SpaceX và Tesla"
 heroCaption: "Grok 4.5 bắt đầu thử nghiệm nội bộ tại SpaceX và Tesla trước khi ra mắt công khai. Nguồn: YouTube"
 tldr: "<strong>Elon Musk</strong> xác nhận mô hình nền tảng <strong>Grok V9-Medium</strong> với <strong>1,5 nghìn tỷ tham số</strong> đã hoàn tất huấn luyện, kết quả đánh giá tốt, có bổ sung dữ liệu từ nền tảng lập trình <strong>Cursor</strong>. Mô hình đang trong giai đoạn tinh chỉnh, học tăng cường sẽ bắt đầu trong vài ngày tới, dự kiến <strong>ra mắt công khai sau 2 đến 3 tuần</strong>. <strong>Grok 4.5</strong>, phiên bản xây trên nền tảng này, đã bước vào giai đoạn thử nghiệm nội bộ tại <strong>SpaceX</strong> và <strong>Tesla</strong>, hai công ty khác của Musk, trước khi tung ra rộng rãi cho người dùng X và các nền tảng liên quan."
@@ -75,7 +75,7 @@ Một chi tiết đáng chú ý được Musk tiết lộ là quá trình huấn
 Việc lựa chọn SpaceX và Tesla làm nơi thử nghiệm nội bộ đầu tiên cho Grok 4.5 phản ánh mối liên kết chặt chẽ giữa các công ty trong hệ sinh thái do Elon Musk sáng lập. Trước đó, SpaceX từng công bố khoản đầu tư đáng kể vào xAI, cho thấy các công ty này không chỉ chia sẻ tầm nhìn công nghệ mà còn có quan hệ tài chính gắn bó, tạo điều kiện thuận lợi để thử nghiệm chéo các sản phẩm AI mới nhất trước khi tung ra thị trường đại chúng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ADzKAxUJcPA/hqdefault.jpg" alt="xAI phát triển công cụ lập trình AI Grok Build với dữ liệu từ Cursor" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ADzKAxUJcPA/maxresdefault.jpg" alt="xAI phát triển công cụ lập trình AI Grok Build với dữ liệu từ Cursor" loading="lazy" width="1280" height="720">
   <figcaption>xAI tích hợp năng lực lập trình AI mạnh mẽ hơn vào các phiên bản Grok mới nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Với Tesla, việc tích hợp Grok trực tiếp vào hệ thống giải trí
 Theo chia sẻ của Elon Musk, sau giai đoạn tinh chỉnh hiện tại, quá trình học tăng cường sẽ bắt đầu trong vài ngày tới, và xAI đặt mục tiêu ra mắt Grok 4.5 công khai cho người dùng rộng rãi trong khoảng 2 đến 3 tuần kể từ thời điểm công bố. Đây là một lộ trình phát triển khá nhanh so với chu kỳ ra mắt của nhiều mô hình AI lớn khác, phản ánh tốc độ vận hành đặc trưng của các công ty do Musk điều hành, vốn thường ưu tiên tung sản phẩm nhanh và cải tiến liên tục dựa trên phản hồi thực tế thay vì hoàn thiện mọi chi tiết trước khi ra mắt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jbFlqd5fTTc/hqdefault.jpg" alt="Trải nghiệm trò chuyện với Grok trong lúc lái xe Tesla" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jbFlqd5fTTc/maxresdefault.jpg" alt="Trải nghiệm trò chuyện với Grok trong lúc lái xe Tesla" loading="lazy" width="1280" height="720">
   <figcaption>Grok được tích hợp trực tiếp vào trải nghiệm lái xe Tesla, cho phép tương tác bằng giọng nói. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Việc công bố mô hình nền tảng quy mô 1,5 nghìn tỷ tham số đặ
 Song song với nỗ lực mở rộng quy mô mô hình ngôn ngữ, ngành công nghệ AI cũng đang chứng kiến những đột phá ở tầng hạ tầng phần cứng, như đã đề cập trong bài về [Trung Quốc phát triển công nghệ chip AI đế thủy tinh mới](/articles/trung-quoc-chip-ai-de-thuy-tinh-thay-the-dong-2026.html), cho thấy cuộc cạnh tranh AI toàn cầu hiện diễn ra đồng thời trên nhiều mặt trận khác nhau, từ mô hình phần mềm, ứng dụng thực tế cho tới hạ tầng phần cứng nền tảng. Ở mảng ứng dụng tiêu dùng, diễn biến này cũng tương đồng với việc [Meta vừa tích hợp công cụ tạo ảnh AI Muse Spark thẳng vào Instagram và WhatsApp](/articles/meta-muse-spark-ai-tao-anh-instagram-whatsapp-2026.html), cho thấy các hãng công nghệ lớn đều đang chạy đua đưa mô hình AI mới nhất của mình tới gần người dùng cuối nhanh nhất có thể.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/N-CfPHwAXyQ/hqdefault.jpg" alt="Bản cập nhật Tesla mùa hè tích hợp Grok Beta và nhiều tính năng mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/N-CfPHwAXyQ/sddefault.jpg" alt="Bản cập nhật Tesla mùa hè tích hợp Grok Beta và nhiều tính năng mới" loading="lazy" width="640" height="480">
   <figcaption>Bản cập nhật phần mềm Tesla tích hợp Grok Beta cùng nhiều tính năng mới trong xe. Nguồn: YouTube</figcaption>
 </figure>
 

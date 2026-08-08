@@ -62,7 +62,7 @@ Lê Viết Quốc là nhà khoa học máy tính người Việt sinh năm 1982,
 Hành trình của Lê Viết Quốc là câu chuyện truyền cảm hứng cho nhiều bạn trẻ Việt Nam theo đuổi khoa học công nghệ. Từ một người con của vùng đất miền Trung, ông đã vươn tới những phòng thí nghiệm AI hàng đầu và tham gia vào các dự án định hình cả một ngành. Việc ông đứng ra lập startup riêng vì thế mang ý nghĩa lớn hơn một tin tuyển dụng thông thường, nó cho thấy một nhà khoa học người Việt đang ở vị trí dẫn dắt trong làn sóng đổi mới tiếp theo của trí tuệ nhân tạo.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/aIRLietAKgc/hqdefault.jpg" alt="Le Viet Quoc nha khoa hoc AI nguoi Viet dong sang lap Google Brain" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/aIRLietAKgc/maxresdefault.jpg" alt="Le Viet Quoc nha khoa hoc AI nguoi Viet dong sang lap Google Brain" loading="lazy" width="1280" height="720">
   <figcaption>Lê Viết Quốc là một trong những nhà khoa học AI người Việt có ảnh hưởng lớn nhất, gắn với Google Brain. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Cách tiếp cận này có thể hiểu như một vòng lặp khám phá liên
 Hướng đi này nối tiếp một xu thế rộng hơn của ngành, khi các phòng thí nghiệm AI lớn ngày càng tập trung vào việc để mô hình tự lập kế hoạch và hành động. Bạn đọc có thể tham khảo thêm bối cảnh qua bài viết về [cuộc đua mô hình AI nửa cuối 2026 giữa GPT, Gemini và Claude](/articles/gpt-5-6-cuoc-dua-ai-nua-cuoi-2026-gemini-claude-glm.html) để thấy các ông lớn đang đẩy năng lực suy luận và tự chủ của AI tới đâu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/r_lM-I16QD8/hqdefault.jpg" alt="Discovery Loop dung AI tu dong hoa nghien cuu khoa hoc thi nghiem song song" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/r_lM-I16QD8/maxresdefault.jpg" alt="Discovery Loop dung AI tu dong hoa nghien cuu khoa hoc thi nghiem song song" loading="lazy" width="1280" height="720">
   <figcaption>Discovery Loop hướng tới dùng AI để tự thiết kế và chạy hàng nghìn thí nghiệm khoa học song song. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Hướng đi này nối tiếp một xu thế rộng hơn của ngành, khi các
 Một chi tiết thú vị là dù các nhà sáng lập rời Google, Alphabet, công ty mẹ của Google, lại nằm trong nhóm nhà đầu tư vào Discovery Loop. Đây là cách các tập đoàn lớn duy trì mối liên hệ với những dự án hứa hẹn do chính nhân sự cũ của họ khởi xướng, vừa hỗ trợ vốn vừa giữ cửa hợp tác trong tương lai. Song song với sự kiện này, Demis Hassabis được ghi nhận trở thành Chủ tịch của Google DeepMind, cho thấy bộ máy lãnh đạo mảng AI của Google cũng có sự sắp xếp lại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VlwjE42VSRM/hqdefault.jpg" alt="Jeff Dean Sanjay Ghemawat Oriol Vinyals dong sang lap Discovery Loop cung Le Viet Quoc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VlwjE42VSRM/maxresdefault.jpg" alt="Jeff Dean Sanjay Ghemawat Oriol Vinyals dong sang lap Discovery Loop cung Le Viet Quoc" loading="lazy" width="1280" height="720">
   <figcaption>Đội ngũ đồng sáng lập Discovery Loop gồm nhiều tên tuổi kỳ cựu của Google. Nguồn: YouTube</figcaption>
 </figure>
 

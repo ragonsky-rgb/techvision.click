@@ -64,7 +64,7 @@ Rò rỉ cho thấy Apple TV 4K mới giữ nguyên kiểu dáng hộp vuông qu
 Bên cạnh vi xử lý, Apple TV mới còn được cho là dùng chip mạng N1 do chính Apple thiết kế, hỗ trợ Wi-Fi 7, Bluetooth 6 và chuẩn Thread. Với nhà thông minh, kết nối ổn định là yếu tố sống còn, khi hàng loạt cảm biến, đèn và khóa cửa cần giao tiếp mượt mà. Chuẩn Thread đặc biệt quan trọng vì giúp các thiết bị nhỏ, tiết kiệm điện liên lạc với nhau qua một mạng lưới bền vững hơn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/oZ7CWNCFfWg/hqdefault.jpg" alt="Apple TV 4K mới với chip A17 Pro làm trung tâm điều khiển nhà thông minh" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/oZ7CWNCFfWg/maxresdefault.jpg" alt="Apple TV 4K mới với chip A17 Pro làm trung tâm điều khiển nhà thông minh" loading="lazy" width="1280" height="720">
   <figcaption>Apple TV 4K mới giữ kiểu dáng cũ nhưng nâng chip để chạy Apple Intelligence. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Sản phẩm gây tò mò nhất là Home Hub, một thiết bị hoàn toàn m�
 Điểm nhấn của Home Hub là camera tích hợp, phục vụ gọi video, nhận diện khuôn mặt và cảm biến hiện diện. Nhờ nhận biết ai đang đứng trước máy, thiết bị có thể tự hiển thị thông tin phù hợp với từng thành viên, một hướng cá nhân hóa mà Apple đang theo đuổi. Máy chạy các ứng dụng quen thuộc như Safari, Lịch, Ảnh và Nhà, đồng thời tích hợp Siri AI, với mức giá được đồn quanh 350 USD.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/z6YNPhb-OcU/hqdefault.jpg" alt="Apple Home Hub màn hình vuông có camera, đặt trên đế loa bán cầu" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/z6YNPhb-OcU/maxresdefault.jpg" alt="Apple Home Hub màn hình vuông có camera, đặt trên đế loa bán cầu" loading="lazy" width="1280" height="720">
   <figcaption>Home Hub đóng vai trò trung tâm điều khiển, có camera nhận diện khuôn mặt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Với một chiếc HomePod mới và bản HomePod mini cập nhật đi kèm, 
 Song song với Apple TV và Home Hub, Apple được cho là còn chuẩn bị một chiếc HomePod cỡ lớn mới, bên cạnh bản HomePod mini cập nhật. Loa thông minh là mảnh ghép âm thanh trong bức tranh nhà thông minh, nơi Apple muốn người dùng ra lệnh bằng giọng nói và nghe nhạc, podcast xuyên suốt các phòng. Việc làm mới cả dòng loa cho thấy hãng không bỏ quên mảng này, dù nó lâu nay ít được chú ý hơn so với iPhone.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/a5cjBG6s6IY/hqdefault.jpg" alt="HomePod mini mới và loa HomePod cỡ lớn trong hệ sinh thái nhà Apple 2026" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/a5cjBG6s6IY/maxresdefault.jpg" alt="HomePod mini mới và loa HomePod cỡ lớn trong hệ sinh thái nhà Apple 2026" loading="lazy" width="1280" height="720">
   <figcaption>HomePod mới đảm nhận mảng âm thanh, bổ trợ cho Apple TV và Home Hub. Nguồn: YouTube</figcaption>
 </figure>
 

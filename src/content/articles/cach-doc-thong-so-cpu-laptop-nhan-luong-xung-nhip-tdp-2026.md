@@ -67,7 +67,7 @@ Hai con số đầu tiên bạn gặp thường là số nhân và số luồng.
 Tuy nhiên, nhiều nhân không tự động đồng nghĩa với nhanh hơn trong mọi trường hợp. Các tác vụ hằng ngày như lướt web, soạn văn bản hay xem video chủ yếu cần vài nhân mạnh chứ không cần quá nhiều nhân. Số nhân lớn phát huy tác dụng rõ nhất ở các công việc chuyên sâu như dựng video, biên dịch mã nguồn, chạy máy ảo hay xử lý dữ liệu lớn. Vì thế, với người dùng văn phòng và học tập, một chip 4 tới 8 nhân thường đã dư dùng, còn dân sáng tạo nội dung mới cần cân nhắc các chip 10 nhân trở lên.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/PULPGwGecvU/hqdefault.jpg" alt="Số nhân và số luồng CPU laptop quyết định khả năng đa nhiệm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PULPGwGecvU/maxresdefault.jpg" alt="Số nhân và số luồng CPU laptop quyết định khả năng đa nhiệm" loading="lazy" width="1280" height="720">
   <figcaption>Số nhân và luồng quyết định khả năng đa nhiệm, nhưng nhu cầu thực tế mới là thước đo nên chọn bao nhiêu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Các CPU laptop hiện đại không còn dùng toàn bộ nhân giống nhau, m
 Xung nhịp, đo bằng GHz, cho biết mỗi nhân xử lý nhanh tới đâu. Thông số này thường có hai mức: xung cơ bản khi máy hoạt động bình thường và xung tăng tốc tối đa khi cần dồn sức. Xung nhịp cao giúp các tác vụ đơn luồng phản hồi nhanh, nhưng đừng chỉ nhìn con số này một cách tách biệt. Hiệu năng thực tế còn phụ thuộc kiến trúc chip và thế hệ, nên hai CPU cùng xung nhịp nhưng khác đời có thể chênh lệch rất lớn. Con số GHz chỉ có ý nghĩa khi so sánh trong cùng một thế hệ chip.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/gkEiRcxA2kM/hqdefault.jpg" alt="P-core E-core và xung nhịp GHz trên CPU laptop hiện đại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gkEiRcxA2kM/maxresdefault.jpg" alt="P-core E-core và xung nhịp GHz trên CPU laptop hiện đại" loading="lazy" width="1280" height="720">
   <figcaption>Chip đời mới chia nhân hiệu năng và nhân tiết kiệm điện để cân bằng sức mạnh với thời lượng pin. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Ngoài các thông số kỹ thuật, bản thân tên gọi chip cũng chứa n
 Điểm mới rõ nhất của chip 2026 là NPU, nhân xử lý AI chuyên biệt đo bằng đơn vị TOPS. NPU giúp chạy các tác vụ AI ngay trên máy như lọc nhiễu cuộc gọi, tạo phụ đề trực tiếp, xử lý ảnh và các trợ lý AI, mà không cần gửi dữ liệu lên đám mây. Điều này vừa nhanh hơn vừa riêng tư hơn. Dù vậy, với đa số người dùng phổ thông hiện nay, NPU vẫn là điểm cộng chứ chưa phải yếu tố bắt buộc, nên bạn không cần trả thêm quá nhiều chỉ để có chỉ số TOPS cao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jv4whLtksxM/hqdefault.jpg" alt="Tên chip Intel Core Ultra AMD Ryzen AI và nhân NPU trên laptop 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jv4whLtksxM/maxresdefault.jpg" alt="Tên chip Intel Core Ultra AMD Ryzen AI và nhân NPU trên laptop 2026" loading="lazy" width="1280" height="720">
   <figcaption>Tên chip và nhân NPU là điểm mới của laptop 2026, nhưng nên chọn theo nhu cầu thay vì con số cao nhất. Nguồn: YouTube</figcaption>
 </figure>
 

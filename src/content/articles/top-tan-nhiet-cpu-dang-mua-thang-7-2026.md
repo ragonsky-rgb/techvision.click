@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T05:00:00+07:00"
 dateModified: "2026-07-06T05:00:00+07:00"
 deck: "Nhu cầu nâng cấp tản nhiệt CPU tiếp tục tăng cao trong tháng 7/2026, khi ngày càng nhiều CPU và GPU thế hệ mới tiêu tốn nhiều điện năng và tỏa nhiệt lớn hơn. Bài viết tổng hợp 3 lựa chọn đáng chú ý nhất ở ba phân khúc, phù hợp từ CPU tầm trung tới cấu hình hiệu năng cao nhất."
-heroImage: "https://i.ytimg.com/vi/7f-Guxj4kl0/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/7f-Guxj4kl0/maxresdefault.jpg"
 heroAlt: "Top tan nhiet CPU dang mua thang 7 2026"
 heroCaption: "Tổng hợp tản nhiệt CPU đáng mua nhất tháng 7/2026 theo từng phân khúc nhu cầu. Nguồn: YouTube"
 tldr: "Ở phân khúc <strong>giá tốt</strong>, tản khí tầm trung vẫn đủ đáp ứng tốt nhu cầu tản nhiệt cho CPU công suất TDP thấp tới trung bình. Phân khúc <strong>tầm trung</strong> nổi bật với tản nước <strong>AIO 240mm</strong>, cân bằng giữa hiệu năng tản nhiệt và chi phí. Ở phân khúc <strong>cao cấp</strong>, tản nước <strong>AIO 360mm</strong> là lựa chọn đáng đầu tư nhất cho CPU hiệu năng cao nhất, đảm bảo xung nhịp ổn định ngay cả khi xử lý các tác vụ nặng liên tục."
@@ -71,7 +71,7 @@ Với người mới xây dựng máy tính lần đầu, tản khí tầm trung
 Ở phân khúc tầm trung, tản nước AIO 240mm là lựa chọn nổi bật, phù hợp người dùng có CPU tầm trung tới khá cao, cần cân bằng giữa hiệu năng tản nhiệt và chi phí. Kích thước radiator 240mm đủ lớn để xử lý tốt các CPU công suất TDP cao hơn tản khí thông thường, đồng thời vẫn vừa với hầu hết case gaming tầm trung hiện nay mà không cần đầu tư tới mức AIO cao cấp nhất.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/skq5k2Tl4jI/hqdefault.jpg" alt="Huong dan mua tan nhiet CPU tong quan cac loai" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/skq5k2Tl4jI/maxresdefault.jpg" alt="Huong dan mua tan nhiet CPU tong quan cac loai" loading="lazy" width="1280" height="720">
   <figcaption>Tổng quan các loại tản nhiệt CPU giúp người dùng dễ dàng chọn được sản phẩm phù hợp khi nâng cấp máy tính. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,14 +80,14 @@ Với người mới xây dựng máy tính lần đầu, tản khí tầm trung
 Với nhu cầu CPU hiệu năng cao nhất, tản nước AIO 360mm là lựa chọn đáng đầu tư nhất, đảm bảo xung nhịp ổn định ngay cả khi xử lý các tác vụ nặng liên tục như dựng phim, chạy mô hình AI cục bộ hoặc chơi game AAA ở cường độ cao trong thời gian dài. Kích thước radiator lớn hơn giúp tản nhiệt hiệu quả hơn đáng kể so với AIO 240mm, dù đòi hỏi case máy tính phải đủ không gian lắp đặt phù hợp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/R5GhNnLVUrw/hqdefault.jpg" alt="Cach chon tan khi CPU kich thuoc phu hop cao cap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/R5GhNnLVUrw/maxresdefault.jpg" alt="Cach chon tan khi CPU kich thuoc phu hop cao cap" loading="lazy" width="1280" height="720">
   <figcaption>Hướng dẫn chi tiết cách chọn tản nhiệt CPU cao cấp phù hợp với hệ thống hiệu năng cao. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài kích thước radiator, người dùng ở phân khúc cao cấp cũng nên chú ý tới chất lượng quạt đi kèm, vì các dòng AIO 360mm thường trang bị 3 quạt cùng lúc, đòi hỏi bo mạch chủ và bộ nguồn có đủ số cổng cấp điện cùng công suất dự phòng cần thiết để vận hành ổn định lâu dài.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ngEVC355Cvc/hqdefault.jpg" alt="Huong dan mua tan nhiet CPU cao cap cho creator" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ngEVC355Cvc/maxresdefault.jpg" alt="Huong dan mua tan nhiet CPU cao cap cho creator" loading="lazy" width="1280" height="720">
   <figcaption>Hướng dẫn chọn tản nhiệt CPU cao cấp phù hợp cho người dùng chuyên nghiệp cần hiệu năng xử lý tối đa. Nguồn: YouTube</figcaption>
 </figure>
 

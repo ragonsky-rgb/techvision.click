@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-10T10:20:00+07:00"
 dateModified: "2026-07-10T10:20:00+07:00"
 deck: "Roborock chính thức ra mắt Qrevo 2 Pro tại thị trường Việt Nam, mẫu robot hút bụi lau nhà flagship với lực hút HyperForce lên tới 25.000Pa, hệ thống giẻ lau xoay kép tốc độ 200 vòng/phút cùng dock sạc đa năng cho phép rảnh tay tới 65 ngày. Sản phẩm chính thức mở bán từ 7/7/2026 với giá khuyến mãi 13,49 triệu đồng."
-heroImage: "https://i.ytimg.com/vi/L8sOgLIzH_w/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/L8sOgLIzH_w/maxresdefault.jpg"
 heroAlt: "Roborock Qrevo 2 Pro ra mắt Việt Nam lực hút HyperForce 25000Pa"
 heroCaption: "Roborock Qrevo 2 Pro chính thức mở bán tại thị trường Việt Nam từ 7/7/2026. Nguồn: YouTube"
 tldr: "<strong>Roborock Qrevo 2 Pro</strong> đã chính thức mở bán tại Việt Nam từ ngày <strong>7/7/2026</strong> với giá khuyến mãi <strong>13,49 triệu đồng</strong>. Điểm nhấn lớn nhất là lực hút <strong>HyperForce 25.000Pa</strong>, hút sạch bụi mịn, tóc và lông thú hiệu quả trên cả sàn cứng lẫn thảm. Robot trang bị chổi cạnh đảo chiều tăng <strong>30%</strong> diện tích phủ góc, hệ thống giẻ lau xoay kép tốc độ <strong>200 vòng/phút</strong> lau sát mép chỉ cách viền tường <strong>1,85mm</strong>. Dock sạc đa năng hỗ trợ tự động đổ bụi, bơm nước, giặt sấy giẻ bằng khí nóng, giúp người dùng rảnh tay tới <strong>65 ngày</strong> không cần can thiệp thủ công. Robot còn có cơ chế tự tháo giẻ lau khi phát hiện khu vực trải thảm để tránh làm ướt thảm."
@@ -76,7 +76,7 @@ Thị trường robot hút bụi lau nhà tại Việt Nam vừa đón nhận th
 Về khả năng lau nhà, Qrevo 2 Pro trang bị hệ thống giẻ lau xoay kép với tốc độ quay lên tới 200 vòng/phút, mang lại hiệu quả làm sạch vượt trội so với các cơ chế lau kéo truyền thống. Đáng chú ý, hệ thống này có khả năng bao phủ toàn bộ diện tích mép cạnh và lau sát viền tường ở khoảng cách chỉ 1,85mm, gần như không để sót lại vệt bẩn dọc theo chân tường, một trong những khu vực khó làm sạch triệt để nhất đối với phần lớn robot hút bụi lau nhà hiện nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mmy1nn0fPXw/hqdefault.jpg" alt="Đánh giá chi tiết khả năng làm sạch của dòng robot Roborock Qrevo Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mmy1nn0fPXw/maxresdefault.jpg" alt="Đánh giá chi tiết khả năng làm sạch của dòng robot Roborock Qrevo Pro" loading="lazy" width="1280" height="720">
   <figcaption>Hệ thống giẻ lau xoay kép được đánh giá cao về khả năng làm sạch vết bẩn cứng đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Về khả năng lau nhà, Qrevo 2 Pro trang bị hệ thống giẻ lau xoay k�
 Về trạm sạc, Qrevo 2 Pro đi kèm dock đa năng tích hợp hàng loạt tính năng tự động hoá, bao gồm tự động đổ bụi, tự động bơm nước sạch cho khoang chứa, tự làm sạch khay đế, giặt giẻ lau bằng khí nóng và sấy khô ở nhiệt độ 45 độ C, cùng khả năng sạc thông minh tối ưu thời gian nạp pin. Nhờ tổ hợp tính năng này, người dùng có thể rảnh tay hoàn toàn, không cần can thiệp thủ công vào quá trình vệ sinh và bảo dưỡng robot trong tối đa 65 ngày liên tục.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FW8iAvXbXrI/hqdefault.jpg" alt="Trạm sạc đa năng của dòng Roborock Qrevo hỗ trợ tự động hoá toàn diện" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FW8iAvXbXrI/maxresdefault.jpg" alt="Trạm sạc đa năng của dòng Roborock Qrevo hỗ trợ tự động hoá toàn diện" loading="lazy" width="1280" height="720">
   <figcaption>Trạm sạc đa năng giúp giảm thiểu tối đa thao tác thủ công cần thiết từ người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
 Sản phẩm chính thức mở bán tại Việt Nam từ ngày 7/7/2026 với giá khuyến mãi 13,49 triệu đồng, được phân phối chính hãng bởi Công ty TNHH Thiết bị Thông minh O-Tech Việt Nam qua các sàn thương mại điện tử Shopee, Lazada và TikTok Shop chính thức của Roborock Việt Nam.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/I1Vg7JdGFA0/hqdefault.jpg" alt="Mở hộp chi tiết dòng Roborock Qrevo Edge 2 Pro và phụ kiện đi kèm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/I1Vg7JdGFA0/maxresdefault.jpg" alt="Mở hộp chi tiết dòng Roborock Qrevo Edge 2 Pro và phụ kiện đi kèm" loading="lazy" width="1280" height="720">
   <figcaption>Bộ sản phẩm đi kèm dock sạc đa năng, giúp người dùng vận hành robot gần như hoàn toàn tự động. Nguồn: YouTube</figcaption>
 </figure>
 

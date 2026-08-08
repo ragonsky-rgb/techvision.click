@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T19:00:00+07:00"
 dateModified: "2026-07-05T19:00:00+07:00"
 deck: "Logitech vừa ra mắt G Pro X2 Superstrike, chuột gaming không dây thay thế hoàn toàn nút bấm cơ học bằng công nghệ cảm biến từ tính H.I.T.S, hứa hẹn loại bỏ triệt để lỗi double-click từng gây khó chịu cho game thủ esports suốt nhiều năm qua."
-heroImage: "https://i.ytimg.com/vi/XTfGSKCH6AY/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/XTfGSKCH6AY/maxresdefault.jpg"
 heroAlt: "Logitech G Pro X2 Superstrike chuot gaming Hall Effect 2026"
 heroCaption: "Logitech G Pro X2 Superstrike dùng công nghệ H.I.T.S thay thế hoàn toàn nút bấm cơ học truyền thống. Nguồn: YouTube"
 tldr: "Logitech vừa ra mắt <strong>G Pro X2 Superstrike</strong>, chuột gaming không dây sử dụng công nghệ <strong>H.I.T.S</strong> (Haptic Inductive Trigger System), loại bỏ hoàn toàn tiếp điểm cơ học truyền thống để tránh lỗi double-click. Người dùng có thể tùy chỉnh độ nhạy nút bấm qua <strong>10 mức</strong>, thấp nhất chỉ <strong>0,6mm</strong>. Chuột nặng <strong>61g</strong>, pin dùng được khoảng <strong>90 giờ</strong>, giá bán <strong>180 USD</strong>. Sản phẩm được nhiều trang công nghệ đánh giá là một trong những thiết bị gaming sáng tạo nhất năm 2026, dù mức giá vẫn còn khá cao so với mặt bằng chung."
@@ -71,7 +71,7 @@ Ngoài loại bỏ lỗi double-click, cảm biến từ tính H.I.T.S còn mang
 Nhờ cảm biến từ tính, G Pro X2 Superstrike cho phép người dùng tùy chỉnh độ nhạy nút bấm qua 10 mức khác nhau, mức thấp nhất chỉ 0,6mm, tương tự công nghệ bàn phím Hall Effect đã phổ biến trên nhiều dòng bàn phím cơ gaming cao cấp gần đây. Khả năng tùy chỉnh này giúp game thủ esports có thể điều chỉnh độ nhạy phù hợp với từng thể loại game khác nhau, ví dụ mức nhạy thấp cho các tựa game bắn súng cần phản xạ tức thời, hoặc mức nhạy cao hơn để tránh nhấn nhầm trong các tựa game chiến thuật cần độ chính xác cao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/39CsIfLM-BQ/hqdefault.jpg" alt="Logitech G Pro X2 Superstrike tuy chinh do nhay nut bam" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/39CsIfLM-BQ/maxresdefault.jpg" alt="Logitech G Pro X2 Superstrike tuy chinh do nhay nut bam" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng tùy chỉnh độ nhạy qua 10 mức actuation là điểm nhấn kỹ thuật nổi bật của G Pro X2 Superstrike. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ So với G Pro X Superlight 2, thế hệ tiền nhiệm nổi tiếng với tr�
 Cảm biến quang học đi kèm cũng được nâng cấp, hỗ trợ độ phân giải theo dõi chuyển động cao hơn thế hệ trước, giúp chuột phản hồi chính xác hơn ngay cả khi di chuyển với tốc độ rất nhanh, một yêu cầu quan trọng trong các tựa game bắn súng góc nhìn thứ nhất tốc độ cao nơi độ trễ dù chỉ vài mili giây cũng có thể ảnh hưởng tới kết quả trận đấu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/5NPEmiGwRyo/hqdefault.jpg" alt="Logitech G Pro X2 Superstrike trong luong va pin danh gia" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/5NPEmiGwRyo/maxresdefault.jpg" alt="Logitech G Pro X2 Superstrike trong luong va pin danh gia" loading="lazy" width="1280" height="720">
   <figcaption>Trọng lượng 61g và pin 90 giờ là những con số được đánh giá kỹ trong các bài test thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Cảm biến quang học đi kèm cũng được nâng cấp, hỗ trợ độ p
 Với giá bán chính thức 180 USD, G Pro X2 Superstrike thuộc phân khúc cao cấp trong danh mục chuột gaming không dây hiện nay, khiến nhiều người dùng phổ thông vẫn còn cân nhắc trước khi xuống tiền, đặc biệt khi so sánh với nhiều mẫu chuột gaming tầm trung có mức giá chỉ bằng một nửa nhưng vẫn đáp ứng tốt nhu cầu chơi game giải trí thông thường. Tuy nhiên, với nhóm game thủ esports chuyên nghiệp hoặc người dùng ưu tiên độ tin cậy tuyệt đối của nút bấm, mức giá này được xem là hợp lý so với giá trị công nghệ mang lại. Người dùng cân nhắc thêm các lựa chọn chuột gaming khác có thể tham khảo [cách chọn chuột gaming theo 5 tiêu chí quan trọng](/articles/cach-chon-chuot-gaming-2026-tieu-chi.html) cùng [top chuột gaming đáng mua tháng 7/2026](/articles/top-chuot-gaming-dang-mua-thang-7-2026.html) để so sánh trước khi quyết định.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/tdypelxnVCo/hqdefault.jpg" alt="Logitech G Pro X2 Superstrike gia ban danh gia tong the" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/tdypelxnVCo/maxresdefault.jpg" alt="Logitech G Pro X2 Superstrike gia ban danh gia tong the" loading="lazy" width="1280" height="720">
   <figcaption>Đánh giá tổng thể về giá trị mà G Pro X2 Superstrike mang lại so với mức giá bán 180 USD. Nguồn: YouTube</figcaption>
 </figure>
 

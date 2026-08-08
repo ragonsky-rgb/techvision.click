@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-10T09:40:00+07:00"
 dateModified: "2026-07-10T09:40:00+07:00"
 deck: "Sony chính thức hồi sinh dòng máy ảnh siêu zoom huyền thoại RX10 sau 9 năm vắng bóng kể từ thế hệ RX10 Mark IV, ra mắt RX10 V với ống kính ZEISS Vario-Sonnar T* 24-600mm zoom quang học 25x, khả năng quay video 4K 120p và chụp liên tục 30 khung hình mỗi giây không nháy đen, giá bán đề xuất 2.299,99 USD, dự kiến lên kệ từ tháng 8/2026."
-heroImage: "https://i.ytimg.com/vi/rjJdefC-xmk/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/rjJdefC-xmk/maxresdefault.jpg"
 heroAlt: "Sony RX10 V máy ảnh siêu zoom hồi sinh sau 9 năm"
 heroCaption: "Sony RX10 V chính thức trình làng, đánh dấu sự trở lại sau 9 năm của dòng máy ảnh siêu zoom huyền thoại. Nguồn: YouTube"
 tldr: "<strong>Sony</strong> chính thức công bố <strong>RX10 V</strong>, thế hệ kế nhiệm của dòng máy ảnh siêu zoom RX10 sau <strong>9 năm</strong> vắng bóng kể từ RX10 Mark IV. Máy giữ nguyên ống kính <strong>ZEISS Vario-Sonnar T* 24-600mm</strong> (zoom quang học 25x), khẩu độ f/2.4-4.0, cảm biến <strong>Exynos RS CMOS 1.0 inch stacked</strong> 20,1 megapixel cùng bộ xử lý <strong>BIONZ XR</strong>. Máy hỗ trợ quay video <strong>4K 120p</strong>, chụp liên tục <strong>30 khung hình/giây</strong> không nháy đen với lấy nét/đo sáng tự động 60 lần/giây, cùng công nghệ nhận diện chủ thể AI thời gian thực. Giá bán đề xuất <strong>2.299,99 USD</strong>, dự kiến lên kệ từ tháng 8/2026."
@@ -78,7 +78,7 @@ Về khả năng chụp cận cảnh, ống kính có thể lấy nét macro ở
 Về phần cứng cảm biến, RX10 V trang bị cảm biến stacked Exmor RS CMOS 1.0 inch độ phân giải 20,1 megapixel, kết hợp cùng bộ xử lý hình ảnh BIONZ XR thế hệ mới. Sự kết hợp này mang lại khả năng chụp liên tục lên tới 30 khung hình mỗi giây ở chế độ không nháy đen (blackout-free), cùng khả năng lấy nét và đo sáng tự động theo dõi liên tục tới 60 lần mỗi giây, những con số vượt trội so với thế hệ RX10 Mark IV trước đó.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XYfDVdebdsw/hqdefault.jpg" alt="Sony chính thức giới thiệu chi tiết máy ảnh RX10 V" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XYfDVdebdsw/maxresdefault.jpg" alt="Sony chính thức giới thiệu chi tiết máy ảnh RX10 V" loading="lazy" width="1280" height="720">
   <figcaption>Sony trực tiếp giới thiệu các tính năng nổi bật của RX10 V trong video công bố chính thức. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,14 +89,14 @@ Máy cũng được trang bị công nghệ nhận diện chủ thể AI thời 
 Về khả năng quay phim, RX10 V hỗ trợ quay video 4K 60p với chế độ full-pixel readout kết hợp oversampling từ độ phân giải 5.4K, mang lại chất lượng hình ảnh sắc nét và chi tiết hơn đáng kể. Đáng chú ý hơn, máy còn hỗ trợ quay 4K ở tốc độ 120 khung hình/giây, cho phép tạo ra các cảnh quay chuyển động chậm mượt mà, cùng với cải tiến về chất lượng thu âm và chế độ quay tốc độ chậm/nhanh S&Q linh hoạt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/9jmuxJuHcTA/hqdefault.jpg" alt="Đánh giá chi tiết Sony RX10 V, chiếc máy ảnh làm được mọi thứ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9jmuxJuHcTA/maxresdefault.jpg" alt="Đánh giá chi tiết Sony RX10 V, chiếc máy ảnh làm được mọi thứ" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều reviewer đánh giá RX10 V là lựa chọn toàn diện hiếm có trong phân khúc máy ảnh tích hợp ống kính. Nguồn: YouTube</figcaption>
 </figure>
 
 Về khả năng chống rung, máy trang bị chế độ ổn định hình ảnh Active Mode sử dụng cảm biến con quay hồi chuyển (gyro sensor) mới kết hợp cùng thuật toán ổn định hình ảnh thế hệ mới nhất, giúp giảm đáng kể hiện tượng rung lắc khi quay video cầm tay, đặc biệt hữu ích khi sử dụng ở tiêu cự tele xa vốn rất nhạy cảm với chuyển động nhỏ của tay người cầm máy.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/vSqppGydUnw/hqdefault.jpg" alt="Những thay đổi lớn của Sony RX10 V so với thế hệ tiền nhiệm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vSqppGydUnw/maxresdefault.jpg" alt="Những thay đổi lớn của Sony RX10 V so với thế hệ tiền nhiệm" loading="lazy" width="1280" height="720">
   <figcaption>RX10 V mang tới hàng loạt nâng cấp đáng giá sau 9 năm chờ đợi của cộng đồng nhiếp ảnh. Nguồn: YouTube</figcaption>
 </figure>
 

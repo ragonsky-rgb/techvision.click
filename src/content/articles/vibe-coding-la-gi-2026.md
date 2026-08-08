@@ -79,7 +79,7 @@ Lập trình truyền thống đòi hỏi người viết phải hiểu sâu cú
 Sự khác biệt lớn nhất nằm ở việc ai chịu trách nhiệm hiểu chi tiết code. Với lập trình truyền thống, người viết hiểu rõ từng dòng mình gõ ra. Với vibe coding, phần lớn thời gian người dùng không đọc hoặc không hiểu hết code AI tạo ra, mà đánh giá qua việc sản phẩm có chạy đúng như mong muốn hay không. Cách làm này giúp tốc độ dựng bản mẫu nhanh hơn rất nhiều, nhưng cũng đặt ra câu hỏi về việc ai chịu trách nhiệm khi có lỗi xảy ra, nhất là với các hệ thống quan trọng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/pbEU0bKQTkU/hqdefault.jpg" alt="Trai nghiem Cursor AI tro ly lap trinh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/pbEU0bKQTkU/maxresdefault.jpg" alt="Trai nghiem Cursor AI tro ly lap trinh" loading="lazy" width="1280" height="720">
   <figcaption>Cursor là một trong những công cụ vibe coding phổ biến nhất hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Trên thị trường hiện có nhiều công cụ hỗ trợ vibe coding, mỗ
 Bên cạnh Cursor còn có Claude Code, công cụ dòng lệnh cho phép AI agent thao tác trực tiếp trên toàn bộ dự án, đọc nhiều file cùng lúc và tự chạy thử code để kiểm tra kết quả. Google cũng tham gia cuộc chơi này với Antigravity, một ứng dụng desktop quản lý nhiều AI agent chạy song song để lập trình, được giới thiệu chi tiết trong bài về Google I/O 2026 Day 2. Microsoft thì tích hợp khả năng tương tự vào GitHub Copilot Workspace, cho phép mô tả một tính năng bằng ngôn ngữ tự nhiên rồi để AI tự tạo ra bản triển khai đầu tiên. Sự xuất hiện đồng loạt của các công cụ này từ nhiều hãng lớn cho thấy vibe coding không còn là một thử nghiệm nhỏ lẻ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zco1MsWXA2s/hqdefault.jpg" alt="AI agent Claude Code khoi tao giao dien ung dung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zco1MsWXA2s/maxresdefault.jpg" alt="AI agent Claude Code khoi tao giao dien ung dung" loading="lazy" width="1280" height="720">
   <figcaption>AI agent có thể tự khởi tạo giao diện ứng dụng từ mô tả ngôn ngữ tự nhiên. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Lý do lớn nhất khiến các hãng công nghệ đồng loạt đầu tư v�
 Đây cũng là lý do vì sao các công ty đầu tư mạnh vào lĩnh vực này được định giá cao bất thường so với quy mô doanh thu hiện tại, vì nhà đầu tư đặt cược vào tiềm năng dài hạn của một thị trường người dùng lớn hơn hẳn thị trường lập trình viên chuyên nghiệp truyền thống. Với các hãng lớn như Google và Microsoft, việc tích hợp vibe coding vào hệ sinh thái sản phẩm hiện có, từ điện toán đám mây tới công cụ văn phòng, còn giúp giữ chân người dùng ở lại trong hệ sinh thái của họ lâu hơn, thay vì chuyển sang dùng công cụ của bên thứ ba.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/9vqOwywrBb0/hqdefault.jpg" alt="He sinh thai cong cu AI Copilot cua Microsoft" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9vqOwywrBb0/maxresdefault.jpg" alt="He sinh thai cong cu AI Copilot cua Microsoft" loading="lazy" width="1280" height="720">
   <figcaption>Các hãng lớn đều đã có công cụ lập trình AI riêng trong hệ sinh thái của mình. Nguồn: YouTube</figcaption>
 </figure>
 

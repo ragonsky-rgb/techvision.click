@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-16T09:00:00+07:00"
 dateModified: "2026-07-16T09:00:00+07:00"
 deck: "Qualcomm vừa công bố thương vụ mua lại Modular, startup hạ tầng AI, với giá khoảng 3,9 tỷ USD. Modular là công ty đứng sau ngôn ngữ lập trình Mojo và engine MAX, những công nghệ được định vị như lựa chọn thay thế cho hệ sinh thái CUDA của Nvidia, vốn đang gần như độc quyền trong mảng phần mềm AI. Mục tiêu của Qualcomm là củng cố năng lực hạ tầng AI từ thiết bị biên tới trung tâm dữ liệu, đồng thời giảm sự phụ thuộc của ngành vào một nhà cung cấp duy nhất. Đây là nước đi chiến lược đáng chú ý trong cuộc chiến giành quyền kiểm soát nền tảng phần mềm AI."
-heroImage: "https://i.ytimg.com/vi/ua5yCwMj8pM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/ua5yCwMj8pM/maxresdefault.jpg"
 heroAlt: "Qualcomm mua lại startup hạ tầng AI Modular với giá khoảng 3,9 tỷ USD năm 2026"
 heroCaption: "Qualcomm mua Modular nhằm xây nền tảng phần mềm AI thách thức CUDA của Nvidia. Nguồn: YouTube"
 tldr: "<strong>Qualcomm</strong> công bố mua lại <strong>Modular</strong>, startup hạ tầng AI, với giá khoảng <strong>3,9 tỷ USD</strong>. Modular sở hữu ngôn ngữ lập trình <strong>Mojo</strong> và engine <strong>MAX</strong>, được định vị là nền tảng phần mềm AI hoạt động trên nhiều loại phần cứng, thay vì khóa chặt vào một hãng chip. Đây là thách thức trực tiếp tới hệ sinh thái <strong>CUDA</strong> của Nvidia, vốn gần như độc quyền trong lập trình AI nhiều năm qua. Qualcomm muốn dùng công nghệ của Modular để củng cố năng lực AI từ thiết bị biên tới trung tâm dữ liệu, đồng thời mở ra lựa chọn giúp ngành bớt phụ thuộc vào một nhà cung cấp duy nhất."
@@ -75,7 +75,7 @@ Trong bối cảnh nhu cầu AI bùng nổ đẩy giá và làm khan hiếm cả
 Modular sở hữu hai công nghệ cốt lõi. Đầu tiên là Mojo, ngôn ngữ lập trình được thiết kế cho AI với mục tiêu vừa dễ dùng như Python vừa nhanh như các ngôn ngữ cấp thấp. Thứ hai là MAX, engine giúp triển khai và chạy các mô hình AI hiệu quả trên nhiều loại phần cứng khác nhau. Điểm chung của cả hai là triết lý không khóa chặt vào một hãng chip, khác hẳn cách tiếp cận của CUDA.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/KL7pMJ2nkAk/hqdefault.jpg" alt="So sánh ngôn ngữ Mojo của Modular với CUDA của Nvidia" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KL7pMJ2nkAk/maxresdefault.jpg" alt="So sánh ngôn ngữ Mojo của Modular với CUDA của Nvidia" loading="lazy" width="1280" height="720">
   <figcaption>Mojo và engine MAX được định vị là lựa chọn thay thế đa phần cứng cho hệ sinh thái CUDA. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Với triết lý này, Modular hướng tới việc trở thành lớp phần 
 Với Qualcomm, thương vụ này phục vụ một mục tiêu rõ ràng: xây dựng năng lực AI toàn diện. Qualcomm vốn mạnh ở mảng chip cho thiết bị biên như điện thoại, xe hơi và thiết bị đeo, nơi AI xử lý ngay trên máy ngày càng quan trọng. Sở hữu nền tảng phần mềm của Modular giúp hãng mở rộng lên cả mảng trung tâm dữ liệu, tạo thành giải pháp trọn gói từ đầu này tới đầu kia.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/k2fOyb0Npz4/hqdefault.jpg" alt="Modular xây dựng hệ sinh thái hạ tầng AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/k2fOyb0Npz4/maxresdefault.jpg" alt="Modular xây dựng hệ sinh thái hạ tầng AI" loading="lazy" width="1280" height="720">
   <figcaption>Modular liên tục mở rộng hệ sinh thái hạ tầng AI trước khi về tay Qualcomm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Với Qualcomm, thương vụ này phục vụ một mục tiêu rõ ràng: xây
 ## Ý nghĩa với cuộc đua AI
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ua5yCwMj8pM/hq720.jpg" alt="Thương vụ Qualcomm Modular định hình lại cạnh tranh phần mềm AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ua5yCwMj8pM/maxresdefault.jpg" alt="Thương vụ Qualcomm Modular định hình lại cạnh tranh phần mềm AI" loading="lazy" width="1280" height="720">
   <figcaption>Cạnh tranh ở lớp phần mềm nền tảng có thể định hình lại cuộc đua chip AI. Nguồn: YouTube</figcaption>
 </figure>
 

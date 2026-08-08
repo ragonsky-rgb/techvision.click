@@ -87,7 +87,7 @@ Nếu phần cứng khiến người ta thất vọng thì phần mềm lại l�
 Thay đổi thứ ba mang tính cấu trúc hơn: bố cục Stacks thay thế hệ thống Tiles đã dùng nhiều năm. Cùng với đó là mặt đồng hồ dạng kim mới sử dụng ngôn ngữ thiết kế Neural Expressive của Gemini. Điểm tích cực với người đang dùng Pixel Watch đời cũ là phần lớn những cải tiến này nằm ở lớp phần mềm, nên khả năng cao sẽ được đưa xuống các model cũ qua cập nhật. Đây cũng là lý do khiến việc nâng cấp lên Watch 5 trở nên kém hấp dẫn nếu bạn chỉ quan tâm tới tính năng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IA8kzVBQ-dU/hqdefault.jpg" alt="Dong ho thong minh tich hop tro ly Gemini AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IA8kzVBQ-dU/maxresdefault.jpg" alt="Dong ho thong minh tich hop tro ly Gemini AI" loading="lazy" width="1280" height="720">
   <figcaption>Trợ lý Gemini đang trở thành điểm cạnh tranh chính giữa các đồng hồ chạy Wear OS. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Google giữ chiến lược hai kích cỡ quen thuộc với bản 41mm và 45
 Đặt cạnh đối thủ trực tiếp, tình thế của Pixel Watch 5 không dễ dàng. Samsung vừa ra mắt Galaxy Watch 9 và Watch Ultra 2 tại Unpacked ngày 22/7 với nền tảng chip mới và loạt tính năng sức khỏe được nâng cấp, đồng thời bán chính hãng tại Việt Nam ngay trong ngày ra mắt, chi tiết có trong bài [Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam](/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html). Trong khi đó Pixel Watch chưa từng được Google phân phối chính hãng trong nước, nên người dùng Việt muốn sở hữu phải chấp nhận đường xách tay cùng những hạn chế về bảo hành và một số tính năng phụ thuộc thị trường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/AKlrGLELj3I/hqdefault.jpg" alt="So sanh cac mau dong ho thong minh dang chu y nam 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AKlrGLELj3I/maxresdefault.jpg" alt="So sanh cac mau dong ho thong minh dang chu y nam 2026" loading="lazy" width="1280" height="720">
   <figcaption>Phân khúc đồng hồ thông minh 2026 cạnh tranh gay gắt giữa nhiều hệ sinh thái. Nguồn: YouTube</figcaption>
 </figure>
 

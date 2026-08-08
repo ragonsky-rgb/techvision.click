@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-18T16:45:00+07:00"
 dateModified: "2026-07-18T16:45:00+07:00"
 deck: "Thế giới camera năm 2026 rộng lớn và phân mảnh hơn nhiều so với hình dung của phần đông người dùng, trải dài từ action cam gắn mũ bảo hiểm cho tới máy ảnh full frame chuyên nghiệp và cả máy ảnh lấy liền mang tính giải trí. Nửa đầu năm nay, mỗi phân khúc đều đón nhận những sản phẩm đáng chú ý, khiến việc chọn mua trở thành bài toán phụ thuộc rất nhiều vào mục đích sử dụng. Một người mê thể thao mạo hiểm cần camera nhỏ gọn, chống nước và chống rung tốt, trong khi người quay video du lịch lại quan tâm chất lượng hình ảnh và độ ổn định. Người dùng ô tô cần camera hành trình ghi lại hành trình và làm bằng chứng khi có sự cố, còn người đam mê nhiếp ảnh nghiêm túc lại tìm tới máy ảnh cảm biến lớn. Bài viết này tổng hợp những cái tên nổi bật nhất tính tới hiện tại, chia theo từng nhóm nhu cầu rõ ràng như action cam thể thao, camera hành trình, máy ảnh chuyên nghiệp và máy ảnh lấy liền, giúp bạn nhanh chóng khoanh vùng lựa chọn phù hợp với cách mình muốn ghi lại khoảnh khắc."
-heroImage: "https://i.ytimg.com/vi/JMV6-4Q7R_U/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/JMV6-4Q7R_U/sddefault.jpg"
 heroAlt: "Tổng hợp các camera tốt nhất nửa đầu 2026 gồm action cam, camera hành trình và máy ảnh"
 heroCaption: "Những chiếc camera đáng chú ý nhất nửa đầu 2026, chọn theo từng nhu cầu. Nguồn: YouTube"
 tldr: "Nửa đầu 2026 có nhiều camera đáng chú ý, và lựa chọn tốt nhất tùy nhu cầu. Về <strong>action cam thể thao</strong>, GoPro Mission 1 Pro với cảm biến 1 inch nổi bật, cùng GoPro Max2 cho quay 360 độ. Về <strong>camera hành trình</strong>, có nhiều lựa chọn cho người dùng ô tô. Muốn <strong>máy ảnh chuyên nghiệp</strong>, Leica SL3-P full frame 44MP và Sony RX10 V siêu zoom đáng chú ý. Thích <strong>máy ảnh lấy liền vui vẻ</strong>, Polaroid Go Generation 3 là mẫu nhỏ gọn. Quan trọng là chọn đúng nhu cầu, vì mỗi loại camera phục vụ một mục đích rất khác nhau."
@@ -73,7 +73,7 @@ Với người cần quay toàn cảnh, GoPro Max2 là một lựa chọn đáng
 Với người dùng ô tô, camera hành trình là thiết bị gần như bắt buộc, giúp ghi lại toàn bộ hành trình và trở thành bằng chứng khách quan khi có va chạm hay tranh chấp giao thông. Thị trường 2026 có nhiều lựa chọn ở đủ mọi mức giá, từ các mẫu cơ bản chỉ quay phía trước tới bộ camera kép ghi cả trước và sau, kèm nhiều tính năng an toàn thông minh. Một số dòng cao cấp còn tích hợp kết nối 4G để truyền hình ảnh trực tiếp về điện thoại, cảnh báo lệch làn và va chạm dựa trên trí tuệ nhân tạo, cùng chế độ giám sát đỗ xe tự động ghi hình khi phát hiện có tác động lên xe lúc bạn vắng mặt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/g1jWPW5arnA/hqdefault.jpg" alt="So sánh các camera hành trình và action cam đáng mua nhất năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/g1jWPW5arnA/maxresdefault.jpg" alt="So sánh các camera hành trình và action cam đáng mua nhất năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Camera hành trình 2026 ngày càng thông minh với nhiều tính năng an toàn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,14 +84,14 @@ Khi chọn camera hành trình, bạn nên ưu tiên độ phân giải đủ đ
 Với người đam mê nhiếp ảnh nghiêm túc, máy ảnh cảm biến lớn vẫn là lựa chọn mang lại chất ảnh và khả năng kiểm soát tốt nhất. Leica SL3-P là một máy ảnh full frame 44MP cao cấp đáng chú ý, mang phong cách thiết kế và chất ảnh đặc trưng của Leica, như bài [Leica SL3-P full frame 44MP](/articles/leica-sl3-p-may-anh-full-frame-44mp-2026.html) cho thấy. Với người muốn sự linh hoạt, Sony RX10 V là lựa chọn siêu zoom hồi sinh, gói dải tiêu cự rất rộng trong một thân máy gọn, như bài [Sony RX10 V siêu zoom](/articles/sony-rx10-v-may-anh-sieu-zoom-hoi-sinh-2026.html) đề cập.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/a0ZCRnt3FLE/hqdefault.jpg" alt="Đánh giá và so sánh các máy quay hành động cao cấp trong năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/a0ZCRnt3FLE/maxresdefault.jpg" alt="Đánh giá và so sánh các máy quay hành động cao cấp trong năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Mỗi phân khúc camera đều có những lựa chọn nổi bật riêng trong năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
 Ở một hướng hoàn toàn khác, máy ảnh lấy liền vẫn giữ được sức hút riêng nhờ trải nghiệm in ảnh ngay lập tức và cảm giác hoài cổ vui vẻ. Polaroid Go Generation 3 được giới thiệu là một trong những máy ảnh lấy liền nhỏ nhất thế giới, phù hợp cho người thích chụp ảnh kỷ niệm, tặng nhau bản in vật lý và tận hưởng cái thú chờ đợi tấm ảnh hiện lên. Đây là lựa chọn thiên về giải trí và cảm xúc hơn là chất lượng ảnh chuyên nghiệp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/gr0ZcPsKW_Y/hqdefault.jpg" alt="Lựa chọn camera theo nhu cầu quay thể thao, ghi hành trình và chụp ảnh năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gr0ZcPsKW_Y/sddefault.jpg" alt="Lựa chọn camera theo nhu cầu quay thể thao, ghi hành trình và chụp ảnh năm 2026" loading="lazy" width="640" height="480">
   <figcaption>Thị trường camera 2026 có đủ lựa chọn cho mọi nhu cầu và ngân sách. Nguồn: YouTube</figcaption>
 </figure>
 

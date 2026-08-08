@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T20:00:00+07:00"
 dateModified: "2026-07-05T20:00:00+07:00"
 deck: "vivo vừa ra mắt X Fold6 tại Trung Quốc, điện thoại gập đầu tiên hỗ trợ ống kính tele 200mm rời gắn ngoài dạng phụ kiện tháo lắp, cùng pin silicon-carbon dung lượng lớn nhất phân khúc điện thoại gập hiện nay, đạt 7.000mAh."
-heroImage: "https://i.ytimg.com/vi/2DWQKdFHueQ/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/2DWQKdFHueQ/maxresdefault.jpg"
 heroAlt: "vivo X Fold6 dien thoai gap ong kinh tele 200mm roi 2026"
 heroCaption: "vivo X Fold6 là điện thoại gập đầu tiên hỗ trợ ống kính tele 200mm rời gắn ngoài. Nguồn: YouTube"
 tldr: "vivo vừa ra mắt <strong>X Fold6</strong> tại Trung Quốc ngày 26/6/2026, trang bị chip <strong>Dimensity 9500 Super Edition</strong>, màn hình gập <strong>8,02 inch</strong> LTPO AMOLED độ sáng đỉnh <strong>5.000 nit</strong>, camera chính <strong>200MP</strong> cảm biến Samsung Isocell HPB, cùng ống kính tele 3x 50MP có thể gắn thêm phụ kiện tele <strong>200mm rời</strong> thế hệ 2. Pin silicon-carbon dung lượng <strong>7.000mAh</strong>, lớn nhất phân khúc điện thoại gập hiện nay. Máy đạt chuẩn chống nước bụi <strong>IP5X/IPX8/IPX9</strong>, giá khởi điểm khoảng <strong>7.999 nhân dân tệ</strong> (~1.176 USD)."
@@ -71,7 +71,7 @@ Phụ kiện ống kính tele rời thế hệ 2 này vốn đã xuất hiện t
 Bên cạnh camera, X Fold6 còn gây ấn tượng với pin silicon-carbon dung lượng 7.000mAh, lớn nhất trong phân khúc điện thoại gập hiện nay, vượt trội đáng kể so với nhiều đối thủ cùng phân khúc thường chỉ đạt 4.000-5.000mAh, ví dụ so với [Honor Magic V5, điện thoại gập mỏng nhất thế giới hiện nay](/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html), vốn phải đánh đổi dung lượng pin để đạt độ mỏng ấn tượng. Công nghệ pin silicon-carbon giúp tăng dung lượng lưu trữ năng lượng mà không làm tăng đáng kể kích thước hay trọng lượng máy, một thách thức kỹ thuật lớn với điện thoại gập vốn đã phải cân bằng nhiều linh kiện trong không gian hạn chế của thiết kế bản lề gập đôi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/8PN42H7Bw3A/hqdefault.jpg" alt="vivo X Fold6 pin 7000mAh danh gia thuc te" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/8PN42H7Bw3A/maxresdefault.jpg" alt="vivo X Fold6 pin 7000mAh danh gia thuc te" loading="lazy" width="1280" height="720">
   <figcaption>Pin silicon-carbon 7.000mAh giúp vivo X Fold6 vượt trội về thời lượng sử dụng so với nhiều đối thủ cùng phân khúc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ X Fold6 trang bị màn hình gập chính 8,02 inch công nghệ LTPO AMOLED, �
 Tính năng Origin Workbench cho phép người dùng mở đồng thời nhiều cửa sổ ứng dụng, kéo thả nội dung giữa các cửa sổ và neo giữ ứng dụng phụ trong lúc làm việc chính, tận dụng tối đa diện tích màn hình lớn khi mở gập hoàn toàn. Đây là hướng phát triển phần mềm mà nhiều hãng điện thoại gập Trung Quốc đang đầu tư mạnh, nhằm biến điện thoại gập thành công cụ làm việc di động thực thụ thay vì chỉ là chiếc điện thoại có màn hình lớn hơn thông thường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/eWi4rcHd_Ao/hqdefault.jpg" alt="vivo X Fold6 unbox danh gia man hinh gap LTPO AMOLED" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/eWi4rcHd_Ao/maxresdefault.jpg" alt="vivo X Fold6 unbox danh gia man hinh gap LTPO AMOLED" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình gập LTPO AMOLED độ sáng 5.000 nit là một trong những điểm nhấn kỹ thuật của vivo X Fold6. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Tính năng Origin Workbench cho phép người dùng mở đồng thời nhiề
 Tại thị trường Trung Quốc, X Fold6 có giá khởi điểm khoảng 7.999 nhân dân tệ, tương đương 1.176 USD cho bản 12GB/256GB, tới 10.999 nhân dân tệ, khoảng 1.617 USD cho bản cao nhất 16GB/1TB. vivo chưa công bố lịch phân phối tại Việt Nam, nhưng dòng X Fold từng phân phối chính hãng tại thị trường trong nước ở các thế hệ trước, nên nhiều khả năng X Fold6 cũng sẽ sớm về Việt Nam trong vài tháng tới, có thể kèm theo mức giá điều chỉnh tăng nhẹ do thuế nhập khẩu và chi phí phân phối tại thị trường nội địa. Người quan tâm tới thị trường điện thoại gập hiện tại có thể tham khảo thêm [top điện thoại gập đáng mua tháng 7/2026](/articles/top-dien-thoai-gap-dang-mua-thang-7-2026.html) trong lúc chờ đợi thông tin phân phối chính thức.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Zq6xJPg1xhg/hqdefault.jpg" alt="vivo X Fold6 unbox review foldable smartphone camera" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Zq6xJPg1xhg/maxresdefault.jpg" alt="vivo X Fold6 unbox review foldable smartphone camera" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm mở hộp và đánh giá ban đầu về khả năng chụp ảnh của vivo X Fold6. Nguồn: YouTube</figcaption>
 </figure>
 

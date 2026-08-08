@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T14:20:00+07:00"
 dateModified: "2026-07-04T14:20:00+07:00"
 deck: "Apple chính thức ra mắt Creator Studio, gói thuê bao gộp các ứng dụng sáng tạo hàng đầu của hãng gồm Final Cut Pro, Logic Pro và Pixelmator Pro vào một gói duy nhất, định vị rõ ràng là đối thủ trực tiếp của Adobe Creative Cloud. Với giá chỉ 12,99 USD mỗi tháng, chưa bằng một phần năm mức giá Adobe Creative Cloud đầy đủ, Apple đang tạo áp lực cạnh tranh lớn lên vị thế thống trị lâu năm của Adobe trong ngành công nghiệp sáng tạo nội dung."
-heroImage: "https://i.ytimg.com/vi/ISYIEmQxs2M/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/ISYIEmQxs2M/maxresdefault.jpg"
 heroAlt: "Apple Creator Studio goi thue bao doi dau Adobe Creative Cloud 2026"
 heroCaption: "Apple Creator Studio, gói thuê bao sáng tạo mới của Apple đối đầu trực tiếp Adobe Creative Cloud. Nguồn: YouTube"
 tldr: "<strong>Apple Creator Studio</strong> là gói thuê bao mới của Apple, gộp <strong>Final Cut Pro, Logic Pro và Pixelmator Pro</strong> trên cả Mac lẫn iPad, cùng Motion, Compressor, MainStage trên Mac và các tính năng cao cấp cho Keynote, Pages, Numbers, Freeform. Giá bán chỉ <strong>12,99 USD/tháng</strong> hoặc 129 USD/năm, chưa bằng một phần năm mức giá Adobe Creative Cloud đầy đủ (54,99-70 USD/tháng). Bản cập nhật lớn ngày 30/6/2026 bổ sung thêm nhiều tính năng AI mới như tự động tạo phụ đề, tách chủ thể tự động trong Final Cut Pro."
@@ -67,7 +67,7 @@ Apple chính thức ra mắt Creator Studio, gói thuê bao được xem là bư
 Một điểm đáng chú ý là các phiên bản Final Cut Pro, Logic Pro và Pixelmator Pro dành cho iPad chỉ có thể sử dụng thông qua gói thuê bao Creator Studio, không có tùy chọn mua đứt riêng lẻ như trên Mac, nơi người dùng vẫn có thể mua từng ứng dụng với giá từ 29,99 USD tới 299,99 USD tùy sản phẩm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/NtsyR8g0j2o/hqdefault.jpg" alt="Apple Creator Studio hoi dap truc tiep 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/NtsyR8g0j2o/maxresdefault.jpg" alt="Apple Creator Studio hoi dap truc tiep 2026" loading="lazy" width="1280" height="720">
   <figcaption>Apple tổ chức các buổi hỏi đáp trực tiếp để giải thích chi tiết về gói thuê bao Creator Studio mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Một điểm đáng chú ý là các phiên bản Final Cut Pro, Logic Pro và 
 Vào ngày 30/6/2026, Apple tung ra bản cập nhật lớn nhất kể từ khi Creator Studio ra mắt, bổ sung hàng loạt tính năng AI mới. Final Cut Pro giờ đây có thể tự động tạo phụ đề (Generate Captions), tự động phát hiện và tách lại các đoạn cắt gốc từ video đã dựng (Edit Detection), cùng tính năng Auto Mask nhận diện và tách chủ thể như da, tóc, bầu trời, cây cối mà không cần theo dõi thủ công. Logic Pro được nâng cấp hệ thống nhận diện hợp âm chính xác hơn, trong khi Pixelmator Pro được tích hợp sâu hơn, cho phép mở trực tiếp từ Final Cut Pro, Keynote, Pages và Numbers.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/bADlMY_tKeM/hqdefault.jpg" alt="Apple Creator Studio bi mat ben trong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/bADlMY_tKeM/maxresdefault.jpg" alt="Apple Creator Studio bi mat ben trong 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh công nghệ đã khám phá sâu hơn các tính năng ẩn bên trong Apple Creator Studio. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Về đánh giá tổng thể, nhiều reviewer nhận định đây là lựa c
 Với người dùng đang cân nhắc đầu tư vào MacBook để trải nghiệm đầy đủ hệ sinh thái Creator Studio, bài viết [10 cửa hàng mua MacBook giá tốt 2026](/articles/top-10-cua-hang-mua-macbook-gia-tot-2026-shopee-fpt-cellphones.html) tổng hợp các địa chỉ uy tín với mức giá cạnh tranh. Người quan tâm tới các lựa chọn laptop khác ngoài hệ sinh thái Apple cũng có thể tham khảo bài viết [Surface Laptop for Business 8th Edition: màn hình riêng tư](/articles/surface-laptop-for-business-8th-edition-man-hinh-rieng-tu-2026.html) để so sánh thêm phương án bên phía Windows.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ISYIEmQxs2M/mqdefault.jpg" alt="Apple Creator Studio bo suu tap ung dung sang tao 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ISYIEmQxs2M/maxresdefault.jpg" alt="Apple Creator Studio bo suu tap ung dung sang tao 2026" loading="lazy" width="1280" height="720">
   <figcaption>Apple giới thiệu Creator Studio như một bộ sưu tập ứng dụng sáng tạo mạnh mẽ dành cho mọi người. Nguồn: YouTube</figcaption>
 </figure>
 

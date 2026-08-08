@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T10:20:00+07:00"
 dateModified: "2026-07-04T10:20:00+07:00"
 deck: "Asus giới thiệu ROG Xbox Ally X20, phiên bản kỷ niệm 20 năm ROG nâng cấp toàn diện từ chiếc Xbox Ally X gốc, với màn hình OLED 7,4 inch độ sáng 1.400 nit, cần analog công nghệ TMR chống lệch trục, D-Pad có thể xoay giữa 4 và 8 hướng. Sản phẩm bán kèm bộ kính Xreal R1 phiên bản đặc biệt, giá dự kiến 2.000-2.500 USD."
-heroImage: "https://i.ytimg.com/vi/2ETXv-KrC6I/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/2ETXv-KrC6I/maxresdefault.jpg"
 heroAlt: "ROG Xbox Ally X20 may choi game cam tay OLED TMR 2026"
 heroCaption: "ROG Xbox Ally X20, máy chơi game cầm tay nâng cấp màn hình OLED và cần analog chống lệch TMR. Nguồn: YouTube"
 tldr: "<strong>ROG Xbox Ally X20</strong> là phiên bản kỷ niệm 20 năm thương hiệu ROG, nâng cấp màn hình lên <strong>OLED 7,4 inch</strong>, độ sáng HDR tới <strong>1.400 nit</strong>, tần số quét 120Hz, hỗ trợ Dolby Vision. Điểm nhấn lớn nhất là cần analog công nghệ <strong>TMR (tunneling magnetoresistance)</strong> gần như loại bỏ hoàn toàn hiện tượng lệch trục (stick drift), cùng D-Pad có thể xoay giữa chế độ 4 hướng và 8 hướng. Sản phẩm bán kèm kính Xreal R1 phiên bản đặc biệt, giá dự kiến <strong>2.000-2.500 USD</strong>."
@@ -67,7 +67,7 @@ Asus chính thức giới thiệu ROG Xbox Ally X20, phiên bản đặc biệt 
 Về màn hình, kích thước tăng từ 7 inch lên 7,4 inch nhờ viền màn hình được thu gọn hơn đáng kể, vẫn giữ tần số quét nhanh 120Hz với thời gian phản hồi chỉ 0,2ms, cùng độ sáng HDR đỉnh cao đạt tới 1.400 nit, hỗ trợ Dolby Vision và FreeSync Premium Pro giúp chuyển động trong game mượt mà hơn hẳn so với phiên bản gốc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2ETXv-KrC6I/mqdefault.jpg" alt="ROG Xbox Ally X20 hands on trai nghiem 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/2ETXv-KrC6I/maxresdefault.jpg" alt="ROG Xbox Ally X20 hands on trai nghiem 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh công nghệ ghi lại trải nghiệm cầm nắm thực tế của ROG Xbox Ally X20 ngay khi vừa ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Về màn hình, kích thước tăng từ 7 inch lên 7,4 inch nhờ viền mà
 Một cải tiến đáng chú ý khác là D-Pad có thể xoay để chuyển đổi giữa chế độ 4 hướng và 8 hướng, tương tự thiết kế từng xuất hiện trên tay cầm không dây Xbox 360 huyền thoại, mang lại cảm giác chơi game gần giống hệt tay cầm Xbox Series thông thường. Các nút ABXY cũng được thiết kế lại để nằm phẳng với vỏ máy khi nhấn xuống, cùng mặt lưng phủ lớp cao su tăng độ bám, cầm nắm thoải mái hơn trong các phiên chơi game dài.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7i0r7EvZRk0/hqdefault.jpg" alt="ROG Xbox Ally X20 hands on nhanh 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/7i0r7EvZRk0/maxresdefault.jpg" alt="ROG Xbox Ally X20 hands on nhanh 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế mặt trước trong suốt cùng các điểm nhấn màu vàng gold là điểm khác biệt dễ nhận thấy nhất của phiên bản X20. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Về tản nhiệt, Asus tăng số lượng khe thoát khí từ 3 lên 4 khe, 
 Với người quan tâm tới kính thực tế tăng cường đi kèm sản phẩm này, bài viết [Asus ROG Xreal R1: kính AR chơi game 240Hz](/articles/asus-rog-xreal-r1-kinh-ar-choi-game-240hz-849-usd-2026.html) cung cấp thêm thông tin chi tiết về phụ kiện này. Người đang tìm hiểu thêm các lựa chọn console chơi game khác cũng có thể tham khảo bài viết [Xbox Series X25: console 25 năm hoài niệm](/articles/xbox-series-x25-console-25-nam-hoai-niem-2026.html) để so sánh giữa trải nghiệm chơi game cầm tay và console truyền thống.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7i0r7EvZRk0/mqdefault.jpg" alt="ROG Xbox Ally X20 handheld gaming trai nghiem nhanh 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/7i0r7EvZRk0/maxresdefault.jpg" alt="ROG Xbox Ally X20 handheld gaming trai nghiem nhanh 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều clip ngắn ghi lại phản ứng đầu tiên của người dùng khi cầm trên tay ROG Xbox Ally X20. Nguồn: YouTube</figcaption>
 </figure>
 

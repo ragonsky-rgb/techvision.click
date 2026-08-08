@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T17:40:00+07:00"
 dateModified: "2026-07-08T17:40:00+07:00"
 deck: "JBL vừa chính thức mở bán tại Việt Nam sáu mẫu tai nghe không dây thế hệ mới, gồm bộ đôi cao cấp Live 780NC, Live 680NC và bộ tứ Tune Series. Điểm chung của toàn bộ dàn sản phẩm là chuẩn kết nối Bluetooth 6.0 hỗ trợ LE Audio, chống ồn chủ động thế hệ mới và thời lượng pin lên tới 80 giờ, với mức giá khởi điểm chỉ từ 1,9 triệu đồng."
-heroImage: "https://i.ytimg.com/vi/WixVqOy8iHY/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/WixVqOy8iHY/maxresdefault.jpg"
 heroAlt: "JBL ra mắt tai nghe Live 780NC và Live 680NC tại Việt Nam"
 heroCaption: "JBL Live 780NC và Live 680NC dẫn đầu đợt ra mắt tai nghe mới của hãng tại Việt Nam. Nguồn: YouTube"
 tldr: "<strong>JBL</strong> chính thức mở bán tại Việt Nam sáu mẫu tai nghe không dây mới: <strong>Live 780NC</strong> (4.390.000đ), <strong>Live 680NC</strong> (3.290.000đ), cùng bộ tứ <strong>Tune Series</strong> gồm Tune 780NC (3.490.000đ), Tune 680NC (2.690.000đ) và các phiên bản khác giá từ <strong>1,9 triệu đồng</strong>. Toàn bộ dùng chuẩn <strong>Bluetooth 6.0</strong> hỗ trợ <strong>LE Audio</strong>, chống ồn <strong>True Adaptive ANC 2.0</strong> thời gian thực, pin tới <strong>80 giờ</strong> khi tắt ANC, sạc nhanh <strong>5 phút dùng 4-5 giờ</strong>. Live 780NC dùng driver <strong>40mm</strong> với <strong>6 micro</strong> chống ồn."
@@ -77,7 +77,7 @@ Về khả năng chống ồn, cả hai mẫu đều sử dụng hệ thống Tr
 Song song với dòng Live cao cấp, JBL cũng mở rộng dòng Tune Series quen thuộc với bộ tứ sản phẩm mới, dẫn đầu là Tune 780NC có giá 3.490.000 đồng với thiết kế chụp tai (over-ear) và driver 40mm, được xem là mẫu đầu bảng trong đợt ra mắt Tune Series lần này. Ở vị trí thấp hơn, Tune 680NC có giá 2.690.000 đồng với thiết kế áp tai (on-ear) gọn nhẹ, tích hợp driver 32mm, phù hợp với người dùng ưu tiên sự nhỏ gọn khi mang theo hàng ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jGm9FmpLRu0/hqdefault.jpg" alt="JBL Live 780NC và Live 680NC ra mắt với pin 80 giờ và chống ồn ANC" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jGm9FmpLRu0/sddefault.jpg" alt="JBL Live 780NC và Live 680NC ra mắt với pin 80 giờ và chống ồn ANC" loading="lazy" width="640" height="480">
   <figcaption>Bộ đôi Live 780NC và Live 680NC hướng tới thời lượng pin vượt trội trong phân khúc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Song song với dòng Live cao cấp, JBL cũng mở rộng dòng Tune Series qu
 Một trong những điểm được người dùng quan tâm nhiều nhất khi chọn mua tai nghe không dây là thời lượng pin, và đây cũng chính là thế mạnh JBL tập trung nhấn mạnh ở đợt ra mắt lần này. Bộ đôi Live 780NC và Live 680NC cung cấp thời lượng pin lên tới 80 giờ sử dụng liên tục khi tắt tính năng chống ồn, đi kèm công nghệ sạc nhanh cho phép chỉ cần cắm sạc 5 phút đã có thể sử dụng thêm khoảng 4 giờ nghe nhạc, rất hữu ích trong những tình huống cần sạc gấp trước khi ra khỏi nhà.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mjwTuJt_H7I/hqdefault.jpg" alt="JBL Live 780NC được kiểm tra trong nhiều môi trường sử dụng thực tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mjwTuJt_H7I/maxresdefault.jpg" alt="JBL Live 780NC được kiểm tra trong nhiều môi trường sử dụng thực tế" loading="lazy" width="1280" height="720">
   <figcaption>Live 780NC được thử nghiệm trong nhiều môi trường sử dụng khác nhau, từ tập gym tới chạy bộ ngoài trời. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Bộ tứ tai nghe JBL Tune Series hiện được phân phối chính thức t�
 Với người dùng đang cân nhắc giữa tai nghe nghe nhạc thông thường và tai nghe chuyên game, có thể tham khảo thêm lựa chọn chuyên biệt hơn như [Sony InZone H9 II, tai nghe gaming chống ồn XM6](/articles/sony-inzone-h9-ii-tai-nghe-gaming-chong-on-xm6-2026.html) nếu ưu tiên trải nghiệm chơi game, hoặc kết hợp cùng bộ [loa máy tính gaming](/articles/cach-chon-loa-may-tinh-gaming-2026-tieu-chi.html) để có dàn âm thanh đầy đủ cho cả công việc lẫn giải trí tại nhà. Người quan tâm tới phụ kiện gaming đi kèm cũng có thể tham khảo thêm [top mousepad gaming đáng mua tháng 7/2026](/articles/top-mousepad-gaming-dang-mua-thang-7-2026.html) để hoàn thiện góc làm việc, giải trí của mình. Với mức giá khởi điểm chỉ từ 1,9 triệu đồng, dàn sản phẩm mới của JBL mở ra nhiều lựa chọn hấp dẫn cho người tiêu dùng Việt Nam trong giai đoạn cuối năm khi nhu cầu mua sắm thiết bị công nghệ thường tăng cao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IGaGKWvVDSM/hqdefault.jpg" alt="JBL Live 680NC được đánh giá là mẫu tai nghe áp tai đáng chú ý mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IGaGKWvVDSM/maxresdefault.jpg" alt="JBL Live 680NC được đánh giá là mẫu tai nghe áp tai đáng chú ý mới" loading="lazy" width="1280" height="720">
   <figcaption>Live 680NC được đánh giá là lựa chọn cạnh tranh trong phân khúc tai nghe tầm trung. Nguồn: YouTube</figcaption>
 </figure>
 

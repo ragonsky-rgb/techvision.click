@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T05:20:00+07:00"
 dateModified: "2026-07-06T05:20:00+07:00"
 deck: "HONOR vừa ra mắt Magic V6, điện thoại gập sách vở sở hữu pin silicon-carbon dung lượng lớn nhất phân khúc gập hiện nay, đạt 6.600mAh, trong khi độ mỏng khi gập chỉ 8,75mm, kết hợp chip Snapdragon 8 Elite Gen 5 đầu tiên xuất hiện trên điện thoại gập."
-heroImage: "https://i.ytimg.com/vi/T5i2i5xbAdw/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/T5i2i5xbAdw/maxresdefault.jpg"
 heroAlt: "HONOR Magic V6 dien thoai gap pin 6600mAh 2026"
 heroCaption: "HONOR Magic V6 sở hữu pin 6.600mAh lớn nhất phân khúc điện thoại gập hiện nay. Nguồn: YouTube"
 tldr: "HONOR vừa ra mắt <strong>Magic V6</strong>, điện thoại gập sách vở với pin silicon-carbon <strong>6.600mAh</strong>, dung lượng lớn nhất trong phân khúc điện thoại gập hiện nay, hỗ trợ sạc nhanh có dây <strong>80W</strong> và sạc không dây <strong>66W</strong>. Máy mỏng chỉ <strong>8,75mm</strong> khi gập lại, nặng <strong>219g</strong>, trang bị chip <strong>Snapdragon 8 Elite Gen 5</strong>, RAM 16GB, bộ nhớ 512GB. Camera chính <strong>50MP</strong> kết hợp ống kính tele periscope <strong>64MP</strong> zoom 70mm, đạt chuẩn chống nước bụi <strong>IP69</strong> cao nhất trong các điện thoại gập."
@@ -67,7 +67,7 @@ HONOR vừa chính thức ra mắt Magic V6, điện thoại gập sách vở m�
 So với thế hệ Magic V5, pin của Magic V6 tăng thêm khoảng 780mAh, một mức tăng đáng kể trong bối cảnh không gian bên trong máy gần như không đổi, cho thấy HONOR đã đầu tư mạnh vào việc tối ưu mật độ năng lượng của công nghệ pin silicon-carbon thế hệ mới thay vì chỉ đơn giản tăng kích thước pin vật lý.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/iOmApULWa5Y/hqdefault.jpg" alt="So sanh HONOR Magic V6 va Magic V5 chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/iOmApULWa5Y/maxresdefault.jpg" alt="So sanh HONOR Magic V6 va Magic V5 chi tiet" loading="lazy" width="1280" height="720">
   <figcaption>So sánh chi tiết từng khía cạnh giữa HONOR Magic V6 và thế hệ tiền nhiệm Magic V5. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ So với thế hệ Magic V5, pin của Magic V6 tăng thêm khoảng 780mAh, m�
 Magic V6 còn là điện thoại gập đầu tiên trên thị trường sử dụng chip Snapdragon 8 Elite Gen 5 mới nhất của Qualcomm, kết hợp RAM 16GB và bộ nhớ trong 512GB theo cấu hình mặc định tiêu chuẩn. Cấu hình này đưa Magic V6 lên ngang hàng với các flagship thanh cao cấp nhất về hiệu năng xử lý, xóa bỏ khoảng cách hiệu năng vốn từng tồn tại giữa điện thoại gập và điện thoại thanh truyền thống trong nhiều năm trước đây.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/gnbeop5U9dI/hqdefault.jpg" alt="HONOR Magic V6 thiet ke khong nen ton tai qua tot" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/gnbeop5U9dI/maxresdefault.jpg" alt="HONOR Magic V6 thiet ke khong nen ton tai qua tot" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế và hiệu năng vượt trội của HONOR Magic V6 khiến nhiều reviewer bất ngờ khi trải nghiệm thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Magic V6 còn là điện thoại gập đầu tiên trên thị trường sử 
 Về camera, Magic V6 trang bị camera chính 50MP, camera góc siêu rộng 50MP và đặc biệt là camera tele periscope 64MP với zoom quang học tương đương 70mm, cùng chỉ số ổn định hình ảnh CIPA đạt 6,5, thuộc hàng dẫn đầu ngành công nghiệp camera di động hiện nay. Máy còn đạt chuẩn chống nước bụi IP69, mức chuẩn cao nhất từng xuất hiện trên một chiếc điện thoại gập, có thể chịu được cả tia nước nóng áp lực cao, vượt xa chuẩn IP68 phổ biến trên hầu hết smartphone cao cấp hiện nay, mang lại sự an tâm lớn hơn nhiều cho người dùng khi sử dụng trong điều kiện thời tiết khắc nghiệt hoặc môi trường ẩm ướt thường xuyên.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SRS2fhMfQHo/hqdefault.jpg" alt="HONOR Magic V6 unbox first look chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SRS2fhMfQHo/maxresdefault.jpg" alt="HONOR Magic V6 unbox first look chi tiet" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm mở hộp và ấn tượng đầu tiên về thiết kế cùng camera của HONOR Magic V6. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -67,7 +67,7 @@ Xiaomi 17 không có chip phụ dạng này nhưng bù lại bằng khả năng 
 Trên thực tế, với cùng một con chip Snapdragon 8 Elite Gen 5, khác biệt hiệu năng giữa hai máy trong sử dụng hằng ngày là rất nhỏ, khó nhận ra khi lướt web, xem video hay dùng mạng xã hội. Chênh lệch chỉ lộ rõ ở các tình huống cực đoan như chơi game đồ họa nặng liên tục nhiều giờ, khi hệ thống tản nhiệt và chip đồ họa phụ của iQOO 15 giúp giữ khung hình ổn định lâu hơn. Vì vậy, nếu bạn không phải game thủ nặng đô, cả hai máy đều thừa sức đáp ứng và bạn nên cân nhắc các yếu tố khác quan trọng hơn như camera, pin và mức giá.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ExZSu6HtY0E/hqdefault.jpg" alt="iQOO 15 man hinh 2K 144Hz va chip do hoa gaming Q3 huong toi game thu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ExZSu6HtY0E/maxresdefault.jpg" alt="iQOO 15 man hinh 2K 144Hz va chip do hoa gaming Q3 huong toi game thu" loading="lazy" width="1280" height="720">
   <figcaption>iQOO 15 nhấn vào màn hình 144Hz và chip đồ họa gaming Q3 cho trải nghiệm chơi game ổn định. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ iQOO 15 không phải máy yếu về camera, với ba ống kính 50MP gồm ca
 Bù lại thế yếu về camera, iQOO 15 lấy lại điểm ở pin và màn hình. Viên pin 7.000mAh của máy thuộc nhóm lớn trong các flagship 2026, cho thời lượng dùng thoải mái cả ngày ngay cả khi chơi game hoặc quay video nhiều. Màn hình 6,85 inch LTPO AMOLED 2K 144Hz cũng nhỉnh hơn về độ phân giải và tần số quét so với bản Xiaomi 17 tiêu chuẩn, mang lại trải nghiệm cuộn mượt và hình ảnh sắc nét cho cả giải trí lẫn gaming.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ATWuffWYAvM/hqdefault.jpg" alt="iQOO 15 pin 7000mAh va man hinh 2K 144Hz phan don truoc Xiaomi 17" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ATWuffWYAvM/maxresdefault.jpg" alt="iQOO 15 pin 7000mAh va man hinh 2K 144Hz phan don truoc Xiaomi 17" loading="lazy" width="1280" height="720">
   <figcaption>Pin 7.000mAh và màn hình 144Hz giúp iQOO 15 phản đòn trước Xiaomi 17. Nguồn: YouTube</figcaption>
 </figure>
 

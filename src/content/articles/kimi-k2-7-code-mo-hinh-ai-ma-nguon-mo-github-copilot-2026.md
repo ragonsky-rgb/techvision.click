@@ -74,7 +74,7 @@ Sự kiện này cũng phản ánh xu hướng lớn hơn: ranh giới giữa m�
 Về mặt kỹ thuật, Kimi K2.7 Code sở hữu quy mô một nghìn tỷ tham số theo kiến trúc hỗn hợp chuyên gia. Kiến trúc này chỉ kích hoạt một phần tham số cho mỗi tác vụ thay vì toàn bộ, giúp mô hình vừa mạnh vừa tiết kiệm tài nguyên khi vận hành. Kết hợp với cửa sổ ngữ cảnh 256 nghìn token, mô hình có thể xử lý những dự án mã nguồn lớn và các tác vụ lập trình phức tạp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/w2hpXlyMrAA/hqdefault.jpg" alt="Thử nghiệm năng lực lập trình của Kimi K2.7 Code" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/w2hpXlyMrAA/maxresdefault.jpg" alt="Thử nghiệm năng lực lập trình của Kimi K2.7 Code" loading="lazy" width="1280" height="720">
   <figcaption>Kimi K2.7 Code được đánh giá cạnh tranh với các mô hình đóng hàng đầu về lập trình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Về mặt kỹ thuật, Kimi K2.7 Code sở hữu quy mô một nghìn tỷ tha
 Kimi K2.7 Code là sản phẩm nối tiếp dòng Kimi K2 của Moonshot AI, vốn đã gây tiếng vang với các phiên bản trước tập trung vào khả năng tác nhân, tức tự động thực hiện chuỗi hành động nhiều bước. Việc hãng liên tục ra mắt các phiên bản mạnh hơn cho thấy tốc độ phát triển đáng nể của các phòng thí nghiệm AI Trung Quốc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/fnV0NTfBRHs/hqdefault.jpg" alt="Khả năng tác nhân của dòng mô hình Kimi K2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fnV0NTfBRHs/maxresdefault.jpg" alt="Khả năng tác nhân của dòng mô hình Kimi K2" loading="lazy" width="1280" height="720">
   <figcaption>Dòng Kimi K2 của Moonshot nổi bật với khả năng tác nhân tự động hoàn thành tác vụ nhiều bước. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Cùng với các tên tuổi khác, Moonshot đang góp phần đưa Trung Quố
 ## Ý nghĩa với lập trình viên
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_9zecUHs21c/hqdefault.jpg" alt="Kimi K2.7 Code hỗ trợ lập trình viên với chi phí thấp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_9zecUHs21c/maxresdefault.jpg" alt="Kimi K2.7 Code hỗ trợ lập trình viên với chi phí thấp" loading="lazy" width="1280" height="720">
   <figcaption>Với chi phí thấp và hiệu năng cao, Kimi K2 mở ra lựa chọn hấp dẫn cho lập trình viên. Nguồn: YouTube</figcaption>
 </figure>
 

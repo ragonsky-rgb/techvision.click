@@ -74,7 +74,7 @@ Theo bảng xếp hạng Top500 công bố tại hội nghị siêu tính toán 
 Một điểm đặc biệt khác của LineShine là hệ thống này hoàn toàn không sử dụng GPU, vốn là thành phần chủ lực trong hầu hết các siêu máy tính hàng đầu thế giới hiện nay, bao gồm cả El Capitan. LineShine trở thành siêu máy tính đầu tiên vượt mốc 2 exaflops chỉ dựa trên thiết kế CPU, một hướng đi khác biệt so với xu hướng chung của ngành, nơi GPU thường được xem là chìa khóa cho hiệu năng tính toán cực lớn, đặc biệt với các tác vụ AI.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/B3tk6B4iCZg/hqdefault.jpg" alt="LineShine thiet ke khong dung GPU dau tien vuot 2 exaflops" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/B3tk6B4iCZg/maxresdefault.jpg" alt="LineShine thiet ke khong dung GPU dau tien vuot 2 exaflops" loading="lazy" width="1280" height="720">
   <figcaption>LineShine là siêu máy tính đầu tiên vượt 2 exaflops mà không cần GPU. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Lựa chọn thiết kế này phần nào phản ánh thực tế Trung Quốc 
 Sự kiện LineShine giành ngôi vương Top500 diễn ra chỉ vài ngày sau khi Tổng thống Mỹ Donald Trump ký hai sắc lệnh hành pháp quan trọng về điện toán lượng tử. Sắc lệnh đầu tiên đặt mục tiêu quốc gia phát triển một máy tính lượng tử có khả năng sửa lỗi, phục vụ nghiên cứu khoa học, vào năm 2028. Sắc lệnh thứ hai yêu cầu các cơ quan liên bang Mỹ chuyển đổi sang các thuật toán mật mã hậu lượng tử (post-quantum cryptography) trước năm 2031, nhằm bảo vệ hệ thống an ninh quốc gia trước nguy cơ bị máy tính lượng tử trong tương lai phá vỡ các phương thức mã hóa hiện tại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/cuZmhx-vjNA/hqdefault.jpg" alt="Trump ky sac lenh dien toan luong tu canh tranh Trung Quoc" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/cuZmhx-vjNA/maxresdefault.jpg" alt="Trump ky sac lenh dien toan luong tu canh tranh Trung Quoc" loading="lazy" width="1280" height="720">
   <figcaption>Trump ký sắc lệnh thúc đẩy điện toán lượng tử giữa lúc cạnh tranh công nghệ với Trung Quốc gia tăng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Việc Trung Quốc giành lại vị trí dẫn đầu Top500 cho thấy chiế
 Tại Việt Nam, xu hướng đầu tư hạ tầng tính toán và trung tâm dữ liệu AI cũng đang được đẩy mạnh, với sự tham gia của nhiều tập đoàn lớn trong nước như Viettel, VNPT, FPT, VNG và CMC trong [cuộc đua xây dựng trung tâm dữ liệu AI](/articles/cuoc-dua-trung-tam-du-lieu-ai-viet-nam-2026-viettel-vnpt-fpt-vng-cmc.html). Dù quy mô còn khác biệt rất lớn so với các siêu máy tính hàng đầu thế giới, đây vẫn là bước đi quan trọng giúp Việt Nam dần xây dựng năng lực tính toán phục vụ phát triển AI trong nước, giảm phụ thuộc vào hạ tầng nước ngoài trong dài hạn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Cs9XK74LS_E/hqdefault.jpg" alt="LineShine cong bo tai hoi nghi sieu tinh toan Hamburg 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Cs9XK74LS_E/maxresdefault.jpg" alt="LineShine cong bo tai hoi nghi sieu tinh toan Hamburg 2026" loading="lazy" width="1280" height="720">
   <figcaption>LineShine được công bố dẫn đầu Top500 tại hội nghị siêu tính toán quốc tế ở Hamburg. Nguồn: YouTube</figcaption>
 </figure>
 

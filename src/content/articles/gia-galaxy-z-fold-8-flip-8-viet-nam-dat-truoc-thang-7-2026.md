@@ -61,7 +61,7 @@ Ngay sau khi Samsung công bố Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 t�
 Ở phân khúc dễ tiếp cận nhất, Galaxy Z Flip 8 có giá niêm yết chính hãng 31,99 triệu đồng bản 256GB và 37,99 triệu bản 512GB, giữ vai trò lựa chọn gập vỏ sò nhỏ gọn cho người dùng trẻ. Galaxy Z Fold 8 bản tiêu chuẩn có giá 46,99 triệu đồng cho bản 256GB, 52,99 triệu cho bản 512GB và 61,99 triệu cho bản 1TB, đây là mẫu gập kiểu sách với thiết kế màn hình rộng mới và trọng lượng nhẹ 201g. Cao cấp nhất là Galaxy Z Fold 8 Ultra với camera 200MP, giá 52,99 triệu cho bản 256GB, 58,99 triệu cho bản 512GB và 67,99 triệu cho bản 1TB. Các mức trên là giá niêm yết ghi nhận đồng nhất giữa Thế Giới Di Động, CellphoneS và FPT Shop.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ZPtmD3dmRss/hqdefault.jpg" alt="Galaxy Z Flip 8 gia va cau hinh chinh thuc tai Viet Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZPtmD3dmRss/maxresdefault.jpg" alt="Galaxy Z Flip 8 gia va cau hinh chinh thuc tai Viet Nam" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z Flip 8 là bản có giá dễ tiếp cận nhất trong bộ ba gập mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Mỗi hệ thống bán lẻ có thế mạnh riêng, nên nơi lợi nhất ph�
 Kinh nghiệm chung là đừng chỉ nhìn giá niêm yết, vì các đại lý thường đặt cùng mức giá gốc mà cạnh tranh nhau bằng phần quà và dịch vụ. Nếu bạn không có máy cũ để lên đời, hãy ưu tiên nơi có gói quà đặt trước giá trị cao nhất như CellphoneS. Nếu đang muốn bán máy cũ để bù chi phí, Samsung Store và Thế Giới Di Động thường cho mức thu cũ hấp dẫn hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/NDcgKM1hGOo/hqdefault.jpg" alt="Qua tang dat truoc Galaxy Z Fold 8 tai cac dai ly" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NDcgKM1hGOo/maxresdefault.jpg" alt="Qua tang dat truoc Galaxy Z Fold 8 tai cac dai ly" loading="lazy" width="1280" height="720">
   <figcaption>Phần quà đặt trước là yếu tố tạo khác biệt lớn giữa các đại lý. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Kinh nghiệm chung là đừng chỉ nhìn giá niêm yết, vì các đại l�
 Với một chiếc gập cao cấp giá vài chục triệu, hai công cụ giúp giảm gánh nặng chi phí rõ nhất là thu cũ đổi mới và trả góp. Về thu cũ, bạn nên mang máy đang dùng tới định giá ở vài hệ thống khác nhau, vì mức trợ giá lên đời cộng với định giá máy cũ có thể chênh nhau vài triệu đồng giữa các nơi. Về trả góp, nhiều đại lý áp dụng trả góp 0% lãi suất qua thẻ tín dụng hoặc công ty tài chính, giúp chia nhỏ khoản tiền lớn thành các kỳ hằng tháng dễ chịu hơn, phù hợp người có thu nhập ổn định nhưng không muốn trả một lần.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/aPpQ6h6ZVo4/hqdefault.jpg" alt="Bang gia Galaxy Z Fold 8 Flip 8 va uu dai tra gop thu cu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/aPpQ6h6ZVo4/maxresdefault.jpg" alt="Bang gia Galaxy Z Fold 8 Flip 8 va uu dai tra gop thu cu" loading="lazy" width="1280" height="720">
   <figcaption>Thu cũ đổi mới và trả góp giúp giảm đáng kể chi phí khi lên đời máy gập. Nguồn: YouTube</figcaption>
 </figure>
 

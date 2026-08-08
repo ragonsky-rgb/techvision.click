@@ -66,7 +66,7 @@ Trước đây, dòng máy giá phải chăng nhất của Nothing mang tên a-s
 Việc ra thêm bản 4b cũng phản ánh áp lực cạnh tranh ngày càng gay gắt ở phân khúc dưới 10 triệu đồng, nơi các thương hiệu Trung Quốc như Xiaomi, Redmi, realme hay Poco đang đua nhau về cấu hình và giá. Nothing chọn cách khác biệt hóa bằng thiết kế và trải nghiệm phần mềm, thay vì chạy theo cuộc đua thông số thuần túy. Nếu bạn đang tìm hiểu nhóm máy giá rẻ pin lớn, có thể tham khảo thêm [bài viết về Xiaomi Redmi A7 Pro với viên pin 6.000mAh](/articles/xiaomi-redmi-a7-pro-smartphone-gia-re-pin-6000mah-2026.html) để so sánh cách hai hãng tiếp cận cùng một tầm giá.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VFPKa-osH2c/hqdefault.jpg" alt="Nothing Phone 4b mở hộp với màn hình AMOLED 120Hz và camera 50MP OIS" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VFPKa-osH2c/maxresdefault.jpg" alt="Nothing Phone 4b mở hộp với màn hình AMOLED 120Hz và camera 50MP OIS" loading="lazy" width="1280" height="720">
   <figcaption>Phone 4b giữ lại màn AMOLED 120Hz và camera chính 50MP có chống rung quang học. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Việc ra thêm bản 4b cũng phản ánh áp lực cạnh tranh ngày càng ga
 So với các máy Glyph Matrix ở phân khúc cao hơn, dải đèn trên Phone 4b được tinh giản để phù hợp với mức giá, nhưng vẫn đủ để tạo sự khác biệt. Cách tiếp cận này giúp Nothing giữ được bản sắc thương hiệu ngay cả trên sản phẩm rẻ nhất, điều mà nhiều đối thủ khó sao chép vì họ thường dồn ngân sách vào camera hoặc chip thay vì đầu tư cho ngoại hình và hiệu ứng ánh sáng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2h77ioW4hbs/hqdefault.jpg" alt="Thiết kế mặt lưng và dải đèn Glyph 45 LED của Nothing Phone 4b" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2h77ioW4hbs/maxresdefault.jpg" alt="Thiết kế mặt lưng và dải đèn Glyph 45 LED của Nothing Phone 4b" loading="lazy" width="1280" height="720">
   <figcaption>Dải đèn Glyph 45 đèn LED ở mặt lưng là điểm nhận diện của Nothing ngay cả trên máy giá rẻ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Pin là một thế mạnh khác. Bản quốc tế dùng viên 5.200mAh, trong 
 Nothing Phone 4b có giá khởi điểm 299 bảng, khoảng 329 euro, còn tại Ấn Độ là 34.999 rupee. Quy đổi trực tiếp, con số này rơi vào khoảng gần 9 triệu đồng, nhưng đây chưa phải giá cuối cùng nếu máy về Việt Nam. Do Nothing chưa phân phối chính hãng trong nước, sản phẩm chủ yếu đến tay người dùng qua kênh xách tay, kéo theo chênh lệch về thuế, phí vận chuyển và rủi ro bảo hành. Người mua cần cân nhắc kỹ những yếu tố này thay vì chỉ nhìn vào mức giá niêm yết ở nước ngoài.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/fPOtMCMNBwQ/hqdefault.jpg" alt="So sánh camera Nothing Phone 4b với Phone 4a trong điều kiện thực tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fPOtMCMNBwQ/maxresdefault.jpg" alt="So sánh camera Nothing Phone 4b với Phone 4a trong điều kiện thực tế" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều bài so sánh camera cho thấy Phone 4b được tinh chỉnh lại so với Phone 4a ở tầm giá thấp hơn. Nguồn: YouTube</figcaption>
 </figure>
 

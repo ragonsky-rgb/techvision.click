@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-02T19:30:00+07:00"
 dateModified: "2026-07-02T19:30:00+07:00"
 deck: "Anker vừa ra mắt Solix S2000, trạm lưu điện dung lượng 2kWh được quảng bá là nhẹ và nhỏ gọn nhất trong phân khúc. Sản phẩm gây chú ý nhờ chứng nhận hiệu suất TÜV SÜD A+ đầu tiên trong ngành, cho thời gian chạy tủ lạnh dự phòng lên tới 35 giờ chỉ với một lần sạc."
-heroImage: "https://i.ytimg.com/vi/hd6tJMsJ1ac/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/hd6tJMsJ1ac/maxresdefault.jpg"
 heroAlt: "Anker Solix S2000 tram luu dien hieu suat cao 2026"
 heroCaption: "Anker Solix S2000, trạm lưu điện 2kWh nhẹ và nhỏ gọn nhất phân khúc. Nguồn: YouTube"
 tldr: "<strong>Anker Solix S2000</strong> có dung lượng <strong>2.009,6Wh</strong> dùng pin LFP (LiFePO4) bền tới 10.000 chu kỳ sạc, tuổi thọ thiết kế 15 năm. Máy nhỏ và nhẹ hơn khoảng <strong>25-30%</strong> so với mức trung bình ngành, nặng chỉ 35,7 lbs (~16kg). Công nghệ OptiSave giúp giảm dòng điện rò rỉ khi chờ xuống dưới <strong>6W</strong>, đạt chứng nhận hiệu suất <strong>TÜV SÜD A+</strong> đầu tiên trong ngành, cho phép chạy tủ lạnh dự phòng liên tục tới <strong>35 giờ</strong>. Công suất đầu ra AC 1.500W qua 5 cổng. Giá bán mở màn 649 USD, giá niêm yết 1.199,99 USD."
@@ -72,14 +72,14 @@ Bên trong máy sử dụng pin LFP (Lithium Iron Phosphate), loại pin đượ
 Điểm khác biệt kỹ thuật đáng chú ý nhất của Solix S2000 là công nghệ OptiSave, giúp giảm đáng kể dòng điện tiêu thụ ở chế độ chờ, đưa mức tiêu thụ xuống dưới 6W khi bật nguồn AC và chỉ còn khoảng 2W khi tắt toàn bộ các cổng ra. Nhờ mức tiêu thụ điện chờ cực thấp này, sản phẩm trở thành trạm lưu điện đầu tiên trong ngành đạt chứng nhận hiệu suất TÜV SÜD hạng A+, một tiêu chuẩn đánh giá độc lập uy tín trong lĩnh vực thiết bị điện tử châu Âu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/hgADNynnuiI/hqdefault.jpg" alt="Anker Solix S2000 hieu suat cao vuot ky vong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hgADNynnuiI/maxresdefault.jpg" alt="Anker Solix S2000 hieu suat cao vuot ky vong 2026" loading="lazy" width="1280" height="720">
   <figcaption>Chứng nhận TÜV SÜD A+ giúp Solix S2000 nổi bật về hiệu suất sử dụng năng lượng. Nguồn: YouTube</figcaption>
 </figure>
 
 Nhờ hiệu suất vượt trội này, Anker Solix S2000 có thể chạy một chiếc tủ lạnh gia đình tiêu chuẩn liên tục tới 35 giờ chỉ với một lần sạc đầy, một con số rất đáng chú ý giúp bảo quản thực phẩm an toàn trong các đợt mất điện kéo dài nhiều ngày, tình huống không hiếm gặp tại nhiều khu vực trong mùa mưa bão. Máy có công suất đầu ra AC tối đa 1.500W chia đều qua 5 cổng, cùng cổng USB-C hỗ trợ sạc nhanh PD 100W, đủ đáp ứng nhu cầu sạc nhiều thiết bị điện tử cùng lúc trong tình huống khẩn cấp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/NqTVkGjYcSw/hqdefault.jpg" alt="Anker Solix S2000 full review co dang mua 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/NqTVkGjYcSw/maxresdefault.jpg" alt="Anker Solix S2000 full review co dang mua 2026" loading="lazy" width="1280" height="720">
   <figcaption>Với công suất 1.500W, Solix S2000 đáp ứng tốt nhu cầu cấp điện dự phòng cho nhiều thiết bị gia dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Nhờ hiệu suất vượt trội này, Anker Solix S2000 có thể chạy mộ
 Anker Solix S2000 mở bán với mức giá ưu đãi sớm 649 USD, tăng lên khoảng 679,99 USD sau giai đoạn giới thiệu, trong khi giá niêm yết chính thức được công bố là 1.199,99 USD. Sản phẩm phù hợp nhất với các hộ gia đình sống ở khu vực thường xuyên mất điện, cần nguồn dự phòng đáng tin cậy cho các thiết bị thiết yếu như tủ lạnh, quạt, đèn chiếu sáng, hoặc người có nhu cầu cắm trại, dã ngoại dài ngày cần mang theo nguồn điện di động công suất lớn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ZeDy6_Jo8X4/hqdefault.jpg" alt="Anker Solix S2000 hieu qua nhat da tung thu nghiem 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZeDy6_Jo8X4/maxresdefault.jpg" alt="Anker Solix S2000 hieu qua nhat da tung thu nghiem 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh đánh giá quốc tế xếp Solix S2000 vào nhóm trạm lưu điện hiệu quả nhất từng được thử nghiệm. Nguồn: YouTube</figcaption>
 </figure>
 

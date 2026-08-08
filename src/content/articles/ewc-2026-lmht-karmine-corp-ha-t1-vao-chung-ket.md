@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-18T23:30:00+07:00"
 dateModified: "2026-07-18T23:30:00+07:00"
 deck: "Vòng bán kết EWC 2026 bộ môn Liên Minh Huyền Thoại đã chứng kiến một cú địa chấn khi Karmine Corp, đại diện của khu vực châu Âu, đánh bại T1 với tỉ số 2-1 để lần đầu tiên góp mặt ở trận chung kết tổng. Trong loạt Bo3 kịch tính, Karmine Corp cho thấy bản lĩnh và sự lì lợm trước một T1 nhiều kinh nghiệm với ngôi sao Faker trong đội hình. Chiến thắng này đưa Karmine Corp vào trận đấu cuối cùng của giải, nơi họ chờ đội thắng trong cặp bán kết còn lại giữa Gen.G và Dplus KIA. Với giải thưởng tổng 2 triệu USD và quy tụ 16 đội mạnh nhất thế giới, EWC 2026 đang bước vào hồi kết đầy bất ngờ, và việc một đại diện châu Âu vượt qua thế lực Hàn Quốc để vào chung kết là dấu ấn đáng chú ý của mùa giải năm nay."
-heroImage: "https://i.ytimg.com/vi/LIoTK8jCoPY/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/LIoTK8jCoPY/maxresdefault.jpg"
 heroAlt: "Karmine Corp đánh bại T1 2-1 ở bán kết EWC 2026 LMHT để vào chung kết"
 heroCaption: "Karmine Corp hạ T1 2-1 ở bán kết EWC 2026 LMHT. Nguồn: YouTube"
 tldr: "<strong>Karmine Corp</strong> gây địa chấn khi hạ <strong>T1</strong> với tỉ số <strong>2-1</strong> ở bán kết EWC 2026 LMHT ngày 18/7, lần đầu vào chung kết tổng. Ở tứ kết trước đó, bốn đội đi tiếp là T1, Gen.G, Karmine Corp và Dplus KIA sau khi lần lượt vượt qua Hanwha Life Esports, JD Gaming, AG.AL và Bilibili Gaming. Karmine Corp giờ chờ đội thắng trong cặp bán kết còn lại giữa <strong>Gen.G và Dplus KIA</strong>. Trận chung kết tổng đánh theo thể thức <strong>Bo5 diễn ra ngày 19/7</strong>, tranh phần lớn trong giải thưởng tổng <strong>2 triệu USD</strong>. Đây là lần đầu một đại diện châu Âu vào chung kết LMHT tại EWC, tạo bất ngờ lớn trước sự thống trị quen thuộc của các đội Hàn Quốc và Trung Quốc."
@@ -73,14 +73,14 @@ Trận đấu diễn ra với thế trận giằng co, khi T1 và Karmine Corp t
 Trước đó ở vòng tứ kết loại trực tiếp, bốn đội giành vé vào bán kết là T1, Gen.G, Karmine Corp và Dplus KIA, sau khi lần lượt vượt qua Hanwha Life Esports, JD Gaming, AG.AL và Bilibili Gaming. Sơ đồ bán kết vì thế gồm hai cặp: T1 gặp Karmine Corp và Gen.G gặp Dplus KIA. Sau khi Karmine Corp hạ T1, họ vào thẳng chung kết và chờ đội thắng trong cặp bán kết còn lại giữa hai đại diện Hàn Quốc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/0tUvOM3hQEk/hqdefault.jpg" alt="Loạt bán kết Karmine Corp gặp T1 tại EWC 2026 Liên Minh Huyền Thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0tUvOM3hQEk/maxresdefault.jpg" alt="Loạt bán kết Karmine Corp gặp T1 tại EWC 2026 Liên Minh Huyền Thoại" loading="lazy" width="1280" height="720">
   <figcaption>Karmine Corp vào chung kết sau khi vượt qua T1 ở bán kết. Nguồn: YouTube</figcaption>
 </figure>
 
 Cặp đấu Gen.G gặp Dplus KIA hứa hẹn cũng rất hấp dẫn khi cả hai đều là những đại diện mạnh của khu vực Hàn Quốc. Gen.G được đánh giá cao và bước vào giải với tư cách ứng viên hàng đầu, trong khi Dplus KIA cho thấy phong độ tốt qua các vòng loại trực tiếp. Đội thắng trong cặp này sẽ là đối thủ của Karmine Corp ở trận chung kết tổng, và dù là Gen.G hay Dplus KIA thì trận cuối cũng sẽ là màn đối đầu giữa châu Âu và Hàn Quốc, một kịch bản không thường thấy ở các giải LMHT quốc tế gần đây.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/QHPc0oOo9I8/hqdefault.jpg" alt="Điểm nhấn ván đấu giữa T1 và Karmine Corp tại EWC 2026 LMHT" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/QHPc0oOo9I8/maxresdefault.jpg" alt="Điểm nhấn ván đấu giữa T1 và Karmine Corp tại EWC 2026 LMHT" loading="lazy" width="1280" height="720">
   <figcaption>Loạt bán kết giữa T1 và Karmine Corp diễn ra căng thẳng qua từng ván. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Với người hâm mộ Việt Nam, dù hai đại diện GAM Esports và Team 
 Chiến thắng của Karmine Corp trước T1 mang ý nghĩa lớn hơn một kết quả đơn lẻ. Các giải đấu LMHT quốc tế lâu nay thường do các đội Hàn Quốc và Trung Quốc thống trị, trong khi các đại diện châu Âu ít khi vào tới trận cuối. Việc Karmine Corp lần đầu vào chung kết EWC cho thấy khoảng cách giữa các khu vực đang dần được thu hẹp, và tạo thêm sức hấp dẫn cho bộ môn khi cục diện không còn dễ đoán. Với T1, thất bại này là một nốt trầm khác trong mùa giải nhiều thử thách của đội, sau những kết quả không như ý ở các giải trước đó mà bài [Faker và T1 lên tiếng sau thất bại tại MSI 2026](/articles/faker-t1-len-tieng-that-bai-msi-2026.html) từng đề cập.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/cvq5zaAlaDA/hqdefault.jpg" alt="Karmine Corp thi đấu tại vòng loại trực tiếp EWC 2026 Liên Minh Huyền Thoại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/cvq5zaAlaDA/maxresdefault.jpg" alt="Karmine Corp thi đấu tại vòng loại trực tiếp EWC 2026 Liên Minh Huyền Thoại" loading="lazy" width="1280" height="720">
   <figcaption>Karmine Corp duy trì phong độ ổn định qua các vòng loại trực tiếp. Nguồn: YouTube</figcaption>
 </figure>
 

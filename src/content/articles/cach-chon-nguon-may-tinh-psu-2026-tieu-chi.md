@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-07-06T05:40:00+07:00"
 dateModified: "2026-07-06T05:40:00+07:00"
 deck: "Nguồn máy tính là linh kiện dễ bị bỏ qua nhưng lại quyết định trực tiếp tới độ an toàn và ổn định của toàn bộ hệ thống, đặc biệt khi GPU và CPU thế hệ mới ngày càng tiêu tốn nhiều điện năng. Bài viết tổng hợp 5 tiêu chí quan trọng cần cân nhắc trước khi chọn mua một bộ nguồn máy tính phù hợp nhu cầu sử dụng."
-heroImage: "https://i.ytimg.com/vi/tq5pazoY53I/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/tq5pazoY53I/maxresdefault.jpg"
 heroAlt: "Cach chon nguon may tinh PSU 2026 tieu chi"
 heroCaption: "Chọn nguồn máy tính phù hợp cần cân nhắc công suất, chuẩn hiệu suất 80 Plus và độ an toàn thương hiệu. Nguồn: YouTube"
 tldr: "Khi chọn mua nguồn máy tính (PSU), cần chú ý 5 tiêu chí chính: <strong>công suất</strong> phù hợp với tổng công suất CPU và GPU đang sử dụng, <strong>chuẩn hiệu suất 80 Plus</strong> từ Bronze tới Titanium quyết định mức độ tiết kiệm điện, <strong>độ ồn quạt</strong> khi vận hành ở tải cao, <strong>dây cáp module hóa</strong> giúp đi dây gọn gàng, và <strong>độ an toàn từ thương hiệu uy tín</strong> tránh rủi ro cháy nổ ảnh hưởng tới toàn bộ linh kiện."
@@ -68,7 +68,7 @@ Công suất nguồn máy tính cần thiết phụ thuộc vào tổng công su
 Người mới xây dựng máy tính lần đầu thường có xu hướng mua nguồn công suất thấp hơn cần thiết để tiết kiệm chi phí ban đầu, nhưng đây là quyết định rủi ro vì nguồn thiếu công suất có thể gây tắt máy đột ngột khi tải cao, hoặc tệ hơn là làm giảm tuổi thọ của toàn bộ linh kiện do phải hoạt động liên tục ở mức tải gần giới hạn tối đa.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zG71dQ9qRbc/hqdefault.jpg" alt="Giai dap cac cau hoi thuong gap ve nguon may tinh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zG71dQ9qRbc/maxresdefault.jpg" alt="Giai dap cac cau hoi thuong gap ve nguon may tinh" loading="lazy" width="1280" height="720">
   <figcaption>Giải đáp các câu hỏi thường gặp về công suất và cách chọn nguồn máy tính phù hợp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Người mới xây dựng máy tính lần đầu thường có xu hướng mua
 Chuẩn 80 Plus là chứng nhận đo hiệu suất chuyển đổi điện năng của nguồn máy tính, từ mức cơ bản tới các cấp cao hơn gồm Bronze, Silver, Gold, Platinum và Titanium theo thứ tự tăng dần về hiệu suất. Chuẩn càng cao, nguồn càng ít lãng phí điện năng dưới dạng nhiệt, giúp tiết kiệm chi phí điện về lâu dài và giảm nhiệt tỏa ra trong quá trình vận hành, đồng thời thường đi kèm linh kiện chất lượng tốt hơn giúp nguồn bền bỉ hơn theo thời gian.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/dXuoklTQq_Y/hqdefault.jpg" alt="Giai thich chuan 80 Plus Bronze Silver Gold Platinum Titanium" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/dXuoklTQq_Y/maxresdefault.jpg" alt="Giai thich chuan 80 Plus Bronze Silver Gold Platinum Titanium" loading="lazy" width="1280" height="720">
   <figcaption>Giải thích chi tiết các cấp chuẩn hiệu suất 80 Plus từ Bronze tới Titanium trên nguồn máy tính. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Với người dùng đang cân nhắc nâng cấp đồng bộ nhiều linh ki�
 Nguồn máy tính module hóa cho phép người dùng chỉ cắm những dây cáp thực sự cần thiết cho cấu hình của mình, thay vì phải giấu bớt các dây thừa như nguồn không module hóa, giúp việc đi dây trong case gọn gàng hơn đáng kể. Điều này không chỉ mang lại tính thẩm mỹ tốt hơn mà còn cải thiện luồng khí lưu thông trong case, hỗ trợ tản nhiệt tốt hơn cho toàn bộ hệ thống, đặc biệt quan trọng với các case nhỏ gọn có không gian hạn chế.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/1IRX16XgAug/hqdefault.jpg" alt="Ngung mua nguon may tinh te top nguon PSU 2025" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/1IRX16XgAug/maxresdefault.jpg" alt="Ngung mua nguon may tinh te top nguon PSU 2025" loading="lazy" width="1280" height="720">
   <figcaption>Cảnh báo về những mẫu nguồn máy tính kém chất lượng và gợi ý các lựa chọn tốt nhất năm 2025. Nguồn: YouTube</figcaption>
 </figure>
 

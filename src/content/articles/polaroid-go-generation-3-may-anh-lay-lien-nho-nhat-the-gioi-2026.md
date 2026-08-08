@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-03T10:20:00+07:00"
 dateModified: "2026-07-03T10:20:00+07:00"
 deck: "Polaroid vừa ra mắt Go Generation 3, phiên bản nâng cấp của dòng máy ảnh lấy liền nhỏ nhất thế giới, tập trung khắc phục hai nhược điểm lớn nhất bị người dùng phàn nàn nhiều nhất trên các thế hệ trước: ống kính cho ảnh mờ và đèn flash yếu. Sản phẩm có giá bán 89,99 USD, đi kèm 5 màu sắc mới."
-heroImage: "https://i.ytimg.com/vi/E2_-h61ic7Y/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/E2_-h61ic7Y/maxresdefault.jpg"
 heroAlt: "Polaroid Go Generation 3 may anh lay lien nho nhat the gioi 2026"
 heroCaption: "Polaroid Go Generation 3, máy ảnh lấy liền nhỏ nhất thế giới với ống kính và đèn flash được nâng cấp. Nguồn: YouTube"
 tldr: "<strong>Polaroid Go Generation 3</strong> là bản nâng cấp của dòng máy ảnh lấy liền nhỏ nhất thế giới, trang bị ống kính mới <strong>63,75mm</strong> (tăng từ 51,1mm) và đèn <strong>flash Xenon</strong> mạnh hơn hẳn thế hệ trước, giúp ảnh chụp đều sáng và sắc nét hơn rõ rệt, đặc biệt khi chụp ngoài trời. Sản phẩm có 5 màu sắc mới, giá bán <strong>89,99 USD</strong>, chi phí mỗi tấm phim khoảng <strong>1,24 USD</strong>."
@@ -67,7 +67,7 @@ Thay đổi kỹ thuật lớn nhất trên Polaroid Go Generation 3 nằm ở c
 Về mặt cấu hình kỹ thuật, máy có khẩu độ hai mức f/14 và f/32 cùng tốc độ màn trập tối đa 1/500 giây, tạo ra sự cân bằng phơi sáng tốt hơn hẳn trong điều kiện chụp ngoài trời có ánh nắng mạnh, một tình huống mà các thế hệ Go trước đây thường gặp khó khăn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-_576rSw8aM/hqdefault.jpg" alt="Polaroid Go Generation 3 mau sac moi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/-_576rSw8aM/maxresdefault.jpg" alt="Polaroid Go Generation 3 mau sac moi 2026" loading="lazy" width="1280" height="720">
   <figcaption>Polaroid Go Generation 3 ra mắt cùng 5 tùy chọn màu sắc mới, giữ nguyên thiết kế bỏ túi đặc trưng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Về mặt cấu hình kỹ thuật, máy có khẩu độ hai mức f/14 và f/
 Polaroid Go Generation 3 có giá bán 89,99 USD, đi kèm 5 tùy chọn màu sắc mới gồm xanh nhạt, tím, xanh ngọc, đen và trắng, giữ nguyên kích thước bỏ túi đặc trưng của dòng Go. Tuy nhiên, chi phí phim chụp vẫn là điểm cần cân nhắc, với mỗi tấm ảnh tốn khoảng 1,24 USD, cao hơn một chút so với mức 0,79 USD của phim Instax Mini từ đối thủ Fujifilm, khiến chi phí sử dụng lâu dài nhỉnh hơn nếu chụp thường xuyên.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/E2_-h61ic7Y/mqdefault.jpg" alt="Polaroid Go Generation 3 chup ngoai troi test anh 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/E2_-h61ic7Y/maxresdefault.jpg" alt="Polaroid Go Generation 3 chup ngoai troi test anh 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ảnh chụp ngoài trời bằng Polaroid Go Generation 3 được đánh giá đều sáng hơn hẳn thế hệ trước. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Với người yêu thích nhiếp ảnh và đang tìm hiểu thêm các thiế
 Người quay video hoặc dựng nội dung kèm ảnh chụp từ Polaroid Go Generation 3 cho các kênh mạng xã hội cũng có thể tham khảo thêm bài viết [DJI Osmo Mobile 8P: gimbal FrameTap](/articles/dji-osmo-mobile-8p-gimbal-frametap-2026.html) để ổn định hình ảnh khi quay video giới thiệu sản phẩm hoặc trải nghiệm sử dụng máy ảnh lấy liền này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-_576rSw8aM/mqdefault.jpg" alt="Polaroid Go Generation 3 kich thuoc bo tui 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/-_576rSw8aM/maxresdefault.jpg" alt="Polaroid Go Generation 3 kich thuoc bo tui 2026" loading="lazy" width="1280" height="720">
   <figcaption>Kích thước bỏ túi vẫn là điểm mạnh xuyên suốt của dòng máy ảnh Polaroid Go qua các thế hệ. Nguồn: YouTube</figcaption>
 </figure>
 

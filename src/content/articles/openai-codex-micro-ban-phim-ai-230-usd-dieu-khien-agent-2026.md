@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-16T16:30:00+07:00"
 dateModified: "2026-07-16T16:30:00+07:00"
 deck: "OpenAI vừa bước chân vào thị trường phần cứng với Codex Micro, một bàn phím nhỏ giá 230 USD chuyên để điều khiển các agent lập trình. Thiết bị hợp tác cùng hãng bàn phím Work Louder, có các phím agent phát sáng theo trạng thái, một cần joystick và núm xoay chỉnh mức suy luận, hướng tới lập trình viên đang dùng Codex."
-heroImage: "https://i.ytimg.com/vi/Euzc66OHtNk/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/Euzc66OHtNk/sddefault.jpg"
 heroAlt: "OpenAI Codex Micro, bàn phím nhỏ 230 USD với các phím agent phát sáng và cần joystick"
 heroCaption: "Codex Micro là sản phẩm phần cứng đầu tiên OpenAI bán ra thị trường. Nguồn: YouTube"
 tldr: "<strong>OpenAI</strong> ra mắt <strong>Codex Micro</strong>, thiết bị phần cứng đầu tiên của hãng, một bàn phím nhỏ giá <strong>230 USD</strong> hợp tác cùng Work Louder. Máy có <strong>6 phím agent</strong> với keycap xuyên sáng đổi màu theo trạng thái (trắng chờ, xanh dương đang nghĩ, xanh lá xong, đỏ lỗi), một cần <strong>joystick</strong> để khởi chạy tác vụ như duyệt pull request hay gỡ lỗi, cùng núm xoay chỉnh mức suy luận của mô hình. Thiết bị kết nối USB-C hoặc Bluetooth, chạy trên Windows và Mac, bán theo lô giới hạn với hai bản gõ tanh tách và bản im."
@@ -66,7 +66,7 @@ OpenAI lâu nay là công ty phần mềm và mô hình, nhưng ngày 15/7 hãng
 Ý tưởng nền tảng là con người vẫn giữ vai trò giám sát. Khi các agent AI có thể tự viết mã, sửa lỗi và chạy tác vụ, thách thức mới không phải là làm thay con người mà là giúp con người theo dõi và điều phối chúng hiệu quả. Codex Micro đặt cược vào việc một giao diện vật lý, với đèn báo và nút bấm chuyên dụng, sẽ trực quan hơn so với việc dán mắt vào bảng điều khiển trên màn hình.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/D3i8fXH9qTI/hqdefault.jpg" alt="Cận cảnh các phím agent phát sáng trên bàn phím OpenAI Codex Micro" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/D3i8fXH9qTI/maxresdefault.jpg" alt="Cận cảnh các phím agent phát sáng trên bàn phím OpenAI Codex Micro" loading="lazy" width="1280" height="720">
   <figcaption>Sáu phím agent đổi màu theo trạng thái: trắng chờ, xanh dương đang nghĩ, xanh lá xong, đỏ lỗi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Một chi tiết được nhiều người chú ý là núm xoay để điều c
 Các phím lệnh còn lại gán cho những thao tác hay dùng nhất khi làm việc với agent: chấp nhận, từ chối, nhấn để nói, hay mở một phiên trò chuyện mới. Tư duy thiết kế ở đây là biến những hành động lặp lại nhiều lần trong ngày thành phím bấm riêng, giúp giảm ma sát. Với lập trình viên chạy nhiều agent song song, từng giây tiết kiệm được khi không phải chuyển ngữ cảnh sẽ cộng dồn thành hiệu quả đáng kể.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/4lzPnRLvWkc/hqdefault.jpg" alt="Núm xoay chỉnh mức suy luận và cần joystick trên Codex Micro" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/4lzPnRLvWkc/maxresdefault.jpg" alt="Núm xoay chỉnh mức suy luận và cần joystick trên Codex Micro" loading="lazy" width="1280" height="720">
   <figcaption>Núm xoay cho phép chỉnh mức suy luận của mô hình ngay khi đang làm việc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Về chế tạo, Codex Micro dùng khung nhôm và polycarbonate gia công CNC,
 Đối tượng của Codex Micro khá rõ: lập trình viên và người làm sản phẩm thường xuyên chạy nhiều agent AI cùng lúc. Khi một người phải theo dõi năm, bảy tác vụ tự động chạy song song, việc chuyển qua lại giữa các cửa sổ nhanh chóng trở nên mệt mỏi. Một bảng điều khiển vật lý với phím và đèn báo riêng giúp giảm tải nhận thức, để người dùng tập trung vào việc ra quyết định thay vì thao tác lặp lại nhiều lần trong ngày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/3-2OH6ReiPM/hqdefault.jpg" alt="Người dùng thao tác trên Codex Micro để điều phối nhiều agent lập trình" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/3-2OH6ReiPM/maxresdefault.jpg" alt="Người dùng thao tác trên Codex Micro để điều phối nhiều agent lập trình" loading="lazy" width="1280" height="720">
   <figcaption>Codex Micro hướng tới người phải giám sát và điều phối nhiều agent cùng lúc. Nguồn: YouTube</figcaption>
 </figure>
 

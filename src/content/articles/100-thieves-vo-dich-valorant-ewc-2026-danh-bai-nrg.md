@@ -75,7 +75,7 @@ Việc cả hai đội vào chung kết đều đến từ Bắc Mỹ cho thấy
 Bộ môn Valorant tại EWC 2026 diễn ra từ ngày 2 tới 12/7 tại Paris Expo Porte de Versailles, một trung tâm triển lãm lớn ở thủ đô nước Pháp. Đây cũng là địa điểm tổ chức nhiều bộ môn khác của Esports World Cup, biến Paris thành tâm điểm của làng thể thao điện tử thế giới trong khoảng thời gian này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TUgVLkuSABo/hqdefault.jpg" alt="Trận chung kết Valorant EWC 2026 giữa 100 Thieves và NRG tại Paris Expo Porte de Versailles" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TUgVLkuSABo/maxresdefault.jpg" alt="Trận chung kết Valorant EWC 2026 giữa 100 Thieves và NRG tại Paris Expo Porte de Versailles" loading="lazy" width="1280" height="720">
   <figcaption>Valorant EWC 2026 diễn ra tại Paris, quy tụ nhiều đội tuyển hàng đầu thế giới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Hành trình tới chức vô địch của 100 Thieves cũng phản ánh xu hư
 ## Esports World Cup và sức hút toàn cầu
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Z27iLECqj8w/hqdefault.jpg" alt="Cộng đồng Valorant phản ứng trước chức vô địch EWC 2026 của 100 Thieves" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Z27iLECqj8w/maxresdefault.jpg" alt="Cộng đồng Valorant phản ứng trước chức vô địch EWC 2026 của 100 Thieves" loading="lazy" width="1280" height="720">
   <figcaption>Chức vô địch của 100 Thieves nhận được nhiều phản ứng tích cực từ cộng đồng. Nguồn: YouTube</figcaption>
 </figure>
 
 Esports World Cup là một trong những sáng kiến tham vọng nhất của làng esports hiện đại, quy tụ nhiều bộ môn dưới một mái nhà chung với tổng giải thưởng khổng lồ. Việc Valorant góp mặt và thu hút những đội tuyển hàng đầu cho thấy vị thế ngày càng lớn của tựa game bắn súng chiến thuật này. Không chỉ Valorant, EWC 2026 còn có sự tham gia của nhiều tựa game đình đám khác, trong đó [Free Fire cũng có vòng bảng riêng tại giải](/articles/free-fire-ewc-2026-esports-world-cup-vong-bang.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/1RVGvkIyygA/hqdefault.jpg" alt="100 Thieves ăn mừng chức vô địch Valorant EWC 2026 sau chiến thắng trước NRG" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1RVGvkIyygA/maxresdefault.jpg" alt="100 Thieves ăn mừng chức vô địch Valorant EWC 2026 sau chiến thắng trước NRG" loading="lazy" width="1280" height="720">
   <figcaption>Danh hiệu EWC 2026 là điểm nhấn quan trọng trong mùa giải của 100 Thieves. Nguồn: YouTube</figcaption>
 </figure>
 

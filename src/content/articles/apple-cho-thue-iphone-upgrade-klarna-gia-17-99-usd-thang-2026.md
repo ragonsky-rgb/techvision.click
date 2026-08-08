@@ -78,7 +78,7 @@ Về mức giá, Apple công bố các con số khởi điểm khá dễ tiếp 
 Đi vào ví dụ cụ thể, để thuê một chiếc iPhone 17 Pro trong 2 năm, người dùng trả khoảng 31,99 USD mỗi tháng. Nếu rút ngắn kỳ hạn xuống còn 1 năm, mức phí tăng lên khoảng 45,99 USD mỗi tháng do thời gian trả góp ngắn hơn. So sánh với chương trình iPhone Upgrade Program trước đây vốn có điểm khởi đầu khoảng 42 USD mỗi tháng, gói thuê mới có mức vào cửa thấp hơn đáng kể, một yếu tố có thể hấp dẫn nhóm khách hàng nhạy cảm với chi phí ban đầu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zTgutOVu4Kw/hqdefault.jpg" alt="So sánh chương trình cho thuê iPhone mới của Apple và Klarna với các gói trước đây" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zTgutOVu4Kw/maxresdefault.jpg" alt="So sánh chương trình cho thuê iPhone mới của Apple và Klarna với các gói trước đây" loading="lazy" width="1280" height="720">
   <figcaption>Chương trình thuê mới được so sánh trực tiếp với iPhone Upgrade Program cũ về chi phí và điều kiện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Danh mục sản phẩm nằm trong chương trình khá rộng, bao gồm dòng
 Khi hết hạn thuê, khách hàng đứng trước ba lựa chọn rõ ràng. Họ có thể đổi lên thiết bị thế hệ mới nhất để tiếp tục một chu kỳ thuê mới, mua đứt máy đang dùng bằng cách thanh toán phần giá trị còn lại, hoặc đơn giản là trả lại máy và rời khỏi chương trình. Sự linh hoạt này là điểm cốt lõi khiến mô hình thuê khác biệt so với mua trả góp, nơi người dùng buộc phải sở hữu máy sau khi trả hết.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/HFvikxirrlo/hqdefault.jpg" alt="Danh mục iPhone, iPad, Mac và Apple Watch được áp dụng chương trình Apple Upgrade" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/HFvikxirrlo/maxresdefault.jpg" alt="Danh mục iPhone, iPad, Mac và Apple Watch được áp dụng chương trình Apple Upgrade" loading="lazy" width="1280" height="720">
   <figcaption>Chương trình phủ rộng nhiều dòng sản phẩm, từ iPhone, iPad tới Mac và Apple Watch. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Cùng với việc ra mắt Apple Upgrade, Apple cũng ngừng cung cấp chươ
 Chuyên gia phân tích của hãng nghiên cứu thị trường IDC nhận định mô hình mới có thể khiến người tiêu dùng nhìn nhận iPhone hay Mac như một dịch vụ thuê bao hằng tháng thay vì một khoản chi lớn phải trả một lần. Trong bối cảnh chu kỳ nâng cấp điện thoại đang kéo dài ra và nhiều người giữ máy lâu hơn trước, việc hạ rào cản chi phí ban đầu là cách để Apple duy trì nhịp bán hàng và giữ khách ở lại trong hệ sinh thái của mình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7IpvZ3s-AVA/hqdefault.jpg" alt="Phân tích điều khoản thuê và vai trò của Klarna trong chương trình Apple Upgrade" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7IpvZ3s-AVA/maxresdefault.jpg" alt="Phân tích điều khoản thuê và vai trò của Klarna trong chương trình Apple Upgrade" loading="lazy" width="1280" height="720">
   <figcaption>Điều khoản thuê linh hoạt được kỳ vọng kích thích doanh số và giữ chân người dùng Apple. Nguồn: YouTube</figcaption>
 </figure>
 

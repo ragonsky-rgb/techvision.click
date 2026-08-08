@@ -72,7 +72,7 @@ CEO Xbox Asha Sharma, người mới nhậm chức từ tháng 2/2026 sau khi k�
 Một trong những thay đổi đáng chú ý nhất của đợt tái cơ cấu là việc bốn studio game chính thức rời khỏi hệ sinh thái Xbox. Compulsion Games và Double Fine Productions sẽ trở lại hoạt động độc lập, giữ nguyên quyền sở hữu trí tuệ, danh mục game và nguồn lực vận hành hiện có. Trong khi đó, Ninja Theory, studio đứng sau loạt game Senua nổi tiếng, và Undead Labs, nhà phát triển series State of Decay, sẽ được chuyển giao cho chủ sở hữu mới, dù Microsoft chưa tiết lộ danh tính bên mua.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/K3zV7zo_qrs/hqdefault.jpg" alt="Phản ứng của cộng đồng game thủ trước đợt sa thải quy mô lớn tại Xbox" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/K3zV7zo_qrs/maxresdefault.jpg" alt="Phản ứng của cộng đồng game thủ trước đợt sa thải quy mô lớn tại Xbox" loading="lazy" width="1280" height="720">
   <figcaption>Cộng đồng game thủ và giới truyền thông có nhiều phản ứng trái chiều trước đợt tái cơ cấu của Xbox. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Một trong những thay đổi đáng chú ý nhất của đợt tái cơ cấ
 Theo lời giải thích của Asha Sharma, nguyên nhân cốt lõi dẫn tới đợt tái cơ cấu này là chiến lược đầu tư dàn trải trong nhiều năm qua. Bà cho biết: "Để tăng trưởng, chúng tôi đã đặt cược vào nhiều mảng khác nhau, và trong quá trình đó, chúng tôi vô tình không tập trung đủ vào mảng kinh doanh cốt lõi." Cụ thể, các khoản đầu tư lớn vào dịch vụ Game Pass, chiến lược đa nền tảng và mở rộng danh mục nội dung đã không mang lại tốc độ tăng trưởng như kỳ vọng ban đầu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xjVopmWFc5M/hqdefault.jpg" alt="Chi tiết đợt tái cơ cấu và cắt giảm 3200 việc làm tại Xbox" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xjVopmWFc5M/maxresdefault.jpg" alt="Chi tiết đợt tái cơ cấu và cắt giảm 3200 việc làm tại Xbox" loading="lazy" width="1280" height="720">
   <figcaption>Đợt cắt giảm 3.200 việc làm tại Xbox được xem là một trong những thay đổi lớn nhất ngành game năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Tình hình càng trở nên phức tạp hơn khi ngành công nghiệp phần 
 Với người dùng Xbox tại Việt Nam và toàn cầu, những thay đổi về giá console cùng cơ cấu studio phát triển game chắc chắn sẽ tác động tới lựa chọn mua sắm và kỳ vọng về các tựa game độc quyền trong thời gian tới, đặc biệt khi thị trường thiết bị chơi game vẫn đang sôi động với hàng loạt sản phẩm mới như [kính thực tế ảo độc lập Steam Frame của Valve](/articles/valve-steam-frame-kinh-vr-doc-lap-2026.html) liên tục được các đối thủ tung ra nhằm giành thị phần người dùng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Snrg24wnTdo/hqdefault.jpg" alt="Asha Sharma xác nhận Xbox đang gặp khó khăn nghiêm trọng trong thông báo tái cơ cấu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Snrg24wnTdo/maxresdefault.jpg" alt="Asha Sharma xác nhận Xbox đang gặp khó khăn nghiêm trọng trong thông báo tái cơ cấu" loading="lazy" width="1280" height="720">
   <figcaption>Thông báo tái cơ cấu của Xbox gây chấn động cộng đồng game thủ và ngành công nghiệp giải trí toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 

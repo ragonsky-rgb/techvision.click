@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-16T09:20:00+07:00"
 dateModified: "2026-07-16T09:20:00+07:00"
 deck: "OpenAI vừa hoàn tất vòng gọi vốn lớn nhất từ trước tới nay, huy động 122 tỷ USD ở mức định giá 852 tỷ USD, được xem là vòng gọi vốn tư nhân lớn nhất trong lịch sử. Các nhà đầu tư lớn gồm Amazon, Nvidia và SoftBank dẫn dắt vòng này. Công ty cho biết đang có doanh thu khoảng 2,6 tỷ USD mỗi tháng, 900 triệu người dùng ChatGPT hằng tuần, và phát tín hiệu về một đợt IPO tiềm năng trong năm nay. Con số khổng lồ này phản ánh niềm tin của giới đầu tư vào cuộc đua AI, nhưng cũng làm dấy lên câu hỏi về nguy cơ bong bóng."
-heroImage: "https://i.ytimg.com/vi/UKLnRz4NLBc/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/UKLnRz4NLBc/maxresdefault.jpg"
 heroAlt: "OpenAI huy động 122 tỷ USD ở mức định giá kỷ lục 852 tỷ USD năm 2026"
 heroCaption: "OpenAI hoàn tất vòng gọi vốn 122 tỷ USD, lớn nhất lịch sử tư nhân. Nguồn: YouTube"
 tldr: "<strong>OpenAI</strong> hoàn tất vòng gọi vốn <strong>122 tỷ USD</strong> ở mức định giá <strong>852 tỷ USD</strong>, được xem là vòng gọi vốn tư nhân lớn nhất lịch sử. Các ông lớn <strong>Amazon, Nvidia và SoftBank</strong> nằm trong nhóm nhà đầu tư dẫn dắt. Công ty cho biết đang đạt doanh thu khoảng <strong>2,6 tỷ USD mỗi tháng</strong> và có <strong>900 triệu người dùng ChatGPT</strong> hằng tuần, đồng thời phát tín hiệu về khả năng <strong>IPO</strong> trong năm nay. Số tiền này giúp OpenAI có nguồn lực khổng lồ cho hạ tầng tính toán và mô hình mới, song mức định giá gần nghìn tỷ USD cũng khiến không ít người lo ngại về nguy cơ bong bóng AI."
@@ -75,7 +75,7 @@ Số tiền khổng lồ này sẽ được dùng chủ yếu cho việc mở r�
 Bên cạnh con số gọi vốn, OpenAI cũng hé lộ những chỉ số kinh doanh ấn tượng. Công ty cho biết đang đạt doanh thu khoảng 2,6 tỷ USD mỗi tháng, với khoảng 900 triệu người dùng ChatGPT hằng tuần. Đây là tốc độ tăng trưởng chóng mặt với một sản phẩm mới ra mắt vài năm, phản ánh mức độ phổ biến của AI tạo sinh trong đời sống và công việc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/iAHkJ_tCV-M/hqdefault.jpg" alt="OpenAI đạt định giá 852 tỷ USD sau vòng gọi vốn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/iAHkJ_tCV-M/maxresdefault.jpg" alt="OpenAI đạt định giá 852 tỷ USD sau vòng gọi vốn" loading="lazy" width="1280" height="720">
   <figcaption>Doanh thu và lượng người dùng của OpenAI tăng nhanh, hậu thuẫn cho mức định giá cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Tuy nhiên, đằng sau những con số hào nhoáng là thực tế chi phí k
 Một trong những thông tin đáng chú ý nhất là việc OpenAI phát tín hiệu về khả năng tiến hành IPO trong năm nay. Nếu thành hiện thực, đây sẽ là một trong những đợt niêm yết được mong chờ nhất, có thể mở đường cho làn sóng các công ty AI khác lên sàn. Điều này nối tiếp xu hướng đã thấy khi [Anthropic và OpenAI nộp hồ sơ IPO](/articles/anthropic-openai-nop-ho-so-ipo-2026-lan-song-giga-ipo-ai.html), báo hiệu một giai đoạn mới khi các phòng thí nghiệm AI bước ra thị trường vốn công khai.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/srCITOIjODw/hqdefault.jpg" alt="Câu hỏi về bong bóng định giá trong lĩnh vực AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/srCITOIjODw/maxresdefault.jpg" alt="Câu hỏi về bong bóng định giá trong lĩnh vực AI" loading="lazy" width="1280" height="720">
   <figcaption>Mức định giá gần nghìn tỷ USD làm dấy lên tranh luận về nguy cơ bong bóng AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Dù vậy, mức định giá gần nghìn tỷ USD cũng khiến không ít chu
 ## Điều này có ý nghĩa gì
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/uBm1d4Ab2DY/hqdefault.jpg" alt="Vòng gọi vốn của OpenAI định hình lại ngành AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/uBm1d4Ab2DY/maxresdefault.jpg" alt="Vòng gọi vốn của OpenAI định hình lại ngành AI" loading="lazy" width="1280" height="720">
   <figcaption>Nguồn vốn khổng lồ giúp OpenAI củng cố vị thế nhưng cũng đẩy cuộc đua AI lên mức khốc liệt hơn. Nguồn: YouTube</figcaption>
 </figure>
 

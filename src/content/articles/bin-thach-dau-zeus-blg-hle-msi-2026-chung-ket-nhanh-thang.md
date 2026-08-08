@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T18:40:00+07:00"
 dateModified: "2026-07-08T18:40:00+07:00"
 deck: "Trước thềm trận chung kết nhánh thắng MSI 2026 giữa Bilibili Gaming (BLG) và Hanwha Life Esports (HLE) diễn ra ngày 9/7, tuyển thủ đường trên Bin của BLG đã gửi lời thách đấu trực tiếp tới đối thủ đồng cấp Zeus của HLE, châm ngòi cho một trong những màn đối đầu được chờ đợi nhất giải đấu năm nay giữa hai đường trên hàng đầu thế giới."
-heroImage: "https://i.ytimg.com/vi/7wqmLO2Rc0k/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/7wqmLO2Rc0k/maxresdefault.jpg"
 heroAlt: "Bin thách đấu Zeus trước trận chung kết nhánh thắng BLG vs HLE tại MSI 2026"
 heroCaption: "Bin và Zeus, hai đường trên hàng đầu thế giới, đối đầu tại chung kết nhánh thắng MSI 2026. Nguồn: YouTube"
 tldr: "Trước trận <strong>chung kết nhánh thắng MSI 2026</strong> giữa <strong>Bilibili Gaming (BLG)</strong> và <strong>Hanwha Life Esports (HLE)</strong> diễn ra ngày <strong>9/7/2026</strong>, tuyển thủ đường trên <strong>Bin</strong> của BLG gửi lời thách đấu trực tiếp tới <strong>Zeus</strong> của HLE, đề nghị đối đầu 1-1 không cần hỗ trợ từ đi rừng. Cả hai đội đều đã thắng áp đảo <strong>3-0</strong> ở vòng trước để giành quyền vào chung kết nhánh thắng, đội thắng sẽ trực tiếp vào <strong>chung kết tổng ngày 12/7</strong>, đội thua rơi xuống nhánh thua chờ đối thủ còn lại. Đây được xem là màn tái ngộ giữa hai đường trên được đánh giá hay nhất thế giới hiện tại."
@@ -75,7 +75,7 @@ Thông điệp của Bin nhanh chóng lan truyền trên các nền tảng mạn
 Điều khiến trận đấu này càng thêm kịch tính là việc cả BLG và HLE đều bước vào chung kết nhánh thắng với phong độ gần như hoàn hảo. BLG đã đánh bại LYON với tỷ số 3-0 tuyệt đối để giành quyền vào vòng này, trong khi HLE cũng thể hiện sức mạnh không kém khi quét sạch G2 Esports với cùng tỷ số 3-0. Việc cả hai đội đều toàn thắng ở vòng đấu trước cho thấy đây thực sự là cuộc đối đầu giữa hai ứng cử viên vô địch sáng giá nhất của MSI 2026 tính tới thời điểm hiện tại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IBjvCsVRhsk/hqdefault.jpg" alt="Bin và Zeus, hai đường trên vĩ đại nhất, tái ngộ tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IBjvCsVRhsk/maxresdefault.jpg" alt="Bin và Zeus, hai đường trên vĩ đại nhất, tái ngộ tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Cộng đồng người hâm mộ đặt nhiều kỳ vọng vào màn tái ngộ giữa hai đường trên hàng đầu thế giới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Với format thi đấu của MSI 2026, phần thưởng cho đội chiến th�
 Cặp đối đầu giữa Bin và Zeus từ lâu đã được xem là một trong những câu chuyện hấp dẫn nhất của làng Liên Minh Huyền Thoại quốc tế, đại diện cho hai trường phái lối chơi đường trên khác biệt giữa khu vực LPL của Trung Quốc và LCK của Hàn Quốc. Cả hai tuyển thủ đều nhiều lần chạm trán nhau tại các giải đấu quốc tế lớn trong quá khứ, và mỗi lần đối đầu đều thu hút sự quan tâm đặc biệt từ cộng đồng người hâm mộ toàn cầu vì đẳng cấp và bản lĩnh thi đấu của cả hai.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/0Py7DJ01rUg/hqdefault.jpg" alt="Tất tần tật về đội hình BLG trước thềm MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0Py7DJ01rUg/maxresdefault.jpg" alt="Tất tần tật về đội hình BLG trước thềm MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>BLG bước vào chung kết nhánh thắng với đội hình được đánh giá cao ở mọi vị trí. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Với ý nghĩa quyết định tấm vé thẳng vào chung kết tổng, trậ
 Người hâm mộ Việt Nam theo dõi giải đấu qua các kênh phát sóng chính thức có thể chuẩn bị sẵn không gian xem thoải mái với dàn thiết bị âm thanh chất lượng, tương tự gợi ý trong bài về [JBL vừa ra mắt loạt tai nghe mới tại Việt Nam](/articles/jbl-live-780nc-680nc-tune-series-ra-mat-viet-nam-2026.html), để không bỏ lỡ bất kỳ khoảnh khắc căng thẳng nào trong trận đại chiến sắp tới, sau khi đã chứng kiến những bất ngờ lớn ở vòng nhánh thua với kết quả [T1 thua sốc G2 Esports](/articles/t1-thua-g2-msi-2026-bi-loai-som-nhat-lich-su.html) và [LYON quét sạch TSW để vào top 4](/articles/lyon-thang-tsw-3-0-msi-2026-vao-top-4.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/yqulDIihtMI/hqdefault.jpg" alt="Phân tích toàn cảnh vòng đấu chính thức MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yqulDIihtMI/maxresdefault.jpg" alt="Phân tích toàn cảnh vòng đấu chính thức MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Giới chuyên môn phân tích kỹ lưỡng cục diện MSI 2026 trước trận chung kết nhánh thắng. Nguồn: YouTube</figcaption>
 </figure>
 

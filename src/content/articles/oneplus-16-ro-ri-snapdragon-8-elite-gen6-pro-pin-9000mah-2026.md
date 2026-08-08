@@ -66,7 +66,7 @@ Chỉ vài tháng trước khi mùa flagship cuối năm khởi động, OnePlus
 Đáng chú ý không kém là viên pin. Rò rỉ nói OnePlus 16 trang bị pin silicon-carbon dung lượng lên tới 9.000mAh, một con số hiếm thấy trên smartphone dạng thanh. Công nghệ silicon-carbon cho phép nhồi nhiều năng lượng hơn vào cùng thể tích, nên máy có thể đạt dung lượng lớn mà không phải dày và nặng thêm nhiều. Kết hợp với sạc có dây 120W, đây là hướng đi đánh thẳng vào nhu cầu pin trâu vốn rất được người dùng Việt quan tâm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/6LB5n-YtV4Q/hqdefault.jpg" alt="OnePlus 16 pin silicon-carbon 9000mAh sạc nhanh 120W" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6LB5n-YtV4Q/maxresdefault.jpg" alt="OnePlus 16 pin silicon-carbon 9000mAh sạc nhanh 120W" loading="lazy" width="1280" height="720">
   <figcaption>Viên pin silicon-carbon 9.000mAh cùng sạc 120W là điểm nhấn lớn nhất theo tin rò rỉ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Về nhiếp ảnh, OnePlus 16 được đồn nâng cấp mạnh ở ống kín
 Màn hình cũng là một điểm được nhắc tới nhiều. OnePlus 16 được cho là dùng tấm nền BOE OLED phẳng với tần số quét 185Hz và viền dưới mỏng chưa tới 1mm. Ban đầu có tin OnePlus thử nghiệm bản 240Hz nhưng sau đó gác lại, chọn mốc 185Hz để cân bằng giữa độ mượt và thời lượng pin. Với đa số người dùng, khác biệt giữa 165Hz, 185Hz hay 240Hz trong sử dụng hằng ngày là không lớn, nên đây là lựa chọn hợp lý về mặt trải nghiệm và tối ưu năng lượng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DVhasuI1zmM/hqdefault.jpg" alt="OnePlus 16 màn hình BOE OLED phẳng 185Hz viền siêu mỏng camera tele 200MP" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DVhasuI1zmM/maxresdefault.jpg" alt="OnePlus 16 màn hình BOE OLED phẳng 185Hz viền siêu mỏng camera tele 200MP" loading="lazy" width="1280" height="720">
   <figcaption>Màn phẳng 185Hz viền siêu mỏng và cụm camera tele 200MP nằm trong nhóm nâng cấp đáng chú ý. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Giữa những thông số hấp dẫn, có một thực tế cần cân nhắc 
 Với người dùng Việt Nam, điều này nghĩa là OnePlus 16 nhiều khả năng không có bản phân phối chính hãng rộng rãi, và người muốn sở hữu có thể phải trông vào hàng xách tay, kèm rủi ro về bảo hành, tiếng Việt và cập nhật phần mềm. Đó là lý do, dù cấu hình rò rỉ rất ấn tượng, nhiều người vẫn có thể chọn các flagship khác có kênh chính hãng ổn định hơn, chẳng hạn dòng [OnePlus 15R phiên bản flagship killer pin 7400mAh](/articles/oneplus-15r-flagship-killer-pin-7400mah-snapdragon-8-gen-5-2026.html) đang bán trước đó.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zYGceYDYnsk/hqdefault.jpg" alt="OnePlus 16 chỉ bán tại châu Á sau khi OnePlus rút khỏi Mỹ và châu Âu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zYGceYDYnsk/maxresdefault.jpg" alt="OnePlus 16 chỉ bán tại châu Á sau khi OnePlus rút khỏi Mỹ và châu Âu" loading="lazy" width="1280" height="720">
   <figcaption>OnePlus 16 nhiều khả năng chỉ bán tại Trung Quốc và một số thị trường châu Á. Nguồn: YouTube</figcaption>
 </figure>
 

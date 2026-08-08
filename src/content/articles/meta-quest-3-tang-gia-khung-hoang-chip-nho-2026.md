@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-02T19:30:00+07:00"
 dateModified: "2026-07-02T19:30:00+07:00"
 deck: "Meta vừa thông báo tăng giá toàn bộ dòng kính thực tế ảo Quest 3 và Quest 3S kể từ ngày 19/4/2026, viện dẫn nguyên nhân chi phí chip nhớ tăng vọt trên toàn cầu. Đây là dấu hiệu mới nhất cho thấy cuộc khủng hoảng chip nhớ đang lan rộng từ máy tính, điện thoại sang cả thị trường thiết bị thực tế ảo."
-heroImage: "https://i.ytimg.com/vi/D9d91X_tO08/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/D9d91X_tO08/maxresdefault.jpg"
 heroAlt: "Meta Quest 3 tang gia khung hoang chip nho 2026"
 heroCaption: "Meta Quest 3 tăng giá do ảnh hưởng từ khủng hoảng chi phí chip nhớ toàn cầu. Nguồn: YouTube"
 tldr: "Từ ngày <strong>19/4/2026</strong>, Meta chính thức tăng giá toàn bộ dòng kính <strong>Quest 3</strong> và <strong>Quest 3S</strong>. Bản Quest 3 dung lượng 512GB tăng từ <strong>499,99 USD lên 599,99 USD</strong>, tương đương mức tăng khoảng 20%. Meta cho biết nguyên nhân trực tiếp là chi phí <strong>chip nhớ (memory chip)</strong> tăng vọt trên toàn cầu, ảnh hưởng gần như mọi danh mục thiết bị điện tử tiêu dùng. Đây là diễn biến mới nhất trong chuỗi tăng giá dây chuyền do khủng hoảng nguồn cung RAM, vốn đã khiến giá laptop, điện thoại tăng theo trong thời gian gần đây."
@@ -70,14 +70,14 @@ Cụ thể, bản Quest 3 dung lượng lưu trữ 512GB tăng từ 499,99 USD l
 Đợt tăng giá của Meta Quest 3 không phải sự kiện đơn lẻ, mà là mắt xích mới nhất trong chuỗi tăng giá dây chuyền xuất phát từ tình trạng khủng hoảng nguồn cung chip nhớ toàn cầu đã kéo dài từ nhiều tháng qua. Cuộc khủng hoảng này trước đó đã khiến giá laptop tăng mạnh, được phân tích chi tiết trong bài viết [giá laptop tăng 30% vì khủng hoảng RAM, nên mua gì](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html), cũng như tác động lan tới giá card đồ họa cao cấp như đã đề cập trong bài viết [giá RTX 5090 tại Việt Nam tháng 6/2026](/articles/gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/qM3xAmGoVmU/hqdefault.jpg" alt="Meta tang gia Quest 3 3S sap toi thong bao chinh thuc 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/qM3xAmGoVmU/maxresdefault.jpg" alt="Meta tang gia Quest 3 3S sap toi thong bao chinh thuc 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thông báo tăng giá của Meta được đưa ra trong bối cảnh khủng hoảng chip nhớ toàn cầu chưa có dấu hiệu hạ nhiệt. Nguồn: YouTube</figcaption>
 </figure>
 
 Nguyên nhân sâu xa của tình trạng khan hiếm chip nhớ được nhiều chuyên gia trong ngành lý giải là do nhu cầu bùng nổ từ các trung tâm dữ liệu phục vụ huấn luyện mô hình AI, khiến các nhà sản xuất chip nhớ lớn ưu tiên phân bổ sản lượng cho khách hàng doanh nghiệp thay vì thị trường tiêu dùng phổ thông, đẩy giá thành sản phẩm cuối tăng theo trên diện rộng, từ máy tính, điện thoại cho tới nay là cả thiết bị thực tế ảo.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/4UJj9U5PjOM/hqdefault.jpg" alt="Meta Quest 3 gia tang giai thich chi tiet nguyen nhan 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/4UJj9U5PjOM/maxresdefault.jpg" alt="Meta Quest 3 gia tang giai thich chi tiet nguyen nhan 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhu cầu chip nhớ bùng nổ từ các trung tâm dữ liệu AI được xem là nguyên nhân sâu xa của đợt tăng giá. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Nguyên nhân sâu xa của tình trạng khan hiếm chip nhớ được nhiề
 Với mức giá mới, người tiêu dùng đang cân nhắc mua Quest 3 nên xác định rõ nhu cầu sử dụng thực tế trước khi quyết định. Nếu chỉ cần trải nghiệm VR cơ bản để giải trí, xem phim hoặc chơi một số tựa game nhẹ nhàng, có thể cân nhắc phiên bản Quest 3S với mức giá thấp hơn, dù cấu hình phần cứng cũng được cắt giảm tương ứng. Nhiều đánh giá độc lập vẫn cho rằng Quest 3 là lựa chọn VR đáng cân nhắc nhất trong tầm giá dù đã tăng, nhờ hệ sinh thái ứng dụng, game phong phú và chất lượng hiển thị tốt, nhưng người mua cũng nên theo dõi thêm các đợt khuyến mãi có thể xuất hiện trong thời gian tới để có mức giá tốt hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/d_Qwpj6oYLQ/hqdefault.jpg" alt="Meta Quest 3 price hike complete breakdown 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/d_Qwpj6oYLQ/maxresdefault.jpg" alt="Meta Quest 3 price hike complete breakdown 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh công nghệ đã phân tích toàn diện về đợt tăng giá và đưa ra lời khuyên cho người mua. Nguồn: YouTube</figcaption>
 </figure>
 

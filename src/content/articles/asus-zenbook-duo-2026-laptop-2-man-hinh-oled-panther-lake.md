@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T09:00:00+07:00"
 dateModified: "2026-07-06T09:00:00+07:00"
 deck: "ASUS tiếp tục làm mới dòng laptop hai màn hình Zenbook Duo trong năm 2026, với bản lề thế hệ mới thu hẹp khoảng cách giữa hai màn hình xuống chỉ còn 8,28mm, kết hợp cặp màn hình OLED 14 inch độ sáng 1.000 nit và chip Intel Core Ultra Series 3 Panther Lake mới nhất, tiếp tục theo đuổi phân khúc laptop năng suất kép độc đáo hiếm có đối thủ cạnh tranh trực tiếp."
-heroImage: "https://i.ytimg.com/vi/tefQDN-OZS8/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/tefQDN-OZS8/maxresdefault.jpg"
 heroAlt: "ASUS Zenbook Duo 2026 laptop 2 man hinh OLED"
 heroCaption: "ASUS Zenbook Duo 2026 với bản lề mới mỏng 8,28mm và hai màn hình OLED 144Hz. Nguồn: YouTube"
 tldr: "ASUS Zenbook Duo 2026 trang bị <strong>hai màn hình OLED 14 inch</strong> độ phân giải 3K, tần số quét <strong>144Hz</strong>, độ sáng tối đa <strong>1.000 nit</strong>, gấp đôi thế hệ 2025. Bản lề thế hệ mới thu hẹp khoảng cách giữa hai màn hình xuống chỉ còn <strong>8,28mm</strong>. Máy dùng chip <strong>Intel Core Ultra Series 3</strong> (Panther Lake), hỗ trợ 4 chế độ sử dụng linh hoạt gồm laptop, hai màn hình tách rời, chế độ desktop dọc và chế độ chia sẻ màn hình phẳng. Giá khởi điểm <strong>2.299 USD</strong>."
@@ -67,7 +67,7 @@ Thay đổi kỹ thuật lớn nhất trên Zenbook Duo 2026 nằm ở thiết k
 Cả hai màn hình đều sử dụng tấm nền OLED Lumina Pro độ phân giải 3K (2880x1800), hỗ trợ cảm ứng và tần số quét lên tới 144Hz, mượt mà hơn đáng kể so với chuẩn 60Hz phổ biến trên đa số laptop văn phòng. Độ sáng tối đa đạt 1.000 nit trên cả hai màn hình, gấp đôi thế hệ 2025, giúp cải thiện đáng kể khả năng sử dụng ngoài trời hoặc trong môi trường ánh sáng mạnh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/I2PULCInrkw/hqdefault.jpg" alt="ASUS Zenbook Duo 2026 danh gia sau 3 thang su dung" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/I2PULCInrkw/maxresdefault.jpg" alt="ASUS Zenbook Duo 2026 danh gia sau 3 thang su dung" loading="lazy" width="1280" height="720">
   <figcaption>Đánh giá chi tiết sau 3 tháng sử dụng thực tế ASUS Zenbook Duo 2026, từ hiệu năng tới độ bền bản lề. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Cả hai màn hình đều sử dụng tấm nền OLED Lumina Pro độ phân g
 Nhờ chân đế tích hợp sẵn trong máy, Zenbook Duo 2026 hỗ trợ tới 4 chế độ sử dụng khác nhau: chế độ laptop thông thường khi gắn bàn phím rời phía dưới màn hình chính, chế độ hai màn hình tách rời khi tháo bàn phím ra để dùng cả hai màn hình cùng lúc trên bàn, chế độ desktop khi dựng cả hai màn hình theo chiều dọc như hai màn hình ngoài độc lập, và chế độ chia sẻ màn hình phẳng cho hai người ngồi đối diện nhau cùng xem chung nội dung. Sự linh hoạt này giúp Zenbook Duo phù hợp với nhiều tình huống làm việc khác nhau hơn hẳn laptop một màn hình thông thường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/3ckhZyOOTSQ/hqdefault.jpg" alt="ASUS Zenbook Duo 2026 mo hop va lap dat chan de" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/3ckhZyOOTSQ/maxresdefault.jpg" alt="ASUS Zenbook Duo 2026 mo hop va lap dat chan de" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm mở hộp ASUS Zenbook Duo 2026, hướng dẫn lắp đặt chân đế và bàn phím rời. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ ASUS Zenbook Duo 2026 có giá khởi điểm 2.299 USD, thuộc phân khúc cao
 Tuy nhiên, không phải người dùng nào cũng cần tới thiết kế hai màn hình phức tạp này, khi một số reviewer nhận xét trọng lượng máy nặng hơn đáng kể so với laptop một màn hình cùng cấu hình, đồng thời mức giá cao khiến Zenbook Duo 2026 chủ yếu phù hợp nhóm người dùng chuyên nghiệp thực sự cần tính năng đa nhiệm hai màn hình hơn là người dùng phổ thông tìm kiếm laptop văn phòng thông thường. Với nhu cầu di động cơ bản, các dòng laptop một màn hình như [Surface Laptop for Business 8th Edition](/articles/surface-laptop-for-business-8th-edition-man-hinh-rieng-tu-2026.html) vẫn là lựa chọn thực dụng hơn về mặt trọng lượng và chi phí.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/vY8_r6UOAiY/hqdefault.jpg" alt="ASUS Zenbook Duo 2026 Unboxing Intel Core Ultra Series 3" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/vY8_r6UOAiY/maxresdefault.jpg" alt="ASUS Zenbook Duo 2026 Unboxing Intel Core Ultra Series 3" loading="lazy" width="1280" height="720">
   <figcaption>Video mở hộp chi tiết ASUS Zenbook Duo 2026 với chip Intel Core Ultra Series 3 mới nhất. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-11T23:45:00+07:00"
 dateModified: "2026-07-11T23:45:00+07:00"
 deck: "Sau hơn hai năm trong giai đoạn Early Access, Palworld chính thức thoát bản thử nghiệm và phát hành phiên bản 1.0 vào tối 10/7/2026, mang tới bản đồ gần gấp đôi kích thước cũ, hơn 200 Pal, hệ thống lai gen Genetic Recombination cho phép kết hợp đặc tính từ các Pal huyền thoại, cùng khu vực endgame World Tree lần đầu được mở khóa hoàn toàn cho người chơi khám phá."
-heroImage: "https://i.ytimg.com/vi/WRIsV6UtDyI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/WRIsV6UtDyI/maxresdefault.jpg"
 heroAlt: "Palworld chính thức ra mắt bản 1.0 với bản đồ gần gấp đôi và hơn 200 Pal"
 heroCaption: "Palworld 1.0 chính thức khép lại hành trình hơn hai năm Early Access. Nguồn: YouTube"
 tldr: "<strong>Palworld</strong> đã chính thức phát hành phiên bản <strong>1.0</strong> vào khoảng 22h30 tối <strong>10/7/2026</strong> theo giờ Việt Nam, khép lại hơn hai năm trong giai đoạn Early Access. Bản cập nhật lớn nhất từ trước tới nay mang tới bản đồ gần gấp đôi kích thước cũ, hơn <strong>200 Pal</strong>, hệ thống <strong>Genetic Recombination</strong> cho phép lai gen kết hợp đặc tính từ ba Pal huyền thoại để tạo ra biến thể Abyssal độc nhất, cùng khu vực endgame <strong>World Tree</strong> vốn xuất hiện trên bản đồ từ đầu game nhưng bị khóa hoàn toàn, giờ đây chính thức mở ra cho người chơi đạt Pal cấp 60 trở lên khám phá. Toàn bộ nội dung mới được cung cấp miễn phí cho những ai đã sở hữu game, không yêu cầu mua lại."
@@ -72,7 +72,7 @@ Sau hơn hai năm gắn bó với cộng đồng game thủ toàn cầu trong gi
 Bên cạnh việc mở rộng bản đồ, bản 1.0 còn giới thiệu hệ thống mang tên Genetic Recombination, cho phép người chơi kết hợp đặc tính từ ba Pal huyền thoại (Legendary) khác nhau để tạo ra một biến thể hoàn toàn mới mang tên Abyssal, sở hữu bộ chỉ số riêng biệt không xuất hiện ở bất kỳ Pal gốc nào. Cơ chế này mở ra chiều sâu chiến lược mới cho việc xây dựng đội hình, khuyến khích người chơi thử nghiệm nhiều tổ hợp lai tạo khác nhau để tìm ra những Pal có chỉ số tối ưu nhất cho phong cách chơi của riêng mình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/LeGEbAIfo60/hqdefault.jpg" alt="Các Pal mới xuất hiện trong bản cập nhật Palworld 1.0" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LeGEbAIfo60/maxresdefault.jpg" alt="Các Pal mới xuất hiện trong bản cập nhật Palworld 1.0" loading="lazy" width="1280" height="720">
   <figcaption>Bản 1.0 bổ sung hàng loạt Pal mới, nâng tổng số lên hơn 200 sinh vật khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Ngoài Genetic Recombination, hơn 200 Pal hiện có trong game, bao gồm cả
 Về mặt xây dựng căn cứ, bản 1.0 bổ sung một loạt bộ khung kết cấu, vật trang trí và các mảnh ghép xây dựng hoàn toàn mới, trong đó đáng chú ý nhất là tính năng xây dựng trên mặt nước vốn được cộng đồng người chơi mong đợi từ lâu. Với các nền móng và nội thất được thiết kế riêng cho môi trường nước, người chơi giờ đây có thể xây dựng những căn cứ sạch sẽ, thẩm mỹ hơn ngay trên hoặc gần các khu vực sông hồ trong game.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WRIsV6UtDyI/hqdefault.jpg" alt="Hệ thống xây dựng căn cứ mới trong Palworld 1.0" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WRIsV6UtDyI/maxresdefault.jpg" alt="Hệ thống xây dựng căn cứ mới trong Palworld 1.0" loading="lazy" width="1280" height="720">
   <figcaption>Tính năng xây dựng trên mặt nước là một trong những bổ sung được cộng đồng mong đợi nhiều nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Về mặt công nghệ multiplayer, bản 1.0 giới thiệu tính năng Server
 Đáng chú ý, toàn bộ nội dung khổng lồ trong bản cập nhật 1.0 được Pocketpair, studio phát triển Palworld, cung cấp hoàn toàn miễn phí cho những người chơi đã sở hữu game, không yêu cầu mua lại hay trả thêm bất kỳ khoản phí nào, một quyết định được cộng đồng đánh giá cao trong bối cảnh nhiều tựa game khác thường tách nội dung lớn thành các gói DLC trả phí riêng biệt. Việc chính thức thoát khỏi giai đoạn Early Access sau hơn hai năm cũng đánh dấu bước ngoặt quan trọng, khẳng định cam kết dài hạn của đội ngũ phát triển đối với tựa game từng tạo nên hiện tượng toàn cầu ngay từ những ngày đầu ra mắt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Bs-vse6DrMc/hqdefault.jpg" alt="Cảnh trong trailer ra mắt chính thức Palworld 1.0" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Bs-vse6DrMc/maxresdefault.jpg" alt="Cảnh trong trailer ra mắt chính thức Palworld 1.0" loading="lazy" width="1280" height="720">
   <figcaption>Palworld 1.0 khép lại hành trình phát triển kéo dài với một trong những bản cập nhật lớn nhất từ trước tới nay. Nguồn: YouTube</figcaption>
 </figure>
 

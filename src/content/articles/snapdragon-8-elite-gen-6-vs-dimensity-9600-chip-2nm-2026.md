@@ -66,7 +66,7 @@ Tiến trình sản xuất, đo bằng đơn vị nanomet, phản ánh mức đ�
 Với người dùng cuối, ý nghĩa thực tế của 2nm thường không nằm ở điểm benchmark cao ngất, mà ở trải nghiệm bền bỉ hơn. Máy có thể duy trì hiệu năng lâu hơn trước khi nóng lên và giảm xung, chơi game nặng đỡ hầm máy, và quan trọng nhất là pin trụ được lâu hơn cho cùng một khối lượng công việc. Trong bối cảnh dung lượng pin trên smartphone đang tăng mạnh, một con chip tiết kiệm điện sẽ càng khuếch đại lợi thế về thời lượng sử dụng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/P8BHk24lTis/hqdefault.jpg" alt="Tiến trình 2nm TSMC N2P trên chip Snapdragon 8 Elite Gen 6 và Dimensity 9600" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/P8BHk24lTis/maxresdefault.jpg" alt="Tiến trình 2nm TSMC N2P trên chip Snapdragon 8 Elite Gen 6 và Dimensity 9600" loading="lazy" width="1280" height="720">
   <figcaption>Tiến trình 2nm N2P giúp cả hai chip chạy nhanh hơn mà vẫn kiểm soát nhiệt và điện năng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Về phía Qualcomm, Snapdragon 8 Elite Gen 6 được cho là dùng bố cục 
 Về đồ họa, chip được đồn trang bị GPU Adreno 845 với 12MB bộ nhớ đồ họa GMEM tích hợp, cùng modem X90 mới. Qualcomm còn được cho là có thêm bản Snapdragon 8 Elite Gen 6 Pro với xung nhịp và hiệu năng cao hơn, nhắm tới các flagship đầu bảng. Toàn bộ thông tin này sẽ được làm rõ tại Snapdragon Summit ngày 22 tới 24/9, sự kiện thường niên nơi Qualcomm công bố chip flagship cho năm kế tiếp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SYAVHyuZFWo/hqdefault.jpg" alt="Snapdragon 8 Elite Gen 6 nhân Oryon GPU Adreno 845 bản Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SYAVHyuZFWo/maxresdefault.jpg" alt="Snapdragon 8 Elite Gen 6 nhân Oryon GPU Adreno 845 bản Pro" loading="lazy" width="1280" height="720">
   <figcaption>Snapdragon 8 Elite Gen 6 dùng nhân Oryon tự thiết kế và có thêm bản Pro cho flagship đầu bảng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Câu hỏi thực tế nhất là hai con chip này thay đổi gì với ngư�
 Tuy nhiên, cần thực tế rằng với đa số nhu cầu phổ thông, chip flagship đời trước đã quá đủ dùng, và tiến trình 2nm mới cùng cơn sốt giá linh kiện có thể khiến flagship 2026 đắt hơn đáng kể. Người mua tinh ý nên cân nhắc giữa việc chờ máy chip mới nhất và chọn một flagship đời trước đang giảm giá. Với ai quan tâm hiệu năng trên laptop thay vì điện thoại, cuộc đua tương tự cũng đang diễn ra, được phân tích trong bài [chip laptop 2026 giữa Panther Lake, Snapdragon X2 Elite và AMD](/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Ty0C0bE-hKE/hqdefault.jpg" alt="Máy flagship 2026 dùng chip Snapdragon 8 Elite Gen 6 và Dimensity 9600 về Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ty0C0bE-hKE/maxresdefault.jpg" alt="Máy flagship 2026 dùng chip Snapdragon 8 Elite Gen 6 và Dimensity 9600 về Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Các flagship dùng chip 2nm sẽ dần về Việt Nam từ cuối 2026, giá dự kiến cao hơn đời trước. Nguồn: YouTube</figcaption>
 </figure>
 

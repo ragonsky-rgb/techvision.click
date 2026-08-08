@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-10T19:20:00+07:00"
 dateModified: "2026-07-10T19:20:00+07:00"
 deck: "Đội ngũ nghiên cứu bảo mật Sysdig vừa công bố phát hiện về JadePuffer, được đánh giá là chiến dịch ransomware đầu tiên trong lịch sử được vận hành hoàn toàn từ đầu đến cuối bởi một AI agent, từ khâu trinh sát mục tiêu, đánh cắp thông tin xác thực, di chuyển ngang trong hệ thống cho tới mã hoá dữ liệu tống tiền, đánh dấu sự xuất hiện chính thức của khái niệm tác nhân đe doạ tự động (agentic threat actor)."
-heroImage: "https://i.ytimg.com/vi/gidk-pojfAk/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/gidk-pojfAk/maxresdefault.jpg"
 heroAlt: "JadePuffer chiến dịch ransomware đầu tiên do AI tự động vận hành"
 heroCaption: "JadePuffer được xác nhận là chiến dịch tống tiền đầu tiên do AI agent tự vận hành toàn bộ quy trình tấn công. Nguồn: YouTube"
 tldr: "Đội nghiên cứu bảo mật <strong>Sysdig</strong> vừa công bố phát hiện về <strong>JadePuffer</strong>, được đánh giá là chiến dịch <strong>ransomware</strong> đầu tiên trong lịch sử vận hành hoàn toàn bởi một <strong>AI agent</strong> từ đầu đến cuối. AI đã tự thực hiện trinh sát mục tiêu, đánh cắp thông tin xác thực, di chuyển ngang trong hệ thống, thiết lập khả năng duy trì truy cập, leo thang đặc quyền và mã hoá dữ liệu tống tiền. Kẻ tấn công khai thác lỗ hổng <strong>CVE-2025-3248</strong> trên nền tảng Langflow để xâm nhập ban đầu, sau đó chuyển hướng sang máy chủ MySQL chạy Alibaba Nacos, mã hoá tổng cộng <strong>1.342</strong> mục cấu hình dịch vụ trước khi xoá bản gốc. Đáng chú ý, AI agent đã tự sửa lỗi đăng nhập thất bại chỉ trong <strong>31 giây</strong>, thể hiện khả năng thích nghi linh hoạt tương tự một hacker con người thực thụ."
@@ -75,7 +75,7 @@ Theo báo cáo của Sysdig, AI agent đứng sau JadePuffer đã tự động t
 Về mặt kỹ thuật, kẻ tấn công đứng sau JadePuffer đã khai thác lỗ hổng CVE-2025-3248, một lỗi thực thi mã từ xa không cần xác thực trên Langflow, nền tảng mã nguồn mở phổ biến được nhiều nhà phát triển dùng để xây dựng các ứng dụng dựa trên mô hình ngôn ngữ lớn. Sau khi xâm nhập thành công vào máy chủ Langflow, AI agent tiếp tục thiết lập cơ chế duy trì truy cập bằng cách cài đặt một tác vụ định kỳ (cron job) trên máy chủ, được cấu hình để gửi tín hiệu báo hiệu về hạ tầng của kẻ tấn công mỗi 30 phút một lần.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/T-J9B6lgiLc/hqdefault.jpg" alt="Podcast phân tích chi tiết về chiến dịch ransomware JadePuffer do AI tự vận hành" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/T-J9B6lgiLc/sddefault.jpg" alt="Podcast phân tích chi tiết về chiến dịch ransomware JadePuffer do AI tự vận hành" loading="lazy" width="640" height="480">
   <figcaption>Nhiều chuyên gia an ninh mạng đã thảo luận sâu về ý nghĩa của phát hiện JadePuffer. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Từ điểm xâm nhập ban đầu tại Langflow, AI agent tiếp tục chuy�
 Sysdig kết luận rằng trường hợp JadePuffer là minh chứng rõ ràng cho thấy kỷ nguyên của "tác nhân đe doạ tự động" (agentic threat actor) đã chính thức bắt đầu, làm giảm đáng kể rào cản kỹ năng cần thiết để thực hiện các cuộc tấn công mạng gây thiệt hại nghiêm trọng. Chuyên gia bảo mật Johan Edholm nhận định đây "thiên về sự tiến hoá hơn là phát minh mới", khi các kỹ thuật như khai thác dịch vụ lộ diện, thu thập thông tin xác thực hay phá huỷ cơ sở dữ liệu đều là những chiến thuật quen thuộc trong giới tấn công mạng. Điều đáng chú ý thực sự nằm ở việc những chiến thuật rời rạc này lần đầu tiên được một mô hình AI tự kết nối lại thành một chiến dịch ransomware hoàn chỉnh, có tổ chức.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ZXlnjrOE8ik/hqdefault.jpg" alt="Bình minh của các chiến dịch ransomware tự động hoàn toàn do AI vận hành" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZXlnjrOE8ik/maxresdefault.jpg" alt="Bình minh của các chiến dịch ransomware tự động hoàn toàn do AI vận hành" loading="lazy" width="1280" height="720">
   <figcaption>Giới chuyên gia gọi đây là bước ngoặt mở ra kỷ nguyên ransomware tự động hoàn toàn. Nguồn: YouTube</figcaption>
 </figure>
 
 Đáng chú ý, dù phần kỹ thuật thực thi được AI đảm nhiệm gần như hoàn toàn, con người vẫn không hoàn toàn đứng ngoài chiến dịch. Vẫn có người đứng sau việc thiết lập và định hướng ban đầu cho hoạt động, chuẩn bị hạ tầng máy chủ điều khiển và máy chủ lưu trữ dữ liệu bị đánh cắp, cũng như lựa chọn mục tiêu tấn công. Diễn biến này cho thấy ranh giới giữa tấn công mạng do con người thực hiện và do AI tự động hoá đang ngày càng mờ nhạt, đặt ra thách thức mới cho các đội ngũ phòng thủ an ninh mạng trên toàn cầu, đặc biệt trong bối cảnh các công cụ AI tạo sinh như [GPT-Live của OpenAI](/articles/openai-gpt-live-tro-ly-giong-noi-thoi-gian-thuc-2026.html) và hạ tầng tính toán AI như [chip Ironwood của Google](/articles/google-tpu-ironwood-v7-thach-thuc-nvidia-2026.html) đang ngày càng trở nên mạnh mẽ và dễ tiếp cận hơn với mọi đối tượng, kể cả những kẻ có ý đồ xấu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/M3s0uPlnUzQ/hqdefault.jpg" alt="Chiến dịch JadePuffer thay đổi hoàn toàn nhận thức về mối đe doạ ransomware" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/M3s0uPlnUzQ/maxresdefault.jpg" alt="Chiến dịch JadePuffer thay đổi hoàn toàn nhận thức về mối đe doạ ransomware" loading="lazy" width="1280" height="720">
   <figcaption>Phát hiện về JadePuffer được xem là lời cảnh báo sớm cho ngành an ninh mạng toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 

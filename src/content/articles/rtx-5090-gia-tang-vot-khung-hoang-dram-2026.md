@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T21:20:00+07:00"
 dateModified: "2026-07-05T21:20:00+07:00"
 deck: "Giá bán thực tế của card đồ họa RTX 5090 tiếp tục leo thang chóng mặt, từ mức giá gốc 1.999 USD lên tới 2.500-4.000 USD ngoài thị trường, trong khi nhiều nguồn tin rò rỉ dự báo giá có thể chạm mốc 5.000 USD ngay trong năm 2026 do khủng hoảng nguồn cung DRAM toàn cầu."
-heroImage: "https://i.ytimg.com/vi/zHYTwBMxS9s/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/zHYTwBMxS9s/maxresdefault.jpg"
 heroAlt: "RTX 5090 gia tang vot khung hoang DRAM 2026"
 heroCaption: "Giá RTX 5090 tiếp tục leo thang chóng mặt do khủng hoảng nguồn cung DRAM toàn cầu. Nguồn: YouTube"
 tldr: "Giá bán thực tế card đồ họa <strong>RTX 5090</strong> đã tăng từ mức giá gốc <strong>1.999 USD</strong> lên <strong>2.500-4.000 USD</strong> ngoài thị trường, trong khi nhiều nguồn rò rỉ dự báo có thể chạm mốc <strong>5.000 USD</strong> ngay trong năm 2026. Nguyên nhân chính là khủng hoảng nguồn cung <strong>DRAM và GDDR7</strong>, khi Samsung, SK Hynix và Micron ưu tiên năng lực sản xuất cho bộ nhớ HBM phục vụ trung tâm dữ liệu AI. Chi phí bộ nhớ hiện chiếm khoảng <strong>80%</strong> giá thành sản xuất GPU, trong khi bộ kit RAM DDR5 32GB cũng tăng từ khoảng 90 USD lên hơn <strong>500 USD</strong> chỉ trong vài tháng."
@@ -73,7 +73,7 @@ Theo các nguồn phân tích trong ngành, chi phí bộ nhớ hiện chiếm t
 Đáng chú ý, một số phiên bản làm mát bằng nước tản nhiệt (liquid-cooled) cao cấp nhất thậm chí đã vượt ngưỡng 5.000 USD ngay cả trước khi mốc giá này chính thức trở thành xu hướng chung của thị trường, cho thấy nhóm khách hàng sẵn sàng chi trả cho hiệu năng đỉnh cao vẫn tồn tại bất chấp mức giá leo thang, dù quy mô nhóm khách hàng này chắc chắn nhỏ hơn nhiều so với phân khúc phổ thông.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SyemLI-KgjU/hqdefault.jpg" alt="RTX 5090 unbox danh gia gia ban thi truong hien nay" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SyemLI-KgjU/maxresdefault.jpg" alt="RTX 5090 unbox danh gia gia ban thi truong hien nay" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế RTX 5090 cho thấy hiệu năng vẫn ấn tượng dù mức giá bán đã tăng đáng kể. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Theo các nguồn phân tích trong ngành, chi phí bộ nhớ hiện chiếm t
 Không chỉ GPU, giá RAM máy tính cá nhân cũng chịu ảnh hưởng nặng nề từ cùng nguyên nhân khủng hoảng nguồn cung DRAM. Bộ kit RAM DDR5 32GB đã tăng từ khoảng 90 USD lên hơn 500 USD chỉ trong vài tháng, một mức tăng khiến nhiều người dùng phải trì hoãn kế hoạch xây dựng hoặc nâng cấp máy tính cá nhân. Xu hướng tăng giá này cũng ảnh hưởng trực tiếp tới thị trường laptop, khi nhiều dòng laptop gaming và làm việc phải điều chỉnh giá bán tăng theo, tương tự tình trạng đã được ghi nhận ở [đợt tăng giá laptop 30% vì khủng hoảng RAM](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html) trước đó. Người dùng cân nhắc nâng cấp laptop trong giai đoạn này có thể tham khảo thêm [top laptop đáng mua tháng 7/2026 mọi phân khúc](/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html) để tìm lựa chọn phù hợp với ngân sách hiện tại trước khi giá tiếp tục biến động thêm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/6IH0YgZKSwM/hqdefault.jpg" alt="RTX 5090 danh gia hieu nang DLSS4 va tinh hinh gia ban" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/6IH0YgZKSwM/maxresdefault.jpg" alt="RTX 5090 danh gia hieu nang DLSS4 va tinh hinh gia ban" loading="lazy" width="1280" height="720">
   <figcaption>Đánh giá hiệu năng thực tế và bàn luận về diễn biến giá bán của RTX 5090 từ các chuyên gia phần cứng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Không chỉ GPU, giá RAM máy tính cá nhân cũng chịu ảnh hưởng nặ
 Xu hướng tăng giá GPU và RAM do nhu cầu AI trung tâm dữ liệu đang tạo ra một nghịch lý đáng lo ngại cho thị trường tiêu dùng: trong khi ngành công nghiệp AI phát triển bùng nổ, người dùng phổ thông muốn nâng cấp máy tính cá nhân để chơi game hay làm việc sáng tạo lại ngày càng khó tiếp cận linh kiện cao cấp với mức giá hợp lý. Tình trạng này có nhiều điểm tương đồng với đợt khan hiếm GPU do đào tiền số từng xảy ra trước đây, nhưng lần này nguyên nhân xuất phát từ nhu cầu hạ tầng AI mang tính cấu trúc dài hạn hơn nhiều, khiến giới phân tích dự báo tình trạng khan hiếm khó có thể sớm chấm dứt trong ngắn hạn. Nếu xu hướng này tiếp tục kéo dài, nhiều khả năng thị trường sẽ chứng kiến sự phân hóa rõ rệt hơn giữa nhóm người dùng sẵn sàng chi trả mức giá cao để sở hữu phần cứng mới nhất, và nhóm đa số phải chuyển sang các giải pháp thay thế như dịch vụ chơi game đám mây hoặc GPU thế hệ cũ hơn. Người quan tâm tới các giải pháp máy tính hiệu quả năng lượng hơn có thể tham khảo thêm [NVIDIA RTX Spark, superchip laptop kết hợp CPU ARM và GPU Blackwell](/articles/nvidia-rtx-spark-superchip-laptop-arm-blackwell-2026.html), một hướng tiếp cận khác nhằm tối ưu hiệu năng trên một nền tảng phần cứng hợp nhất duy nhất.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/PFADKK76zfM/hqdefault.jpg" alt="ASUS ROG Matrix RTX 5090 phien ban custom cao cap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/PFADKK76zfM/maxresdefault.jpg" alt="ASUS ROG Matrix RTX 5090 phien ban custom cao cap" loading="lazy" width="1280" height="720">
   <figcaption>Các phiên bản custom cao cấp như ASUS ROG Matrix RTX 5090 có giá bán còn cao hơn nhiều so với giá niêm yết gốc. Nguồn: YouTube</figcaption>
 </figure>
 

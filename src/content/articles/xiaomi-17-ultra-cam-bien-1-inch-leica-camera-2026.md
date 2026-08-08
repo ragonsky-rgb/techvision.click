@@ -65,7 +65,7 @@ Trọng tâm của Xiaomi 17 Ultra nằm ở camera chính. Máy dùng cảm bi�
 Kích thước cảm biến này đưa 17 Ultra vào cùng đẳng cấp với các máy ảnh compact cao cấp như dòng Sony RX100. Khi chụp ở tiêu cự chính, lượng chi tiết mà máy giữ được rất ấn tượng, phóng to vào ảnh vẫn thấy rõ kết cấu của gạch, lá cây hay vải vóc, thứ mà đa số smartphone khác khó theo kịp. Dĩ nhiên, lợi thế cảm biến lớn cũng đi kèm thân máy dày và cụm camera nhô cao hơn, một sự đánh đổi mà người mê nhiếp ảnh thường sẵn sàng chấp nhận.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_ExVLsKYK4E/hqdefault.jpg" alt="Cụm camera Leica của Xiaomi 17 Ultra với cảm biến chính 1 inch và ống tele 200MP" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_ExVLsKYK4E/maxresdefault.jpg" alt="Cụm camera Leica của Xiaomi 17 Ultra với cảm biến chính 1 inch và ống tele 200MP" loading="lazy" width="1280" height="720">
   <figcaption>Cảm biến chính 1 inch cỡ lớn là điểm nhấn cạnh tranh của Xiaomi 17 Ultra. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Bên cạnh cảm biến chính, Xiaomi 17 Ultra còn có một ống tele 200MP
 Sự hợp tác với Leica không chỉ dừng ở phần cứng. Bản By Leica có thêm một chip chuyên dụng giúp ký và xác thực ảnh là ảnh thật, không phải do AI tạo ra, theo tiêu chuẩn của tổ chức Content Authenticity Initiative. Bản này còn có chế độ Leica essentials với các bộ lọc mô phỏng máy phim, một kiểu tái hiện màu của Leica M9 và một kiểu đen trắng mô phỏng Leica M3 dùng phim Monopan 50, những chi tiết nhắm thẳng vào người yêu nhiếp ảnh cổ điển.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/wqV6LqL1-hE/hqdefault.jpg" alt="Ảnh chụp thử từ Xiaomi 17 Ultra thể hiện màu Leica và độ chi tiết cảm biến 1 inch" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wqV6LqL1-hE/maxresdefault.jpg" alt="Ảnh chụp thử từ Xiaomi 17 Ultra thể hiện màu Leica và độ chi tiết cảm biến 1 inch" loading="lazy" width="1280" height="720">
   <figcaption>Màu Leica cùng cảm biến lớn cho ảnh tự nhiên, giàu chi tiết. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Dù được khen ngợi nhiều, Xiaomi 17 Ultra không phải không có đi�
 Xiaomi có kênh phân phối chính hãng tại Việt Nam, nên khả năng dòng 17 Ultra về nước là khá cao, dù giá bán và thời điểm cụ thể vẫn cần chờ hãng công bố. Các đời Ultra trước thuộc nhóm flagship đắt nhất của Xiaomi, và 17 Ultra nhiều khả năng cũng vậy, đặc biệt trong bối cảnh giá linh kiện tăng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/qzz8uYmOSpk/hqdefault.jpg" alt="Xiaomi 17 Ultra sau thời gian dùng dài đánh giá camera và pin" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qzz8uYmOSpk/maxresdefault.jpg" alt="Xiaomi 17 Ultra sau thời gian dùng dài đánh giá camera và pin" loading="lazy" width="1280" height="720">
   <figcaption>Sau thời gian trải nghiệm, 17 Ultra được đánh giá cao ở chất ảnh và độ hoàn thiện. Nguồn: YouTube</figcaption>
 </figure>
 

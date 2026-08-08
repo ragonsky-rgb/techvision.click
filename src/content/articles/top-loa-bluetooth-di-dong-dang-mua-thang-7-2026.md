@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-03T15:00:00+07:00"
 dateModified: "2026-07-03T15:00:00+07:00"
 deck: "Thị trường loa bluetooth di động tháng 7/2026 có nhiều lựa chọn đáng chú ý ở mọi phân khúc giá, từ mẫu công suất lớn như JBL Charge 6, nhỏ gọn bền bỉ như JBL Flip 7 cho tới lựa chọn giá phải chăng như Sony SRS-XB100. Bài viết tổng hợp nhanh để người mua dễ dàng so sánh trước khi quyết định."
-heroImage: "https://i.ytimg.com/vi/C1GdU5tq7aA/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/C1GdU5tq7aA/maxresdefault.jpg"
 heroAlt: "Top loa bluetooth di dong dang mua thang 7 2026"
 heroCaption: "Thị trường loa bluetooth di động tháng 7/2026 có nhiều lựa chọn đa dạng cho từng nhu cầu sử dụng. Nguồn: YouTube"
 tldr: "Tháng 7/2026, các mẫu <strong>loa bluetooth di động</strong> đáng cân nhắc gồm: <strong>JBL Charge 6</strong> (công suất 45W, pin 28 giờ, kiêm sạc dự phòng), <strong>JBL Flip 7</strong> (nhỏ gọn, bền bỉ, hỗ trợ Auracast ghép nhiều loa) và <strong>Sony SRS-XB100</strong> (giá dưới 60 USD, âm thanh tốt trong tầm giá). Lựa chọn phù hợp tùy thuộc vào nhu cầu công suất, độ bền và ngân sách của từng người dùng."
@@ -65,7 +65,7 @@ JBL Charge 6 tiếp tục là lựa chọn hàng đầu trong phân khúc loa bl
 Với người mới tìm hiểu về loa bluetooth di động và chưa rõ nên chọn tiêu chí nào là quan trọng nhất, bài viết [cách chọn loa bluetooth di động năm 2026](/articles/cach-chon-loa-bluetooth-di-dong-2026.html) cung cấp đầy đủ các yếu tố cần cân nhắc, từ công suất, chuẩn kháng nước cho tới thời lượng pin phù hợp nhu cầu sử dụng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/o4JnvdhHFoE/hqdefault.jpg" alt="JBL Flip 7 danh gia moi nhat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/o4JnvdhHFoE/maxresdefault.jpg" alt="JBL Flip 7 danh gia moi nhat 2026" loading="lazy" width="1280" height="720">
   <figcaption>JBL Flip 7 nổi bật với thiết kế nhỏ gọn nhưng vẫn đảm bảo độ bền cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -74,14 +74,14 @@ Với người mới tìm hiểu về loa bluetooth di động và chưa rõ nê
 JBL Flip 7 là lựa chọn nhỏ gọn hơn trong dòng sản phẩm JBL, nổi bật với khả năng hỗ trợ Auracast, tính năng Bluetooth LE Audio mới cho phép ghép nhiều loa JBL cùng hỗ trợ công nghệ này lại với nhau để phát nhạc đồng bộ, tạo hiệu ứng âm thanh nổi hoặc tăng cường âm lượng cho không gian rộng hơn khi cần. Sản phẩm vẫn giữ vững độ bền đặc trưng của dòng Flip qua nhiều thế hệ, cùng thời lượng pin 14 giờ, có thể kéo dài thêm 2 giờ nhờ tính năng Playtime Boost.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/dUVfJOrwbLs/hqdefault.jpg" alt="Sony SRS-XB100 danh gia chi tiet 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/dUVfJOrwbLs/sddefault.jpg" alt="Sony SRS-XB100 danh gia chi tiet 2026" loading="lazy" width="640" height="480">
   <figcaption>Sony SRS-XB100 mang lại chất lượng âm thanh tốt với mức giá dưới 60 USD. Nguồn: YouTube</figcaption>
 </figure>
 
 Với người ưu tiên tiết kiệm ngân sách, Sony SRS-XB100 là lựa chọn đáng cân nhắc nhất trong nhóm giá phải chăng, đạt chuẩn kháng nước IP67, thời lượng pin khoảng 16 giờ và chất lượng âm thanh được đánh giá cải thiện đáng kể so với thế hệ trước cùng tầm giá, phù hợp người mới bắt đầu tìm hiểu về loa bluetooth di động hoặc cần thêm một chiếc loa dự phòng nhỏ gọn, dễ mang theo. Người đã sở hữu loa JBL Go 5 mini và muốn tìm hiểu thêm về các lựa chọn công suất lớn hơn trong cùng hệ sinh thái thương hiệu có thể tham khảo thêm bài viết [JBL Go 5: loa bluetooth mini nâng cấp](/articles/jbl-go-5-loa-bluetooth-mini-nang-cap-2026.html) để có cái nhìn tổng quan hơn về dải sản phẩm loa di động của JBL ở nhiều phân khúc giá khác nhau.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/m95Ei-VnF5E/hqdefault.jpg" alt="Sony SRS-XB100 trai nghiem thuc te 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/m95Ei-VnF5E/maxresdefault.jpg" alt="Sony SRS-XB100 trai nghiem thuc te 2026" loading="lazy" width="1280" height="720">
   <figcaption>Sony SRS-XB100 phù hợp người dùng ưu tiên ngân sách tiết kiệm nhưng vẫn cần chất lượng âm thanh ổn định. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -74,7 +74,7 @@ Với người dùng cuối, sự phân tầng này diễn ra âm thầm phía s
 Điểm gây chú ý nhất của AFM 3 không nằm ở thông số mà ở đối tác. Apple hé lộ hợp tác với Google, trong đó mô hình Gemini được cho là tham gia vào một số phần của chiến lược AI, bao gồm định hướng cho Siri thế hệ mới. Đây là bước đi thực dụng đáng chú ý từ một công ty vốn nổi tiếng muốn tự chủ mọi công nghệ lõi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/cUbrz2W-cBM/hqdefault.jpg" alt="Apple Foundation Model chạy cục bộ trên thiết bị" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/cUbrz2W-cBM/maxresdefault.jpg" alt="Apple Foundation Model chạy cục bộ trên thiết bị" loading="lazy" width="1280" height="720">
   <figcaption>AFM 3 Core chạy trực tiếp trên máy, giúp xử lý AI nhanh và bảo mật hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Việc dựa vào Gemini cho những phần nặng nhất cho thấy Apple chấ
 Bên cạnh mô hình, Apple cũng mở cánh cửa cho cộng đồng phát triển thông qua Foundation Models framework. Bộ công cụ này cho phép lập trình viên khai thác trực tiếp khả năng AI chạy trên thiết bị mà không tốn chi phí gọi API đám mây, một lợi thế lớn về cả chi phí lẫn quyền riêng tư.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Xrv8m_EHCbg/hqdefault.jpg" alt="Foundation Models framework cho lập trình viên trên nền tảng Apple" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Xrv8m_EHCbg/maxresdefault.jpg" alt="Foundation Models framework cho lập trình viên trên nền tảng Apple" loading="lazy" width="1280" height="720">
   <figcaption>Foundation Models framework giúp ứng dụng tích hợp AI xử lý cục bộ, không tốn phí gọi API. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Bên cạnh mô hình, Apple cũng mở cánh cửa cho cộng đồng phát tri
 ## Apple đang tính toán điều gì
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ADLeo9nrSdQ/hqdefault.jpg" alt="Chiến lược AI của Apple với Siri thế hệ mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ADLeo9nrSdQ/maxresdefault.jpg" alt="Chiến lược AI của Apple với Siri thế hệ mới" loading="lazy" width="1280" height="720">
   <figcaption>Siri thế hệ mới được cho là hưởng lợi từ sự kết hợp giữa mô hình của Apple và đối tác. Nguồn: YouTube</figcaption>
 </figure>
 

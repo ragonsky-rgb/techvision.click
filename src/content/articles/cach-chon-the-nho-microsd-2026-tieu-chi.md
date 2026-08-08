@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-07-06T03:20:00+07:00"
 dateModified: "2026-07-06T03:20:00+07:00"
 deck: "Thẻ nhớ microSD vẫn là phụ kiện thiết yếu cho điện thoại, máy chơi game cầm tay, máy ảnh và flycam, nhưng thị trường tràn lan hàng giả kém chất lượng khiến người mua dễ bị lừa. Bài viết tổng hợp 5 tiêu chí quan trọng cần cân nhắc trước khi chọn mua một chiếc thẻ nhớ microSD phù hợp nhu cầu sử dụng."
-heroImage: "https://i.ytimg.com/vi/kgjI0b5NIEI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/kgjI0b5NIEI/maxresdefault.jpg"
 heroAlt: "Cach chon the nho microSD 2026 tieu chi"
 heroCaption: "Chọn thẻ nhớ microSD phù hợp cần cân nhắc dung lượng, tốc độ đọc ghi và nguồn gốc chính hãng. Nguồn: YouTube"
 tldr: "Khi chọn mua thẻ nhớ microSD, cần chú ý 5 tiêu chí chính: <strong>dung lượng</strong> phù hợp nhu cầu lưu trữ, <strong>tốc độ đọc ghi</strong> quyết định thời gian sao chép file, <strong>chuẩn tốc độ ứng dụng A1/A2</strong> quan trọng nếu dùng để cài ứng dụng hoặc game, <strong>độ bền</strong> chống nước, chống sốc, chống từ tính, và <strong>nguồn gốc chính hãng</strong> để tránh mua phải hàng giả tràn lan trên thị trường."
@@ -72,7 +72,7 @@ Tốc độ đọc ghi ảnh hưởng trực tiếp tới thời gian sao chép 
 Chuẩn UHS (Ultra High Speed) và Video Speed Class cũng là những chỉ số quan trọng cần chú ý bên cạnh tốc độ đọc ghi tối đa, vì chúng quy định tốc độ ghi tối thiểu ổn định, đảm bảo quay video không bị ngắt quãng hoặc mất khung hình giữa chừng, đặc biệt quan trọng khi quay video độ phân giải 4K hoặc cao hơn trong thời gian dài liên tục.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/syu0AmacLgw/hqdefault.jpg" alt="Giai thich cac chuan toc do the nho SD" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/syu0AmacLgw/sddefault.jpg" alt="Giai thich cac chuan toc do the nho SD" loading="lazy" width="640" height="480">
   <figcaption>Giải thích chi tiết các chuẩn tốc độ Class, UHS và Video Speed Class trên thẻ nhớ SD. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Với người dùng đang sở hữu máy chơi game cầm tay, có thể tham 
 Với người dùng máy ảnh hành động, flycam hoặc thường xuyên di chuyển ngoài trời, nên ưu tiên thẻ nhớ có khả năng chống nước, chống sốc, chống từ tính và chống tia X, giúp bảo vệ dữ liệu tốt hơn trong điều kiện sử dụng khắc nghiệt như mưa, va đập hoặc kiểm tra an ninh sân bay khi di chuyển. Đây là yếu tố đặc biệt quan trọng với các chuyến đi dài ngày, khi việc mất dữ liệu ảnh và video kỷ niệm là điều không thể khắc phục được.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/iwRE77wPHJg/hqdefault.jpg" alt="The nho microSD tot nhat cho flycam DJI camera" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/iwRE77wPHJg/maxresdefault.jpg" alt="The nho microSD tot nhat cho flycam DJI camera" loading="lazy" width="1280" height="720">
   <figcaption>Gợi ý thẻ nhớ microSD tốt nhất cho flycam DJI và các dòng máy ảnh quay video chuyên nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Với người dùng máy ảnh hành động, flycam hoặc thường xuyên di
 Thị trường thẻ nhớ microSD hiện nay tràn lan hàng giả với dung lượng ảo, tức là thẻ nhớ hiển thị dung lượng lớn trên hệ thống nhưng thực tế chỉ lưu trữ được một phần nhỏ trước khi dữ liệu bắt đầu bị ghi đè hoặc mất mát. Người mua nên ưu tiên mua tại đại lý ủy quyền chính hãng, kiểm tra kỹ bao bì và tem chống hàng giả, đồng thời có thể sử dụng phần mềm chuyên dụng để kiểm tra dung lượng thực tế ngay sau khi mua về trước khi lưu trữ dữ liệu quan trọng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/h2cFsB7yRWw/hqdefault.jpg" alt="Canh bao the nho microSD hang gia dung luong ao" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/h2cFsB7yRWw/maxresdefault.jpg" alt="Canh bao the nho microSD hang gia dung luong ao" loading="lazy" width="1280" height="720">
   <figcaption>Cảnh báo về tình trạng thẻ nhớ giả tràn lan, dung lượng ảo không đúng như quảng cáo trên bao bì. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -73,7 +73,7 @@ Nhược điểm duy nhất của SSD là giá thành trên mỗi GB dung lượ
 Chuẩn kết nối là yếu tố quyết định trực tiếp tới tốc độ thực tế khi sử dụng ổ cứng di động. USB-C theo chuẩn USB 3.2 Gen 2 trở lên hiện là phổ biến nhất, tương thích tốt với hầu hết laptop và MacBook đời mới, cho tốc độ lý thuyết lên tới 1000-2000 MB/s. Người dùng cần lưu ý kiểm tra cáp đi kèm sản phẩm, vì cáp kém chất lượng có thể làm giảm đáng kể tốc độ truyền tải thực tế so với thông số quảng cáo.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/fhUjGBRULqg/hqdefault.jpg" alt="SanDisk Extreme Pro Portable SSD chuan USB-C toc do cao" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/fhUjGBRULqg/maxresdefault.jpg" alt="SanDisk Extreme Pro Portable SSD chuan USB-C toc do cao" loading="lazy" width="1280" height="720">
   <figcaption>SanDisk Extreme Pro, một trong những ổ SSD di động chuẩn USB-C tốc độ cao đáng chọn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Về dung lượng, người dùng phổ thông chỉ cần lưu trữ tài li�
 Với người thường xuyên di chuyển, mang ổ cứng ra công trường, đi công tác hoặc làm việc ngoài trời, nên ưu tiên các mẫu có chuẩn chống nước, chống bụi IP65 trở lên và khả năng chịu rơi từ độ cao 2-3 mét mà không hỏng dữ liệu. Đây cũng là lý do các dòng SSD bền như Samsung T7 Shield hay Crucial X10 Pro được nhiều người làm sáng tạo nội dung lựa chọn, dù giá bán thường cao hơn các phiên bản phổ thông cùng dung lượng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ePus8xHecwo/hqdefault.jpg" alt="O cung SSD di dong sieu ben cho nha dung phim chong va dap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ePus8xHecwo/maxresdefault.jpg" alt="O cung SSD di dong sieu ben cho nha dung phim chong va dap" loading="lazy" width="1280" height="720">
   <figcaption>Một số SSD di động được thiết kế đặc biệt bền, chịu va đập tốt cho dân dựng phim. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Về thương hiệu, các tên tuổi lâu năm trong ngành lưu trữ như Sa
 Ngoài việc chọn ổ cứng di động phù hợp, người dùng cũng nên kết hợp quản lý dung lượng thiết bị hợp lý, ví dụ tham khảo thêm hướng dẫn [cách giải phóng bộ nhớ điện thoại khi đầy](/articles/cach-giai-phong-bo-nho-dien-thoai-day-iphone-android-2026.html) để giảm tải cho thiết bị chính, đồng thời cân nhắc [lượng RAM cần thiết trên điện thoại](/articles/dien-thoai-can-bao-nhieu-ram-la-du-2026.html) khi nâng cấp thiết bị mới, tránh đầu tư dư thừa không cần thiết trong bối cảnh giá linh kiện nhớ đang biến động mạnh trên toàn cầu, tương tự tình trạng được phản ánh trong các đợt [tăng giá laptop do khủng hoảng RAM AI](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html) gần đây.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/n7U8vCeLni8/hqdefault.jpg" alt="Bao quan o cung di dong SSD dung cach keo dai tuoi tho" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/n7U8vCeLni8/maxresdefault.jpg" alt="Bao quan o cung di dong SSD dung cach keo dai tuoi tho" loading="lazy" width="1280" height="720">
   <figcaption>Bảo quản đúng cách giúp ổ cứng di động SSD hoạt động bền lâu hơn. Nguồn: YouTube</figcaption>
 </figure>
 

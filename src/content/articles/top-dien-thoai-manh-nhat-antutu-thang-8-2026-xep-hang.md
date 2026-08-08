@@ -66,7 +66,7 @@ AnTuTu là bài test tổng hợp, cộng điểm từ bốn hạng mục chính
 Điểm AnTuTu cũng phản ánh sức mạnh tối đa trong điều kiện lý tưởng, khi máy được chạy hết công suất trong vài phút. Trên thực tế sử dụng, hiệu năng còn phụ thuộc vào khả năng duy trì xung nhịp lâu dài, tối ưu phần mềm và nhiệt độ môi trường. Đây là lý do một số máy mỏng nhẹ có điểm cao nhưng lại nóng và giảm xung nhanh khi chơi game thật, còn máy gaming dày dặn giữ hiệu năng ổn định hơn nhiều dù điểm không chênh quá lớn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/x9je-RPIYBM/hqdefault.jpg" alt="iQOO 15 Ultra dẫn đầu bảng xếp hạng AnTuTu tháng 8 2026 chip Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/x9je-RPIYBM/maxresdefault.jpg" alt="iQOO 15 Ultra dẫn đầu bảng xếp hạng AnTuTu tháng 8 2026 chip Snapdragon 8 Elite Gen 5" loading="lazy" width="1280" height="720">
   <figcaption>iQOO 15 Ultra tiếp tục dẫn đầu nhờ chip Snapdragon 8 Elite Gen 5 và tản nhiệt cỡ lớn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ AnTuTu là bài test tổng hợp, cộng điểm từ bốn hạng mục chính
 Bám sát ngay phía sau là Red Magic, đại diện tiêu biểu cho nhóm điện thoại gaming vốn luôn có mặt ở đỉnh bảng xếp hạng AnTuTu. Lợi thế của dòng máy này nằm ở thiết kế đặt hiệu năng lên hàng đầu, với buồng hơi tản nhiệt lớn và quạt tản nhiệt tích hợp bên trong thân máy. Nhờ chủ động thổi khí làm mát, chip gần như không bị giảm xung trong suốt quá trình test, cho ra điểm số rất ổn định và thường xuyên vượt mốc 4 triệu điểm trên AnTuTu v11. Phân tích sâu hơn về dòng máy này có trong bài [Red Magic 11S Pro+ vô địch AnTuTu điện thoại gaming](/articles/redmagic-11s-pro-plus-vo-dich-antutu-dien-thoai-gaming-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/j2Bvy7tSX5E/hqdefault.jpg" alt="Red Magic điện thoại gaming top 2 AnTuTu tháng 8 2026 quạt tản nhiệt tích hợp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/j2Bvy7tSX5E/maxresdefault.jpg" alt="Red Magic điện thoại gaming top 2 AnTuTu tháng 8 2026 quạt tản nhiệt tích hợp" loading="lazy" width="1280" height="720">
   <figcaption>Red Magic giữ vị trí thứ hai nhờ quạt tản nhiệt tích hợp giúp chip không giảm xung khi test. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Tuy vậy, cần nhìn nhận rằng sức mạnh của điện thoại gaming �
 Phía sau hai cái tên dẫn đầu, phần còn lại của top đầu tháng 8/2026 là cuộc cạnh tranh sít sao giữa các flagship Trung Quốc mới ra mắt, tất cả đều dùng chip Snapdragon 8 Elite Gen 5. Xiaomi 17 Ultra với cảm biến chính 1 inch hợp tác Leica là đại diện đáng chú ý của Xiaomi, trong khi Vivo X300 Pro mang ống kính Zeiss và chip đồ họa tối ưu riêng cũng bám sát nhóm đầu. Oppo góp mặt với Find X9 Ultra, còn Realme GT8 Pro với ống kính tháo rời hợp tác Ricoh là gương mặt gaming đáng gờm không kém các máy chuyên dụng. Điểm chung của nhóm này là RAM và bộ nhớ chuẩn cao nhất, khác biệt chủ yếu đến từ giải pháp tản nhiệt và mức độ tối ưu phần mềm của từng hãng, nên chênh lệch điểm giữa các vị trí trong nhóm thường chỉ vài phần trăm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/J50fi49epaM/hqdefault.jpg" alt="Nhóm flagship Snapdragon 8 Elite Gen 5 cạnh tranh trong top AnTuTu tháng 8 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/J50fi49epaM/maxresdefault.jpg" alt="Nhóm flagship Snapdragon 8 Elite Gen 5 cạnh tranh trong top AnTuTu tháng 8 2026" loading="lazy" width="1280" height="720">
   <figcaption>Phần còn lại của top đầu là cuộc đua giữa các flagship dùng chung chip, điểm số sít sao. Nguồn: YouTube</figcaption>
 </figure>
 

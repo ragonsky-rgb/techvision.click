@@ -68,7 +68,7 @@ Tấm vé của TSW không đến từ riêng một trận đấu. Suất dự W
 Riêng ở vòng Thụy Sĩ Split 3, TSW đi một mạch không thua: hạ Fukuoka SoftBank HAWKS Gaming 2-0, thắng MVKE 2-0, rồi khép lại bằng loạt Bo5 thắng trắng 3-0 trước CTBC Flying Oyster, một trong những đối thủ mạnh nhất khu vực. Chuỗi này nối dài mạch thắng của đội lên 20 trận liên tiếp tại LCP. Ở trận quyết định, đi rừng Hizto được bầu chọn MVP nhờ khả năng áp đặt nhịp độ từ giai đoạn đi đường. Việc chốt vé sớm giúp TSW giảm áp lực thành tích ở phần còn lại của giai đoạn và có thêm thời gian đọc meta trước sân khấu quốc tế, một lợi thế không nhỏ khi các đội cùng trình độ thường phân định nhau ở khâu chuẩn bị.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/gkyoEUJ_vME/hqdefault.jpg" alt="TSW thi dau vong Thuy Si LCP 2026 Split 3 gianh ve Worlds 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gkyoEUJ_vME/maxresdefault.jpg" alt="TSW thi dau vong Thuy Si LCP 2026 Split 3 gianh ve Worlds 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ở thể thức Thụy Sĩ, mỗi trận đều mang tính quyết định và TSW đã chốt vé bằng chiến thắng 3-0. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Với người hâm mộ trong nước, tấm vé của TSW mang ý nghĩa vư�
 Cột mốc này cũng có giá trị về mặt tinh thần và truyền thông. Sau một mùa giải nhiều biến động, một chiến thắng cách biệt để chốt vé giúp cộng đồng có lý do phấn khích trở lại, kéo theo lượng theo dõi và thảo luận tăng lên. Nếu bạn muốn nắm rõ bối cảnh giải đấu và cửa đi tiếp của các đội, có thể xem lại [thể thức Thụy Sĩ và tình hình LCP 2026 Split 3](/articles/lcp-2026-split-3-swiss-stage-lich-the-thuc-gam-esports.html) để hiểu vì sao mỗi trận đều căng thẳng tới vậy.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-u_V5GVXeGI/hqdefault.jpg" alt="Nguoi ham mo LMHT Viet Nam co dai dien tai Worlds 2026 nho TSW" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-u_V5GVXeGI/maxresdefault.jpg" alt="Nguoi ham mo LMHT Viet Nam co dai dien tai Worlds 2026 nho TSW" loading="lazy" width="1280" height="720">
   <figcaption>Tấm vé của TSW đưa LMHT Việt Nam trở lại sân khấu quốc tế lớn nhất trong năm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Cột mốc này cũng có giá trị về mặt tinh thần và truyền thông
 Bên cạnh TSW, Việt Nam còn hai đại diện khác đang thi đấu tại LCP 2026 Split 3 là GAM Esports và MVK Esports. GAM vốn là cái tên giàu truyền thống và luôn nhận được sự chú ý lớn từ khán giả trong nước, trong khi MVK Esports là gương mặt cần chứng minh bản lĩnh ở đấu trường khu vực. Với việc LCP Split 3 phân bổ ba suất Worlds và mới có một tấm vé được TSW lấp đầy, cả hai đội Việt còn lại vẫn giữ nguyên cơ hội nếu duy trì phong độ tốt ở các vòng tiếp theo.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XKjQ2XVjsOs/hqdefault.jpg" alt="GAM Esports va MVK Esports con co hoi gianh ve Worlds 2026 tai LCP Split 3" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XKjQ2XVjsOs/maxresdefault.jpg" alt="GAM Esports va MVK Esports con co hoi gianh ve Worlds 2026 tai LCP Split 3" loading="lazy" width="1280" height="720">
   <figcaption>Ranh giới đi tiếp và bị loại ở vòng Thụy Sĩ rất mong manh, nên các trận của GAM và MVK đều đáng chú ý. Nguồn: YouTube</figcaption>
 </figure>
 

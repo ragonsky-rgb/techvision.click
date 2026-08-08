@@ -76,7 +76,7 @@ Cả Kyo và Kinet đều dùng pin LFP dung lượng 1,5 kWh dạng tháo rời
 Điểm nhấn của hệ sinh thái này là khả năng đổi pin tại các trạm công cộng của VinFast. Thay vì chờ sạc đầy, người dùng có thể ghé trạm để đổi lấy viên pin đã sạc sẵn, rút ngắn thời gian dừng nghỉ. Bên cạnh đó, xe vẫn đi kèm bộ sạc để tự sạc tại nhà, mang lại sự linh hoạt cho nhiều hoàn cảnh sử dụng khác nhau. Cách tiếp cận kết hợp đổi pin và sạc tại nhà giúp giải quyết nỗi lo phạm vi, vốn là rào cản lớn với người mới chuyển sang xe điện.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mUTOBDoXLJI/hqdefault.jpg" alt="Phan tich hai xe may dien VinFast Kyo va Kinet" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mUTOBDoXLJI/maxresdefault.jpg" alt="Phan tich hai xe may dien VinFast Kyo va Kinet" loading="lazy" width="1280" height="720">
   <figcaption>Kyo và Kinet mang thiết kế hiện đại, tối ưu cho đô thị. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về quãng đường, VinFast công bố Kyo có thể đi tối đa khoảng 1
 Cần lưu ý rằng phạm vi thực tế luôn phụ thuộc vào cách chạy, tải trọng, địa hình và điều kiện thời tiết. Người dùng đi nhiều trong giờ cao điểm, thường xuyên tăng tốc hoặc chở nặng sẽ thấy quãng đường thực tế ngắn hơn con số công bố. So với các mẫu xe điện bốn bánh của hãng như [VinFast VF2 giá 188 triệu đồng](/articles/vinfast-vf2-ra-mat-188-trieu-dong-xe-dien-mini-2026.html), bộ đôi xe máy điện này nhắm tới nhu cầu di chuyển cá nhân gọn nhẹ và chi phí thấp hơn nhiều, phù hợp với đa số người dân đô thị.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/nZgtnQf646w/hqdefault.jpg" alt="Trai nghiem thuc te VinFast Kinet va Kyo tren duong pho" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nZgtnQf646w/maxresdefault.jpg" alt="Trai nghiem thuc te VinFast Kinet va Kyo tren duong pho" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế VinFast Kinet và Kyo trên đường phố. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một trong những lý do khiến xe máy điện ngày càng được ưa chu�
 Dù vậy, vẫn có những điểm cần cân nhắc trước khi xuống tiền. Người dùng nên kiểm tra mật độ trạm đổi pin gần nơi ở và nơi làm việc, vì hệ sinh thái đổi pin chỉ phát huy hiệu quả khi trạm đủ dày. Ngoài ra, cần tính tổng chi phí thuê pin dài hạn so với mua đứt, cũng như thời gian bảo hành xe và pin. Với người đi quãng ngắn trong nội thành, bài toán chi phí thường nghiêng về lợi thế của xe điện.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Ur7J3FjSxqw/hqdefault.jpg" alt="Lai thu VinFast Kinet va Kyo tren duong thuc te" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ur7J3FjSxqw/sddefault.jpg" alt="Lai thu VinFast Kinet va Kyo tren duong thuc te" loading="lazy" width="640" height="480">
   <figcaption>Lái thử thực tế giúp cảm nhận rõ khả năng vận hành của Kyo và Kinet. Nguồn: YouTube</figcaption>
 </figure>
 

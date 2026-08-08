@@ -104,7 +104,7 @@ Lãnh đạo Qualcomm mô tả đây là bước chuẩn bị cho giai đoạn t
 Trước mắt, AI200 và AI250 không phải sản phẩm người dùng cuối có thể mua, mà là phần cứng dành cho các nhà vận hành đám mây và trung tâm dữ liệu. Nhưng tác động sẽ chảy xuống theo thời gian. Mỗi dịch vụ AI mà người Việt đang dùng hằng ngày, từ chatbot, công cụ dịch, trợ lý ảo tới các tính năng AI trong ứng dụng, đều chạy trên hạ tầng suy luận như thế này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-fKmLOTKipY/hqdefault.jpg" alt="Cổ phiếu Qualcomm tăng mạnh sau công bố chip AI data center" loading="lazy" width="480" height="360">
+  <img decoding="async" src="https://i.ytimg.com/vi/-fKmLOTKipY/sddefault.jpg" alt="Cổ phiếu Qualcomm tăng mạnh sau công bố chip AI data center" loading="lazy" width="640" height="480">
   <figcaption>Cổ phiếu Qualcomm bật tăng mạnh ngay khi hãng công bố tham vọng data center. Nguồn: YouTube</figcaption>
 </figure>
 

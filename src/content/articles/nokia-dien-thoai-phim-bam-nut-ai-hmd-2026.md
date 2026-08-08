@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T21:10:00+07:00"
 dateModified: "2026-07-13T21:10:00+07:00"
 deck: "HMD vừa lặng lẽ trình làng bốn mẫu điện thoại phím bấm mang thương hiệu Nokia gồm Nokia 200 4G, 210 4G, 215 4G 2nd Edition và 235 4G 2nd Edition, điểm chung là đều có một nút bấm vật lý riêng để gọi trợ lý AI. Trợ lý này xử lý các tác vụ giọng nói cơ bản như bật đèn pin, mở camera, đặt báo thức hay trả lời câu hỏi đơn giản, miễn phí trong 180 ngày đầu rồi chuyển sang thu phí thuê bao vài USD mỗi năm. Ý tưởng gắn AI lên máy cục gạch giá chỉ từ khoảng 29 USD đang gây tranh cãi, khi không ít người dùng cho rằng nó thừa thãi."
-heroImage: "https://i.ytimg.com/vi/lFFRHRyEEJU/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/lFFRHRyEEJU/maxresdefault.jpg"
 heroAlt: "HMD ra mắt 4 điện thoại phím bấm Nokia gắn nút trợ lý AI riêng năm 2026"
 heroCaption: "Bốn mẫu Nokia phím bấm mới đều có một nút vật lý dành riêng cho trợ lý AI. Nguồn: YouTube"
 tldr: "HMD ra bốn điện thoại phím bấm <strong>Nokia 200 4G, 210 4G, 215 4G 2nd Edition và 235 4G 2nd Edition</strong>, tất cả đều có một <strong>nút bấm vật lý riêng gọi trợ lý AI</strong>. Trợ lý xử lý tác vụ giọng nói cơ bản: bật đèn pin, mở camera, đặt nhắc nhở, tạo báo thức, gọi điện, trả lời câu hỏi đơn giản, gợi ý công thức nấu ăn và vài câu ngoại ngữ. Dịch vụ <strong>miễn phí 180 ngày</strong> đầu, sau đó thu phí thuê bao khoảng <strong>3,99 USD/năm</strong> ở EU và <strong>2,99 USD/năm</strong> ở nơi khác. Máy chạy hệ điều hành S30+, pin rời 1.450mAh, hai SIM, FM, Bluetooth 5.0, jack 3.5mm và sạc USB-C. Giá khởi điểm khoảng <strong>29 USD</strong>. Nhiều người dùng đánh giá nút AI là thừa thãi trên một chiếc máy cục gạch."
@@ -75,7 +75,7 @@ Dù vậy, chính sự đơn giản đó cũng là lý do khiến nhiều ngư�
 Vấn đề gai góc nhất không nằm ở bản thân nút AI mà ở cách HMD tính tiền cho nó. Trợ lý chỉ miễn phí trong 180 ngày đầu. Hết thời gian dùng thử, người dùng phải trả phí thuê bao để tiếp tục dùng, với mức được ghi nhận khoảng 3,99 USD mỗi năm ở khu vực EU và 2,99 USD mỗi năm ở các thị trường khác.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/aLBQZcu7swY/hqdefault.jpg" alt="Trợ lý AI được đưa xuống dòng điện thoại phím bấm Nokia" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/aLBQZcu7swY/maxresdefault.jpg" alt="Trợ lý AI được đưa xuống dòng điện thoại phím bấm Nokia" loading="lazy" width="1280" height="720">
   <figcaption>HMD hợp tác với đối tác AI để đưa trợ lý giọng nói lên toàn bộ dòng máy phím bấm Nokia. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Con số vài USD mỗi năm nghe không lớn, nhưng đặt trong bối cảnh
 Bỏ qua nút AI, bốn mẫu Nokia mới vẫn giữ đúng công thức đã làm nên tên tuổi dòng feature phone. Cả bốn chạy hệ điều hành S30+, dùng pin rời 1.450mAh có thể thay nóng, hỗ trợ hai SIM, FM radio, Bluetooth 5.0, jack tai nghe 3.5mm và cổng sạc USB-C. Đây là những yếu tố mà người dùng máy cục gạch quan tâm hàng đầu: pin bền, dễ thay, kết nối cơ bản đầy đủ và độ bền cao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FlfihCFQpLQ/hqdefault.jpg" alt="Điện thoại phím bấm Nokia 2026 với pin bền và thiết kế chắc chắn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FlfihCFQpLQ/maxresdefault.jpg" alt="Điện thoại phím bấm Nokia 2026 với pin bền và thiết kế chắc chắn" loading="lazy" width="1280" height="720">
   <figcaption>Pin dùng lâu và độ bền vẫn là thế mạnh cốt lõi của dòng điện thoại phím bấm Nokia. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Về màn hình, Nokia 215 4G 2nd Edition và 235 4G 2nd Edition dùng tấm n�
 Trong khi thị trường smartphone toàn cầu chững lại, như đã thấy qua [số liệu xuất xưởng quý 2/2026 thấp nhất 13 năm](/articles/thi-truong-smartphone-quy-2-2026-xuat-xuong-thap-nhat-13-nam.html), điện thoại phím bấm vẫn giữ một chỗ đứng bền bỉ đáng ngạc nhiên. Ở nhiều thị trường mới nổi, trong đó có Việt Nam và nhất là khu vực nông thôn, máy cục gạch tiếp tục được ưa chuộng làm máy phụ, máy cho người lớn tuổi hoặc thiết bị dự phòng nhờ giá rẻ và pin trâu. Với HMD, đây là phân khúc nhỏ nhưng ổn định và ít cạnh tranh trực tiếp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-9ersXX1sRk/hqdefault.jpg" alt="Sự trở lại của dòng điện thoại phím bấm Nokia trong năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-9ersXX1sRk/maxresdefault.jpg" alt="Sự trở lại của dòng điện thoại phím bấm Nokia trong năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Điện thoại phím bấm vẫn có tệp khách hàng riêng nhờ giá rẻ, gọn nhẹ và độ bền cao. Nguồn: YouTube</figcaption>
 </figure>
 

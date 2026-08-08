@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-02T19:00:00+07:00"
 dateModified: "2026-07-02T19:00:00+07:00"
 deck: "Google vừa chính thức ra mắt Fitbit Air, mẫu vòng theo dõi sức khỏe không màn hình đầu tiên của hãng, nhắm thẳng vào phân khúc mà Whoop đang thống trị. Sản phẩm gây chú ý nhờ mức giá chỉ 99,99 USD và không bắt buộc người dùng phải trả phí thuê bao hằng tháng để sử dụng đầy đủ tính năng cơ bản."
-heroImage: "https://i.ytimg.com/vi/e_uSpR_4hmg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/e_uSpR_4hmg/maxresdefault.jpg"
 heroAlt: "Google Fitbit Air vong suc khoe khong man hinh 2026"
 heroCaption: "Google Fitbit Air, vòng theo dõi sức khỏe không màn hình giá 99,99 USD. Nguồn: YouTube"
 tldr: "<strong>Google Fitbit Air</strong> là vòng theo dõi sức khỏe hình hạt đậu, không màn hình, dày chỉ <strong>8,3mm</strong> và nặng <strong>5,2g</strong>. Thiết bị theo dõi nhịp tim 24/7, nồng độ oxy máu SpO2, các giai đoạn giấc ngủ, HRV và cảnh báo rung nhĩ tim (AFib). Pin dùng được tới <strong>7 ngày</strong>, sạc nhanh 5 phút dùng thêm một ngày. Giá bán khởi điểm <strong>99,99 USD</strong>, đi kèm 3 tháng dùng thử miễn phí Google Health Premium, sau đó tự động gia hạn <strong>9,99 USD/tháng</strong> nếu không hủy."
@@ -72,14 +72,14 @@ Về mặt thiết kế, Fitbit Air có hình dáng nhỏ gọn kiểu hạt đ�
 Về mặt cảm biến, Fitbit Air trang bị cảm biến quang học đo nhịp tim liên tục 24/7, cảm biến hồng ngoại và ánh sáng đỏ đo nồng độ oxy trong máu (SpO2), cảm biến nhiệt độ da theo dõi biến động thân nhiệt, cùng gia tốc kế ba trục, con quay hồi chuyển và mô-tơ rung. Thiết bị có khả năng theo dõi chi tiết các giai đoạn giấc ngủ, chỉ số biến thiên nhịp tim (HRV) và đưa ra cảnh báo khi phát hiện dấu hiệu rung nhĩ tim (AFib), một tính năng sức khỏe quan trọng thường chỉ có trên các thiết bị y tế chuyên dụng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/fF_Gk9v7GNU/hqdefault.jpg" alt="Fitbit Air theo doi giac ngu nhip tim toan dien 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/fF_Gk9v7GNU/maxresdefault.jpg" alt="Fitbit Air theo doi giac ngu nhip tim toan dien 2026" loading="lazy" width="1280" height="720">
   <figcaption>Fitbit Air theo dõi toàn diện các chỉ số sức khỏe mà không cần thao tác thủ công. Nguồn: YouTube</figcaption>
 </figure>
 
 Về thời lượng pin, thiết bị có thể sử dụng liên tục tới 7 ngày trên một lần sạc đầy, một con số ấn tượng với một thiết bị kích thước nhỏ gọn như vậy. Khi cần sạc gấp, người dùng chỉ cần cắm sạc nhanh trong 5 phút đã có thể dùng thêm trọn một ngày, giải quyết tốt tình huống quên sạc qua đêm mà vẫn cần theo dõi giấc ngủ ngay hôm sau.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ifZmGf7yr8g/hqdefault.jpg" alt="Fitbit Air trai nghiem thuc te nguoi khong the thao 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ifZmGf7yr8g/maxresdefault.jpg" alt="Fitbit Air trai nghiem thuc te nguoi khong the thao 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều người dùng không chuyên thể thao cũng đánh giá cao trải nghiệm sử dụng Fitbit Air hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Về thời lượng pin, thiết bị có thể sử dụng liên tục tới 7
 Với giá bán khởi điểm chỉ 99,99 USD, Fitbit Air rẻ hơn đáng kể so với chi phí sử dụng Whoop trong cùng một năm khi tính cả phí thuê bao bắt buộc, khiến sản phẩm của Google trở thành lựa chọn hấp dẫn về mặt tài chính cho người mới bắt đầu quan tâm tới việc theo dõi sức khỏe cá nhân. Nhiều đánh giá độc lập nhận định sự xuất hiện của Fitbit Air đã đặt Whoop vào thế phòng thủ, buộc công ty này phải nhanh chóng công bố kế hoạch bổ sung tính năng mới để giữ chân người dùng hiện tại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/y3Ozyj6a-O4/hqdefault.jpg" alt="Fitbit Air co danh cho van dong vien khong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/y3Ozyj6a-O4/hqdefault.jpg" alt="Fitbit Air co danh cho van dong vien khong 2026" loading="lazy" width="480" height="360">
   <figcaption>Fitbit Air được thử nghiệm với nhiều nhóm người dùng, từ vận động viên chuyên nghiệp tới người mới bắt đầu tập luyện. Nguồn: YouTube</figcaption>
 </figure>
 

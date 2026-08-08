@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-02T19:30:00+07:00"
 dateModified: "2026-07-02T19:30:00+07:00"
 deck: "OPPO vừa giới thiệu Bubble, phụ kiện màn hình AMOLED hình tròn gắn từ tính vào mặt sau điện thoại, cho phép người dùng selfie bằng camera chính chất lượng cao thay vì camera trước thông thường. Sản phẩm đi kèm dòng Reno 16 mới, hiện chỉ hỗ trợ một số dòng máy OPPO nhất định."
-heroImage: "https://i.ytimg.com/vi/amowhx0UHPE/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/amowhx0UHPE/maxresdefault.jpg"
 heroAlt: "OPPO Bubble man hinh tu tinh selfie camera sau 2026"
 heroCaption: "OPPO Bubble, màn hình AMOLED tròn gắn từ tính vào mặt sau điện thoại. Nguồn: YouTube"
 tldr: "<strong>OPPO Bubble</strong> là màn hình cảm ứng AMOLED hình tròn <strong>1,73 inch</strong>, độ phân giải 466x466 pixel, độ sáng đỉnh 600 nit, dày chỉ <strong>7mm</strong> và nặng <strong>27,5g</strong>. Khi gắn từ tính vào mặt sau điện thoại tương thích, thiết bị hoạt động như khung ngắm trực tiếp cho camera sau khi selfie, nút chụp từ xa hoạt động trong phạm vi <strong>10 mét</strong>, hoặc đơn giản là phụ kiện thời trang hiển thị hình nền tùy chỉnh. Pin <strong>550mAh</strong>, sạc qua USB-C. Giá bán tại Trung Quốc <strong>499 nhân dân tệ</strong> (khoảng 73 USD), chỉ hỗ trợ dòng Reno 14/15/16 và Find X8/X9."
@@ -72,14 +72,14 @@ Khi được kích hoạt chế độ selfie trên điện thoại, màn hình B
 Bên cạnh chức năng khung ngắm selfie, OPPO Bubble còn hoạt động như một nút chụp từ xa, cho phép kích hoạt chụp ảnh trong phạm vi lên tới 10 mét, hữu ích khi cần chụp ảnh nhóm hoặc dựng điện thoại từ xa để tự chụp mà không cần gậy tự sướng hay chân máy hỗ trợ cầm tay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DBIFyTniHhs/hqdefault.jpg" alt="OPPO Bubble giong nhu smartwatch phu kien 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/DBIFyTniHhs/maxresdefault.jpg" alt="OPPO Bubble giong nhu smartwatch phu kien 2026" loading="lazy" width="1280" height="720">
   <figcaption>OPPO Bubble mang lại cảm giác sử dụng gần giống như một phụ kiện đeo tay công nghệ độc lập. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài chức năng hỗ trợ chụp ảnh, khi không sử dụng cho mục đích camera, Bubble còn có thể hoạt động đơn thuần như một phụ kiện thời trang, hiển thị hình nền tùy chỉnh, ảnh động hoặc video ngắn theo sở thích cá nhân, biến chiếc điện thoại trở nên cá tính và khác biệt hơn so với các mẫu smartphone thông thường trên thị trường. Thiết bị tích hợp pin dung lượng 550mAh, sạc qua cổng USB-C, dù không hỗ trợ sạc không dây, đòi hỏi người dùng phải tháo rời để sạc riêng khi cần.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/O4990a7C8to/hqdefault.jpg" alt="OPPO Reno 16 unboxing hands on Bubble accessory 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/O4990a7C8to/maxresdefault.jpg" alt="OPPO Reno 16 unboxing hands on Bubble accessory 2026" loading="lazy" width="1280" height="720">
   <figcaption>OPPO Bubble được giới thiệu cùng thời điểm ra mắt dòng điện thoại Reno 16 mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Ngoài chức năng hỗ trợ chụp ảnh, khi không sử dụng cho mục đ
 OPPO Bubble hiện có giá 499 nhân dân tệ tại thị trường Trung Quốc, tương đương khoảng 73 USD khi quy đổi, và khoảng 7.999 rupee tại thị trường Ấn Độ, tương đương khoảng 84 USD. Sản phẩm hiện chỉ được xác nhận tương thích với một số dòng máy OPPO nhất định, bao gồm Reno 14, Reno 15, Reno 16 cùng các dòng cao cấp Find X8, X9, X9 Pro và X9 Ultra, chưa có kế hoạch mở rộng hỗ trợ sang các thương hiệu điện thoại khác. Với người dùng muốn tìm hiểu thêm về các mẫu điện thoại OPPO cao cấp có thể tương thích với phụ kiện này, bài viết về [OPPO Find X10 Pro, đối thủ trực tiếp của iPhone 18 Pro Max với camera 200MP](/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html) là thông tin tham khảo hữu ích về dòng sản phẩm cao cấp của thương hiệu này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/af-gwXJ_jaw/hqdefault.jpg" alt="OPPO Reno 16 Pro review voi Bubble accessory 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/af-gwXJ_jaw/hq720.jpg" alt="OPPO Reno 16 Pro review voi Bubble accessory 2026" loading="lazy" width="1280" height="720">
   <figcaption>OPPO Reno 16 Pro kết hợp cùng phụ kiện Bubble tạo nên trải nghiệm sử dụng khác biệt so với smartphone thông thường. Nguồn: YouTube</figcaption>
 </figure>
 

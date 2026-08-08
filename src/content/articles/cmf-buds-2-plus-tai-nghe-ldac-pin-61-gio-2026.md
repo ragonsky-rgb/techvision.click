@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-10T20:20:00+07:00"
 dateModified: "2026-07-10T20:20:00+07:00"
 deck: "CMF, thương hiệu con giá rẻ của Nothing, chính thức trình làng CMF Buds 2 Plus, mẫu tai nghe true wireless hiếm hoi ở phân khúc giá rẻ hỗ trợ codec âm thanh độ phân giải cao LDAC, chống ồn chủ động lên tới 50dB, cùng thời lượng pin tổng cộng lên tới 61,5 giờ khi tính cả hộp sạc, giá bán khoảng 69 USD, tương đương 1,8 triệu đồng."
-heroImage: "https://i.ytimg.com/vi/i1h4i-A6OuI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/i1h4i-A6OuI/maxresdefault.jpg"
 heroAlt: "CMF Buds 2 Plus tai nghe LDAC giá rẻ pin 61,5 giờ"
 heroCaption: "CMF Buds 2 Plus gây chú ý khi mang LDAC, tính năng vốn hiếm gặp, xuống mức giá phổ thông. Nguồn: YouTube"
 tldr: "<strong>CMF</strong>, thương hiệu con giá rẻ của <strong>Nothing</strong>, đã ra mắt <strong>CMF Buds 2 Plus</strong> với giá khoảng <strong>69 USD</strong>, tương đương <strong>1,8 triệu đồng</strong>. Điểm nhấn hiếm gặp ở phân khúc giá này là hỗ trợ codec âm thanh độ phân giải cao <strong>LDAC</strong>, cùng chứng nhận <strong>Hi-Res Wireless Audio</strong>. Tai nghe trang bị driver LCP <strong>12mm</strong> với nam châm N52, chống ồn chủ động nâng cấp lên <strong>50dB</strong> với chế độ thích ứng thông minh, cùng <strong>6 micro HD</strong> hỗ trợ công nghệ khử tiếng ồn gió. Thời lượng pin đạt <strong>14 giờ</strong> mỗi lần sạc khi tắt ANC và tổng cộng <strong>61,5 giờ</strong> khi tính cả hộp sạc, đạt chuẩn kháng nước bụi <strong>IP55</strong>."
@@ -76,14 +76,14 @@ Về phần cứng, tai nghe được trang bị driver LCP kích thước 12mm 
 Về khả năng chống ồn, CMF Buds 2 Plus được nâng cấp mức chống ồn chủ động (ANC) lên tới 50dB, kèm theo chế độ Thích ứng Thông minh có khả năng tự động điều chỉnh cường độ chống ồn theo môi trường xung quanh theo thời gian thực. Kết hợp với đó là hệ thống 6 micro HD ứng dụng công nghệ Clear Voice 3.0 và Giảm tiếng ồn gió 3.0, giúp cải thiện đáng kể chất lượng cuộc gọi ngay cả khi sử dụng ngoài trời hoặc trong môi trường có gió mạnh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/h1bUsshBhD4/hqdefault.jpg" alt="So sánh chi tiết CMF Buds 2 Plus và CMF Buds 2 tiêu chuẩn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/h1bUsshBhD4/maxresdefault.jpg" alt="So sánh chi tiết CMF Buds 2 Plus và CMF Buds 2 tiêu chuẩn" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều reviewer đã so sánh trực tiếp giữa hai phiên bản CMF Buds 2 và CMF Buds 2 Plus để giúp người dùng lựa chọn phù hợp. Nguồn: YouTube</figcaption>
 </figure>
 
 Về thời lượng sử dụng, CMF Buds 2 Plus cho thời gian nghe nhạc lên tới 14 giờ mỗi lần sạc đầy khi tắt tính năng chống ồn chủ động, và tổng cộng lên tới 61,5 giờ khi tính cả các lần sạc bổ sung từ hộp đựng đi kèm, một con số ấn tượng trong phân khúc giá phổ thông, đủ để sử dụng liên tục trong nhiều ngày mà không cần lo lắng về việc sạc pin thường xuyên. Tai nghe cũng đạt chuẩn kháng bụi và kháng nước IP55, phù hợp cho cả nhu cầu sử dụng hàng ngày lẫn khi tập luyện thể thao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SttYt3XE2RQ/hqdefault.jpg" alt="Kiểm tra chất lượng micro trên dòng tai nghe CMF by Nothing Buds Pro 2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SttYt3XE2RQ/maxresdefault.jpg" alt="Kiểm tra chất lượng micro trên dòng tai nghe CMF by Nothing Buds Pro 2" loading="lazy" width="1280" height="720">
   <figcaption>Hệ thống micro HD trên dòng CMF Buds được đánh giá cao về khả năng khử tiếng ồn khi gọi điện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Về thời lượng sử dụng, CMF Buds 2 Plus cho thời gian nghe nhạc l�
 Với mức giá khoảng 1,8 triệu đồng, CMF Buds 2 Plus trở thành một lựa chọn đáng cân nhắc trong phân khúc tai nghe true wireless tầm trung, đặc biệt với nhóm người dùng ưu tiên chất lượng âm thanh và thời lượng pin hơn là thương hiệu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/D9X_gKSYSUs/hqdefault.jpg" alt="So sánh tai nghe true wireless tốt nhất phân khúc giá rẻ năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/D9X_gKSYSUs/maxresdefault.jpg" alt="So sánh tai nghe true wireless tốt nhất phân khúc giá rẻ năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>CMF Buds 2 Plus được xếp vào nhóm tai nghe giá rẻ đáng cân nhắc nhất năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -63,7 +63,7 @@ Về bản chất, cả HDMI và DisplayPort đều truyền tín hiệu hình �
 Chính khác biệt về xuất thân này dẫn tới các thế mạnh riêng. HDMI có mặt ở khắp nơi trong phòng khách và là cổng duy nhất trên console, kèm tính năng eARC để đưa âm thanh chất lượng cao từ TV về ampli. DisplayPort lại mạnh ở những thứ dân PC cần: nối chuỗi nhiều màn hình qua một cổng, và gắn liền với các công nghệ đồng bộ hình ảnh trên máy tính.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/X93bXnG0GVI/hqdefault.jpg" alt="So sanh cong HDMI va DisplayPort tren card do hoa va man hinh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/X93bXnG0GVI/maxresdefault.jpg" alt="So sanh cong HDMI va DisplayPort tren card do hoa va man hinh" loading="lazy" width="1280" height="720">
   <figcaption>HDMI và DisplayPort cùng xuất hiện trên hầu hết card đồ họa và màn hình hiện nay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Với người chơi game, tính năng đồng bộ tần số quét giữa card
 Ngoài ra, DisplayPort hỗ trợ Multi-Stream Transport, cho phép nối chuỗi nhiều màn hình qua một cổng duy nhất, rất tiện cho người dựng bàn làm việc nhiều màn. HDMI không có tính năng này. Ở chiều ngược lại, HDMI thắng tuyệt đối trong phòng khách: mọi TV, mọi console đều dùng HDMI, và eARC là cách tiêu chuẩn để đưa âm thanh vòm về dàn loa. Một điểm ngày càng quan trọng là USB-C. Nhiều laptop mỏng nhẹ xuất hình qua USB-C theo chế độ DisplayPort Alt Mode, tức tín hiệu DisplayPort chạy trên cổng USB-C, bạn có thể xem thêm ở bài [USB-C là gì và cách phân biệt dây cáp](/articles/usb-c-la-gi-chuan-cap-sac-nhanh-pd-phan-biet-day-cap-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/32KqomIGBuo/hqdefault.jpg" alt="DisplayPort ho tro noi chuoi nhieu man hinh va dong bo hinh anh tren PC" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/32KqomIGBuo/maxresdefault.jpg" alt="DisplayPort ho tro noi chuoi nhieu man hinh va dong bo hinh anh tren PC" loading="lazy" width="1280" height="720">
   <figcaption>DisplayPort hỗ trợ nối chuỗi nhiều màn và gắn với công nghệ đồng bộ hình ảnh trên PC. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Ngoài ra, DisplayPort hỗ trợ Multi-Stream Transport, cho phép nối chuỗ
 Một hiểu lầm phổ biến là cứ có cổng đúng là đạt băng thông tối đa. Thực tế sợi cáp cũng phải đạt chuẩn tương ứng. Để chạy 48Gbps của HDMI 2.1, bạn cần cáp Ultra High Speed. Để đạt 80Gbps của DisplayPort UHBR20, cần cáp được chứng nhận DP80. Dùng cáp cũ, cáp không rõ nguồn gốc hoặc quá dài có thể khiến màn không lên đúng tần số quét, hình bị nhiễu hạt, chớp đen hoặc mất tín hiệu từng lúc. Rất nhiều trường hợp người dùng đổ lỗi cho card hoặc màn trong khi thủ phạm chỉ là sợi cáp. Một mẹo nhỏ là mua cáp từ thương hiệu có ghi rõ chuẩn chứng nhận trên bao bì, tránh loại cáp giá rẻ chỉ ghi chung chung là hỗ trợ 4K mà không nói tần số quét hay băng thông cụ thể.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/c4LqUDfsj6A/hqdefault.jpg" alt="Cap HDMI Ultra High Speed va cap DisplayPort dat chuan cho tan so quet cao" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/c4LqUDfsj6A/maxresdefault.jpg" alt="Cap HDMI Ultra High Speed va cap DisplayPort dat chuan cho tan so quet cao" loading="lazy" width="1280" height="720">
   <figcaption>Cáp đạt đúng chuẩn quyết định màn có lên đúng tần số quét tối đa hay không. Nguồn: YouTube</figcaption>
 </figure>
 

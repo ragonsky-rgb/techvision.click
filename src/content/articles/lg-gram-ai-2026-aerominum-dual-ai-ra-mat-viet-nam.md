@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T20:40:00+07:00"
 dateModified: "2026-07-04T20:40:00+07:00"
 deck: "Sau vài năm vắng bóng, LG gram chính thức quay lại thị trường Việt Nam với thế hệ gram AI 2026, dùng vật liệu Aerominum mới giúp máy nhẹ hơn mà bền hơn, cùng nền tảng Dual AI kết hợp xử lý ngay trên máy và trên đám mây, hoạt động được cả khi không có kết nối internet."
-heroImage: "https://i.ytimg.com/vi/GljP6CVDWFM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/GljP6CVDWFM/maxresdefault.jpg"
 heroAlt: "LG gram AI 2026 Aerominum Dual AI ra mat Viet Nam"
 heroCaption: "LG gram AI 2026 chính thức ra mắt tại Việt Nam với vật liệu Aerominum và nền tảng Dual AI. Nguồn: YouTube"
 tldr: "LG Electronics Việt Nam vừa chính thức giới thiệu dòng laptop <strong>gram AI 2026</strong> gồm ba dòng sản phẩm: gram Pro AI, gram AI và gram Book AI. Điểm nhấn kỹ thuật là vật liệu <strong>Aerominum</strong> mới, giúp máy nhẹ hơn khoảng <strong>40g</strong> so với thế hệ trước trong khi tăng khả năng chống trầy xước tới <strong>135%</strong>, đạt chuẩn độ bền quân đội Mỹ MIL-STD-810H. Nền tảng <strong>Dual AI</strong> kết hợp xử lý AI ngay trên máy qua mô hình EXAONE cùng sức mạnh đám mây từ Copilot+ PC, cho phép tóm tắt nội dung, tìm kiếm và hỗ trợ sáng tạo ngay cả khi không có kết nối internet. Giá khởi điểm toàn cầu từ <strong>1.149 USD</strong>."
@@ -69,7 +69,7 @@ Sau vài năm vắng bóng, LG gram chính thức quay lại thị trường Vi�
 Điểm nhấn thứ hai, và có lẽ quan trọng hơn về mặt trải nghiệm sử dụng hằng ngày, là nền tảng Dual AI mà LG tích hợp trên toàn bộ dòng gram AI 2026. Dual AI kết hợp xử lý AI ngay trên máy thông qua mô hình ngôn ngữ nhỏ EXAONE do LG tự phát triển, cùng sức mạnh xử lý đám mây từ nền tảng Copilot+ PC của Microsoft. Cách tiếp cận kết hợp này cho phép người dùng thực hiện các tác vụ như tóm tắt nội dung, tìm kiếm thông tin và hỗ trợ sáng tạo ngay cả khi thiết bị không có kết nối internet, một lợi thế thực tế đáng kể so với các laptop AI chỉ phụ thuộc hoàn toàn vào xử lý đám mây.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/GljP6CVDWFM/sddefault.jpg" alt="Danh gia thuc te LG gram Pro 16 inch mong nhe Dual AI 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/GljP6CVDWFM/maxresdefault.jpg" alt="Danh gia thuc te LG gram Pro 16 inch mong nhe Dual AI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Đánh giá thực tế cho thấy LG gram Pro 16 inch duy trì tốt sự cân bằng giữa trọng lượng nhẹ và hiệu năng xử lý AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Từ góc độ theo dõi thị trường laptop Việt Nam nhiều năm, tôi c
 Người dùng đang cân nhắc mua laptop mới trong tháng 7/2026 có thể tham khảo thêm [top laptop đáng mua tháng 7/2026 ở mọi phân khúc](/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html) để so sánh LG gram AI với các lựa chọn khác trên thị trường, từ đó đưa ra quyết định phù hợp nhất với ngân sách và nhu cầu sử dụng cụ thể của bản thân, thay vì chỉ dựa vào một dòng sản phẩm duy nhất mới ra mắt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/GljP6CVDWFM/mqdefault.jpg" alt="LG gram AI 2026 thiet ke mong nhe voi Aerominum" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/GljP6CVDWFM/maxresdefault.jpg" alt="LG gram AI 2026 thiet ke mong nhe voi Aerominum" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế mỏng nhẹ với vật liệu Aerominum là điểm nhấn lớn nhất của LG gram AI 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Một điểm khác cần lưu ý là ba dòng sản phẩm gram Pro AI, gram AI
 Về mặt hệ sinh thái, LG gram AI 2026 còn tích hợp thêm tính năng gram Link, cho phép kết nối và chia sẻ màn hình, tài liệu dễ dàng giữa laptop, điện thoại và máy tính bảng, hỗ trợ cả hệ điều hành iOS, Android, Windows lẫn webOS. Đây là điểm cộng đáng chú ý cho người dùng sở hữu nhiều thiết bị từ các hãng khác nhau, không bị giới hạn trong một hệ sinh thái đóng như nhiều đối thủ cạnh tranh khác trên thị trường laptop cao cấp hiện nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/H6ucxpGxJE8/hq720.jpg" alt="LG gram Pro 16 inch can bang giua nhe va hieu nang 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/H6ucxpGxJE8/maxresdefault.jpg" alt="LG gram Pro 16 inch can bang giua nhe va hieu nang 2026" loading="lazy" width="1280" height="720">
   <figcaption>LG gram Pro 16 inch giữ được sự cân bằng tốt giữa trọng lượng nhẹ và hiệu năng xử lý thực tế. Nguồn: YouTube</figcaption>
 </figure>
 

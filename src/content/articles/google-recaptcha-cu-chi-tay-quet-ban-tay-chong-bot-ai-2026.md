@@ -77,7 +77,7 @@ Lý do đằng sau bước đi này khá rõ ràng. Các câu đố hình ảnh 
 Cử chỉ tay trước camera được kỳ vọng lấp khoảng trống đó, bởi việc tạo ra một bàn tay cử động thật theo thời gian thực khó hơn nhiều so với việc giải một câu đố hình tĩnh. Mục tiêu Google đặt ra là ngăn chặn tạo tài khoản tự động, tấn công nhồi thông tin đăng nhập và nhiều dạng gian lận khác, những vấn đề đang gây thiệt hại lớn cho các nền tảng trực tuyến. Đây cũng là hướng đi mà nhiều dịch vụ số theo đuổi khi bot AI trở thành mối lo thường trực, tương tự bối cảnh chuyển đổi số và xác thực người dùng được nêu trong bài về [ngân hàng AI Việt Nam với trợ lý ảo và chatbot](/articles/ngan-hang-ai-viet-nam-2026-tro-ly-ao-chatbot-chuyen-doi-so.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/a99p_fAr6e4/hqdefault.jpg" alt="Minh họa công nghệ nhận diện bàn tay bằng các điểm mốc landmark" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/a99p_fAr6e4/maxresdefault.jpg" alt="Minh họa công nghệ nhận diện bàn tay bằng các điểm mốc landmark" loading="lazy" width="1280" height="720">
   <figcaption>Công nghệ theo dõi 21 điểm mốc bàn tay là nền tảng cho cơ chế xác thực cử chỉ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Dù mục tiêu là chống bot, hệ thống lại sớm lộ điểm yếu. M�
 Việc một cơ chế được quảng bá là liveness detection lại có thể bị đánh lừa bởi hình ảnh không chuyển động đặt ra câu hỏi lớn về mức độ sẵn sàng của công nghệ. Nó cho thấy khoảng cách giữa ý tưởng và triển khai thực tế, đồng thời nhắc rằng mọi lớp xác thực mới đều cần thời gian kiểm thử trước khi có thể tin cậy trên diện rộng. Bài học này không mới với ngành bảo mật, nơi các phương thức xác thực liên tục phải chạy đua với kỹ thuật vượt rào, giống cách các biện pháp xác thực thuê bao viễn thông cũng liên tục siết lại như đề cập trong bài về [13 triệu SIM bị khóa hai chiều và cách xác thực thông tin thuê bao](/articles/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_GSqwtdkvcs/hqdefault.jpg" alt="Hệ thống thị giác máy tính nhận diện chuyển động bàn tay không cần thiết bị đeo" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_GSqwtdkvcs/maxresdefault.jpg" alt="Hệ thống thị giác máy tính nhận diện chuyển động bàn tay không cần thiết bị đeo" loading="lazy" width="1280" height="720">
   <figcaption>Thị giác máy tính nhận diện chuyển động tay đang được ứng dụng rộng, kéo theo cả rủi ro bị giả mạo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Việc một cơ chế được quảng bá là liveness detection lại có th�
 Bên cạnh lo ngại về hiệu quả, tính năng còn vấp phải tranh luận về quyền riêng tư. Việc phải bật camera và đưa dữ liệu chuyển động bàn tay cho một dịch vụ web khiến không ít người dùng e ngại, dù Google khẳng định chỉ phân tích các điểm mốc, không ghi âm, không liên kết với danh tính và xóa video ngay sau khi xác thực. Với những ai không muốn hoặc không thể thực hiện cử chỉ tay, reCAPTCHA vẫn giữ các thử thách hình ảnh và âm thanh thay thế, nên đây là tùy chọn bổ sung chứ chưa thay thế hoàn toàn cách cũ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mmO0QbR21og/hqdefault.jpg" alt="Giải thích cách các bài kiểm tra xác minh con người CAPTCHA hoạt động" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mmO0QbR21og/maxresdefault.jpg" alt="Giải thích cách các bài kiểm tra xác minh con người CAPTCHA hoạt động" loading="lazy" width="1280" height="720">
   <figcaption>Các bài kiểm tra xác minh con người liên tục thay đổi hình thức để bắt kịp bot ngày càng tinh vi. Nguồn: YouTube</figcaption>
 </figure>
 

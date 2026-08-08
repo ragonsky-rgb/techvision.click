@@ -59,7 +59,7 @@ Infinity Vision là chương trình chứng nhận do Walt Disney lập ra nhằ
 Điểm quan trọng cần nhớ là Infinity Vision không phải một định dạng phần cứng cạnh tranh trực tiếp với IMAX hay Dolby Cinema, mà là một lớp bảo chứng chất lượng nằm bên trên. Một phòng IMAX with Laser vẫn là phòng IMAX, nhưng nếu đủ chuẩn thì có thể được dán thêm nhãn Infinity Vision. Cách tiếp cận này giúp Disney kiểm soát chất lượng trình chiếu cho các bom tấn của hãng thay vì phó mặc cho từng cụm rạp tự quảng cáo.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/5aPTbUvM4Co/hqdefault.jpg" alt="Phong chieu IMAX with Laser tai CGV cong nghe chieu phim tan tien" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5aPTbUvM4Co/maxresdefault.jpg" alt="Phong chieu IMAX with Laser tai CGV cong nghe chieu phim tan tien" loading="lazy" width="1280" height="720">
   <figcaption>Máy chiếu IMAX with Laser cho hình ảnh sáng hơn, tương phản sâu và dải màu rộng hơn hẳn máy Xenon cũ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,14 +82,14 @@ Chương trình Infinity Vision sẽ khởi động sớm hơn, từ tháng 9/20
 Cần nói rõ ngay: Disney chưa công bố một danh sách rạp Infinity Vision certified riêng cho Việt Nam. Vì vậy, cách hợp lý nhất hiện giờ là đối chiếu tiêu chí kỹ thuật, mà mấu chốt là máy chiếu laser, với các phòng IMAX đang có trong nước. Tại TP.HCM, ba phòng dùng IMAX with Laser gồm CGV Sư Vạn Hạnh, Galaxy Sala đặt trong Thiso Mall khu Thủ Thiêm, và CGV AEON Bình Tân. Trong đó, Galaxy Sala là nơi đưa công nghệ IMAX with Laser 4K về Việt Nam đầu tiên từ cuối năm 2023, cho độ sáng, tương phản và dải màu vượt trội so với thế hệ máy Xenon.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Ohuq0gn56rE/hqdefault.jpg" alt="Galaxy Sala rap IMAX Laser dau tien tai Viet Nam Thiso Mall" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ohuq0gn56rE/maxresdefault.jpg" alt="Galaxy Sala rap IMAX Laser dau tien tai Viet Nam Thiso Mall" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Sala tại Thiso Mall là rạp IMAX with Laser đầu tiên ở Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
 CGV Sư Vạn Hạnh là địa chỉ IMAX with Laser quen thuộc với khán giả khu vực trung tâm, thường xuyên được chọn để chiếu các bom tấn định dạng IMAX. Nếu muốn một trải nghiệm điện ảnh đúng chuẩn ngay tại nhà cho những phim không ra rạp, bạn có thể tham khảo thêm [máy chiếu rạp hát di động Anker Nebula X1 Pro](/articles/anker-soundcore-nebula-x1-pro-may-chieu-rap-hat-di-dong-2026.html), tuy nhiên với một tác phẩm quy mô như Doomsday thì màn IMAX laser tại rạp vẫn là lựa chọn khó thay thế về độ hoành tráng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/AEi_qctc45w/hqdefault.jpg" alt="Trai nghiem rap IMAX CGV Su Van Hanh man hinh lon" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AEi_qctc45w/maxresdefault.jpg" alt="Trai nghiem rap IMAX CGV Su Van Hanh man hinh lon" loading="lazy" width="1280" height="720">
   <figcaption>CGV Sư Vạn Hạnh là phòng IMAX with Laser thường xuyên phục vụ các suất bom tấn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Với riêng CGV AEON Bình Tân, một vài nguồn ghi phòng laser tại đâ
 Ở phía Bắc, khán giả thủ đô hiện có hai địa chỉ IMAX with Laser. Phòng IMAX with Laser đầu tiên của CGV tại Hà Nội đặt ở CGV Vincom Center Metropolis Liễu Giai, chính thức mở cửa từ ngày 19/12/2025, dùng thế hệ máy chiếu laser 4K mới với hệ thống quang học tiên tiến, cho hình ảnh sắc nét, sáng và tương phản sâu hơn, đúng nhóm tiêu chí mà Infinity Vision đề cao. Bên cạnh đó, rạp flagship Galaxy CineX Hanoi Centre của Galaxy Studio, khai trương chính thức ngày 6/3/2026, cũng tiên phong đưa IMAX with Laser ra Hà Nội, đồng thời trang bị âm thanh Dolby Atmos cùng phòng màn hình Onyx Cinema LED, một tổ hợp công nghệ trình chiếu cao cấp hiếm có. Cả hai đều là lựa chọn hợp lý cho người muốn xem Doomsday sát chuẩn nhất tại thủ đô.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/EVJ8-kuI-tU/hqdefault.jpg" alt="CGV Vincom Metropolis Lieu Giai rap IMAX Laser dau tien tai Ha Noi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/EVJ8-kuI-tU/maxresdefault.jpg" alt="CGV Vincom Metropolis Lieu Giai rap IMAX Laser dau tien tai Ha Noi" loading="lazy" width="1280" height="720">
   <figcaption>CGV Vincom Metropolis Liễu Giai, phòng IMAX with Laser đầu tiên tại Hà Nội. Nguồn: YouTube</figcaption>
 </figure>
 

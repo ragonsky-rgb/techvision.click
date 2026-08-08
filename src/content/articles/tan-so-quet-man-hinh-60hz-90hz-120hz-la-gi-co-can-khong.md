@@ -82,7 +82,7 @@ Một điểm gây nhầm lẫn phổ biến là giữa tần số quét màn h�
 Tần số quét cảm ứng quyết định độ nhạy và độ trễ khi chạm, nên cực kỳ quan trọng với game thủ cần thao tác nhanh và chính xác. Hai thông số này khác nhau, một chiếc máy có thể có màn 120Hz nhưng tần số quét cảm ứng cao hơn nhiều. Khi chọn máy chơi game, nên để ý cả hai chỉ số này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/YNKbQexB8wg/hqdefault.jpg" alt="Tần số quét cảm ứng quan trọng khi chọn điện thoại chơi game" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YNKbQexB8wg/sddefault.jpg" alt="Tần số quét cảm ứng quan trọng khi chọn điện thoại chơi game" loading="lazy" width="640" height="480">
   <figcaption>Tần số quét cảm ứng ảnh hưởng lớn tới trải nghiệm chơi game. Nguồn: YouTube</figcaption>
 </figure>
 

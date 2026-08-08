@@ -64,7 +64,7 @@ Về kích thước, hai máy gần như ngang nhau. iPhone Fold được đồn
 Đây cũng là nơi Samsung có lợi thế của kẻ đi trước. Galaxy Z Fold8 bản tiêu chuẩn nặng 201g và dày 9.7mm khi gập, con số nhẹ kỷ lục cho một máy gập kiểu sách sau nhiều thế hệ tinh chỉnh. iPhone Fold thế hệ đầu chưa có số liệu trọng lượng chính thức, và các mẫu gập đời đầu thường bị chê nặng và cộm. Nếu Apple làm chủ được độ mỏng ngay lần đầu, đó sẽ là bất ngờ lớn, nhưng đây vẫn là dấu hỏi phải chờ máy thương mại mới trả lời được.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/AgOin_v_Fgc/hqdefault.jpg" alt="iPhone Fold va Galaxy Z Fold 8 so sanh kich thuoc man hinh thiet ke 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AgOin_v_Fgc/maxresdefault.jpg" alt="iPhone Fold va Galaxy Z Fold 8 so sanh kich thuoc man hinh thiet ke 2026" loading="lazy" width="1280" height="720">
   <figcaption>Hai máy có màn hình gần bằng nhau, khác biệt nằm ở tỷ lệ và độ hoàn thiện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Nếu chấm điểm phần cứng nhiếp ảnh, Galaxy Z Fold8 Ultra đang d�
 Tuy nhiên, con số megapixel không phải tất cả. Apple nhiều năm nay vẫn dẫn đầu về khả năng quay video, độ ổn định màu sắc và xử lý ảnh chân dung nhờ thuật toán. Vì thế, dù thua trên giấy tờ, iPhone Fold vẫn có thể cho video và ảnh đời thường rất cạnh tranh. Người dùng chuyên chụp xa nên nghiêng về Z Fold8 Ultra, còn ai ưu tiên quay vlog và sự ổn định có thể chờ Apple. Nếu muốn hiểu rõ khác biệt giữa hai bản Fold của Samsung, bạn có thể xem thêm bài [Galaxy Z Fold8 và Z Fold8 Ultra so sánh chọn bản nào](/articles/galaxy-z-fold-8-vs-z-fold-8-ultra-so-sanh-chon-ban-nao-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/igBI_h6WBwo/hqdefault.jpg" alt="Camera Galaxy Z Fold 8 Ultra 200MP so voi iPhone Fold camera kep 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/igBI_h6WBwo/maxresdefault.jpg" alt="Camera Galaxy Z Fold 8 Ultra 200MP so voi iPhone Fold camera kep 2026" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z Fold8 Ultra dẫn trước về phần cứng camera với cảm biến 200MP. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Galaxy Z Fold8 đã lên kệ quốc tế từ 7/8/2026 và mở đặt trước
 Ở mức tiền này, câu hỏi đáng cân nhắc trước khi xuống tiền không phải máy nào camera đẹp hơn, mà là máy gập dùng được bao lâu. Bản lề, nếp gấp giữa màn hình và tuổi thọ thực tế của tấm nền gập vẫn là điểm yếu cố hữu của cả hai hãng, chi tiết cơ chế hỏng và cách dùng để kéo dài tuổi thọ nằm trong bài [điện thoại gập có bền không](/articles/dien-thoai-gap-co-ben-khong-ban-le-nep-gap-tuoi-tho-2026.html). Nếu anh chị định giữ máy trên ba năm, đây là phần cần đọc kỹ hơn cả bảng thông số.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/rNJuiQ6gJqk/hqdefault.jpg" alt="iPhone Fold vs Galaxy Z Fold 8 gia va lua chon cho nguoi dung Viet 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rNJuiQ6gJqk/maxresdefault.jpg" alt="iPhone Fold vs Galaxy Z Fold 8 gia va lua chon cho nguoi dung Viet 2026" loading="lazy" width="1280" height="720">
   <figcaption>Với người dùng Việt cần mua ngay, Galaxy Z Fold8 là phương án thực tế hơn ở thời điểm này. Nguồn: YouTube</figcaption>
 </figure>
 

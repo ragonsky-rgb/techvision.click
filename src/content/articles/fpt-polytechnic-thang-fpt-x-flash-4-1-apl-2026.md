@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-10T20:00:00+07:00"
 dateModified: "2026-07-10T20:00:00+07:00"
 deck: "FPT Polytechnic tiếp tục viết nên câu chuyện cổ tích tại APL 2026 khi đánh bại chính đương kim vô địch ĐTDV Mùa Xuân 2026 FPT x Flash với tỉ số 4-1 trong loạt trận Bo7 đầy kịch tính ở tứ kết nhánh thua. Chiến thắng này chính thức khép lại hành trình của FPT x Flash tại giải đấu, đồng thời đưa FPT Polytechnic tiến vào bán kết diễn ra ngày 12/7 với tư cách ngựa ô sáng giá nhất mùa giải."
-heroImage: "https://i.ytimg.com/vi/tuVAQOw7HC0/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/tuVAQOw7HC0/maxresdefault.jpg"
 heroAlt: "FPT Polytechnic thắng FPT x Flash 4-1 tại APL 2026"
 heroCaption: "FPT Polytechnic tạo địa chấn khi đánh bại đương kim vô địch FPT x Flash tại APL 2026. Nguồn: YouTube"
 tldr: "<strong>FPT Polytechnic</strong> tiếp tục khẳng định vị thế ngựa ô lớn nhất <strong>APL 2026</strong> khi đánh bại chính đương kim vô địch <strong>ĐTDV Mùa Xuân 2026 FPT x Flash</strong> với tỉ số <strong>4-1</strong> trong loạt trận Bo7 tại tứ kết nhánh thua. Đội nhập cuộc đầy tự tin, thắng liền ba ván đầu để dẫn <strong>3-0</strong>, dù bị Flash gỡ lại một ván nhưng vẫn giữ được sự bình tĩnh để khép lại loạt trận với chiến thắng chung cuộc. Kết quả này chính thức khép lại hành trình của FPT x Flash tại APL 2026, đồng thời đưa FPT Polytechnic tiến thẳng vào <strong>bán kết</strong>, dự kiến diễn ra ngày <strong>12/7</strong> theo thể thức Bo7, hướng tới trận <strong>chung kết tổng tại Đà Nẵng ngày 19/7</strong>."
@@ -74,7 +74,7 @@ Không cam chịu thất bại, FPT x Flash đã có màn vùng lên đáng khen
 Ở ván đấu quyết định, FPT Polytechnic đã thể hiện đúng bản lĩnh của một đội tuyển đã quen với việc tạo bất ngờ xuyên suốt cả mùa giải, khép lại loạt trận với chiến thắng chung cuộc 4-1 đầy thuyết phục. Kết quả này chính thức khép lại hành trình của FPT x Flash tại APL 2026, một cú sốc lớn đối với đội tuyển vốn được kỳ vọng sẽ tiến sâu sau khi bảo vệ thành công ngôi vô địch quốc nội chỉ ít tháng trước đó.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/yR0HgNwMqTU/hqdefault.jpg" alt="Trận đấu trực tiếp giữa FPT và FPL tại vòng sáu đội mạnh nhất APL 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yR0HgNwMqTU/maxresdefault.jpg" alt="Trận đấu trực tiếp giữa FPT và FPL tại vòng sáu đội mạnh nhất APL 2026" loading="lazy" width="1280" height="720">
   <figcaption>Trận đấu thu hút sự chú ý lớn từ cộng đồng người hâm mộ Liên Quân Mobile trong khu vực. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Không cam chịu thất bại, FPT x Flash đã có màn vùng lên đáng khen
 Với chiến thắng này, FPT Polytechnic chính thức giành vé vào vòng bán kết APL 2026, dự kiến diễn ra vào ngày 12/7 theo thể thức Bo7, tiếp tục nuôi hy vọng viết tiếp câu chuyện cổ tích của mình trên hành trình hướng tới trận chung kết tổng, được tổ chức lần đầu tiên tại Đà Nẵng vào ngày 19/7. Đây cũng là tín hiệu tích cực cho cộng đồng Liên Quân Mobile Việt Nam, khi [Việt Nam từng có tới 3 đại diện góp mặt tại vòng tứ kết của giải đấu](/articles/apl-2026-viet-nam-3-dai-dien-tu-ket-lien-quan-mobile.html), và giờ đây FPT Polytechnic đang là niềm hy vọng lớn nhất còn sót lại để mang vinh quang về cho khu vực.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/a3-oh0sKz_Q/hqdefault.jpg" alt="FPT Polytechnic thi đấu đầy quyết tâm tại vòng tứ kết APL 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/a3-oh0sKz_Q/maxresdefault.jpg" alt="FPT Polytechnic thi đấu đầy quyết tâm tại vòng tứ kết APL 2026" loading="lazy" width="1280" height="720">
   <figcaption>FPT Polytechnic tiếp tục thể hiện tinh thần thi đấu kiên cường xuyên suốt giải đấu. Nguồn: YouTube</figcaption>
 </figure>
 
 Sự trỗi dậy của FPT Polytechnic tại APL 2026 cũng phản ánh một bức tranh chung của làng esports Việt Nam trong mùa hè năm nay, khi không chỉ Liên Quân Mobile mà cả bộ môn Liên Minh Huyền Thoại cũng đang chứng kiến những màn trình diễn đầy bất ngờ từ các đội tuyển không được đánh giá cao trước giải, tương tự câu chuyện [BLG đang hướng tới hoàn thành Con đường hoàng kim tại MSI 2026](/articles/msi-2026-chung-ket-tong-blg-con-duong-hoang-kim.html) hay việc [LYON liên tục tạo địa chấn khi lần lượt hạ gục nhiều đối thủ mạnh tại MSI 2026](/articles/lyon-ha-g2-3-0-msi-2026-doi-dau-hle.html), cho thấy mùa hè 2026 thực sự là giai đoạn sôi động bậc nhất của làng thể thao điện tử khu vực Đông Nam Á nói chung và Việt Nam nói riêng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VszT9ojycBs/hqdefault.jpg" alt="FPT Polytechnic liên tục vượt qua các đối thủ mạnh xuyên suốt APL 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VszT9ojycBs/maxresdefault.jpg" alt="FPT Polytechnic liên tục vượt qua các đối thủ mạnh xuyên suốt APL 2026" loading="lazy" width="1280" height="720">
   <figcaption>Hành trình của FPT Polytechnic tại APL 2026 tiếp tục thu hút sự chú ý của đông đảo người hâm mộ. Nguồn: YouTube</figcaption>
 </figure>
 

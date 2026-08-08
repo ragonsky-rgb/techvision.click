@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T21:40:00+07:00"
 dateModified: "2026-07-08T21:40:00+07:00"
 deck: "Razer chính thức giới thiệu Soma Chroma, mẫu ghế gaming đầu tiên của hãng sở hữu hệ thống đèn RGB không dây phản hồi trực tiếp theo diễn biến trong game. Sản phẩm đã lên kệ tại thị trường Việt Nam trong tuần đầu tháng 7/2026 với giá đề xuất 17,49 triệu đồng, tương thích hơn 300 tựa game phổ biến qua nền tảng Razer Chroma RGB."
-heroImage: "https://i.ytimg.com/vi/ErhuPtFfBwo/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/ErhuPtFfBwo/maxresdefault.jpg"
 heroAlt: "Razer Soma Chroma ghế gaming RGB không dây ra mắt Việt Nam 2026"
 heroCaption: "Razer Soma Chroma, ghế gaming RGB không dây đầu tiên của Razer, chính thức có mặt tại Việt Nam. Nguồn: YouTube"
 tldr: "<strong>Razer</strong> vừa ra mắt <strong>Soma Chroma</strong>, mẫu ghế gaming đầu tiên của hãng tích hợp hệ thống đèn <strong>Chroma RGB không dây</strong> phản hồi trực tiếp theo diễn biến trong game, ví dụ tự đổi màu khi người chơi kích hoạt kỹ năng tối thượng trong Overwatch. Sản phẩm tương thích với hơn <strong>300 tựa game</strong> phổ biến gồm Fortnite, Valorant và Cyberpunk 2077, cho phép tùy chỉnh <strong>16,8 triệu màu sắc</strong> cùng <strong>10 thiết lập ánh sáng</strong> qua phần mềm Razer Synapse. Ghế kết nối không dây qua dongle <strong>HyperSpeed 2.4GHz</strong> trên PC và Bluetooth trên di động, chính thức lên kệ Việt Nam trong tuần đầu tháng 7/2026 với giá đề xuất <strong>17,49 triệu đồng</strong>."
@@ -76,7 +76,7 @@ Theo công bố từ nhà sản xuất, hệ thống hiện đã tương thích 
 Khi không ở trong trận đấu, người dùng hoàn toàn có thể tùy chỉnh trải nghiệm ánh sáng theo sở thích cá nhân. Soma Chroma hỗ trợ tới 16,8 triệu màu sắc cùng 10 thiết lập ánh sáng dựng sẵn, tất cả đều có thể điều chỉnh thông qua phần mềm quen thuộc Razer Synapse. Đáng chú ý, ánh sáng trên ghế có thể được đồng bộ hoá với các thiết bị Chroma RGB khác trong cùng góc chơi game, từ bàn phím, chuột cho tới đèn nền màn hình, tạo ra một hệ sinh thái ánh sáng thống nhất thay vì các thiết bị hoạt động rời rạc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/1t5WfvfmkJM/hqdefault.jpg" alt="Câu chuyện thiết kế đằng sau ghế gaming Razer Soma Chroma" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1t5WfvfmkJM/maxresdefault.jpg" alt="Câu chuyện thiết kế đằng sau ghế gaming Razer Soma Chroma" loading="lazy" width="1280" height="720">
   <figcaption>Razer chia sẻ hành trình thiết kế và phát triển của Soma Chroma trước khi sản phẩm chính thức ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Khi không ở trong trận đấu, người dùng hoàn toàn có thể tùy ch
 Về nguồn năng lượng, Razer Soma Chroma có thể hoạt động bằng củ sạc thông thường qua cổng USB-C hoặc sử dụng pin sạc dự phòng, đi kèm một túi chứa pin chuyên dụng được thiết kế kín đáo ngay phía sau tựa lưng ghế nhằm giữ tính thẩm mỹ tổng thể. Người mua cần lưu ý rằng pin sạc dự phòng, củ sạc và cáp USB-C nối dài sẽ không được đi kèm sẵn trong hộp sản phẩm, đồng nghĩa với việc cần chuẩn bị thêm phụ kiện nếu muốn sử dụng chế độ hoàn toàn không dây ngay từ đầu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/aVOvHrMs1Cc/hqdefault.jpg" alt="Đánh giá thực tế trải nghiệm ghế gaming RGB của Razer" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/aVOvHrMs1Cc/sddefault.jpg" alt="Đánh giá thực tế trải nghiệm ghế gaming RGB của Razer" loading="lazy" width="640" height="480">
   <figcaption>Nhiều reviewer quốc tế đánh giá cao trải nghiệm ánh sáng và độ hoàn thiện của dòng ghế gaming RGB mới từ Razer. Nguồn: YouTube</figcaption>
 </figure>
 
 Bên cạnh chất lượng đèn RGB, giới đánh giá cũng dành nhiều lời khen cho độ hoàn thiện tổng thể của Soma Chroma, từ chất liệu bọc ghế, độ êm của phần đệm cho tới cơ chế ngả lưng vận hành mượt mà. Đây là những yếu tố quan trọng không kém tính năng ánh sáng, bởi ghế gaming vẫn trước hết cần đáp ứng tốt vai trò cốt lõi là mang lại sự thoải mái cho người dùng trong những phiên chơi game hoặc làm việc kéo dài nhiều giờ liên tục.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/QZvpSVExwYM/hqdefault.jpg" alt="Hướng dẫn lắp ráp ghế gaming Razer Soma Chroma" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/QZvpSVExwYM/maxresdefault.jpg" alt="Hướng dẫn lắp ráp ghế gaming Razer Soma Chroma" loading="lazy" width="1280" height="720">
   <figcaption>Razer cung cấp hướng dẫn lắp ráp chi tiết giúp người dùng tự lắp đặt Soma Chroma tại nhà. Nguồn: YouTube</figcaption>
 </figure>
 

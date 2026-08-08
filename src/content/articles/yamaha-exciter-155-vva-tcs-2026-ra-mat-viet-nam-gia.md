@@ -64,7 +64,7 @@ Sau nhiều tháng chờ đợi, Yamaha chính thức ra mắt Exciter 155 VVA-T
 Việc đưa TCS lên xe côn tay phổ thông cũng cho thấy hướng đi của Yamaha: mang các trang bị an toàn chủ động từ phân khúc cao xuống dòng xe đại chúng. Trước đây, kiểm soát lực kéo gần như chỉ xuất hiện trên xe phân khối lớn giá cao. Khi công nghệ này có mặt trên một mẫu xe giá dưới 61 triệu đồng, nó giúp nâng mặt bằng an toàn chung của thị trường và tạo áp lực để các đối thủ cùng phân khúc phải theo kịp. Đây cũng là yếu tố giúp Exciter 155 2026 tạo khác biệt so với thế hệ cũ vốn chỉ có phanh ABS.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WrFMW31JNHo/hqdefault.jpg" alt="Exciter 155 VVA TCS 2026 lan dau co kiem soat luc keo va ABS" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WrFMW31JNHo/maxresdefault.jpg" alt="Exciter 155 VVA TCS 2026 lan dau co kiem soat luc keo va ABS" loading="lazy" width="1280" height="720">
   <figcaption>Hệ thống kiểm soát lực kéo TCS là trang bị đáng chú ý nhất trên Exciter 155 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Về sức mạnh, Exciter 155 2026 tiếp tục dùng khối động cơ dung t
 Đi kèm động cơ, Yamaha nâng cấp hệ thống phanh với đĩa lớn hơn để cải thiện lực hãm, phù hợp với xu hướng người dùng đòi hỏi cả sức mạnh lẫn khả năng dừng an toàn. Kết hợp giữa động cơ quen thuộc, phanh lớn hơn, ABS và TCS, Exciter 155 2026 hướng tới một trải nghiệm vừa phấn khích vừa kiểm soát tốt hơn. Với người mua, đây là mẫu xe cân bằng giữa cảm giác lái thể thao và mức an toàn cao hơn hẳn các đời trước.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/V51bRYmvqFg/hqdefault.jpg" alt="Thiet ke moi va thong so Yamaha Exciter 155 2026 ham ho hon" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/V51bRYmvqFg/sddefault.jpg" alt="Thiet ke moi va thong so Yamaha Exciter 155 2026 ham ho hon" loading="lazy" width="640" height="480">
   <figcaption>Thiết kế Exciter 155 2026 được làm lại hầm hố hơn, đi kèm phanh lớn hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Về lựa chọn, xe có 4 phiên bản trải rộng theo nhu cầu và túi t
 Sự trở lại của Exciter 155 với nhiều công nghệ an toàn diễn ra đúng lúc thị trường xe máy Việt Nam sôi động với loạt tân binh, từ xe côn tay tới xe điện. Ở phân khúc côn tay, đối thủ trực tiếp của Exciter vẫn là Honda Winner X, và việc bổ sung TCS cùng ABS giúp Yamaha tạo lợi thế về trang bị an toàn. Đây là nước đi hợp lý khi người dùng ngày càng quan tâm tới an toàn chủ động chứ không chỉ sức mạnh động cơ hay kiểu dáng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DEYkntNqeU4/hqdefault.jpg" alt="Yamaha Exciter 155 2026 cac phien ban va gia ban tai dai ly Viet Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DEYkntNqeU4/maxresdefault.jpg" alt="Yamaha Exciter 155 2026 cac phien ban va gia ban tai dai ly Viet Nam" loading="lazy" width="1280" height="720">
   <figcaption>Exciter 155 2026 có 4 phiên bản, giá từ 49,9 đến 60,9 triệu đồng. Nguồn: YouTube</figcaption>
 </figure>
 

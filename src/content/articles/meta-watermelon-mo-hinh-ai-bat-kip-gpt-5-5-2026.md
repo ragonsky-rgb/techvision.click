@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-17T02:30:00+07:00"
 dateModified: "2026-07-17T02:30:00+07:00"
 deck: "Cuộc đua mô hình AI nền tảng lại nóng lên với một tuyên bố đáng chú ý từ Meta. Trong một buổi họp nội bộ đầu tháng 7, giám đốc AI của Meta là Alexandr Wang nói với nhân viên rằng mô hình sắp ra mắt của công ty, codename Watermelon, đã bắt kịp GPT-5.5, mô hình hàng đầu của OpenAI, trên một số bài đánh giá tiêu chuẩn. Watermelon hiện vẫn đang trong quá trình huấn luyện và sử dụng năng lực tính toán gấp khoảng 10 lần so với Avocado, tên mã nội bộ của Muse Spark mà Meta phát hành hồi tháng 4. Tuyên bố này cho thấy tham vọng lớn của Meta trong việc thu hẹp khoảng cách với các phòng thí nghiệm AI dẫn đầu. Tuy nhiên, Wang không nêu cụ thể benchmark nào, và trên thực tế OpenAI đã kịp giới thiệu GPT-5.6, đẩy ranh giới tiến xa hơn mốc GPT-5.5 mà Watermelon được cho là đã bắt kịp."
-heroImage: "https://i.ytimg.com/vi/8q-XDaEti6Y/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/8q-XDaEti6Y/maxresdefault.jpg"
 heroAlt: "Giám đốc AI Meta Alexandr Wang nói mô hình Watermelon đã bắt kịp GPT-5.5 của OpenAI"
 heroCaption: "Meta tuyên bố mô hình Watermelon bắt kịp GPT-5.5, dù chưa nêu benchmark cụ thể. Nguồn: YouTube"
 tldr: "Tại một buổi họp nội bộ đầu tháng 7/2026, giám đốc AI của Meta <strong>Alexandr Wang</strong> nói mô hình sắp ra mắt codename <strong>Watermelon</strong> đã bắt kịp <strong>GPT-5.5</strong> của OpenAI trên một số benchmark. Watermelon đang trong quá trình huấn luyện và dùng năng lực tính toán gấp khoảng <strong>10 lần</strong> so với Avocado, tên mã nội bộ của <strong>Muse Spark</strong> mà Meta phát hành tháng 4. Wang cũng cho biết một bản cập nhật Muse Spark sẽ sớm ra mắt với cải tiến lớn về lập trình và khả năng tác nhân. Đáng lưu ý, Wang <strong>không nêu benchmark cụ thể</strong>, Meta từ chối bình luận, và OpenAI đã kịp giới thiệu <strong>GPT-5.6</strong>, nghĩa là ranh giới công nghệ đã vượt qua mốc GPT-5.5."
@@ -77,7 +77,7 @@ Bên cạnh Watermelon, Wang cũng tiết lộ rằng một bản cập nhật c
 Dù là một tuyên bố tích cực, câu chuyện Watermelon cũng có nhiều điểm cần nhìn nhận một cách thận trọng. Đầu tiên và quan trọng nhất, Wang không nêu cụ thể benchmark nào được dùng để so sánh. Trong lĩnh vực AI, kết quả benchmark có thể thay đổi rất nhiều tùy theo bài đánh giá được chọn, nên một tuyên bố bắt kịp mà không kèm chi tiết sẽ khó được kiểm chứng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/m0JCYmP50sc/hqdefault.jpg" alt="Tuyên bố Watermelon bắt kịp GPT-5.5 được đưa ra trong buổi họp nội bộ của Meta" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/m0JCYmP50sc/maxresdefault.jpg" alt="Tuyên bố Watermelon bắt kịp GPT-5.5 được đưa ra trong buổi họp nội bộ của Meta" loading="lazy" width="1280" height="720">
   <figcaption>Tuyên bố được đưa ra nội bộ, chưa có benchmark công khai để kiểm chứng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,14 +88,14 @@ Một điểm nữa đáng cân nhắc là việc dùng năng lực tính toán 
 ## Cuộc đua mô hình vẫn tăng tốc
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/3X21n7VRbho/hqdefault.jpg" alt="Alexandr Wang đối mặt thách thức lớn trong việc đưa Meta dẫn đầu cuộc đua AI" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3X21n7VRbho/maxresdefault.jpg" alt="Alexandr Wang đối mặt thách thức lớn trong việc đưa Meta dẫn đầu cuộc đua AI" loading="lazy" width="1280" height="720">
   <figcaption>Meta nỗ lực thu hẹp khoảng cách nhưng ranh giới công nghệ liên tục dịch chuyển. Nguồn: YouTube</figcaption>
 </figure>
 
 Điểm mấu chốt khiến câu chuyện thêm phần thú vị là tốc độ của cuộc đua. Trong khi Watermelon được cho là mới bắt kịp GPT-5.5, OpenAI đã kịp giới thiệu GPT-5.6, nghĩa là ranh giới công nghệ của đối thủ đã dịch chuyển xa hơn. Điều này minh họa rõ đặc thù của lĩnh vực AI, nơi việc bắt kịp một mốc cũ không đồng nghĩa với dẫn đầu, bởi các phòng thí nghiệm hàng đầu liên tục cho ra phiên bản mới. Thực tế, [GPT-5.6 với ba biến thể Sol, Terra và Luna đã được OpenAI phát hành](/articles/openai-gpt-5-6-sol-terra-luna-chinh-thuc-mo-chatgpt-work-2026.html), tiếp tục nới rộng khoảng cách.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/KSF2a3yL57E/hqdefault.jpg" alt="Meta bổ nhiệm Alexandr Wang dẫn dắt bộ phận AI Superintelligence để tăng tốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KSF2a3yL57E/maxresdefault.jpg" alt="Meta bổ nhiệm Alexandr Wang dẫn dắt bộ phận AI Superintelligence để tăng tốc" loading="lazy" width="1280" height="720">
   <figcaption>Meta đặt cược lớn vào Alexandr Wang để tăng tốc trong cuộc đua AI. Nguồn: YouTube</figcaption>
 </figure>
 

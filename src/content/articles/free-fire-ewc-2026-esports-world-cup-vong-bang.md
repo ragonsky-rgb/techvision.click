@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-14T11:20:00+07:00"
 dateModified: "2026-07-14T11:20:00+07:00"
 deck: "Free Fire chính thức bước vào Esports World Cup 2026, một trong những đại hội thể thao điện tử lớn nhất hành tinh, với vòng bảng diễn ra trong hai ngày 15 và 16/7. Có 24 đội tuyển cùng 120 tuyển thủ hàng đầu thế giới tranh tài, và các trận đấu được phát trực tiếp trên kênh Free Fire Esports Việt Nam kèm bình luận tiếng Việt. Là một trong những tựa game di động phổ biến bậc nhất tại Việt Nam và Đông Nam Á, Free Fire tại EWC 2026 hứa hẹn thu hút lượng lớn người hâm mộ trong nước theo dõi và cổ vũ."
-heroImage: "https://i.ytimg.com/vi/0qV_PxVegMo/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/0qV_PxVegMo/maxresdefault.jpg"
 heroAlt: "Free Fire tại Esports World Cup 2026 vòng bảng với 24 đội và 120 tuyển thủ"
 heroCaption: "Free Fire bước vào vòng bảng Esports World Cup 2026 với 24 đội tuyển hàng đầu thế giới. Nguồn: YouTube"
 tldr: "<strong>Free Fire</strong> tham dự <strong>Esports World Cup 2026</strong>, đại hội thể thao điện tử quy tụ nhiều bộ môn với tổng giải thưởng toàn giải hơn <strong>75 triệu USD</strong>. Vòng bảng bộ môn Free Fire diễn ra trong hai ngày <strong>15 và 16/7</strong>, với <strong>24 đội</strong> và <strong>120 tuyển thủ</strong> tranh tài. Các trận đấu được phát trực tiếp trên kênh <strong>Free Fire Esports Việt Nam</strong> kèm bình luận tiếng Việt, bên cạnh nhiều ngôn ngữ khác. Là tựa game di động cực kỳ phổ biến tại Việt Nam và Đông Nam Á, Free Fire tại EWC 2026 là dịp để cộng đồng trong nước theo dõi các đội mạnh nhất thế giới so tài ở sân khấu đỉnh cao."
@@ -75,7 +75,7 @@ Với người hâm mộ, thể thức battle royale mang lại trải nghiệm 
 Điểm khiến Free Fire tại EWC 2026 đặc biệt gần gũi với khán giả Việt là việc các trận đấu được phát trực tiếp trên kênh Free Fire Esports Việt Nam kèm bình luận tiếng Việt, bên cạnh nhiều ngôn ngữ khác. Điều này giúp người hâm mộ trong nước dễ dàng theo dõi và hòa mình vào không khí giải đấu mà không gặp rào cản ngôn ngữ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/6CYNVLK_hLg/hqdefault.jpg" alt="Các đội tuyển Free Fire tranh tài tại vòng bảng EWC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6CYNVLK_hLg/maxresdefault.jpg" alt="Các đội tuyển Free Fire tranh tài tại vòng bảng EWC 2026" loading="lazy" width="1280" height="720">
   <figcaption>24 đội tuyển hàng đầu thế giới tranh tài ở vòng bảng Free Fire EWC 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Free Fire từ lâu đã là một trong những tựa game di động phổ bi�
 Để có mặt tại một sự kiện tầm cỡ như EWC 2026, các đội phải vượt qua hệ thống giải khu vực khắc nghiệt. Với khu vực Đông Nam Á, Free Fire World Series là bệ phóng quan trọng, nơi các đội mạnh nhất tranh vé dự đấu trường thế giới. Việt Nam là một trong những quốc gia có phong trào Free Fire chuyên nghiệp phát triển, nên sự hiện diện của các đại diện trong nước ở các giải quốc tế luôn được cộng đồng dõi theo sát sao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/fvODA-nmsec/hqdefault.jpg" alt="Tổng quan giải đấu Free Fire tại Esports World Cup 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fvODA-nmsec/maxresdefault.jpg" alt="Tổng quan giải đấu Free Fire tại Esports World Cup 2026" loading="lazy" width="1280" height="720">
   <figcaption>Free Fire tại EWC 2026 là điểm hội tụ của các nhà vô địch khu vực trên toàn thế giới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Sự kiện này diễn ra trong bối cảnh thể thao điện tử Việt Nam
 ## Điều chờ đợi ở những vòng tiếp theo
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/rrBJjSxKCmY/hqdefault.jpg" alt="Lộ trình esports Free Fire năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rrBJjSxKCmY/maxresdefault.jpg" alt="Lộ trình esports Free Fire năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Free Fire tiếp tục mở rộng hệ thống giải đấu chuyên nghiệp toàn cầu trong năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

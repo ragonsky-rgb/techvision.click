@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T15:00:00+07:00"
 dateModified: "2026-07-05T15:00:00+07:00"
 deck: "Google chính thức ra mắt Gemini 3.5 Live Translate, mô hình AI dịch giọng nói sang giọng nói theo thời gian thực trên hơn 70 ngôn ngữ, giữ nguyên ngữ điệu, nhịp điệu và cao độ giọng nói gốc, được tích hợp vào Google Translate và Google Meet."
-heroImage: "https://i.ytimg.com/vi/xdPIwgDriTg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/xdPIwgDriTg/maxresdefault.jpg"
 heroAlt: "Google Gemini Live Translate dich giong noi thoi gian thuc 2026"
 heroCaption: "Google ra mắt Gemini 3.5 Live Translate, dịch giọng nói thời gian thực giữ nguyên ngữ điệu. Nguồn: YouTube"
 tldr: "Tại sự kiện <strong>Google I/O 2026</strong> hồi tháng 5, Google giới thiệu <strong>Gemini 3.5 Live Translate</strong>, mô hình âm thanh mới nhất có khả năng dịch giọng nói sang giọng nói gần như theo thời gian thực trên hơn <strong>70 ngôn ngữ</strong>. Điểm đột phá là mô hình xử lý liên tục dòng âm thanh thay vì chờ người nói kết thúc câu mới bắt đầu dịch, đồng thời tự động phát hiện chuyển đổi ngôn ngữ giữa câu mà không cần cấu hình thủ công. Giọng nói dịch ra vẫn giữ được ngữ điệu, nhịp điệu và cao độ gần với giọng gốc của người nói. Tính năng đang triển khai trên ứng dụng <strong>Google Translate</strong> cho Android và iOS toàn cầu, cùng bản xem trước riêng cho doanh nghiệp trên <strong>Google Meet</strong>."
@@ -69,7 +69,7 @@ Google vừa chính thức triển khai Gemini 3.5 Live Translate, mô hình âm
 Một điểm nổi bật khác được Google nhấn mạnh là khả năng tạo ra giọng nói dịch mượt mà, tự nhiên, giữ được ngữ điệu, nhịp điệu và cao độ gần với giọng nói gốc của người nói, thay vì chỉ đọc văn bản dịch theo giọng máy đơn điệu như nhiều công cụ dịch thuật trước đây. Điều này giúp trải nghiệm giao tiếp qua công cụ dịch trở nên gần gũi, tự nhiên hơn, giữ được phần nào cá tính và cảm xúc trong giọng nói của người đang trò chuyện.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xdPIwgDriTg/sddefault.jpg" alt="Google Gemini 3.5 Live Translate xoa bo rao can ngon ngu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xdPIwgDriTg/maxresdefault.jpg" alt="Google Gemini 3.5 Live Translate xoa bo rao can ngon ngu" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh công nghệ đánh giá Gemini 3.5 Live Translate là bước tiến lớn trong việc xóa bỏ rào cản ngôn ngữ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Sự xuất hiện của Gemini Live Translate tích hợp miễn phí trên đi
 Với người Việt thường xuyên làm việc với đối tác nước ngoài hoặc đi du lịch, công tác quốc tế, Gemini Live Translate là công cụ đáng thử nghiệm ngay vì tính miễn phí và dễ tiếp cận ngay trên điện thoại đang sử dụng hằng ngày, không cần đầu tư thêm chi phí phần cứng. Tuy nhiên, nên thử nghiệm kỹ với chính ngôn ngữ mình cần giao tiếp thường xuyên trước khi hoàn toàn phụ thuộc vào công cụ này cho các tình huống giao tiếp quan trọng, vì chất lượng dịch thực tế có thể khác nhau đáng kể tùy theo cặp ngôn ngữ cụ thể và độ phức tạp của nội dung hội thoại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xdPIwgDriTg/mqdefault.jpg" alt="Gemini Live Translate ho tro dich giong noi tren Google Meet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xdPIwgDriTg/maxresdefault.jpg" alt="Gemini Live Translate ho tro dich giong noi tren Google Meet" loading="lazy" width="1280" height="720">
   <figcaption>Gemini Live Translate được tích hợp vào Google Meet, hỗ trợ dịch giọng nói trong các cuộc họp trực tuyến. Nguồn: YouTube</figcaption>
 </figure>
 
 Xu hướng tích hợp AI trực tiếp vào các ứng dụng giao tiếp phổ biến như Google Meet cũng phản ánh chiến lược rộng hơn của Google trong việc tối ưu hóa trải nghiệm sử dụng các mô hình AI, tương tự cách [Gemini 3 Flash được Google định vị làm mô hình mặc định nhanh, tiết kiệm chi phí](/articles/google-gemini-3-flash-mo-hinh-ai-mac-dinh-nhanh-tiet-kiem-2026.html) cho nhiều ứng dụng cần phản hồi tức thời khác nhau trong hệ sinh thái sản phẩm của công ty.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/g58RYctmCFQ/mqdefault.jpg" alt="Danh gia Gemini Live Translate xoa bo rao can ngon ngu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/g58RYctmCFQ/maxresdefault.jpg" alt="Danh gia Gemini Live Translate xoa bo rao can ngon ngu" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều đánh giá cho rằng Gemini Live Translate là bước tiến quan trọng trong việc phá vỡ rào cản ngôn ngữ toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 

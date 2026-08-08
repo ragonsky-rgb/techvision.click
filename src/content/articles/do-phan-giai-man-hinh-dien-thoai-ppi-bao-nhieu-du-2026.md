@@ -78,7 +78,7 @@ Ba mức độ phân giải phổ biến nhất trên điện thoại hiện nay
 FHD+ là chuẩn phổ biến nhất hiện nay, độ phân giải quanh 1080 x 2400 điểm ảnh, cho PPI khoảng 380 tới 450 tùy kích thước màn hình cụ thể. Đây là mức mà phần lớn người dùng cho là đã đủ sắc nét cho mọi tác vụ hằng ngày, từ đọc tin tức, lướt mạng xã hội tới xem video độ phân giải cao. 2K, hay QHD+, có độ phân giải quanh 1440 x 3200 điểm ảnh, PPI thường vượt 500, chủ yếu xuất hiện trên các model cao cấp và một số máy định vị gaming muốn khoe thông số. Về lý thuyết, 2K cho hình ảnh mịn hơn FHD+, nhưng khác biệt này ngày càng khó nhận ra bằng mắt thường khi cả hai đều đã vượt xa ngưỡng phân biệt của thị giác con người.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/5NkrWKHNLYE/hqdefault.jpg" alt="So sanh do phan giai man hinh HD FHD 2K tren dien thoai" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5NkrWKHNLYE/maxresdefault.jpg" alt="So sanh do phan giai man hinh HD FHD 2K tren dien thoai" loading="lazy" width="1280" height="720">
   <figcaption>Chọn đúng độ phân giải giúp cân bằng độ nét và thời lượng pin. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ FHD+ là chuẩn phổ biến nhất hiện nay, độ phân giải quanh 1080 x
 Điều đó có nghĩa là một màn hình FHD+ trên máy 6 tới 6,5 inch, với PPI dao động 400 tới 450, đã vượt xa ngưỡng mắt người có thể phân biệt trong điều kiện sử dụng thông thường. Việc nâng lên 2K với PPI trên 500 gần như không mang lại khác biệt cảm nhận được với mắt thường, trừ khi bạn ghé sát màn hình để soi từng chữ nhỏ hoặc dùng máy để đeo kính thực tế ảo, nơi mắt ở rất gần màn hình nên độ phân giải cao mới thực sự phát huy tác dụng rõ rệt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xe1JlwXp6H4/hqdefault.jpg" alt="So sanh 1080p va 1440p muc do khac biet mat thuong" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xe1JlwXp6H4/maxresdefault.jpg" alt="So sanh 1080p va 1440p muc do khac biet mat thuong" loading="lazy" width="1280" height="720">
   <figcaption>Ở cỡ màn 6-7 inch, mắt thường rất khó phân biệt 1080p và 1440p ở khoảng cách dùng bình thường. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ FHD+ là chuẩn phổ biến nhất hiện nay, độ phân giải quanh 1080 x
 Hiệu năng cũng chịu tác động tương tự, đặc biệt khi chơi game đồ họa nặng. Một GPU tầm trung phải kéo độ phân giải 2K ở tốc độ khung hình cao dễ bị đuối sức hơn nhiều so với khi chạy ở FHD+, dẫn tới giật lag hoặc máy nóng nhanh hơn. Vì vậy trên các máy tầm trung, nhà sản xuất thường ưu tiên màn FHD+ kết hợp tần số quét cao thay vì cố nhồi độ phân giải 2K vào một con chip không đủ mạnh để tận dụng, vì trải nghiệm mượt mà thực tế quan trọng hơn con số độ phân giải in trên hộp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/4E64UM7D0R8/hqdefault.jpg" alt="Thong so man hinh dien thoai va muc tieu hao pin" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4E64UM7D0R8/maxresdefault.jpg" alt="Thong so man hinh dien thoai va muc tieu hao pin" loading="lazy" width="1280" height="720">
   <figcaption>Độ phân giải cao hơn đồng nghĩa GPU và pin phải gánh nhiều điểm ảnh hơn. Nguồn: YouTube</figcaption>
 </figure>
 

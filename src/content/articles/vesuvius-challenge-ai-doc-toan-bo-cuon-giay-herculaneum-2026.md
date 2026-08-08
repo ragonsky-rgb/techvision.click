@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T14:00:00+07:00"
 dateModified: "2026-07-04T14:00:00+07:00"
 deck: "Dự án Vesuvius Challenge công bố thành tựu đột phá: lần đầu tiên đọc trọn vẹn từ đầu tới cuối một cuộn giấy cổ nguyên vẹn từ thành phố Herculaneum, bị núi lửa Vesuvius thiêu cháy thành than cách đây gần 2.000 năm, mà không cần mở cuộn giấy ra. Thành tựu đạt được nhờ kết hợp quét tia X độ phân giải cao và mô hình AI phát hiện vết mực gần như vô hình trên giấy đã cháy đen."
-heroImage: "https://i.ytimg.com/vi/51XHIoV2HwU/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/51XHIoV2HwU/maxresdefault.jpg"
 heroAlt: "Vesuvius Challenge AI doc toan bo cuon giay Herculaneum 2026"
 heroCaption: "Vesuvius Challenge, dự án dùng AI đọc trọn vẹn cuộn giấy cổ Herculaneum lần đầu tiên. Nguồn: YouTube"
 tldr: "Dự án <strong>Vesuvius Challenge</strong> công bố ngày 25/6/2026 đã đọc trọn vẹn từ đầu tới cuối cuộn giấy <strong>PHerc. 1667</strong> (còn gọi là Cuộn giấy số 4) từ thành phố Herculaneum, bị núi lửa Vesuvius thiêu cháy thành than cách đây gần <strong>2.000 năm</strong>, mà không cần mở cuộn giấy ra. Các nhà khoa học quét cuộn giấy bằng tia X độ phân giải cao tại cơ sở ESRF ở Grenoble (Pháp), dựng lại hình dạng cuộn giấy trong không gian 3 chiều, làm phẳng thành bề mặt đọc được rồi dùng AI phát hiện vết mực gần như vô hình. Nội dung là một luận thuyết đạo đức học Khắc kỷ (Stoic) từ thế kỷ 2 trước Công nguyên, nhắc tới nhân vật Aristocreon."
@@ -67,7 +67,7 @@ Thay vì cố gắng mở vật lý cuộn giấy đã cháy giòn, dễ vỡ v�
 Sau khi có dữ liệu quét, các nhà khoa học dựng lại hình dạng cuộn giấy trong không gian ba chiều bằng máy tính, "làm phẳng" hình ảnh cuộn giấy cuộn chặt thành một bề mặt phẳng có thể đọc được, sau đó huấn luyện mô hình học máy để phát hiện những vết mực gần như vô hình trên nền giấy đã cháy đen hoàn toàn, một quá trình đòi hỏi kết hợp nhiều năm nghiên cứu liên ngành giữa hình ảnh học tiên tiến, trí tuệ nhân tạo và nghiên cứu học thuật chuyên sâu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/51XHIoV2HwU/mqdefault.jpg" alt="AI giai ma cuon giay Herculaneum hoan chinh 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/51XHIoV2HwU/maxresdefault.jpg" alt="AI giai ma cuon giay Herculaneum hoan chinh 2026" loading="lazy" width="1280" height="720">
   <figcaption>Đây là lần đầu tiên một cuộn giấy Herculaneum nguyên vẹn được giải mã hoàn chỉnh từ đầu tới cuối. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Song song với khám phá chính, nhóm nghiên cứu còn xác nhận độc l
 Với người quan tâm tới các ứng dụng AI đột phá khác trong đời sống và khoa học, bài viết [Claude Fable 5, Mythos: model mạnh nhất Anthropic](/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html) giới thiệu thêm một hướng phát triển AI khác đang gây chú ý mạnh mẽ trên toàn cầu. Người quan tâm tới các thiết bị AI ứng dụng trong đời sống hằng ngày cũng có thể tham khảo bài viết [Google Home Speaker: loa thông minh Gemini](/articles/google-home-speaker-loa-thong-minh-gemini-2026.html) để thấy rõ hơn sự đa dạng trong ứng dụng công nghệ AI hiện nay, từ nghiên cứu khoa học chuyên sâu cho tới các thiết bị gia dụng thông minh phổ biến.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/i7rF_5_eyIk/hqdefault.jpg" alt="Vesuvius Challenge cong nghe AI khao co hoc 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/i7rF_5_eyIk/sddefault.jpg" alt="Vesuvius Challenge cong nghe AI khao co hoc 2026" loading="lazy" width="640" height="480">
   <figcaption>Công nghệ AI kết hợp hình ảnh y khoa đang mở ra chương mới cho ngành khảo cổ học kỹ thuật số. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Thành tựu của Vesuvius Challenge không chỉ đơn thuần là một bư�
 Dự án cũng là một ví dụ điển hình về sức mạnh của khoa học công dân và mô hình cuộc thi mở, khi hàng nghìn nhà nghiên cứu, kỹ sư và người đam mê công nghệ trên khắp thế giới cùng đóng góp thuật toán, ý tưởng để giải quyết một bài toán khoa học phức tạp mà một tổ chức đơn lẻ khó có thể tự mình hoàn thành trong thời gian ngắn. Với hơn 600 cuộn giấy Herculaneum khác vẫn đang chờ được nghiên cứu, giới khoa học kỳ vọng những năm tới sẽ chứng kiến thêm nhiều khám phá quan trọng khác về văn học, triết học và lịch sử cổ đại La Mã, mở ra một chương hoàn toàn mới trong việc tìm hiểu về thế giới cổ đại thông qua lăng kính của trí tuệ nhân tạo hiện đại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/51XHIoV2HwU/hq720.jpg" alt="Herculaneum thu vien co dai duoi tro nui lua 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/51XHIoV2HwU/maxresdefault.jpg" alt="Herculaneum thu vien co dai duoi tro nui lua 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thư viện cổ đại khổng lồ bị chôn vùi dưới tro núi lửa vẫn còn hàng trăm bí mật chưa được khám phá. Nguồn: YouTube</figcaption>
 </figure>
 

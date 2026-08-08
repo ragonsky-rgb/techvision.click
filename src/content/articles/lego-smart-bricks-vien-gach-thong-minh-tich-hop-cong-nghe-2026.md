@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T18:00:00+07:00"
 dateModified: "2026-07-04T18:00:00+07:00"
 deck: "LEGO chính thức ra mắt Smart Bricks, dòng gạch lắp ráp thế hệ mới tích hợp chip nhỏ gọn, cảm biến, đèn LED và loa ngay bên trong viên gạch tiêu chuẩn, mở đường cho các bộ đồ chơi tương tác thông minh, phản ứng theo chạm, chuyển động và khoảng cách."
-heroImage: "https://i.ytimg.com/vi/zFCTcgwdbVw/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/zFCTcgwdbVw/maxresdefault.jpg"
 heroAlt: "LEGO Smart Bricks vien gach thong minh tich hop cong nghe"
 heroCaption: "LEGO Smart Bricks tích hợp chip, cảm biến và đèn LED ngay bên trong viên gạch lắp ráp. Nguồn: YouTube"
 tldr: "LEGO vừa chính thức công bố <strong>Smart Bricks</strong>, dòng gạch lắp ráp thế hệ mới trong hệ thống <strong>Smart Play</strong>, tích hợp một con chip nhỏ bằng kích thước một viên gạch 2x4 tiêu chuẩn bên trong, cùng cảm biến, đèn LED và loa nhỏ. Viên gạch có thể phản ứng động theo cách người chơi chạm, di chuyển hoặc đưa lại gần nhau, hỗ trợ kết nối NFC và mạng lưới mesh giữa các viên gạch. Sản phẩm dự kiến mở bán chính thức từ ngày <strong>1/3/2026</strong> với các bộ chủ đề Star Wars giá từ <strong>69,99 tới 159,99 USD</strong>."
@@ -69,7 +69,7 @@ LEGO vừa chính thức công bố Smart Bricks, dòng gạch lắp ráp thế 
 Một điểm kỹ thuật đáng chú ý khác của Smart Bricks là khả năng kết nối với nhau thông qua công nghệ NFC kết hợp mạng lưới mesh không dây, cho phép nhiều viên gạch trong cùng một bộ mô hình lắp ráp phối hợp phản ứng đồng bộ khi người chơi tương tác. Điều này mở ra khả năng xây dựng các mô hình lắp ráp phức tạp hơn, nơi từng bộ phận có thể phản ứng ăn khớp với nhau, ví dụ một cỗ máy trong bộ Star Wars có thể phát sáng đèn theo trình tự hoặc phát âm thanh hiệu ứng khi các bộ phận được lắp ráp đúng thứ tự.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zFCTcgwdbVw/mqdefault.jpg" alt="LEGO cong bo vien gach thong minh va robot tai CES 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zFCTcgwdbVw/maxresdefault.jpg" alt="LEGO cong bo vien gach thong minh va robot tai CES 2026" loading="lazy" width="1280" height="720">
   <figcaption>LEGO giới thiệu chi tiết công nghệ đằng sau dòng sản phẩm Smart Bricks mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Một điểm kỹ thuật đáng chú ý khác của Smart Bricks là khả nă
 LEGO dự kiến mở bán chính thức Smart Bricks từ ngày 1/3/2026, với thời gian đặt hàng trước bắt đầu sớm hơn từ ngày 9/1/2026. Các bộ sản phẩm đầu tiên tập trung vào chủ đề Star Wars, một trong những dòng sản phẩm ăn khách nhất của LEGO nhiều năm qua, với mức giá dao động từ 69,99 tới 159,99 USD tùy quy mô bộ lắp ráp. Mức giá này cao hơn đáng kể so với các bộ LEGO thông thường cùng kích thước, phản ánh chi phí tích hợp thêm phần cứng công nghệ vào từng viên gạch trong bộ sản phẩm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Z2KZq4rLl3w/hqdefault.jpg" alt="LEGO Group chinh thuc cong bo vien gach thong minh tai CES 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Z2KZq4rLl3w/maxresdefault.jpg" alt="LEGO Group chinh thuc cong bo vien gach thong minh tai CES 2026" loading="lazy" width="1280" height="720">
   <figcaption>LEGO Group chính thức công bố dòng viên gạch thông minh mới tại sự kiện công nghệ lớn CES 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Với trẻ em yêu thích cả lắp ráp truyền thống lẫn các thiết b
 Với phụ huynh Việt Nam đang tìm kiếm đồ chơi giáo dục kết hợp công nghệ cho con em, LEGO Smart Bricks là sản phẩm đáng theo dõi trong năm 2026, dù mức giá còn khá cao so với các bộ LEGO thông thường và chưa có thông tin chính thức về thời điểm phân phối tại thị trường Việt Nam. Phụ huynh có thể cân nhắc chờ đợi phản hồi thực tế từ thị trường quốc tế sau khi sản phẩm chính thức mở bán vào tháng 3/2026, trước khi quyết định đầu tư cho con em trải nghiệm dòng sản phẩm mới này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zFCTcgwdbVw/sddefault.jpg" alt="Vien gach LEGO Smart Bricks phan ung theo cham va chuyen dong" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zFCTcgwdbVw/maxresdefault.jpg" alt="Vien gach LEGO Smart Bricks phan ung theo cham va chuyen dong" loading="lazy" width="1280" height="720">
   <figcaption>Viên gạch Smart Bricks phản ứng theo cách người chơi chạm, di chuyển và tương tác trong quá trình lắp ráp. Nguồn: YouTube</figcaption>
 </figure>
 

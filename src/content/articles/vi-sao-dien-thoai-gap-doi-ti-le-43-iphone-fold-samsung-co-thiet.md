@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-02T19:30:00+07:00"
 dateModified: "2026-07-02T19:30:00+07:00"
 deck: "Cả Samsung lẫn Apple đều đang hướng thế hệ điện thoại gập tiếp theo về cùng một tỉ lệ màn hình 4:3, ngắn và rộng hơn thiết kế truyền thống. Khi Apple chính thức bước vào cuộc chơi với tỉ lệ tương tự, liệu Samsung có thiệt hại như nhiều người vẫn nghĩ, hay bức tranh kinh tế thực tế phức tạp hơn nhiều?"
-heroImage: "https://i.ytimg.com/vi/WYGhLgBlaD8/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/WYGhLgBlaD8/maxresdefault.jpg"
 heroAlt: "Vi sao dien thoai gap doi ti le 43 iPhone Fold Samsung"
 heroCaption: "Cả Samsung lẫn Apple đều đang hướng điện thoại gập về cùng một tỉ lệ màn hình mới. Nguồn: YouTube"
 tldr: "Xu hướng đổi từ màn hình gập <strong>gần vuông</strong> sang tỉ lệ <strong>4:3</strong> xuất phát từ nhu cầu trải nghiệm gần với máy tính bảng hơn, thuận tiện chia đôi màn hình và đa nhiệm. Cả <strong>Galaxy Z Fold 8 Wide</strong> của Samsung lẫn <strong>iPhone Fold</strong> đồn đoán của Apple đều đi theo hướng này. Tuy vậy, Samsung không hẳn chịu thiệt khi Apple gia nhập thị trường: <strong>Samsung Display</strong>, bộ phận sản xuất màn hình của tập đoàn, đã ký hợp đồng <strong>độc quyền 3 năm</strong> cung cấp tấm nền OLED gập cho chính iPhone Fold, với sản lượng dự kiến khoảng <strong>11 triệu tấm</strong> trong năm 2026, do các đối thủ như BOE, LG Display chưa đáp ứng được tiêu chuẩn chất lượng của Apple."
@@ -70,7 +70,7 @@ Việc cả Samsung lẫn Apple, hai hãng có ảnh hưởng lớn nhất tới
 Đây không phải lần đầu Apple bị nghi ngờ định giá sản phẩm theo hướng tối đa hóa lợi nhuận thay vì thuần túy vì công nghệ, một góc nhìn từng được phân tích trong bài viết về [nghịch lý giá bán và toan tính của Apple với iPhone 18 Pro Max](/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html). Với người dùng, đặc biệt là nhóm đang cân nhắc giữa hệ sinh thái Android và Apple, sự xuất hiện của iPhone Fold với tỉ lệ tương tự Galaxy Z Fold 8 Wide chắc chắn sẽ tạo ra một lựa chọn hấp dẫn mới, đặc biệt với những ai đã quen thuộc và gắn bó với hệ sinh thái Apple nhưng vẫn tò mò về trải nghiệm màn hình gập. Về mặt cảm nhận thương hiệu, việc Apple, vốn luôn giữ hình ảnh cẩn trọng và chỉ tung sản phẩm mới khi đã hoàn thiện, cũng chọn đi theo hướng tỉ lệ 4:3 có thể vô tình củng cố thêm tính đúng đắn của quyết định thiết kế mà Samsung đã thử nghiệm trước, thay vì khiến Samsung trông như kẻ chạy theo. Tuy vậy, không thể phủ nhận rằng khi có thêm một lựa chọn uy tín từ Apple, một bộ phận người dùng vốn đang do dự có thể quyết định chờ đợi và chuyển hướng sang iPhone Fold thay vì mua Galaxy Z Fold thế hệ mới ngay lập tức.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/hrpFdy9rz9s/hqdefault.jpg" alt="iPhone Fold kich thuoc thuc te so sanh iPhone 18 Pro 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/hrpFdy9rz9s/maxresdefault.jpg" alt="iPhone Fold kich thuoc thuc te so sanh iPhone 18 Pro 2026" loading="lazy" width="1280" height="720">
   <figcaption>iPhone Fold được đồn đoán có màn hình trong khoảng 7,8 inch, tỉ lệ 4:3 giống iPad mini. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Việc cả Samsung lẫn Apple, hai hãng có ảnh hưởng lớn nhất tới
 Đây là điểm quan trọng nhất thường bị bỏ qua khi bàn về tác động của iPhone Fold lên Samsung. Trong khi Samsung Electronics, bộ phận sản xuất điện thoại của tập đoàn, sẽ phải cạnh tranh trực tiếp với Apple trên thị trường điện thoại gập thành phẩm, thì Samsung Display, bộ phận sản xuất màn hình tách biệt trong cùng tập đoàn, lại đang là nhà cung cấp tấm nền OLED gập độc quyền cho chính chiếc iPhone Fold. Theo các nguồn tin trong ngành, Samsung Display đã ký hợp đồng độc quyền kéo dài 3 năm với Apple, với sản lượng dự kiến khoảng 11 triệu tấm nền trong năm 2026, một con số cao hơn nhiều so với ước tính ban đầu của giới phân tích.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zAWoXCW9UHM/hqdefault.jpg" alt="iPhone Fold man hinh Samsung Display cung cap doc quyen 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zAWoXCW9UHM/maxresdefault.jpg" alt="iPhone Fold man hinh Samsung Display cung cap doc quyen 2026" loading="lazy" width="1280" height="720">
   <figcaption>Samsung Display là nhà cung cấp tấm nền OLED gập độc quyền cho iPhone Fold trong ba năm tới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Lý do Apple buộc phải chọn Samsung nằm ở việc các đối thủ c�
 Nói cách khác, mỗi chiếc iPhone Fold bán ra trên toàn cầu, dù có thể lấy đi một phần khách hàng tiềm năng của [Galaxy Z TriFold, chiếc điện thoại gập ba đầu tiên của Samsung](/articles/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.html) hay dòng Z Fold tiêu chuẩn, vẫn mang lại doanh thu trực tiếp cho Samsung thông qua mảng kinh doanh màn hình. Đây là mô hình kinh doanh không hiếm gặp trong ngành công nghệ, nơi ranh giới giữa đối thủ cạnh tranh và đối tác chuỗi cung ứng thường xuyên đan xen lẫn nhau, tương tự cách Samsung từng nhiều lần vừa cạnh tranh vừa cung ứng linh kiện cho Apple ở các mảng sản phẩm khác trong quá khứ, bao gồm cả chip nhớ và một số linh kiện màn hình trên các dòng iPhone thông thường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2RXEIIDG__0/hqdefault.jpg" alt="iPhone Fold trai nghiem thuc te dummy model 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/2RXEIIDG__0/maxresdefault.jpg" alt="iPhone Fold trai nghiem thuc te dummy model 2026" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế qua mô hình dummy cho thấy hình dáng dự kiến của iPhone Fold. Nguồn: YouTube</figcaption>
 </figure>
 

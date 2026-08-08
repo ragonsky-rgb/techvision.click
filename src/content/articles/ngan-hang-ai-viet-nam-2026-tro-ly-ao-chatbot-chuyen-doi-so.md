@@ -88,7 +88,7 @@ AI mang lại lợi ích kinh doanh rõ rệt cho ngành ngân hàng. Theo báo 
 Trong lĩnh vực bảo mật, AI giúp phát hiện các giao dịch bất thường và hành vi gian lận nhanh hơn, bảo vệ tài khoản khách hàng tốt hơn. Về dịch vụ, AI phân tích dữ liệu để đưa ra gợi ý sản phẩm phù hợp với từng khách hàng. Về vận hành, tự động hóa giúp xử lý hồ sơ, thẩm định và các tác vụ hành chính nhanh hơn. Sự kết hợp này giúp ngân hàng vừa giảm chi phí vừa nâng cao trải nghiệm, tạo lợi thế cạnh tranh trong một thị trường ngày càng số hóa.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SQV9WbIdNnw/hqdefault.jpg" alt="Hoạt động chuyển đổi số và ứng dụng AI của ngân hàng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SQV9WbIdNnw/sddefault.jpg" alt="Hoạt động chuyển đổi số và ứng dụng AI của ngân hàng" loading="lazy" width="640" height="480">
   <figcaption>AI cải thiện hiệu quả vận hành và bảo mật cho ngân hàng. Nguồn: YouTube</figcaption>
 </figure>
 

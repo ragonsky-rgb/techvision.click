@@ -62,7 +62,7 @@ Ngay sau khi ra mắt tại Galaxy Unpacked 22/7, bộ đôi Galaxy Z Fold 8 và
 Điểm cần làm rõ đầu tiên chính là tên gọi. Nhiều người mặc định Ultra là bản màn hình lớn hơn, nhưng năm nay không phải vậy. Samsung dùng tên Galaxy Z Fold 8 cho thiết kế rộng và ngắn hoàn toàn mới, còn Galaxy Z Fold 8 Ultra lại là phiên bản giữ dáng cao và hẹp giống các đời Fold trước, kèm theo hệ thống camera đầu bảng. Nói cách khác, sự khác biệt giữa hai bản nằm ở kiểu dáng và camera, chứ không đơn thuần là máy nào to hơn máy nào. Đây là lý do khiến không ít người xem thông số ban đầu bị nhầm khi thấy bản thường lại là thứ mới lạ nhất.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xk3SXct0WZk/hqdefault.jpg" alt="Galaxy Z Fold 8 ban thuong thiet ke rong moi so voi Ultra" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xk3SXct0WZk/maxresdefault.jpg" alt="Galaxy Z Fold 8 ban thuong thiet ke rong moi so voi Ultra" loading="lazy" width="1280" height="720">
   <figcaption>Bản Z Fold 8 thường mang thiết kế rộng mới, trong khi Ultra giữ dáng cao truyền thống. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Sự khác biệt về tỷ lệ thân máy ảnh hưởng trực tiếp tới t
 Nếu thiết kế là điểm gây tranh luận thì camera mới là ranh giới rõ ràng nhất. Galaxy Z Fold 8 Ultra được trang bị camera chính 200MP kết hợp ống kính siêu rộng 50MP và ống tele cho zoom quang 3x, mang lại khả năng chụp xa và chi tiết vượt trội, đúng chất một flagship nhiếp ảnh. Trong khi đó, Galaxy Z Fold 8 thường chỉ có bộ đôi 50MP góc rộng và 50MP siêu rộng, lược bỏ ống tele để giảm trọng lượng và giá thành. Cả hai đều có camera selfie 10MP trên cả màn trong lẫn màn ngoài.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/AgOin_v_Fgc/hqdefault.jpg" alt="Galaxy Z Fold 8 Ultra camera 200MP kem ong tele so voi ban thuong" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/AgOin_v_Fgc/maxresdefault.jpg" alt="Galaxy Z Fold 8 Ultra camera 200MP kem ong tele so voi ban thuong" loading="lazy" width="1280" height="720">
   <figcaption>Camera 200MP kèm ống tele là lợi thế lớn nhất của bản Ultra. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Với người coi điện thoại là công cụ chụp ảnh chính, việc th
 Về sức mạnh, cả hai phiên bản đều dùng chung chip Snapdragon 8 Elite Gen 5 for Galaxy, bản tùy biến hiệu năng cao mà Qualcomm làm riêng cho Samsung, nên khác biệt về hiệu năng xử lý gần như không đáng kể trong sử dụng thực tế. Điều này nghĩa là bạn không phải trả thêm tiền cho bản Ultra chỉ để có máy nhanh hơn, vì bản thường cũng mạnh tương đương cho đa nhiệm, chơi game và các tác vụ Galaxy AI. Về giá, Galaxy Z Fold 8 khởi điểm 1.899 USD còn Z Fold 8 Ultra từ 2.099 USD, chênh khoảng 200 USD chủ yếu cho camera và thiết kế mỏng hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-2ffrPhN3Cc/hqdefault.jpg" alt="Galaxy Z Fold 8 va Ultra so sanh gia va hieu nang" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-2ffrPhN3Cc/maxresdefault.jpg" alt="Galaxy Z Fold 8 va Ultra so sanh gia va hieu nang" loading="lazy" width="1280" height="720">
   <figcaption>Hai bản dùng chung chip đầu bảng, khác biệt nằm ở camera và giá. Nguồn: YouTube</figcaption>
 </figure>
 

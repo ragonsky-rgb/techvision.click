@@ -76,7 +76,7 @@ Tính chung, các smartphone cao cấp từ Samsung, Xiaomi, Oppo và Vivo ra m�
 Vì sao giá điện thoại đồng loạt tăng? Câu trả lời nằm ở chuỗi cung ứng linh kiện. Nguyên nhân cốt lõi được các chuyên gia chỉ ra là tình trạng thiếu hụt nghiêm trọng nguồn cung, đặc biệt là chip nhớ. Khi làn sóng xây dựng trung tâm dữ liệu AI bùng nổ trên toàn cầu, nhiều tập đoàn công nghệ lớn lao vào tranh giành chip nhớ để phục vụ các cụm máy chủ khổng lồ, khiến mặt hàng này trở nên khan hiếm và đắt đỏ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/6WB-zIOLH_c/hqdefault.jpg" alt="Cơn sốt trung tâm dữ liệu AI đẩy giá chip nhớ tăng, tác động tới giá smartphone" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6WB-zIOLH_c/maxresdefault.jpg" alt="Cơn sốt trung tâm dữ liệu AI đẩy giá chip nhớ tăng, tác động tới giá smartphone" loading="lazy" width="1280" height="720">
   <figcaption>Nhu cầu chip nhớ từ trung tâm dữ liệu AI đẩy chi phí linh kiện tiêu dùng lên cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Bức tranh linh kiện càng thêm căng thẳng khi giá bộ nhớ liên tụ
 ## Điểm sáng và lời khuyên cho người dùng
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DZYVFHw6UDY/hqdefault.jpg" alt="Người dùng Việt cân nhắc lựa chọn khi giá smartphone cao cấp tăng mạnh năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DZYVFHw6UDY/maxresdefault.jpg" alt="Người dùng Việt cân nhắc lựa chọn khi giá smartphone cao cấp tăng mạnh năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Giá tăng buộc người dùng cân nhắc kỹ nhu cầu và thời điểm mua máy. Nguồn: YouTube</figcaption>
 </figure>
 
 Giữa bức tranh giá tăng, thị trường Việt Nam vẫn có những điểm sáng đáng chú ý. Nổi bật là sự trở lại của Huawei với Mate X7, mẫu điện thoại gập cao cấp ra mắt cuối tháng 1/2026 với giá khoảng 54,99 triệu đồng. Sự trở lại của một ông lớn từng vắng bóng cho thấy phân khúc cao cấp tại Việt Nam vẫn đủ sức hấp dẫn để các thương hiệu đầu tư, bất chấp mặt bằng giá đang đi lên.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/OQ_jQ5pytEA/hqdefault.jpg" alt="So sánh các flagship 2026 giúp người dùng Việt lựa chọn phù hợp túi tiền" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OQ_jQ5pytEA/maxresdefault.jpg" alt="So sánh các flagship 2026 giúp người dùng Việt lựa chọn phù hợp túi tiền" loading="lazy" width="1280" height="720">
   <figcaption>So sánh kỹ giữa các mẫu giúp người dùng chọn được lựa chọn hợp lý nhất. Nguồn: YouTube</figcaption>
 </figure>
 

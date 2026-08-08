@@ -63,7 +63,7 @@ Nếu chỉ chọn một lý do để chú ý tới MatePad 12 X 2026, đó là 
 Bên cạnh cảm giác viết, màn hình còn có thông số hiển thị tốt với tần số quét 144Hz cho thao tác mượt, độ sáng khoảng 1.000 nit giúp nhìn rõ trong nhiều điều kiện ánh sáng, và kích thước 12 inch đủ rộng để chia đôi màn hình khi làm việc. Lớp phủ chống lóa cũng giúp đỡ mỏi mắt hơn khi nhìn lâu, một lợi thế với người dùng đọc và soạn thảo nhiều giờ mỗi ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/yRl49S1k-ZA/hqdefault.jpg" alt="Người dùng vẽ trên màn hình PaperMatte của MatePad 12 X 2026 bằng bút M-Pencil Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yRl49S1k-ZA/maxresdefault.jpg" alt="Người dùng vẽ trên màn hình PaperMatte của MatePad 12 X 2026 bằng bút M-Pencil Pro" loading="lazy" width="1280" height="720">
   <figcaption>Màn PaperMatte cho cảm giác viết và vẽ gần với giấy thật, điểm hút người dùng sáng tạo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Bên cạnh cảm giác viết, màn hình còn có thông số hiển thị t�
 Phần mềm ghi chú của Huawei cũng được xây dựng quanh nhu cầu này, với khả năng nhận diện chữ viết, chuyển chữ viết tay thành văn bản và sắp xếp ghi chú. Dù vậy, một số người dùng phản ánh phần mềm đôi lúc còn chỗ cần hoàn thiện. Nhìn chung, phần cứng phục vụ ghi chép của máy được khen, còn trải nghiệm phần mềm sẽ tùy thuộc thói quen của từng người.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/9P9w3rwJMd0/hqdefault.jpg" alt="Ghi chú viết tay trên MatePad 12 X 2026 với phần mềm nhận diện chữ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9P9w3rwJMd0/maxresdefault.jpg" alt="Ghi chú viết tay trên MatePad 12 X 2026 với phần mềm nhận diện chữ" loading="lazy" width="1280" height="720">
   <figcaption>Bộ đôi màn PaperMatte và bút M-Pencil Pro cho trải nghiệm ghi chép được đánh giá cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Vì vậy, đối tượng phù hợp nhất với MatePad 12 X 2026 là ngườ
 Theo các nguồn tham khảo quốc tế, trọn bộ MatePad 12 X 2026 kèm bút và bàn phím có giá quanh 748 SGD, tương đương khoảng 13,7 triệu đồng. Đây là mức hợp lý cho một máy tính bảng cao cấp đi kèm đầy đủ phụ kiện, đặc biệt khi so với chi phí mua riêng bút và bàn phím trên nhiều dòng máy khác. Giá bán chính hãng tại Việt Nam nếu có sẽ phụ thuộc vào cấu hình và chính sách phân phối của Huawei.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/MfoDo4IBQyU/hqdefault.jpg" alt="Dòng MatePad 12 X với màn PaperMatte và thiết kế mỏng nhẹ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/MfoDo4IBQyU/maxresdefault.jpg" alt="Dòng MatePad 12 X với màn PaperMatte và thiết kế mỏng nhẹ" loading="lazy" width="1280" height="720">
   <figcaption>Dòng MatePad 12 X duy trì thế mạnh màn PaperMatte và bộ phụ kiện đi kèm qua các thế hệ. Nguồn: YouTube</figcaption>
 </figure>
 

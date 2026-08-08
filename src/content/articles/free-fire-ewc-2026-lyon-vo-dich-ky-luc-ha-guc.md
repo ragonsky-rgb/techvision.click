@@ -64,7 +64,7 @@ LYON bước vào vòng chung kết Free Fire tại EWC 2026 với tư cách m�
 Điều làm nên khác biệt của LYON là khả năng phối hợp đồng đội và giữ được cái đầu lạnh trong những pha đối đầu quyết định. Trong một tựa game mà chỉ một sai lầm nhỏ có thể khiến cả đội bị xóa sổ, việc duy trì kỷ luật đội hình qua nhiều ván liên tiếp là thử thách lớn. LYON đã vượt qua được áp lực đó, và phần thưởng là ngôi vô địch cùng tấm vé dự Free Fire Global Finals 2026, giải đấu lớn nhất trong năm của bộ môn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/W9iHuzqedeM/hqdefault.jpg" alt="LYON thi dau ap dao trong vong chung ket Free Fire EWC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/W9iHuzqedeM/maxresdefault.jpg" alt="LYON thi dau ap dao trong vong chung ket Free Fire EWC 2026" loading="lazy" width="1280" height="720">
   <figcaption>LYON thi đấu áp đảo suốt vòng chung kết Free Fire EWC 2026 tại Paris. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Khoảnh khắc định hình chức vô địch của LYON đến ở ván 5 v�
 Ý nghĩa của ván 5 không chỉ nằm ở kỷ lục, mà ở cách nó nới rộng khoảng cách điểm số. Ở thể thức tính điểm cộng dồn, một ván bùng nổ với vừa điểm sống sót cao vừa hàng loạt điểm hạ gục có thể tạo cách biệt mà đối thủ khó san lấp trong các ván còn lại. Nhờ ván đấu này, LYON gần như đặt một chân vào ngôi vô địch, biến phần còn lại của chung kết thành cuộc rượt đuổi mà đội đã nắm lợi thế lớn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/oUbtWwHc1_w/hqdefault.jpg" alt="Van 5 lich su Free Fire EWC 2026 LYON lap ky luc ha guc kem Booyah" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/oUbtWwHc1_w/maxresdefault.jpg" alt="Van 5 lich su Free Fire EWC 2026 LYON lap ky luc ha guc kem Booyah" loading="lazy" width="1280" height="720">
   <figcaption>Ván 5 với 33 pha hạ gục kèm Booyah là bước ngoặt đưa LYON tới chức vô địch. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Cá nhân nổi bật nhất giải là Benjamín "Gamezking" Pérez của LYON,
 Màn trình diễn của Gamezking là ví dụ cho thấy giá trị của những cá nhân xuất sắc trong esports đồng đội. Dù chiến thắng luôn là công sức tập thể, một tuyển thủ đủ bản lĩnh ở các thời điểm quyết định có thể tạo ra khác biệt giữa thắng và thua. Với LYON, sự tỏa sáng của Gamezking cộng hưởng cùng lối chơi kỷ luật của toàn đội, tạo nên công thức vô địch thuyết phục tại một trong những sân khấu lớn nhất năm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/6CYNVLK_hLg/hqdefault.jpg" alt="Cac doi tranh tai vong bang Free Fire EWC 2026 tai Paris" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6CYNVLK_hLg/maxresdefault.jpg" alt="Cac doi tranh tai vong bang Free Fire EWC 2026 tai Paris" loading="lazy" width="1280" height="720">
   <figcaption>24 đội tranh tài xuyên suốt các vòng đấu Free Fire tại EWC 2026 ở Paris. Nguồn: YouTube</figcaption>
 </figure>
 

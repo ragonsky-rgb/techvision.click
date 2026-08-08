@@ -77,7 +77,7 @@ Yếu tố giúp Ask Pinterest khác biệt là kho dữ liệu sở thích Tast
 Lợi thế dữ liệu là điều khó sao chép, và Pinterest đang tận dụng nó như một điểm khác biệt cạnh tranh. Trong khi nhiều công cụ AI mạnh về ngôn ngữ nhưng thiếu hiểu biết sâu về sở thích trực quan của người dùng, Pinterest có cả hai. Sự kết hợp giữa khả năng hội thoại của AI và chiều sâu dữ liệu sở thích có thể tạo ra trải nghiệm khám phá sản phẩm vừa tự nhiên vừa đúng gu, đặc biệt trong các lĩnh vực như thời trang, trang trí và phong cách sống.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/iPQD9Ud9rr0/hq720.jpg" alt="Công cụ AI mới trên Pinterest hỗ trợ khám phá sản phẩm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/iPQD9Ud9rr0/maxresdefault.jpg" alt="Công cụ AI mới trên Pinterest hỗ trợ khám phá sản phẩm" loading="lazy" width="1280" height="720">
   <figcaption>Pinterest kết hợp AI hội thoại với kho dữ liệu sở thích người dùng. Nguồn: YouTube</figcaption>
 </figure>
 

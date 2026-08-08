@@ -100,7 +100,7 @@ Về nhiếp ảnh, dòng K100 được đồn dùng camera chính 200MP đi kè
 Bên cạnh đó, máy được cho là trang bị cảm biến vân tay siêu âm dưới màn hình, khung kim loại và chuẩn kháng nước IP. Cảm biến siêu âm nhận diện nhanh và chính xác hơn loại quang học ngay cả khi tay ẩm, một điểm khá hữu ích với khí hậu Việt Nam. Nhìn tổng thể, tập hợp các chi tiết này cho thấy Redmi đang thu hẹp khoảng cách giữa dòng K và các flagship đúng nghĩa, thay vì chỉ tập trung vào điểm số benchmark như giai đoạn trước.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jnZ1etiAtMU/hqdefault.jpg" alt="Pin dung luong lon tro thanh diem nhan tren dien thoai Redmi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jnZ1etiAtMU/maxresdefault.jpg" alt="Pin dung luong lon tro thanh diem nhan tren dien thoai Redmi" loading="lazy" width="1280" height="720">
   <figcaption>Pin dung lượng lớn đã trở thành điểm nhấn quen thuộc trên điện thoại Redmi. Nguồn: YouTube</figcaption>
 </figure>
 

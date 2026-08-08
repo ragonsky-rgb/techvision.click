@@ -80,7 +80,7 @@ Theo các nguồn tin, Galaxy Glasses trang bị chip Qualcomm Snapdragon AR1, c
 Một chi tiết được người dùng quan tâm là tròng kính đổi màu tự động, tối đi khi ra nắng và sáng lại khi vào bóng râm, giúp Galaxy Glasses trông và dùng gần như kính thời trang thông thường. Trên gọng phải có bàn cảm ứng để vuốt chạm điều khiển và một đèn LED sáng lên khi camera đang ghi hình, một giải pháp nhằm trấn an lo ngại về quyền riêng tư mà kính có camera thường vấp phải. Trọng lượng khoảng 50g giúp đeo lâu không mỏi, gần với kính mắt bình thường thay vì cảm giác nặng của thiết bị điện tử.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/neCrlYP832Y/hqdefault.jpg" alt="Trai nghiem Android XR va Gemini tren kinh thong minh Samsung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/neCrlYP832Y/maxresdefault.jpg" alt="Trai nghiem Android XR va Gemini tren kinh thong minh Samsung" loading="lazy" width="1280" height="720">
   <figcaption>Android XR đưa trợ lý Gemini nghe và nhìn theo ngữ cảnh trước mắt người đeo. Nguồn: YouTube</figcaption>
 </figure>
 

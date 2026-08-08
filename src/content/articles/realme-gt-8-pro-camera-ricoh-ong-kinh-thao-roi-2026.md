@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-14T11:00:00+07:00"
 dateModified: "2026-07-14T11:00:00+07:00"
 deck: "realme GT 8 Pro là một trong những flagship gây tò mò nhất khi mang tới ý tưởng ít ai ngờ: mô đun camera có thể tháo rời và thay đổi, được giới thiệu là đầu tiên trên thế giới. Máy hợp tác với thương hiệu máy ảnh Ricoh để tinh chỉnh cụm camera 200MP, đi kèm chip Snapdragon 8 Elite Gen 5, pin 7000mAh và màn hình 2K 144Hz. Đây là cách realme tạo dấu ấn riêng ở phân khúc cao cấp vốn đông đúc, khi đánh mạnh vào nhiếp ảnh và sự khác biệt về thiết kế thay vì chạy theo cấu hình đơn thuần."
-heroImage: "https://i.ytimg.com/vi/fEuLAmwifcg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/fEuLAmwifcg/maxresdefault.jpg"
 heroAlt: "realme GT 8 Pro với camera 200MP Ricoh và mô đun ống kính có thể tháo rời"
 heroCaption: "realme GT 8 Pro nổi bật với camera tinh chỉnh bởi Ricoh và ý tưởng ống kính tháo rời. Nguồn: YouTube"
 tldr: "<strong>realme GT 8 Pro</strong> là flagship gây chú ý nhờ ý tưởng <strong>mô đun camera có thể tháo rời</strong>, được giới thiệu là đầu tiên trên thế giới, cho phép thay đổi kiểu dáng cụm camera. Máy hợp tác với thương hiệu máy ảnh <strong>Ricoh</strong> để tinh chỉnh cụm camera <strong>200MP</strong>, hướng tới trải nghiệm nhiếp ảnh khác biệt. Về cấu hình, GT 8 Pro dùng chip <strong>Snapdragon 8 Elite Gen 5</strong>, pin lớn <strong>7000mAh</strong> và màn hình <strong>2K 144Hz</strong>. Đây là canh bạc của realme nhằm tạo dấu ấn ở phân khúc cao cấp, khi kết hợp hiệu năng đầu bảng với thiết kế và nhiếp ảnh mang bản sắc riêng."
@@ -75,7 +75,7 @@ Tất nhiên, một ý tưởng mới luôn đi kèm câu hỏi về tính thự
 Bên cạnh phần cứng, realme đầu tư vào chất ảnh thông qua hợp tác với Ricoh, thương hiệu máy ảnh nổi tiếng, đặc biệt với dòng compact GR được giới nhiếp ảnh đường phố yêu thích. Sự hợp tác này giúp tinh chỉnh cụm camera 200MP của GT 8 Pro theo một phong cách màu sắc và trải nghiệm chụp mang bản sắc riêng, thay vì chỉ chạy theo con số điểm ảnh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ZlbiEvZ_g6w/hqdefault.jpg" alt="realme GT 8 Pro với hai phong cách thiết kế khác nhau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZlbiEvZ_g6w/maxresdefault.jpg" alt="realme GT 8 Pro với hai phong cách thiết kế khác nhau" loading="lazy" width="1280" height="720">
   <figcaption>GT 8 Pro cho phép tùy biến kiểu dáng, tạo cảm giác một sản phẩm mang dấu ấn cá nhân. Nguồn: YouTube</figcaption>
 </figure>
 

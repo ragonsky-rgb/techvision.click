@@ -98,7 +98,7 @@ Là nền tảng tài chính với hàng chục triệu người dùng, MoMo đ�
 Người dùng cũng nên cẩn trọng với các liên kết lạ, tin nhắn yêu cầu cung cấp thông tin tài khoản, và chỉ giao dịch qua ứng dụng chính thức tải từ kho ứng dụng uy tín. Khi sử dụng các dịch vụ tài chính như vay hay đầu tư, hãy đọc kỹ điều khoản và chỉ quyết định trong khả năng tài chính của mình. MoMo mang lại nhiều tiện ích, nhưng sử dụng thông minh và an toàn mới giúp người dùng tận dụng tối đa lợi ích mà tránh rủi ro. Việc trang bị kiến thức bảo mật là cách bảo vệ tốt nhất cho tài chính cá nhân.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/qb8sN5k36ps/hq720.jpg" alt="Sử dụng MoMo an toàn và cảnh giác lừa đảo ví điện tử" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qb8sN5k36ps/maxresdefault.jpg" alt="Sử dụng MoMo an toàn và cảnh giác lừa đảo ví điện tử" loading="lazy" width="1280" height="720">
   <figcaption>Người dùng cần cảnh giác lừa đảo khi dùng ví điện tử. Nguồn: YouTube</figcaption>
 </figure>
 

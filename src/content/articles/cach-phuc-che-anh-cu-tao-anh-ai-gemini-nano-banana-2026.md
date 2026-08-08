@@ -78,7 +78,7 @@ Với người dùng phổ thông tại Việt Nam, sự khác biệt này quan 
 Về hạn mức, tài khoản miễn phí được dùng Nano Banana Pro ở mức giới hạn, khoảng 5 lệnh và 2 ảnh mỗi ngày, đủ cho nhu cầu thử nghiệm hoặc phục chế vài tấm ảnh. Nếu cần làm số lượng lớn, gói Google AI Pro nâng hạn mức lên tối đa 100 lệnh mỗi ngày, còn gói Google AI Ultra cho tới 500 lệnh mỗi ngày. Người dùng nên cân nhắc nhu cầu thực tế trước khi trả phí, vì với đa số trường hợp cá nhân thì bản miễn phí đã đáp ứng được.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/4laYXFoPG1I/hqdefault.jpg" alt="Huong dan su dung Nano Banana chinh sua anh trong ung dung Gemini" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4laYXFoPG1I/maxresdefault.jpg" alt="Huong dan su dung Nano Banana chinh sua anh trong ung dung Gemini" loading="lazy" width="1280" height="720">
   <figcaption>Công cụ tạo và chỉnh ảnh nằm ngay trong khung chat của ứng dụng Gemini. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Dù mạnh, công cụ tạo ảnh AI vẫn có thể sai ở những chi tiết
 Một mẹo khác là tạo nhiều phiên bản rồi chọn bản tốt nhất, vì mỗi lần chạy mô hình có thể cho kết quả khác nhau. Người dùng cũng nên chú ý tới hạn mức hằng ngày để không dùng hết lượt vào những lần thử nghiệm chưa cần thiết. Với ai thường xuyên chỉnh ảnh, việc chuẩn bị sẵn vài mẫu prompt quen thuộc sẽ tiết kiệm thời gian đáng kể.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/8dXTV4npyWY/hqdefault.jpg" alt="Tao infographic bang Nano Banana Pro voi prompt mau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/8dXTV4npyWY/sddefault.jpg" alt="Tao infographic bang Nano Banana Pro voi prompt mau" loading="lazy" width="640" height="480">
   <figcaption>Nano Banana Pro là một trong số ít công cụ vẽ chữ và infographic tương đối chuẩn. Nguồn: YouTube</figcaption>
 </figure>
 

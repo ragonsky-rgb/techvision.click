@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T16:00:00+07:00"
 dateModified: "2026-07-08T16:00:00+07:00"
 deck: "T1 của Faker vừa để thua G2 Esports với tỷ số 1-3 trong loạt trận vòng nhánh thua MSI 2026 chiều 8/7, chính thức bị loại khỏi giải và cán đích ở hạng 5 chung cuộc. Đây là lần đầu tiên trong lịch sử đội không lọt vào top 4 một giải đấu quốc tế, và cũng là lần đầu G2 thắng T1 trong một loạt trận kể từ năm 2019."
-heroImage: "https://i.ytimg.com/vi/PusV0BQhdvg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/PusV0BQhdvg/maxresdefault.jpg"
 heroAlt: "T1 thua G2 Esports 1-3 tại MSI 2026, bị loại khỏi giải đấu"
 heroCaption: "G2 Esports đánh bại T1 với tỷ số 1-3 ở vòng nhánh thua MSI 2026. Nguồn: YouTube"
 tldr: "<strong>T1</strong> của <strong>Faker</strong> thua <strong>G2 Esports</strong> với tỷ số <strong>1-3</strong> trong loạt trận vòng nhánh thua <strong>MSI 2026</strong> diễn ra chiều <strong>8/7/2026</strong>, chính thức bị loại và cán đích <strong>hạng 5</strong> chung cuộc. G2 thắng ván 1 (26-21) và ván 2 (18-8) áp đảo, T1 gỡ lại ván 3 (27-18) nhưng để thua ván quyết định kéo dài gần 51 phút. Đây là lần đầu tiên T1 <strong>không lọt top 4</strong> một giải đấu quốc tế, và là lần đầu <strong>G2 thắng T1</strong> trong một loạt trận kể từ năm <strong>2019</strong>."
@@ -74,7 +74,7 @@ Ván 2 chứng kiến G2 thể hiện phong độ áp đảo hoàn toàn, dẫn 
 Ván 4, cũng là ván đấu định đoạt toàn bộ loạt trận, kéo dài gần 51 phút với thế trận cân bằng và nhiều lần đảo chiều liên tục. Cuối cùng, G2 Esports là đội giữ được cái đầu lạnh hơn trong những phút cuối để khép lại chiến thắng, chính thức loại T1 khỏi giải đấu ngay trên đất nhà Hàn Quốc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/RxUT_z9X2zg/hqdefault.jpg" alt="Highlight ván 1 trận đấu giữa T1 và G2 Esports tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/RxUT_z9X2zg/maxresdefault.jpg" alt="Highlight ván 1 trận đấu giữa T1 và G2 Esports tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ván 1 mở màn loạt trận với thế trận giằng co kéo dài hơn 40 phút. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Ván 4, cũng là ván đấu định đoạt toàn bộ loạt trận, kéo dà
 Bên cạnh đó, chiến thắng của G2 Esports còn phá vỡ một chuỗi thành tích kéo dài suốt nhiều năm. Đây là lần đầu tiên kể từ năm 2019 G2 Esports thắng được T1 trong một loạt trận đối đầu trực tiếp, chấm dứt giai đoạn dài đội tuyển châu Âu này luôn phải chịu lép vế mỗi khi chạm trán đại diện đến từ khu vực LCK.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/R1dn5EtXMhg/hqdefault.jpg" alt="Highlight ván 4 quyết định giữa T1 và G2 Esports" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/R1dn5EtXMhg/maxresdefault.jpg" alt="Highlight ván 4 quyết định giữa T1 và G2 Esports" loading="lazy" width="1280" height="720">
   <figcaption>Ván 4 kéo dài gần 51 phút, quyết định số phận của cả hai đội tại MSI 2026. Nguồn: YouTube</figcaption>
 </figure>
 

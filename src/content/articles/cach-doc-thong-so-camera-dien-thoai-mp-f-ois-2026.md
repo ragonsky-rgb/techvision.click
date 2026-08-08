@@ -78,7 +78,7 @@ Khẩu độ, ký hiệu bằng chữ f kèm một con số như f/1.8 hay f/2.2
 Đa số camera chính trên điện thoại flagship hiện nay có khẩu độ dao động quanh f/1.4 tới f/1.8, trong khi camera góc siêu rộng hoặc ống tele thường có khẩu độ hẹp hơn, từ f/2.0 trở lên, do giới hạn về thiết kế quang học của các loại ống kính này. Khẩu độ nhỏ cũng góp phần tạo hiệu ứng xóa phông tự nhiên hơn khi chụp chân dung, vì độ mở lớn giúp vùng ngoài tiêu cự mờ đi mượt mà hơn so với ống kính khẩu độ hẹp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/aIRGS1yyt9k/hqdefault.jpg" alt="Khau do f lon nho anh huong luong sang vao cam bien" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/aIRGS1yyt9k/maxresdefault.jpg" alt="Khau do f lon nho anh huong luong sang vao cam bien" loading="lazy" width="1280" height="720">
   <figcaption>Khẩu độ f càng nhỏ về số, ống kính càng thu được nhiều sáng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ OIS, viết tắt của Optical Image Stabilization, là chống rung quang họ
 Sự khác biệt lớn nhất giữa hai công nghệ là OIS cần phần cứng chuyên dụng nên chỉ có ở một số camera nhất định trên máy, trong khi EIS có thể áp dụng cho mọi camera bằng phần mềm nhưng đánh đổi lại một phần góc nhìn bị cắt bớt. Máy trang bị cả OIS lẫn EIS, kết hợp gọi là hybrid stabilization, thường cho video ổn định nhất, ít rung giật ngay cả khi vừa đi vừa quay. Khi đọc thông số, camera nào ghi rõ có OIS thường đáng tin cậy hơn cho việc chụp thiếu sáng và quay video cầm tay so với camera chỉ dựa vào EIS.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/sxuxe66bB_s/hqdefault.jpg" alt="Chong rung khi quay video tren dien thoai OIS EIS" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/sxuxe66bB_s/maxresdefault.jpg" alt="Chong rung khi quay video tren dien thoai OIS EIS" loading="lazy" width="1280" height="720">
   <figcaption>Chống rung quang học OIS giữ khung hình ổn định hơn hẳn khi quay video vừa đi vừa quay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Kích thước cảm biến thường được ghi theo định dạng phân s�
 Đây là lý do các dòng máy cao cấp gần đây, đặc biệt các mẫu hợp tác với thương hiệu ống kính như Leica hay Hasselblad, thường quảng bá riêng thông số cảm biến bên cạnh megapixel, thậm chí dùng cảm biến kích thước 1 inch, tương đương nhiều máy ảnh compact chuyên dụng. Khi so sánh hai điện thoại cùng megapixel, chiếc nào có cảm biến lớn hơn thường chụp thiếu sáng tốt hơn, dù thông số megapixel trên giấy giống hệt nhau.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/6lO3Xmq1Rwk/hqdefault.jpg" alt="Cam bien camera dien thoai kich thuoc 1 inch" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6lO3Xmq1Rwk/maxresdefault.jpg" alt="Cam bien camera dien thoai kich thuoc 1 inch" loading="lazy" width="1280" height="720">
   <figcaption>Cảm biến càng lớn thu sáng càng tốt, quan trọng hơn cả số megapixel. Nguồn: YouTube</figcaption>
 </figure>
 

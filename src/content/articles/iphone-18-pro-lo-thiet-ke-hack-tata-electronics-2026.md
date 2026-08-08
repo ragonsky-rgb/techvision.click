@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T09:20:00+07:00"
 dateModified: "2026-07-05T09:20:00+07:00"
 deck: "Một vụ tấn công mã độc tống tiền nhắm vào Tata Electronics, đối tác sản xuất quan trọng của Apple tại Ấn Độ, đã làm lộ hơn 630GB dữ liệu nội bộ, bao gồm hình ảnh, video drop test và tài liệu linh kiện của iPhone 18 Pro, được nhiều nguồn tin đánh giá là vụ rò rỉ lớn nhất của Apple kể từ thời iPhone 4."
-heroImage: "https://i.ytimg.com/vi/RKeS0YTmuwA/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/RKeS0YTmuwA/maxresdefault.jpg"
 heroAlt: "iPhone 18 Pro lo thiet ke hack Tata Electronics 2026"
 heroCaption: "iPhone 18 Pro lộ thiết kế sau vụ tấn công mã độc vào đối tác sản xuất Tata Electronics. Nguồn: YouTube"
 tldr: "Nhóm tin tặc <strong>World Leaks</strong> đã công bố hơn <strong>200.000 tệp tin</strong>, tổng dung lượng trên <strong>630GB</strong>, đánh cắp từ Tata Electronics, đối tác sản xuất quan trọng của Apple tại Ấn Độ. Dữ liệu rò rỉ bao gồm thông tin linh kiện, sơ đồ nhà cung cấp, hình ảnh và video drop test của <strong>iPhone 18 Pro</strong>, tiết lộ máy có Dynamic Island nhỏ hơn, cụm camera sau nhô cao hơn, cùng các tùy chọn màu sắc mới. Đây được nhiều nguồn tin đánh giá là vụ rò rỉ lớn nhất của Apple kể từ thời <strong>iPhone 4</strong>, dù phản ứng chung của cộng đồng công nghệ khá thờ ơ so với sự háo hức năm đó."
@@ -69,7 +69,7 @@ Nhóm tin tặc mã độc tống tiền mang tên World Leaks đã nhận trác
 Dữ liệu bị rò rỉ bao gồm thông tin chi tiết về linh kiện của iPhone 18 Pro, từ chip trên bo mạch chủ chính tới linh kiện pin và mô-đun camera, cùng thông tin nhà cung cấp cho từng bộ phận cụ thể. Hình ảnh rò rỉ cho thấy máy có Dynamic Island nhỏ hơn đáng kể so với thế hệ hiện tại, cụm camera sau nhô cao hơn trên mặt lưng, có thể phản ánh cảm biến camera nâng cấp hoặc hệ thống quang học được thiết kế lại nhằm cải thiện chất lượng hình ảnh. Về màu sắc, dữ liệu rò rỉ hé lộ ít nhất ba tùy chọn màu mới gồm đen, đỏ anh đào đậm và màu vang burgundy.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/RKeS0YTmuwA/sddefault.jpg" alt="iPhone 18 Pro va iPhone 18 Pro Max ro ri lon nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/RKeS0YTmuwA/maxresdefault.jpg" alt="iPhone 18 Pro va iPhone 18 Pro Max ro ri lon nhat" loading="lazy" width="1280" height="720">
   <figcaption>iPhone 18 Pro và iPhone 18 Pro Max được cho là đã lộ thiết kế qua vụ rò rỉ dữ liệu quy mô lớn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,14 +88,14 @@ Sự việc cũng đặt ra câu hỏi về rủi ro bảo mật trong chuỗi c
 Với người dùng Việt Nam đang cân nhắc chờ đợi iPhone 18 Pro, tôi cho rằng nên nhìn nhận những thông tin rò rỉ này với sự thận trọng nhất định, vì đây vẫn là hình ảnh và video từ mẫu thử nghiệm trong quá trình phát triển nội bộ, có thể khác biệt với sản phẩm thương mại cuối cùng khi chính thức ra mắt. Với những ai đang cần nâng cấp thiết bị ngay bây giờ mà chưa muốn chờ đợi iPhone 18 Pro, các lựa chọn laptop và phụ kiện công nghệ hiện có như [LG gram AI 2026 vừa ra mắt tại Việt Nam](/articles/lg-gram-ai-2026-aerominum-dual-ai-ra-mat-viet-nam.html) vẫn là những sản phẩm đáng cân nhắc trong lúc chờ tin tức chính thức từ Apple vào tháng 9 tới. Người dùng quan tâm tới hệ sinh thái phụ kiện Apple cũng có thể theo dõi thêm [AirPods Pro 3 với tin đồn tích hợp camera hồng ngoại và chip H3 mới](/articles/airpods-pro-3-cao-cap-2026-tin-don-camera-hong-ngoai-chip-h3.html), một sản phẩm khác cũng đang được đồn đoán nâng cấp mạnh trong cùng chu kỳ sản phẩm năm nay của Apple.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/RKeS0YTmuwA/mqdefault.jpg" alt="Chi tiet ve vu ro ri du lieu Apple lon nhat tu truoc den nay" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/RKeS0YTmuwA/maxresdefault.jpg" alt="Chi tiet ve vu ro ri du lieu Apple lon nhat tu truoc den nay" loading="lazy" width="1280" height="720">
   <figcaption>Vụ rò rỉ dữ liệu lần này được đánh giá là một trong những sự cố bảo mật nghiêm trọng nhất liên quan tới Apple. Nguồn: YouTube</figcaption>
 </figure>
 
 Nhìn xa hơn, sự việc cũng là lời nhắc nhở cho các doanh nghiệp công nghệ tại Việt Nam về tầm quan trọng của bảo mật dữ liệu trong chuỗi cung ứng, đặc biệt với các công ty hợp tác cùng đối tác gia công quốc tế, nơi rủi ro rò rỉ thông tin nhạy cảm có thể tới từ bất kỳ mắt xích nào trong toàn bộ chuỗi cung ứng sản phẩm chứ không chỉ riêng công ty chủ sở hữu thương hiệu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Izky8niFOvk/mqdefault.jpg" alt="Phan tich thiet ke moi cua iPhone 18 Pro qua du lieu ro ri" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Izky8niFOvk/sddefault.jpg" alt="Phan tich thiet ke moi cua iPhone 18 Pro qua du lieu ro ri" loading="lazy" width="640" height="480">
   <figcaption>Nhiều kênh công nghệ đã phân tích chi tiết thiết kế iPhone 18 Pro dựa trên dữ liệu rò rỉ. Nguồn: YouTube</figcaption>
 </figure>
 

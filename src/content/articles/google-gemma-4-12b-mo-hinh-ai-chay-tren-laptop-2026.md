@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T15:40:00+07:00"
 dateModified: "2026-07-04T15:40:00+07:00"
 deck: "Google vừa giới thiệu Gemma 4 12B, mô hình AI mã nguồn mở đa phương thức có thể chạy trực tiếp trên laptop phổ thông chỉ với 16GB bộ nhớ, đạt hiệu năng gần tương đương bản Gemma 4 26B lớn hơn nhưng nhẹ chưa bằng một nửa, mở đường cho AI agent chạy hoàn toàn cục bộ không cần kết nối máy chủ đám mây."
-heroImage: "https://i.ytimg.com/vi/1uypL1oNChI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/1uypL1oNChI/maxresdefault.jpg"
 heroAlt: "Google Gemma 4 12B mo hinh AI chay tren laptop"
 heroCaption: "Gemma 4 12B là mô hình AI mã nguồn mở của Google có thể chạy trực tiếp trên laptop phổ thông. Nguồn: YouTube"
 tldr: "Google vừa ra mắt <strong>Gemma 4 12B</strong>, mô hình AI mã nguồn mở đa phương thức mới, có thể chạy trực tiếp trên laptop phổ thông chỉ cần <strong>16GB</strong> bộ nhớ hợp nhất hoặc VRAM. Điểm đột phá lớn nhất là kiến trúc <strong>không bộ mã hóa riêng</strong>, cho phép dữ liệu âm thanh và hình ảnh thô đi thẳng vào lõi mô hình ngôn ngữ mà không qua module xử lý trung gian, giúp giảm độ trễ. Dù nhỏ hơn một nửa, Gemma 4 12B đạt điểm benchmark gần sát với bản <strong>Gemma 4 26B</strong> lớn hơn, mở đường cho các AI agent chạy hoàn toàn cục bộ, không cần kết nối máy chủ đám mây."
@@ -69,14 +69,14 @@ Gemma 4 12B là mô hình AI mã nguồn mở mới nhất trong họ mô hình 
 Điểm đột phá kỹ thuật lớn nhất của Gemma 4 12B nằm ở kiến trúc hợp nhất không sử dụng bộ mã hóa riêng cho từng loại dữ liệu. Với các mô hình AI đa phương thức truyền thống, dữ liệu âm thanh và hình ảnh thường phải đi qua các module xử lý trung gian riêng biệt trước khi được đưa vào lõi xử lý ngôn ngữ chính, gây ra độ trễ và tốn thêm bộ nhớ xử lý. Gemma 4 12B loại bỏ bước trung gian này, cho phép dữ liệu âm thanh thô và các mảng hình ảnh đi thẳng vào lõi mô hình ngôn ngữ, giúp giảm đáng kể độ trễ xử lý, đặc biệt quan trọng khi chạy trên phần cứng có tài nguyên hạn chế như laptop thay vì máy chủ đám mây mạnh mẽ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/1uypL1oNChI/mqdefault.jpg" alt="Gemma 4 12B ket hop Hermes chay AI cuc bo hieu qua" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/1uypL1oNChI/maxresdefault.jpg" alt="Gemma 4 12B ket hop Hermes chay AI cuc bo hieu qua" loading="lazy" width="1280" height="720">
   <figcaption>Gemma 4 12B kết hợp cùng các công cụ AI Edge cho phép chạy mô hình cục bộ hiệu quả trên phần cứng phổ thông. Nguồn: YouTube</figcaption>
 </figure>
 
 Nhờ kiến trúc tối ưu này, dù chỉ có 12 tỷ tham số, chưa bằng một nửa so với bản Gemma 4 26B lớn hơn trong cùng dòng sản phẩm, Gemma 4 12B vẫn đạt điểm benchmark khá gần với bản lớn hơn trong nhiều tác vụ thực tế, một kết quả được nhiều chuyên gia đánh giá là ấn tượng so với tỷ lệ kích thước mô hình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TpEBYINwokA/mqdefault.jpg" alt="Thu nghiem Gemma 4 12B lam mo hinh AI lap trinh cuc bo" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/TpEBYINwokA/maxresdefault.jpg" alt="Thu nghiem Gemma 4 12B lam mo hinh AI lap trinh cuc bo" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều nhà phát triển thử nghiệm Gemma 4 12B như một mô hình AI hỗ trợ lập trình chạy cục bộ hiệu quả. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Vì là mô hình mã nguồn mở, Gemma 4 12B có thể được lập trình 
 Với cộng đồng lập trình viên Việt Nam, Gemma 4 12B mở ra cơ hội thử nghiệm AI đa phương thức mạnh mẽ mà không cần đầu tư phần cứng GPU đắt tiền hay trả phí sử dụng API đám mây theo lượng truy vấn, đặc biệt hữu ích cho sinh viên và các nhóm khởi nghiệp công nghệ đang trong giai đoạn phát triển sản phẩm ban đầu với ngân sách hạn chế. Người dùng cá nhân muốn tìm hiểu sâu hơn về cách tương tác hiệu quả với các mô hình AI như Gemma cũng có thể tham khảo thêm [cách viết prompt AI hiệu quả với ChatGPT, Gemini](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html) để khai thác tối đa khả năng của mô hình trong công việc hằng ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/1uypL1oNChI/sddefault.jpg" alt="Google AI Edge cong cu trien khai Gemma 4 12B cho lap trinh vien" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/1uypL1oNChI/maxresdefault.jpg" alt="Google AI Edge cong cu trien khai Gemma 4 12B cho lap trinh vien" loading="lazy" width="1280" height="720">
   <figcaption>Bộ công cụ Google AI Edge giúp lập trình viên dễ dàng triển khai Gemma 4 12B trên nhiều thiết bị khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-02T19:00:00+07:00"
 dateModified: "2026-07-02T19:00:00+07:00"
 deck: "Logitech vừa ra mắt Mobi Fold, mẫu chuột không dây gập đôi đầu tiên trong lịch sử hãng, có thể gập gọn lại thành một khối nhỏ bỏ vừa túi quần. Sản phẩm nhắm tới người dùng thường xuyên di chuyển, cần thiết bị trỏ chuột gọn nhẹ thay thế trackpad laptop."
-heroImage: "https://i.ytimg.com/vi/X4Ri0FrCNfI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/X4Ri0FrCNfI/maxresdefault.jpg"
 heroAlt: "Logitech Mobi Fold chuot gap doi dau tien 2026"
 heroCaption: "Logitech Mobi Fold, chuột không dây gập đôi đầu tiên của hãng. Nguồn: YouTube"
 tldr: "<strong>Logitech Mobi Fold</strong> là chuột không dây gập đôi đầu tiên của hãng, gập gọn từ khối nhỏ <strong>66x21mm</strong> mở ra thành chuột đầy đủ kích thước <strong>122x33mm</strong>. Bản lề được kiểm định chịu được <strong>15 năm</strong> sử dụng hằng ngày, giảm 22% mỏi cơ tay so với dùng trackpad. Pin <strong>100mAh</strong> dùng được khoảng <strong>32 ngày</strong>, sạc nhanh 1 phút dùng thêm 22 giờ. Chuột kết nối Bluetooth Low Energy 5.0, ghép được tối đa 3 thiết bị, tương thích Windows, macOS, ChromeOS, Android, iPadOS và Linux. Giá bán <strong>79,99 USD</strong>, bản doanh nghiệp 89,99 USD."
@@ -72,14 +72,14 @@ Một chi tiết thú vị khác là Logitech đã tích hợp một mô hình A
 Theo công bố từ Logitech, việc sử dụng Mobi Fold giúp giảm khoảng 22% tình trạng mỏi cơ cẳng tay so với thao tác liên tục trên trackpad laptop trong thời gian dài, một vấn đề quen thuộc với dân văn phòng và người làm việc từ xa thường xuyên phải gõ phím kết hợp điều khiển con trỏ chuột trên trackpad tích hợp sẵn của máy. Đây là lý do nhiều người dùng laptop mỏng nhẹ, dù không thiếu không gian mang theo chuột rời, vẫn ngần ngại vì cảm thấy bất tiện, và Mobi Fold được thiết kế để giải quyết chính xác vấn đề này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FxsxqqcT5kc/hqdefault.jpg" alt="Logitech Mobi Fold gap gon bo tui trai nghiem 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/FxsxqqcT5kc/maxresdefault.jpg" alt="Logitech Mobi Fold gap gon bo tui trai nghiem 2026" loading="lazy" width="1280" height="720">
   <figcaption>Mobi Fold gập gọn lại thành khối nhỏ, dễ dàng bỏ túi mang theo khi di chuyển. Nguồn: YouTube</figcaption>
 </figure>
 
 Về thời lượng pin, chuột tích hợp viên pin 100mAh, cho thời gian sử dụng ước tính khoảng 32 ngày trên một lần sạc đầy, một con số ấn tượng với một thiết bị kích thước nhỏ gọn như vậy. Khi cần dùng gấp mà quên sạc, người dùng chỉ cần cắm sạc nhanh qua cổng USB-C trong đúng 1 phút đã có thể sử dụng thêm khoảng 22 giờ liên tục, rất tiện lợi cho những tình huống khẩn cấp trước chuyến công tác.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/pVWT2lcYTc0/hqdefault.jpg" alt="Logitech Mobi Fold pin sac nhanh USB-C 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/pVWT2lcYTc0/maxresdefault.jpg" alt="Logitech Mobi Fold pin sac nhanh USB-C 2026" loading="lazy" width="1280" height="720">
   <figcaption>Mobi Fold hỗ trợ sạc nhanh qua cổng USB-C, chỉ 1 phút đã đủ dùng thêm nhiều giờ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Mobi Fold kết nối qua chuẩn Bluetooth Low Energy 5.0, cho phép ghép nố
 Sản phẩm hiện có giá bán 79,99 USD cho bản tiêu chuẩn, phân phối chủ yếu tại màu Graphite trên toàn cầu, cùng hai tùy chọn màu Lilac và Off-White tại một số thị trường nhất định. Bên cạnh đó, Logitech còn giới thiệu phiên bản dành cho doanh nghiệp với giá 89,99 USD, đi kèm đầu thu không dây Logi Bolt USB-C bảo mật hơn cho môi trường công sở, cùng thời gian bảo hành kéo dài 2 năm thay vì 1 năm như bản tiêu chuẩn. Với những ai đang tìm hiểu thêm các phụ kiện chuột cao cấp khác của hãng, bài viết về [Logitech MX Master 4, mẫu chuột không dây cao cấp tích hợp haptic feedback](/articles/logitech-mx-master-4-chuot-khong-day-cao-cap-haptic-feedback-2026.html) cũng là một lựa chọn đáng cân nhắc song song, dù định hướng sản phẩm thiên về hiệu năng làm việc tại bàn hơn là tính di động gọn nhẹ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_WOJiaWboUQ/hqdefault.jpg" alt="Logitech Mobi Fold an tuong dau tien mau sac 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_WOJiaWboUQ/maxresdefault.jpg" alt="Logitech Mobi Fold an tuong dau tien mau sac 2026" loading="lazy" width="1280" height="720">
   <figcaption>Mobi Fold có ba tùy chọn màu sắc, trong đó Graphite được phân phối rộng rãi nhất toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 

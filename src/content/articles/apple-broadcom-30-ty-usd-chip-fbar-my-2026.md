@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T07:00:00+07:00"
 dateModified: "2026-07-13T07:00:00+07:00"
 deck: "Apple vừa công bố hợp đồng cung ứng chip trị giá hơn 30 tỷ USD với Broadcom, kéo dài tới năm 2031, tập trung vào chip tần số vô tuyến FBAR filter phục vụ kết nối không dây trên các thiết bị Apple. Đây là một phần trong chiến lược đưa hoạt động sản xuất chip về Mỹ mà Apple đang đẩy mạnh, với cam kết đầu tư tổng cộng 600 tỷ USD tại Mỹ trong 4 năm."
-heroImage: "https://i.ytimg.com/vi/RoP3EaJ28rI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/RoP3EaJ28rI/maxresdefault.jpg"
 heroAlt: "Apple Broadcom hợp đồng chip 30 tỷ USD sản xuất tại Mỹ"
 heroCaption: "Apple mở rộng hợp tác với Broadcom trong hợp đồng cung ứng chip trị giá hơn 30 tỷ USD. Nguồn: YouTube"
 tldr: "Ngày <strong>8/7/2026</strong>, <strong>Apple</strong> công bố hợp đồng cung ứng chip nhiều năm với <strong>Broadcom</strong>, trị giá hơn <strong>30 tỷ USD</strong>, kéo dài tới năm <strong>2031</strong>. Thoả thuận tập trung vào chip tần số vô tuyến <strong>FBAR filter</strong>, linh kiện giúp tách sóng radio để các tín hiệu mong muốn như 5G hay Wi-Fi đi qua trong khi chặn tần số gây nhiễu, phục vụ kết nối không dây trên iPhone và các thiết bị Apple khác. Trong khuôn khổ hợp tác, Broadcom sẽ chi <strong>1,5 tỷ USD</strong> mở rộng nhà máy tại Fort Collins, bang Colorado, dự kiến sản xuất ít nhất <strong>15 tỷ chip</strong>. Đây là cam kết sản xuất tại Mỹ lớn nhất từ trước tới nay của Apple, nằm trong tổng ngân sách đầu tư 600 tỷ USD tại Mỹ trong 4 năm mà hãng đã công bố trước đó, đồng thời được xem là một lá chắn giúp Apple giảm rủi ro trước các chính sách thuế quan."
@@ -71,7 +71,7 @@ Trọng tâm của hợp đồng lần này là chip FBAR filter (Film Bulk Acou
 Theo thoả thuận, Broadcom cam kết chi 1,5 tỷ USD để mở rộng nhà máy sản xuất tại Fort Collins, bang Colorado, phục vụ việc sản xuất ít nhất 15 tỷ chip FBAR filter trong suốt thời hạn hợp đồng. Đây là một trong những khoản đầu tư mở rộng sản xuất đáng chú ý nhất của Broadcom tại Mỹ trong năm nay, phản ánh quy mô ngày càng lớn của nhu cầu linh kiện kết nối không dây từ phía Apple khi danh mục sản phẩm của hãng liên tục mở rộng qua nhiều dòng thiết bị khác nhau.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/vuLp5rpDyn0/hqdefault.jpg" alt="Phân tích tác động của hợp đồng Apple Broadcom tới ngành công nghiệp chip" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vuLp5rpDyn0/maxresdefault.jpg" alt="Phân tích tác động của hợp đồng Apple Broadcom tới ngành công nghiệp chip" loading="lazy" width="1280" height="720">
   <figcaption>Giới phân tích nhận định hợp đồng này có thể tác động đáng kể tới cục diện cạnh tranh trong ngành công nghiệp bán dẫn thời gian tới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Về phía Broadcom, Apple hiện chiếm khoảng 20% doanh thu hằng năm c�
 Hợp đồng với Broadcom không phải là động thái đơn lẻ, mà nằm trong bức tranh lớn hơn về chiến lược đưa hoạt động sản xuất linh kiện về Mỹ mà Apple đang theo đuổi. Trước đó, Apple đã nâng tổng cam kết đầu tư tại Mỹ lên mức 600 tỷ USD trong vòng 4 năm, và thoả thuận với Broadcom lần này được xem là cam kết sản xuất tại Mỹ lớn nhất từ trước tới nay trong khuôn khổ chương trình sản xuất nội địa của hãng. Chiến lược này cũng phần nào đóng vai trò như một lá chắn giúp Apple giảm bớt rủi ro trước các chính sách thuế quan có thể ảnh hưởng tới chuỗi cung ứng toàn cầu vốn trải rộng qua nhiều quốc gia châu Á của hãng, tương tự cách nhiều tập đoàn công nghệ lớn khác cũng đang đẩy mạnh nội địa hoá một phần chuỗi cung ứng bán dẫn, trong đó có cả hướng đi tự phát triển chip nội bộ mà [Meta vừa công bố với chip AI Iris](/articles/meta-iris-chip-ai-tu-phat-trien-145-ty-usd-2026.html), dù cách tiếp cận cụ thể của hai hãng có phần khác nhau.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/P4s87Lg8Wg0/hqdefault.jpg" alt="Cổ phiếu Apple và Broadcom phản ứng sau thông báo hợp đồng chip 30 tỷ USD" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/P4s87Lg8Wg0/maxresdefault.jpg" alt="Cổ phiếu Apple và Broadcom phản ứng sau thông báo hợp đồng chip 30 tỷ USD" loading="lazy" width="1280" height="720">
   <figcaption>Thông tin về hợp đồng 30 tỷ USD góp phần củng cố niềm tin của nhà đầu tư vào chiến lược chuỗi cung ứng dài hạn của cả Apple lẫn Broadcom. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Diễn biến này cũng phản ánh xu hướng chung của ngành công nghệ
 Không chỉ Apple và Broadcom, làn sóng đầu tư khổng lồ vào hạ tầng sản xuất chip tại Mỹ đang diễn ra trên diện rộng, khi nhiều hãng sản xuất chip nhớ và chip logic khác cũng liên tục nâng quy mô cam kết đầu tư của mình trong bối cảnh nhu cầu linh kiện phục vụ AI tăng vọt, cho thấy đây không còn là câu chuyện riêng lẻ của một vài tập đoàn mà đã trở thành xu hướng chung của toàn ngành công nghệ Mỹ trong giai đoạn hiện nay, tương tự cách [DeepSeek tại Trung Quốc cũng liên tục tối ưu chi phí hạ tầng AI theo hướng riêng của mình](/articles/deepseek-v4-dspark-khai-tu-api-cu-24-7-2026.html) để duy trì lợi thế cạnh tranh trước các đối thủ phương Tây.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FGkVudSQ4qI/hqdefault.jpg" alt="Broadcom mở rộng hợp tác chip với Apple tới năm 2031" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FGkVudSQ4qI/maxresdefault.jpg" alt="Broadcom mở rộng hợp tác chip với Apple tới năm 2031" loading="lazy" width="1280" height="720">
   <figcaption>Hợp tác giữa Apple và Broadcom được kỳ vọng tiếp tục mở rộng trong những năm tới khi nhu cầu linh kiện kết nối không dây ngày càng tăng. Nguồn: YouTube</figcaption>
 </figure>
 

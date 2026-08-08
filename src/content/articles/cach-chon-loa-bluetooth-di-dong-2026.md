@@ -69,7 +69,7 @@ Thời lượng pin là yếu tố đầu tiên cần xem xét khi chọn loa bl
 Marshall Emberton III hiện là một trong những mẫu loa có thời lượng pin ấn tượng nhất phân khúc, đạt tới 32 giờ sử dụng liên tục ở mức âm lượng vừa phải, đồng thời rút ngắn thời gian sạc đầy xuống chỉ còn khoảng 2 giờ nhờ công nghệ sạc nhanh được cải tiến so với thế hệ trước. Đây là con số vượt trội so với mức 20 giờ vốn đã được xem là tốt trong phân khúc loa di động cỡ nhỏ, giúp người dùng gần như không phải bận tâm tới việc sạc pin trong các chuyến đi ngắn ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/a9pVGX5vsp4/hqdefault.jpg" alt="Marshall Emberton III loa bluetooth pin 32 gio" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/a9pVGX5vsp4/maxresdefault.jpg" alt="Marshall Emberton III loa bluetooth pin 32 gio" loading="lazy" width="1280" height="720">
   <figcaption>Marshall Emberton III với thời lượng pin lên tới 32 giờ sử dụng liên tục. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Marshall Emberton III hiện là một trong những mẫu loa có thời lượ
 Công suất loa cần được chọn dựa trên không gian sử dụng thực tế thay vì chạy theo thông số cao nhất có thể. Với nhu cầu nghe nhạc cá nhân trong phòng ngủ hoặc phòng làm việc, loa công suất 10-20W đã đủ mang lại trải nghiệm âm thanh chất lượng mà không gây ồn ào quá mức tới không gian xung quanh. Ngược lại, nếu thường tổ chức tiệc ngoài trời, đi cắm trại nhóm đông người hoặc cần phủ âm thanh cho khu vực rộng, nên chọn các mẫu loa công suất từ 30W trở lên như dòng JBL Xtreme hoặc Charge để đảm bảo âm lượng đủ lớn, chi tiết bass dày dặn mà không bị vỡ tiếng khi mở hết công suất.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/dIik8Ps2j_A/hqdefault.jpg" alt="JBL Charge 6 chong nuoc IP68 test ngoai troi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/dIik8Ps2j_A/maxresdefault.jpg" alt="JBL Charge 6 chong nuoc IP68 test ngoai troi" loading="lazy" width="1280" height="720">
   <figcaption>JBL Charge 6 đạt chuẩn chống nước IP68, có thể mang ra biển, hồ bơi an toàn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Việc chọn thương hiệu uy tín giúp đảm bảo chất âm ổn định
 Ngoài hai cái tên kể trên, Sony với dòng loa XB và ULT cũng là lựa chọn đáng cân nhắc nhờ công nghệ xử lý âm thanh tiên tiến và độ bền cao, trong khi Anker Soundcore mang lại mức giá dễ tiếp cận hơn nhưng vẫn đảm bảo chất lượng âm thanh ổn định cho phần lớn nhu cầu phổ thông. Khi chọn mua, người dùng nên ưu tiên nghe thử trực tiếp tại cửa hàng nếu có thể, vì cảm nhận âm thanh mang tính chủ quan và có thể khác biệt đáng kể giữa các dòng loa cùng phân khúc giá, tương tự như cách lựa chọn thiết bị hiển thị cũng cần cân nhắc kỹ giữa các loại [tấm nền màn hình OLED, AMOLED và LCD](/articles/man-hinh-oled-amoled-lcd-khac-gi-loai-nao-tot-hon.html) trước khi quyết định.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jJOq88Jjgxs/hqdefault.jpg" alt="Marshall Emberton III chat am can bang thiet ke co dien" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/jJOq88Jjgxs/maxresdefault.jpg" alt="Marshall Emberton III chat am can bang thiet ke co dien" loading="lazy" width="1280" height="720">
   <figcaption>Marshall Emberton III gây ấn tượng với chất âm cân bằng và thiết kế cổ điển đặc trưng. Nguồn: YouTube</figcaption>
 </figure>
 

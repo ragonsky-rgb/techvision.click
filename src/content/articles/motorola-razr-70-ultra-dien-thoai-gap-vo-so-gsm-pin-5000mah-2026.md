@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T07:20:00+07:00"
 dateModified: "2026-07-06T07:20:00+07:00"
 deck: "Motorola vừa trình làng Razr 70 Ultra, thế hệ điện thoại gập vỏ sò mới nhất với dung lượng pin tăng lên 5.000mAh, màn hình phụ 4 inch hiển thị đầy đủ ứng dụng và mức giá tăng thêm 200 USD so với thế hệ trước, tiếp tục cạnh tranh trực tiếp với Samsung Galaxy Z Flip trong phân khúc gập vỏ sò cao cấp."
-heroImage: "https://i.ytimg.com/vi/L2Ilq4HDk14/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/L2Ilq4HDk14/maxresdefault.jpg"
 heroAlt: "Motorola Razr 70 Ultra dien thoai gap vo so 2026"
 heroCaption: "Motorola Razr 70 Ultra nâng cấp pin lên 5.000mAh, giữ nguyên chip Snapdragon 8 Elite. Nguồn: YouTube"
 tldr: "Motorola vừa ra mắt <strong>Razr 70 Ultra</strong>, điện thoại gập vỏ sò với màn hình chính <strong>7 inch 165Hz</strong> và màn hình phụ <strong>4 inch</strong> hiển thị đầy đủ ứng dụng. Pin tăng lên <strong>5.000mAh</strong> (từ 4.700mAh thế hệ trước), giữ nguyên chip <strong>Snapdragon 8 Elite</strong>. Camera chính dùng cảm biến <strong>OmniVision OV50T 50MP</strong> với công nghệ LOFIC, cho dải tương phản động cao gấp 6 lần thế hệ cũ. Máy có giá khởi điểm <strong>1.500 USD</strong> tại Mỹ, tăng 200 USD so với Razr Ultra năm ngoái."
@@ -67,7 +67,7 @@ Motorola vừa chính thức trình làng Razr 70 Ultra, còn được gọi là
 Một số reviewer nhận xét mức tăng pin này tuy không quá đột phá nhưng vẫn tạo ra khác biệt cảm nhận rõ rệt trong sử dụng hàng ngày, đặc biệt với người dùng thường xuyên mở màn hình phụ để kiểm tra thông báo hoặc chụp ảnh selfie bằng camera chính, thao tác vốn tiêu tốn khá nhiều điện năng trên các thế hệ điện thoại gập vỏ sò trước đây.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/MMwO10VLUNY/hqdefault.jpg" alt="Motorola Razr 70 danh gia chi tiet thiet ke va man hinh" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/MMwO10VLUNY/maxresdefault.jpg" alt="Motorola Razr 70 danh gia chi tiet thiet ke va man hinh" loading="lazy" width="1280" height="720">
   <figcaption>Đánh giá chi tiết thiết kế và trải nghiệm màn hình phụ trên dòng Motorola Razr 70. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Một số reviewer nhận xét mức tăng pin này tuy không quá đột phá
 Một trong những điểm mạnh xuyên suốt nhiều thế hệ Razr là màn hình phụ có thể chạy đầy đủ ứng dụng Android thay vì chỉ hiển thị widget cơ bản như cách tiếp cận của Samsung trên dòng Galaxy Z Flip. Trên Razr 70 Ultra, màn hình phụ 4 inch tiếp tục phát huy lợi thế này, cho phép người dùng trả lời tin nhắn, duyệt mạng xã hội hoặc điều hướng bản đồ ngay cả khi máy đang gập lại mà không cần mở màn hình chính 7 inch, mang lại sự tiện lợi thực tế trong nhiều tình huống sử dụng hàng ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/rYtjx4-jGzc/hqdefault.jpg" alt="Motorola Razr 70 Ultra mo hop trai nghiem camera va choi game" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/rYtjx4-jGzc/sddefault.jpg" alt="Motorola Razr 70 Ultra mo hop trai nghiem camera va choi game" loading="lazy" width="640" height="480">
   <figcaption>Trải nghiệm mở hộp Motorola Razr 70 Ultra cùng bài kiểm tra camera và hiệu năng chơi game thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Người dùng quan tâm tới phân khúc điện thoại gập cao cấp có t
 So với đối thủ trực tiếp Samsung Galaxy Z Flip7, Razr 70 Ultra được đánh giá nhỉnh hơn về thời lượng pin, tốc độ sạc và khả năng tương tác linh hoạt trên màn hình phụ nhờ chạy được đầy đủ ứng dụng thay vì chỉ dựa vào widget. Tuy nhiên, Galaxy Z Flip7 vẫn giữ lợi thế về hệ sinh thái tích hợp chặt chẽ với các thiết bị Samsung khác cùng phần mềm One UI được tối ưu lâu năm, khiến lựa chọn giữa hai máy phần lớn phụ thuộc vào hệ sinh thái người dùng đang sử dụng. Cả hai đều đại diện cho hai triết lý thiết kế màn hình phụ khác biệt trong phân khúc điện thoại gập vỏ sò hiện nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/GOjp9DjHe3M/hqdefault.jpg" alt="Moto Razr Ultra 70 danh gia co gi thay doi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/GOjp9DjHe3M/maxresdefault.jpg" alt="Moto Razr Ultra 70 danh gia co gi thay doi" loading="lazy" width="1280" height="720">
   <figcaption>Đánh giá tổng quan liệu Razr Ultra 70 có mang lại thay đổi thực sự đáng giá so với thế hệ trước. Nguồn: YouTube</figcaption>
 </figure>
 

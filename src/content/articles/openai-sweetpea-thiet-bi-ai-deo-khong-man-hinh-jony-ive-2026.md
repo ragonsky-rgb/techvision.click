@@ -76,7 +76,7 @@ Mục tiêu cốt lõi là đưa trợ lý AI ChatGPT ra khỏi màn hình đi�
 Sự kết hợp giữa năng lực mô hình AI của OpenAI và tư duy thiết kế phần cứng của Jony Ive được kỳ vọng tạo ra một sản phẩm khác biệt so với làn sóng thiết bị AI đã ra mắt trước đó nhưng chưa thành công. Đây cũng là bước đi giúp OpenAI giảm phụ thuộc vào nền tảng phần cứng của các hãng khác, tương tự cách công ty tự phát triển chip AI riêng như [Jalapeno](/articles/openai-jalapeno-chip-ai-dau-tien-hop-tac-broadcom-2026.html) để chủ động hơn về công nghệ lõi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/cEQG-1_m980/hqdefault.jpg" alt="Thiet bi AI OpenAI Jony Ive thiet ke khong man hinh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/cEQG-1_m980/maxresdefault.jpg" alt="Thiet bi AI OpenAI Jony Ive thiet ke khong man hinh" loading="lazy" width="1280" height="720">
   <figcaption>Thiết bị AI của OpenAI được thiết kế tối giản, không màn hình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Dù có thân hình nhỏ gọn, Sweetpea được cho là dùng phần cứng m
 Về sản lượng, Foxconn được chọn làm đơn vị gia công, với mục tiêu 40 tới 50 triệu máy trong năm đầu tiên. Đây là con số rất lớn với một danh mục sản phẩm hoàn toàn mới, cho thấy tham vọng của OpenAI muốn đưa thiết bị tới tay đông đảo người dùng ngay từ đầu. Bên cạnh phiên bản đeo tai, một số nguồn còn nhắc tới hình dạng thiết bị dạng bút với mật danh Gumdrop đang được phát triển song song.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/fs6f9NByrVo/hqdefault.jpg" alt="OpenAI Sweetpea san xuat Foxconn san luong lon nam dau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fs6f9NByrVo/maxresdefault.jpg" alt="OpenAI Sweetpea san xuat Foxconn san luong lon nam dau" loading="lazy" width="1280" height="720">
   <figcaption>OpenAI đặt mục tiêu sản lượng rất lớn cho thiết bị AI đầu tiên. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Cần nhớ rằng trợ lý AI bằng giọng nói không phải ý tưởng m�
 Ở góc độ người dùng, Sweetpea đại diện cho nỗ lực tìm kiếm một hình thái tương tác mới với AI, ít phụ thuộc vào màn hình. Sam Altman mô tả thiết bị như một lựa chọn bình yên và nhẹ nhàng thay cho smartphone. Dù vậy, thành công hay không còn phụ thuộc vào trải nghiệm thực tế, thời lượng pin và mức độ hữu ích hằng ngày. Trong bối cảnh cạnh tranh phần cứng AI ngày càng nóng, kèm cả những tranh chấp pháp lý như vụ [Apple kiện OpenAI](/articles/apple-kien-openai-danh-cap-bi-mat-thuong-mai-2026.html), thiết bị đầu tiên này sẽ là phép thử quan trọng cho tham vọng vượt ra ngoài phần mềm của OpenAI.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/pJiiWk8JVPQ/hqdefault.jpg" alt="OpenAI thiet bi AI khong man hinh thay the smartphone tuong lai" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/pJiiWk8JVPQ/maxresdefault.jpg" alt="OpenAI thiet bi AI khong man hinh thay the smartphone tuong lai" loading="lazy" width="1280" height="720">
   <figcaption>OpenAI kỳ vọng thiết bị mở ra cách tương tác AI mới ngoài màn hình. Nguồn: YouTube</figcaption>
 </figure>
 

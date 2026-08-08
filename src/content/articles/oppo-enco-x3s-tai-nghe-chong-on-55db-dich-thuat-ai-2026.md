@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T15:20:00+07:00"
 dateModified: "2026-07-05T15:20:00+07:00"
 deck: "OPPO chính thức ra mắt Enco X3s, tai nghe true wireless flagship mới với khả năng chống ồn chủ động lên tới 55dB, tinh chỉnh âm thanh cùng thương hiệu Dynaudio, cùng tính năng AI Translate cho phép dịch trực tiếp, dịch đối mặt hơn 20 ngôn ngữ khác nhau."
-heroImage: "https://i.ytimg.com/vi/LOpIYrLnPDM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/LOpIYrLnPDM/maxresdefault.jpg"
 heroAlt: "OPPO Enco X3s tai nghe chong on 55dB dich thuat AI 2026"
 heroCaption: "OPPO Enco X3s là tai nghe true wireless flagship mới với chống ồn 55dB và AI Translate. Nguồn: YouTube"
 tldr: "OPPO vừa ra mắt <strong>Enco X3s</strong>, tai nghe true wireless flagship mới, sử dụng hệ thống chống ồn chủ động 3 micro trên mỗi bên tai, đạt mức giảm ồn tới <strong>55dB</strong> trên dải tần rộng 5.500Hz. Điểm nhấn công nghệ là <strong>Real-time Dynamic ANC</strong>, tự động tạo đường cong giảm ồn động theo thời gian thực, cải thiện đáng kể khả năng chống ồn giọng nói con người ở môi trường như tàu xe, máy bay. Âm thanh được tinh chỉnh cùng thương hiệu <strong>Dynaudio</strong>, hỗ trợ Hi-Res Audio qua LHDC 5.0. Sản phẩm còn tích hợp tính năng <strong>AI Translate</strong>, cho phép dịch trực tiếp, dịch đối mặt hơn <strong>20 ngôn ngữ</strong> khác nhau. Pin dùng được tới <strong>11 giờ</strong> mỗi bên khi tắt chống ồn, hoặc <strong>45 giờ</strong> tổng cộng kèm hộp sạc."
@@ -69,7 +69,7 @@ OPPO vừa chính thức ra mắt Enco X3s, tai nghe true wireless flagship mớ
 Về chất âm, Enco X3s được tinh chỉnh hợp tác cùng thương hiệu âm thanh cao cấp Dynaudio, hỗ trợ chuẩn âm thanh độ phân giải cao Hi-Res Audio qua codec LHDC 5.0, mang lại trải nghiệm nghe nhạc chi tiết, chân thực hơn so với nhiều tai nghe true wireless cùng phân khúc giá. Bên cạnh đó, tính năng AI Translate cho phép người dùng thực hiện dịch trực tiếp và dịch đối mặt trong hơn 20 ngôn ngữ khác nhau, tích hợp ngay trong chiếc tai nghe nghe nhạc hằng ngày mà không cần mang theo thêm thiết bị phiên dịch chuyên dụng riêng biệt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/LOpIYrLnPDM/sddefault.jpg" alt="Unbox danh gia OPPO Enco X3s kiem tra chong on chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/LOpIYrLnPDM/maxresdefault.jpg" alt="Unbox danh gia OPPO Enco X3s kiem tra chong on chi tiet" loading="lazy" width="1280" height="720">
   <figcaption>Video unbox và kiểm tra chi tiết khả năng chống ồn của OPPO Enco X3s. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Tính năng AI Translate trên Enco X3s bổ sung thêm một lựa chọn nữa
 Với người dùng Việt Nam đang tìm kiếm một chiếc tai nghe true wireless đa năng, vừa nghe nhạc chất lượng cao vừa có thêm tính năng hỗ trợ khi cần giao tiếp với người nước ngoài, OPPO Enco X3s là lựa chọn đáng cân nhắc trong phân khúc tai nghe cao cấp năm 2026. Người dùng có ngân sách hạn chế hơn hoặc chưa cần tới tính năng dịch thuật có thể tham khảo thêm [cách chọn tai nghe true wireless theo 5 tiêu chí quan trọng](/articles/cach-chon-tai-nghe-true-wireless-tws-2026-tieu-chi.html) để tìm được lựa chọn phù hợp hơn với nhu cầu sử dụng cơ bản hằng ngày của mình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/LOpIYrLnPDM/mqdefault.jpg" alt="OPPO Enco X3s chat luong am thanh cao cap Dynaudio" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/LOpIYrLnPDM/maxresdefault.jpg" alt="OPPO Enco X3s chat luong am thanh cao cap Dynaudio" loading="lazy" width="1280" height="720">
   <figcaption>OPPO Enco X3s mang lại chất lượng âm thanh cao cấp nhờ hợp tác cùng thương hiệu Dynaudio. Nguồn: YouTube</figcaption>
 </figure>
 

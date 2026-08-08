@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-03T14:20:00+07:00"
 dateModified: "2026-07-03T14:20:00+07:00"
 deck: "Anker vừa ra mắt Soundcore Liberty 5 Pro Max, tai nghe true wireless gây chú ý nhờ hộp sạc tích hợp màn hình cảm ứng AMOLED 1,78 inch cùng tính năng AI ghi chú giọng nói. Sản phẩm dùng chung phần cứng âm thanh với Liberty 5 Pro, từng đạt kỷ lục Guinness về chất lượng đàm thoại cao nhất trên tai nghe true wireless, giá bán 229,99 USD."
-heroImage: "https://i.ytimg.com/vi/ofIACiIITTU/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/ofIACiIITTU/maxresdefault.jpg"
 heroAlt: "Soundcore Liberty 5 Pro Max tai nghe hop sac man hinh AMOLED 2026"
 heroCaption: "Soundcore Liberty 5 Pro Max, tai nghe true wireless với hộp sạc tích hợp màn hình AMOLED. Nguồn: YouTube"
 tldr: "<strong>Soundcore Liberty 5 Pro Max</strong> là tai nghe true wireless cao cấp của Anker, điểm nhấn lớn nhất nằm ở hộp sạc tích hợp <strong>màn hình cảm ứng AMOLED 1,78 inch</strong> cùng tính năng <strong>AI Note-Taker</strong> ghi chú giọng nói tự động. Tai nghe bên trong dùng chung phần cứng với Liberty 5 Pro, từng đạt <strong>kỷ lục Guinness World Records</strong> về điểm chất lượng đàm thoại khách quan cao nhất (G-MOS) trên tai nghe true wireless. Giá bán <strong>229,99 USD</strong>."
@@ -67,7 +67,7 @@ Thứ đầu tiên khiến hầu hết người dùng chú ý khi cầm Soundcor
 Bên cạnh yếu tố thẩm mỹ, tính năng AI Note-Taker được xem là điểm khác biệt thực tế và hữu ích nhất của sản phẩm, cho phép ghi chú giọng nói tự động bằng trí tuệ nhân tạo, rất phù hợp với người thường xuyên cần ghi lại thông tin qua lời nói trong công việc như ghi chú cuộc họp hoặc lưu lại ý tưởng nhanh khi đang di chuyển ngoài đường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/4kt_N7pMdIA/hqdefault.jpg" alt="Soundcore Liberty 5 Pro Max so sanh Liberty 5 Pro 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/4kt_N7pMdIA/maxresdefault.jpg" alt="Soundcore Liberty 5 Pro Max so sanh Liberty 5 Pro 2026" loading="lazy" width="1280" height="720">
   <figcaption>Sự khác biệt giữa Liberty 5 Pro và Liberty 5 Pro Max chủ yếu nằm ở chiếc hộp sạc đi kèm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Bên cạnh yếu tố thẩm mỹ, tính năng AI Note-Taker được xem là �
 Do sử dụng chung phần cứng driver, hệ thống chống ồn và pin với Liberty 5 Pro, Soundcore Liberty 5 Pro Max cũng thừa hưởng thành tích ấn tượng mà Anker công bố hồi tháng 4/2026: đạt kỷ lục Guinness World Records cho điểm chất lượng giọng nói khách quan (G-MOS) cao nhất từng ghi nhận trên một mẫu tai nghe true wireless, một lợi thế đáng kể với người thường xuyên nghe gọi điện thoại hoặc họp trực tuyến qua tai nghe.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ofIACiIITTU/mqdefault.jpg" alt="Soundcore Liberty 5 Pro Max am thanh chat luong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ofIACiIITTU/maxresdefault.jpg" alt="Soundcore Liberty 5 Pro Max am thanh chat luong 2026" loading="lazy" width="1280" height="720">
   <figcaption>Chất lượng âm thanh mặc định của Liberty 5 Pro Max thiên về bass, có thể tùy chỉnh qua ứng dụng đi kèm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về âm thanh, chất lượng mặc định của sản phẩm được đánh
 Đây là câu hỏi được nhiều người dùng quan tâm nhất khi cân nhắc giữa hai phiên bản. Với người đã sở hữu Liberty 5 Pro và hài lòng với chất lượng âm thanh, khả năng chống ồn cùng độ bền pin hiện tại, việc nâng cấp lên bản Pro Max chủ yếu mang lại giá trị ở khía cạnh trải nghiệm sử dụng hằng ngày và tính năng AI ghi chú, chứ không tạo ra khác biệt đáng kể về chất lượng âm thanh thuần túy. Ngược lại, với người mua mới hoàn toàn và có ngân sách thoải mái hơn, bản Pro Max mang lại trải nghiệm tổng thể đầy đủ và ấn tượng hơn ngay từ lần đầu mở hộp, đặc biệt phù hợp với người thường xuyên khoe thiết bị công nghệ mới hoặc yêu thích các chi tiết thiết kế độc đáo, khác biệt so với số đông sản phẩm cùng phân khúc giá trên thị trường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/tpEtUBp0sD8/hqdefault.jpg" alt="Soundcore Liberty 5 Pro Max thiet ke hop sac doc dao 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/tpEtUBp0sD8/maxresdefault.jpg" alt="Soundcore Liberty 5 Pro Max thiet ke hop sac doc dao 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế hộp sạc độc đáo là yếu tố khiến Liberty 5 Pro Max nổi bật hơn hẳn số đông đối thủ cùng tầm giá. Nguồn: YouTube</figcaption>
 </figure>
 

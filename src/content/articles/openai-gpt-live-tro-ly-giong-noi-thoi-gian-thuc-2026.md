@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-10T08:00:00+07:00"
 dateModified: "2026-07-10T08:00:00+07:00"
 deck: "OpenAI chính thức ra mắt GPT-Live, thế hệ mô hình giọng nói mới cho ChatGPT được xây dựng trên kiến trúc song công toàn phần, cho phép hệ thống nghe và nói cùng lúc như một cuộc trò chuyện thực sự với con người, thay vì hoạt động theo từng lượt như các trợ lý giọng nói AI trước đây."
-heroImage: "https://i.ytimg.com/vi/ZLwT_Y4rAJ0/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/ZLwT_Y4rAJ0/sddefault.jpg"
 heroAlt: "OpenAI ra mắt GPT-Live trợ lý giọng nói thời gian thực cho ChatGPT"
 heroCaption: "GPT-Live mang tới trải nghiệm hội thoại giọng nói tự nhiên chưa từng có cho ChatGPT. Nguồn: YouTube"
 tldr: "<strong>OpenAI</strong> chính thức ra mắt <strong>GPT-Live</strong>, mô hình giọng nói thế hệ mới sẽ được triển khai cho toàn bộ người dùng <strong>ChatGPT</strong>. Điểm đột phá lớn nhất là kiến trúc <strong>song công toàn phần (full-duplex)</strong>, cho phép hệ thống nghe và nói cùng lúc thay vì xử lý theo từng lượt như các trợ lý giọng nói AI trước đây. GPT-Live có thể tự động chuyển cảm xúc giọng nói theo ngữ cảnh, chủ động đề nghị im lặng khi phát hiện tiếng ồn xung quanh, và tự động chuyển tác vụ phức tạp sang các mô hình mạnh hơn chạy nền mà không làm gián đoạn cuộc hội thoại. Tính năng còn tích hợp phiên dịch trực tiếp và hiển thị thẻ thông tin trực quan ngay trong giao diện trò chuyện. Cùng đợt, OpenAI cũng ra mắt <strong>ChatGPT Work</strong>, công cụ văn phòng kết hợp năng lực lập trình <strong>Codex</strong> để hỗ trợ tạo tài liệu, bài thuyết trình và website."
@@ -73,7 +73,7 @@ Không dừng lại ở khả năng kỹ thuật thuần túy, GPT-Live còn th�
 Một điểm cộng kỹ thuật đáng chú ý khác là cách GPT-Live xử lý những câu hỏi vượt quá khả năng phản hồi tức thời. Khi gặp các câu hỏi cần tìm kiếm thông tin trên Internet hoặc đòi hỏi khả năng suy luận phức tạp, hệ thống sẽ tự động chuyển tác vụ đó sang các mô hình mạnh hơn của OpenAI, xử lý ở chế độ chạy nền mà không làm gián đoạn hay tạo ra độ trễ đáng chú ý trong cuộc hội thoại đang diễn ra với người dùng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/JmgEBhewCvI/hqdefault.jpg" alt="Trải nghiệm sớm mô hình giọng nói mới GPT-Live-1 của ChatGPT" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/JmgEBhewCvI/maxresdefault.jpg" alt="Trải nghiệm sớm mô hình giọng nói mới GPT-Live-1 của ChatGPT" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều nhà sáng tạo nội dung công nghệ được OpenAI cấp quyền trải nghiệm sớm mô hình giọng nói mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Cơ chế này giải quyết một trong những hạn chế lớn nhất của
 Song song với GPT-Live, OpenAI cũng chính thức ra mắt ChatGPT Work, công cụ văn phòng mới kết hợp năng lực của ChatGPT với khả năng lập trình của Codex nhằm hỗ trợ người dùng tạo tài liệu, bài thuyết trình, website và xử lý nhiều tác vụ văn phòng khác một cách tự động hoá. Công cụ này có thể sử dụng trên cả nền tảng web, máy tính để bàn và điện thoại di động, cho phép người dùng giao việc rồi theo dõi tiến độ thực hiện từ nhiều thiết bị khác nhau một cách liền mạch.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Wq45rvPGNHs/hqdefault.jpg" alt="OpenAI giới thiệu ChatGPT Work vận hành trên nền tảng Codex và GPT-5.6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Wq45rvPGNHs/maxresdefault.jpg" alt="OpenAI giới thiệu ChatGPT Work vận hành trên nền tảng Codex và GPT-5.6" loading="lazy" width="1280" height="720">
   <figcaption>OpenAI trực tiếp giới thiệu ChatGPT Work, công cụ văn phòng mới vận hành trên nền tảng Codex và GPT-5.6. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ ChatGPT Work hỗ trợ kết nối với các ứng dụng bên ngoài thông q
 ## Bối cảnh: cuộc đua hạ tầng và mô hình AI ngày càng khốc liệt
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xTjuiuHlN2c/hqdefault.jpg" alt="Codex được tích hợp trực tiếp vào ứng dụng ChatGPT tạo nên ChatGPT Work" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xTjuiuHlN2c/maxresdefault.jpg" alt="Codex được tích hợp trực tiếp vào ứng dụng ChatGPT tạo nên ChatGPT Work" loading="lazy" width="1280" height="720">
   <figcaption>Việc tích hợp Codex trực tiếp vào ChatGPT đánh dấu bước chuyển mình quan trọng của sản phẩm. Nguồn: YouTube</figcaption>
 </figure>
 

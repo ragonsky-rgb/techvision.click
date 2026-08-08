@@ -65,7 +65,7 @@ AI Overviews là bản tóm tắt do trí tuệ nhân tạo tạo ra, hiển th�
 Mục tiêu của Google là giúp người dùng có câu trả lời nhanh hơn mà không phải mở nhiều trang. Tuy nhiên, chính sự tiện lợi đó lại làm thay đổi sâu sắc cách lưu lượng truy cập chảy về các website, một vấn đề ngày càng được giới làm nội dung và cơ quan quản lý quan tâm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VX2PMkdlWn0/hqdefault.jpg" alt="Phân biệt Google AI Overviews và Featured Snippets" loading="lazy" width="480" height="360">
+  <img decoding="async" src="https://i.ytimg.com/vi/VX2PMkdlWn0/sddefault.jpg" alt="Phân biệt Google AI Overviews và Featured Snippets" loading="lazy" width="640" height="480">
   <figcaption>AI Overviews tổng hợp nhiều nguồn, khác với Featured Snippets trích một trang. Nguồn: YouTube</figcaption>
 </figure>
 

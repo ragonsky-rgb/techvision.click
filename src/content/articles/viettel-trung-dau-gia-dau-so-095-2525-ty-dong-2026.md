@@ -71,7 +71,7 @@ Mức chênh lệch rất lớn giữa giá khởi điểm và giá trúng phả
 Điểm thú vị của câu chuyện nằm ở lịch sử của chính đầu số 095. Trước đây, dải số này từng được cấp cho mạng di động S-Fone, một trong những nhà mạng đầu tiên tại Việt Nam sử dụng công nghệ CDMA. Tuy nhiên, sau khi S-Fone dần thu hẹp hoạt động rồi ngừng cung cấp dịch vụ, đầu số 095 gần như không còn được khai thác trên thực tế trong nhiều năm liền. Việc đưa 095 trở lại thị trường thông qua đấu giá đồng nghĩa với việc một tài nguyên kho số bị bỏ trống bấy lâu sẽ được tái sử dụng, thay vì để lãng phí.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/3_CsTDHnFzw/hqdefault.jpg" alt="Kho số di động 09x tại Việt Nam đang dần cạn kiệt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3_CsTDHnFzw/maxresdefault.jpg" alt="Kho số di động 09x tại Việt Nam đang dần cạn kiệt" loading="lazy" width="1280" height="720">
   <figcaption>Nhóm đầu số 09x quen thuộc với người dùng Việt Nam nên có giá trị cao khi đấu giá. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Với người dùng, sự trở lại của đầu số 095 mang lại thêm l�
 Theo quy định, việc trúng đấu giá mới chỉ là bước đầu tiên. Sau khi hoàn tất các thủ tục và được phân bổ mã mạng, đơn vị trúng đấu giá phải có cam kết bằng văn bản về việc đưa đầu số 095 vào khai thác, sử dụng thực tế trong vòng tối đa 6 tháng. Ràng buộc này nhằm bảo đảm tài nguyên kho số sau khi đấu giá được sử dụng hiệu quả, tránh tình trạng doanh nghiệp giành được dải số rồi để đó không triển khai, gây lãng phí nguồn lực chung.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IYvSUxNim7Y/hqdefault.jpg" alt="Người dùng đăng ký thuê bao di động mới tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IYvSUxNim7Y/maxresdefault.jpg" alt="Người dùng đăng ký thuê bao di động mới tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Sau khi hoàn tất thủ tục, đầu số 095 sẽ được mở cho các thuê bao mới đăng ký. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Về phía người dùng, khi đầu số 095 chính thức đi vào hoạt đ�
 Kết quả đấu giá đầu số 095 tiếp tục cho thấy hướng đi rõ ràng của cơ quan quản lý trong việc thương mại hóa và minh bạch hóa việc phân bổ tài nguyên viễn thông. Thay vì cấp phát theo cơ chế xin cho, các tài nguyên có giá trị như băng tần, kho số được đưa ra đấu giá để doanh nghiệp nào định giá cao nhất và có nhu cầu thực sự sẽ giành quyền sử dụng. Cách làm này vừa tạo nguồn thu cho ngân sách, vừa gắn trách nhiệm khai thác hiệu quả với đơn vị trúng đấu giá.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Ur67sFAgCpc/hqdefault.jpg" alt="Hạ tầng viễn thông và trạm phát sóng di động tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ur67sFAgCpc/maxresdefault.jpg" alt="Hạ tầng viễn thông và trạm phát sóng di động tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Đấu giá kho số là một phần trong xu hướng minh bạch hóa tài nguyên viễn thông. Nguồn: YouTube</figcaption>
 </figure>
 

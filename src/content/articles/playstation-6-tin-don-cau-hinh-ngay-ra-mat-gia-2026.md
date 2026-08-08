@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-14T13:00:00+07:00"
 dateModified: "2026-07-14T13:00:00+07:00"
 deck: "PlayStation 6 vẫn chưa được Sony công bố chính thức, nhưng hàng loạt tin đồn và rò rỉ về cấu hình đang vẽ nên bức tranh khá rõ về cỗ máy chơi game thế hệ tiếp theo. Các nguồn tin cho rằng PS6 dùng chip tùy biến sản xuất trên tiến trình 2nm của TSMC, CPU kiến trúc AMD Zen 6, GPU RDNA 5 và bộ nhớ GDDR7 băng thông cao hơn PS5 tới 43%. Đáng chú ý, khủng hoảng bộ nhớ do nhu cầu AI có thể khiến Sony lùi lịch ra mắt từ mốc 2027 sang tận 2028 hoặc 2029. Tất cả vẫn là tin đồn, chưa có xác nhận từ Sony."
-heroImage: "https://i.ytimg.com/vi/LORHRwYJKy4/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/LORHRwYJKy4/maxresdefault.jpg"
 heroAlt: "Tổng hợp tin đồn cấu hình, ngày ra mắt và giá bán PlayStation 6 năm 2026"
 heroCaption: "PlayStation 6 vẫn là ẩn số khi Sony chưa công bố bất kỳ thông tin chính thức nào. Nguồn: YouTube"
 tldr: "<strong>PlayStation 6</strong> chưa được Sony công bố chính thức tính tới giữa năm 2026, CEO Hiroki Totoki nói chưa chốt thời điểm lẫn giá bán. Theo các tin rò rỉ, PS6 dùng chip tùy biến trên tiến trình <strong>2nm của TSMC</strong>, CPU <strong>AMD Zen 6</strong>, GPU <strong>RDNA 5</strong> và RAM <strong>GDDR7</strong> băng thông khoảng 640 GB/s, cao hơn PS5 tới <strong>43%</strong>. Mốc ra mắt được đồn đoán là <strong>2027</strong>, nhưng Sony được cho là đang cân nhắc lùi sang <strong>2028 hoặc 2029</strong> vì khủng hoảng bộ nhớ do nhu cầu AI. Giá bán rò rỉ có thể lên tới <strong>900 euro</strong> hoặc hơn. Mọi thông tin đều là tin đồn, cần chờ Sony xác nhận."
@@ -73,7 +73,7 @@ Dù vậy, những tin đồn này không hoàn toàn vô căn cứ. Chúng đ�
 Về phần cứng, các tin đồn khá thống nhất ở một điểm: PS6 sẽ là bước nhảy đáng kể so với PS5. Chip xử lý được cho là sản phẩm tùy biến sản xuất trên tiến trình 2nm của TSMC, tiến trình tiên tiến bậc nhất hiện nay. Bên trong là CPU kiến trúc AMD Zen 6, nâng cấp lớn so với nền Zen 2 cũ kỹ trên PS5, cùng GPU thế hệ mới RDNA 5.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/nR8aVwvBQP4/hqdefault.jpg" alt="Tin đồn về chip và phần cứng PlayStation 6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nR8aVwvBQP4/maxresdefault.jpg" alt="Tin đồn về chip và phần cứng PlayStation 6" loading="lazy" width="1280" height="720">
   <figcaption>Chip PS6 được đồn sản xuất trên tiến trình 2nm với CPU Zen 6 và GPU RDNA 5. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Về phần cứng, các tin đồn khá thống nhất ở một điểm: PS6 s
 Đây là phần thú vị và cũng bất ngờ nhất của câu chuyện PS6. Mốc ra mắt được đồn đoán nhiều nhất là năm 2027, dựa theo chu kỳ vòng đời console quen thuộc của Sony. Tuy nhiên gần đây xuất hiện thông tin Sony đang cân nhắc lùi lịch sang năm 2028 hoặc thậm chí 2029.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/yO7OK37hyCI/hqdefault.jpg" alt="Khủng hoảng bộ nhớ ảnh hưởng tới kế hoạch ra mắt PlayStation 6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yO7OK37hyCI/maxresdefault.jpg" alt="Khủng hoảng bộ nhớ ảnh hưởng tới kế hoạch ra mắt PlayStation 6" loading="lazy" width="1280" height="720">
   <figcaption>Nhu cầu bộ nhớ cho AI khiến việc sản xuất console giá hợp lý trở nên khó khăn hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Lý do nằm ở khủng hoảng bộ nhớ. Máy chơi game cần lượng lớ
 ## Giá bán và điều người chơi nên chờ đợi
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/u3BFiV3AHA8/hqdefault.jpg" alt="Xếp hạng độ tin cậy các tin đồn về PlayStation 6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/u3BFiV3AHA8/maxresdefault.jpg" alt="Xếp hạng độ tin cậy các tin đồn về PlayStation 6" loading="lazy" width="1280" height="720">
   <figcaption>Người chơi nên phân biệt rõ tin đồn với thông tin chính thức khi theo dõi câu chuyện PS6. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -99,7 +99,7 @@ Việc hai sàn Shopee và TikTok Shop chiếm hơn 90% thị phần bán lẻ o
 Sự thống lĩnh của các sàn cũng tạo sức ép lên bán lẻ truyền thống, khi nhiều cửa hàng vật lý phải thích nghi bằng cách bán hàng đa kênh hoặc tham gia các nền tảng số. Đây là quá trình chuyển đổi tất yếu, đòi hỏi cả người bán lẫn cơ quan quản lý cùng tìm cách cân bằng giữa hiệu quả của nền tảng lớn và sự lành mạnh của toàn thị trường. Người tiêu dùng cũng cần cảnh giác với hàng giả và các chiêu trò, có thể tham khảo bài [cách nhận biết và phòng tránh lừa đảo online](/articles/cach-nhan-biet-phong-tranh-lua-dao-online-tin-nhan-gia-mao.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/fgGlW9U82p4/hq720.jpg" alt="Thị phần lớn rơi vào TikTok Shop và Shopee, bán lẻ truyền thống chịu sức ép" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fgGlW9U82p4/maxresdefault.jpg" alt="Thị phần lớn rơi vào TikTok Shop và Shopee, bán lẻ truyền thống chịu sức ép" loading="lazy" width="1280" height="720">
   <figcaption>Mức độ tập trung cao đặt ra cả cơ hội và lo ngại cho thị trường. Nguồn: YouTube</figcaption>
 </figure>
 

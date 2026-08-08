@@ -108,7 +108,7 @@ Sự nổi lên của dòng camera gimbal bỏ túi gắn liền với làn són
 Trong vài năm gần đây, cuộc cạnh tranh trong phân khúc này ngày càng gay gắt, với các hãng liên tục bổ sung cảm biến lớn hơn, khả năng zoom quang học và các tính năng bám chủ thể bằng AI. Sự xuất hiện cùng thời điểm của Pocket 4 Pro và [Insta360 Luna Ultra](/articles/insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket.html) cho thấy phân khúc camera bỏ túi cao cấp đang bước vào giai đoạn sôi động nhất từ trước tới nay, mang lại nhiều lựa chọn hơn cho người dùng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DjNaJScp1PM/hq720.jpg" alt="Đánh giá DJI Osmo Pocket 4 Pro so sánh với Pocket 4 và Pocket 3" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DjNaJScp1PM/maxresdefault.jpg" alt="Đánh giá DJI Osmo Pocket 4 Pro so sánh với Pocket 4 và Pocket 3" loading="lazy" width="1280" height="720">
   <figcaption>Camera gimbal bỏ túi kết hợp chống rung cơ học với cảm biến lớn trong thân máy nhỏ. Nguồn: YouTube</figcaption>
 </figure>
 

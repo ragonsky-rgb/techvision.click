@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T18:40:00+07:00"
 dateModified: "2026-07-05T18:40:00+07:00"
 deck: "NVIDIA và Microsoft vừa công bố RTX Spark, một superchip laptop chạy Windows on Arm kết hợp CPU Grace 20 nhân với GPU Blackwell, chia sẻ tới 128GB RAM hợp nhất qua NVLink-C2C, mở đầu thế hệ laptop AI mới dự kiến bán ra từ mùa thu 2026."
-heroImage: "https://i.ytimg.com/vi/BxNeG_CblFc/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/BxNeG_CblFc/maxresdefault.jpg"
 heroAlt: "NVIDIA RTX Spark superchip laptop ARM Blackwell 2026"
 heroCaption: "NVIDIA RTX Spark là superchip laptop mới kết hợp CPU ARM và GPU Blackwell. Nguồn: YouTube"
 tldr: "NVIDIA vừa công bố <strong>RTX Spark</strong>, superchip dành cho laptop và mini-PC chạy Windows on Arm, kết hợp CPU <strong>Grace 20 nhân</strong> với GPU <strong>Blackwell</strong> có <strong>6.144 nhân CUDA</strong> và Tensor Core thế hệ 5 hỗ trợ FP4. Hai chip chia sẻ tới <strong>128GB RAM LPDDR5X</strong> hợp nhất qua kết nối NVLink-C2C, băng thông tối đa <strong>300GB/s</strong>. Microsoft trình làng Surface Laptop Ultra 15 inch màn hình mini-LED làm sản phẩm chủ lực, cùng nhiều đối tác như ASUS, Dell, HP, Lenovo, MSI. Laptop dùng RTX Spark dự kiến bán ra mùa thu 2026, giá khởi điểm khoảng <strong>1.800 USD</strong>."
@@ -71,7 +71,7 @@ Theo NVIDIA, cấu hình mạnh nhất của RTX Spark có thể đạt hiệu n
 Microsoft giới thiệu Surface Laptop Ultra 15 inch làm sản phẩm chủ lực đầu tiên dùng RTX Spark, trang bị màn hình mini-LED cao cấp, độ dày dưới 18mm và trọng lượng chưa tới 2kg, cùng cấu hình RAM hợp nhất tối đa 128GB. Bên cạnh Microsoft, nhiều đối tác lớn khác như ASUS, Dell, HP, Lenovo và MSI cũng đã trình làng các thiết bị riêng dùng chip này tại Computex 2026, với tổng cộng 8 mẫu laptop dự kiến ra mắt ngay trong mùa thu 2026, cho thấy NVIDIA đang xây dựng một hệ sinh thái rộng khắp thay vì chỉ giới hạn ở một đối tác phần cứng duy nhất, tương tự chiến lược từng áp dụng thành công với GPU GeForce trên laptop gaming nhiều năm qua. Đáng chú ý, NVIDIA cho biết RTX Spark còn đủ sức chơi tốt các tựa game AAA ở độ phân giải 1440p với tốc độ khung hình trên 100fps, cho thấy chip này không chỉ nhắm tới người dùng sáng tạo nội dung mà còn cả game thủ có nhu cầu một thiết bị đa năng duy nhất.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/raXoKqGGbA8/hqdefault.jpg" alt="Surface Laptop Ultra NVIDIA RTX Spark trai nghiem thuc te" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/raXoKqGGbA8/maxresdefault.jpg" alt="Surface Laptop Ultra NVIDIA RTX Spark trai nghiem thuc te" loading="lazy" width="1280" height="720">
   <figcaption>Surface Laptop Ultra là sản phẩm chủ lực đầu tiên của Microsoft trang bị chip NVIDIA RTX Spark. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Microsoft giới thiệu Surface Laptop Ultra 15 inch làm sản phẩm chủ l�
 Theo trải nghiệm thực tế từ Tom's Guide, RTX Spark thể hiện đặc biệt tốt ở các tác vụ dựng phim, xử lý ảnh RAW độ phân giải cao và chạy mô hình AI cục bộ, những tác vụ vốn đòi hỏi cả hiệu năng CPU mạnh lẫn dung lượng bộ nhớ lớn. Với các tác vụ chơi game thuần túy, GPU Blackwell tích hợp vẫn chưa thể sánh ngang GPU rời cao cấp dành riêng cho laptop gaming như dòng [ASUS ROG Zephyrus G14 2026 vừa chuyển sang chip Intel Panther Lake](/articles/asus-rog-zephyrus-g14-2026-doi-sang-intel-panther-lake.html), nhưng vẫn đủ sức xử lý tốt hầu hết tựa game phổ biến ở mức cài đặt đồ họa trung bình tới cao, trong khi vượt trội hoàn toàn về hiệu quả năng lượng và khả năng xử lý AI cục bộ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/BXkmX4Ufxnk/hqdefault.jpg" alt="Trai nghiem thuc te NVIDIA RTX Spark dung phim sang tao noi dung" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/BXkmX4Ufxnk/maxresdefault.jpg" alt="Trai nghiem thuc te NVIDIA RTX Spark dung phim sang tao noi dung" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế cho thấy RTX Spark đặc biệt mạnh ở các tác vụ dựng phim và sáng tạo nội dung. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Theo trải nghiệm thực tế từ Tom's Guide, RTX Spark thể hiện đặc
 Theo thông tin rò rỉ ban đầu được các trang phân tích Việt Nam trích dẫn, laptop dùng RTX Spark có giá khởi điểm khoảng 1.800 USD, trong khi cấu hình cao cấp với RAM hợp nhất lớn hơn có thể vượt mốc 2.900 USD. NVIDIA cũng đã hé lộ lộ trình phát triển tiếp theo, gồm thế hệ chip "Vera Rubin" dùng RAM LPDDR6 và thế hệ xa hơn mang tên "Rosa Feynman", cho thấy công ty đặt cược dài hạn vào kiến trúc superchip laptop này thay vì chỉ xem đây là sản phẩm thử nghiệm ngắn hạn. Người quan tâm tới các lựa chọn laptop hiệu năng cao khác có thể tham khảo thêm [top laptop đáng mua tháng 7/2026 mọi phân khúc](/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html) trong lúc chờ đợi RTX Spark chính thức lên kệ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/dU7Lle7WQDE/hqdefault.jpg" alt="NVIDIA RTX Spark giai thich tinh nang trong 5 phut" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/dU7Lle7WQDE/maxresdefault.jpg" alt="NVIDIA RTX Spark giai thich tinh nang trong 5 phut" loading="lazy" width="1280" height="720">
   <figcaption>Tổng hợp toàn bộ tính năng nổi bật của NVIDIA RTX Spark trong một video ngắn gọn. Nguồn: YouTube</figcaption>
 </figure>
 

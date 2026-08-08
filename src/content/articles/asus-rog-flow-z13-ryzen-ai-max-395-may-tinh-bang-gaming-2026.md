@@ -62,7 +62,7 @@ Suốt nhiều năm, ranh giới giữa máy tính bảng và laptop gaming khá
 Cách bố trí này mang lại sự linh hoạt: người dùng có thể tháo bàn phím để dùng như máy tính bảng cảm ứng, gắn lại để làm việc như laptop, hoặc kết nối màn hình ngoài để biến thành một máy trạm di động. Với những ai cần một thiết bị đa năng cho cả chơi game, làm việc và sáng tạo trong khi di chuyển nhiều, ROG Flow Z13 là một đề xuất hấp dẫn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SJqEJipgvLQ/hqdefault.jpg" alt="ASUS ROG Flow Z13 tháo rời bàn phím để dùng như máy tính bảng cảm ứng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SJqEJipgvLQ/maxresdefault.jpg" alt="ASUS ROG Flow Z13 tháo rời bàn phím để dùng như máy tính bảng cảm ứng" loading="lazy" width="1280" height="720">
   <figcaption>Toàn bộ linh kiện nằm trong phần thân, bàn phím là bộ phận rời gắn thêm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Trái tim đồ họa của máy là iGPU Radeon 8060S, được nhiều bài th
 Con chip Ryzen AI Max+ 395 bên trong ROG Flow Z13 chính là nền tảng đang được dùng trên nhiều dạng thiết bị khác nhau. Nếu muốn hiểu sâu về sức mạnh và khả năng chạy AI của nó, có thể tham khảo bài phân tích về [chip Ryzen AI Max+ 395 và các mini PC chạy AI nội bộ](/articles/amd-ryzen-ai-max-395-strix-halo-mini-pc-ai-70b-2026.html). ROG Flow Z13 đưa đúng sức mạnh đó vào một thân máy di động, thay vì đặt cố định trên bàn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/j-CrlcvAuws/hqdefault.jpg" alt="ROG Flow Z13 chạy game nặng ở độ phân giải 1080p nhờ iGPU Radeon 8060S" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/j-CrlcvAuws/maxresdefault.jpg" alt="ROG Flow Z13 chạy game nặng ở độ phân giải 1080p nhờ iGPU Radeon 8060S" loading="lazy" width="1280" height="720">
   <figcaption>iGPU Radeon 8060S cho phép chơi game nặng ở 1080p mà không cần card đồ họa rời. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một điểm cần lưu ý ở dạng máy dồn toàn bộ linh kiện vào th
 Sức mạnh và thiết kế đặc biệt của ROG Flow Z13 đi kèm mức giá không dễ chịu. Ở thế hệ 2025, bản cao cấp có giá khởi điểm quanh 4.499 USD, phản ánh cấu hình mạnh và định vị chuyên biệt. Giá thực tế thay đổi theo cấu hình bộ nhớ, ổ cứng và từng thị trường, nhưng nhìn chung đây không phải sản phẩm hướng tới số đông, mà nhắm vào nhóm người dùng sẵn sàng chi trả cho một thiết bị vừa mạnh vừa di động.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2OEF2qgoQOE/hqdefault.jpg" alt="ROG Flow Z13 dùng linh hoạt vừa chơi game vừa làm việc khi di chuyển" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2OEF2qgoQOE/maxresdefault.jpg" alt="ROG Flow Z13 dùng linh hoạt vừa chơi game vừa làm việc khi di chuyển" loading="lazy" width="1280" height="720">
   <figcaption>ROG Flow Z13 nhắm tới người dùng cần cả sức mạnh chơi game lẫn tính di động cao. Nguồn: YouTube</figcaption>
 </figure>
 

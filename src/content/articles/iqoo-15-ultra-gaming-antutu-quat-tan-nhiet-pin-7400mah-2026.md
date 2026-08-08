@@ -76,7 +76,7 @@ Trong nhóm cùng dòng, bản tiêu chuẩn [iQOO 15](/articles/iqoo-15-snapdra
 Đây cũng là lý do iQOO 15 Ultra thường được so sánh với các mẫu gaming chuyên dụng thay vì flagship phổ thông. Bạn có thể tham khảo thêm mẫu [RedMagic 11S Pro+](/articles/redmagic-11s-pro-plus-vo-dich-antutu-dien-thoai-gaming-2026.html), một đối thủ cũng đặt nặng yếu tố tản nhiệt và hiệu năng đỉnh, để thấy hai hướng thiết kế gaming đang cạnh tranh nhau ra sao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/NhRfrQCAM0M/hqdefault.jpg" alt="iQOO 15 Ultra man hinh 2K 144Hz choi game hieu nang cao" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NhRfrQCAM0M/maxresdefault.jpg" alt="iQOO 15 Ultra man hinh 2K 144Hz choi game hieu nang cao" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình 2K 144Hz của iQOO 15 Ultra phù hợp cho game tốc độ cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên cạnh hiệu năng, iQOO 15 Ultra sở hữu màn hình 6.85 inch độ ph
 Về thời lượng, máy dùng viên pin 7400mAh thuộc nhóm lớn nhất thị trường, kết hợp sạc nhanh có dây 100W. Người dùng có thể chơi game nhiều giờ hoặc dùng hỗn hợp cả ngày mà không lo hết pin giữa chừng, còn khi cần thì chỉ mất thời gian ngắn để nạp lại phần lớn dung lượng. Sự kết hợp pin lớn và sạc nhanh này giúp iQOO 15 Ultra phù hợp cả với người hay di chuyển.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/6mc2um6N5m0/hqdefault.jpg" alt="iQOO 15 Ultra pin 7400mAh sac nhanh 100W thiet ke" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/6mc2um6N5m0/maxresdefault.jpg" alt="iQOO 15 Ultra pin 7400mAh sac nhanh 100W thiet ke" loading="lazy" width="1280" height="720">
   <figcaption>iQOO 15 Ultra có pin 7400mAh và sạc nhanh 100W. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ iQOO vốn được biết đến nhiều nhờ hiệu năng hơn là camera, nh
 Về bộ nhớ, máy có các tùy chọn RAM LPDDR5X 16GB hoặc 24GB, bộ nhớ trong UFS 4.1 từ 256GB tới 1TB. Đây là mức cấu hình dư dả cho cả chơi game lẫn đa nhiệm nặng. So với nhóm flagship camera như [Honor Magic 8 Pro](/articles/honor-magic-8-pro-camera-200mp-snapdragon-8-elite-gen-5-2026.html), iQOO 15 Ultra định vị rõ ràng hơn ở nhóm hiệu năng, dù khoảng cách về nhiếp ảnh đã được thu hẹp nhiều so với các thế hệ trước.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/BNySKqZPuNQ/hqdefault.jpg" alt="iQOO 15 Ultra ba camera 50MP zoom tele kinh tiem vong" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BNySKqZPuNQ/maxresdefault.jpg" alt="iQOO 15 Ultra ba camera 50MP zoom tele kinh tiem vong" loading="lazy" width="1280" height="720">
   <figcaption>Hệ ba camera 50MP trên iQOO 15 Ultra được nâng cấp rõ rệt. Nguồn: YouTube</figcaption>
 </figure>
 

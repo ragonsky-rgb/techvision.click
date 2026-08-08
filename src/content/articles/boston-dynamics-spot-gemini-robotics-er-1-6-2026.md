@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-11T21:40:00+07:00"
 dateModified: "2026-07-11T21:40:00+07:00"
 deck: "Google DeepMind và Boston Dynamics vừa công bố bước nâng cấp đáng chú ý cho robot bốn chân Spot khi tích hợp mô hình lý luận thị giác Gemini Robotics-ER 1.6, giúp robot đạt độ chính xác đọc đồng hồ đo analog lên tới 98%, tăng gấp bốn lần so với phiên bản trước, đồng thời có thể tự hoàn thành danh sách việc nhà viết tay như xếp giày, gom quần áo hay dắt chó đi dạo mà không cần lập trình sẵn từng bước."
-heroImage: "https://i.ytimg.com/vi/LP4-c5AK30g/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/LP4-c5AK30g/maxresdefault.jpg"
 heroAlt: "Robot Spot của Boston Dynamics tự hoàn thành việc nhà nhờ Gemini Robotics-ER 1.6"
 heroCaption: "Spot sử dụng camera và mô hình Gemini để đọc, hiểu và thực hiện danh sách việc nhà viết tay. Nguồn: YouTube"
 tldr: "<strong>Google DeepMind</strong> phát hành mô hình <strong>Gemini Robotics-ER 1.6</strong> vào giữa tháng 4/2026, được <strong>Boston Dynamics</strong> triển khai đầu tiên trên robot bốn chân <strong>Spot</strong>. Điểm nhấn kỹ thuật lớn nhất là khả năng đọc đồng hồ đo analog đạt độ chính xác <strong>98%</strong>, tăng gấp khoảng bốn lần so với mức 23% của phiên bản Gemini Robotics-ER 1.5 trước đó, nhờ kỹ thuật gọi là agentic vision, tức thị giác có khả năng tự lập luận nhiều bước. Ngoài ứng dụng công nghiệp như kiểm tra rò rỉ, đọc đồng hồ áp suất tại nhà máy, Boston Dynamics còn công bố video trình diễn Spot tự hoàn thành danh sách việc nhà viết tay, bao gồm xếp giày, thu gom lon rác, gom quần áo vào giỏ và dắt một chú chó thật đi dạo, cho thấy tiềm năng mở rộng của robot ra khỏi phạm vi công nghiệp truyền thống."
@@ -73,7 +73,7 @@ Bước cải tiến này đạt được nhờ kỹ thuật mà Google DeepMind
 Mặc dù công nghệ này thu hút sự chú ý rộng rãi nhờ những video trình diễn bắt mắt, trọng tâm thương mại thực sự của Boston Dynamics vẫn nằm ở các ứng dụng kiểm tra công nghiệp thông qua nền tảng Orbit AIVI-Learning. Với Gemini Robotics-ER 1.6, robot Spot có thể tự động phát hiện các sự cố như vũng nước đọng, mảnh vỡ nguy hiểm trên sàn nhà máy, đọc đồng hồ đo áp suất và mực chất lỏng, đồng thời chủ động gọi tới các công cụ mô hình thị giác ngôn ngữ hành động khi cần hiểu rõ hơn về môi trường xung quanh trong lúc tuần tra.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/qkMq831fDng/hqdefault.jpg" alt="Robot Spot của Boston Dynamics trong một thử nghiệm thực tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qkMq831fDng/maxresdefault.jpg" alt="Robot Spot của Boston Dynamics trong một thử nghiệm thực tế" loading="lazy" width="1280" height="720">
   <figcaption>Spot đã được thương mại hoá rộng rãi với hàng nghìn đơn vị hoạt động trong các nhà máy, cơ sở hạ tầng công nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Theo Boston Dynamics, video trình diễn này bắt nguồn từ một cuộc h
 ## Phân biệt với Atlas, dòng robot hình người của Boston Dynamics
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/LP4-c5AK30g/hqdefault.jpg" alt="Spot của Boston Dynamics thực hiện nhiều tác vụ khác nhau trong video demo" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/LP4-c5AK30g/maxresdefault.jpg" alt="Spot của Boston Dynamics thực hiện nhiều tác vụ khác nhau trong video demo" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng lý luận đa bước giúp Spot xử lý được nhiều dạng tác vụ khác nhau chỉ từ một chỉ dẫn ngôn ngữ tự nhiên. Nguồn: YouTube</figcaption>
 </figure>
 

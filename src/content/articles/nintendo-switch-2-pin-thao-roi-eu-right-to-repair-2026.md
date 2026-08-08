@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-16T22:30:00+07:00"
 dateModified: "2026-07-16T22:30:00+07:00"
 deck: "Quyền được sửa chữa của người tiêu dùng đang tạo ra những thay đổi thực tế với cả những ông lớn công nghệ, và Nintendo là ví dụ mới nhất. Theo nhiều báo cáo, hãng game Nhật Bản đang phát triển một phiên bản Switch 2 dành riêng cho thị trường châu Âu, với viên pin mà người dùng có thể tự tháo và thay thế. Đây là động thái nhằm tuân thủ Quy định về Pin của Liên minh châu Âu, vốn yêu cầu các thiết bị bán ra tại khu vực này phải có pin dễ dàng tháo lắp bằng những công cụ thông thường, có hiệu lực từ tháng 2/2027. Khác với thiết kế nguyên bản của Switch 2 vốn có pin được dán cố định bên trong, phiên bản EU sẽ cho phép người dùng thay pin mà không cần thiết bị đặc biệt hay nguy cơ làm hỏng máy. Đây là minh chứng rõ nét cho cách các quy định pháp lý đang định hình lại thiết kế sản phẩm công nghệ."
-heroImage: "https://i.ytimg.com/vi/ymyIUYR5IXE/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/ymyIUYR5IXE/maxresdefault.jpg"
 heroAlt: "Nintendo thiết kế lại Switch 2 với pin người dùng tự thay được cho thị trường EU theo luật mới"
 heroCaption: "Nintendo làm phiên bản Switch 2 pin tháo rời cho châu Âu theo quy định mới. Nguồn: YouTube"
 tldr: "Theo nhiều báo cáo, <strong>Nintendo</strong> đang phát triển phiên bản <strong>Switch 2</strong> dành riêng cho châu Âu với viên pin mà người dùng có thể <strong>tự tháo và thay thế</strong>. Động thái này nhằm tuân thủ <strong>Quy định về Pin của EU</strong>, yêu cầu thiết bị bán tại khu vực phải có pin dễ tháo lắp bằng công cụ thông thường, có hiệu lực từ <strong>tháng 2/2027</strong>. Khác với thiết kế nguyên bản có pin dán cố định, bản EU cho phép thay pin mà không cần thiết bị đặc biệt hay nguy cơ hỏng máy. Hiện đây là phiên bản độc quyền cho EU, trong khi Mỹ, Nhật và các thị trường khác vẫn dùng máy pin gắn cố định. Đây là ví dụ rõ nét về cách luật quyền được sửa chữa định hình lại thiết kế sản phẩm."
@@ -77,7 +77,7 @@ Hiện tại, phiên bản với pin tháo rời được cho là độc quyền
 Động lực đằng sau thay đổi này chính là Quy định về Pin của Liên minh châu Âu. Quy định này yêu cầu các thiết bị bán ra tại thị trường EU phải có pin có thể tháo và thay thế dễ dàng bởi người dùng cuối, với mốc thời gian có hiệu lực từ tháng 2/2027. Mục tiêu của nó là kéo dài tuổi thọ sản phẩm, giảm lượng rác thải điện tử và trao lại cho người tiêu dùng quyền kiểm soát thiết bị mà họ sở hữu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/hyYq-DDTBB4/hqdefault.jpg" alt="Quy định pin của EU buộc Nintendo thiết kế lại Switch 2 cho thị trường châu Âu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hyYq-DDTBB4/maxresdefault.jpg" alt="Quy định pin của EU buộc Nintendo thiết kế lại Switch 2 cho thị trường châu Âu" loading="lazy" width="1280" height="720">
   <figcaption>Quy định về Pin của EU đang buộc nhiều hãng thay đổi thiết kế sản phẩm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Hiện tại, phiên bản với pin tháo rời được cho là độc quyền
 ## Ý nghĩa với người dùng và ngành game
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IIrSDiXUBW0/hqdefault.jpg" alt="Người dùng Switch 2 tại EU có thể tự thay pin, kéo dài tuổi thọ máy" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IIrSDiXUBW0/maxresdefault.jpg" alt="Người dùng Switch 2 tại EU có thể tự thay pin, kéo dài tuổi thọ máy" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng tự thay pin giúp kéo dài tuổi thọ và giảm chi phí sử dụng máy. Nguồn: YouTube</figcaption>
 </figure>
 
 Với người dùng, thay đổi này mang lại lợi ích rõ ràng. Khi pin của máy bị chai sau thời gian dài sử dụng, thay vì phải mang đi sửa tốn kém hoặc thậm chí mua máy mới, họ có thể tự thay pin một cách đơn giản. Điều này không chỉ tiết kiệm chi phí mà còn kéo dài đáng kể vòng đời của thiết bị, một tin vui với cộng đồng game thủ vốn gắn bó lâu dài với máy chơi game của mình. Switch 2 vẫn là một sản phẩm rất thành công, với [doanh số gần 20 triệu máy sau một năm](/articles/nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai.html), nên việc tăng độ bền và khả năng sửa chữa càng có ý nghĩa với lượng người dùng đông đảo.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/3fgAn8LhF2A/hqdefault.jpg" alt="Khả năng tự thay pin trên Switch 2 phản ánh xu hướng thiết kế bền vững" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/3fgAn8LhF2A/maxresdefault.jpg" alt="Khả năng tự thay pin trên Switch 2 phản ánh xu hướng thiết kế bền vững" loading="lazy" width="1280" height="720">
   <figcaption>Xu hướng thiết kế bền vững đang định hình lại cả ngành thiết bị điện tử. Nguồn: YouTube</figcaption>
 </figure>
 

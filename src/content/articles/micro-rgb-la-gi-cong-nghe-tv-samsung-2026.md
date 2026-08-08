@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T17:00:00+07:00"
 dateModified: "2026-07-13T17:00:00+07:00"
 deck: "Samsung xác định Micro RGB là công nghệ chủ lực của dòng TV cao cấp năm 2026, mở rộng dải sản phẩm với hai series R95H và R85H trải từ 55 tới 115 inch. Khác với Mini LED dùng đèn nền xanh hoặc trắng, Micro RGB sử dụng các LED đỏ, xanh lá, xanh dương kích thước dưới 100 micromet phát sáng độc lập, cho khả năng kiểm soát màu chính xác hơn hẳn. Công nghệ này đã về Việt Nam từ tháng 4/2026 và đang được xem là đối trọng trực tiếp của OLED ở phân khúc cao cấp."
-heroImage: "https://i.ytimg.com/vi/58A3x7628Uw/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/58A3x7628Uw/maxresdefault.jpg"
 heroAlt: "Micro RGB là gì, công nghệ TV chủ lực của Samsung năm 2026"
 heroCaption: "Samsung trình diễn dải TV Micro RGB 2026 lần đầu tại CES trước khi mở rộng ra toàn cầu. Nguồn: YouTube"
 tldr: "<strong>Micro RGB</strong> là công nghệ màn hình dùng các LED <strong>đỏ, xanh lá, xanh dương kích thước dưới 100 micromet</strong> phát sáng độc lập thay cho đèn nền xanh hoặc trắng của TV Mini LED truyền thống, giúp kiểm soát màu theo từng vùng cực nhỏ, giảm hở sáng và đạt độ phủ màu gần như trọn dải <strong>BT.2020</strong>. Năm 2026 Samsung chọn đây là công nghệ chủ lực cho TV cao cấp với hai series <strong>R95H và R85H</strong>, kích thước từ <strong>55 tới 115 inch</strong>. Giá khởi điểm <strong>1.599 USD</strong> cho bản R85H 55 inch, series R95H có giá 3.199 tới 6.499 USD cho các cỡ 65 tới 85 inch, riêng bản 115 inch giữ mức niêm yết 29.999 USD. Dòng TV này đã <strong>ra mắt tại Việt Nam từ tháng 4/2026</strong> cùng trợ lý Vision AI Companion và hệ thống âm thanh không gian Eclipsa Audio."
@@ -73,7 +73,7 @@ Micro RGB đi theo hướng ngược lại. Tấm nền sử dụng các bóng L
 Điểm đáng chú ý nhất của thế hệ 2026 không nằm ở công nghệ, vốn đã trình làng từ năm ngoái, mà ở chiến lược giá. Samsung tung ra hai series: R95H cao cấp và R85H tiêu chuẩn. Series R85H trải từ 55 tới 85 inch với giá 1.599 tới 3.999 USD tại Mỹ, đưa Micro RGB lần đầu xuống vùng giá của TV OLED phổ thông. Series R95H cao cấp hơn có các cỡ 65, 75 và 85 inch, giá lần lượt 3.199, 4.499 và 6.499 USD, tích hợp chip xử lý Micro RGB AI Engine Pro cùng các thuật toán Color Booster Pro và HDR Pro tinh chỉnh màu theo từng khung hình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/m25NqDd6nWQ/hqdefault.jpg" alt="Đánh giá Samsung R85H Micro RGB TV thế hệ 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/m25NqDd6nWQ/maxresdefault.jpg" alt="Đánh giá Samsung R85H Micro RGB TV thế hệ 2026" loading="lazy" width="1280" height="720">
   <figcaption>R85H là series Micro RGB tiêu chuẩn, đưa công nghệ này xuống mức giá từ 1.599 USD. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Samsung không phải hãng duy nhất đặt cược vào hướng đi này. So
 So với OLED, thế mạnh của Micro RGB nằm ở độ sáng cao vượt trội, màu rực rỡ không suy giảm theo thời gian và không có nguy cơ lưu ảnh, những yếu tố đặc biệt phù hợp với phòng khách nhiều ánh sáng và các kích thước màn hình rất lớn. Ngược lại, OLED vẫn giữ lợi thế về màu đen tuyệt đối và góc nhìn rộng. Cuộc so kè giữa hai công nghệ này hứa hẹn là câu chuyện thú vị nhất của thị trường TV cao cấp năm nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VR7zFYzs10k/hq720.jpg" alt="TV Micro RGB Samsung 2026 so kè trực tiếp với OLED ở phân khúc cao cấp" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VR7zFYzs10k/maxresdefault.jpg" alt="TV Micro RGB Samsung 2026 so kè trực tiếp với OLED ở phân khúc cao cấp" loading="lazy" width="1280" height="720">
   <figcaption>Samsung định vị Micro RGB là đối trọng trực tiếp của OLED trong phân khúc TV cao cấp 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ So với OLED, thế mạnh của Micro RGB nằm ở độ sáng cao vượt tr
 Tin vui là công nghệ này không còn xa vời: Samsung đã đưa Micro RGB về Việt Nam từ đầu tháng 4/2026 trong khuôn khổ dòng AI TV 2026, và dải sản phẩm mở rộng với các cỡ nhỏ hơn dự kiến giúp mức giá tại thị trường trong nước dễ tiếp cận hơn trong nửa cuối năm. Dù vậy, đây vẫn là dòng TV định vị cao cấp, nên với ngân sách phổ thông, các lựa chọn Mini LED và OLED đời trước đang giảm giá có thể hợp lý hơn, như đã tổng hợp trong bài [top smart tivi đáng mua tháng 7/2026](/articles/top-smart-tivi-dang-mua-thang-7-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/58A3x7628Uw/hq720.jpg" alt="Dải TV Micro RGB 2026 của Samsung trưng bày cùng Micro LED và màn hình trong suốt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/58A3x7628Uw/maxresdefault.jpg" alt="Dải TV Micro RGB 2026 của Samsung trưng bày cùng Micro LED và màn hình trong suốt" loading="lazy" width="1280" height="720">
   <figcaption>Micro RGB đứng cạnh Micro LED và màn hình trong suốt trong dải sản phẩm trình diễn 2026 của Samsung. Nguồn: YouTube</figcaption>
 </figure>
 

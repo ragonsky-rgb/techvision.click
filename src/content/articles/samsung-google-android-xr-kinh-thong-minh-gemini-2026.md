@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T13:00:00+07:00"
 dateModified: "2026-07-05T13:00:00+07:00"
 deck: "Tại sự kiện Google I/O 2026, Samsung và Google lần đầu tiên hé lộ chi tiết về dòng kính thông minh Android XR tích hợp trợ lý AI Gemini, hợp tác cùng hai thương hiệu thời trang mắt kính Gentle Monster và Warby Parker, dự kiến ra mắt thị trường vào mùa thu năm 2026."
-heroImage: "https://i.ytimg.com/vi/neCrlYP832Y/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/neCrlYP832Y/maxresdefault.jpg"
 heroAlt: "Samsung Google Android XR kinh thong minh Gemini 2026"
 heroCaption: "Samsung và Google giới thiệu kính thông minh Android XR tích hợp trợ lý Gemini. Nguồn: YouTube"
 tldr: "Tại sự kiện <strong>Google I/O 2026</strong>, Samsung và Google đã hé lộ dòng kính thông minh <strong>Android XR</strong> tích hợp trợ lý AI <strong>Gemini</strong>, hợp tác cùng hai thương hiệu mắt kính thời trang <strong>Gentle Monster</strong> và <strong>Warby Parker</strong>. Sản phẩm gồm hai dòng: kính âm thanh hỗ trợ giọng nói ra mắt trước, và kính hiển thị thông tin trực quan ra mắt sau. Người dùng có thể gọi <strong>Hey Google</strong> hoặc chạm vào gọng kính để kích hoạt Gemini, hỗ trợ chỉ đường, gợi ý địa điểm gần đó, đặt đồ ăn, kiểm tra thông báo mà không cần lấy điện thoại ra. Dòng kính âm thanh dự kiến ra mắt tại một số thị trường được chọn vào <strong>mùa thu 2026</strong>."
@@ -69,7 +69,7 @@ Samsung và Google giới thiệu chiến lược kính thông minh chia thành 
 Điểm nhấn công nghệ trung tâm của dòng kính thông minh này là khả năng tích hợp sâu với trợ lý AI Gemini. Người dùng chỉ cần gọi "Hey Google" hoặc chạm nhẹ vào gọng kính để kích hoạt Gemini ngay lập tức, sau đó có thể đặt câu hỏi về thế giới xung quanh hoặc yêu cầu Gemini thực hiện các tác vụ thay mình. Các tính năng cụ thể được Google giới thiệu bao gồm hỗ trợ chỉ đường bằng giọng nói, gợi ý quán cà phê gần đó khi đang đi bộ, đặt đồ ăn mang đi, kiểm tra thông báo và thêm sự kiện vào lịch, tất cả đều thực hiện được mà không cần lấy điện thoại ra khỏi túi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/neCrlYP832Y/sddefault.jpg" alt="Demo truc tiep Android XR tai Google IO 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/neCrlYP832Y/maxresdefault.jpg" alt="Demo truc tiep Android XR tai Google IO 2026" loading="lazy" width="1280" height="720">
   <figcaption>Bản demo trực tiếp tại Google I/O 2026 giới thiệu chi tiết các tính năng của Android XR. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,14 +84,14 @@ Một điểm chiến lược đáng chú ý là việc Samsung và Google hợp
 Từ góc độ theo dõi xu hướng thiết bị AI đeo được, tôi cho rằng chiến lược của Samsung và Google lần này khác biệt đáng kể so với các nỗ lực kính thông minh thất bại trước đây, nhờ tập trung vào trải nghiệm hỗ trợ theo ngữ cảnh thực tế thay vì cố gắng thay thế hoàn toàn màn hình điện thoại. Việc ưu tiên ra mắt dòng kính âm thanh đơn giản hơn trước, thay vì dòng kính hiển thị phức tạp ngay từ đầu, cũng cho thấy cách tiếp cận thận trọng, học hỏi từ phản hồi thị trường trước khi đầu tư mạnh vào công nghệ hiển thị phức tạp và tốn kém hơn. Người dùng công nghệ tại Việt Nam nên theo dõi thêm phản hồi thực tế từ thị trường quốc tế sau khi sản phẩm chính thức ra mắt mùa thu này, trước khi kỳ vọng sản phẩm sớm có mặt tại thị trường trong nước.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/neCrlYP832Y/mqdefault.jpg" alt="Kinh thong minh Android XR tich hop Gemini tuong tac giong noi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/neCrlYP832Y/maxresdefault.jpg" alt="Kinh thong minh Android XR tich hop Gemini tuong tac giong noi" loading="lazy" width="1280" height="720">
   <figcaption>Kính thông minh Android XR cho phép tương tác với Gemini bằng giọng nói ngay trên gọng kính. Nguồn: YouTube</figcaption>
 </figure>
 
 Người dùng quan tâm tới việc tận dụng tối đa các trợ lý AI như Gemini trong công việc và học tập hằng ngày có thể tham khảo thêm [cách viết prompt AI hiệu quả với ChatGPT, Gemini](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html), một kỹ năng sẽ càng trở nên quan trọng hơn khi các thiết bị AI đeo được như kính thông minh dần trở nên phổ biến trong tương lai gần.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/HZioERCcZf8/mqdefault.jpg" alt="Android XR demo tinh nang AI truc tiep tai su kien Google" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/HZioERCcZf8/maxresdefault.jpg" alt="Android XR demo tinh nang AI truc tiep tai su kien Google" loading="lazy" width="1280" height="720">
   <figcaption>Bản demo trực tiếp giúp người xem hình dung rõ hơn cách Android XR hoạt động trong đời sống hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 

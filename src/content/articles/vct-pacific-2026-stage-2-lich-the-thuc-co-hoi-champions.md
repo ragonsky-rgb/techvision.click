@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-14T12:30:00+07:00"
 dateModified: "2026-07-14T12:30:00+07:00"
 deck: "Sân chơi Valorant chuyên nghiệp khu vực châu Á Thái Bình Dương bước vào giai đoạn nóng nhất khi VCT Pacific 2026 Stage 2 khởi tranh từ ngày 16/7. Với tổng giải thưởng 250.000 USD, đây là chặng đua quyết định để các đội giành vé dự Valorant Champions 2026, giải đấu lớn nhất năm diễn ra vào cuối tháng 9. Đáng chú ý với người hâm mộ Việt Nam, vòng chung kết Stage 1 của VCT Pacific vừa được tổ chức tại TP.HCM, cho thấy sức nóng của bộ môn này tại thị trường trong nước."
-heroImage: "https://i.ytimg.com/vi/K8yKuDG6PJE/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/K8yKuDG6PJE/maxresdefault.jpg"
 heroAlt: "VCT Pacific 2026 Stage 2 khởi tranh, tranh vé dự Valorant Champions 2026"
 heroCaption: "Vòng chung kết VCT Pacific Stage 1 được tổ chức tại TP.HCM, cho thấy sức hút của Valorant tại Việt Nam. Nguồn: YouTube"
 tldr: "<strong>VCT Pacific 2026 Stage 2</strong> khởi tranh từ ngày <strong>16/7</strong>, kéo dài tới đầu tháng 9, với tổng giải thưởng <strong>250.000 USD</strong>. Đây là chặng quyết định để các đội khu vực châu Á Thái Bình Dương giành vé dự <strong>Valorant Champions 2026</strong>, giải đấu lớn nhất năm diễn ra từ 24/9 tới 18/10 với 16 đội và tổng thưởng <strong>2,25 triệu USD</strong>. Các khu vực khác như EMEA, Americas và China cũng đồng loạt bước vào Stage 2 trong tháng 7. Với người hâm mộ Việt Nam, điểm nhấn là vòng <strong>chung kết Stage 1 được tổ chức tại TP.HCM</strong>, minh chứng cho sức hút ngày càng lớn của Valorant trong nước."
@@ -77,7 +77,7 @@ Không chỉ Pacific, cả bốn khu vực lớn của Valorant đều đồng l
 Đích đến của mọi nỗ lực ở Stage 2 chính là Valorant Champions 2026, giải đấu diễn ra từ 24/9 tới 18/10. Đây là sự kiện lớn nhất năm của bộ môn, quy tụ 16 đội mạnh nhất thế giới tranh tổng giải thưởng lên tới 2,25 triệu USD. Chức vô địch Champions là danh hiệu cao quý nhất mà một đội Valorant có thể đạt được, tương đương ngôi vô địch thế giới ở các bộ môn khác.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VmsTui8-7No/hqdefault.jpg" alt="Các đội VCT Pacific tranh tài trong vòng playoff" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VmsTui8-7No/maxresdefault.jpg" alt="Các đội VCT Pacific tranh tài trong vòng playoff" loading="lazy" width="1280" height="720">
   <figcaption>Thành tích playoff Stage 2 kết hợp điểm VCT quyết định tấm vé dự Champions. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Cách bố trí lịch thi đấu này tạo nên một mùa giải có cao trà
 Điểm khiến VCT Pacific 2026 đặc biệt với khán giả trong nước là việc vòng chung kết Stage 1 được tổ chức ngay tại TP.HCM. Đây là tín hiệu cho thấy Việt Nam đang trở thành điểm đến đáng chú ý của Valorant khu vực, bên cạnh vị thế vốn có ở các bộ môn như Liên Quân Mobile hay Liên Minh Huyền Thoại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xXEA5fW4IFs/hqdefault.jpg" alt="Khán giả Việt Nam theo dõi các trận đấu VCT Pacific" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xXEA5fW4IFs/maxresdefault.jpg" alt="Khán giả Việt Nam theo dõi các trận đấu VCT Pacific" loading="lazy" width="1280" height="720">
   <figcaption>Việc đăng cai chung kết Stage 1 tại TP.HCM phản ánh sức hút của Valorant tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Khu vực Pacific quy tụ nhiều đội mạnh của châu Á Thái Bình Dư�
 ## Điều chờ đợi ở Stage 2
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/0iIaDh38PMs/hqdefault.jpg" alt="Các đội tuyển chuẩn bị cho VCT Pacific 2026 Stage 2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0iIaDh38PMs/maxresdefault.jpg" alt="Các đội tuyển chuẩn bị cho VCT Pacific 2026 Stage 2" loading="lazy" width="1280" height="720">
   <figcaption>Stage 2 hứa hẹn nhiều bất ngờ khi các đội dồn toàn lực cho tấm vé dự Champions. Nguồn: YouTube</figcaption>
 </figure>
 

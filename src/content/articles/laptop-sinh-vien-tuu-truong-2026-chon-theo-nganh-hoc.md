@@ -96,7 +96,7 @@ Với nhóm này, thông số quan trọng nhất không nằm ở chip mà ở 
 MacBook Air M5 là lựa chọn được nhiều sinh viên thiết kế tin dùng nhờ màn hình chuẩn màu, thân máy im lặng hoàn toàn và pin dùng cả ngày, dù mức giá nằm ở nhóm cao cấp. Bên phía Windows, ASUS Zenbook 14 phiên bản 2026 với màn OLED là phương án cân bằng giữa chất lượng hiển thị và giá thành. Nếu bạn phân vân giữa nền tảng chip ARM và x86 khi chọn máy mỏng nhẹ, bài [so sánh laptop chip ARM Snapdragon X và chip x86 Intel AMD](/articles/laptop-chip-arm-snapdragon-x-hay-x86-intel-amd-chon-loai-nao-2026.html) sẽ giúp bạn kiểm tra phần mềm chuyên ngành có tương thích hay không trước khi xuống tiền.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/74zDxYQXqkE/hqdefault.jpg" alt="ASUS Zenbook 14 ban 2026 lua chon tam trung cho sinh vien thiet ke" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/74zDxYQXqkE/maxresdefault.jpg" alt="ASUS Zenbook 14 ban 2026 lua chon tam trung cho sinh vien thiet ke" loading="lazy" width="1280" height="720">
   <figcaption>ASUS Zenbook 14 bản 2026, lựa chọn tầm trung cân bằng giữa thiết kế và hiệu năng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Bối cảnh giá năm nay có một điểm khác biệt đáng lưu ý. Khủn
 Ba lỗi phổ biến nhất cần tránh. Thứ nhất là mua máy RAM 8GB hàn chết vì rẻ hơn vài trăm nghìn, dẫn tới máy chậm ngay từ năm hai mà không nâng cấp được. Thứ hai là chọn máy theo con số CPU mà bỏ qua màn hình và bàn phím, hai thứ bạn tiếp xúc mỗi ngày. Thứ ba là mua máy quá nặng vì ham cấu hình, rồi cuối cùng để ở nhà và mượn máy bạn cùng phòng khi lên giảng đường. Hãy cầm thử máy tại cửa hàng, gõ thử bàn phím và nhìn màn hình dưới ánh sáng thực tế trước khi quyết định. Danh sách cập nhật theo từng phân khúc giá có trong bài [top laptop đáng mua tháng 7/2026](/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/RhglbboRffg/hqdefault.jpg" alt="Laptop gia re chip tiet kiem dien phu hop sinh vien" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/RhglbboRffg/maxresdefault.jpg" alt="Laptop gia re chip tiet kiem dien phu hop sinh vien" loading="lazy" width="1280" height="720">
   <figcaption>Các mẫu dùng chip tiết kiệm điện phù hợp với sinh viên cần pin lâu và giá mềm. Nguồn: YouTube</figcaption>
 </figure>
 

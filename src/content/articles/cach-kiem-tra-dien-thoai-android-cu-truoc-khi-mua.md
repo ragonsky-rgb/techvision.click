@@ -88,7 +88,7 @@ Tình trạng pin trên Android khó xem trực tiếp như iPhone, nhưng vẫn
 Đừng quên thử đủ các kết nối gồm wifi, Bluetooth và GPS định vị, vì đây là những lỗi hay gặp ở máy đã sửa. Cuối cùng, quan sát kỹ ngoại hình: viền màn có hở hay keo thừa không, các con ốc và khe máy có dấu cạy mở không. Android ít cảnh báo linh kiện hơn iPhone, nên ngoại hình và trải nghiệm thực tế là manh mối quan trọng để phát hiện máy đã can thiệp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/wtOTpbEKd4s/hq720.jpg" alt="Cách kiểm tra độ chai pin trên điện thoại Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wtOTpbEKd4s/maxresdefault.jpg" alt="Cách kiểm tra độ chai pin trên điện thoại Android" loading="lazy" width="1280" height="720">
   <figcaption>Độ chai pin ảnh hưởng lớn tới giá trị và trải nghiệm của máy cũ. Nguồn: YouTube</figcaption>
 </figure>
 

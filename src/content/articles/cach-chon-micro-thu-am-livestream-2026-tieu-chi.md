@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-07-02T20:00:00+07:00"
 dateModified: "2026-07-02T20:00:00+07:00"
 deck: "Micro thu âm chất lượng ngày càng quan trọng với người làm nội dung, streamer và ca sĩ nghiệp dư hát livestream tại nhà. Bài viết tổng hợp 5 tiêu chí quan trọng nhất giúp người mua chọn đúng micro thu âm phù hợp nhu cầu, tránh lãng phí tiền vào thiết bị không tương thích mục đích sử dụng."
-heroImage: "https://i.ytimg.com/vi/pOy50yhcFGQ/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/pOy50yhcFGQ/maxresdefault.jpg"
 heroAlt: "Cach chon micro thu am livestream 2026 tieu chi"
 heroCaption: "5 tiêu chí quan trọng cần cân nhắc trước khi chọn mua micro thu âm, livestream năm 2026. Nguồn: YouTube"
 tldr: "Khi chọn micro thu âm, livestream năm 2026, cần cân nhắc 5 tiêu chí chính: <strong>kiểu micro</strong> condenser hay dynamic, <strong>hướng thu âm</strong> (polar pattern) phù hợp môi trường, <strong>kiểu kết nối</strong> USB hay XLR, có cần <strong>soundcard</strong> đi kèm không, và <strong>ngân sách</strong> tương ứng mục đích sử dụng. Xác định đúng mục đích chính, thu âm hát, giọng nói podcast hay livestream trò chuyện, trước khi mua sẽ giúp tránh chi tiền cho tính năng không thực sự cần thiết."
@@ -69,7 +69,7 @@ Micro thu âm chất lượng ngày càng trở nên quan trọng khi xu hướn
 Hướng thu âm, hay còn gọi là polar pattern, quyết định micro sẽ thu âm thanh mạnh nhất từ hướng nào. Hướng cardioid thu âm chủ yếu từ phía trước micro, hạn chế đáng kể tiếng ồn từ hai bên và phía sau, phù hợp nhất cho thu giọng nói cá nhân khi livestream hoặc thu âm một người. Hướng omnidirectional thu âm đều từ mọi hướng xung quanh, phù hợp cho các buổi phỏng vấn nhóm, thu âm cuộc họp có nhiều người tham gia cùng lúc mà không cần trang bị riêng cho mỗi người một chiếc micro cá nhân.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/PEEes959TFA/hqdefault.jpg" alt="Tat ca cac loai micro pho bien chon micro livestream vlog 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/PEEes959TFA/maxresdefault.jpg" alt="Tat ca cac loai micro pho bien chon micro livestream vlog 2026" loading="lazy" width="1280" height="720">
   <figcaption>Hiểu rõ các loại micro phổ biến giúp chọn đúng thiết bị phù hợp mục đích sử dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Micro kết nối USB cắm trực tiếp vào máy tính hoặc điện thoại
 Với micro USB, người dùng không bắt buộc phải mua thêm soundcard vì bộ chuyển đổi tín hiệu đã được tích hợp sẵn bên trong thân micro. Với micro XLR chuyên nghiệp, bắt buộc phải có soundcard hoặc mixer riêng để chuyển đổi tín hiệu analog sang digital, đồng thời cấp nguồn phantom power cần thiết cho micro condenser hoạt động đúng cách. Người mới bắt đầu nên cân nhắc kỹ chi phí tổng thể bao gồm cả soundcard nếu chọn hướng đầu tư micro XLR, vì tổng chi phí có thể cao hơn đáng kể so với dự tính ban đầu chỉ tính riêng giá micro, chưa kể chi phí phụ kiện đi kèm khác như chân đế, lọc âm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/k_db5XdB_nQ/hqdefault.jpg" alt="Top 4 bo mic live stream co dung autotune 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/k_db5XdB_nQ/maxresdefault.jpg" alt="Top 4 bo mic live stream co dung autotune 2026" loading="lazy" width="1280" height="720">
   <figcaption>Bộ mic livestream đi kèm soundcard tích hợp tính năng autotune ngày càng phổ biến với người hát livestream. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Với micro USB, người dùng không bắt buộc phải mua thêm soundcard v
 Cuối cùng, cần xác định ngân sách phù hợp với mục đích sử dụng chính. Với nhu cầu trò chuyện livestream cơ bản, họp trực tuyến, micro tầm giá dưới 1 triệu đồng đã đáp ứng đủ. Với người làm podcast, thu âm giọng nói chuyên nghiệp, nên đầu tư tầm giá 2 tới 4 triệu đồng cho micro USB cao cấp hoặc bộ micro XLR cơ bản kèm soundcard. Với ca sĩ nghiệp dư hát livestream thường xuyên, cần đầu tư trọn bộ micro XLR chuyên dụng cùng soundcard có tính năng chỉnh âm, khử tiếng vang, mức chi phí có thể lên tới nhiều triệu đồng tùy chất lượng mong muốn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WxGrJ2pE1bg/hqdefault.jpg" alt="Chu y truoc khi lua chon mua thiet bi thu am hat livestream 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WxGrJ2pE1bg/maxresdefault.jpg" alt="Chu y truoc khi lua chon mua thiet bi thu am hat livestream 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nên tìm hiểu kỹ trước khi đầu tư trọn bộ thiết bị thu âm, hát livestream chuyên nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 

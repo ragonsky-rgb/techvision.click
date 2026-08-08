@@ -77,7 +77,7 @@ Bước tiến công nghệ đáng chú ý nhất là việc VinFast hợp tác 
 Tự lái cấp 4 là mức xe có thể tự vận hành hoàn toàn trong những điều kiện và khu vực nhất định mà không cần người lái can thiệp. Đạt được mức này đòi hỏi cảm biến, phần cứng tính toán mạnh và phần mềm phức tạp, nên việc dựa trên nền tảng của NVIDIA, hãng dẫn đầu về chip AI, là lựa chọn hợp lý. Sự hiện diện của NVIDIA trong nhiều dự án công nghệ tại Việt Nam và khu vực cho thấy vai trò trung tâm của hãng, tương tự cách robot hình người dựa vào nền tảng AI mạnh như trong bài [Tesla Optimus Gen 3](/articles/tesla-optimus-gen-3-robot-hinh-nguoi-2026-san-xuat-gia-duoi-20000-usd.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/GarXyfJQvzo/hq720.jpg" alt="Công nghệ xe tự lái NVIDIA hợp tác cùng VinFast 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GarXyfJQvzo/maxresdefault.jpg" alt="Công nghệ xe tự lái NVIDIA hợp tác cùng VinFast 2026" loading="lazy" width="1280" height="720">
   <figcaption>VinFast phát triển tự lái cấp 4 trên nền NVIDIA DRIVE Hyperion. Nguồn: YouTube</figcaption>
 </figure>
 

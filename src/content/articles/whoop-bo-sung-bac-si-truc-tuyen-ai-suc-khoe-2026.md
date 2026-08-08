@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-03T23:00:00+07:00"
 dateModified: "2026-07-03T23:00:00+07:00"
 deck: "Whoop chính thức công bố mở rộng nền tảng sức khỏe với tính năng gọi video trực tiếp tới bác sĩ có chứng chỉ hành nghề ngay trong ứng dụng, cùng hai công cụ AI mới mang tên My Memory và Proactive Check-Ins. Đây là bước đi khác biệt so với Google, hãng đặt cược vào AI phân tích dữ liệu sức khỏe thay vì kết nối trực tiếp với bác sĩ."
-heroImage: "https://i.ytimg.com/vi/wbufDYmz9WM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/wbufDYmz9WM/maxresdefault.jpg"
 heroAlt: "Whoop bo sung bac si truc tuyen AI suc khoe moi 2026"
 heroCaption: "Whoop bổ sung tính năng gọi video bác sĩ trực tuyến ngay trong ứng dụng theo dõi sức khỏe. Nguồn: YouTube"
 tldr: "<strong>Whoop</strong> vừa công bố tính năng gọi video trực tiếp tới <strong>bác sĩ có chứng chỉ hành nghề</strong> ngay trong ứng dụng, dự kiến ra mắt tại Mỹ trong mùa hè 2026, tính phí thêm ngoài gói thuê bao cơ bản. Sản phẩm cũng bổ sung hai công cụ AI mới: <strong>My Memory</strong> (lưu trữ ngữ cảnh cá nhân cho AI huấn luyện) và <strong>Proactive Check-Ins</strong> (gợi ý sức khỏe chủ động theo thời gian thực). Whoop còn hợp tác với HealthEx để đồng bộ hồ sơ bệnh án điện tử vào ứng dụng."
@@ -67,7 +67,7 @@ Whoop chính thức công bố kế hoạch mở rộng nền tảng sức khỏ
 Whoop nhấn mạnh rằng tính năng gọi bác sĩ này được thiết kế để bổ sung cho việc chăm sóc y tế hiện có của người dùng, không thay thế bác sĩ gia đình hay dịch vụ cấp cứu. Để hỗ trợ tính năng này, hãng hợp tác với HealthEx nhằm đồng bộ hồ sơ bệnh án điện tử vào ứng dụng, cho phép bác sĩ tư vấn xem được chẩn đoán, đơn thuốc và các thủ thuật y tế trước đó cùng lúc với dữ liệu sinh trắc học nhiều tháng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/iP4L3cLgD84/hqdefault.jpg" alt="Whoop 5.0 vua ra mat tinh nang moi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/iP4L3cLgD84/maxresdefault.jpg" alt="Whoop 5.0 vua ra mat tinh nang moi 2026" loading="lazy" width="1280" height="720">
   <figcaption>Whoop 5.0 tiếp tục là nền tảng phần cứng chủ lực được bổ sung thêm nhiều tính năng phần mềm mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Whoop nhấn mạnh rằng tính năng gọi bác sĩ này được thiết kế
 Song song với tính năng gọi bác sĩ, Whoop cũng giới thiệu hai công cụ AI mới đáng chú ý. My Memory là nơi tập trung để người dùng xem, quản lý và định hình lớp trí tuệ nhân tạo cùng huấn luyện cá nhân hóa của Whoop, cho phép thêm, sửa hoặc xóa ngữ cảnh cá nhân theo ý muốn. Proactive Check-Ins đưa ra các gợi ý sức khỏe kịp thời và cá nhân hóa, chẳng hạn ưu tiên giấc ngủ trước một sự kiện quan trọng sắp diễn ra hoặc điều chỉnh cường độ tập luyện dựa trên tình trạng di chuyển xa của người dùng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/wbufDYmz9WM/mqdefault.jpg" alt="Whoop 5.0 danh gia sau mot thang su dung 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/wbufDYmz9WM/maxresdefault.jpg" alt="Whoop 5.0 danh gia sau mot thang su dung 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều đánh giá dài hạn giúp người dùng hiểu rõ hơn về trải nghiệm thực tế trên nền tảng Whoop 5.0. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Phần lớn các tính năng AI mới được bao gồm trong gói thuê bao h
 Với người đang cân nhắc giữa các thiết bị theo dõi sức khỏe khác nhau trên thị trường, bài viết [Google Fitbit Air: vòng sức khỏe không màn hình](/articles/google-fitbit-air-vong-suc-khoe-khong-man-hinh-2026.html) giới thiệu thêm lựa chọn giá rẻ hơn theo hướng tiếp cận hoàn toàn khác của Google. Người quan tâm tới nhẫn thông minh theo dõi sức khỏe thay vì vòng đeo tay cũng có thể tham khảo thêm bài viết [Oura Ring 5 ra mắt: mỏng nhất thế giới, pin 9 ngày](/articles/oura-ring-5-ra-mat-mong-nhat-the-gioi-pin-9-ngay.html) để có thêm góc nhìn so sánh giữa các hình thức thiết bị đeo theo dõi sức khỏe khác nhau hiện nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/cpArzCEPpVw/hqdefault.jpg" alt="Whoop 5.0 thay doi cuoc song 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/cpArzCEPpVw/maxresdefault.jpg" alt="Whoop 5.0 thay doi cuoc song 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều người dùng lâu năm chia sẻ Whoop 5.0 đã thay đổi thói quen chăm sóc sức khỏe hằng ngày của họ. Nguồn: YouTube</figcaption>
 </figure>
 

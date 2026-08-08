@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T15:20:00+07:00"
 dateModified: "2026-07-08T15:20:00+07:00"
 deck: "Meta Superintelligence Labs vừa phát hành Muse Spark, mô hình AI tạo ảnh đầu tiên do bộ phận này tự phát triển, tích hợp trực tiếp và miễn phí vào Meta AI, Instagram Stories và WhatsApp. Điểm đáng chú ý nhất là khả năng dùng ảnh công khai của một tài khoản Instagram được nhắc tên làm dữ liệu tham chiếu để tạo hình, mở ra cả cơ hội sáng tạo lẫn tranh cãi về quyền riêng tư hình ảnh."
-heroImage: "https://i.ytimg.com/vi/28wW3JHlYhM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/28wW3JHlYhM/maxresdefault.jpg"
 heroAlt: "Meta ra mắt mô hình AI tạo ảnh Muse Spark tích hợp Instagram và WhatsApp"
 heroCaption: "Muse Spark là mô hình AI tạo ảnh đầu tiên của Meta Superintelligence Labs. Nguồn: YouTube"
 tldr: "<strong>Meta Superintelligence Labs</strong> vừa ra mắt <strong>Muse Spark</strong>, mô hình AI tạo ảnh đầu tiên tự phát triển, tích hợp miễn phí vào <strong>Meta AI, Instagram Stories và WhatsApp</strong>, sẽ mở rộng tiếp sang <strong>Facebook và Messenger</strong>. Công cụ hiểu được câu lệnh phức tạp, dùng ảnh làm đầu vào, cho phép chỉnh sửa qua phác thảo hoặc ghi chú. Điểm gây chú ý nhất: người dùng có thể <strong>@ nhắc tên một tài khoản Instagram</strong> để AI dùng ảnh công khai của tài khoản đó làm dữ liệu tạo hình. Công cụ còn hỗ trợ ghép người vào địa danh lịch sử, xóa nền, và tạo mã QR hoạt động được."
@@ -76,7 +76,7 @@ Công cụ hỗ trợ nhiều tác vụ thực tế mà người dùng mạng x�
 Điểm gây bàn tán nhiều nhất kể từ khi Muse Spark ra mắt là khả năng dùng ký hiệu @ để nhắc tên một tài khoản Instagram bất kỳ trong câu lệnh, khi đó AI sẽ tự động sử dụng những bức ảnh công khai của tài khoản được nhắc tên làm dữ liệu tham chiếu để tạo ra hình ảnh mới. Về mặt kỹ thuật, đây là một bước tiến giúp người dùng tạo ảnh minh họa, thiệp mời hoặc nội dung đăng story nhanh hơn nhiều so với việc phải tự tải ảnh lên và mô tả chi tiết ngoại hình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/rXSPopXet1o/hqdefault.jpg" alt="Vì sao mô hình AI mới của Meta được xem là bước đi quan trọng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rXSPopXet1o/maxresdefault.jpg" alt="Vì sao mô hình AI mới của Meta được xem là bước đi quan trọng" loading="lazy" width="1280" height="720">
   <figcaption>Giới phân tích đánh giá Muse Spark là bước đi chiến lược quan trọng của Meta trong cuộc đua AI tạo sinh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Tuy nhiên, chính tính năng này cũng làm dấy lên lo ngại về ranh gi
 Việc ra mắt Muse Spark diễn ra trong bối cảnh Meta đang chịu áp lực cạnh tranh ngày càng lớn từ OpenAI với ChatGPT và Google với Gemini, hai đối thủ đã có những bước tiến đáng kể trong mảng AI tạo sinh đa phương thức suốt thời gian qua. Việc Meta Superintelligence Labs chọn tạo ảnh làm sản phẩm ra mắt đầu tiên, thay vì một chatbot văn bản thuần túy, cho thấy chiến lược tận dụng lợi thế sẵn có về mạng xã hội hình ảnh và video của công ty, nơi Instagram và WhatsApp đã có sẵn hàng tỷ người dùng quen thuộc với việc chia sẻ hình ảnh mỗi ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/UcOg9X-5NIw/hqdefault.jpg" alt="Muse Spark là mô hình đầu tiên từ Meta Superintelligence Labs với năng lực đa phương thức" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/UcOg9X-5NIw/maxresdefault.jpg" alt="Muse Spark là mô hình đầu tiên từ Meta Superintelligence Labs với năng lực đa phương thức" loading="lazy" width="1280" height="720">
   <figcaption>Muse Spark được đánh giá là mô hình đa phương thức tự nhiên, có khả năng sử dụng công cụ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Sự xuất hiện của Muse Spark diễn ra chỉ ít lâu sau khi nhiều hã
 Với DeepSeek cũng vừa được biết tới với nỗ lực [tự phát triển chip AI riêng](/articles/deepseek-tu-phat-trien-chip-ai-rieng-thach-thuc-nvidia-huawei-2026.html) nhằm giảm phụ thuộc phần cứng bên ngoài, có thể thấy cuộc đua AI toàn cầu hiện diễn ra đồng thời trên cả hai mặt trận, vừa là mô hình phần mềm ngày càng thông minh và dễ tiếp cận hơn, vừa là hạ tầng phần cứng ngày càng được các hãng lớn tự chủ hóa để giảm rủi ro phụ thuộc chuỗi cung ứng. Diễn biến này cũng song hành với những cập nhật thường xuyên từ đối thủ như [OpenAI ChatGPT GPT-5.5](/articles/openai-chatgpt-gpt-5-5-cap-nhat-thang-6-2026-bo-nho-moi-khai-tu.html), cho thấy không hãng lớn nào muốn tụt lại trong cuộc đua tính năng AI tạo sinh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jruC3QyKZC4/hqdefault.jpg" alt="Meta công bố Muse Spark, mô hình AI mới của hãng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jruC3QyKZC4/maxresdefault.jpg" alt="Meta công bố Muse Spark, mô hình AI mới của hãng" loading="lazy" width="1280" height="720">
   <figcaption>Muse Spark đánh dấu bước đi cụ thể đầu tiên của Meta Superintelligence Labs. Nguồn: YouTube</figcaption>
 </figure>
 

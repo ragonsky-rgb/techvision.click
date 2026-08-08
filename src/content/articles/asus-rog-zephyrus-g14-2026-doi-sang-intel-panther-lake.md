@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T17:40:00+07:00"
 dateModified: "2026-07-05T17:40:00+07:00"
 deck: "Sau 6 năm gắn bó với chip AMD Ryzen, dòng laptop gaming 14 inch chủ lực của ASUS bất ngờ chuyển sang nền tảng Intel Panther Lake trong thế hệ 2026, mang lại thời lượng pin dài hơn đáng kể nhưng đi kèm mức giá tăng gần 1.000 USD so với thế hệ trước."
-heroImage: "https://i.ytimg.com/vi/Bn9B4q8qbg0/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/Bn9B4q8qbg0/maxresdefault.jpg"
 heroAlt: "ASUS ROG Zephyrus G14 2026 Intel Panther Lake laptop gaming"
 heroCaption: "ASUS ROG Zephyrus G14 2026 chuyển sang chip Intel Panther Lake sau 6 năm dùng AMD Ryzen. Nguồn: YouTube"
 tldr: "ASUS ROG Zephyrus G14 thế hệ 2026 gây bất ngờ khi chuyển từ chip AMD Ryzen sang <strong>Intel Core Ultra 9 386H</strong> (nền tảng Panther Lake), sau 6 năm liên tục dùng nền tảng AMD. Máy trang bị màn hình <strong>OLED 3K 120Hz</strong> độ phủ màu 100% DCI-P3, RAM tối đa 64GB LPDDR5x, GPU <strong>RTX 5080</strong> ở cấu hình cao nhất. Theo thử nghiệm thực tế của Notebookcheck, thời lượng pin tăng khoảng <strong>86%</strong> so với thế hệ 2025 dùng AMD. Đổi lại, giá bán cấu hình RTX 5070 Ti niêm yết <strong>3.599,99 USD</strong>, cao hơn khoảng 1.000 USD so với thế hệ trước."
@@ -71,7 +71,7 @@ Bên cạnh thay đổi chip xử lý, ROG Zephyrus G14 2026 còn được nâng
 Theo các bài đánh giá thực tế, hệ thống tản nhiệt của ROG Zephyrus G14 2026 cũng được tinh chỉnh lại để phù hợp với đặc tính tỏa nhiệt khác biệt của chip Intel so với AMD, giúp máy duy trì xung nhịp ổn định hơn trong các phiên chơi game kéo dài mà không bị giảm hiệu năng đáng kể do quá nhiệt, một vấn đề từng gây tranh cãi trên một số mẫu laptop mỏng nhẹ chuyển đổi nền tảng chip đột ngột.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Bn9B4q8qbg0/sddefault.jpg" alt="ASUS ROG Zephyrus G14 2026 man hinh OLED 3K 120Hz" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Bn9B4q8qbg0/maxresdefault.jpg" alt="ASUS ROG Zephyrus G14 2026 man hinh OLED 3K 120Hz" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình OLED 3K 120Hz trên ROG Zephyrus G14 2026 có độ sáng HDR cao gấp khoảng 2 lần thế hệ trước. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Theo các bài đánh giá thực tế, hệ thống tản nhiệt của ROG Zep
 Với người dùng ưu tiên thời lượng pin hơn hiệu năng đồ họa đỉnh cao, một lựa chọn khác đáng cân nhắc là dòng laptop dùng chip ARM như [Snapdragon X2 Elite với NPU 80 TOPS và pin trâu](/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html), vốn tối ưu hiệu quả năng lượng theo hướng hoàn toàn khác so với chip x86 truyền thống của Intel hay AMD, dù hệ sinh thái phần mềm và khả năng chơi game vẫn còn hạn chế hơn đáng kể so với nền tảng x86.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Rd12rkdtNHs/hqdefault.jpg" alt="ASUS ROG Zephyrus G14 2026 hieu nang choi game thuc te" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Rd12rkdtNHs/maxresdefault.jpg" alt="ASUS ROG Zephyrus G14 2026 hieu nang choi game thuc te" loading="lazy" width="1280" height="720">
   <figcaption>Hiệu năng chơi game thực tế của ROG Zephyrus G14 2026 với cấu hình RTX 5080 mức công suất 130W. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Với người dùng ưu tiên thời lượng pin hơn hiệu năng đồ họa
 Việc ASUS chuyển sang Intel diễn ra trong bối cảnh thị trường chip laptop cao cấp đang biến động mạnh, khi giá RAM và các linh kiện bộ nhớ tăng vọt do khủng hoảng nguồn cung phục vụ trung tâm dữ liệu AI. Nhiều hãng laptop hiện phải cân nhắc lại chiến lược lựa chọn nền tảng chip cho từng dòng sản phẩm, không chỉ dựa trên hiệu năng thuần túy mà còn cân nhắc cả yếu tố chi phí sản xuất và khả năng cung ứng linh kiện ổn định lâu dài. Người quan tâm tới ảnh hưởng của đợt tăng giá linh kiện này có thể đọc thêm [giá laptop tăng 30% vì khủng hoảng RAM: nên mua gì](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html) để hiểu rõ hơn bối cảnh chung của toàn ngành.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Bn9B4q8qbg0/mqdefault.jpg" alt="ASUS ROG Zephyrus G14 2026 ban phim va thiet ke tong the" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Bn9B4q8qbg0/maxresdefault.jpg" alt="ASUS ROG Zephyrus G14 2026 ban phim va thiet ke tong the" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế tổng thể mỏng nhẹ vẫn được ASUS giữ nguyên trên ROG Zephyrus G14 dù đổi nền tảng chip xử lý. Nguồn: YouTube</figcaption>
 </figure>
 

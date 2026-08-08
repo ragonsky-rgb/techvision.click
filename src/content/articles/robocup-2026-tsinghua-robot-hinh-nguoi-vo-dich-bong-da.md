@@ -72,7 +72,7 @@ Thành tích này càng có ý nghĩa hơn khi đặt trong bối cảnh cạnh 
 Yếu tố kỹ thuật đáng chú ý nhất của đội vô địch là việc sử dụng robot Booster T1, sản phẩm do công ty khởi nghiệp robot Booster Robotics phát triển. Khác với nhiều trình diễn robot công nghệ khác vẫn cần một phần can thiệp hoặc điều khiển từ xa của con người, các trận đấu tại Humanoid Soccer League năm 2026 đặc biệt nhấn mạnh yêu cầu robot phải thi đấu hoàn toàn tự chủ trong suốt trận đấu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/YAyDi9_qWKQ/hqdefault.jpg" alt="Robot hình người thi đấu bóng đá tự chủ hoàn toàn tại RoboCup 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/YAyDi9_qWKQ/maxresdefault.jpg" alt="Robot hình người thi đấu bóng đá tự chủ hoàn toàn tại RoboCup 2026" loading="lazy" width="1280" height="720">
   <figcaption>Các đội robot phải tự nhận diện sân đấu và phối hợp thi đấu mà không có sự can thiệp của con người. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,14 +83,14 @@ Cụ thể, mỗi robot phải tự nhận diện sân đấu, xác định vị
 Chiến thắng của THU Huoshen tại RoboCup 2026 là minh chứng mới nhất cho thấy Trung Quốc đang đầu tư mạnh mẽ và đạt được những bước tiến đáng kể trong lĩnh vực robot hình người, một xu hướng cũng thể hiện rõ qua việc [Unitree Robotics chuẩn bị niêm yết cổ phiếu tại Thượng Hải](/articles/unitree-robotics-ipo-shanghai-robot-hinh-nguoi-trung-quoc-2026.html), cho thấy ngành công nghiệp robot hình người nước này đang chuyển dịch từ giai đoạn nghiên cứu sang thương mại hoá quy mô lớn với tốc độ nhanh chóng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Cd6QfWP54U0/hqdefault.jpg" alt="Robot tranh tài bóng đá tại RoboCup 2026 tổ chức ở Incheon Hàn Quốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Cd6QfWP54U0/maxresdefault.jpg" alt="Robot tranh tài bóng đá tại RoboCup 2026 tổ chức ở Incheon Hàn Quốc" loading="lazy" width="1280" height="720">
   <figcaption>RoboCup 2026 quy tụ hàng nghìn người tham dự từ khắp nơi trên thế giới đến chứng kiến các trận đấu robot. Nguồn: YouTube</figcaption>
 </figure>
 
 Trên phạm vi toàn cầu, cuộc đua phát triển robot hình người đang diễn ra sôi động không kém ở nhiều quốc gia khác, từ việc [Boston Dynamics tích hợp mô hình Gemini Robotics của Google vào robot Atlas](/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html) cho tới các nỗ lực thương mại hoá của [Apptronik với robot Apollo 2 cùng nền tảng huấn luyện Park](/articles/apptronik-apollo-2-robot-park-huan-luyen-robot-hinh-nguoi-2026.html). Những sân chơi như RoboCup, dù mang tính thể thao và trình diễn, thực chất đóng vai trò quan trọng như một bãi thử nghiệm công khai cho các thuật toán nhận thức và điều khiển robot, giúp thúc đẩy toàn ngành tiến bộ nhanh hơn thông qua cạnh tranh trực tiếp giữa các đội nghiên cứu hàng đầu thế giới.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/cnf0iODmv7o/hqdefault.jpg" alt="Vòng chung kết bóng đá robot hình người RoboCup 2026 tại Hàn Quốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/cnf0iODmv7o/maxresdefault.jpg" alt="Vòng chung kết bóng đá robot hình người RoboCup 2026 tại Hàn Quốc" loading="lazy" width="1280" height="720">
   <figcaption>Vòng chung kết RoboCup 2026 khép lại với chiến thắng thuyết phục của đại diện Trung Quốc. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -75,14 +75,14 @@ Nội dung Street Fighter 6 tại EVO 2026 quy tụ hơn 2.400 tuyển thủ, c�
 Trận chung kết giữa MenaRD và Shigematsu là một màn so tài đáng nhớ, khép lại giải đấu bằng cảm xúc dâng trào. Điểm đặc biệt nhất nằm ở loạt đấu quyết định, khi cả hai tuyển thủ cùng lựa chọn nhân vật Blanka, tạo nên một màn đấu gương hiếm gặp ở trận đấu quan trọng bậc nhất. Tình huống này đẩy sự kịch tính lên đỉnh điểm, bởi khi cả hai dùng chung một nhân vật, chiến thắng phụ thuộc gần như hoàn toàn vào kỹ năng và bản lĩnh cá nhân.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TQIZ1ulj8ko/hqdefault.jpg" alt="MenaRD thi đấu tại nhánh thắng EVO 2026 Street Fighter 6 trước khi vào chung kết" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TQIZ1ulj8ko/maxresdefault.jpg" alt="MenaRD thi đấu tại nhánh thắng EVO 2026 Street Fighter 6 trước khi vào chung kết" loading="lazy" width="1280" height="720">
   <figcaption>MenaRD thể hiện phong độ ấn tượng suốt hành trình tới trận chung kết. Nguồn: YouTube</figcaption>
 </figure>
 
 Trong suốt giải, MenaRD cho thấy sự đa dạng trong lối chơi khi sử dụng nhiều nhân vật khác nhau, một dấu hiệu của tuyển thủ đẳng cấp cao có thể thích nghi với từng đối thủ và tình huống. Chính khả năng biến hóa này, kết hợp với kinh nghiệm dày dạn ở những trận cầu áp lực lớn, đã giúp anh giữ được cái đầu lạnh vào thời khắc quyết định. Đây là những phẩm chất làm nên một nhà vô địch thực thụ, và cũng là điều mà người hâm mộ luôn chờ đợi ở các tuyển thủ hàng đầu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/JX6edd5oX7Y/hqdefault.jpg" alt="Shigematsu đối đầu MenaRD trong hành trình tại EVO 2026 Street Fighter 6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/JX6edd5oX7Y/maxresdefault.jpg" alt="Shigematsu đối đầu MenaRD trong hành trình tại EVO 2026 Street Fighter 6" loading="lazy" width="1280" height="720">
   <figcaption>Shigematsu là đối thủ đáng gờm, tạo nên trận chung kết đầy cảm xúc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Về phía Shigematsu, dù không thể lên ngôi, màn trình diễn của tuy
 ## Sức hút của làng đối kháng và esports
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Jy-ZiqjW4ps/hqdefault.jpg" alt="Cộng đồng đối kháng dõi theo hành trình vô địch EVO 2026 của MenaRD" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Jy-ZiqjW4ps/maxresdefault.jpg" alt="Cộng đồng đối kháng dõi theo hành trình vô địch EVO 2026 của MenaRD" loading="lazy" width="1280" height="720">
   <figcaption>EVO tiếp tục là sân khấu lớn nhất của cộng đồng game đối kháng thế giới. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -99,7 +99,7 @@ GTA 6 không chỉ là một tựa game mà còn là sự kiện có sức ảnh
 Về mặt thương mại, GTA 6 được kỳ vọng lập kỷ lục doanh thu, nối tiếp thành công khổng lồ của phần trước vốn là một trong những sản phẩm giải trí ăn khách nhất mọi thời đại. Take-Two, công ty mẹ của Rockstar, đặt nhiều kỳ vọng vào tựa game này cho kết quả kinh doanh. Với cộng đồng, đây là khoảnh khắc được mong đợi từ lâu, và mọi diễn biến tới ngày 19/11 sẽ tiếp tục được theo dõi sát sao. Sự cạnh tranh giữa các nền tảng game cũng được hưởng lợi, như phân tích trong bài [Nintendo Switch 2 sau một năm](/articles/nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/c8VdhviXXUk/maxresdefault.jpg" alt="GTA 6 tác động lớn tới ngành game năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/c8VdhviXXUk/hq720.jpg" alt="GTA 6 tác động lớn tới ngành game năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>GTA 6 được dự báo tạo cú hích lớn cho ngành game. Nguồn: YouTube</figcaption>
 </figure>
 

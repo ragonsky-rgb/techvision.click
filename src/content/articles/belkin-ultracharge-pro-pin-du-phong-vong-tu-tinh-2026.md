@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T09:00:00+07:00"
 dateModified: "2026-07-04T09:00:00+07:00"
 deck: "Belkin giới thiệu UltraCharge Pro Power Bank 10K, pin dự phòng gây chú ý tại CES 2026 nhờ vòng từ tính phụ ở mặt sau, cho phép gắn thêm các phụ kiện như ví, giá đỡ ngay cả khi đang sạc không dây cho điện thoại. Sản phẩm hỗ trợ sạc không dây Qi2.2 tới 25W và sạc có dây USB-C tới 30W cùng lúc, giá bán 99 USD."
-heroImage: "https://i.ytimg.com/vi/-OvNNxTfsjA/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/-OvNNxTfsjA/maxresdefault.jpg"
 heroAlt: "Belkin UltraCharge Pro pin du phong vong tu tinh 2026"
 heroCaption: "Belkin UltraCharge Pro Power Bank 10K, pin dự phòng với vòng từ tính phụ gắn thêm phụ kiện. Nguồn: YouTube"
 tldr: "<strong>Belkin UltraCharge Pro Power Bank 10K</strong> là pin dự phòng dung lượng <strong>10.000mAh</strong>, nổi bật với <strong>vòng từ tính phụ</strong> ở mặt sau cho phép gắn thêm ví, giá đỡ hoặc grip ngay cả khi đang sạc. Sản phẩm hỗ trợ sạc không dây <strong>Qi2.2 tới 25W</strong> và sạc có dây USB-C tới <strong>30W</strong> cùng lúc, có màn hình hiển thị số, chân đế dựng tích hợp và hỗ trợ sạc xuyên (pass-through). Giá bán <strong>99 USD</strong>, ra mắt từ tháng 2/2026."
@@ -67,7 +67,7 @@ Belkin chính thức thương mại hóa UltraCharge Pro Power Bank 10K, một t
 Về mặt kỹ thuật, sản phẩm hỗ trợ sạc không dây chuẩn Qi2.2 mới nhất với công suất tối đa 25W, cùng sạc có dây qua cổng USB-C lên tới 30W, có thể hoạt động đồng thời để sạc hai thiết bị cùng lúc. Thiết kế còn tích hợp thêm màn hình hiển thị số báo mức pin còn lại, chân đế dựng tích hợp tiện lợi khi đặt trên bàn, và lớp vỏ ngoài phủ silicone mềm mại, dễ cầm nắm khi sử dụng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Cl9KTiFyjcA/hq720.jpg" alt="Belkin Qi2 10K MagSafe power bank sac khong day 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Cl9KTiFyjcA/maxresdefault.jpg" alt="Belkin Qi2 10K MagSafe power bank sac khong day 2026" loading="lazy" width="1280" height="720">
   <figcaption>Belkin UltraCharge Pro hỗ trợ sạc không dây Qi2.2 tới 25W và sạc có dây USB-C 30W, có thể sạc hai thiết bị cùng lúc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,14 +76,14 @@ Về mặt kỹ thuật, sản phẩm hỗ trợ sạc không dây chuẩn Qi2.2
 Belkin không phải hãng duy nhất đẩy mạnh chuẩn sạc Qi2.2 trong năm 2026. Anker cũng giới thiệu trạm sạc không dây Anker Prime hỗ trợ sạc Qi2 tới 25W tương tự, đi kèm công nghệ làm mát AirCool giúp giảm nhiệt tới 30% trong quá trình sạc, giúp duy trì tốc độ sạc ổn định và bảo vệ tuổi thọ pin điện thoại tốt hơn, cho thấy cuộc đua sạc nhanh không dây giữa các thương hiệu phụ kiện lớn đang ngày càng gay gắt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-lVMWuSxBec/hqdefault.jpg" alt="Anker Qi2 25W tram sac danh gia nghiem tuc 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/-lVMWuSxBec/maxresdefault.jpg" alt="Anker Qi2 25W tram sac danh gia nghiem tuc 2026" loading="lazy" width="1280" height="720">
   <figcaption>Trạm sạc Qi2 25W mới của Anker cũng được nhiều reviewer đánh giá nghiêm túc về hiệu năng sạc nhanh. Nguồn: YouTube</figcaption>
 </figure>
 
 Về giá bán, Belkin UltraCharge Pro Power Bank 10K có giá 99 USD, chính thức mở bán từ tháng 2/2026. Bên cạnh phiên bản này, hãng còn giới thiệu thêm phiên bản pin dự phòng dành riêng cho laptop với dung lượng 27.000mAh, công suất xuất tối đa lên tới 240W, đủ sức sạc nhanh cho cả MacBook Pro, giá bán 149,99 USD. Với người đang tìm hiểu thêm các giải pháp sạc không dây khác cho điện thoại, bài viết [Mophie StealthCharge: sạc không dây mát lạnh](/articles/mophie-stealthcharge-sac-khong-day-mat-lanh-2026.html) giới thiệu thêm một lựa chọn khác tập trung vào công nghệ tản nhiệt khi sạc nhanh. Người cần tổng hợp thêm các lựa chọn pin dự phòng khác trên thị trường cũng có thể tham khảo bài viết [top sạc dự phòng đáng mua tháng 7/2026](/articles/top-sac-du-phong-dang-mua-thang-7-2026.html) để so sánh đa dạng hơn giữa các thương hiệu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/871glnSvSFc/hq720.jpg" alt="Belkin UltraCharge Pro vong tu tinh phu kien 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/871glnSvSFc/maxresdefault.jpg" alt="Belkin UltraCharge Pro vong tu tinh phu kien 2026" loading="lazy" width="1280" height="720">
   <figcaption>Vòng từ tính phụ trên Belkin UltraCharge Pro cho phép gắn thêm nhiều loại phụ kiện tương thích MagSafe khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

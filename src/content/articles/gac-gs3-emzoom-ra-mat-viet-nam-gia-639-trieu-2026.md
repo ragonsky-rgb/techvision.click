@@ -64,7 +64,7 @@ Trái tim của GS3 Emzoom là khối động cơ 1.5L tăng áp kết hợp h�
 Về hiệu quả nhiên liệu, hãng đưa ra mức tiêu thụ kết hợp 5,9 lít/100 km theo tiêu chuẩn NEDC. Cần lưu ý NEDC thường cho kết quả lạc quan hơn so với điều kiện chạy thực tế tại Việt Nam, đặc biệt trong đô thị đông đúc, nên con số thực dùng nhiều khả năng cao hơn. Dù vậy, việc kết hợp động cơ tăng áp mạnh với hộp số ly hợp kép cho thấy GAC ưu tiên cảm giác lái thể thao thay vì chỉ chạy êm, một hướng đi khác biệt so với nhiều đối thủ Nhật Bản trong phân khúc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/KPB7SqWmOLw/hqdefault.jpg" alt="GAC GS3 Emzoom dong co 1.5 tang ap 174 ma luc van hanh 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KPB7SqWmOLw/maxresdefault.jpg" alt="GAC GS3 Emzoom dong co 1.5 tang ap 174 ma luc van hanh 2026" loading="lazy" width="1280" height="720">
   <figcaption>Động cơ 1.5L tăng áp cho 174 mã lực là điểm mạnh của GS3 Emzoom trong phân khúc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Về ngoại hình, GS3 Emzoom mang ngôn ngữ thiết kế mà GAC gọi là S
 Bên trong, xe được trang bị bảng đồng hồ kỹ thuật số 7 inch, màn hình giải trí trung tâm 10,25 inch hỗ trợ kết nối Apple CarPlay và Android Auto, cần số điện tử, sạc không dây và điều hòa tự động tích hợp lọc không khí PM1.0. Các chi tiết như dàn âm thanh DTS 6 loa và cửa sổ trời toàn cảnh Panorama là những trang bị thường chỉ xuất hiện ở các bản cao cấp hơn, cho thấy GAC muốn ghi điểm bằng cảm giác giá trị vượt tầm tiền.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/NUr1jqM84VM/hqdefault.jpg" alt="Noi that GAC GS3 Emzoom man hinh 10.25 inch cua so troi toan canh 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NUr1jqM84VM/maxresdefault.jpg" alt="Noi that GAC GS3 Emzoom man hinh 10.25 inch cua so troi toan canh 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nội thất GS3 Emzoom nhiều trang bị tiện nghi so với tầm giá. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Rào cản lớn nhất của GAC tại Việt Nam không phải sản phẩm m�
 Với người tiêu dùng, GS3 Emzoom là lựa chọn đáng cân nhắc nếu bạn ưu tiên trang bị và vận hành trên mỗi đồng chi ra, đồng thời chấp nhận rủi ro giá trị bán lại của một thương hiệu mới. Ngược lại, nếu bạn coi trọng sự an tâm về thanh khoản và mạng lưới dịch vụ rộng, các đối thủ Nhật Bản như Toyota Yaris Cross vẫn có lợi thế. Người quan tâm tới các mẫu xe mới khác vừa cập bến Việt Nam có thể tham khảo thêm bài [Hyundai Tucson Hybrid 2026 tại Việt Nam](/articles/hyundai-tucson-hybrid-2026-viet-nam-gia-dat-coc.html) để so sánh lựa chọn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VE5OENnCaUA/hqdefault.jpg" alt="GAC GS3 Emzoom chinh sach bao hanh 7 nam canh tranh phan khuc 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VE5OENnCaUA/maxresdefault.jpg" alt="GAC GS3 Emzoom chinh sach bao hanh 7 nam canh tranh phan khuc 2026" loading="lazy" width="1280" height="720">
   <figcaption>Chính sách bảo hành 7 năm là cách GAC tạo niềm tin cho khách hàng Việt. Nguồn: YouTube</figcaption>
 </figure>
 

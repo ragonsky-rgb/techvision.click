@@ -74,7 +74,7 @@ Theo các hãng tin lớn như Al Jazeera, CNBC và MacRumors, nhóm tin tặc m
 Phần gây chú ý nhất trong kho dữ liệu bị rò rỉ là những bức ảnh và đoạn video ghi lại quá trình thử độ bền, được cho là chụp tại một nhà máy của Tata vào đầu năm 2026. Hình ảnh cho thấy một chiếc máy màu xám bạc, thiết kế phẳng, mặt sau có cụm 3 camera cùng logo Apple, gần như không thể phân biệt bằng mắt thường với iPhone 17 Pro hiện tại. Tuy vậy, giới phân tích để ý thấy vài chi tiết thay đổi nhỏ, cụ thể cụm camera sau có vẻ nhô cao hơn và chiếm diện tích lớn hơn trên khay camera so với thế hệ trước, trong khi thiết kế hai tông màu ở mặt lưng được làm tinh gọn, ít gây chú ý hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DfVYOU_Pnto/hqdefault.jpg" alt="iPhone 18 Pro anh thu do ben ro ri camera nho cao hon" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/DfVYOU_Pnto/maxresdefault.jpg" alt="iPhone 18 Pro anh thu do ben ro ri camera nho cao hon" loading="lazy" width="1280" height="720">
   <figcaption>Ảnh thử độ bền rò rỉ cho thấy cụm camera sau của iPhone 18 Pro nhô cao hơn thế hệ trước. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,14 +95,14 @@ Nếu thông tin này chính xác, đây sẽ là thay đổi thiết kế mặt
 Không chỉ dừng lại ở hình ảnh bên ngoài, kho dữ liệu bị rò rỉ còn chứa các tài liệu kỹ thuật chi tiết, bao gồm sơ đồ bo mạch chính, thông tin về pin, các module camera và danh sách cụ thể nhà cung ứng cho từng linh kiện. Đặc biệt, tài liệu được cho là có nhắc tới tên gọi chip A20 Pro, phiên bản chip xử lý mà Apple chưa từng công bố chính thức, dự kiến sẽ được trang bị cho dòng iPhone 18 Pro sắp ra mắt. Đây là loại thông tin mà Apple thường bảo mật nghiêm ngặt, hiếm khi để lộ ra bên ngoài trước ngày công bố sản phẩm chính thức.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_5k2RLASWMI/hqdefault.jpg" alt="iPhone 18 Pro so do linh kien chip A20 Pro ro ri du lieu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_5k2RLASWMI/maxresdefault.jpg" alt="iPhone 18 Pro so do linh kien chip A20 Pro ro ri du lieu" loading="lazy" width="1280" height="720">
   <figcaption>Tài liệu rò rỉ chứa sơ đồ linh kiện chi tiết, bao gồm cả tên chip A20 Pro chưa công bố. Nguồn: YouTube</figcaption>
 </figure>
 
 Bên cạnh sơ đồ linh kiện, kho dữ liệu còn lộ danh sách cụ thể từng nhà cung ứng đảm nhận sản xuất linh kiện nào cho iPhone 18 Pro, một loại thông tin chuỗi cung ứng mà Apple luôn giữ kín để tránh đối thủ nắm được chiến lược lựa chọn đối tác của hãng. Việc để lộ chi tiết tới mức này khiến giới phân tích đánh giá đây không đơn thuần là rò rỉ hình ảnh sản phẩm như các vụ trước, mà là một sự cố an ninh mạng nghiêm trọng, ảnh hưởng trực tiếp tới bí mật vận hành chuỗi cung ứng toàn cầu của Apple.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/axrPfjkP4HQ/hqdefault.jpg" alt="iPhone 18 Pro danh sach nha cung ung bi lo tu vu hack Tata" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/axrPfjkP4HQ/maxresdefault.jpg" alt="iPhone 18 Pro danh sach nha cung ung bi lo tu vu hack Tata" loading="lazy" width="1280" height="720">
   <figcaption>Danh sách nhà cung ứng linh kiện cho iPhone 18 Pro cũng nằm trong kho dữ liệu bị công bố. Nguồn: YouTube</figcaption>
 </figure>
 

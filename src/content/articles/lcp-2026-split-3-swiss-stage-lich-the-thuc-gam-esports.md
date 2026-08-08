@@ -66,7 +66,7 @@ Chặng cuối cùng của mùa giải Liên Minh Huyền Thoại khu vực có 
 Với người hâm mộ, thể thức Thụy Sĩ mang lại nhiều kịch tính hơn khi càng về cuối, mỗi trận càng trở nên sinh tử với các đội đang đứng ở ngưỡng đi tiếp hay bị loại. Đây cũng là định dạng đã được Riot Games sử dụng ở nhiều giải quốc tế lớn, nên việc LCP đưa vào split cuối cho thấy khu vực đang chuẩn hóa theo chuẩn chung. Sự thay đổi này đòi hỏi các đội phải chuẩn bị chiều sâu đội hình và khả năng thích ứng lối chơi tốt hơn, bởi họ có thể gặp nhiều phong cách đối thủ khác nhau qua từng vòng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/gkyoEUJ_vME/hqdefault.jpg" alt="LCP 2026 Split 3 the thuc Thuy Si vong bang du 3 thang vao playoffs" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gkyoEUJ_vME/maxresdefault.jpg" alt="LCP 2026 Split 3 the thuc Thuy Si vong bang du 3 thang vao playoffs" loading="lazy" width="1280" height="720">
   <figcaption>Thể thức Thụy Sĩ khiến mỗi trận vòng bảng LCP 2026 Split 3 đều mang tính quyết định. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ LCP 2026 Split 3 quy tụ 8 đội gồm CTBC Flying Oyster, Fukuoka SoftBank HA
 Bên cạnh GAM, các đội như Team Secret Whales, CTBC Flying Oyster hay MVK Esports cũng là những ứng viên đáng gờm. MVK Esports là tên gọi mới sau khi đội Vikings Esports đổi thương hiệu, mang theo kỳ vọng làm mới hình ảnh. Sự cạnh tranh giữa các đội hàng đầu Đài Loan, Nhật Bản và Việt Nam hứa hẹn tạo nên nhiều trận cầu hấp dẫn, nhất là khi thể thức Thụy Sĩ có thể đưa các đối thủ mạnh gặp nhau sớm hơn thường lệ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-u_V5GVXeGI/hqdefault.jpg" alt="GAM Esports thi dau LCP 2026 Split 3 khu vuc chau A Thai Binh Duong" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-u_V5GVXeGI/maxresdefault.jpg" alt="GAM Esports thi dau LCP 2026 Split 3 khu vuc chau A Thai Binh Duong" loading="lazy" width="1280" height="720">
   <figcaption>GAM Esports là tâm điểm của khán giả Việt Nam tại LCP 2026 Split 3. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Tính tới đầu tháng 8/2026, cục diện vòng Thụy Sĩ diễn ra khá c
 Điều khiến split này đặc biệt hấp dẫn là ranh giới giữa đi tiếp và bị loại rất mong manh. Chỉ một hoặc hai trận có thể thay đổi hoàn toàn số phận của một đội, tạo áp lực lớn nhưng cũng mở ra cơ hội bứt phá cho những đội biết chớp thời cơ. Đây chính là nét đặc trưng của thể thức Thụy Sĩ, nơi bản lĩnh và sự ổn định được thử thách liên tục qua từng vòng đấu. Với các đội Việt Nam, yếu tố tâm lý và khả năng giữ phong độ ổn định ở những trận bản lề thường quan trọng không kém trình độ cá nhân. Kinh nghiệm thi đấu quốc tế, chiều sâu đội hình và sự chuẩn bị kỹ về khâu cấm chọn tướng sẽ là những điểm tạo khác biệt khi bước vào giai đoạn căng thẳng nhất của giải.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XKjQ2XVjsOs/hqdefault.jpg" alt="Cuc dien LCP 2026 Split 3 tranh ve playoffs suat Worlds 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XKjQ2XVjsOs/maxresdefault.jpg" alt="Cuc dien LCP 2026 Split 3 tranh ve playoffs suat Worlds 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ranh giới đi tiếp và bị loại ở vòng Thụy Sĩ rất mong manh, tạo nhiều kịch tính. Nguồn: YouTube</figcaption>
 </figure>
 

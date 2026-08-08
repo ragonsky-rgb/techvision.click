@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T12:00:00+07:00"
 dateModified: "2026-07-04T12:00:00+07:00"
 deck: "Google chính thức ra mắt Home Speaker, chiếc loa thông minh đầu tiên của hãng sau 6 năm kể từ Nest Audio, chạy hoàn toàn trên nền tảng Gemini AI thay vì Google Assistant truyền thống. Sản phẩm hiểu được cách con người thực sự nói chuyện, cho phép sửa lời giữa câu hoặc gộp nhiều yêu cầu trong một câu nói, giá bán 99 USD."
-heroImage: "https://i.ytimg.com/vi/SgBy3NFGl3U/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/SgBy3NFGl3U/maxresdefault.jpg"
 heroAlt: "Google Home Speaker loa thong minh Gemini 2026"
 heroCaption: "Google Home Speaker, loa thông minh đầu tiên của Google chạy Gemini AI sau 6 năm. Nguồn: YouTube"
 tldr: "<strong>Google Home Speaker</strong> là loa thông minh đầu tiên của Google sau 6 năm, chạy hoàn toàn trên <strong>Gemini AI</strong> thay vì Google Assistant, cho phép trò chuyện tự nhiên nhiều bước, sửa lời giữa câu hoặc gộp nhiều yêu cầu trong một câu nói duy nhất. Loa trang bị driver <strong>58mm</strong> (tăng từ 40mm trên Nest Mini), bass mạnh hơn 2,5 lần, hỗ trợ Wi-Fi 6, Bluetooth 5.4 và <strong>Thread 1.4</strong> để làm trung tâm điều khiển thiết bị Matter. Giá bán <strong>99 USD</strong>, các tính năng AI nổi bật nhất yêu cầu gói thuê bao thêm <strong>10 USD/tháng</strong> sau 6 tháng dùng thử miễn phí."
@@ -67,7 +67,7 @@ Google chính thức giới thiệu Home Speaker, chiếc loa thông minh đầu
 Về phần cứng xử lý, loa được trang bị chip ARM 4 nhân cùng bộ xử lý thần kinh (NPU) chuyên dụng để xử lý giọng nói, kết hợp kết nối Wi-Fi 6, Bluetooth 5.4 và đặc biệt là Thread 1.4, biến chiếc loa này thành trung tâm điều khiển cho các thiết bị tương thích chuẩn Matter từ bất kỳ thương hiệu nào, không chỉ riêng hệ sinh thái Google.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_JnsPg41vts/hqdefault.jpg" alt="Google Home Speaker Gemini mo hop 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_JnsPg41vts/maxresdefault.jpg" alt="Google Home Speaker Gemini mo hop 2026" loading="lazy" width="1280" height="720">
   <figcaption>Quá trình mở hộp Google Home Speaker được nhiều reviewer thực hiện ngay khi sản phẩm chính thức ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Về phần cứng xử lý, loa được trang bị chip ARM 4 nhân cùng bộ
 Về chất lượng âm thanh, loa trang bị driver 58mm, lớn hơn đáng kể so với driver 40mm trên Nest Mini cũ, Google công bố mang lại bass mạnh hơn tới 2,5 lần. Thiết kế cũng được làm mới với vòng đèn quanh đáy loa, đổi màu tùy theo trạng thái đang lắng nghe, đang xử lý hay đang phản hồi, mang lại trải nghiệm tương tác trực quan hơn. Sản phẩm có 4 tùy chọn màu sắc gồm trắng, xám đậm, đỏ berry và xanh sage.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SgBy3NFGl3U/mqdefault.jpg" alt="Google Home Speaker noi chuyen tu nhien 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SgBy3NFGl3U/maxresdefault.jpg" alt="Google Home Speaker noi chuyen tu nhien 2026" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng trò chuyện tự nhiên như với con người thực là điểm nhấn được Google quảng bá mạnh mẽ nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Tuy nhiên, mức giá 99 USD chỉ là khởi đầu, bởi các tính năng AI
 Với người quan tâm tới các thiết bị AI sức khỏe kết hợp trợ lý ảo khác, bài viết [Whoop bổ sung bác sĩ trực tuyến, AI sức khỏe mới](/articles/whoop-bo-sung-bac-si-truc-tuyen-ai-suc-khoe-2026.html) giới thiệu thêm một hướng ứng dụng AI khác trong đời sống hằng ngày. Người muốn xây dựng hệ thống nhà thông minh toàn diện hơn với Google Home Speaker làm trung tâm cũng nên tham khảo thêm bài viết [cách chọn khóa cửa thông minh (smart lock) năm 2026](/articles/cach-chon-khoa-cua-thong-minh-smart-lock-2026-tieu-chi.html) để hoàn thiện hệ sinh thái thiết bị tự động hóa trong nhà.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/e1pNTuJImI8/mqdefault.jpg" alt="Google Home Speaker Gemini thiet ke moi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/e1pNTuJImI8/maxresdefault.jpg" alt="Google Home Speaker Gemini thiet ke moi 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế mới của Google Home Speaker lấy cảm hứng từ hình dáng tròn quen thuộc của các loa thông minh trước đây. Nguồn: YouTube</figcaption>
 </figure>
 

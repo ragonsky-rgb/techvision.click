@@ -74,7 +74,7 @@ Trong một thị trường mà khách hàng ngày càng nhạy cảm về giá 
 Lynk & Co 02 hướng tới phân khúc xe gầm cao cỡ C, một trong những nhóm sôi động nhất thị trường Việt Nam. Đây là phân khúc được nhiều gia đình trẻ ưa chuộng nhờ sự cân bằng giữa kích thước đủ rộng và khả năng vận hành linh hoạt trong đô thị. Tuy nhiên, đó cũng là nơi cạnh tranh khốc liệt với sự góp mặt của hàng loạt tên tuổi từ Nhật, Hàn tới các thương hiệu mới nổi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/iF9fMZyYoHY/hqdefault.jpg" alt="Thiết kế ngoại thất Lynk & Co 02" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/iF9fMZyYoHY/maxresdefault.jpg" alt="Thiết kế ngoại thất Lynk & Co 02" loading="lazy" width="1280" height="720">
   <figcaption>Lynk & Co 02 mang phong cách thiết kế trẻ trung, khác biệt so với các mẫu xe truyền thống. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Lynk & Co 02 hướng tới phân khúc xe gầm cao cỡ C, một trong những
 Sự xuất hiện của Lynk & Co 02 nằm trong một xu hướng lớn hơn: làn sóng các thương hiệu xe mới, đặc biệt từ Trung Quốc, đổ bộ và mở rộng tại thị trường Việt Nam. Những thương hiệu này thường cạnh tranh bằng trang bị nhiều, thiết kế hiện đại và giá dễ tiếp cận, tạo áp lực lên các tên tuổi truyền thống và mang lại nhiều lựa chọn hơn cho người tiêu dùng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/N30VZ5b0X6I/hqdefault.jpg" alt="Nội thất và trang bị Lynk & Co 02" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/N30VZ5b0X6I/maxresdefault.jpg" alt="Nội thất và trang bị Lynk & Co 02" loading="lazy" width="1280" height="720">
   <figcaption>Khoang nội thất Lynk & Co 02 chú trọng tiện nghi, hướng tới nhóm khách hàng trẻ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Cùng thời điểm, thị trường liên tục đón các mẫu xe mới ở 
 ## Có nên chờ đợi Lynk & Co 02
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/5hR6vGloBfI/hqdefault.jpg" alt="Lynk & Co 02 bổ sung lựa chọn cho khách hàng Việt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5hR6vGloBfI/maxresdefault.jpg" alt="Lynk & Co 02 bổ sung lựa chọn cho khách hàng Việt" loading="lazy" width="1280" height="720">
   <figcaption>Với giá dự kiến cạnh tranh, Lynk & Co 02 là lựa chọn đáng theo dõi trong phân khúc cỡ C. Nguồn: YouTube</figcaption>
 </figure>
 

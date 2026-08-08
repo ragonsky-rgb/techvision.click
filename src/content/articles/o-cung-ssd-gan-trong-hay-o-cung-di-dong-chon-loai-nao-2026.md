@@ -72,14 +72,14 @@ Ngược lại, ổ cứng di động gắn ngoài kết nối qua cổng USB, t
 Về tính di động, ổ cứng di động có ưu thế lớn nhờ nhỏ gọn, cắm rút dễ dàng qua cổng USB mà không cần mở máy, cho phép sao lưu và mang theo dữ liệu giữa nhiều máy. SSD gắn trong cố định trong máy nên không phục vụ mục đích di động này, mà tập trung tăng tốc cho chính chiếc máy đó. Cả hai đều lưu trữ dữ liệu được, nên việc chọn nên dựa trên việc bạn cần tăng tốc máy hay cần một nơi lưu trữ linh hoạt để sao lưu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/52u-WEvBgL0/hqdefault.jpg" alt="SSD gắn trong nhiều chuẩn cho tốc độ cao trên máy tính năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/52u-WEvBgL0/maxresdefault.jpg" alt="SSD gắn trong nhiều chuẩn cho tốc độ cao trên máy tính năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>SSD gắn trong cho tốc độ cao, hợp cài hệ điều hành và phần mềm. Nguồn: YouTube</figcaption>
 </figure>
 
 Mục đích sử dụng cũng ảnh hưởng lớn đến lựa chọn. Người cần tăng tốc máy, cài phần mềm và chạy tác vụ nặng sẽ thấy SSD gắn trong đáng giá. Người cần sao lưu, mang theo dữ liệu và mở rộng dung lượng lại thấy ổ cứng di động tiện hơn. Nhiều người dùng cả hai để vừa có máy nhanh vừa có nơi sao lưu linh hoạt. Nếu bạn muốn hiểu rõ tiêu chí chọn ổ di động, bài [cách chọn ổ cứng di động SSD 2026](/articles/cach-chon-o-cung-di-dong-ssd-2026.html) cung cấp nhiều thông tin nền tảng hữu ích.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Q6Xt1L0I7B4/hqdefault.jpg" alt="Ổ cứng di động gắn ngoài cho sao lưu và mang theo dữ liệu năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Q6Xt1L0I7B4/maxresdefault.jpg" alt="Ổ cứng di động gắn ngoài cho sao lưu và mang theo dữ liệu năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ổ cứng di động tiện sao lưu, mở rộng dung lượng và mang theo file. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Mục đích sử dụng cũng ảnh hưởng lớn đến lựa chọn. Ngườ
 Về giá, cả hai đều trải rộng nhiều mức tùy dung lượng, tốc độ và thương hiệu. SSD gắn trong có giá theo chuẩn và dung lượng, còn ổ cứng di động có cả loại SSD giá cao hơn lẫn loại HDD dung lượng lớn giá rẻ, cùng chi phí cho vỏ hộp và cổng kết nối. Việc so sánh giá nên đi kèm mục đích thực tế, vì nếu bạn cần tốc độ cho máy thì SSD gắn trong đáng đầu tư, còn nếu cần dung lượng lớn để sao lưu và mang theo thì ổ cứng di động, đặc biệt loại HDD, cho dung lượng cao với chi phí tiết kiệm hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Ln-Sw2tPDH0/hqdefault.jpg" alt="Hướng dẫn chọn SSD gắn trong hay ổ cứng di động theo nhu cầu năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ln-Sw2tPDH0/maxresdefault.jpg" alt="Hướng dẫn chọn SSD gắn trong hay ổ cứng di động theo nhu cầu năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Chọn giải pháp lưu trữ phù hợp mục đích giúp dùng máy hiệu quả hơn. Nguồn: YouTube</figcaption>
 </figure>
 

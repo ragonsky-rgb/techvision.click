@@ -60,7 +60,7 @@ Theo các thông tin từ Tom's Hardware, VideoCardz và TechPowerUp, trọng t�
 Chìa khóa để đạt được các mức dung lượng này là chip nhớ GDDR7 mật độ cao 3GB mỗi module, thay cho loại 2GB phổ biến trước đây. Với cùng độ rộng bus, việc thay chip dung lượng gấp rưỡi cho phép tăng tổng dung lượng bộ nhớ mà không cần thiết kế lại toàn bộ bảng mạch. Đây là cách NVIDIA đưa các card tầm trung cao lên ngưỡng 24GB, mức dung lượng vốn trước đây chỉ có ở các card cao cấp nhất hoặc dòng chuyên nghiệp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mzjxfMQ_fis/hqdefault.jpg" alt="Card do hoa RTX 50 Blackwell hieu nang gaming" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mzjxfMQ_fis/maxresdefault.jpg" alt="Card do hoa RTX 50 Blackwell hieu nang gaming" loading="lazy" width="1280" height="720">
   <figcaption>Loạt RTX 50 Super làm mới kiến trúc Blackwell, tập trung nâng cấp dung lượng bộ nhớ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Việc tăng dung lượng bộ nhớ có ý nghĩa thực tế với nhiều nh
 Câu hỏi quan trọng với người mua là bản Super có đáng chờ hay không, và điều đó phụ thuộc vào giá. Nếu NVIDIA giữ được mức giá gần với bản thường mà tăng đáng kể bộ nhớ, RTX 50 Super sẽ là nâng cấp về hiệu năng trên giá rất hấp dẫn. Ngược lại, nếu giá đội lên nhiều vì chi phí bộ nhớ, sức hút sẽ giảm. Với người đang phân vân giữa mua ngay hay chờ, việc nắm rõ nhu cầu sử dụng và ngân sách là yếu tố quyết định, có thể tham khảo thêm [các tiêu chí chọn card đồ họa năm 2026](/articles/cach-chon-card-do-hoa-gpu-2026-tieu-chi.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/p5pZuUmpIyY/hqdefault.jpg" alt="RTX 50 Super 24GB bo nho GDDR7 danh gia" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/p5pZuUmpIyY/maxresdefault.jpg" alt="RTX 50 Super 24GB bo nho GDDR7 danh gia" loading="lazy" width="1280" height="720">
   <figcaption>Dung lượng 24GB GDDR7 hướng tới game thủ 4K, người dựng phim và chạy mô hình AI cục bộ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Trớ trêu thay, chính điểm mạnh của RTX 50 Super lại là điểm y�
 Đó là lý do lịch ra mắt RTX 50 Super liên tục thay đổi. Ban đầu dòng card được cho là sẽ xuất hiện vào cuối quý 1 hoặc đầu quý 2 năm 2026, có thể ngay tại CES 2026, nhưng các nguồn tin gần đây nói thời điểm đã lùi tới cuối 2026, thậm chí có báo cáo cho rằng NVIDIA có thể dời hẳn sang CES 2027. Tình hình giá bộ nhớ căng thẳng khiến việc dự đoán chính xác trở nên khó khăn. Bối cảnh này cũng liên quan mật thiết tới việc [giá RTX 5090 tăng vọt vì khủng hoảng DRAM](/articles/rtx-5090-gia-tang-vot-khung-hoang-dram-2026.html) mà thị trường Việt Nam đang chứng kiến.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/hoEKRTjqlw8/hqdefault.jpg" alt="Gia card do hoa RTX tang vi khung hoang bo nho DRAM 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hoEKRTjqlw8/maxresdefault.jpg" alt="Gia card do hoa RTX tang vi khung hoang bo nho DRAM 2026" loading="lazy" width="1280" height="720">
   <figcaption>Khủng hoảng giá bộ nhớ 2026 tạo áp lực lên cả thời điểm ra mắt lẫn giá bán của RTX 50 Super. Nguồn: YouTube</figcaption>
 </figure>
 

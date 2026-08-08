@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-11T22:35:00+07:00"
 dateModified: "2026-07-11T22:35:00+07:00"
 deck: "Xiaomi chính thức mở rộng dải sản phẩm REDMI AIoT tại thị trường Việt Nam với REDMI Watch 6, mẫu đồng hồ thông minh tầm giá phổ thông sở hữu màn hình AMOLED 2,07 inch độ sáng tối đa 2.000 nit, khung viền hợp kim nhôm mới mỏng nhẹ hơn thế hệ trước, hệ thống định vị vệ tinh kép cùng thời lượng pin lên tới 24 ngày sử dụng, giá bán niêm yết 2.990.000 đồng."
-heroImage: "https://i.ytimg.com/vi/45kYT3dd0hk/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/45kYT3dd0hk/maxresdefault.jpg"
 heroAlt: "REDMI Watch 6 ra mắt Việt Nam màn hình AMOLED 2000 nit pin 24 ngày"
 heroCaption: "REDMI Watch 6 chính thức có mặt tại thị trường Việt Nam với mức giá phổ thông. Nguồn: YouTube"
 tldr: "<strong>REDMI Watch 6</strong> đã chính thức mở bán tại Việt Nam với giá niêm yết <strong>2.990.000 đồng</strong>. Sản phẩm sở hữu màn hình <strong>AMOLED 2,07 inch</strong>, độ phân giải <strong>432 x 514 pixel</strong>, độ sáng tối đa lên tới <strong>2.000 nit</strong> giúp hiển thị rõ nét ngay cả dưới ánh nắng gắt, cùng khung viền hợp kim nhôm mới giúp máy giảm khoảng <strong>40g</strong> trọng lượng so với thế hệ tiền nhiệm. Đồng hồ trang bị hệ thống định vị vệ tinh kép (Dual GNSS) cho độ chính xác cao hơn khi tập luyện ngoài trời, cùng thời lượng pin ấn tượng lên tới <strong>24 ngày</strong> sử dụng thông thường. Máy chạy trên nền tảng HyperOS được Xiaomi tối ưu riêng, hỗ trợ theo dõi sức khỏe toàn diện và tương thích tốt với cả thiết bị Android lẫn iPhone."
@@ -74,7 +74,7 @@ Về mặt thiết kế, REDMI Watch 6 được trang bị khung viền làm t�
 Một trong những nâng cấp thực tế nhất trên REDMI Watch 6 là hệ thống định vị vệ tinh kép (Dual GNSS), cho phép đồng hồ thu nhận tín hiệu từ nhiều hệ thống vệ tinh định vị cùng lúc thay vì chỉ dựa vào một nguồn duy nhất như nhiều mẫu đồng hồ giá rẻ khác. Điều này giúp cải thiện đáng kể độ chính xác khi bám theo quãng đường di chuyển trong các hoạt động ngoài trời như chạy bộ, đạp xe hoặc leo núi, đặc biệt hữu ích tại các khu vực đô thị có nhiều tòa nhà cao tầng dễ gây nhiễu tín hiệu định vị.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/L5TRP6ivFQE/hqdefault.jpg" alt="REDMI Watch 6 với thiết kế vuông mỏng nhẹ mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/L5TRP6ivFQE/maxresdefault.jpg" alt="REDMI Watch 6 với thiết kế vuông mỏng nhẹ mới" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế mặt vuông mỏng nhẹ của REDMI Watch 6 nhận được nhiều đánh giá tích cực từ giới công nghệ quốc tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ REDMI Watch 6 vận hành trên nền tảng HyperOS được Xiaomi tối ưu r
 So với các đối thủ cùng phân khúc giá phổ thông, REDMI Watch 6 đang cho thấy lợi thế rõ rệt về độ sáng màn hình và thời lượng pin, hai yếu tố thường được người dùng phổ thông tại Việt Nam quan tâm hàng đầu khi lựa chọn đồng hồ thông minh. Với những ai có ngân sách cao hơn và muốn tìm kiếm thời lượng pin còn ấn tượng hơn nữa, thị trường vẫn còn các lựa chọn cao cấp hơn như [HUAWEI Watch GT 6 với thời lượng pin lên tới 21 ngày](/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html), trong khi nhóm khách hàng ưu tiên phong cách thời trang tối giản có thể cân nhắc thêm các thiết bị đeo dạng nhẫn thông minh như [Samsung Galaxy Ring vừa được giới thiệu](/articles/samsung-galaxy-ring-nhan-thong-minh-suc-khoe-galaxy-ai.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Dnt4fkMC3QU/hqdefault.jpg" alt="Trải nghiệm sử dụng thực tế REDMI Watch 6 trong các hoạt động hàng ngày" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Dnt4fkMC3QU/maxresdefault.jpg" alt="Trải nghiệm sử dụng thực tế REDMI Watch 6 trong các hoạt động hàng ngày" loading="lazy" width="1280" height="720">
   <figcaption>REDMI Watch 6 được đánh giá phù hợp cho nhu cầu sử dụng hàng ngày lẫn tập luyện thể thao cơ bản. Nguồn: YouTube</figcaption>
 </figure>
 

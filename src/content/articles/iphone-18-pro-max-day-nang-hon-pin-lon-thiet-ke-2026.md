@@ -64,7 +64,7 @@ Trước mỗi mùa iPhone mới, câu chuyện quen thuộc thường là máy 
 So với mức 5.088mAh của iPhone 17 Pro Max, đây là bước tăng khoảng 8 tới 9%, đủ đáng kể trên một dòng máy vốn đã có pin lớn. Với thị trường Việt Nam, nơi người dùng thường giữ điện thoại nhiều năm và dùng nặng cả ngày, dung lượng pin luôn là yếu tố được quan tâm hàng đầu. Tuy nhiên, như phần sau sẽ phân tích, dung lượng cao hơn không đồng nghĩa thời gian dùng dài hơn một cách tỉ lệ thuận. Nếu muốn hiểu tình trạng pin trên máy đang dùng, bạn có thể tham khảo bài [cách kiểm tra độ chai pin điện thoại](/articles/cach-kiem-tra-do-chai-pin-dien-thoai-iphone-android-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/cJMMspVDxt4/hqdefault.jpg" alt="Ho so dang kiem iPhone 18 Pro Max pin 5500mAh nano-SIM eSIM 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/cJMMspVDxt4/maxresdefault.jpg" alt="Ho so dang kiem iPhone 18 Pro Max pin 5500mAh nano-SIM eSIM 2026" loading="lazy" width="1280" height="720">
   <figcaption>Hồ sơ đăng kiểm hé lộ pin iPhone 18 Pro Max quanh mức 5.500mAh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Pin lớn cần chỗ chứa, và Apple được cho là chấp nhận đánh đ
 Đây là lựa chọn thiết kế thực dụng. Trong bối cảnh công nghệ pin chưa có bước nhảy đột phá về mật độ năng lượng, cách nhanh nhất để tăng dung lượng vẫn là tăng thể tích viên pin, tức làm máy dày hơn. Nhiều hãng Android cao cấp cũng đi theo hướng này khi chạy đua pin dung lượng lớn. Việc Apple, vốn nổi tiếng ưu tiên độ mỏng, cũng chấp nhận đánh đổi cho thấy áp lực về thời lượng và AI đang lớn tới mức nào.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2_pVdLZ9Ojo/hqdefault.jpg" alt="iPhone 18 Pro Max nang 240g day 9mm danh doi thiet ke lay pin 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2_pVdLZ9Ojo/maxresdefault.jpg" alt="iPhone 18 Pro Max nang 240g day 9mm danh doi thiet ke lay pin 2026" loading="lazy" width="1280" height="720">
   <figcaption>Máy dày và nặng hơn là cái giá phải trả cho viên pin lớn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Pin lớn cần chỗ chứa, và Apple được cho là chấp nhận đánh đ
 Với người mua tại Việt Nam, câu chuyện này đặt ra một lựa chọn rõ ràng về khẩu vị. Nếu bạn thuộc nhóm dùng nặng, cần máy trụ được cả ngày dài với nhiều tác vụ AI, camera và điều hướng, thì viên pin lớn là điểm cộng đáng giá, và vài gram nặng thêm là cái giá chấp nhận được. Ngược lại, nếu bạn quen với cảm giác cầm gọn nhẹ, hay dùng một tay, hoặc thường bỏ máy trong túi áo, thì mức 240g và độ dày 9mm có thể khiến trải nghiệm bớt thoải mái.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/vdAGyZnx0CQ/hqdefault.jpg" alt="Nguoi dung Viet can nhac giua pin lon va trong luong iPhone 18 Pro Max" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vdAGyZnx0CQ/maxresdefault.jpg" alt="Nguoi dung Viet can nhac giua pin lon va trong luong iPhone 18 Pro Max" loading="lazy" width="1280" height="720">
   <figcaption>Người dùng nặng ưu tiên pin lớn, người thích gọn nhẹ cân nhắc trọng lượng. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-20T11:50:00+07:00"
 dateModified: "2026-07-20T11:50:00+07:00"
 deck: "AMD đã trình làng dòng chip laptop Ryzen AI 400 tên mã Gorgon Point tại CES 2026, với bản cao nhất có tới 12 nhân Zen 5, xung nhịp đạt 5,2GHz và khối xử lý AI NPU 60 TOPS vượt chuẩn Copilot+ PC. Đây là bản nâng cấp tinh chỉnh trên kiến trúc Zen 5 quen thuộc, tập trung vào hiệu năng AI, đồ họa RDNA 3.5 và thời lượng pin dài, đã bắt đầu lên các mẫu laptop mới từ đầu năm 2026."
-heroImage: "https://i.ytimg.com/vi/RGKvUahL-_I/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/RGKvUahL-_I/maxresdefault.jpg"
 heroAlt: "AMD Ryzen AI 400 Gorgon Point chip laptop AI ra mắt CES 2026"
 heroCaption: "AMD Ryzen AI 400 nhắm tới laptop AI Copilot+ mỏng nhẹ. Nguồn: YouTube"
 tldr: "<strong>AMD Ryzen AI 400</strong> tên mã <strong>Gorgon Point</strong> ra mắt tại <strong>CES 2026</strong>, bản cao nhất có tới <strong>12 nhân Zen 5</strong>, xung <strong>5,2GHz</strong> và NPU <strong>60 TOPS</strong> đạt chuẩn <strong>Copilot+ PC</strong>. Chip dùng đồ họa tích hợp <strong>RDNA 3.5</strong> xung tới 3,1GHz, hỗ trợ RAM <strong>LPDDR5X 8.533 MT/s</strong>, dải công suất <strong>15W đến 54W</strong> và pin tới <strong>24 giờ</strong> xem video. Đây là bản nâng cấp tinh chỉnh trên nền Zen 5, chưa phải Zen 6, đã lên các laptop của Acer, Lenovo, HP và ASUS từ đầu năm 2026."
@@ -77,7 +77,7 @@ Với NPU 60 TOPS, mọi laptop dùng Ryzen AI 400 đều dễ dàng đạt nhã
 Tuy nhiên, người dùng cần hiểu rằng đây là bản nâng cấp tinh chỉnh chứ không phải cách mạng. Nhân CPU vẫn là Zen 5, đồ họa vẫn RDNA 3.5, còn NPU vẫn XDNA 2 nhưng được đẩy xung cao hơn. Nếu bạn cần một chiếc laptop AI ngay bây giờ, Ryzen AI 400 là lựa chọn chín muồi, hiệu năng ổn định và hệ sinh thái laptop phong phú. Ai muốn tìm hiểu cách chọn máy chuẩn Copilot+ hợp túi tiền có thể đọc bài [hướng dẫn chọn laptop AI Copilot+ PC 2026](/articles/laptop-ai-copilot-plus-pc-2026-nen-mua-nao-huong-dan.html) để cân nhắc giữa các nền tảng chip.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/vMGX35mzsWg/hqdefault.jpg" alt="Chip AMD Ryzen AI Gorgon Point tren laptop mong nhe 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vMGX35mzsWg/maxresdefault.jpg" alt="Chip AMD Ryzen AI Gorgon Point tren laptop mong nhe 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ryzen AI 400 hướng tới nhóm laptop mỏng nhẹ vừa mạnh vừa tiết kiệm điện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Chuỗi Ryzen AI 400 gồm nhiều phiên bản để phủ các phân khúc gi�
 Về máy, nhiều hãng lớn đã công bố laptop Ryzen AI 400 ngay từ đầu năm 2026, gồm Acer, Lenovo, HP, ASUS và Gigabyte. AMD cũng có dòng cao cấp hơn là Ryzen AI Max cho nhóm sáng tạo và AI cục bộ nặng, bạn đọc quan tâm có thể xem bài [Ryzen AI Max+ 395 Strix Halo chạy mô hình AI 70B](/articles/amd-ryzen-ai-max-395-strix-halo-mini-pc-ai-70b-2026.html). Với đa số người dùng phổ thông, Ryzen AI 400 đã quá đủ cho công việc văn phòng, học tập, giải trí và các tác vụ AI hằng ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2OEF2qgoQOE/hqdefault.jpg" alt="Laptop AI dung chip AMD Ryzen thiet ke mong nhe pin dai" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2OEF2qgoQOE/maxresdefault.jpg" alt="Laptop AI dung chip AMD Ryzen thiet ke mong nhe pin dai" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều hãng đã đưa chip AMD Ryzen AI lên laptop mỏng nhẹ pin dài. Nguồn: YouTube</figcaption>
 </figure>
 

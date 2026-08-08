@@ -74,7 +74,7 @@ Ngày 22/6/2026, cổ phiếu SK Hynix tăng 5,6%, đẩy vốn hóa công ty l�
 Yếu tố then chốt đưa SK Hynix lên vị trí dẫn đầu là việc công ty này thống lĩnh thị trường chip nhớ băng thông cao HBM, loại linh kiện thiết yếu trong các hệ thống AI hiện đại nhờ khả năng truyền dữ liệu với tốc độ vượt trội so với chip nhớ thông thường. Theo số liệu thị trường, SK Hynix chiếm tới 61% thị phần HBM toàn cầu vào năm 2025, trong khi Samsung chỉ giữ 17% và Micron giữ 21%. Đây là kết quả của một quyết định chiến lược mang tính bước ngoặt mà SK Hynix đưa ra từ nhiều năm trước, khi đặt cược lớn vào HBM trong thời điểm nhiều đối thủ vẫn coi đây là phân khúc thị trường ngách.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/nNd1vd3jZjA/hqdefault.jpg" alt="SK Hynix thong linh thi truong chip nho HBM phuc vu AI" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/nNd1vd3jZjA/maxresdefault.jpg" alt="SK Hynix thong linh thi truong chip nho HBM phuc vu AI" loading="lazy" width="1280" height="720">
   <figcaption>SK Hynix chiếm 61% thị phần chip nhớ HBM toàn cầu, cung cấp cho Nvidia và Google. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Khách hàng lớn của SK Hynix trong lĩnh vực HBM bao gồm Nvidia, hãng 
 Kết quả kinh doanh quý 1/2026 của SK Hynix phản ánh rõ tác động của làn sóng bùng nổ AI. Doanh thu đạt 52,58 nghìn tỷ won, tăng 198% so với cùng kỳ năm trước, trong khi lợi nhuận hoạt động đạt 37,61 nghìn tỷ won, tăng tới 405%. Đáng chú ý, biên lợi nhuận hoạt động của SK Hynix đạt 72%, một con số ấn tượng vượt qua cả Nvidia, công ty vốn được xem là hình mẫu về khả năng sinh lời trong làn sóng AI hiện nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/bX5wsBYoMs8/hqdefault.jpg" alt="SK Hynix loi nhuan tang vot nho dat cuoc vao HBM AI" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/bX5wsBYoMs8/maxresdefault.jpg" alt="SK Hynix loi nhuan tang vot nho dat cuoc vao HBM AI" loading="lazy" width="1280" height="720">
   <figcaption>Ván cờ đặt cược vào HBM giúp SK Hynix đạt lợi nhuận kỷ lục. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Cuộc đua giữa SK Hynix và Samsung trong lĩnh vực chip nhớ HBM không 
 Đối với người tiêu dùng, tình trạng này có thể tiếp tục kéo dài trong ngắn hạn, khi nhu cầu chip nhớ AI vẫn chưa có dấu hiệu hạ nhiệt, dẫn tới hiện tượng [giá laptop tăng tới 30% do khủng hoảng RAM](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html) được nhiều chuyên gia dự báo có thể còn diễn biến phức tạp hơn trong các quý tới, trước khi nguồn cung chip nhớ toàn cầu được cải thiện đáng kể.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FA54baJ4z9U/hqdefault.jpg" alt="Cuoc dua chip nho AI anh huong gia thiet bi tieu dung toan cau" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/FA54baJ4z9U/maxresdefault.jpg" alt="Cuoc dua chip nho AI anh huong gia thiet bi tieu dung toan cau" loading="lazy" width="1280" height="720">
   <figcaption>Khan hiếm chip nhớ AI đang đẩy giá nhiều thiết bị tiêu dùng tăng cao trên toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 

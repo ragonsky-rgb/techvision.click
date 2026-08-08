@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T20:00:00+07:00"
 dateModified: "2026-07-08T20:00:00+07:00"
 deck: "Team Secret Whales, đại diện khu vực LCP, vừa nhận thất bại trước Hanwha Life Esports tại nhánh thắng MSI 2026. Không chỉ thua trận, cách TSW thi đấu thiếu quyết tâm và rời rạc khiến cộng đồng LMHT dấy lên làn sóng chỉ trích dữ dội, đẩy đội tuyển này xuống nhánh thua để đối đầu TES trong trận đấu sinh tử tiếp theo."
-heroImage: "https://i.ytimg.com/vi/c0X3wFJTY4E/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/c0X3wFJTY4E/maxresdefault.jpg"
 heroAlt: "TSW thua HLE tại MSI 2026 bị chỉ trích nặng nề"
 heroCaption: "TSW để thua toàn diện trước HLE tại MSI 2026, phong độ đội hình gây thất vọng lớn. Nguồn: YouTube"
 tldr: "<strong>Team Secret Whales (TSW)</strong>, đại diện khu vực LCP, đã để thua <strong>Hanwha Life Esports (HLE)</strong> tại vòng nhánh thắng <strong>MSI 2026</strong>. Trước trận, HLE được đánh giá vượt trội toàn diện, nhưng cách TSW thất bại mới là điều khiến người hâm mộ thất vọng nhất: ngoại trừ đường trên, các vị trí còn lại bị nhận xét thi đấu thiếu quyết tâm, xử lý rời rạc, không tạo đủ áp lực lên đối thủ. Xạ thủ <strong>Gumayusi</strong> của HLE thoải mái gây sức ép ở đường dưới mà không bị trừng phạt. Sau trận thua, TSW rơi xuống nhánh thua và sẽ phải đối đầu <strong>TES</strong> trong trận đấu sinh tử tiếp theo tại giải."
@@ -74,7 +74,7 @@ Tuy vậy, việc đại diện LCP để thua một đối thủ hàng đầu L
 Một trong những hình ảnh khiến khán giả ngán ngẩm nhất trong trận đấu là việc xạ thủ Gumayusi của HLE thoải mái gây sức ép ở đường dưới mà gần như không gặp phải sự kháng cự đáng kể nào từ phía TSW. Ngay cả khi đội hình LCP tổ chức các pha can thiệp từ đường rừng nhằm hỗ trợ đường dưới, họ vẫn không thể trừng phạt được Gumayusi, thậm chí trong một số tình huống còn bị phản công ngược lại, khiến khoảng cách sức mạnh giữa hai đội càng bị nới rộng theo thời gian trận đấu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/egN2Rc9wFi4/hqdefault.jpg" alt="HLE áp đảo TSW trong ngày thi đấu đầu tiên tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/egN2Rc9wFi4/maxresdefault.jpg" alt="HLE áp đảo TSW trong ngày thi đấu đầu tiên tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>HLE thể hiện sức mạnh vượt trội ngay từ những phút đầu của loạt trận gặp TSW. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Có ý kiến từ giới phân tích cho rằng trong toàn bộ đội hình T
 Điều khiến câu chuyện của TSW trở nên đáng chú ý hơn là sự tương phản giữa hai trạng thái cảm xúc chỉ cách nhau vài ngày thi đấu. Trước khi gặp HLE, TSW từng tạo nên một trong những cột mốc lịch sử của khu vực LCP khi đánh bại Top Esports, đại diện mạnh của khu vực LPL, khiến cộng đồng LMHT bùng nổ vì đây là chiến thắng hiếm hoi của một đội LCP trước đối thủ hàng đầu Trung Quốc. Diễn biến này cũng có phần tương tự câu chuyện [LYON từng tạo bất ngờ khi hạ TSW 3-0 để tiến vào top 4 MSI 2026](/articles/lyon-thang-tsw-3-0-msi-2026-vao-top-4.html), cho thấy giải đấu năm nay liên tục chứng kiến những màn lội ngược dòng cảm xúc khó đoán giữa các đội tuyển.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/tzd1RxdxU1s/hqdefault.jpg" alt="TSW không thể duy trì phong độ sau chiến thắng gây địa chấn trước TES" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tzd1RxdxU1s/maxresdefault.jpg" alt="TSW không thể duy trì phong độ sau chiến thắng gây địa chấn trước TES" loading="lazy" width="1280" height="720">
   <figcaption>Từ vị thế người hùng sau trận thắng TES, TSW nhanh chóng trở thành tâm điểm chỉ trích sau trận thua HLE. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Sự sa sút phong độ đột ngột này khiến nhiều người đặt câu
 Sau thất bại trước HLE, TSW chính thức rơi xuống nhánh thua của MSI 2026 và sẽ phải đối đầu TES, đối thủ mà họ từng đánh bại ở vòng trước, trong một trận đấu mang tính sống còn. Đây sẽ là màn tái đấu đầy kịch tính, khi TES chắc chắn sẽ muốn phục thù sau thất bại bất ngờ trước đó, còn TSW cần phải nhanh chóng lấy lại tinh thần thi đấu nếu không muốn khép lại hành trình MSI 2026 một cách đáng tiếc. Trận đấu tiếp theo của TSW sẽ diễn ra trong bối cảnh giải đấu bước vào giai đoạn nhánh thua đầy khốc liệt, nơi mọi đội tuyển liên quan đều đang thi đấu với tâm thế không còn đường lùi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ZRxYqH2Op_Y/hqdefault.jpg" alt="TSW đối mặt áp lực lớn khi bước vào nhánh thua MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZRxYqH2Op_Y/maxresdefault.jpg" alt="TSW đối mặt áp lực lớn khi bước vào nhánh thua MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>TSW sẽ cần lấy lại phong độ nhanh chóng trước trận đấu sinh tử với TES ở nhánh thua. Nguồn: YouTube</figcaption>
 </figure>
 

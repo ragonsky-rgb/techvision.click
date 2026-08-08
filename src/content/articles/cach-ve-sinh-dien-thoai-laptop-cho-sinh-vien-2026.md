@@ -67,7 +67,7 @@ Với laptop, bụi tích tụ trong khe tản nhiệt và quạt là kẻ thù 
 Bạn không cần mua bộ vệ sinh chuyên dụng đắt tiền. Một bộ cơ bản gồm khăn microfiber loại lau kính mắt, vài cây tăm bông, một cọ mềm nhỏ như cọ trang điểm cũ, một bình khí nén mini và một lọ cồn isopropyl (IPA) pha loãng là đủ xử lý phần lớn nhu cầu. Tổng chi phí rất thấp mà dùng được rất lâu. Điều quan trọng nhất là tránh các thứ dễ gây hại như khăn giấy khô ráp, nước rửa kính, cồn y tế nồng độ cao hay vật kim loại nhọn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/gWwV-g3qWxU/hqdefault.jpg" alt="Dung cu ve sinh cong USB-C dien thoai an toan" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/gWwV-g3qWxU/maxresdefault.jpg" alt="Dung cu ve sinh cong USB-C dien thoai an toan" loading="lazy" width="1280" height="720">
   <figcaption>Cổng USB-C nên được làm sạch bằng cọ mềm hoặc khí nén, không dùng vật nhọn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,14 +90,14 @@ Riêng cổng sạc là nơi cần cẩn thận nhất. Xơ vải và bụi tron
 Với laptop, hãy tắt nguồn và rút sạc trước khi làm. Bàn phím là nơi bám bụi và vụn đồ ăn nhiều nhất, nên lật nghiêng máy rồi xịt khí nén vào các khe phím để thổi vụn ra, sau đó lau mặt phím bằng khăn microfiber hơi ẩm. Màn hình laptop cũng lau như màn điện thoại, bằng khăn mềm ẩm nhẹ và không xịt dung dịch trực tiếp lên tấm nền.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/coKoBcWJkSw/hqdefault.jpg" alt="Cach ve sinh quat tan nhiet laptop an toan khong hu mo to" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/coKoBcWJkSw/maxresdefault.jpg" alt="Cach ve sinh quat tan nhiet laptop an toan khong hu mo to" loading="lazy" width="1280" height="720">
   <figcaption>Khi thổi bụi quạt laptop, nên giữ cánh quạt cố định để bảo vệ mô tơ. Nguồn: YouTube</figcaption>
 </figure>
 
 Quan trọng nhất với laptop là khe tản nhiệt và quạt. Với vệ sinh nhẹ, bạn xịt khí nén vào các khe thoát gió để thổi bụi ra, làm ở nơi thoáng. Khi thổi trực tiếp vào quạt, hãy dùng một cây tăm hoặc que nhựa giữ cánh quạt lại để nó không quay quá nhanh, vì quạt quay vượt tốc có thể làm hỏng mô tơ. Việc tản nhiệt tốt rất quan trọng với hiệu năng, và nếu bạn quan tâm sâu hơn tới làm mát có thể tham khảo [cách chọn tản nhiệt CPU theo tiêu chí](/articles/cach-chon-tan-nhiet-cpu-2026-tieu-chi.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zP0E6gMZtW0/hqdefault.jpg" alt="Huong dan ve sinh laptop toan dien ban phim man hinh quat" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zP0E6gMZtW0/maxresdefault.jpg" alt="Huong dan ve sinh laptop toan dien ban phim man hinh quat" loading="lazy" width="1280" height="720">
   <figcaption>Vệ sinh laptop toàn diện gồm bàn phím, màn hình và hệ thống tản nhiệt. Nguồn: YouTube</figcaption>
 </figure>
 

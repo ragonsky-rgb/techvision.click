@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/build-legacy-index.mjs && node scripts/build-blog.mjs",
+    "prebuild": "node scripts/build-legacy-index.mjs && node scripts/build-blog.mjs && node scripts/build-llms.mjs",
     "build": "astro build",
     "preview": "astro preview"
   },

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T19:20:00+07:00"
 dateModified: "2026-08-03T16:10:00+07:00"
 deck: "Bảng giá iPhone 16 series tại Việt Nam tiếp tục giảm sâu trong tháng 8/2026. iPhone 16e mở bán từ 12,79 triệu đồng, trong khi iPhone 16 Pro Max đời cũ giảm tới 8 triệu đồng so với giá niêm yết ban đầu, biến cả dòng máy hai năm tuổi thành lựa chọn hiệu năng trên giá thành đáng cân nhắc nhất thị trường."
-heroImage: "https://i.ytimg.com/vi/HDHjoKcC2sM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/HDHjoKcC2sM/maxresdefault.jpg"
 heroAlt: "iPhone 16 Pro Max giảm giá mạnh tháng 8 2026 tại Việt Nam"
 heroCaption: "iPhone 16 series giảm giá sâu trong tháng 8/2026, Pro Max giảm đến 8 triệu đồng. Nguồn: YouTube"
 tldr: "Bảng giá <strong>iPhone 16 series</strong> tại Việt Nam trong <strong>tháng 8/2026</strong> ghi nhận mức giảm sâu trên toàn dải sản phẩm. <strong>iPhone 16e</strong> bản 128GB hiện chỉ còn <strong>12,79 triệu đồng</strong>, trong khi <strong>iPhone 16 Pro Max</strong> giảm tới <strong>8 triệu đồng</strong> tại một số hệ thống bán lẻ so với giá niêm yết chính hãng ban đầu (30,79 đến 46,99 triệu đồng tuỳ dung lượng). Thị trường máy cũ cũng giảm mạnh, giúp người mua tiết kiệm thêm 5 đến 7 triệu đồng. Nguyên nhân chính đến từ áp lực cạnh tranh của dòng <strong>iPhone 17</strong> và tâm lý dọn kho trước khi Apple ra mắt thế hệ mới cuối năm."
@@ -78,7 +78,7 @@ Theo cập nhật từ các hệ thống bán lẻ lớn tại Việt Nam, iPhon
 Không chỉ máy mới chính hãng, thị trường iPhone 16 đã qua sử dụng, đặc biệt là dòng Pro và Pro Max, cũng ghi nhận mức giá giảm mạnh. Người mua máy cũ có thể tiết kiệm thêm 5 đến 7 triệu đồng so với giá máy mới cùng cấu hình, trong khi vẫn sở hữu thiết kế cao cấp và cấu hình mạnh mẽ gần như nguyên bản. Đây là lựa chọn được nhiều người dùng có ngân sách hạn chế nhưng vẫn muốn trải nghiệm hệ sinh thái Apple cao cấp cân nhắc nghiêm túc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/On3mzUno05M/hqdefault.jpg" alt="iPhone 16 Pro Max vẫn đáng mua trong năm 2026 nếu lưu ý một số điều" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/On3mzUno05M/maxresdefault.jpg" alt="iPhone 16 Pro Max vẫn đáng mua trong năm 2026 nếu lưu ý một số điều" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều đánh giá cho rằng iPhone 16 Pro Max vẫn là lựa chọn tốt trong năm 2026 nếu biết cách chọn đúng phiên bản. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,14 +89,14 @@ Xu hướng giảm giá sâu ở cả hai phân khúc máy mới và máy cũ ph
 Có hai nguyên nhân chính đứng sau đợt giảm giá này. Thứ nhất, sự xuất hiện của dòng iPhone 17 đang thu hút phần lớn sự quan tâm của người dùng có nhu cầu mua máy mới nhất, khiến các nhà bán lẻ phải điều chỉnh giá iPhone 16 để duy trì sức cạnh tranh và giải phóng hàng tồn kho. Thứ hai, đây cũng là thời điểm các hệ thống bán lẻ thường đẩy mạnh khuyến mãi giữa năm nhằm kích cầu tiêu dùng, trước khi bước vào giai đoạn chuẩn bị cho các đợt ra mắt sản phẩm mới vào cuối năm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/fy-HLi8dJV4/hqdefault.jpg" alt="Đánh giá iPhone 16 Pro Max sau một năm sử dụng còn làm được gì trong 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/fy-HLi8dJV4/maxresdefault.jpg" alt="Đánh giá iPhone 16 Pro Max sau một năm sử dụng còn làm được gì trong 2026" loading="lazy" width="1280" height="720">
   <figcaption>Sau một năm sử dụng, iPhone 16 Pro Max vẫn giữ được hiệu năng ổn định cho phần lớn nhu cầu người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
 Diễn biến này cũng diễn ra trong bối cảnh Apple đang [nâng đơn hàng sản xuất iPhone Ultra gập lên tới 10 triệu máy](/articles/apple-iphone-ultra-gap-nang-don-hang-10-trieu-may-2026.html), cho thấy hãng đang dồn nguồn lực và sự chú ý của thị trường vào các dòng sản phẩm mới, tạo thêm động lực để các dòng máy cũ hơn như iPhone 16 giảm giá nhằm duy trì sức hút. Trong khi đó, ở đầu bên kia của dải sản phẩm, [iPhone 18 lại đang đối mặt với áp lực tăng giá vì chi phí bộ nhớ và các tính năng Apple Intelligence](/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html), khiến khoảng cách giá trị giữa các thế hệ iPhone ngày càng rõ rệt hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/bPkenYE4qzw/hqdefault.jpg" alt="Đánh giá thực tế iPhone 16 Pro Max sau một tháng sử dụng tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bPkenYE4qzw/maxresdefault.jpg" alt="Đánh giá thực tế iPhone 16 Pro Max sau một tháng sử dụng tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều reviewer trong nước đã có đánh giá chi tiết về trải nghiệm thực tế của iPhone 16 Pro Max sau thời gian dài sử dụng. Nguồn: YouTube</figcaption>
 </figure>
 

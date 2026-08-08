@@ -64,7 +64,7 @@ Thông tin được bàn nhiều nhất là con chip. Các rò rỉ, bao gồm �
 Câu hỏi lớn với người dùng là Exynos 2500 mạnh tới đâu trong thực tế. Với một chiếc điện thoại tầm giá này, hiệu năng chip thường đã dư sức cho tác vụ hằng ngày như mạng xã hội, xem video, chụp ảnh và chơi game phổ thông. Khác biệt so với flagship chủ yếu lộ ra ở các tình huống nặng như chơi game đồ họa cao liên tục hay xử lý AI phức tạp. Nếu bạn không thuộc nhóm dùng cực đoan, chip này nhiều khả năng đáp ứng tốt nhu cầu. Muốn so sánh với bản cao nhất, bạn có thể xem cấu hình [Galaxy S26 Ultra với Snapdragon 8 Elite Gen 5](/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xJMqqlFap00/hqdefault.jpg" alt="Galaxy S26 FE thiet ke lay cam hung tu flagship theo tin don" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xJMqqlFap00/maxresdefault.jpg" alt="Galaxy S26 FE thiet ke lay cam hung tu flagship theo tin don" loading="lazy" width="1280" height="720">
   <figcaption>Tin đồn cho thấy Galaxy S26 FE có thiết kế lấy cảm hứng từ bản flagship. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Về hiển thị, Galaxy S26 FE được đồn trang bị màn hình 6,7 inch 
 Về năng lượng, các nguồn đồn đoán pin khoảng 5.100mAh, nhỉnh hơn một chút so với thế hệ trước, đi kèm sạc có dây 45W và sạc không dây 15W. Nếu chính xác, đây là nâng cấp đáng giá vì thời lượng pin và tốc độ sạc là hai yếu tố ảnh hưởng trực tiếp tới trải nghiệm. Ngoài ra, hình ảnh rò rỉ cho thấy cụm camera được làm lại và thiết kế tổng thể lấy cảm hứng từ dòng flagship, giúp máy trông cao cấp hơn ấn tượng thường thấy ở dòng giá mềm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DHt89s_0rRY/hqdefault.jpg" alt="Galaxy S26 FE man hinh lon va pin nang cap theo ro ri 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DHt89s_0rRY/maxresdefault.jpg" alt="Galaxy S26 FE man hinh lon va pin nang cap theo ro ri 2026" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình lớn và pin nâng cấp là hai điểm được kỳ vọng trên Galaxy S26 FE. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Về nhiếp ảnh, tin đồn cho thấy Galaxy S26 FE giữ cấu trúc camera
 Ở tầm giá quanh 650 USD theo dự đoán, Galaxy S26 FE nhắm tới nhóm người dùng muốn trải nghiệm gần flagship của Samsung nhưng không cần cấu hình mạnh nhất và ngại mức giá cao của bản Ultra. Với màn hình lớn mượt, pin khá, camera đủ dùng và đặc biệt là cam kết cập nhật phần mềm dài hạn, đây là công thức đã giúp dòng FE thành công qua nhiều thế hệ. Nếu đúng như tin đồn, máy sẽ là lựa chọn hấp dẫn cho người cần một chiếc điện thoại Samsung cân bằng và bền về phần mềm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TaGtoxTVgG0/hqdefault.jpg" alt="Tong hop tin don thong so va tinh nang Samsung Galaxy S26 FE 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TaGtoxTVgG0/maxresdefault.jpg" alt="Tong hop tin don thong so va tinh nang Samsung Galaxy S26 FE 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều rò rỉ về cấu hình Galaxy S26 FE xuất hiện trước ngày ra mắt dự kiến. Nguồn: YouTube</figcaption>
 </figure>
 

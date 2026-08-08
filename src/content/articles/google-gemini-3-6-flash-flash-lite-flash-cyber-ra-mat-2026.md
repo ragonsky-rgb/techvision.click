@@ -63,7 +63,7 @@ Ngôi sao của đợt ra mắt là Gemini 3.6 Flash, bản kế nhiệm dòng F
 Việc Google chọn nâng cấp Flash trước, thay vì bản Pro cao cấp, phản ánh một thực tế của ngành: phần lớn lượt gọi AI hằng ngày không cần tới mô hình mạnh nhất. Một chatbot chăm sóc khách hàng, một trợ lý soạn email hay một công cụ dịch thuật cần tốc độ và chi phí hợp lý hơn là điểm benchmark cao nhất. Bằng cách làm bản Flash nhanh và rẻ hơn, Google giữ được lợi thế ở nơi phát sinh khối lượng truy vấn lớn nhất. Cách tiếp cận này nối tiếp định hướng đã thấy khi hãng đưa [Gemini 3 Flash lên làm mô hình mặc định](/articles/google-gemini-3-flash-mo-hinh-ai-mac-dinh-nhanh-tiet-kiem-2026.html) cho đại đa số tác vụ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/GGhewrAuEvY/hqdefault.jpg" alt="Danh gia thu nghiem Gemini 3.6 Flash tren nhieu tac vu thuc te 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GGhewrAuEvY/maxresdefault.jpg" alt="Danh gia thu nghiem Gemini 3.6 Flash tren nhieu tac vu thuc te 2026" loading="lazy" width="1280" height="720">
   <figcaption>Gemini 3.6 Flash được thử nghiệm trên nhiều tác vụ thực tế như nhận diện ảnh, tạo tài liệu và lập trình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Bên cạnh bản chủ lực, Gemini 3.5 Flash-Lite là phiên bản nhẹ nh�
 Đây là mảnh ghép quan trọng trong xu hướng agentic AI, khi các hãng không chỉ bán mô hình trả lời câu hỏi mà bán khả năng tự thực thi chuỗi tác vụ. Một tác nhân tốt cần nhiều lần gọi mô hình, nên nếu mỗi lần gọi đều dùng bản cao cấp đắt đỏ thì chi phí vận hành sẽ đội lên nhanh chóng. Flash-Lite giải quyết bài toán này bằng cách hạ giá thành cho các bước lặp, để lại ngân sách cho những bước thật sự cần suy luận sâu. Với doanh nghiệp Việt đang thử nghiệm tự động hóa quy trình bằng AI, một mô hình nhẹ và rẻ có thể là yếu tố quyết định bài toán có khả thi về chi phí hay không.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7bz2CPsYm5k/hqdefault.jpg" alt="Gemini 3.6 Flash toi uu toc do va chi phi cho tac nhan AI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7bz2CPsYm5k/maxresdefault.jpg" alt="Gemini 3.6 Flash toi uu toc do va chi phi cho tac nhan AI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhóm mô hình Flash hướng tới tốc độ cao và chi phí thấp, phù hợp trợ lý và tác nhân AI chạy nền. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Bên cạnh bản chủ lực, Gemini 3.5 Flash-Lite là phiên bản nhẹ nh�
 Sự xuất hiện của một mô hình chuyên ngành như Flash Cyber cho thấy cuộc đua AI đang bước sang giai đoạn phân hóa. Sau khi các mô hình đa dụng đạt tới ngưỡng đủ tốt cho nhu cầu chung, giá trị tiếp theo nằm ở các bản được huấn luyện sâu cho từng lĩnh vực cụ thể như bảo mật, y tế hay tài chính. Với an ninh mạng, một mô hình biết đọc mã và gợi ý bản vá có thể rút ngắn đáng kể thời gian phản ứng trước lỗ hổng, điều mà mọi doanh nghiệp vận hành hệ thống số đều quan tâm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jpCfUB0W6Gg/hqdefault.jpg" alt="Gemini 3.5 Flash Cyber mo hinh AI chuyen ve an ninh mang va va lo hong" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jpCfUB0W6Gg/sddefault.jpg" alt="Gemini 3.5 Flash Cyber mo hinh AI chuyen ve an ninh mang va va lo hong" loading="lazy" width="640" height="480">
   <figcaption>Flash Cyber đại diện cho hướng đi mô hình AI chuyên ngành, tập trung vào bảo mật. Nguồn: YouTube</figcaption>
 </figure>
 

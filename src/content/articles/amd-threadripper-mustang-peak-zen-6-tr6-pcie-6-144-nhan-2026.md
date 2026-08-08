@@ -58,7 +58,7 @@ Giữa tháng 6/2026, cộng đồng phần cứng phát hiện AMD đã âm th�
 Theo tài liệu, Mustang Peak dựa trên kiến trúc nhân Zen 6, được sản xuất trên tiến trình 2nm tiên tiến của TSMC. Tiến trình nhỏ hơn cho phép nhồi nhiều bóng bán dẫn hơn vào cùng diện tích, đồng thời cải thiện hiệu quả năng lượng, hai yếu tố then chốt với các vi xử lý số nhân lớn vốn phải cân bằng giữa sức mạnh và nhiệt lượng tỏa ra. Đây cũng là nền tảng nhân chung với dòng Ryzen thế hệ mới, độc giả quan tâm có thể đọc thêm về [kiến trúc AMD Zen 6 với tiến trình 2nm và nâng cấp AI](/articles/amd-zen-6-ryzen-2026-tien-trinh-2nm-24-nhan-ai-nang-cap.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/UgGPl3SizgQ/hqdefault.jpg" alt="AMD Zen 6 kien truc nhan tien trinh 2nm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/UgGPl3SizgQ/maxresdefault.jpg" alt="AMD Zen 6 kien truc nhan tien trinh 2nm" loading="lazy" width="1280" height="720">
   <figcaption>Kiến trúc Zen 6 trên tiến trình 2nm là nền tảng cho cả Ryzen thế hệ mới lẫn Threadripper Mustang Peak. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Con số gây chú ý nhất chính là số nhân. Kiến trúc Zen 6 được 
 Với khối lượng công việc đa nhân như kết xuất video, biên dịch mã nguồn lớn, mô phỏng vật lý hay dựng cảnh 3D phức tạp, số nhân càng nhiều thì thời gian hoàn thành càng ngắn, giúp tiết kiệm chi phí vận hành đáng kể cho các studio và doanh nghiệp. Tuy nhiên cần nhấn mạnh rằng con số 144 nhân là mức trần lý thuyết dựa trên rò rỉ, còn cấu hình thương mại thực tế mà AMD tung ra có thể được chia thành nhiều phân khúc với số nhân khác nhau, tương tự cách hãng phân cấp các dòng Threadripper hiện tại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/degS2lg5eGw/hqdefault.jpg" alt="AMD Threadripper vi xu ly da nhan may tram hieu nang cao" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/degS2lg5eGw/maxresdefault.jpg" alt="AMD Threadripper vi xu ly da nhan may tram hieu nang cao" loading="lazy" width="1280" height="720">
   <figcaption>Threadripper hướng tới giới sáng tạo chuyên nghiệp cần sức mạnh đa nhân vượt trội. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Cùng với nhân mới, Mustang Peak chuyển sang socket TR6 hoàn toàn mới
 Về thời điểm ra mắt, tài liệu của AMD không nêu ngày cụ thể, dấu hiệu cho thấy sản phẩm vẫn còn cách thời điểm bán ra khá xa. Giới quan sát dự đoán Threadripper Mustang Peak sớm nhất cũng phải tới giữa hoặc cuối năm 2027 mới xuất hiện, phù hợp với lộ trình chung của kiến trúc Zen 6. Điều này có nghĩa những ai đang cần một máy trạm ngay lúc này vẫn nên cân nhắc các dòng Threadripper hiện hành thay vì chờ đợi quá lâu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/tbPXbfX_6Hc/hqdefault.jpg" alt="AMD Ryzen vi xu ly hieu nang cao lo trinh san pham" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tbPXbfX_6Hc/maxresdefault.jpg" alt="AMD Ryzen vi xu ly hieu nang cao lo trinh san pham" loading="lazy" width="1280" height="720">
   <figcaption>Việc sớm hé lộ Mustang Peak cho thấy AMD tiếp tục đầu tư mạnh vào phân khúc vi xử lý hiệu năng cao. Nguồn: YouTube</figcaption>
 </figure>
 

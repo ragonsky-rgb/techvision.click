@@ -71,7 +71,7 @@ Thị trường laptop Việt Nam tháng 8/2026 tiếp tục có nhiều lựa c
 Một lựa chọn khác trong nhóm cao cấp là ASUS Zenbook Duo, mẫu laptop hai màn hình OLED độc đáo phù hợp người dùng cần không gian hiển thị lớn khi di chuyển, ví dụ vừa xem tài liệu vừa làm việc trên bảng tính mà không cần màn hình ngoài. Máy sử dụng chip Intel Core Ultra thế hệ mới, kết hợp pin dung lượng lớn và màn hình sáng hơn so với thế hệ trước, dù mức giá vẫn thuộc nhóm cao trong phân khúc laptop tiêu dùng. Với người dùng quan tâm tới nền tảng chip ARM tiết kiệm điện, [laptop Snapdragon X2 Elite với NPU 80 TOPS](/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html) cũng là một hướng lựa chọn đáng cân nhắc song song trong nhóm cao cấp này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/QQC6SgyI1Q4/hqdefault.jpg" alt="ASUS Zenbook Duo 2026 hai man hinh OLED" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/QQC6SgyI1Q4/maxresdefault.jpg" alt="ASUS Zenbook Duo 2026 hai man hinh OLED" loading="lazy" width="1280" height="720">
   <figcaption>ASUS Zenbook Duo với thiết kế hai màn hình OLED độc đáo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Một lựa chọn khác trong nhóm cao cấp là ASUS Zenbook Duo, mẫu lapto
 Phân khúc tầm trung tháng 8/2026 có ASUS Zenbook 14 (2026) là cái tên đáng chú ý nhất, giữ được vóc dáng mỏng nhẹ quen thuộc của dòng Zenbook cùng màn hình chất lượng cao, phù hợp người dùng văn phòng cần một chiếc máy gọn gàng để mang theo hàng ngày. Tuy nhiên, theo nhiều bài đánh giá, mức giá của Zenbook 14 thế hệ này đã nhích lên đáng kể so với phiên bản tiền nhiệm, một phần do ảnh hưởng từ chi phí linh kiện RAM và bộ nhớ tăng cao trên toàn ngành.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/74zDxYQXqkE/hqdefault.jpg" alt="ASUS Zenbook 14 2026 laptop tam trung" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/74zDxYQXqkE/maxresdefault.jpg" alt="ASUS Zenbook 14 2026 laptop tam trung" loading="lazy" width="1280" height="720">
   <figcaption>ASUS Zenbook 14 (2026), lựa chọn tầm trung cân bằng giữa thiết kế và hiệu năng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Với người dùng tầm trung quan tâm tới việc duy trì hiệu năng v�
 Ở phân khúc giá rẻ, Acer tiếp tục là thương hiệu được sinh viên ưa chuộng nhất nhờ mức giá hợp lý và hiệu suất ổn định. Acer Aspire 3 và Aspire Go 15 trang bị chip Intel Core i3-N305 8 lõi, tiêu thụ điện năng thấp, đủ đáp ứng tốt các nhu cầu cơ bản như soạn thảo văn bản, học trực tuyến, lướt web và xem phim giải trí, mà không gây cảm giác chậm hay nóng máy quá mức khi sử dụng liên tục trong thời gian dài.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/RhglbboRffg/hqdefault.jpg" alt="Acer Aspire Go 15 i3-N305 laptop gia re sinh vien" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/RhglbboRffg/maxresdefault.jpg" alt="Acer Aspire Go 15 i3-N305 laptop gia re sinh vien" loading="lazy" width="1280" height="720">
   <figcaption>Acer Aspire Go 15 với chip Intel Core i3-N305 tiết kiệm điện, phù hợp sinh viên. Nguồn: YouTube</figcaption>
 </figure>
 

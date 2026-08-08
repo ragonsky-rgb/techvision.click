@@ -67,7 +67,7 @@ OpenClaw được mô tả như một hệ điều hành dành cho tác nhân AI
 Khác biệt lớn nhất so với chatbot thông thường là OpenClaw hướng tới việc thực thi tác vụ thực tế, không chỉ đưa ra câu trả lời bằng văn bản. Khi nhận một yêu cầu, nó có thể lập kế hoạch, gọi các công cụ được cấu hình sẵn và tự hoàn thành công việc, sau đó báo lại kết quả. Chính khả năng chủ động hành động này khiến OpenClaw được xếp vào nhóm tác nhân AI tự hành, một hướng đi đang rất được quan tâm trong năm 2026.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/BoC5MY_7aDk/hqdefault.jpg" alt="OpenClaw tac nhan AI tu hanh ket noi ung dung nhan tin" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BoC5MY_7aDk/maxresdefault.jpg" alt="OpenClaw tac nhan AI tu hanh ket noi ung dung nhan tin" loading="lazy" width="1280" height="720">
   <figcaption>OpenClaw nhận lệnh qua ứng dụng nhắn tin rồi tự thực thi công việc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Khác biệt lớn nhất so với chatbot thông thường là OpenClaw hướn
 Cách tách bạch này giúp OpenClaw linh hoạt, vì người dùng có thể gắn nó với các mô hình khác nhau tùy nhu cầu và ngân sách, thay vì bị khóa vào một nhà cung cấp duy nhất. Nó cũng cho thấy một xu hướng chung trong lĩnh vực AI agent, nơi mô hình ngôn ngữ đóng vai trò bộ não suy nghĩ, còn phần khung xung quanh lo trí nhớ, công cụ và kết nối với thế giới thực. Nếu muốn hiểu sâu hơn về cách các tác nhân AI tự động hóa công việc trên máy tính, bạn có thể tham khảo bài về [AI agent tự động hóa máy tính với CrewAI và AutoGen](/articles/ai-agent-tu-dong-hoa-may-tinh-crewai-autogen-huong-dan-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/hYeaqOt2q9k/hqdefault.jpg" alt="Cach OpenClaw dieu phoi mo hinh AI va thuc thi cong cu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hYeaqOt2q9k/maxresdefault.jpg" alt="Cach OpenClaw dieu phoi mo hinh AI va thuc thi cong cu" loading="lazy" width="1280" height="720">
   <figcaption>OpenClaw là lớp điều phối, còn mô hình AI bên ngoài đảm nhận phần suy luận. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ OpenClaw không xuất hiện trong một đêm mà trải qua vài lần đổi
 Câu chuyện của OpenClaw cũng phản ánh cách nhiều công cụ AI hiện đại ra đời, từ một ý tưởng cá nhân được chia sẻ mở, rồi lớn lên nhờ cộng đồng đóng góp. Đây là mô hình đã thấy ở nhiều xu hướng khác trong năm, từ vibe coding tới trợ lý AI cho công việc hằng ngày. Nếu bạn quan tâm cách AI đang len lỏi vào lập trình và công cụ làm việc, bài về [vibe coding là gì](/articles/vibe-coding-la-gi-2026.html) sẽ bổ sung thêm góc nhìn về xu hướng này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/UrPuSAFd_Ss/hqdefault.jpg" alt="Nguon goc OpenClaw tu Clawdbot Moltbot den ten hien tai" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/UrPuSAFd_Ss/maxresdefault.jpg" alt="Nguon goc OpenClaw tu Clawdbot Moltbot den ten hien tai" loading="lazy" width="1280" height="720">
   <figcaption>OpenClaw trải qua vài lần đổi tên trước khi trở thành hiện tượng mã nguồn mở. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -76,7 +76,7 @@ Về phần cứng, cả Galaxy Watch 9 và Ultra 2 đều chuyển sang nền t
 Màn hình cũng là điểm được cải thiện rõ khi Samsung trang bị tấm nền sáng nhất từ trước tới nay trên dòng Galaxy Watch, với độ sáng tối đa lên tới 3.000 nit. Mức sáng này giúp người dùng đọc thông tin dễ dàng ngay dưới nắng gắt, một tình huống phổ biến ở Việt Nam. Galaxy Watch 9 giữ hai kích cỡ 40mm và 44mm với dung lượng lưu trữ 32GB, phù hợp lưu nhạc và ứng dụng ngay trên đồng hồ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/5vrav2DEvqU/hqdefault.jpg" alt="Galaxy Watch Ultra 2 thiet ke ben bi the thao" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5vrav2DEvqU/maxresdefault.jpg" alt="Galaxy Watch Ultra 2 thiet ke ben bi the thao" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Watch Ultra 2 hướng tới người tập luyện chuyên sâu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Sức khỏe tiếp tục là trọng tâm mà Samsung đầu tư mạnh cho th�
 Hướng đi này nối tiếp chiến lược biến đồng hồ thành trợ lý sức khỏe chủ động mà Samsung đã theo đuổi, như chúng tôi phân tích trong bài về [Samsung Health nâng cấp AI trên Galaxy Watch](/articles/samsung-health-ai-2026-galaxy-watch-tro-ly-suc-khoe-chu-dong.html). Điểm khác biệt của thế hệ 2026 là mức độ chủ động cao hơn, khi đồng hồ không chỉ ghi nhận mà còn nhắc nhở người dùng về các bất thường tiềm ẩn. Với người lớn tuổi hoặc người có nguy cơ tim mạch, đây là những tính năng có giá trị thực tế, dù không thay thế được chẩn đoán y khoa.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/nF0O7v2QuVY/hqdefault.jpg" alt="So sanh Galaxy Watch Ultra 2 va Galaxy Watch 9" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nF0O7v2QuVY/maxresdefault.jpg" alt="So sanh Galaxy Watch Ultra 2 va Galaxy Watch 9" loading="lazy" width="1280" height="720">
   <figcaption>So sánh Galaxy Watch Ultra 2 và Galaxy Watch 9 về tính năng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Việc chọn giữa hai mẫu phụ thuộc chủ yếu vào nhu cầu và ngâ
 Galaxy Watch Ultra 2 ở mức 18,99 triệu đồng lại nhắm tới nhóm người dùng khắt khe hơn, ưu tiên độ bền, pin lâu và các bài tập chuyên sâu ngoài trời. Nếu bạn thường xuyên chạy đường dài, bơi hay leo núi, thiết kế cứng cáp và GPS chính xác của Ultra 2 đáng để cân nhắc. Sự kiện Unpacked lần này còn giới thiệu nhiều sản phẩm khác trong hệ sinh thái Galaxy, bạn có thể xem thêm tổng hợp tại bài [Galaxy Unpacked 22/7 với Z Fold 8, Z Flip 8 và Galaxy Glasses](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html) để hình dung bức tranh đầy đủ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/69gjljZGGGw/hqdefault.jpg" alt="Galaxy Watch Ultra 2 trai nghiem thuc te ngoai troi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/69gjljZGGGw/maxresdefault.jpg" alt="Galaxy Watch Ultra 2 trai nghiem thuc te ngoai troi" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Watch Ultra 2 phù hợp hoạt động ngoài trời cường độ cao. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -66,7 +66,7 @@ Sau nhiều tuần đồn đoán, Riot Games đã công bố đầy đủ khung 
 Đỉnh cao của giải là trận chung kết tổng, được tổ chức tại Barclays Center ở khu Brooklyn của New York vào ngày 14/11. Đây là nhà thi đấu quen thuộc với các trận bóng rổ NBA và nhiều buổi hòa nhạc lớn, có sức chứa hàng chục nghìn khán giả, hứa hẹn một sân khấu hoành tráng cho trận đấu khép lại mùa giải. Việc Worlds trở lại Bắc Mỹ với hành trình đa thành phố cho thấy Riot Games muốn tái hiện quy mô của những kỳ Worlds đáng nhớ tại Mỹ trước đây, đồng thời đưa sự kiện tới gần nhiều nhóm khán giả khác nhau.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XKjQ2XVjsOs/hqdefault.jpg" alt="San khau chung ket the gioi Lien Minh Huyen Thoai quy mo lon" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XKjQ2XVjsOs/maxresdefault.jpg" alt="San khau chung ket the gioi Lien Minh Huyen Thoai quy mo lon" loading="lazy" width="1280" height="720">
   <figcaption>Không khí một trận chung kết Liên Minh Huyền Thoại tầm cỡ quốc tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Worlds 2026 quy tụ 19 đội, con số cao nhất trong lịch sử giải, t�
 Bên cạnh các suất theo khu vực, giải còn dành một suất cho nhà vô địch MSI 2026 và một suất bổ sung theo cơ chế thưởng cho khu vực có đội á quân MSI. Cấu trúc này vừa đảm bảo mỗi khu vực lớn đều có đại diện xứng đáng, vừa tạo động lực để các đội thi đấu tốt ở giải giữa mùa. Với thể thức Thụy Sĩ ở vòng chính, mỗi đội sẽ đấu nhiều trận với các đối thủ cùng thành tích, giảm bớt yếu tố may rủi của việc bốc thăm chia bảng như thể thức cũ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Hp554z2LseU/hqdefault.jpg" alt="Cac tuyen thu Lien Minh Huyen Thoai thi dau tren san khau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Hp554z2LseU/maxresdefault.jpg" alt="Cac tuyen thu Lien Minh Huyen Thoai thi dau tren san khau" loading="lazy" width="1280" height="720">
   <figcaption>Thể thức Thụy Sĩ giúp các đội mạnh có nhiều cơ hội sửa sai hơn thể thức chia bảng cũ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Việc đưa Worlds 2026 về Mỹ, và trải qua ba thành phố, là một t�
 Cách chia giải qua ba thành phố cũng cho phép mỗi giai đoạn có một không gian phù hợp. Vòng khởi động diễn ra ở địa điểm nhỏ gọn tại Los Angeles, vòng chính ở một nhà thi đấu tầm trung tại Texas, còn trận chung kết được dành cho sân khấu lớn nhất ở New York. Đáng chú ý, trong khi Worlds đặt ở Mỹ thì giải giữa mùa MSI 2026 lại tổ chức tại Daejeon của Hàn Quốc, cho thấy chiến lược phân bổ các sự kiện quốc tế tới nhiều châu lục khác nhau trong cùng một năm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/koyhMwfXcsc/hqdefault.jpg" alt="Khan gia theo doi tran dau Lien Minh Huyen Thoai tai nha thi dau" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/koyhMwfXcsc/maxresdefault.jpg" alt="Khan gia theo doi tran dau Lien Minh Huyen Thoai tai nha thi dau" loading="lazy" width="1280" height="720">
   <figcaption>Nhà thi đấu quy mô lớn là một lý do Worlds thường chọn các thành phố lớn của Mỹ. Nguồn: YouTube</figcaption>
 </figure>
 

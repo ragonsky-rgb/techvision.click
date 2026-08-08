@@ -64,7 +64,7 @@ Về con số, Opus 5 tính 5 USD cho mỗi triệu token đầu vào và 25 USD
 Với các đội ngũ đang xây dựng sản phẩm dựa trên API, đây là kiểu thay đổi ảnh hưởng trực tiếp tới bài toán vận hành. Một tính năng trước đây phải dùng mô hình đắt tiền mới đạt chất lượng chấp nhận được thì nay có thể chuyển sang Opus 5 và cắt gần một nửa hóa đơn. Anthropic còn cho biết chi phí có thể giảm thêm tới 90% nhờ bộ nhớ đệm prompt và khoảng 50% khi xử lý theo lô, hai kỹ thuật khá phổ biến trong triển khai thực tế.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/4bTs-QWy5zs/hqdefault.jpg" alt="Chien luoc gia canh tranh cua cac mo hinh AI nam 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4bTs-QWy5zs/maxresdefault.jpg" alt="Chien luoc gia canh tranh cua cac mo hinh AI nam 2026" loading="lazy" width="1280" height="720">
   <figcaption>Chiến lược giá cạnh tranh đang là yếu tố quyết định lựa chọn mô hình của nhà phát triển. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Opus 5 có cửa sổ ngữ cảnh 1 triệu token, tương đương hàng nghì
 Chi tiết ít được nhắc tới là 1 triệu token vừa là mức mặc định vừa là mức tối đa, không có phiên bản ngữ cảnh nhỏ hơn với giá rẻ hơn để chọn. Cách đóng gói này đơn giản hóa việc lựa chọn nhưng cũng đồng nghĩa người dùng không thể tối ưu chi phí bằng cách hạ ngữ cảnh xuống. Giới hạn đầu ra là 128 nghìn token, đủ cho hầu hết nhu cầu sinh nội dung dài trong một lần gọi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/bZeOVDX2jHw/hqdefault.jpg" alt="Nha phat trien thu nghiem kha nang lap trinh cua mo hinh AI moi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/bZeOVDX2jHw/maxresdefault.jpg" alt="Nha phat trien thu nghiem kha nang lap trinh cua mo hinh AI moi" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều nhà phát triển thử nghiệm khả năng lập trình của mô hình ngay khi được mở quyền truy cập. Nguồn: YouTube</figcaption>
 </figure>
 

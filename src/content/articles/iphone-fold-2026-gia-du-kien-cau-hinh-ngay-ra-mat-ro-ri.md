@@ -65,7 +65,7 @@ Theo các nguồn tin, iPhone Fold dùng kiểu gập sách, mở ra thành mộ
 Điểm được chờ đợi nhất nằm ở tấm nền. Samsung Display được cho là đã giành hợp đồng độc quyền ba năm để cung cấp màn hình gập cho Apple, với cơ cấu bản lề và cách xếp lớp mới được tinh chỉnh nhằm triệt tiêu nếp gấp nhìn thấy được. Nếp gấp là nhược điểm cố hữu khiến nhiều người còn e dè với điện thoại gập, nên nếu Apple thật sự làm mờ được nó, đây sẽ là lợi thế marketing rất lớn.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/i2kck04-21A/hqdefault.jpg" alt="Mô hình iPhone Fold ở trạng thái mở, cho thấy bản lề và màn hình gập kiểu sách" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/i2kck04-21A/maxresdefault.jpg" alt="Mô hình iPhone Fold ở trạng thái mở, cho thấy bản lề và màn hình gập kiểu sách" loading="lazy" width="1280" height="720">
   <figcaption>Mô hình iPhone Fold cho thấy bố cục gập kiểu sách, mở ra thành màn hình lớn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Rò rỉ cho biết màn trong của iPhone Fold có kích thước khoảng 7,8
 Về sức mạnh, máy được cho là dùng chip A20 Pro, thế hệ vi xử lý cao cấp nhất của Apple trong năm, đủ sức gánh các tác vụ nặng và bộ tính năng trí tuệ nhân tạo Apple Intelligence. Cấu hình mạnh là điều kiện cần để tận dụng màn hình lớn, nhất là khi Apple muốn người dùng làm việc thực sự trên thiết bị gập chứ không chỉ xem nội dung.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/yNhZ49uwRJw/hqdefault.jpg" alt="iPhone Fold dummy so sánh kích thước với iPhone thẳng thông thường" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/yNhZ49uwRJw/maxresdefault.jpg" alt="iPhone Fold dummy so sánh kích thước với iPhone thẳng thông thường" loading="lazy" width="1280" height="720">
   <figcaption>iPhone Fold khi gập có kích thước gần một chiếc iPhone thường, mở ra thành màn lớn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Với người dùng Việt vốn quen mở khóa bằng khuôn mặt trên iPho
 Về giá, các nguồn tin gần đây đặt mức khởi điểm quanh 1.999 USD, mỗi bậc dung lượng cao hơn cộng thêm khoảng 200 USD, đưa bản 512GB lên khoảng 2.199 USD và bản 1TB lên khoảng 2.399 USD. Nếu chính xác, iPhone Fold sẽ là chiếc iPhone đắt nhất từ trước tới nay, phản ánh chi phí cao của tấm nền gập và cơ cấu bản lề mới. Mức giá này đặt máy vào nhóm siêu cao cấp, cạnh tranh trực tiếp với các bản Fold Ultra của Samsung.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/vNRl-STFcR8/hqdefault.jpg" alt="Rò rỉ thiết kế và giá iPhone Fold trước ngày ra mắt tháng 9" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/vNRl-STFcR8/maxresdefault.jpg" alt="Rò rỉ thiết kế và giá iPhone Fold trước ngày ra mắt tháng 9" loading="lazy" width="1280" height="720">
   <figcaption>Giá khởi điểm iPhone Fold được đồn quanh 1.999 USD, mỗi bậc dung lượng cộng thêm khoảng 200 USD. Nguồn: YouTube</figcaption>
 </figure>
 

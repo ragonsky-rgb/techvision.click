@@ -62,7 +62,7 @@ LG vừa chính thức trình làng UltraGear GX7, màn hình gaming OLED mới 
 Theo công bố từ LG, UltraGear GX7 sử dụng cơ chế Dual Mode cho phép người dùng chuyển đổi linh hoạt giữa hai chế độ hiển thị. Ở độ phân giải HD, màn hình có thể đạt tốc độ làm tươi tối đa 720Hz, phù hợp với các tựa game eSports tốc độ cao như bắn súng góc nhìn thứ nhất, nơi từng phần nghìn giây phản xạ đều có ý nghĩa. Khi chuyển sang độ phân giải QHD (2560x1440), tốc độ làm tươi giảm xuống còn 540Hz nhưng vẫn vượt xa hầu hết màn hình gaming OLED hiện có trên thị trường, đồng thời mang lại hình ảnh sắc nét hơn cho các tác vụ đa dụng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SfQDB1ZxHZY/hqdefault.jpg" alt="LG UltraGear GX7 720Hz Dual Mode man hinh OLED gaming" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/SfQDB1ZxHZY/maxresdefault.jpg" alt="LG UltraGear GX7 720Hz Dual Mode man hinh OLED gaming" loading="lazy" width="1280" height="720">
   <figcaption>LG UltraGear GX7 đạt tốc độ làm tươi 720Hz tại độ phân giải HD nhờ Dual Mode. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Thời gian phản hồi 0,02ms (gray-to-gray) cũng là một con số đáng c
 Công nghệ RGB Tandem 2.0 thế hệ thứ 4 là yếu tố cốt lõi giúp UltraGear GX7 vừa đạt tốc độ làm tươi cực cao, vừa duy trì được độ sáng và độ chính xác màu sắc tốt. Cấu trúc tấm nền xếp chồng nhiều lớp phát sáng giúp tăng cường độ sáng tổng thể lên 335 nit ở chế độ tiêu chuẩn, trong khi vẫn giữ được mức đen sâu đặc trưng của công nghệ OLED, đạt chứng nhận DisplayHDR True Black 500 từ VESA.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/aSlO08lT_yI/hqdefault.jpg" alt="LG UltraGear GX7 27GX790 unboxing man hinh OLED" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/aSlO08lT_yI/maxresdefault.jpg" alt="LG UltraGear GX7 27GX790 unboxing man hinh OLED" loading="lazy" width="1280" height="720">
   <figcaption>Bên trong hộp LG UltraGear dòng GX7/27GX790 với thiết kế viền mỏng bốn cạnh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ LG định giá UltraGear GX7 ở mức 999 USD cho bản tiêu chuẩn, đặt 
 Với phần lớn người chơi game giải trí thông thường, sự khác biệt giữa tốc độ làm tươi 240Hz và 720Hz có thể khó cảm nhận rõ ràng bằng mắt thường, nhưng đây vẫn là minh chứng cho việc các nhà sản xuất màn hình tiếp tục đẩy giới hạn công nghệ OLED lên một tầm cao mới. Việc các linh kiện công nghệ cao như tấm nền OLED gaming giữ giá ổn định cũng phần nào tương phản với tình trạng [giá laptop tăng tới 30% do khủng hoảng RAM AI](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html) đang ảnh hưởng tới nhiều phân khúc thiết bị điện tử khác trên toàn cầu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ki3sOKObRXI/hqdefault.jpg" alt="So sanh LG 27GX700A va 27GX790A man hinh OLED gaming" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ki3sOKObRXI/maxresdefault.jpg" alt="So sanh LG 27GX700A va 27GX790A man hinh OLED gaming" loading="lazy" width="1280" height="720">
   <figcaption>So sánh LG UltraGear GX7 với thế hệ tiền nhiệm cho thấy độ sáng được cải thiện rõ rệt. Nguồn: YouTube</figcaption>
 </figure>
 

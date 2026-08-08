@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T01:20:00+07:00"
 dateModified: "2026-07-06T01:20:00+07:00"
 deck: "Lenovo vừa chính thức mở bán phiên bản SteamOS của Legion Go 2, cho phép người dùng bỏ qua hoàn toàn Windows 11, giá bán rẻ hơn 150 USD so với bản Windows cùng cấu hình, trong khi các bài test thực tế cho thấy khung hình và thời lượng pin đều tốt hơn."
-heroImage: "https://i.ytimg.com/vi/xcDl-CMpgvU/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/xcDl-CMpgvU/maxresdefault.jpg"
 heroAlt: "Lenovo Legion Go 2 SteamOS may choi game cam tay 2026"
 heroCaption: "Lenovo Legion Go 2 phiên bản SteamOS cho hiệu năng và pin tốt hơn bản Windows trên cùng phần cứng. Nguồn: YouTube"
 tldr: "Lenovo vừa chính thức mở bán phiên bản <strong>SteamOS</strong> của <strong>Legion Go 2</strong>, giá <strong>1.199 USD</strong>, rẻ hơn <strong>150 USD</strong> so với bản Windows 11 cùng cấu hình. Máy dùng chip <strong>AMD Ryzen Z2 Extreme</strong>, RAM tối đa <strong>32GB LPDDR5X</strong>, SSD tối đa <strong>2TB</strong> PCIe Gen4, màn hình OLED PureSight <strong>8,8 inch</strong> 1920x1200, tần số quét <strong>144Hz</strong> hỗ trợ VRR. Các bài test benchmark cho thấy bản SteamOS đạt khung hình cao hơn <strong>2-10fps</strong> so với bản Windows trên cùng tựa game và phần cứng, đồng thời thời lượng pin cũng tốt hơn đáng kể."
@@ -71,7 +71,7 @@ Mức chênh lệch giá 150 USD cũng phần nào phản ánh chi phí bản qu
 Khác với hướng đi của Microsoft, vốn đang phát triển giao diện Xbox tùy biến chạy trên nền Windows cho các máy chơi game cầm tay, Lenovo đặt cược vào SteamOS nhờ ưu điểm overhead thấp và trải nghiệm ưu tiên tay cầm, khả năng tạm dừng và tiếp tục chơi game gần như tức thời. Cách tiếp cận này giúp Legion Go 2 mang lại cảm giác sử dụng gần giống console truyền thống hơn là một chiếc máy tính Windows thu nhỏ, phù hợp với nhóm người dùng ưu tiên trải nghiệm chơi game mượt mà, đơn giản hơn là sự linh hoạt đa năng của Windows.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/kmQ3kXGVS3g/hqdefault.jpg" alt="Huong dan thiet lap SteamOS tren Legion Go 2" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/kmQ3kXGVS3g/maxresdefault.jpg" alt="Huong dan thiet lap SteamOS tren Legion Go 2" loading="lazy" width="1280" height="720">
   <figcaption>Hướng dẫn thiết lập ban đầu cho phiên bản SteamOS trên Lenovo Legion Go 2. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Về mặt phần cứng, phiên bản SteamOS giữ nguyên toàn bộ cấu h�
 Người dùng có thể tham khảo thêm [top máy chơi game cầm tay đáng mua tháng 7/2026](/articles/top-may-choi-game-cam-tay-dang-mua-thang-7-2026.html) để so sánh Legion Go 2 với các lựa chọn khác trên thị trường trước khi quyết định giữa phiên bản SteamOS và Windows.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/vFfGUwexzw4/hqdefault.jpg" alt="CES 2026 trai nghiem Legion Go 2 SteamOS" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/vFfGUwexzw4/maxresdefault.jpg" alt="CES 2026 trai nghiem Legion Go 2 SteamOS" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế Legion Go 2 phiên bản SteamOS ngay tại sự kiện CES 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Người dùng có thể tham khảo thêm [top máy chơi game cầm tay đáng
 Các bài đánh giá quốc tế đánh giá cao quyết định của Lenovo khi mang tới lựa chọn SteamOS chính hãng ngay từ nhà máy, thay vì để người dùng tự mày mò cài đặt như trước đây, giúp giảm đáng kể rào cản kỹ thuật cho người dùng phổ thông muốn trải nghiệm SteamOS. So với ROG Xbox Ally X20 của ASUS, vốn đi theo hướng tích hợp sâu với hệ sinh thái Xbox của Microsoft, Legion Go 2 SteamOS mang tới một triết lý hoàn toàn khác biệt, tập trung vào sự đơn giản và hiệu năng thuần túy của nền tảng Steam. Người quan tâm có thể tham khảo thêm [ROG Xbox Ally X20 với màn hình OLED và cần analog TMR](/articles/rog-xbox-ally-x20-may-choi-game-cam-tay-oled-tmr-2026.html) để so sánh hai triết lý thiết kế khác nhau này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IGa2aMGJd_s/hqdefault.jpg" alt="Legion Go 2 danh gia noi bat SteamOS o dau" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/IGa2aMGJd_s/maxresdefault.jpg" alt="Legion Go 2 danh gia noi bat SteamOS o dau" loading="lazy" width="1280" height="720">
   <figcaption>Đánh giá tổng thể về Legion Go 2 và câu hỏi vì sao phiên bản SteamOS lại được mong chờ nhiều đến vậy. Nguồn: YouTube</figcaption>
 </figure>
 

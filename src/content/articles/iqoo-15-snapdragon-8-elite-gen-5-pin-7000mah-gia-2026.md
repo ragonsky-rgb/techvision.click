@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-16T17:30:00+07:00"
 dateModified: "2026-07-16T17:30:00+07:00"
 deck: "iQOO 15 là một trong những mẫu đầu tiên khai thác chip Snapdragon 8 Elite Gen 5, đi cùng viên pin 7.000mAh, màn hình 2K 144Hz và định hướng gaming rõ nét. Đây là chiếc máy đáng chú ý cho người dùng đề cao hiệu năng và thời lượng pin, trong bối cảnh phân khúc flagship 2026 cạnh tranh gay gắt."
-heroImage: "https://i.ytimg.com/vi/6IYPRo9IYeg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/6IYPRo9IYeg/maxresdefault.jpg"
 heroAlt: "iQOO 15 với màn hình 2K 144Hz và cụm camera sau, điện thoại gaming Snapdragon 8 Elite Gen 5"
 heroCaption: "iQOO 15 hướng tới nhóm người dùng chơi game và ưa hiệu năng cao. Nguồn: YouTube"
 tldr: "<strong>iQOO 15</strong> dùng chip <strong>Snapdragon 8 Elite Gen 5</strong> kết hợp chip đồ họa gaming Q3, màn hình <strong>6,85 inch 2K LTPO AMOLED 144Hz</strong> và viên pin lớn <strong>7.000mAh</strong>. Máy có ba camera 50MP gồm chính, tele tiềm vọng zoom quang 3x và góc siêu rộng, đạt chuẩn kháng nước, bụi <strong>IP69</strong>. Tại Trung Quốc, giá khởi điểm khoảng <strong>4.199 tệ</strong> cho bản 12GB/256GB, còn tại Ấn Độ từ khoảng 72.999 rupee. iQOO chưa phân phối chính hãng tại Việt Nam, nên đây chủ yếu là lựa chọn qua đường xách tay."
@@ -66,7 +66,7 @@ Trọng tâm của iQOO 15 là sức mạnh xử lý. Máy dùng Snapdragon 8 El
 Đi cùng chip mạnh là tùy chọn RAM lên tới 16GB và bộ nhớ trong tối đa 1TB, đủ cho cả game thủ lẫn người dùng lưu nhiều nội dung. Hệ thống tản nhiệt lớn cũng thường là điểm được các dòng iQOO chú trọng, nhằm giữ hiệu năng ổn định qua những phiên chơi dài. Với người mua đặt hiệu năng và độ bền khung hình lên trên, đây là mẫu máy đáng cân nhắc trong tầm giá.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ATWuffWYAvM/hqdefault.jpg" alt="iQOO 15 mở hộp cho thấy thiết kế mặt lưng và cụm camera của máy gaming 2026" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/ATWuffWYAvM/maxresdefault.jpg" alt="iQOO 15 mở hộp cho thấy thiết kế mặt lưng và cụm camera của máy gaming 2026" loading="lazy" width="1280" height="720">
   <figcaption>iQOO 15 dồn sức mạnh cấu hình vào một mức giá cạnh tranh hơn flagship truyền thống. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ iQOO 15 dùng tấm nền LTPO AMOLED 6,85 inch độ phân giải 2K, tần s�
 Viên pin 7.000mAh là điểm cộng lớn khác. Trong bối cảnh nhiều flagship vẫn quanh mức 5.000mAh, con số 7.000mAh giúp iQOO 15 trụ được lâu hơn đáng kể, nhất là khi chơi game hay quay dựng video liên tục. Dung lượng lớn có được nhờ xu hướng dùng pin mật độ cao mà nhiều hãng Trung Quốc đang đẩy mạnh, cho phép nhồi nhiều điện hơn mà không làm thân máy quá dày.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/P9ZAiebyexE/hqdefault.jpg" alt="Màn hình iQOO 15 hiển thị nội dung ở tần số quét 144Hz độ phân giải 2K" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/P9ZAiebyexE/maxresdefault.jpg" alt="Màn hình iQOO 15 hiển thị nội dung ở tần số quét 144Hz độ phân giải 2K" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình 2K 144Hz kết hợp pin 7.000mAh là bộ đôi hướng tới game thủ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Máy cũng đạt chuẩn kháng nước, kháng bụi IP69, mức cao cho phép
 Là một mẫu máy đặt nặng gaming, iQOO 15 chú trọng khả năng giữ nhiệt ổn định. Các dòng iQOO nhiều thế hệ thường trang bị buồng hơi lớn và vật liệu dẫn nhiệt tốt, giúp máy duy trì hiệu năng cao qua những trận đấu kéo dài thay vì bị giảm xung sớm. Với người chơi các tựa game đồ họa nặng, khả năng chống nóng này quan trọng không kém sức mạnh chip, vì nó quyết định độ ổn định khung hình thực tế mà người dùng cảm nhận được.
 
 <figure>
-  <img src="https://i.ytimg.com/vi/ExZSu6HtY0E/hqdefault.jpg" alt="iQOO 15 chạy game đồ họa nặng, thử nghiệm hiệu năng và tản nhiệt" loading="lazy" width="1280" height="720">
+  <img src="https://i.ytimg.com/vi/ExZSu6HtY0E/maxresdefault.jpg" alt="iQOO 15 chạy game đồ họa nặng, thử nghiệm hiệu năng và tản nhiệt" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng giữ nhiệt ổn định quyết định độ mượt thực tế qua các phiên chơi dài. Nguồn: YouTube</figcaption>
 </figure>
 

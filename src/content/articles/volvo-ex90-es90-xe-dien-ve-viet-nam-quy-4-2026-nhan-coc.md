@@ -76,7 +76,7 @@ Trong hai mẫu xe, EX90 là cái tên được chờ đợi hơn cả nhờ đ�
 Về khả năng vận hành đường dài, EX90 trang bị bộ pin dung lượng 111 kWh, cho phạm vi di chuyển tối đa khoảng 623 km theo chuẩn đo WLTP. Cần lưu ý rằng con số WLTP thường cao hơn quãng đường thực tế mà người dùng đạt được trong điều kiện giao thông và khí hậu Việt Nam, nên đây chỉ nên xem là mức tham chiếu lý tưởng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_-eDg3dO7Yo/hqdefault.jpg" alt="Volvo EX90 SUV điện 7 chỗ trang bị cảm biến LiDAR" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_-eDg3dO7Yo/maxresdefault.jpg" alt="Volvo EX90 SUV điện 7 chỗ trang bị cảm biến LiDAR" loading="lazy" width="1280" height="720">
   <figcaption>EX90 là SUV bảy chỗ, nổi bật với cảm biến LiDAR gắn trên nóc phục vụ các tính năng hỗ trợ lái. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Nếu EX90 hướng tới nhóm khách hàng cần không gian rộng và nhiề
 Điểm khiến ES90 trở nên đặc biệt nằm ở nền tảng kỹ thuật. Đây là mẫu Volvo đầu tiên được xây dựng trên kiến trúc điện 800V, thay vì hệ thống 400V phổ biến hơn. Kiến trúc điện áp cao này cho phép ES90 hỗ trợ sạc nhanh với công suất lên tới 350 kW, giúp rút ngắn đáng kể thời gian nạp pin tại các trạm sạc công suất lớn, với điều kiện hạ tầng sạc tương thích.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/taTBMy4SI8Q/hqdefault.jpg" alt="Volvo ES90 sedan điện nền tảng 800V sạc nhanh 350 kW" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/taTBMy4SI8Q/maxresdefault.jpg" alt="Volvo ES90 sedan điện nền tảng 800V sạc nhanh 350 kW" loading="lazy" width="1280" height="720">
   <figcaption>ES90 là mẫu Volvo đầu tiên dùng nền tảng điện 800V, hỗ trợ sạc nhanh tới 350 kW. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Về khả năng vận hành, ES90 trang bị bộ pin 92 kWh và cho tầm ch�
 An toàn từ lâu đã là giá trị cốt lõi gắn liền với thương hiệu Volvo, và cặp xe điện mới tiếp tục theo đuổi triết lý đó. Với EX90, cảm biến LiDAR cùng hệ thống camera và radar được kỳ vọng tạo nên một lớp bảo vệ chủ động, cảnh báo và can thiệp sớm trong các tình huống nguy hiểm. Đây cũng là hướng đi cho thấy Volvo muốn định vị mình ở nhóm dẫn đầu về công nghệ hỗ trợ lái trong phân khúc xe điện cao cấp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/kJVlee598jw/hqdefault.jpg" alt="Nội thất và công nghệ an toàn trên xe điện Volvo EX90 ES90" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/kJVlee598jw/maxresdefault.jpg" alt="Nội thất và công nghệ an toàn trên xe điện Volvo EX90 ES90" loading="lazy" width="1280" height="720">
   <figcaption>Volvo tiếp tục đặt an toàn làm giá trị cốt lõi cho dải sản phẩm xe điện mới. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-16T21:00:00+07:00"
 dateModified: "2026-07-16T21:00:00+07:00"
 deck: "Cơn sốt trí tuệ nhân tạo đang định hình lại toàn bộ thị trường đầu tư mạo hiểm toàn cầu theo cách chưa từng có. Theo dữ liệu từ Crunchbase, tổng vốn đầu tư vào các startup trên thế giới đã đạt kỷ lục 510 tỷ USD chỉ trong nửa đầu năm 2026, vượt qua cả con số 440 tỷ USD của toàn bộ năm 2025. Đây là mức cao nhất từng ghi nhận cho bất kỳ giai đoạn nửa năm nào. Điều đáng kinh ngạc hơn là mức độ tập trung của dòng tiền. Chỉ riêng hai công ty AI hàng đầu là OpenAI và Anthropic đã chiếm tới 217 tỷ USD, tương đương 43% tổng vốn đầu tư startup trong giai đoạn này. Con số này phản ánh một thực tế rõ ràng: một số ít công ty AI ở tuyến đầu đang thu hút phần lớn nguồn vốn, định hình lại bản đồ đầu tư công nghệ toàn cầu."
-heroImage: "https://i.ytimg.com/vi/8MdpI-zEb4Y/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/8MdpI-zEb4Y/maxresdefault.jpg"
 heroAlt: "Vốn đầu tư startup toàn cầu đạt kỷ lục 510 tỷ USD nửa đầu 2026 nhờ cơn sốt AI"
 heroCaption: "Dòng vốn đầu tư mạo hiểm toàn cầu lập kỷ lục nửa đầu 2026, phần lớn chảy vào AI. Nguồn: YouTube"
 tldr: "Theo <strong>Crunchbase</strong>, tổng vốn đầu tư mạo hiểm toàn cầu vào startup đạt kỷ lục <strong>510 tỷ USD</strong> trong nửa đầu năm 2026, vượt cả con số 440 tỷ USD của cả năm 2025. Đây là mức cao nhất từng ghi nhận cho một giai đoạn nửa năm. Điểm nổi bật là sự tập trung của dòng tiền vào AI: riêng <strong>OpenAI và Anthropic</strong> chiếm <strong>217 tỷ USD</strong>, tương đương 43% tổng vốn. Hơn <strong>70%</strong> vốn startup trong quý 2 chảy vào các công ty AI, tăng mạnh so với dưới 50% một năm trước. Quý 1 ghi nhận 305 tỷ USD vào hơn 5.000 startup, quý 2 thêm 205 tỷ USD. Thị trường thoái vốn qua IPO và thâu tóm cũng sôi động nhất kể từ năm 2021."
@@ -77,7 +77,7 @@ Phân bổ theo quý cho thấy đà tăng trưởng mạnh mẽ. Quý 1/2026 ch
 Điểm gây chú ý nhất trong báo cáo không phải tổng số tiền, mà là mức độ tập trung của nó. Chỉ riêng hai công ty AI hàng đầu là OpenAI và Anthropic đã huy động tới 217 tỷ USD, tương đương 43% tổng vốn đầu tư startup trong nửa đầu năm. Nói cách khác, gần một nửa số tiền đổ vào toàn bộ startup thế giới chỉ chảy vào hai cái tên này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/8WyAphxw5so/hqdefault.jpg" alt="OpenAI và Anthropic chiếm 43% tổng vốn đầu tư startup toàn cầu nửa đầu 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/8WyAphxw5so/maxresdefault.jpg" alt="OpenAI và Anthropic chiếm 43% tổng vốn đầu tư startup toàn cầu nửa đầu 2026" loading="lazy" width="1280" height="720">
   <figcaption>Một số ít công ty AI tuyến đầu đang hút phần lớn dòng vốn đầu tư. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Xu hướng tập trung này còn thể hiện ở bức tranh rộng hơn. Hơn
 ## Cơ hội và rủi ro của sự tập trung
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WSxVh5WvWZ4/hqdefault.jpg" alt="Dòng vốn tập trung vào AI đặt ra cả cơ hội và rủi ro cho thị trường công nghệ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WSxVh5WvWZ4/maxresdefault.jpg" alt="Dòng vốn tập trung vào AI đặt ra cả cơ hội và rủi ro cho thị trường công nghệ" loading="lazy" width="1280" height="720">
   <figcaption>Sự tập trung vốn vào AI mang lại cả cơ hội lớn lẫn rủi ro tiềm ẩn. Nguồn: YouTube</figcaption>
 </figure>
 
 Mức độ tập trung cao này mang tới cả hai mặt. Ở khía cạnh tích cực, các công ty AI dẫn đầu có được nguồn lực khổng lồ để đầu tư vào hạ tầng, nhân tài và nghiên cứu, giúp đẩy nhanh tiến bộ công nghệ. Không chỉ các phòng thí nghiệm mô hình, cả lĩnh vực robot cũng hưởng lợi, như việc [Neura Robotics gọi được 1,4 tỷ USD từ Nvidia và Amazon](/articles/neura-robotics-goi-von-1-4-ty-usd-nvidia-amazon-2026.html) cho thấy dòng vốn đang lan tỏa sang các ứng dụng AI vật lý.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/j-ASrjzXcAQ/hqdefault.jpg" alt="Cách các startup AI huy động vốn khổng lồ trong năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/j-ASrjzXcAQ/maxresdefault.jpg" alt="Cách các startup AI huy động vốn khổng lồ trong năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Cách thức gọi vốn của startup AI đang thay đổi bức tranh đầu tư công nghệ. Nguồn: YouTube</figcaption>
 </figure>
 

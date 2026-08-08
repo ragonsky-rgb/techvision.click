@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T06:40:00+07:00"
 dateModified: "2026-07-13T22:00:00+07:00"
 deck: "VinFast chính thức ra mắt VF 2, mẫu ô tô điện đô thị cỡ nhỏ với mức giá gây chú ý chỉ từ 188 triệu đồng đã gồm pin, hướng tới mục tiêu phổ cập ô tô cho người Việt và trở thành lựa chọn thay thế xe máy. Xe sở hữu tầm hoạt động 210km mỗi lần sạc đầy, mở bán đặt cọc từ ngày 15/7 với ưu đãi 8 triệu đồng cho khách đặt cọc trong 3 ngày vàng."
-heroImage: "https://i.ytimg.com/vi/OuAFobsHWbI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/OuAFobsHWbI/maxresdefault.jpg"
 heroAlt: "VinFast VF 2 ra mắt giá 188 triệu đồng xe điện mini"
 heroCaption: "VinFast VF 2 là mẫu ô tô điện đô thị cỡ nhỏ mới nhất của hãng, giá chỉ từ 188 triệu đồng. Nguồn: YouTube"
 tldr: "<strong>VinFast</strong> chính thức ra mắt <strong>VF 2</strong>, mẫu ô tô điện đô thị cỡ nhỏ với thiết kế 2 cửa, 4 chỗ ngồi, mức giá chỉ từ <strong>188 triệu đồng</strong> đã bao gồm pin. Xe có kích thước Dài x Rộng x Cao lần lượt 3.090 x 1.496 x 1.663,2mm, trục cơ sở 2.065mm, trang bị bộ pin dung lượng khả dụng 18,3 kWh cho tầm hoạt động tới <strong>210km</strong> mỗi lần sạc đầy theo tiêu chuẩn NEDC. Với công suất sạc nhanh tối đa 24kW, VF 2 chỉ mất khoảng 34 phút để sạc từ 10% lên 70% pin. Xe dùng động cơ điện dẫn động cầu sau, công suất tối đa 30kW, tốc độ tối đa 80km/h, hai chế độ lái Eco và Normal. VinFast bắt đầu nhận đặt cọc từ ngày <strong>15/7/2026</strong>, với ưu đãi 8 triệu đồng cho khách đặt cọc trong 3 ngày vàng 15-17/7, cùng chính sách miễn phí sạc pin 10 lần mỗi tháng tại các trạm V-Green tới hết ngày 10/2/2029."
@@ -71,7 +71,7 @@ VF 2 sở hữu thiết kế năng động với 2 cửa, 4 chỗ ngồi, kích 
 Về mặt kỹ thuật, VF 2 được trang bị bộ pin dung lượng khả dụng 18,3 kWh, cho tầm hoạt động tối đa khoảng 210km mỗi lần sạc đầy theo tiêu chuẩn đo NEDC, một con số được đánh giá đủ đáp ứng nhu cầu di chuyển hằng ngày trong phạm vi đô thị của phần lớn người dùng. Với công suất sạc nhanh tối đa lên tới 24kW, xe chỉ mất khoảng 34 phút để sạc từ 10% lên 70% dung lượng pin, giúp rút ngắn đáng kể thời gian chờ đợi so với việc sạc bằng bộ sạc thông thường tại nhà.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/HZ8-HEssSvA/hqdefault.jpg" alt="Review chi tiết nội thất và khoang hành lý VinFast VF 2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/HZ8-HEssSvA/maxresdefault.jpg" alt="Review chi tiết nội thất và khoang hành lý VinFast VF 2" loading="lazy" width="1280" height="720">
   <figcaption>Nội thất và khoang hành lý của VF 2 được thiết kế tối ưu cho nhu cầu di chuyển đô thị hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,14 +82,14 @@ Xe sử dụng động cơ điện dẫn động cầu sau, công suất tối �
 VinFast chính thức bắt đầu nhận đặt cọc VF 2 từ ngày 15/7/2026, với mức ưu đãi đáng chú ý 8 triệu đồng mỗi xe dành cho khách hàng đặt cọc trong giai đoạn 3 ngày vàng từ 15 đến 17/7. Bên cạnh ưu đãi đặt cọc, khách hàng mua VF 2 còn được hưởng chính sách miễn phí sạc pin 10 lần mỗi tháng tại các trạm sạc công cộng V-Green trên toàn quốc cho tới hết ngày 10/2/2029, một chính sách được đánh giá giúp giảm đáng kể chi phí vận hành trong những năm đầu sử dụng xe, củng cố thêm sức hấp dẫn của VF 2 so với việc tiếp tục sử dụng xe máy hoặc các mẫu ô tô xăng cùng phân khúc giá.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/tZ2-Y195aiM/hqdefault.jpg" alt="Phân tích sự thật đằng sau mức giá 188 triệu đồng của VinFast VF 2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tZ2-Y195aiM/maxresdefault.jpg" alt="Phân tích sự thật đằng sau mức giá 188 triệu đồng của VinFast VF 2" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều chuyên gia phân tích lý do VinFast có thể đưa ra mức giá 188 triệu đồng cho một mẫu ô tô điện hoàn chỉnh. Nguồn: YouTube</figcaption>
 </figure>
 
 Sự xuất hiện của VF 2 cũng góp phần làm phong phú thêm bức tranh thị trường xe điện tại Việt Nam, vốn đang chứng kiến sự gia nhập ngày càng đông đảo của các thương hiệu quốc tế ở phân khúc cao cấp hơn, như [Volvo với bộ đôi EX90 và ES90 dự kiến về Việt Nam trong quý 4/2026](/articles/volvo-ex90-es90-xe-dien-ve-viet-nam-quy-4-2026-nhan-coc.html), cho thấy thị trường xe điện Việt Nam đang dần hình thành đầy đủ các phân khúc từ giá rẻ phổ thông cho tới cao cấp, đáp ứng nhu cầu đa dạng của người tiêu dùng trong nước.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ErAz3msQq0c/hqdefault.jpg" alt="VinFast VF 2 được đánh giá là địa chấn ô tô điện dưới 200 triệu đồng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ErAz3msQq0c/sddefault.jpg" alt="VinFast VF 2 được đánh giá là địa chấn ô tô điện dưới 200 triệu đồng" loading="lazy" width="640" height="480">
   <figcaption>Mức giá 188 triệu đồng của VF 2 được xem là một trong những cột mốc đáng chú ý nhất của thị trường ô tô điện giá rẻ tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 

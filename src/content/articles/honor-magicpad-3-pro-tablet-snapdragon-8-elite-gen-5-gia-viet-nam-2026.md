@@ -76,7 +76,7 @@ Màn hình là thế mạnh tiếp theo của MagicPad 3 Pro. Tấm nền 13,3 i
 Ấn tượng hơn, dù có màn hình 13,3 inch và pin dung lượng tới 12.450mAh, thân máy vẫn chỉ mỏng 5,79mm và nặng 595 gram. Đây là con số rất tốt so với dung lượng pin, cho thấy HONOR đã tối ưu tốt về thiết kế và tản nhiệt. Viên pin lớn kết hợp sạc nhanh 66W giúp máy có thể phục vụ nhiều giờ giải trí hoặc làm việc liên tục, giảm tần suất phải cắm sạc giữa ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WJOYTnGnaqg/hqdefault.jpg" alt="HONOR MagicPad 3 Pro choi game PUBG kiem tra hieu nang" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WJOYTnGnaqg/maxresdefault.jpg" alt="HONOR MagicPad 3 Pro choi game PUBG kiem tra hieu nang" loading="lazy" width="1280" height="720">
   <figcaption>MagicPad 3 Pro xử lý tốt game nặng nhờ chip flagship. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ MagicPad 3 Pro được trang bị hệ thống 8 loa gồm 4 loa trầm và 4 l
 Về phần mềm, máy chạy MagicOS 10 với nhiều tính năng AI hỗ trợ năng suất, hướng tới trải nghiệm tiệm cận PC. HONOR trang bị khả năng hỗ trợ bàn phím thông minh và bút cảm ứng, biến MagicPad 3 Pro thành công cụ ghi chú, vẽ và soạn thảo. Dù vậy, cần lưu ý hệ sinh thái ứng dụng Android cho tablet vẫn chưa tối ưu bằng iPad ở một số phần mềm chuyên dụng. Với người dùng cần một thiết bị vừa giải trí vừa xử lý công việc nhẹ, đây vẫn là lựa chọn đáng giá trong tầm tiền.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Zo_nq9RdZ9I/hqdefault.jpg" alt="HONOR MagicPad 3 Pro thiet ke mong nhe man hinh lon" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Zo_nq9RdZ9I/maxresdefault.jpg" alt="HONOR MagicPad 3 Pro thiet ke mong nhe man hinh lon" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế mỏng nhẹ giúp MagicPad 3 Pro dễ mang theo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Với mức giá từ 14,04 triệu đồng, MagicPad 3 Pro là lựa chọn h�
 Tuy nhiên, người mua nên cân nhắc nhu cầu thực tế. Nếu bạn phụ thuộc vào các ứng dụng chỉ tối ưu tốt trên iPad, hoặc cần đồng bộ sâu với hệ sinh thái Apple, thì iPad vẫn là phương án nên tính. Nếu đang tìm một thiết bị tính toán di động khác, bạn cũng có thể tham khảo hướng dẫn chọn [laptop AI Copilot+ PC 2026](/articles/laptop-ai-copilot-plus-pc-2026-nen-mua-nao-huong-dan.html) để so sánh giữa tablet cao cấp và một chiếc laptop mỏng nhẹ. Dù chọn hướng nào, việc trải nghiệm trực tiếp và cân nhắc phần mềm bạn cần dùng sẽ giúp quyết định chính xác hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Q0HKIxy76Lg/hqdefault.jpg" alt="So sanh HONOR MagicPad 3 Pro va iPad Air 13" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Q0HKIxy76Lg/maxresdefault.jpg" alt="So sanh HONOR MagicPad 3 Pro va iPad Air 13" loading="lazy" width="1280" height="720">
   <figcaption>MagicPad 3 Pro cạnh tranh trực tiếp với nhóm iPad màn hình lớn. Nguồn: YouTube</figcaption>
 </figure>
 

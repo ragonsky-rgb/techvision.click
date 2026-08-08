@@ -90,7 +90,7 @@ Lưu ý giá trong bảng là giá ghi nhận tại một thời điểm và tha
 Ở phân khúc cao cấp, [Samsung Galaxy S26 Ultra](/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html) tiếp tục là lựa chọn hàng đầu cho người dùng Android nhờ camera chính 200MP kết hợp thuật toán AI thế hệ mới, cho chất lượng ảnh đêm và chụp xa ấn tượng. Điểm nâng cấp được đánh giá cao nhất trên S26 Ultra là màn hình Privacy Display, chống nhìn trộm chủ động, rất hữu ích cho người thường xử lý công việc nhạy cảm ở nơi công cộng. Máy còn hỗ trợ sạc nhanh 60W, sạc đầy từ 0% lên 100% chỉ trong khoảng 46 phút.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xsHhWU3Uvjw/hqdefault.jpg" alt="Samsung Galaxy S26 Ultra man hinh chong nhin trom sac 60W" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xsHhWU3Uvjw/maxresdefault.jpg" alt="Samsung Galaxy S26 Ultra man hinh chong nhin trom sac 60W" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy S26 Ultra với màn hình Privacy Display và sạc nhanh 60W. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ Một lưu ý khi so cấu hình flagship: đừng chọn máy chỉ vì con s�
 Phân khúc tầm trung tháng 8/2026 tiếp tục là chiến trường khốc liệt giữa Samsung và Xiaomi. Samsung Galaxy A56 được xem là "vua tầm trung" mới nhờ khả năng chụp chân dung xóa phông gần ngang dòng S, chip Exynos được tối ưu nhiệt độ giúp máy hoạt động mát mẻ khi quay video lâu hoặc phát hotspot. Bản 8GB/128GB đang bán khoảng 8,99 triệu đồng, giảm nhẹ so với mức niêm yết 9,81 triệu, đạt chuẩn kháng nước IP67 và được bảo hành dài hạn chính hãng từ Samsung Việt Nam.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TzY6m1rOgjU/hqdefault.jpg" alt="Samsung Galaxy A56 dien thoai tam trung dang mua 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/TzY6m1rOgjU/maxresdefault.jpg" alt="Samsung Galaxy A56 dien thoai tam trung dang mua 2026" loading="lazy" width="1280" height="720">
   <figcaption>Samsung Galaxy A56, lựa chọn tầm trung đáng chú ý với giá khoảng 9 triệu đồng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ So với cùng kỳ năm trước, giá bán ở phân khúc này có xu hướn
 Bên cạnh nhóm máy mới, người dùng có ngân sách hạn chế cũng có thể tham khảo thêm phân khúc gập độc đáo như [Honor Magic V5 mỏng nhẹ kỷ lục 8,8mm](/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html) nếu muốn trải nghiệm thiết kế khác biệt, dù mức giá của dòng máy gập vẫn cao hơn đáng kể so với điện thoại thanh truyền thống cùng cấu hình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/d2OZZ3EiBUA/hqdefault.jpg" alt="Dien thoai dang mua thang 8 2026 cac phan khuc gia" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/d2OZZ3EiBUA/maxresdefault.jpg" alt="Dien thoai dang mua thang 8 2026 cac phan khuc gia" loading="lazy" width="1280" height="720">
   <figcaption>Người dùng nên cân nhắc nhu cầu thực tế trước khi chọn điện thoại ở từng phân khúc giá. Nguồn: YouTube</figcaption>
 </figure>
 

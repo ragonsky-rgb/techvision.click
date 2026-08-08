@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-07-05T23:20:00+07:00"
 dateModified: "2026-07-05T23:20:00+07:00"
 deck: "Giữa bối cảnh giá RAM biến động mạnh do khủng hoảng nguồn cung DRAM toàn cầu, việc chọn đúng loại RAM phù hợp nhu cầu càng trở nên quan trọng hơn bao giờ hết. Bài viết tổng hợp 5 tiêu chí quan trọng cần cân nhắc trước khi chọn mua RAM máy tính, giúp tối ưu chi phí và hiệu năng sử dụng lâu dài."
-heroImage: "https://i.ytimg.com/vi/Lw5jqPyT7bo/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/Lw5jqPyT7bo/maxresdefault.jpg"
 heroAlt: "Cach chon RAM may tinh 2026 tieu chi"
 heroCaption: "Chọn RAM máy tính phù hợp cần cân nhắc chuẩn DDR, dung lượng, tốc độ bus và độ trễ CAS latency. Nguồn: YouTube"
 tldr: "Khi chọn mua RAM máy tính, cần chú ý 5 tiêu chí chính: <strong>chuẩn DDR4 hay DDR5</strong> tùy bo mạch chủ đang sử dụng, <strong>dung lượng</strong> phù hợp nhu cầu từ 16GB tới 32GB trở lên, <strong>tốc độ bus</strong> ảnh hưởng tới hiệu năng tổng thể, <strong>độ trễ CAS latency</strong> càng thấp càng phản hồi nhanh, và <strong>khả năng tương thích</strong> với bo mạch chủ và CPU đang sử dụng."
@@ -60,7 +60,7 @@ Giữa bối cảnh giá RAM biến động mạnh do khủng hoảng nguồn cu
 Lựa chọn giữa DDR4 và DDR5 phụ thuộc trực tiếp vào bo mạch chủ đang sử dụng, vì hai chuẩn RAM này không tương thích khe cắm với nhau. DDR5 mang lại tốc độ bus cao hơn và hiệu năng tổng thể tốt hơn DDR4, đặc biệt hữu ích trên các nền tảng CPU mới tích hợp GPU chia sẻ RAM hệ thống. Tuy nhiên, giá thành DDR5 hiện cao hơn đáng kể so với DDR4 do khủng hoảng nguồn cung DRAM, người dùng có bo mạch chủ đời cũ chỉ hỗ trợ DDR4 không cần thiết phải nâng cấp toàn bộ hệ thống chỉ để chuyển sang DDR5.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/3c2A50BRe0U/hqdefault.jpg" alt="So sanh hieu nang choi game DDR4 va DDR5" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/3c2A50BRe0U/maxresdefault.jpg" alt="So sanh hieu nang choi game DDR4 va DDR5" loading="lazy" width="1280" height="720">
   <figcaption>So sánh hiệu năng chơi game thực tế giữa hệ thống dùng RAM DDR4 và DDR5 trên cùng cấu hình CPU. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Theo các bài test benchmark thực tế, chênh lệch hiệu năng chơi game
 Với nhu cầu chơi game và làm việc văn phòng thông thường, 16GB là mức dung lượng tối thiểu nên có trong năm 2026, khi nhiều tựa game và phần mềm hiện đại đã yêu cầu dung lượng RAM cao hơn so với vài năm trước. Người chơi game AAA nặng, làm việc đa nhiệm nhiều ứng dụng cùng lúc, hoặc dựng phim và chỉnh sửa ảnh chuyên nghiệp nên cân nhắc 32GB trở lên để đảm bảo trải nghiệm mượt mà, tránh tình trạng máy chậm lại khi bộ nhớ RAM bị đầy trong quá trình sử dụng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mkpCvaBBo-c/hqdefault.jpg" alt="Huong dan chon RAM toan dien dung luong toc do" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mkpCvaBBo-c/maxresdefault.jpg" alt="Huong dan chon RAM toan dien dung luong toc do" loading="lazy" width="1280" height="720">
   <figcaption>Hướng dẫn toàn diện về cách chọn dung lượng và tốc độ RAM phù hợp với từng nhu cầu sử dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Với người dùng đang cân nhắc nâng cấp toàn bộ hệ thống lưu 
 Độ trễ CAS latency, thường ký hiệu CL kèm một con số, thể hiện số chu kỳ xung nhịp cần thiết để RAM phản hồi một yêu cầu truy xuất dữ liệu, chỉ số càng thấp càng phản hồi nhanh. Trên RAM DDR5 hiện nay, độ trễ phổ biến dao động CL30-CL40. Tuy nhiên, cần cân nhắc CAS latency cùng với tốc độ bus tổng thể, vì đôi khi RAM tốc độ bus cao nhưng CL cao vẫn có độ trễ thực tế (tính bằng nano giây) thấp hơn RAM tốc độ bus thấp nhưng CL rất thấp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/3JLHqdg0U0Q/hq720.jpg" alt="Giai thich chi so CAS Latency CL tren RAM DDR5" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/3JLHqdg0U0Q/maxresdefault.jpg" alt="Giai thich chi so CAS Latency CL tren RAM DDR5" loading="lazy" width="1280" height="720">
   <figcaption>Giải thích chi tiết về chỉ số CAS Latency (CL) và cách nó ảnh hưởng tới hiệu năng thực tế của RAM DDR5. Nguồn: YouTube</figcaption>
 </figure>
 

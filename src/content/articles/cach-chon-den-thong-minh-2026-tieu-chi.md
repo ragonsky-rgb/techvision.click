@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-07-02T20:00:00+07:00"
 dateModified: "2026-07-02T20:00:00+07:00"
 deck: "Đèn thông minh ngày càng phổ biến trong các gia đình Việt Nam nhờ giá thành giảm mạnh và hệ sinh thái nhà thông minh ngày càng hoàn thiện. Bài viết tổng hợp 5 tiêu chí quan trọng nhất giúp người mua chọn đúng đèn thông minh phù hợp nhu cầu, tránh mua nhầm sản phẩm không tương thích hệ thống sẵn có."
-heroImage: "https://i.ytimg.com/vi/Gc9IogTSPH4/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/Gc9IogTSPH4/maxresdefault.jpg"
 heroAlt: "Cach chon den thong minh 2026 tieu chi"
 heroCaption: "5 tiêu chí quan trọng cần cân nhắc trước khi chọn mua đèn thông minh năm 2026. Nguồn: YouTube"
 tldr: "Khi chọn đèn thông minh năm 2026, cần cân nhắc 5 tiêu chí chính: <strong>giao thức kết nối</strong> wifi, Zigbee hay Bluetooth, <strong>độ sáng</strong> tính bằng lumen phù hợp không gian, <strong>dải màu</strong> ánh sáng trắng hay đa sắc RGB, <strong>khả năng tương thích</strong> với hệ sinh thái nhà thông minh sẵn có, và <strong>ngân sách</strong> cho từng phòng trong nhà. Xác định đúng hệ sinh thái muốn gắn bó lâu dài trước khi mua sẽ giúp tránh tình trạng mua phải đèn không tương thích, phải bỏ đi lãng phí."
@@ -69,7 +69,7 @@ featured: false
 Độ sáng của đèn được tính bằng đơn vị lumen, chỉ số càng cao đèn càng sáng. Với phòng ngủ nhỏ, ánh sáng phụ trợ, mức lumen khoảng 400 đến 600 đã đủ dùng. Với phòng khách diện tích trung bình 15 đến 20m2 dùng làm ánh sáng chính, nên chọn đèn có độ sáng tối thiểu khoảng 800 đến 1.000 lumen mỗi bóng, có thể cần kết hợp nhiều bóng tùy cách bố trí không gian thực tế. Nên tránh chọn đèn có độ sáng quá thấp so với diện tích phòng, dễ khiến không gian tối, ảnh hưởng tới sinh hoạt hằng ngày, đặc biệt với các hoạt động cần độ sáng cao như đọc sách, làm việc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/n8egzi1llS8/hqdefault.jpg" alt="Kham pha he thong chieu sang trong nha thong minh lumen 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/n8egzi1llS8/maxresdefault.jpg" alt="Kham pha he thong chieu sang trong nha thong minh lumen 2026" loading="lazy" width="1280" height="720">
   <figcaption>Chọn đúng độ sáng lumen phù hợp diện tích giúp không gian sống thoải mái hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ featured: false
 Với nhu cầu chiếu sáng cơ bản hằng ngày, đèn trắng ấm hoặc trắng trung tính có thể điều chỉnh độ sáng đã hoàn toàn đáp ứng đủ, đồng thời có mức giá thấp hơn đáng kể so với đèn đa sắc. Đèn đa sắc RGB phù hợp nếu có nhu cầu trang trí, tạo không khí giải trí đa dạng theo dịp lễ, sự kiện hoặc sở thích cá nhân, cho phép đổi màu ánh sáng linh hoạt theo tâm trạng hoặc hoạt động, ví dụ ánh sáng dịu nhẹ khi xem phim, ánh sáng rực rỡ khi tổ chức tiệc tại nhà.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/oP7gqhp9CyA/hqdefault.jpg" alt="He thong den chieu sang thong minh Orvibo da sac RGB 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/oP7gqhp9CyA/hqdefault.jpg" alt="He thong den chieu sang thong minh Orvibo da sac RGB 2026" loading="lazy" width="480" height="360">
   <figcaption>Đèn đa sắc RGB tạo không khí trang trí sinh động, phù hợp không gian giải trí tại nhà. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Với nhu cầu chiếu sáng cơ bản hằng ngày, đèn trắng ấm hoặc 
 Cuối cùng, cần xác định ngân sách phù hợp dựa trên số lượng bóng đèn dự kiến lắp đặt trong toàn bộ căn nhà, vì chi phí có thể tăng nhanh nếu trang bị đồng loạt nhiều phòng cùng lúc. Nên bắt đầu từ một vài phòng chính như phòng khách, phòng ngủ để trải nghiệm trước khi quyết định mở rộng ra toàn bộ căn nhà, đồng thời đảm bảo đường truyền wifi đủ ổn định cho tất cả thiết bị hoạt động trơn tru, tham khảo thêm bài viết [cách tăng tốc wifi tại nhà khi mạng chậm, lag](/articles/cach-tang-toc-wifi-tai-nha-mang-cham-lag-2026.html) nếu nhà có nhiều thiết bị thông minh kết nối cùng lúc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/uqnvuUO7cQc/hqdefault.jpg" alt="Huong dan lap dat cong tac thong minh dieu khien wifi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/uqnvuUO7cQc/maxresdefault.jpg" alt="Huong dan lap dat cong tac thong minh dieu khien wifi 2026" loading="lazy" width="1280" height="720">
   <figcaption>Kết hợp công tắc thông minh cùng đèn thông minh giúp mở rộng khả năng điều khiển ánh sáng cả nhà. Nguồn: YouTube</figcaption>
 </figure>
 

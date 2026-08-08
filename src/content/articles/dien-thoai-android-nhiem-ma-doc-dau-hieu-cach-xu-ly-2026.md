@@ -75,7 +75,7 @@ Nhóm dấu hiệu còn lại liên quan tới hành vi bất thường của m�
 Ngay khi nghi ngờ máy nhiễm mã độc, việc đầu tiên là bật chế độ máy bay để ngắt kết nối, ngăn mã độc gửi dữ liệu ra ngoài hoặc nhận lệnh điều khiển. Nếu bạn có thao tác tài chính gần đây, hãy dùng một thiết bị an toàn khác để đổi mật khẩu ngân hàng và email, đồng thời cân nhắc khóa tạm tài khoản. Sau đó, khởi động điện thoại vào Safe Mode, tức Chế độ an toàn, nơi chỉ các ứng dụng gốc của hệ điều hành được chạy còn mọi ứng dụng bên thứ ba đều bị tạm vô hiệu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/wcPOul57azs/hqdefault.jpg" alt="Dien thoai Android tu bat quang cao do ma doc cach khac phuc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wcPOul57azs/maxresdefault.jpg" alt="Dien thoai Android tu bat quang cao do ma doc cach khac phuc" loading="lazy" width="1280" height="720">
   <figcaption>Tình trạng tự bật quảng cáo là dấu hiệu phần mềm quảng cáo phổ biến. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Cách vào Safe Mode phổ biến trên nhiều máy Android là nhấn giữ n�
 Trong Safe Mode, hãy vào Cài đặt và mục Ứng dụng, rà soát danh sách và tìm những cái tên lạ, ứng dụng bạn không nhớ đã cài hoặc app có biểu tượng mờ nhạt, không rõ ràng. Với nhiều mã độc, nút Gỡ cài đặt sẽ bị làm mờ vì chúng đã tự cấp quyền Quản trị thiết bị để chống xóa. Khi đó, bạn vào phần Bảo mật hoặc Quản trị thiết bị, bỏ tích ứng dụng lạ khỏi danh sách quản trị viên trước, sau đó quay lại gỡ bình thường. Đừng quên kiểm tra mục Trợ năng và thu hồi quyền của mọi app khả nghi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/N4LI5U2L6Fc/hqdefault.jpg" alt="Cach tim va xoa phan mem gian diep khoi dien thoai Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/N4LI5U2L6Fc/maxresdefault.jpg" alt="Cach tim va xoa phan mem gian diep khoi dien thoai Android" loading="lazy" width="1280" height="720">
   <figcaption>Rà soát và xóa phần mềm gián điệp ẩn trong danh sách ứng dụng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Một hiểu lầm phổ biến cần nói rõ: tải từ kho ứng dụng chí
 Nếu đã làm đủ các bước trên mà máy vẫn tự bật quảng cáo, tự cài app hay hao pin bất thường, giải pháp dứt điểm là khôi phục cài đặt gốc. Trước khi thực hiện, hãy sao lưu ảnh, video, danh bạ và tài liệu quan trọng, nhưng tuyệt đối không sao lưu và khôi phục lại các ứng dụng lạ để tránh mang mã độc quay về. Sau khi máy trở về trạng thái mới, chỉ cài lại ứng dụng từ Google Play, rồi đổi toàn bộ mật khẩu quan trọng một lần nữa để chắc chắn không còn phiên đăng nhập nào bị chiếm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/p_ZY7z7K8_g/hqdefault.jpg" alt="Cach diet virus tren dien thoai Android khoi phuc cai dat goc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/p_ZY7z7K8_g/maxresdefault.jpg" alt="Cach diet virus tren dien thoai Android khoi phuc cai dat goc" loading="lazy" width="1280" height="720">
   <figcaption>Khôi phục cài đặt gốc là cách xử lý dứt điểm khi mã độc cứng đầu. Nguồn: YouTube</figcaption>
 </figure>
 

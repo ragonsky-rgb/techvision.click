@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-10T09:00:00+07:00"
 dateModified: "2026-07-10T09:00:00+07:00"
 deck: "HUAWEI chính thức trình làng HUAWEI Watch GT 6 Series tại thị trường Việt Nam, dòng smartwatch nổi bật với thời lượng pin lên tới 21 ngày, màn hình AMOLED độ sáng tối đa 3000 nit và hơn 100 chế độ tập luyện thể thao, mức giá khởi điểm từ 4,99 triệu đồng cho bản tiêu chuẩn và 7,69 triệu đồng cho bản Pro."
-heroImage: "https://i.ytimg.com/vi/F8K-Gmq2NGI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/F8K-Gmq2NGI/maxresdefault.jpg"
 heroAlt: "HUAWEI Watch GT 6 ra mắt Việt Nam pin 21 ngày độ sáng 3000 nit"
 heroCaption: "HUAWEI Watch GT 6 Series chính thức có mặt tại thị trường Việt Nam với điểm nhấn pin trâu. Nguồn: YouTube"
 tldr: "<strong>HUAWEI Watch GT 6 Series</strong> đã chính thức ra mắt tại Việt Nam với giá khởi điểm <strong>4,99 triệu đồng</strong> cho bản tiêu chuẩn và <strong>7,69 triệu đồng</strong> cho bản Pro. Điểm nhấn lớn nhất là thời lượng pin lên tới <strong>21 ngày</strong> ở chế độ cơ bản nhờ công nghệ high-silicon, cùng màn hình AMOLED <strong>1,47 inch</strong> độ phân giải 466x466 pixel, độ sáng tối đa <strong>3000 nit</strong>. Máy hỗ trợ hơn <strong>100 chế độ tập luyện</strong> thể thao, độ chính xác đo nhịp tim khi đạp xe lên tới <strong>98%</strong> nhờ công nghệ HUAWEI TruSense, cùng khả năng cảnh báo nguy cơ rung nhĩ và theo dõi chỉ số SpO2, chạy trên hệ điều hành <strong>HarmonyOS 6.0</strong> mới nhất."
@@ -76,7 +76,7 @@ Với thời lượng pin này, người dùng gần như không phải lo lắn
 Về màn hình, HUAWEI Watch GT 6 được trang bị tấm nền AMOLED kích thước 1,47 inch, độ phân giải 466x466 pixel, mật độ điểm ảnh đạt 317 PPI cho hình ảnh sắc nét. Điểm đáng chú ý nhất là độ sáng tối đa lên tới 3000 nit, giúp người dùng dễ dàng quan sát dữ liệu luyện tập, nhịp tim và các thông báo ngay cả khi ở ngoài trời dưới ánh nắng gay gắt, một tình huống thường gây khó khăn cho nhiều mẫu smartwatch có độ sáng màn hình thấp hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/OU52i1Ao-60/hqdefault.jpg" alt="Mở hộp đầy đủ HUAWEI Watch GT 6 và các phụ kiện đi kèm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OU52i1Ao-60/maxresdefault.jpg" alt="Mở hộp đầy đủ HUAWEI Watch GT 6 và các phụ kiện đi kèm" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế viền vát nổi khối 3D mang tới diện mạo khỏe khoắn, góc cạnh cho HUAWEI Watch GT 6. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về mặt thiết kế, phần viền bezel của máy được vát nổi kh�
 Về tính năng thể thao, HUAWEI Watch GT 6 hỗ trợ hơn 100 chế độ tập luyện khác nhau, từ các môn phổ biến như chạy bộ, đạp xe, bơi lội cho tới những môn ít phổ biến hơn như cầu lông và bóng rổ. Công nghệ HUAWEI TruSense mới giúp cải thiện đáng kể độ chính xác đo nhịp tim, đạt tới 98% khi đạp xe và 95% khi chạy bộ địa hình, một mức độ chính xác đáng tin cậy cho người dùng nghiêm túc theo dõi hiệu suất tập luyện. Đáng chú ý, ở chế độ đạp xe, máy còn lần đầu tiên trang bị chỉ số Công suất Ảo (Virtual Power), một tính năng vốn hiếm khi xuất hiện trên smartwatch cùng tầm giá.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WRPgqhSyBwg/hqdefault.jpg" alt="Đánh giá chi tiết tính năng thể thao và sức khỏe của HUAWEI Watch GT 6" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WRPgqhSyBwg/maxresdefault.jpg" alt="Đánh giá chi tiết tính năng thể thao và sức khỏe của HUAWEI Watch GT 6" loading="lazy" width="1280" height="720">
   <figcaption>HUAWEI Watch GT 6 được đánh giá cao về khả năng theo dõi thể thao và sức khỏe chuyên sâu. Nguồn: YouTube</figcaption>
 </figure>
 

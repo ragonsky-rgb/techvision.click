@@ -69,7 +69,7 @@ Con số này không phải là điều bất ngờ với những ai theo dõi s
 Sony cũng nhấn mạnh rõ ràng rằng quyết định này không ảnh hưởng tới các tựa game đã phát hành hoặc dự kiến phát hành dưới dạng đĩa trước thời điểm tháng 1/2028. Các nhà phát hành vẫn có thể tiếp tục đặt in thêm bản đĩa cho những tựa game này ngay cả sau khi chính sách mới có hiệu lực, đồng nghĩa những game phát hành trong năm 2027 hoặc trước đó sẽ không bị gián đoạn nguồn cung đĩa vật lý.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7XlzantXJcI/hqdefault.jpg" alt="Cộng đồng game thủ phản ứng trước quyết định khai tử đĩa vật lý của Sony" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7XlzantXJcI/maxresdefault.jpg" alt="Cộng đồng game thủ phản ứng trước quyết định khai tử đĩa vật lý của Sony" loading="lazy" width="1280" height="720">
   <figcaption>Không ít game thủ bày tỏ lo ngại về vấn đề bảo tồn game và quyền sở hữu khi đĩa vật lý dần biến mất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Dù vậy, quyết định này cũng làm dấy lên không ít tranh luận tr
 Để phần nào xoa dịu những lo ngại này, Sony cho biết sẽ tạo điều kiện để các nhà phát hành tiếp tục bán game mới tại các cửa hàng bán lẻ dưới dạng hộp sản phẩm, nhưng bên trong sẽ chứa mã tải kỹ thuật số thay vì đĩa quang truyền thống. Cách tiếp cận này cho phép trải nghiệm mua sắm tại cửa hàng vật lý vẫn được duy trì phần nào, dù bản chất sản phẩm cuối cùng vẫn là một tệp tin kỹ thuật số cần tải về và không thể chuyển nhượng dễ dàng như đĩa game truyền thống.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/rW5YVvPeM9Y/hqdefault.jpg" alt="Phân tích chi tiết về tác động của việc PlayStation khai tử đĩa vật lý" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rW5YVvPeM9Y/maxresdefault.jpg" alt="Phân tích chi tiết về tác động của việc PlayStation khai tử đĩa vật lý" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh phân tích quốc tế đã mổ xẻ tác động của quyết định này lên toàn ngành công nghiệp game. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Nintendo là ngoại lệ đáng chú ý khi vẫn duy trì thẻ game vật lý
 Với việc chính sách mới có hiệu lực từ tháng 1/2028, gần như chắc chắn thế hệ console kế tiếp của Sony, được giới công nghệ và truyền thông gọi tạm là PS6, sẽ chỉ hỗ trợ chơi game dưới dạng kỹ thuật số hoàn toàn ngay từ khi ra mắt, tương tự định hướng mà nhiều nhà sản xuất console khác cũng đang âm thầm theo đuổi trong bối cảnh chi phí sản xuất phần cứng vật lý ngày càng tăng cao, đặc biệt trong giai đoạn thị trường linh kiện bán dẫn và bộ nhớ đang trải qua nhiều biến động về giá cả và nguồn cung, một thực tế cũng từng được phản ánh qua đợt [Valve tăng giá Steam Machine ngay tại thời điểm ra mắt vì khủng hoảng giá RAM toàn cầu](/articles/valve-steam-machine-ra-mat-30-6-2026-gia-tang-khung-hoang-ram.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/075j1aEn95o/hqdefault.jpg" alt="Cộng đồng game thủ quốc tế thảo luận về tương lai không đĩa vật lý của PlayStation" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/075j1aEn95o/maxresdefault.jpg" alt="Cộng đồng game thủ quốc tế thảo luận về tương lai không đĩa vật lý của PlayStation" loading="lazy" width="1280" height="720">
   <figcaption>Chủ đề khai tử đĩa vật lý nhanh chóng lan rộng trên các kênh truyền thông game quốc tế ngay sau thông báo chính thức. Nguồn: YouTube</figcaption>
 </figure>
 

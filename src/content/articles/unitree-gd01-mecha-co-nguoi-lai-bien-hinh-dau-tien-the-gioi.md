@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-18T09:00:00+07:00"
 dateModified: "2026-07-18T09:00:00+07:00"
 deck: "Giấc mơ về những cỗ máy mecha trong phim khoa học viễn tưởng vừa tiến thêm một bước dài ra đời thực. Unitree Robotics, hãng robot nổi tiếng của Trung Quốc, đã trình làng GD01, được giới thiệu là mecha có người lái biến hình đầu tiên trên thế giới được sản xuất hàng loạt. Cỗ máy khổng lồ cao tới 2,7 mét này có thể chở một người ngồi bên trong, di chuyển linh hoạt trên hai chân rồi chuyển sang tư thế bốn chân, thậm chí dùng cánh tay như chân để bò qua các không gian thấp. Ra mắt hồi tháng 5, GD01 tiếp tục trở thành tâm điểm chú ý tại Hội nghị Trí tuệ nhân tạo Thế giới WAIC 2026 ở Thượng Hải, nơi nó được trưng bày như một biểu tượng cho làn sóng robot và trí tuệ hiện thân của Trung Quốc. Với mức giá khởi điểm khoảng 650.000 USD, GD01 không chỉ là một màn phô diễn công nghệ mà còn nhắm tới các ứng dụng thực tế như công nghiệp, cứu hộ và du lịch trải nghiệm."
-heroImage: "https://i.ytimg.com/vi/oWOyUMJWptc/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/oWOyUMJWptc/maxresdefault.jpg"
 heroAlt: "Unitree GD01 mecha có người lái biến hình đầu tiên thế giới trưng bày tại WAIC 2026"
 heroCaption: "Unitree GD01, mecha có người lái biến hình đầu tiên thế giới, gây sốt tại WAIC 2026. Nguồn: YouTube"
 tldr: "<strong>Unitree Robotics</strong> đã trình làng <strong>GD01</strong>, được giới thiệu là mecha có người lái biến hình đầu tiên thế giới sản xuất hàng loạt, và nó tiếp tục là tâm điểm tại <strong>WAIC 2026</strong> ở Thượng Hải. Cỗ máy cao <strong>2,7 mét</strong>, nặng khoảng <strong>500 kg</strong> khi chở người, có thể đi trên hai chân hoặc chuyển sang bốn chân, dùng cánh tay như chân để bò, và trong video demo còn đập vỡ tường gạch. GD01 làm từ hợp kim cường độ cao, nhắm tới các ứng dụng dân sự như công nghiệp, cứu hộ khẩn cấp và du lịch trải nghiệm. Giá khởi điểm khoảng <strong>3,9 triệu tệ</strong>, tương đương <strong>650.000 USD</strong>. Nhà sáng lập Vương Hưng Hưng đã trực tiếp ngồi lái GD01 trong màn giới thiệu."
@@ -77,7 +77,7 @@ Màn giới thiệu càng thêm thuyết phục khi chính nhà sáng lập Unit
 Điều đáng chú ý là Unitree không định vị GD01 chỉ như một màn phô diễn công nghệ. Hãng giới thiệu đây là một phương tiện dân sự, nhắm tới các ứng dụng thực tế cụ thể. Ba lĩnh vực được nhắc tới gồm vận hành công nghiệp, cứu hộ khẩn cấp và du lịch trải nghiệm, những nơi mà một cỗ máy vừa mạnh vừa linh hoạt về địa hình có thể phát huy tác dụng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/nLWSrktMQHo/hqdefault.jpg" alt="Unitree GD01 hướng tới ứng dụng công nghiệp, cứu hộ và du lịch trải nghiệm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nLWSrktMQHo/maxresdefault.jpg" alt="Unitree GD01 hướng tới ứng dụng công nghiệp, cứu hộ và du lịch trải nghiệm" loading="lazy" width="1280" height="720">
   <figcaption>GD01 được Unitree định vị là phương tiện dân sự cho nhiều lĩnh vực thực tế. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,14 +88,14 @@ Tất nhiên, với mức giá khởi điểm khoảng 3,9 triệu tệ, tương
 ## Biểu tượng cho tham vọng robot của Trung Quốc
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Qx1rUs43ZcQ/hqdefault.jpg" alt="Unitree GD01 trở thành biểu tượng cho làn sóng robot và trí tuệ hiện thân của Trung Quốc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Qx1rUs43ZcQ/sddefault.jpg" alt="Unitree GD01 trở thành biểu tượng cho làn sóng robot và trí tuệ hiện thân của Trung Quốc" loading="lazy" width="640" height="480">
   <figcaption>GD01 là điểm nhấn trong khu trưng bày trí tuệ hiện thân tại WAIC 2026. Nguồn: YouTube</figcaption>
 </figure>
 
 Việc GD01 tiếp tục là tâm điểm tại WAIC 2026 cho thấy vị thế của nó như một biểu tượng. Tại khu trưng bày trí tuệ hiện thân của hội nghị, nơi quy tụ hàng trăm sản phẩm robot và mô hình AI, một cỗ máy mecha có người lái vẫn đủ sức thu hút sự chú ý bậc nhất. Điều này phản ánh tham vọng lớn của Trung Quốc trong lĩnh vực robot, khi các hãng nội địa liên tục tung ra những sản phẩm gây tiếng vang. Unitree vốn đã là cái tên quen thuộc, và sức nóng của hãng còn thể hiện qua việc [Unitree Robotics tiến hành IPO tại Thượng Hải](/articles/unitree-robotics-ipo-shanghai-robot-hinh-nguoi-trung-quoc-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Er7wzohP4kc/hqdefault.jpg" alt="Unitree GD01 đánh dấu bước tiến của công nghệ robot có người lái từ viễn tưởng ra đời thực" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Er7wzohP4kc/maxresdefault.jpg" alt="Unitree GD01 đánh dấu bước tiến của công nghệ robot có người lái từ viễn tưởng ra đời thực" loading="lazy" width="1280" height="720">
   <figcaption>GD01 biến ý tưởng mecha khoa học viễn tưởng thành sản phẩm sản xuất hàng loạt. Nguồn: YouTube</figcaption>
 </figure>
 

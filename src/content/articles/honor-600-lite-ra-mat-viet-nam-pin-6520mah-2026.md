@@ -77,7 +77,7 @@ Yếu tố được nhắc tới nhiều nhất khi nói về HONOR 600 Lite ch�
 Về màn hình, HONOR 600 Lite trang bị tấm nền AMOLED kích thước 6,6 inch, độ phân giải 1,5K tương đương 2.600 x 1.200 pixel, cùng tần số quét 120Hz cho trải nghiệm cuộn trang và chơi game mượt mà hơn. Độ sáng tối đa của màn hình đạt tới 6.500 nit, giúp hiển thị rõ nét ngay cả trong điều kiện ánh sáng mạnh ngoài trời, một yếu tố quan trọng với người dùng thường xuyên sử dụng điện thoại ngoài trời tại Việt Nam.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WYd3pyOmKHE/hqdefault.jpg" alt="Đánh giá chi tiết HONOR 600 Lite về giá và thông số kỹ thuật" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WYd3pyOmKHE/sddefault.jpg" alt="Đánh giá chi tiết HONOR 600 Lite về giá và thông số kỹ thuật" loading="lazy" width="640" height="480">
   <figcaption>HONOR 600 Lite được đánh giá là lựa chọn đáng cân nhắc trong phân khúc tầm trung năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,14 +88,14 @@ Về camera, máy được trang bị camera chính độ phân giải 108MP, ma
 Với cấu hình hiện tại, HONOR 600 Lite có thể vận hành tốt nhiều tựa game di động phổ biến tại Việt Nam. Cụ thể, máy có thể chạy Liên Quân Mobile ở mức khoảng 60 khung hình/giây, PUBG Mobile trong khoảng 40 đến 50 khung hình/giây, và Free Fire ở thiết lập đồ hoạ mượt tối đa, đáp ứng tốt nhu cầu giải trí của phần lớn người dùng phổ thông mà không cần đầu tư vào các dòng máy gaming chuyên dụng đắt tiền hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/tyBslr3aiGY/hqdefault.jpg" alt="Đánh giá toàn diện HONOR 600 Lite có phải vua tầm trung 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tyBslr3aiGY/maxresdefault.jpg" alt="Đánh giá toàn diện HONOR 600 Lite có phải vua tầm trung 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh đánh giá quốc tế gọi HONOR 600 Lite là ứng viên sáng giá trong phân khúc tầm trung năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
 Về độ bền, HONOR 600 Lite đạt chuẩn kháng bụi và kháng nước IP66, cùng chứng nhận chống chịu va đập từ độ cao rơi lên tới 1,8 mét theo tiêu chuẩn kiểm định độc lập SGS. Đây là những chứng nhận đáng chú ý ở một mẫu máy tầm trung, thường chỉ xuất hiện trên các dòng flagship cao cấp hơn, cho thấy HONOR đang cố gắng gia tăng giá trị cạnh tranh cho sản phẩm ở phân khúc giá dưới 11 triệu đồng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/b3v1qSl16Yg/hqdefault.jpg" alt="Mở hộp chi tiết HONOR 600 Lite tại Việt Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/b3v1qSl16Yg/maxresdefault.jpg" alt="Mở hộp chi tiết HONOR 600 Lite tại Việt Nam" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế thực tế của HONOR 600 Lite khi mở hộp cho thấy độ hoàn thiện tốt so với tầm giá. Nguồn: YouTube</figcaption>
 </figure>
 

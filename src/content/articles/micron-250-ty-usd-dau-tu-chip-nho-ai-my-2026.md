@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T07:20:00+07:00"
 dateModified: "2026-07-13T07:20:00+07:00"
 deck: "Micron Technology vừa công bố nâng tổng cam kết đầu tư sản xuất chip nhớ tại Mỹ lên hơn 250 tỷ USD tới năm 2035, tăng khoảng 50 tỷ USD so với kế hoạch trước đó, giữa lúc nhu cầu chip nhớ phục vụ AI tăng vọt. Trọng tâm khoản đầu tư là nhà máy tại Clay, bang New York, gần Syracuse, dự kiến trở thành cơ sở sản xuất bán dẫn lớn nhất trong lịch sử nước Mỹ."
-heroImage: "https://i.ytimg.com/vi/9RIMyLh8SEE/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/9RIMyLh8SEE/maxresdefault.jpg"
 heroAlt: "Micron đầu tư 250 tỷ USD chip nhớ AI tại Mỹ"
 heroCaption: "Micron mở rộng quy mô đầu tư chip nhớ AI tại Mỹ lên hơn 250 tỷ USD. Nguồn: YouTube"
 tldr: "Ngày <strong>9/7/2026</strong>, <strong>Micron Technology</strong> công bố nâng tổng cam kết đầu tư sản xuất chip nhớ tại Mỹ lên hơn <strong>250 tỷ USD</strong> tới năm <strong>2035</strong>, tăng khoảng 50 tỷ USD so với kế hoạch công bố trước đó, giữa lúc nhu cầu chip nhớ phục vụ AI tăng vọt trên toàn cầu. Trọng tâm khoản đầu tư là nhà máy đặt tại Clay, bang New York, gần thành phố Syracuse, với kế hoạch xây tới bốn nhà máy (fab), dự kiến trở thành <strong>cơ sở sản xuất bán dẫn lớn nhất trong lịch sử nước Mỹ</strong>, tạo ra khoảng 50.000 việc làm tại New York. Mục tiêu của khoản đầu tư mở rộng là đưa <strong>40% sản lượng DRAM</strong> của Micron về sản xuất trên đất Mỹ, đồng thời công ty còn dành thêm tới 3 tỷ USD củng cố chuỗi cung ứng bán dẫn nội địa. Chỉ chưa đầy sáu tháng sau khi khởi công hồi tháng 1/2026, Micron đã giải ngân khoảng 675 triệu USD cho các nhà thầu và nhà cung cấp tại New York."
@@ -73,7 +73,7 @@ Trọng tâm của khoản đầu tư mở rộng lần này là tổ hợp nhà
 Động lực chính đằng sau quyết định nâng vốn đầu tư của Micron là nhu cầu chip nhớ phục vụ các hệ thống AI đang tăng trưởng với tốc độ chưa từng có, khiến nguồn cung chip nhớ toàn cầu rơi vào tình trạng khan hiếm kéo dài. Với khoản đầu tư mở rộng lần này, Micron đặt mục tiêu đưa 40% sản lượng chip nhớ DRAM của công ty về sản xuất trên đất Mỹ, một bước đi quan trọng nhằm giảm phụ thuộc vào các cơ sở sản xuất ở nước ngoài, đồng thời bảo đảm chuỗi cung ứng ổn định hơn trước những biến động địa chính trị có thể xảy ra trong tương lai.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Tb_rDu9uSqk/hqdefault.jpg" alt="Micron công bố kế hoạch đầu tư sản xuất và nghiên cứu phát triển tại Mỹ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Tb_rDu9uSqk/maxresdefault.jpg" alt="Micron công bố kế hoạch đầu tư sản xuất và nghiên cứu phát triển tại Mỹ" loading="lazy" width="1280" height="720">
   <figcaption>Micron liên tục nâng quy mô cam kết đầu tư sản xuất tại Mỹ trong bối cảnh nhu cầu chip nhớ AI toàn cầu tăng vọt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Ngay sau thông tin được công bố, cổ phiếu Micron ghi nhận mức t�
 Giới phân tích nhận định làn sóng đầu tư này khó có thể sớm hạ nhiệt, khi các trung tâm dữ liệu AI trên toàn cầu vẫn đang được xây dựng với tốc độ chóng mặt, kéo theo nhu cầu chip nhớ dung lượng lớn tăng liên tục qua từng quý. Với vị thế là một trong ba nhà sản xuất chip nhớ hàng đầu thế giới bên cạnh Samsung và SK Hynix, quyết định nâng vốn đầu tư của Micron được xem là bước đi chiến lược nhằm giữ vững thị phần trong giai đoạn cạnh tranh khốc liệt này, đặc biệt khi nhiều đối thủ châu Á cũng đang chạy đua mở rộng công suất sản xuất chip nhớ thế hệ mới để đáp ứng nhu cầu ngày càng lớn từ các mô hình AI như [DeepSeek-V4 với cửa sổ ngữ cảnh lên tới 1 triệu token](/articles/deepseek-v4-dspark-khai-tu-api-cu-24-7-2026.html), vốn đòi hỏi lượng bộ nhớ xử lý khổng lồ trong quá trình huấn luyện và suy luận.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Q_PSCMdINmg/hqdefault.jpg" alt="CEO Micron trả lời phỏng vấn về nhu cầu chip nhớ AI toàn cầu" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Q_PSCMdINmg/maxresdefault.jpg" alt="CEO Micron trả lời phỏng vấn về nhu cầu chip nhớ AI toàn cầu" loading="lazy" width="1280" height="720">
   <figcaption>Ban lãnh đạo Micron nhiều lần khẳng định nhu cầu chip nhớ phục vụ AI sẽ tiếp tục tăng trưởng mạnh trong những năm tới. Nguồn: YouTube</figcaption>
 </figure>
 
 Riêng tại thị trường Việt Nam, xu hướng giá linh kiện bộ nhớ tăng theo đà đầu tư toàn cầu cũng đã bắt đầu ảnh hưởng tới người tiêu dùng, khi giá RAM và các thiết bị lưu trữ liên tục leo thang trong vài tháng gần đây do nguồn cung khan hiếm, một hệ quả trực tiếp từ việc phần lớn công suất sản xuất chip nhớ trên toàn cầu đang được các hãng như Micron, Samsung và SK Hynix ưu tiên dồn vào phục vụ nhu cầu AI thay vì thị trường tiêu dùng phổ thông.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/tcz0NEbUWa8/hqdefault.jpg" alt="Micron khởi công nhà máy chip 100 tỷ USD tại New York" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/tcz0NEbUWa8/maxresdefault.jpg" alt="Micron khởi công nhà máy chip 100 tỷ USD tại New York" loading="lazy" width="1280" height="720">
   <figcaption>Micron đã khởi công nhà máy tại New York từ đầu năm 2026 và liên tục nâng quy mô đầu tư trong những tháng gần đây. Nguồn: YouTube</figcaption>
 </figure>
 

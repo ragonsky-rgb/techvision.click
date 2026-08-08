@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-11T08:00:00+07:00"
 dateModified: "2026-07-11T08:00:00+07:00"
 deck: "Figure AI, startup robot hình người được định giá 39 tỷ USD, xác nhận một cột mốc chưa từng có: số lượng robot hình người Figure 03 mà công ty vận hành đã chính thức vượt qua số lượng nhân viên con người, nhờ nhà máy BotQ đạt tốc độ sản xuất một robot mỗi giờ, tăng gấp 24 lần chỉ trong vòng chưa đầy 120 ngày."
-heroImage: "https://i.ytimg.com/vi/g1ESjEGG1SM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/g1ESjEGG1SM/maxresdefault.jpg"
 heroAlt: "Figure AI robot hình người vượt số nhân viên nhờ nhà máy BotQ"
 heroCaption: "Nhà máy BotQ của Figure AI đạt tốc độ sản xuất một robot hình người mỗi giờ. Nguồn: YouTube"
 tldr: "<strong>Figure AI</strong>, startup robot hình người được định giá <strong>39 tỷ USD</strong>, xác nhận số lượng robot <strong>Figure 03</strong> mà công ty vận hành đã chính thức <strong>vượt qua số nhân viên con người</strong>, với khoảng <strong>750 robot</strong> so với chỉ <strong>650 nhân viên</strong> tính đến giữa năm 2026. Cột mốc này đạt được nhờ nhà máy <strong>BotQ</strong> tại California tăng tốc sản xuất ngoạn mục: từ khoảng <strong>60 robot mỗi tháng</strong> vào tháng 2/2026 lên tới tốc độ <strong>một robot mỗi giờ</strong> vào cuối tháng 4, tương đương mức tăng <strong>24 lần</strong> chỉ trong chưa đầy <strong>120 ngày</strong>. Nhà máy hiện có công suất thiết kế <strong>12.000 robot mỗi năm</strong>, với lộ trình hướng tới quy mô <strong>100.000 robot mỗi năm</strong> trong tương lai."
@@ -76,7 +76,7 @@ Theo xác nhận từ CEO Brett Adcock, tính đến giữa năm 2026, Figure AI
 Cột mốc robot vượt nhân viên đạt được nhờ tốc độ tăng trưởng sản xuất đáng kinh ngạc tại nhà máy BotQ của Figure AI đặt tại California. Vào tháng 2/2026, nhà máy này chỉ sản xuất khoảng 60 robot mỗi tháng. Chỉ hai tháng sau, vào tháng 4/2026, sản lượng đã tăng vọt lên 240 robot mỗi tháng, tương đương mức tăng gấp 4 lần. Tới cuối tháng 4, Figure AI công bố nhà máy đã đạt được cột mốc sản xuất một robot mỗi giờ, đánh dấu mức tăng trưởng tổng thể lên tới 24 lần chỉ trong chưa đầy 120 ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/o-04JeHl8LU/hqdefault.jpg" alt="Hành trình Figure 03 từ 1 robot mỗi ngày lên 60 robot mỗi ngày tại nhà máy BotQ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/o-04JeHl8LU/maxresdefault.jpg" alt="Hành trình Figure 03 từ 1 robot mỗi ngày lên 60 robot mỗi ngày tại nhà máy BotQ" loading="lazy" width="1280" height="720">
   <figcaption>Tốc độ tăng trưởng sản xuất tại nhà máy BotQ khiến nhiều chuyên gia trong ngành bất ngờ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,14 +87,14 @@ Cột mốc robot vượt nhân viên đạt được nhờ tốc độ tăng tr
 Về mặt ứng dụng, Figure 03 được thiết kế để phục vụ cả môi trường công nghiệp lẫn công việc gia đình. Trong các thử nghiệm gần đây, robot đã thể hiện thành thạo tới 8 kỹ năng dọn dẹp tự động khác nhau, bao gồm lau mặt bàn, quét sàn nhà, cọ rửa bồn rửa, lau vết đổ, hút bụi thảm, phủi bụi kệ tủ, đánh bóng bề mặt và sắp xếp đồ đạc lộn xộn. Dù vậy, CEO Brett Adcock thẳng thắn thừa nhận ông "sẽ không để robot của mình tự do hoạt động hàng giờ, hàng tuần với các con nhỏ trong nhà" ở thời điểm hiện tại, cho thấy công ty vẫn đang tiếp cận việc triển khai tại gia đình một cách thận trọng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ch_UM_JJU9w/hqdefault.jpg" alt="Tham quan toàn bộ trụ sở Figure AI từ phòng thí nghiệm tới sàn nhà máy" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ch_UM_JJU9w/maxresdefault.jpg" alt="Tham quan toàn bộ trụ sở Figure AI từ phòng thí nghiệm tới sàn nhà máy" loading="lazy" width="1280" height="720">
   <figcaption>Chuyến tham quan toàn diện trụ sở Figure AI hé lộ quy mô đầu tư khổng lồ của công ty vào sản xuất robot. Nguồn: YouTube</figcaption>
 </figure>
 
 Nhà máy BotQ hiện có công suất thiết kế ban đầu 12.000 robot mỗi năm, nhưng Figure AI đã vạch ra lộ trình dài hạn đầy tham vọng hướng tới quy mô sản xuất 100.000 robot mỗi năm trong tương lai. Đây là một phần trong tầm nhìn lớn hơn của công ty, khi Adcock từng chia sẻ mục tiêu mở rộng từ quy mô hàng nghìn robot trong năm nay lên tới 1 triệu robot mỗi năm về lâu dài.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/KgXE0L3XDKE/hqdefault.jpg" alt="Dây chuyền lắp ráp robot Figure 03 hoạt động liên tục tại nhà máy BotQ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KgXE0L3XDKE/maxresdefault.jpg" alt="Dây chuyền lắp ráp robot Figure 03 hoạt động liên tục tại nhà máy BotQ" loading="lazy" width="1280" height="720">
   <figcaption>Dây chuyền sản xuất tự động tại BotQ liên tục cho ra đời robot Figure 03 mới mỗi giờ. Nguồn: YouTube</figcaption>
 </figure>
 

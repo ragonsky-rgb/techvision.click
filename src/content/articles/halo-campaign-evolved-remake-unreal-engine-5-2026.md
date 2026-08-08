@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T11:00:00+07:00"
 dateModified: "2026-07-05T11:00:00+07:00"
 deck: "Halo: Campaign Evolved, bản làm lại hoàn chỉnh tựa game kinh điển Halo: Combat Evolved trên nền tảng Unreal Engine 5, sẽ chính thức ra mắt ngày 28/7/2026, không chỉ trên Xbox và PC mà lần đầu tiên còn có mặt trên PlayStation 5, đánh dấu bước chuyển mình đáng chú ý trong chiến lược đa nền tảng của Xbox."
-heroImage: "https://i.ytimg.com/vi/xn8qltl3fkk/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/xn8qltl3fkk/maxresdefault.jpg"
 heroAlt: "Halo Campaign Evolved remake Unreal Engine 5 2026"
 heroCaption: "Halo: Campaign Evolved là bản làm lại hoàn chỉnh trên Unreal Engine 5, ra mắt cả trên PlayStation 5. Nguồn: YouTube"
 tldr: "<strong>Halo: Campaign Evolved</strong> chính thức ra mắt toàn cầu vào <strong>28/7/2026</strong>, mở truy cập sớm từ <strong>23/7</strong>. Đây không phải bản làm mới đồ họa đơn thuần như bản Anniversary năm 2011, mà là bản làm lại hoàn chỉnh trên nền <strong>Unreal Engine 5</strong>, với gameplay, đồ họa, lồng tiếng và nhạc nền được thực hiện lại toàn bộ. Game giữ nguyên <strong>10 màn chơi gốc</strong> của Combat Evolved, bổ sung thêm <strong>3 nhiệm vụ tiền truyện</strong> mới xoay quanh Master Chief và Trung sĩ Johnson, diễn ra một năm trước cốt truyện gốc. Đặc biệt, đây là lần đầu tiên một tựa Halo chính thức có mặt trên <strong>PlayStation 5</strong>, bên cạnh Xbox Series X/S và PC."
@@ -69,7 +69,7 @@ Halo: Campaign Evolved, bản làm lại hoàn chỉnh tựa game kinh điển �
 Bên cạnh việc giữ nguyên toàn bộ 10 màn chơi gốc quen thuộc với người hâm mộ lâu năm, Halo: Campaign Evolved còn bổ sung thêm ba nhiệm vụ tiền truyện hoàn toàn mới, xoay quanh Master Chief và Trung sĩ Johnson, diễn ra một năm trước cốt truyện gốc của Combat Evolved. Đây là cách tiếp cận thông minh giúp game vừa giữ được sự hoài niệm cho người chơi cũ, vừa mang tới nội dung mới mẻ đủ hấp dẫn để thuyết phục cả nhóm người chơi chưa từng trải nghiệm dòng game này trước đây.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xn8qltl3fkk/sddefault.jpg" alt="Trailer gameplay nhiem vu moi Halo Campaign Evolved Xbox Games Showcase" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xn8qltl3fkk/maxresdefault.jpg" alt="Trailer gameplay nhiem vu moi Halo Campaign Evolved Xbox Games Showcase" loading="lazy" width="1280" height="720">
   <figcaption>Trailer gameplay chính thức giới thiệu các nhiệm vụ mới trong Halo Campaign Evolved tại sự kiện Xbox Games Showcase 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Với game thủ đang tìm kiếm thiết bị chơi game phù hợp để tr�
 Với cộng đồng game thủ Việt Nam, sự kiện Halo chính thức đặt chân lên PlayStation 5 là tín hiệu tích cực, giúp nhiều người chơi vốn chỉ sở hữu hệ máy PlayStation có cơ hội trải nghiệm một trong những series game định hình lịch sử ngành game bắn súng góc nhìn thứ nhất trên console mà không cần đầu tư thêm một hệ máy Xbox riêng biệt. Đây cũng là thời điểm tốt để những ai quan tâm tới việc nâng cấp dàn thiết bị chơi game tại nhà cân nhắc thêm phụ kiện phù hợp, tham khảo [cách chọn chuột gaming theo 5 tiêu chí quan trọng](/articles/cach-chon-chuot-gaming-2026-tieu-chi.html) nếu có ý định chơi trên PC để tối ưu trải nghiệm điều khiển trong game.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xn8qltl3fkk/mqdefault.jpg" alt="Halo Campaign Evolved do hoa moi tren Unreal Engine 5" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xn8qltl3fkk/maxresdefault.jpg" alt="Halo Campaign Evolved do hoa moi tren Unreal Engine 5" loading="lazy" width="1280" height="720">
   <figcaption>Đồ họa được làm lại hoàn toàn trên Unreal Engine 5 mang tới trải nghiệm hình ảnh hiện đại cho Halo Campaign Evolved. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Với cộng đồng game thủ Việt Nam, sự kiện Halo chính thức đặ
 Việc làm lại toàn diện một tựa game đã có vị thế biểu tượng như Halo: Combat Evolved luôn tiềm ẩn rủi ro nhất định, khi cộng đồng người hâm mộ lâu năm thường có kỳ vọng rất cao và dễ so sánh khắt khe với bản gốc trong ký ức của họ. Tuy nhiên, cách tiếp cận bổ sung nội dung tiền truyện mới thay vì chỉ đơn thuần làm lại đồ họa cho thấy đội ngũ phát triển đã cân nhắc kỹ để mang tới giá trị thực sự mới mẻ, không chỉ dừng lại ở việc bán lại sản phẩm cũ với lớp áo đồ họa hiện đại hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/HhsxGagHirw/mqdefault.jpg" alt="Nhiem vu moi Halo Campaign Evolved gioi thieu tai Xbox Showcase" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/HhsxGagHirw/maxresdefault.jpg" alt="Nhiem vu moi Halo Campaign Evolved gioi thieu tai Xbox Showcase" loading="lazy" width="1280" height="720">
   <figcaption>Các nhiệm vụ mới được giới thiệu chi tiết tại sự kiện Xbox Games Showcase 2026, thu hút sự chú ý lớn từ cộng đồng. Nguồn: YouTube</figcaption>
 </figure>
 

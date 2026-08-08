@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T18:10:00+07:00"
 dateModified: "2026-07-13T18:10:00+07:00"
 deck: "Pokémon đang bước vào cột mốc lớn nhất kể từ nhiều năm với Pokémon Winds và Pokémon Waves, cặp game mở màn thế hệ 10 và độc quyền cho Nintendo Switch 2. Điều khiến cộng đồng game thủ Việt Nam đặc biệt hào hứng là bối cảnh: một vùng đất quần đảo nhiệt đới gợi liên tưởng mạnh tới Đông Nam Á, với hàng loạt hòn đảo và cả những vùng biển có thể lặn khám phá. Trong lúc chờ game lên kệ năm 2027, Nintendo còn tung bộ đôi máy kèm game Pokémon Pokopia ngay trong tháng 7 này."
-heroImage: "https://i.ytimg.com/vi/38XHXMdDegg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/38XHXMdDegg/maxresdefault.jpg"
 heroAlt: "Pokémon Winds và Waves game thế hệ 10 độc quyền Nintendo Switch 2"
 heroCaption: "Pokémon Winds và Waves mở ra thế hệ 10 với vùng đất quần đảo nhiệt đới. Nguồn: YouTube"
 tldr: "Pokémon Winds và Pokémon Waves là cặp game mở màn <strong>thế hệ 10</strong>, do Game Freak phát triển, được công bố ngày 27/2/2026 nhân kỷ niệm 30 năm thương hiệu và tái xác nhận tại Nintendo Direct giữa năm. Game <strong>độc quyền Nintendo Switch 2</strong>, bỏ qua máy Switch đời đầu, dự kiến phát hành toàn cầu cùng lúc vào <strong>năm 2027</strong>. Bối cảnh là một quần đảo nhiệt đới gợi liên tưởng Đông Nam Á với nhiều đảo và vùng biển lặn được. Trước đó, Nintendo tung bộ máy kèm game Pokémon Pokopia lên kệ ngày <strong>23/7/2026</strong>. Switch 2 đã bán gần <strong>19,86 triệu máy</strong> trong năm tài chính đầu tiên."
@@ -75,7 +75,7 @@ Cách đặt tên Winds và Waves, tức Gió và Sóng, cũng hé lộ chủ đ
 Yếu tố khiến bản đồ lần này nổi bật chính là bối cảnh. Thay vì lấy cảm hứng từ châu Âu hay Nhật Bản như nhiều phần trước, vùng đất trong Winds và Waves là một quần đảo nhiệt đới trải rộng, gồm nhiều hòn đảo lộng gió và những vùng biển lấp lánh có thể lặn xuống khám phá. Với người chơi Đông Nam Á, khung cảnh biển đảo, khí hậu nhiệt đới và cảm giác phiêu lưu giữa các hòn đảo mang lại sự gần gũi hiếm có.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/m8w5Mca5faU/hqdefault.jpg" alt="Vùng đất quần đảo nhiệt đới trong Pokémon Winds và Waves" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/m8w5Mca5faU/maxresdefault.jpg" alt="Vùng đất quần đảo nhiệt đới trong Pokémon Winds và Waves" loading="lazy" width="1280" height="720">
   <figcaption>Bản đồ quần đảo với nhiều đảo và vùng biển lặn được gợi liên tưởng mạnh tới Đông Nam Á. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Về dàn Pokémon khởi đầu, các bản tổng hợp ban đầu cho rằng 
 Quyết định độc quyền Switch 2 và bỏ qua máy Switch đời đầu là một bước đi có tính toán. Các phần Pokémon gần nhất từng bị chỉ trích vì hiệu năng và đồ họa hạn chế do phần cứng Switch thế hệ đầu đã cũ. Với Switch 2 mạnh hơn nhiều, Game Freak có dư địa để xây dựng một thế giới mở rộng lớn, chi tiết và mượt mà hơn, điều mà một vùng đất quần đảo với biển cả khám phá được rất cần.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SDh6COB0Nqk/hqdefault.jpg" alt="Nintendo Switch 2 và hệ sinh thái game Pokémon năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SDh6COB0Nqk/maxresdefault.jpg" alt="Nintendo Switch 2 và hệ sinh thái game Pokémon năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Sức mạnh phần cứng Switch 2 là nền tảng để Game Freak dựng một vùng đất mở lớn hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Trong lúc chờ đợi bom tấn thế hệ 10, Nintendo vẫn giữ nhịp cho
 Bối cảnh thương mại của cặp game rất thuận lợi. Switch 2 đã bán gần 19,86 triệu máy trong năm tài chính đầu tiên tính tới cuối tháng 3/2026, thậm chí có quý vượt cả PlayStation 5, và được xem là một trong những máy chơi game bán nhanh nhất lịch sử tại Mỹ. Tuy đà tăng đang chậm lại với dự báo khoảng 16,5 triệu máy cho năm tài chính kế tiếp, một tựa Pokémon mới thường là cú hích doanh số đáng kể, như phân tích trong bài [Nintendo Switch 2 sau một năm doanh số gần 20 triệu máy](/articles/nintendo-switch-2-mot-nam-doanh-so-gan-20-trieu-may-cham-lai.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/rR_4nsCu-IA/hqdefault.jpg" alt="Sự kiện Pokémon Day giới thiệu thế hệ game mới năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rR_4nsCu-IA/maxresdefault.jpg" alt="Sự kiện Pokémon Day giới thiệu thế hệ game mới năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Pokémon vẫn là một trong những thương hiệu giải trí có sức hút bền bỉ nhất thế giới. Nguồn: YouTube</figcaption>
 </figure>
 

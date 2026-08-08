@@ -67,7 +67,7 @@ Hai bản vừa ra mắt chia sẻ nhiều điểm chung về khung thiết kế
 Sức nặng của dòng Redmi Note nằm ở quy mô. Đây là một trong những dòng smartphone bán chạy nhất thế giới qua nhiều thế hệ, nên mỗi lần ra đời mới đều được người dùng phổ thông theo dõi sát. Redmi Note thường định hình mặt bằng cấu hình mà cả phân khúc tầm trung phải chạy theo trong năm đó, và việc bổ sung thêm cấp Pro Max cho thấy Xiaomi tự tin mở rộng dòng sản phẩm chủ lực này lên một nấc cao hơn thay vì chỉ giữ nguyên công thức cũ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_0I19on7-6Q/hqdefault.jpg" alt="Thiết kế mặt lưng Redmi Note 17 Pro với cụm camera vuông đặt ở góc trên bên trái" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_0I19on7-6Q/maxresdefault.jpg" alt="Thiết kế mặt lưng Redmi Note 17 Pro với cụm camera vuông đặt ở góc trên bên trái" loading="lazy" width="1280" height="720">
   <figcaption>Redmi Note 17 Pro đưa cụm camera vuông về góc trên bên trái, khác kiểu bố trí của các đời trước. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Sức nặng của dòng Redmi Note nằm ở quy mô. Đây là một trong nh�
 Cả hai bản đều dùng màn hình phẳng 6,83 inch độ phân giải 1.5K, tần số quét 120Hz. Đây là bước nâng cấp đáng kể so với các đời Note trước ở cùng tầm giá, mang lại trải nghiệm hiển thị sắc nét và mượt hơn khi lướt nội dung hay chơi game nhẹ. Việc chọn màn phẳng thay vì cong cũng phù hợp với nhóm khách hàng ưu tiên độ bền và dễ dán kính cường lực.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/jnZ1etiAtMU/hqdefault.jpg" alt="Redmi Note 17 với viên pin 9.000mAh dung lượng lớn nhất phân khúc tầm trung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/jnZ1etiAtMU/maxresdefault.jpg" alt="Redmi Note 17 với viên pin 9.000mAh dung lượng lớn nhất phân khúc tầm trung" loading="lazy" width="1280" height="720">
   <figcaption>Viên pin 9.000mAh xuất hiện trên cả bản tiêu chuẩn lẫn bản Pro của Redmi Note 17. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Việc đưa loạt tính năng bền bỉ vốn quen thuộc ở phân khúc ca
 Về giá, Redmi Note 17 Pro tại Trung Quốc có bốn mức chính thức: 1.599 tệ cho bản 8GB/128GB, 1.899 tệ cho bản 8GB/256GB, 2.199 tệ cho bản 12GB/256GB và 2.299 tệ cho bản 8GB/512GB. Quy đổi theo tỷ giá hiện tại, mức khởi điểm tương đương khoảng 5,6 triệu đồng, còn bản cao nhất khoảng 8 triệu đồng. Đây là mức hấp dẫn so với cấu hình, nhưng cần lưu ý đó là giá nội địa Trung Quốc. Redmi còn có các mẫu mạnh hơn hướng tới game thủ, chẳng hạn [Redmi K90 Ultra với pin 8.500mAh](/articles/redmi-k90-ultra-2026-vu-khi-gaming-pin-8500mah-quat-tan-nhiet-gia-re.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/OPT3slqSO7Y/hqdefault.jpg" alt="Redmi Note 17 Pro giới thiệu cấu hình tầm trung với màn 1.5K và pin lớn" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OPT3slqSO7Y/maxresdefault.jpg" alt="Redmi Note 17 Pro giới thiệu cấu hình tầm trung với màn 1.5K và pin lớn" loading="lazy" width="1280" height="720">
   <figcaption>Redmi Note 17 Pro có bốn mức giá tại Trung Quốc, khởi điểm 1.599 tệ. Nguồn: YouTube</figcaption>
 </figure>
 

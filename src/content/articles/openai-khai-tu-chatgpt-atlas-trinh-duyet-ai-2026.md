@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-11T22:55:00+07:00"
 dateModified: "2026-07-11T22:55:00+07:00"
 deck: "OpenAI vừa thông báo sẽ chính thức khai tử trình duyệt AI mang tên Atlas kể từ ngày 9/8/2026, chỉ chưa đầy một năm sau khi ra mắt với tham vọng cạnh tranh trực diện cùng Google Chrome. Thay vì tiếp tục duy trì một trình duyệt độc lập, OpenAI quyết định tích hợp các tính năng agent duyệt web thông minh của Atlas thẳng vào ứng dụng ChatGPT desktop được làm mới cùng một tiện ích mở rộng dành cho Chrome."
-heroImage: "https://i.ytimg.com/vi/wkzNPBAfQOc/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/wkzNPBAfQOc/maxresdefault.jpg"
 heroAlt: "OpenAI khai tử trình duyệt ChatGPT Atlas sau chưa đầy một năm ra mắt"
 heroCaption: "ChatGPT Atlas từng được kỳ vọng sẽ thách thức vị thế thống trị của Google Chrome. Nguồn: YouTube"
 tldr: "<strong>OpenAI</strong> thông báo sẽ ngừng hỗ trợ trình duyệt <strong>ChatGPT Atlas</strong> kể từ ngày <strong>9/8/2026</strong>, chưa đầy một năm sau khi ra mắt vào tháng 10/2025. Thay vì duy trì một trình duyệt độc lập cạnh tranh trực tiếp với Chrome, công ty quyết định tích hợp các khả năng duyệt web thông minh của Atlas vào ứng dụng <strong>ChatGPT desktop</strong> được làm mới, đi kèm một <strong>tiện ích mở rộng Chrome</strong> mới cho phép trợ lý AI đọc nội dung trang, trả lời câu hỏi và tóm tắt thông tin ngay trong trình duyệt quen thuộc của người dùng. Quyết định này diễn ra chỉ vài tháng sau khi OpenAI cũng khai tử công cụ tạo video Sora, cho thấy xu hướng công ty đang tập trung nguồn lực vào các sản phẩm cốt lõi thay vì dàn trải sang nhiều mặt trận cùng lúc."
@@ -72,7 +72,7 @@ Tuy nhiên, theo James Sun, đại diện phụ trách mảng sản phẩm ứng
 Trên thực tế, phản ứng của giới chuyên môn đối với ChatGPT Atlas trong suốt vòng đời ngắn ngủi của sản phẩm không hoàn toàn tích cực. Trang đánh giá công nghệ PCMag từng nhận xét khả năng duyệt web tiêu chuẩn của Atlas kém hơn hầu hết các trình duyệt thông thường khác, trong khi chế độ Agent, tính năng cho phép AI tự động chiếm quyền điều khiển để hoàn thành tác vụ thay người dùng, cũng gây thất vọng vì tốc độ xử lý chậm hơn đáng kể so với việc con người tự thao tác trực tiếp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ZuNxJIpWnps/hqdefault.jpg" alt="OpenAI thử nghiệm trình duyệt ChatGPT Atlas ngay sau khi phát hành" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZuNxJIpWnps/maxresdefault.jpg" alt="OpenAI thử nghiệm trình duyệt ChatGPT Atlas ngay sau khi phát hành" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều đánh giá độc lập cho rằng trải nghiệm duyệt web tiêu chuẩn của Atlas chưa thực sự nổi bật. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,14 +83,14 @@ Bên cạnh vấn đề hiệu năng, Atlas còn vướng phải không ít lo n
 Quyết định khai tử Atlas được OpenAI công bố cùng lúc với việc giới thiệu ChatGPT Work, sản phẩm mới gộp chung các công cụ của công ty vào một ứng dụng desktop duy nhất, tương tự [định hướng chuyển từ trợ lý trả lời câu hỏi sang tác nhân AI thực hiện trọn vẹn dự án phức tạp mà OpenAI từng công bố trước đó](/articles/gpt-5-6-cuoc-dua-ai-nua-cuoi-2026-gemini-claude-glm.html). Các tính năng agent duyệt web từng thử nghiệm trên Atlas giờ đây sẽ tiếp tục tồn tại bên trong ứng dụng này thông qua một trình duyệt tích hợp có khả năng truy cập trang web, đăng nhập tài khoản và tải file, cùng với một trình duyệt riêng chạy trên nền tảng đám mây cho phép các tác vụ phức tạp được xử lý từ xa trong khi người dùng theo dõi tiến độ qua ảnh chụp màn hình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/wkzNPBAfQOc/hqdefault.jpg" alt="Hướng dẫn sử dụng ban đầu của trình duyệt ChatGPT Atlas" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wkzNPBAfQOc/maxresdefault.jpg" alt="Hướng dẫn sử dụng ban đầu của trình duyệt ChatGPT Atlas" loading="lazy" width="1280" height="720">
   <figcaption>Các tính năng cốt lõi của Atlas sẽ được tái sử dụng trong ứng dụng ChatGPT Work mới. Nguồn: YouTube</figcaption>
 </figure>
 
 Đáng chú ý, đây không phải lần đầu tiên OpenAI đưa ra quyết định khai tử một sản phẩm độc lập sau thời gian ngắn hoạt động. Trước đó, công ty cũng đã ngừng phát triển Sora, công cụ tạo video bằng AI từng gây tiếng vang lớn khi ra mắt, sau khi cựu CEO mảng ứng dụng Fidji Simo chỉ đạo đội ngũ cắt giảm các dự án phụ để tập trung nguồn lực vào những sản phẩm cốt lõi mang lại giá trị thực sự cho người dùng, tương tự cách [OpenAI từng giới thiệu tính năng GPT Live nhằm nâng cấp trải nghiệm trợ lý giọng nói thời gian thực](/articles/openai-gpt-live-tro-ly-giong-noi-thoi-gian-thuc-2026.html) thay vì phân tán sang quá nhiều mặt trận sản phẩm cùng lúc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Nd1-gX3rauk/hqdefault.jpg" alt="Giao diện ChatGPT Atlas với trợ lý AI tích hợp trực tiếp vào trình duyệt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Nd1-gX3rauk/maxresdefault.jpg" alt="Giao diện ChatGPT Atlas với trợ lý AI tích hợp trực tiếp vào trình duyệt" loading="lazy" width="1280" height="720">
   <figcaption>Giao diện tích hợp trợ lý AI trực tiếp vào trình duyệt từng là điểm nhấn chính của ChatGPT Atlas. Nguồn: YouTube</figcaption>
 </figure>
 

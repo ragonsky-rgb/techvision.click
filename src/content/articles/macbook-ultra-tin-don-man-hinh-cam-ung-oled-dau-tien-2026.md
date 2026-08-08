@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-03T10:40:00+07:00"
 dateModified: "2026-07-03T10:40:00+07:00"
 deck: "Nhiều nguồn tin đáng tin cậy, trong đó có Mark Gurman của Bloomberg, cùng khẳng định Apple đang phát triển MacBook Ultra, mẫu Mac đầu tiên trong lịch sử trang bị màn hình cảm ứng kết hợp công nghệ OLED. Sản phẩm được đồn đoán ra mắt trong khoảng cuối năm 2026 tới đầu năm 2027, dùng chip M5 Pro và M5 Max hiện có thay vì chip thế hệ mới."
-heroImage: "https://i.ytimg.com/vi/1si9WjAK6c0/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/1si9WjAK6c0/maxresdefault.jpg"
 heroAlt: "MacBook Ultra tin don man hinh cam ung OLED dau tien 2026"
 heroCaption: "MacBook Ultra được đồn đoán là Mac đầu tiên có màn hình cảm ứng kết hợp công nghệ OLED. Nguồn: YouTube"
 tldr: "<strong>MacBook Ultra</strong> được đồn đoán là mẫu Mac đầu tiên trang bị <strong>màn hình cảm ứng OLED</strong>, sử dụng kiến trúc OLED lai kết hợp lớp bóng bán dẫn oxide và OLED tandem. Máy dự kiến dùng chip <strong>M5 Pro và M5 Max</strong> hiện có thay vì chip M6 thế hệ mới, có hai kích thước màn hình <strong>14 và 16 inch</strong>, khả năng bỏ notch để thay bằng Dynamic Island kiểu iPhone. Thời điểm ra mắt dự kiến cuối năm 2026 hoặc đầu năm 2027, mức giá được đồn đoán cao nhất trong lịch sử dòng MacBook."
@@ -67,7 +67,7 @@ Tin đồn về MacBook Ultra, mẫu Mac cao cấp được cho là sẽ tạo r
 Đi kèm màn hình cảm ứng, Apple còn được cho là sẽ loại bỏ notch quen thuộc trên các dòng MacBook Pro hiện tại, thay bằng cụm Dynamic Island tương tự thiết kế đã áp dụng trên iPhone từ nhiều năm nay, mang lại giao diện phần mềm nhất quán hơn giữa các thiết bị trong hệ sinh thái Apple.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/n_zVqEDhAqU/hqdefault.jpg" alt="MacBook Ultra tin xau ve thoi diem ra mat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/n_zVqEDhAqU/maxresdefault.jpg" alt="MacBook Ultra tin xau ve thoi diem ra mat 2026" loading="lazy" width="1280" height="720">
   <figcaption>Một số báo cáo gần đây cho biết thời điểm ra mắt MacBook Ultra có thể bị trì hoãn so với dự kiến ban đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Tin đồn về MacBook Ultra, mẫu Mac cao cấp được cho là sẽ tạo r
 Trái với suy đoán ban đầu rằng MacBook Ultra sẽ đi kèm chip M6 hoàn toàn mới, Mark Gurman cho biết sản phẩm nhiều khả năng sẽ sử dụng chip M5 Pro và M5 Max hiện có, giúp Apple rút ngắn thời gian phát triển và không phải phụ thuộc vào tiến độ ra mắt dòng chip thế hệ kế tiếp. Máy được đồn đoán có hai tùy chọn kích thước màn hình 14 inch và 16 inch, giữ nguyên phân khúc tương tự dòng MacBook Pro hiện tại nhưng định vị ở vị trí cao cấp hơn hẳn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/3ctS2b9r6qo/hqdefault.jpg" alt="MacBook Ultra gia ban cao nhat lich su du kien 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/3ctS2b9r6qo/maxresdefault.jpg" alt="MacBook Ultra gia ban cao nhat lich su du kien 2026" loading="lazy" width="1280" height="720">
   <figcaption>MacBook Ultra được đồn đoán sẽ là chiếc MacBook có giá bán cao nhất từ trước tới nay. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Về thời điểm ra mắt, các nguồn tin ban đầu kỳ vọng cuối nă
 Ngoài phần cứng, một số nhà phát triển và người dùng thử nghiệm phiên bản beta hệ điều hành macOS gần đây đã phát hiện nhiều đoạn mã và tính năng ẩn liên quan tới thao tác cảm ứng, cho thấy Apple đang âm thầm chuẩn bị nền tảng phần mềm cho một chiếc Mac có màn hình cảm ứng trong tương lai gần. Đây được xem là dấu hiệu gián tiếp nhưng khá đáng tin cậy, củng cố thêm cho loạt tin đồn phần cứng đã được nhiều nguồn tin độc lập xác nhận trong suốt nhiều tháng qua.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/EkJyeP1_oBM/hqdefault.jpg" alt="MacBook Ultra 2026 thong tin ro ri moi nhat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/EkJyeP1_oBM/maxresdefault.jpg" alt="MacBook Ultra 2026 thong tin ro ri moi nhat" loading="lazy" width="1280" height="720">
   <figcaption>Thông tin rò rỉ về MacBook Ultra liên tục được cập nhật qua các kênh phân tích chuỗi cung ứng. Nguồn: YouTube</figcaption>
 </figure>
 

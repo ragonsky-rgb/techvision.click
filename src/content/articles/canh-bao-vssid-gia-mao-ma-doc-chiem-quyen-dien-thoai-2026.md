@@ -72,7 +72,7 @@ Kịch bản phổ biến bắt đầu bằng một cuộc gọi hoặc tin nh�
 Khi được cài đặt, ứng dụng VssID giả mạo yêu cầu hàng loạt quyền nhạy cảm: đọc tin nhắn, truy cập danh bạ, xem hình ảnh, dữ liệu cá nhân và đặc biệt là quyền Trợ năng. Với quyền đọc tin nhắn, mã độc lấy được mã OTP mà ngân hàng gửi về để xác thực giao dịch. Với quyền Trợ năng, nó có thể tự bấm nút, điền biểu mẫu và thao tác thay người dùng ngay trên các ứng dụng khác, kể cả ứng dụng ngân hàng. Kết hợp hai khả năng này, kẻ gian vừa có mã xác thực vừa tự thực hiện lệnh chuyển tiền.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-CC1lM2C5oE/hqdefault.jpg" alt="Ma doc chiem quyen dieu khien dien thoai danh cap OTP chuyen tien" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-CC1lM2C5oE/maxresdefault.jpg" alt="Ma doc chiem quyen dieu khien dien thoai danh cap OTP chuyen tien" loading="lazy" width="1280" height="720">
   <figcaption>Mã độc có thể chiếm quyền điều khiển điện thoại và tự thực hiện lệnh chuyển tiền. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Nguy hiểm hơn, nhiều biến thể mã độc còn theo dõi thao tác gõ p
 Nguyên tắc đầu tiên cần khắc cốt ghi tâm: Bảo hiểm xã hội Việt Nam không gửi link tải ứng dụng cho người dân qua tin nhắn hay cuộc gọi. Bất kỳ ai yêu cầu bạn bấm link để tải VssID, cập nhật thông tin gấp hoặc cài file APK đều là dấu hiệu lừa đảo rõ ràng. Cơ quan nhà nước cũng không yêu cầu bạn cung cấp mã OTP, mật khẩu ngân hàng hay tắt tính năng bảo mật của điện thoại trong bất kỳ hoàn cảnh nào.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/EAtXiYoj7To/hqdefault.jpg" alt="Canh bao thu doan lua dao cai ung dung gia mao co quan nha nuoc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/EAtXiYoj7To/maxresdefault.jpg" alt="Canh bao thu doan lua dao cai ung dung gia mao co quan nha nuoc" loading="lazy" width="1280" height="720">
   <figcaption>Cảnh giác với yêu cầu cài ứng dụng lạ để hưởng quyền lợi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Bạn cũng nên chú ý tới các chi tiết kỹ thuật. Ứng dụng thật
 Để phòng tránh, hãy chỉ tải VssID từ App Store hoặc Google Play và kiểm tra đúng đơn vị phát hành. Trên Android, giữ bật tùy chọn chặn cài ứng dụng từ nguồn không xác định trong phần Cài đặt bảo mật, để máy tự chặn các file APK trôi nổi. Không bấm vào link lạ trong tin nhắn, luôn gọi lại tổng đài chính thức để xác minh khi có ai nhân danh cơ quan nhà nước liên hệ. Việc bật xác thực hai lớp cho tài khoản ngân hàng và email cũng giúp giảm rủi ro nếu chẳng may lộ mật khẩu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/BW2U53-Tvfs/hqdefault.jpg" alt="Huong dan phong tranh lua dao cai app gia mao tren dien thoai" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BW2U53-Tvfs/maxresdefault.jpg" alt="Huong dan phong tranh lua dao cai app gia mao tren dien thoai" loading="lazy" width="1280" height="720">
   <figcaption>Chỉ tải ứng dụng từ kho chính thống và không cài file APK ngoài. Nguồn: YouTube</figcaption>
 </figure>
 

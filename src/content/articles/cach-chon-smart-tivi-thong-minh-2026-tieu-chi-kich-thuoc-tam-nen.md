@@ -99,7 +99,7 @@ Một yếu tố dễ bị bỏ qua là cổng kết nối. Nên chọn tivi có
 Về âm thanh, cần lưu ý rằng tivi ngày càng mỏng nên loa tích hợp thường hạn chế về chất lượng, đặc biệt là âm trầm. Nếu bạn đề cao trải nghiệm xem phim hoặc nghe nhạc, hãy cân nhắc trang bị thêm loa soundbar để cải thiện đáng kể. Đây là khoản đầu tư bổ sung hợp lý, biến chiếc tivi thành một hệ thống giải trí hoàn chỉnh hơn cho gia đình. Để hiểu thêm về tấm nền và tần số quét, có thể tham khảo bài [tần số quét màn hình là gì](/articles/tan-so-quet-man-hinh-60hz-90hz-120hz-la-gi-co-can-khong.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/NhAoOBHNWmk/hqdefault.jpg" alt="So sánh nên mua smart tivi hay đầu Android box TV" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NhAoOBHNWmk/sddefault.jpg" alt="So sánh nên mua smart tivi hay đầu Android box TV" loading="lazy" width="640" height="480">
   <figcaption>Cổng kết nối và âm thanh cũng là yếu tố nên cân nhắc. Nguồn: YouTube</figcaption>
 </figure>
 

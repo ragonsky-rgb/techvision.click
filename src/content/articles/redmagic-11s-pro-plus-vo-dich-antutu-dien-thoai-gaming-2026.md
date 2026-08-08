@@ -76,7 +76,7 @@ RedMagic 11S Pro+ sở hữu màn hình AMOLED 6.85 inch độ phân giải 2688
 Về thiết kế, dòng RedMagic theo đuổi phong cách hầm hố với đường nét góc cạnh, cửa hút gió cho quạt tản nhiệt và trọng lượng khá nặng do phải chứa pin lớn và hệ thống làm mát. Điều này khiến máy không hợp với người thích điện thoại mỏng nhẹ, nhưng lại là điểm cộng với game thủ coi trọng hiệu năng bền bỉ. So với dòng iQOO cũng mạnh về chơi game, RedMagic thiên hẳn về tản nhiệt chủ động, bạn có thể so sánh với [iQOO 15 Snapdragon 8 Elite Gen 5 pin 7.000mAh](/articles/iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026.html) để chọn phong cách phù hợp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Na_atxb_X4w/hqdefault.jpg" alt="Man hinh RedMagic 11S Pro Plus AMOLED 144Hz an camera choi game" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Na_atxb_X4w/sddefault.jpg" alt="Man hinh RedMagic 11S Pro Plus AMOLED 144Hz an camera choi game" loading="lazy" width="640" height="480">
   <figcaption>Màn hình liền mạch ẩn camera là lợi thế lớn khi chơi game trên RedMagic. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Một trong những thế mạnh đáng nể nhất của RedMagic 11S Pro+ là 
 Hệ thống tản nhiệt AquaCore được nâng cấp với Liquid Metal 3.0, buồng hơi lớn khoảng 13.116 mm vuông và quạt tăng áp tốc độ tới 24.000 vòng mỗi phút. Nhờ cơ chế làm mát chủ động này, máy giữ nhiệt độ ổn định và duy trì hiệu năng đỉnh trong thời gian dài, thay vì bị giảm xung như điện thoại chỉ tản nhiệt thụ động. Đây chính là lý do RedMagic 11S Pro+ có thể trụ vững ở đỉnh bảng benchmark và mang lại khung hình mượt khi chơi các tựa game đồ họa nặng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/StYwzXPQVNo/hqdefault.jpg" alt="He thong tan nhiet long va quat RedMagic 11S Pro Plus choi game" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/StYwzXPQVNo/maxresdefault.jpg" alt="He thong tan nhiet long va quat RedMagic 11S Pro Plus choi game" loading="lazy" width="1280" height="720">
   <figcaption>Quạt tản nhiệt chủ động giúp RedMagic giữ hiệu năng đỉnh khi chơi lâu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Nếu bạn là game thủ di động thực thụ, cần một cỗ máy mát, 
 Ngoài phần cứng, RedMagic còn ghi điểm nhờ phần mềm tối ưu cho chơi game. Chế độ Game Space cho phép ép xung, khóa nền, hiển thị thông số khung hình và gán phím cò cảm ứng thành nút bắn, mang lại lợi thế trong các tựa game bắn súng. Đèn RGB, quạt vật lý và thiết kế cổng sạc đặt bên hông cũng được tính toán để cầm ngang chơi game thoải mái, không vướng tay như điện thoại thường. Đây là những chi tiết nhỏ nhưng tạo khác biệt lớn với game thủ nghiêm túc, thứ mà flagship phổ thông khó mang lại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TRkyKno__7Y/hqdefault.jpg" alt="Che do choi game va phim co tren dien thoai RedMagic 11S Pro Plus" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/TRkyKno__7Y/maxresdefault.jpg" alt="Che do choi game va phim co tren dien thoai RedMagic 11S Pro Plus" loading="lazy" width="1280" height="720">
   <figcaption>Chế độ chơi game và phím cò là điểm mạnh phần mềm của dòng RedMagic. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -95,7 +95,7 @@ Cách tiếp cận này gợi liên tưởng tới định hướng thiết bị
 ## Vì sao một concept lại đáng bàn
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Nmc4B7PuDhg/hqdefault.jpg" alt="Trải nghiệm One UI 9 trên thiết bị Samsung Galaxy" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Nmc4B7PuDhg/maxresdefault.jpg" alt="Trải nghiệm One UI 9 trên thiết bị Samsung Galaxy" loading="lazy" width="1280" height="720">
   <figcaption>Trước khi tương lai giao diện AI thành hiện thực, người dùng Galaxy sẽ trải nghiệm One UI 9 trong năm nay. Nguồn: YouTube</figcaption>
 </figure>
 

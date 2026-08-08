@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-14T13:30:00+07:00"
 dateModified: "2026-07-14T13:30:00+07:00"
 deck: "Honor Magic 8 Pro ra mắt và nhanh chóng trở thành tâm điểm khi là một trong những flagship Android toàn cầu đầu tiên chạy chip Snapdragon 8 Elite Gen 5. Máy gây ấn tượng với cụm camera tele tiềm vọng độ phân giải 200MP, viên pin dung lượng lớn 7100mAh và loạt tính năng AI trên thiết bị. Đây là câu trả lời trực diện của Honor cho Samsung và Apple ở phân khúc cao cấp, đặt cược vào ba thế mạnh là nhiếp ảnh zoom xa, thời lượng pin và hiệu năng đầu bảng."
-heroImage: "https://i.ytimg.com/vi/5wLBFqkgMy0/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/5wLBFqkgMy0/maxresdefault.jpg"
 heroAlt: "Honor Magic 8 Pro với camera tele 200MP, pin 7100mAh và chip Snapdragon 8 Elite Gen 5 năm 2026"
 heroCaption: "Honor Magic 8 Pro là một trong những flagship toàn cầu đầu tiên năm 2026. Nguồn: YouTube"
 tldr: "<strong>Honor Magic 8 Pro</strong> là một trong những flagship Android toàn cầu đầu tiên của năm 2026, chạy chip <strong>Snapdragon 8 Elite Gen 5</strong> mới nhất. Điểm nhấn lớn nhất là cụm <strong>camera tele tiềm vọng 200MP</strong> cho khả năng zoom xa và chụp đêm ấn tượng, cùng viên <strong>pin 7100mAh</strong> dung lượng lớn hiếm thấy trên flagship mỏng. Máy đi kèm loạt tính năng AI xử lý trực tiếp trên thiết bị. Honor định vị Magic 8 Pro là đối thủ trực tiếp của Samsung Galaxy S và iPhone Pro ở mảng nhiếp ảnh và hiệu năng, đánh vào ba thế mạnh là zoom xa, pin trâu và sức mạnh xử lý đầu bảng."
@@ -75,7 +75,7 @@ Cách tiếp cận này đặt Honor vào thế cạnh tranh trực tiếp với
 Thông số gây bất ngờ thứ hai là viên pin 7100mAh. Đây là dung lượng thuộc nhóm lớn nhất trên các flagship hiện nay, đặc biệt ấn tượng khi máy vẫn giữ được thân hình mỏng gọn của một sản phẩm cao cấp. Để làm được điều này, Honor áp dụng công nghệ pin mật độ năng lượng cao, cho phép nhồi nhiều dung lượng hơn vào cùng một thể tích so với pin lithium truyền thống.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SnpnOz5hNfs/hqdefault.jpg" alt="Honor Magic 8 Pro thể hiện khả năng chụp tele ban đêm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/SnpnOz5hNfs/maxresdefault.jpg" alt="Honor Magic 8 Pro thể hiện khả năng chụp tele ban đêm" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng chụp tele trong điều kiện thiếu sáng là điểm được nhiều bài đánh giá khen ngợi. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Với người dùng, con số 7100mAh đồng nghĩa thời lượng sử dụn
 Trái tim của Magic 8 Pro là chip Snapdragon 8 Elite Gen 5, vi xử lý đầu bảng mới nhất của Qualcomm cho Android năm 2026. Việc trở thành một trong những máy toàn cầu đầu tiên chạy con chip này giúp Honor giành lợi thế về mặt hình ảnh thương hiệu, đồng thời mang lại sức mạnh xử lý và khả năng chạy tác vụ AI trên thiết bị ở nhóm cao nhất thị trường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ITOp9CJ_NZ0/hqdefault.jpg" alt="Honor Magic 8 Pro so tài camera và AI với các flagship khác" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ITOp9CJ_NZ0/maxresdefault.jpg" alt="Honor Magic 8 Pro so tài camera và AI với các flagship khác" loading="lazy" width="1280" height="720">
   <figcaption>Honor định vị Magic 8 Pro cạnh tranh trực tiếp với Samsung ở mảng AI và camera. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Sức mạnh của chip mới không chỉ phục vụ chơi game hay đa nhiệ
 ## Honor muốn gì ở phân khúc cao cấp
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/iwKW4uydLHE/hqdefault.jpg" alt="Tổng quan thiết kế và trang bị Honor Magic 8 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/iwKW4uydLHE/maxresdefault.jpg" alt="Tổng quan thiết kế và trang bị Honor Magic 8 Pro" loading="lazy" width="1280" height="720">
   <figcaption>Magic 8 Pro là lời thách thức của Honor gửi tới Samsung và Apple ở phân khúc flagship. Nguồn: YouTube</figcaption>
 </figure>
 

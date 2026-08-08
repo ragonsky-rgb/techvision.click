@@ -88,7 +88,7 @@ Không phải mọi SSD đều giống nhau. SSD SATA dùng chung giao tiếp v�
 Về hình thức, SSD phổ biến ở hai dạng: dạng 2,5 inch giống ổ cứng laptop truyền thống dùng cổng SATA, và dạng thanh M.2 nhỏ gọn cắm trực tiếp lên bo mạch, thường dùng cho NVMe. Trước khi mua, cần kiểm tra máy hỗ trợ chuẩn và khe cắm nào để chọn đúng loại. Với phần lớn laptop và PC đời mới, SSD NVMe M.2 là lựa chọn cho hiệu năng tốt nhất trong tầm giá.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/01b3XqkROBc/hqdefault.jpg" alt="Ổ cứng là gì và nhu cầu nào nên chọn SSD hay HDD" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/01b3XqkROBc/sddefault.jpg" alt="Ổ cứng là gì và nhu cầu nào nên chọn SSD hay HDD" loading="lazy" width="640" height="480">
   <figcaption>Chọn chuẩn SSD phù hợp giúp khai thác hết hiệu năng máy. Nguồn: YouTube</figcaption>
 </figure>
 

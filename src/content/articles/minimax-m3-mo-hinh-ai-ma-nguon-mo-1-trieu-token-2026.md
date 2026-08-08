@@ -74,7 +74,7 @@ Khả năng này đặc biệt hữu ích cho các tác vụ phức tạp đòi 
 Ngoài ngữ cảnh lớn, MiniMax M3 còn được giới thiệu mạnh về lập trình và khả năng tác nhân. Khả năng tác nhân, hay agentic, là xu hướng nóng nhất của AI hiện nay, khi mô hình không chỉ trả lời câu hỏi mà còn tự động thực hiện chuỗi hành động nhiều bước để hoàn thành một mục tiêu. Với lập trình viên, một mô hình vừa giỏi viết mã vừa có khả năng tác nhân là công cụ cực kỳ giá trị.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-Qf3bvFTIzY/hqdefault.jpg" alt="Thử nghiệm thực tế năng lực của MiniMax M3" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-Qf3bvFTIzY/maxresdefault.jpg" alt="Thử nghiệm thực tế năng lực của MiniMax M3" loading="lazy" width="1280" height="720">
   <figcaption>M3 được đánh giá mạnh về cả lập trình lẫn khả năng tác nhân tự động hoàn thành tác vụ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Sự kết hợp giữa năng lực lập trình, khả năng tác nhân và ng�
 Yếu tố khiến MiniMax M3 tạo tiếng vang lớn là việc nó được phát hành mã nguồn mở. Trong bối cảnh các mô hình mạnh nhất thường đóng và tính phí truy cập, một mô hình mã nguồn mở có sức mạnh tương đương mang tới lựa chọn thay thế quý giá. Lập trình viên và doanh nghiệp có thể tải về, tùy biến và tích hợp vào sản phẩm mà không phụ thuộc hoàn toàn vào một nhà cung cấp đóng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/E2af_RWfnyI/hqdefault.jpg" alt="MiniMax M3 tích hợp vào công cụ lập trình" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/E2af_RWfnyI/maxresdefault.jpg" alt="MiniMax M3 tích hợp vào công cụ lập trình" loading="lazy" width="1280" height="720">
   <figcaption>Là mô hình mã nguồn mở, M3 có thể tích hợp vào nhiều công cụ lập trình khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Lợi ích của mã nguồn mở không chỉ là chi phí. Nó còn giúp tăn
 ## Vị thế tại WAIC 2026 và ý nghĩa
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/A0s0PQ1RAak/hqdefault.jpg" alt="MiniMax M3 được chú ý tại sự kiện AI quốc tế" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/A0s0PQ1RAak/maxresdefault.jpg" alt="MiniMax M3 được chú ý tại sự kiện AI quốc tế" loading="lazy" width="1280" height="720">
   <figcaption>MiniMax M3 là một trong những mô hình mã nguồn mở được chú ý nhất tại WAIC 2026. Nguồn: YouTube</figcaption>
 </figure>
 

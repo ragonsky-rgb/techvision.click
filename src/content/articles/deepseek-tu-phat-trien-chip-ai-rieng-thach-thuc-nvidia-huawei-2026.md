@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T14:40:00+07:00"
 dateModified: "2026-07-08T14:40:00+07:00"
 deck: "DeepSeek được cho là đã âm thầm thiết kế một chip AI suy luận riêng suốt khoảng một năm qua, đánh dấu bước tiến đầu tiên của công ty Trung Quốc này vào lĩnh vực phần cứng tự chủ. Tin tức khiến cổ phiếu Nvidia giảm ngay trong phiên giao dịch trước giờ mở cửa, phản ánh mối lo ngại ngày càng lớn về làn sóng các hãng AI tự phát triển chip riêng để giảm phụ thuộc vào nhà cung cấp bên ngoài."
-heroImage: "https://i.ytimg.com/vi/LBMKLI4ne14/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/LBMKLI4ne14/maxresdefault.jpg"
 heroAlt: "DeepSeek phát triển chip AI riêng nhằm giảm phụ thuộc vào Nvidia và Huawei"
 heroCaption: "DeepSeek hiện chạy nhiều mô hình trên phần cứng Huawei trước khi chuyển sang chip tự thiết kế. Nguồn: YouTube"
 tldr: "<strong>DeepSeek</strong>, công ty AI Trung Quốc từng gây chấn động toàn cầu với mô hình <strong>R1</strong>, được cho là đã âm thầm thiết kế một <strong>chip AI suy luận</strong> riêng trong khoảng <strong>một năm qua</strong>, nhằm giảm phụ thuộc vào <strong>Nvidia</strong> và <strong>Huawei</strong>. Chip tập trung vào khâu suy luận (inference) thay vì huấn luyện mô hình. DeepSeek trước đây dùng chip <strong>H800</strong> của Nvidia và gần đây chuyển nhiều tác vụ sang chip <strong>Ascend</strong> của Huawei do lệnh cấm xuất khẩu của Mỹ. Tin tức khiến cổ phiếu Nvidia giảm khoảng <strong>1,6-2%</strong> trong phiên giao dịch trước giờ mở cửa. Động thái này đặt DeepSeek vào cùng nhóm với <strong>OpenAI, Anthropic, Google, Amazon</strong>, các hãng AI lớn đều đang phát triển chip riêng."
@@ -77,7 +77,7 @@ Theo các nguồn tin trong ngành được nhiều hãng tin công nghệ quố
 Bối cảnh khiến DeepSeek theo đuổi hướng đi này bắt nguồn từ lệnh cấm xuất khẩu ngày càng siết chặt của Mỹ đối với chip AI tiên tiến sang Trung Quốc. DeepSeek trước đây từng dùng chip H800 của Nvidia, một phiên bản bị giảm hiệu năng tính toán dành riêng cho thị trường Trung Quốc, để huấn luyện mô hình R1 gây tiếng vang toàn cầu hồi tháng 1 năm ngoái. Khi các hạn chế xuất khẩu tiếp tục mở rộng, những công ty AI Trung Quốc như DeepSeek ngày càng khó tiếp cận chip AI mạnh nhất của Nvidia, buộc công ty phải chuyển nhiều tác vụ AI mới sang dùng chip Ascend của Huawei.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/0c6eP3zdXtg/hqdefault.jpg" alt="DeepSeek xây dựng chip AI và GPU riêng để giảm phụ thuộc bên ngoài" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0c6eP3zdXtg/maxresdefault.jpg" alt="DeepSeek xây dựng chip AI và GPU riêng để giảm phụ thuộc bên ngoài" loading="lazy" width="1280" height="720">
   <figcaption>DeepSeek được cho là đang tự xây dựng năng lực thiết kế chip AI của riêng mình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Tuy vậy, việc phụ thuộc hoàn toàn vào Huawei cũng đặt DeepSeek v�
 Tin tức về dự án chip của DeepSeek khiến cổ phiếu Nvidia giảm khoảng 1,6 đến 2% trong phiên giao dịch trước giờ mở cửa ngay khi thông tin lan ra. Dù mức giảm này không quá lớn và giới phân tích cho rằng tác động ngắn hạn tới vị thế toàn cầu của Nvidia là hạn chế, phản ứng của thị trường cho thấy nhà đầu tư đang ngày càng nhạy cảm với bất kỳ tín hiệu nào liên quan tới xu hướng các hãng AI tự chủ phần cứng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/r8RGF92lQZ0/hqdefault.jpg" alt="Ngành công nghệ phản ứng khi DeepSeek ra mắt chip mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/r8RGF92lQZ0/maxresdefault.jpg" alt="Ngành công nghệ phản ứng khi DeepSeek ra mắt chip mới" loading="lazy" width="1280" height="720">
   <figcaption>Thông tin về chip mới của DeepSeek tạo ra phản ứng tức thời trên thị trường công nghệ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Với người dùng cá nhân tại Việt Nam, tác động trực tiếp từ
 Những ai theo dõi lĩnh vực AI và đầu tư công nghệ nên tiếp tục quan sát diễn biến của dự án chip DeepSeek trong các tháng tới, vì đây có thể là một trong nhiều mảnh ghép định hình lại bản đồ quyền lực ngành bán dẫn AI toàn cầu trong nửa cuối thập kỷ này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xjt7ulpGTZ4/hqdefault.jpg" alt="Tổng hợp tin tức AI mới nhất bao gồm chip riêng của DeepSeek" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xjt7ulpGTZ4/maxresdefault.jpg" alt="Tổng hợp tin tức AI mới nhất bao gồm chip riêng của DeepSeek" loading="lazy" width="1280" height="720">
   <figcaption>Chip AI của DeepSeek là một phần trong loạt tin tức AI nóng của tuần. Nguồn: YouTube</figcaption>
 </figure>
 

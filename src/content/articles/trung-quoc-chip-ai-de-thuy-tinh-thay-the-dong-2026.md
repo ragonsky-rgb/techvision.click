@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T18:00:00+07:00"
 dateModified: "2026-07-08T18:00:00+07:00"
 deck: "Các nhà sản xuất Trung Quốc vừa công bố công nghệ đế thủy tinh (glass substrate) 20 lớp dành cho chip AI đã vượt qua một bài kiểm tra kỹ thuật quan trọng, mở đường cho khả năng thay thế đế đồng truyền thống trong đóng gói chip cao cấp. Công nghệ lỗ xuyên thủy tinh TGV cho phép mật độ kết nối cao gấp mười lần vật liệu hữu cơ hiện tại, hứa hẹn giảm đáng kể độ trễ và điện năng tiêu thụ giữa GPU và bộ nhớ băng thông cao."
-heroImage: "https://i.ytimg.com/vi/D2XgXjHqKHM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/D2XgXjHqKHM/maxresdefault.jpg"
 heroAlt: "Trung Quốc phát triển công nghệ chip AI đế thủy tinh 20 lớp thay thế đế đồng"
 heroCaption: "Chip AI đế thủy tinh 20 lớp của Trung Quốc vừa vượt qua bài kiểm tra kỹ thuật quan trọng. Nguồn: YouTube"
 tldr: "Các nhà sản xuất <strong>Trung Quốc</strong>, dẫn đầu bởi <strong>BOE</strong>, công bố công nghệ <strong>đế thủy tinh (glass substrate) 20 lớp</strong> cho chip AI vừa vượt qua bài kiểm tra kỹ thuật quan trọng, đánh dấu <strong>2026</strong> là năm đầu tiên sản xuất đế thủy tinh quy mô lớn. Công nghệ <strong>lỗ xuyên thủy tinh (TGV)</strong> dùng khoan laser tạo đường dẫn thẳng đứng siêu nhỏ, đạt mật độ kết nối gấp <strong>10 lần</strong> vật liệu hữu cơ hiện tại, rút ngắn đường truyền tín hiệu giữa GPU và bộ nhớ băng thông cao <strong>HBM</strong>. Trung Quốc đã đầu tư hơn <strong>1 tỷ USD</strong> vào công nghệ này, với tấm thủy tinh kích thước <strong>515mm x 510mm</strong> đã được trình diễn thành công."
@@ -76,7 +76,7 @@ Trong ngành đóng gói chip bán dẫn, đế (substrate) là lớp vật li�
 Đứng đầu làn sóng phát triển đế thủy tinh tại Trung Quốc là BOE, nhà sản xuất màn hình lớn nhất nước này với kinh nghiệm sâu rộng trong xử lý vật liệu tấm phẳng quy mô lớn, một lợi thế tự nhiên khi chuyển hướng sang sản xuất đế thủy tinh cho chip AI. Công ty đã triển khai đế thủy tinh lõi tiêu chuẩn với độ bền cao và độ cong vênh thấp, nhắm trực tiếp vào thị trường chip AI, với kế hoạch sản xuất hàng loạt dự kiến sau năm 2026.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DOdq8A3a0pw/hqdefault.jpg" alt="Chip thủy tinh mới của Trung Quốc gây chấn động ngành công nghệ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DOdq8A3a0pw/maxresdefault.jpg" alt="Chip thủy tinh mới của Trung Quốc gây chấn động ngành công nghệ" loading="lazy" width="1280" height="720">
   <figcaption>Công nghệ chip thủy tinh của Trung Quốc thu hút sự quan tâm lớn từ giới phân tích ngành bán dẫn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Không chỉ BOE, Visionox cũng đã tham gia cuộc đua phát triển đế t
 Theo các báo cáo trong ngành, Trung Quốc đã rót hơn 1 tỷ USD vào việc phát triển công nghệ đế thủy tinh, một con số cho thấy mức độ nghiêm túc và tham vọng dài hạn của quốc gia này trong lĩnh vực đóng gói chip AI. Các nhà sản xuất đã trình diễn thành công khả năng chế tạo tấm thủy tinh kích thước 515mm x 510mm, mang lại thông lượng sản xuất vượt xa phương pháp đóng gói cấp độ wafer truyền thống, đồng thời giúp giảm đáng kể chi phí sản xuất phần cứng AI hiệu năng cao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2KDNH21wU1o/hqdefault.jpg" alt="Đột phá đế thủy tinh của Trung Quốc có thể khiến silicon truyền thống lỗi thời" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2KDNH21wU1o/maxresdefault.jpg" alt="Đột phá đế thủy tinh của Trung Quốc có thể khiến silicon truyền thống lỗi thời" loading="lazy" width="1280" height="720">
   <figcaption>Giới chuyên gia đánh giá đây có thể là bước ngoặt quan trọng trong công nghệ đóng gói chip AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Bước tiến này diễn ra trong bối cảnh cạnh tranh công nghệ bán 
 Với ngành công nghiệp bán dẫn toàn cầu, việc đế thủy tinh chứng minh được tính khả thi ở quy mô lớn cũng có thể tác động tới cả các nhà sản xuất bộ nhớ như đã đề cập trong bài về [Nvidia hợp tác cùng SK hynix phát triển bộ nhớ AI HBM4](/articles/nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026.html), bởi công nghệ đóng gói mới có thể mở ra những cách kết nối bộ nhớ với chip xử lý hiệu quả hơn trong tương lai, một yếu tố quan trọng không kém việc bản thân chip nhớ nhanh tới đâu. Diễn biến này cũng góp phần lý giải vì sao [Samsung vừa ghi nhận lợi nhuận kỷ lục nhờ nhu cầu chip nhớ AI](/articles/samsung-loi-nhuan-quy-2-2026-tang-18-lan-chip-nho-ai.html), khi mọi khâu trong chuỗi cung ứng phần cứng AI, từ vật liệu đóng gói tới bộ nhớ, đều đang chứng kiến làn sóng đầu tư và cải tiến dồn dập.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/kqT-t3ukbYE/hqdefault.jpg" alt="Trung Quốc thay thế silicon bằng vật liệu thủy tinh mới cho ngành chip" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/kqT-t3ukbYE/maxresdefault.jpg" alt="Trung Quốc thay thế silicon bằng vật liệu thủy tinh mới cho ngành chip" loading="lazy" width="1280" height="720">
   <figcaption>Khoản đầu tư tỷ đô của Trung Quốc vào vật liệu thủy tinh đang âm thầm định hình lại ngành bán dẫn. Nguồn: YouTube</figcaption>
 </figure>
 

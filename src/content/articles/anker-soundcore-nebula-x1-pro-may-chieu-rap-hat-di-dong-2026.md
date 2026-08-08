@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-03T09:20:00+07:00"
 dateModified: "2026-07-03T09:20:00+07:00"
 deck: "Anker vừa chính thức thương mại hóa Soundcore Nebula X1 Pro, mẫu máy chiếu được hãng gọi là \"Mobile Theater Station\" đầu tiên trên thị trường, tích hợp máy chiếu laser ba màu 3.500 ANSI lumens cùng dàn loa Dolby Atmos 7.1.4 công suất 400W trên một khung có bánh xe kéo. Sản phẩm nhắm tới nhóm khách hàng yêu thích tổ chức buổi chiếu phim tại nhà hoặc ngoài sân vườn."
-heroImage: "https://i.ytimg.com/vi/0_kqyV_w_u4/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/0_kqyV_w_u4/maxresdefault.jpg"
 heroAlt: "Anker Soundcore Nebula X1 Pro may chieu rap hat di dong 2026"
 heroCaption: "Soundcore Nebula X1 Pro, máy chiếu laser tích hợp dàn loa Dolby Atmos 400W trên khung có bánh xe. Nguồn: YouTube"
 tldr: "<strong>Soundcore Nebula X1 Pro</strong> của Anker là máy chiếu laser ba màu (triple laser) đạt <strong>3.500 ANSI lumens</strong>, độ tương phản động lên tới <strong>56.000:1</strong>, đi kèm dàn loa <strong>Dolby Atmos 7.1.4</strong> công suất <strong>400W</strong> với 4 loa vệ tinh tháo rời và loa siêu trầm gắn sẵn trong đế có bánh xe. Máy đạt chuẩn kháng nước bụi <strong>IP43</strong>, phù hợp dùng ngoài trời. Giá bán khởi điểm <strong>4.999 USD</strong>."
@@ -67,7 +67,7 @@ Trái tim của Nebula X1 Pro là engine laser ba màu LaserForge 2.0 làm mát 
 Máy đạt chuẩn kháng nước bụi IP43 cho thân máy chính và IP54 cho cụm loa, đủ để chống chịu mưa nhẹ trong thời gian ngắn, cho phép người dùng tự tin mang thiết bị ra sân vườn tổ chức buổi chiếu phim buổi tối mà không quá lo lắng về thời tiết thất thường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XrKhHDYDiQ0/hqdefault.jpg" alt="Nebula X1 Pro review 6 thang su dung thuc te 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/XrKhHDYDiQ0/maxresdefault.jpg" alt="Nebula X1 Pro review 6 thang su dung thuc te 2026" loading="lazy" width="1280" height="720">
   <figcaption>Sau 6 tháng sử dụng thực tế, nhiều reviewer vẫn đánh giá cao độ ổn định của Nebula X1 Pro khi dùng ngoài trời. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Máy đạt chuẩn kháng nước bụi IP43 cho thân máy chính và IP54 cho
 Với người đang tìm mua thêm loa soundbar hoặc dàn âm thanh rạp hát tại nhà để nâng cấp trải nghiệm xem phim, bài viết [top loa soundbar đáng mua tháng 7/2026](/articles/top-loa-soundbar-dang-mua-thang-7-2026.html) tổng hợp nhiều lựa chọn ở các phân khúc giá khác nhau, từ tầm trung tới cao cấp, phù hợp bổ sung cho những ai chưa sẵn sàng chi 4.999 USD cho một hệ thống all-in-one như Nebula X1 Pro.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/A3G6Th7h2RE/hqdefault.jpg" alt="Nebula X1 Pro rap chieu phim ngoai troi 200 inch 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/A3G6Th7h2RE/maxresdefault.jpg" alt="Nebula X1 Pro rap chieu phim ngoai troi 200 inch 2026" loading="lazy" width="1280" height="720">
   <figcaption>Cấu hình rạp chiếu phim ngoài trời 200 inch hoàn chỉnh dựng từ một mình Nebula X1 Pro. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Với người đang tìm mua thêm loa soundbar hoặc dàn âm thanh rạp há
 Nebula X1 Pro có giá bán khởi điểm 4.999 USD, mức giá cao hơn hẳn phần lớn máy chiếu gia đình phổ thông trên thị trường nhưng phản ánh đúng bản chất sản phẩm: thay thế toàn bộ một dàn thiết bị nghe nhìn phòng khách bao gồm máy chiếu, loa vòm và loa siêu trầm bằng một khối thiết bị duy nhất. Trọng lượng gần 33kg và chiều cao khoảng 76cm là hai điểm trừ lớn, dù máy có bánh xe và tay cầm kéo hỗ trợ di chuyển giữa các phòng hoặc ra sân vườn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/0_kqyV_w_u4/mqdefault.jpg" alt="Nebula X1 Pro thiet lap rap hat ngoai troi 4K 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/0_kqyV_w_u4/maxresdefault.jpg" alt="Nebula X1 Pro thiet lap rap hat ngoai troi 4K 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nebula X1 Pro được thiết kế tối ưu cho các buổi chiếu phim ngoài trời quy mô lớn. Nguồn: YouTube</figcaption>
 </figure>
 

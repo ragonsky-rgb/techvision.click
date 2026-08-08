@@ -98,7 +98,7 @@ Với mức giá từ 26,99 triệu đồng, Xiaomi 17 Series là lựa chọn �
 Tuy nhiên, người dùng cũng nên cân nhắc nhu cầu thực tế trước khi quyết định, vì phân khúc flagship hiện có nhiều lựa chọn cạnh tranh từ các thương hiệu khác. Nếu ưu tiên thiết kế gập độc đáo, các mẫu như Honor Magic V5 là phương án thay thế. Nếu cần pin trâu cho gaming với giá dễ tiếp cận hơn, dòng Redmi K90 Ultra cũng là cái tên đáng thử. Việc so sánh kỹ các thông số và đọc đánh giá thực tế trước khi mua sẽ giúp người dùng chọn được sản phẩm phù hợp nhất với nhu cầu và ngân sách.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XFzL30xo_eA/hqdefault.jpg" alt="Xiaomi 17 Ultra Leica Edition thiet ke cao cap flagship 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/XFzL30xo_eA/maxresdefault.jpg" alt="Xiaomi 17 Ultra Leica Edition thiet ke cao cap flagship 2026" loading="lazy" width="1280" height="720">
   <figcaption>Xiaomi 17 Ultra Leica Edition là phiên bản cao cấp nhất trong dòng máy. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-14T12:00:00+07:00"
 dateModified: "2026-07-14T12:00:00+07:00"
 deck: "Hyundai Tucson Hybrid 2026 bắt đầu được các đại lý nhận đặt cọc tại Việt Nam, đánh dấu bước tiến của làn sóng xe xanh vào phân khúc SUV cỡ C. Xe dự kiến ra mắt trong tháng 7 với một phiên bản duy nhất được lắp ráp trong nước, giá bán lẻ dự đoán hơn 1 tỷ đồng. Với hệ truyền động hybrid kết hợp động cơ xăng và mô-tơ điện, Tucson Hybrid nhắm thẳng tới Honda CR-V e:HEV, đối thủ đang dẫn dắt xu hướng SUV hybrid tại Việt Nam. Đây là nước đi giúp Hyundai bổ sung lựa chọn tiết kiệm nhiên liệu cho dải sản phẩm Tucson vốn đã quen thuộc."
-heroImage: "https://i.ytimg.com/vi/tv4R_M2faxc/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/tv4R_M2faxc/maxresdefault.jpg"
 heroAlt: "Hyundai Tucson Hybrid 2026 nhận đặt cọc tại Việt Nam, giá hơn 1 tỷ đồng"
 heroCaption: "Tucson Hybrid 2026 đưa hệ truyền động hybrid vào phân khúc SUV cỡ C tại Việt Nam. Nguồn: YouTube"
 tldr: "<strong>Hyundai Tucson Hybrid 2026</strong> bắt đầu nhận đặt cọc tại Việt Nam, dự kiến ra mắt trong <strong>tháng 7</strong> với một phiên bản duy nhất <strong>lắp ráp trong nước</strong>, giá bán lẻ dự đoán <strong>hơn 1 tỷ đồng</strong>. Xe dùng hệ truyền động <strong>hybrid</strong> kết hợp động cơ xăng và mô-tơ điện, hướng tới nhóm khách hàng ưu tiên tiết kiệm nhiên liệu và vận hành êm. Đối thủ trực tiếp là <strong>Honda CR-V e:HEV</strong>, mẫu SUV hybrid đang dẫn dắt phân khúc. Việc bổ sung bản hybrid giúp Hyundai mở rộng dải Tucson, đón đầu làn sóng xe xanh đang lan mạnh trên thị trường ô tô Việt Nam."
@@ -75,7 +75,7 @@ Về thiết kế và không gian, Tucson Hybrid được cho là dùng chung n�
 Theo thông tin từ các đại lý, Tucson Hybrid có giá bán lẻ dự đoán hơn 1 tỷ đồng. Đây là mức giá phản ánh đúng vị trí của một bản hybrid trong phân khúc SUV cỡ C, cao hơn các bản thuần xăng nhưng đổi lại là công nghệ điện hóa và chi phí vận hành thấp hơn về lâu dài. Với nhóm khách hàng tính toán kỹ chi phí sử dụng, khoản chênh ban đầu có thể được bù đắp dần qua tiền xăng tiết kiệm được.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ajtAbG8lNBk/hqdefault.jpg" alt="Ngoại thất Hyundai Tucson 2026 thế hệ mới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ajtAbG8lNBk/maxresdefault.jpg" alt="Ngoại thất Hyundai Tucson 2026 thế hệ mới" loading="lazy" width="1280" height="720">
   <figcaption>Tucson 2026 gây ấn tượng với thiết kế hiện đại, nền tảng cho bản hybrid sắp ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Theo thông tin từ các đại lý, Tucson Hybrid có giá bán lẻ dự đo�
 Sự xuất hiện của Tucson Hybrid nằm trong bức tranh lớn hơn của thị trường ô tô Việt Nam, nơi các mẫu xe điện và hybrid ngày càng chiếm sóng. Từ xe điện mini giá rẻ tới SUV và bán tải, làn sóng điện hóa đang lan tới mọi phân khúc, buộc các hãng phải bổ sung lựa chọn xanh để giữ sức cạnh tranh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IVx4uo9eXN8/hqdefault.jpg" alt="Nội thất và trang bị Hyundai Tucson 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IVx4uo9eXN8/maxresdefault.jpg" alt="Nội thất và trang bị Hyundai Tucson 2026" loading="lazy" width="1280" height="720">
   <figcaption>Khoang cabin Tucson 2026 rộng rãi và nhiều tiện nghi, yếu tố được giữ lại trên bản hybrid. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Có thể thấy rõ xu hướng này qua loạt sản phẩm mới liên tục 
 ## Có nên đặt cọc ngay
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/-vcMtLfa6-c/hqdefault.jpg" alt="Hyundai Tucson 2026 vận hành trên đường" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/-vcMtLfa6-c/maxresdefault.jpg" alt="Hyundai Tucson 2026 vận hành trên đường" loading="lazy" width="1280" height="720">
   <figcaption>Tucson Hybrid hướng tới nhóm khách hàng ưu tiên tiết kiệm nhiên liệu và vận hành êm. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T10:00:00+07:00"
 dateModified: "2026-07-13T10:00:00+07:00"
 deck: "FIFA World Cup 2026 đang trở thành sân khấu trình diễn công nghệ lớn nhất trong lịch sử các kỳ World Cup, từ quả bóng thi đấu chính thức Trionda tích hợp cảm biến chuyển động ghi nhận dữ liệu 500 lần mỗi giây, hệ thống trí tuệ nhân tạo theo dõi 29 điểm trên cơ thể mỗi cầu thủ để đưa ra quyết định việt vị trong vài giây, cho tới đội ngũ chó robot an ninh tuần tra bảo vệ các sân vận động tại Mỹ và Mexico."
-heroImage: "https://i.ytimg.com/vi/lCKvPjGIeVc/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/lCKvPjGIeVc/maxresdefault.jpg"
 heroAlt: "Công nghệ đứng sau World Cup 2026 bóng Trionda AI bắt việt vị"
 heroCaption: "Quả bóng Trionda tích hợp cảm biến là một trong những điểm nhấn công nghệ lớn nhất tại World Cup 2026. Nguồn: YouTube"
 tldr: "<strong>FIFA World Cup 2026</strong> đang ứng dụng loạt công nghệ chưa từng có trong lịch sử giải đấu. Quả bóng thi đấu chính thức mang tên <strong>Trionda</strong> được tích hợp cảm biến đo quán tính (IMU) ghi nhận dữ liệu chuyển động <strong>500 lần mỗi giây</strong>, cần được sạc pin trước mỗi trận, lần đầu tiên trong lịch sử bóng World Cup. Tại mỗi sân vận động trong số 16 địa điểm thi đấu, khoảng <strong>12 camera tốc độ cao</strong> sử dụng AI theo dõi <strong>29 điểm</strong> trên cơ thể mỗi cầu thủ, 50 lần mỗi giây, kết hợp dữ liệu từ bóng để đưa ra quyết định việt vị tự động chỉ trong vài giây. Bên cạnh đó, đội ngũ <strong>chó robot bốn chân</strong> của Boston Dynamics và DEEP Robotics cũng được triển khai để hỗ trợ lực lượng an ninh tuần tra và kiểm tra vật thể khả nghi tại các sân vận động ở Mỹ và Mexico."
@@ -72,7 +72,7 @@ Do cảm biến hoạt động dựa trên nguồn pin tích hợp, đây cũng 
 Song song với quả bóng thông minh, mỗi sân vận động trong số 16 địa điểm tổ chức World Cup 2026 đều được trang bị khoảng 12 camera tốc độ cao chuyên dụng, sử dụng trí tuệ nhân tạo để theo dõi tới 29 điểm khác nhau trên cơ thể của mỗi cầu thủ, bao gồm tay, chân, đầu gối và cả ngón chân, với tần suất quét lên tới 50 lần mỗi giây. Hệ thống mang tên Semi-Automated Offside Technology (SAOT) phiên bản nâng cấp này kết hợp dữ liệu vị trí cơ thể với thời điểm chính xác quả bóng được chạm, tự động vẽ đường việt vị và đưa ra phán quyết chỉ trong vài giây, nhanh hơn đáng kể so với các hệ thống VAR truyền thống từng gây tranh cãi vì thời gian chờ đợi kéo dài.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/1NFsgFkH1hU/hqdefault.jpg" alt="Công nghệ cảm biến bên trong quả bóng Trionda tại World Cup 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1NFsgFkH1hU/maxresdefault.jpg" alt="Công nghệ cảm biến bên trong quả bóng Trionda tại World Cup 2026" loading="lazy" width="1280" height="720">
   <figcaption>Dữ liệu từ cảm biến trong bóng kết hợp cùng hệ thống camera AI giúp đưa ra các quyết định trọng tài chính xác hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Hiệu quả thực tế của công nghệ này đã được chứng minh ngay
 Bên cạnh các công nghệ hỗ trợ trọng tài, World Cup 2026 còn chứng kiến sự xuất hiện của đội ngũ robot bốn chân đảm nhận vai trò an ninh chưa từng có tại một kỳ World Cup trước đây. Tại các sân vận động ở Mỹ, robot Spot bốn chân của Boston Dynamics, công ty [vừa cập nhật khả năng AI cho dòng sản phẩm này với Gemini Robotics-ER 1.6](/articles/boston-dynamics-spot-gemini-robotics-er-1-6-2026.html), được triển khai để hỗ trợ nhân viên an ninh kiểm tra các vật thể khả nghi hoặc vật liệu tiềm ẩn nguy hiểm mà không cần con người phải tiếp cận trực tiếp khu vực rủi ro.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/nIZWd7-_ueo/hqdefault.jpg" alt="Đánh giá chi tiết công nghệ bên trong bóng Trionda World Cup 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nIZWd7-_ueo/maxresdefault.jpg" alt="Đánh giá chi tiết công nghệ bên trong bóng Trionda World Cup 2026" loading="lazy" width="1280" height="720">
   <figcaption>Trionda được giới chuyên môn đánh giá là bước ngoặt công nghệ lớn nhất trong lịch sử bóng thi đấu World Cup. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Tại Mexico, giải pháp tuần tra an ninh sử dụng robot bốn chân bán
 Ngoài các ứng dụng công nghệ phục vụ thi đấu và an ninh, World Cup 2026 còn đánh dấu sự hiện diện sâu rộng của AI trong trải nghiệm dành cho người hâm mộ. Google đưa trợ lý Gemini AI vào trung tâm trải nghiệm số của giải đấu, cung cấp tỷ số trực tiếp ngay trên màn hình khoá điện thoại cùng hình ảnh trận đấu được AI tạo dựng theo thời gian thực. Trong khi đó, Lenovo vận hành các bản sao số (digital twin) của toàn bộ 16 sân vận động, phục vụ công tác quản lý đám đông và an ninh, đồng thời cung cấp công cụ phân tích mang tên Football AI Pro, được huấn luyện trên hơn 2.000 chỉ số bóng đá chuyên sâu, cho toàn bộ 48 đội tuyển tham dự giải đấu năm nay. Không chỉ công nghệ vận hành sân đấu, ngay cả thiết bị cá nhân của các ngôi sao cũng trở thành chủ đề được quan tâm trong mùa giải này, tương tự câu chuyện [chiếc điện thoại mà tiền đạo Erling Haaland thực sự sử dụng ngoài đời](/articles/haaland-dung-dien-thoai-gi-samsung-iphone-2026.html) từng gây tranh cãi trên mạng xã hội trước thềm giải đấu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ztcFAIeFvr0/hqdefault.jpg" alt="Trải nghiệm fan AI và digital twin sân vận động tại World Cup 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ztcFAIeFvr0/sddefault.jpg" alt="Trải nghiệm fan AI và digital twin sân vận động tại World Cup 2026" loading="lazy" width="640" height="480">
   <figcaption>Gemini AI và digital twin sân vận động là hai trong số các ứng dụng công nghệ phục vụ trải nghiệm người hâm mộ tại World Cup 2026. Nguồn: YouTube</figcaption>
 </figure>
 

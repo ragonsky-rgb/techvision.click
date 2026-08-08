@@ -62,7 +62,7 @@ GPT-5.6 Sol là một biến thể trong dòng mô hình GPT-5.6 của OpenAI, r
 Con số 750 token mỗi giây gây ấn tượng vì theo các nguồn quốc tế, nó nhanh hơn khoảng 10 lần so với việc chạy một mô hình nền tảng tương đương trên hạ tầng GPU truyền thống. Với các tác vụ dài như sinh mã nguồn, viết tài liệu hay tóm tắt văn bản lớn, sự khác biệt này rất dễ cảm nhận, gần như xóa bỏ cảm giác phải chờ mô hình gõ từng dòng. Đây chính là lý do OpenAI hướng Sol tới những ứng dụng cần phản hồi tức thì.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/j3oBBpP9SLI/hqdefault.jpg" alt="Toc do suy luan AI 750 token moi giay tren chip Cerebras" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/j3oBBpP9SLI/maxresdefault.jpg" alt="Toc do suy luan AI 750 token moi giay tren chip Cerebras" loading="lazy" width="1280" height="720">
   <figcaption>Tốc độ suy luận cao giúp các tác vụ dài như sinh mã nguồn hiện kết quả gần như tức thì. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Con số 750 token mỗi giây gây ấn tượng vì theo các nguồn quốc t
 Lợi thế lớn nhất của cách làm này là giảm độ trễ. Khi tính toán và bộ nhớ nằm trên cùng một khối liền mạch, chip không phải liên tục hỏi dữ liệu từ các linh kiện khác qua đường truyền chậm hơn, vốn là điểm nghẽn của các cụm GPU khi chạy mô hình lớn. Nhờ đó, ở các tác vụ suy luận cần phản hồi nhanh, Cerebras có thể vượt trội về tốc độ. Câu chuyện về công ty này và loại chip khổng lồ đã được kể chi tiết trong bài về [Cerebras, startup chip AI to bằng cái đĩa và đợt IPO đình đám](/articles/cerebras-chip-ai-wafer-scale-ipo-100-ty-usd-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/X4nzgs78LII/hqdefault.jpg" alt="Chip Cerebras Wafer Scale Engine to bang tam wafer silicon" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/X4nzgs78LII/maxresdefault.jpg" alt="Chip Cerebras Wafer Scale Engine to bang tam wafer silicon" loading="lazy" width="1280" height="720">
   <figcaption>Chip WSE-3 giữ nguyên cả tấm wafer làm một khối, tích hợp tính toán và bộ nhớ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Việc một khách hàng lớn và có ảnh hưởng như OpenAI đưa mô hì
 Cerebras không phải cái tên duy nhất tạo áp lực. Các ông lớn như Amazon, Google và Microsoft đều đang tự thiết kế chip AI riêng để bớt lệ thuộc vào Nvidia, một xu hướng đã được phản ánh trong bài về [Amazon chi 20 tỷ USD làm chip Trainium thách thức Nvidia](/articles/amazon-chip-tu-thiet-ke-20-ty-usd-trainium-thach-thuc-nvidia-2026.html). Về dài hạn, cạnh tranh phần cứng đa dạng hơn có thể giúp hạ chi phí vận hành AI và mở ra nhiều lựa chọn công nghệ hơn, điều cuối cùng có lợi cho cả các doanh nghiệp lẫn người dùng cuối.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ycRN4keQMSg/hqdefault.jpg" alt="Thi truong chip AI da dang hon voi nhieu doi thu cua Nvidia" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ycRN4keQMSg/maxresdefault.jpg" alt="Thi truong chip AI da dang hon voi nhieu doi thu cua Nvidia" loading="lazy" width="1280" height="720">
   <figcaption>Bản đồ phần cứng AI năm 2026 đa dạng hơn khi nhiều đối thủ cùng cạnh tranh. Nguồn: YouTube</figcaption>
 </figure>
 

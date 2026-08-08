@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T13:20:00+07:00"
 dateModified: "2026-07-04T13:20:00+07:00"
 deck: "Corsair hợp tác cùng Elgato ra mắt Galleon 100 SD, bàn phím cơ đầu tiên trên thị trường tích hợp sẵn Stream Deck ngay trên thân phím, thay thế cụm numpad truyền thống bằng 12 phím LCD có thể tùy chỉnh cùng màn hình màu 5 inch và hai núm xoay vật lý. Sản phẩm sử dụng công tắc cơ MLX Pulse linear đã bôi trơn sẵn, vỏ nhôm CNC cao cấp, giá bán 350 USD."
-heroImage: "https://i.ytimg.com/vi/_X29vmnGSTc/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/_X29vmnGSTc/maxresdefault.jpg"
 heroAlt: "Corsair Galleon 100 SD ban phim tich hop Stream Deck 2026"
 heroCaption: "Corsair Galleon 100 SD, bàn phím cơ đầu tiên tích hợp sẵn Stream Deck của Elgato. Nguồn: YouTube"
 tldr: "<strong>Corsair Galleon 100 SD</strong> là bàn phím cơ đầu tiên trên thị trường tích hợp sẵn <strong>Stream Deck</strong> của Elgato ngay trên thân phím, thay thế cụm numpad truyền thống bằng <strong>12 phím LCD</strong> có thể tùy chỉnh, hai núm xoay vật lý và màn hình màu <strong>5 inch</strong> độ phân giải 720x1280. Bàn phím dùng công tắc cơ <strong>MLX Pulse linear</strong> đã bôi trơn sẵn, vỏ nhôm CNC nặng khoảng 1,4kg, kèm kê tay từ tính đệm mút. Giá bán <strong>350 USD</strong>, được đánh giá là một trong những bàn phím linh hoạt và tùy biến cao nhất thị trường hiện nay."
@@ -67,7 +67,7 @@ Corsair hợp tác cùng Elgato, thương hiệu nổi tiếng với thiết b�
 Về thiết kế tổng thể, thân bàn phím được làm từ nhôm phay CNC cao cấp, nặng khoảng 1,4kg, mang lại cảm giác chắc chắn và cao cấp, được nhiều reviewer nhận xét là trông và cảm nhận như một sản phẩm liền mạch duy nhất chứ không giống hai thiết bị ghép lại với nhau một cách gượng ép.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Ubi-ywiOEm0/hqdefault.jpg" alt="Corsair Galleon 100 SD co numpad khong lo 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ubi-ywiOEm0/maxresdefault.jpg" alt="Corsair Galleon 100 SD co numpad khong lo 2026" loading="lazy" width="1280" height="720">
   <figcaption>Corsair khẳng định người dùng không cần lo lắng vì Galleon 100 SD vẫn có đầy đủ chức năng numpad tích hợp trong thiết kế mới. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Về thiết kế tổng thể, thân bàn phím được làm từ nhôm phay C
 Về trải nghiệm gõ phím, Corsair Galleon 100 SD sử dụng công tắc cơ MLX Pulse linear đã được bôi trơn sẵn từ nhà máy, mang lại cảm giác gõ phím mượt mà, phản hồi nhanh, được nhiều reviewer đánh giá cao về chất lượng cảm giác gõ tổng thể. Sản phẩm còn đi kèm kê tay từ tính có đệm mút memory foam, giúp cải thiện đáng kể sự thoải mái khi sử dụng trong thời gian dài, một chi tiết nhỏ nhưng được đánh giá cao trong trải nghiệm sử dụng thực tế.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_X29vmnGSTc/mqdefault.jpg" alt="Corsair Galleon 100 SD dat Stream Deck ben trong ban phim 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_X29vmnGSTc/maxresdefault.jpg" alt="Corsair Galleon 100 SD dat Stream Deck ben trong ban phim 2026" loading="lazy" width="1280" height="720">
   <figcaption>Việc đặt trọn vẹn Stream Deck bên trong bàn phím là bước đi táo bạo mà chưa thương hiệu nào từng thực hiện trước đây. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Với mức giá 350 USD, sản phẩm thuộc phân khúc cao cấp nhất tron
 Với người mới bắt đầu tìm hiểu về bàn phím cơ và chưa rõ nên chọn tiêu chí nào là quan trọng nhất, bài viết [cách chọn bàn phím cơ năm 2026](/articles/cach-chon-ban-phim-co-2026-tieu-chi.html) cung cấp đầy đủ thông tin cần thiết trước khi quyết định đầu tư vào một sản phẩm cao cấp như Galleon 100 SD. Người đang tìm thêm các lựa chọn bàn phím cơ khác trong tầm giá phải chăng hơn cũng có thể tham khảo bài viết [top bàn phím cơ đáng mua tháng 7/2026](/articles/top-ban-phim-co-dang-mua-thang-7-2026.html) để có cái nhìn tổng quan hơn về thị trường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/l7TmlyROD60/hqdefault.jpg" alt="Corsair Galleon 100 SD thiet ke tuy bien toi da 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/l7TmlyROD60/maxresdefault.jpg" alt="Corsair Galleon 100 SD thiet ke tuy bien toi da 2026" loading="lazy" width="1280" height="720">
   <figcaption>Khả năng tùy biến gần như không giới hạn là điểm mạnh lớn nhất của Corsair Galleon 100 SD. Nguồn: YouTube</figcaption>
 </figure>
 

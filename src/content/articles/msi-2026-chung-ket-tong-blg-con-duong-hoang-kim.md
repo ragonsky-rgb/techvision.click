@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-10T10:00:00+07:00"
 dateModified: "2026-07-10T10:00:00+07:00"
 deck: "BLG đã chính thức giành vé đầu tiên vào chung kết tổng MSI 2026 sau chiến thắng 3-1 trước HLE, chỉ còn cách chiếc cúp vô địch một trận đấu duy nhất. Đội tuyển LPL đang đứng trước cơ hội hoàn thành Con đường hoàng kim, giành danh hiệu quốc tế thứ hai trong năm, trong khi đối thủ ở chung kết tổng ngày 12/7 sẽ được xác định qua trận chung kết nhánh thua giữa LYON và HLE diễn ra một ngày trước đó."
-heroImage: "https://i.ytimg.com/vi/1SWn4XmSs4Y/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/1SWn4XmSs4Y/maxresdefault.jpg"
 heroAlt: "MSI 2026 chung kết tổng BLG hướng tới Con đường hoàng kim"
 heroCaption: "BLG chỉ còn cách chức vô địch MSI 2026 một trận đấu duy nhất. Nguồn: YouTube"
 tldr: "<strong>BLG</strong> đã chính thức giành vé đầu tiên vào <strong>chung kết tổng MSI 2026</strong>, dự kiến diễn ra ngày <strong>12/7</strong>, sau chiến thắng thuyết phục 3-1 trước HLE ở chung kết nhánh thắng. Đội tuyển LPL này đang đứng trước cơ hội hoàn thành <strong>Con đường hoàng kim (Golden Road)</strong>, tức vô địch tất cả các giải đấu tham dự trong năm, sau khi đã giành chức vô địch giải <strong>First Stand 2026</strong> và ngôi vương quốc nội. Đối thủ của BLG tại chung kết tổng sẽ được xác định qua trận <strong>chung kết nhánh thua</strong> giữa <strong>LYON và HLE</strong>, diễn ra ngày <strong>11/7</strong>, một ngày trước trận đấu cuối cùng của giải."
@@ -74,7 +74,7 @@ BLG bước vào năm 2026 với khởi đầu ấn tượng khi giành chức v
 Chiếc ghế đối diện BLG tại chung kết tổng vẫn còn bỏ ngỏ, chờ được xác định qua trận chung kết nhánh thua đầy cam go giữa LYON và HLE, dự kiến diễn ra vào ngày 11/7, chỉ một ngày trước trận chung kết tổng. Đây là hai đội tuyển đang có những câu chuyện hoàn toàn trái ngược nhau trên hành trình tới trận đấu này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/0Py7DJ01rUg/hqdefault.jpg" alt="Tổng hợp thông tin cần biết về BLG trước thềm MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0Py7DJ01rUg/maxresdefault.jpg" alt="Tổng hợp thông tin cần biết về BLG trước thềm MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Đội hình BLG được đánh giá là toàn diện và ổn định nhất tại MSI 2026 tính đến thời điểm hiện tại. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,14 +85,14 @@ Chiếc ghế đối diện BLG tại chung kết tổng vẫn còn bỏ ngỏ, 
 Dù đối thủ cuối cùng là ai, BLG vẫn được xem là ứng viên vô địch hàng đầu nhờ phong độ ổn định và toàn diện xuyên suốt cả giải đấu, thể hiện rõ qua cách đội xử lý gọn gàng cả T1 lẫn HLE, hai đối thủ được đánh giá cao nhất trước giải. Tuy nhiên, các trận chung kết quốc tế luôn tiềm ẩn những bất ngờ khó lường, đặc biệt khi đối thủ bước vào trận đấu với tâm lý không còn gì để mất sau một hành trình dài đầy biến động qua nhánh thua.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/vfJePt8Ab8I/hqdefault.jpg" alt="Highlight trận chung kết nhánh thắng giữa HLE và BLG tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/vfJePt8Ab8I/maxresdefault.jpg" alt="Highlight trận chung kết nhánh thắng giữa HLE và BLG tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Màn trình diễn thuyết phục của BLG trước HLE đã củng cố vị thế ứng viên vô địch số một của đội. Nguồn: YouTube</figcaption>
 </figure>
 
 Trường hợp LYON tiếp tục viết tiếp câu chuyện cổ tích của mình bằng cách vượt qua HLE, đây sẽ là một trong những hành trình đáng nhớ nhất lịch sử MSI, khi một đội tuyển không được đánh giá cao trước giải liên tục quật ngã hàng loạt đối thủ sừng sỏ để tiến thẳng vào trận đấu cuối cùng, tương tự như cách [T1 của Faker từng phải dừng bước sớm một cách đầy bất ngờ trước G2 ngay từ giai đoạn đầu nhánh thua](/articles/t1-thua-g2-msi-2026-bi-loai-som-nhat-lich-su.html), minh chứng cho việc MSI 2026 là một trong những mùa giải khó đoán định nhất trong nhiều năm trở lại đây của làng Liên Minh Huyền Thoại quốc tế.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ka8V5tVYrwI/hqdefault.jpg" alt="Chung kết nhánh thắng HLE vs BLG tại MSI 2026 ngày 9 tháng 7" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ka8V5tVYrwI/maxresdefault.jpg" alt="Chung kết nhánh thắng HLE vs BLG tại MSI 2026 ngày 9 tháng 7" loading="lazy" width="1280" height="720">
   <figcaption>Chiến thắng thuyết phục trước HLE giúp BLG củng cố vị thế ứng viên vô địch hàng đầu tại MSI 2026. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T14:20:00+07:00"
 dateModified: "2026-07-08T14:20:00+07:00"
 deck: "Samsung được cho là chuẩn bị tăng giá bán trung bình DRAM thêm khoảng 20% ngay trong quý 3/2026, sau khi đã tăng khoảng 90% trong quý 1 và 50% trong quý 2. Cùng lúc, Samsung, SK hynix và Micron đối mặt cáo buộc thao túng giá khiến chi phí bộ nhớ tăng tới 700% trong bốn năm, đẩy giá laptop, điện thoại tại Việt Nam tiếp tục leo thang."
-heroImage: "https://i.ytimg.com/vi/GzPN3Zpzusg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/GzPN3Zpzusg/maxresdefault.jpg"
 heroAlt: "Khủng hoảng giá RAM và DRAM toàn cầu tiếp diễn trong quý 3/2026"
 heroCaption: "Giá RAM dự kiến tăng thêm khoảng 20% trong quý 3/2026. Nguồn: YouTube"
 tldr: "<strong>Samsung</strong> được cho là chuẩn bị tăng giá bán trung bình <strong>DRAM</strong> thêm khoảng <strong>20%</strong> ngay trong <strong>quý 3/2026</strong>, sau khi đã tăng khoảng <strong>90%</strong> trong quý 1 và <strong>50%</strong> trong quý 2. Giá <strong>NAND Flash</strong> cũng dự kiến tăng thêm <strong>10-15%</strong>. Nguyên nhân chính là nhu cầu khổng lồ từ hạ tầng AI khiến các hãng dồn năng lực sang bộ nhớ băng thông cao <strong>HBM4</strong>. Cùng lúc, <strong>Samsung, SK hynix và Micron</strong> đối mặt cáo buộc pháp lý thao túng giá khiến chi phí thiết bị bộ nhớ tăng tới <strong>700%</strong> trong bốn năm. Giới phân tích dự báo khủng hoảng kéo dài tới ít nhất <strong>2027</strong>."
@@ -79,7 +79,7 @@ Nguyên nhân lớn nhất phía sau đợt tăng giá kéo dài này là nhu c�
 Xu hướng này đã được phân tích kỹ trong bài viết về việc [Nvidia bắt tay SK hynix làm bộ nhớ AI HBM4](/articles/nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026.html), nơi hai hãng công bố hợp tác chiến lược nhiều năm để cùng phát triển bộ nhớ thế hệ mới cho các nhà máy AI. Khi năng lực sản xuất bị khóa chặt cho các hợp đồng AI dài hạn, phần còn lại dành cho thị trường tiêu dùng đại chúng ngày càng thu hẹp, tạo áp lực tăng giá kéo dài không chỉ trong một hai quý mà trải rộng suốt cả năm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/PEuvslSm1Ow/hqdefault.jpg" alt="Giải thích nguyên nhân khủng hoảng thiếu hụt bộ nhớ năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/PEuvslSm1Ow/maxresdefault.jpg" alt="Giải thích nguyên nhân khủng hoảng thiếu hụt bộ nhớ năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhu cầu AI khiến năng lực sản xuất bộ nhớ tiêu dùng bị thu hẹp đáng kể. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Một báo cáo phân tích thị trường ghi nhận rằng một bộ kit DRA
 Bên cạnh câu chuyện cung cầu, ba nhà sản xuất bộ nhớ lớn nhất thế giới là Samsung, SK hynix và Micron còn đang đối mặt cáo buộc pháp lý liên quan tới hành vi thao túng giá thị trường DRAM. Theo cáo buộc, giá thiết bị bộ nhớ đã tăng tới khoảng 700% trong vòng bốn năm qua, một mức tăng mà bên khởi kiện cho rằng vượt xa những gì có thể giải thích thuần túy bằng cung cầu thị trường tự do.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VEZvbcZG4SM/hqdefault.jpg" alt="AI khiến giá DRAM tăng mạnh trong quý 3/2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VEZvbcZG4SM/maxresdefault.jpg" alt="AI khiến giá DRAM tăng mạnh trong quý 3/2026" loading="lazy" width="1280" height="720">
   <figcaption>Giá DRAM được dự báo tiếp tục tăng mạnh do nhu cầu AI trong quý 3/2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Bên cạnh câu chuyện cung cầu, ba nhà sản xuất bộ nhớ lớn nh�
 Diễn biến giá bộ nhớ tăng liên tục đã kéo theo giá bán lẻ laptop, PC và một phần điện thoại tại Việt Nam đi lên rõ rệt trong nửa đầu 2026. Nhiều cửa hàng linh kiện trong nước ghi nhận tình trạng khách xây dựng cấu hình PC phải điều chỉnh ngân sách nhiều lần vì giá RAM và SSD thay đổi liên tục chỉ trong vài tuần, một hiện tượng hiếm gặp trước đây khi giá linh kiện PC thường ổn định theo từng quý.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/oS-3nQQI7zU/hqdefault.jpg" alt="Khủng hoảng thiếu hụt DRAM kéo dài ảnh hưởng tới giá thiết bị gaming" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/oS-3nQQI7zU/maxresdefault.jpg" alt="Khủng hoảng thiếu hụt DRAM kéo dài ảnh hưởng tới giá thiết bị gaming" loading="lazy" width="1280" height="720">
   <figcaption>Khủng hoảng thiếu hụt bộ nhớ được dự báo kéo dài, ảnh hưởng cả tới giá thiết bị gaming. Nguồn: YouTube</figcaption>
 </figure>
 

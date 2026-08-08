@@ -88,7 +88,7 @@ Tesla không đơn độc trong cuộc đua này. Đối thủ đáng gờm nh�
 Bên cạnh đó, các công ty Trung Quốc như Unitree cũng tăng tốc, với số lượng robot xuất xưởng lớn và tham vọng mở rộng mạnh trong năm 2026. Sự cạnh tranh đa chiều này thúc đẩy cả ngành tiến nhanh hơn, từ cải thiện phần cứng tới giảm giá thành. Với Tesla, việc đối thủ đã đi vào sản xuất thương mại tạo áp lực phải sớm biến lời hứa thành sản phẩm thực, thay vì chỉ dừng ở các màn trình diễn ấn tượng trên sân khấu. Bức tranh robot hình người rộng hơn cũng được phân tích trong bài [Boston Dynamics Atlas và Gemini Robotics](/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FeHMoqP416U/hqdefault.jpg" alt="Tesla Optimus Gen 3 first look so sánh với đối thủ" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FeHMoqP416U/sddefault.jpg" alt="Tesla Optimus Gen 3 first look so sánh với đối thủ" loading="lazy" width="640" height="480">
   <figcaption>Figure và Unitree khiến cuộc đua robot hình người thêm quyết liệt. Nguồn: YouTube</figcaption>
 </figure>
 

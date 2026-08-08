@@ -65,7 +65,7 @@ Oppo K15 vừa chính thức trình làng tại Trung Quốc ngày 24/7/2026, v�
 Việc mang chi tiết này xuống một chiếc máy giá hơn hai nghìn tệ là bước đi đáng chú ý. Nó cho phép chip Dimensity 7360 Super duy trì xung nhịp ổn định lâu hơn trong các phiên chơi game kéo dài, thay vì bị bóp hiệu năng khi nhiệt độ chạm ngưỡng. Nếu bạn muốn hiểu vì sao tản nhiệt lại quyết định trải nghiệm chơi game nhiều đến vậy, chúng tôi phân tích kỹ trong bài [điện thoại có quạt tản nhiệt tích hợp là gì và có thực sự cần](/articles/dien-thoai-quat-tan-nhiet-tich-hop-la-gi-co-can-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/sKdJ-NVl_WY/hqdefault.jpg" alt="Oppo K15 thiet ke man hinh phang vien mong pin dung luong lon" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/sKdJ-NVl_WY/maxresdefault.jpg" alt="Oppo K15 thiet ke man hinh phang vien mong pin dung luong lon" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế màn phẳng viền mỏng nhưng vẫn nhồi được viên pin 8.000mAh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Oppo K15 dùng tấm nền OLED phẳng 6,59 inch độ phân giải 1.5K, tần
 Về ngoại hình, máy giữ ngôn ngữ thiết kế gọn gàng với cụm camera sau không quá phô trương. Oppo cũng trang bị cho K15 chuẩn kháng bụi và nước ở mức cao, một yếu tố ngày càng phổ biến ngay cả trên máy tầm trung. Đây là điểm cộng đáng kể nếu so với nhiều đối thủ cùng giá vốn thường cắt giảm khả năng chống nước để hạ chi phí.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/hre0nuFS8e0/hqdefault.jpg" alt="Oppo K15 man hinh phang OLED 120Hz do sang cao choi game muot" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/hre0nuFS8e0/maxresdefault.jpg" alt="Oppo K15 man hinh phang OLED 120Hz do sang cao choi game muot" loading="lazy" width="1280" height="720">
   <figcaption>Màn OLED phẳng 120Hz kết hợp lấy mẫu cảm ứng 240Hz phục vụ nhu cầu chơi game. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Về ngoại hình, máy giữ ngôn ngữ thiết kế gọn gàng với cụm 
 Máy chạy giao diện ColorOS mới nhất dựa trên Android, đi kèm các tùy chỉnh tối ưu cho chơi game như bộ máy Tide Engine mà Oppo giới thiệu. Về tổng thể, tập hợp cấu hình của K15 cho thấy Oppo không cố biến nó thành một chiếc flagship thu nhỏ, mà tập trung vào đúng ba thứ người dùng phổ thông cần nhất: pin trâu, nhiệt mát và giá dễ chịu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/j7kMJHTFhnw/hqdefault.jpg" alt="Oppo K15 cum camera sau kep 50MP thiet ke gon gang" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/j7kMJHTFhnw/sddefault.jpg" alt="Oppo K15 cum camera sau kep 50MP thiet ke gon gang" loading="lazy" width="640" height="480">
   <figcaption>Cụm camera sau kép 50MP đủ dùng cho nhu cầu chụp ảnh hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ Với người dùng Việt Nam, cần lưu ý rằng dòng K của Oppo gần n
 Dù vậy, sự xuất hiện của Oppo K15 vẫn đáng chú ý vì nó phản ánh một xu hướng rõ rệt: các tính năng gaming cao cấp đang dần trở nên phổ thông. Khi quạt tản nhiệt và pin 8.000mAh không còn là đặc quyền của máy đắt tiền, người dùng phổ thông được hưởng lợi trực tiếp. Nếu bạn đang tìm một chiếc máy chuyên chơi game trong tầm giá hợp lý, hãy tham khảo thêm các gợi ý cập nhật trong bài [top điện thoại chơi game đáng mua nửa cuối 2026](/articles/top-dien-thoai-choi-game-dang-mua-nua-cuoi-2026.html) để so sánh với các model đang bán chính hãng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WTNbWY5RRNY/hqdefault.jpg" alt="Dien thoai gaming pin lon quat tan nhiet xu huong nua cuoi 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WTNbWY5RRNY/maxresdefault.jpg" alt="Dien thoai gaming pin lon quat tan nhiet xu huong nua cuoi 2026" loading="lazy" width="1280" height="720">
   <figcaption>Điện thoại gaming pin lớn kèm tản nhiệt chủ động đang là xu hướng nửa cuối 2026. Nguồn: YouTube</figcaption>
 </figure>
 

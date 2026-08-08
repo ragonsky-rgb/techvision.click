@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T04:00:00+07:00"
 dateModified: "2026-07-06T04:00:00+07:00"
 deck: "ASUS ROG vừa ra mắt bộ đôi bàn phím Azoth và chuột Harpe II phiên bản Extreme Edition 20, mạ vàng 24K để kỷ niệm 20 năm thương hiệu Republic of Gamers, chính thức mở bán từ ngày 3/7/2026 với mức giá lần lượt 599,99 USD và 259,99 USD."
-heroImage: "https://i.ytimg.com/vi/83JS0y3VkhU/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/83JS0y3VkhU/maxresdefault.jpg"
 heroAlt: "ASUS ROG Azoth Harpe II Extreme Edition 20 ban phim chuot vang 2026"
 heroCaption: "ASUS ROG Azoth và Harpe II Extreme Edition 20 mạ vàng 24K kỷ niệm 20 năm ROG. Nguồn: YouTube"
 tldr: "ASUS ROG vừa ra mắt bộ đôi <strong>Azoth Extreme Edition 20</strong> và <strong>Harpe II Extreme Edition 20</strong>, mạ vàng 24K kỷ niệm 20 năm thương hiệu Republic of Gamers. Bàn phím Azoth bố cục 75%, có tấm nameplate mạ vàng, màn hình OLED cảm ứng nhỏ, polling rate 8.000Hz, giá <strong>599,99 USD</strong>. Chuột Harpe II dùng cảm biến thế hệ mới <strong>AimPoint Pro 65K DPI</strong>, điểm nhấn mạ vàng đồng bộ, giá <strong>259,99 USD</strong>. Cả hai chính thức mở bán từ ngày <strong>3/7/2026</strong>."
@@ -71,7 +71,7 @@ Khung gasket-mount trên Azoth Extreme Edition 20 vẫn được giữ nguyên t
 Chuột ROG Harpe II Extreme Edition 20 sử dụng cảm biến thế hệ mới AimPoint Pro với độ nhạy tối đa lên tới 65.000 DPI, cao hơn đáng kể so với thế hệ cảm biến trước đó, mang lại độ chính xác theo dõi chuyển động vượt trội cho các thao tác đòi hỏi độ chi tiết cao. Thiết kế mạ vàng đồng bộ với bàn phím Azoth giúp cả bộ sản phẩm tạo thành một combo hoàn chỉnh về mặt thẩm mỹ, phù hợp người dùng muốn setup gaming có phong cách đồng bộ, sang trọng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/KdnDxgjzSuY/hqdefault.jpg" alt="ASUS ROG Azoth Extreme Edition 20 danh gia chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/KdnDxgjzSuY/maxresdefault.jpg" alt="ASUS ROG Azoth Extreme Edition 20 danh gia chi tiet" loading="lazy" width="1280" height="720">
   <figcaption>Đánh giá chi tiết thiết kế mạ vàng và tính năng của bàn phím ROG Azoth Extreme Edition 20. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,14 +80,14 @@ Chuột ROG Harpe II Extreme Edition 20 sử dụng cảm biến thế hệ mớ
 Việc ASUS ra mắt bộ đôi bàn phím, chuột mạ vàng nằm trong chiến dịch kỷ niệm 20 năm thương hiệu ROG xuyên suốt nhiều dòng sản phẩm khác nhau trong năm 2026, từ mini PC ROG NUC 16 Edition 20 cho tới các dòng laptop gaming cao cấp. Chiến lược này giúp ASUS tạo dấu ấn thương hiệu mạnh mẽ, đồng thời kích thích nhu cầu sưu tầm từ nhóm khách hàng trung thành đã gắn bó với thương hiệu ROG trong suốt hai thập kỷ qua.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/huqP1u-Oe7Y/hqdefault.jpg" alt="ROG Extreme Edition 20 bo suu tap ky niem 20 nam" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/huqP1u-Oe7Y/maxresdefault.jpg" alt="ROG Extreme Edition 20 bo suu tap ky niem 20 nam" loading="lazy" width="1280" height="720">
   <figcaption>Bộ sưu tập Extreme Edition 20 kỷ niệm 20 năm thương hiệu ROG trải dài trên nhiều dòng sản phẩm khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
 Người dùng quan tâm tới các sản phẩm ROG khác trong dải Edition 20 có thể tham khảo thêm [CORSAIR ra mắt bộ ba gear gaming mới tại Computex 2026](/articles/corsair-computex-2026-clipper-pro-nightsword-v2-hs35-v3.html) để so sánh xu hướng thiết kế thiết bị ngoại vi gaming cao cấp hiện nay giữa các thương hiệu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/MRNFGQMd8RA/hqdefault.jpg" alt="ROG Harpe II Extreme Edition 20 cam bien AimPoint Pro" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/MRNFGQMd8RA/maxresdefault.jpg" alt="ROG Harpe II Extreme Edition 20 cam bien AimPoint Pro" loading="lazy" width="1280" height="720">
   <figcaption>Cảm biến AimPoint Pro 65K DPI trên chuột ROG Harpe II Extreme Edition 20 mang lại độ chính xác vượt trội. Nguồn: YouTube</figcaption>
 </figure>
 

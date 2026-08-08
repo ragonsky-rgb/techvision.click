@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-02T19:30:00+07:00"
 dateModified: "2026-07-02T19:30:00+07:00"
 deck: "Sony vừa ra mắt 1000X The ColleXion, phiên bản đặc biệt kỷ niệm 10 năm dòng tai nghe chống ồn 1000X, nổi bật với vật liệu da thuần chay cao cấp và driver carbon fiber mới được ba studio âm thanh danh tiếng cùng tinh chỉnh. Sản phẩm định vị ở phân khúc cao cấp hơn hẳn WH-1000XM6 hiện tại."
-heroImage: "https://i.ytimg.com/vi/x65MSetlixA/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/x65MSetlixA/maxresdefault.jpg"
 heroAlt: "Sony 1000X ColleXion tai nghe flagship 10 nam 2026"
 heroCaption: "Sony 1000X The ColleXion, tai nghe kỷ niệm 10 năm dòng 1000X. Nguồn: YouTube"
 tldr: "<strong>Sony 1000X The ColleXion</strong> kỷ niệm 10 năm dòng tai nghe 1000X, sử dụng driver carbon fiber <strong>40mm</strong> mới, chất liệu thép không gỉ và da thuần chay cao cấp Sony mất 2 năm phát triển. Tai nghe nặng <strong>320g</strong>, nặng hơn 66g so với XM6. Sử dụng cùng chip chống ồn <strong>QN3</strong> và mảng <strong>12 micro</strong> như WH-1000XM6. Pin dùng được <strong>24 giờ</strong> khi bật ANC, <strong>32 giờ</strong> khi tắt. Driver được đồng tinh chỉnh bởi kỹ sư từ Battery Studios, Sterling Sound và Coast Mastering, lần đầu tiên trong lịch sử dòng 1000X. Giá bán <strong>649,99 USD</strong>, hai màu Platinum và Black."
@@ -72,14 +72,14 @@ Về chất liệu, tai nghe sử dụng thép không gỉ ở một số chi ti
 Đáng chú ý, dù được định vị cao cấp hơn về mặt chất liệu và giá bán, 1000X The ColleXion vẫn sử dụng chung chip chống ồn chủ động QN3 cùng mảng 12 micro và phần mềm Adaptive NC Optimizer giống hệt như trên WH-1000XM6, đồng nghĩa khả năng chống ồn cơ bản giữa hai sản phẩm gần như tương đương nhau. Sự khác biệt chủ yếu nằm ở trải nghiệm chất liệu, thiết kế và chất âm được tinh chỉnh riêng, chứ không phải một bước nhảy vọt về công nghệ chống ồn thuần túy.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_8Nl0la8Ruk/hqdefault.jpg" alt="Sony 1000X ColleXion tai nghe tien tien nhat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_8Nl0la8Ruk/maxresdefault.jpg" alt="Sony 1000X ColleXion tai nghe tien tien nhat 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều kênh công nghệ gọi 1000X The ColleXion là tai nghe tiên tiến nhất của Sony tính đến thời điểm hiện tại. Nguồn: YouTube</figcaption>
 </figure>
 
 Về trọng lượng, tai nghe nặng khoảng 320g, nặng hơn đáng kể so với 254g của XM6, chủ yếu do sử dụng nhiều vật liệu cao cấp hơn. Đây có thể là điểm cần cân nhắc với người dùng ưu tiên sự nhẹ nhàng khi đeo trong thời gian dài, dù về thời lượng pin, sản phẩm vẫn giữ mức tương đương XM6 với 24 giờ sử dụng khi bật chống ồn và 32 giờ khi tắt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/HqA1Urc0TUA/hqdefault.jpg" alt="Sony 1000X ColleXion hands on trai nghiem am thanh 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/HqA1Urc0TUA/maxresdefault.jpg" alt="Sony 1000X ColleXion hands on trai nghiem am thanh 2026" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế cho thấy chất âm của ColleXion được đánh giá cao nhờ sự hợp tác cùng các studio thu âm chuyên nghiệp. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Về trọng lượng, tai nghe nặng khoảng 320g, nặng hơn đáng kể so
 Sony 1000X The ColleXion có giá bán khởi điểm 649,99 USD, chính thức mở bán từ ngày 19/5/2026 với hai lựa chọn màu sắc Platinum và Black, cao hơn đáng kể so với mức giá của WH-1000XM6. Với người dùng đang cân nhắc giữa hai lựa chọn, bài viết [Sony WH-1000XM6, tai nghe chống ồn đầu bảng với pin 30 giờ](/articles/sony-wh-1000xm6-tai-nghe-chong-on-dau-bang-qn3-pin-30-gio.html) là tài liệu tham khảo rất hữu ích để so sánh trực tiếp giữa hai sản phẩm cùng thương hiệu nhưng khác định vị phân khúc giá. Nhìn chung, ColleXion phù hợp nhất với người dùng coi trọng yếu tố chất liệu cao cấp, thiết kế mang tính sưu tầm kỷ niệm, trong khi XM6 vẫn là lựa chọn thực dụng hơn cho đa số người dùng phổ thông cần trải nghiệm chống ồn tốt với mức giá hợp lý hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/h6WW76OSJJI/hqdefault.jpg" alt="Sony 1000X ColleXion doi thu AirPods Max 2 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/h6WW76OSJJI/maxresdefault.jpg" alt="Sony 1000X ColleXion doi thu AirPods Max 2 2026" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều đánh giá xem Sony 1000X The ColleXion là đối thủ xứng tầm với AirPods Max thế hệ mới. Nguồn: YouTube</figcaption>
 </figure>
 

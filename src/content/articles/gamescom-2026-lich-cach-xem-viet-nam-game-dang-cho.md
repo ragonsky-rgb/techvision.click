@@ -64,7 +64,7 @@ gamescom 2026 mở cửa tại Koelnmesse từ ngày 26 tới 30 tháng 8, trong
 Điểm thuận lợi cho khán giả Việt Nam là toàn bộ Opening Night Live được phát trực tiếp miễn phí trên YouTube, Twitch và Steam. Chương trình bắt đầu vào buổi tối theo giờ Đức, tương ứng khoảng 1 giờ sáng ngày 26/8 theo giờ Việt Nam, nên người xem cần chuẩn bị tinh thần thức khuya hoặc theo dõi bản phát lại vào sáng hôm sau. Việc bật thông báo trên kênh chính thức sẽ giúp bạn không bỏ lỡ các phần công bố quan trọng nhất, vốn thường được xếp vào cuối chương trình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/c8VdhviXXUk/maxresdefault.jpg" alt="gamescom 2026 tac dong lon toi nganh game trailer world premiere" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/c8VdhviXXUk/hq720.jpg" alt="gamescom 2026 tac dong lon toi nganh game trailer world premiere" loading="lazy" width="1280" height="720">
   <figcaption>Opening Night Live là nơi dồn dập trailer và world premiere định hình nửa cuối năm. Ảnh minh họa. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T12:00:00+07:00"
 dateModified: "2026-07-05T12:00:00+07:00"
 deck: "UBTECH chính thức ra mắt thương hiệu UWORLD cùng dòng robot hình người U1, được quảng bá là bạn đồng hành cảm xúc chân thực nhất hiện nay, tích hợp mô hình ngôn ngữ lớn nhận biết cảm xúc tinh tế và 88 khớp servo mô phỏng chuyển động con người, hướng tới thị trường robot gia đình và chăm sóc người cao tuổi."
-heroImage: "https://i.ytimg.com/vi/nKNu9NvI3sQ/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/nKNu9NvI3sQ/maxresdefault.jpg"
 heroAlt: "UBTECH U1 robot hinh nguoi ban dong hanh cam xuc 2026"
 heroCaption: "UBTECH U1 được quảng bá là robot bạn đồng hành cảm xúc chân thực nhất hiện nay. Nguồn: YouTube"
 tldr: "UBTECH vừa chính thức ra mắt thương hiệu <strong>UWORLD</strong> cùng dòng robot hình người <strong>U1</strong>, gồm ba phiên bản: U1 Lite bán thân, U1 Pro và U1 Ultra bán toàn thân hiệu năng cao. Mỗi robot có <strong>88 khớp servo</strong>, lớp vỏ silicone mô phỏng chuyển động và ngoại hình con người, tích hợp mô hình ngôn ngữ lớn nhận biết cảm xúc, được quảng bá có khả năng phản hồi tương tác trong tích tắc. Giá bán dao động từ <strong>119.800 tới 990.000 nhân dân tệ</strong> (khoảng 17.650 tới 138.000 USD). Dù nhận nhiều đánh giá trái chiều về độ tự nhiên khi vận hành, sản phẩm đã ghi nhận hơn <strong>13.000 đơn đặt hàng</strong> ngay từ giai đoạn đầu."
@@ -69,7 +69,7 @@ Dòng sản phẩm U1 được chia thành ba phiên bản rõ rệt: U1 Lite l�
 Mỗi robot U1 được trang bị 88 khớp servo cùng lớp vỏ silicone thiết kế để mô phỏng chuyển động và ngoại hình con người một cách chân thực nhất có thể. Điểm nhấn công nghệ đáng chú ý là mô hình ngôn ngữ lớn nhận biết cảm xúc, được UBTECH gọi là "emotion-aware LLM", giúp robot nhận biết và phản hồi lại các trạng thái cảm xúc tinh tế của người dùng, thiết kế như một người bạn đồng hành chủ động thay vì chỉ là thiết bị trợ lý phản hồi thụ động theo lệnh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/nKNu9NvI3sQ/sddefault.jpg" alt="UBTECH U1 robot hinh nguoi ban dong hanh chan thuc nhat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/nKNu9NvI3sQ/maxresdefault.jpg" alt="UBTECH U1 robot hinh nguoi ban dong hanh chan thuc nhat 2026" loading="lazy" width="1280" height="720">
   <figcaption>UBTECH U1 được đánh giá là robot đồng hành hình người chân thực nhất có thể mua được vào năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,14 +84,14 @@ Sự kiện này diễn ra trong bối cảnh ngành robot hình người Trung 
 Từ góc độ quan sát xu hướng công nghệ, tôi cho rằng sản phẩm như UBTECH U1 phản ánh một nhu cầu xã hội có thật, đặc biệt tại các quốc gia có tốc độ già hóa dân số nhanh như Trung Quốc và Nhật Bản, nơi tình trạng sống một mình và thiếu tương tác xã hội ngày càng phổ biến. Tuy nhiên, câu hỏi lớn hơn là liệu một robot, dù được trang bị công nghệ nhận biết cảm xúc tinh vi tới đâu, có thực sự thay thế được nhu cầu kết nối con người thật hay chỉ tạo ra một giải pháp tạm thời, thậm chí có thể khiến người dùng thêm phụ thuộc vào tương tác nhân tạo thay vì tìm kiếm kết nối xã hội thực sự. Đây là câu hỏi đạo đức mà ngành robot đồng hành cảm xúc sẽ còn phải đối mặt trong nhiều năm tới, tương tự cách [Apptronik phát triển robot công nghiệp Apollo 2](/articles/apptronik-apollo-2-robot-park-huan-luyen-robot-hinh-nguoi-2026.html) cũng phải cân nhắc kỹ ranh giới giữa hỗ trợ con người và thay thế hoàn toàn vai trò con người trong công việc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/nKNu9NvI3sQ/mqdefault.jpg" alt="UBTECH U1 phan hoi cam xuc tuong tac voi nguoi dung" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/nKNu9NvI3sQ/maxresdefault.jpg" alt="UBTECH U1 phan hoi cam xuc tuong tac voi nguoi dung" loading="lazy" width="1280" height="720">
   <figcaption>UBTECH U1 được thiết kế để phản hồi tương tác với người dùng gần như tức thời. Nguồn: YouTube</figcaption>
 </figure>
 
 Sản phẩm cũng gợi nhớ tới cách [Boston Dynamics phát triển robot Atlas với công nghệ Gemini Robotics](/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html) của Google, cho thấy các công ty robot lớn trên thế giới đang cùng lúc theo đuổi nhiều hướng ứng dụng AI khác nhau cho robot hình người, từ công nghiệp nặng cho tới đồng hành cảm xúc gia đình, phản ánh sự đa dạng hóa ngày càng rõ rệt của ngành công nghiệp robot toàn cầu trong năm 2026.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/yUF_1uvkIj4/mqdefault.jpg" alt="UBTECH U1 mua duoc nam 2026 gia va tinh nang" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/yUF_1uvkIj4/maxresdefault.jpg" alt="UBTECH U1 mua duoc nam 2026 gia va tinh nang" loading="lazy" width="1280" height="720">
   <figcaption>UBTECH U1 hiện đã có thể đặt mua tại thị trường Trung Quốc với nhiều lựa chọn phiên bản khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 

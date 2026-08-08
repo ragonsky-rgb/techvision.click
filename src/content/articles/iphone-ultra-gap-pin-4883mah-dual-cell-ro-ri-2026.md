@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-13T12:00:00+07:00"
 dateModified: "2026-07-13T12:00:00+07:00"
 deck: "Một rò rỉ mới từ nguồn tin chuỗi cung ứng cho biết chiếc iPhone gập đầu tiên của Apple, thường được gọi là iPhone Ultra, sẽ dùng thiết kế pin hai cell với tổng dung lượng khoảng 4.883mAh, gồm một viên 1.921mAh và một viên 2.962mAh. Con số này thấp hơn đáng kể so với các tin đồn trước đó nói về mức 5.400 đến 5.800mAh, cho thấy Apple có thể đang chọn cách chơi an toàn cho sản phẩm gập đầu tay. Máy dự kiến ra mắt vào tháng 9 cùng bộ đôi iPhone 18 Pro."
-heroImage: "https://i.ytimg.com/vi/UDf7sXiMGYY/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/UDf7sXiMGYY/maxresdefault.jpg"
 heroAlt: "iPhone Ultra gập của Apple lộ dung lượng pin hai cell năm 2026"
 heroCaption: "iPhone Ultra được cho là dùng pin hai cell, cách làm quen thuộc trên điện thoại gập. Nguồn: YouTube"
 tldr: "Theo rò rỉ mới từ nguồn tin chuỗi cung ứng, chiếc <strong>iPhone Ultra</strong> gập đầu tiên của Apple sẽ dùng thiết kế pin <strong>hai cell</strong> với tổng dung lượng khoảng <strong>4.883mAh</strong>, gồm một viên <strong>1.921mAh</strong> và một viên <strong>2.962mAh</strong>. Đây được cho là dung lượng tối thiểu, và một số nguồn dự báo con số cuối cùng có thể vượt <strong>5.000mAh</strong>. Mức này thấp hơn tin đồn trước đó về <strong>5.400 đến 5.800mAh</strong>. Để so sánh, Samsung Galaxy Z Fold7 có pin <strong>4.400mAh</strong> còn Google Pixel 10 Pro Fold đạt <strong>5.015mAh</strong>. Máy được cho là có màn trong <strong>7,8 inch</strong>, màn ngoài <strong>5,5 inch</strong>, dùng <strong>Touch ID</strong> thay Face ID và ra mắt vào <strong>tháng 9</strong> cùng iPhone 18 Pro."
@@ -74,7 +74,7 @@ Rò rỉ về pin luôn cần được nhìn nhận thận trọng, bởi dung l
 Để đánh giá mức pin của iPhone Ultra, cách tốt nhất là đặt cạnh các đối thủ trực tiếp trong phân khúc gập cao cấp. Samsung Galaxy Z Fold7 có tổng dung lượng pin 4.400mAh, trong khi Google Pixel 10 Pro Fold nhỉnh hơn với 5.015mAh. Nếu con số 4.883mAh là chính xác, iPhone Ultra sẽ nằm ở khoảng giữa, cao hơn Galaxy Z Fold7 nhưng thấp hơn một chút so với Pixel 10 Pro Fold. Đây là vị trí không quá tệ với một sản phẩm thế hệ đầu, dù chưa thể gọi là dẫn đầu về dung lượng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Fp-f-GzgpU0/hqdefault.jpg" alt="Điện thoại gập Samsung Galaxy Z Fold đối thủ của iPhone Ultra" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Fp-f-GzgpU0/maxresdefault.jpg" alt="Điện thoại gập Samsung Galaxy Z Fold đối thủ của iPhone Ultra" loading="lazy" width="1280" height="720">
   <figcaption>Pin 4.883mAh của iPhone Ultra cao hơn Galaxy Z Fold7 nhưng thấp hơn Pixel 10 Pro Fold. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Cần nhớ rằng dung lượng pin chỉ là một phần của câu chuyện 
 Ngoài pin, các rò rỉ trước đó đã phác họa khá rõ hình hài chiếc iPhone gập. Máy được cho là có màn hình gập bên trong kích thước 7,8 inch, đi kèm màn hình ngoài 5,5 inch, tạo nên kiểu dáng gập vào như một cuốn sổ. Apple được cho là sẽ dùng cảm biến vân tay Touch ID thay cho Face ID trên sản phẩm này, có thể do hạn chế không gian cho cụm camera TrueDepth khi máy siêu mỏng. Mặt lưng dự kiến có hai camera, và máy chạy trên chip A20 thế hệ mới.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/khefl5hYouM/hqdefault.jpg" alt="Thiết kế iPhone Ultra gập mỏng với màn hình lớn bên trong" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/khefl5hYouM/maxresdefault.jpg" alt="Thiết kế iPhone Ultra gập mỏng với màn hình lớn bên trong" loading="lazy" width="1280" height="720">
   <figcaption>iPhone Ultra được cho là có màn trong 7,8 inch, màn ngoài 5,5 inch và dùng Touch ID. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Về thời điểm, Apple được cho là sẽ trình làng iPhone Ultra tại
 Điểm khiến nhiều người dùng Việt Nam quan tâm nhất có lẽ là giá bán. Các dự báo trước đây cho rằng iPhone gập đầu tiên có giá trung bình khoảng 2.500 USD, với các phiên bản dung lượng cao có thể chạm mốc 3.000 USD. Nếu quy đổi và cộng thêm thuế, phí khi về Việt Nam, đây sẽ là một trong những chiếc smartphone đắt nhất thị trường, hướng tới nhóm khách hàng chịu chi và yêu thích công nghệ mới.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/yMd91ijQICw/hqdefault.jpg" alt="iPhone Ultra gập mở ra với màn hình lớn dạng máy tính bảng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/yMd91ijQICw/maxresdefault.jpg" alt="iPhone Ultra gập mở ra với màn hình lớn dạng máy tính bảng" loading="lazy" width="1280" height="720">
   <figcaption>Với mức giá dự kiến cao, iPhone Ultra hướng tới nhóm khách hàng cao cấp tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 

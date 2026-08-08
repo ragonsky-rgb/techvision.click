@@ -64,7 +64,7 @@ Theo các nguồn như 9to5Mac và MacRumors, Apple năm nay được cho là ch
 Sự khác biệt giữa A20 và A20 Pro nhiều khả năng nằm ở số nhân xử lý, nhân đồ họa và các khối tăng tốc AI, tương tự cách Apple phân tầng ở những thế hệ trước. Bản Pro thường có thêm nhân GPU và bộ nhớ đệm lớn hơn để gánh các tác vụ nặng như quay video độ phân giải cao, xử lý đồ họa game và chạy mô hình AI trên máy. Muốn nắm bức tranh tổng thể về máy, bạn có thể xem thêm bài [tổng hợp tính năng iPhone 18 Pro trước ngày ra mắt](/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VKjvdIw0gCI/hqdefault.jpg" alt="A20 Pro chia thanh hai nhanh chip cho iPhone 18 va iPhone 18 Pro" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VKjvdIw0gCI/sddefault.jpg" alt="A20 Pro chia thanh hai nhanh chip cho iPhone 18 va iPhone 18 Pro" loading="lazy" width="640" height="480">
   <figcaption>A20 Pro được đồn dành riêng cho bản Pro, còn bản thường dùng A20. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Sự khác biệt giữa A20 và A20 Pro nhiều khả năng nằm ở số nhâ
 Đi cùng 2nm là cấu trúc transistor Gate-All-Around, viết tắt GAA. Khác với FinFET dùng trên các chip Apple trước đây, GAA để cổng điều khiển bao quanh cả bốn mặt của kênh dẫn thay vì ba mặt. Cách bố trí này giúp kiểm soát dòng điện chính xác hơn, giảm rò rỉ khi transistor tắt và cho phép hạ điện áp hoạt động. Kết quả thực tế mà người dùng cảm nhận được là máy chạy mát hơn ở tải cao và pin bền hơn trong các tác vụ kéo dài như quay phim, chơi game hay điều hướng bản đồ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/A_WH6M6bDww/hqdefault.jpg" alt="Tien trinh 2nm va transistor GAA giup A20 Pro mat hon tiet kiem dien" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/A_WH6M6bDww/maxresdefault.jpg" alt="Tien trinh 2nm va transistor GAA giup A20 Pro mat hon tiet kiem dien" loading="lazy" width="1280" height="720">
   <figcaption>Tiến trình 2nm và transistor GAA hướng tới chạy mát và tiết kiệm điện hơn. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Một chi tiết đi kèm A20 Pro là dung lượng RAM. Nhiều rò rỉ cho r�
 Mặt trái của bước nhảy công nghệ là chi phí. Wafer 2nm của TSMC đắt hơn đáng kể so với 3nm, và một số dự báo cho rằng iPhone 18 Pro Max có thể tăng giá so với thế hệ hiện tại. Đây là bài toán quen thuộc: công nghệ mới luôn kéo theo chi phí cao trong giai đoạn đầu, và phần nào được phản ánh vào giá bán. Góc nhìn chi tiết về chiến lược giá của Apple có trong bài [iPhone 18 Pro Max và nghịch lý giá bán](/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html). Người mua tại Việt Nam nên theo dõi giá niêm yết chính hãng thay vì suy đoán từ chi phí linh kiện.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FMGePS8NHRA/hqdefault.jpg" alt="iPhone 18 Pro nang RAM 12GB phuc vu Apple Intelligence tren may 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FMGePS8NHRA/maxresdefault.jpg" alt="iPhone 18 Pro nang RAM 12GB phuc vu Apple Intelligence tren may 2026" loading="lazy" width="1280" height="720">
   <figcaption>RAM 12GB được cho là nhằm phục vụ các tính năng AI chạy trên máy. Nguồn: YouTube</figcaption>
 </figure>
 

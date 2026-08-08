@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T20:40:00+07:00"
 dateModified: "2026-07-08T20:40:00+07:00"
 deck: "Google chính thức đưa Ironwood, thế hệ TPU thứ bảy, vào giai đoạn phổ biến rộng rãi cho khách hàng doanh nghiệp. Với hiệu năng mạnh gấp 24 lần siêu máy tính hàng đầu thế giới và được Anthropic đặt mua tới một triệu chip trong thỏa thuận trị giá hàng chục tỷ USD, Ironwood đang trở thành lời thách thức nghiêm túc nhất từ trước tới nay nhắm vào vị thế thống trị của Nvidia trên thị trường chip AI."
-heroImage: "https://i.ytimg.com/vi/IiItHlD6-WI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/IiItHlD6-WI/maxresdefault.jpg"
 heroAlt: "Google TPU Ironwood v7 thách thức vị thế thống trị của Nvidia trong chip AI"
 heroCaption: "Google Ironwood TPU v7 được đánh giá là đối trọng thực sự đầu tiên của Nvidia trong lĩnh vực chip AI. Nguồn: YouTube"
 tldr: "<strong>Google</strong> vừa đưa <strong>Ironwood</strong>, thế hệ chip <strong>TPU thứ bảy</strong>, vào giai đoạn phổ biến rộng rãi. Mỗi chip đạt <strong>4,6 petaflops</strong> hiệu năng FP8, xấp xỉ ngang ngửa chip <strong>B200 Blackwell</strong> của Nvidia. Khi kết hợp thành pod quy mô lớn lên tới <strong>9.216 chip</strong>, tổng hiệu năng đạt <strong>42,5 exaflops</strong>, vượt xa năng lực tính toán của siêu máy tính lớn nhất thế giới hiện nay. <strong>Anthropic</strong> đã ký thỏa thuận sử dụng tới <strong>1 triệu chip TPU</strong>, trị giá hàng chục tỷ USD, đánh dấu một trong những hợp đồng hạ tầng AI lớn nhất từng được ký kết, cho thấy Nvidia lần đầu tiên đối mặt với một đối thủ đủ sức cạnh tranh trực diện."
@@ -76,7 +76,7 @@ Về mặt hiệu năng thuần túy, mỗi chip Ironwood đạt khoảng 4,6 pe
 Điểm ấn tượng nhất của Ironwood không chỉ nằm ở hiệu năng từng chip riêng lẻ, mà ở khả năng mở rộng quy mô. Google cho biết Ironwood có thể kết hợp thành các pod tính toán khổng lồ lên tới 9.216 chip, liên kết với nhau qua mạng lưới kết nối liên chip tốc độ cao đạt 9,6 Tb/s, cho phép hàng nghìn chip cùng truy cập vào 1,77 Petabyte bộ nhớ băng thông cao dùng chung. Tổng hiệu năng của một pod đầy đủ như vậy đạt tới 42,5 exaflops, một con số được so sánh là mạnh gấp khoảng 24 lần siêu máy tính lớn nhất thế giới hiện nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IiItHlD6-WI/hqdefault.jpg" alt="Google triển khai TPU Ironwood quy mô hàng trăm nghìn chip" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/IiItHlD6-WI/maxresdefault.jpg" alt="Google triển khai TPU Ironwood quy mô hàng trăm nghìn chip" loading="lazy" width="1280" height="720">
   <figcaption>Quy mô triển khai TPU Ironwood của Google đạt mức chưa từng có trong lịch sử ngành chip AI. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Con số này vượt xa năng lực FP8 của hệ thống GB300 NVL72, sản p
 Minh chứng rõ ràng nhất cho sức hút của Ironwood là việc Anthropic, công ty đứng sau mô hình AI Claude, đã ký thỏa thuận mở rộng sử dụng tới một triệu chip TPU, với giá trị hợp đồng lên tới hàng chục tỷ USD. Đây là một trong những thỏa thuận hạ tầng điện toán AI lớn nhất từng được công bố, dự kiến đưa hơn một gigawatt năng lực tính toán mới lên mạng ngay trong năm 2026.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/5yAVdO24SXA/hqdefault.jpg" alt="So sánh trực tiếp giữa Google TPU Ironwood v7 và các chip Nvidia hiện tại" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/5yAVdO24SXA/maxresdefault.jpg" alt="So sánh trực tiếp giữa Google TPU Ironwood v7 và các chip Nvidia hiện tại" loading="lazy" width="1280" height="720">
   <figcaption>Giới phân tích liên tục so sánh trực tiếp hiệu năng giữa Ironwood và các dòng chip cao cấp của Nvidia. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Dù Ironwood tạo ra tiếng vang lớn, điều quan trọng cần lưu ý là
 Tuy nhiên, việc một đối thủ có thể tiệm cận hiệu năng của Nvidia ở quy mô lớn như vậy vẫn là tín hiệu đáng chú ý cho toàn ngành, đặc biệt trong bối cảnh cuộc đua đầu tư hạ tầng AI đang diễn ra với tốc độ chưa từng có, tương tự như cách [Nvidia hợp tác cùng SK hynix phát triển bộ nhớ AI HBM4](/articles/nvidia-sk-hynix-hop-tac-bo-nho-ai-hbm4-vera-rubin-2026.html) để duy trì lợi thế công nghệ của mình trước làn sóng cạnh tranh ngày càng gay gắt từ các đối thủ tự phát triển chip nội bộ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/lcbT5_jJ9K0/hqdefault.jpg" alt="Chip AI mới của Google có thể soán ngôi Nvidia trong tương lai gần" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/lcbT5_jJ9K0/maxresdefault.jpg" alt="Chip AI mới của Google có thể soán ngôi Nvidia trong tương lai gần" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều nhà phân tích đặt câu hỏi liệu Ironwood có thể thực sự soán ngôi Nvidia hay không. Nguồn: YouTube</figcaption>
 </figure>
 

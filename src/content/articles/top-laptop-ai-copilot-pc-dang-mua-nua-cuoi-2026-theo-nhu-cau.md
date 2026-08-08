@@ -66,7 +66,7 @@ featured: true
 Các nền tảng chip mới đều đã đáp ứng ngưỡng này, gồm Snapdragon X Elite của Qualcomm, Intel Core Ultra thế hệ mới và AMD Ryzen AI. Cuộc cạnh tranh giữa ba nền tảng này được phân tích kỹ trong bài [so sánh chip laptop 2026 giữa Panther Lake, Snapdragon X2 Elite và AMD](/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html). Với người mua, tin tốt là gần như mọi máy đạt chuẩn Copilot+ đều đủ sức cho các tác vụ AI phổ thông, nên không cần chạy theo con số TOPS cao nhất mà nên chọn theo nhu cầu tổng thể.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/pQBRIPetIec/hqdefault.jpg" alt="Laptop AI Copilot+ PC với NPU 40 TOPS chạy tác vụ AI trên máy nửa cuối 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/pQBRIPetIec/maxresdefault.jpg" alt="Laptop AI Copilot+ PC với NPU 40 TOPS chạy tác vụ AI trên máy nửa cuối 2026" loading="lazy" width="1280" height="720">
   <figcaption>NPU đạt tối thiểu 40 TOPS là điều kiện để một chiếc laptop được gọi là Copilot+ PC. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Với người làm nội dung, chỉnh ảnh và video, Lenovo Yoga Pro 7 14ASP
 Nếu công việc đòi hỏi sức mạnh đồ họa cao hơn, chẳng hạn dựng phim, làm 3D hay xử lý dự án lớn, ASUS ProArt P16 là hướng đi chuyên nghiệp hơn. Dòng ProArt được thiết kế riêng cho creator, thường đi kèm màn hình chuẩn màu, card đồ họa rời mạnh và NPU đạt chuẩn Copilot+ PC. Bạn đọc quan tâm dòng máy này có thể tham khảo thêm bài về [ASUS ProArt P16 và PX13 ra mắt tại Việt Nam](/articles/asus-proart-p16-px13-ra-mat-viet-nam-gia-copilot-pc-2026.html). Điểm cần lưu ý là nên chọn dung lượng RAM và SSD đủ lớn ngay từ đầu, vì phần mềm sáng tạo rất ngốn tài nguyên.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/4TevmYsbcOk/hqdefault.jpg" alt="Lenovo Yoga Pro 7 Ryzen AI 9 365 màn 2.8K OLED laptop AI cho dân sáng tạo 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/4TevmYsbcOk/maxresdefault.jpg" alt="Lenovo Yoga Pro 7 Ryzen AI 9 365 màn 2.8K OLED laptop AI cho dân sáng tạo 2026" loading="lazy" width="1280" height="720">
   <figcaption>Lenovo Yoga Pro 7 với Ryzen AI 9 365 và màn 2.8K OLED cân bằng cho dân sáng tạo. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Nếu công việc đòi hỏi sức mạnh đồ họa cao hơn, chẳng hạn 
 Giữa hai thái cực gaming và siêu di động là những mẫu như MSI Stealth A16 AI+, hướng tới người cần cấu hình mạnh nhưng vẫn muốn mang đi được. Máy có viên pin dung lượng lớn 99,9Wh và trọng lượng khoảng 2,1kg, kết hợp giữa thiết kế mỏng và hiệu năng cao, phục vụ cả game thủ lẫn người làm sáng tạo. Đây là lựa chọn cho những ai không muốn chọn giữa sức mạnh và tính di động, chấp nhận một mức cân bằng ở giữa với giá thường cao hơn nhóm phổ thông.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/qx7iyqIusds/hqdefault.jpg" alt="Lenovo Legion Pro 7 Core Ultra 9 275HX và MSI Stealth A16 AI+ laptop AI gaming 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/qx7iyqIusds/maxresdefault.jpg" alt="Lenovo Legion Pro 7 Core Ultra 9 275HX và MSI Stealth A16 AI+ laptop AI gaming 2026" loading="lazy" width="1280" height="720">
   <figcaption>Legion Pro 7 cho hiệu năng gaming tối đa, MSI Stealth A16 AI+ cân bằng giữa sức mạnh và di động. Nguồn: YouTube</figcaption>
 </figure>
 

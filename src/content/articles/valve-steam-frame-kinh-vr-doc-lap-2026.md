@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T06:20:00+07:00"
 dateModified: "2026-07-06T06:20:00+07:00"
 deck: "Valve đang chuẩn bị ra mắt Steam Frame, kính thực tế ảo độc lập chạy hệ điều hành SteamOS, đủ sức chơi được các tựa game VR nặng như Half-Life Alyx mà không cần kết nối với máy tính, đánh dấu bước tiến lớn của Valve trong mảng phần cứng thực tế ảo sau nhiều năm vắng bóng."
-heroImage: "https://i.ytimg.com/vi/KdApUtMN3II/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/KdApUtMN3II/maxresdefault.jpg"
 heroAlt: "Valve Steam Frame kinh VR doc lap SteamOS 2026"
 heroCaption: "Valve Steam Frame là kính VR độc lập chạy SteamOS, có thể chơi Half-Life Alyx mà không cần PC. Nguồn: YouTube"
 tldr: "Valve đang chuẩn bị ra mắt <strong>Steam Frame</strong>, kính thực tế ảo độc lập dùng chip <strong>Snapdragon 8 Gen 3</strong>, trọng lượng chỉ khoảng <strong>440g</strong> kể cả dây đeo, chạy hệ điều hành SteamOS. Điểm nhấn lớn nhất là khả năng chơi được các tựa game VR nặng như <strong>Half-Life Alyx</strong> ở chế độ độc lập, không cần kết nối với PC. Sản phẩm dự kiến ra mắt vào mùa hè 2026, giá bán chưa được công bố chính thức nhưng theo rò rỉ từ các nhà bán lẻ dao động khoảng <strong>950-1.070 USD</strong>."
@@ -59,7 +59,7 @@ Valve đang chuẩn bị ra mắt Steam Frame, kính thực tế ảo độc l�
 Điểm nhấn kỹ thuật lớn nhất của Steam Frame là khả năng chơi được các tựa game VR nặng như Half-Life Alyx ngay ở chế độ độc lập, không cần kết nối với máy tính, một thành tựu kỹ thuật đáng chú ý khi Half-Life Alyx từng được xem là tựa game VR đòi hỏi cấu hình PC mạnh để chạy mượt mà. Việc Valve tối ưu được tựa game này chạy tốt trên phần cứng di động cho thấy sức mạnh xử lý của chip Snapdragon 8 Gen 3 kết hợp với tối ưu phần mềm sâu của SteamOS dành riêng cho thiết bị VR độc lập.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/b7q2CS8HDHU/hqdefault.jpg" alt="Valve Steam Frame trai nghiem tay cam chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/b7q2CS8HDHU/maxresdefault.jpg" alt="Valve Steam Frame trai nghiem tay cam chi tiet" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm trực tiếp kính thực tế ảo Steam Frame cùng tay cầm điều khiển đi kèm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Steam Frame chỉ nặng khoảng 440g kể cả dây đeo, thuộc hàng nhẹ 
 Trọng lượng nhẹ cũng đi kèm với thiết kế phân bổ khối lượng hợp lý, giúp cân bằng áp lực giữa phía trước và phía sau đầu người dùng thay vì dồn toàn bộ trọng lượng vào phần mặt như nhiều kính VR đời cũ. Đây là yếu tố kỹ thuật quan trọng thường bị người dùng phổ thông bỏ qua khi đánh giá kính VR chỉ qua thông số cân nặng tổng thể, nhưng lại ảnh hưởng đáng kể tới trải nghiệm sử dụng thực tế trong các phiên chơi game kéo dài nhiều giờ liên tục.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TmTvmKxl20U/hqdefault.jpg" alt="Valve Steam Frame VR Headset trai nghiem chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/TmTvmKxl20U/maxresdefault.jpg" alt="Valve Steam Frame VR Headset trai nghiem chi tiet" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm chi tiết thiết kế và cảm giác đeo của kính thực tế ảo Steam Frame. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Trọng lượng nhẹ cũng đi kèm với thiết kế phân bổ khối lư�
 Theo các nguồn tin quốc tế, Steam Frame đã bị trì hoãn nhiều lần, một phần do khủng hoảng nguồn cung linh kiện bộ nhớ toàn cầu khiến chi phí sản xuất tăng cao, buộc Valve phải cân nhắc lại chiến lược giá bán trước khi chính thức ra mắt sản phẩm ra thị trường quốc tế. Đây cùng là nguyên nhân từng ảnh hưởng tới Steam Machine, sản phẩm anh em của Steam Frame, khi mini PC này cũng phải điều chỉnh kế hoạch ra mắt vì cùng lý do. Người quan tâm có thể tham khảo thêm [Valve Steam Machine chính thức ra mắt ngày 30/6/2026](/articles/valve-steam-machine-ra-mat-30-6-2026-gia-tang-khung-hoang-ram.html) để hiểu rõ hơn về bối cảnh chung của cả hai sản phẩm, cũng như [Lenovo Legion Go 2 phiên bản SteamOS](/articles/lenovo-legion-go-2-steamos-may-choi-game-cam-tay-2026.html) để thấy rõ SteamOS đang mở rộng sang nhiều loại thiết bị phần cứng khác nhau như thế nào.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ZYr4ZhV2_PU/hqdefault.jpg" alt="27 mau Steam Frame va cach Valve cuu nganh PC gaming" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/ZYr4ZhV2_PU/maxresdefault.jpg" alt="27 mau Steam Frame va cach Valve cuu nganh PC gaming" loading="lazy" width="1280" height="720">
   <figcaption>Phân tích về vai trò của Steam Frame trong chiến lược dài hạn của Valve nhằm thúc đẩy ngành PC gaming. Nguồn: YouTube</figcaption>
 </figure>
 

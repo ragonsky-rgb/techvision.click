@@ -76,7 +76,7 @@ Nâng cấp đáng chú ý nhất về mặt kỹ thuật là việc Palisade 20
 Với một chiếc SUV cỡ lớn, khả năng tiết kiệm nhiên liệu luôn là mối quan tâm hàng đầu của người mua. Bản hybrid giúp giải quyết phần nào bài toán chi phí vận hành, vốn là điểm trừ cố hữu của các mẫu xe gầm cao nhiều chỗ ngồi. Xu hướng điện hóa này cũng đang lan rộng trên thị trường Việt Nam, từ hybrid tới thuần điện như các mẫu [Volvo EX90 và ES90](/articles/volvo-ex90-es90-xe-dien-ve-viet-nam-quy-4-2026-nhan-coc.html) chuẩn bị về nước.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VE5OENnCaUA/hqdefault.jpg" alt="Hyundai Palisade 2026 hybrid dong co 329 ma luc van hanh" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VE5OENnCaUA/maxresdefault.jpg" alt="Hyundai Palisade 2026 hybrid dong co 329 ma luc van hanh" loading="lazy" width="1280" height="720">
   <figcaption>Bản hybrid Palisade 2026 cho tổng công suất 329 mã lực. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Bên trong, Hyundai Palisade 2026 gây ấn tượng với hai màn hình 12.3 i
 Về không gian, phiên bản tiêu chuẩn có cấu hình 8 chỗ ngồi, trong khi khách hàng cũng có thể chọn hàng ghế giữa dạng thương gia để tăng sự thoải mái cho hành khách. Cấu hình linh hoạt này phù hợp với cả gia đình đông người lẫn nhu cầu di chuyển tiện nghi. So với các mẫu MPV điện cỡ lớn như [Wuling Darion](/articles/wuling-darion-mpv-dien-7-cho-ra-mat-viet-nam-gia.html), Palisade định vị ở phân khúc cao cấp hơn với mức giá và trang bị tương xứng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/KPB7SqWmOLw/hqdefault.jpg" alt="Hyundai Palisade 2026 noi that hai man hinh 12.3 inch ghe thuong gia" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/KPB7SqWmOLw/maxresdefault.jpg" alt="Hyundai Palisade 2026 noi that hai man hinh 12.3 inch ghe thuong gia" loading="lazy" width="1280" height="720">
   <figcaption>Nội thất Palisade 2026 với hai màn 12.3 inch và tùy chọn ghế thương gia. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Về giá bán, Hyundai Palisade 2026 thế hệ mới dự kiến có giá từ
 Ở tầm giá này, Palisade 2026 cạnh tranh trực tiếp với nhiều mẫu SUV cỡ lớn và xe sang cỡ trung tại Việt Nam. Lợi thế của xe nằm ở không gian rộng, danh sách tiện nghi phong phú và lần đầu có tùy chọn hybrid tiết kiệm nhiên liệu. Với gia đình cần một chiếc SUV bảy tới tám chỗ vừa bề thế vừa hiện đại, đây là cái tên đáng đưa vào danh sách cân nhắc trong nửa cuối năm nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/0tm5G5FLn3o/hqdefault.jpg" alt="Hyundai Palisade 2026 SUV 7 cho gia dinh gia du kien Viet Nam" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0tm5G5FLn3o/maxresdefault.jpg" alt="Hyundai Palisade 2026 SUV 7 cho gia dinh gia du kien Viet Nam" loading="lazy" width="1280" height="720">
   <figcaption>Palisade 2026 hướng tới nhóm khách hàng gia đình cần SUV cỡ lớn. Nguồn: YouTube</figcaption>
 </figure>
 

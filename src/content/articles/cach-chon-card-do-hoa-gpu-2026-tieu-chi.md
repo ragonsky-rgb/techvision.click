@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-07-06T00:40:00+07:00"
 dateModified: "2026-07-06T00:40:00+07:00"
 deck: "Giữa bối cảnh giá card đồ họa biến động mạnh do khủng hoảng nguồn cung DRAM toàn cầu, việc chọn đúng GPU phù hợp nhu cầu càng trở nên quan trọng để tối ưu chi phí. Bài viết tổng hợp 5 tiêu chí quan trọng cần cân nhắc trước khi chọn mua card đồ họa cho máy tính chơi game hoặc làm việc sáng tạo."
-heroImage: "https://i.ytimg.com/vi/hrydVwdhMD4/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/hrydVwdhMD4/hq720.jpg"
 heroAlt: "Cach chon card do hoa GPU 2026 tieu chi"
 heroCaption: "Chọn card đồ họa phù hợp cần cân nhắc dung lượng VRAM, hiệu năng và mức tiêu thụ điện năng. Nguồn: YouTube"
 tldr: "Khi chọn mua card đồ họa, cần chú ý 5 tiêu chí chính: <strong>dung lượng VRAM</strong> phù hợp độ phân giải màn hình đang sử dụng, <strong>hiệu năng xử lý</strong> đáp ứng đúng nhu cầu chơi game hoặc làm việc, <strong>mức tiêu thụ điện năng</strong> và yêu cầu nguồn máy tính tương ứng, <strong>kích thước vật lý</strong> phù hợp không gian case máy tính, và <strong>ngân sách</strong> trong bối cảnh giá GPU đang biến động mạnh."
@@ -70,14 +70,14 @@ Dung lượng VRAM là yếu tố quan trọng hàng đầu khi chọn card đ�
 Hiệu năng xử lý của GPU cần được cân nhắc dựa trên độ phân giải màn hình và loại tựa game thường chơi, thay vì chỉ nhìn vào con số marketing của nhà sản xuất. Người chơi game ở độ phân giải 1080p không nhất thiết cần GPU cao cấp nhất, trong khi người chơi ở 4K hoặc dùng màn hình siêu rộng độ phân giải cao cần cấu hình mạnh hơn đáng kể để duy trì khung hình ổn định.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mkfFvEeVC4w/hqdefault.jpg" alt="NVIDIA hay AMD tot hon so sanh chi tiet" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/mkfFvEeVC4w/maxresdefault.jpg" alt="NVIDIA hay AMD tot hon so sanh chi tiet" loading="lazy" width="1280" height="720">
   <figcaption>Bảng xếp hạng các dòng card đồ họa NVIDIA và AMD mới nhất giúp người dùng dễ dàng so sánh hiệu năng. Nguồn: YouTube</figcaption>
 </figure>
 
 Ngoài thông số kỹ thuật thuần túy, người dùng cũng nên tham khảo thêm các bài so sánh trực tiếp giữa NVIDIA và AMD ở cùng phân khúc giá, vì đôi khi một thương hiệu có thể vượt trội hơn ở một số tựa game cụ thể nhờ tối ưu driver tốt hơn, dù thông số phần cứng trên giấy tờ không chênh lệch quá nhiều.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/AVo2aX-Ip0A/hqdefault.jpg" alt="Card do hoa tot nhat cho 1080p 1440p 4K" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/AVo2aX-Ip0A/maxresdefault.jpg" alt="Card do hoa tot nhat cho 1080p 1440p 4K" loading="lazy" width="1280" height="720">
   <figcaption>Gợi ý card đồ họa phù hợp cho từng độ phân giải màn hình khác nhau, từ 1080p tới 4K. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Với người dùng đang cân nhắc nâng cấp đồng bộ nhiều linh ki�
 Các dòng GPU cao cấp nhất hiện nay có công suất tiêu thụ điện dao động 300-575W, đòi hỏi bộ nguồn máy tính công suất tối thiểu 750-1000W trở lên để đảm bảo hoạt động ổn định, đặc biệt khi kết hợp cùng CPU hiệu năng cao trong cùng hệ thống. Người dùng cần kiểm tra kỹ công suất nguồn hiện có trước khi nâng cấp GPU, tránh tình trạng hệ thống không ổn định hoặc tự động tắt do nguồn không đủ công suất cung cấp cho toàn bộ linh kiện.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zim652SyNSo/hqdefault.jpg" alt="Can bao nhieu VRAM cho GPU nam 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/zim652SyNSo/maxresdefault.jpg" alt="Can bao nhieu VRAM cho GPU nam 2026" loading="lazy" width="1280" height="720">
   <figcaption>Phân tích chi tiết về dung lượng VRAM cần thiết cho các tựa game hiện đại năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

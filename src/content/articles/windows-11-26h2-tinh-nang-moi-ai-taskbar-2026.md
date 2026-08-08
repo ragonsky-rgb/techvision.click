@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T21:00:00+07:00"
 dateModified: "2026-07-04T21:00:00+07:00"
 deck: "Microsoft bắt đầu đưa các tính năng của Windows 11 phiên bản 26H2 tới người dùng Insider, với điểm nhấn là Ask Copilot có thể thay thế công cụ tìm kiếm mặc định, khả năng di chuyển vị trí taskbar sau nhiều năm bị khóa cố định, cùng hộp thoại Run được thiết kế lại lần đầu tiên sau gần ba thập kỷ."
-heroImage: "https://i.ytimg.com/vi/uUjmVqLfVFw/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/uUjmVqLfVFw/maxresdefault.jpg"
 heroAlt: "Windows 11 26H2 tinh nang moi AI taskbar 2026"
 heroCaption: "Windows 11 phiên bản 26H2 mang tới nhiều tính năng mới cho người dùng Insider. Nguồn: YouTube"
 tldr: "Microsoft đã bắt đầu đưa các bản dựng thử nghiệm của <strong>Windows 11 phiên bản 26H2</strong> tới kênh Insider từ ngày <strong>19/6/2026</strong>, dự kiến phát hành chính thức vào cuối quý 3, đầu quý 4/2026. Điểm nhấn lớn nhất là <strong>Ask Copilot</strong>, tùy chọn thay thế công cụ tìm kiếm mặc định bằng AI, tích hợp sâu hơn với File Explorer qua bảng điều khiển bên cạnh. Microsoft cũng lần đầu cho phép <strong>di chuyển vị trí taskbar</strong> sau nhiều năm bị khóa cố định ở cạnh dưới màn hình, cùng hộp thoại Run được thiết kế lại theo phong cách Fluent Design lần đầu sau gần ba thập kỷ."
@@ -69,7 +69,7 @@ Microsoft đã bắt đầu đưa các bản dựng thử nghiệm của Windows
 Một thay đổi khác được cộng đồng người dùng Windows lâu năm đón nhận tích cực là khả năng di chuyển vị trí taskbar, tính năng từng có mặt trên Windows 10 nhưng bị khóa cố định ở cạnh dưới màn hình kể từ khi Windows 11 ra mắt. Việc khôi phục lại tùy chọn này đáp ứng nhu cầu tùy biến của nhóm người dùng quen thuộc với cách bố trí màn hình linh hoạt hơn, đặc biệt hữu ích với người dùng có màn hình dọc hoặc thói quen làm việc đặc thù cần đặt taskbar ở vị trí khác thay vì mặc định.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/uUjmVqLfVFw/mqdefault.jpg" alt="Windows 11 26H2 xuat hien tren kenh Insider voi tinh nang moi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/uUjmVqLfVFw/maxresdefault.jpg" alt="Windows 11 26H2 xuat hien tren kenh Insider voi tinh nang moi" loading="lazy" width="1280" height="720">
   <figcaption>Windows 11 26H2 chính thức xuất hiện trên kênh Insider với hàng loạt tính năng đáng chú ý. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Một chi tiết nhỏ nhưng được nhiều người dùng lâu năm chú ý 
 Từ góc độ theo dõi các bản cập nhật Windows nhiều năm, tôi cho rằng cách tiếp cận của Microsoft với 26H2, triển khai qua gói kích hoạt tính năng chỉ cần một lần khởi động lại thay vì tải về bản cập nhật khổng lồ như trước đây, là hướng đi hợp lý cho phần lớn người dùng phổ thông tại Việt Nam, nơi tốc độ mạng và dung lượng lưu trữ vẫn là rào cản với nhiều người khi cập nhật hệ điều hành. Tuy nhiên, với người dùng phổ thông chưa quen thử nghiệm phần mềm chưa ổn định, không cần vội cài đặt kênh Insider ngay lúc này, nên chờ tới khi Microsoft phát hành bản chính thức vào cuối năm để có trải nghiệm ổn định hơn. Người dùng quan tâm tới việc khai thác các tính năng AI mới như Ask Copilot hiệu quả hơn có thể tham khảo thêm [cách viết prompt AI hiệu quả với ChatGPT, Gemini](/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html) để tận dụng tối đa các trợ lý AI tích hợp sẵn trên hệ điều hành.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Bnl1N3qrFB0/hqdefault.jpg" alt="Windows 11 26H2 chinh thuc phat hanh ban Experimental tinh nang moi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Bnl1N3qrFB0/maxresdefault.jpg" alt="Windows 11 26H2 chinh thuc phat hanh ban Experimental tinh nang moi" loading="lazy" width="1280" height="720">
   <figcaption>Bản Experimental của Windows 11 26H2 mang tới nhiều thay đổi đáng chú ý cho người dùng Insider. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Từ góc độ theo dõi các bản cập nhật Windows nhiều năm, tôi cho
 Cách Microsoft tích hợp Ask Copilot sâu vào hệ điều hành cũng phản ánh xu hướng chung của ngành công nghệ, nơi AI ngày càng len lỏi vào các thao tác cơ bản hằng ngày thay vì chỉ tồn tại như một ứng dụng riêng biệt. Đây cũng là hướng tiếp cận tương tự với nền tảng Dual AI mà [LG vừa giới thiệu trên dòng gram AI 2026 tại Việt Nam](/articles/lg-gram-ai-2026-aerominum-dual-ai-ra-mat-viet-nam.html), kết hợp xử lý AI tại máy với sức mạnh đám mây, cho thấy các hãng phần cứng và phần mềm lớn đang cùng hội tụ về một triết lý thiết kế chung: đưa AI tới gần hơn với thao tác sử dụng máy tính hằng ngày của người dùng phổ thông, thay vì chỉ giới hạn trong các ứng dụng chuyên biệt dành cho lập trình viên hay chuyên gia dữ liệu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Y4jeB8Q2htw/hqdefault.jpg" alt="Cap nhat Windows 11 26H2 hoat hinh taskbar giao dien tim kiem moi" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Y4jeB8Q2htw/maxresdefault.jpg" alt="Cap nhat Windows 11 26H2 hoat hinh taskbar giao dien tim kiem moi" loading="lazy" width="1280" height="720">
   <figcaption>Bản cập nhật Windows 11 26H2 mang tới hiệu ứng hoạt hình taskbar và giao diện tìm kiếm mới. Nguồn: YouTube</figcaption>
 </figure>
 

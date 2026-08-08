@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-06-30T19:30:00+07:00"
 dateModified: "2026-06-30T19:30:00+07:00"
 deck: "Sau nhiều năm gần như giữ nguyên thiết kế qua các thế hệ MX Master 3 và 3S, Logitech mang tới thay đổi đáng chú ý nhất từ trước tới nay trên MX Master 4: bảng cảm ứng phản hồi rung haptic tích hợp ngay tại vị trí tựa ngón cái, bên cạnh cảm biến độ chính xác cao quen thuộc và thời lượng pin được cải thiện."
-heroImage: "https://i.ytimg.com/vi/JCCnUClSCvA/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/JCCnUClSCvA/maxresdefault.jpg"
 heroAlt: "Logitech MX Master 4 chuot khong day cao cap haptic feedback"
 heroCaption: "Logitech MX Master 4 là bản nâng cấp đáng chú ý nhất của dòng MX Master trong nhiều năm. Nguồn: YouTube"
 tldr: "<strong>Logitech MX Master 4</strong> có giá <strong>120 USD</strong>, điểm nhấn lớn nhất là bảng cảm ứng <strong>Actuate Haptic</strong> tại vị trí tựa ngón cái, tạo phản hồi rung vật lý khi thực hiện thao tác hoặc nhận thông báo, có thể tùy chỉnh cường độ hoặc tắt hoàn toàn qua phần mềm Logi Options+. Chuột dùng cảm biến <strong>Darkfield</strong> độ chính xác cao tới <strong>8.000 DPI</strong>, kết nối <strong>Bluetooth 5.1</strong> và đầu thu 2.4GHz, có <strong>8 nút bấm</strong> tùy chỉnh, pin dùng tới <strong>70 ngày</strong> mỗi lần sạc và sạc nhanh 1 phút dùng được 3 giờ qua cổng USB-C."
@@ -75,7 +75,7 @@ Theo Logitech, ý tưởng đằng sau Actuate Haptic xuất phát từ phản h
 Bên cạnh tính năng haptic mới, MX Master 4 vẫn giữ những thế mạnh quen thuộc giúp dòng MX Master trở thành lựa chọn hàng đầu trong phân khúc chuột văn phòng cao cấp. Cảm biến Darkfield cho độ chính xác cao tới 8.000 DPI, hoạt động tốt trên hầu hết các bề mặt kể cả mặt kính, kết hợp cùng 8 nút bấm có thể tùy chỉnh chức năng riêng cho từng phần mềm khác nhau. Bánh xe cuộn MagSpeed tiếp tục hỗ trợ cả chế độ cuộn từng nấc lẫn cuộn tự do tốc độ cao, hữu ích khi làm việc với các bảng tính dài hoặc dòng thời gian dựng phim.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/rzsSwOx-5jg/hqdefault.jpg" alt="Logitech MX Master 4 cam bien Darkfield 8000 DPI 8 nut bam" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/rzsSwOx-5jg/maxresdefault.jpg" alt="Logitech MX Master 4 cam bien Darkfield 8000 DPI 8 nut bam" loading="lazy" width="1280" height="720">
   <figcaption>Cảm biến Darkfield và 8 nút bấm tùy chỉnh tiếp tục là thế mạnh của MX Master 4. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Với người dùng đang tìm cách tối ưu toàn bộ trạm làm việc ch
 Logitech cải thiện đáng kể thời lượng pin trên MX Master 4 so với thế hệ trước, với viên pin 650mAh cho thời gian sử dụng tối đa khoảng 70 ngày mỗi lần sạc đầy trong điều kiện sử dụng thông thường. Trong trường hợp cần dùng gấp mà quên sạc, chỉ cần cắm sạc nhanh qua cổng USB-C khoảng 1 phút đã đủ dùng tiếp khoảng 3 giờ, giúp giảm bớt nỗi lo hết pin giữa buổi làm việc quan trọng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/U7T2-P9-WUk/hqdefault.jpg" alt="Logitech MX Master 4 pin 70 ngay sac nhanh USB-C" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/U7T2-P9-WUk/maxresdefault.jpg" alt="Logitech MX Master 4 pin 70 ngay sac nhanh USB-C" loading="lazy" width="1280" height="720">
   <figcaption>Thời lượng pin 70 ngày và sạc nhanh USB-C giúp MX Master 4 phù hợp người làm việc cường độ cao. Nguồn: YouTube</figcaption>
 </figure>
 
 Người dùng thường xuyên gặp tình trạng laptop hoặc máy tính bàn ì ạch khi xử lý đa nhiệm cùng nhiều thiết bị ngoại vi cũng có thể tham khảo thêm [cách tăng tốc laptop Windows bị chậm, lag để mượt hơn](/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html), giúp tận dụng tối đa hiệu năng phần cứng hiện có trước khi nghĩ tới nâng cấp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/NXOlU91dmjI/hqdefault.jpg" alt="Logitech MX Master 4 danh gia khong tai tro so sanh MX Master 3S" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/NXOlU91dmjI/maxresdefault.jpg" alt="Logitech MX Master 4 danh gia khong tai tro so sanh MX Master 3S" loading="lazy" width="1280" height="720">
   <figcaption>So sánh thực tế giữa MX Master 4 và MX Master 3S cho thấy mức nâng cấp đáng giá ra sao. Nguồn: YouTube</figcaption>
 </figure>
 

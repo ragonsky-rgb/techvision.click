@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-21T09:20:00+07:00"
 dateModified: "2026-07-21T09:20:00+07:00"
 deck: "Nhiều người nhìn thấy cổng Thunderbolt và cổng USB-C trên laptop giống hệt nhau về hình dáng nên nghĩ chúng là một, nhưng thực tế đây là hai khái niệm khác cấp độ. USB-C là kiểu đầu cắm, tức là hình dạng vật lý của cổng và dây cáp, trong khi Thunderbolt là một chuẩn kết nối tốc độ cao chạy trên đầu cắm USB-C đó. Nói cách khác, mọi cổng Thunderbolt hiện nay đều dùng đầu USB-C, nhưng không phải cổng USB-C nào cũng là Thunderbolt. Sự khác biệt nằm ở băng thông và những gì cổng có thể làm, khi Thunderbolt bảo đảm tốc độ truyền dữ liệu rất cao, xuất được nhiều màn hình độ phân giải lớn, kết nối ổ SSD ngoài siêu nhanh, dock đa cổng và thậm chí card đồ họa gắn ngoài. Với người dùng phổ thông chỉ sạc và truyền dữ liệu nhẹ, một cổng USB-C thông thường đã đủ, nhưng với người làm sáng tạo, dựng phim, cần nhiều màn hình hay ổ lưu trữ tốc độ cao thì Thunderbolt tạo ra khác biệt lớn. Bài viết này giải thích rõ Thunderbolt là gì, khác USB-C thế nào, cách nhận biết cổng Thunderbolt trên máy và khi nào bạn thực sự cần tới nó năm 2026."
-heroImage: "https://i.ytimg.com/vi/H_UsEsvIK0U/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/H_UsEsvIK0U/maxresdefault.jpg"
 heroAlt: "Thunderbolt là gì và khác cổng USB-C thế nào trên laptop năm 2026"
 heroCaption: "Thunderbolt là chuẩn kết nối tốc độ cao chạy trên đầu cắm USB-C. Nguồn: YouTube"
 tldr: "USB-C là <strong>kiểu đầu cắm</strong>, còn Thunderbolt là <strong>chuẩn kết nối tốc độ cao</strong> chạy trên đầu cắm đó. Mọi cổng Thunderbolt đều dùng đầu USB-C, nhưng không phải cổng USB-C nào cũng là Thunderbolt. Thunderbolt bảo đảm băng thông cao (Thunderbolt 4 đạt 40Gbps, Thunderbolt 5 lên 80Gbps), xuất nhiều màn hình lớn, gắn SSD ngoài siêu nhanh, dock đa cổng và card đồ họa ngoài. Người dùng phổ thông thường không cần, còn dân sáng tạo và dựng phim thì Thunderbolt tạo khác biệt lớn."
@@ -75,7 +75,7 @@ Cụ thể hơn, Thunderbolt bảo đảm tốc độ truyền dữ liệu rất
 Điểm mạnh của Thunderbolt là gộp nhiều khả năng vào một cổng duy nhất. Nhờ băng thông lớn, một cổng Thunderbolt có thể vừa truyền dữ liệu tốc độ cao, vừa xuất hình cho nhiều màn hình độ phân giải lớn, vừa cấp điện sạc cho máy. Đây là lý do Thunderbolt rất hợp với các dock đa cổng, nơi bạn cắm một sợi cáp vào laptop là có ngay màn hình, mạng dây, ổ cứng, bàn phím và sạc cùng lúc. Với người làm việc tại bàn cố định, trải nghiệm một cáp cho tất cả này gọn gàng và tiện hơn hẳn so với cắm nhiều dây rời.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/MOSp0-f-_Cg/hqdefault.jpg" alt="Thunderbolt kết nối dock đa cổng và nhiều màn hình qua một sợi cáp 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/MOSp0-f-_Cg/maxresdefault.jpg" alt="Thunderbolt kết nối dock đa cổng và nhiều màn hình qua một sợi cáp 2026" loading="lazy" width="1280" height="720">
   <figcaption>Một cổng Thunderbolt gộp truyền dữ liệu, xuất màn hình và cấp điện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Ngoài dock, Thunderbolt còn hỗ trợ các nhu cầu chuyên sâu như ổ SS
 Vì Thunderbolt và USB-C nhìn giống nhau, cách nhận biết đáng tin nhất là tìm biểu tượng tia sét in ngay cạnh cổng, đồng thời kiểm tra thông số kỹ thuật của máy để biết cổng thuộc Thunderbolt phiên bản nào. Dây cáp Thunderbolt cũng thường có biểu tượng tia sét và số phiên bản in trên đầu cắm. Nếu không thấy dấu hiệu này, nhiều khả năng đó chỉ là cổng USB-C thông thường. Việc kiểm tra kỹ giúp bạn tránh kỳ vọng sai, chẳng hạn mua một ổ SSD ngoài siêu nhanh rồi cắm vào cổng không đủ băng thông và không đạt tốc độ như quảng cáo.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Pu7aLWt5qXo/hqdefault.jpg" alt="Nhận biết cổng Thunderbolt qua biểu tượng tia sét cạnh cổng laptop 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Pu7aLWt5qXo/maxresdefault.jpg" alt="Nhận biết cổng Thunderbolt qua biểu tượng tia sét cạnh cổng laptop 2026" loading="lazy" width="1280" height="720">
   <figcaption>Biểu tượng tia sét cạnh cổng là dấu hiệu nhận biết Thunderbolt. Nguồn: YouTube</figcaption>
 </figure>
 
 Về việc có nên ưu tiên máy có Thunderbolt hay không, câu trả lời phụ thuộc vào nhu cầu. Nếu bạn chủ yếu sạc, truyền ảnh, cắm chuột hay xuất một màn hình cơ bản, cổng USB-C thông thường đã đủ và bạn không cần trả thêm cho Thunderbolt. Ngược lại, nếu bạn làm sáng tạo, dựng phim, cần nhiều màn hình lớn, ổ lưu trữ tốc độ cao hay dock đa cổng, Thunderbolt tạo ra khác biệt rõ và đáng để cân nhắc khi chọn laptop. Đây là tính năng nên chọn theo công việc thực tế thay vì chỉ vì nghe tên nghe sang.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/esPuWN5QvIU/hqdefault.jpg" alt="Khi nào nên chọn laptop có cổng Thunderbolt theo nhu cầu công việc 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/esPuWN5QvIU/maxresdefault.jpg" alt="Khi nào nên chọn laptop có cổng Thunderbolt theo nhu cầu công việc 2026" loading="lazy" width="1280" height="720">
   <figcaption>Dân sáng tạo và dựng phim hưởng lợi rõ nhất từ Thunderbolt. Nguồn: YouTube</figcaption>
 </figure>
 

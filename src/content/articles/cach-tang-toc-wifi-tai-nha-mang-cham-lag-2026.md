@@ -88,7 +88,7 @@ Một trong những cách đơn giản nhất để khắc phục mạng chậm 
 Cập nhật firmware router cũng quan trọng nhưng hay bị bỏ qua. Các bản cập nhật thường vá lỗi bảo mật, cải thiện hiệu năng và độ ổn định. Hãy vào trang cấu hình router để kiểm tra và cập nhật định kỳ. Đồng thời, đặt mật khẩu WiFi mạnh để tránh bị người lạ dùng ké làm chậm mạng và gây rủi ro bảo mật. Bảo mật mạng tại nhà là một phần của việc bảo vệ an toàn thông tin nói chung, liên quan tới các nguyên tắc trong bài [cách bảo mật tài khoản Google](/articles/cach-bao-mat-tai-khoan-google-chong-hack-2026.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mhjX6ZgIbIw/hq720.jpg" alt="Khởi động lại và cập nhật firmware router để tăng tốc WiFi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mhjX6ZgIbIw/maxresdefault.jpg" alt="Khởi động lại và cập nhật firmware router để tăng tốc WiFi" loading="lazy" width="1280" height="720">
   <figcaption>Khởi động lại và cập nhật firmware giúp mạng ổn định hơn. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T04:20:00+07:00"
 dateModified: "2026-07-06T04:20:00+07:00"
 deck: "Trong khi hầu hết flagship camera năm 2026 tập trung chạy đua độ phân giải và số lượng camera, OPPO Find X9 Ultra chọn hướng đi khác biệt với cảm biến màu đa phổ Danxia độc quyền, giúp máy tái tạo màu sắc chính xác hơn hẳn trong nhiều bài test camera mù so với Galaxy S26 Ultra và iPhone 17 Pro Max."
-heroImage: "https://i.ytimg.com/vi/e5rZwcI8eoM/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/e5rZwcI8eoM/maxresdefault.jpg"
 heroAlt: "OPPO Find X9 Ultra camera multispectral Danxia 2026"
 heroCaption: "OPPO Find X9 Ultra sở hữu cảm biến màu đa phổ Danxia độc quyền, tính năng nhiều flagship khác bỏ qua. Nguồn: YouTube"
 tldr: "OPPO Find X9 Ultra gây chú ý với cảm biến màu đa phổ <strong>Danxia độ phân giải 3,2MP</strong> độc quyền, tính năng camera mà hầu hết flagship 2026 khác đều bỏ qua. Máy trang bị hai camera chính <strong>200MP</strong> (camera chính và tele 3,5x), camera góc siêu rộng <strong>50MP</strong>, camera tele <strong>50MP zoom quang 10x</strong> (tương đương chất lượng quang học tới 20x), quay video <strong>8K30</strong>. Trong nhiều bài test camera mù, Find X9 Ultra được đánh giá vượt trội hơn cả Galaxy S26 Ultra và iPhone 17 Pro Max về độ chính xác màu sắc."
@@ -67,7 +67,7 @@ Trong khi hầu hết flagship camera năm 2026 tập trung chạy đua độ ph
 Ngoài cảm biến màu đa phổ, dữ liệu thu thập được còn giúp thuật toán xử lý ảnh của OPPO hiệu chỉnh cân bằng trắng chính xác hơn trong các điều kiện ánh sáng hỗn hợp phức tạp, ví dụ vừa có ánh đèn vàng trong nhà vừa có ánh sáng tự nhiên từ cửa sổ, tình huống thường khiến nhiều smartphone khác cho ra ảnh chụp bị ám màu không mong muốn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/1L4zUJuvv-0/hqdefault.jpg" alt="OPPO Find X9 Ultra thiet ke va cau hinh tong the" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/1L4zUJuvv-0/maxresdefault.jpg" alt="OPPO Find X9 Ultra thiet ke va cau hinh tong the" loading="lazy" width="1280" height="720">
   <figcaption>Thiết kế tổng thể và cấu hình camera của OPPO Find X9 Ultra được giới thiệu chi tiết ngay sau khi ra mắt toàn cầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Ngoài cảm biến màu đa phổ, dữ liệu thu thập được còn giúp t
 Bên cạnh cảm biến màu đa phổ độc quyền, Find X9 Ultra còn sở hữu cấu hình camera toàn diện với hai camera chính độ phân giải 200MP, một cho ống kính chính và một cho ống kính tele 3,5x, cùng camera góc siêu rộng 50MP và camera tele 50MP có khả năng zoom quang học thực tế 10x, đạt chất lượng tương đương zoom quang học lên tới 20x nhờ kết hợp xử lý AI hậu kỳ. Máy còn hỗ trợ quay video độ phân giải tối đa 8K30, đáp ứng tốt nhu cầu của người dùng chuyên nghiệp cần chất lượng video cao nhất trên smartphone, vượt trội hơn hẳn tiêu chuẩn 4K phổ biến trên hầu hết flagship khác hiện nay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/4rEcw1U9FHo/hqdefault.jpg" alt="OPPO Find X9 Ultra camera chinh 200MP danh gia" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/4rEcw1U9FHo/maxresdefault.jpg" alt="OPPO Find X9 Ultra camera chinh 200MP danh gia" loading="lazy" width="1280" height="720">
   <figcaption>Cấu hình hai camera chính 200MP mang lại chất lượng ảnh chụp vượt trội trong nhiều điều kiện ánh sáng khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Bên cạnh cảm biến màu đa phổ độc quyền, Find X9 Ultra còn sở 
 Theo nhiều bài test camera mù từ giới công nghệ quốc tế, Find X9 Ultra thường được đánh giá cao hơn cả Galaxy S26 Ultra và iPhone 17 Pro Max về độ chính xác màu sắc và chi tiết trong điều kiện ánh sáng phức tạp, nhờ lợi thế từ cảm biến màu đa phổ Danxia. Đây là kết quả ấn tượng, cho thấy cách tiếp cận tập trung vào độ chính xác màu sắc thay vì chỉ chạy đua thông số của OPPO đang mang lại hiệu quả thực tế rõ rệt, thay vì chỉ là chiêu marketing đơn thuần không có giá trị sử dụng thực tế. Người dùng quan tâm tới các lựa chọn điện thoại gập có ống kính tele độc đáo khác có thể tham khảo thêm [vivo X Fold6 với ống kính tele 200mm rời](/articles/vivo-x-fold6-dien-thoai-gap-ong-kinh-tele-200mm-roi-2026.html) để so sánh các hướng tiếp cận camera khác biệt giữa các hãng Trung Quốc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/YAhKoa0ruR8/hqdefault.jpg" alt="So sanh camera OPPO Find X9 Ultra voi flagship khac" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/YAhKoa0ruR8/maxresdefault.jpg" alt="So sanh camera OPPO Find X9 Ultra voi flagship khac" loading="lazy" width="1280" height="720">
   <figcaption>So sánh chất lượng camera của OPPO Find X9 Ultra với các flagship camera hàng đầu khác trong năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

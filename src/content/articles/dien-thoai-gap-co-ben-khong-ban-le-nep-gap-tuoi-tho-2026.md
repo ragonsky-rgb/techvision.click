@@ -64,7 +64,7 @@ Bản lề là bộ phận chịu áp lực nhiều nhất và cũng là nơi t�
 Tất nhiên, con số thử nghiệm luôn được thực hiện trong điều kiện lý tưởng, còn thực tế phụ thuộc vào cách dùng. Gập máy khi có cát bụi kẹt trong khe, đóng mở quá mạnh hoặc gập ở nhiệt độ rất thấp đều làm bản lề và màn hình xuống cấp nhanh hơn. Điều đáng mừng là các hãng đang đơn giản hóa cơ cấu bản lề, giảm số chi tiết để vừa nhẹ hơn vừa bền hơn, thay vì chạy theo cơ cấu phức tạp như giai đoạn đầu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/NgsSz-curGY/hqdefault.jpg" alt="Ban le dien thoai gap chiu 200000 lan gap quyet dinh tuoi tho 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NgsSz-curGY/maxresdefault.jpg" alt="Ban le dien thoai gap chiu 200000 lan gap quyet dinh tuoi tho 2026" loading="lazy" width="1280" height="720">
   <figcaption>Bản lề đời mới được đơn giản hóa để vừa nhẹ vừa bền hơn thế hệ đầu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Nếu có một điểm yếu chưa được giải quyết trọn vẹn, đó l
 Vì thế, với khí hậu và môi trường nhiều bụi tại Việt Nam, người dùng máy gập cần cẩn trọng hơn một chút so với điện thoại thường. Tránh để máy chung túi với chìa khóa hay các vật sắc, không đặt máy trên bãi cát, và nếu thấy sạn ở khe bản lề thì nên vệ sinh nhẹ nhàng thay vì cố gập tiếp. Đây là những thói quen nhỏ nhưng tạo khác biệt lớn về tuổi thọ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7c7ugVS_JIo/hqdefault.jpg" alt="Khang bui la diem yeu con lai cua dien thoai gap khe ban le 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7c7ugVS_JIo/maxresdefault.jpg" alt="Khang bui la diem yeu con lai cua dien thoai gap khe ban le 2026" loading="lazy" width="1280" height="720">
   <figcaption>Khe bản lề khiến kháng bụi vẫn là điểm yếu cần lưu ý khi dùng máy gập. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Có vài nguyên tắc vàng giúp kéo dài tuổi thọ máy gập. Quan trọ
 Bên cạnh đó, nên tránh gập máy khi nhiệt độ quá lạnh vì màn dẻo dễ tổn thương hơn ở nhiệt độ thấp, không nhét vật cứng vào giữa hai nửa khi gập lại, và dùng ốp bảo vệ chuyên dụng cho máy gập. Với người mới cân nhắc mua máy gập, việc chọn đúng phiên bản phù hợp nhu cầu cũng quan trọng không kém, và bài [iPhone Fold vs Galaxy Z Fold8 chọn điện thoại gập nào](/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html) sẽ giúp bạn so sánh hai hướng đi để đưa ra quyết định.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xk3SXct0WZk/hqdefault.jpg" alt="Cach dung dien thoai gap ben lau khong boc lop bao ve man 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xk3SXct0WZk/maxresdefault.jpg" alt="Cach dung dien thoai gap ben lau khong boc lop bao ve man 2026" loading="lazy" width="1280" height="720">
   <figcaption>Không tự bóc lớp bảo vệ màn trong là nguyên tắc quan trọng nhất với máy gập. Nguồn: YouTube</figcaption>
 </figure>
 

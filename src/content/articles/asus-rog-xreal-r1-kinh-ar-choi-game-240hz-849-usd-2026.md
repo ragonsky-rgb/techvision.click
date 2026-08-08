@@ -70,7 +70,7 @@ Nhiều kênh đánh giá công nghệ đã có bài trải nghiệm thực tế
 Về mặt trải nghiệm hiển thị, ROG Xreal R1 tạo ra một màn hình ảo có kích thước tương đương 171 inch khi nhìn qua kính, với góc nhìn (FOV) đạt 57 độ, đủ để phủ khoảng 95% vùng nhìn tập trung tự nhiên của mắt người. Điều này có nghĩa người dùng gần như không cần đảo mắt nhiều để bao quát toàn bộ khung hình, khác với một số kính AR đời trước có góc nhìn hẹp gây cảm giác như đang nhìn qua một khung cửa sổ nhỏ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xDGh2ILeXJw/hqdefault.jpg" alt="ASUS ROG Xreal R1 mo hop man hinh ao 171 inch" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xDGh2ILeXJw/maxresdefault.jpg" alt="ASUS ROG Xreal R1 mo hop man hinh ao 171 inch" loading="lazy" width="1280" height="720">
   <figcaption>ROG Xreal R1 tạo màn hình ảo tương đương 171 inch ngay trước mắt người dùng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -81,14 +81,14 @@ Trọng lượng toàn bộ kính chỉ khoảng 91g, nhẹ hơn đáng kể so 
 ROG Xreal R1 kết nối với thiết bị nguồn theo hai cách, hoặc cắm trực tiếp qua cổng USB-C hỗ trợ xuất hình DisplayPort Alt Mode, hoặc thông qua ROG Dock đi kèm trong hộp để mở rộng khả năng tương thích với nhiều loại máy khác nhau. Theo công bố từ ASUS, kính hoạt động tốt với PC, máy chơi game Xbox và PlayStation, biến chiếc kính nhỏ gọn này thành một màn hình di động dùng chung cho nhiều nền tảng chơi game khác nhau mà không cần mang theo màn hình vật lý cồng kềnh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/aCpo5lFekLc/hqdefault.jpg" alt="ASUS ROG Xreal R1 ket noi PC Xbox PlayStation thay man hinh gaming" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/aCpo5lFekLc/maxresdefault.jpg" alt="ASUS ROG Xreal R1 ket noi PC Xbox PlayStation thay man hinh gaming" loading="lazy" width="1280" height="720">
   <figcaption>Kính có thể thay thế màn hình gaming vật lý khi kết nối với PC hoặc máy chơi game console. Nguồn: YouTube</figcaption>
 </figure>
 
 Hộp sản phẩm bao gồm kính ROG Xreal R1, ROG Dock, khung kính có thể lắp thêm tròng cận thị không độ, dây cáp USB-C to C, các miếng đệm mũi thay thế và khăn lau chuyên dụng cho tấm nền. Với những ai đang tìm hiểu thêm về các dòng kính thông minh khác trên thị trường để so sánh định hướng sản phẩm, bài viết [Meta ra mắt kính AI giá 299 USD với các mẫu Fury, Adventurer, Kylie](/articles/meta-kinh-ai-299-usd-2026-fury-adventurer-kylie-muse-spark.html) cũng là một góc nhìn tham khảo hữu ích, dù định hướng sản phẩm của Meta thiên về trợ lý AI hằng ngày hơn là chơi game chuyên sâu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/5SRUYUozAEM/hqdefault.jpg" alt="ASUS ROG Xreal R1 unboxing so sanh kinh AR gaming 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/5SRUYUozAEM/maxresdefault.jpg" alt="ASUS ROG Xreal R1 unboxing so sanh kinh AR gaming 2026" loading="lazy" width="1280" height="720">
   <figcaption>Hộp sản phẩm ROG Xreal R1 đi kèm đầy đủ phụ kiện, gồm ROG Dock và khung kính thay thế. Nguồn: YouTube</figcaption>
 </figure>
 

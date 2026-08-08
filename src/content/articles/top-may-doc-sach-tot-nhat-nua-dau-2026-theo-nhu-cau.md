@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-20T08:00:00+07:00"
 dateModified: "2026-07-20T08:00:00+07:00"
 deck: "Máy đọc sách chuyên dụng vẫn giữ được chỗ đứng riêng trong kỷ nguyên của điện thoại và máy tính bảng, nhờ màn hình e-ink dịu mắt, pin cực lâu và trải nghiệm đọc tập trung khó thiết bị nào thay thế được. Nửa đầu năm 2026, thị trường máy đọc sách tiếp tục phát triển với màn hình chất lượng hơn, một số dòng hỗ trợ ghi chú viết tay và cả màn hình màu, mở rộng khả năng sử dụng vượt ra ngoài việc chỉ đọc. Với người dùng đang cân nhắc mua, việc chọn được máy phù hợp phụ thuộc rất nhiều vào thói quen đọc, nhu cầu ghi chú và ngân sách. Một người đọc tiểu thuyết thuần túy sẽ ưu tiên màn hình đơn sắc, nhẹ và pin lâu, trong khi người vừa đọc vừa ghi chú, học tập lại cần dòng máy hỗ trợ viết tay. Người muốn xem cả truyện tranh, tài liệu màu lại quan tâm tới màn hình màu. Bài viết này đóng vai trò một cẩm nang tổng hợp, đi qua từng nhóm nhu cầu phổ biến như máy chuyên đọc, máy kèm ghi chú viết tay, máy màn hình màu và so sánh với máy tính bảng, giúp bạn nhanh chóng khoanh vùng lựa chọn phù hợp với thói quen đọc và túi tiền của mình."
-heroImage: "https://i.ytimg.com/vi/qwVYmV1o7oI/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/qwVYmV1o7oI/maxresdefault.jpg"
 heroAlt: "Cẩm nang chọn máy đọc sách tốt nhất nửa đầu 2026 với màn hình e-ink dịu mắt"
 heroCaption: "Cẩm nang chọn máy đọc sách dịu mắt và tập trung cho nửa đầu 2026. Nguồn: YouTube"
 tldr: "Đây là cẩm nang chọn máy đọc sách nửa đầu 2026 theo nhu cầu. Về <strong>đọc thuần túy</strong>, Kindle Paperwhite 7 inch và Kobo Clara BW 6 inch màn hình e-ink đơn sắc, nhẹ, pin lâu là lựa chọn lý tưởng cho người mê đọc. Về <strong>ghi chú viết tay</strong>, Kindle Scribe 11 inch hỗ trợ bút và AI tóm tắt, bên cạnh Boox Note Air 4 C và Boox Go 10.3. Muốn <strong>xem truyện tranh, tài liệu màu</strong>, Kobo Clara Colour, Kobo Libra Colour hay Kindle Colorsoft với màn Kaleido 3 phù hợp hơn. Cần thiết bị cỡ điện thoại đa dụng, Boox Palma 2 chạy Android là gợi ý đáng cân nhắc. Quan trọng là chọn theo thói quen đọc và nhu cầu ghi chú của bạn."
@@ -73,14 +73,14 @@ Với người vừa đọc vừa ghi chú, học tập hoặc muốn thay thế
 Một hướng phát triển đáng chú ý của máy đọc sách là màn hình màu, mở rộng khả năng sử dụng sang truyện tranh, tạp chí và tài liệu có hình ảnh màu. Ở phân khúc nhỏ gọn, Kobo Clara Colour dùng màn hình màu Kaleido 3 kích thước 6 inch, có chống nước và đèn nền warmlight, nằm trong tầm giá dưới 4 triệu đồng, rất hợp để đọc truyện tranh hay sách thiếu nhi. Muốn màn hình lớn hơn cùng nút lật trang vật lý và hỗ trợ bút stylus, Kobo Libra Colour với màn 7 inch Kaleido 3 là bước nâng cấp hợp lý. Về phía Amazon, Kindle Colorsoft là mẫu màn hình màu 7 inch cũng dùng tấm nền Kaleido 3, phù hợp người đã quen hệ sinh thái Kindle. Nhìn chung, màn màu mang lại trải nghiệm phong phú hơn máy đơn sắc, dù màu trên e-ink thường nhạt hơn so với màn hình thông thường và giá cao hơn. Nếu bạn chủ yếu đọc sách chữ, máy đơn sắc vẫn tối ưu về giá và độ sắc nét, còn màn hình màu hợp với người hay đọc nội dung có hình ảnh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/iMj6MJOmCUs/hqdefault.jpg" alt="So sánh các máy đọc sách Kindle và Kobo đáng mua năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/iMj6MJOmCUs/maxresdefault.jpg" alt="So sánh các máy đọc sách Kindle và Kobo đáng mua năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Mỗi dòng máy đọc sách đều có thế mạnh riêng về đọc và ghi chú. Nguồn: YouTube</figcaption>
 </figure>
 
 Một câu hỏi thường gặp là nên chọn máy đọc sách hay máy tính bảng. Máy đọc sách vượt trội về sự dịu mắt, pin lâu và trải nghiệm đọc tập trung, trong khi máy tính bảng đa năng hơn với màn hình màu sắc nét, chạy được nhiều ứng dụng, nhưng gây mỏi mắt hơn khi đọc lâu và pin ngắn hơn. Nằm giữa hai thế giới này là Boox Palma 2, một máy đọc sách e-ink kích thước 6,13 inch nhưng có hình dáng gọn như điện thoại và chạy Android, cho phép cài trực tiếp ứng dụng Kindle, Kobo hay các app đọc khác, rất tiện để đọc một tay khi di chuyển. Nếu nhu cầu chính của bạn là đọc, máy đọc sách là lựa chọn tốt hơn, còn nếu cần một thiết bị đa dụng, bạn có thể cân nhắc bài [top máy tính bảng tốt nhất nửa đầu 2026](/articles/top-may-tinh-bang-tot-nhat-nua-dau-2026-theo-nhu-cau.html) để so sánh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ru5QKhqq_-Q/hqdefault.jpg" alt="So sánh máy đọc sách với máy tính bảng và điện thoại cho việc đọc năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ru5QKhqq_-Q/maxresdefault.jpg" alt="So sánh máy đọc sách với máy tính bảng và điện thoại cho việc đọc năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Máy đọc sách và máy tính bảng phục vụ những nhu cầu khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Một câu hỏi thường gặp là nên chọn máy đọc sách hay máy tín
 Khi chọn máy đọc sách, bạn nên xác định rõ thói quen đọc, nhu cầu ghi chú và loại nội dung mình đọc, vì những yếu tố này quyết định máy phù hợp. Ngoài ra, kích thước màn hình, độ phân giải, đèn nền điều chỉnh nhiệt màu để đọc ban đêm, khả năng chống nước cho người thích đọc khi thư giãn, cùng hệ sinh thái sách và ngân sách cũng rất quan trọng. Bạn nên chọn kích thước vừa tay và phù hợp với nơi mình hay đọc, và có thể tham khảo bài [cách chọn máy đọc sách](/articles/cach-chon-may-doc-sach-2026-tieu-chi.html) để nắm rõ các tiêu chí quan trọng. Người thích cầm đọc trên tay lâu sẽ ưu tiên máy nhẹ và màn hình vừa phải như Kindle Paperwhite 7 inch hay Kobo Clara BW 6 inch, trong khi người hay đọc tài liệu, PDF lại cần màn hình lớn hơn để hiển thị rõ ràng. Ở nhóm màn hình lớn tầm trung, Kobo Sage với màn 8 inch, nút lật trang vật lý, khả năng chống nước, hỗ trợ bút stylus và nghe sách nói qua Bluetooth là lựa chọn cân bằng giữa dòng nhỏ gọn và dòng chuyên viết như Kindle Scribe.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/1RIsA2sssvE/hqdefault.jpg" alt="Hướng dẫn chọn máy đọc sách theo thói quen đọc và nhu cầu năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/1RIsA2sssvE/maxresdefault.jpg" alt="Hướng dẫn chọn máy đọc sách theo thói quen đọc và nhu cầu năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thị trường máy đọc sách 2026 có đủ lựa chọn cho mọi thói quen đọc. Nguồn: YouTube</figcaption>
 </figure>
 

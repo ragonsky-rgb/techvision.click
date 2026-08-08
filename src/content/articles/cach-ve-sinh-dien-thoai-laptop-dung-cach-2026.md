@@ -66,7 +66,7 @@ Sai lầm lớn nhất không nằm ở việc lười vệ sinh, mà ở việc
 Sai lầm phổ biến thứ hai là phản ứng sai khi máy gặp sự cố với chất lỏng. Rất nhiều người theo phản xạ liền cắm sạc để kiểm tra máy còn hoạt động không, hoặc dùng máy sấy tóc thổi nóng trực tiếp vào cổng sạc để làm khô nhanh, cả hai đều là những việc không nên làm và dễ khiến thiệt hại nặng hơn ban đầu. Hiểu đúng quy trình xử lý cho từng tình huống cụ thể quan trọng không kém việc có đủ dụng cụ vệ sinh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xAUYDMBz66E/hqdefault.jpg" alt="Cach ve sinh chan sac dien thoai dung cach khong hu chan tiep xuc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/xAUYDMBz66E/maxresdefault.jpg" alt="Cach ve sinh chan sac dien thoai dung cach khong hu chan tiep xuc" loading="lazy" width="1280" height="720">
   <figcaption>Vệ sinh chân sạc cần thao tác nhẹ nhàng, đúng dụng cụ để không làm cong chân tiếp xúc. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Mặt kính, phổ biến trên màn hình điện thoại và mặt lưng nhi�
 Ngược lại, vỏ nhựa sơn hoặc giả da, thường thấy ở một số dòng máy tầm trung hoặc phụ kiện ốp lưng, lại là chất liệu nhạy cảm nhất. Cồn nồng độ cao hoặc hoá chất tẩy rửa mạnh dễ khiến lớp sơn bạc màu, bong tróc hoặc làm cứng và nứt bề mặt giả da theo thời gian. Với các bề mặt này, chỉ nên lau bằng khăn ẩm nhẹ với nước sạch, tránh ngâm hoặc để đọng nước lâu ở các mép nối. Nhận diện đúng chất liệu vỏ máy trước khi chọn dung dịch vệ sinh là bước nhiều người bỏ qua nhưng lại quyết định việc máy có bị hư hại thêm hay không.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/EglKgyq1wfw/hqdefault.jpg" alt="6 buoc ve sinh ban phim laptop chuyen nghiep tai nha" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/EglKgyq1wfw/maxresdefault.jpg" alt="6 buoc ve sinh ban phim laptop chuyen nghiep tai nha" loading="lazy" width="1280" height="720">
   <figcaption>Quy trình vệ sinh bàn phím chuyên nghiệp gồm nhiều bước, không chỉ đơn giản là thổi bụi qua loa. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Giải pháp hiệu quả hơn nhiều là dùng túi hút ẩm silica gel, lo�
 Với vệ sinh định kỳ không liên quan tới sự cố, khe tản nhiệt và bàn phím laptop vẫn là hai khu vực cần chú ý nhất. Quy trình chuẩn là tắt máy, rút sạc, sau đó dùng khí nén xịt vào các khe thoát gió theo từng đợt ngắn thay vì xịt liên tục, làm việc này ở nơi thoáng để bụi bay ra ngoài chứ không quẩn ngược vào máy. Khi thổi trực tiếp vào cánh quạt, luôn giữ cố định cánh quạt bằng tăm hoặc que nhựa nhỏ, vì luồng khí nén mạnh có thể làm quạt quay vượt tốc độ thiết kế và hỏng mô tơ, đây là lỗi rất nhiều người mắc phải dù đã biết dùng khí nén.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/u4sumDY5mhI/hqdefault.jpg" alt="Ve sinh khoang quat tan nhiet laptop dung quy trinh ky thuat" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/u4sumDY5mhI/maxresdefault.jpg" alt="Ve sinh khoang quat tan nhiet laptop dung quy trinh ky thuat" loading="lazy" width="1280" height="720">
   <figcaption>Vệ sinh khoang quạt tản nhiệt cần đúng quy trình để không làm hỏng mô tơ hoặc cánh quạt. Nguồn: YouTube</figcaption>
 </figure>
 

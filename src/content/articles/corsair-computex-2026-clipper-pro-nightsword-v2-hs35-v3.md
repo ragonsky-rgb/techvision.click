@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T01:40:00+07:00"
 dateModified: "2026-07-06T01:40:00+07:00"
 deck: "CORSAIR vừa công bố bộ ba thiết bị ngoại vi gaming mới tại Computex 2026, gồm bàn phím Hall Effect compact, chuột không dây tích hợp nút bấm khởi chạy Elgato Stream Deck đầu tiên trên thị trường, và tai nghe giá rẻ hỗ trợ Dolby Atmos, tất cả đã mở bán từ ngày 2/6/2026."
-heroImage: "https://i.ytimg.com/vi/8r3odVaqhxE/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/8r3odVaqhxE/maxresdefault.jpg"
 heroAlt: "CORSAIR Computex 2026 Clipper Pro Nightsword v2 HS35 v3"
 heroCaption: "CORSAIR ra mắt bộ ba thiết bị ngoại vi gaming mới tại Computex 2026. Nguồn: YouTube"
 tldr: "CORSAIR vừa công bố ba sản phẩm mới tại Computex 2026. <strong>Clipper Pro Mini 60</strong> là bàn phím Hall Effect bố cục 60%, dùng switch từ tính MGX HYPERDRIVE CORE, actuation tùy chỉnh <strong>0,2-3,8mm</strong>, polling rate <strong>8.000Hz</strong>. <strong>Nightsword v2 Wireless SD</strong> là chuột gaming đầu tiên có <strong>nút bấm khởi chạy Elgato Stream Deck</strong> riêng, độ nhạy <strong>33.000 DPI</strong>, giá <strong>129,99 USD</strong>. <strong>HS35 v3</strong> là tai nghe giá rẻ hỗ trợ <strong>Dolby Atmos</strong>, driver 50mm, giá chỉ <strong>44 USD</strong>. Cả ba đều đã mở bán từ ngày 2/6/2026."
@@ -73,7 +73,7 @@ Chuẩn chống nước bụi IP57 là điểm đáng chú ý hiếm gặp trên
 Việc CORSAIR sở hữu thương hiệu Elgato từ năm 2018 giờ đây đã mang lại lợi thế tích hợp phần cứng thực sự, thay vì chỉ dừng lại ở việc bán riêng lẻ hai dòng sản phẩm không liên quan như trước đây. Nút bấm Stream Deck trên Nightsword v2 có thể tùy chỉnh để kích hoạt bất kỳ hành động nào đã thiết lập sẵn trên phần mềm Stream Deck, từ chuyển cảnh quay, bật tắt micro, cho tới kích hoạt hiệu ứng âm thanh, giúp quy trình phát trực tiếp trở nên liền mạch hơn đáng kể so với việc phải dùng bàn phím rời hoặc thiết bị Stream Deck vật lý riêng biệt đặt trên bàn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/r-8WTWMQDUI/hqdefault.jpg" alt="CORSAIR Clipper Pro Mini 60 unbox thiet lap" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/r-8WTWMQDUI/maxresdefault.jpg" alt="CORSAIR Clipper Pro Mini 60 unbox thiet lap" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm mở hộp và thiết lập ban đầu bàn phím CORSAIR Clipper Pro Mini 60. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -84,14 +84,14 @@ Người dùng đang cân nhắc thêm các lựa chọn bàn phím và chuột 
 Bên cạnh hai sản phẩm cao cấp, CORSAIR cũng ra mắt HS35 v3, tai nghe giá rẻ chỉ 44 USD nhưng vẫn hỗ trợ công nghệ âm thanh không gian Dolby Atmos, driver neodymium 50mm, trọng lượng nhẹ chỉ 250g và hỗ trợ kết nối tri-mode linh hoạt trên nhiều nền tảng chơi game khác nhau. Đây là lựa chọn phù hợp người mới bắt đầu chơi game muốn trải nghiệm âm thanh không gian chất lượng tốt mà không cần đầu tư quá nhiều ngân sách, một phân khúc giá mà CORSAIR trước đây ít tập trung phát triển.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/REw-tTJQ6Ds/hqdefault.jpg" alt="CORSAIR Nightsword v2 Wireless SD nut Stream Deck" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/REw-tTJQ6Ds/sddefault.jpg" alt="CORSAIR Nightsword v2 Wireless SD nut Stream Deck" loading="lazy" width="640" height="480">
   <figcaption>Giới thiệu chi tiết nút bấm khởi chạy Stream Deck độc quyền trên chuột Nightsword v2 Wireless SD. Nguồn: YouTube</figcaption>
 </figure>
 
 Với trọng lượng chỉ 250g, HS35 v3 cũng thuộc hàng nhẹ nhất trong phân khúc tai nghe gaming giá rẻ, giúp giảm cảm giác nặng đầu khi đeo liên tục trong nhiều giờ chơi game, một yếu tố thường bị bỏ qua ở phân khúc giá thấp nhưng lại ảnh hưởng đáng kể tới trải nghiệm sử dụng lâu dài của người chơi game thường xuyên mỗi ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/xsIe3ea7pdc/hqdefault.jpg" alt="CORSAIR Clipper Pro Mini 60 first look sound test" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/xsIe3ea7pdc/maxresdefault.jpg" alt="CORSAIR Clipper Pro Mini 60 first look sound test" loading="lazy" width="1280" height="720">
   <figcaption>Cận cảnh đầu tiên và thử nghiệm âm thanh phím bấm của bàn phím CORSAIR Clipper Pro Mini 60. Nguồn: YouTube</figcaption>
 </figure>
 

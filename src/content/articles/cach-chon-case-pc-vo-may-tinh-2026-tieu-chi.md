@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-07-06T06:40:00+07:00"
 dateModified: "2026-07-06T06:40:00+07:00"
 deck: "Case PC không chỉ là vỏ bảo vệ linh kiện mà còn ảnh hưởng trực tiếp tới khả năng tản nhiệt và độ ổn định của cả hệ thống máy tính. Bài viết tổng hợp 5 tiêu chí quan trọng cần cân nhắc trước khi chọn mua một chiếc case PC phù hợp nhu cầu xây dựng máy tính gaming hoặc làm việc chuyên nghiệp."
-heroImage: "https://i.ytimg.com/vi/bVZdpY_S3co/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/bVZdpY_S3co/maxresdefault.jpg"
 heroAlt: "Cach chon case PC vo may tinh 2026 tieu chi"
 heroCaption: "Chọn case PC phù hợp cần cân nhắc kích thước, khả năng lưu thông khí và số lượng khe quạt. Nguồn: YouTube"
 tldr: "Khi chọn mua case PC, cần chú ý 5 tiêu chí chính: <strong>kích thước</strong> phù hợp với bo mạch chủ, GPU và tản nhiệt CPU đang sử dụng, <strong>khả năng lưu thông khí (airflow)</strong> quyết định hiệu quả tản nhiệt tổng thể, <strong>số lượng khe quạt</strong> hỗ trợ mở rộng hệ thống tản nhiệt, <strong>khả năng quản lý dây cáp</strong> giúp case gọn gàng, và <strong>tính thẩm mỹ</strong> phù hợp phong cách setup mong muốn."
@@ -68,7 +68,7 @@ Trước khi mua, cần xác định rõ kích thước bo mạch chủ, chiều
 Người mới xây dựng máy tính lần đầu thường đánh giá thấp tầm quan trọng của việc đo đạc kỹ không gian đặt case trước khi mua, dẫn tới tình trạng mua case quá lớn không vừa bàn làm việc, hoặc quá nhỏ không đủ chỗ lắp đặt tản nhiệt AIO cỡ lớn dự định trong tương lai.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/rx9hXcngt3s/hqdefault.jpg" alt="So sanh Mini Tower Mid Tower Full Tower nen chon loai nao" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/rx9hXcngt3s/maxresdefault.jpg" alt="So sanh Mini Tower Mid Tower Full Tower nen chon loai nao" loading="lazy" width="1280" height="720">
   <figcaption>So sánh chi tiết giữa ba kích thước case phổ biến Mini Tower, Mid Tower và Full Tower. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Người mới xây dựng máy tính lần đầu thường đánh giá thấp 
 Airflow là khả năng lưu thông không khí bên trong case, thường thiết kế theo nguyên tắc hút khí mát vào từ phía trước hoặc đáy case và thổi khí nóng ra phía sau hoặc trên đỉnh. Case có airflow tốt giúp giảm nhiệt độ tổng thể của linh kiện, cho phép CPU và GPU duy trì xung nhịp ổn định lâu hơn, đặc biệt quan trọng với các cấu hình gaming hiệu năng cao thường xuyên tỏa nhiệt lớn khi chơi game hoặc xử lý tác vụ nặng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/YNcd-IGMj2c/hqdefault.jpg" alt="Huong dan truc quan ve airflow case PC toi uu" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/YNcd-IGMj2c/maxresdefault.jpg" alt="Huong dan truc quan ve airflow case PC toi uu" loading="lazy" width="1280" height="720">
   <figcaption>Hướng dẫn trực quan giúp người dùng hiểu rõ cách thiết lập airflow tối ưu cho case PC. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Với người dùng đang cân nhắc nâng cấp đồng bộ nhiều linh ki�
 Case có khoang giấu dây cáp phía sau bo mạch chủ giúp việc đi dây gọn gàng hơn đáng kể, cải thiện thẩm mỹ và luồng khí lưu thông trong khoang chính chứa linh kiện. Đây là tính năng ngày càng phổ biến trên các dòng case tầm trung trở lên, giúp việc bảo trì, nâng cấp linh kiện sau này dễ dàng hơn nhiều so với case không có khoang giấu dây riêng biệt.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Ba6w3QdnWBw/hqdefault.jpg" alt="Cach toi uu hoa airflow case PC hieu qua" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ba6w3QdnWBw/maxresdefault.jpg" alt="Cach toi uu hoa airflow case PC hieu qua" loading="lazy" width="1280" height="720">
   <figcaption>Mẹo tối ưu hóa luồng khí trong case PC giúp giảm nhiệt độ linh kiện hiệu quả. Nguồn: YouTube</figcaption>
 </figure>
 

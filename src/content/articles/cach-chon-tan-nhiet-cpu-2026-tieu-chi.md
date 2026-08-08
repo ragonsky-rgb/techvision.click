@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-07-06T04:40:00+07:00"
 dateModified: "2026-07-06T04:40:00+07:00"
 deck: "Giữa bối cảnh CPU và GPU ngày càng tiêu tốn nhiều điện năng và tỏa nhiệt lớn hơn qua từng thế hệ, chọn đúng tản nhiệt CPU trở thành yếu tố quan trọng quyết định hiệu năng ổn định và độ bền lâu dài của cả hệ thống. Bài viết tổng hợp 5 tiêu chí quan trọng cần cân nhắc trước khi chọn mua một bộ tản nhiệt CPU phù hợp nhu cầu sử dụng."
-heroImage: "https://i.ytimg.com/vi/xu-0ByG0jJs/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/xu-0ByG0jJs/maxresdefault.jpg"
 heroAlt: "Cach chon tan nhiet CPU 2026 tieu chi"
 heroCaption: "Chọn tản nhiệt CPU phù hợp cần cân nhắc giữa tản khí và AIO nước, công suất tản nhiệt và kích thước case. Nguồn: YouTube"
 tldr: "Khi chọn mua tản nhiệt CPU, cần chú ý 5 tiêu chí chính: <strong>tản khí hay AIO nước</strong> tùy nhu cầu và ngân sách, <strong>công suất tản nhiệt TDP</strong> phù hợp với CPU đang sử dụng, <strong>kích thước tương thích</strong> với case máy tính và khoảng trống RAM, <strong>độ ồn quạt</strong> khi vận hành ở tốc độ cao, và <strong>độ bền lâu dài</strong> đặc biệt quan trọng với tản nước AIO có bơm và ống dẫn chất lỏng."
@@ -68,7 +68,7 @@ Lựa chọn giữa tản khí và tản nước AIO là quyết định quan tr
 Với người mới xây dựng máy tính lần đầu, nên ưu tiên tản khí tầm trung uy tín thay vì các dòng tản nước AIO cao cấp nếu chưa thực sự cần thiết, vì tản khí thường dễ lắp đặt hơn và ít rủi ro kỹ thuật hơn so với việc phải lắp đặt radiator và ống dẫn của tản nước AIO đúng cách.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Vhc4eo-q6UA/hqdefault.jpg" alt="Huong dan mua dung tan nhiet CPU" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/Vhc4eo-q6UA/maxresdefault.jpg" alt="Huong dan mua dung tan nhiet CPU" loading="lazy" width="1280" height="720">
   <figcaption>Hướng dẫn cơ bản giúp người mới bắt đầu chọn đúng tản nhiệt CPU phù hợp với hệ thống của mình. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Với người mới xây dựng máy tính lần đầu, nên ưu tiên tản k
 Công suất tản nhiệt TDP (Thermal Design Power) là mức công suất nhiệt tối đa mà tản nhiệt cần xử lý được để giữ CPU hoạt động ổn định. CPU tầm trung thường có TDP 65-125W, đủ dùng với tản khí tầm trung, trong khi CPU cao cấp có TDP 150-250W cần tản nước AIO hoặc tản khí cao cấp cỡ lớn mới đảm bảo hiệu năng ổn định. Chọn tản nhiệt có công suất TDP thấp hơn CPU đang dùng sẽ khiến CPU bị giảm xung nhịp do quá nhiệt, ảnh hưởng trực tiếp tới hiệu năng tổng thể của máy tính.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/E9SLAFHv8QY/hqdefault.jpg" alt="So sanh tan khi va tan nuoc AIO tot nhat 2024" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/E9SLAFHv8QY/maxresdefault.jpg" alt="So sanh tan khi va tan nuoc AIO tot nhat 2024" loading="lazy" width="1280" height="720">
   <figcaption>So sánh trực tiếp hiệu quả tản nhiệt giữa các mẫu tản khí và tản nước AIO phổ biến nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Với người dùng đang cân nhắc nâng cấp đồng bộ nhiều linh ki�
 Độ ồn quạt là yếu tố quan trọng với người dùng đặt máy tính gần khu vực làm việc hoặc phòng ngủ. Các dòng tản nhiệt cao cấp thường sử dụng quạt tốc độ thấp cánh lớn kết hợp thuật toán điều khiển thông minh, giúp giảm độ ồn đáng kể so với quạt tốc độ cao cánh nhỏ giá rẻ. Nên ưu tiên tản nhiệt có chế độ tự động điều chỉnh tốc độ quạt theo nhiệt độ thực tế, giúp máy chạy êm ái khi tải nhẹ và chỉ tăng tốc quạt khi thực sự cần thiết lúc chơi game hoặc xử lý tác vụ nặng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/R5GhNnLVUrw/hqdefault.jpg" alt="Cach chon tan khi CPU dung kich thuoc" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/R5GhNnLVUrw/maxresdefault.jpg" alt="Cach chon tan khi CPU dung kich thuoc" loading="lazy" width="1280" height="720">
   <figcaption>Hướng dẫn chi tiết cách chọn tản khí CPU đúng kích thước, giảm thiểu độ ồn khi vận hành. Nguồn: YouTube</figcaption>
 </figure>
 

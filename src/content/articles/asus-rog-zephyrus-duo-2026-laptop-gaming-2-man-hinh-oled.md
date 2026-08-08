@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-05T22:40:00+07:00"
 dateModified: "2026-07-05T22:40:00+07:00"
 deck: "ASUS vừa ra mắt thế hệ mới của ROG Zephyrus Duo, laptop gaming trang bị 2 màn hình OLED 16 inch đầu tiên trên thế giới với bản lề gập 320 độ, kết hợp chip Intel Panther Lake và GPU RTX 5090, giá khởi điểm từ 4.499,99 USD."
-heroImage: "https://i.ytimg.com/vi/Pe6ydSi-0cg/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/Pe6ydSi-0cg/maxresdefault.jpg"
 heroAlt: "ASUS ROG Zephyrus Duo 2026 laptop gaming 2 man hinh OLED"
 heroCaption: "ASUS ROG Zephyrus Duo 2026 là laptop gaming 2 màn hình OLED 16 inch đầu tiên trên thế giới. Nguồn: YouTube"
 tldr: "ASUS vừa ra mắt <strong>ROG Zephyrus Duo</strong> thế hệ 2026, laptop gaming trang bị <strong>2 màn hình OLED 2,8K 16 inch</strong> đầu tiên trên thế giới, bản lề có thể gập tới <strong>320 độ</strong>. Máy dùng chip <strong>Intel Core Ultra 9 386H</strong> (Panther Lake), có 2 phiên bản: <strong>GX651AR</strong> giá <strong>4.499,99 USD</strong> dùng RTX 5070 Ti, và bản cao cấp nhất giá <strong>5.499,99 USD</strong> dùng <strong>RTX 5090</strong>, trọng lượng khoảng <strong>2,8kg</strong>. Đáng chú ý, GPU RTX 5090 trên máy bị giới hạn công suất ở mức <strong>135W</strong> thay vì mức lý tưởng 150W, khiến hiệu năng thấp hơn khoảng 18% so với đối thủ MSI Titan 18HX trong bài test 3DMark Speed Way."
@@ -59,7 +59,7 @@ ASUS vừa chính thức trình làng thế hệ mới của ROG Zephyrus Duo, d
 Điểm nhấn kỹ thuật lớn nhất của Zephyrus Duo 2026 là việc cả màn hình chính và màn hình phụ đều sử dụng tấm nền OLED độ phân giải 2,8K, mang lại màu sắc rực rỡ và độ tương phản cao đồng đều trên cả hai màn hình, thay vì chỉ trang bị OLED cho màn hình chính như các thế hệ trước. Màn hình phụ còn được thiết kế với bản lề có thể gập tới 320 độ, cho phép điều chỉnh góc nhìn linh hoạt theo nhu cầu sử dụng, từ đặt phẳng trên bàn để theo dõi thông số hệ thống, tới dựng gần vuông góc để xem nội dung như một màn hình phụ độc lập.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/yCyvOHYaV0w/hqdefault.jpg" alt="ASUS ROG Zephyrus Duo 2026 trai nghiem tai CES" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/yCyvOHYaV0w/maxresdefault.jpg" alt="ASUS ROG Zephyrus Duo 2026 trai nghiem tai CES" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế bản lề gập 320 độ của màn hình phụ trên ASUS ROG Zephyrus Duo 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Dù trang bị GPU RTX 5090 ở cấu hình cao cấp nhất, Zephyrus Duo 2026 
 Theo các bài đánh giá thực tế, phần không gian tản nhiệt bị thu hẹp do phải nhường chỗ cho cơ chế bản lề và mạch điều khiển màn hình phụ là nguyên nhân chính khiến ASUS phải giới hạn công suất GPU thấp hơn các mẫu laptop gaming một màn hình cùng phân khúc giá. Đây là bài toán kỹ thuật khó, khi ASUS phải cân bằng giữa việc giữ tính năng màn hình kép độc đáo và tối ưu hiệu năng đồ họa tối đa cho GPU flagship.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/igbzO9kAv_I/hqdefault.jpg" alt="So sanh cac the he ASUS ROG Zephyrus Duo tung ra mat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/igbzO9kAv_I/maxresdefault.jpg" alt="So sanh cac the he ASUS ROG Zephyrus Duo tung ra mat" loading="lazy" width="1280" height="720">
   <figcaption>So sánh các thế hệ ROG Zephyrus Duo từng ra mắt cho thấy quá trình phát triển thiết kế 2 màn hình của ASUS. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Theo các bài đánh giá thực tế, phần không gian tản nhiệt bị th
 Zephyrus Duo 2026 được ASUS công bố lần đầu tại CES 2026, cùng lúc với nhiều dòng laptop ROG khác như Zephyrus G14 và G16 thế hệ mới. Việc ra mắt đồng loạt nhiều dòng sản phẩm cho thấy ASUS đang đẩy mạnh làm mới toàn bộ danh mục laptop gaming ngay từ đầu năm, thay vì chỉ tập trung vào một, hai dòng sản phẩm chủ lực như nhiều năm trước. Người quan tâm tới các lựa chọn laptop ROG khác có thể tham khảo thêm [ASUS ROG Zephyrus G14 2026, vừa chuyển từ AMD sang Intel Panther Lake](/articles/asus-rog-zephyrus-g14-2026-doi-sang-intel-panther-lake.html) để so sánh giữa các dòng sản phẩm trong cùng gia đình ROG.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_xFDgsHdJAA/hqdefault.jpg" alt="CES 2026 ASUS ROG Zephyrus G14 G16 va Duo ra mat" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_xFDgsHdJAA/maxresdefault.jpg" alt="CES 2026 ASUS ROG Zephyrus G14 G16 va Duo ra mat" loading="lazy" width="1280" height="720">
   <figcaption>ASUS công bố đồng loạt nhiều dòng laptop ROG mới tại CES 2026, bao gồm cả Zephyrus Duo thế hệ mới. Nguồn: YouTube</figcaption>
 </figure>
 

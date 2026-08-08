@@ -76,7 +76,7 @@ Honor WIN Turbo dùng chip Dimensity 8500 Racing Edition của MediaTek, thuộc
 Điểm hợp lý trong cách Honor phối hợp là chip tiết kiệm điện kết hợp pin siêu lớn, tạo ra thời lượng sử dụng thực tế rất dài. Nếu bạn cần hiệu năng thô cao nhất cho game nặng, các mẫu chạy Snapdragon 8 Elite Gen 5 như [iQOO 15 Ultra](/articles/iqoo-15-ultra-gaming-antutu-quat-tan-nhiet-pin-7400mah-2026.html) vẫn nhỉnh hơn, nhưng đổi lại thường không có pin lớn tới mức 10000mAh như WIN Turbo.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/o5trytBlknU/hqdefault.jpg" alt="Honor WIN Turbo unboxing chip Dimensity 8500 thiet ke" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/o5trytBlknU/maxresdefault.jpg" alt="Honor WIN Turbo unboxing chip Dimensity 8500 thiet ke" loading="lazy" width="1280" height="720">
   <figcaption>Honor WIN Turbo dùng chip Dimensity 8500 Racing Edition. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Màn hình là một điểm cộng khác của Honor WIN Turbo. Máy dùng tấ
 Về thiết kế, dù mang viên pin khổng lồ, máy vẫn giữ được độ mỏng khoảng 8mm và trọng lượng 216g, không quá chênh lệch so với nhiều điện thoại pin nhỏ hơn. Honor WIN Turbo chạy Android 16 với giao diện MagicOS 10, đi kèm các tính năng AI và tùy biến quen thuộc trên dòng máy của hãng. Sự cân bằng giữa pin lớn, màn sáng và thân máy gọn là điều làm nên sức hút của sản phẩm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/0UXADHq4sf4/hqdefault.jpg" alt="Honor WIN Turbo man hinh AMOLED 8000 nits sang ngoai troi" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/0UXADHq4sf4/maxresdefault.jpg" alt="Honor WIN Turbo man hinh AMOLED 8000 nits sang ngoai troi" loading="lazy" width="1280" height="720">
   <figcaption>Màn AMOLED của Honor WIN Turbo có độ sáng đỉnh tới 8000 nits. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Tại Trung Quốc, Honor WIN Turbo có giá khởi điểm 3.299 nhân dân t�
 Với người dùng Việt ưu tiên thời lượng pin cực dài trong một chiếc máy vẫn gọn nhẹ, Honor WIN Turbo là cái tên rất đáng theo dõi trong nửa cuối năm 2026. Những ai thích điện thoại gập hoặc pin lớn theo hướng khác có thể tham khảo thêm [Honor Magic 8 Pro](/articles/honor-magic-8-pro-camera-200mp-snapdragon-8-elite-gen-5-2026.html) để so sánh định hướng sản phẩm. Trước khi mua, người dùng nên chờ thông tin chính hãng và cân nhắc kỹ chính sách bảo hành, nhất là khi mua qua kênh không phân phối trực tiếp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zNcvttio-QM/hqdefault.jpg" alt="Honor WIN Turbo pin 10000mAh danh gia thoi luong su dung" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/zNcvttio-QM/sddefault.jpg" alt="Honor WIN Turbo pin 10000mAh danh gia thoi luong su dung" loading="lazy" width="640" height="480">
   <figcaption>Honor WIN Turbo nhắm tới người ngại sạc pin thường xuyên. Nguồn: YouTube</figcaption>
 </figure>
 

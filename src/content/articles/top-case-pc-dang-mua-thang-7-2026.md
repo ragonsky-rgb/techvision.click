@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-06T07:00:00+07:00"
 dateModified: "2026-07-06T07:00:00+07:00"
 deck: "Nhu cầu thay vỏ máy tính tiếp tục tăng trong tháng 7/2026, khi ngày càng nhiều người dùng nâng cấp đồng bộ card đồ họa và tản nhiệt công suất lớn, đòi hỏi case đủ không gian và khả năng lưu thông khí. Bài viết tổng hợp 3 lựa chọn đáng chú ý nhất ở ba phân khúc, phù hợp từ cấu hình phổ thông tới dàn máy hiệu năng cao nhất."
-heroImage: "https://i.ytimg.com/vi/ITaFJEJZHZo/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/ITaFJEJZHZo/maxresdefault.jpg"
 heroAlt: "Top case PC dang mua thang 7 2026"
 heroCaption: "Tổng hợp case PC đáng mua nhất tháng 7/2026 theo từng phân khúc nhu cầu. Nguồn: YouTube"
 tldr: "Ở phân khúc <strong>giá tốt</strong>, case airflow tầm trung với lưới thông gió rộng vẫn đủ đáp ứng tốt cấu hình phổ thông tới khá cao. Phân khúc <strong>tầm trung</strong> nổi bật với case <strong>Mid Tower</strong> cân bằng giữa airflow, không gian lắp đặt và thẩm mỹ. Ở phân khúc <strong>cao cấp</strong>, case <strong>Full Tower</strong> nhiều khe quạt là lựa chọn đáng đầu tư nhất cho dàn máy hiệu năng cao nhất, đảm bảo đủ không gian cho card đồ họa và tản nhiệt AIO cỡ lớn."
@@ -71,7 +71,7 @@ Với người mới xây dựng máy tính lần đầu, case airflow tầm tru
 Ở phân khúc tầm trung, case Mid Tower với thiết kế kết hợp lưới thông gió và mặt kính cường lực là lựa chọn nổi bật, phù hợp người dùng cần cân bằng giữa hiệu quả tản nhiệt và tính thẩm mỹ khi khoe linh kiện RGB bên trong. Kích thước Mid Tower đủ lớn để lắp card đồ họa cỡ lớn cùng tản nước AIO 240-360mm, đồng thời vẫn vừa với hầu hết bàn làm việc gaming hiện nay mà không chiếm quá nhiều diện tích.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/KwmCo0Y8yI0/hqdefault.jpg" alt="Huong dan chon case PC tong quan cac phan khuc" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/KwmCo0Y8yI0/maxresdefault.jpg" alt="Huong dan chon case PC tong quan cac phan khuc" loading="lazy" width="1280" height="720">
   <figcaption>Hướng dẫn tổng quan các phân khúc case PC giúp người dùng dễ dàng chọn được sản phẩm phù hợp khi nâng cấp máy tính. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Với người mới xây dựng máy tính lần đầu, case airflow tầm tru
 Với nhu cầu xây dựng dàn máy hiệu năng cao nhất, case Full Tower nhiều khe quạt là lựa chọn đáng đầu tư nhất, đảm bảo đủ không gian cho card đồ họa flagship cùng tản nước AIO 360mm trở lên hoặc hệ thống custom loop chuyên nghiệp. Kích thước lớn hơn giúp lưu thông khí hiệu quả hơn đáng kể so với Mid Tower, dù đòi hỏi không gian đặt máy phải đủ rộng rãi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2jxbAUEZE3o/hqdefault.jpg" alt="Case PC airflow cao cap nhieu khe quat 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/2jxbAUEZE3o/maxresdefault.jpg" alt="Case PC airflow cao cap nhieu khe quat 2026" loading="lazy" width="1280" height="720">
   <figcaption>Những case PC airflow cao cấp với nhiều khe quạt, tối ưu hóa khả năng lưu thông khí cho dàn máy hiệu năng cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Ngoài số lượng khe quạt, người dùng ở phân khúc cao cấp cũng 
 Người xây dựng dàn máy hiệu năng cao cũng nên cân nhắc thêm khả năng hỗ trợ nhiều quạt cỡ lớn 140mm hoặc 180mm thay vì chỉ dùng quạt 120mm tiêu chuẩn, vì quạt cỡ lớn thường tạo ra luồng khí mạnh hơn ở cùng tốc độ vòng quay, giúp giảm tiếng ồn đáng kể so với việc phải tăng tốc độ nhiều quạt nhỏ để đạt hiệu quả tản nhiệt tương đương.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/HvboYA3QJIo/hqdefault.jpg" alt="Case PC cao cap thiet ke moi 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/HvboYA3QJIo/maxresdefault.jpg" alt="Case PC cao cap thiet ke moi 2026" loading="lazy" width="1280" height="720">
   <figcaption>Một mẫu case PC cao cấp với thiết kế mới đáng chú ý trong năm 2026, tối ưu cả thẩm mỹ lẫn hiệu quả tản nhiệt. Nguồn: YouTube</figcaption>
 </figure>
 

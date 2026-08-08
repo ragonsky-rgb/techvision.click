@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-19T22:00:00+07:00"
 dateModified: "2026-07-20T10:00:00+07:00"
 deck: "Quạt tích điện đã trở thành người bạn đồng hành quen thuộc trong mùa hè oi bức, đặc biệt tại những khu vực hay mất điện hoặc với người thường xuyên di chuyển, khi mà một chiếc quạt chạy pin nhỏ gọn có thể mang lại luồng gió mát mẻ ở bất cứ đâu. Nửa đầu năm 2026, thị trường quạt tích điện tiếp tục phát triển đa dạng với thời lượng pin ngày càng dài, công suất gió mạnh hơn và thiết kế gọn nhẹ, tiện lợi hơn. Với người dùng đang cân nhắc mua, việc chọn được chiếc quạt phù hợp phụ thuộc rất nhiều vào mục đích sử dụng, không gian và mức độ di chuyển. Một người hay ra ngoài, đi làm hoặc du lịch sẽ cần quạt cầm tay mini bỏ túi, trong khi gia đình muốn có phương án dự phòng khi mất điện lại cần quạt để bàn hoặc quạt đứng dung lượng pin lớn. Người dùng tại nơi hay mất điện lại đặc biệt quan tâm tới thời lượng pin và khả năng chiếu sáng khẩn cấp. Bài viết này đóng vai trò một cẩm nang tổng hợp, đi qua từng nhóm nhu cầu phổ biến như quạt cầm tay mini, quạt để bàn và đứng, thời lượng pin cùng công suất gió, giúp bạn nhanh chóng khoanh vùng lựa chọn phù hợp với nhu cầu và túi tiền của mình."
-heroImage: "https://i.ytimg.com/vi/tu7ch0RJrds/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/tu7ch0RJrds/maxresdefault.jpg"
 heroAlt: "Cẩm nang chọn quạt tích điện tốt nhất nửa đầu 2026 gồm quạt cầm tay và quạt để bàn"
 heroCaption: "Cẩm nang chọn quạt tích điện mát mẻ cho mùa hè nửa đầu 2026. Nguồn: YouTube"
 tldr: "Đây là cẩm nang chọn quạt tích điện nửa đầu 2026 theo nhu cầu, kèm các mẫu đang bán tại Việt Nam. Về <strong>di chuyển</strong>, <strong>JISULIFE Life7</strong> (pin 3.600 hoặc 5.000mAh, tới 19 giờ, khoảng 400.000đ) là mẫu cầm tay phổ biến. Về <strong>bàn làm việc</strong>, <strong>JISULIFE Life3 FA28</strong> (pin 4.500mAh, 4 tới 16 giờ, khoảng 285.000đ) gọn và êm. Về <strong>gia đình và dự phòng mất điện</strong>, <strong>Sunhouse SH762</strong> (cánh 40cm, 3 tới 5 giờ, khoảng 495.000đ), <strong>Sunhouse SH722</strong> (cánh 30cm, khoảng 5 giờ, 659.000đ), <strong>Sunhouse SHD7223</strong> (24W, 5 tới 16 giờ, 899.000đ), <strong>Tiross TS9174</strong> (pin 8.000mAh, 4 tới 8 giờ, 927.000đ), <strong>Kangaroo KG739</strong> (50W, motor DC, tới 8 giờ, 1.600.000đ) và <strong>Xiaomi Smartmi Fan Gen 3</strong> (pin 33,6Wh, tới 20 giờ, khoảng 1.800.000đ) là các lựa chọn theo từng tầm giá."
@@ -83,14 +83,14 @@ Với gia đình muốn có phương án làm mát dự phòng khi mất điện
 Ở nhánh cao cấp hơn, Xiaomi Smartmi Fan Gen 3 dùng thuật toán mô phỏng gió tự nhiên, pin lithium 33,6Wh cho thời lượng công bố lên tới khoảng 20 giờ, mức dài nhất trong nhóm được so sánh ở bài này, giá quanh 1.800.000đ. Nếu ngân sách hẹp hơn, hai lựa chọn tầm trung là Sunhouse SHD7223 và Sunhouse SHD7228, cùng công suất 24W và thời lượng công bố 5 tới 16 giờ tùy mức gió, giá lần lượt khoảng 899.000đ và 889.000đ. Tiross TS9174 công suất 13W với pin 8.000mAh, chạy 4 tới 8 giờ, giá khoảng 927.000đ, còn Tiross TS9172 pin 6.000mAh chạy khoảng 3 giờ ở mức cao và tới 5 giờ ở mức thấp với giá khoảng 545.000đ. Một cái tên khác trong tầm 700.000đ là Asia QS1001 công suất 30W, thời lượng công bố 8 tới 10 giờ, giá khoảng 727.000đ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ss-aKkPWbIo/hqdefault.jpg" alt="So sánh các quạt tích điện cầm tay foldable đáng mua năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/ss-aKkPWbIo/maxresdefault.jpg" alt="So sánh các quạt tích điện cầm tay foldable đáng mua năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Quạt tích điện cầm tay tiện lợi cho làm mát cá nhân khi di chuyển. Nguồn: YouTube</figcaption>
 </figure>
 
 Thời lượng pin là một yếu tố rất quan trọng, và bạn nên lưu ý rằng con số công bố thường ở mức gió thấp nhất, còn ở mức gió cao thì pin hết nhanh hơn nhiều. Các dải số của nhà sản xuất đã nói rõ điều đó, chẳng hạn Sunhouse SHD7223 ghi 5 tới 16 giờ, JISULIFE Life3 FA28 ghi 4 tới 16 giờ, Tiross TS9174 ghi 4 tới 8 giờ và Comet CRF1506 tụt từ 3,5 giờ xuống 1,5 giờ khi chuyển từ mức gió thấp lên mức cao nhất. Nghĩa là con số đẹp nhất trên bao bì gần như luôn ứng với mức gió yếu nhất, còn thực tế dùng ở mức trung bình bạn nên trừ đi khoảng một nửa. Vì vậy, hãy chọn quạt có dung lượng pin dư một chút so với nhu cầu thực tế. Nhiều quạt tích điện hiện nay còn hỗ trợ sạc qua cổng USB-C và có thể vừa cắm điện vừa dùng, rất hữu ích khi bạn muốn dùng liên tục, thậm chí một số mẫu còn làm được nguồn sạc dự phòng cho điện thoại khi khẩn cấp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/wsTxYxdjWMk/hqdefault.jpg" alt="Đánh giá các quạt tích điện để bàn và đứng cho gia đình năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/wsTxYxdjWMk/maxresdefault.jpg" alt="Đánh giá các quạt tích điện để bàn và đứng cho gia đình năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Quạt tích điện lớn giúp làm mát diện rộng và dự phòng khi mất điện. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Về an toàn, quạt tích điện từ thương hiệu uy tín với pin và m
 Về mặt ngân sách, bạn có thể hình dung nhanh ba mốc. Dưới 500.000đ là nhóm quạt cá nhân và quạt sạc cỡ nhỏ như Comet CRF1506, JISULIFE Life3 FA28, JISULIFE Life7 và Sunhouse SH762. Từ 500.000đ tới 1 triệu đồng là nhóm quạt sạc cỡ trung dùng chung cho phòng nhỏ, gồm Tiross TS9172, Sunhouse SH722, Asia QS1001, Sunhouse SHD7228, Sunhouse SHD7223 và Tiross TS9174. Trên 1,5 triệu đồng là nhóm quạt đứng pin lớn nhiều tính năng như Kangaroo KG739 và Xiaomi Smartmi Fan Gen 3, phù hợp khi bạn coi chiếc quạt là thiết bị dự phòng chính cho cả nhà trong mùa nắng nóng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7MQ-Yd_JzkU/hqdefault.jpg" alt="Hướng dẫn chọn quạt tích điện theo nhu cầu và thời lượng pin năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7MQ-Yd_JzkU/maxresdefault.jpg" alt="Hướng dẫn chọn quạt tích điện theo nhu cầu và thời lượng pin năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thị trường quạt tích điện 2026 có đủ lựa chọn cho mọi nhu cầu làm mát. Nguồn: YouTube</figcaption>
 </figure>
 

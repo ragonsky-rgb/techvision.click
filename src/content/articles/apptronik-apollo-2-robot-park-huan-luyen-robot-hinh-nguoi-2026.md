@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T15:20:00+07:00"
 dateModified: "2026-07-04T15:20:00+07:00"
 deck: "Apptronik, startup robot hình người có trụ sở tại Austin, vừa khai trương Robot Park, cơ sở huấn luyện dữ liệu rộng gần 8.400 m2, nơi đội robot Apollo 2 thực hiện công việc thực tế trong logistics, sản xuất và bán lẻ để liên tục thu thập dữ liệu huấn luyện AI."
-heroImage: "https://i.ytimg.com/vi/iPyxwELiD9Q/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/iPyxwELiD9Q/maxresdefault.jpg"
 heroAlt: "Apptronik Robot Park huan luyen robot hinh nguoi Apollo 2"
 heroCaption: "Robot Park của Apptronik là nơi hàng loạt robot Apollo 2 làm việc thực tế để thu thập dữ liệu huấn luyện AI. Nguồn: YouTube"
 tldr: "Apptronik vừa khai trương <strong>Robot Park</strong>, cơ sở thu thập dữ liệu và huấn luyện robot hình người rộng gần <strong>8.400 m2</strong> tại Austin, Texas, công bố ngày 30/6/2026. Tại đây, đội robot <strong>Apollo 2</strong>, phiên bản mới nhất với cả cấu hình đi hai chân và cấu hình bánh xe, liên tục thực hiện các công việc thực tế trong logistics, sản xuất và bán lẻ để thu thập dữ liệu huấn luyện mô hình AI cho robot thế hệ tiếp theo. Apptronik hợp tác với Google DeepMind cùng các khách hàng như Mercedes-Benz và GXO trong quá trình phát triển này."
@@ -69,7 +69,7 @@ Khác với cách tiếp cận truyền thống chỉ thử nghiệm robot trong
 Apollo 2 là phiên bản mới nhất trong dòng robot hình người của Apptronik, ra mắt với hai cấu hình khác nhau để phù hợp từng nhu cầu sử dụng cụ thể. Cấu hình đi hai chân được thiết kế cho không gian gần con người, nơi khả năng di chuyển linh hoạt và thích ứng địa hình quan trọng, trong khi cấu hình bánh xe tối ưu cho môi trường công nghiệp cần sự ổn định và hiệu quả vận hành cao. Robot sử dụng cụm truyền động độc quyền đạt hiệu suất năng lượng trên 90%, cùng hệ thống pin có thể hoán đổi nhanh chóng để duy trì hoạt động gần như liên tục, một yếu tố quan trọng khi triển khai ở quy mô công nghiệp thực tế thay vì chỉ trình diễn ngắn hạn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/pymvNott6nw/hqdefault.jpg" alt="Gioi thieu robot hinh nguoi Apollo cua Apptronik" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/pymvNott6nw/maxresdefault.jpg" alt="Gioi thieu robot hinh nguoi Apollo cua Apptronik" loading="lazy" width="1280" height="720">
   <figcaption>Apollo là nền tảng robot hình người dạng module được Apptronik phát triển liên tục qua nhiều thế hệ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Một điểm đáng chú ý trong chiến lược của Apptronik là việc h�
 Apptronik không phải cái tên duy nhất theo đuổi hướng đi này. Đối thủ trực tiếp trong mảng robot hình người là [Boston Dynamics với robot Atlas sử dụng Gemini Robotics](/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html), cũng đang chạy đua thu thập dữ liệu thực tế để huấn luyện AI điều khiển robot, cho thấy cuộc đua robot hình người giữa các công ty công nghệ lớn đang ngày càng nóng trong năm 2026.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/iPyxwELiD9Q/mqdefault.jpg" alt="Doi robot Apollo 2 lam viec thuc te tai Robot Park Austin" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/iPyxwELiD9Q/maxresdefault.jpg" alt="Doi robot Apollo 2 lam viec thuc te tai Robot Park Austin" loading="lazy" width="1280" height="720">
   <figcaption>Đội robot Apollo 2 làm việc thực tế tại Robot Park giúp thu thập dữ liệu huấn luyện AI chất lượng cao. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Với tốc độ đầu tư mạnh mẽ hiện nay từ nhiều công ty robot 
 Dù robot hình người như Apollo 2 chưa được triển khai thương mại tại Việt Nam, xu hướng đầu tư mạnh vào robot AI và tự động hóa từ các tập đoàn lớn trên thế giới cho thấy đây sẽ là lĩnh vực công nghệ đáng theo dõi trong vài năm tới, đặc biệt với các doanh nghiệp sản xuất, logistics đang tìm kiếm giải pháp tự động hóa để tăng năng suất trong bối cảnh chi phí lao động ngày càng tăng. Các doanh nghiệp Việt Nam quan tâm tới tự động hóa nên theo dõi sát các thử nghiệm thực tế từ Apptronik và các công ty tương tự để có sự chuẩn bị phù hợp khi công nghệ này dần trở nên khả thi về mặt chi phí triển khai.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/pymvNott6nw/mqdefault.jpg" alt="Cong nghe robot hinh nguoi Apptronik ung dung trong cong nghiep" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/pymvNott6nw/maxresdefault.jpg" alt="Cong nghe robot hinh nguoi Apptronik ung dung trong cong nghiep" loading="lazy" width="1280" height="720">
   <figcaption>Công nghệ robot hình người của Apptronik hướng tới ứng dụng thực tế trong công nghiệp và logistics. Nguồn: YouTube</figcaption>
 </figure>
 

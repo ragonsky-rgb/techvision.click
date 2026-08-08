@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-07-13T20:30:00+07:00"
 dateModified: "2026-07-13T20:30:00+07:00"
 deck: "Tháng 7/2026, cơ quan công an nhiều địa phương liên tục phát cảnh báo về thủ đoạn giả mạo ứng dụng VNeID để cài mã độc lên điện thoại, chiếm quyền điều khiển và rút sạch tài khoản ngân hàng của nạn nhân. Song song đó là chiêu hack tài khoản Zalo rồi nhờ quét mã QR độc hại đang tái diễn. Đã có người mất gần 1,5 tỷ đồng chỉ vì một lần cài nhầm ứng dụng. Bài viết chỉ rõ cách những thủ đoạn này vận hành và các bước phòng tránh mà ai cũng nên nắm."
-heroImage: "https://i.ytimg.com/vi/9sKo_NBH94Y/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/9sKo_NBH94Y/maxresdefault.jpg"
 heroAlt: "Cảnh báo mã độc giả mạo ứng dụng VNeID chiếm tài khoản ngân hàng năm 2026"
 heroCaption: "Công an cảnh báo ứng dụng VNeID giả mạo chứa mã độc chiếm quyền điều khiển điện thoại. Nguồn: YouTube"
 tldr: "Kẻ gian mạo danh công an, gửi đường link qua Zalo hoặc Facebook để dụ nạn nhân cài file APK <strong>VNeID giả mạo</strong> có giao diện y hệt bản thật. Khi được cấp quyền, ứng dụng này chiếm quyền điều khiển từ xa, đọc tin nhắn chứa mã OTP rồi <strong>rút sạch tài khoản ngân hàng</strong>. Một phụ nữ đã mất gần <strong>1,5 tỷ đồng</strong> vì thủ đoạn này. Trong năm 2025, lừa đảo trực tuyến gây thiệt hại ước <strong>6.000 tới 8.000 tỷ đồng</strong> tại Việt Nam. Nguyên tắc phòng tránh cốt lõi: chỉ cài VNeID từ App Store hoặc CH Play chính thức, tuyệt đối không cấp quyền Trợ năng cho app lạ, không đọc mã OTP cho bất kỳ ai, và kích hoạt định danh mức 2 phải làm trực tiếp tại cơ quan công an."
@@ -60,7 +60,7 @@ Bước sang tháng 7/2026, hàng loạt cơ quan công an từ trung ương t�
 Kịch bản thường bắt đầu bằng một cuộc gọi hoặc tin nhắn mạo danh cán bộ công an, viện lý do cần cập nhật thông tin căn cước hay kích hoạt định danh mức 2, rồi hướng dẫn nạn nhân tải một ứng dụng VNeID qua đường link lạ. Ứng dụng giả này được thiết kế giao diện gần như y hệt bản thật, khiến người dùng khó phân biệt. Khi cài xong, nó xin hàng loạt quyền, đặc biệt là quyền Trợ năng, thứ cho phép đọc nội dung màn hình và tự thao tác thay người dùng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/2nPDvlIIs6k/hqdefault.jpg" alt="Ứng dụng VNeID giả mạo được cảnh báo trên báo chí năm 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/2nPDvlIIs6k/maxresdefault.jpg" alt="Ứng dụng VNeID giả mạo được cảnh báo trên báo chí năm 2026" loading="lazy" width="1280" height="720">
   <figcaption>Ứng dụng VNeID giả mạo có giao diện giống hệt bản thật, khiến nhiều người sập bẫy. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Một khi đã có quyền Trợ năng, mã độc gần như nắm toàn quyề
 Thủ đoạn giả mạo ứng dụng chỉ là một mảnh trong bức tranh lừa đảo trực tuyến đang nhức nhối. Theo thống kê, trong năm 2025, lừa đảo trực tuyến gây thiệt hại ước tính từ 6.000 tới 8.000 tỷ đồng tại Việt Nam, còn nếu tính rộng ra tội phạm mạng giai đoạn 2020 tới 2025, con số lên tới gần 40.000 tỷ đồng. Điểm tích cực là tỷ lệ người dân trở thành nạn nhân đã giảm, cho thấy nhận thức cộng đồng đang được nâng lên, nhưng số tiền mỗi vụ lại có xu hướng lớn hơn.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/OWzIT8lF43o/hqdefault.jpg" alt="Công an cảnh báo thủ đoạn kích hoạt ứng dụng VNeID giả mạo" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/OWzIT8lF43o/maxresdefault.jpg" alt="Công an cảnh báo thủ đoạn kích hoạt ứng dụng VNeID giả mạo" loading="lazy" width="1280" height="720">
   <figcaption>Cơ quan công an khẳng định không bao giờ yêu cầu người dân cài ứng dụng hay đọc OTP qua điện thoại. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Nhìn rộng ra, đây là biến thể tại Việt Nam của một xu hướng
 Để không trở thành nạn nhân, hãy ghi nhớ bốn nguyên tắc. Thứ nhất, chỉ cài VNeID và các ứng dụng khác từ App Store hoặc CH Play chính thức, tuyệt đối không cài file APK gửi qua tin nhắn hay link lạ. Thứ hai, không bao giờ cấp quyền Trợ năng cho ứng dụng lạ, và nên rà lại danh sách app đang giữ quyền này. Thứ ba, không đọc mã OTP, mật khẩu ngân hàng cho bất kỳ ai, kể cả người tự xưng là công an hay nhân viên nhà mạng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XkZxBjLs_fI/hqdefault.jpg" alt="Cảnh giác trước các chiêu lừa đảo chiếm đoạt tài khoản trực tuyến" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/XkZxBjLs_fI/maxresdefault.jpg" alt="Cảnh giác trước các chiêu lừa đảo chiếm đoạt tài khoản trực tuyến" loading="lazy" width="1280" height="720">
   <figcaption>Cảnh giác và xác minh trực tiếp là lớp phòng thủ hiệu quả nhất trước lừa đảo trực tuyến. Nguồn: YouTube</figcaption>
 </figure>
 

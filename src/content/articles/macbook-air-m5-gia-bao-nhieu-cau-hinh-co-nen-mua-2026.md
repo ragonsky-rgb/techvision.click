@@ -76,7 +76,7 @@ Một thay đổi được nhiều người dùng hoan nghênh là cấu hình k
 Ngoài ra, máy bổ sung kết nối Wi-Fi 7 cho tốc độ mạng nhanh và ổn định hơn khi hạ tầng hỗ trợ, cùng thời lượng pin công bố lên tới 18 giờ. Đây là những nâng cấp thực dụng, phục vụ trực tiếp cho trải nghiệm hằng ngày. Người dùng đang cân nhắc laptop Windows dùng chip ARM tiết kiệm pin có thể so sánh với các mẫu [laptop Snapdragon X2 Elite](/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html) để thấy hai hệ sinh thái đang cạnh tranh về thời lượng pin và hiệu năng AI ra sao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Rlw_CI7pOKg/hqdefault.jpg" alt="MacBook Air M5 cau hinh RAM 16GB SSD 512GB Wi-Fi 7" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Rlw_CI7pOKg/maxresdefault.jpg" alt="MacBook Air M5 cau hinh RAM 16GB SSD 512GB Wi-Fi 7" loading="lazy" width="1280" height="720">
   <figcaption>MacBook Air M5 khởi điểm với 16GB RAM và 512GB SSD. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ MacBook Air M5 có hai kích thước để lựa chọn. Bản 13 inch nhỏ g�
 Sự khác biệt này giúp người dùng dễ chọn theo nhu cầu. Nếu bạn thường xuyên di chuyển và làm các tác vụ văn phòng, học tập, bản 13 inch là đủ và tiết kiệm hơn. Nếu cần không gian hiển thị rộng cho làm việc đa nhiệm, chỉnh sửa ảnh hoặc giải trí, bản 15 inch với GPU mạnh hơn sẽ phù hợp. Trước khi mua, người dùng nên cân nhắc kỹ giữa tính di động và diện tích màn hình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/i53Qur_WGE4/hqdefault.jpg" alt="MacBook Air M5 ban 13 inch va 15 inch so sanh kich thuoc" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/i53Qur_WGE4/maxresdefault.jpg" alt="MacBook Air M5 ban 13 inch va 15 inch so sanh kich thuoc" loading="lazy" width="1280" height="720">
   <figcaption>MacBook Air M5 có hai bản 13 inch và 15 inch cho các nhu cầu khác nhau. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Tại Việt Nam, MacBook Air M5 13 inch bản chip M5 rút gọn GPU 8 nhân c�
 Về việc có nên mua hay không, câu trả lời phụ thuộc vào máy hiện tại của bạn. Nếu đang dùng MacBook Air M1 hoặc các dòng Intel cũ, đây là bản nâng cấp rất đáng giá về mọi mặt. Nếu đang dùng M4 và nhu cầu chủ yếu là văn phòng, chênh lệch có thể chưa đủ hấp dẫn để đổi ngay. Với người mua máy cũ để tiết kiệm, nên tham khảo [cách kiểm tra MacBook cũ trước khi mua](/articles/cach-kiem-tra-macbook-cu-truoc-khi-mua-2026.html) để tránh rủi ro.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/plseXyqDNrA/hqdefault.jpg" alt="MacBook Air M5 gia Viet Nam co nen mua nang cap 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/plseXyqDNrA/maxresdefault.jpg" alt="MacBook Air M5 gia Viet Nam co nen mua nang cap 2026" loading="lazy" width="1280" height="720">
   <figcaption>MacBook Air M5 là bản nâng cấp đáng giá cho người dùng máy đời cũ. Nguồn: YouTube</figcaption>
 </figure>
 

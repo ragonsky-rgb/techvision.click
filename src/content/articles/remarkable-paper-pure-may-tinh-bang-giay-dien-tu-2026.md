@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-04T13:00:00+07:00"
 dateModified: "2026-07-04T13:00:00+07:00"
 deck: "reMarkable chính thức ra mắt Paper Pure, sản phẩm được xem là kế nhiệm thực sự của chiếc reMarkable 2 huyền thoại sau 6 năm chờ đợi, quay trở lại triết lý tối giản, không màu sắc, không đèn nền vốn đã làm nên tên tuổi thương hiệu, sau giai đoạn thử nghiệm với dòng Paper Pro có màn hình màu. Sản phẩm nhẹ hơn, xử lý nhanh hơn đáng kể, giá bán từ 399 USD."
-heroImage: "https://i.ytimg.com/vi/HVGa9vf_9Mo/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/HVGa9vf_9Mo/maxresdefault.jpg"
 heroAlt: "reMarkable Paper Pure may tinh bang giay dien tu 2026"
 heroCaption: "reMarkable Paper Pure, máy tính bảng giấy điện tử kế nhiệm reMarkable 2 sau 6 năm. Nguồn: YouTube"
 tldr: "<strong>reMarkable Paper Pure</strong> là sản phẩm được xem là kế nhiệm thực sự của chiếc <strong>reMarkable 2</strong> huyền thoại sau <strong>6 năm</strong> chờ đợi, quay lại triết lý tối giản không màu, không đèn nền. Máy dùng chip xử lý kép nhanh hơn, <strong>2GB RAM</strong>, <strong>32GB</strong> bộ nhớ, vỏ nhựa nhẹ chỉ <strong>360 gram</strong> (thay vì vỏ nhôm), thời lượng pin lên tới <strong>3 tuần</strong>. Bút cảm ứng được cải tiến đáng kể, viết mượt mà gần bằng dòng Paper Pro cao cấp. Giá khởi điểm <strong>399 USD</strong> kèm bút tiêu chuẩn, 449 USD kèm bút Marker Plus và bìa da."
@@ -67,7 +67,7 @@ Sau giai đoạn thử nghiệm với dòng Paper Pro có màn hình màu, reMar
 Về bút cảm ứng, hệ thống được cải tiến toàn diện, mang lại cảm giác viết mượt mà gần bằng dòng Paper Pro cao cấp hơn và mẫu Move nhỏ gọn, với khoảng cách từ đầu bút tới nét mực trên màn hình được rút ngắn đáng kể, tạo cảm giác viết tự nhiên, thoải mái trong thời gian dài sử dụng liên tục.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/0C_L4ci9yqk/hqdefault.jpg" alt="reMarkable Paper Pure thiet lap 399 USD 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/0C_L4ci9yqk/maxresdefault.jpg" alt="reMarkable Paper Pure thiet lap 399 USD 2026" loading="lazy" width="1280" height="720">
   <figcaption>Thiết lập ban đầu của reMarkable Paper Pure được nhiều reviewer thực hiện chi tiết ngay khi ra mắt. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Về bút cảm ứng, hệ thống được cải tiến toàn diện, mang l�
 Một cải tiến đáng chú ý khác là việc chuyển đổi vỏ máy từ nhôm sang nhựa có kết cấu, giúp giảm trọng lượng xuống chỉ còn 360 gram, nhẹ hơn đáng kể so với thế hệ trước, mang lại cảm giác cầm nắm thoải mái hơn khi sử dụng trong thời gian dài. Thời lượng pin cũng được cải thiện, có thể đạt tới 3 tuần sử dụng trước khi cần sạc lại, phù hợp với nhu cầu ghi chú di động thường xuyên mà không phải lo lắng về việc sạc pin liên tục.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_F1vzw2VMbQ/hqdefault.jpg" alt="reMarkable Paper Pure quay lai co ban 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/_F1vzw2VMbQ/maxresdefault.jpg" alt="reMarkable Paper Pure quay lai co ban 2026" loading="lazy" width="1280" height="720">
   <figcaption>reMarkable Paper Pure đánh dấu sự quay trở lại với triết lý thiết kế cơ bản, tối giản của thương hiệu. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Tuy nhiên, sản phẩm vẫn giữ nguyên hai hạn chế gây tranh cãi nhi
 Với người quan tâm tới các thiết bị đọc sách, ghi chú điện tử khác có hỗ trợ AI viết tay, bài viết [Kindle Scribe 2026: AI viết tay bước về](/articles/kindle-scribe-2026-ai-viet-tay-buoc-ve-2026.html) giới thiệu thêm một lựa chọn cạnh tranh khác từ Amazon. Người mới bắt đầu tìm hiểu về máy tính bảng nói chung cũng nên tham khảo thêm bài viết [cách chọn máy tính bảng (tablet) năm 2026](/articles/cach-chon-may-tinh-bang-tablet-2026-tieu-chi.html) để so sánh giữa máy tính bảng thông thường và thiết bị e-ink chuyên dụng như reMarkable Paper Pure.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WV_x-rjko_c/hqdefault.jpg" alt="reMarkable Paper Pure sau 6 nam co dang khong 2026" loading="lazy" width="1280" height="480">
+  <img decoding="async" src="https://i.ytimg.com/vi/WV_x-rjko_c/maxresdefault.jpg" alt="reMarkable Paper Pure sau 6 nam co dang khong 2026" loading="lazy" width="1280" height="720">
   <figcaption>Sau 6 năm chờ đợi bản kế nhiệm, nhiều người dùng lâu năm đặt câu hỏi liệu Paper Pure có thực sự xứng đáng. Nguồn: YouTube</figcaption>
 </figure>
 

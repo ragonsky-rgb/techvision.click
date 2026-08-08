@@ -63,7 +63,7 @@ Bản cập nhật mang tên Ngày Hội Liên Quân, phát hành ngày 8/7/2026
 Trước bản cập nhật này, Liên Quân Mobile trên Android thường bị khóa ở mức tối đa 60 FPS, dù nhiều mẫu điện thoại Android tầm trung và cao cấp đã trang bị màn hình quét 120Hz hoặc thậm chí 144Hz từ vài năm nay. Sự chênh lệch đó khiến không ít game thủ Android cảm thấy thiệt thòi khi so sánh với phiên bản chạy trên iPhone, vốn đã hỗ trợ khung hình cao hơn từ trước. Vì vậy, việc bổ sung mức 120 FPS được xem là bước san bằng đáng kể về trải nghiệm giữa hai hệ điều hành theo ghi nhận từ diễn đàn Tinh tế và các trang công nghệ trong nước như Thế Giới Di Động.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/pSBEfHSK4lI/hqdefault.jpg" alt="Giao diện thiết lập đồ họa mới trong bản Ngày Hội Liên Quân trên Android" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/pSBEfHSK4lI/sddefault.jpg" alt="Giao diện thiết lập đồ họa mới trong bản Ngày Hội Liên Quân trên Android" loading="lazy" width="640" height="480">
   <figcaption>Giao diện thiết lập đồ họa được làm mới trong bản Ngày Hội Liên Quân, nơi xuất hiện tùy chọn Cực cao 120 FPS. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Về mặt cảm nhận, khác biệt giữa 60 FPS và 120 FPS nằm ở độ 
 Điều quan trọng cần hiểu là 120 FPS chỉ phát huy tác dụng khi đi kèm màn hình có tần số quét tương xứng. Một chiếc điện thoại có màn hình 60Hz về lý thuyết không thể hiển thị đủ 120 khung hình trong một giây, nên dù game có mở khóa tùy chọn thì mắt người dùng cũng không nhận được lợi ích thực sự. Đây là lý do Garena đặt điều kiện phần cứng chặt chẽ cho mức khung hình cao nhất, và cũng là điểm khiến nhiều người thắc mắc vì sao máy mình không hiện tùy chọn Cực cao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/GJvpfAGm8v4/hqdefault.jpg" alt="So sánh cảm giác mượt giữa 60 FPS và 120 FPS trong Liên Quân Mobile" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GJvpfAGm8v4/maxresdefault.jpg" alt="So sánh cảm giác mượt giữa 60 FPS và 120 FPS trong Liên Quân Mobile" loading="lazy" width="1280" height="720">
   <figcaption>Khác biệt về độ mượt giữa 60 FPS và 120 FPS thể hiện rõ nhất trong các pha giao tranh nhanh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ Trong trường hợp bạn không nhìn thấy tùy chọn 120 FPS, hãy kiểm
 Theo các ghi nhận ban đầu từ cộng đồng và những trang như Điện máy Chợ Lớn cùng VnReview, một số thiết bị đã được xác nhận hỗ trợ 120 FPS trong Liên Quân Mobile gồm HONOR WIN RT, Motorola Edge 70 Fusion và Xiaomi 17T Pro. Đây đều là các máy có màn hình quét cao và vi xử lý đủ khỏe. Danh sách này nhiều khả năng sẽ mở rộng theo thời gian khi Garena tinh chỉnh khả năng tương thích và khi người dùng kiểm tra thêm trên nhiều dòng máy khác nhau, nên việc máy bạn chưa nằm trong danh sách ban đầu không có nghĩa là sẽ không bao giờ được hỗ trợ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/l_VjrM-Fn18/hqdefault.jpg" alt="Danh sách một số điện thoại Android hỗ trợ 120 FPS trong Liên Quân Mobile" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/l_VjrM-Fn18/sddefault.jpg" alt="Danh sách một số điện thoại Android hỗ trợ 120 FPS trong Liên Quân Mobile" loading="lazy" width="640" height="480">
   <figcaption>Các máy có màn hình quét cao và cấu hình mạnh là nhóm dễ mở khóa 120 FPS nhất. Nguồn: YouTube</figcaption>
 </figure>
 

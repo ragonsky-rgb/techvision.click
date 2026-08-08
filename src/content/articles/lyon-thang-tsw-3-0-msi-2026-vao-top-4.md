@@ -9,7 +9,7 @@ type: "tin-tuc"
 datePublished: "2026-07-08T17:20:00+07:00"
 dateModified: "2026-07-08T17:20:00+07:00"
 deck: "LYON đã đánh bại Team Secret Whales (TSW) với tỷ số 3-0 tuyệt đối tại vòng nhánh thua MSI 2026 chiều 8/7, chính thức chấm dứt hành trình của đại diện khu vực LCP tại giải và giành tấm vé vào top 4 chung cuộc. Cùng ngày, T1 cũng để thua G2 Esports 1-3 trong một trận đấu khác, khiến ngày thi đấu 8/7 trở thành một trong những ngày biến động nhất MSI 2026."
-heroImage: "https://i.ytimg.com/vi/Bwwy4zcBY_A/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/Bwwy4zcBY_A/maxresdefault.jpg"
 heroAlt: "LYON đánh bại Team Secret Whales 3-0 tại MSI 2026, giành vé vào top 4"
 heroCaption: "LYON quét sạch Team Secret Whales với tỷ số 3-0 tại vòng nhánh thua MSI 2026. Nguồn: YouTube"
 tldr: "<strong>LYON</strong> đánh bại <strong>Team Secret Whales (TSW)</strong> với tỷ số <strong>3-0</strong> tuyệt đối tại vòng nhánh thua <strong>MSI 2026</strong> diễn ra chiều <strong>8/7/2026</strong>, chính thức loại đại diện khu vực <strong>LCP</strong> và giành vé vào <strong>top 4</strong> chung cuộc. Ván 1 LYON thắng <strong>13-9</strong> sau 28 phút, ván 2 áp đảo với cách biệt vàng hơn <strong>13.000</strong> và tỷ số <strong>16-8</strong>, ván 3 khép lại với <strong>17-11</strong> sau 33 phút. Cùng ngày, <strong>T1</strong> cũng thua <strong>G2 Esports 1-3</strong> ở một cặp đấu khác, khiến 8/7 trở thành ngày thi đấu nhiều biến động của MSI 2026."
@@ -78,7 +78,7 @@ Với hành trình MSI 2026 đang treo lơ lửng trên bờ vực bị loại, 
 Trước khi chạm trán LYON, Team Secret Whales từng là cái tên gây bất ngờ lớn tại MSI 2026 khi vượt qua Top Esports, một trong những đại diện mạnh nhất của khu vực LPL Trung Quốc, để tiến sâu vào vòng nhánh thua. Chiến thắng đó khiến TSW trở thành câu chuyện truyền cảm hứng của giải đấu, cho thấy khoảng cách trình độ giữa khu vực LCP với các khu vực lớn như LCK hay LPL đang dần được thu hẹp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/GyyiSmrMZAg/hqdefault.jpg" alt="LYON đối đầu TSW tranh suất vào top 4 MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GyyiSmrMZAg/maxresdefault.jpg" alt="LYON đối đầu TSW tranh suất vào top 4 MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Trận đấu giữa LYON và TSW quyết định đội nào giành quyền góp mặt tại top 4 MSI 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Tuy nhiên, hành trình cổ tích của TSW đã dừng lại trước một L
 Với chiến thắng thuyết phục này, LYON, đội tuyển đến từ khu vực LTA đại diện cho khu vực châu Mỹ, đã tiến xa hơn kỳ vọng của nhiều chuyên gia và người hâm mộ trước thềm giải đấu. Đây là tín hiệu tích cực cho thấy các đại diện khu vực Tây bán cầu đang dần thu hẹp khoảng cách trình độ với những khu vực truyền thống mạnh như LCK và LPL, một xu hướng đáng chú ý trong bức tranh phát triển toàn cầu của bộ môn Liên Minh Huyền Thoại.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VdXewqd2abg/hqdefault.jpg" alt="Bình luận tiếng Việt trận LYON gặp TSW và G2 gặp T1 tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/VdXewqd2abg/maxresdefault.jpg" alt="Bình luận tiếng Việt trận LYON gặp TSW và G2 gặp T1 tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Cộng đồng người hâm mộ Việt Nam theo dõi sát các trận đấu vòng phân nhánh MSI 2026. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Cùng ngày LYON đánh bại TSW, một trận đấu khác cũng diễn ra t�
 Với người hâm mộ thể thao điện tử theo dõi MSI 2026, đặc biệt là những ai đang xây dựng dàn thiết bị xem giải và luyện tập tại nhà, đây là thời điểm phù hợp để cân nhắc nâng cấp phụ kiện, từ màn hình tần số quét cao cho tới các mẫu laptop gaming hiệu năng mạnh như [Acer Nitro ProPanel AN16S vừa ra mắt tại Việt Nam](/articles/acer-nitro-propanel-an16s-rtx-5070-ra-mat-viet-nam-2026.html), nhằm không bỏ lỡ bất kỳ khoảnh khắc kịch tính nào trong chặng đường còn lại của giải đấu, hoặc tham khảo thêm [cách chọn loa máy tính gaming 2026](/articles/cach-chon-loa-may-tinh-gaming-2026-tieu-chi.html) để có trải nghiệm âm thanh sống động khi xem trực tiếp các trận cầu đỉnh cao.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/_JHpLfFev_o/hqdefault.jpg" alt="LOSER GOES HOME - trận đấu quyết định giữa LYON và TSW tại MSI 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/_JHpLfFev_o/maxresdefault.jpg" alt="LOSER GOES HOME - trận đấu quyết định giữa LYON và TSW tại MSI 2026" loading="lazy" width="1280" height="720">
   <figcaption>Áp lực loại trực tiếp khiến trận đấu giữa LYON và TSW trở nên kịch tính từ đầu tới cuối. Nguồn: YouTube</figcaption>
 </figure>
 

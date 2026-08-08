@@ -66,7 +66,7 @@ Cuộc đua pin trên smartphone năm 2026 đang bước vào giai đoạn thú 
 Thông thường, pin lớn đồng nghĩa với thân máy dày và nặng, nhưng iQOO Z11 giải bài toán này bằng công nghệ pin silicon-carbon. Loại pin này dùng vật liệu silicon ở cực dương thay cho than chì truyền thống, giúp tăng mật độ năng lượng, tức chứa nhiều dung lượng hơn trong cùng thể tích. Nhờ đó, máy giữ được độ mỏng 8,25mm và cân nặng khoảng 213g, con số khá ấn tượng cho một thiết bị mang pin cỡ này. Đây chính là hướng công nghệ đang giúp cả ngành đẩy dung lượng pin lên cao mà không hy sinh quá nhiều về thiết kế.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WmKKMFoyB9E/hqdefault.jpg" alt="Cong nghe pin silicon carbon giup dien thoai pin lon van mong" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/WmKKMFoyB9E/maxresdefault.jpg" alt="Cong nghe pin silicon carbon giup dien thoai pin lon van mong" loading="lazy" width="1280" height="720">
   <figcaption>Vì sao pin silicon-carbon giúp máy đạt dung lượng lớn mà vẫn giữ độ mỏng. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Thông thường, pin lớn đồng nghĩa với thân máy dày và nặng, nh�
 Về hiệu năng, bản iQOO Z11 tại Ấn Độ dùng chip MediaTek Dimensity 7500 Turbo, một con chip tầm trung cân bằng giữa sức mạnh và tiết kiệm điện, phù hợp với định vị của dòng Z vốn nhấn mạnh pin và giá hợp lý. Cần lưu ý rằng iQOO thường dùng chip khác nhau cho cùng một dòng máy tùy thị trường, nên cấu hình cụ thể có thể thay đổi ở các nơi bán khác. Người mua tại Việt Nam nếu chờ máy về nước nên kiểm tra kỹ phiên bản chip trước khi quyết định.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/I9gxoFnLngk/hqdefault.jpg" alt="iQOO Z11 xac nhan ra mat An Do pin lon chip Dimensity" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/I9gxoFnLngk/maxresdefault.jpg" alt="iQOO Z11 xac nhan ra mat An Do pin lon chip Dimensity" loading="lazy" width="1280" height="720">
   <figcaption>Sạc 90W kết hợp pin lớn giúp iQOO Z11 vừa dùng lâu vừa nạp lại nhanh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Bên cạnh các thông tin đã xác nhận, một số chi tiết của iQOO Z
 Việc phân biệt rõ đâu là thông tin đã xác nhận và đâu là tin đồn rất quan trọng khi theo dõi một sản phẩm sắp ra mắt. Với iQOO Z11, phần chắc chắn nhất và cũng là điểm bán hàng lớn nhất chính là viên pin 9020mAh cùng công nghệ silicon-carbon và sạc 90W. Các yếu tố còn lại như màn hình, camera và giá sẽ được làm rõ trong sự kiện ngày 20/8, thời điểm người quan tâm nên chờ để có đánh giá đầy đủ và chính xác.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/rGm5HMivg_k/hqdefault.jpg" alt="iQOO Z11 5G xac nhan ngay ra mat thong so ro ri" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/rGm5HMivg_k/maxresdefault.jpg" alt="iQOO Z11 5G xac nhan ngay ra mat thong so ro ri" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều thông số về màn hình và camera của iQOO Z11 vẫn đang ở dạng rò rỉ. Nguồn: YouTube</figcaption>
 </figure>
 

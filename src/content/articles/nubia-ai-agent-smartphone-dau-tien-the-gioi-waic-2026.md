@@ -63,7 +63,7 @@ Sau thời gian dài chỉ được nhắc tới như một khái niệm, chiế
 Chi tiết đáng chú ý nhất về mặt thiết kế là một nút bấm AI riêng màu cam nằm trên khung máy, cho phép người dùng gọi trợ lý AI Agent một cách nhanh chóng. Đây là cách Nubia nhấn mạnh vai trò trung tâm của AI trên sản phẩm, biến nó thành điểm nhận diện thay vì một tính năng ẩn trong phần mềm. Trước thềm WAIC 2026, Navi X Ultra cũng đã được trao giải SAIL, viết tắt của Super AI Leader, một trong những giải thưởng danh giá của sự kiện, cho thấy mức độ chú ý mà giới công nghệ dành cho sản phẩm này.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Ceg7aTgXorI/hqdefault.jpg" alt="Nubia Navi X Ultra lộ diện thiết kế và màu sắc, smartphone AI Agent đầu tiên thế giới" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Ceg7aTgXorI/maxresdefault.jpg" alt="Nubia Navi X Ultra lộ diện thiết kế và màu sắc, smartphone AI Agent đầu tiên thế giới" loading="lazy" width="1280" height="720">
   <figcaption>Nubia Navi X Ultra gây chú ý với nút AI màu cam riêng và cụm ba camera dạng thanh. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Tuy nhiên, trải nghiệm thực tế với Nubia M153 cũng bộc lộ không
 Đáng chú ý, Nubia không phải cái tên duy nhất theo đuổi tham vọng smartphone AI Agent tại sự kiện WAIC 2026. Theo giới truyền thông công nghệ, StepFun, một startup AI khác của Trung Quốc, cũng đang cạnh tranh cho danh xưng "smartphone AI Agent đầu tiên thế giới" tại cùng sự kiện, cho thấy cuộc đua tích hợp AI Agent vào thiết bị di động đang trở thành mặt trận cạnh tranh mới giữa các nhà sản xuất smartphone Trung Quốc, bên cạnh những cuộc đua quen thuộc về cấu hình phần cứng như [dòng Xiaomi 17 Series vừa ra mắt tại Việt Nam với chip Snapdragon 8 Elite Gen 5](/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html) hay cuộc đua camera độ phân giải cao giữa các thương hiệu tầm trung.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7-ge6IF42CY/hqdefault.jpg" alt="Trải nghiệm nhanh Nubia Doubao AI Native Phone tại MWC 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7-ge6IF42CY/maxresdefault.jpg" alt="Trải nghiệm nhanh Nubia Doubao AI Native Phone tại MWC 2026" loading="lazy" width="1280" height="720">
   <figcaption>Bản demo tại MWC 2026 hé lộ những cải tiến quan trọng trước khi phiên bản thương mại chính thức ra mắt tại WAIC. Nguồn: YouTube</figcaption>
 </figure>
 

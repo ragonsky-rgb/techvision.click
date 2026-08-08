@@ -63,7 +63,7 @@ Samsung vừa chính thức trình làng Galaxy Z Fold 8 tại sự kiện Galax
 Thay đổi đáng chú ý nhất của Galaxy Z Fold 8 nằm ở kiểu dáng. Samsung mang tới một tỷ lệ thân máy hoàn toàn mới, với màn hình trong rộng hơn kích thước 7.6 inch và màn hình ngoài ngắn, gọn hơn ở mức 5.5 inch. Cách bố trí này giúp máy khi gập lại giống một chiếc điện thoại thanh bản rộng dễ thao tác một tay hơn, trong khi mở ra vẫn cho không gian hiển thị lớn phục vụ làm việc và giải trí. Đáng nói, Samsung tuyên bố đây là chiếc điện thoại gập kiểu sách nhẹ nhất hiện nay, chỉ 201g, một con số ấn tượng với thiết bị có tới hai màn hình và cơ cấu bản lề phức tạp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/NgsSz-curGY/hqdefault.jpg" alt="Galaxy Z Fold 8 thiet ke man hinh rong moi nhe 201g tren tay" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/NgsSz-curGY/maxresdefault.jpg" alt="Galaxy Z Fold 8 thiet ke man hinh rong moi nhe 201g tren tay" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z Fold 8 gây chú ý với thiết kế màn hình rộng mới và trọng lượng chỉ 201g. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Về giá, khoảng cách giữa hai bản là 200 USD, khi Galaxy Z Fold 8 kh�
 Cả hai phiên bản Galaxy Z Fold 8 đều chạy chip Snapdragon 8 Elite Gen 5 for Galaxy, bản tùy biến hiệu năng cao mà Qualcomm làm riêng cho Samsung, đi kèm tùy chọn RAM 12GB hoặc 16GB và bộ nhớ trong từ 256GB, 512GB tới 1TB. Đây là nền tảng đủ mạnh cho đa nhiệm chia đôi màn hình, chơi game nặng và các tác vụ Galaxy AI mới. Về camera, bản tiêu chuẩn dùng bộ đôi 50MP góc rộng và 50MP siêu rộng, cùng hai camera selfie 10MP đặt trên cả màn trong lẫn màn ngoài, giúp chụp ảnh và gọi video linh hoạt ở mọi trạng thái gập mở.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/BwBD4QceP_s/hqdefault.jpg" alt="Galaxy Z Fold 8 mo ra man hinh trong 7.6 inch da nhiem" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/BwBD4QceP_s/maxresdefault.jpg" alt="Galaxy Z Fold 8 mo ra man hinh trong 7.6 inch da nhiem" loading="lazy" width="1280" height="720">
   <figcaption>Màn hình trong 7.6 inch của Galaxy Z Fold 8 phục vụ tốt nhu cầu đa nhiệm. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Việc bản tiêu chuẩn lược bỏ ống tele có thể khiến một số 
 Galaxy Z Fold 8 mở đặt trước ngay từ ngày ra mắt 22/7 và lên kệ quốc tế vào ngày 7 tháng 8 năm 2026. Mức giá khởi điểm 1.899 USD của bản tiêu chuẩn thậm chí thấp hơn khoảng 100 USD so với Z Fold 7 đời trước, một động thái đáng chú ý trong bối cảnh chi phí linh kiện bộ nhớ đang tăng. Tại Việt Nam, các đại lý lớn đã mở đăng ký đặt trước với mức giá công bố quanh sự kiện, trong đó một số hệ thống niêm yết bản Z Fold 8 Ultra đặt trước từ khoảng 52,99 triệu đồng, còn bản tiêu chuẩn dự kiến thấp hơn. Giá chính hãng cuối cùng có thể dao động tùy phiên bản bộ nhớ và chương trình ưu đãi, nên người mua cần theo dõi sát trang đặt trước để chọn thời điểm hợp lý.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/7c7ugVS_JIo/hqdefault.jpg" alt="Galaxy Z Fold 8 dat truoc va len ke thang 8 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/7c7ugVS_JIo/maxresdefault.jpg" alt="Galaxy Z Fold 8 dat truoc va len ke thang 8 2026" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z Fold 8 mở đặt trước từ 22/7 và lên kệ quốc tế ngày 7/8/2026. Nguồn: YouTube</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ type: "cam-nang"
 datePublished: "2026-06-20T19:00:00+07:00"
 dateModified: "2026-06-20T19:00:00+07:00"
 deck: "Lừa đảo trên mạng ngày càng tinh vi: tin nhắn giả mạo ngân hàng, cuộc gọi giả danh công an, lời mời việc nhẹ lương cao hay trúng thưởng bất ngờ. Chỉ một lần bấm nhầm link hay đọc mã OTP cho người lạ là có thể mất sạch tiền trong tài khoản. Bài viết tổng hợp các chiêu phổ biến, dấu hiệu nhận biết và cách phòng tránh để bảo vệ chính mình và người thân."
-heroImage: "https://i.ytimg.com/vi/NkcT-2VFWrw/hqdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/NkcT-2VFWrw/sddefault.jpg"
 heroAlt: "Cảnh giác các chiêu lừa đảo qua tin nhắn giả mạo"
 heroCaption: "Cảnh giác với tin nhắn và cuộc gọi lạ là cách phòng lừa đảo hiệu quả nhất. Nguồn: YouTube"
 tldr: "Các chiêu lừa đảo phổ biến gồm <strong>tin nhắn giả mạo ngân hàng</strong> kèm link lạ, <strong>giả danh công an</strong> hay viện kiểm sát để đe dọa, mời <strong>việc nhẹ lương cao</strong>, <strong>trúng thưởng</strong> và link độc. Dấu hiệu cảnh báo: đường link sai tên miền, lời lẽ hối thúc đe dọa, yêu cầu <strong>OTP, mật khẩu hoặc chuyển tiền</strong>. Nguyên tắc vàng: <strong>không bấm link lạ</strong>, <strong>không cung cấp OTP và mật khẩu</strong>, <strong>không chuyển tiền theo áp lực</strong>, và luôn gọi lại số tổng đài chính thức để xác minh. Hãy bật xác thực 2 lớp và cảnh giác mọi lời mời lợi nhuận cao bất thường."
@@ -77,7 +77,7 @@ Dù chiêu thức đa dạng, các vụ lừa đảo thường có chung vài d�
 Dấu hiệu rõ ràng nhất là khi đối phương yêu cầu cung cấp mã OTP, mật khẩu hoặc chuyển tiền. Không một tổ chức chính thống nào yêu cầu bạn đọc mã OTP hay chuyển tiền vào tài khoản cá nhân để xử lý sự vụ. Ngoài ra, mọi lời hứa lợi nhuận cao bất thường, quà tặng vô lý hay công việc kiếm tiền quá dễ đều cần bị nghi ngờ ngay lập tức.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/DA3-5qlFN9Q/hqdefault.jpg" alt="Cảnh giác thủ đoạn giả mạo tin nhắn ngân hàng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/DA3-5qlFN9Q/sddefault.jpg" alt="Cảnh giác thủ đoạn giả mạo tin nhắn ngân hàng" loading="lazy" width="640" height="480">
   <figcaption>Tin nhắn giả mạo ngân hàng kèm link giả là chiêu rất phổ biến. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Có ba nguyên tắc cốt lõi giúp tránh hầu hết các vụ lừa đảo.
 Khi nhận một thông báo đáng ngờ, cách an toàn nhất là tự gọi lại số tổng đài chính thức của ngân hàng hoặc cơ quan liên quan để xác minh, thay vì gọi lại số trong tin nhắn. Đồng thời, hãy bật xác thực 2 lớp cho các tài khoản quan trọng như đã hướng dẫn trong bài [bật xác thực 2 lớp 2FA](/articles/cach-bat-xac-thuc-2-lop-2fa-bao-ve-tai-khoan-chong-hack.html), và không cài ứng dụng từ nguồn ngoài kho chính thức.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mRTbcA5sAMs/hq720.jpg" alt="Vạch trần chiêu trò lừa đảo qua tin nhắn giả mạo ngân hàng" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/mRTbcA5sAMs/maxresdefault.jpg" alt="Vạch trần chiêu trò lừa đảo qua tin nhắn giả mạo ngân hàng" loading="lazy" width="1280" height="720">
   <figcaption>Tự gọi lại tổng đài chính thức là cách xác minh an toàn nhất. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Người lớn tuổi và trẻ em là hai nhóm dễ trở thành mục tiêu n
 Với trẻ em, cần dạy các em không cung cấp thông tin cá nhân, không cho mượn hay thuê tài khoản ngân hàng, và cảnh giác với những lời mời kiếm tiền dễ dàng trên mạng. Việc trao đổi cởi mở trong gia đình, chia sẻ các tình huống lừa đảo thực tế đã xảy ra, giúp mọi thành viên nhận diện nguy cơ sớm hơn. Một gia đình cùng cảnh giác và sẵn sàng hỏi ý kiến nhau trước khi hành động là tấm khiên hiệu quả nhất trước các chiêu trò ngày càng tinh vi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Jd_hwtYUASA/hqdefault.jpg" alt="Cảnh báo giả mạo cán bộ ngân hàng hỗ trợ hoàn tiền" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/Jd_hwtYUASA/sddefault.jpg" alt="Cảnh báo giả mạo cán bộ ngân hàng hỗ trợ hoàn tiền" loading="lazy" width="640" height="480">
   <figcaption>Người lớn tuổi cần được hướng dẫn vài nguyên tắc đơn giản, dễ nhớ. Nguồn: YouTube</figcaption>
 </figure>
 

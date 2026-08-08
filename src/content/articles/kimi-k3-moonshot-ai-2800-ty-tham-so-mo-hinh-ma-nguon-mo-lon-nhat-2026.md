@@ -76,7 +76,7 @@ Kiến trúc thưa Mixture-of-Experts là chìa khóa giúp Kimi K3 đạt quy m
 Cửa sổ ngữ cảnh 1 triệu token là điểm cộng đáng kể cho các tác vụ thực tế. Với dung lượng này, mô hình có thể đọc trọn một kho mã nguồn cỡ vừa, một tập tài liệu dài hay nhiều tệp cùng lúc trước khi trả lời, thay vì chỉ nhìn thấy vài trang văn bản. Khả năng nhận đầu vào đa phương thức, tức xử lý được cả hình ảnh lẫn văn bản, mở rộng phạm vi ứng dụng sang phân tích ảnh chụp màn hình, sơ đồ hay giao diện. So với thế hệ trước từng được tích hợp vào công cụ lập trình như đã phân tích trong bài về [Kimi K2.7 Code và GitHub Copilot](/articles/kimi-k2-7-code-mo-hinh-ai-ma-nguon-mo-github-copilot-2026.html), K3 là bước nhảy rõ rệt cả về quy mô lẫn phạm vi.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/oFMflXi0PLQ/hqdefault.jpg" alt="Kimi K3 kiem tra kha nang lap trinh va benchmark" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/oFMflXi0PLQ/maxresdefault.jpg" alt="Kimi K3 kiem tra kha nang lap trinh va benchmark" loading="lazy" width="1280" height="720">
   <figcaption>Kimi K3 được đánh giá là mạnh ở mảng lập trình front-end. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Yếu tố khiến Kimi K3 khác biệt so với các đối thủ hàng đầu 
 Với doanh nghiệp quan tâm tới quyền kiểm soát dữ liệu và khả năng tùy biến sâu, một mô hình mở đạt trình độ gần với nhóm dẫn đầu là lựa chọn hấp dẫn. Tuy nhiên, quy mô 2.800 tỷ tham số cũng đồng nghĩa chi phí phần cứng để tự vận hành là rất lớn, đòi hỏi nhiều GPU cao cấp và hạ tầng chuyên dụng. Vì vậy, với phần lớn tổ chức, phương án thực tế vẫn là gọi qua API của các nền tảng cung cấp, hoặc dùng các bản chưng cất nhỏ gọn hơn khi Moonshot phát hành. Người dùng nên cân nhắc kỹ giữa chi phí, độ trễ và mức độ riêng tư trước khi chọn cách triển khai.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/GdELi7sjGcI/hqdefault.jpg" alt="Kimi K3 va cuoc dua AI giua Trung Quoc va My" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/GdELi7sjGcI/maxresdefault.jpg" alt="Kimi K3 va cuoc dua AI giua Trung Quoc va My" loading="lazy" width="1280" height="720">
   <figcaption>Kimi K3 làm nóng lại tranh luận về cuộc đua AI Trung Quốc và Mỹ. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Sự xuất hiện của Kimi K3 làm nóng lại tranh luận về khoảng cá
 Với người dùng và lập trình viên Việt Nam, tác động trực tiếp nhất là thêm một lựa chọn chất lượng cao cho các tác vụ viết mã, dựng giao diện và xử lý tài liệu dài. Khi trọng số được mở, cộng đồng có thể tạo ra các bản tinh chỉnh cho tiếng Việt hoặc cho từng lĩnh vực cụ thể. Dù vậy, người dùng phổ thông vẫn nên nhìn nhận thực tế rằng bảng xếp hạng chỉ phản ánh một phần năng lực, và trải nghiệm thật còn phụ thuộc vào cách triển khai, chi phí và độ ổn định. Để hiểu rõ hơn bức tranh mô hình đóng đang cạnh tranh ra sao, bạn có thể tham khảo thêm bài về [Google Gemini 3.5 Pro với cửa sổ 2 triệu token](/articles/google-gemini-3-5-pro-2026-2-trieu-token-deep-think-ra-mat.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/c-44IYXlyhY/hqdefault.jpg" alt="Cach su dung va gia API cua Kimi K3" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/c-44IYXlyhY/maxresdefault.jpg" alt="Cach su dung va gia API cua Kimi K3" loading="lazy" width="1280" height="720">
   <figcaption>Chi phí và cách truy cập là yếu tố quyết định khi chọn Kimi K3. Nguồn: YouTube</figcaption>
 </figure>
 
