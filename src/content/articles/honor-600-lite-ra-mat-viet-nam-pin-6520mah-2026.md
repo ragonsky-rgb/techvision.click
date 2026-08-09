@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026"
 title: "HONOR 600 Lite ra mắt Việt Nam: pin 6.520mAh, camera 108MP, giá 10,99 triệu"
 description: "HONOR 600 Lite chính thức ra mắt Việt Nam với pin khủng 6.520mAh, màn AMOLED 120Hz, camera chính 108MP, chip Dimensity 7100 Elite, giá bán 10,99 triệu đồng."

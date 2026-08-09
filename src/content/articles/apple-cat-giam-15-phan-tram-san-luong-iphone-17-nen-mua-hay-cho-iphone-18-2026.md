@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apple-cat-giam-15-phan-tram-san-luong-iphone-17-nen-mua-hay-cho-iphone-18-2026"
 title: "Apple cắt giảm 15% sản lượng iPhone 17: nên mua ngay hay chờ iPhone 18?"
 description: "Apple cắt khoảng 15% kế hoạch sản xuất iPhone 17 giữa 2026, dù đây vẫn là smartphone bán chạy nhất quý 1. Nên mua iPhone 17 lúc này hay chờ iPhone 18?"

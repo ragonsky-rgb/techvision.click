@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "windows-11-25h2-cap-nhat-2026-hieu-nang-tim-kiem-npu-khoi-phuc"
 title: "Windows 11 25H2 và cập nhật 2026: nhanh hơn, tìm kiếm thông minh, khôi phục theo thời điểm"
 description: "Windows 11 25H2 và bản cập nhật 6/2026 tăng tốc mở ứng dụng, cải thiện tìm kiếm, thêm cột NPU Task Manager, âm thanh chia sẻ và khôi phục theo mốc thời gian"

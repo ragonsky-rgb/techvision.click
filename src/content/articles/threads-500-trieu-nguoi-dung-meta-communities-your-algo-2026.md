@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "threads-500-trieu-nguoi-dung-meta-communities-your-algo-2026"
 title: "Threads đạt 500 triệu người dùng: Meta tung Communities và Your Algo"
 description: "Threads của Meta đạt 500 triệu người dùng hàng tháng năm 2026, ra mắt Communities nâng cấp và tính năng Your Algo cho phép tự điều chỉnh nội dung trên bảng tin"

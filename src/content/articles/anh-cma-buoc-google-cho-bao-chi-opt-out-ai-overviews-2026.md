@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "anh-cma-buoc-google-cho-bao-chi-opt-out-ai-overviews-2026"
 title: "Anh buộc Google cho báo chí 'cấm cửa' AI Overviews, không được phạt SEO"
 description: "Cơ quan CMA của Anh buộc Google cho báo chí opt-out khỏi AI Overviews mà không bị tụt hạng tìm kiếm. Quy định đầu tiên kiểu này trên thế giới."

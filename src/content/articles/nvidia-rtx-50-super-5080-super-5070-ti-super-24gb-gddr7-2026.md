@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nvidia-rtx-50-super-5080-super-5070-ti-super-24gb-gddr7-2026"
 title: "NVIDIA RTX 50 Super bị hủy vì khủng hoảng bộ nhớ GDDR7?"
 description: "Nhiều báo cáo cho rằng NVIDIA đã hủy dòng RTX 50 Super (5080, 5070 Ti, 5070 Super) vì thiếu chip nhớ GDDR7 3GB do AI hút hết nguồn cung. NVIDIA chưa xác nhận."

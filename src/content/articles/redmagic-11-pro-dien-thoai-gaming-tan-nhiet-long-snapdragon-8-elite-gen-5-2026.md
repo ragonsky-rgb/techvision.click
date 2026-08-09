@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "redmagic-11-pro-dien-thoai-gaming-tan-nhiet-long-snapdragon-8-elite-gen-5-2026"
 title: "RedMagic 11 Pro: điện thoại gaming tản nhiệt lỏng đầu tiên, Snapdragon 8 Elite Gen 5, pin 7.500mAh"
 description: "RedMagic 11 Pro là smartphone gaming đầu tiên có tản nhiệt lỏng sản xuất hàng loạt, chip Snapdragon 8 Elite Gen 5, màn 144Hz, pin 7.500mAh, giá từ 699 USD."

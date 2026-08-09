@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-nhan-biet-go-ung-dung-doc-hai-virus-tren-dien-thoai-2026"
 title: "Cách nhận biết và gỡ ứng dụng độc hại trên điện thoại: 8 bước bảo vệ 2026"
 description: "Nhận biết và gỡ ứng dụng độc hại trên điện thoại 2026: dấu hiệu cảnh báo, cách gỡ app lạ, quét bảo mật, kiểm tra quyền và phòng tránh hiệu quả"

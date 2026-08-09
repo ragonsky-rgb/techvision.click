@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5"
 title: "Xiaomi 17 Series ra mắt Việt Nam: camera Leica, Snapdragon 8 Elite Gen 5"
 description: "Xiaomi 17 Series chính thức bán tại Việt Nam, giá từ 26,99 triệu đồng, dùng chip Snapdragon 8 Elite Gen 5, camera hợp tác Leica, sạc nhanh 90W và quay video 8K"

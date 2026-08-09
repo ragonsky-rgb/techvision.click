@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-health-ai-2026-galaxy-watch-tro-ly-suc-khoe-chu-dong"
 title: "Samsung Health nâng cấp AI: biến Galaxy Watch thành trợ lý sức khỏe chủ động 2026"
 description: "Samsung cập nhật lớn Samsung Health 6/2026, biến Galaxy Watch thành trợ lý sức khỏe AI chủ động với Vitals, Điểm sức khỏe tim, Tải tim mạch và Chỉ số thể lực"

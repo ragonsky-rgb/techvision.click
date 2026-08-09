@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "gia-rtx-5090-viet-nam-thang-6-2026-bang-gia-co-nen-mua"
 title: "Giá RTX 5090 tại Việt Nam tháng 8/2026: bảng giá, có nên mua?"
 description: "Giá RTX 5090 tại Việt Nam tháng 8/2026 dao động 65 tới hơn 105 triệu đồng tùy bản, tăng vì khủng hoảng GDDR7. Bảng giá theo hãng và nên mua hay chờ."

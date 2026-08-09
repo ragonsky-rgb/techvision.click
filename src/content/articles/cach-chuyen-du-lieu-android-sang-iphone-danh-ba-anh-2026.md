@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chuyen-du-lieu-android-sang-iphone-danh-ba-anh-2026"
 title: "Cách chuyển dữ liệu từ Android sang iPhone: danh bạ, ảnh, tin nhắn 2026"
 description: "Hướng dẫn chuyển dữ liệu Android sang iPhone 2026: dùng Move to iOS, đồng bộ danh bạ qua Google, chuyển ảnh, tin nhắn, cách chuyển ngược iPhone sang Android"

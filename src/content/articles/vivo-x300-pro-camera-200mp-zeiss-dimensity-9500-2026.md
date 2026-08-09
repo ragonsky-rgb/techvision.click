@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "vivo-x300-pro-camera-200mp-zeiss-dimensity-9500-2026"
 title: "Vivo X300 Pro: camera 200MP Zeiss, chip Dimensity 9500 và cuộc đua nhiếp ảnh di động 2026"
 description: "Vivo X300 Pro trang bị camera tele 200MP Zeiss, chip Dimensity 9500, pin 6.510mAh sạc 90W. Đánh giá cấu hình, giá và vị trí trong cuộc đua camera phone 2026."

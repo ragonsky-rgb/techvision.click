@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "nothing-phone-4b-ra-mat-gia-re-glyph-snapdragon-6-gen-4-2026"
 title: "Nothing Phone 4b ra mắt: điện thoại giá rẻ có Glyph, Snapdragon 6 Gen 4, pin 5.200mAh"
 description: "Nothing Phone 4b ra mắt 7/7/2026, giá 299 bảng, chip Snapdragon 6 Gen 4, màn 6,77 inch 120Hz, camera 50MP OIS, pin 5.200mAh và dải đèn Glyph 45 LED."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "samsung-galaxy-tab-s11-may-tinh-bang-nho-gon-dimensity-9400-plus-2026"
 title: "Samsung Galaxy Tab S11: máy tính bảng nhỏ gọn, Dimensity 9400+, giá từ 15,3 triệu"
 description: "Galaxy Tab S11 dùng chip Dimensity 9400+, màn hình AMOLED 11 inch 120Hz, pin 8.400mAh, kèm S Pen, giá tại Việt Nam từ 15,3 triệu đồng."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "amd-threadripper-mustang-peak-zen-6-tr6-pcie-6-144-nhan-2026"
 title: "AMD xác nhận Threadripper Mustang Peak Zen 6: socket TR6, PCIe 6.0, tối đa 144 nhân"
 description: "AMD xác nhận qua tài liệu chính thức dòng Threadripper Mustang Peak dùng nhân Zen 6, tiến trình 2nm, PCIe 6.0, socket TR6 mới, tối đa 144 nhân 288 luồng."

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "microsoft-xbox-sa-thai-4800-nguoi-tai-co-cau-2026"
 title: "Microsoft sa thải 4.800 người, Xbox tái cơ cấu lớn nhất lịch sử, bán 4 studio"
 description: "Microsoft cắt giảm 4.800 việc làm toàn cầu, Xbox mất 3.200 vị trí và bán 4 studio game trong đợt tái cơ cấu được CEO Asha Sharma gọi là lớn nhất lịch sử Xbox."

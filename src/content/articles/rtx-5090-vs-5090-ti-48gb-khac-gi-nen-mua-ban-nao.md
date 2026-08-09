@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "rtx-5090-vs-5090-ti-48gb-khac-gi-nen-mua-ban-nao"
 title: "RTX 5090 vs 5090 Ti 48GB: khác gì, nên mua bản nào?"
 description: "So sánh RTX 5090 (32GB) và RTX 5090 Ti 48GB: khác biệt VRAM, hiệu năng gaming, giá và thời điểm. Gamer nên mua bản nào, ai nên chờ bản 48GB cho AI."

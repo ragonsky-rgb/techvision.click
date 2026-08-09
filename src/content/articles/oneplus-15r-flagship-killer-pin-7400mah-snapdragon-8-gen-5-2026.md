@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "oneplus-15r-flagship-killer-pin-7400mah-snapdragon-8-gen-5-2026"
 title: "OnePlus 15R: flagship killer pin 7.400mAh, màn 165Hz, Snapdragon 8 Gen 5 có đáng mua?"
 description: "OnePlus 15R gây sốt với pin 7.400mAh, màn 165Hz, chip Snapdragon 8 Gen 5, giá từ 699 USD. Phân tích cấu hình, hiệu năng và vị trí flagship killer 2026."

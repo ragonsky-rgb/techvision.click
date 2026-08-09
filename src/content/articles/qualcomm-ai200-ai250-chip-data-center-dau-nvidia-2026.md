@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026"
 title: "Qualcomm tung chip AI200, AI250 đấu Nvidia ở data center"
 description: "Qualcomm đưa chip AI200 thương mại hóa 2026, AI250 năm 2027, nhắm thị trường suy luận AI do Nvidia thống trị. Mỗi card 768GB nhớ, rack 160kW làm mát chất lỏng."

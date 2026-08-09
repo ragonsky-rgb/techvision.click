@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "asus-rog-xreal-r1-kinh-ar-choi-game-240hz-849-usd-2026"
 title: "ASUS ROG Xreal R1: kính AR chơi game 240Hz đầu tiên thế giới, giá 849 USD"
 description: "ASUS ROG Xreal R1 là kính AR chơi game 240Hz Micro-OLED đầu tiên thế giới, màn hình ảo 171 inch, nặng 91g, giá 849 USD, mở bán từ tháng 7/2026."

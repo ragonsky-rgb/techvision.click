@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apple-tang-gia-macbook-ipad-mac-studio-viet-nam-2026"
 title: "Apple tăng giá MacBook, iPad, Mac Studio tại Việt Nam vì khủng hoảng chip nhớ"
 description: "Apple tăng giá MacBook, iPad, Mac Studio tại Việt Nam 15-20% từ 25/6/2026 do giá chip nhớ tăng vọt, MacBook Neo từ 16,5 triệu lên 19,5 triệu đồng"

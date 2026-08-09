@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "apple-noi-khong-agentic-ai-wwdc-2026-siri-than-trong"
 title: "Vì sao Apple nói không với Agentic AI tại WWDC 2026?"
 description: "Apple chọn cách thận trọng với agentic AI tại WWDC 2026, để Siri đi đường an toàn thay vì chạy đua tự động hóa như Google và OpenAI. Vì sao Apple đi chậm?"

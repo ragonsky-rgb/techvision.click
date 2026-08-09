@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "robocup-2026-tsinghua-robot-hinh-nguoi-vo-dich-bong-da"
 title: "RoboCup 2026: robot hình người Trung Quốc bảo vệ ngôi vô địch bóng đá AI"
 description: "Đội THU Huoshen của Tsinghua bảo vệ ngôi vô địch bóng đá robot hình người tại RoboCup 2026, dùng robot Booster T1 tự chủ hoàn toàn, không cần điều khiển."

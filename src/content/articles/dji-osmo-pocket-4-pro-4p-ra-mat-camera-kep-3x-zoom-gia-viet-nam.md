@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dji-osmo-pocket-4-pro-4p-ra-mat-camera-kep-3x-zoom-gia-viet-nam"
 title: "DJI Osmo Pocket 4 Pro (4P) ra mắt: camera kép, tele 3x, giá Việt Nam"
 description: "DJI Osmo Pocket 4 Pro ra mắt tháng 6/2026: gimbal camera kép, cảm biến 1 inch khẩu thay đổi, tele 3x zoom quang, quay 6K60, 17 stop, D-Log 2. Giá VN dự kiến."

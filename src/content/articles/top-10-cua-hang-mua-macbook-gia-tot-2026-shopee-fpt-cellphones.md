@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "top-10-cua-hang-mua-macbook-gia-tot-2026-shopee-fpt-cellphones"
 title: "Top 10 cửa hàng mua MacBook giá tốt 2026, có cả Shopee Mall"
 description: "Tổng hợp top 10 địa chỉ mua MacBook chính hãng giá tốt năm 2026 tại Việt Nam, từ TopZone, FPT Shop, CellphoneS tới Shopee Mall, kèm mẹo so sánh giá an toàn"

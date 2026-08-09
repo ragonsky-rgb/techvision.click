@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-chon-dong-ho-thong-minh-smartwatch-2026-tieu-chi-tuong-thich"
 title: "Cách chọn đồng hồ thông minh 2026: tương thích, sức khỏe, pin, giá"
 description: "Hướng dẫn chọn đồng hồ thông minh đúng nhu cầu: kiểm tra tương thích điện thoại, cảm biến sức khỏe, thời lượng pin, tính năng thể thao, kích thước và ngân sách"

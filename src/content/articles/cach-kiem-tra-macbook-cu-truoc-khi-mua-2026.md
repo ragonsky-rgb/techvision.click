@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-kiem-tra-macbook-cu-truoc-khi-mua-2026"
 title: "Cách kiểm tra MacBook cũ trước khi mua 2026: checklist đầy đủ từ A-Z"
 description: "Hướng dẫn kiểm tra MacBook cũ trước khi mua 2026: pin, màn hình, bàn phím, Activation Lock, phần cứng để tránh mua máy lỗi, tiền mất tật mang"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "trung-quoc-lineshine-sieu-may-tinh-nhanh-nhat-the-gioi-2026"
 title: "Trung Quốc giành lại ngôi siêu máy tính nhanh nhất thế giới với LineShine"
 description: "Siêu máy tính LineShine của Trung Quốc đạt 2,198 exaflops, vượt El Capitan của Mỹ, dùng toàn linh kiện nội địa, giữa lúc Trump ký lệnh điện toán lượng tử"

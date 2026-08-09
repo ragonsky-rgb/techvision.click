@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "amazon-alexa-plus-2026-tro-ly-ai-mien-phi-prime-tac-nhan"
 title: "Amazon Alexa+ phủ toàn nước Mỹ 2026: trợ lý AI biết hành động, miễn phí cho Prime"
 description: "Amazon đưa trợ lý AI Alexa+ tới toàn nước Mỹ tháng 2/2026, giá 19,99 USD mỗi tháng nhưng miễn phí cho Prime, biết hành động như đặt xe, đặt bàn"

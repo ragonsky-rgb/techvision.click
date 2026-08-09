@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "blg-thang-hle-3-1-msi-2026-vao-chung-ket-tong"
 title: "BLG hủy diệt HLE 3-1, giành vé vào chung kết tổng MSI 2026"
 description: "BLG đánh bại HLE với tỉ số 3-1 tại chung kết nhánh thắng MSI 2026, chính thức giành vé vào chung kết tổng sau màn trình diễn áp đảo ở hai ván đầu."

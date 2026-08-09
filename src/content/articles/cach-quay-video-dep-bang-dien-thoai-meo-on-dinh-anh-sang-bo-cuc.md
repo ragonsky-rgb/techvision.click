@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-quay-video-dep-bang-dien-thoai-meo-on-dinh-anh-sang-bo-cuc"
 title: "Cách quay video đẹp bằng điện thoại: mẹo ổn định, ánh sáng, bố cục"
 description: "Hướng dẫn quay video đẹp bằng điện thoại: giữ máy ổn định chống rung, tận dụng ánh sáng, chọn độ phân giải, chú ý bố cục và âm thanh khi quay"

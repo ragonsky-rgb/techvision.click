@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi"
 title: "Giá laptop tăng tới 30% vì RAM: khủng hoảng AI kéo dài tới 2028"
 description: "Giá laptop tăng 15-30% vì RAM khan hiếm do AI ngốn bộ nhớ, dự báo kéo dài tới 2028. Phân tích nguyên nhân, món hời MacBook Neo và lời khuyên nên mua gì lúc này."

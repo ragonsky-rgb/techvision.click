@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm"
 title: "Honor Magic V5: điện thoại gập mỏng nhất thế giới chỉ 8,8mm, pin 5820mAh"
 description: "Honor Magic V5 là điện thoại gập mỏng nhất thế giới, chỉ 8,8mm khi gập, nặng 217g, pin 5820mAh, Snapdragon 8 Elite, bản lề chịu 500.000 lần gập"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "intel-panther-lake-core-ultra-3-ces-2026-18a-npu-ai-pc"
 title: "Intel ra mắt Panther Lake tại CES 2026: chip 18A, NPU mạnh cho AI PC"
 description: "Intel Core Ultra Series 3 Panther Lake ra mắt tại CES 2026 trên tiến trình 18A: NPU 50 TOPS, hiệu năng đa luồng tăng 60%, gaming nhanh hơn, pin tới 27 giờ"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "insta360-luna-ultra-ra-mat-camera-leica-8k-doi-thu-dji-osmo-pocket"
 title: "Insta360 Luna Ultra ra mắt: camera Leica 8K đấu DJI Osmo Pocket"
 description: "Insta360 Luna Ultra ra mắt 11/6/2026: gimbal camera kép Leica, cảm biến 1 inch quay 8K, màn OLED tháo rời làm remote. Giá VN dự kiến 19,99 tới 24,99 triệu."

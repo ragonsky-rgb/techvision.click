@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "ibm-nanostack-0-7nm-chip-ban-dan-2026"
 title: "IBM công bố chip Nanostack 0.7nm: gần 100 tỷ transistor, mở đường chip dưới 1nm"
 description: "IBM ra mắt công nghệ Nanostack 0.7nm, chip dưới 1 nanometer đầu tiên thế giới, gần 100 tỷ transistor, hiệu năng cao hơn 50% so với chip 2nm hiện tại"

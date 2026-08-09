@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "laptop-ai-copilot-plus-pc-2026-nen-mua-nao-huong-dan"
 title: "Laptop AI Copilot+ PC 2026: nên mua loại nào, giá bao nhiêu?"
 description: "Hướng dẫn chọn laptop AI Copilot+ PC 2026: hiểu chuẩn NPU 40 TOPS, chọn chip Snapdragon X, Intel Core Ultra hay Ryzen AI, mua hợp lý khi giá RAM tăng."
