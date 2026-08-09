@@ -95,8 +95,6 @@ Cuối cùng, cần xác định ngân sách phù hợp dựa trên số lượn
   <figcaption>Kết hợp công tắc thông minh cùng đèn thông minh giúp mở rộng khả năng điều khiển ánh sáng cả nhà. Nguồn: YouTube</figcaption>
 </figure>
 
-Với những gia đình đang xây dựng hệ sinh thái nhà thông minh toàn diện, ngoài đèn chiếu sáng, việc trang bị thêm robot hút bụi tự động cũng là một hạng mục đáng cân nhắc để giảm bớt công sức dọn dẹp hằng ngày, tham khảo thêm bài viết [cách chọn robot hút bụi lau nhà theo 5 tiêu chí quan trọng năm 2026](/articles/cach-chon-robot-hut-bui-lau-nha-2026-tieu-chi.html) để hoàn thiện dần từng hạng mục trong kế hoạch nâng cấp ngôi nhà thông minh của mình.
-
 <div class="art-callout">
   ✅ <strong>Cập nhật:</strong> Bài viết tổng hợp kinh nghiệm chọn mua đèn thông minh dựa trên các đánh giá thực tế từ cộng đồng công nghệ, nhà thông minh Việt Nam. LongTechVision sẽ cập nhật định kỳ theo xu hướng sản phẩm mới trên thị trường.
 </div>

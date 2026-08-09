@@ -36,9 +36,8 @@ faq:
   - q: "Micro RGB có tốt hơn OLED không?"
     a: "Mỗi công nghệ có thế mạnh riêng. Micro RGB cho độ sáng cao hơn, màu rực và không lo lưu ảnh, phù hợp phòng sáng và kích thước rất lớn. OLED vẫn có lợi thế màu đen tuyệt đối và góc nhìn rộng. Samsung định vị Micro RGB là đối trọng trực tiếp của OLED ở phân khúc cao cấp năm 2026."
 related:
-  - { href: "/articles/sony-bravia-9-ii-tivi-mini-led-rgb-that-2026.html", cat: "Công nghệ", title: "Sony Bravia 9 II, tivi Mini LED RGB thật" }
-  - { href: "/articles/top-smart-tivi-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top smart tivi đáng mua tháng 7/2026" }
-  - { href: "/articles/xiaomi-tv-mini-led-robot-hut-bui-h50-ra-mat-viet-nam-2026.html", cat: "Công nghệ", title: "Xiaomi mở bán loạt TV Mini LED mới tại Việt Nam" }
+  - { href: "/articles/sony-bravia-9-ii-tivi-mini-led-rgb-that-2026.html", cat: "Công nghệ", title: "Sony Bravia 9 II: tivi Mini LED RGB thật đầu tiên, giá từ 3.599 USD" }
+  - { href: "/articles/top-smart-tivi-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top smart tivi đáng mua tháng 7/2026: từ phổ thông đến cao cấp" }
 featured: false
 ---
 
@@ -81,7 +80,7 @@ Với người thích màn hình khổng lồ, bản 100 inch sẽ lên kệ và
 
 ## Cuộc đua RGB thật: Samsung không đơn độc
 
-Samsung không phải hãng duy nhất đặt cược vào hướng đi này. Sony đã đi trước một bước với [Bravia 9 II dùng đèn nền Mini LED RGB thật](/articles/sony-bravia-9-ii-tivi-mini-led-rgb-that-2026.html), trong khi LG cũng mang dòng TV có công nghệ tương tự về Việt Nam trong năm nay. Việc cả ba ông lớn cùng chuyển sang nguồn sáng RGB độc lập cho thấy đây không còn là công nghệ trình diễn, mà là hướng phát triển chung của TV LED cao cấp trong vài năm tới, tương tự cách Mini LED phổ cập từ phân khúc đắt tiền xuống [các mẫu TV tầm trung như dòng Xiaomi mới mở bán](/articles/xiaomi-tv-mini-led-robot-hut-bui-h50-ra-mat-viet-nam-2026.html).
+Samsung không phải hãng duy nhất đặt cược vào hướng đi này. Sony đã đi trước một bước với [Bravia 9 II dùng đèn nền Mini LED RGB thật](/articles/sony-bravia-9-ii-tivi-mini-led-rgb-that-2026.html), trong khi LG cũng mang dòng TV có công nghệ tương tự về Việt Nam trong năm nay. Việc cả ba ông lớn cùng chuyển sang nguồn sáng RGB độc lập cho thấy đây không còn là công nghệ trình diễn, mà là hướng phát triển chung của TV LED cao cấp trong vài năm tới, tương tự cách Mini LED phổ cập từ phân khúc đắt tiền xuống các mẫu TV tầm trung như dòng Xiaomi mới mở bán.
 
 So với OLED, thế mạnh của Micro RGB nằm ở độ sáng cao vượt trội, màu rực rỡ không suy giảm theo thời gian và không có nguy cơ lưu ảnh, những yếu tố đặc biệt phù hợp với phòng khách nhiều ánh sáng và các kích thước màn hình rất lớn. Ngược lại, OLED vẫn giữ lợi thế về màu đen tuyệt đối và góc nhìn rộng. Cuộc so kè giữa hai công nghệ này hứa hẹn là câu chuyện thú vị nhất của thị trường TV cao cấp năm nay.
 

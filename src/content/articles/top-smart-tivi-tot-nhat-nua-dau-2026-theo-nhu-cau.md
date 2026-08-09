@@ -77,7 +77,7 @@ Khi chọn tivi, một trong những quyết định quan trọng là giữa min
   <figcaption>Mỗi thương hiệu tivi cao cấp đều có thế mạnh riêng về công nghệ hình ảnh. Nguồn: YouTube</figcaption>
 </figure>
 
-Với đa số gia đình có ngân sách vừa phải, thị trường 2026 có nhiều smart tivi giá tốt với chất lượng ngày càng cải thiện. Các thương hiệu như Xiaomi đã mang cả công nghệ mini LED xuống những mức giá dễ tiếp cận hơn, như bài [Xiaomi TV mini LED ra mắt Việt Nam](/articles/xiaomi-tv-mini-led-robot-hut-bui-h50-ra-mat-viet-nam-2026.html) đề cập. Đây là lựa chọn hợp lý cho người muốn một chiếc tivi lớn, hình ảnh đẹp và đầy đủ tính năng thông minh mà không phải chi quá nhiều cho các model đầu bảng.
+Với đa số gia đình có ngân sách vừa phải, thị trường 2026 có nhiều smart tivi giá tốt với chất lượng ngày càng cải thiện. Các thương hiệu như Xiaomi đã mang cả công nghệ mini LED xuống những mức giá dễ tiếp cận hơn, như bài Xiaomi TV mini LED ra mắt Việt Nam đề cập. Đây là lựa chọn hợp lý cho người muốn một chiếc tivi lớn, hình ảnh đẹp và đầy đủ tính năng thông minh mà không phải chi quá nhiều cho các model đầu bảng.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/2bJXdNHsERs/maxresdefault.jpg" alt="Đánh giá các tivi mini LED đáng mua nhất theo phân khúc năm 2026" loading="lazy" width="1280" height="720">

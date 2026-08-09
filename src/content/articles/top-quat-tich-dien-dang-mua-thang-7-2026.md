@@ -36,9 +36,8 @@ faq:
   - q: "Mua quạt tích điện chính hãng ở đâu tại Việt Nam?"
     a: "Nên ưu tiên mua tại các hệ thống bán lẻ điện máy uy tín hoặc gian hàng chính hãng trên sàn thương mại điện tử lớn để được hưởng chế độ bảo hành đầy đủ, đồng thời tận dụng các chương trình khuyến mãi phổ biến trước mùa cao điểm nắng nóng."
 related:
-  - { href: "/articles/cach-chon-quat-tich-dien-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn quạt tích điện 2026: 5 tiêu chí" }
-  - { href: "/articles/cach-chon-quat-dieu-hoa-hoi-nuoc-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn quạt điều hòa hơi nước 2026: 5 tiêu chí" }
-  - { href: "/articles/top-quat-dieu-hoa-hoi-nuoc-dang-mua-thang-7-2026.html", cat: "Công nghệ", title: "Top quạt điều hòa hơi nước đáng mua tháng 7/2026" }
+  - { href: "/articles/cach-chon-quat-tich-dien-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn quạt tích điện 2026: 5 tiêu chí trước khi xuống tiền" }
+  - { href: "/articles/quat-tich-dien-hay-quat-dien-thuong-chon-loai-nao-2026.html", cat: "Công nghệ", title: "Quạt tích điện hay quạt điện thường: chọn loại nào 2026?" }
 featured: true
 ---
 
@@ -79,7 +78,7 @@ Với nhu cầu dự phòng cho những đợt mất điện kéo dài, các dò
 
 ## Kết hợp quạt tích điện với ánh sáng dự phòng
 
-Nhiều gia đình hiện đang chuẩn bị sẵn bộ giải pháp ứng phó toàn diện khi mất điện, kết hợp cả quạt tích điện lẫn hệ thống chiếu sáng dự phòng. Người dùng có thể tham khảo thêm [cách chọn quạt điều hòa hơi nước theo 5 tiêu chí quan trọng](/articles/cach-chon-quat-dieu-hoa-hoi-nuoc-2026-tieu-chi.html) cùng [top quạt điều hòa hơi nước đáng mua tháng 7/2026](/articles/top-quat-dieu-hoa-hoi-nuoc-dang-mua-thang-7-2026.html) để có thêm lựa chọn làm mát tiết kiệm điện cho những ngày nắng nóng không mất điện.
+Nhiều gia đình hiện đang chuẩn bị sẵn bộ giải pháp ứng phó toàn diện khi mất điện, kết hợp cả quạt tích điện lẫn hệ thống chiếu sáng dự phòng. Người dùng có thể tham khảo thêm cách chọn quạt điều hòa hơi nước theo 5 tiêu chí quan trọng cùng top quạt điều hòa hơi nước đáng mua tháng 7/2026 để có thêm lựa chọn làm mát tiết kiệm điện cho những ngày nắng nóng không mất điện.
 
 ## Lưu ý khi chốt mua quạt tích điện trong tháng 7/2026
 

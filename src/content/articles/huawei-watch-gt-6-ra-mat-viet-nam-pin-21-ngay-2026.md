@@ -39,9 +39,8 @@ faq:
   - q: "HUAWEI Watch GT 6 chạy trên hệ điều hành nào?"
     a: "Máy chạy trên hệ điều hành HarmonyOS 6.0 mới nhất của Huawei, với giao diện trực quan, mượt mà và đa dạng mặt đồng hồ tùy biến linh hoạt theo sở thích người dùng."
 related:
-  - { href: "/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html", cat: "Smartphone", title: "HONOR 600 Lite ra mắt Việt Nam pin 6.520mAh" }
-  - { href: "/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html", cat: "Smartphone", title: "Samsung Exynos 2600 chip 2nm đầu tiên thế giới" }
-  - { href: "/articles/hitachi-r-gw670tv-tu-lanh-6-canh-670-lit-ra-mat-viet-nam-2026.html", cat: "Gia dụng", title: "Hitachi R-GW670TV tủ lạnh 6 cánh 670 lít" }
+  - { href: "/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html", cat: "Smartphone", title: "HONOR 600 Lite ra mắt Việt Nam: pin 6.520mAh, camera 108MP, giá 10,99 triệu" }
+  - { href: "/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html", cat: "Smartphone", title: "Samsung Exynos 2600: chip smartphone 2nm đầu tiên thế giới, AI tăng 113%" }
 featured: true
 ---
 
@@ -102,7 +101,7 @@ Về mặt sức khỏe, máy có thể đo chỉ số SpO2 để đánh giá t�
 
 Với mức giá khởi điểm 4,99 triệu đồng, HUAWEI Watch GT 6 trở thành lựa chọn đáng cân nhắc bên cạnh các sản phẩm công nghệ mới khác đang ra mắt tại Việt Nam, tương tự như [HONOR 600 Lite cũng vừa trình làng với điểm nhấn pin dung lượng khủng 6.520mAh](/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html) trong cùng giai đoạn, cho thấy xu hướng chung của thị trường thiết bị di động hiện nay đang tập trung mạnh vào yếu tố thời lượng sử dụng bền bỉ. So với các đối thủ cùng phân khúc giá, HUAWEI Watch GT 6 có lợi thế rõ rệt về thời lượng pin, dù một số tính năng nâng cao như đo điện tâm đồ ECG chuyên sâu hay kết nối eSIM độc lập vẫn chỉ xuất hiện trên các dòng sản phẩm cao cấp hơn của hãng.
 
-Người dùng đang cân nhắc mua sắm thêm các thiết bị công nghệ khác cho gia đình cũng có thể tham khảo thêm về [dòng chip Exynos 2600 mới nhất của Samsung vừa ra mắt trên Galaxy S26](/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html) hay [tủ lạnh 6 cánh cao cấp Hitachi R-GW670TV vừa có mặt tại thị trường trong nước](/articles/hitachi-r-gw670tv-tu-lanh-6-canh-670-lit-ra-mat-viet-nam-2026.html), phản ánh bức tranh sôi động chung của thị trường công nghệ tiêu dùng trong nửa cuối năm 2026.
+Người dùng đang cân nhắc mua sắm thêm các thiết bị công nghệ khác cho gia đình cũng có thể tham khảo thêm về [dòng chip Exynos 2600 mới nhất của Samsung vừa ra mắt trên Galaxy S26](/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html) hay tủ lạnh 6 cánh cao cấp Hitachi R-GW670TV vừa có mặt tại thị trường trong nước, phản ánh bức tranh sôi động chung của thị trường công nghệ tiêu dùng trong nửa cuối năm 2026.
 
 <div class="art-callout">
   ✅ <strong>Lưu ý:</strong> Giá bán và chương trình khuyến mãi có thể thay đổi theo từng hệ thống bán lẻ và thời điểm mua hàng. Người dùng nên kiểm tra giá tại nhiều nơi và xác nhận chính sách bảo hành chính hãng trước khi quyết định mua.

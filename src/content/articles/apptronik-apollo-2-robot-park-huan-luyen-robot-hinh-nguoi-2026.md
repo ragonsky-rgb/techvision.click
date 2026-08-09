@@ -36,9 +36,9 @@ faq:
   - q: "Robot hình người sẽ ảnh hưởng thế nào tới ngành logistics và sản xuất trong tương lai gần?"
     a: "Robot hình người như Apollo 2 được kỳ vọng đảm nhận các công việc lặp lại, nặng nhọc hoặc nguy hiểm trong kho vận và nhà máy, giúp doanh nghiệp giảm phụ thuộc vào lao động phổ thông trong bối cảnh thiếu hụt nhân lực, đồng thời tăng năng suất vận hành liên tục 24/7."
 related:
-  - { href: "/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html", cat: "AI", title: "Boston Dynamics Atlas: robot hình người dùng Gemini Robotics" }
-  - { href: "/articles/ai-agent-tu-dong-hoa-may-tinh-crewai-autogen-huong-dan-2026.html", cat: "AI", title: "AI agent tự động hóa máy tính: hướng dẫn CrewAI, AutoGen" }
-  - { href: "/articles/roborock-saros-z70-robot-hut-bui-canh-tay-co-omnigrip-2026.html", cat: "Công nghệ", title: "Roborock Saros Z70: robot hút bụi có cánh tay gập OmniGrip" }
+  - { href: "/articles/boston-dynamics-atlas-gemini-robotics-robot-hinh-nguoi-2026.html", cat: "AI", title: "Atlas dùng Gemini Robotics: robot hình người biết suy nghĩ" }
+  - { href: "/articles/ai-agent-tu-dong-hoa-may-tinh-crewai-autogen-huong-dan-2026.html", cat: "AI", title: "AI Agent tự động hóa máy tính: bắt đầu với CrewAI và AutoGen" }
+  - { href: "/articles/agibot-robot-hinh-nguoi-embodied-ai-waic-2026.html", cat: "Công nghệ", title: "AgiBot: robot hình người embodied AI dẫn đầu WAIC 2026" }
 featured: true
 ---
 
@@ -90,7 +90,7 @@ Apptronik không phải cái tên duy nhất theo đuổi hướng đi này. Đ�
 
 Sự phát triển của robot hình người như Apollo 2 được kỳ vọng sẽ dần thay đổi cách các nhà kho và nhà máy vận hành trong tương lai gần, đặc biệt trong bối cảnh nhiều thị trường lao động phổ thông đang gặp tình trạng thiếu hụt nhân lực kéo dài. Robot hình người có lợi thế lớn so với robot công nghiệp truyền thống là khả năng thích ứng với không gian làm việc vốn được thiết kế cho con người mà không cần cải tạo lại toàn bộ cơ sở hạ tầng, giúp doanh nghiệp tiết kiệm đáng kể chi phí triển khai ban đầu.
 
-Với tốc độ đầu tư mạnh mẽ hiện nay từ nhiều công ty robot lớn trên thế giới, giới quan sát dự đoán robot hình người có thể bắt đầu xuất hiện phổ biến hơn tại các trung tâm logistics và nhà máy sản xuất quy mô lớn trong vòng vài năm tới, tương tự cách robot hút bụi thông minh như [Roborock Saros Z70 với cánh tay gập](/articles/roborock-saros-z70-robot-hut-bui-canh-tay-co-omnigrip-2026.html) đã dần trở nên phổ biến trong các hộ gia đình hiện đại.
+Với tốc độ đầu tư mạnh mẽ hiện nay từ nhiều công ty robot lớn trên thế giới, giới quan sát dự đoán robot hình người có thể bắt đầu xuất hiện phổ biến hơn tại các trung tâm logistics và nhà máy sản xuất quy mô lớn trong vòng vài năm tới, tương tự cách robot hút bụi thông minh như Roborock Saros Z70 với cánh tay gập đã dần trở nên phổ biến trong các hộ gia đình hiện đại.
 
 ## Góc nhìn cho thị trường công nghệ tại Việt Nam
 
