@@ -62,11 +62,13 @@ const newsLd = {
     '@id': `${SITE}/#organization`,
     name: 'TechVision',
     url: SITE,
-    logo: { '@type': 'ImageObject', url: `${SITE}/uploads/favicon-avatar.jpg`, width: 60, height: 60 },
+    logo: { '@type': 'ImageObject', url: `${SITE}/uploads/favicon-avatar.jpg`, width: 600, height: 600 },
     sameAs: [
       'https://www.youtube.com/@LongNguyenRV',
       'https://www.tiktok.com/@longtechvision',
-      'https://www.facebook.com/longnguyen.longnguyenreview/',
+      // Trang Facebook cua thuong hieu. Ho so ca nhan o tren la cua Person,
+      // hai thuc the khac nhau nen khong duoc dung chung mot URL.
+      'https://www.facebook.com/profile.php?id=61570642895328',
     ],
   },
   articleSection: category,
