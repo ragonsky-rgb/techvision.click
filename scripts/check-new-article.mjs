@@ -163,6 +163,27 @@ async function checkOne(path) {
     else if (st !== 200) errs.push(`sourceUrl tra HTTP ${st}: ${src}`);
   }
 
+  // Khoi `related` phai tro toi bai CO THAT va CON INDEXABLE.
+  //
+  // Vi sao kiem ca noindex chu khong chi kiem link chet: repo dang co hon 500
+  // trang noindex sau cac dot cat, va chung van nam nguyen trong thu muc nen
+  // link khong 404. Tro bai moi vao do la nem lien ket noi bo vao trang ma
+  // chinh minh da bao Google bo qua. Ngay 9/8/2026 mot bai moi viet co ca 3
+  // muc related deu noindex ma khong bo kiem nao bat duoc.
+  for (const rel of [...s.matchAll(/href: "\/articles\/([^"]+)\.html"/g)].map((m) => m[1])) {
+    const md = join(MD_DIR, `${rel}.md`);
+    const html = join(ROOT, 'public/articles', `${rel}.html`);
+    if (existsSync(md)) {
+      if (/^noindex: true/m.test(readFileSync(md, 'utf8')))
+        errs.push(`related tro toi bai dang noindex: ${rel}`);
+    } else if (existsSync(html)) {
+      if (/name="robots"[^>]*noindex/.test(readFileSync(html, 'utf8')))
+        errs.push(`related tro toi bai dang noindex: ${rel}`);
+    } else {
+      errs.push(`related tro toi bai KHONG TON TAI: ${rel}`);
+    }
+  }
+
   // Bai trung slug hoac trung title voi bai da co la dau hieu viet lai bai cu.
   const others = execSync(`grep -l '^title:' ${MD_DIR}/*.md`, { encoding: 'utf8' })
     .trim().split('\n').filter((f) => f !== path);
