@@ -1,6 +1,6 @@
 ---
 slug: "quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027"
-title: "Quỹ Đổi mới công nghệ quốc gia khảo sát doanh nghiệp về nhu cầu tài trợ"
+title: "Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ"
 description: "Quỹ Đổi mới công nghệ quốc gia (NATIF) khảo sát doanh nghiệp 17-30/6/2026 để lên kế hoạch tài trợ 2027: hỗ trợ lãi suất, voucher và tài trợ trực tiếp."
 keywords: "Quỹ Đổi mới công nghệ quốc gia, NATIF, hỗ trợ doanh nghiệp công nghệ, tài trợ đổi mới công nghệ, khảo sát NATIF, hỗ trợ lãi suất, voucher đổi mới sáng tạo, Bộ Khoa học và Công nghệ"
 category: "Công nghệ"
@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/ai-agents-enterprise-deployment-2026.html", cat: "AI", title: "AI Agents trong doanh nghiệp 2026: ứng dụng và cách triển khai" }
   - { href: "/articles/ai-88000-nguoi-my-mat-viec-5-thang-dau-2026-challenger.html", cat: "AI", title: "AI khiến 88.000 người Mỹ mất việc 5 tháng đầu 2026" }
-  - { href: "/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html", cat: "Internet", title: "Starlink Việt Nam: giá cước, tốc độ và ai thực sự nên dùng internet vệ tinh" }
+  - { href: "/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html", cat: "Internet", title: "Starlink Việt Nam: giá cước, tốc độ và ai nên dùng" }
 featured: true
 ---
 

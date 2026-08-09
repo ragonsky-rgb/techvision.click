@@ -1,6 +1,6 @@
 ---
 slug: "neura-robotics-goi-von-1-4-ty-usd-nvidia-amazon-2026"
-title: "Neura Robotics gọi vốn 1,4 tỷ USD từ Nvidia, Amazon, Qualcomm, định giá 7 tỷ USD"
+title: "Neura Robotics gọi vốn 1,4 tỷ USD, định giá 7 tỷ USD"
 description: "Startup robot hình người Neura Robotics của Đức huy động thành công 1,4 tỷ USD vòng Series C từ Nvidia, Amazon, Qualcomm, Bosch, định giá công ty đạt 7 tỷ USD."
 keywords: "Neura Robotics, robot hình người Đức, Neura Robotics Series C, Nvidia Amazon Qualcomm robot, 4NE1 robot hình người"
 category: "AI"

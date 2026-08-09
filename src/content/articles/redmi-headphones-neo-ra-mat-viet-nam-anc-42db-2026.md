@@ -1,6 +1,6 @@
 ---
 slug: "redmi-headphones-neo-ra-mat-viet-nam-anc-42db-2026"
-title: "REDMI Headphones Neo ra mắt Việt Nam: tai nghe chụp tai đầu tiên của Xiaomi, pin 72 giờ"
+title: "REDMI Headphones Neo về Việt Nam: chụp tai, pin 72 giờ"
 description: "REDMI Headphones Neo chính thức mở bán tại Việt Nam, chống ồn chủ động 42dB, driver titanium 40mm, pin dùng tới 72 giờ, giá 2.090.000 đồng."
 keywords: "REDMI Headphones Neo, tai nghe chụp tai Xiaomi, REDMI Headphones Neo giá, REDMI Headphones Neo Việt Nam, tai nghe over ear 2026"
 category: "Audio"

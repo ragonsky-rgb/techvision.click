@@ -1,6 +1,6 @@
 ---
 slug: "viettel-trung-dau-gia-dau-so-095-2525-ty-dong-2026"
-title: "Viettel trúng đấu giá đầu số 095 với 252,5 tỷ đồng: đầu số 09x cuối cùng về tay nhà mạng"
+title: "Viettel trúng đấu giá đầu số 095 với 252,5 tỷ đồng"
 description: "Viettel trúng đấu giá quyền sử dụng mã mạng 095 ngày 10/7/2026 với 252,5 tỷ đồng, gấp 101 lần giá khởi điểm, là đầu số 09x cuối cùng được đưa ra đấu giá."
 keywords: "Viettel đầu số 095, đấu giá đầu số 095, mã mạng 095, đầu số 095 của ai, S-Fone 095, kho số di động Việt Nam"
 category: "Viễn thông"

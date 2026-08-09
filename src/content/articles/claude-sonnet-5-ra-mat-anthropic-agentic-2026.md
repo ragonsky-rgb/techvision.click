@@ -1,6 +1,6 @@
 ---
 slug: "claude-sonnet-5-ra-mat-anthropic-agentic-2026"
-title: "Claude Sonnet 5 ra mắt: Anthropic hạ giá agent AI, hiệu năng áp sát Opus 4.8"
+title: "Claude Sonnet 5 ra mắt: Anthropic hạ giá agent AI"
 description: "Anthropic ra mắt Claude Sonnet 5, mô hình agentic nhất từng có, hiệu năng áp sát Opus 4.8 nhưng giá chỉ bằng một nửa, đã có mặt trên mọi gói Claude."
 keywords: "Claude Sonnet 5, Anthropic Sonnet 5, Claude Sonnet 5 giá, Claude Sonnet 5 vs Opus 4.8, Anthropic AI agent 2026"
 category: "AI"

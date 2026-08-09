@@ -38,7 +38,7 @@ faq:
     a: "Dòng Redmi K từ trước tới nay chủ yếu bán tại Trung Quốc và hiếm khi được phân phối chính hãng ở Việt Nam. Người dùng trong nước thường tiếp cận qua đường xách tay, đồng nghĩa với việc không có bảo hành chính hãng, có thể thiếu một số dải tần sóng và cần cài lại ROM quốc tế. Ở thị trường Việt, Xiaomi thường thay thế bằng các model thuộc dòng POCO có cấu hình tương đương."
 related:
   - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro ra mắt: pin 9.000mAh, giá từ 1.599 tệ" }
-  - { href: "/articles/redmi-note-17-series-ra-mat-14-7-pin-10100mah-200mp-2026.html", cat: "Smartphone", title: "Redmi Note 17 series ra mắt 14/7: pin 10.100mAh, camera 200MP và biến thể Pro Max lần đầu xuất hiện" }
+  - { href: "/articles/redmi-note-17-series-ra-mat-14-7-pin-10100mah-200mp-2026.html", cat: "Smartphone", title: "Redmi Note 17 ra mắt 14/7: pin 10.100mAh, camera 200MP" }
   - { href: "/articles/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia.html", cat: "Smartphone", title: "Galaxy Z Flip 8: cấu hình, sạc 45W, giá ra mắt 22/7/2026" }
 featured: false
 ---

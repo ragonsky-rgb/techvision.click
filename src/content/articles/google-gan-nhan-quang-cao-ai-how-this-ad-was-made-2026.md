@@ -1,6 +1,6 @@
 ---
 slug: "google-gan-nhan-quang-cao-ai-how-this-ad-was-made-2026"
-title: "Google gắn nhãn quảng cáo tạo bằng AI: xem 'How this ad was made' để không bị đánh lừa"
+title: "Google gắn nhãn quảng cáo tạo bằng AI: cách xem nguồn gốc"
 description: "Google ra mắt nhãn tiết lộ quảng cáo tạo bằng AI trong My Ad Center từ 9/7/2026, hiển thị trên Search, YouTube và Discover, nhưng cơ chế tự khai báo còn kẽ hở."
 keywords: "Google gắn nhãn quảng cáo AI, How this ad was made, My Ad Center, quảng cáo AI, nhận biet quang cao AI, Google AI ad labels"
 category: "Internet"

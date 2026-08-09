@@ -38,7 +38,7 @@ faq:
     a: "Chưa có mốc thời gian cụ thể. Anthropic cho biết họ tin rằng có sự hiểu lầm trong chỉ thị và đang làm việc để khôi phục quyền truy cập sớm nhất có thể. Công ty đồng thời phản đối tiêu chuẩn này, cho rằng nếu áp dụng rộng, nó có thể làm đình trệ việc triển khai mọi mô hình AI tiên tiến mới trong toàn ngành."
 related:
   - { href: "/articles/claude-opus-5-anthropic-ra-mat-gia-bang-nua-fable-5-2026.html", cat: "AI", title: "Claude Opus 5 ra mắt: giá bằng nửa Fable 5, mạnh cỡ nào?" }
-  - { href: "/articles/claude-sonnet-5-ra-mat-anthropic-agentic-2026.html", cat: "AI", title: "Claude Sonnet 5 ra mắt: Anthropic hạ giá agent AI, hiệu năng áp sát Opus 4.8" }
+  - { href: "/articles/claude-sonnet-5-ra-mat-anthropic-agentic-2026.html", cat: "AI", title: "Claude Sonnet 5 ra mắt: Anthropic hạ giá agent AI" }
   - { href: "/articles/qwen-3-6-max-mo-hinh-ai-alibaba-lap-trinh-2026.html", cat: "AI", title: "Qwen 3.6 Max: mô hình AI Alibaba đứng đầu về lập trình" }
 featured: true
 ---

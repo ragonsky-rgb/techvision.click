@@ -38,8 +38,8 @@ faq:
   - q: "Chip Nanostack có ảnh hưởng tới người dùng Việt Nam không?"
     a: "Trong ngắn hạn, công nghệ này chưa có sản phẩm thương mại nên chưa ảnh hưởng trực tiếp tới người dùng. Tuy nhiên, đây là tín hiệu cho thấy cuộc đua bán dẫn toàn cầu vẫn tiếp diễn mạnh mẽ, kéo theo các khoản đầu tư lớn vào hạ tầng chip và trung tâm dữ liệu AI, trong đó có nhiều dự án tại Việt Nam như nhà máy chip bán dẫn của Viettel hay các trung tâm dữ liệu AI của FPT, Viettel, VNPT."
 related:
-  - { href: "/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html", cat: "Công nghệ", title: "Viettel khởi công nhà máy chip bán dẫn đầu tiên của Việt Nam tại Hòa Lạc" }
-  - { href: "/articles/meta-chip-ai-iris-san-xuat-thang-9-mtia-broadcom-tsmc-2026.html", cat: "Công nghệ", title: "Meta sản xuất chip AI Iris từ tháng 9: canh bạc tự chủ silicon để bớt phụ thuộc Nvidia" }
+  - { href: "/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html", cat: "Công nghệ", title: "Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc" }
+  - { href: "/articles/meta-chip-ai-iris-san-xuat-thang-9-mtia-broadcom-tsmc-2026.html", cat: "Công nghệ", title: "Meta sản xuất chip AI Iris từ tháng 9, bớt phụ thuộc Nvidia" }
   - { href: "/articles/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.html", cat: "AI", title: "Nvidia Vera Rubin: nền tảng AI 336 tỷ transistor" }
 featured: false
 ---

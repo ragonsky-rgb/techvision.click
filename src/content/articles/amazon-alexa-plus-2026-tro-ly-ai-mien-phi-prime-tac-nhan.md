@@ -38,7 +38,7 @@ faq:
   - q: "Alexa+ dùng công nghệ AI nào?"
     a: "Alexa+ được xây dựng trên các mô hình AI tiên tiến để mang lại khả năng hội thoại tự nhiên và hành động thông minh. Amazon kết hợp nhiều mô hình AI, trong đó có cả mô hình từ các đối tác, để tối ưu cho từng tác vụ. Đây là cách tiếp cận phổ biến hiện nay, khi các nền tảng lớn dùng nhiều mô hình khác nhau thay vì chỉ một, nhằm cân bằng giữa chất lượng, tốc độ và chi phí cho các kịch bản sử dụng đa dạng."
 related:
-  - { href: "/articles/alphabet-google-80-ty-usd-co-phieu-ha-tang-ai-2026.html", cat: "AI", title: "Alphabet huy động 80 tỷ USD cho AI: lần phát hành cổ phiếu đầu tiên từ 2005" }
+  - { href: "/articles/alphabet-google-80-ty-usd-co-phieu-ha-tang-ai-2026.html", cat: "AI", title: "Alphabet huy động 80 tỷ USD cho AI, lần đầu phát hành từ 2005" }
 featured: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 slug: "samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd"
-title: "Samsung Galaxy Z TriFold: điện thoại gập ba đầu tiên, mở ra 10 inch"
+title: "Galaxy Z TriFold: điện thoại gập ba đầu tiên, mở ra 10 inch"
 description: "Samsung Galaxy Z TriFold ra mắt là điện thoại gập ba với màn 10 inch khi mở, chip mạnh, 16GB RAM, pin 5600mAh, giá khởi điểm 2.899 USD"
 keywords: "Samsung Galaxy Z TriFold, điện thoại gập ba, Galaxy gập 3, Z TriFold giá, điện thoại màn 10 inch, foldable Samsung, Galaxy Z TriFold Việt Nam"
 category: "Smartphone"
@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
   - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
-  - { href: "/articles/haaland-dung-dien-thoai-gi-samsung-iphone-2026.html", cat: "Smartphone", title: "Haaland dùng điện thoại gì: đại sứ Galaxy nhưng từng bị bắt gặp cầm iPhone" }
+  - { href: "/articles/haaland-dung-dien-thoai-gi-samsung-iphone-2026.html", cat: "Smartphone", title: "Haaland dùng điện thoại gì: đại sứ Galaxy mà cầm iPhone?" }
 featured: false
 ---
 

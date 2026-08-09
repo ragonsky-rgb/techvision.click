@@ -1,6 +1,6 @@
 ---
 slug: "google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026"
-title: "Google chốt sự kiện 12/8, tung Pixel 11 Pro Fold: máy gập ra trước Apple, bỏ bản 128GB"
+title: "Google chốt sự kiện 12/8: Pixel 11 Pro Fold, bỏ bản 128GB"
 description: "Made by Google diễn ra 12/8/2026 với Pixel 11, Pixel 11 Pro và Pixel 11 Pro Fold. Máy gập màn 8 inch, pin 4.658mAh, bỏ bản 128GB vì thiếu chip nhớ."
 keywords: "Google Pixel 11 Pro Fold, Made by Google 2026, sự kiện Pixel 12 8, Pixel 11 Pro Fold cấu hình, Google máy gập, Pixel 11 series"
 category: "Smartphone"

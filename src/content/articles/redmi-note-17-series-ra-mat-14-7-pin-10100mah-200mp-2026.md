@@ -1,6 +1,6 @@
 ---
 slug: "redmi-note-17-series-ra-mat-14-7-pin-10100mah-200mp-2026"
-title: "Redmi Note 17 series ra mắt 14/7: pin 10.100mAh, camera 200MP và biến thể Pro Max lần đầu xuất hiện"
+title: "Redmi Note 17 ra mắt 14/7: pin 10.100mAh, camera 200MP"
 description: "Redmi Note 17 series ra mắt 14/7 với pin tới 10.100mAh, camera 200MP, lần đầu có bản Pro Max. Chi tiết cấu hình, chip và giá dự kiến tại Việt Nam."
 keywords: "Redmi Note 17, Redmi Note 17 Pro Max, Redmi Note 17 series, Redmi Note 17 pin 10100mAh, Redmi Note 17 camera 200MP, Redmi Note 17 giá, Redmi Note 17 ra mắt"
 category: "Smartphone"

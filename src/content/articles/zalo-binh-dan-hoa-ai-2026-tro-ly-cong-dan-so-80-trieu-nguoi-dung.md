@@ -1,6 +1,6 @@
 ---
 slug: "zalo-binh-dan-hoa-ai-2026-tro-ly-cong-dan-so-80-trieu-nguoi-dung"
-title: "Zalo bình dân hóa AI: trợ lý Công dân số phục vụ gần 80 triệu người dùng"
+title: "Zalo ra trợ lý Công dân số cho gần 80 triệu người dùng"
 description: "Zalo đẩy mạnh bình dân hóa AI tại Việt Nam, ra mắt trợ lý Công dân số tra cứu thủ tục hành chính 24/7, đạt 80,2 triệu người dùng hoạt động hàng tháng"
 keywords: "Zalo, Zalo AI, bình dân hóa AI, trợ lý ảo Zalo, Công dân số, VNG, trí tuệ nhân tạo Việt Nam, Lê Hồng Minh"
 category: "AI"

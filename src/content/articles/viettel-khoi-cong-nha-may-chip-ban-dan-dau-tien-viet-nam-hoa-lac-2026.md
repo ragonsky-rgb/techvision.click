@@ -1,6 +1,6 @@
 ---
 slug: "viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026"
-title: "Viettel khởi công nhà máy chip bán dẫn đầu tiên của Việt Nam tại Hòa Lạc"
+title: "Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc"
 description: "Việt Nam khởi công nhà máy chế tạo chip bán dẫn đầu tiên tại Khu công nghệ cao Hòa Lạc ngày 16/1/2026, do Viettel chủ trì trên diện tích 27 ha"
 keywords: "nhà máy chip bán dẫn Việt Nam, Viettel chip, chip bán dẫn Hòa Lạc, sản xuất chip Việt Nam 2026, nhà máy chip đầu tiên, công nghiệp bán dẫn Việt Nam"
 category: "Công nghệ"
@@ -37,8 +37,8 @@ faq:
   - q: "Nhà máy có ý nghĩa gì với người dân và doanh nghiệp?"
     a: "Về dài hạn, việc phát triển công nghiệp bán dẫn nội địa giúp tạo việc làm chất lượng cao, thu hút đầu tư và nâng vị thế công nghệ của đất nước. Với doanh nghiệp, một hệ sinh thái bán dẫn mạnh hơn mở ra cơ hội hợp tác và cung ứng. Tuy nhiên, đây là ngành cần thời gian dài và đầu tư lớn, nên kết quả cụ thể sẽ rõ dần qua các năm."
 related:
-  - { href: "/articles/fpt-ai-factory-2026-nha-may-ai-chu-quyen-viet-nam-nvidia.html", cat: "Công nghệ", title: "FPT AI Factory: nhà máy AI đầu tiên Việt Nam, nền móng cho AI có chủ quyền" }
-  - { href: "/articles/momo-sieu-ung-dung-ai-2026-40-trieu-nguoi-dung-fintech-viet-nam.html", cat: "Công nghệ", title: "MoMo: siêu ứng dụng AI dẫn đầu fintech Việt Nam với hơn 40 triệu người dùng" }
+  - { href: "/articles/fpt-ai-factory-2026-nha-may-ai-chu-quyen-viet-nam-nvidia.html", cat: "Công nghệ", title: "FPT AI Factory: nhà máy AI đầu tiên của Việt Nam" }
+  - { href: "/articles/momo-sieu-ung-dung-ai-2026-40-trieu-nguoi-dung-fintech-viet-nam.html", cat: "Công nghệ", title: "MoMo: siêu ứng dụng AI với hơn 40 triệu người dùng Việt" }
   - { href: "/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html", cat: "Công nghệ", title: "Quỹ đổi mới công nghệ quốc gia NATIF" }
 featured: false
 ---

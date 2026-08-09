@@ -1,6 +1,6 @@
 ---
 slug: "haaland-dung-dien-thoai-gi-samsung-iphone-2026"
-title: "Haaland dùng điện thoại gì: đại sứ Galaxy nhưng từng bị bắt gặp cầm iPhone"
+title: "Haaland dùng điện thoại gì: đại sứ Galaxy mà cầm iPhone?"
 description: "Erling Haaland là đại sứ Samsung Galaxy tại Bắc Âu từ 2021, nhưng từng bị ống kính bắt gặp dùng iPhone. Sự thật phía sau câu chuyện gây chú ý này."
 keywords: "Haaland dùng điện thoại gì, Haaland Samsung, Haaland iPhone, cầu thủ dùng điện thoại gì, Erling Haaland smartphone, Samsung Galaxy đại sứ Haaland"
 category: "Smartphone"
@@ -36,7 +36,7 @@ faq:
     a: "Câu chuyện là lời nhắc rằng hình ảnh quảng cáo của người nổi tiếng không phải lúc nào cũng phản ánh trải nghiệm sử dụng thực tế. Khi cân nhắc mua smartphone, người dùng nên dựa vào nhu cầu cá nhân, ngân sách và đánh giá thông số thực tế thay vì chỉ dựa vào việc một ngôi sao nào đó đang quảng cáo cho sản phẩm nào."
 related:
   - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
-  - { href: "/articles/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.html", cat: "Smartphone", title: "Samsung Galaxy Z TriFold: điện thoại gập ba đầu tiên, mở ra 10 inch" }
+  - { href: "/articles/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.html", cat: "Smartphone", title: "Galaxy Z TriFold: điện thoại gập ba đầu tiên, mở ra 10 inch" }
   - { href: "/articles/iphone-fold-2026-apple-foldable.html", cat: "Smartphone", title: "iPhone Fold: Apple ra mắt điện thoại gập đầu tiên, mỏng 4.5mm, màn 7.8 inch, giá từ $2,000" }
 featured: false
 ---

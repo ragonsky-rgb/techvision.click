@@ -1,6 +1,6 @@
 ---
 slug: "iphone-18-pro-anh-that-ro-ri-hacker-tan-cong-tata-electronics-2026"
-title: "iPhone 18 Pro lộ ảnh thật: hacker tấn công nhà cung ứng Tata của Apple"
+title: "iPhone 18 Pro lộ ảnh thật sau vụ hacker tấn công Tata"
 description: "Hacker tấn công Tata Electronics, nhà cung ứng của Apple tại Ấn Độ, làm rò rỉ ảnh thử độ bền, sơ đồ linh kiện của iPhone 18 và 18 Pro trước ngày ra mắt."
 keywords: "iPhone 18 Pro lộ ảnh, hacker hack iPhone 18, Tata Electronics bị hack, ro ri iPhone 18 Pro, World Leaks Apple"
 category: "Apple"

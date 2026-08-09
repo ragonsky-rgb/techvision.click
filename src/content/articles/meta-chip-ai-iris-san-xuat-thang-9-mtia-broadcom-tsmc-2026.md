@@ -1,6 +1,6 @@
 ---
 slug: "meta-chip-ai-iris-san-xuat-thang-9-mtia-broadcom-tsmc-2026"
-title: "Meta sản xuất chip AI Iris từ tháng 9: canh bạc tự chủ silicon để bớt phụ thuộc Nvidia"
+title: "Meta sản xuất chip AI Iris từ tháng 9, bớt phụ thuộc Nvidia"
 description: "Meta sản xuất chip AI nội bộ Iris từ tháng 9/2026, thiết kế cùng Broadcom, gia công tại TSMC, hướng tới 14 gigawatt điện toán và bớt phụ thuộc Nvidia."
 keywords: "Meta chip Iris, chip AI Meta, MTIA, Meta Broadcom TSMC, chip AI tự phát triển, Meta giảm phụ thuộc Nvidia, chipflation"
 category: "Công nghệ"
@@ -35,7 +35,7 @@ faq:
   - q: "Mục tiêu điện toán 14 gigawatt của Meta có ý nghĩa gì?"
     a: "Meta đặt mục tiêu triển khai khoảng 7 gigawatt năng lực điện toán vào cuối 2026 và nâng gấp đôi lên 14 gigawatt trong năm 2027. Đây là chỉ số phản ánh quy mô điện năng dành cho các trung tâm dữ liệu AI, cho thấy mức đầu tư khổng lồ vào hạ tầng của công ty."
 related:
-  - { href: "/articles/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.html", cat: "AI", title: "NVIDIA Vera Rubin vào sản xuất: nền tảng AI mới với GPU 336 tỷ transistor" }
+  - { href: "/articles/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.html", cat: "AI", title: "NVIDIA Vera Rubin vào sản xuất: GPU 336 tỷ transistor" }
 featured: false
 ---
 

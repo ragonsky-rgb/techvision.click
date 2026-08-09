@@ -1,6 +1,6 @@
 ---
 slug: "sony-khai-tu-dia-vat-ly-playstation-tu-2028"
-title: "Sony khai tử đĩa vật lý PlayStation từ năm 2028, chuyển hẳn sang kỷ nguyên số"
+title: "Sony khai tử đĩa vật lý PlayStation từ năm 2028"
 description: "Sony xác nhận ngừng sản xuất đĩa vật lý cho game PlayStation mới từ tháng 1/2028, chỉ giữ lại phát hành kỹ thuật số, mở đường cho PS6 chỉ chạy digital."
 keywords: "Sony khai tử đĩa PlayStation, PlayStation digital only 2028, PS5 ngừng sản xuất đĩa, PS6 chỉ chạy kỹ thuật số"
 category: "Gaming"

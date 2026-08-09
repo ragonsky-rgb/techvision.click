@@ -1,6 +1,6 @@
 ---
 slug: "xiaomi-17-ultra-cam-bien-1-inch-leica-camera-2026"
-title: "Xiaomi 17 Ultra: cảm biến 1 inch hợp tác Leica, ống tele 200MP zoom biến thiên"
+title: "Xiaomi 17 Ultra: cảm biến 1 inch Leica, ống tele 200MP"
 description: "Xiaomi 17 Ultra dùng cảm biến chính 1 inch, tele 200MP zoom biến thiên và camera Leica, chip Snapdragon 8 Elite Gen 5. Đánh giá cấu hình camera phone 2026."
 keywords: "Xiaomi 17 Ultra, Xiaomi 17 Ultra camera, Xiaomi 17 Ultra giá, cảm biến 1 inch, camera Leica, Xiaomi 17 Ultra Việt Nam, camera phone 2026"
 category: "Smartphone"

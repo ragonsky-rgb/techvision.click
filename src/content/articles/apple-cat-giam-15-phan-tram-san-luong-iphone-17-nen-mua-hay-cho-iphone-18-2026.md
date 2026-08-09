@@ -37,7 +37,7 @@ faq:
     a: "Nếu cần máy ngay, ưu tiên chi phí hợp lý và không quá bận tâm tới màn hình gập hay chip A20, iPhone 17 là lựa chọn an toàn với giá đang mềm dần. Nếu muốn công nghệ mới nhất, chip 2nm hoặc thiết kế gập, nên chờ tới sau sự kiện tháng 9 để cân nhắc, đồng thời thời điểm đó giá iPhone 17 cũng sẽ giảm thêm."
 related:
   - { href: "/articles/iphone-18-pro-max-hay-galaxy-s26-ultra-cho-hay-mua-2026.html", cat: "Smartphone", title: "iPhone 18 Pro Max hay Galaxy S26 Ultra: chờ hay mua 2026?" }
-  - { href: "/articles/apple-iphone-ultra-gap-nang-don-hang-10-trieu-may-2026.html", cat: "Apple", title: "Apple nâng đơn hàng iPhone Ultra gập lên 10 triệu máy: tự tin hay liều lĩnh?" }
+  - { href: "/articles/apple-iphone-ultra-gap-nang-don-hang-10-trieu-may-2026.html", cat: "Apple", title: "Apple nâng đơn hàng iPhone Ultra gập lên 10 triệu máy" }
   - { href: "/articles/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.html", cat: "Apple", title: "Apple cho thuê iPhone giá từ 17,99 USD/tháng qua Klarna" }
 featured: true
 ---

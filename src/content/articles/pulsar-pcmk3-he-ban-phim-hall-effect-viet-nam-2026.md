@@ -1,6 +1,6 @@
 ---
 slug: "pulsar-pcmk3-he-ban-phim-hall-effect-viet-nam-2026"
-title: "Pulsar PCMK3 HE ra mắt Việt Nam: bàn phím Hall Effect 8K polling, Rapid Trigger 0,01mm"
+title: "Pulsar PCMK3 HE về Việt Nam: bàn phím Hall Effect 8K"
 description: "Pulsar PCMK3 HE chính thức có mặt tại Việt Nam, switch từ tính Hall Effect, polling rate 8K, Rapid Trigger độ phân giải 0,01mm, hỗ trợ tuỳ chỉnh điểm kích hoạt."
 keywords: "Pulsar PCMK3 HE, bàn phím Hall Effect, PCMK3 HE Việt Nam, bàn phím gaming từ tính, Rapid Trigger 2026"
 category: "Gaming"

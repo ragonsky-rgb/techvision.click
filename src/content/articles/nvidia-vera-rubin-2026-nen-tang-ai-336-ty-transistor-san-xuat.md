@@ -1,6 +1,6 @@
 ---
 slug: "nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat"
-title: "NVIDIA Vera Rubin vào sản xuất: nền tảng AI mới với GPU 336 tỷ transistor"
+title: "NVIDIA Vera Rubin vào sản xuất: GPU 336 tỷ transistor"
 description: "NVIDIA ra mắt nền tảng AI Vera Rubin tại CES 2026 và vào sản xuất, GPU Rubin trên tiến trình 3nm với 336 tỷ transistor, giảm tới 10 lần chi phí suy luận"
 keywords: "NVIDIA Vera Rubin, Rubin GPU, AI supercomputer, NVIDIA CES 2026, chip AI, Vera CPU, trung tâm dữ liệu AI, Rubin Ultra"
 category: "AI"

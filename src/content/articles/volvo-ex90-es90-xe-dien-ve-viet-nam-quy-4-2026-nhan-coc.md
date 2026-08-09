@@ -1,6 +1,6 @@
 ---
 slug: "volvo-ex90-es90-xe-dien-ve-viet-nam-quy-4-2026-nhan-coc"
-title: "Volvo EX90 và ES90 về Việt Nam quý 4/2026: nhận cọc, thông số xe điện Thụy Điển"
+title: "Volvo EX90 và ES90 về Việt Nam quý 4/2026: cọc, thông số"
 description: "Volvo đưa EX90 và ES90 về Việt Nam quý 4/2026, nhận cọc từ tháng 7. EX90 517 mã lực, ES90 nền tảng 800V, sạc 350 kW; giá bán tại Việt Nam chưa công bố."
 keywords: "Volvo EX90 Việt Nam, Volvo ES90, xe điện Volvo, EX90 thông số, ES90 nền tảng 800V, xe điện Thụy Điển, Volvo nhận cọc 2026"
 category: "Công nghệ"

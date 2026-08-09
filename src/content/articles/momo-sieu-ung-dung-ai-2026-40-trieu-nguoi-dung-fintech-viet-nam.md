@@ -1,6 +1,6 @@
 ---
 slug: "momo-sieu-ung-dung-ai-2026-40-trieu-nguoi-dung-fintech-viet-nam"
-title: "MoMo: siêu ứng dụng AI dẫn đầu fintech Việt Nam với hơn 40 triệu người dùng"
+title: "MoMo: siêu ứng dụng AI với hơn 40 triệu người dùng Việt"
 description: "MoMo thành siêu ứng dụng tài chính AI với hơn 40 triệu người dùng Việt Nam, dùng GPU NVIDIA chấm điểm vay dưới 2 giây, gọi vốn Series E 200 triệu USD"
 keywords: "MoMo, siêu ứng dụng, ví điện tử, fintech Việt Nam, MoMo AI, thanh toán di động, Series E, công nghệ tài chính"
 category: "Công nghệ"
@@ -38,7 +38,7 @@ faq:
     a: "MoMo đã gọi vốn nhiều vòng, gần nhất là Series E trị giá 200 triệu USD do tập đoàn Mizuho của Nhật dẫn dắt, cùng các quỹ đầu tư khác. Đây là nguồn lực để MoMo mở rộng và đầu tư công nghệ. Về kế hoạch niêm yết, từng có thông tin về dự định IPO, nhưng chưa có công bố chính thức cụ thể cho thời điểm gần. Người quan tâm nên theo dõi thông báo chính thức từ MoMo để có thông tin chính xác."
 related:
   - { href: "/articles/lynk-co-02-ra-mat-viet-nam-gia-du-kien-900-trieu.html", cat: "Công nghệ", title: "Lynk & Co 02 sắp về Việt Nam, giá dự kiến từ 900 triệu" }
-  - { href: "/articles/zalo-binh-dan-hoa-ai-2026-tro-ly-cong-dan-so-80-trieu-nguoi-dung.html", cat: "AI", title: "Zalo bình dân hóa AI: trợ lý Công dân số phục vụ gần 80 triệu người dùng" }
+  - { href: "/articles/zalo-binh-dan-hoa-ai-2026-tro-ly-cong-dan-so-80-trieu-nguoi-dung.html", cat: "AI", title: "Zalo ra trợ lý Công dân số cho gần 80 triệu người dùng" }
   - { href: "/articles/gac-gs3-emzoom-ra-mat-viet-nam-gia-639-trieu-2026.html", cat: "Công nghệ", title: "GAC GS3 Emzoom ra mắt Việt Nam: giá 639 triệu, 174 mã lực" }
 featured: false
 ---

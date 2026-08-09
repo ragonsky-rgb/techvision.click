@@ -1,6 +1,6 @@
 ---
 slug: "apple-iphone-ultra-gap-nang-don-hang-10-trieu-may-2026"
-title: "Apple nâng đơn hàng iPhone Ultra gập lên 10 triệu máy: tự tin hay liều lĩnh?"
+title: "Apple nâng đơn hàng iPhone Ultra gập lên 10 triệu máy"
 description: "Apple được cho là đã yêu cầu chuỗi cung ứng nâng sản lượng iPhone Ultra gập lên khoảng 10 triệu máy 2026, tăng mạnh so với dự báo 7-8 triệu máy trước đó."
 keywords: "iPhone Ultra, iPhone gập, iPhone Fold, Apple foldable 2026, iPhone Ultra giá bao nhiêu, iPhone 18 Pro, đơn hàng iPhone gập 10 triệu, Apple điện thoại gập"
 category: "Apple"
@@ -39,7 +39,7 @@ faq:
   - q: "iPhone Ultra khác gì so với Samsung Galaxy Z Fold8?"
     a: "iPhone Ultra dùng tỷ lệ 4:3 rộng hơn, giống máy tính bảng thu nhỏ, trong khi Galaxy Z Fold8 theo tỷ lệ dọc truyền thống hơn. Cả hai đều nhắm tới việc giảm nếp gấp màn hình, nhưng cách tiếp cận phần cứng và hệ sinh thái phần mềm khác biệt hoàn toàn."
 related:
-  - { href: "/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html", cat: "Apple", title: "iPhone sẽ tự khóa khi bị giật khỏi tay: Apple phát triển tính năng chống cướp giật mới" }
+  - { href: "/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html", cat: "Apple", title: "iPhone sẽ tự khóa khi bị giật khỏi tay: tính năng mới" }
 featured: true
 ---
 

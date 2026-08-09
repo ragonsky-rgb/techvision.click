@@ -1,6 +1,6 @@
 ---
 slug: "vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi"
-title: "VNeID cập nhật loạt tiện ích 2026: phản ánh lừa đảo, tích hợp lý lịch tư pháp"
+title: "VNeID 2026 thêm tiện ích: phản ánh lừa đảo, lý lịch tư pháp"
 description: "VNeID phiên bản mới giữa 2026 thêm chức năng phản ánh lừa đảo trực tuyến, quét QR căn cước; từ 1/7/2026 tích hợp lý lịch tư pháp, hơn 50 tiện ích cho người dân"
 keywords: "VNeID cập nhật 2026, VNeID tính năng mới, phản ánh lừa đảo VNeID, lý lịch tư pháp VNeID, định danh điện tử, VNeID 2.2.8, tiện ích VNeID"
 category: "Internet"

@@ -1,6 +1,6 @@
 ---
 slug: "fpt-ai-factory-2026-nha-may-ai-chu-quyen-viet-nam-nvidia"
-title: "FPT AI Factory: nhà máy AI đầu tiên Việt Nam, nền móng cho AI có chủ quyền"
+title: "FPT AI Factory: nhà máy AI đầu tiên của Việt Nam"
 description: "FPT AI Factory là nhà máy AI đầu tiên Việt Nam, vận hành hàng nghìn GPU NVIDIA từ 2025, vốn 200 triệu USD, phục vụ hơn 18.000 người dùng, hướng AI có chủ quyền"
 keywords: "FPT AI Factory, nhà máy AI Việt Nam, AI có chủ quyền, FPT NVIDIA, GreenNode, GPU H100, trung tâm dữ liệu AI, sovereign AI"
 category: "Công nghệ"
@@ -37,7 +37,7 @@ faq:
   - q: "Hạ tầng AI này có ý nghĩa gì với Việt Nam?"
     a: "Hạ tầng AI nội địa như FPT AI Factory giúp Việt Nam giảm phụ thuộc vào hạ tầng nước ngoài, đảm bảo an ninh dữ liệu và thúc đẩy ứng dụng AI trong nước. Việt Nam đặt mục tiêu xây ba trung tâm dữ liệu quốc gia và lọt top 4 quốc gia AI hàng đầu Đông Nam Á vào năm 2030. Điều này tạo cơ hội việc làm công nghệ cao, hỗ trợ doanh nghiệp và startup, đồng thời nâng vị thế của Việt Nam trên bản đồ công nghệ khu vực."
 related:
-  - { href: "/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html", cat: "Công nghệ", title: "Viettel khởi công nhà máy chip bán dẫn đầu tiên của Việt Nam tại Hòa Lạc" }
+  - { href: "/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html", cat: "Công nghệ", title: "Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc" }
   - { href: "/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html", cat: "Apple", title: "WWDC 2026 mấy giờ Việt Nam? Xem ở đâu, iOS 27 và Siri mới" }
   - { href: "/articles/huawei-matepad-11-5-papermatte-2026-ra-mat-viet-nam.html", cat: "Công nghệ", title: "Huawei MatePad 11.5 PaperMatte 2026 ra mắt Việt Nam" }
 featured: false
