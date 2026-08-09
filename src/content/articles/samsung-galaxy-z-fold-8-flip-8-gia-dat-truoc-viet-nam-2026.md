@@ -1,7 +1,7 @@
 ---
 slug: "samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026"
 title: "Đặt trước Galaxy Z Fold 8, Z Flip 8: quà tặng từng đại lý"
-description: "Chương trình đặt trước Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: quà tặng, cọc 500.000đ. Giá chính thức: Fold 8 từ 46,99 triệu, Flip 8 từ 31,99 triệu đồng."
+description: "Chương trình đặt trước Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: quà tặng, cọc 500.000đ. Giá niêm yết lúc ra mắt: Fold 8 46,99 triệu, Flip 8 31,99 triệu."
 keywords: "Galaxy Z Fold 8 giá, Galaxy Z Flip 8 giá Việt Nam, Galaxy Z Fold 8 đặt trước, Samsung Unpacked 22 7 2026, Galaxy Z Fold 8 Ultra, cấu hình Galaxy Z Fold 8"
 category: "Smartphone"
 type: "tin-tuc"

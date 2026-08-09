@@ -1,7 +1,7 @@
 ---
 slug: "gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026"
 title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8"
-description: "Giá bán thực tế 9/8/2026: Z Flip 8 27,49 triệu, Z Fold 8 42,49 triệu, Fold 8 Ultra 48,49 triệu. Fold 8 đắt hơn Flip 8 đúng 15 triệu ở cùng bản 256GB."
+description: "Giá niêm yết Z Flip 8 31,99 triệu, Z Fold 8 46,99 triệu. Khảo sát đại lý ngày 9/8 đã giảm còn 27,49 và 42,49 triệu. So sánh ưu đãi từng chuỗi."
 keywords: "gia Galaxy Z Fold 8 Viet Nam, gia Galaxy Z Flip 8, dat truoc Galaxy Z Fold 8, dat truoc o dau loi, Galaxy Z Fold 8 Ultra gia, uu dai thu cu Galaxy Z, Samsung Z Fold 8 Flip 8 gia"
 category: "Smartphone"
 type: "tin-tuc"
