@@ -39,7 +39,6 @@ faq:
 related:
   - { href: "/articles/top-thiet-bi-dich-thuat-ai-tot-nhat-nua-dau-2026-theo-nhu-cau.html", cat: "Công nghệ", title: "Top thiết bị dịch thuật AI tốt nhất nửa đầu 2026 theo nhu cầu" }
   - { href: "/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html", cat: "Laptop", title: "Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu" }
-  - { href: "/articles/top-10-cua-hang-mua-macbook-gia-tot-2026-shopee-fpt-cellphones.html", cat: "Laptop", title: "Top 10 cửa hàng mua MacBook giá tốt 2026, có cả Shopee Mall" }
 featured: false
 ---
 

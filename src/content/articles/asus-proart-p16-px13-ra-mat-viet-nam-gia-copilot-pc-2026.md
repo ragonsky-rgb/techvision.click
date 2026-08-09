@@ -39,7 +39,6 @@ faq:
   - q: "Nên chọn ProArt hay các laptop AI phổ thông hơn?"
     a: "ProArt P16 và PX13 định vị ở phân khúc cao cấp cho người làm sáng tạo chuyên nghiệp cần màn chuẩn màu và cấu hình mạnh, nên mức giá cũng cao. Người dùng phổ thông chỉ cần laptop AI cho công việc văn phòng và giải trí có thể cân nhắc các mẫu Copilot+ PC tầm trung với mức giá dễ tiếp cận hơn nhiều."
 related:
-  - { href: "/articles/laptop-ai-copilot-plus-pc-2026-nen-mua-nao-huong-dan.html", cat: "Laptop", title: "Laptop AI Copilot+ PC 2026: nên mua mẫu nào, hướng dẫn chọn" }
   - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Công nghệ", title: "Realme 16T 5G pin 8.000mAh ra mắt Việt Nam, giá từ 7 triệu" }
   - { href: "/articles/asus-rog-flow-z13-ryzen-ai-max-395-may-tinh-bang-gaming-2026.html", cat: "Laptop", title: "ASUS ROG Flow Z13 chip Ryzen AI Max+ 395: máy tính bảng gaming" }
 featured: true

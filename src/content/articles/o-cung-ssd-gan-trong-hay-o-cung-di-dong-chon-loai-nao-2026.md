@@ -38,7 +38,6 @@ faq:
     a: "Bạn nên chọn SSD gắn trong nếu muốn tăng tốc máy tính, cài hệ điều hành, phần mềm và chạy tác vụ nặng cần tốc độ cao. Chọn ổ cứng di động gắn ngoài nếu cần sao lưu dữ liệu, mở rộng dung lượng và mang theo file linh hoạt giữa nhiều máy. Đây là hai giải pháp phục vụ mục đích khác nhau chứ không đơn thuần hơn kém, nên nhiều người dùng cả hai, một SSD gắn trong để máy chạy nhanh và một ổ cứng di động để sao lưu, lưu trữ dữ liệu, tùy theo nhu cầu và ngân sách của mình."
 related:
   - { href: "/articles/hdmi-hay-displayport-chon-cong-nao-pc-man-hinh-2026.html", cat: "Công nghệ", title: "HDMI hay DisplayPort? Chọn cổng nào cho PC, màn hình 2026" }
-  - { href: "/articles/cach-chon-dong-ho-thong-minh-smartwatch-2026-tieu-chi-tuong-thich.html", cat: "Công nghệ", title: "Cách chọn đồng hồ thông minh 2026: tương thích, sức khỏe, pin, giá" }
   - { href: "/articles/xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026.html", cat: "Smartphone", title: "Xiaomi 17 vs iQOO 15: camera Leica hay gaming, chọn máy nào?" }
 featured: false
 ---

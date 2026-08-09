@@ -37,9 +37,7 @@ faq:
   - q: "Honor WIN Turbo giá bao nhiêu và có về Việt Nam không?"
     a: "Tại Trung Quốc, Honor WIN Turbo có giá khởi điểm 3.299 nhân dân tệ cho bản 12GB RAM và 256GB, tương đương khoảng 486 USD, bản 16GB RAM và 512GB khoảng 4.199 nhân dân tệ. Hiện máy chưa có giá phân phối chính hãng tại Việt Nam. Người dùng quan tâm nên theo dõi thông tin từ Honor Việt Nam và cân nhắc kênh mua cũng như chính sách bảo hành trước khi quyết định."
 related:
-  - { href: "/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html", cat: "Smartphone", title: "Honor 600 Lite ra mắt Việt Nam, pin 6520mAh" }
   - { href: "/articles/iqoo-15-ultra-gaming-antutu-quat-tan-nhiet-pin-7400mah-2026.html", cat: "Smartphone", title: "iQOO 15 Ultra: gaming AnTuTu 4,5 triệu, quạt tản nhiệt" }
-  - { href: "/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html", cat: "Smartphone", title: "Honor Magic V5: điện thoại gập mỏng nhất thế giới chỉ 8,8mm, pin 5820mAh" }
 featured: false
 ---
 

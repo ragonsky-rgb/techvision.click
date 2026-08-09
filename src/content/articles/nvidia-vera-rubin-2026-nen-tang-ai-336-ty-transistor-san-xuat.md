@@ -39,7 +39,6 @@ faq:
 related:
   - { href: "/articles/nvidia-gtc-taipei-2026-vera-rubin-dai-loan-ha-tang-ai.html", cat: "AI", title: "NVIDIA GTC Taipei 2026: Đài Loan tăng tốc hạ tầng AI Vera Rubin" }
   - { href: "/articles/nvidia-gtc-2026-vera-rubin-dgx-station.html", cat: "AI", title: "NVIDIA GTC 2026: Vera Rubin ra mắt, DGX Station cho mọi nhà, Jensen tuyên bố doanh thu 1 nghìn tỷ USD" }
-  - { href: "/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html", cat: "AI", title: "Qualcomm AI200, AI250: chip data center đấu NVIDIA" }
 featured: false
 ---
 

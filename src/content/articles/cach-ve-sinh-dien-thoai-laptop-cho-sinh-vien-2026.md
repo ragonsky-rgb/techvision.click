@@ -38,7 +38,6 @@ faq:
     a: "Nên lau nhẹ màn hình, mặt lưng điện thoại và vỏ laptop hằng tuần vì đây là nơi tiếp xúc tay nhiều. Vệ sinh sâu hơn như làm sạch cổng sạc, loa, bàn phím và thổi bụi khe tản nhiệt nên làm mỗi 1 tới 3 tháng, hoặc sớm hơn nếu bạn thấy máy sạc chập chờn, loa nhỏ tiếng hay laptop nóng và quạt kêu to bất thường. Duy trì đều đặn giúp máy bền và hoạt động ổn định hơn."
 related:
   - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-dung-cach-2026.html", cat: "Công nghệ", title: "Vệ sinh điện thoại, laptop đúng cách: xử lý khi dính nước" }
-  - { href: "/articles/cach-nhan-biet-go-ung-dung-doc-hai-virus-tren-dien-thoai-2026.html", cat: "Internet", title: "Cách nhận biết và gỡ ứng dụng độc hại trên điện thoại: 8 bước bảo vệ 2026" }
   - { href: "/articles/cach-doc-thong-so-camera-dien-thoai-mp-f-ois-2026.html", cat: "Camera", title: "Cách đọc thông số camera điện thoại: MP, khẩu độ f, OIS 2026" }
 featured: true
 ---

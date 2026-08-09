@@ -38,8 +38,6 @@ faq:
     a: "Nếu ưu tiên hiệu năng thô, màn hình lớn 13,3 inch tần số cao, pin dung lượng khủng và mức giá dễ chịu, MagicPad 3 Pro là lựa chọn rất đáng giá trong thế giới Android. Ngược lại, nếu bạn cần hệ sinh thái ứng dụng tối ưu cho tablet, thời gian cập nhật dài và khả năng đồng bộ với các thiết bị Apple, iPad vẫn có lợi thế. Quyết định phụ thuộc vào nền tảng bạn đang dùng và loại ứng dụng cần chạy."
 related:
   - { href: "/articles/iqoo-15-ultra-gaming-antutu-quat-tan-nhiet-pin-7400mah-2026.html", cat: "Smartphone", title: "iQOO 15 Ultra: gaming phone AnTuTu 4,5 triệu, có quạt tản nhiệt" }
-  - { href: "/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html", cat: "Smartphone", title: "Xiaomi 17 Series ra mắt Việt Nam: camera Leica, Snapdragon 8 Elite Gen 5" }
-  - { href: "/articles/laptop-ai-copilot-plus-pc-2026-nen-mua-nao-huong-dan.html", cat: "Laptop", title: "Laptop AI Copilot+ PC 2026: nên mua loại nào, giá bao nhiêu?" }
 featured: false
 ---
 

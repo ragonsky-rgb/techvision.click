@@ -39,7 +39,6 @@ faq:
 related:
   - { href: "/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html", cat: "Apple", title: "WWDC 2026 recap: tất cả công bố Siri AI, iOS 27, macOS Golden Gate" }
   - { href: "/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html", cat: "Apple", title: "Siri AI kết hợp Google Gemini trên iOS 27: những gì cần biết" }
-  - { href: "/articles/apple-noi-khong-agentic-ai-wwdc-2026-siri-than-trong.html", cat: "Apple", title: "Apple nói không với agentic AI: vì sao Siri đi đường thận trọng" }
 featured: true
 ---
 

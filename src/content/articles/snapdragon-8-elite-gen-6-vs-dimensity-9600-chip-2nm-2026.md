@@ -39,7 +39,6 @@ faq:
   - q: "Người dùng phổ thông có cần chip 2nm không?"
     a: "Với đa số nhu cầu như mạng xã hội, xem video, chụp ảnh và chơi game phổ thông, chip flagship đời trước hoặc chip tầm trung cao đã quá đủ. Lợi ích của chip 2nm rõ nhất với người chơi game nặng, quay dựng video hoặc dùng nhiều tác vụ AI trên máy. Người dùng bình thường nên ưu tiên tổng thể máy như pin, màn hình và camera hơn là chạy theo con chip mới nhất."
 related:
-  - { href: "/articles/vivo-x300-pro-camera-200mp-zeiss-dimensity-9500-2026.html", cat: "Smartphone", title: "Vivo X300 Pro: camera 200MP Zeiss, chip Dimensity 9500" }
   - { href: "/articles/oneplus-16-ro-ri-snapdragon-8-elite-gen6-pro-pin-9000mah-2026.html", cat: "Smartphone", title: "OnePlus 16 rò rỉ: pin 9000mAh, camera 200MP, chip Gen 6" }
   - { href: "/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html", cat: "Laptop", title: "Chip laptop 2026: Panther Lake vs Snapdragon X2 Elite vs AMD" }
 featured: true

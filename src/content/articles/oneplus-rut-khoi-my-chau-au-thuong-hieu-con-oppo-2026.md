@@ -37,9 +37,7 @@ faq:
   - q: "Việc OnePlus rút lui ảnh hưởng gì tới người dùng Việt Nam?"
     a: "OnePlus chưa bao giờ là thương hiệu phổ biến theo đường chính hãng tại Việt Nam, chủ yếu được biết đến qua hàng xách tay và cộng đồng đam mê công nghệ. Nếu OnePlus thu hẹp về vai trò thương hiệu con giá rẻ, dải sản phẩm cao cấp của hãng sẽ khó tiếp cận hơn, trong khi phần cứng có thể ngày càng giống các mẫu Oppo tương ứng."
 related:
-  - { href: "/articles/oneplus-15r-flagship-killer-pin-7400mah-snapdragon-8-gen-5-2026.html", cat: "Smartphone", title: "OnePlus 15R: flagship killer pin 7.400mAh, Snapdragon 8 Gen 5" }
   - { href: "/articles/thi-truong-smartphone-quy-2-2026-xuat-xuong-thap-nhat-13-nam.html", cat: "Công nghệ", title: "Thị trường smartphone quý 2 2026 xuất xưởng thấp nhất 13 năm" }
-  - { href: "/articles/nothing-phone-4b-ra-mat-gia-re-glyph-snapdragon-6-gen-4-2026.html", cat: "Smartphone", title: "Nothing Phone 4b ra mắt giá rẻ, đèn Glyph, Snapdragon 6 Gen 4" }
 featured: true
 ---
 

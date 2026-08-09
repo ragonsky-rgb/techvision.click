@@ -37,7 +37,6 @@ faq:
   - q: "Nên mua RedMagic 11S Pro+ hay flagship phổ thông?"
     a: "RedMagic 11S Pro+ phù hợp nhất với game thủ cần hiệu năng đỉnh, tản nhiệt mạnh, pin lớn và các tính năng chơi game như phím cò, ép xung. Đổi lại máy khá nặng, thiết kế hầm hố và camera không phải thế mạnh. Nếu bạn ưu tiên camera đẹp, thiết kế mỏng nhẹ và trải nghiệm cân bằng cho dùng hằng ngày, một flagship phổ thông sẽ hợp lý hơn. Hãy chọn theo nhu cầu chính là chơi game hay dùng đa dụng để không lãng phí tiền vào tính năng không cần tới."
 related:
-  - { href: "/articles/redmagic-11-pro-dien-thoai-gaming-tan-nhiet-long-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "RedMagic 11 Pro: điện thoại gaming tản nhiệt lỏng, pin 7.500mAh" }
   - { href: "/articles/redmi-k100-k100-pro-ro-ri-pin-9000mah-man-185hz-2026.html", cat: "Smartphone", title: "Redmi K100 và K100 Pro lộ cấu hình: pin 9.000mAh, màn 185Hz" }
   - { href: "/articles/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.html", cat: "Smartphone", title: "Honor 600 Pro: camera 200MP, pin 7000mAh có gì đáng mua?" }
 featured: true

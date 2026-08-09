@@ -39,7 +39,6 @@ faq:
   - q: "Có nên mua POCO F8 Ultra ở thời điểm này không?"
     a: "POCO F8 Ultra phù hợp với người muốn hiệu năng đầu bảng, âm thanh tốt và sạc nhanh nhưng không muốn chi tới mức flagship 30 triệu trở lên. Điểm cần cân nhắc là POCO thường tối ưu phần mềm và cập nhật chậm hơn dòng cao cấp của Xiaomi hay Samsung, camera cũng không phải thế mạnh tuyệt đối. Nếu ưu tiên chơi game, giải trí và giá trị trên số tiền, đây là lựa chọn rất đáng xem xét."
 related:
-  - { href: "/articles/oneplus-15r-flagship-killer-pin-7400mah-snapdragon-8-gen-5-2026.html", cat: "Smartphone", title: "OnePlus 15R flagship killer: pin 7400mAh, Snapdragon 8 Gen 5" }
   - { href: "/articles/top-dien-thoai-manh-nhat-antutu-thang-8-2026-xep-hang.html", cat: "Smartphone", title: "Top điện thoại mạnh nhất AnTuTu tháng 8/2026" }
   - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro chính thức ra mắt: giá, pin 9000mAh" }
 featured: true

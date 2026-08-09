@@ -44,7 +44,6 @@ faq:
     a: "Trong tầm 5 triệu đồng, Samsung Galaxy A16 5G ở mức khoảng 4,3 tới 4,5 triệu là lựa chọn cân bằng nhất nhờ màn hình Super AMOLED, hỗ trợ 5G và cam kết cập nhật phần mềm dài. Nếu ưu tiên thông số thay vì thương hiệu, Redmi Note 14 bản thường quanh 4,5 tới 5 triệu cho màn AMOLED 120Hz và pin lớn hơn. Điểm cần tránh ở tầm giá này là các máy chỉ 4GB RAM, vì sẽ chậm rõ sau khoảng một năm sử dụng."
 related:
   - { href: "/articles/dien-thoai-duoi-10-trieu-dang-mua-nua-cuoi-2026.html", cat: "Smartphone", title: "Điện thoại dưới 10 triệu đáng mua nửa cuối 2026" }
-  - { href: "/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html", cat: "Smartphone", title: "Xiaomi 17 Series ra mắt Việt Nam, Leica, Snapdragon 8 Elite Gen 5" }
   - { href: "/articles/top-dien-thoai-manh-nhat-antutu-thang-8-2026-xep-hang.html", cat: "Smartphone", title: "Top điện thoại mạnh nhất AnTuTu tháng 8/2026: iQOO dẫn đầu" }
 featured: true
 ---

@@ -37,7 +37,6 @@ faq:
   - q: "Hình thức thuê pin của VinFast có lợi gì?"
     a: "Thuê pin giúp giảm đáng kể chi phí mua xe ban đầu, vì pin thường là bộ phận đắt nhất của xe điện. Người dùng trả phí thuê pin theo tháng và được đảm bảo pin luôn ở tình trạng tốt khi đổi tại trạm, không lo chai pin theo thời gian. Đổi lại, cần cân nhắc tổng chi phí thuê pin dài hạn so với mua đứt, tùy vào quãng đường di chuyển hằng tháng của mỗi người."
 related:
-  - { href: "/articles/laptop-ai-copilot-plus-pc-2026-nen-mua-nao-huong-dan.html", cat: "Laptop", title: "Laptop AI Copilot+ PC 2026: nên mua loại nào, giá bao nhiêu?" }
   - { href: "/articles/samsung-galaxy-glasses-kinh-thong-minh-android-xr-gemini-2026.html", cat: "Công nghệ", title: "Galaxy Glasses: kính thông minh Android XR giá bao nhiêu?" }
   - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?" }
 featured: false

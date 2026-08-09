@@ -39,9 +39,7 @@ faq:
   - q: "iPhone Ultra khác gì so với Samsung Galaxy Z Fold8?"
     a: "iPhone Ultra dùng tỷ lệ 4:3 rộng hơn, giống máy tính bảng thu nhỏ, trong khi Galaxy Z Fold8 theo tỷ lệ dọc truyền thống hơn. Cả hai đều nhắm tới việc giảm nếp gấp màn hình, nhưng cách tiếp cận phần cứng và hệ sinh thái phần mềm khác biệt hoàn toàn."
 related:
-  - { href: "/articles/apple-cat-giam-15-phan-tram-san-luong-iphone-17-nen-mua-hay-cho-iphone-18-2026.html", cat: "Apple", title: "Apple cắt giảm 15% sản lượng iPhone 17: nên mua ngay hay chờ iPhone 18?" }
   - { href: "/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html", cat: "Apple", title: "iPhone sẽ tự khóa khi bị giật khỏi tay: Apple phát triển tính năng chống cướp giật mới" }
-  - { href: "/articles/ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet.html", cat: "Apple", title: "iOS 27 có gì mới? 12 tính năng cho người dùng iPhone Việt" }
 featured: true
 ---
 

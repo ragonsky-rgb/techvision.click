@@ -41,7 +41,6 @@ faq:
 related:
   - { href: "/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html", cat: "Apple", title: "iPhone 18 Pro: giá bán, tính năng, ngày ra mắt tháng 9/2026" }
   - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Fold 2026: giá dự kiến, cấu hình, ngày ra mắt" }
-  - { href: "/articles/apple-cat-giam-15-phan-tram-san-luong-iphone-17-nen-mua-hay-cho-iphone-18-2026.html", cat: "Apple", title: "Apple cắt giảm 15% sản lượng iPhone 17: nên mua hay chờ iPhone 18" }
 featured: true
 ---
 

@@ -37,7 +37,6 @@ faq:
     a: "Có. Tai nghe trang bị driver 40mm phủ titanium, đáp tuyến tần số rộng từ 20Hz đến 40kHz và đạt chứng nhận Hi-Res Audio, đáp ứng tốt nhu cầu thưởng thức nhạc chất lượng cao của người dùng."
 related:
   - { href: "/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html", cat: "Smartphone", title: "Xiaomi 17T Series ra mắt 28/5: Leica 5x zoom, pin 6.500mAh, giá từ 12.9 triệu tại Việt Nam" }
-  - { href: "/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html", cat: "Smartphone", title: "Xiaomi 17 Series ra mắt Việt Nam: camera Leica, Snapdragon 8 Elite Gen 5" }
   - { href: "/articles/xiaomi-17-max-pin-8000mah-camera-200mp-leica-gia-viet-nam-2026.html", cat: "Smartphone", title: "Xiaomi 17 Max vừa ra mắt: Pin 8.000mAh, Camera Leica 200MP, Giá Xách Tay Việt Nam Dự Kiến Bao Nhiêu?" }
 featured: true
 ---

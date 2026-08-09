@@ -38,7 +38,6 @@ faq:
     a: "Với đa số người dùng, chỉ cần bật Google Play Protect có sẵn và tuân thủ nguyên tắc cài app từ kho chính thống là đủ an toàn. Phần mềm diệt virus bên thứ ba có thể hữu ích để quét bổ sung, nhưng không thay thế được thói quen dùng máy an toàn. Điều quan trọng hơn cả là không cài file APK trôi nổi, không cấp quyền Trợ năng cho ứng dụng lạ và luôn cập nhật hệ điều hành để vá lỗ hổng."
 related:
   - { href: "/articles/canh-bao-vssid-gia-mao-ma-doc-chiem-quyen-dien-thoai-2026.html", cat: "Internet", title: "Cảnh báo VssID giả mạo chứa mã độc và cách phòng tránh" }
-  - { href: "/articles/cach-nhan-biet-go-ung-dung-doc-hai-virus-tren-dien-thoai-2026.html", cat: "Internet", title: "Cách nhận biết và gỡ ứng dụng độc hại trên điện thoại: 8 bước bảo vệ 2026" }
   - { href: "/articles/cach-doc-thong-so-camera-dien-thoai-mp-f-ois-2026.html", cat: "Camera", title: "Cách đọc thông số camera điện thoại: MP, khẩu độ f, OIS 2026" }
 featured: false
 ---

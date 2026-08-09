@@ -37,7 +37,7 @@ faq:
   - q: "Vì sao mã độc chỉ đòi vài quyền mà lại nguy hiểm đến vậy?"
     a: "Điểm mấu chốt là quyền Trợ năng và quyền đọc tin nhắn. Khi có quyền Trợ năng, một ứng dụng có thể tự bấm nút, điền biểu mẫu và thao tác thay bạn trên các app khác, kể cả app ngân hàng. Khi đọc được tin nhắn, nó lấy luôn mã OTP gửi về máy. Kết hợp hai quyền này, kẻ gian có thể vừa lấy mã xác thực vừa tự thực hiện lệnh chuyển tiền mà bạn không kịp nhận ra, nên hậu quả thường rất nặng."
 related:
-  - { href: "/articles/cach-nhan-biet-go-ung-dung-doc-hai-virus-tren-dien-thoai-2026.html", cat: "Internet", title: "Cách nhận biết và gỡ ứng dụng độc hại trên điện thoại: 8 bước bảo vệ 2026" }
+  - { href: "/articles/dien-thoai-android-nhiem-ma-doc-dau-hieu-cach-xu-ly-2026.html", cat: "Internet", title: "Điện thoại Android nhiễm mã độc: 7 dấu hiệu và cách xử lý 2026" }
 featured: false
 ---
 

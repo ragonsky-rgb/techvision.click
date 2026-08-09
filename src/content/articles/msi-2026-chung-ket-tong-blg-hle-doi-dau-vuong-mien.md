@@ -35,8 +35,6 @@ faq:
   - q: "Người hâm mộ có thể xem trực tiếp chung kết tổng MSI 2026 ở đâu?"
     a: "Trận đấu được phát sóng trực tiếp hoàn toàn miễn phí qua các kênh chính thức như Twitch và YouTube của LoL Esports, cùng các co-stream từ nhiều streamer nổi tiếng trong cộng đồng Liên Minh Huyền Thoại."
 related:
-  - { href: "/articles/hle-vo-dich-msi-2026-thang-blg-3-2.html", cat: "Gaming", title: "Kết quả MSI 2026: HLE vô địch, ngược dòng hạ BLG 3-2" }
-  - { href: "/articles/blg-thang-hle-3-1-msi-2026-vao-chung-ket-tong.html", cat: "Gaming", title: "BLG thắng HLE 3-1, MSI 2026 vào chung kết tổng" }
   - { href: "/articles/ewc-2026-lmht-chung-ket-karmine-corp-dplus-kia.html", cat: "Gaming", title: "EWC 2026 LMHT: chung kết Karmine Corp gặp Dplus KIA" }
 featured: true
 ---

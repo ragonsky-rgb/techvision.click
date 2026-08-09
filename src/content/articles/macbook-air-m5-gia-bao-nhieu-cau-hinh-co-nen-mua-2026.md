@@ -38,8 +38,6 @@ faq:
     a: "Nếu bạn đang dùng MacBook Air M1 hoặc các dòng Intel cũ, MacBook Air M5 là bước nâng cấp rất đáng giá về hiệu năng, pin và cấu hình khởi điểm. Ngược lại, nếu đang dùng bản M4 và nhu cầu chủ yếu là văn phòng, lướt web hay xem phim, mức chênh lệch có thể chưa đủ hấp dẫn để đổi máy ngay. Người dùng nên cân nhắc nhu cầu thực tế, đặc biệt là các tác vụ liên quan tới AI và đồ họa, trước khi bỏ tiền nâng cấp."
 related:
   - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 giá bao nhiêu, lộ cấu hình trước ngày 12/8" }
-  - { href: "/articles/apple-tang-gia-macbook-ipad-mac-studio-viet-nam-2026.html", cat: "Apple", title: "Apple tăng giá MacBook, iPad, Mac Studio tại Việt Nam" }
-  - { href: "/articles/cach-kiem-tra-macbook-cu-truoc-khi-mua-2026.html", cat: "Laptop", title: "Cách kiểm tra MacBook cũ trước khi mua" }
 featured: false
 ---
 

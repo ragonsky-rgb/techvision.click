@@ -37,9 +37,7 @@ faq:
   - q: "Vivo V80 hợp với ai?"
     a: "Vivo V80 hướng tới người dùng thích chụp ảnh, chụp chân dung và cần pin lớn dùng lâu, nhưng không nhất thiết phải mua máy cao cấp giá cao. Camera tele tiềm vọng và selfie 50MP phù hợp với người hay chụp người và mạng xã hội, còn pin 7200mAh cùng sạc 90W đáp ứng nhu cầu dùng cả ngày. Nếu bạn ưu tiên chơi game nặng, nên cân nhắc thêm các máy tầm trung thiên hiệu năng."
 related:
-  - { href: "/articles/vivo-x300-pro-camera-200mp-zeiss-dimensity-9500-2026.html", cat: "Smartphone", title: "Vivo X300 Pro: camera 200MP hợp tác Zeiss, chip Dimensity 9500" }
   - { href: "/articles/vivo-g5i-g5z-ra-mat-pin-7200mah-ip69-gia-tham-khao-2026.html", cat: "Smartphone", title: "Vivo G5i, G5z ra mắt: pin 7200mAh, chuẩn IP69, giá tham khảo" }
-  - { href: "/articles/top-dien-thoai-pin-trau-tren-7000mah-dang-mua-thang-8-2026.html", cat: "Smartphone", title: "Top điện thoại pin trâu trên 7000mAh đáng mua tháng 8/2026" }
 featured: true
 ---
 

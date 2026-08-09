@@ -38,7 +38,6 @@ faq:
     a: "Galaxy Watch Ultra 2 có hai tùy chọn màu là Titanium Silver và Titanium Gray, mang phong cách thể thao cao cấp. Galaxy Watch 9 có ba màu gồm Cream, Gray và Silver, phù hợp nhiều phong cách hằng ngày. Người dùng nên kiểm tra tình trạng màu và kích cỡ tại đại lý chính hãng vì một số phiên bản có thể được ưu tiên phân phối theo đợt."
 related:
   - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ro-ri-pin-cam-bien-unpacked-22-7-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2: rò rỉ pin, cảm biến trước 22/7" }
-  - { href: "/articles/samsung-health-ai-2026-galaxy-watch-tro-ly-suc-khoe-chu-dong.html", cat: "Công nghệ", title: "Samsung Health nâng cấp AI: Galaxy Watch thành trợ lý sức khỏe" }
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Galaxy Unpacked 22/7/2026: Z Fold 8, Z Flip 8 và Galaxy Glasses" }
 featured: false
 ---

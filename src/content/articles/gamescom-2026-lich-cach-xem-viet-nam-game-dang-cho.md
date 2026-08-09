@@ -37,9 +37,7 @@ faq:
   - q: "Người chơi Việt nên chờ đợi gì nhất?"
     a: "Ngoài tâm điểm GTA 6, người chơi Việt có thể chú ý tới loạt game Xbox chơi thử như Call of Duty: Modern Warfare 4, Gears of War: E-Day, Alien: Isolation 2, cùng phần nội dung mới của The Witcher từ CD Projekt Red và lịch game holiday của Nintendo Switch 2. Đây đều là các tựa có cộng đồng người chơi đông tại Việt Nam, dễ tiếp cận qua PC hoặc console đang bán trong nước."
 related:
-  - { href: "/articles/gta-6-ngay-phat-hanh-19-11-2026-vice-city-dat-truoc-25-6.html", cat: "Game", title: "GTA 6 chốt ngày phát hành 19/11/2026, trở lại Vice City, mở đặt trước" }
   - { href: "/articles/game-hay-nintendo-switch-2-thang-7-2026-splatoon-raiders-final-fantasy.html", cat: "Game", title: "Game hay trên Nintendo Switch 2 tháng 7/2026: Splatoon Raiders, Final Fantasy" }
-  - { href: "/articles/valve-steam-machine-ra-mat-30-6-2026-gia-tang-khung-hoang-ram.html", cat: "Game", title: "Valve Steam Machine ra mắt 30/6/2026, giá tăng vì khủng hoảng RAM" }
 featured: true
 ---
 

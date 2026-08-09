@@ -41,7 +41,6 @@ faq:
 related:
   - { href: "/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html", cat: "Laptop", title: "Chip laptop 2026: Panther Lake vs Snapdragon X2 Elite vs AMD" }
   - { href: "/articles/cach-doc-thong-so-camera-dien-thoai-mp-f-ois-2026.html", cat: "Camera", title: "Cách đọc thông số camera điện thoại: MP, khẩu độ f, OIS 2026" }
-  - { href: "/articles/intel-panther-lake-core-ultra-3-ces-2026-18a-npu-ai-pc.html", cat: "Laptop", title: "Intel Panther Lake Core Ultra 3: tiến trình 18A, NPU AI PC" }
 featured: true
 ---
 

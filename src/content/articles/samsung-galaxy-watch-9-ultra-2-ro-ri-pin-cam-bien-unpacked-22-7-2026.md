@@ -38,8 +38,6 @@ faq:
     a: "Chưa. Toàn bộ thông số nêu trong bài đến từ các nguồn rò rỉ trước sự kiện. Cấu hình, tính năng, giá bán và thời điểm phân phối chính hãng, bao gồm cả tại Việt Nam, cần chờ Samsung xác nhận trong sự kiện Galaxy Unpacked ngày 22/7."
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Galaxy Unpacked 22/7/2026: Z Fold 8, Z Flip 8, Galaxy Glasses" }
-  - { href: "/articles/samsung-health-ai-2026-galaxy-watch-tro-ly-suc-khoe-chu-dong.html", cat: "AI", title: "Samsung Health AI 2026: Galaxy Watch thành trợ lý sức khỏe" }
-  - { href: "/articles/cach-chon-dong-ho-thong-minh-smartwatch-2026-tieu-chi-tuong-thich.html", cat: "Wearable", title: "Cách chọn đồng hồ thông minh 2026: tiêu chí và tương thích" }
 featured: true
 ---
 

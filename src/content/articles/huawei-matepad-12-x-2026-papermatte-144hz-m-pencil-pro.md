@@ -37,7 +37,6 @@ faq:
   - q: "Màn hình PaperMatte có ưu điểm gì khi viết?"
     a: "Lớp phủ PaperMatte giảm phản chiếu và tạo độ nhám nhẹ trên bề mặt, giúp đầu bút bám tốt hơn và cho cảm giác viết gần với giấy thật, đồng thời đỡ mỏi mắt hơn khi nhìn lâu. Đây là lý do các máy tính bảng có màn dạng này được nhiều người dùng ghi chép và vẽ ưa chuộng."
 related:
-  - { href: "/articles/samsung-galaxy-tab-s11-may-tinh-bang-nho-gon-dimensity-9400-plus-2026.html", cat: "Công nghệ", title: "Samsung Galaxy Tab S11: máy tính bảng nhỏ gọn, Dimensity 9400+" }
   - { href: "/articles/huawei-matepad-11-5-papermatte-2026-ra-mat-viet-nam.html", cat: "Công nghệ", title: "Huawei MatePad 11.5 PaperMatte 2026 ra mắt Việt Nam" }
 featured: true
 ---

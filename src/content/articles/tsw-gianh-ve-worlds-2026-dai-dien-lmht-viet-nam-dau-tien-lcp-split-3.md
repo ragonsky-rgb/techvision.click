@@ -41,7 +41,6 @@ faq:
 related:
   - { href: "/articles/lcp-2026-split-3-swiss-stage-lich-the-thuc-gam-esports.html", cat: "Công nghệ", title: "LCP 2026 Split 3: thể thức Thụy Sĩ và cửa GAM Esports" }
   - { href: "/articles/worlds-2026-lmht-chung-ket-new-york-lich-suat-lcp.html", cat: "Công nghệ", title: "Worlds 2026 LMHT: chung kết New York, lịch và suất LCP" }
-  - { href: "/articles/top-linh-kien-build-pc-tot-nhat-nua-dau-2026-theo-nhu-cau.html", cat: "Công nghệ", title: "Top linh kiện build PC tốt nhất nửa đầu 2026 theo nhu cầu" }
 featured: true
 ---
 

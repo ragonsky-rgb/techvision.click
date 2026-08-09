@@ -40,7 +40,6 @@ faq:
     a: "Nên vệ sinh sâu khe tản nhiệt laptop, loa và cổng sạc điện thoại mỗi 1 tới 2 tháng, ngắn hơn so với khuyến nghị 1 tới 3 tháng thường thấy ở các bài hướng dẫn nước ngoài, vì độ ẩm cao khiến bụi kết dính nhanh hơn và tạo môi trường thuận lợi cho nấm mốc, vi khuẩn phát triển trong các khe hở. Với máy dùng nhiều ngoài trời hoặc trong môi trường nhiều bụi, có thể rút ngắn xuống mỗi 3 tới 4 tuần."
 related:
   - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-cho-sinh-vien-2026.html", cat: "Công nghệ", title: "Cách vệ sinh điện thoại, laptop cho sinh viên (dụng cụ giá rẻ)" }
-  - { href: "/articles/cach-nhan-biet-go-ung-dung-doc-hai-virus-tren-dien-thoai-2026.html", cat: "Internet", title: "Cách nhận biết và gỡ ứng dụng độc hại trên điện thoại: 8 bước bảo vệ 2026" }
   - { href: "/articles/cach-doc-thong-so-camera-dien-thoai-mp-f-ois-2026.html", cat: "Camera", title: "Cách đọc thông số camera điện thoại: MP, khẩu độ f, OIS 2026" }
 featured: false
 ---

@@ -35,7 +35,6 @@ faq:
   - q: "AFM 3 chạy trên những máy nào?"
     a: "Bản mô hình ngôn ngữ khoảng 3 tỷ tham số được Apple đưa lên các dòng iPhone từ iPhone 15 Pro trở về sau, cùng nhiều thiết bị khác trong hệ sinh thái. Các tác vụ nặng hơn sẽ dựa vào phiên bản chạy trên máy chủ đám mây riêng của Apple."
 related:
-  - { href: "/articles/apple-noi-khong-agentic-ai-wwdc-2026-siri-than-trong.html", cat: "AI", title: "Apple nói không với agentic AI tại WWDC 2026" }
   - { href: "/articles/google-gemini-3-6-flash-flash-lite-flash-cyber-ra-mat-2026.html", cat: "AI", title: "Google ra mắt Gemini 3.6 Flash và 2 mô hình AI mới 2026" }
   - { href: "/articles/google-gemini-intelligence-android-17.html", cat: "AI", title: "Google ra mắt 'Gemini Intelligence' trên Android 17, tuyên chiến trực diện với Apple" }
 featured: false

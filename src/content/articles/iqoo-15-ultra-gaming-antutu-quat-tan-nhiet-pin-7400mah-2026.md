@@ -39,7 +39,6 @@ faq:
 related:
   - { href: "/articles/oppo-k15-ra-mat-quat-tan-nhiet-pin-8000mah-gia-2026.html", cat: "Smartphone", title: "Oppo K15 ra mắt: quạt tản nhiệt tích hợp, pin 8.000mAh" }
   - { href: "/articles/redmagic-11s-pro-plus-vo-dich-antutu-dien-thoai-gaming-2026.html", cat: "Smartphone", title: "RedMagic 11S Pro+ vô địch AnTuTu điện thoại gaming" }
-  - { href: "/articles/redmagic-11-pro-dien-thoai-gaming-tan-nhiet-long-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "RedMagic 11 Pro: điện thoại gaming tản nhiệt lỏng đầu tiên, Snapdragon 8 Elite Gen 5, pin 7.500mAh" }
 featured: false
 ---
 

@@ -38,7 +38,6 @@ faq:
     a: "Đối thủ trực tiếp nhất là OPPO Find X9 Ultra với hệ thống tele tiềm vọng kép, cùng các máy như Vivo X300 Pro, Huawei Pura 90 và Samsung Galaxy S26 Ultra. Trong khi Find X9 Ultra mạnh về zoom đa tiêu cự, Xiaomi 17 Ultra lại đặt cược vào cảm biến chính 1 inch và độ tự nhiên của ảnh, tạo nên hai hướng tiếp cận khác nhau."
 related:
   - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ro-ri-pin-cam-bien-unpacked-22-7-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2: rò rỉ pin, cảm biến trước 22/7" }
-  - { href: "/articles/vivo-x300-pro-camera-200mp-zeiss-dimensity-9500-2026.html", cat: "Smartphone", title: "Vivo X300 Pro: camera 200MP Zeiss, Dimensity 9500" }
   - { href: "/articles/xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026.html", cat: "Smartphone", title: "Xiaomi 17 vs iQOO 15: camera Leica hay gaming, chọn máy nào?" }
 featured: true
 ---

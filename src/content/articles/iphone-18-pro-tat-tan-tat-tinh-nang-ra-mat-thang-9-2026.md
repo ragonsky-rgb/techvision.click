@@ -38,7 +38,6 @@ faq:
     a: "Theo rò rỉ, pin iPhone 18 Pro bản Mỹ vào khoảng 4.288 mAh còn iPhone 18 Pro Max khoảng 5.567 mAh, bản Trung Quốc thấp hơn đôi chút. Về màu sắc, tin đồn nhắc tới một màu đặc biệt mới là Dark Cherry cùng các màu Light Blue, Dark Gray và Silver. Các con số và tên màu này chưa được Apple xác nhận."
 related:
   - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Fold 2026: giá dự kiến, cấu hình, ngày ra mắt" }
-  - { href: "/articles/ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet.html", cat: "Apple", title: "iOS 27 có gì mới? 12 tính năng cho người dùng iPhone Việt" }
   - { href: "/articles/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.html", cat: "Apple", title: "Apple cho thuê iPhone giá từ 17,99 USD/tháng qua Klarna" }
 featured: false
 ---

@@ -38,7 +38,6 @@ faq:
     a: "Apple TV, HomePod và các thiết bị nhà thông minh của Apple lâu nay không được phân phối chính hãng rộng rãi tại Việt Nam, và nhiều tính năng phụ thuộc dịch vụ theo vùng cũng như trợ lý Siri chưa hỗ trợ tiếng Việt đầy đủ. Vì vậy, nhóm sản phẩm này chủ yếu về theo đường xách tay và phù hợp với người đã quen hệ sinh thái Apple, hơn là người dùng phổ thông."
 related:
   - { href: "/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html", cat: "Apple", title: "Siri AI có tiếng Việt không? Lộ trình và máy nào dùng được" }
-  - { href: "/articles/ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet.html", cat: "Apple", title: "iOS 27 có gì mới? 12 tính năng cho người dùng iPhone Việt" }
   - { href: "/articles/iphone-18-pro-anh-that-ro-ri-hacker-tan-cong-tata-electronics-2026.html", cat: "Apple", title: "iPhone 18 Pro lộ ảnh thật: hacker tấn công nhà cung ứng Tata của Apple" }
 featured: true
 ---

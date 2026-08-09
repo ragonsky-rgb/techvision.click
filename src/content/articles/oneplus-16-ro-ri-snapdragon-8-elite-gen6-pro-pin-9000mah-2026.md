@@ -39,7 +39,6 @@ faq:
   - q: "Giá OnePlus 16 dự kiến bao nhiêu?"
     a: "Nguồn tin nói giá khởi điểm OnePlus 16 tại Trung Quốc quanh mốc 4.999 tệ, cao hơn khoảng 1.000 tệ so với OnePlus 15 đời trước. Quy đổi tương đối, mức này rơi vào phân khúc flagship cao cấp. Vì máy không bán chính hãng tại nhiều thị trường, giá về Việt Nam theo đường xách tay có thể chênh lệch đáng kể tùy nguồn hàng và thời điểm."
 related:
-  - { href: "/articles/oneplus-15r-flagship-killer-pin-7400mah-snapdragon-8-gen-5-2026.html", cat: "Smartphone", title: "OnePlus 15R: flagship killer pin 7400mAh, Snapdragon 8 Gen 5" }
   - { href: "/articles/oneplus-rut-khoi-my-chau-au-thuong-hieu-con-oppo-2026.html", cat: "Smartphone", title: "OnePlus rút khỏi Mỹ và châu Âu, thương hiệu con Oppo" }
   - { href: "/articles/snapdragon-8-elite-gen-6-vs-dimensity-9600-chip-2nm-2026.html", cat: "Công nghệ", title: "Snapdragon 8 Elite Gen 6 vs Dimensity 9600: đua chip 2nm" }
 featured: true

@@ -37,9 +37,9 @@ faq:
   - q: "Khi nào Fable 5 và Mythos 5 được mở lại?"
     a: "Chưa có mốc thời gian cụ thể. Anthropic cho biết họ tin rằng có sự hiểu lầm trong chỉ thị và đang làm việc để khôi phục quyền truy cập sớm nhất có thể. Công ty đồng thời phản đối tiêu chuẩn này, cho rằng nếu áp dụng rộng, nó có thể làm đình trệ việc triển khai mọi mô hình AI tiên tiến mới trong toàn ngành."
 related:
-  - { href: "/articles/claude-fable-5-mythos-model-manh-nhat-anthropic-2026.html", cat: "AI", title: "Claude Fable 5: mô hình mạnh nhất của Anthropic năm 2026" }
-  - { href: "/articles/anh-cma-buoc-google-cho-bao-chi-opt-out-ai-overviews-2026.html", cat: "AI", title: "Anh siết quản lý AI: buộc Google cho báo chí opt-out AI Overviews" }
-  - { href: "/articles/qualcomm-ai200-ai250-chip-data-center-dau-nvidia-2026.html", cat: "AI", title: "Qualcomm tung chip AI200, AI250 đấu Nvidia ở data center" }
+  - { href: "/articles/claude-opus-5-anthropic-ra-mat-gia-bang-nua-fable-5-2026.html", cat: "AI", title: "Claude Opus 5 ra mắt: giá bằng nửa Fable 5, mạnh cỡ nào?" }
+  - { href: "/articles/claude-sonnet-5-ra-mat-anthropic-agentic-2026.html", cat: "AI", title: "Claude Sonnet 5 ra mắt: Anthropic hạ giá agent AI, hiệu năng áp sát Opus 4.8" }
+  - { href: "/articles/qwen-3-6-max-mo-hinh-ai-alibaba-lap-trinh-2026.html", cat: "AI", title: "Qwen 3.6 Max: mô hình AI Alibaba đứng đầu về lập trình" }
 featured: true
 ---
 

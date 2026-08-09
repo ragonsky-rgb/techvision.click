@@ -37,7 +37,6 @@ faq:
   - q: "Nên mua Honor 600 Pro hay các đối thủ cùng tầm?"
     a: "Honor 600 Pro phù hợp với người ưu tiên camera zoom, cảm biến 200MP và pin dung lượng lớn trong phân khúc cận cao cấp. Nếu bạn cần hiệu năng gaming đỉnh cao hoặc thương hiệu có hệ sinh thái rộng, nên so sánh thêm với các mẫu cùng tầm giá. Người dùng có thể tham khảo các lựa chọn Android khác để cân nhắc giữa camera, hiệu năng và mức giá trước khi quyết định."
 related:
-  - { href: "/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html", cat: "Smartphone", title: "HONOR 600 Lite ra mắt Việt Nam: pin 6.520mAh, camera 108MP" }
   - { href: "/articles/honor-600-series-camera-200mp-ai-image-to-video-2026.html", cat: "Smartphone", title: "Honor 600 Series: Camera 200MP biến ảnh thành video bằng AI, pin 7.000mAh, IP69K, giá tại Việt Nam 2026" }
   - { href: "/articles/xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026.html", cat: "Smartphone", title: "Xiaomi 17 vs iQOO 15: camera Leica hay gaming, chọn máy nào?" }
 featured: false

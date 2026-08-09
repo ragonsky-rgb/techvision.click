@@ -37,9 +37,7 @@ faq:
   - q: "Máy nào chơi game và pin tốt hơn?"
     a: "iQOO 15 nhỉnh hơn về pin và gaming nhờ viên pin 7.000mAh lớn cùng chip đồ họa gaming Q3 giúp ổn định khung hình khi chơi game nặng. Xiaomi 17 vẫn chơi game rất tốt nhờ cùng chip Snapdragon 8 Elite Gen 5, và bản Max có pin lên tới 8.000mAh, nhưng bản tiêu chuẩn có dung lượng pin nhỏ hơn iQOO 15."
 related:
-  - { href: "/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html", cat: "Smartphone", title: "Xiaomi 17 Series ra mắt Việt Nam: camera Leica, Snapdragon 8 Elite Gen 5" }
   - { href: "/articles/iqoo-15-ultra-gaming-antutu-quat-tan-nhiet-pin-7400mah-2026.html", cat: "Smartphone", title: "iQOO 15 Ultra: gaming phone AnTuTu 4,5 triệu, có quạt tản nhiệt" }
-  - { href: "/articles/oneplus-15r-flagship-killer-pin-7400mah-snapdragon-8-gen-5-2026.html", cat: "Smartphone", title: "OnePlus 15R: flagship killer pin 7.400mAh, Snapdragon 8 Gen 5" }
 featured: true
 ---
 
