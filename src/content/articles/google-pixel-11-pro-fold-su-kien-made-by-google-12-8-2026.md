@@ -1,12 +1,12 @@
 ---
 slug: "google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026"
-title: "Google chốt sự kiện 12/8: Pixel 11 Pro Fold, bỏ bản 128GB"
-description: "Made by Google diễn ra 12/8/2026 với Pixel 11, Pixel 11 Pro và Pixel 11 Pro Fold. Máy gập màn 8 inch, pin 4.658mAh, bỏ bản 128GB vì thiếu chip nhớ."
+title: "Pixel 11 Pro Fold lộ giá 1.899 USD, sự kiện Google 12/8"
+description: "Rò rỉ trước sự kiện Made by Google 12/8/2026: Pixel 11 giá 899 USD, 11 Pro 1.099, 11 Pro XL 1.299 và Pixel 11 Pro Fold 1.899 USD. Máy gập màn 8 inch, bỏ bản 128GB."
 keywords: "Google Pixel 11 Pro Fold, Made by Google 2026, sự kiện Pixel 12 8, Pixel 11 Pro Fold cấu hình, Google máy gập, Pixel 11 series"
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-08T20:00:00+07:00"
-dateModified: "2026-07-08T20:00:00+07:00"
+dateModified: "2026-08-09T19:20:00+07:00"
 deck: "Google đã chính thức ấn định sự kiện Made by Google vào ngày 12/8/2026, sớm hơn thường lệ, và tâm điểm được chờ đợi là chiếc điện thoại gập Pixel 11 Pro Fold. Cùng với Samsung, Google tiếp tục đưa máy gập ra thị trường trước khi Apple kịp góp mặt, trong khi loạt rò rỉ hé lộ nhiều nâng cấp và cả những thay đổi vì cơn khát chip nhớ toàn cầu."
 heroImage: "https://i.ytimg.com/vi/4Gpzrn42-tM/maxresdefault.jpg"
 heroAlt: "Google Pixel 11 Pro Fold ra mắt tại sự kiện Made by Google ngày 12 8 2026"
@@ -26,6 +26,8 @@ stats:
   - { num: "256GB", label: "Dung lượng khởi điểm mới, bản 128GB bị loại bỏ" }
   - { num: "~1.999 euro", label: "Giá tham khảo tại châu Âu của bản gập" }
 faq:
+  - q: "Pixel 11 Pro Fold giá bao nhiêu?"
+    a: "Theo bản rò rỉ trước sự kiện, giá khởi điểm tại Mỹ của cả dòng là: Pixel 11 899 USD, Pixel 11 Pro 1.099 USD, Pixel 11 Pro XL 1.299 USD và Pixel 11 Pro Fold 1.899 USD cho bản 256GB. Đây là con số rò rỉ, giá chính thức chỉ có sau sự kiện Made by Google ngày 12/8/2026, và Google chưa bán chính hãng Pixel tại Việt Nam."
   - q: "Sự kiện Made by Google 2026 diễn ra khi nào?"
     a: "Google xác nhận tổ chức sự kiện Made by Google vào ngày 12/8/2026, sớm hơn so với các năm trước. Sự kiện dự kiến giới thiệu bộ ba Pixel 11, Pixel 11 Pro và Pixel 11 Pro Fold, cùng với đồng hồ Pixel Watch 5 và có thể một số phụ kiện khác."
   - q: "Pixel 11 Pro Fold có cấu hình gì nổi bật?"
@@ -44,6 +46,10 @@ featured: false
 ---
 
 Cuộc đua điện thoại gập cao cấp trong mùa hè 2026 vừa có thêm một tay chơi lớn xác nhận thời điểm ra quân. Google đã chính thức ấn định sự kiện Made by Google vào ngày 12/8/2026, sớm hơn so với thông lệ mọi năm, với tâm điểm được chờ đợi nhất là chiếc điện thoại gập Pixel 11 Pro Fold. Cùng với Samsung, Google tiếp tục tung máy gập ra thị trường trước khi Apple kịp góp mặt, biến nửa cuối năm nay thành giai đoạn sôi động bậc nhất của phân khúc thiết bị gập.
+
+<div class="art-callout">
+  <p><strong>Cập nhật 9/8/2026, ba ngày trước sự kiện:</strong> một bản rò rỉ lớn đã hé lộ giá khởi điểm tại Mỹ của cả dòng: <strong>Pixel 11 899 USD</strong>, <strong>Pixel 11 Pro 1.099 USD</strong>, <strong>Pixel 11 Pro XL 1.299 USD</strong> và <strong>Pixel 11 Pro Fold 1.899 USD</strong> cho bản 256GB. Cùng bản rò rỉ này, chip Tensor G6 đi kèm đồng xử lý bảo mật <strong>Titan M3</strong>, và màn hình ngoài của bản gập được nêu là <strong>6,4 inch</strong> thay vì 6,3 inch như thông tin hồi tháng 7. Toàn bộ vẫn là rò rỉ trước sự kiện, con số chính thức chỉ có sau đêm 12/8.</p>
+</div>
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Google Pixel 11 Pro Fold · Thông tin dự kiến</div>
