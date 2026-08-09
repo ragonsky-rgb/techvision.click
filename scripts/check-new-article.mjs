@@ -113,6 +113,17 @@ async function checkOne(path) {
   const stats = (s.match(/^\s+- \{ num:/gm) || []).length;
   if (stats < LIMITS.statsMin) errs.push(`${stats} stat, duoi ${LIMITS.statsMin}`);
 
+  // Bay hay gap nhat tren site nay: tieu de chot mot con gia cu the trong khi
+  // than bai goi do la "gia du kien". Nguoi tim Google nhin thay con so do nhu
+  // su that, va khi may ra mat that thi tieu de thanh sai. Thang 8/2026 co 5 bai
+  // dinh loi nay, nang nhat la Xiaomi 17T ghi 12,9 trieu trong khi gia that
+  // 17,09 trieu, va Galaxy Glasses ghi 379 USD trong khi Samsung chua cong bo gia.
+  const titleAssertsPrice = /giá (từ|chỉ|bán)|từ [\d.,]+ ?(triệu|tỷ|USD)|\$[\d,.]+/i.test(title || '');
+  const titleHedges = /dự kiến|tin đồn|đồn|có thể|khoảng/i.test(title || '');
+  const bodyHedges = /giá dự kiến|dự kiến khoảng|mức giá dự kiến|giá đồn|chưa công bố giá|giá chính thức sẽ/i.test(body);
+  if (titleAssertsPrice && !titleHedges && bodyHedges)
+    errs.push('tieu de chot mot muc gia nhung than bai goi do la du kien - phai them "du kien"/"tin don" vao tieu de hoac dung gia da xac nhan');
+
   const pub = (s.match(/^datePublished: "(\S{10})/m) || [, ''])[1];
   const today = new Intl.DateTimeFormat('en-CA', {
     timeZone: 'Asia/Ho_Chi_Minh', year: 'numeric', month: '2-digit', day: '2-digit',
