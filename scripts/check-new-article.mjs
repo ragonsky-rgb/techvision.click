@@ -120,8 +120,19 @@ async function checkOne(path) {
   // 17,09 trieu, va Galaxy Glasses ghi 379 USD trong khi Samsung chua cong bo gia.
   const titleAssertsPrice = /giá (từ|chỉ|bán)|từ [\d.,]+ ?(triệu|tỷ|USD)|\$[\d,.]+/i.test(title || '');
   const titleHedges = /dự kiến|tin đồn|đồn|có thể|khoảng/i.test(title || '');
-  const bodyHedges = /giá dự kiến|dự kiến khoảng|mức giá dự kiến|giá đồn|chưa công bố giá|giá chính thức sẽ/i.test(body);
-  if (titleAssertsPrice && !titleHedges && bodyHedges)
+  // Chi tinh la "gia du kien" khi cum ha giong dung sat mot con so tien. Neu
+  // khong, cau kieu "niem yet du kien khoang thang 10/2026" (noi ve NGAY, khong
+  // phai gia) se bi bao oan, va mot bo loc keu oan thi se bi bo qua.
+  const MONEY = String.raw`[\d.,]+\s*(triệu|tỷ|USD|đồng|\$)`;
+  const bodyHedges =
+    new RegExp(String.raw`(giá dự kiến|mức giá dự kiến|giá đồn|dự kiến khoảng)[^.]{0,40}${MONEY}`, 'i').test(body) ||
+    new RegExp(String.raw`${MONEY}[^.]{0,25}(là (giá|mức) dự kiến|chỉ là tin đồn)`, 'i').test(body) ||
+    /chưa công bố giá|giá chính thức sẽ được công bố/i.test(body);
+  // Bai da duoc doi chieu lai sau su kien thi duoc mien: than bai co giu nguyen
+  // doan du doan cu de nguoi doc so sanh, nhung dau bai da co khoi "Cap nhat
+  // <ngay>" noi ro con so nao la du doan va con so nao la that.
+  const hasDatedUpdate = /Cập nhật \d{1,2}\/\d{1,2}\/\d{4}/.test(body);
+  if (titleAssertsPrice && !titleHedges && bodyHedges && !hasDatedUpdate)
     errs.push('tieu de chot mot muc gia nhung than bai goi do la du kien - phai them "du kien"/"tin don" vao tieu de hoac dung gia da xac nhan');
 
   const pub = (s.match(/^datePublished: "(\S{10})/m) || [, ''])[1];
