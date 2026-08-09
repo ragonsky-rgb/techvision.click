@@ -27,16 +27,25 @@ export async function getAllArticles() {
 // Trang vẫn build và vẫn truy cập được, chỉ không mời Google lập chỉ mục.
 export const indexable = (arts) => arts.filter((a) => !a.noindex);
 
-// Bài "tin nóng" cho news sitemap: trong vòng 48h so với bài mới nhất
-// (tự tương đối, không lệ thuộc đồng hồ máy build).
+// Bài "tin nóng" cho news sitemap: trong vòng 48h tính từ THỜI ĐIỂM BUILD.
+//
+// Trước đây mốc được tính từ bài mới nhất, với lý do "không lệ thuộc đồng hồ
+// máy build". Lý do đó sai với sitemap tin tức: Google chấm hạn 2 ngày theo
+// giờ thực tế, nên độc lập với đồng hồ build tức là sai so với đồng hồ duy
+// nhất có ý nghĩa. Tệ hơn, cửa sổ tự tương đối làm sitemap KHÔNG BAO GIỜ rỗng:
+// site ngừng đăng bài thì nó đóng băng và phục vụ mãi mấy bài đã quá hạn
+// (ngày 9/8/2026 đang có bài từ 6/8, tức 3 ngày tuổi).
+//
+// Rỗng là trạng thái hợp lệ và trung thực trong những ngày không đăng bài,
+// tốt hơn là khai gian một bài cũ thành tin nóng.
 export function recentForNews(all, hours = 48) {
-  const times = all
-    .filter((a) => a.datePublished)
-    .map((a) => new Date(a.datePublished).getTime());
-  if (!times.length) return [];
-  const newest = Math.max(...times);
-  const cutoff = newest - hours * 3600 * 1000;
-  return all.filter((a) => a.datePublished && new Date(a.datePublished).getTime() >= cutoff);
+  const now = Date.now();
+  const cutoff = now - hours * 3600 * 1000;
+  return all.filter((a) => {
+    const t = a.datePublished ? new Date(a.datePublished).getTime() : NaN;
+    // Chặn trên loại bài lỡ ghi ngày ở tương lai, chừa 6h cho lệch múi giờ.
+    return Number.isFinite(t) && t >= cutoff && t <= now + 6 * 3600 * 1000;
+  });
 }
 
 export const SITE = 'https://techvision.click';
