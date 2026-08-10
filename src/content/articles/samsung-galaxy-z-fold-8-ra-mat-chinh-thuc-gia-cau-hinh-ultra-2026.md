@@ -39,7 +39,7 @@ faq:
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8 và Galaxy Glasses" }
   - { href: "/articles/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia.html", cat: "Smartphone", title: "Galaxy Z Flip 8: cấu hình, sạc 45W, giá ra mắt" }
-  - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Smartphone", title: "Giá đặt trước Galaxy Z Fold 8 và Z Flip 8 tại Việt Nam" }
+  - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8" }
 featured: true
 ---
 
@@ -101,7 +101,7 @@ Galaxy Z Fold 8 mở đặt trước ngay từ ngày ra mắt 22/7 và lên kệ
   <figcaption>Galaxy Z Fold 8 mở đặt trước từ 22/7 và lên kệ quốc tế ngày 7/8/2026. Nguồn: YouTube</figcaption>
 </figure>
 
-Người dùng Việt quan tâm toàn cảnh sự kiện có thể xem thêm bài [toàn cảnh Galaxy Unpacked 22/7 với Z Fold 8, Z Flip 8 và Galaxy Glasses](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html), cũng như theo dõi [giá và chương trình đặt trước tại Việt Nam](/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html) để nắm rõ mức chênh lệch giữa các phiên bản và ưu đãi thu cũ đổi mới của từng hệ thống bán lẻ trong giai đoạn cao điểm mở bán.
+Người dùng Việt quan tâm toàn cảnh sự kiện có thể xem thêm bài [toàn cảnh Galaxy Unpacked 22/7 với Z Fold 8, Z Flip 8 và Galaxy Glasses](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html), cũng như theo dõi [giá và chương trình đặt trước tại Việt Nam](/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html) để nắm rõ mức chênh lệch giữa các phiên bản và ưu đãi thu cũ đổi mới của từng hệ thống bán lẻ trong giai đoạn cao điểm mở bán.
 
 ## Nên chọn Galaxy Z Fold 8 hay bản Ultra
 

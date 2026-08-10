@@ -38,7 +38,7 @@ faq:
     a: "Samsung dự kiến trình làng Galaxy Z Fold 8, Z Fold 8 Ultra và Z Flip 8 tại sự kiện Galaxy Unpacked diễn ra ở London vào ngày 22/7. Toàn bộ thông tin và hình ảnh hiện tại đều ở dạng rò rỉ, và chỉ được xác nhận chính thức khi sự kiện diễn ra."
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Công nghệ", title: "Samsung Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
-  - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Smartphone", title: "Đặt trước Galaxy Z Fold 8, Z Flip 8: quà tặng từng đại lý" }
+  - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8" }
   - { href: "/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP" }
 featured: true
 ---
@@ -111,7 +111,7 @@ Không chỉ phần cứng, các ảnh concept về phần mềm cũng rò rỉ.
   <figcaption>J-Hope của BTS bị bắt gặp cầm Galaxy Z Fold 8 màu tím. Nguồn: uarmyhope Instagram</figcaption>
 </figure>
 
-Toàn bộ thông tin và hình ảnh hiện tại đều đến từ các nguồn rò rỉ, và chỉ được xác nhận chính thức khi Samsung tổ chức sự kiện Galaxy Unpacked tại London vào ngày 22/7. Dù vậy, việc các ảnh render trông rất giống ảnh báo chí chính thức, cùng mức độ chi tiết cao, khiến độ tin cậy của đợt rò rỉ này được đánh giá khá cao. Người dùng Việt Nam quan tâm có thể theo dõi thêm về [sự kiện Unpacked 22/7 và toàn bộ dàn sản phẩm](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html), cũng như [thông tin giá đặt trước tại Việt Nam](/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html).
+Toàn bộ thông tin và hình ảnh hiện tại đều đến từ các nguồn rò rỉ, và chỉ được xác nhận chính thức khi Samsung tổ chức sự kiện Galaxy Unpacked tại London vào ngày 22/7. Dù vậy, việc các ảnh render trông rất giống ảnh báo chí chính thức, cùng mức độ chi tiết cao, khiến độ tin cậy của đợt rò rỉ này được đánh giá khá cao. Người dùng Việt Nam quan tâm có thể theo dõi thêm về [sự kiện Unpacked 22/7 và toàn bộ dàn sản phẩm](/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html), cũng như [thông tin giá đặt trước tại Việt Nam](/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html).
 
 <div class="art-callout">✅ <strong>Lưu ý:</strong> Đây là thông tin rò rỉ dựa trên các ảnh render và nguồn tin từ 9to5Google, Android Headlines, SamMobile cùng nhiều nguồn khác, chưa được Samsung xác nhận chính thức. Màu sắc, thông số và tên gọi có thể thay đổi so với sản phẩm cuối cùng. Vui lòng chờ sự kiện Galaxy Unpacked ngày 22/7 để có thông tin chính xác.</div>
 

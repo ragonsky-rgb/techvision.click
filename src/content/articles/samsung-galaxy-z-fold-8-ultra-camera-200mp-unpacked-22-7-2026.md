@@ -38,7 +38,7 @@ faq:
   - q: "Galaxy Z Fold 8 Ultra có pin lớn hơn không?"
     a: "Có. Viên pin được cho là tăng từ 4.400mAh trên Galaxy Z Fold 7 lên 5.000mAh, mức đáng kể với một chiếc gập vốn bị giới hạn không gian bên trong. Máy hỗ trợ sạc có dây 45W, nhanh hơn chuẩn 25W quen thuộc trên nhiều đời Fold trước, giúp rút ngắn thời gian nạp cho viên pin lớn hơn."
 related:
-  - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8, Z Flip 8: giá đặt trước tại Việt Nam" }
+  - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8" }
   - { href: "/articles/snapdragon-8-elite-gen-5-la-gi-chip-android-manh-nhat-2026.html", cat: "Smartphone", title: "Snapdragon 8 Elite Gen 5 là gì, chip Android mạnh nhất 2026" }
   - { href: "/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html", cat: "Smartphone", title: "Galaxy S26 Ultra: camera 200MP, Snapdragon 8 Elite Gen 5" }
 featured: true
@@ -104,7 +104,7 @@ Về giá, nhiều nguồn độc lập đặt bản 256GB ở mức 1.999 USD, 
   <figcaption>Bản Ultra hướng tới nhóm người dùng muốn camera đỉnh cao trên một chiếc gập. Nguồn: YouTube</figcaption>
 </figure>
 
-Người quan tâm cũng nên đặt Z Fold 8 Ultra trong bức tranh chung của cả bộ ba gập năm nay. Bản tiêu chuẩn và Z Flip 8 hướng tới nhóm ngân sách vừa phải hơn, và mức giá đặt trước dự kiến đã được đề cập trong bài [Galaxy Z Fold 8 và Z Flip 8 tại Việt Nam](/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html). Nếu bạn ưu tiên camera hàng đầu và sẵn sàng chi mạnh, bản Ultra là lựa chọn đáng theo dõi nhất trong sự kiện lần này.
+Người quan tâm cũng nên đặt Z Fold 8 Ultra trong bức tranh chung của cả bộ ba gập năm nay. Bản tiêu chuẩn và Z Flip 8 hướng tới nhóm ngân sách vừa phải hơn, và mức giá đặt trước dự kiến đã được đề cập trong bài [Galaxy Z Fold 8 và Z Flip 8 tại Việt Nam](/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html). Nếu bạn ưu tiên camera hàng đầu và sẵn sàng chi mạnh, bản Ultra là lựa chọn đáng theo dõi nhất trong sự kiện lần này.
 
 <div class="art-callout">
   💡 <strong>Lưu ý:</strong> Toàn bộ thông số và mức giá trong bài dựa trên các nguồn rò rỉ và tin đồn trước sự kiện Unpacked 22/7. Cấu hình, màu sắc, giá bán và thời điểm mở bán chính hãng tại Việt Nam có thể khác, và chỉ được xác nhận khi Samsung công bố. Người dùng nên kiểm tra tại đại lý trước khi đặt cọc.

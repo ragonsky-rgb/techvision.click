@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html", cat: "Công nghệ", title: "Honor Magic V5: điện thoại gập mỏng nhất thế giới 8,8mm 2026" }
   - { href: "/articles/honor-magic-v6-dien-thoai-gap-pin-6600mah-lon-nhat-2026.html", cat: "Công nghệ", title: "Honor Magic V6: điện thoại gập pin 6600mAh lớn nhất 2026" }
-  - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Công nghệ", title: "Samsung Galaxy Z Fold 8, Z Flip 8: giá và đặt trước Việt Nam 2026" }
+  - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8" }
 featured: false
 ---
 
@@ -58,7 +58,7 @@ featured: false
 
 ## Điện thoại gập dọc cao cấp
 
-Với người muốn tối đa hóa không gian màn hình để làm việc, đọc tài liệu và giải trí, điện thoại gập dọc dạng cuốn sách là lựa chọn hàng đầu. Samsung Galaxy Z Fold 8 là một cái tên nổi bật với hệ sinh thái hoàn thiện và độ tin cậy đã được khẳng định qua nhiều thế hệ, như thông tin về [Samsung Galaxy Z Fold 8 và Z Flip 8 giá đặt trước Việt Nam](/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html) cho thấy. Đây là lựa chọn an tâm cho người muốn một chiếc máy gập dọc đầu bảng.
+Với người muốn tối đa hóa không gian màn hình để làm việc, đọc tài liệu và giải trí, điện thoại gập dọc dạng cuốn sách là lựa chọn hàng đầu. Samsung Galaxy Z Fold 8 là một cái tên nổi bật với hệ sinh thái hoàn thiện và độ tin cậy đã được khẳng định qua nhiều thế hệ, như thông tin về [Samsung Galaxy Z Fold 8 và Z Flip 8 giá đặt trước Việt Nam](/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html) cho thấy. Đây là lựa chọn an tâm cho người muốn một chiếc máy gập dọc đầu bảng.
 
 <div class="art-video-label">VIDEO · So sánh các điện thoại gập hàng đầu 2026 gồm Samsung, Honor và các đối thủ</div>
 <div class="art-video-wrap">

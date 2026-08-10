@@ -37,7 +37,7 @@ faq:
     a: "Các dự báo trước đây cho rằng iPhone gập đầu tiên của Apple có giá trung bình khoảng 2.500 USD, với các phiên bản dung lượng cao có thể lên tới 3.000 USD, đưa nó vào nhóm smartphone đắt nhất thị trường."
 related:
   - { href: "/articles/apple-iphone-ultra-gap-nang-don-hang-10-trieu-may-2026.html", cat: "Apple", title: "Apple nâng đơn hàng iPhone Ultra gập lên 10 triệu máy" }
-  - { href: "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html", cat: "Smartphone", title: "Samsung Galaxy Z Fold 8, Flip 8 giá đặt trước Việt Nam" }
+  - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8" }
   - { href: "/articles/vi-sao-dien-thoai-gap-doi-ti-le-43-iphone-fold-samsung-co-thiet.html", cat: "Smartphone", title: "Vì sao điện thoại gập đổi tỉ lệ 4:3, iPhone Fold Samsung" }
 featured: false
 ---
@@ -100,7 +100,7 @@ Về thời điểm, Apple được cho là sẽ trình làng iPhone Ultra tại
   <figcaption>Với mức giá dự kiến cao, iPhone Ultra hướng tới nhóm khách hàng cao cấp tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 
-Sự xuất hiện của iPhone Ultra được kỳ vọng sẽ hâm nóng lại phân khúc điện thoại gập, nơi Samsung đang là tên tuổi thống trị với các thế hệ Galaxy Z Fold và Z Flip, bao gồm cả [bộ đôi Galaxy Z Fold 8 và Z Flip 8 sắp mở đặt trước tại Việt Nam](/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html). Việc Apple tham gia cũng có thể thúc đẩy các hãng cải tiến nhanh hơn về bản lề, độ mỏng và tỉ lệ màn hình, xu hướng đang được nhiều nhà sản xuất theo đuổi khi [chuyển sang tỉ lệ màn hình rộng hơn cho điện thoại gập](/articles/vi-sao-dien-thoai-gap-doi-ti-le-43-iphone-fold-samsung-co-thiet.html). Dù pin có thể không phải điểm mạnh nhất, iPhone Ultra vẫn là sản phẩm được chờ đợi bậc nhất nửa cuối năm 2026.
+Sự xuất hiện của iPhone Ultra được kỳ vọng sẽ hâm nóng lại phân khúc điện thoại gập, nơi Samsung đang là tên tuổi thống trị với các thế hệ Galaxy Z Fold và Z Flip, bao gồm cả [bộ đôi Galaxy Z Fold 8 và Z Flip 8 sắp mở đặt trước tại Việt Nam](/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html). Việc Apple tham gia cũng có thể thúc đẩy các hãng cải tiến nhanh hơn về bản lề, độ mỏng và tỉ lệ màn hình, xu hướng đang được nhiều nhà sản xuất theo đuổi khi [chuyển sang tỉ lệ màn hình rộng hơn cho điện thoại gập](/articles/vi-sao-dien-thoai-gap-doi-ti-le-43-iphone-fold-samsung-co-thiet.html). Dù pin có thể không phải điểm mạnh nhất, iPhone Ultra vẫn là sản phẩm được chờ đợi bậc nhất nửa cuối năm 2026.
 
 <div class="art-callout">
   💡 <strong>Lưu ý:</strong> Toàn bộ thông số về pin, thiết kế và giá bán ở trên đều là tin đồn, rò rỉ từ nguồn chuỗi cung ứng, chưa được Apple xác nhận. Con số chính thức có thể thay đổi cho tới khi sản phẩm ra mắt tại sự kiện tháng 9.

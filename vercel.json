@@ -5,25 +5,45 @@
   "redirects": [
     {
       "source": "/",
-      "has": [{ "type": "host", "value": "www.techvision.click" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "www.techvision.click"
+        }
+      ],
       "destination": "https://techvision.click/",
       "permanent": true
     },
     {
       "source": "/:path*",
-      "has": [{ "type": "host", "value": "www.techvision.click" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "www.techvision.click"
+        }
+      ],
       "destination": "https://techvision.click/:path*",
       "permanent": true
     },
     {
       "source": "/",
-      "has": [{ "type": "host", "value": "longtechvision.vercel.app" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "longtechvision.vercel.app"
+        }
+      ],
       "destination": "https://techvision.click/",
       "permanent": true
     },
     {
       "source": "/:path*",
-      "has": [{ "type": "host", "value": "longtechvision.vercel.app" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "longtechvision.vercel.app"
+        }
+      ],
       "destination": "https://techvision.click/:path*",
       "permanent": true
     },
@@ -31,16 +51,33 @@
       "source": "/articles/google-gemini-spark-tro-ly-ai-agentic-lam-viec-24-7-2026.html",
       "destination": "/articles/google-gemini-spark-tro-ly-ai-24-7-agentic-2026.html",
       "permanent": true
+    },
+    {
+      "source": "/articles/samsung-galaxy-z-fold-8-flip-8-gia-dat-truoc-viet-nam-2026.html",
+      "destination": "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html",
+      "permanent": true
     }
   ],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        }
       ]
     }
   ]
