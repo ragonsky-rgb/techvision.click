@@ -8,9 +8,9 @@ type: "tin-tuc"
 datePublished: "2026-08-10T10:00:00+07:00"
 dateModified: "2026-08-10T10:00:00+07:00"
 deck: "POCO vừa bổ sung mẫu giá rẻ M8 Power vào thị trường Ấn Độ với điểm nhấn là viên pin 8000mAh dùng công nghệ Silicon Carbon, một dung lượng thuộc nhóm lớn nhất phân khúc. Máy ra mắt ngày 4/8 và mở bán từ 7/8 qua Flipkart, đi kèm màn hình AMOLED tần số quét 120Hz, chip Snapdragon 4 Gen 4 và camera chính 50MP. Giá niêm yết khởi điểm 24.999 rupee, còn giá ưu đãi mở bán về mốc 21.999 rupee. Bài viết tổng hợp cấu hình theo nguồn quốc tế, quy đổi giá sang tiền Việt và phân tích khả năng về Việt Nam so với những mẫu pin lớn giá rẻ đang bán chính hãng."
-heroImage: "https://i.ytimg.com/vi/GobJjQgMCbw/maxresdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/mg2fxUAYS7I/maxresdefault.jpg"
 heroAlt: "POCO M8 Power 5G dien thoai gia re pin 8000mAh sac 45W man AMOLED 120Hz"
-heroCaption: "POCO M8 Power hướng tới nhóm người dùng cần pin lớn giá rẻ. Ảnh minh họa dòng điện thoại pin trâu. Nguồn: YouTube"
+heroCaption: "POCO M8 Power hướng tới nhóm người dùng cần pin lớn giá rẻ. Ảnh: VaasuTechVlogs trên YouTube"
 tldr: "<strong>POCO M8 Power 5G</strong> ra mắt tại Ấn Độ ngày <strong>4/8/2026</strong>, mở bán từ <strong>7/8</strong> qua Flipkart. Điểm nhấn là viên pin <strong>8000mAh</strong> công nghệ Silicon Carbon, sạc nhanh <strong>45W</strong>, thuộc nhóm dung lượng lớn nhất phân khúc giá rẻ. Máy dùng màn hình <strong>AMOLED</strong> tần số quét <strong>120Hz</strong>, chip <strong>Snapdragon 4 Gen 4</strong>, camera chính <strong>50MP</strong> và chạy Android 16. Giá niêm yết từ <strong>24.999 rupee</strong> (bản 6GB/128GB) và 27.999 rupee (8GB/128GB), giá ưu đãi mở bán về <strong>21.999 rupee</strong>. Quy đổi sang tiền Việt rơi vào khoảng <strong>6,6 tới 8,4 triệu đồng</strong>, nhưng đây chưa phải giá chính hãng tại Việt Nam."
 tags: ["POCO", "Xiaomi", "Smartphone", "Pin trâu", "Giá rẻ"]
 about: ["POCO M8 Power", "POCO", "Snapdragon 4 Gen 4", "Pin Silicon Carbon"]
@@ -65,8 +65,8 @@ Con số dễ gây chú ý nhất trên POCO M8 Power là viên pin 8000mAh. Ở
 Với người dùng, ý nghĩa thực tế là thời lượng sử dụng dài hơn rõ rệt. Một viên pin cỡ này thừa sức đưa máy qua trọn một ngày làm việc nặng, thậm chí gần hai ngày với nhu cầu nhẹ, phù hợp cho người hay di chuyển, shipper, học sinh sinh viên hoặc bất kỳ ai ngại phải mang theo sạc dự phòng. Đi kèm là sạc nhanh 45W có dây, mức công suất khá tốt trong tầm giá, giúp rút ngắn thời gian nạp lại cho viên pin lớn. Đây là công thức mà nhiều mẫu giá rẻ tại Việt Nam đang theo đuổi, khi thời lượng pin luôn nằm trong nhóm tiêu chí được người mua quan tâm hàng đầu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/WzLSTgsrw2U/maxresdefault.jpg" alt="POCO M8 Power pin 8000mAh Silicon Carbon dung ca ngay khong lo het pin" loading="lazy" width="1280" height="720">
-  <figcaption>Pin 8000mAh Silicon Carbon hướng tới trải nghiệm dùng dài, ít phải cắm sạc. Ảnh minh họa dòng điện thoại pin lớn. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/klCeaqqnnqI/maxresdefault.jpg" alt="POCO M8 Power pin 8000mAh Silicon Carbon dung ca ngay khong lo het pin" loading="lazy" width="1280" height="720">
+  <figcaption>Pin 8000mAh Silicon Carbon hướng tới trải nghiệm dùng dài, ít phải cắm sạc. Ảnh: Tech Singh trên YouTube</figcaption>
 </figure>
 
 ## Màn hình AMOLED 120Hz và hiệu năng Snapdragon 4 Gen 4
@@ -76,8 +76,8 @@ Một điểm cộng đáng khen ở tầm giá là POCO M8 Power dùng tấm n�
 Về sức mạnh xử lý, máy dùng chip Snapdragon 4 Gen 4 của Qualcomm, một vi xử lý tầm phổ thông có hỗ trợ kết nối 5G. Đây là cấu hình đủ dùng cho các tác vụ hằng ngày như lướt web, mạng xã hội, xem video, gọi video và chơi các tựa game phổ biến ở thiết lập vừa phải. Cần thẳng thắn rằng đây không phải chip cho game thủ nặng đô, nên nếu mục tiêu của bạn là chơi các tựa game đồ họa cao ở mức cấu hình tối đa, một mẫu tầm trung thiên hiệu năng sẽ phù hợp hơn. Với đa số người dùng phổ thông cần một máy mượt cho công việc và giải trí cơ bản, cấu hình này là hợp lý so với giá.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/I9gxoFnLngk/maxresdefault.jpg" alt="POCO M8 Power man hinh AMOLED 120Hz chip Snapdragon 4 Gen 4 muot" loading="lazy" width="1280" height="720">
-  <figcaption>Màn AMOLED 120Hz và chip Snapdragon 4 Gen 4 hỗ trợ 5G ở tầm giá rẻ. Ảnh minh họa điện thoại phổ thông. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/9zSRsUDYc-I/maxresdefault.jpg" alt="POCO M8 Power man hinh AMOLED 120Hz chip Snapdragon 4 Gen 4 muot" loading="lazy" width="1280" height="720">
+  <figcaption>Màn AMOLED 120Hz và chip Snapdragon 4 Gen 4 hỗ trợ 5G ở tầm giá rẻ. Ảnh: Mr. GTech trên YouTube</figcaption>
 </figure>
 
 ## Camera, phần mềm và kết nối
@@ -87,8 +87,8 @@ Về chụp ảnh, POCO M8 Power trang bị cụm camera sau với cảm biến 
 Máy chạy Android 16 ngay khi mở bán, đi kèm giao diện của POCO. Về kết nối, điểm quan trọng là máy hỗ trợ 5G, giúp yên tâm hơn về khả năng dùng lâu dài khi hạ tầng 5G tại Việt Nam đang mở rộng. Ngoài ra máy còn có các kết nối quen thuộc như Wi-Fi hai băng tần và Bluetooth. Một số nguồn cũng ghi nhận máy có khả năng kháng bụi và nước ở mức cơ bản, phù hợp cho sử dụng thực tế, tuy nhiên bạn nên chờ thông số chuẩn kháng nước chính thức từ hãng để biết chính xác mức độ bảo vệ. Nhìn tổng thể, đây là bộ tính năng cân đối, đặt trọng tâm vào pin và màn hình hơn là camera hay hiệu năng đỉnh.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Q8uNSjSN8qs/maxresdefault.jpg" alt="POCO M8 Power camera chinh 50MP Android 16 ket noi 5G" loading="lazy" width="1280" height="720">
-  <figcaption>Camera chính 50MP và kết nối 5G phục vụ nhu cầu hằng ngày. Ảnh minh họa dòng POCO giá rẻ. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/ntt6xXddqbo/maxresdefault.jpg" alt="POCO M8 Power camera chinh 50MP Android 16 ket noi 5G" loading="lazy" width="1280" height="720">
+  <figcaption>Camera chính 50MP và kết nối 5G phục vụ nhu cầu hằng ngày. Ảnh: Techy Artist trên YouTube</figcaption>
 </figure>
 
 ## Giá quy đổi và khả năng về Việt Nam
@@ -97,11 +97,11 @@ Về giá, POCO M8 Power niêm yết từ 24.999 rupee cho bản 6GB/128GB và 2
 
 Về khả năng phân phối, cần lưu ý POCO không đưa toàn bộ sản phẩm về Việt Nam theo đường chính hãng, một số mẫu chỉ bán ở Ấn Độ hoặc vài thị trường nhất định. Vì vậy người dùng nên chờ thông tin phân phối chính thức thay vì vội tính chuyện đặt mua. Trong lúc chờ, bạn có thể tham khảo các đối thủ trực tiếp đã bán chính hãng, tiêu biểu là [Realme 16T 5G với pin 8000mAh giá từ 7 triệu đồng](/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html), hay [iQOO Z11 với viên pin 9020mAh dùng công nghệ Silicon Carbon](/articles/iqoo-z11-pin-9020mah-silicon-carbon-dimensity-7500-turbo-2026.html). Đây đều là những cái tên cho thấy phân khúc pin lớn giá rẻ tại Việt Nam đang cạnh tranh rất quyết liệt, và POCO M8 Power nếu về nước sẽ phải chen chân vào cuộc đua đó.
 
-<div class="art-video-label">VIDEO · Xu hướng điện thoại pin lớn giá rẻ</div>
+<div class="art-video-label">VIDEO · Đánh giá POCO M8 Power sau 7 ngày</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/EayWDUhXVLU" title="Xu huong dien thoai pin lon gia re" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/c9WqrOzwz-U" title="Danh gia POCO M8 Power sau 7 ngay" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
-<p class="art-video-caption">Cùng góc nhìn với hướng đi pin lớn giá rẻ mà POCO M8 Power theo đuổi. Ảnh minh họa. Nguồn: YouTube</p>
+<p class="art-video-caption">Đánh giá POCO M8 Power sau 7 ngày dùng thực tế. Video: Technical Shubham trên YouTube</p>
 
 ## POCO M8 Power hợp với ai
 
