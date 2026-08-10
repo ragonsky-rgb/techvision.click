@@ -108,6 +108,19 @@ async function checkOne(path) {
   const dash = (s.match(/[—–]/g) || []).length;
   if (dash) errs.push(`co ${dash} em-dash, phai thay bang " - "`);
 
+  // Anh chia se phai la cua TechVision. Ra soat 10/08/2026: 138/140 bai
+  // indexable lay thumbnail YouTube cua nguoi khac lam heroImage, keo theo
+  // og:image, nen chia se len mang xa hoi thi anh dai dien cho site lai la mat
+  // nguoi sang tao khac, logo dai truyen hinh hoac art ban quyen. Bai nao lay
+  // hero tu ytimg thi bat buoc khai them ogImage rieng.
+  //   python3 scripts/make-article-og.py <slug>
+  const heroUrl = fm(s, 'heroImage') || '';
+  const ogImg = fm(s, 'ogImage') || '';
+  if (heroUrl.includes('ytimg.com') && !ogImg)
+    errs.push('hero la thumbnail YouTube nhung chua co ogImage rieng, chay: python3 scripts/make-article-og.py ' + (slug || '<slug>'));
+  if (ogImg && !ogImg.includes('/uploads/og-article/'))
+    warns.push('ogImage khong nam trong /uploads/og-article/, kiem lai co phai the tu dung khong');
+
   const faq = (s.match(/^\s+- q:/gm) || []).length;
   if (faq < LIMITS.faqMin) errs.push(`${faq} cau FAQ, duoi ${LIMITS.faqMin}`);
   const stats = (s.match(/^\s+- \{ num:/gm) || []).length;
