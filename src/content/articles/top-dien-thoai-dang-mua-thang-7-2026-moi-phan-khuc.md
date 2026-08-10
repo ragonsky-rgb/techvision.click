@@ -11,6 +11,7 @@ deck: "Thị trường smartphone tháng 8/2026 có nhiều lựa chọn đáng 
 heroImage: "https://i.ytimg.com/vi/VoBBKzE1O1s/maxresdefault.jpg"
 heroAlt: "Top dien thoai dang mua thang 8 2026 moi phan khuc gia"
 heroCaption: "iPhone 17 Pro Max là một trong những lựa chọn flagship đáng mua nhất tháng 8/2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.jpg"
 tldr: "Giá thực tế tại chuỗi lớn đầu tháng 8/2026: <strong>iPhone 17 Pro Max 256GB khoảng 34,99 triệu</strong> (niêm yết 37,99 triệu), <strong>Galaxy S26 Ultra 12GB/256GB khoảng 30,49 triệu</strong> (niêm yết 36,99 triệu, giảm sâu nhất nhóm flagship), <strong>Xiaomi 17 Pro khoảng 22 tới 24 triệu</strong>. Tầm trung: <strong>Galaxy A56 5G 8GB/128GB 8,99 triệu</strong>, <strong>Redmi Note 14 5G 8GB/256GB 6,49 triệu</strong>. Giá rẻ: <strong>Galaxy A16 5G quanh 4,3 tới 4,5 triệu</strong>. Chênh lệch niêm yết và giá bán thực tế đang rất lớn, nên luôn hỏi giá sau khuyến mãi trước khi chốt."
 tags: ["Smartphone", "TopDienThoai", "iPhone", "GalaxyS26", "TinTuc"]
 about: ["iPhone 17 Pro Max", "Samsung Galaxy S26 Ultra", "Xiaomi 17 Pro", "Samsung Galaxy A56", "Redmi Note 14 5G", "Samsung Galaxy A16 5G"]

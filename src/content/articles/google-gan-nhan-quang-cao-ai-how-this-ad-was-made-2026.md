@@ -11,6 +11,7 @@ deck: "Từ ngày 9/7/2026, Google bắt đầu triển khai bảng thông tin H
 heroImage: "https://i.ytimg.com/vi/hBRxTpV80Lw/maxresdefault.jpg"
 heroAlt: "Google gắn nhãn quảng cáo tạo bằng AI trong My Ad Center năm 2026"
 heroCaption: "Google bổ sung bảng How this ad was made để minh bạch quảng cáo tạo bằng AI. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/google-gan-nhan-quang-cao-ai-how-this-ad-was-made-2026.jpg"
 tldr: "<strong>Google</strong> đã bắt đầu triển khai từ ngày <strong>9/7/2026</strong> bảng thông tin <strong>How this ad was made</strong> trong <strong>My Ad Center</strong>, cho biết một quảng cáo có được tạo hoặc chỉnh sửa bằng AI hay không. Tính năng hiển thị trên <strong>Search, YouTube và Discover</strong> ở phạm vi toàn cầu. Hệ thống hoạt động theo hai tầng: quảng cáo tạo bằng công cụ AI của chính Google được gắn nhãn tự động, còn quảng cáo dùng công cụ AI bên thứ ba phụ thuộc vào việc nhà quảng cáo tự tích chọn, và Google nói rõ sẽ không kiểm tra tính trung thực của khai báo đó. Riêng tại <strong>EU, Ấn Độ và New York</strong>, các nội dung quảng cáo AI sẽ có lớp phủ trực quan ngay trên hình ảnh."
 tags: ["Google", "QuangCaoAI", "MyAdCenter", "MinhBachAI2026"]
 about: ["Google", "My Ad Center", "AI", "EU AI Act"]

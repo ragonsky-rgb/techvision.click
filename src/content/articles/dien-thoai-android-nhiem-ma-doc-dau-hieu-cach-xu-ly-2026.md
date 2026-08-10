@@ -11,6 +11,7 @@ deck: "Máy tự bật quảng cáo, nóng bất thường, hao pin nhanh hay xu
 heroImage: "https://i.ytimg.com/vi/Be_MdGz1FsE/sddefault.jpg"
 heroAlt: "Nhận biết và xử lý khi điện thoại Android bị nhiễm mã độc, virus"
 heroCaption: "Nhận biết sớm và xử lý đúng cách khi điện thoại Android bị nhiễm mã độc. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/dien-thoai-android-nhiem-ma-doc-dau-hieu-cach-xu-ly-2026.jpg"
 tldr: "Điện thoại Android nhiễm mã độc thường có <strong>7 dấu hiệu</strong>: tự bật quảng cáo, hao pin và nóng máy bất thường, hao data lạ, xuất hiện ứng dụng không rõ nguồn gốc, tự cài app hoặc gửi tin nhắn, máy chậm giật, và các app đòi quyền Trợ năng vô lý. Cách xử lý gồm: bật chế độ máy bay, khởi động vào <strong>Safe Mode</strong>, gỡ ứng dụng lạ, thu hồi quyền Trợ năng và quản trị thiết bị, đổi mật khẩu quan trọng. Nếu vẫn không sạch, hãy sao lưu dữ liệu rồi <strong>khôi phục cài đặt gốc</strong>."
 tags: ["Internet", "BaoMat", "CamNang", "Android", "MaDoc", "Virus"]
 about: ["Mã độc Android", "Bảo mật điện thoại", "Khôi phục cài đặt gốc"]

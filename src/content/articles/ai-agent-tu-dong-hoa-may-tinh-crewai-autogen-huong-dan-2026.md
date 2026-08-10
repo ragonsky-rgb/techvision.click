@@ -11,6 +11,7 @@ deck: "Năm 2026 đánh dấu bước dịch chuyển lớn của AI, từ nhữ
 heroImage: "https://i.ytimg.com/vi/FwOTs4UxQS4/maxresdefault.jpg"
 heroAlt: "AI Agent tự động hóa công việc trên máy tính cá nhân với CrewAI và AutoGen"
 heroCaption: "AI Agent chuyển vai trò của AI từ hỏi đáp sang tự động hành động. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/ai-agent-tu-dong-hoa-may-tinh-crewai-autogen-huong-dan-2026.jpg"
 tldr: "<strong>AI Agent</strong> là hệ thống AI biết tự lập kế hoạch và hành động để đạt một mục tiêu, khác hẳn chatbot vốn chỉ trả lời từng câu. Agent hoạt động theo vòng lặp <strong>suy nghĩ, dùng công cụ, quan sát kết quả</strong> rồi lặp lại tới khi xong việc, có thể tự research, viết code và thao tác trên máy. Hai framework đáng chú ý nhất là <strong>CrewAI</strong> (tổ chức nhiều agent theo vai trò như một đội ngũ) và <strong>AutoGen</strong> của Microsoft (các agent trò chuyện và phối hợp với nhau). Một ứng dụng thực tế: dựng một crew gồm agent nghiên cứu, agent phân tích và agent viết để tự cào tin thị trường rồi xuất báo cáo. Để bắt đầu, bạn cần <strong>Python cơ bản</strong> và một <strong>API key</strong> của model như Claude hoặc OpenAI."
 tags: ["AIAgent", "TuDongHoa", "CrewAI", "AutoGen", "AgenticAI", "MultiAgent"]
 about: ["AI Agent", "CrewAI", "AutoGen", "Agentic AI"]

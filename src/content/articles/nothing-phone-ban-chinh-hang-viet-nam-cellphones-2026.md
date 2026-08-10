@@ -11,6 +11,7 @@ deck: "CellphoneS xác nhận sẽ nhập khẩu, phân phối và bảo hành N
 heroImage: "https://i.ytimg.com/vi/4NdA0lZiV1o/maxresdefault.jpg"
 heroAlt: "Nothing Phone bán chính hãng tại Việt Nam qua hệ thống CellphoneS năm 2026"
 heroCaption: "Nothing Phone chuẩn bị lên kệ chính hãng tại Việt Nam qua CellphoneS. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/nothing-phone-ban-chinh-hang-viet-nam-cellphones-2026.jpg"
 tldr: "<strong>CellphoneS</strong> xác nhận sẽ nhập khẩu, phân phối và bảo hành <strong>Nothing Phone</strong> chính hãng tại Việt Nam, lần đầu tiên thương hiệu do <strong>Carl Pei</strong> sáng lập có mặt chính hãng thay vì chỉ mua qua đường xách tay. Bốn mẫu đầu tiên lên kệ gồm <strong>Nothing Phone (1), Phone (2), Phone (2a)</strong> và <strong>CMF Phone 1</strong>, trải dài từ phân khúc tầm trung tới dòng con CMF giá dễ tiếp cận. Theo báo trong nước, giá dự kiến khởi điểm từ khoảng <strong>6,49 triệu đồng</strong>, dòng CMF Phone 1 có nơi báo từ khoảng <strong>4,48 triệu</strong>, còn Nothing Phone (2a) quanh mức <strong>8,49 triệu</strong>. Đây đều là giá dự kiến và có thể thay đổi khi mở bán chính thức. Điểm nhấn thương hiệu vẫn là mặt lưng trong suốt, hệ thống đèn Glyph LED và giao diện Nothing OS gần với Android gốc."
 tags: ["NothingPhone", "CellphoneS", "CMFPhone1", "SmartphoneVietNam"]
 about: ["Nothing", "Nothing Phone", "CellphoneS", "Carl Pei", "CMF Phone 1"]

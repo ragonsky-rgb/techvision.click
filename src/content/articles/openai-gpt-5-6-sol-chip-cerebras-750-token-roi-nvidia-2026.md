@@ -11,6 +11,7 @@ deck: "OpenAI vừa đưa mô hình mới nhất của mình, GPT-5.6 Sol, chạ
 heroImage: "https://i.ytimg.com/vi/PhE9DiKtr9g/maxresdefault.jpg"
 heroAlt: "OpenAI dua GPT-5.6 Sol chay tren chip Cerebras WSE-3 nhanh 750 token"
 heroCaption: "GPT-5.6 Sol chạy trên chip Cerebras đạt tốc độ tạo văn bản vượt trội so với hạ tầng GPU thông thường."
+ogImage: "https://techvision.click/uploads/og-article/openai-gpt-5-6-sol-chip-cerebras-750-token-roi-nvidia-2026.jpg"
 tldr: "<strong>OpenAI</strong> đã ra mắt mô hình <strong>GPT-5.6 Sol</strong> vào ngày 10/7/2026 và cho chạy trên chip <strong>Cerebras WSE-3</strong>, đạt tốc độ tạo văn bản tới <strong>750 token mỗi giây</strong>, nhanh hơn nhiều lần so với việc triển khai một mô hình lớn trên GPU Nvidia. Hai bên đã ký hợp đồng nhiều năm từ tháng 1/2026, trị giá hơn <strong>10 tỷ USD</strong>, cung cấp tới <strong>750 MW</strong> công suất tính toán chuyên cho tác vụ suy luận độ trễ thấp. Chip WSE-3 của Cerebras đặc biệt ở chỗ to bằng cả một tấm wafer silicon, tích hợp tính toán và bộ nhớ trên cùng một khối. Tuy vậy, đây chỉ là bước rời Nvidia ở khâu suy luận, còn việc huấn luyện các mô hình lớn OpenAI vẫn dựa vào GPU Nvidia."
 tags: ["AI", "OpenAI", "Cerebras", "Chip", "Nvidia"]
 about: ["OpenAI", "GPT-5.6 Sol", "Cerebras", "Wafer-Scale Engine", "Nvidia"]

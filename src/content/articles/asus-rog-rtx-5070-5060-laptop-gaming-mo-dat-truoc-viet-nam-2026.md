@@ -11,6 +11,7 @@ deck: "ASUS ROG vừa mở đặt trước dải laptop gaming mới trang bị 
 heroImage: "https://i.ytimg.com/vi/qx7iyqIusds/maxresdefault.jpg"
 heroAlt: "Laptop gaming ASUS ROG RTX 5070 va RTX 5060 mo dat truoc tai Viet Nam 2026"
 heroCaption: "ASUS ROG mở đặt trước dải laptop gaming RTX 5070 và RTX 5060 tại Việt Nam. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/asus-rog-rtx-5070-5060-laptop-gaming-mo-dat-truoc-viet-nam-2026.jpg"
 tldr: "<strong>ASUS ROG</strong> mở đặt trước loạt laptop gaming dùng GPU <strong>NVIDIA GeForce RTX 5070</strong> và <strong>RTX 5060</strong> tại Việt Nam, gồm <strong>ROG Strix G16 và G18</strong>, <strong>Zephyrus G14</strong> mỏng nhẹ và <strong>TUF Gaming A14</strong> giá dễ tiếp cận hơn. Mặt bằng giá laptop gaming RTX 50-series tại các đại lý Việt Nam hiện dao động khoảng <strong>37,99 tới 52,99 triệu đồng</strong> tùy cấu hình. Đợt mở bán rơi đúng lúc giá RAM DDR5 và SSD tăng mạnh vì nhu cầu AI, nên chênh lệch giữa bản 16GB và 32GB RAM đã nới rộng đáng kể. Đối thủ trực tiếp gồm <strong>Acer Predator Helios 16</strong>, <strong>Lenovo Legion</strong> và <strong>MSI Crosshair 16 HX AI</strong>."
 tags: ["ASUS ROG", "Laptop", "Gaming", "RTX 50 series", "NVIDIA"]
 about: ["ASUS ROG Strix G16", "ROG Zephyrus G14", "TUF Gaming A14", "NVIDIA GeForce RTX 5070", "NVIDIA GeForce RTX 5060"]

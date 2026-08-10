@@ -11,6 +11,7 @@ deck: "Team Secret Whales, gọi tắt TSW, không chỉ là đội Liên Minh H
 heroImage: "https://i.ytimg.com/vi/mFR9Apo1dEM/maxresdefault.jpg"
 heroAlt: "TSW Team Secret Whales gianh ve Worlds 2026 dai dien LMHT Viet Nam LCP Split 3"
 heroCaption: "TSW trở thành đội đầu tiên trên thế giới giành vé dự Worlds 2026 sau chiến thắng 3-0 ngày 2/8. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/tsw-gianh-ve-worlds-2026-dai-dien-lmht-viet-nam-dau-tien-lcp-split-3.jpg"
 tldr: "<strong>Team Secret Whales (TSW)</strong> là đội <strong>đầu tiên trên thế giới</strong> giành vé dự <strong>Worlds 2026</strong>, đồng thời là đại diện LMHT Việt Nam đầu tiên, sau chiến thắng <strong>3-0</strong> trước CTBC Flying Oyster ngày <strong>2/8</strong> ở vòng Thụy Sĩ của <strong>LCP 2026 Split 3</strong>. Trước đó TSW đã hạ Fukuoka SoftBank HAWKS Gaming và MVKE cùng tỉ số <strong>2-0</strong>; đi rừng <strong>Hizto</strong> nhận danh hiệu MVP trận quyết định. Giai đoạn này khởi tranh từ <strong>25/7</strong> và kéo dài tới <strong>30/8</strong>, quy tụ <strong>8 đội</strong> khu vực châu Á Thái Bình Dương tranh <strong>3 suất</strong> cuối tới Chung kết thế giới. Việt Nam có ba đại diện là <strong>TSW</strong>, <strong>GAM Esports</strong> và <strong>MVK Esports</strong>. Tấm vé của TSW đưa LMHT Việt Nam trở lại sân khấu lớn nhất thế giới sau mùa giải nhiều biến động."
 tags: ["Esports", "LMHT", "Worlds 2026", "LCP", "TSW"]
 about: ["Team Secret Whales", "GAM Esports", "MVK Esports", "LCP 2026", "Worlds 2026"]

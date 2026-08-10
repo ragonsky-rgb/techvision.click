@@ -11,6 +11,7 @@ deck: "Ngày 16/1/2026, Việt Nam khởi công nhà máy chế tạo chip bán 
 heroImage: "https://i.ytimg.com/vi/rtjTeLTj_MI/maxresdefault.jpg"
 heroAlt: "Lễ khởi công nhà máy chế tạo chip bán dẫn đầu tiên của Việt Nam tại Hòa Lạc"
 heroCaption: "Việt Nam khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.jpg"
 tldr: "Ngày 16/1/2026, Việt Nam chính thức khởi công <strong>nhà máy chế tạo chip bán dẫn đầu tiên</strong> tại Khu công nghệ cao Hòa Lạc, Hà Nội, do <strong>Viettel</strong> chủ trì trên diện tích <strong>27 ha</strong>. Dự án triển khai trong giai đoạn <strong>2026 đến 2030</strong>, dự kiến hoàn thành xây dựng, nhận chuyển giao công nghệ và sản xuất thử vào cuối 2027, sau đó hoàn thiện quy trình tới 2030. Nhà máy được định vị là hạ tầng quốc gia cho nghiên cứu, thiết kế, kiểm thử và chế tạo chip, được lãnh đạo đánh giá là mắt xích then chốt mà ngành bán dẫn Việt Nam còn thiếu trên hành trình tự chủ công nghệ."
 tags: ["CongNghe", "BanDan", "Viettel", "VietNam", "TinTuc", "Chip"]
 about: ["Chip bán dẫn", "Viettel", "Công nghiệp bán dẫn Việt Nam"]

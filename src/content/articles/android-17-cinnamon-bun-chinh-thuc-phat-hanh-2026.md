@@ -11,6 +11,7 @@ deck: "Google chính thức phát hành phiên bản ổn định của Android 
 heroImage: "https://i.ytimg.com/vi/z5KlrNj-iro/maxresdefault.jpg"
 heroAlt: "Android 17 Cinnamon Bun chính thức phát hành với Gemini tự thao tác ứng dụng"
 heroCaption: "Android 17 mang tới hàng loạt tính năng AI và đa nhiệm mới cho hệ sinh thái thiết bị Android. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/android-17-cinnamon-bun-chinh-thuc-phat-hanh-2026.jpg"
 tldr: "<strong>Google</strong> đã chính thức phát hành <strong>Android 17</strong>, tên mã <strong>Cinnamon Bun</strong>, dành cho các thiết bị Pixel từ giữa tháng 6/2026, trước khi mở rộng tới nhiều dòng máy Android khác trong năm. Điểm nhấn lớn nhất là khả năng tích hợp sâu <strong>Gemini</strong> vào hệ điều hành, cho phép AI tự động thao tác nhiều ứng dụng để hoàn thành yêu cầu như đặt xe, đặt đồ ăn hay tóm tắt ghi chú cuộc họp mà không cần mở từng ứng dụng thủ công. Bản cập nhật còn mang tới chế độ đa nhiệm đạt chuẩn <strong>desktop thực thụ</strong> với cửa sổ nổi di chuyển tự do, đặc biệt phát huy sức mạnh trên điện thoại gập và máy tính bảng, cùng giao diện thiết kế mới mang tên <strong>Material 3 Expressive</strong> và loạt cải tiến bảo mật như quyền truy cập mạng LAN riêng biệt và cơ chế trì hoãn quyền đọc mã OTP để chống chiếm đoạt tài khoản."
 tags: ["Android17", "CinnamonBun", "GeminiAndroid", "Material3Expressive2026"]
 about: ["Android 17", "Google", "Gemini", "Material 3 Expressive"]

@@ -11,6 +11,7 @@ deck: "Ý tưởng nhét sức mạnh của một laptop gaming vào thân máy 
 heroImage: "https://i.ytimg.com/vi/MFPr3E3fCQo/maxresdefault.jpg"
 heroAlt: "ASUS ROG Flow Z13 máy tính bảng gaming 2 trong 1 với bàn phím rời và chân chống"
 heroCaption: "ROG Flow Z13 đưa sức mạnh cỡ laptop gaming vào thân máy tính bảng 13 inch. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/asus-rog-flow-z13-ryzen-ai-max-395-may-tinh-bang-gaming-2026.jpg"
 tldr: "<strong>ASUS ROG Flow Z13</strong> là máy tính bảng lai gaming chạy Windows, dùng chip <strong>Ryzen AI Max+ 395</strong> (Strix Halo) với 16 nhân Zen 5 và iGPU <strong>Radeon 8060S</strong>. Máy có màn <strong>13,4 inch 2.5K 180Hz</strong> cảm ứng, tùy chọn tới <strong>128GB RAM</strong>, pin 70Wh, thân nhôm CNC kèm bàn phím rời và chân chống. Nhờ iGPU mạnh, máy chơi game nặng ở 1080p mà không cần card rời, đồng thời chạy tốt tác vụ AI. Bản cao cấp có giá khá cao, khởi điểm quanh 4.499 USD ở thế hệ 2025."
 tags: ["ROGFlowZ13", "RyzenAIMax", "GamingTablet", "ASUS2026"]
 about: ["ASUS ROG Flow Z13", "Ryzen AI Max+ 395", "Radeon 8060S", "ROG Nebula Display"]

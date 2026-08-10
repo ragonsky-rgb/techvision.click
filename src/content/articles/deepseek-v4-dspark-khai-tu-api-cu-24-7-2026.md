@@ -11,6 +11,7 @@ deck: "DeepSeek thông báo sẽ chính thức ngừng hỗ trợ hai API mô h�
 heroImage: "https://i.ytimg.com/vi/AC2jj_jfunQ/maxresdefault.jpg"
 heroAlt: "DeepSeek V4 DSpark khai tử API cũ deepseek-chat deepseek-reasoner"
 heroCaption: "DeepSeek-V4 là mô hình AI mã nguồn mở đang tạo áp lực cạnh tranh giá lớn lên toàn ngành. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/deepseek-v4-dspark-khai-tu-api-cu-24-7-2026.jpg"
 tldr: "<strong>DeepSeek</strong> thông báo sẽ ngừng hỗ trợ hoàn toàn hai API mô hình cũ <strong>deepseek-chat</strong> và <strong>deepseek-reasoner</strong> từ ngày <strong>24/7/2026</strong>, yêu cầu toàn bộ nhà phát triển chuyển sang dòng <strong>DeepSeek-V4</strong> ra mắt từ 24/4/2026. V4 gồm hai phiên bản V4-Pro (khoảng 1,6 nghìn tỷ tham số) và V4-Flash (284 tỷ tham số, 13 tỷ tham số kích hoạt), đều hỗ trợ cửa sổ ngữ cảnh mặc định lên tới <strong>1 triệu token</strong>. Ngày 27/6, DeepSeek tiếp tục ra mắt khung suy đoán giải mã <strong>DSpark</strong>, giúp tăng tốc độ sinh phản hồi tới <strong>85%</strong>, đồng thời mã nguồn mở toàn bộ nghiên cứu cùng bộ công cụ DeepSpec. Giá sử dụng V4-Flash chỉ từ 0,14 USD cho một triệu token đầu vào, tiếp tục gây áp lực cạnh tranh giá lên toàn ngành AI."
 tags: ["DeepSeekV4", "DSpark", "MixtureOfExperts", "AIGiaRe"]
 about: ["DeepSeek V4", "DSpark", "DeepSeek API", "Mixture of Experts"]

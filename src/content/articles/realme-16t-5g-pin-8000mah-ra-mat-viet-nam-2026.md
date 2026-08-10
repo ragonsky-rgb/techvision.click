@@ -11,6 +11,7 @@ deck: "Realme tiếp tục củng cố hình ảnh thương hiệu chuyên về 
 heroImage: "https://i.ytimg.com/vi/lqvGa_U6Rko/maxresdefault.jpg"
 heroAlt: "Realme 16T 5G ra mắt Việt Nam với pin 8.000mAh, sạc nhanh 45W và màn hình 144Hz"
 heroCaption: "Realme 16T 5G nổi bật với viên pin khủng 8.000mAh trong phân khúc tầm trung. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.jpg"
 tldr: "<strong>Realme 16T 5G</strong> đã ra mắt tại Việt Nam, nhắm tới phân khúc tầm trung với giá từ khoảng <strong>7 triệu đồng</strong>. Điểm nhấn lớn nhất là viên pin dung lượng <strong>8.000mAh</strong>, đi kèm sạc nhanh có dây <strong>45W</strong> và khả năng sạc ngược để tiếp năng lượng cho thiết bị khác. Máy có màn hình tần số quét <strong>144Hz</strong>, camera dùng cảm biến Sony và độ bền cao với chuẩn kháng nước bụi. Realme công bố tuổi thọ pin lên tới <strong>7 năm</strong>, duy trì trên 80% dung lượng sau thời gian dài sử dụng trong điều kiện tiêu chuẩn. Đây là lựa chọn hướng tới người dùng trẻ, game thủ và những ai ưu tiên pin trâu, độ bền trong tầm giá."
 tags: ["Realme", "Realme16T", "MayPin", "VietNam"]
 about: ["Realme 16T", "Điện thoại pin lớn", "Realme", "Thị trường Việt Nam"]

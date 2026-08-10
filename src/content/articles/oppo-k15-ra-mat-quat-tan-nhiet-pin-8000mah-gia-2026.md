@@ -11,6 +11,7 @@ deck: "Oppo vừa mang một tính năng vốn chỉ có trên điện thoại g
 heroImage: "https://i.ytimg.com/vi/w1uFXGWUAog/maxresdefault.jpg"
 heroAlt: "Oppo K15 ra mat quat tan nhiet tich hop pin 8000mAh gia re 2026"
 heroCaption: "Oppo K15 đưa quạt tản nhiệt vật lý xuống phân khúc tầm trung. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/oppo-k15-ra-mat-quat-tan-nhiet-pin-8000mah-gia-2026.jpg"
 tldr: "<strong>Oppo K15</strong> ra mắt tại Trung Quốc ngày <strong>24/7/2026</strong>, nổi bật với <strong>quạt tản nhiệt vật lý tích hợp</strong> ngay trong thân máy, thứ trước đây chỉ thấy trên điện thoại gaming cao cấp. Máy dùng chip <strong>MediaTek Dimensity 7360 Super</strong>, màn OLED phẳng <strong>6,59 inch 1.5K 120Hz</strong> độ sáng tối đa 1.200 nit, viên pin <strong>8.000mAh</strong> kèm sạc nhanh <strong>80W</strong> có dây. Camera sau là bộ đôi 50MP, camera trước cũng 50MP. Giá khởi điểm <strong>2.299 tệ</strong>, tương đương khoảng 8,1 triệu đồng. Máy hiện chưa có kế hoạch bán chính hãng tại Việt Nam."
 tags: ["Smartphone", "Oppo", "Gaming", "Pin", "TinTuc"]
 about: ["Oppo K15", "Oppo", "MediaTek Dimensity 7360 Super"]

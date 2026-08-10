@@ -11,6 +11,7 @@ deck: "NVIDIA giới thiệu nền tảng AI thế hệ mới Vera Rubin tại C
 heroImage: "https://i.ytimg.com/vi/3lrbxdeEk8c/sddefault.jpg"
 heroAlt: "NVIDIA Vera Rubin nền tảng AI mới với GPU 336 tỷ transistor năm 2026"
 heroCaption: "NVIDIA ra mắt nền tảng AI Vera Rubin tại CES 2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/nvidia-vera-rubin-2026-nen-tang-ai-336-ty-transistor-san-xuat.jpg"
 tldr: "NVIDIA giới thiệu nền tảng AI thế hệ mới <strong>Vera Rubin</strong> tại CES 2026 và đưa vào sản xuất hàng loạt, kết hợp CPU Vera và GPU Rubin. GPU <strong>Rubin</strong> sản xuất trên tiến trình TSMC 3nm với thiết kế hai die chứa tổng cộng <strong>336 tỷ transistor</strong>, tăng 1,6 lần so với Blackwell. Nền tảng hứa hẹn giảm tới 10 lần chi phí cho mỗi token suy luận và giảm 4 lần số GPU cần để huấn luyện mô hình MoE so với Blackwell. Sản phẩm dựa trên Rubin dự kiến tới tay đối tác trong nửa cuối 2026, với Rubin Ultra theo sau vào 2027."
 tags: ["AI", "NVIDIA", "VeraRubin", "TinTuc", "ChipAI", "DataCenter"]
 about: ["NVIDIA Vera Rubin", "Rubin GPU", "Hạ tầng AI"]

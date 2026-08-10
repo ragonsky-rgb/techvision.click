@@ -11,6 +11,7 @@ deck: "Phân khúc dưới 10 triệu đồng đang là nơi cạnh tranh khốc
 heroImage: "https://i.ytimg.com/vi/Z0G7GhYPy20/maxresdefault.jpg"
 heroAlt: "Top điện thoại dưới 10 triệu đáng mua nửa cuối 2026 tại Việt Nam"
 heroCaption: "Phân khúc dưới 10 triệu 2026 nhiều lựa chọn mạnh. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/dien-thoai-duoi-10-trieu-dang-mua-nua-cuoi-2026.jpg"
 tldr: "<strong>Điện thoại dưới 10 triệu đáng mua 2026</strong> có nhiều lựa chọn mạnh. <strong>Redmi Note 15 Pro 5G</strong> nổi bật với camera <strong>200MP</strong> và pin <strong>6.580 mAh</strong>. <strong>Galaxy A56 5G</strong> có màn Super AMOLED 6.7 inch 120Hz, chip Exynos 1580 4nm. <strong>Galaxy A36 5G</strong> giá khoảng 7,64 triệu, <strong>POCO X7 5G</strong> chuẩn IP68 giá 7,99 triệu, <strong>OPPO A6 Pro</strong> pin 7.000 mAh giá 8,29 triệu. Đa số đều có chip 4nm, AMOLED 120Hz và kháng nước IP67 trở lên."
 tags: ["Smartphone", "TamTrung", "TuVan", "MuaSam", "Xiaomi", "Samsung"]
 about: ["Điện thoại tầm trung", "Redmi Note 15 Pro", "Samsung Galaxy A56", "POCO X7"]

@@ -11,6 +11,7 @@ deck: "Làng đối kháng thế giới vừa chứng kiến một cột mốc l
 heroImage: "https://i.ytimg.com/vi/G-Ay72dPL-E/maxresdefault.jpg"
 heroAlt: "MenaRD vô địch EVO 2026 Street Fighter 6 sau khi đánh bại Shigematsu trong trận chung kết"
 heroCaption: "MenaRD lập kỷ lục 4 lần vô địch EVO Street Fighter 6 tại Las Vegas. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/menard-vo-dich-evo-2026-street-fighter-6-ky-luc-4-lan.jpg"
 tldr: "Tại <strong>EVO 2026</strong> ở Las Vegas, tuyển thủ người Dominica <strong>MenaRD</strong> đã vô địch nội dung <strong>Street Fighter 6</strong> sau khi đánh bại <strong>Shigematsu</strong> trong trận chung kết. Đây là danh hiệu EVO Street Fighter 6 thứ <strong>tư</strong> của MenaRD, một kỷ lục chưa từng có khi chưa tuyển thủ nào vô địch EVO bốn lần trong cùng một kỷ nguyên của một tựa game. Chiến thắng cũng đánh dấu lần thứ hai liên tiếp anh lên ngôi tại Las Vegas. Nội dung Street Fighter 6 quy tụ hơn <strong>2.400 tuyển thủ</strong>, và trận chung kết có màn đấu gương Blanka ở loạt reset quyết định, tạo nên một trong những khoảnh khắc đáng nhớ nhất của cộng đồng đối kháng."
 tags: ["EVO2026", "StreetFighter6", "MenaRD", "Esports"]
 about: ["EVO 2026", "Street Fighter 6", "MenaRD", "Fighting game"]

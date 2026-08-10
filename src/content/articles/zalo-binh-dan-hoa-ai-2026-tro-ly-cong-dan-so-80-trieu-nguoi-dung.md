@@ -8,9 +8,10 @@ type: "tin-tuc"
 datePublished: "2026-06-29T10:00:00+07:00"
 dateModified: "2026-08-09T12:30:00+07:00"
 deck: "Zalo, ứng dụng nhắn tin lớn nhất Việt Nam của VNG, đang theo đuổi chiến lược bình dân hóa AI để đưa trí tuệ nhân tạo tới gần 80 triệu người dùng. Trợ lý Công dân số tích hợp ngay trong app giúp tra cứu thủ tục hành chính 24/7, trong khi khoảng 30% người dùng đã trải nghiệm các tính năng AI khác trên nền tảng."
-heroImage: "https://i.ytimg.com/vi/pGjDsP9hLDY/maxresdefault.jpg"
+heroImage: "https://techvision.click/uploads/og-article/zalo-binh-dan-hoa-ai-2026-tro-ly-cong-dan-so-80-trieu-nguoi-dung.jpg"
 heroAlt: "Zalo bình dân hóa AI với trợ lý Công dân số năm 2026"
-heroCaption: "Zalo đẩy mạnh chiến lược bình dân hóa AI cho người Việt. Nguồn: YouTube"
+heroCaption: "Zalo đẩy mạnh chiến lược bình dân hóa AI cho người Việt."
+ogImage: "https://techvision.click/uploads/og-article/zalo-binh-dan-hoa-ai-2026-tro-ly-cong-dan-so-80-trieu-nguoi-dung.jpg"
 tldr: "<strong>Zalo</strong> của VNG đang theo đuổi mục tiêu trở thành nền tảng để người Việt tiếp cận <strong>AI</strong>, theo lời Chủ tịch Lê Hồng Minh tại đại hội cổ đông 2026. Ứng dụng đã ra mắt trợ lý <strong>Công dân số</strong>, hỗ trợ 24/7 các câu hỏi về thủ tục hành chính và thông tin pháp lý. Tính đến cuối 2025, khoảng <strong>30% người dùng</strong> Zalo đã trải nghiệm tính năng AI trên nền tảng, trong khi tổng số người dùng hoạt động hàng tháng đạt <strong>80,2 triệu</strong> vào cuối quý 1/2026."
 tags: ["AI", "Zalo", "VNG", "TinTuc", "CongNgheVietNam", "TroLyAo"]
 about: ["Zalo", "VNG", "AI Việt Nam"]

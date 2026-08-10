@@ -11,6 +11,7 @@ deck: "Dòng Redmi K100 đang là cái tên được cộng đồng chơi game d
 heroImage: "https://i.ytimg.com/vi/-kQo4qFKxe0/maxresdefault.jpg"
 heroAlt: "Redmi K100 va K100 Pro ro ri cau hinh pin lon man hinh 185Hz 2026"
 heroCaption: "Dòng K của Redmi tiếp tục theo đuổi công thức hiệu năng cao kèm pin dung lượng lớn. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/redmi-k100-k100-pro-ro-ri-pin-9000mah-man-185hz-2026.jpg"
 tldr: "<strong>Redmi K100</strong> và <strong>Redmi K100 Pro</strong> dự kiến ra mắt tại Trung Quốc trong <strong>tháng 8/2026</strong>, cùng dùng chip <strong>Snapdragon 8 Elite Gen 5</strong>. Điểm nhấn lớn nhất là viên pin từ <strong>8.500mAh tới 9.000mAh</strong> kèm sạc nhanh <strong>100W</strong> có dây và hỗ trợ sạc không dây, cùng tấm nền OLED phẳng tần số quét <strong>185Hz</strong> ở kích thước 6,59 hoặc 6,9 inch. Camera chính được đồn đạt <strong>200MP</strong> đi kèm ống tele kính tiềm vọng 50MP, cảm biến vân tay siêu âm dưới màn và chuẩn kháng nước IP. Bản <strong>K100 Pro Max</strong> pin 10.000mAh màn 7 inch nhiều khả năng lùi sang 2027. Toàn bộ thông tin hiện vẫn là tin đồn, Xiaomi chưa xác nhận chính thức."
 tags: ["Smartphone", "Redmi", "Xiaomi", "TinTuc", "Gaming", "Pin"]
 about: ["Redmi K100", "Redmi K100 Pro", "Xiaomi", "Snapdragon 8 Elite Gen 5"]

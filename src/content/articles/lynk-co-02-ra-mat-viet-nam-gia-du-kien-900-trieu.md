@@ -11,6 +11,7 @@ deck: "Lynk & Co 02 đang chuẩn bị ra mắt thị trường Việt Nam, dự
 heroImage: "https://i.ytimg.com/vi/GF--h2SnpdQ/maxresdefault.jpg"
 heroAlt: "Lynk & Co 02 sắp ra mắt Việt Nam với giá dự kiến từ 900 triệu đồng"
 heroCaption: "Lynk & Co 02 là mẫu xe gầm cao cỡ C sắp bổ sung vào dải sản phẩm tại Việt Nam. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/lynk-co-02-ra-mat-viet-nam-gia-du-kien-900-trieu.jpg"
 tldr: "<strong>Lynk & Co 02</strong> dự kiến ra mắt thị trường Việt Nam trong <strong>tháng 7</strong>, với hai phiên bản và giá bán lẻ từ khoảng <strong>900 triệu đồng</strong>. Đây là mẫu xe <strong>gầm cao cỡ C</strong>, bổ sung cho dải sản phẩm Lynk & Co đã có mặt tại Việt Nam gồm các mẫu như 01, 03, 05, 06 và 09. Xe hướng tới nhóm khách hàng trẻ, ưa thiết kế khác biệt và trang bị tiện nghi. Với mức giá quanh 900 triệu, Lynk & Co 02 cạnh tranh trong phân khúc xe gầm cao cỡ C đang sôi động, nơi khách hàng có nhiều lựa chọn từ các thương hiệu Nhật, Hàn tới các tên tuổi mới nổi."
 tags: ["LynkCo02", "XeMoiVietNam", "SUV", "XeGamCao"]
 about: ["Lynk & Co 02", "Lynk & Co Việt Nam", "Xe gầm cao cỡ C", "Ô tô Việt Nam"]

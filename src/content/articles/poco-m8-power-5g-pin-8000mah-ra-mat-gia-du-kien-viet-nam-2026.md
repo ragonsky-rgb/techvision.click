@@ -11,6 +11,7 @@ deck: "POCO vừa bổ sung mẫu giá rẻ M8 Power vào thị trường Ấn �
 heroImage: "https://i.ytimg.com/vi/mg2fxUAYS7I/maxresdefault.jpg"
 heroAlt: "POCO M8 Power 5G dien thoai gia re pin 8000mAh sac 45W man AMOLED 120Hz"
 heroCaption: "POCO M8 Power hướng tới nhóm người dùng cần pin lớn giá rẻ. Ảnh: VaasuTechVlogs trên YouTube"
+ogImage: "https://techvision.click/uploads/og-article/poco-m8-power-5g-pin-8000mah-ra-mat-gia-du-kien-viet-nam-2026.jpg"
 tldr: "<strong>POCO M8 Power 5G</strong> ra mắt tại Ấn Độ ngày <strong>4/8/2026</strong>, mở bán từ <strong>7/8</strong> qua Flipkart. Điểm nhấn là viên pin <strong>8000mAh</strong> công nghệ Silicon Carbon, sạc nhanh <strong>45W</strong>, thuộc nhóm dung lượng lớn nhất phân khúc giá rẻ. Máy dùng màn hình <strong>AMOLED</strong> tần số quét <strong>120Hz</strong>, chip <strong>Snapdragon 4 Gen 4</strong>, camera chính <strong>50MP</strong> và chạy Android 16. Giá niêm yết từ <strong>24.999 rupee</strong> (bản 6GB/128GB) và 27.999 rupee (8GB/128GB), giá ưu đãi mở bán về <strong>21.999 rupee</strong>. Quy đổi sang tiền Việt rơi vào khoảng <strong>6,6 tới 8,4 triệu đồng</strong>, nhưng đây chưa phải giá chính hãng tại Việt Nam."
 tags: ["POCO", "Xiaomi", "Smartphone", "Pin trâu", "Giá rẻ"]
 about: ["POCO M8 Power", "POCO", "Snapdragon 4 Gen 4", "Pin Silicon Carbon"]

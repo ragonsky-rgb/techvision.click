@@ -11,6 +11,7 @@ deck: "RedMagic 11S Pro+ là chiếc điện thoại chơi game đang dẫn đ�
 heroImage: "https://i.ytimg.com/vi/7eyD2IOeoWw/maxresdefault.jpg"
 heroAlt: "RedMagic 11S Pro+ điện thoại gaming vô địch AnTuTu 2026 tản nhiệt lỏng"
 heroCaption: "RedMagic 11S Pro+ là cỗ máy chơi game dẫn đầu bảng điểm AnTuTu 2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/redmagic-11s-pro-plus-vo-dich-antutu-dien-thoai-gaming-2026.jpg"
 tldr: "<strong>RedMagic 11S Pro+</strong> dẫn đầu bảng xếp hạng <strong>AnTuTu</strong> năm 2026 với hơn <strong>4,17 triệu điểm</strong>. Máy dùng chip <strong>Snapdragon 8 Elite Gen 5</strong> bản Leading Version kèm chip phụ RedCore R4, màn hình <strong>6.85 inch</strong> AMOLED 144Hz ẩn camera, pin tới <strong>8000mAh</strong>, sạc <strong>80W</strong> cả có dây lẫn không dây. Hệ thống tản nhiệt lỏng <strong>AquaCore</strong> với quạt <strong>24.000 vòng/phút</strong> giúp giữ hiệu năng ổn định. Giá khởi điểm bản 11S Pro từ <strong>849 USD</strong>, bản Pro+ tại Trung Quốc từ 6.199 tệ."
 tags: ["Smartphone", "RedMagic", "DienThoaiGaming", "AnTuTu", "Snapdragon", "TanNhietLong"]
 about: ["RedMagic 11S Pro+", "Điện thoại chơi game", "Snapdragon 8 Elite Gen 5"]

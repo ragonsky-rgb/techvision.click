@@ -11,6 +11,7 @@ deck: "Lễ Quốc khánh 2/9 và đại tiệc Shopee 9.9 ngay sau đó tạo t
 heroImage: "https://i.ytimg.com/vi/FUS1QLKLOZ0/maxresdefault.jpg"
 heroAlt: "Meo san sale cong nghe dip le Quoc khanh 2 9 va Shopee 9 9 nam 2026"
 heroCaption: "Hai tuần quanh lễ 2/9 và sự kiện 9.9 là cao điểm sale đồ công nghệ nửa cuối năm. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/san-sale-cong-nghe-le-2-9-2026-meo-deal-dang-san.jpg"
 tldr: "Dịp <strong>lễ Quốc khánh 2/9/2026</strong>, các chuỗi lớn như CellphoneS, Thế Giới Di Động, FPT Shop thường chạy sale lễ 3 tới 5 ngày, ngay sau đó là <strong>Shopee 9.9 Ngày Siêu Mua Sắm</strong>. Mẹo quan trọng nhất: <strong>chốt mức giá tham chiếu trước lễ</strong> để nhận ra giảm thật hay giảm ảo, cộng voucher sàn + mã hoàn xu + ưu đãi thanh toán thay vì chỉ nhìn giá gạch. Nhóm đáng săn nhất: <strong>iPhone 16 Pro Max</strong> đang chạm đáy giá trước thềm iPhone 18, <strong>Galaxy S25 Ultra</strong> về quanh 21 triệu, tai nghe <strong>Sony WH-1000XM5</strong> thường giảm sâu dịp sale, cùng nhóm giá mềm như Redmi Note 15 Pro, Galaxy A56, Redmi Buds 8."
 tags: ["SanSale", "MuaSam", "TuVan", "Shopee", "CongNghe", "2026"]
 about: ["Sale Quốc khánh 2/9", "Shopee 9.9", "iPhone 16 Pro Max", "Galaxy S25 Ultra"]

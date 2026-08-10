@@ -11,6 +11,7 @@ deck: "LCP 2026 Split 3, giai đoạn cuối của khu vực có các đội Vi�
 heroImage: "https://i.ytimg.com/vi/mFR9Apo1dEM/maxresdefault.jpg"
 heroAlt: "LCP 2026 Split 3 the thuc Thuy Si GAM Esports tranh suat Worlds 2026"
 heroCaption: "LCP 2026 Split 3 quyết định các suất dự Chung kết thế giới 2026 cho khu vực có Việt Nam. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/lcp-2026-split-3-swiss-stage-lich-the-thuc-gam-esports.jpg"
 tldr: "<strong>LCP 2026 Split 3</strong> diễn ra từ <strong>25/7 tới 30/8/2026</strong>, quy tụ <strong>8 đội</strong> của khu vực châu Á Thái Bình Dương, nơi các đội Việt Nam thi đấu. Đây là lần đầu split áp dụng <strong>thể thức Thụy Sĩ</strong> ở vòng bảng, đội đạt đủ <strong>3 trận thắng</strong> giành vé vào playoffs còn đội đủ <strong>3 trận thua</strong> bị loại. Tổng giải thưởng khoảng <strong>80.000 USD</strong>. Playoffs dùng thể thức nhánh thắng thua (double elimination), đấu Bo5, và kết quả sẽ quyết định các suất dự <strong>Chung kết thế giới 2026</strong>. Tâm điểm với khán giả Việt là hành trình của <strong>GAM Esports</strong> và các đội trong khu vực."
 tags: ["Esports", "LMHT", "LCP", "GAM Esports", "Worlds2026"]
 about: ["LCP 2026 Split 3", "GAM Esports", "Team Secret Whales", "Riot Games", "Chung kết thế giới 2026"]

@@ -11,6 +11,7 @@ deck: "Một dòng thông số camera trên trang sản phẩm thường liệt 
 heroImage: "https://i.ytimg.com/vi/4E64UM7D0R8/maxresdefault.jpg"
 heroAlt: "Cách đọc thông số camera điện thoại megapixel khẩu độ f OIS cảm biến"
 heroCaption: "Đọc đúng bảng thông số camera giúp chọn điện thoại chụp ảnh đẹp mà không bị con số đánh lừa."
+ogImage: "https://techvision.click/uploads/og-article/cach-doc-thong-so-camera-dien-thoai-mp-f-ois-2026.jpg"
 tldr: "Một bảng thông số camera điện thoại đầy đủ gồm nhiều thành phần cần đọc cùng nhau. <strong>Megapixel (MP)</strong> chỉ cho biết kích thước ảnh, không quyết định độ đẹp. <strong>Khẩu độ f</strong> càng nhỏ (ví dụ f/1.6) thì ống kính thu càng nhiều sáng. <strong>OIS</strong> (chống rung quang học) và <strong>EIS</strong> (chống rung điện tử) giúp ảnh, video đỡ nhòe khi tay rung. <strong>Kích thước cảm biến</strong>, ghi dạng phân số như 1/1.3 inch, càng lớn thì thu sáng càng tốt, ảnh thiếu sáng càng sạch. Ống <strong>tele/tiềm vọng</strong> quyết định khả năng zoom quang học thật, khác hẳn zoom số chỉ là cắt cúp ảnh. Đọc đủ 5 thông số này cùng lúc mới hình dung đúng một camera điện thoại chụp đẹp tới đâu, thay vì chỉ nhìn con số megapixel to nhất."
 tags: ["Camera", "Smartphone", "CamNang", "ThongSoCamera", "OIS"]
 about: ["Thông số camera điện thoại", "Khẩu độ f", "OIS EIS", "Cảm biến camera", "Ống kính tele"]

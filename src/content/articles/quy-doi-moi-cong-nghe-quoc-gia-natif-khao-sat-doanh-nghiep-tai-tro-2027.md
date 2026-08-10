@@ -11,6 +11,7 @@ deck: "Quỹ Đổi mới công nghệ quốc gia (NATIF) thuộc Bộ Khoa họ
 heroImage: "https://i.ytimg.com/vi/c7XAH6LIZYM/maxresdefault.jpg"
 heroAlt: "Quỹ Đổi mới công nghệ quốc gia NATIF khảo sát nhu cầu tài trợ của doanh nghiệp"
 heroCaption: "NATIF khảo sát doanh nghiệp để lên kế hoạch tài trợ đổi mới công nghệ năm 2027. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.jpg"
 tldr: "<strong>Quỹ Đổi mới công nghệ quốc gia (NATIF)</strong> thuộc Bộ Khoa học và Công nghệ đang khảo sát nhu cầu của tổ chức và doanh nghiệp từ <strong>17 tới 30/6/2026</strong>, làm cơ sở đề xuất kế hoạch <strong>tài trợ, hỗ trợ năm 2027</strong>. Quỹ đưa ra <strong>ba hình thức hỗ trợ</strong>: hỗ trợ lãi suất cho vay các dự án ứng dụng và đổi mới công nghệ, hỗ trợ <strong>voucher</strong> để thúc đẩy đổi mới sáng tạo và thương mại hóa, và <strong>tài trợ trực tiếp</strong> cho nhiệm vụ đổi mới công nghệ, sở hữu trí tuệ và khởi nghiệp sáng tạo. Đối tượng là doanh nghiệp, tổ chức có tư cách pháp nhân theo pháp luật Việt Nam. Doanh nghiệp tham gia khảo sát tại địa chỉ khaosat.natif.vn trước ngày 30/6."
 tags: ["NATIF", "DoiMoiCongNghe", "DoanhNghiep", "TaiTro", "ChuyenDoiSo", "VietNam"]
 about: ["Quỹ Đổi mới công nghệ quốc gia", "NATIF", "Bộ Khoa học và Công nghệ", "Đổi mới công nghệ"]

@@ -11,6 +11,7 @@ deck: "Huawei tiếp tục củng cố dải sản phẩm máy tính bảng tạ
 heroImage: "https://i.ytimg.com/vi/3orHXJvRPVA/maxresdefault.jpg"
 heroAlt: "Huawei MatePad 11.5 PaperMatte 2026 ra mắt Việt Nam với màn hình chống chói và bút M-Pencil 3"
 heroCaption: "MatePad 11.5 PaperMatte 2026 nổi bật với màn hình chống chói cho trải nghiệm viết như trên giấy. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/huawei-matepad-11-5-papermatte-2026-ra-mat-viet-nam.jpg"
 tldr: "Huawei <strong>MatePad 11.5 PaperMatte 2026</strong> đã mở bán tại Việt Nam, hướng tới phân khúc máy tính bảng tầm trung. Máy có màn hình <strong>11.5 inch 2.5K</strong>, tần số quét thích ứng <strong>120Hz</strong>, lớp phủ <strong>PaperMatte</strong> chống chói cho cảm giác viết như trên giấy, kết hợp bút <strong>M-Pencil thế hệ 3</strong>. Cấu hình gồm chip Kirin, RAM 8GB, bộ nhớ 128 hoặc 256GB, pin <strong>10.100mAh</strong>, hệ thống 4 loa Histen 9.0 và chạy HarmonyOS. Giá tại Việt Nam dao động từ khoảng <strong>9,49 tới 10,49 triệu đồng</strong> tùy phiên bản và nơi bán, kèm nhiều quà tặng như gói phần mềm, bút cảm ứng và chuột không dây trong giai đoạn mở bán."
 tags: ["Huawei", "MatePad", "MayTinhBang", "VietNam"]
 about: ["Huawei MatePad 11.5", "Máy tính bảng", "Màn hình PaperMatte", "Thị trường Việt Nam"]

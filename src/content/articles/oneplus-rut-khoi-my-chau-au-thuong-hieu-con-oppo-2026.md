@@ -11,6 +11,7 @@ deck: "Thương hiệu từng làm rung chuyển thị trường smartphone vớ
 heroImage: "https://i.ytimg.com/vi/gW8RE9cHW2E/maxresdefault.jpg"
 heroAlt: "Logo OnePlus và bối cảnh thị trường smartphone toàn cầu năm 2026"
 heroCaption: "OnePlus được cho là sắp rút khỏi hai thị trường phương Tây quan trọng. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/oneplus-rut-khoi-my-chau-au-thuong-hieu-con-oppo-2026.jpg"
 tldr: "Theo báo cáo của trang công nghệ Đức <strong>WinFuture</strong> ngày 13/7, <strong>OnePlus</strong> và công ty mẹ <strong>Oppo</strong> đang chuẩn bị công bố rút hoàn toàn khỏi thị trường <strong>Mỹ và châu Âu</strong> trong vài ngày tới. Người dùng hiện tại vẫn được hỗ trợ và cập nhật tới hết vòng đời máy, nhưng sẽ không có sản phẩm mới cho hai thị trường này. OnePlus được cho là sẽ trở thành <strong>thương hiệu con giá rẻ của Oppo</strong>, tập trung vào Ấn Độ và Trung Quốc, thậm chí có thể thay <strong>OxygenOS</strong> bằng <strong>ColorOS</strong>. Đây là thông tin ở dạng báo cáo, chưa được xác nhận chính thức."
 tags: ["OnePlus", "Oppo", "ThiTruongSmartphone", "OxygenOS"]
 about: ["OnePlus", "Oppo", "OxygenOS", "ColorOS"]

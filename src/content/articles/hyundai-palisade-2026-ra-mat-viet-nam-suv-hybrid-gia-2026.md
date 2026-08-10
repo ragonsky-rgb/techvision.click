@@ -11,6 +11,7 @@ deck: "Hyundai Palisade 2026 thế hệ mới chuẩn bị ra mắt tại Việt
 heroImage: "https://i.ytimg.com/vi/NUr1jqM84VM/maxresdefault.jpg"
 heroAlt: "Hyundai Palisade 2026 SUV 7 chỗ thế hệ mới thiết kế vuông vức"
 heroCaption: "Hyundai Palisade 2026 thế hệ mới với thiết kế vuông vức và bản hybrid. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/hyundai-palisade-2026-ra-mat-viet-nam-suv-hybrid-gia-2026.jpg"
 tldr: "<strong>Hyundai Palisade 2026</strong> thế hệ mới sắp ra mắt tại Việt Nam, dự kiến quanh tháng 9, với thiết kế vuông vức khỏe khoắn hơn thế hệ cũ. Điểm nhấn là lần đầu có bản <strong>hybrid</strong> dùng động cơ xăng tăng áp 2.5L kết hợp hai mô tơ điện, tổng công suất <strong>329 mã lực</strong> và mô men xoắn 459 Nm. Xe có hai màn 12.3 inch, hỗ trợ Apple CarPlay và Android Auto không dây, cấu hình 8 chỗ và tùy chọn hàng ghế giữa dạng thương gia. Giá dự kiến từ hơn <strong>1,7 tỷ đồng</strong>, bản hybrid trên 2,1 tỷ đồng."
 tags: ["CongNghe", "Hyundai", "Xe", "TinTuc", "Hybrid", "SUV"]
 about: ["Hyundai Palisade", "Hyundai", "SUV hybrid", "Xe 7 chỗ"]

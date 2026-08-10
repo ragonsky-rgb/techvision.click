@@ -11,6 +11,7 @@ deck: "Báo cáo mới nhất từ công ty Challenger, Gray & Christmas đưa r
 heroImage: "https://i.ytimg.com/vi/8LLpAyNCh7M/maxresdefault.jpg"
 heroAlt: "Báo cáo Challenger cho thấy AI gây gần 88.000 ca sa thải tại Mỹ năm 2026"
 heroCaption: "Làn sóng sa thải do AI lập kỷ lục trong năm tháng đầu 2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/ai-88000-nguoi-my-mat-viec-5-thang-dau-2026-challenger.jpg"
 tldr: "Theo báo cáo của <strong>Challenger, Gray & Christmas</strong>, AI bị nêu là nguyên nhân của <strong>87.714 ca sa thải</strong> tại Mỹ từ tháng 1 tới tháng 5/2026, chiếm <strong>22%</strong> tổng số cắt giảm năm nay và đã vượt con số <strong>54.836</strong> của toàn bộ năm 2025. Riêng tháng 5 có <strong>38.579</strong> ca do AI, mức cao nhất từng ghi nhận, và AI dẫn đầu mọi lý do sa thải <strong>ba tháng liên tiếp</strong>. Thủ phạm chính là làn sóng <strong>agentic AI</strong> tự động hóa công việc lao động trí óc. Tuy vậy, một số phân tích cho thấy nhiều công ty âm thầm tuyển lại sau khi cắt giảm quá đà, nên bức tranh chưa hoàn toàn một chiều."
 tags: ["AI", "SaThai", "ViecLam", "AgenticAI", "Challenger", "ThiTruongLaoDong"]
 about: ["Sa thải vì AI", "Challenger Gray Christmas", "Agentic AI", "Thị trường lao động"]

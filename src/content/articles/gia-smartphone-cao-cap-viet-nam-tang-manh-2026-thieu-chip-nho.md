@@ -11,6 +11,7 @@ deck: "Người dùng Việt Nam đang chứng kiến một năm đặc biệt c
 heroImage: "https://i.ytimg.com/vi/yxmR_B2aOdw/maxresdefault.jpg"
 heroAlt: "Giá smartphone cao cấp tại Việt Nam năm 2026 tăng mạnh do thiếu hụt chip nhớ vì cơn sốt AI"
 heroCaption: "Loạt flagship 2026 xác lập mốc giá mới cao chưa từng thấy tại Việt Nam. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/gia-smartphone-cao-cap-viet-nam-tang-manh-2026-thieu-chip-nho.jpg"
 tldr: "Thị trường smartphone Việt Nam năm 2026 chứng kiến làn sóng tăng giá mạnh ở phân khúc cao cấp, với mức tăng từ <strong>9 tới 44%</strong> so với đời trước. <strong>Galaxy S26 Ultra</strong> tăng gần 10% lên khoảng 37 triệu đồng, <strong>iPhone 17 Pro Max</strong> lập mốc khoảng 38 triệu, <strong>Xiaomi 17 Ultra</strong> khoảng 40 triệu, còn <strong>Oppo Find N6</strong> khởi điểm tới 65 triệu đồng. Nguyên nhân chính là thiếu hụt chuỗi cung ứng linh kiện, đặc biệt là <strong>chip nhớ</strong>, khi cơn sốt trung tâm dữ liệu AI khiến các tập đoàn tranh giành nguồn cung, đẩy chi phí linh kiện tiêu dùng lên cao. Một điểm sáng là sự trở lại của <strong>Huawei</strong> với Mate X7, cho thấy thị trường cao cấp vẫn sôi động dù giá tăng."
 tags: ["Smartphone", "GiaBan", "VietNam", "ChipNho"]
 about: ["Thị trường smartphone Việt Nam", "Giá điện thoại", "Chip nhớ", "Điện thoại cao cấp"]

@@ -11,6 +11,7 @@ deck: "Nhân dịp 20 năm dòng Exciter có mặt tại Việt Nam, Yamaha ra m
 heroImage: "https://i.ytimg.com/vi/AGLD1c-8m_k/maxresdefault.jpg"
 heroAlt: "Yamaha Exciter 155 VVA TCS 2026 ra mat Viet Nam ky niem 20 nam"
 heroCaption: "Yamaha Exciter 155 VVA-TCS 2026 đánh dấu 20 năm dòng Exciter tại Việt Nam. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/yamaha-exciter-155-vva-tcs-2026-ra-mat-viet-nam-gia.jpg"
 tldr: "<strong>Yamaha Exciter 155 VVA-TCS 2026</strong> ra mắt Việt Nam, đánh dấu <strong>20 năm</strong> dòng Exciter (2006 - 2026). Xe lần đầu có hệ thống <strong>kiểm soát lực kéo TCS</strong> trên một mẫu côn tay của hãng tại Việt Nam, động cơ 155,1 phân khối cho công suất <strong>18,5 mã lực</strong>, thêm ABS, khóa thông minh, kết nối Y-On và đồng hồ số đa chức năng. Có <strong>4 phiên bản</strong>: Tiêu chuẩn 49,9 triệu, Cao cấp 54,9 triệu, SP 59,9 triệu và Giới hạn 60,9 triệu đồng, bán tại đại lý từ 20/7/2026."
 tags: ["YamahaExciter", "Exciter155", "XeConTay", "TCS", "XeMay2026"]
 about: ["Yamaha Exciter 155", "Yamaha", "Kiểm soát lực kéo TCS", "Yamaha YZF-R15"]

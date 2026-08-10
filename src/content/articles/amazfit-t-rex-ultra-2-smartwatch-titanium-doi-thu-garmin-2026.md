@@ -11,6 +11,7 @@ deck: "Amazfit T-Rex Ultra 2 là một trong những smartwatch thể thao đán
 heroImage: "https://i.ytimg.com/vi/qD1NH8TG_Hc/maxresdefault.jpg"
 heroAlt: "Amazfit T-Rex Ultra 2 smartwatch khung titanium, đối thủ Garmin Fenix giá tốt hơn"
 heroCaption: "Amazfit T-Rex Ultra 2 hướng tới người dùng thể thao ngoài trời với khung titanium bền bỉ. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/amazfit-t-rex-ultra-2-smartwatch-titanium-doi-thu-garmin-2026.jpg"
 tldr: "<strong>Amazfit T-Rex Ultra 2</strong> là smartwatch thể thao phân khúc rugged với khung <strong>titanium</strong> bền bỉ, hệ thống <strong>GPS đa băng tần</strong> cho định vị chính xác, thời lượng <strong>pin nhiều ngày</strong> và loạt tính năng sức khỏe, luyện tập chuyên sâu. Máy được định vị là lựa chọn thay thế cho các dòng đồng hồ thể thao cao cấp như <strong>Garmin Fenix</strong>, nhưng với giá dễ chịu hơn nhiều, quanh mức 550 USD. Với độ bền cao, khả năng chống nước và nhiều chế độ thể thao, T-Rex Ultra 2 phù hợp với người chạy bộ, leo núi, bơi lội và các hoạt động ngoài trời. Đây là sản phẩm giúp Amazfit cạnh tranh trực diện với Garmin trong nhóm smartwatch thể thao bền."
 tags: ["AmazfitTRexUltra2", "Smartwatch", "DongHoTheThao", "Wearable"]
 about: ["Amazfit T-Rex Ultra 2", "Smartwatch thể thao", "Amazfit", "Garmin Fenix"]

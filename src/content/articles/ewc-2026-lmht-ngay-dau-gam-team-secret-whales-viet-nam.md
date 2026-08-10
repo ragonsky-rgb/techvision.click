@@ -11,6 +11,7 @@ deck: "Bộ môn Liên Minh Huyền Thoại tại Esports World Cup 2026 chính 
 heroImage: "https://i.ytimg.com/vi/PejETiABC_w/maxresdefault.jpg"
 heroAlt: "GAM Esports đối đầu T1 trong ngày đầu EWC 2026 Liên Minh Huyền Thoại tại Paris"
 heroCaption: "GAM Esports gặp T1 ngay trận ra quân EWC 2026 tại Paris. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/ewc-2026-lmht-ngay-dau-gam-team-secret-whales-viet-nam.jpg"
 tldr: "Bộ môn LMHT tại <strong>Esports World Cup 2026</strong> khởi tranh ngày 15/7 tại Paris, quy tụ 16 đội tranh <strong>2 triệu USD</strong> theo thể thức bốn bảng GSL loại kép. Việt Nam có hai đại diện là <strong>GAM Esports</strong> và <strong>Team Secret Whales</strong>. Ngày đầu, GAM thua <strong>T1</strong> còn Team Secret Whales thua <strong>Sentinels</strong>, cùng rơi xuống nhánh thua. Ở các cặp khác, đương kim vô địch Gen.G thắng Karmine Corp, Bilibili Gaming vượt qua Movistar KOI. Loại kép cho phép hai đội Việt Nam làm lại, nhưng phải thắng liên tiếp mới hy vọng đi tiếp vào playoff."
 tags: ["EWC2026", "GAMEsports", "TeamSecretWhales", "LMHT"]
 about: ["Esports World Cup 2026", "GAM Esports", "Team Secret Whales", "Liên Minh Huyền Thoại"]

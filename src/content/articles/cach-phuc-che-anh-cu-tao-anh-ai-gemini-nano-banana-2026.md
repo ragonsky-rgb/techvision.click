@@ -11,6 +11,7 @@ deck: "Nano Banana Pro, công cụ tạo và chỉnh sửa ảnh chạy nền Ge
 heroImage: "https://i.ytimg.com/vi/PfP8VBGBiGQ/maxresdefault.jpg"
 heroAlt: "Phục chế ảnh cũ và tạo ảnh AI bằng Gemini Nano Banana Pro"
 heroCaption: "Nano Banana Pro trên Gemini giúp phục chế ảnh cũ và tạo ảnh mới chỉ trong vài giây. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/cach-phuc-che-anh-cu-tao-anh-ai-gemini-nano-banana-2026.jpg"
 tldr: "<strong>Nano Banana Pro</strong> là công cụ tạo và chỉnh sửa ảnh AI chạy nền <strong>Gemini 3 Pro</strong>, có khả năng suy luận và hiểu ngữ cảnh tốt hơn bản Nano Banana thường. Người dùng <strong>miễn phí</strong> được tối đa <strong>5 lệnh và 2 ảnh mỗi ngày</strong>; gói <strong>Google AI Pro</strong> là 100 lệnh và <strong>Ultra</strong> là 500 lệnh mỗi ngày. Công cụ phục chế ảnh cũ (tăng nét, tô màu) và tạo ảnh mới từ mô tả tiếng Việt, vẽ được chữ và infographic chính xác hơn nhiều mô hình phổ biến khác."
 tags: ["Gemini", "NanoBanana", "AI", "PhucCheAnh", "TaoAnhAI"]
 about: ["Gemini", "Nano Banana Pro", "Google AI"]

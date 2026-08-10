@@ -11,6 +11,7 @@ deck: "Trên hộp điện thoại, mục màn hình luôn ghi kèm một trong 
 heroImage: "https://i.ytimg.com/vi/gDmQA8LbcRU/maxresdefault.jpg"
 heroAlt: "So sánh độ phân giải màn hình điện thoại HD+ FHD+ 2K và PPI"
 heroCaption: "Độ phân giải màn hình điện thoại quyết định độ sắc nét nhưng không phải cứ cao là tốt cho mọi người dùng."
+ogImage: "https://techvision.click/uploads/og-article/do-phan-giai-man-hinh-dien-thoai-ppi-bao-nhieu-du-2026.jpg"
 tldr: "<strong>PPI</strong> (pixels per inch) là mật độ điểm ảnh, tính bằng cách chia số điểm ảnh theo đường chéo cho kích thước màn hình. Ba mức phổ biến trên điện thoại là <strong>HD+</strong> (khoảng 720p), <strong>FHD+</strong> (khoảng 1080p, PPI thường 380-450) và <strong>2K/QHD+</strong> (khoảng 1440p, PPI trên 500). Các nghiên cứu thị giác cho thấy mắt người khó phân biệt thêm chi tiết khi PPI vượt qua ngưỡng <strong>khoảng 300</strong> ở khoảng cách cầm điện thoại thông thường. Màn 2K đẹp hơn trên giấy nhưng ăn pin hơn và cần GPU mạnh hơn để render, nên phần lớn máy flagship mặc định xuất ở độ phân giải FHD+ rồi mới cho bật 2K tùy chọn. Với đa số người dùng, FHD+ là điểm cân bằng hợp lý nhất giữa độ nét, pin và giá."
 tags: ["Smartphone", "ManHinh", "CamNang", "PPI", "DoPhanGiai"]
 about: ["PPI", "Độ phân giải màn hình", "HD+", "FHD+", "2K QHD+"]

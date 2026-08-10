@@ -11,6 +11,7 @@ deck: "Flycam đã đi một chặng đường dài từ món đồ chơi công 
 heroImage: "https://i.ytimg.com/vi/5K6IAcICYb0/maxresdefault.jpg"
 heroAlt: "Tổng hợp các flycam tốt nhất nửa đầu 2026 gồm DJI Mavic 4 Pro và Antigravity A1"
 heroCaption: "Những flycam đáng chú ý nhất nửa đầu 2026, chọn theo từng nhu cầu. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/top-flycam-tot-nhat-nua-dau-2026-theo-nhu-cau.jpg"
 tldr: "Nửa đầu 2026 có nhiều flycam đáng chú ý, và lựa chọn tốt nhất tùy nhu cầu. Về <strong>quay phim chuyên nghiệp</strong>, DJI Mavic 4 Pro với camera kép 100MP Hasselblad là lựa chọn đầu bảng. Về <strong>công nghệ mới</strong>, Antigravity A1 là flycam quay 360 độ đầu tiên thế giới. Cần <strong>nông nghiệp</strong>, dòng DJI Agras chuyên dụng rất mạnh. Với <strong>người mới</strong>, nên ưu tiên flycam dễ bay, an toàn và giá hợp lý. Quan trọng là chọn đúng theo mục đích và kinh nghiệm của bạn."
 tags: ["Flycam", "Drone2026", "TopList", "DJI"]
 about: ["Flycam 2026", "DJI Mavic 4 Pro", "Drone quay phim", "Antigravity A1"]

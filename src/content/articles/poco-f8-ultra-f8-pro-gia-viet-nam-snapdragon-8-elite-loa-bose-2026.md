@@ -11,6 +11,7 @@ deck: "POCO F8 Ultra và F8 Pro là cặp flagship giá tốt của Xiaomi, mang
 heroImage: "https://i.ytimg.com/vi/tfhbWFxPg8E/maxresdefault.jpg"
 heroAlt: "POCO F8 Ultra và F8 Pro giá Việt Nam Snapdragon 8 Elite Gen 5 loa Bose màn 3500 nit"
 heroCaption: "POCO F8 Ultra và F8 Pro đưa chip Snapdragon 8 Elite Gen 5 và loa Bose xuống tầm giá dưới 20 triệu. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/poco-f8-ultra-f8-pro-gia-viet-nam-snapdragon-8-elite-loa-bose-2026.jpg"
 tldr: "<strong>POCO F8 Ultra</strong> và <strong>POCO F8 Pro</strong> đều dùng chip <strong>Snapdragon 8 Elite Gen 5</strong>, màn hình AMOLED tần số quét 120Hz với độ sáng đỉnh <strong>3500 nit</strong> và hệ thống loa 2.1 tinh chỉnh cùng <strong>Bose</strong>. Bản Ultra có màn 6.9 inch, camera tele kính tiềm vọng 5x, pin 6500mAh sạc nhanh 100W có dây kèm 50W không dây và chuẩn kháng nước IP68. POCO F8 Pro tại Việt Nam có giá từ khoảng <strong>16,99 triệu đồng</strong> cho bản 12GB/256GB. Đây là lựa chọn đáng cân nhắc cho người muốn hiệu năng đầu bảng nhưng ngân sách dưới 20 triệu."
 tags: ["POCO", "Xiaomi", "Smartphone", "Flagship2026"]
 about: ["POCO F8 Ultra", "POCO F8 Pro", "Snapdragon 8 Elite Gen 5", "Bose"]

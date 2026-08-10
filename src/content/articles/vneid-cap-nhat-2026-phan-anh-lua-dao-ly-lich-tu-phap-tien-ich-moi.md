@@ -11,6 +11,7 @@ deck: "Ứng dụng định danh điện tử VNeID liên tục được bổ su
 heroImage: "https://i.ytimg.com/vi/1c4kGuBKV2w/maxresdefault.jpg"
 heroAlt: "Ứng dụng VNeID cập nhật loạt tiện ích mới năm 2026"
 heroCaption: "VNeID bổ sung nhiều tiện ích mới phục vụ người dân trong năm 2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.jpg"
 tldr: "Ứng dụng định danh điện tử <strong>VNeID</strong> được cập nhật liên tục trong năm 2026. Phiên bản 2.2.8 ngày 13/6 thêm <strong>chức năng phản ánh lừa đảo trên không gian mạng</strong>, quét QR trên căn cước và theo dõi tình trạng giao thẻ. Trước đó, bản 2.2.5 bổ sung định danh cho người dưới 14 tuổi, tích hợp giấy chứng nhận quyền sử dụng đất, vé metro và cấp hộ chiếu phổ thông trong nước. Từ <strong>ngày 1/7/2026</strong>, thông tin <strong>lý lịch tư pháp</strong> được tích hợp trên VNeID. Tính tới giữa 2026, ứng dụng có hơn <strong>50 tiện ích</strong>, hướng tới thành nền tảng số quốc gia giai đoạn 2026 đến 2030."
 tags: ["Internet", "VNeID", "VietNam", "TinTuc", "DinhDanhDienTu", "ChuyenDoiSo"]
 about: ["VNeID", "Định danh điện tử", "Chuyển đổi số Việt Nam"]

@@ -11,6 +11,7 @@ deck: "Samsung được cho là sẽ giới thiệu Galaxy Glasses, cặp kính 
 heroImage: "https://i.ytimg.com/vi/HZioERCcZf8/maxresdefault.jpg"
 heroAlt: "Samsung Galaxy Glasses chạy Android XR tích hợp trợ lý Gemini"
 heroCaption: "Samsung và Google phát triển kính thông minh trên nền Android XR. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/samsung-galaxy-glasses-kinh-thong-minh-android-xr-gemini-2026.jpg"
 tldr: "<strong>Samsung Galaxy Glasses</strong> dự kiến ra mắt tại <strong>Galaxy Unpacked 22/7/2026</strong>, là kính thông minh đầu tiên chạy <strong>Android XR</strong> với trợ lý <strong>Gemini</strong> tích hợp. Thiết bị được đồn dùng chip <strong>Snapdragon AR1</strong>, camera <strong>12MP</strong>, trọng lượng khoảng <strong>50g</strong>, tròng kính đổi màu tự động. Bản 2026 chỉ có âm thanh, chưa có màn hình hiển thị, giá rò rỉ khoảng <strong>379 đến 499 USD</strong>. Samsung hợp tác với Gentle Monster và Warby Parker về kiểu dáng. Bản có màn hình micro-LED được cho là sẽ ra năm 2027."
 tags: ["CongNghe", "Samsung", "GalaxyGlasses", "AndroidXR", "Gemini", "KinhThongMinh"]
 about: ["Samsung Galaxy Glasses", "Android XR", "Kính thông minh AI"]

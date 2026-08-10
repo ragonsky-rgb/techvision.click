@@ -11,6 +11,7 @@ deck: "Pulsar Gaming Gears chính thức đưa bàn phím Hall Effect đầu tay
 heroImage: "https://i.ytimg.com/vi/eP84YvHhclw/maxresdefault.jpg"
 heroAlt: "Pulsar PCMK3 HE ra mắt Việt Nam bàn phím Hall Effect 8K polling"
 heroCaption: "PCMK3 HE là bàn phím Hall Effect đầu tiên của Pulsar Gaming Gears. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/pulsar-pcmk3-he-ban-phim-hall-effect-viet-nam-2026.jpg"
 tldr: "<strong>Pulsar PCMK3 HE</strong> đã chính thức có mặt tại thị trường Việt Nam, đánh dấu bàn phím sử dụng công nghệ switch từ tính <strong>Hall Effect</strong> đầu tiên của thương hiệu Pulsar Gaming Gears. Sản phẩm sở hữu polling rate thực lên tới <strong>8.000Hz</strong>, tốc độ quét <strong>35.000Hz</strong>, cùng tính năng <strong>Rapid Trigger</strong> với độ phân giải cực nhỏ <strong>0,01mm</strong>, cho phép nhả phím gần như tức thời ngay khi vừa nhấn. Điểm kích hoạt phím có thể tuỳ chỉnh linh hoạt trong khoảng từ <strong>0,1mm đến 4mm</strong> thông qua phần mềm Bibimbap dựa trên nền web, đi kèm switch có thể hoán đổi nóng (hot-swap) hỗ trợ cả cực từ Bắc-Nam. Bàn phím có hai phiên bản layout 60% và TKL (80%), phím keycap PBT double-shot thiết kế tại Hàn Quốc, bảo hành 24 tháng."
 tags: ["PulsarPCMK3HE", "BanPhimHallEffect", "RapidTrigger2026", "GamingGearVietNam"]
 about: ["Pulsar PCMK3 HE", "Bàn phím Hall Effect", "Pulsar Gaming Gears", "Rapid Trigger"]

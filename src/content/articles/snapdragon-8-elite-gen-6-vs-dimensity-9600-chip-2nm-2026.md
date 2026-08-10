@@ -11,6 +11,7 @@ deck: "Mùa flagship 2026 mở màn bằng một cuộc đua công nghệ hiếm
 heroImage: "https://i.ytimg.com/vi/McN8sfNAcL4/maxresdefault.jpg"
 heroAlt: "Snapdragon 8 Elite Gen 6 vs Dimensity 9600 chip 2nm flagship 2026"
 heroCaption: "Snapdragon 8 Elite Gen 6 và Dimensity 9600 mở màn kỷ nguyên chip di động 2nm. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/snapdragon-8-elite-gen-6-vs-dimensity-9600-chip-2nm-2026.jpg"
 tldr: "<strong>Snapdragon 8 Elite Gen 6</strong> và <strong>Dimensity 9600</strong> là hai chip flagship di động đầu tiên dùng tiến trình <strong>2nm N2P</strong> của TSMC, thậm chí nhỉnh hơn tiến trình của chip Apple A20. Cả hai được cho là dùng bố cục nhân <strong>2+3+3</strong>: Snapdragon dùng nhân Oryon tự thiết kế cùng GPU Adreno 845, còn Dimensity 9600 dùng nhân ARM thế hệ mới và GPU Immortalis có khả năng tạo khung hình ngay trên chip, đưa game 60fps lên 120fps. Dimensity 9600 được định vị nằm giữa bản Snapdragon 8 Elite Gen 6 thường và bản Pro. Qualcomm sẽ công bố chip tại <strong>Snapdragon Summit 22 tới 24/9</strong>. Tiến trình 2nm chủ yếu giúp máy mát hơn và pin bền hơn ở cùng mức hiệu năng."
 tags: ["Snapdragon", "Dimensity", "Chip2nm", "Flagship2026"]
 about: ["Snapdragon 8 Elite Gen 6", "Dimensity 9600", "TSMC 2nm"]

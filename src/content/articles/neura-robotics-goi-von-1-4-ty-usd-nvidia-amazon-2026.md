@@ -11,6 +11,7 @@ deck: "Neura Robotics, startup robot hình người của Đức đứng sau dò
 heroImage: "https://i.ytimg.com/vi/KKQP3A6cwC8/maxresdefault.jpg"
 heroAlt: "Neura Robotics gọi vốn 1,4 tỷ USD từ Nvidia, Amazon, Qualcomm"
 heroCaption: "Neura Robotics gây chú ý toàn cầu với vòng gọi vốn Series C kỷ lục dành cho robot học châu Âu. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/neura-robotics-goi-von-1-4-ty-usd-nvidia-amazon-2026.jpg"
 tldr: "<strong>Neura Robotics</strong>, startup robot hình người của Đức, đã hoàn tất vòng gọi vốn <strong>Series C trị giá lên tới 1,4 tỷ USD</strong>, đưa định giá công ty lên mức <strong>7 tỷ USD</strong>. Danh sách nhà đầu tư quy tụ những tên tuổi hàng đầu ngành công nghệ và công nghiệp toàn cầu gồm <strong>Nvidia, Amazon, Qualcomm, Tether</strong>, cùng các tập đoàn công nghiệp châu Âu như <strong>Bosch, Schaeffler</strong> và Ngân hàng Đầu tư châu Âu. Đây là thương vụ gọi vốn lớn nhất từ trước tới nay dành cho một công ty robot học full-stack tại châu Âu, phản ánh niềm tin ngày càng lớn của giới đầu tư vào tương lai của AI vật lý (physical AI), thế hệ công nghệ được xem là bước tiến tiếp theo sau các chatbot và trợ lý AI hiện nay. Neura Robotics là công ty đứng sau dòng robot hình người 4NE1, hiện đã ra tới thế hệ 3.5."
 tags: ["NeuraRobotics", "RobotHinhNguoiDuc", "SeriesC2026", "PhysicalAI4NE1"]
 about: ["Neura Robotics", "4NE1", "Robot hình người", "Physical AI"]

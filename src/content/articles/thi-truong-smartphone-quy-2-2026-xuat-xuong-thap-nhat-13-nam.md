@@ -11,6 +11,7 @@ deck: "Lượng smartphone xuất xưởng toàn cầu trong quý 2/2026 giảm 
 heroImage: "https://i.ytimg.com/vi/txOupbbDfPo/maxresdefault.jpg"
 heroAlt: "Thị trường smartphone quý 2/2026 xuất xưởng thấp nhất 13 năm vì khủng hoảng chip nhớ"
 heroCaption: "Khủng hoảng chip nhớ kéo lượng smartphone xuất xưởng quý 2/2026 xuống mức thấp nhất 13 năm. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/thi-truong-smartphone-quy-2-2026-xuat-xuong-thap-nhat-13-nam.jpg"
 tldr: "Lượng smartphone xuất xưởng toàn cầu <strong>quý 2/2026 giảm 11%</strong> so với cùng kỳ năm trước, mức thấp nhất của một quý 2 <strong>kể từ năm 2013</strong>, theo Counterpoint Research. Thủ phạm chính là cơn khát chip nhớ: các nhà sản xuất DRAM và NAND dồn công suất cho bộ nhớ băng thông cao phục vụ trung tâm dữ liệu AI, dự kiến nhóm này tiêu thụ tới <strong>70% sản lượng chip nhớ toàn cầu năm 2026</strong>. Samsung giành lại ngôi số 1 với <strong>24% thị phần</strong>, Apple lập kỷ lục <strong>20% thị phần</strong> và là hãng lớn duy nhất chưa tăng giá trong quý. Ngược lại, Xiaomi, OPPO và vivo đều giảm hai chữ số vì lệ thuộc phân khúc giá rẻ. IDC dự báo cả năm 2026 thị trường giảm <strong>13,9% còn 1,09 tỷ máy</strong>, mức giảm sâu nhất lịch sử, trong khi giá bán trung bình lập kỷ lục <strong>550 USD</strong>, tăng 100 USD chỉ sau một năm."
 tags: ["ThiTruongSmartphone", "ChipNho", "GiaDienThoai", "Counterpoint"]
 about: ["Thị trường smartphone", "Khủng hoảng chip nhớ", "Counterpoint Research", "IDC"]

@@ -11,6 +11,7 @@ deck: "Tháng 7/2026 là một tháng bận rộn với người chơi Nintendo 
 heroImage: "https://i.ytimg.com/vi/9CV1BS3tkmQ/maxresdefault.jpg"
 heroAlt: "Splatoon Raiders và loạt game mới trên Nintendo Switch 2 tháng 7 năm 2026"
 heroCaption: "Splatoon Raiders dẫn đầu loạt game Switch 2 tháng 8/2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/game-hay-nintendo-switch-2-thang-7-2026-splatoon-raiders-final-fantasy.jpg"
 tldr: "Tháng 8/2026 là tháng bom tấn bên thứ ba của <strong>Nintendo Switch 2</strong>: <strong>Lies of P: Complete Edition</strong> ra mắt <strong>6/8</strong>, <strong>The Elder Scrolls IV: Oblivion Remastered</strong> ngày <strong>12/8</strong>, <strong>Final Fantasy XIV Online</strong> bản early access từ <strong>4/8</strong>, <strong>Metal Gear Solid Master Collection Vol.2</strong> ngày <strong>27/8</strong> và đỉnh nhất là <strong>ELDEN RING Tarnished Edition</strong> ngày <strong>28/8</strong>. Loạt game vừa phát hành tháng 7 như Splatoon Raiders, Final Fantasy X/X-2 HD và Xenoblade Chronicles 2 Switch 2 Edition vẫn rất đáng chơi nếu bạn chưa kịp trải nghiệm."
 tags: ["NintendoSwitch2", "SplatoonRaiders", "FinalFantasyX", "GameSwitch2"]
 about: ["Nintendo Switch 2", "Splatoon Raiders", "Final Fantasy X/X-2 HD Remaster", "Xenoblade Chronicles 2"]

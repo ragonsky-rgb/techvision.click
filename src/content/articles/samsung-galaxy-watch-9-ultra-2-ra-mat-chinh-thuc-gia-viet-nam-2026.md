@@ -11,6 +11,7 @@ deck: "Samsung đã chính thức ra mắt Galaxy Watch 9 và Galaxy Watch Ultra
 heroImage: "https://i.ytimg.com/vi/snO1lYWfKl8/maxresdefault.jpg"
 heroAlt: "Samsung Galaxy Watch 9 và Galaxy Watch Ultra 2 ra mắt chính thức 2026"
 heroCaption: "Galaxy Watch 9 và Watch Ultra 2 ra mắt tại Unpacked 22/7. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.jpg"
 tldr: "<strong>Galaxy Watch 9</strong> và <strong>Galaxy Watch Ultra 2</strong> ra mắt tại Unpacked ngày <strong>22/7/2026</strong> và bán tại Việt Nam ngay trong ngày. Giá niêm yết: Watch Ultra 2 là <strong>18,99 triệu đồng</strong>, Watch 9 là <strong>10,99 triệu đồng</strong> bản 44mm và <strong>9,99 triệu đồng</strong> bản 40mm. Cả hai dùng nền tảng <strong>Snapdragon Wear Elite</strong>, màn hình sáng tối đa 3.000 nit, cùng tính năng AI sức khỏe như phát hiện ngưng thở khi ngủ, chỉ số sức khỏe tim mạch, Daily Cardio Load và cảnh báo thính lực. Khách mua sớm được giảm tới 2 triệu đồng và trả góp 0%."
 tags: ["Wearable", "Samsung", "GalaxyWatch", "TinTuc", "GalaxyUnpacked", "SucKhoe"]
 about: ["Galaxy Watch 9", "Galaxy Watch Ultra 2", "Samsung"]

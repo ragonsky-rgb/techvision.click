@@ -11,6 +11,7 @@ deck: "gamescom 2026, triển lãm game lớn nhất thế giới tính theo quy
 heroImage: "https://i.ytimg.com/vi/REV53mP7-7Y/maxresdefault.jpg"
 heroAlt: "gamescom 2026 trien lam game lon nhat the gioi tai Cologne Duc"
 heroCaption: "gamescom 2026 mở màn bằng Opening Night Live, nơi công bố hàng loạt trailer và game mới. Ảnh minh họa. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/gamescom-2026-lich-cach-xem-viet-nam-game-dang-cho.jpg"
 tldr: "<strong>gamescom 2026</strong> diễn ra tại Cologne, Đức từ <strong>26 tới 30 tháng 8</strong>, mở màn bằng chương trình <strong>Opening Night Live</strong> tối <strong>25/8</strong> (khoảng <strong>1 giờ sáng 26/8 giờ Việt Nam</strong>). Chương trình do Geoff Keighley dẫn dắt, phát miễn phí trên YouTube, Twitch và Steam, kéo dài khoảng <strong>2 tới 2,5 tiếng</strong>. Dàn nhà phát hành gồm <strong>Nintendo, Xbox, Ubisoft, CD Projekt Red, Capcom, Krafton, Bandai Namco</strong>; PlayStation tiếp tục vắng mặt từ 2019. Xbox mang tới <strong>25 tựa chơi thử</strong> gồm Call of Duty: Modern Warfare 4, Gears of War: E-Day và Alien: Isolation 2. Tâm điểm được nhắc nhiều là <strong>GTA 6</strong>, dù khả năng có bản chơi thử tại chỗ rất thấp vì game ra mắt ngày <strong>19/11</strong>."
 tags: ["gamescom", "Game", "Opening Night Live", "GTA 6", "Xbox", "Nintendo"]
 about: ["gamescom", "Opening Night Live", "GTA 6", "Xbox", "Nintendo", "CD Projekt Red"]

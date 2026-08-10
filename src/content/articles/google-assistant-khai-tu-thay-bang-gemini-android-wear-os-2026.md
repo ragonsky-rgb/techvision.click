@@ -11,6 +11,7 @@ deck: "Sau gần một thập kỷ, Google Assistant sẽ chính thức ngừng 
 heroImage: "https://i.ytimg.com/vi/SgBy3NFGl3U/maxresdefault.jpg"
 heroAlt: "Google Assistant khai tu thay bang Gemini tren Android va Wear OS 2026"
 heroCaption: "Gemini sẽ thay Google Assistant làm trợ lý mặc định trên thiết bị Android. Ảnh minh họa Gemini trên thiết bị. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/google-assistant-khai-tu-thay-bang-gemini-android-wear-os-2026.jpg"
 tldr: "<strong>Google Assistant</strong> chính thức bị khai tử, Google bắt đầu gỡ bỏ từ ngày <strong>4/9/2026</strong> và thay bằng <strong>Gemini</strong>. Thay đổi áp dụng cho điện thoại Android, máy tính bảng, đồng hồ <strong>Wear OS</strong>, tai nghe và <strong>Android Auto</strong>; riêng ô tô dùng Google built-in tạm thời giữ Assistant. Quá trình cuốn chiếu kéo dài <strong>nhiều tuần</strong> trên toàn cầu, và khi đã chuyển, người dùng <strong>không thể quay lại</strong> Assistant. Assistant ra đời năm <strong>2016</strong>, từng dự kiến khai tử năm 2025 nhưng bị lùi. Người dùng có thể chủ động đổi sang Gemini ngay từ ứng dụng Google trước khi đợt cập nhật tự động tới máy."
 tags: ["Google", "Gemini", "Trợ lý ảo", "Android", "AI"]
 about: ["Google Assistant", "Google Gemini", "Android", "Wear OS", "Google"]

@@ -21,6 +21,13 @@ const articles = defineCollection({
     heroAlt: z.string().optional(),
     heroCaption: z.string().optional(),
 
+    // Ảnh CHIA SẺ 1200x630 riêng, tách khỏi ảnh đầu bài. Bài nào khai thì thẻ
+    // og:image / twitter:image dùng ảnh này, ảnh trong thân bài giữ nguyên.
+    // Dựng bằng scripts/make-article-og.py. Lý do tách: 138/140 bài indexable
+    // từng lấy thumbnail YouTube của người khác làm hero, kéo theo og:image
+    // cũng là mặt hoặc logo của bên khác khi chia sẻ lên mạng xã hội.
+    ogImage: z.string().optional(),
+
     // Tóm tắt nhanh (HTML inline cho phép <strong>)
     tldr: z.string(),
 

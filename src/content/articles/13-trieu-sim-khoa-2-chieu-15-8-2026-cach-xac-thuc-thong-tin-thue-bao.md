@@ -11,6 +11,7 @@ deck: "Theo Cục Viễn thông, khoảng 13 triệu thuê bao di động chưa 
 heroImage: "https://i.ytimg.com/vi/quqT1YvAwDw/maxresdefault.jpg"
 heroAlt: "Hướng dẫn xác thực thông tin thuê bao di động trên VNeID trước hạn khóa SIM 2 chiều 15/8/2026"
 heroCaption: "Người dùng có thể xác thực thông tin thuê bao ngay trên VNeID. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.jpg"
 tldr: "Khoảng <strong>13 triệu thuê bao</strong> chưa chuẩn hóa thông tin đang bị khóa một chiều và sẽ bị <strong>khóa hai chiều từ 15/8</strong>, thu hồi số sau <strong>20/8</strong> nếu không xử lý. Quy định dựa trên <strong>Thông tư 08/2026</strong>. Cục Viễn thông cho biết đã đối soát hơn 114 triệu thuê bao với cơ sở dữ liệu quốc gia về dân cư, trong đó hơn 96 triệu đã xác thực thành công. Người dùng có thể tự xác thực online qua <strong>VNeID</strong> hoặc ứng dụng nhà mạng như My Viettel, My VNPT, My MobiFone, không cần ra điểm giao dịch."
 tags: ["ChuanHoaThongTin", "KhoaSIM2Chieu", "VNeID", "ThueBaoDiDong"]
 about: ["Chuẩn hóa thông tin thuê bao", "Khóa SIM hai chiều", "VNeID", "Thông tư 08/2026"]

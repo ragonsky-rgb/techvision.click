@@ -11,6 +11,7 @@ deck: "Marvel vừa tung trailer đầu tiên của Avengers: Doomsday và mở 
 heroImage: "https://i.ytimg.com/vi/irVNGjRFZGk/maxresdefault.jpg"
 heroAlt: "Avengers Doomsday chieu chuan Infinity Vision tai rap IMAX Laser Viet Nam 2026"
 heroCaption: "Avengers: Doomsday khởi chiếu 18/12/2026 kèm chuẩn rạp Infinity Vision. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/avengers-doomsday-infinity-vision-rap-imax-laser-viet-nam.jpg"
 tldr: "Marvel phát hành trailer đầu tiên của <strong>Avengers: Doomsday</strong> (chiếu <strong>18/12/2026</strong>) và mở bán vé theo chuẩn <strong>Infinity Vision</strong>, chứng nhận rạp PLF của Disney đòi màn rộng <strong>tối thiểu 45 ft</strong>, máy chiếu <strong>laser</strong>, độ sáng ≥14 footlambert và âm thanh Dolby Atmos hoặc 7.1. Tại Việt Nam, các rạp dùng <strong>IMAX with Laser</strong> gồm CGV Sư Vạn Hạnh, Galaxy Sala, CGV AEON Bình Tân (TP.HCM), CGV Vincom Metropolis Liễu Giai và Galaxy CineX Hanoi Centre (Hà Nội) là những nơi đạt tiêu chí kỹ thuật. Các rạp IMAX máy Xenon cũ như Landmark 81, VivoCity, AEON Hà Đông nhiều khả năng không đạt."
 tags: ["AvengersDoomsday", "InfinityVision", "IMAX", "Marvel", "TinTuc"]
 about: ["Avengers: Doomsday", "Infinity Vision", "IMAX with Laser", "CGV Sư Vạn Hạnh", "Galaxy Sala", "Galaxy CineX Hanoi Centre", "Marvel Studios"]

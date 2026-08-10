@@ -11,6 +11,7 @@ deck: "Chưa đầy ba tuần trước sự kiện Made by Google ngày 12/8, c�
 heroImage: "https://i.ytimg.com/vi/ZQE2sutxFKw/sddefault.jpg"
 heroAlt: "Google Pixel Watch 5 lo cau hinh va gia truoc su kien Made by Google 12 8 2026"
 heroCaption: "Pixel Watch 5 là một trong những sản phẩm được chờ đợi tại Made by Google tháng 8/2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.jpg"
 tldr: "<strong>Pixel Watch 5</strong> lộ cấu hình qua hồ sơ trên <strong>Google Play Console</strong>, được 9to5Google đăng tải ngày <strong>22/7/2026</strong>. Máy tiếp tục dùng chip <strong>Qualcomm SW5100</strong> đã có mặt từ năm 2023, không nâng cấp CPU hay GPU. Bù lại, RAM lần đầu tăng từ 2GB lên <strong>3GB</strong>, nhiều khả năng để phục vụ các tính năng Gemini xử lý ngay trên máy. Đồng hồ giữ hai kích cỡ <strong>41mm và 45mm</strong>, mỗi bản có tùy chọn Bluetooth Wi-Fi và 4G LTE, chạy <strong>Wear OS 7</strong> với pin tốt hơn khoảng 10%. Giá khởi điểm rò rỉ là <strong>399 USD</strong>, tăng 50 USD do khủng hoảng chip nhớ. Sự kiện ra mắt diễn ra ngày <strong>12/8</strong>, bán ra khoảng 20/8."
 tags: ["Wearable", "Google", "PixelWatch", "TinTuc", "WearOS", "Gemini"]
 about: ["Google Pixel Watch 5", "Google", "Wear OS 7", "Qualcomm SW5100"]

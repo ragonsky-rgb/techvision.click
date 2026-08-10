@@ -11,6 +11,7 @@ deck: "MiniMax M3 là một trong những mô hình trí tuệ nhân tạo mã n
 heroImage: "https://i.ytimg.com/vi/HQg4_q_oCFY/maxresdefault.jpg"
 heroAlt: "MiniMax M3 mô hình AI mã nguồn mở với cửa sổ ngữ cảnh 1 triệu token năm 2026"
 heroCaption: "MiniMax M3 kết hợp năng lực lập trình, tác nhân và ngữ cảnh 1 triệu token trong một mô hình mã nguồn mở. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/minimax-m3-mo-hinh-ai-ma-nguon-mo-1-trieu-token-2026.jpg"
 tldr: "<strong>MiniMax M3</strong> là mô hình AI <strong>mã nguồn mở</strong> của công ty MiniMax, gây chú ý tại WAIC 2026. Điểm nổi bật là cửa sổ ngữ cảnh lên tới <strong>một triệu token</strong>, cho phép xử lý lượng dữ liệu rất lớn trong một lần. M3 được giới thiệu là mô hình mã nguồn mở đầu tiên kết hợp năng lực <strong>lập trình và tác nhân</strong> ở nhóm hàng đầu, đồng thời <strong>đa phương thức</strong>, hiểu cả văn bản lẫn hình ảnh. Mô hình dùng kiến trúc <strong>chú ý thưa</strong> giúp xử lý ngữ cảnh dài hiệu quả, và được cho là huấn luyện trên quy mô hàng trăm nghìn tỷ token. Vì mã nguồn mở và miễn phí, M3 có thể được tích hợp vào các công cụ lập trình, mở ra cơ hội lớn cho lập trình viên và doanh nghiệp."
 tags: ["MiniMaxM3", "AIMaNguonMo", "MoHinhAI", "WAIC2026"]
 about: ["MiniMax M3", "Mô hình AI mã nguồn mở", "MiniMax", "Trí tuệ nhân tạo"]

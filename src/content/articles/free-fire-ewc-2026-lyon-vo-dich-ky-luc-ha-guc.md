@@ -11,6 +11,7 @@ deck: "Đội tuyển LYON đã đăng quang nội dung Free Fire tại Esports 
 heroImage: "https://i.ytimg.com/vi/XtYNVxXUaM4/maxresdefault.jpg"
 heroAlt: "LYON vo dich Free Fire tai Esports World Cup 2026 o Paris"
 heroCaption: "LYON nâng cúp vô địch Free Fire tại Esports World Cup 2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/free-fire-ewc-2026-lyon-vo-dich-ky-luc-ha-guc.jpg"
 tldr: "<strong>LYON</strong> vô địch nội dung Free Fire tại <strong>Esports World Cup 2026</strong> ở Paris (15 - 18/7), nhận <strong>300.000 USD</strong> trong tổng giải thưởng 1 triệu USD, với 24 đội tham dự. Ở ván 5 chung kết, LYON lập <strong>kỷ lục mới của giải: 33 pha hạ gục kèm 1 Booyah</strong>, phá mốc cũ 28 hạ gục do Team Falcons giữ ở EWC 2024. Tuyển thủ <strong>Benjamín 'Gamezking' Pérez</strong> nhận danh hiệu MVP với 60 pha loại người và 71 pha hạ gục. Chức vô địch giúp LYON có suất dự Free Fire Global Finals 2026."
 tags: ["FreeFire", "EWC2026", "Esports", "LYON", "ChungKetTheGioi"]
 about: ["Free Fire", "LYON", "Esports World Cup 2026", "Garena", "Benjamín Gamezking Pérez"]

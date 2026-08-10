@@ -11,6 +11,7 @@ deck: "Chỉ ba ngày sau khi ra mắt mô hình mạnh nhất của mình, Anth
 heroImage: "https://i.ytimg.com/vi/HPTs8q08t0U/maxresdefault.jpg"
 heroAlt: "Claude Fable 5 và Mythos 5 bị chính phủ Mỹ ra lệnh chặn vì an ninh quốc gia"
 heroCaption: "Anthropic gỡ Fable 5 và Mythos 5 sau chỉ thị của chính phủ Mỹ. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/claude-fable-5-bi-chan-my-ra-lenh-cam-anthropic-go-toan-cau.jpg"
 tldr: "Ngày <strong>12/6/2026</strong>, Anthropic nhận chỉ thị từ chính phủ Mỹ (Bộ trưởng Thương mại Howard Lutnick) cấm <strong>mọi người nước ngoài</strong> truy cập <strong>Claude Fable 5</strong> và <strong>Mythos 5</strong>, kể cả nhân viên Anthropic mang quốc tịch nước ngoài. Vì không thể tách riêng nhóm người dùng này, Anthropic buộc phải <strong>gỡ cả hai mô hình cho toàn bộ khách hàng</strong>, nghĩa là người dùng toàn cầu, trong đó có Việt Nam, đều mất quyền truy cập. Việc này diễn ra chỉ <strong>3 ngày</strong> sau khi Fable 5 ra mắt. Lý do an ninh quốc gia không được nêu chi tiết, nhưng Anthropic tin chính phủ đã biết về một <strong>phương pháp jailbreak</strong> Fable 5. Các mô hình Claude khác vẫn dùng bình thường. Anthropic phản đối và đang nỗ lực khôi phục quyền truy cập."
 tags: ["Anthropic", "ClaudeFable5", "Mythos5", "AIPolicy", "AnNinhQuocGia", "AI2026"]
 about: ["Claude Fable 5", "Mythos 5", "Anthropic", "AI export control"]

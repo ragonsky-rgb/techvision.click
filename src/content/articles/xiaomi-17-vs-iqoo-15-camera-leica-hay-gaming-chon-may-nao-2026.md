@@ -11,6 +11,7 @@ deck: "Xiaomi 17 và iQOO 15 cùng chạy chip Snapdragon 8 Elite Gen 5 mạnh n
 heroImage: "https://i.ytimg.com/vi/cNc3_1pU-HU/maxresdefault.jpg"
 heroAlt: "So sánh Xiaomi 17 và iQOO 15 2026, hai flagship Snapdragon 8 Elite Gen 5 khác hướng đi"
 heroCaption: "Xiaomi 17 và iQOO 15 cùng dùng Snapdragon 8 Elite Gen 5 nhưng nhắm hai nhóm người dùng khác nhau. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026.jpg"
 tldr: "<strong>Xiaomi 17</strong> và <strong>iQOO 15</strong> đều dùng chip <strong>Snapdragon 8 Elite Gen 5</strong>, nhưng khác định hướng. Xiaomi 17 mạnh về <strong>camera hợp tác Leica</strong>, sạc 90W, quay video 8K và có bán chính hãng tại Việt Nam từ khoảng <strong>26,99 triệu đồng</strong>. iQOO 15 thắng về <strong>pin 7.000mAh</strong>, màn hình <strong>2K 144Hz</strong>, chip đồ họa gaming Q3 và chuẩn IP69, giá gốc tại Trung Quốc từ khoảng <strong>4.199 tệ</strong> nhưng chưa bán chính hãng ở Việt Nam. Chọn Xiaomi 17 nếu ưu tiên nhiếp ảnh và hậu mãi, chọn iQOO 15 nếu ưu tiên pin và gaming."
 tags: ["Xiaomi17", "iQOO15", "SoSanh", "Snapdragon8EliteGen5", "Smartphone"]
 about: ["Xiaomi 17", "iQOO 15", "Snapdragon 8 Elite Gen 5", "Leica"]

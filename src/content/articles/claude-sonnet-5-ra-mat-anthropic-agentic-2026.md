@@ -11,6 +11,7 @@ deck: "Anthropic chính thức ra mắt Claude Sonnet 5, được công ty mô t
 heroImage: "https://i.ytimg.com/vi/x-Pd8VtGkFw/maxresdefault.jpg"
 heroAlt: "Claude Sonnet 5 ra mắt với hiệu năng agentic áp sát Opus 4.8"
 heroCaption: "Claude Sonnet 5 được Anthropic định vị là mô hình Sonnet mang tính agentic nhất từ trước tới nay. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/claude-sonnet-5-ra-mat-anthropic-agentic-2026.jpg"
 tldr: "<strong>Anthropic</strong> đã chính thức ra mắt <strong>Claude Sonnet 5</strong>, mô hình được công ty gọi là phiên bản Sonnet <strong>agentic nhất từ trước tới nay</strong>, có khả năng lập kế hoạch, sử dụng công cụ như trình duyệt và terminal, hoạt động độc lập ở mức độ trước đây chỉ các mô hình lớn hơn mới đạt được. Trên bài đo hiệu năng tác vụ tự động (agentic coding), Sonnet 5 đạt <strong>63,2%</strong>, vượt xa Sonnet 4.6 (58,1%) và áp sát Opus 4.8 (69,2%), thậm chí nhỉnh hơn Opus 4.8 ở một số bài đo xử lý công việc tri thức. Mô hình mở bán với giá ưu đãi <strong>2 USD/triệu token đầu vào và 10 USD/triệu token đầu ra</strong> đến hết 31/8/2026, chỉ bằng khoảng một nửa giá của Opus 4.8. Claude Sonnet 5 hiện đã trở thành lựa chọn mặc định cho người dùng Free, Pro, Max, Team, Enterprise, Claude Code và Claude Platform."
 tags: ["ClaudeSonnet5", "AnthropicAI2026", "AgenticAI", "ClaudeCode2026"]
 about: ["Claude Sonnet 5", "Anthropic", "Claude Code", "Agentic AI"]

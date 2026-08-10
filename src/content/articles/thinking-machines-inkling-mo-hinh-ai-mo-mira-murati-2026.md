@@ -11,6 +11,7 @@ deck: "Thinking Machines Lab, startup do cựu giám đốc công nghệ OpenAI 
 heroImage: "https://i.ytimg.com/vi/46bnJaOAVF8/maxresdefault.jpg"
 heroAlt: "Inkling, mô hình AI open-weight đầu tiên của Thinking Machines Lab do Mira Murati sáng lập, năm 2026"
 heroCaption: "Inkling là mô hình đầu tay của Thinking Machines Lab, phát hành dạng open-weight ngày 15/7/2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/thinking-machines-inkling-mo-hinh-ai-mo-mira-murati-2026.jpg"
 tldr: "<strong>Thinking Machines Lab</strong> của Mira Murati phát hành <strong>Inkling</strong> ngày <strong>15/7/2026</strong>, mô hình AI đầu tiên của công ty. Đây là kiến trúc hỗn hợp chuyên gia với <strong>975 tỷ tham số</strong> tổng, chỉ kích hoạt khoảng <strong>41 tỷ tham số</strong> cho mỗi lượt xử lý, huấn luyện trên <strong>45 nghìn tỷ token</strong> gồm văn bản, ảnh, âm thanh và video. Mô hình nhận đầu vào đa phương thức nhưng chỉ xuất ra văn bản, cửa sổ ngữ cảnh tối đa <strong>1 triệu token</strong>. Trọng số được công bố trên <strong>Hugging Face theo giấy phép Apache 2.0</strong>, kèm bản lượng tử hóa NVFP4, và có thể tinh chỉnh qua nền tảng Tinker của chính công ty."
 tags: ["Inkling", "ThinkingMachinesLab", "MiraMurati", "MoHinhMo"]
 about: ["Inkling", "Thinking Machines Lab", "Mira Murati", "Mô hình AI open-weight", "Hugging Face", "Tinker"]

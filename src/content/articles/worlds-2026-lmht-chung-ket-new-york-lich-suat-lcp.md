@@ -11,6 +11,7 @@ deck: "Riot Games đã chốt toàn bộ khung thời gian, địa điểm và t
 heroImage: "https://i.ytimg.com/vi/gkyoEUJ_vME/maxresdefault.jpg"
 heroAlt: "Chung ket the gioi Lien Minh Huyen Thoai Worlds 2026 to chuc tai My"
 heroCaption: "Worlds 2026 trở lại Bắc Mỹ với hành trình qua ba thành phố, khép lại bằng trận chung kết ở New York."
+ogImage: "https://techvision.click/uploads/og-article/worlds-2026-lmht-chung-ket-new-york-lich-suat-lcp.jpg"
 tldr: "<strong>Worlds 2026</strong>, tức Chung kết thế giới Liên Minh Huyền Thoại, diễn ra từ <strong>15/10 tới 14/11/2026</strong> tại Mỹ. Vòng khởi động tổ chức ở Riot Games Arena tại Los Angeles, vòng Thụy Sĩ và vòng loại trực tiếp diễn ra tại Credit Union of Texas Event Center ở Allen (Texas), còn trận chung kết tổng đặt tại <strong>Barclays Center, New York</strong> ngày 14/11. Giải có <strong>19 đội</strong>, nhiều nhất từ trước tới nay. Các khu vực LCK, LPL, LEC, LCS và <strong>LCP đều được 3 suất</strong>, CBLOL 2 suất, cùng suất cho nhà vô địch MSI và một suất phụ. Đội Việt Nam dự Worlds thông qua hệ thống LCP, nơi nhà vô địch VCS mùa hè đã giành vé. Đây là lần hiếm hoi Worlds đi qua ba thành phố Mỹ trong một mùa."
 tags: ["Esports", "LMHT", "Worlds2026", "LCP", "VCS"]
 about: ["Chung kết thế giới Liên Minh Huyền Thoại 2026", "Riot Games", "LCP", "VCS", "Barclays Center"]

@@ -11,6 +11,7 @@ deck: "Tháng 8 là cao điểm mua sắm laptop của tân sinh viên Việt Na
 heroImage: "https://i.ytimg.com/vi/YK7ZfzBZagA/maxresdefault.jpg"
 heroAlt: "Chon laptop cho sinh vien mua tuu truong 2026 theo nganh hoc"
 heroCaption: "Chọn laptop theo đúng nhu cầu ngành học quan trọng hơn chạy theo cấu hình cao. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/laptop-sinh-vien-tuu-truong-2026-chon-theo-nganh-hoc.jpg"
 tldr: "Mùa tựu trường 2026, ngân sách hợp lý cho đa số tân sinh viên nằm trong khoảng <strong>10 tới 18 triệu đồng</strong>. Nhóm kinh tế, ngôn ngữ, luật chỉ cần chip tiết kiệm điện và <strong>16GB RAM</strong>, tham khảo <strong>Lenovo IdeaPad Slim 3</strong> khoảng 10,99 triệu hoặc <strong>ASUS Vivobook 15 X1504VA</strong> khoảng 11,69 triệu. Nhóm CNTT nên nhắm <strong>Dell Inspiron 15 3530</strong> khoảng 15,99 triệu để có đủ RAM và cổng kết nối. Nhóm kỹ thuật cần card rời, <strong>Acer Nitro V 15</strong> khoảng 14,99 triệu là mức khởi điểm. Nhóm thiết kế nên ưu tiên màn OLED hoặc <strong>MacBook Air M5</strong>. Bản rẻ nhất đáng cân nhắc là <strong>Acer Aspire Lite AL14-31P</strong> khoảng 9,79 triệu. Giá chip nhớ đang tăng nên chốt sớm có lợi hơn chờ."
 tags: ["Laptop", "CamNang", "SinhVien", "MuaSam", "TuuTruong"]
 about: ["Lenovo IdeaPad Slim 3", "ASUS Vivobook 15", "Dell Inspiron 15 3530", "Acer Nitro V 15", "MacBook Air M5", "Acer Aspire Lite"]

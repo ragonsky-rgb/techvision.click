@@ -11,6 +11,7 @@ deck: "Bản cập nhật Ngày Hội Liên Quân phát hành ngày 8/7/2026 là
 heroImage: "https://i.ytimg.com/vi/4fttdvdQ9YI/maxresdefault.jpg"
 heroAlt: "Liên Quân Mobile bổ sung tùy chọn 120 FPS trên Android sau bản cập nhật Ngày Hội Liên Quân"
 heroCaption: "Tùy chọn 120 FPS xuất hiện trong mục thiết lập đồ họa của Liên Quân Mobile trên Android. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/lien-quan-mobile-120-fps-android-cap-nhat-2026-cach-bat-may-ho-tro.jpg"
 tldr: "Bản cập nhật <strong>Ngày Hội Liên Quân</strong> phát hành ngày <strong>8/7/2026</strong> (phiên bản mã 1.63.1.5) làm mới giao diện thiết lập đồ họa trong game. Điểm đáng chú ý nhất là mục FPS bổ sung hai tùy chọn mới <strong>Siêu cao (90 FPS)</strong> và <strong>Cực cao (120 FPS)</strong> cho phiên bản Android. Trước đây trên Android, Liên Quân Mobile thường bị giới hạn ở <strong>60 FPS</strong>, trong khi iPhone đã có mức cao hơn từ trước, nên đây là thay đổi game thủ Android chờ đợi từ lâu. Để bật, người chơi cần <strong>tải gói tài nguyên bổ sung</strong>, vào mục Thiết lập rồi chọn mức FPS mong muốn, với điều kiện máy có màn hình tần số quét <strong>tối thiểu 120Hz</strong> và cấu hình đủ mạnh. Một số thiết bị đã hỗ trợ gồm <strong>HONOR WIN RT, Motorola Edge 70 Fusion và Xiaomi 17T Pro</strong>, nhưng bật 120 FPS sẽ khiến máy tốn pin nhanh hơn và nóng hơn."
 tags: ["LiênQuânMobile", "120FPS", "GameMobile", "AndroidGaming"]
 about: ["Liên Quân Mobile", "Garena", "Android", "Màn hình 120Hz"]

@@ -11,6 +11,7 @@ deck: "Motorola chính thức trình làng Edge 70 Max vào ngày 15/7, mẫu m�
 heroImage: "https://i.ytimg.com/vi/tAUnHj8Vp9s/maxresdefault.jpg"
 heroAlt: "Motorola Edge 70 Max với pin 7100mAh, chip Snapdragon 8 Gen 5 và màn hình AMOLED 144Hz năm 2026"
 heroCaption: "Motorola Edge 70 Max ra mắt 15/7 với pin 7100mAh trong thân máy siêu mỏng. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/motorola-edge-70-max-pin-7100mah-man-hinh-7000-nit-2026.jpg"
 tldr: "<strong>Motorola Edge 70 Max</strong> ra mắt ngày 15/7/2026, nổi bật với viên <strong>pin 7100mAh</strong> đặt trong thân máy được quảng bá là siêu mỏng nhờ công nghệ pin silicon carbon. Máy dùng chip <strong>Snapdragon 8 Gen 5</strong>, màn AMOLED LTPO 6.8 inch độ phân giải 2K, tần số 144Hz và độ sáng đỉnh <strong>7000 nit</strong>. Điểm mới đáng chú ý là sạc nam châm kiểu MagSafe dành cho Android. Giá bán khởi điểm <strong>699,99 bảng</strong> tại Anh và <strong>799,99 euro</strong> tại châu Âu, còn bản Ấn Độ từ 54.999 rupee, mở bán từ 20/7."
 tags: ["MotorolaEdge70Max", "Snapdragon8Gen5", "Pin7100mAh", "DienThoaiPinLon"]
 about: ["Motorola Edge 70 Max", "Snapdragon 8 Gen 5", "Pin 7100mAh", "Motorola 2026"]

@@ -11,6 +11,7 @@ deck: "Samsung Galaxy Z TriFold là điện thoại gập ba đầu tiên của 
 heroImage: "https://i.ytimg.com/vi/3eGI9CNkFZk/maxresdefault.jpg"
 heroAlt: "Samsung Galaxy Z TriFold điện thoại gập ba mở ra màn hình 10 inch"
 heroCaption: "Galaxy Z TriFold mở ra màn 10 inch, gập gọn như điện thoại. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.jpg"
 tldr: "Samsung Galaxy Z TriFold là <strong>điện thoại gập ba đầu tiên</strong> của hãng, mở ra màn hình <strong>10 inch</strong> như máy tính bảng và gập gọn lại với màn ngoài 6.5 inch. Máy dùng cấu hình cao cấp với <strong>16GB RAM</strong>, bộ nhớ 512GB tới 1TB, các tấm nền Dynamic AMOLED 2X 120Hz, pin <strong>5600mAh</strong> và sạc nhanh 45W. Giá khởi điểm <strong>2.899 USD</strong> khiến đây là chiếc gập đắt nhất của Samsung. Sản phẩm bán ra giới hạn ở một số thị trường và là bước thử nghiệm táo bạo về thiết kế gập nhiều nếp."
 tags: ["Smartphone", "Samsung", "GapBa", "TinTuc", "Foldable", "Galaxy"]
 about: ["Samsung Galaxy Z TriFold", "Điện thoại gập", "Samsung"]

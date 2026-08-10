@@ -11,6 +11,7 @@ deck: "Phân khúc SUV hạng B tại Việt Nam vừa có thêm một tay chơi
 heroImage: "https://i.ytimg.com/vi/0tm5G5FLn3o/maxresdefault.jpg"
 heroAlt: "GAC GS3 Emzoom ra mat Viet Nam gia 639 trieu SUV hang B 2026"
 heroCaption: "GAC GS3 Emzoom gia nhập phân khúc SUV hạng B đang cạnh tranh gay gắt tại Việt Nam. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/gac-gs3-emzoom-ra-mat-viet-nam-gia-639-trieu-2026.jpg"
 tldr: "<strong>GAC GS3 Emzoom</strong> chính thức ra mắt Việt Nam với giá <strong>639 triệu đồng</strong>, phiên bản duy nhất 1.5T Premium R nhập khẩu nguyên chiếc từ Malaysia. Xe dùng động cơ <strong>1.5L tăng áp</strong> cho <strong>174 mã lực</strong> và mô-men xoắn <strong>270 Nm</strong>, đi cùng hộp số ly hợp kép ướt 7 cấp, tăng tốc 0-100 km/h khoảng 8 giây. Trang bị nổi bật gồm màn giải trí <strong>10,25 inch</strong>, cửa sổ trời toàn cảnh, gói an toàn <strong>ADAS cấp 2</strong> với 6 túi khí. GAC áp dụng chính sách bảo hành <strong>7 năm</strong> hoặc 150.000 km, cạnh tranh trực tiếp Mitsubishi Xforce và Toyota Yaris Cross."
 tags: ["Xe", "GAC", "SUV", "TinTuc", "CongNghe", "OToViet"]
 about: ["GAC GS3 Emzoom", "GAC Motor", "Mitsubishi Xforce", "Toyota Yaris Cross"]

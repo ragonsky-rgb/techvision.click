@@ -11,6 +11,7 @@ deck: "Khi chọn mua laptop, phần khó hiểu nhất với nhiều người l
 heroImage: "https://i.ytimg.com/vi/D0hRkT_5og0/maxresdefault.jpg"
 heroAlt: "Cách đọc thông số CPU laptop nhân luồng xung nhịp TDP P-core E-core"
 heroCaption: "Hiểu đúng thông số CPU giúp chọn laptop vừa nhu cầu, tránh mua thừa hoặc thiếu cấu hình. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/cach-doc-thong-so-cpu-laptop-nhan-luong-xung-nhip-tdp-2026.jpg"
 tldr: "Một CPU laptop được mô tả bằng vài thông số cốt lõi. <strong>Số nhân</strong> là số bộ xử lý vật lý, <strong>số luồng</strong> là số tác vụ chạy song song, thường gấp đôi số nhân nhờ siêu phân luồng. Chip hiện đại chia <strong>P-core</strong> mạnh và <strong>E-core</strong> tiết kiệm điện. <strong>Xung nhịp</strong> đo bằng GHz cho biết tốc độ, với mức cơ bản và mức tăng tốc tối đa. <strong>Cache</strong> là bộ nhớ đệm tốc độ cao, còn <strong>TDP</strong> tính bằng watt phản ánh mức điện và nhiệt, ảnh hưởng trực tiếp tới pin và độ ồn quạt. Chip 2026 còn thêm <strong>NPU</strong> để chạy tác vụ AI. Chọn CPU nên bám nhu cầu thực tế, không chạy theo con số cao nhất."
 tags: ["CPU", "Laptop", "CamNang", "MuaLaptop"]
 about: ["CPU laptop", "Intel Core Ultra", "AMD Ryzen AI"]

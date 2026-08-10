@@ -11,6 +11,7 @@ deck: "Khi cần thêm dung lượng lưu trữ, nhiều người phân vân gi�
 heroImage: "https://i.ytimg.com/vi/SAmJ3H9ZU1A/maxresdefault.jpg"
 heroAlt: "So sánh SSD gắn trong và ổ cứng di động gắn ngoài cho lưu trữ năm 2026"
 heroCaption: "SSD gắn trong và ổ cứng di động phục vụ những mục đích khác nhau. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/o-cung-ssd-gan-trong-hay-o-cung-di-dong-chon-loai-nao-2026.jpg"
 tldr: "So sánh SSD gắn trong và ổ cứng di động gắn ngoài. <strong>SSD gắn trong</strong> thắng về tốc độ truy xuất nhanh, hợp cài hệ điều hành, phần mềm và chạy tác vụ nặng, giúp máy nhanh, nhưng cố định trong máy. <strong>Ổ cứng di động</strong> thắng về tính di động, dễ mang theo, sao lưu và mở rộng dung lượng giữa nhiều máy. Nếu cần tăng tốc máy, cài phần mềm, chọn SSD gắn trong. Nếu cần sao lưu, mang theo dữ liệu, chọn ổ cứng di động."
 tags: ["SSDGanTrong", "OCungDiDong", "SoSanh", "LuuTru2026"]
 about: ["Ổ cứng 2026", "SSD gắn trong", "Ổ cứng di động", "Lưu trữ máy tính"]

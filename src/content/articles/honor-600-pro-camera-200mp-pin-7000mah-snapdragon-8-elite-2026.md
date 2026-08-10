@@ -11,6 +11,7 @@ deck: "Honor 600 Pro là mẫu smartphone cận cao cấp đáng chú ý của H
 heroImage: "https://i.ytimg.com/vi/jqLTTjCSIEg/maxresdefault.jpg"
 heroAlt: "Honor 600 Pro camera 200MP pin 7000mAh Snapdragon 8 Elite"
 heroCaption: "Honor 600 Pro nổi bật với camera 200MP và pin lớn. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.jpg"
 tldr: "<strong>Honor 600 Pro</strong> dùng chip <strong>Snapdragon 8 Elite</strong> tiến trình 3nm, GPU Adreno 830. Máy có màn hình AMOLED <strong>6,57 inch</strong> độ phân giải 1264x2728, tần số <strong>120Hz</strong>. Hệ thống camera ba ống gồm chính <strong>200MP</strong>, góc siêu rộng 12MP và tele 3.5x 50MP, camera selfie 50MP. Pin dung lượng <strong>7000mAh</strong> hỗ trợ sạc nhanh 80W có dây và 50W không dây. Giá tham khảo quốc tế từ <strong>799 USD</strong>, giá chính thức tại Việt Nam cần chờ Honor công bố."
 tags: ["Smartphone", "HONOR", "Honor600Pro", "TinTuc", "Camera", "Snapdragon"]
 about: ["Honor 600 Pro", "HONOR", "Smartphone cận cao cấp"]

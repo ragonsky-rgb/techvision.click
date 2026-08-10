@@ -11,6 +11,7 @@ deck: "Cơ quan Quản lý Không gian mạng Trung Quốc (CAC) đã đưa Appl
 heroImage: "https://i.ytimg.com/vi/TIBZU0pK3ro/maxresdefault.jpg"
 heroAlt: "Trung Quốc phê duyệt Apple Intelligence trên iPhone với Alibaba Qwen và Baidu làm đối tác năm 2026"
 heroCaption: "Apple Intelligence được cơ quan quản lý Trung Quốc thông qua sau gần hai năm chờ đợi. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/apple-intelligence-trung-quoc-phe-duyet-alibaba-qwen-baidu-2026.jpg"
 tldr: "Cơ quan Quản lý Không gian mạng Trung Quốc <strong>phê duyệt Apple Intelligence ngày 15/7/2026</strong>, sau gần <strong>22 tháng</strong> kể từ khi bộ tính năng ra mắt toàn cầu. Apple nằm trong đợt đăng ký gồm <strong>7 dịch vụ AI trên điện thoại</strong>, là một trong hai cái tên nước ngoài bên cạnh Galaxy AI của Samsung. <strong>Alibaba</strong> cung cấp mô hình <strong>Qwen</strong> cho phần hiểu và tạo văn bản, hình ảnh; <strong>Baidu</strong> tham gia mảng tìm kiếm. Theo thông báo, giấy phép đợt này chỉ áp dụng cho <strong>iPhone</strong>, còn iPad, Mac và Vision Pro chưa rõ. Thị trường phản ứng tích cực: cổ phiếu Alibaba tại Hong Kong tăng khoảng <strong>4,8%</strong>, Baidu tăng khoảng <strong>3,9%</strong>. Doanh thu Đại Trung Hoa của Apple đạt <strong>20,5 tỷ USD</strong> trong quý gần nhất, tăng 28% so với cùng kỳ."
 tags: ["AppleIntelligence", "Alibaba", "Baidu", "Qwen", "TrungQuoc", "iPhone"]
 about: ["Apple Intelligence", "Alibaba", "Baidu", "Qwen", "Cơ quan Quản lý Không gian mạng Trung Quốc"]

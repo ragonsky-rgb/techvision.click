@@ -11,6 +11,7 @@ deck: "Hệ thống giám sát an toàn thông tin của Bảo hiểm xã hội 
 heroImage: "https://i.ytimg.com/vi/ZcOlOVP0NtI/maxresdefault.jpg"
 heroAlt: "Cảnh báo ứng dụng giả mạo cơ quan nhà nước chứa mã độc chiếm quyền điện thoại"
 heroCaption: "Cùng thủ đoạn cài app giả mạo cơ quan nhà nước chứa mã độc để chiếm đoạt tài sản. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/canh-bao-vssid-gia-mao-ma-doc-chiem-quyen-dien-thoai-2026.jpg"
 tldr: "Bảo hiểm xã hội Việt Nam cảnh báo ứng dụng <strong>VssID giả mạo</strong> mang tên file <strong>VssID.apk</strong> chứa mã độc, có thể chiếm quyền điều khiển điện thoại. Kẻ gian giả danh cán bộ BHXH, gọi điện hoặc nhắn tin yêu cầu cài phiên bản mới rồi gửi link lạ tải file APK. Khi cài, app đòi quyền truy cập tin nhắn, danh bạ, màn hình, từ đó <strong>đánh cắp mã OTP</strong> và có thể tự chuyển tiền. BHXH khẳng định không bao giờ gửi link tải app. Chỉ tải VssID chính chủ từ App Store hoặc Google Play, tuyệt đối không cài file APK ngoài."
 tags: ["Internet", "BaoMat", "CamNang", "LuaDao", "Android", "VssID"]
 about: ["VssID", "Bảo hiểm xã hội Việt Nam", "Mã độc Android"]

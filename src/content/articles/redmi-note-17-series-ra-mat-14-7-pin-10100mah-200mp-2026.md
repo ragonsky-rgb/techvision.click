@@ -11,6 +11,7 @@ deck: "Xiaomi xác nhận ra mắt dòng Redmi Note 17 tại Trung Quốc ngày 
 heroImage: "https://i.ytimg.com/vi/4GOdRGcHEq0/maxresdefault.jpg"
 heroAlt: "Redmi Note 17 series với thiết kế cụm camera vuông mới và viên pin lớn năm 2026"
 heroCaption: "Redmi Note 17 series ra mắt ngày 14/7 với điểm nhấn là pin dung lượng cực lớn. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/redmi-note-17-series-ra-mat-14-7-pin-10100mah-200mp-2026.jpg"
 tldr: "<strong>Redmi Note 17 series</strong> ra mắt tại Trung Quốc ngày <strong>14/7</strong>, gồm ba bản Note 17, Note 17 Pro và lần đầu có <strong>Note 17 Pro Max</strong>. Bản Pro Max nổi bật với camera chính <strong>200MP</strong>, chip MediaTek Dimensity 7500 và viên pin <strong>10.100mAh</strong> sạc 100W. Bản Pro dùng pin 9.000mAh, bản tiêu chuẩn khoảng 8.000mAh, đều có màn hình 1.5K và kháng nước chuẩn cao. Khi về Việt Nam theo đường chính hãng, bản Pro Max được dự đoán có thể chạm mốc khoảng <strong>20 triệu đồng</strong>, cao hơn các đời Redmi Note trước."
 tags: ["RedmiNote17", "RedmiNote17ProMax", "PinLon", "Xiaomi2026"]
 about: ["Redmi Note 17", "Redmi Note 17 Pro Max", "Xiaomi", "MediaTek Dimensity 7500"]

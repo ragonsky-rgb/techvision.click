@@ -11,6 +11,7 @@ deck: "Google đang thử nghiệm một hình thức reCAPTCHA mới, yêu cầ
 heroImage: "https://i.ytimg.com/vi/JTLdCNSf8UQ/maxresdefault.jpg"
 heroAlt: "Google thử nghiệm reCAPTCHA xác thực bằng cử chỉ tay qua webcam"
 heroCaption: "Hình thức reCAPTCHA mới yêu cầu người dùng đưa tay ra trước camera để chứng minh là người thật. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/google-recaptcha-cu-chi-tay-quet-ban-tay-chong-bot-ai-2026.jpg"
 tldr: "<strong>Google</strong> thử nghiệm <strong>reCAPTCHA cử chỉ tay</strong> từ giữa tháng 6 năm 2026, yêu cầu người dùng thực hiện động tác như giơ ngón cái, nắm tay hay vẫy tay trước webcam. Hệ thống ghi một đoạn video ngắn, trích xuất <strong>21 điểm khớp</strong> trên bàn tay để nhận diện người thật, theo cơ chế <strong>liveness detection</strong> thuộc nền tảng Google Cloud Fraud Defense. Google khẳng định <strong>không ghi âm</strong> và <strong>xóa video sau khi xác thực</strong>. Tuy nhiên, nhóm nghiên cứu đã qua mặt được bằng <strong>ảnh tĩnh</strong> kết hợp camera ảo của OBS Studio."
 tags: ["Google", "reCAPTCHA", "BaoMat", "ChongBot", "QuyenRiengTu"]
 about: ["Google", "reCAPTCHA", "Google Cloud Fraud Defense", "liveness detection"]

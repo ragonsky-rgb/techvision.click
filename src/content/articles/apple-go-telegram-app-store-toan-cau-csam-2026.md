@@ -11,6 +11,7 @@ deck: "Trong một diễn biến gây bất ngờ, Apple đã gỡ Telegram, ứ
 heroImage: "https://i.ytimg.com/vi/PUFEcyHGFEM/maxresdefault.jpg"
 heroAlt: "Apple go Telegram khoi App Store toan cau vi noi dung CSAM thang 8 2026"
 heroCaption: "Apple gỡ Telegram khỏi App Store toàn cầu vì phát hiện nội dung CSAM, rồi khôi phục sau khoảng 40 phút. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/apple-go-telegram-app-store-toan-cau-csam-2026.jpg"
 tldr: "<strong>Ngày 4/8/2026</strong>, Apple gỡ ứng dụng nhắn tin <strong>Telegram</strong>, vốn có gần <strong>một tỷ người dùng</strong>, khỏi <strong>App Store toàn cầu</strong>. Apple xác nhận lý do là phát hiện <strong>nội dung CSAM</strong> (xâm hại trẻ em) vi phạm quy định. Trong thời gian này, người dùng iPhone và iPad không thể tải mới hay cập nhật Telegram, nhưng ứng dụng đã cài vẫn hoạt động, còn bản Android và trên Mac App Store không bị ảnh hưởng. Telegram nói vụ việc bắt nguồn từ <strong>một tài khoản</strong> đã bị cấm ngay, và cho biết hãng đã gỡ hơn <strong>337.900 nhóm và kênh</strong> liên quan CSAM trong năm 2026. Ứng dụng quay lại App Store sau khoảng <strong>40 phút</strong>."
 tags: ["Apple", "Telegram", "App Store", "An toàn số", "Công nghệ"]
 about: ["Apple", "Telegram", "App Store", "CSAM", "iPhone"]

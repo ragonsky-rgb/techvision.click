@@ -11,6 +11,7 @@ deck: "Trận chung kết tổng MSI 2026 giữa BLG và HLE chính thức đư�
 heroImage: "https://i.ytimg.com/vi/wRW9Eb6mpck/maxresdefault.jpg"
 heroAlt: "MSI 2026 chung kết tổng BLG đối đầu HLE tranh vương miện"
 heroCaption: "BLG và HLE chính thức chạm trán tại trận đấu cuối cùng của MSI 2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/msi-2026-chung-ket-tong-blg-hle-doi-dau-vuong-mien.jpg"
 tldr: "Trận <strong>chung kết tổng MSI 2026</strong> giữa <strong>BLG</strong> (đại diện LPL) và <strong>HLE</strong> (đại diện LCK) chính thức được ấn định, diễn ra tối <strong>12/7/2026</strong>. BLG đã có mặt tại chung kết tổng từ sớm sau khi đánh bại chính HLE với tỷ số <strong>3-1</strong> tại chung kết nhánh thắng ngày 9/7, trong khi HLE phải trải qua hành trình gian nan hơn, ngược dòng hạ <strong>LYON 3-2</strong> tại chung kết nhánh thua để giành tấm vé cuối cùng. Đây là lần tái đấu giữa hai đội chỉ vài ngày sau trận thua trước đó của HLE, biến trận chung kết tổng trở thành cơ hội để đại diện LCK phục thù, trong khi BLG hướng tới hoàn thành mục tiêu vô địch quốc tế thứ hai trong năm, khép lại hành trình được gọi là Con đường hoàng kim."
 tags: ["MSI2026ChungKetTong", "BLGvsHLE", "LMHTChungKet2026", "EsportsMSI2026"]
 about: ["BLG", "Hanwha Life Esports", "MSI 2026", "Chung kết tổng"]

@@ -11,6 +11,7 @@ deck: "Sau khi được Cục Viễn thông cấp phép thí điểm hồi thán
 heroImage: "https://i.ytimg.com/vi/jcbxLftdbtQ/maxresdefault.jpg"
 heroAlt: "Internet vệ tinh Starlink của SpaceX triển khai thí điểm tại Việt Nam"
 heroCaption: "Starlink được cấp phép thí điểm tại Việt Nam, dịch vụ dự kiến từ giữa 2026. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.jpg"
 tldr: "<strong>Starlink Services Vietnam</strong> được Cục Viễn thông cấp phép thí điểm ngày <strong>14/2/2026</strong>, là doanh nghiệp nước ngoài đầu tiên được cung cấp internet vệ tinh quỹ đạo thấp (LEO) tại Việt Nam. Giai đoạn thí điểm kéo dài <strong>5 năm</strong> (kết thúc trước 2031), trần <strong>600.000 thuê bao</strong>, có <strong>4 trạm gateway</strong> ở Phú Thọ, Đà Nẵng và TP.HCM. Chi phí tháng đầu dự kiến khoảng <strong>11,5 triệu đồng</strong> (thiết bị ~9,2 triệu + cước 85 USD), từ tháng thứ hai khoảng <strong>2,2 triệu đồng mỗi tháng</strong>. Dịch vụ dự kiến cung cấp từ <strong>giữa 2026</strong>. Giá trị lớn nhất nằm ở vùng sâu vùng xa, hải đảo, hàng hải và các nơi cáp quang khó vươn tới."
 tags: ["Starlink", "InternetVeTinh", "SpaceX", "VienThong", "VietNam", "LEO"]
 about: ["Starlink", "SpaceX", "Internet vệ tinh", "Cục Viễn thông"]

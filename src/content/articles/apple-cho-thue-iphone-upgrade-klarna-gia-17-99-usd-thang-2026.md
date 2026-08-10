@@ -11,6 +11,7 @@ deck: "Apple vừa chính thức triển khai Apple Upgrade, chương trình cho
 heroImage: "https://i.ytimg.com/vi/bdsL8IGC7ik/maxresdefault.jpg"
 heroAlt: "Apple ra mắt chương trình Upgrade cho thuê iPhone qua Klarna"
 heroCaption: "Apple Upgrade cho phép người dùng thuê iPhone theo tháng thay vì mua đứt như trước. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.jpg"
 tldr: "<strong>Apple</strong> chính thức mở chương trình <strong>Apple Upgrade</strong>, cho thuê thiết bị qua đối tác <strong>Klarna</strong> tại Mỹ. Giá thuê khởi điểm <strong>17,99 USD/tháng</strong> cho iPhone, <strong>11,99 USD</strong> cho Apple Watch và iPad, <strong>24,99 USD</strong> cho Mac. Kỳ hạn <strong>12 và 24 tháng</strong> với iPhone và Apple Watch, <strong>24 và 36 tháng</strong> với Mac và iPad. Hết hạn, người thuê có thể đổi máy mới, mua đứt phần giá trị còn lại hoặc trả lại. Chương trình thay thế iPhone Upgrade Program cũ và hiện chỉ áp dụng tại Mỹ."
 tags: ["Apple", "AppleUpgrade", "Klarna", "iPhone", "ThueBao"]
 about: ["Apple", "Apple Upgrade", "Klarna", "iPhone"]

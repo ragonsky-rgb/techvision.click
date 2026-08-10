@@ -11,6 +11,7 @@ deck: "Huawei tiếp tục theo đuổi tham vọng biến máy tính bảng th�
 heroImage: "https://i.ytimg.com/vi/YQgOBkQrY7s/maxresdefault.jpg"
 heroAlt: "Huawei MatePad 12 X 2026 với màn hình PaperMatte và bút M-Pencil Pro đặt trên bàn"
 heroCaption: "MatePad 12 X 2026 hướng tới trải nghiệm gần với một chiếc PC di động. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/huawei-matepad-12-x-2026-papermatte-144hz-m-pencil-pro.jpg"
 tldr: "<strong>Huawei MatePad 12 X 2026</strong> là máy tính bảng 12 inch nhắm tới công việc và sáng tạo. Điểm nhấn là màn hình <strong>PaperMatte thế hệ 3</strong> chống lóa, cho cảm giác viết như trên giấy, tần số quét <strong>144Hz</strong> và độ sáng khoảng 1.000 nit. Máy đi kèm bút <strong>M-Pencil Pro</strong> và bàn phím, cấu hình 12GB RAM và 256GB bộ nhớ, chạy HarmonyOS. Giá tham khảo quanh <strong>748 SGD</strong> (khoảng 13,7 triệu đồng) cho trọn bộ phụ kiện, nhưng máy không có sẵn dịch vụ Google."
 tags: ["MatePad12X", "Huawei2026", "PaperMatte", "MPencilPro"]
 about: ["Huawei MatePad 12 X", "PaperMatte", "M-Pencil Pro", "HarmonyOS"]

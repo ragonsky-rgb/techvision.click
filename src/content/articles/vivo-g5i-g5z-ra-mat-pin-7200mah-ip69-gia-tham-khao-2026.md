@@ -11,6 +11,7 @@ deck: "Vivo vừa bổ sung hai mẫu điện thoại giá rẻ tập trung vào
 heroImage: "https://i.ytimg.com/vi/O01WEWJgD58/maxresdefault.jpg"
 heroAlt: "Vivo G5i va G5z dien thoai gia re pin 7200mAh chuan khang nuoc IP69"
 heroCaption: "Vivo G5i và G5z nhắm tới người cần pin lớn và độ bền cao trong tầm giá phổ thông. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/vivo-g5i-g5z-ra-mat-pin-7200mah-ip69-gia-tham-khao-2026.jpg"
 tldr: "<strong>Vivo G5i</strong> và <strong>Vivo G5z</strong> là hai điện thoại giá rẻ gần như giống hệt nhau, tập trung vào thời lượng pin và độ bền. Cả hai dùng viên pin <strong>7200mAh</strong> cỡ lớn, sạc <strong>44W</strong>, và đạt cả hai chuẩn kháng nước bụi <strong>IP68 và IP69</strong>, hiếm thấy ở phân khúc phổ thông. Máy dùng chip <strong>Snapdragon 4 Gen 2</strong>, màn hình <strong>6.75 inch HD+ 120Hz</strong>, RAM LPDDR4X và bộ nhớ UFS 3.1, camera chính <strong>50MP</strong> cùng camera selfie 8MP, chạy Android 16 nền OriginOS 6. Giá tham khảo khi về Việt Nam nằm quanh mốc <strong>8,5 tới 11 triệu đồng</strong> tùy cấu hình, cần chờ mức chính hãng."
 tags: ["Vivo", "Smartphone", "Pin trâu", "Giá rẻ", "IP69"]
 about: ["Vivo G5i", "Vivo G5z", "Snapdragon 4 Gen 2", "Vivo"]

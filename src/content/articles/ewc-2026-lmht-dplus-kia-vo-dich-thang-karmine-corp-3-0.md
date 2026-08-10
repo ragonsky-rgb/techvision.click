@@ -11,6 +11,7 @@ deck: "Dplus KIA đã khép lại bộ môn Liên Minh Huyền Thoại tại Esp
 heroImage: "https://i.ytimg.com/vi/btDCdpWazfs/maxresdefault.jpg"
 heroAlt: "Dplus KIA vô địch LMHT tại Esports World Cup 2026 sau khi thắng Karmine Corp 3-0"
 heroCaption: "Dplus KIA hạ Karmine Corp 3-0 trong trận chung kết EWC 2026 LMHT tại Paris. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.jpg"
 tldr: "<strong>Dplus KIA</strong> vô địch bộ môn Liên Minh Huyền Thoại tại Esports World Cup 2026 sau khi thắng <strong>Karmine Corp 3-0</strong> ở chung kết ngày <strong>19/7</strong> tại Paris. Loạt Bo5 diễn ra một chiều với tỉ số hạ gục <strong>18-8</strong> ở ván hai và <strong>23-5</strong> ở ván ba. Đội vô địch nhận <strong>600.000 USD</strong>, Karmine Corp nhận <strong>340.000 USD</strong> cho ngôi á quân. Xạ thủ <strong>Smash</strong> (Shin Geum-jae) được bầu là MVP chung kết và nhận thêm <strong>25.000 USD</strong>. Trước đó Dplus KIA loại Gen.G ở bán kết, còn Karmine Corp loại T1, và giải ghi nhận lượng người xem đỉnh khoảng <strong>1,4 triệu</strong>."
 tags: ["EWC2026", "LMHT", "DplusKIA", "KarmineCorp"]
 about: ["Esports World Cup 2026", "Liên Minh Huyền Thoại", "Dplus KIA", "Karmine Corp", "LCK"]

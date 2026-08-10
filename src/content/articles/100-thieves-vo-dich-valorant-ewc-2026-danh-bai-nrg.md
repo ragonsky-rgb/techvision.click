@@ -11,6 +11,7 @@ deck: "Valorant tại Esports World Cup 2026 đã khép lại với một nhà v
 heroImage: "https://i.ytimg.com/vi/MSUk2qSlwwY/maxresdefault.jpg"
 heroAlt: "100 Thieves vô địch Valorant tại Esports World Cup 2026 sau khi đánh bại NRG trong trận chung kết"
 heroCaption: "100 Thieves lên ngôi vô địch Valorant EWC 2026 sau chiến thắng 3-1 trước NRG. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/100-thieves-vo-dich-valorant-ewc-2026-danh-bai-nrg.jpg"
 tldr: "Đội tuyển <strong>100 Thieves</strong> đã lên ngôi vô địch bộ môn <strong>Valorant</strong> tại <strong>Esports World Cup 2026</strong>, đánh bại <strong>NRG với tỷ số 3-1</strong> trong trận chung kết tổng tại Paris Expo Porte de Versailles. Chức vô địch mang về cho 100 Thieves <strong>600.000 USD</strong>, trích từ tổng giải thưởng <strong>2 triệu USD</strong> của bộ môn. Giải đấu diễn ra từ ngày 2 tới 12/7/2026, quy tụ nhiều đội tuyển Valorant hàng đầu thế giới. Ở trận tranh hạng ba, <strong>Nongshim RedForce</strong> vượt qua <strong>BBL Esports</strong> để giành vị trí thứ ba chung cuộc. Đây là màn khẳng định vị thế của khu vực Bắc Mỹ, đồng thời là một trong những điểm nhấn của EWC 2026."
 tags: ["Valorant", "100Thieves", "EWC2026", "Esports"]
 about: ["Valorant", "100 Thieves", "Esports World Cup 2026", "NRG Esports"]

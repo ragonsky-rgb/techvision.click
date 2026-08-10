@@ -11,6 +11,7 @@ deck: "VinFast chính thức ra mắt bộ đôi xe máy điện thế hệ mớ
 heroImage: "https://i.ytimg.com/vi/pIHzHc_E7_g/maxresdefault.jpg"
 heroAlt: "VinFast Kyo và Kinet xe máy điện ra mắt tại Việt Nam 2026"
 heroCaption: "VinFast Kyo và Kinet chính thức trình làng ngày 20/7. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/vinfast-kyo-kinet-xe-may-dien-ra-mat-gia-tu-30-trieu-2026.jpg"
 tldr: "<strong>VinFast Kyo</strong> và <strong>Kinet</strong> ra mắt ngày <strong>20/7/2026</strong>. Kyo giá <strong>30 triệu đồng</strong> khi thuê pin hoặc <strong>35,3 triệu đồng</strong> khi mua kèm pin, phạm vi tối đa khoảng <strong>160km</strong>. Kinet giá <strong>40 triệu đồng</strong> thuê pin hoặc <strong>49,9 triệu đồng</strong> kèm hai viên pin, phạm vi khoảng <strong>145km</strong> mỗi lần sạc. Cả hai dùng pin <strong>LFP 1,5 kWh</strong> tháo rời, hỗ trợ lắp hai viên, đổi pin tại trạm hoặc tự sạc tại nhà. Bộ đôi hướng tới người dùng đô thị cần phương tiện xanh, chi phí vận hành thấp."
 tags: ["CongNghe", "VinFast", "XeMayDien", "TinTuc", "XeDien", "VietNam"]
 about: ["VinFast Kyo", "VinFast Kinet", "VinFast"]

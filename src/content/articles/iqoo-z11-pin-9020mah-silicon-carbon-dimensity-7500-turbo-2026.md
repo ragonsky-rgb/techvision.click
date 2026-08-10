@@ -11,6 +11,7 @@ deck: "iQOO xác nhận sẽ ra mắt iQOO Z11 vào ngày 20/8/2026, và điểm
 heroImage: "https://i.ytimg.com/vi/Asv8Tj-lH_4/maxresdefault.jpg"
 heroAlt: "iQOO Z11 pin silicon carbon 9020mAh sac 90W than mong 8.25mm ra mat 20 8 2026"
 heroCaption: "iQOO Z11 gây chú ý với pin silicon-carbon 9020mAh nhưng thân máy vẫn mỏng 8,25mm. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/iqoo-z11-pin-9020mah-silicon-carbon-dimensity-7500-turbo-2026.jpg"
 tldr: "<strong>iQOO Z11</strong> được xác nhận ra mắt ngày <strong>20/8/2026</strong> tại Ấn Độ, với điểm nhấn là viên pin <strong>9020mAh</strong> thuộc nhóm lớn nhất trên smartphone. Nhờ công nghệ <strong>pin silicon-carbon</strong> mật độ năng lượng cao, máy vẫn mỏng <strong>8,25mm</strong> và nặng khoảng 213g dù pin khổng lồ. Bản Ấn Độ dùng chip <strong>MediaTek Dimensity 7500 Turbo</strong> và sạc nhanh <strong>90W</strong>. Các thông tin rò rỉ nói máy có màn AMOLED 6.83 inch 1.5K, tần số quét cao và camera chính 50MP, nhưng đây là phần chưa được xác nhận chính thức. iQOO Z11 tiếp nối xu hướng smartphone pin lớn đang rất sôi động."
 tags: ["iQOO", "Smartphone", "Pin trâu", "Silicon-carbon", "Dimensity"]
 about: ["iQOO Z11", "Dimensity 7500 Turbo", "pin silicon-carbon", "iQOO"]

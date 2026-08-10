@@ -11,6 +11,7 @@ deck: "Trên lưng một chiếc màn hình hay card đồ họa thường có c
 heroImage: "https://i.ytimg.com/vi/-nGP2LCQW40/maxresdefault.jpg"
 heroAlt: "HDMI hay DisplayPort chon cong nao cho PC man hinh gaming 2026"
 heroCaption: "HDMI và DisplayPort cùng truyền hình ảnh và âm thanh nhưng tối ưu cho mục đích khác nhau. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/hdmi-hay-displayport-chon-cong-nao-pc-man-hinh-2026.jpg"
 tldr: "<strong>HDMI</strong> và <strong>DisplayPort</strong> đều truyền cả hình ảnh lẫn âm thanh qua một sợi cáp, nhưng sinh ra cho mục đích khác nhau. HDMI phổ biến trên TV, console và dàn âm thanh, với <strong>HDMI 2.1</strong> đạt băng thông 48Gbps cho 4K 120Hz và 8K 60Hz, còn <strong>HDMI 2.2</strong> mới nâng lên tới 96Gbps. DisplayPort thống trị thế giới PC và card đồ họa, với <strong>DisplayPort 1.4</strong> đạt 32,4Gbps và <strong>DisplayPort 2.1</strong> lên tới 80Gbps cho 4K tần số quét rất cao. Điểm mạnh riêng của DisplayPort là hỗ trợ nối chuỗi nhiều màn hình (MST) và vốn gắn với công nghệ đồng bộ hình ảnh trên PC. HDMI lại có eARC cho âm thanh và gần như bắt buộc với TV, console. Với PC gaming, ưu tiên DisplayPort; với TV, console và dàn loa, HDMI là lựa chọn tự nhiên."
 tags: ["CongNghe", "HDMI", "DisplayPort", "CamNang", "ManHinh", "Gaming"]
 about: ["HDMI", "DisplayPort", "HDMI 2.1", "DisplayPort 2.1", "VRR"]

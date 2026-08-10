@@ -11,6 +11,7 @@ deck: "Sony Interactive Entertainment vừa chính thức xác nhận sẽ ngừ
 heroImage: "https://i.ytimg.com/vi/CJ8SWTeckX4/maxresdefault.jpg"
 heroAlt: "Sony khai tử đĩa vật lý PlayStation từ năm 2028"
 heroCaption: "Quyết định của Sony đánh dấu bước ngoặt lớn nhất trong lịch sử phát hành game PlayStation. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/sony-khai-tu-dia-vat-ly-playstation-tu-2028.jpg"
 tldr: "<strong>Sony Interactive Entertainment</strong> chính thức thông báo sẽ ngừng sản xuất đĩa vật lý cho các tựa game PlayStation phát hành mới kể từ tháng <strong>1/2028</strong>. Sau thời điểm này, các tựa game mới sẽ chỉ có mặt trên PlayStation Store và tại các nhà bán lẻ dưới dạng kỹ thuật số. Quyết định không ảnh hưởng tới những tựa game đã hoặc sẽ phát hành trước thời hạn trên, các nhà phát hành vẫn có thể đặt in thêm đĩa cho những game này sau năm 2028. Theo Sony, đây là <strong>hướng đi tự nhiên</strong> để thích ứng với xu hướng tiêu dùng khi doanh số kỹ thuật số đã chiếm tới khoảng <strong>80%</strong> tổng doanh số phần mềm PlayStation, trong khi đĩa vật lý chỉ còn chiếm khoảng <strong>3%</strong> theo số liệu năm 2024."
 tags: ["SonyPlayStation", "PS5DigitalOnly", "KhaiTuDiaVatLy", "PS6TinTuc2026"]
 about: ["Sony", "PlayStation", "Đĩa vật lý game", "PS6"]

@@ -11,6 +11,7 @@ deck: "Meta chuẩn bị đưa chip AI nội bộ đầu tiên ở quy mô lớn
 heroImage: "https://i.ytimg.com/vi/mYohFz6YquM/maxresdefault.jpg"
 heroAlt: "Meta sản xuất chip AI nội bộ Iris từ tháng 9 năm 2026"
 heroCaption: "Iris đánh dấu bước đi lớn của Meta trong cuộc đua tự phát triển chip AI. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/meta-chip-ai-iris-san-xuat-thang-9-mtia-broadcom-tsmc-2026.jpg"
 tldr: "<strong>Meta</strong> sẽ bắt đầu sản xuất chip AI nội bộ tên mã <strong>Iris</strong> từ <strong>tháng 9/2026</strong>, thế hệ mới nhất trong chương trình <strong>MTIA</strong> (Meta Training and Inference Accelerator). Chip được thiết kế cùng <strong>Broadcom</strong> và gia công bởi <strong>TSMC</strong>, trải qua giai đoạn thử nghiệm chỉ khoảng <strong>6 tuần</strong> mà không gặp lỗi lớn theo một memo nội bộ. Meta hướng tới <strong>7 gigawatt</strong> năng lực điện toán vào cuối 2026 và gấp đôi lên <strong>14 gigawatt</strong> năm 2027, với tổng chi tiêu hạ tầng AI năm 2026 có thể lên tới <strong>145 tỷ USD</strong>. Iris được thiết kế để bổ sung chứ không thay thế hoàn toàn lượng lớn GPU Nvidia và AMD mà Meta đang mua."
 tags: ["Meta", "ChipIris", "MTIA", "ChipAI2026"]
 about: ["Meta", "Iris", "Broadcom", "TSMC", "MTIA"]

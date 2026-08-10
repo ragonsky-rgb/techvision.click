@@ -11,6 +11,7 @@ deck: "Loạt rò rỉ cuối tháng 7 và đầu tháng 8/2026 phác họa mộ
 heroImage: "https://i.ytimg.com/vi/aA70h5SrD_Y/maxresdefault.jpg"
 heroAlt: "OnePlus 16 rò rỉ cấu hình pin 9000mAh camera 200MP chip Snapdragon 8 Elite Gen 6 Pro"
 heroCaption: "OnePlus 16 được cho là mang cấu hình phá kỷ lục với pin 9.000mAh và camera tele 200MP. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/oneplus-16-ro-ri-snapdragon-8-elite-gen6-pro-pin-9000mah-2026.jpg"
 tldr: "Theo rò rỉ, <strong>OnePlus 16</strong> chạy chip <strong>Snapdragon 8 Elite Gen 6 Pro</strong> trên tiến trình 2nm, đi kèm viên pin silicon-carbon dung lượng tới <strong>9.000mAh</strong> cùng sạc nhanh <strong>120W</strong>. Cụm camera được đồn có ống tele tiềm vọng <strong>200MP</strong>, thêm cảm biến chính 50MP và góc siêu rộng 50MP, màn hình BOE OLED phẳng <strong>185Hz</strong> viền dưới 1mm. Máy dự kiến ra mắt tại Trung Quốc khoảng <strong>tháng 9 tới tháng 10/2026</strong>, sớm hơn thường lệ, giá khởi điểm quanh <strong>4.999 tệ</strong>. Điểm cần lưu ý: OnePlus đã tuyên bố rút khỏi Mỹ và châu Âu, nên OnePlus 16 nhiều khả năng chỉ bán ở châu Á. Toàn bộ thông số hiện vẫn là tin đồn, chưa được OnePlus xác nhận."
 tags: ["OnePlus16", "Smartphone", "Snapdragon", "PinKhung"]
 about: ["OnePlus 16", "Snapdragon 8 Elite Gen 6 Pro", "OnePlus"]

@@ -11,6 +11,7 @@ deck: "Rất nhiều người vệ sinh điện thoại, laptop sai cách mà kh
 heroImage: "https://i.ytimg.com/vi/i14AIDth0Ew/maxresdefault.jpg"
 heroAlt: "Vệ sinh điện thoại và laptop đúng cách theo chuẩn kỹ thuật"
 heroCaption: "Vệ sinh đúng chuẩn kỹ thuật giúp máy bền hơn, tránh những sai lầm phổ biến khi xử lý sự cố."
+ogImage: "https://techvision.click/uploads/og-article/cach-ve-sinh-dien-thoai-laptop-dung-cach-2026.jpg"
 tldr: "Vệ sinh điện thoại, laptop đúng cách cần đi theo chất liệu vỏ máy: kính cần khăn microfiber ẩm, khung <strong>nhôm hoặc titan</strong> chịu được cồn loãng tốt hơn, còn vỏ <strong>da hoặc nhựa sơn</strong> dễ bạc màu nếu dùng cồn mạnh. Khi máy chẳng may <strong>dính nước hoặc đồ uống</strong>, việc đầu tiên là tắt nguồn ngay, lau khô bề mặt, dốc nghiêng để nước chảy ra và để máy khô tự nhiên ít nhất 24 tới 48 giờ trước khi bật lại. Tuyệt đối <strong>không nên ngâm gạo</strong> để hút ẩm như lời đồn phổ biến, vì bụi gạo có thể lọt vào cổng sạc và gạo hút ẩm chậm hơn nhiều so với túi hút ẩm silica gel chuyên dụng. Với vệ sinh định kỳ, khí hậu nóng ẩm Việt Nam khiến bụi và hơi ẩm tích tụ nhanh hơn, nên vệ sinh sâu khe tản nhiệt, loa, cổng sạc mỗi 1 tới 2 tháng thay vì đợi lâu."
 tags: ["CamNang", "VeSinh", "DienThoai", "Laptop", "XuLySuCo"]
 about: ["Vệ sinh điện thoại", "Vệ sinh laptop", "Xử lý máy dính nước", "Bảo trì thiết bị"]

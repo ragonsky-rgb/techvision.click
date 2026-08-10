@@ -11,6 +11,7 @@ deck: "Trận chung kết tổng EWC 2026 bộ môn Liên Minh Huyền Thoại �
 heroImage: "https://i.ytimg.com/vi/wUjbRkq0k1A/maxresdefault.jpg"
 heroAlt: "Chung kết EWC 2026 LMHT giữa Karmine Corp và Dplus KIA sau các trận bán kết"
 heroCaption: "Karmine Corp gặp Dplus KIA ở chung kết EWC 2026 LMHT. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/ewc-2026-lmht-chung-ket-karmine-corp-dplus-kia.jpg"
 tldr: "Chung kết EWC 2026 LMHT là màn so tài giữa <strong>Karmine Corp</strong> và <strong>Dplus KIA</strong>, hai đội gây bất ngờ lớn ở bán kết. Karmine Corp hạ <strong>T1 2-1</strong>, còn Dplus KIA đánh bại đương kim vô địch <strong>Gen.G 2-1</strong>, khiến trận cuối vắng mặt các ứng viên nặng ký nhất. Đây là cuộc đối đầu giữa đại diện châu Âu và Hàn Quốc, cả hai đều mang tâm thế vượt khó. Chung kết đánh theo thể thức <strong>Bo5 ngày 19/7</strong>, tranh phần lớn trong giải thưởng tổng <strong>2 triệu USD</strong>. Kết quả trận đấu sẽ được cập nhật khi có diễn biến chính thức."
 tags: ["EWC2026", "LMHT", "KarmineCorp", "DplusKIA"]
 about: ["Esports World Cup 2026", "Liên Minh Huyền Thoại", "Karmine Corp", "Dplus KIA"]

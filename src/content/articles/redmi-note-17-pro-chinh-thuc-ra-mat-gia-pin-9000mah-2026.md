@@ -11,6 +11,7 @@ deck: "Sau nhiều tuần rò rỉ, Xiaomi đã chính thức trình làng Redmi
 heroImage: "https://i.ytimg.com/vi/4GOdRGcHEq0/maxresdefault.jpg"
 heroAlt: "Redmi Note 17 Pro với cụm camera vuông và thiết kế mặt lưng mới ra mắt tháng 7 2026"
 heroCaption: "Redmi Note 17 và Note 17 Pro chính thức ra mắt tại Trung Quốc ngày 14/7. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.jpg"
 tldr: "<strong>Redmi Note 17</strong> và <strong>Redmi Note 17 Pro</strong> ra mắt tại Trung Quốc ngày <strong>14/7/2026</strong>. Cả hai dùng màn hình phẳng <strong>1.5K 120Hz</strong> kích thước 6,83 inch và viên pin lớn <strong>9.000mAh</strong>. Bản Pro chạy Snapdragon 6s Gen 4, sạc nhanh 67W, đạt chuẩn kháng nước, kháng bụi <strong>IP69K</strong>. Giá khởi điểm bản Pro là <strong>1.599 tệ</strong> (khoảng 5,6 triệu đồng), lên tới 2.299 tệ cho bản 8GB/512GB. Bản Pro Max với camera 200MP và pin 10.100mAh dự kiến ra mắt sau."
 tags: ["RedmiNote17", "RedmiNote17Pro", "PinLon", "Xiaomi2026"]
 about: ["Redmi Note 17", "Redmi Note 17 Pro", "Xiaomi", "Snapdragon 6s Gen 4"]

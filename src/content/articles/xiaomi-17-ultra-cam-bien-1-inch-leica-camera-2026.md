@@ -11,6 +11,7 @@ deck: "Xiaomi tiếp tục đẩy triết lý điện thoại là máy ảnh v�
 heroImage: "https://i.ytimg.com/vi/DqAKQwagCDg/maxresdefault.jpg"
 heroAlt: "Xiaomi 17 Ultra với cụm camera Leica và cảm biến chính 1 inch năm 2026"
 heroCaption: "Xiaomi 17 Ultra đặt trọng tâm vào cảm biến chính 1 inch hợp tác Leica. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/xiaomi-17-ultra-cam-bien-1-inch-leica-camera-2026.jpg"
 tldr: "<strong>Xiaomi 17 Ultra</strong> xây dựng quanh cảm biến chính <strong>1 inch</strong> loại Light Fusion 1050L khẩu độ f/1,67, kèm siêu rộng 50MP và ống tele <strong>200MP</strong> zoom quang biến thiên khoảng 3,2x đến 4,3x. Máy chạy chip <strong>Snapdragon 8 Elite Gen 5</strong>, RAM 16GB LPDDR5X, màn hình 6,9 inch sáng tới 3.500 nit. Camera hiệu chỉnh cùng <strong>Leica</strong>, bản By Leica có chip xác thực ảnh thật theo chuẩn CAI và các bộ lọc mô phỏng máy phim Leica. Máy quay 8K, hỗ trợ Dolby Vision và định dạng Log, hướng tới người dùng xem nhiếp ảnh là ưu tiên số một."
 tags: ["Xiaomi17Ultra", "CameraPhone", "Leica", "Snapdragon8EliteGen5"]
 about: ["Xiaomi 17 Ultra", "Xiaomi", "Leica", "Snapdragon 8 Elite Gen 5"]

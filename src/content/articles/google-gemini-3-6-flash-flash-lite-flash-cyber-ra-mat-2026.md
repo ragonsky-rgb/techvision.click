@@ -11,6 +11,7 @@ deck: "Sau hơn hai tháng im ắng ở phân khúc cao cấp, Google bất ng�
 heroImage: "https://i.ytimg.com/vi/Uw8U4-GHmt0/maxresdefault.jpg"
 heroAlt: "Google ra mat Gemini 3.6 Flash va hai mo hinh AI moi thang 7 2026"
 heroCaption: "Google ra mắt Gemini 3.6 Flash cùng hai mô hình mới, đặt cược vào tốc độ và giá thành. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/google-gemini-3-6-flash-flash-lite-flash-cyber-ra-mat-2026.jpg"
 tldr: "<strong>Google</strong> ra mắt ba mô hình Gemini mới trong tuần cuối tháng 7/2026: <strong>Gemini 3.6 Flash</strong> (bản Flash chủ lực, nhanh và rẻ hơn), <strong>Gemini 3.5 Flash-Lite</strong> (tối ưu cho trợ lý và tác nhân AI nhẹ) và <strong>Gemini 3.5 Flash Cyber</strong> (chuyên phát hiện và vá lỗ hổng phần mềm). Cả ba nhấn vào <strong>hiệu năng trên giá thành</strong> thay vì phá kỷ lục điểm số. Trong khi đó, <strong>Gemini 3.5 Pro</strong> bản cao cấp nhất tiếp tục bị lùi lịch nhiều tháng, giữa lúc OpenAI đã đẩy GPT-5.6 và Anthropic ra Claude Sonnet 5, Opus 4.8, Fable 5."
 tags: ["Gemini", "GoogleAI", "AI2026", "GeminiFlash", "DeepMind"]
 about: ["Google", "Gemini 3.6 Flash", "Gemini 3.5 Flash Cyber", "Google DeepMind", "ChatGPT"]

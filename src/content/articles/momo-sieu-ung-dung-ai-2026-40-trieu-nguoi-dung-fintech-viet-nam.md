@@ -11,6 +11,7 @@ deck: "MoMo đã vươn lên thành siêu ứng dụng tài chính hàng đầu 
 heroImage: "https://i.ytimg.com/vi/ARXEZ1c4Zdo/maxresdefault.jpg"
 heroAlt: "MoMo siêu ứng dụng AI dẫn đầu fintech Việt Nam năm 2026"
 heroCaption: "MoMo tích hợp AI sâu vào dịch vụ tài chính. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/momo-sieu-ung-dung-ai-2026-40-trieu-nguoi-dung-fintech-viet-nam.jpg"
 tldr: "<strong>MoMo</strong> đã trở thành siêu ứng dụng tài chính hàng đầu Việt Nam với hơn <strong>40 triệu người dùng</strong> và khoảng 140.000 điểm thanh toán. Từ ví điện tử, MoMo phát triển thành trợ lý tài chính AI cho phép thanh toán hóa đơn, chuyển tiền, vay tiêu dùng, mua bảo hiểm, đầu tư chứng khoán và nhiều dịch vụ khác. Ứng dụng dùng <strong>GPU NVIDIA</strong> trên Google Cloud và hệ thống DGX cho chatbot, định danh điện tử và gợi ý, với khả năng <strong>chấm điểm vay dưới hai giây</strong>. MoMo cũng gọi vốn Series E 200 triệu USD do Mizuho dẫn dắt."
 tags: ["CongNghe", "MoMo", "Fintech", "TinTuc", "SieuUngDung", "ViDienTu"]
 about: ["MoMo", "Fintech Việt Nam", "Siêu ứng dụng"]

@@ -11,6 +11,7 @@ deck: "Tiến sĩ Lê Viết Quốc, một trong những nhà khoa học AI ngư
 heroImage: "https://i.ytimg.com/vi/-whLXIgXY4I/maxresdefault.jpg"
 heroAlt: "Le Viet Quoc roi Google lap startup AI Discovery Loop cung Jeff Dean 2026"
 heroCaption: "Lê Viết Quốc rời Google DeepMind lập Discovery Loop, startup dùng AI tự động hóa nghiên cứu khoa học. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/le-viet-quoc-roi-google-lap-startup-ai-discovery-loop-2026.jpg"
 tldr: "<strong>Tiến sĩ Lê Viết Quốc</strong>, thành viên sáng lập Google Brain, đã rời <strong>Google DeepMind ngày 5/8/2026</strong> để lập startup <strong>Discovery Loop</strong>. Đội ngũ đồng sáng lập gồm các tên tuổi lớn của Google là <strong>Jeff Dean, Sanjay Ghemawat và Oriol Vinyals</strong>. Discovery Loop hoạt động theo mô hình doanh nghiệp vì lợi ích công (Public Benefit Corporation), đặt mục tiêu dùng AI để tự động hóa toàn bộ quy trình nghiên cứu khoa học và kỹ thuật, từ thiết kế thí nghiệm tới thực thi và lặp lại hàng nghìn thí nghiệm song song. <strong>Alphabet</strong>, công ty mẹ của Google, nằm trong nhóm nhà đầu tư, và song song đó <strong>Demis Hassabis</strong> trở thành Chủ tịch DeepMind."
 tags: ["AI", "Lê Viết Quốc", "Discovery Loop", "Google", "Startup"]
 about: ["Lê Viết Quốc", "Discovery Loop", "Google Brain", "Jeff Dean", "Google DeepMind"]

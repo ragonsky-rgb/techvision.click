@@ -11,6 +11,7 @@ deck: "Từ ngày 15/6/2026, gần 18 triệu thuê bao di động chưa xác th
 heroImage: "https://i.ytimg.com/vi/xM6op3k3qAY/maxresdefault.jpg"
 heroAlt: "Từ 15/6/2026 thuê bao di động chưa xác thực bị khóa một chiều"
 heroCaption: "Từ 15/6/2026, thuê bao chưa xác thực bị khóa chiều gọi và nhắn tin đi. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.jpg"
 tldr: "Từ <strong>15/6/2026</strong>, gần <strong>18 triệu thuê bao</strong> chưa xác thực thông tin chính chủ bị <strong>khóa một chiều</strong>: chặn gọi và nhắn tin <strong>đi</strong>, nhưng vẫn <strong>nhận</strong> được cuộc gọi và tin nhắn. Cơ sở pháp lý là Điều 8 <strong>Thông tư 08/2026/TT-BKHCN</strong>. Lộ trình tiếp theo: sau <strong>60 ngày</strong> chưa xác thực sẽ bị <strong>khóa hai chiều</strong>, và sau <strong>5 ngày</strong> tiếp theo sẽ bị <strong>thu hồi số</strong> vĩnh viễn. Cách giữ số: xác thực SIM chính chủ qua app <strong>VNeID</strong> (định danh mức 2), app nhà mạng, hoặc ra cửa hàng. Hơn 93 triệu số đã xác nhận chính chủ trên VNeID."
 tags: ["KhoaSIM", "VNeID", "XacThucThueBao", "ViettelVNPTMobiFone", "TinViet", "Smartphone"]
 about: ["Khóa SIM 2026", "Xác thực thuê bao VNeID", "Thông tư 08/2026", "VNeID"]

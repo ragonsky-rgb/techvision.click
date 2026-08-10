@@ -11,6 +11,7 @@ deck: "Xiaomi chính thức đưa REDMI Headphones Neo lên kệ tại thị tr�
 heroImage: "https://i.ytimg.com/vi/xzZi54bmi50/maxresdefault.jpg"
 heroAlt: "REDMI Headphones Neo ra mắt Việt Nam tai nghe chụp tai đầu tiên của Xiaomi"
 heroCaption: "REDMI Headphones Neo đánh dấu bước tiến mới của Xiaomi vào phân khúc tai nghe over-ear. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/redmi-headphones-neo-ra-mat-viet-nam-anc-42db-2026.jpg"
 tldr: "<strong>REDMI Headphones Neo</strong> đã chính thức mở bán tại Việt Nam với giá <strong>2.090.000 đồng</strong>, là mẫu tai nghe chụp tai (over-ear) đầu tiên mang thương hiệu REDMI. Sản phẩm sở hữu driver <strong>40mm phủ titanium</strong>, đáp tuyến tần số từ 20Hz đến 40kHz, đạt chứng nhận <strong>Hi-Res Audio</strong>, cùng công nghệ chống ồn chủ động (ANC) lên tới <strong>42dB</strong>. Thời lượng pin đạt tới <strong>72 giờ</strong> khi tắt ANC nhờ viên pin dung lượng 500mAh, hỗ trợ sạc nhanh cho thêm 5 giờ nghe nhạc chỉ sau 10 phút cắm sạc. Tai nghe đạt chuẩn chống bụi nước IP54, kết nối Bluetooth 5.4 và có cổng USB-C nghe có dây độ trễ thấp, đi kèm hệ thống 3 micro AI lọc nhiễu khi gọi điện."
 tags: ["REDMIHeadphonesNeo", "TaiNgheChupTai", "XiaomiVietNam2026", "AudioOverEar"]
 about: ["REDMI Headphones Neo", "Tai nghe over-ear", "Xiaomi", "REDMI"]

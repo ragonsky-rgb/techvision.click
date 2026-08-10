@@ -11,6 +11,7 @@ deck: "Mùa giải VCS 2026 với chủ đề Stormforce khép lại phần thi 
 heroImage: "https://i.ytimg.com/vi/mFR9Apo1dEM/maxresdefault.jpg"
 heroAlt: "Saigon Warriors vô địch VCS Mùa Hè 2026 chung kết gặp Saigon Dino"
 heroCaption: "Saigon Warriors lên ngôi vô địch VCS Mùa Hè 2026 và giành vé thăng hạng LCP. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/vcs-2026-mua-he-saigon-warriors-vo-dich-chung-ket-ve-lcp.jpg"
 tldr: "<strong>Saigon Warriors</strong> chính thức vô địch <strong>VCS Mùa Hè 2026</strong> sau khi đánh bại <strong>Saigon Dino</strong> ở trận chung kết. Mùa giải mang chủ đề <strong>Stormforce</strong>, khởi tranh từ giữa tháng 5, quy tụ các đội mạnh nhất của Liên Minh Huyền Thoại Việt Nam. Phần thưởng lớn nhất cho nhà vô địch không chỉ là danh hiệu mà còn là <strong>tấm vé thăng hạng trực tiếp lên hệ sinh thái LCP</strong>, sân chơi khu vực nơi các đội Việt Nam tranh tài cùng những khu vực lân cận. Trên hành trình tới ngôi vương, Saigon Warriors từng thắng CyberCore 3:0 ở bán kết nhánh trên, cho thấy phong độ ổn định và chiều sâu đội hình."
 tags: ["VCS2026", "SaigonWarriors", "LMHT", "Esports"]
 about: ["VCS 2026", "Saigon Warriors", "LCP"]
