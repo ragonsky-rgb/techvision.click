@@ -38,12 +38,16 @@ const MIME = {
   '.txt': 'text/plain',
 };
 
+// Them CHROME_PATH va duong dan Chromium cua moi truong dam may (Claude Code on
+// the web) de §5b chup duoc anh o ca may local lan phien chay tren cloud.
 const CHROME_CANDIDATES = [
+  process.env.CHROME_PATH,
   '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
   '/Applications/Chromium.app/Contents/MacOS/Chromium',
   '/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge',
   '/usr/bin/google-chrome', '/usr/bin/chromium', '/usr/bin/chromium-browser',
-];
+  '/opt/pw-browsers/chromium',
+].filter(Boolean);
 
 function findChrome() {
   for (const p of CHROME_CANDIDATES) if (existsSync(p)) return p;
