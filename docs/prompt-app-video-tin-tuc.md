@@ -157,6 +157,33 @@ Không thêm lời dẫn, không giải thích cách làm.
 
 ---
 
+## Định dạng gói cảnh để dán vào app Flow (chuẩn đã chốt 11/08/2026)
+
+App Flow của anh Long có chế độ nhận gói cảnh đã duyệt: dán khối theo đúng định
+dạng dưới, app sinh ngay các cảnh TYPE: AI và đưa cảnh TYPE: REAL vào danh sách
+cần tự quay. Mọi gói sản xuất từ nay xuất kèm khối này, đúng từng tên trường:
+
+```
+VIDEO: <ten video>
+SCENE: <giay bat dau>-<giay ket thuc>s
+TYPE: AI | REAL
+PROMPT: <prompt tieng Anh, chi co o canh AI>
+FORMAT: <rang buoc khung hinh va phong cach, chi co o canh AI>
+NOTE: <ghi chu quay, chi co o canh REAL>
+```
+
+Luật khi xuất khối:
+- FORMAT của cảnh AI luôn chứa: `9:16 vertical, no text, no logos` và cấm màn
+  hình đọc được nội dung khi cảnh có thiết bị.
+- Lời thoại và chữ màn hình KHÔNG đưa vào khối - Flow sẽ cố vẽ chữ và sai chính
+  tả tiếng Việt. Hai thứ đó chỉ nằm trong bảng kịch bản cho khâu dựng.
+- Cảnh nói về chính chiếc máy trong bài: luôn TYPE: REAL (luật cấm dựng máy
+  bằng AI ở bước 4).
+- Veo sinh clip ~8 giây; cảnh khai dài hơn sẽ trả clip ngắn hơn khoảng khai
+  báo. Chấp nhận, dựng lặp nhẹ hoặc cắt sớm; không nối dài clip.
+- Soi clip AI đầu tiên trước khi sinh hết: không chữ, không logo, không màn
+  hình đọc được. Veo hay nhét chữ giả lên bao bì và biển hiệu.
+
 ## Cách dùng
 
 1. Dán prompt trên vào Flow để tạo app.
