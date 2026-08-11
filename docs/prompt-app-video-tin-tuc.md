@@ -165,12 +165,17 @@ cần tự quay. Mọi gói sản xuất từ nay xuất kèm khối này, đún
 
 ```
 VIDEO: <ten video>
+TOTAL: <tong thoi luong>s
 SCENE: <giay bat dau>-<giay ket thuc>s
+DURATION: <do dai canh>s
 TYPE: AI | REAL
 PROMPT: <prompt tieng Anh, chi co o canh AI>
 FORMAT: <rang buoc khung hinh va phong cach, chi co o canh AI>
 NOTE: <ghi chu quay, chi co o canh REAL>
 ```
+
+Moi canh toi da 10 giay (tran sinh video cua app Flow). TOTAL va DURATION ghi
+ro de app va nguoi dung khong phai tu cong mo giay.
 
 Luật khi xuất khối:
 - FORMAT của cảnh AI luôn chứa: `9:16 vertical, no text, no logos` và cấm màn
