@@ -184,6 +184,18 @@ Luật khi xuất khối:
 - Soi clip AI đầu tiên trước khi sinh hết: không chữ, không logo, không màn
   hình đọc được. Veo hay nhét chữ giả lên bao bì và biển hiệu.
 
+## Chuẩn viết kịch bản đọc (anh Long chốt 11/08/2026)
+
+Kịch bản đọc giao dạng MỘT khối trơn để copy vào teleprompter, không bảng,
+không chú thích xen giữa. Quy tắc số và đơn vị:
+
+- Số giữ nguyên dạng số: `5,99 triệu`, `7.500`, `120Hz`, `0%`, `4/256`, `5G`
+- Đơn vị dễ vấp thì phiên âm: `mAh` → `mili ampe giờ`, `W` → `Wát`
+- Mã chuẩn đọc theo cách nói miệng: `IP64` → `IP sáu tư`
+- Ngày tháng viết đầy đủ: `31/8` → `31 tháng 8`
+- Đơn vị đã đọc một lần thì lần lặp kế bỏ ("so với mức 5.000 quen thuộc")
+- "pin trâu", không viết "trâu pin"
+
 ## Cách dùng
 
 1. Dán prompt trên vào Flow để tạo app.
