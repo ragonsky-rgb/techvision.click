@@ -201,6 +201,15 @@ không chú thích xen giữa. Quy tắc số và đơn vị:
 - Đơn vị đã đọc một lần thì lần lặp kế bỏ ("so với mức 5.000 quen thuộc")
 - "pin trâu", không viết "trâu pin"
 
+## Skill cho AI dựng (bên ghép, chốt 12/08/2026)
+
+Quy trình 3 khâu: Claude soạn gói sản xuất → anh Long sinh clip trong Google
+Flow + quay media thật + thu giọng đọc → AI dựng (KHÔNG sinh được video) nhận
+file và chỉ ghép. System prompt đầy đủ cho AI dựng nằm ở
+[skill-app-dung-video.md](skill-app-dung-video.md), kèm phần luật sinh hình
+thuộc khâu Flow do người sinh tự kiểm. File clip đặt tên theo cảnh:
+scene-01.mp4, scene-02.mp4...
+
 ## Cách dùng
 
 1. Dán prompt trên vào Flow để tạo app.
