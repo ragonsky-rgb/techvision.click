@@ -42,7 +42,7 @@ faq:
 related:
   - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
   - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
-  - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 giá bao nhiêu, lộ cấu hình trước ngày 12/8" }
+  - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 ra mắt: giá 399 USD, thêm loạt chỉ số sức khỏe" }
 featured: false
 ---
 
