@@ -1,6 +1,6 @@
 ---
 slug: "redmi-k100-k100-pro-ro-ri-pin-9000mah-man-185hz-2026"
-title: "Redmi K100 Pro Max ra mắt: pin 9.070mAh, màn 185Hz, giá"
+title: "Redmi K100 Pro Max ra mắt: pin 9.070mAh, màn OLED 185Hz"
 description: "Redmi K100 Pro và K100 Pro Max ra mắt ngày 11/8/2026 với Snapdragon 8 Elite Gen 5, pin 9.070mAh, màn OLED 185Hz, camera 200MP, giá từ 4.199 tệ tại Trung Quốc."
 keywords: "Redmi K100 Pro Max, Redmi K100 Pro giá, pin 9070mAh, màn hình 185Hz, Snapdragon 8 Elite Gen 5, điện thoại gaming 2026, Redmi K100 giá bao nhiêu"
 category: "Smartphone"
