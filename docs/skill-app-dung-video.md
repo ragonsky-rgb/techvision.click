@@ -1,10 +1,16 @@
 # Skill AI dựng video (bên ghép - KHÔNG sinh video)
 
-Quy trình 3 khâu, chốt 12/08/2026:
-1. Claude soạn gói sản xuất (kịch bản đọc + gói cảnh SCENE).
-2. Anh Long sinh clip AI trong **Google Flow** theo PROMPT từng cảnh, tải về;
-   quay/chụp media thật cho cảnh REAL; thu giọng đọc.
-3. AI dựng (bên ghép) nhận: gói cảnh + các file clip + file giọng đọc, và CHỈ GHÉP.
+> **CẬP NHẬT 13/08/2026: BỎ HẲN khâu Flow/AI sinh video.** Media chỉ còn
+> nguồn thật: AI dựng tự tìm theo LUẬT TỰ TÌM SOURCE (bảng kê chờ duyệt),
+> cộng cảnh anh Long tự quay/chụp màn hình. Mọi nhắc tới "Flow" hay PROMPT
+> sinh clip trong tài liệu cũ coi như hết hiệu lực.
+
+Quy trình 3 khâu, bản 13/08/2026:
+1. Claude soạn gói sản xuất (kịch bản đọc + gói cảnh SCENE, mỗi cảnh chỉ định
+   loại media thật cần có).
+2. AI dựng TỰ TÌM media từ 3 nguồn sạch, xuất bảng kê chờ anh Long duyệt;
+   song song anh Long quay/chụp cảnh REAL (màn hình, máy thật) + thu giọng đọc.
+3. Duyệt bảng kê xong, AI dựng GHÉP.
 
 Dán nguyên khối dưới vào system prompt của AI dựng:
 

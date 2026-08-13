@@ -1,5 +1,11 @@
 # Prompt dựng app "bài tin thành video ngắn" cho TechVision
 
+> **CẬP NHẬT 13/08/2026: KHÔNG dùng Flow/AI sinh video nữa** (anh Long chốt).
+> Các mục nói về "dán vào Flow", "trần 10 giây của Flow", "sinh clip AI"
+> bên dưới giữ làm lịch sử. Quy trình hiện hành: gói cảnh chỉ định media
+> THẬT (chính hãng kèm credit / stock CC0 / screenshot), AI dựng tự tìm và
+> xuất bảng kê chờ duyệt - xem [skill-app-dung-video.md](skill-app-dung-video.md).
+
 App nhận một bài đã đăng trên techvision.click, trả về gói sản xuất video dọc 35-45 giây: kịch bản theo giây, chữ chèn màn hình, prompt hình cho từng phân đoạn, tiêu đề, mô tả, bình luận ghim, ghi chú quay.
 
 ## Hai điều cần biết trước khi dùng
