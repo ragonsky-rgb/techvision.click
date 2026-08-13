@@ -44,7 +44,7 @@ related:
 featured: true
 ---
 
-Google vừa khép lại sự kiện Made by Google 2026 tại New York vào ngày 12/8 giờ Mỹ, tức rạng sáng 13/8 giờ Việt Nam, và lần này câu chuyện đáng chú ý nhất không nằm ở phần cứng mà nằm ở bảng giá. Bốn máy Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL và Pixel 11 Pro Fold đều đắt hơn đời trước đúng 100 USD, trong khi hai bản Pro còn bị hạ dung lượng RAM ở cấu hình khởi điểm. Google không né tránh: hãng nói thẳng nguyên nhân là khủng hoảng giá chip nhớ, cùng thứ đang đẩy giá laptop và PC tại Việt Nam đi lên suốt nửa đầu năm.
+Google vừa khép lại [sự kiện Made by Google 2026](/articles/google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026.html) tại New York vào ngày 12/8 giờ Mỹ, tức rạng sáng 13/8 giờ Việt Nam, và lần này câu chuyện đáng chú ý nhất không nằm ở phần cứng mà nằm ở bảng giá. Bốn máy Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL và Pixel 11 Pro Fold đều đắt hơn đời trước đúng 100 USD, trong khi hai bản Pro còn bị hạ dung lượng RAM ở cấu hình khởi điểm. Google không né tránh: hãng nói thẳng nguyên nhân là khủng hoảng giá chip nhớ, cùng thứ đang đẩy giá laptop và PC tại Việt Nam đi lên suốt nửa đầu năm.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Bảng giá Pixel 11 và mức quy đổi</div>
