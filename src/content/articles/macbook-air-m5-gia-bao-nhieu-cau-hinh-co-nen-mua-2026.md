@@ -11,6 +11,7 @@ deck: "MacBook Air M5 là bản nâng cấp đáng chú ý của dòng laptop m�
 heroImage: "https://i.ytimg.com/vi/yZfFUt1Sypo/maxresdefault.jpg"
 heroAlt: "MacBook Air M5 laptop mỏng nhẹ chip M5 mới của Apple"
 heroCaption: "MacBook Air M5 nâng cấp chip nhưng giữ thiết kế mỏng nhẹ quen thuộc. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.jpg"
 tldr: "<strong>MacBook Air M5</strong> dùng chip <strong>M5</strong> với CPU 10 nhân và GPU tích hợp Neural Accelerator, xử lý tác vụ AI nhanh hơn khoảng <strong>4 lần</strong> so với M4. Máy có RAM khởi điểm <strong>16GB</strong>, SSD <strong>512GB</strong>, Wi-Fi 7 và pin tới <strong>18 giờ</strong>. Bản 13 inch có tùy chọn chip M5 rút gọn GPU 8 nhân, còn bản 15 inch dùng chip M5 GPU 10 nhân. Tại Việt Nam, giá khởi điểm từ <strong>29,99 triệu đồng</strong> cho bản 13 inch và từ 34,99 triệu đồng cho bản 15 inch."
 tags: ["Laptop", "Apple", "MacBook", "TinTuc", "M5", "MacBookAir"]
 about: ["MacBook Air M5", "Apple", "Chip M5", "Laptop mỏng nhẹ"]

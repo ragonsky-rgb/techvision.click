@@ -11,6 +11,7 @@ deck: "Google chốt giá bốn máy Pixel 11 tại sự kiện Made by Google �
 heroImage: "https://i.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg"
 heroAlt: "Bo bon may Google Pixel 11 Pixel 11 Pro Pro XL va Pro Fold ra mat 2026"
 heroCaption: "Bốn máy Pixel 11 ra mắt cùng lúc tại New York. Ảnh cắt từ video trải nghiệm nhanh. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.jpg"
 tldr: "<strong>Made by Google 2026</strong> diễn ra tại New York ngày <strong>12/8</strong> giờ Mỹ, tức rạng sáng <strong>13/8</strong> giờ Việt Nam. Giá niêm yết tại Mỹ: <strong>Pixel 11</strong> từ <strong>899 USD</strong>, <strong>Pixel 11 Pro</strong> từ <strong>1.099 USD</strong>, <strong>Pixel 11 Pro XL</strong> từ <strong>1.299 USD</strong> và <strong>Pixel 11 Pro Fold</strong> từ <strong>1.899 USD</strong>, quy đổi tạm tính khoảng <strong>23,6 đến 50 triệu đồng</strong>. Cả bốn đều đắt hơn đời trước <strong>100 USD</strong>, riêng hai bản Pro còn tụt từ 16GB xuống <strong>12GB RAM</strong> ở cấu hình khởi điểm. Toàn dòng dùng chip <strong>Tensor G6</strong> tiến trình 2nm với TPU nhanh hơn 50% cho tác vụ Gemini. Đặt trước mở ngay sau sự kiện, máy giao từ <strong>20/8</strong>. Google <strong>không phân phối chính hãng tại Việt Nam</strong>, hàng trong nước là hàng nhập, thường về sau 2 đến 4 tuần và chỉ có bảo hành cửa hàng."
 tags: ["Smartphone", "Google", "Pixel", "Tensor", "Giá bán"]
 about: ["Google Pixel 11", "Google Pixel 11 Pro", "Google Pixel 11 Pro Fold", "Google Tensor G6", "Made by Google"]
@@ -39,7 +40,7 @@ faq:
 related:
   - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8" }
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Công nghệ", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
-  - { href: "/articles/google-pixel-11-pro-tensor-g6-2nm-pixel-glow-camera-ai-2026.html", cat: "Smartphone", title: "Google Pixel 11 Pro lộ diện: Tensor G6 2nm, camera bar phát sáng" }
+  - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 ra mắt: giá 399 USD, thêm loạt chỉ số sức khỏe" }
 featured: true
 ---
 

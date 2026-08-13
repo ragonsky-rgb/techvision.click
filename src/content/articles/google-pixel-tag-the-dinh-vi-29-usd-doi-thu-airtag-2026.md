@@ -11,6 +11,7 @@ deck: "Sau nhiều năm để sân chơi thẻ định vị Android cho bên th�
 heroImage: "https://i.ytimg.com/vi/hK9fypJKHyY/hqdefault.jpg"
 heroAlt: "Google Pixel Tag the dinh vi dau tien cua Google canh mot chiec chia khoa"
 heroCaption: "Pixel Tag là thẻ định vị đầu tiên do chính Google làm. Ảnh cắt từ video trên tay. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/google-pixel-tag-the-dinh-vi-29-usd-doi-thu-airtag-2026.jpg"
 tldr: "<strong>Google Pixel Tag</strong> ra mắt ngày <strong>12/8/2026</strong> tại Made by Google, giá <strong>29 USD</strong> một chiếc và <strong>99 USD</strong> cho gói 4 chiếc, quy đổi tạm tính khoảng <strong>760.000 đồng</strong> và <strong>2,6 triệu đồng</strong>. Máy bán từ <strong>11/11/2026</strong>. Thẻ có kích thước 28 x 46,1 x 5,4mm, nặng <strong>11,8g</strong>, chuẩn kháng nước <strong>IP67</strong>, dùng pin <strong>CR2032</strong> thay được với thời lượng hơn một năm. Điểm mạnh là hỗ trợ <strong>UWB</strong> cùng Bluetooth Channel Sounding để dò hướng trong phạm vi <strong>50m</strong>, chạy trên mạng <strong>Find Hub</strong> và tương thích Android 9 trở lên. Tại Việt Nam, <strong>AirTag 2</strong> của Apple đang bán <strong>890.000 đồng</strong> một chiếc và <strong>2,99 triệu đồng</strong> cho gói 4."
 tags: ["Công nghệ", "Google", "Phụ kiện", "Định vị", "Android"]
 about: ["Google Pixel Tag", "Google Find Hub", "Apple AirTag", "Ultra Wideband", "Made by Google"]
@@ -39,7 +40,7 @@ faq:
 related:
   - { href: "/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html", cat: "Smartphone", title: "Pixel 11 giá bao nhiêu, bao giờ về Việt Nam" }
   - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 ra mắt: giá 399 USD, thêm loạt chỉ số sức khỏe" }
-  - { href: "/articles/july-casesafe-vali-thong-minh-tich-hop-dinh-vi-2026.html", cat: "Công nghệ", title: "July CaseSafe: vali thông minh tích hợp định vị Find My" }
+  - { href: "/articles/google-assistant-khai-tu-thay-bang-gemini-android-wear-os-2026.html", cat: "Công nghệ", title: "Google Assistant khai tử từ 4/9: Gemini thay thế ra sao" }
 featured: true
 ---
 

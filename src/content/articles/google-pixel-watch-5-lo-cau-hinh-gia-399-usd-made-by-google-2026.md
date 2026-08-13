@@ -8,9 +8,9 @@ type: "tin-tuc"
 datePublished: "2026-07-27T13:10:00+07:00"
 dateModified: "2026-08-13T09:30:00+07:00"
 deck: "Bài này viết từ hồ sơ rò rỉ trên Google Play Console và đã được cập nhật lại sau khi Pixel Watch 5 ra mắt chính thức tại Made by Google ngày 12/8/2026. Kết quả: mức giá 399 USD rò rỉ là chính xác, phần RAM cũng đúng, nhưng dự đoán rằng Google giữ nguyên con chip cũ đã trật. Máy dùng nền tảng Snapdragon W5 Gen 2 Accelerated mới, nhanh hơn khoảng 20%, và mang theo một loạt chỉ số sức khỏe chưa từng có trên dòng này."
-heroImage: "https://i.ytimg.com/vi/ZQE2sutxFKw/sddefault.jpg"
-heroAlt: "Google Pixel Watch 5 lo cau hinh va gia truoc su kien Made by Google 12 8 2026"
-heroCaption: "Pixel Watch 5 là một trong những sản phẩm được chờ đợi tại Made by Google tháng 8/2026. Nguồn: YouTube"
+heroImage: "https://i.ytimg.com/vi/M6ozAe6T8Ag/maxresdefault.jpg"
+heroAlt: "Google Pixel Watch 5 ra mat chinh thuc tai su kien Made by Google 12 8 2026"
+heroCaption: "Pixel Watch 5 ra mắt chính thức tại Made by Google ngày 12/8/2026. Ảnh cắt từ video trên tay. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.jpg"
 tldr: "<strong>Pixel Watch 5</strong> ra mắt chính thức tại Made by Google ngày <strong>12/8/2026</strong> với giá <strong>399 USD</strong> bản 41mm và <strong>429 USD</strong> bản 45mm, đúng như mức rò rỉ trước đó. Máy chạy nền tảng <strong>Snapdragon W5 Gen 2 Accelerated</strong>, nhanh hơn khoảng <strong>20%</strong> và có thêm <strong>50% RAM</strong> so với đời trước, tức hồ sơ rò rỉ đã đúng về RAM nhưng sai khi cho rằng Google giữ con chip cũ. Nhóm tính năng sức khỏe được bổ sung mạnh nhất: theo dõi <strong>huyết áp hằng tháng</strong>, chỉ số <strong>kháng insulin</strong>, xu hướng chất lượng hô hấp khi ngủ, phân tầng giấc ngủ chính xác hơn và tính năng phát hiện tình trạng hô hấp khẩn cấp ra mắt tại châu Âu trước. Định vị lộ trình GPS được công bố chính xác gấp <strong>2 lần</strong>. Máy chạy <strong>Wear OS 7</strong> và <strong>không được Google phân phối chính hãng tại Việt Nam</strong>."
 tags: ["Wearable", "Google", "PixelWatch", "TinTuc", "WearOS", "Gemini"]
@@ -77,11 +77,11 @@ Google chốt giá 399 USD cho bản 41mm và 429 USD cho bản 45mm, quy đổi
 
 Đây là hệ quả lan rộng mà người tiêu dùng bắt đầu cảm nhận rõ trong nửa cuối 2026. Giá DRAM và bộ nhớ flash tăng mạnh khiến chi phí sản xuất mọi thiết bị có chứa chip nhớ đều bị đội lên, từ laptop, điện thoại cho tới đồng hồ thông minh. Chúng tôi đã theo dõi diễn biến này trong bài [giá RAM và DRAM tăng thêm 20% trong quý 3/2026](/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html). Với người dùng, điều này có nghĩa là kỳ vọng giá thiết bị giảm dần theo thời gian đã không còn đúng trong giai đoạn hiện tại.
 
-<div class="art-video-label">VIDEO · Tổng hợp rò rỉ về các sản phẩm tại sự kiện Made by Google</div>
+<div class="art-video-label">VIDEO · Toàn bộ sự kiện Made by Google 2026</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/XpZkGWjqU7M" title="Tong hop ro ri san pham Made by Google 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/c84y9gAY90c" title="Su kien Made by Google 2026 gioi thieu Pixel Watch 5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
-<p class="art-video-caption">Dòng Pixel 11 và Pixel Watch 5 cùng xuất hiện tại sự kiện ngày 12/8. Nguồn: YouTube</p>
+<p class="art-video-caption">Pixel Watch 5 được công bố cùng dòng Pixel 11 tại sự kiện ngày 12/8. Nguồn: kênh Made by Google trên YouTube</p>
 
 ## Wear OS 7 mới là phần đáng chú ý nhất
 
@@ -90,8 +90,8 @@ Nếu phần cứng khiến người ta thất vọng thì phần mềm lại l�
 Thay đổi thứ ba mang tính cấu trúc hơn: bố cục Stacks thay thế hệ thống Tiles đã dùng nhiều năm. Cùng với đó là mặt đồng hồ dạng kim mới sử dụng ngôn ngữ thiết kế Neural Expressive của Gemini. Điểm tích cực với người đang dùng Pixel Watch đời cũ là phần lớn những cải tiến này nằm ở lớp phần mềm, nên khả năng cao sẽ được đưa xuống các model cũ qua cập nhật. Đây cũng là lý do khiến việc nâng cấp lên Watch 5 trở nên kém hấp dẫn nếu bạn chỉ quan tâm tới tính năng.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/IA8kzVBQ-dU/maxresdefault.jpg" alt="Dong ho thong minh tich hop tro ly Gemini AI" loading="lazy" width="1280" height="720">
-  <figcaption>Trợ lý Gemini đang trở thành điểm cạnh tranh chính giữa các đồng hồ chạy Wear OS. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/q3QdItgz9aE/maxresdefault.jpg" alt="Giao dien Wear OS 7 va tro ly Gemini tren Google Pixel Watch 5" loading="lazy" width="1280" height="720">
+  <figcaption>Wear OS 7 đổi bố cục Stacks và đưa Gemini lên mặt đồng hồ. Ảnh cắt từ video giới thiệu tính năng. Nguồn: YouTube</figcaption>
 </figure>
 
 ## Nhóm chỉ số sức khỏe mới là thứ đáng giá nhất
@@ -103,8 +103,8 @@ Một nâng cấp ít gây chú ý nhưng thiết thực với người tập lu
 Đặt cạnh đối thủ trực tiếp, tình thế của Pixel Watch 5 không dễ dàng. Samsung vừa ra mắt Galaxy Watch 9 và Watch Ultra 2 tại Unpacked ngày 22/7 với nền tảng chip mới và loạt tính năng sức khỏe được nâng cấp, đồng thời bán chính hãng tại Việt Nam ngay trong ngày ra mắt, chi tiết có trong bài [Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam](/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html). Trong khi đó Pixel Watch chưa từng được Google phân phối chính hãng trong nước, nên người dùng Việt muốn sở hữu phải chấp nhận đường xách tay cùng những hạn chế về bảo hành và một số tính năng phụ thuộc thị trường.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/AKlrGLELj3I/maxresdefault.jpg" alt="So sanh cac mau dong ho thong minh dang chu y nam 2026" loading="lazy" width="1280" height="720">
-  <figcaption>Phân khúc đồng hồ thông minh 2026 cạnh tranh gay gắt giữa nhiều hệ sinh thái. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/kHHdq96JqtQ/maxresdefault.jpg" alt="Cac chi so suc khoe moi tren Pixel Watch 5 gom huyet ap va khang insulin" loading="lazy" width="1280" height="720">
+  <figcaption>Huyết áp hằng tháng và chỉ số kháng insulin là nhóm tính năng mới nhất của Pixel Watch 5. Ảnh cắt từ video trên tay. Nguồn: YouTube</figcaption>
 </figure>
 
 Tổng thể, Pixel Watch 5 sau khi ra mắt trông khá hơn hẳn so với bức tranh mà hồ sơ rò rỉ vẽ ra, chủ yếu nhờ hai thứ mà rò rỉ không nắm được: nền tảng xử lý mới và nhóm chỉ số sức khỏe bổ sung. Với người mua mới đã quen hệ sinh thái Google và muốn Gemini trên cổ tay, đây là bản đáng cân nhắc nhất của dòng này từ trước tới nay. Với người đang dùng Pixel Watch đời liền trước, phần đáng nâng cấp nằm ở nhóm sức khỏe chứ không phải hiệu năng. Nếu bạn đang cân nhắc giữa nhiều nền tảng, bảng so sánh trong bài [top đồng hồ thông minh đáng mua tháng 7/2026](/articles/top-dong-ho-thong-minh-dang-mua-thang-7-2026.html) sẽ giúp đối chiếu theo từng hệ sinh thái và ngân sách, còn phần giá và đường về Việt Nam của cả bộ sản phẩm Google năm nay nằm trong bài [Pixel 11 giá bao nhiêu, bao giờ về Việt Nam](/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html).
