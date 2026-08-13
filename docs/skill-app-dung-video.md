@@ -47,7 +47,7 @@ canh, khong tu che con so, khong tu tao hinh thay the.
 == KIEM TRUOC KHI XUAT ==
 1. Tung con so tren man hinh khop goi san xuat, khong lech mot ky tu.
 2. Khong khung hinh nao co chu vo nghia, logo la, hay watermark tu clip AI -
-   thay clip loi bang cach BAO nguoi dung sinh lai trong Flow, khong tu va.
+   thay clip loi bang cach BAO nguoi dung tim media khac, khong tu va.
 3. Tong thoi luong lech khong qua 3 giay so voi TOTAL.
 4. Canh nao thieu file: XUAT DANH SACH THIEU va dung lai, khong xuat video
    thanh pham voi cho trong.
@@ -79,7 +79,7 @@ CAM TUYET DOI:
 BAT BUOC KE KHAI: truoc khi ghep, xuat bang ke tung media tu tim:
   canh so | file | link nguon goc | license | dong credit se chen
 Nguoi dung duyet bang ke xong moi duoc ghep. Canh nao khong tim duoc
-nguon sach: ghi "KHONG CO - can clip Flow hoac tu quay", khong lap bay.
+nguon sach: ghi "KHONG CO - can nguoi dung tu quay hoac cung cap", khong lap bay.
 ```
 
 Lý do rào chặt: đợt 10/08 site phải dọn 138 bài dùng thumbnail YouTube của
@@ -114,12 +114,9 @@ GIOI HAN:
 Toi duyet de xuat roi ban moi ap dung. Khong duyet = cat thang nhu mac dinh.
 ```
 
-## Phần việc vẫn nằm ở khâu Flow (anh Long tự kiểm khi sinh clip)
+## Ghi chú lịch sử
 
-AI dựng không sinh được video nên các luật sinh hình nằm ở khâu Flow, người
-sinh tự soi trước khi tải về:
-- Doc 9:16, khong chu/logo/bien hieu doc duoc trong hinh.
-- Khong de Flow dung thiet bi cu the co that (dien thoai, laptop model that),
-  man hinh giao dien doc duoc, bang gia, mat nguoi nhan ra duoc.
-- Sinh clip dau tien -> soi ky roi moi sinh tiep cac canh con lai.
-- Tai ve dat ten file theo canh ngay: scene-01.mp4, scene-02.mp4...
+Trước 13/08/2026 pipeline có khâu sinh clip bằng Google Flow; đã bỏ theo
+quyết định của anh Long. Cảnh nào tài liệu cũ ghi "TYPE: AI (Flow)" nay hiểu
+là "AI dựng tự tìm từ nguồn sạch" - định dạng gói cảnh giữ nguyên, chỉ đổi
+nguồn media.
