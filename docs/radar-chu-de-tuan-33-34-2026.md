@@ -17,12 +17,18 @@ Cần ghi rõ để người đọc biết số nào là chắc, số nào cần
 | Mở trực tiếp genk.vn, tinhte.vn, znews.vn, thegioididong.com | Bị chặn (egress 403) | Không đọc được nguyên văn bài đối thủ, chỉ có tiêu đề và trích đoạn từ SERP |
 | Mở trực tiếp theverge.com, techcrunch.com, reuters.com | Bị chặn (egress 403) | **Không lấy được dữ kiện gốc lớp 2 theo §0** |
 | `i.ytimg.com`, `youtube.com/oembed` | Bị chặn (egress 403) | **`scripts/check-media.mjs` không thể chạy đúng**, không verify được thumbnail và video |
+| Phần đo offline của `check-media.mjs` | Chạy được | Media dồn cụm: **0 file**, toàn bộ 733 file vẫn đạt §4 |
 | `scripts/gsc/gsc.mjs radar` | Không chạy (thiếu `googleapis`, không có token trong container) | Không có dữ liệu striking distance của chính site |
 | Ahrefs MCP | `Insufficient plan` | Không lấy được volume/KD |
 
+Chạy thử `node scripts/check-media.mjs` trong container này cho kết quả:
+`broken images 2489 | broken videos 723 | files media-dồn-cụm 0`. Toàn bộ 2489 ảnh và 723 video đó
+**không hỏng thật**, chúng chỉ trả 403 vì bị chặn ở tầng egress. Nghĩa là cổng bắt buộc của §0b
+bước 1 không thể cho kết quả tin cậy ở đây. Phần đo offline (media dồn cụm) vẫn sạch.
+
 Hệ quả thực tế: **phần chọn chủ đề và dàn ý ở dưới là dùng được ngay**, nhưng phần viết bài phải
 làm trên máy có mạng đầy đủ, vì §0b bước 1 và bước 3 (verify media, verify nguồn gốc) không thể
-hoàn thành ở đây. Xem §6 để biết chính xác cần chạy gì.
+hoàn thành ở đây. Xem §7 để biết chính xác cần chạy gì.
 
 ---
 
