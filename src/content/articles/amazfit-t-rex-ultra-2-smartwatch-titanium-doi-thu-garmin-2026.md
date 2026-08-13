@@ -37,7 +37,7 @@ faq:
     a: "Amazfit là thương hiệu smartwatch ngày càng phổ biến tại Việt Nam nhờ sản phẩm đa dạng, nhiều tính năng và giá cạnh tranh. Các dòng đồng hồ thể thao và theo dõi sức khỏe của hãng được nhiều người dùng lựa chọn như giải pháp thay thế hợp lý cho các thương hiệu đắt tiền hơn."
 related:
   - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?" }
-  - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 giá bao nhiêu, lộ cấu hình trước ngày 12/8" }
+  - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 ra mắt: giá 399 USD, thêm loạt chỉ số sức khỏe" }
 featured: false
 ---
 

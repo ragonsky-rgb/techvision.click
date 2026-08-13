@@ -38,7 +38,7 @@ faq:
   - q: "Người chơi Việt nên chờ đợi gì nhất?"
     a: "Ngoài tâm điểm GTA 6, người chơi Việt có thể chú ý tới loạt game Xbox chơi thử như Call of Duty: Modern Warfare 4, Gears of War: E-Day, Alien: Isolation 2, cùng phần nội dung mới của The Witcher từ CD Projekt Red và lịch game holiday của Nintendo Switch 2. Đây đều là các tựa có cộng đồng người chơi đông tại Việt Nam, dễ tiếp cận qua PC hoặc console đang bán trong nước."
 related:
-  - { href: "/articles/game-hay-nintendo-switch-2-thang-7-2026-splatoon-raiders-final-fantasy.html", cat: "Game", title: "Game hay trên Nintendo Switch 2 tháng 7/2026: Splatoon Raiders, Final Fantasy" }
+  - { href: "/articles/game-hay-nintendo-switch-2-thang-7-2026-splatoon-raiders-final-fantasy.html", cat: "Game", title: "Game hay trên Switch 2 tháng 8/2026: Elden Ring, Lies of P" }
 featured: true
 ---
 
