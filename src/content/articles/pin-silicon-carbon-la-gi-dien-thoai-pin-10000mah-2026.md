@@ -1,5 +1,4 @@
 ---
-noindex: true
 slug: "pin-silicon-carbon-la-gi-dien-thoai-pin-10000mah-2026"
 title: "Pin Silicon-Carbon là gì? Điện thoại pin 10.000mAh 2026"
 description: "Pin Silicon-Carbon giúp smartphone 2026 nhồi tới 10.000mAh mà vẫn mỏng. Công nghệ này là gì, có những máy nào và vì sao Apple, Samsung còn dè dặt."
@@ -9,7 +8,9 @@ type: "tin-tuc"
 datePublished: "2026-07-13T19:00:00+07:00"
 dateModified: "2026-07-13T19:00:00+07:00"
 deck: "Năm 2026 chứng kiến một cuộc chạy đua dung lượng pin chưa từng có trên smartphone Android, khi hàng loạt máy cán mốc 8.000mAh, 9.000mAh và cả 10.000mAh mà thân máy vẫn mỏng dưới 9mm. Đứng sau kỳ tích này là pin Silicon-Carbon, công nghệ thay một phần cực than chì bằng silicon để tăng mật độ năng lượng. Nhưng trong khi Honor, iQOO, Redmi và Realme đua nhau lập kỷ lục, ba ông lớn Apple, Samsung và Google lại đứng ngoài cuộc chơi, và họ có lý do riêng."
+noindex: true
 heroImage: "https://i.ytimg.com/vi/7-UFBX2AOaw/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/pin-silicon-carbon-la-gi-dien-thoai-pin-10000mah-2026.jpg"
 heroAlt: "Điện thoại pin Silicon-Carbon 10.000mAh mỏng nhẹ năm 2026"
 heroCaption: "Honor Win nhồi pin 10.000mAh vào thân máy mỏng nhờ công nghệ Silicon-Carbon. Nguồn: YouTube"
 tldr: "Pin Silicon-Carbon thay một phần cực than chì bằng silicon, vật liệu lưu được nhiều ion lithium hơn tới khoảng <strong>10 lần theo khối lượng</strong>, giúp nhồi thêm chừng <strong>40% dung lượng</strong> vào cùng một thể tích. Nhờ đó, năm 2026 xuất hiện loạt máy pin khủng như <strong>Honor Win 10.000mAh</strong> có cả quạt tản nhiệt, Honor Power 2 tới 10.080mAh, iQOO và Realme quanh 9.000 tới 10.000mAh mà vẫn mỏng nhẹ. Đổi lại, silicon nở tới <strong>300%</strong> khi sạc nên tiềm ẩn rủi ro phồng và tuổi thọ chu kỳ ngắn hơn, đó là lý do Apple, Samsung và Google vẫn dè dặt, ưu tiên độ bền dài hạn hơn con số dung lượng gây ấn tượng."
@@ -36,9 +37,9 @@ faq:
   - q: "Vì sao Apple và Samsung chưa dùng pin Silicon-Carbon?"
     a: "Apple, Samsung và Google bán ra hàng trăm triệu máy mỗi năm nên đặt độ tin cậy và tuổi thọ lên hàng đầu. Họ dè dặt vì pin Silicon-Carbon còn nghi ngại về số chu kỳ sạc và rủi ro phồng nở dài hạn. Samsung đặc biệt thận trọng sau sự cố pin nhiều năm trước. Trong khi các hãng Trung Quốc chấp nhận rủi ro để tạo điểm nhấn dung lượng, nhóm dẫn đầu chọn cách chờ công nghệ chín muồi hơn."
 related:
-  - { href: "/articles/cach-kiem-tra-do-chai-pin-dien-thoai-iphone-android-2026.html", cat: "Công nghệ", title: "Cách kiểm tra độ chai pin điện thoại iPhone, Android" }
-  - { href: "/articles/sac-nhanh-co-hai-pin-khong-cach-sac-dung-keo-dai-tuoi-tho-pin.html", cat: "Công nghệ", title: "Sạc nhanh có hại pin không? Cách sạc kéo dài tuổi thọ pin" }
-  - { href: "/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html", cat: "Smartphone", title: "Honor 600 Lite ra mắt Việt Nam, pin 6.520mAh" }
+  - { href: "/articles/honor-win-turbo-pin-10000mah-sac-80w-dimensity-8500-2026.html", cat: "Smartphone", title: "Honor WIN Turbo: điện thoại pin 10000mAh, sạc 80W, Dimensity 8500" }
+  - { href: "/articles/top-dien-thoai-pin-trau-tren-7000mah-dang-mua-thang-8-2026.html", cat: "Smartphone", title: "Top điện thoại pin trâu trên 7000mAh đáng mua tháng 8/2026" }
+  - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro ra mắt: pin 9.000mAh, giá từ 1.599 tệ" }
 featured: true
 ---
 

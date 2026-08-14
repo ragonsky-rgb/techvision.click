@@ -1,7 +1,6 @@
 ---
-noindex: true
 slug: "iphone-17e-apple-gia-re-a19-dynamic-island-2026"
-title: "iPhone 17e ra mắt: iPhone giá rẻ nhất 2026 với chip A19, Dynamic Island"
+title: "iPhone 17e ra mắt: iPhone rẻ nhất 2026, chip A19"
 description: "Apple ra mắt iPhone 17e giá rẻ với chip A19 ngang iPhone 17, màn OLED 6.1 inch, camera 48MP, Dynamic Island và MagSafe trở lại"
 keywords: "iPhone 17e, iPhone 17e giá, iPhone 17e cấu hình, iPhone giá rẻ 2026, chip A19, Dynamic Island, iPhone 17e Việt Nam"
 category: "Apple"
@@ -10,6 +9,7 @@ datePublished: "2026-06-23T18:00:00+07:00"
 dateModified: "2026-06-23T18:00:00+07:00"
 deck: "Apple giới thiệu iPhone 17e, mẫu iPhone giá rẻ nhất năm 2026, dùng chip A19 mạnh ngang iPhone 17, màn OLED 6.1 inch, camera 48MP và bổ sung Dynamic Island cùng MagSafe. Với giá khởi điểm dễ chịu, iPhone 17e hướng tới người dùng muốn trải nghiệm iPhone mới mà không phải chi quá nhiều."
 heroImage: "https://i.ytimg.com/vi/NKxIlfHdRJg/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/iphone-17e-apple-gia-re-a19-dynamic-island-2026.jpg"
 heroAlt: "Apple iPhone 17e giá rẻ với chip A19 và Dynamic Island"
 heroCaption: "iPhone 17e mang chip A19 và Dynamic Island xuống phân khúc giá rẻ. Nguồn: YouTube"
 tldr: "Apple ra mắt <strong>iPhone 17e</strong> vào ngày 2/3/2026, mẫu iPhone giá rẻ nhất năm nay, nâng cấp từ iPhone 16e. Máy dùng <strong>chip A19</strong> mạnh ngang iPhone 17 cùng 8GB RAM, màn <strong>OLED 6.1 inch</strong> Super Retina XDR sáng 1.200 nit, camera sau <strong>48MP</strong> và camera trước 12MP. Điểm mới đáng giá là bổ sung <strong>Dynamic Island</strong> và MagSafe trở lại, pin xem video tới 26 giờ. Tại Việt Nam, bản 256GB có giá khoảng <strong>15,2 triệu đồng</strong>, mở bán từ 11/3. Đây là lựa chọn hấp dẫn cho người muốn iPhone mới với chip mạnh ở mức giá vừa phải."
@@ -38,9 +38,9 @@ faq:
   - q: "Có nên mua iPhone 17e không?"
     a: "iPhone 17e phù hợp với người muốn trải nghiệm iPhone mới với chip mạnh, thiết kế cập nhật mà không phải chi quá nhiều. Nếu bạn cần nhiều camera, zoom quang hay màn tần số quét cao, các bản iPhone 17 hoặc Pro sẽ phù hợp hơn. Với nhu cầu phổ thông, iPhone 17e là lựa chọn cân bằng tốt giữa giá và hiệu năng."
 related:
-  - { href: "/articles/ios-27-co-gi-moi-12-tinh-nang-cho-nguoi-dung-iphone-viet.html", cat: "Apple", title: "iOS 27 có gì mới: 12 tính năng cho người dùng iPhone Việt" }
-  - { href: "/articles/iphone-18-tang-gia-bo-nho-ai-apple-intelligence-2026.html", cat: "Apple", title: "iPhone 18 tăng giá vì bộ nhớ và AI Apple Intelligence" }
-  - { href: "/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html", cat: "Apple", title: "Cách kiểm tra iPhone cũ trước khi mua: checklist 2026" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
+  - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Công nghệ", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
+  - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
 featured: false
 ---
 

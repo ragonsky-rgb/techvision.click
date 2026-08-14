@@ -1,7 +1,6 @@
 ---
-noindex: true
 slug: "huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026"
-title: "HUAWEI Watch GT 6 ra mắt Việt Nam: pin 21 ngày, độ sáng 3000 nit, từ 4,99 triệu"
+title: "Huawei Watch GT 6 ra mắt Việt Nam: pin 21 ngày, từ 4,99 triệu"
 description: "HUAWEI Watch GT 6 Series chính thức ra mắt Việt Nam, pin dùng tới 21 ngày, màn AMOLED độ sáng 3000 nit, hơn 100 chế độ tập luyện, giá từ 4,99 triệu đồng."
 keywords: "HUAWEI Watch GT 6, Huawei Watch GT 6 giá, Huawei Watch GT 6 Việt Nam, smartwatch pin trâu, HUAWEI Watch GT 6 Pro, đồng hồ thông minh Huawei 2026"
 category: "Smartphone"
@@ -10,6 +9,7 @@ datePublished: "2026-07-10T09:00:00+07:00"
 dateModified: "2026-07-10T09:00:00+07:00"
 deck: "HUAWEI chính thức trình làng HUAWEI Watch GT 6 Series tại thị trường Việt Nam, dòng smartwatch nổi bật với thời lượng pin lên tới 21 ngày, màn hình AMOLED độ sáng tối đa 3000 nit và hơn 100 chế độ tập luyện thể thao, mức giá khởi điểm từ 4,99 triệu đồng cho bản tiêu chuẩn và 7,69 triệu đồng cho bản Pro."
 heroImage: "https://i.ytimg.com/vi/F8K-Gmq2NGI/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.jpg"
 heroAlt: "HUAWEI Watch GT 6 ra mắt Việt Nam pin 21 ngày độ sáng 3000 nit"
 heroCaption: "HUAWEI Watch GT 6 Series chính thức có mặt tại thị trường Việt Nam với điểm nhấn pin trâu. Nguồn: YouTube"
 tldr: "<strong>HUAWEI Watch GT 6 Series</strong> đã chính thức ra mắt tại Việt Nam với giá khởi điểm <strong>4,99 triệu đồng</strong> cho bản tiêu chuẩn và <strong>7,69 triệu đồng</strong> cho bản Pro. Điểm nhấn lớn nhất là thời lượng pin lên tới <strong>21 ngày</strong> ở chế độ cơ bản nhờ công nghệ high-silicon, cùng màn hình AMOLED <strong>1,47 inch</strong> độ phân giải 466x466 pixel, độ sáng tối đa <strong>3000 nit</strong>. Máy hỗ trợ hơn <strong>100 chế độ tập luyện</strong> thể thao, độ chính xác đo nhịp tim khi đạp xe lên tới <strong>98%</strong> nhờ công nghệ HUAWEI TruSense, cùng khả năng cảnh báo nguy cơ rung nhĩ và theo dõi chỉ số SpO2, chạy trên hệ điều hành <strong>HarmonyOS 6.0</strong> mới nhất."
@@ -39,8 +39,8 @@ faq:
   - q: "HUAWEI Watch GT 6 chạy trên hệ điều hành nào?"
     a: "Máy chạy trên hệ điều hành HarmonyOS 6.0 mới nhất của Huawei, với giao diện trực quan, mượt mà và đa dạng mặt đồng hồ tùy biến linh hoạt theo sở thích người dùng."
 related:
-  - { href: "/articles/honor-600-lite-ra-mat-viet-nam-pin-6520mah-2026.html", cat: "Smartphone", title: "HONOR 600 Lite ra mắt Việt Nam: pin 6.520mAh, camera 108MP, giá 10,99 triệu" }
-  - { href: "/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html", cat: "Smartphone", title: "Samsung Exynos 2600: chip smartphone 2nm đầu tiên thế giới, AI tăng 113%" }
+  - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?" }
+  - { href: "/articles/redmi-watch-6-ra-mat-viet-nam-amoled-2000-nit-2026.html", cat: "Wearable", title: "Redmi Watch 6 ra mắt Việt Nam: AMOLED 2000 nit, giá 2,99 triệu" }
 featured: true
 ---
 

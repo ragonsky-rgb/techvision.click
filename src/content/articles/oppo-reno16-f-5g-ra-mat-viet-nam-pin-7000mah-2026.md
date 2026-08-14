@@ -1,7 +1,6 @@
 ---
-noindex: true
 slug: "oppo-reno16-f-5g-ra-mat-viet-nam-pin-7000mah-2026"
-title: "OPPO Reno16 F 5G ra mắt Việt Nam: pin 7.000mAh, IP69K, giá từ 15 triệu"
+title: "Oppo Reno16 F 5G về Việt Nam: pin 7.000mAh, giá từ 15 triệu"
 description: "OPPO Reno16 F 5G chính thức mở bán tại Việt Nam, pin 7.000mAh, sạc nhanh SUPERVOOC 80W, kháng nước IP69K, camera chính 50MP OIS, giá từ 15 triệu đồng."
 keywords: "OPPO Reno16 F 5G, Reno16 F giá, OPPO Reno16 F Việt Nam, Reno16 F thông số, OPPO Reno16 Series 2026"
 category: "Smartphone"
@@ -9,7 +8,8 @@ type: "tin-tuc"
 datePublished: "2026-07-11T23:55:00+07:00"
 dateModified: "2026-07-11T23:55:00+07:00"
 deck: "OPPO chính thức đưa OPPO Reno16 F 5G lên kệ tại thị trường Việt Nam, phiên bản phổ thông nhất trong bộ ba Reno16 Series vừa ra mắt đầu tháng 7, sở hữu viên pin dung lượng khủng 7.000mAh, sạc nhanh SUPERVOOC 80W, khả năng kháng nước bụi đạt chuẩn IP69K cùng camera chính 50MP hỗ trợ chống rung quang học OIS, mức giá khởi điểm từ 15 triệu đồng."
-heroImage: "https://i.ytimg.com/vi/wCFRPMNXgSk/sddefault.jpg"
+heroImage: "https://i.ytimg.com/vi/6VoautN_bTY/sddefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/oppo-reno16-f-5g-ra-mat-viet-nam-pin-7000mah-2026.jpg"
 heroAlt: "OPPO Reno16 F 5G ra mắt Việt Nam pin 7000mAh giá từ 15 triệu"
 heroCaption: "OPPO Reno16 F 5G là phiên bản phổ thông nhất trong bộ ba Reno16 Series vừa ra mắt tại Việt Nam. Nguồn: YouTube"
 tldr: "<strong>OPPO Reno16 F 5G</strong> đã chính thức mở bán tại Việt Nam với giá khởi điểm <strong>15 triệu đồng</strong>, là phiên bản phổ thông nhất trong bộ ba Reno16 Series gồm Reno16 Pro, Reno16 và Reno16 F. Điểm nhấn lớn nhất của máy nằm ở viên pin dung lượng <strong>7.000mAh</strong>, lớn nhất trong cả dòng sản phẩm, đi kèm sạc nhanh <strong>SUPERVOOC 80W</strong>. Máy sử dụng chip <strong>MediaTek Dimensity 7300</strong>, màn hình LTPS AMOLED <strong>144Hz</strong>, camera chính <strong>50MP</strong> hỗ trợ chống rung quang học OIS cùng camera góc siêu rộng 50MP. Thiết kế đạt chuẩn kháng nước bụi <strong>IP69K</strong>, hỗ trợ cảm ứng ngay cả khi màn hình ướt, dính dầu hoặc đang đeo găng tay, độ dày máy vẫn được giữ dưới 8,6mm dù sở hữu viên pin dung lượng lớn."
@@ -37,9 +37,9 @@ faq:
   - q: "OPPO Reno16 F 5G có chống nước tốt không?"
     a: "Có. Máy đạt chuẩn kháng nước, bụi và nhiệt độ cao IP69K, mức chuẩn cao hiếm thấy ở phân khúc giá tầm trung, đồng thời hỗ trợ cảm ứng bình thường ngay cả khi màn hình bị ướt, dính dầu hoặc khi người dùng đang đeo găng tay."
 related:
-  - { href: "/articles/oppo-reno16-pro-smartphone-camera-200mp-dimensity-8550-2026.html", cat: "Smartphone", title: "OPPO Reno16 Pro, camera 200MP, Dimensity 8550" }
-  - { href: "/articles/nothing-phone-4b-ra-mat-gia-re-glyph-snapdragon-6-gen-4-2026.html", cat: "Smartphone", title: "Nothing Phone 4b ra mắt giá rẻ, Glyph, Snapdragon 6 Gen 4" }
-  - { href: "/articles/redmagic-11-pro-dien-thoai-gaming-tan-nhiet-long-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "RedMagic 11 Pro, điện thoại gaming tản nhiệt lỏng" }
+  - { href: "/articles/honor-win-turbo-pin-10000mah-sac-80w-dimensity-8500-2026.html", cat: "Smartphone", title: "Honor WIN Turbo: điện thoại pin 10000mAh, sạc 80W, Dimensity 8500" }
+  - { href: "/articles/iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026.html", cat: "Smartphone", title: "iQOO 15: chip 8 Elite Gen 5, pin 7.000mAh, giá bao nhiêu?" }
+  - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro ra mắt: pin 9.000mAh, giá từ 1.599 tệ" }
 featured: true
 ---
 

@@ -64,12 +64,6 @@ Theo bản tin của Bloomberg đăng ngày 1/7, Meta đang trong quá trình x�
 
 Động thái này đưa Meta bước vào một lĩnh vực vốn được thống trị bởi ba ông lớn Amazon Web Services, Microsoft Azure và Google Cloud. Dù mới chỉ ở giai đoạn đầu, việc một công ty có tiềm lực tài chính và hạ tầng như Meta cân nhắc gia nhập thị trường đám mây đã đủ để khiến các bên liên quan phải dè chừng. Đây không phải một startup nhỏ, mà là một trong những hãng chi mạnh tay nhất thế giới cho hạ tầng AI.
 
-<div class="art-video-label">VIDEO · Meta lên kế hoạch xây dịch vụ đám mây bán năng lực tính toán AI dư thừa, theo Bloomberg Tech</div>
-<div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/vHzY24hKKAA" title="Meta cloud business AI compute" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
-<p class="art-video-caption">Kế hoạch làm đám mây của Meta khiến các nhà cung cấp hạ tầng AI chuyên biệt lo ngại. Nguồn: YouTube</p>
-
 Thực tế, tín hiệu về hướng đi này đã xuất hiện từ trước. Tại cuộc họp cổ đông thường niên hồi tháng 5, chính Mark Zuckerberg đã nói rằng khả năng Meta cung cấp dịch vụ đám mây là điều chắc chắn nằm trên bàn cân. Ông cho biết có nhiều công ty tiếp cận Meta gần như mỗi tuần để hỏi về việc thuê lại năng lực tính toán, một chỉ dấu rõ ràng cho thấy nhu cầu thị trường đang rất nóng trong bối cảnh chip AI khan hiếm.
 
 ## Vì sao cổ phiếu CoreWeave và Nebius lao dốc

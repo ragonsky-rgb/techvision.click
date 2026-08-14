@@ -1,7 +1,6 @@
 ---
-noindex: true
 slug: "samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5"
-title: "Galaxy S26 Ultra ra mắt: camera 200MP f/1.4, màn Privacy Display đầu tiên"
+title: "Galaxy S26 Ultra ra mắt: camera 200MP f/1.4, màn Privacy Display"
 description: "Samsung Galaxy S26 Ultra ra mắt tại Unpacked: camera chính 200MP khẩu f/1.4 thu thêm 47% sáng, chip Snapdragon 8 Elite Gen 5, màn 6.9 inch Privacy Display"
 keywords: "Galaxy S26 Ultra, Samsung S26 Ultra camera 200MP, Snapdragon 8 Elite Gen 5, Privacy Display, S26 Ultra giá, flagship Samsung 2026, S26 Ultra zoom"
 category: "Smartphone"
@@ -10,6 +9,7 @@ datePublished: "2026-06-22T15:00:00+07:00"
 dateModified: "2026-06-22T15:00:00+07:00"
 deck: "Samsung Galaxy S26 Ultra ra mắt tại sự kiện Unpacked với nâng cấp camera đáng kể: cảm biến chính 200MP khẩu độ f/1.4 thu thêm 47% ánh sáng, cùng chip Snapdragon 8 Elite Gen 5 và màn hình Privacy Display chống nhìn trộm lần đầu trên smartphone. Đây là flagship Android đáng chú ý nhất nửa đầu năm 2026."
 heroImage: "https://i.ytimg.com/vi/VJElw8f_SX8/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.jpg"
 heroAlt: "Samsung Galaxy S26 Ultra với camera 200MP và màn Privacy Display"
 heroCaption: "Galaxy S26 Ultra nâng cấp camera và bổ sung màn chống nhìn trộm. Nguồn: YouTube"
 tldr: "Samsung Galaxy S26 Ultra ra mắt tại Unpacked ngày 25/2/2026, bán ra từ 11/3. Máy dùng chip <strong>Snapdragon 8 Elite Gen 5 for Galaxy</strong>, hệ thống camera bốn ống với cảm biến chính <strong>200MP khẩu f/1.4</strong> thu thêm <strong>47% ánh sáng</strong>, kèm siêu rộng 50MP, tele 3x 10MP và periscope 5x 50MP. Màn hình <strong>6.9 inch chống phản chiếu</strong> tích hợp công nghệ <strong>Privacy Display</strong> giảm góc nhìn từ bên cạnh, lần đầu có trên smartphone. Khung Armor Aluminum bo tròn cùng các tính năng Galaxy AI hoàn thiện đưa S26 Ultra thành flagship Android nổi bật nửa đầu 2026."
@@ -38,9 +38,9 @@ faq:
   - q: "Có nên nâng cấp lên Galaxy S26 Ultra không?"
     a: "Nếu bạn đang dùng máy đã cũ vài đời và đề cao camera, hiệu năng cùng các tính năng AI, S26 Ultra là nâng cấp đáng giá với camera sáng hơn và chip mạnh hơn. Tuy nhiên, nếu đang dùng S25 Ultra, mức nâng cấp có thể chưa đủ lớn để đổi máy. Nên cân nhắc nhu cầu thực tế và chờ các đánh giá camera chi tiết trước khi quyết định."
 related:
-  - { href: "/articles/samsung-one-ui-8-5-android-16-tinh-nang-galaxy-ai-moi-2026.html", cat: "Smartphone", title: "Samsung One UI 8.5 có gì mới: Galaxy AI, phụ đề cuộc gọi" }
-  - { href: "/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html", cat: "Smartphone", title: "Oppo Find X10 Pro: camera 200MP kép, pin 8000mAh" }
-  - { href: "/articles/camera-nhieu-megapixel-co-chup-dep-hon-khong.html", cat: "Camera", title: "Camera nhiều megapixel có chụp đẹp hơn không?" }
+  - { href: "/articles/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.html", cat: "Smartphone", title: "Honor 600 Pro: camera 200MP, pin 7000mAh có gì đáng mua?" }
+  - { href: "/articles/xiaomi-17-ultra-cam-bien-1-inch-leica-camera-2026.html", cat: "Smartphone", title: "Xiaomi 17 Ultra: cảm biến 1 inch Leica, ống tele 200MP" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
 featured: false
 ---
 

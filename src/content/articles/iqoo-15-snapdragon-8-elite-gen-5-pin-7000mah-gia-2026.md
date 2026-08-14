@@ -1,5 +1,4 @@
 ---
-noindex: true
 slug: "iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026"
 title: "iQOO 15: chip 8 Elite Gen 5, pin 7.000mAh, giá bao nhiêu?"
 description: "iQOO 15 chạy Snapdragon 8 Elite Gen 5, màn 2K 144Hz, pin 7.000mAh, ba camera 50MP, chuẩn IP69. Cấu hình, giá bán và vị thế flagship gaming 2026."
@@ -10,6 +9,7 @@ datePublished: "2026-07-16T17:30:00+07:00"
 dateModified: "2026-07-16T17:30:00+07:00"
 deck: "iQOO 15 là một trong những mẫu đầu tiên khai thác chip Snapdragon 8 Elite Gen 5, đi cùng viên pin 7.000mAh, màn hình 2K 144Hz và định hướng gaming rõ nét. Đây là chiếc máy đáng chú ý cho người dùng đề cao hiệu năng và thời lượng pin, trong bối cảnh phân khúc flagship 2026 cạnh tranh gay gắt."
 heroImage: "https://i.ytimg.com/vi/6IYPRo9IYeg/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026.jpg"
 heroAlt: "iQOO 15 với màn hình 2K 144Hz và cụm camera sau, điện thoại gaming Snapdragon 8 Elite Gen 5"
 heroCaption: "iQOO 15 hướng tới nhóm người dùng chơi game và ưa hiệu năng cao. Nguồn: YouTube"
 tldr: "<strong>iQOO 15</strong> dùng chip <strong>Snapdragon 8 Elite Gen 5</strong> kết hợp chip đồ họa gaming Q3, màn hình <strong>6,85 inch 2K LTPO AMOLED 144Hz</strong> và viên pin lớn <strong>7.000mAh</strong>. Máy có ba camera 50MP gồm chính, tele tiềm vọng zoom quang 3x và góc siêu rộng, đạt chuẩn kháng nước, bụi <strong>IP69</strong>. Tại Trung Quốc, giá khởi điểm khoảng <strong>4.199 tệ</strong> cho bản 12GB/256GB, còn tại Ấn Độ từ khoảng 72.999 rupee. iQOO chưa phân phối chính hãng tại Việt Nam, nên đây chủ yếu là lựa chọn qua đường xách tay."
@@ -38,9 +38,9 @@ faq:
   - q: "iQOO 15 có bán chính hãng tại Việt Nam không?"
     a: "Tính đến hiện tại, iQOO chưa phân phối chính hãng dòng số tại Việt Nam, nên iQOO 15 chủ yếu xuất hiện qua đường xách tay. Người mua cần cân nhắc các yếu tố như bảo hành, hỗ trợ mạng, cập nhật phần mềm và giá trị bán lại. Với người ưu tiên chế độ hậu mãi, các flagship có kênh chính hãng trong nước sẽ an tâm hơn."
 related:
-  - { href: "/articles/oneplus-15r-flagship-killer-pin-7400mah-snapdragon-8-gen-5-2026.html", cat: "Smartphone", title: "OnePlus 15R: flagship killer pin 7.400mAh, Snapdragon 8 Gen 5" }
-  - { href: "/articles/realme-gt-8-pro-camera-ricoh-ong-kinh-thao-roi-2026.html", cat: "Smartphone", title: "realme GT 8 Pro: camera Ricoh, ống kính tháo rời độc đáo" }
-  - { href: "/articles/vivo-x300-pro-camera-200mp-zeiss-dimensity-9500-2026.html", cat: "Smartphone", title: "Vivo X300 Pro: camera 200MP Zeiss, chip Dimensity 9500" }
+  - { href: "/articles/xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026.html", cat: "Smartphone", title: "Xiaomi 17 vs iQOO 15: camera Leica hay gaming, chọn máy nào?" }
+  - { href: "/articles/honor-magic-8-pro-camera-200mp-snapdragon-8-elite-gen-5-2026.html", cat: "Smartphone", title: "Honor Magic 8 Pro: camera 200MP, pin 7100mAh có gì hot?" }
+  - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro ra mắt: pin 9.000mAh, giá từ 1.599 tệ" }
 featured: true
 ---
 

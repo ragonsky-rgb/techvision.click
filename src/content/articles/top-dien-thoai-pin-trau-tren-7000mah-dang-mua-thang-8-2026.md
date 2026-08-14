@@ -1,5 +1,4 @@
 ---
-noindex: true
 slug: "top-dien-thoai-pin-trau-tren-7000mah-dang-mua-thang-8-2026"
 title: "Top điện thoại pin trâu trên 7000mAh đáng mua tháng 8/2026"
 description: "Top điện thoại pin trâu trên 7000mAh tháng 8/2026: Redmi Note 17 Pro, OnePlus 15R, Oppo K15, Realme 16T, Honor Win Turbo, chọn theo nhu cầu."
@@ -9,7 +8,9 @@ type: "tin-tuc"
 datePublished: "2026-08-05T14:30:00+07:00"
 dateModified: "2026-08-05T14:30:00+07:00"
 deck: "Nhờ công nghệ pin silicon-carbon, dung lượng pin trên smartphone năm 2026 đã nhảy vọt lên mốc 7000mAh, thậm chí 10000mAh, mà thân máy vẫn mỏng. Đây là tin vui cho người dùng cần máy trụ được cả ngày dài, đi công tác hay chơi game nhiều mà ngại cắm sạc. Bài viết điểm qua năm mẫu điện thoại pin trâu đáng chú ý tháng 8/2026, từ Redmi Note 17 Pro tới Honor Win Turbo, kèm gợi ý chọn theo nhu cầu và lưu ý về sạc nhanh cùng độ bền pin."
+noindex: true
 heroImage: "https://i.ytimg.com/vi/WIXVJghX1JQ/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/top-dien-thoai-pin-trau-tren-7000mah-dang-mua-thang-8-2026.jpg"
 heroAlt: "Top điện thoại pin trâu trên 7000mAh đáng mua tháng 8 2026 Redmi OnePlus Oppo Honor"
 heroCaption: "Pin silicon-carbon đẩy dung lượng smartphone 2026 lên 7000mAh tới 10000mAh mà máy vẫn mỏng. Nguồn: YouTube"
 tldr: "Tháng 8/2026, nhóm điện thoại pin trâu đáng chú ý gồm <strong>Redmi Note 17 Pro</strong> (pin 9000mAh), <strong>OnePlus 15R</strong> (7400mAh, chip Snapdragon 8 Gen 5), <strong>Oppo K15</strong> và <strong>Realme 16T 5G</strong> (cùng 8000mAh), cùng <strong>Honor Win Turbo</strong> (pin 10000mAh, sạc 80W). Ngoài ra còn có <strong>Motorola Edge 70 Max</strong> (7100mAh, màn 7000 nit) và <strong>iQOO 15</strong> (7000mAh). Bí quyết chung là pin silicon-carbon, giúp nhồi nhiều dung lượng hơn trong thân máy mỏng. Khi chọn, nên cân cả sạc nhanh, chip và tổng thể máy chứ không chỉ nhìn con số mAh."
@@ -42,7 +43,7 @@ faq:
 related:
   - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro chính thức ra mắt: giá, pin 9000mAh" }
   - { href: "/articles/pin-silicon-carbon-la-gi-dien-thoai-pin-10000mah-2026.html", cat: "Công nghệ", title: "Pin silicon-carbon là gì, vì sao điện thoại đạt pin 10000mAh" }
-  - { href: "/articles/oneplus-15r-flagship-killer-pin-7400mah-snapdragon-8-gen-5-2026.html", cat: "Smartphone", title: "OnePlus 15R flagship killer: pin 7400mAh, Snapdragon 8 Gen 5" }
+  - { href: "/articles/honor-win-turbo-pin-10000mah-sac-80w-dimensity-8500-2026.html", cat: "Smartphone", title: "Honor WIN Turbo: điện thoại pin 10000mAh, sạc 80W, Dimensity 8500" }
 featured: true
 ---
 

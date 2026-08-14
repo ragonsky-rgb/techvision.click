@@ -1,7 +1,6 @@
 ---
-noindex: true
 slug: "laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau"
-title: "Làn sóng laptop Snapdragon X2 Elite 2026: Surface mới, NPU 80 TOPS, pin cực trâu"
+title: "Laptop Snapdragon X2 Elite 2026: Surface mới, NPU 80 TOPS"
 description: "Năm 2026 được xem là năm của laptop AI, và chip Snapdragon X2 Elite đang dẫn đầu làn sóng đó."
 keywords: "Snapdragon X2 Elite, laptop AI 2026, Surface Laptop 8, NPU 80 TOPS, laptop Windows ARM, Lenovo Yoga Slim 7x, laptop pin trâu, Snapdragon X2 Plus"
 category: "Laptop"
@@ -10,6 +9,7 @@ datePublished: "2026-06-19T19:00:00+07:00"
 dateModified: "2026-06-19T19:00:00+07:00"
 deck: "Năm 2026 được xem là năm của laptop AI, và chip Snapdragon X2 Elite đang dẫn đầu làn sóng đó. Microsoft vừa làm mới dòng Surface, hàng loạt hãng như Lenovo và Asus cũng tung máy chạy chip mới với NPU mạnh, RAM lớn và thời lượng pin vượt trội. Đây là lúc laptop Windows dùng chip ARM thực sự bước vào giai đoạn chín muồi."
 heroImage: "https://i.ytimg.com/vi/rSgo-kDQ6Og/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.jpg"
 heroAlt: "Laptop chạy chip Snapdragon X2 Elite năm 2026 với NPU mạnh và pin trâu"
 heroCaption: "Snapdragon X2 Elite dẫn đầu làn sóng laptop AI 2026. Nguồn: YouTube"
 tldr: "<strong>Snapdragon X2 Elite</strong> mở màn làn sóng laptop AI 2026 với CPU nhanh hơn khoảng <strong>75%</strong> so với thế hệ đầu và GPU gấp đôi hiệu suất trên mỗi watt. Microsoft đã làm mới <strong>Surface Pro và Surface Laptop</strong> dùng Snapdragon X2 Plus hoặc Elite, <strong>NPU 80 TOPS</strong>, RAM tối đa <strong>64GB</strong>, tùy chọn màn OLED và pin tới <strong>20 giờ</strong>. Lenovo Yoga Slim 7x dùng bản X2 Elite <strong>18 nhân</strong>, OLED 2.8K, pin tới <strong>29 giờ</strong>, giá quanh <strong>950 USD</strong>. Điểm cần lưu ý là khả năng tương thích ứng dụng trên Windows chạy chip ARM."
@@ -38,9 +38,9 @@ faq:
   - q: "Giá laptop Snapdragon X2 Elite tại Việt Nam thế nào?"
     a: "Giá quốc tế dao động khá rộng, ví dụ Lenovo Yoga Slim 7x quanh 950 USD. Khi về Việt Nam, giá phụ thuộc cấu hình RAM, bộ nhớ và loại màn hình. Trong bối cảnh giá RAM đang tăng, các bản RAM cao có thể đắt hơn đáng kể, nên cân nhắc dung lượng vừa đủ nhu cầu."
 related:
-  - { href: "/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html", cat: "Laptop", title: "Giá laptop tăng 30% vì khủng hoảng RAM AI: nên mua gì?" }
-  - { href: "/articles/computex-2026-amd-ryzen-ai-400-qualcomm-snapdragon-x2-elite-asus-rog.html", cat: "Laptop", title: "Computex 2026: AMD Ryzen AI 400, Snapdragon X2 Elite, Asus ROG" }
-  - { href: "/articles/dell-xps-13-699-usd-2026-dau-macbook.html", cat: "Laptop", title: "Dell XPS 13 giá 699 USD đấu MacBook" }
+  - { href: "/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html", cat: "Laptop", title: "Chip laptop 2026: Panther Lake vs Snapdragon X2 Elite vs AMD" }
+  - { href: "/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html", cat: "Laptop", title: "Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu" }
+  - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
 featured: true
 ---
 

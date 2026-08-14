@@ -1,5 +1,4 @@
 ---
-noindex: true
 slug: "honor-magic-8-pro-camera-200mp-snapdragon-8-elite-gen-5-2026"
 title: "Honor Magic 8 Pro: camera 200MP, pin 7100mAh có gì hot?"
 description: "Honor Magic 8 Pro có chip Snapdragon 8 Elite Gen 5, camera tele 200MP và pin 7100mAh, một trong những flagship Android toàn cầu đầu tiên năm 2026."
@@ -10,6 +9,7 @@ datePublished: "2026-07-14T13:30:00+07:00"
 dateModified: "2026-07-14T13:30:00+07:00"
 deck: "Honor Magic 8 Pro ra mắt và nhanh chóng trở thành tâm điểm khi là một trong những flagship Android toàn cầu đầu tiên chạy chip Snapdragon 8 Elite Gen 5. Máy gây ấn tượng với cụm camera tele tiềm vọng độ phân giải 200MP, viên pin dung lượng lớn 7100mAh và loạt tính năng AI trên thiết bị. Đây là câu trả lời trực diện của Honor cho Samsung và Apple ở phân khúc cao cấp, đặt cược vào ba thế mạnh là nhiếp ảnh zoom xa, thời lượng pin và hiệu năng đầu bảng."
 heroImage: "https://i.ytimg.com/vi/5wLBFqkgMy0/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/honor-magic-8-pro-camera-200mp-snapdragon-8-elite-gen-5-2026.jpg"
 heroAlt: "Honor Magic 8 Pro với camera tele 200MP, pin 7100mAh và chip Snapdragon 8 Elite Gen 5 năm 2026"
 heroCaption: "Honor Magic 8 Pro là một trong những flagship toàn cầu đầu tiên năm 2026. Nguồn: YouTube"
 tldr: "<strong>Honor Magic 8 Pro</strong> là một trong những flagship Android toàn cầu đầu tiên của năm 2026, chạy chip <strong>Snapdragon 8 Elite Gen 5</strong> mới nhất. Điểm nhấn lớn nhất là cụm <strong>camera tele tiềm vọng 200MP</strong> cho khả năng zoom xa và chụp đêm ấn tượng, cùng viên <strong>pin 7100mAh</strong> dung lượng lớn hiếm thấy trên flagship mỏng. Máy đi kèm loạt tính năng AI xử lý trực tiếp trên thiết bị. Honor định vị Magic 8 Pro là đối thủ trực tiếp của Samsung Galaxy S và iPhone Pro ở mảng nhiếp ảnh và hiệu năng, đánh vào ba thế mạnh là zoom xa, pin trâu và sức mạnh xử lý đầu bảng."
@@ -36,8 +36,8 @@ faq:
   - q: "Honor Magic 8 Pro có bán tại Việt Nam không?"
     a: "Honor đã trở lại thị trường Việt Nam nên khả năng Magic 8 Pro được phân phối chính hãng là có, tuy nhiên thời điểm và giá bán cụ thể cần chờ hãng công bố. Người quan tâm nên theo dõi thông tin chính thức từ Honor Việt Nam và các đại lý ủy quyền."
 related:
-  - { href: "/articles/snapdragon-8-elite-gen-5-la-gi-chip-android-manh-nhat-2026.html", cat: "Công nghệ", title: "Snapdragon 8 Elite Gen 5 là gì, chip Android mạnh nhất 2026" }
-  - { href: "/articles/vivo-x300-pro-camera-200mp-zeiss-dimensity-9500-2026.html", cat: "Smartphone", title: "Vivo X300 Pro: camera 200MP Zeiss, Dimensity 9500" }
+  - { href: "/articles/iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026.html", cat: "Smartphone", title: "iQOO 15: chip 8 Elite Gen 5, pin 7.000mAh, giá bao nhiêu?" }
+  - { href: "/articles/xiaomi-17-ultra-cam-bien-1-inch-leica-camera-2026.html", cat: "Smartphone", title: "Xiaomi 17 Ultra: cảm biến 1 inch Leica, ống tele 200MP" }
   - { href: "/articles/thi-truong-smartphone-quy-2-2026-xuat-xuong-thap-nhat-13-nam.html", cat: "Smartphone", title: "Thị trường smartphone quý 2/2026 thấp nhất 13 năm" }
 featured: false
 ---

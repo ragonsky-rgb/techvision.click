@@ -1,7 +1,6 @@
 ---
-noindex: true
 slug: "redmi-watch-6-ra-mat-viet-nam-amoled-2000-nit-2026"
-title: "REDMI Watch 6 ra mắt Việt Nam: AMOLED 2000 nit, GPS kép, giá 2,99 triệu"
+title: "Redmi Watch 6 ra mắt Việt Nam: AMOLED 2000 nit, giá 2,99 triệu"
 description: "Xiaomi đưa REDMI Watch 6 lên kệ Việt Nam, màn AMOLED 2000 nit, định vị vệ tinh kép, pin dùng tới 24 ngày, giá 2.990.000 đồng."
 keywords: "REDMI Watch 6 Việt Nam, đồng hồ thông minh REDMI Watch 6, giá REDMI Watch 6, REDMI Watch 6 thông số, Xiaomi đồng hồ thông minh 2026"
 category: "Wearable"
@@ -10,6 +9,7 @@ datePublished: "2026-07-11T22:35:00+07:00"
 dateModified: "2026-07-11T22:35:00+07:00"
 deck: "Xiaomi chính thức mở rộng dải sản phẩm REDMI AIoT tại thị trường Việt Nam với REDMI Watch 6, mẫu đồng hồ thông minh tầm giá phổ thông sở hữu màn hình AMOLED 2,07 inch độ sáng tối đa 2.000 nit, khung viền hợp kim nhôm mới mỏng nhẹ hơn thế hệ trước, hệ thống định vị vệ tinh kép cùng thời lượng pin lên tới 24 ngày sử dụng, giá bán niêm yết 2.990.000 đồng."
 heroImage: "https://i.ytimg.com/vi/45kYT3dd0hk/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/redmi-watch-6-ra-mat-viet-nam-amoled-2000-nit-2026.jpg"
 heroAlt: "REDMI Watch 6 ra mắt Việt Nam màn hình AMOLED 2000 nit pin 24 ngày"
 heroCaption: "REDMI Watch 6 chính thức có mặt tại thị trường Việt Nam với mức giá phổ thông. Nguồn: YouTube"
 tldr: "<strong>REDMI Watch 6</strong> đã chính thức mở bán tại Việt Nam với giá niêm yết <strong>2.990.000 đồng</strong>. Sản phẩm sở hữu màn hình <strong>AMOLED 2,07 inch</strong>, độ phân giải <strong>432 x 514 pixel</strong>, độ sáng tối đa lên tới <strong>2.000 nit</strong> giúp hiển thị rõ nét ngay cả dưới ánh nắng gắt, cùng khung viền hợp kim nhôm mới giúp máy giảm khoảng <strong>40g</strong> trọng lượng so với thế hệ tiền nhiệm. Đồng hồ trang bị hệ thống định vị vệ tinh kép (Dual GNSS) cho độ chính xác cao hơn khi tập luyện ngoài trời, cùng thời lượng pin ấn tượng lên tới <strong>24 ngày</strong> sử dụng thông thường. Máy chạy trên nền tảng HyperOS được Xiaomi tối ưu riêng, hỗ trợ theo dõi sức khỏe toàn diện và tương thích tốt với cả thiết bị Android lẫn iPhone."
@@ -37,8 +37,8 @@ faq:
   - q: "REDMI Watch 6 có tương thích với iPhone không?"
     a: "Có. Đồng hồ chạy trên nền tảng HyperOS của Xiaomi và tương thích tốt với cả thiết bị Android lẫn iPhone, cho phép người dùng đồng bộ dữ liệu sức khỏe và nhận thông báo bình thường trên cả hai hệ điều hành."
 related:
-  - { href: "/articles/redmi-buds-8-ra-mat-viet-nam-anc-50db-2026.html", cat: "Audio", title: "REDMI Buds 8 ra mắt Việt Nam, chống ồn 50dB pin 44 giờ" }
-  - { href: "/articles/samsung-galaxy-ring-nhan-thong-minh-suc-khoe-galaxy-ai.html", cat: "Smartphone", title: "Samsung Galaxy Ring, nhẫn thông minh theo dõi sức khỏe" }
+  - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?" }
+  - { href: "/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html", cat: "Smartphone", title: "Huawei Watch GT 6 ra mắt Việt Nam: pin 21 ngày, từ 4,99 triệu" }
   - { href: "/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html", cat: "Smartphone", title: "HUAWEI Watch GT 6 ra mắt Việt Nam, pin 21 ngày" }
 featured: false
 ---

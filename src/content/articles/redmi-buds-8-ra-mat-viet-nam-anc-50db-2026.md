@@ -1,7 +1,6 @@
 ---
-noindex: true
 slug: "redmi-buds-8-ra-mat-viet-nam-anc-50db-2026"
-title: "REDMI Buds 8 ra mắt Việt Nam: chống ồn 50dB, pin 44 giờ, giá 1,59 triệu"
+title: "Redmi Buds 8 về Việt Nam: chống ồn 50dB, giá 1,59 triệu"
 description: "REDMI Buds 8 chính thức mở bán tại Việt Nam, chống ồn chủ động 50dB, driver 11mm, pin tổng 44 giờ, sạc nhanh 10 phút dùng 4 giờ, giá 1.590.000 đồng."
 keywords: "REDMI Buds 8, tai nghe REDMI Buds 8 giá, REDMI Buds 8 Việt Nam, tai nghe Xiaomi giá rẻ, REDMI Buds 8 thông số, tai nghe chống ồn 2026"
 category: "Audio"
@@ -9,7 +8,8 @@ type: "tin-tuc"
 datePublished: "2026-07-10T21:20:00+07:00"
 dateModified: "2026-07-10T21:20:00+07:00"
 deck: "Xiaomi chính thức đưa REDMI Buds 8 lên kệ tại thị trường Việt Nam, mẫu tai nghe true wireless tầm giá phổ thông sở hữu chống ồn chủ động thông minh lên tới 50dB, driver 11mm tinh chỉnh tăng cường dải mid-bass cùng hệ thống 3 micro AI lọc nhiễu khi gọi điện, thời lượng pin tổng cộng 44 giờ, giá bán 1.590.000 đồng."
-heroImage: "https://i.ytimg.com/vi/VTkzWNzPFAI/sddefault.jpg"
+heroImage: "https://i.ytimg.com/vi/KeK8J0HT0zI/sddefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/redmi-buds-8-ra-mat-viet-nam-anc-50db-2026.jpg"
 heroAlt: "REDMI Buds 8 ra mắt Việt Nam chống ồn 50dB pin 44 giờ"
 heroCaption: "REDMI Buds 8 chính thức có mặt tại thị trường Việt Nam với mức giá phổ thông. Nguồn: YouTube"
 tldr: "<strong>REDMI Buds 8</strong> đã chính thức mở bán tại Việt Nam với giá <strong>1.590.000 đồng</strong>, giảm còn <strong>1.390.000 đồng</strong> khi mua kèm smartphone hoặc máy tính bảng Xiaomi. Tai nghe sở hữu công nghệ chống ồn chủ động thông minh <strong>ANC lên tới 50dB</strong>, driver <strong>11mm</strong> được tinh chỉnh tăng cường dải mid-bass, cùng hệ thống <strong>3 micro AI</strong> lọc nhiễu môi trường khi gọi điện. Thời lượng pin đạt khoảng <strong>11 giờ</strong> mỗi lần sạc và tổng cộng <strong>44 giờ</strong> khi tính cả hộp sạc, hỗ trợ sạc nhanh chỉ <strong>10 phút</strong> cho <strong>4 giờ</strong> sử dụng. Sản phẩm có 3 màu Đen, Trắng, Xanh, đi kèm nhiều chế độ EQ tuỳ chỉnh âm thanh theo sở thích người dùng."
@@ -39,9 +39,9 @@ faq:
   - q: "REDMI Buds 8 có những màu sắc nào?"
     a: "Sản phẩm có 3 tùy chọn màu sắc gồm Đen, Trắng và Xanh, phù hợp với nhiều phong cách sử dụng khác nhau của người dùng Việt Nam."
 related:
-  - { href: "/articles/cmf-buds-2-plus-tai-nghe-ldac-pin-61-gio-2026.html", cat: "Audio", title: "CMF Buds 2 Plus tai nghe LDAC pin 61,5 giờ" }
-  - { href: "/articles/oppo-enco-x3s-tai-nghe-chong-on-55db-dich-thuat-ai-2026.html", cat: "Audio", title: "OPPO Enco X3s tai nghe chống ồn 55dB, dịch thuật AI" }
-  - { href: "/articles/nothing-ear-3-tai-nghe-true-wireless-super-mic-2026.html", cat: "Audio", title: "Nothing Ear 3, tai nghe true wireless Super Mic" }
+  - { href: "/articles/tai-nghe-true-wireless-dang-mua-2026-theo-tui-tien.html", cat: "Âm thanh", title: "Tai nghe true wireless đáng mua 2026 theo túi tiền" }
+  - { href: "/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html", cat: "Smartphone", title: "Huawei Watch GT 6 ra mắt Việt Nam: pin 21 ngày, từ 4,99 triệu" }
+  - { href: "/articles/redmi-watch-6-ra-mat-viet-nam-amoled-2000-nit-2026.html", cat: "Wearable", title: "Redmi Watch 6 ra mắt Việt Nam: AMOLED 2000 nit, giá 2,99 triệu" }
 featured: true
 ---
 

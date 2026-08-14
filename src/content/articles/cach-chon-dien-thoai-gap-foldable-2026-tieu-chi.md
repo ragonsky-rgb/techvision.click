@@ -1,5 +1,4 @@
 ---
-noindex: true
 slug: "cach-chon-dien-thoai-gap-foldable-2026-tieu-chi"
 title: "Cách chọn điện thoại gập 2026: 5 tiêu chí trước khi xuống tiền"
 description: "Hướng dẫn cách chọn điện thoại gập phù hợp năm 2026: kiểu gập, độ bền bản lề, nếp gấp màn hình, pin và giá bán, giúp tránh mua nhầm máy không đúng nhu cầu."
@@ -9,7 +8,9 @@ type: "cam-nang"
 datePublished: "2026-07-02T20:00:00+07:00"
 dateModified: "2026-07-02T20:00:00+07:00"
 deck: "Thị trường điện thoại gập năm 2026 ngày càng đa dạng, từ gập đôi kiểu sách, gập vỏ sò tới gập ba độc đáo. Bài viết tổng hợp 5 tiêu chí quan trọng nhất giúp người mua chọn đúng điện thoại gập phù hợp nhu cầu, tránh những rủi ro thường gặp với dòng sản phẩm còn khá mới mẻ này."
+noindex: true
 heroImage: "https://i.ytimg.com/vi/Lo96cqgYJA0/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/cach-chon-dien-thoai-gap-foldable-2026-tieu-chi.jpg"
 heroAlt: "Cach chon dien thoai gap foldable 2026"
 heroCaption: "5 tiêu chí quan trọng cần cân nhắc trước khi chọn mua điện thoại gập năm 2026. Nguồn: YouTube"
 tldr: "Khi chọn điện thoại gập năm 2026, cần cân nhắc 5 tiêu chí chính: <strong>kiểu gập</strong> phù hợp nhu cầu (gập đôi kiểu sách, gập vỏ sò hay gập ba), <strong>độ bền bản lề</strong> và số lần gập mở được nhà sản xuất công bố, <strong>độ rõ nếp gấp</strong> trên màn hình, <strong>dung lượng pin</strong> đủ dùng cho cả hai màn hình, và <strong>ngân sách</strong> tương ứng với chế độ bảo hành. Xác định đúng nhu cầu sử dụng trước khi mua sẽ giúp tránh chi tiền cho một thiết kế không phù hợp thói quen dùng máy hằng ngày."
@@ -35,8 +36,8 @@ faq:
   - q: "Điện thoại gập có đáng mua trong năm 2026 không?"
     a: "Điện thoại gập phù hợp người có ngân sách dư dả, thích trải nghiệm công nghệ mới và có nhu cầu thực sự về màn hình lớn di động hoặc thiết kế nhỏ gọn thời trang. Với ngân sách hạn chế hoặc ưu tiên độ bền tối đa, điện thoại thanh nguyên khối vẫn là lựa chọn an toàn hơn."
 related:
-  - { href: "/articles/top-dien-thoai-gap-dang-mua-thang-7-2026.html", cat: "Smartphone", title: "Top điện thoại gập đáng mua tháng 8/2026: Z Fold 8 vừa lên kệ" }
-  - { href: "/articles/honor-magic-v5-2026-dien-thoai-gap-mong-nhat-the-gioi-8-8mm.html", cat: "Smartphone", title: "Honor Magic V5: điện thoại gập mỏng nhất thế giới, 8,8mm" }
+  - { href: "/articles/dien-thoai-gap-co-ben-khong-ban-le-nep-gap-tuoi-tho-2026.html", cat: "Công nghệ", title: "Điện thoại gập có bền không: bản lề, nếp gấp và tuổi thọ" }
+  - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Flip 8, Z Fold 8 tại Việt Nam: mở bán 18/8" }
   - { href: "/articles/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.html", cat: "Smartphone", title: "Samsung Galaxy Z TriFold: điện thoại gập ba đầu tiên, giá 2.899 USD" }
 featured: false
 ---

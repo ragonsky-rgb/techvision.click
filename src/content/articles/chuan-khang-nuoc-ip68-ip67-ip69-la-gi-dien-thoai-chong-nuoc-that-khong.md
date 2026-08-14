@@ -1,7 +1,6 @@
 ---
-noindex: true
 slug: "chuan-khang-nuoc-ip68-ip67-ip69-la-gi-dien-thoai-chong-nuoc-that-khong"
-title: "Chuẩn kháng nước IP68, IP67, IP69 là gì? Điện thoại có chống nước thật không?"
+title: "IP68, IP67, IP69 là gì? Điện thoại chống nước tới mức nào"
 description: "IP67, IP68, IP69: các con số kháng nước xuất hiện trên hầu hết điện thoại đời mới khiến nhiều người yên tâm mang máy ra mưa hay xuống hồ bơi."
 keywords: "chuẩn kháng nước IP68, IP67 là gì, IP69, IPX4, điện thoại chống nước, kháng nước smartphone, IP rating, điện thoại vào nước"
 category: "Smartphone"
@@ -9,16 +8,18 @@ type: "cam-nang"
 datePublished: "2026-06-20T17:00:00+07:00"
 dateModified: "2026-06-20T17:00:00+07:00"
 deck: "IP67, IP68, IP69: các con số kháng nước xuất hiện trên hầu hết điện thoại đời mới khiến nhiều người yên tâm mang máy ra mưa hay xuống hồ bơi. Nhưng kháng nước không đồng nghĩa với chống nước tuyệt đối, và hiểu sai có thể khiến máy hỏng oan mà không được bảo hành. Bài viết giải thích ý nghĩa từng chuẩn và những lưu ý quan trọng."
+noindex: true
 heroImage: "https://i.ytimg.com/vi/aRr92R1P1eI/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/chuan-khang-nuoc-ip68-ip67-ip69-la-gi-dien-thoai-chong-nuoc-that-khong.jpg"
 heroAlt: "Giải thích chuẩn kháng nước IP68 IP67 trên điện thoại"
 heroCaption: "Kháng nước theo chuẩn IP không có nghĩa là dùng thoải mái dưới nước. Nguồn: YouTube"
 tldr: "Chuẩn <strong>IP</strong> gồm hai số: số đầu chỉ khả năng chống bụi (tối đa 6), số sau chỉ chống nước (tối đa 9). <strong>IP67</strong> chịu được ngâm ở độ sâu khoảng 1 mét trong 30 phút, <strong>IP68</strong> sâu hơn tùy hãng công bố, <strong>IP69</strong> chịu được tia nước áp lực và nhiệt độ cao. <strong>IPX4</strong> chỉ chống văng nước nhẹ. Quan trọng: đây là <strong>kháng nước</strong> trong điều kiện thử nghiệm với nước sạch, không phải chống nước tuyệt đối. Khả năng này <strong>giảm dần theo thời gian</strong>, hầu hết hãng <strong>không bảo hành lỗi do nước</strong>, và không nên dùng máy với nước biển, nước nóng hay khi đang sạc."
 tags: ["KhangNuoc", "IP68", "IP67", "CamNang", "Smartphone", "ChongNuoc"]
 about: ["Chuẩn kháng nước IP", "Điện thoại chống nước"]
 authorBio: "Founder LongTechVision. Giải thích thông số công nghệ dễ hiểu và mẹo dùng thiết bị bền lâu."
-sourceUrl: "https://www.iec.ch/ip-ratings"
-sourceName: "IP ratings - IEC"
-sourceDomains: "iec.ch · gsmarena.com"
+sourceUrl: "https://webstore.iec.ch/publication/2452"
+sourceName: "IEC 60529 - IEC Webstore"
+sourceDomains: "webstore.iec.ch · gsmarena.com"
 stats:
   - { num: "2 số", label: "Số đầu chống bụi, số sau chống nước" }
   - { num: "IP67", label: "Ngâm khoảng 1 mét trong 30 phút" }
@@ -38,9 +39,9 @@ faq:
   - q: "Cần lưu ý gì khi dùng điện thoại kháng nước?"
     a: "Không sạc khi máy còn ướt vì cổng sạc dễ chập, hãy lau khô trước. Tránh nước biển, nước nóng, nước có hóa chất và áp lực mạnh. Nếu máy bị ướt, lau khô và để cổng hướng xuống cho nước thoát, không dùng máy sấy nóng. Hiểu rằng khả năng kháng nước giảm dần theo tuổi máy, nên đừng quá tự tin với máy đã dùng lâu."
 related:
-  - { href: "/articles/cach-kiem-tra-iphone-cu-truoc-khi-mua-checklist-2026.html", cat: "Apple", title: "Cách kiểm tra iPhone cũ trước khi mua: checklist 10 bước" }
-  - { href: "/articles/oppo-find-x10-pro-doi-thu-iphone-18-pro-max-camera-200mp-pin-8000mah.html", cat: "Smartphone", title: "Oppo Find X10 Pro: camera 200MP kép, pin 8000mAh" }
-  - { href: "/articles/sac-nhanh-co-hai-pin-khong-cach-sac-dung-keo-dai-tuoi-tho-pin.html", cat: "Smartphone", title: "Sạc nhanh có hại pin không? Cách sạc đúng" }
+  - { href: "/articles/do-phan-giai-man-hinh-dien-thoai-ppi-bao-nhieu-du-2026.html", cat: "Smartphone", title: "Độ phân giải màn hình điện thoại: PPI bao nhiêu là đủ 2026" }
+  - { href: "/articles/cach-doc-thong-so-camera-dien-thoai-mp-f-ois-2026.html", cat: "Camera", title: "Cách đọc thông số camera điện thoại: MP, khẩu độ f, OIS 2026" }
+  - { href: "/articles/dien-thoai-gap-co-ben-khong-ban-le-nep-gap-tuoi-tho-2026.html", cat: "Công nghệ", title: "Điện thoại gập có bền không: bản lề, nếp gấp và tuổi thọ" }
 featured: false
 ---
 
@@ -66,7 +67,7 @@ Nếu một trong hai vị trí là chữ X, ví dụ IPX4, nghĩa là chỉ s�
 
 <div class="art-video-label">VIDEO · Chuẩn kháng nước IP68, IP67 là gì</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/sFrqJ_7wqPk" title="Chuẩn chống nước IP68 IP67 là gì" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/05G8yLUXxYo" title="Dien thoai chong nuoc IP66 IP68 IP69 nghia la sao" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Giải thích ý nghĩa các chuẩn kháng nước IP trên smartphone. Nguồn: YouTube</p>
 
