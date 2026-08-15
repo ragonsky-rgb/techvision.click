@@ -6,7 +6,7 @@ keywords: "giá RAM tăng 2026, giá SSD tăng, khủng hoảng bộ nhớ AI, c
 category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-07-16T15:30:00+07:00"
-dateModified: "2026-07-16T15:30:00+07:00"
+dateModified: "2026-08-15T16:30:00+07:00"
 deck: "Cơn khát chip nhớ phục vụ AI đang đẩy giá RAM và SSD lên mức cao chưa từng thấy, kéo theo laptop và PC lắp ráp tăng từ 10 đến 30% tùy phân khúc. Nhiều dự báo cho rằng đợt tăng giá này còn kéo dài. Bài viết phân tích nguyên nhân, mức độ ảnh hưởng tại Việt Nam và gợi ý người dùng nên mua ngay hay tiếp tục chờ."
 heroImage: "https://i.ytimg.com/vi/BBK72bk05i8/maxresdefault.jpg"
 heroAlt: "Thanh RAM và ổ SSD với biểu đồ giá tăng, minh họa khủng hoảng bộ nhớ do AI năm 2026"
@@ -21,10 +21,10 @@ sourceName: "Khủng hoảng chip nhớ toàn cầu khiến giá laptop, RAM, SS
 sourceDomains: "cafef.vn · thanhnien.vn · viettimes.vn"
 stats:
   - { num: "171%", label: "Mức tăng của giá DRAM tính tới cuối năm 2025" }
-  - { num: "246%", label: "Mức tăng của NAND flash, nền tảng làm ổ SSD" }
+  - { num: "12 USD/GB", label: "Chi phí RAM năm 2026, gấp 6 lần mức 2,8 USD của 2025" }
   - { num: "10-30%", label: "Mức tăng giá của laptop và PC lắp ráp tùy phân khúc" }
   - { num: "15-20%", label: "Mức tăng tại Việt Nam ở nhóm tầm trung, cấu hình bộ nhớ cao" }
-  - { num: "16GB", label: "Mức RAM hợp lý cho đa số người dùng hiện nay" }
+  - { num: "6,49tr", label: "Giá một thanh RAM DDR5 16GB tại Việt Nam ngày 15/8" }
   - { num: "Tới 2028", label: "Thời điểm nhiều dự báo cho rằng khủng hoảng mới hạ nhiệt" }
 faq:
   - q: "Vì sao giá RAM và SSD tăng mạnh trong 2026?"
@@ -96,6 +96,26 @@ Một số người dùng tìm tới thị trường linh kiện cũ để né m
 </figure>
 
 Ngoài ra, với người dùng chỉ có nhu cầu cơ bản, các dòng máy đời trước hoặc cấu hình bộ nhớ vừa phải vẫn là lựa chọn đáng cân nhắc, thay vì cố mua cấu hình cao đang bị đội giá mạnh nhất. Việc linh hoạt về thời điểm và cấu hình giúp giảm đáng kể chi phí trong giai đoạn thị trường bất lợi, mà vẫn đáp ứng đủ nhu cầu học tập, làm việc hằng ngày.
+
+## Cập nhật giữa tháng 8: giá RAM tại Việt Nam giờ là bao nhiêu
+
+Để thấy con số cụ thể thay vì chỉ nói phần trăm, đây là bảng giá RAM DDR5 khảo sát tại CellphoneS ngày 15/8/2026. Đáng chú ý là một thanh 16GB đơn lẻ hiện đã đắt hơn cả một chiếc điện thoại tầm trung.
+
+<div class="spec-box">
+  <div class="spec-box-title">📋 Giá RAM DDR5 bán lẻ tại Việt Nam, khảo sát 15/8/2026</div>
+  <table>
+    <tr><td>Kingston 16GB bus 5600 (laptop)</td><td>6,49 triệu</td></tr>
+    <tr><td>Kingston Fury 16GB bus 5600 (PC)</td><td>6,69 triệu</td></tr>
+    <tr><td>Kingston Fury 16GB bus 6000</td><td>6,99 triệu</td></tr>
+    <tr><td>Corsair Vengeance RGB 16GB bus 6000</td><td>7,69 triệu</td></tr>
+    <tr><td>Kingston Fury 32GB bộ 2x16 bus 5600</td><td>13,99 triệu</td></tr>
+    <tr><td>G.Skill Trident Z5 RGB 32GB bus 6000</td><td>14,49 triệu</td></tr>
+  </table>
+</div>
+
+Mức giá này khớp với con số mà chính Google đưa ra khi giải thích vì sao [cả dòng Pixel 11 tăng 100 USD và hai bản Pro bị cắt RAM khởi điểm](/articles/google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026.html): dẫn số liệu Morgan Stanley, chi phí mỗi GB RAM đã nhảy từ khoảng 2,80 USD trong năm 2025 lên 12 USD trong năm 2026, tức gấp hơn sáu lần chỉ trong một năm. Nhân 12 USD với 16GB ra khoảng 192 USD, tương đương hơn 5 triệu đồng tiền linh kiện thuần, nên mức bán lẻ 6,49 tới 7,69 triệu tại Việt Nam là hệ quả trực tiếp chứ không phải cửa hàng tự đẩy giá.
+
+Điều đáng chú ý với người mua Việt: khi một hãng lớn như Google phải công khai lấy giá chip nhớ làm lý do tăng giá sản phẩm, đó là tín hiệu cho thấy đợt tăng này chưa tới điểm dừng. Các hãng ra máy vào cuối năm 2026 nhiều khả năng đối mặt cùng bài toán, nên kỳ vọng giá bộ nhớ quay về mức cũ trong vài tháng tới là không thực tế.
 
 ## Nên mua ngay hay chờ
 
