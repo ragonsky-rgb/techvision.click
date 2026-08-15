@@ -31,6 +31,30 @@ ACCENT = "#c0392b"
 FONT_DIR = "/System/Library/Fonts/Supplemental/"
 OUT_DIR = "public/uploads/og-article"
 
+# Bo font du phong cho may khong phai macOS (container Linux, CI). Liberation Sans
+# tuong thich metric voi Arial va co day du dau tieng Viet nen the chia se ra
+# giong het ban dung tren may local.
+FONT_FALLBACK = {
+    "Arial Bold.ttf": [
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+    ],
+    "Arial.ttf": [
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    ],
+}
+
+
+def font(name, size):
+    """Nap font theo ten Arial, tu chuyen sang font thay the neu may khong co."""
+    for path in [FONT_DIR + name, *FONT_FALLBACK.get(name, [])]:
+        if os.path.exists(path):
+            return ImageFont.truetype(path, size)
+    raise SystemExit(
+        f"khong tim thay font cho {name}. Cai fonts-liberation roi chay lai."
+    )
+
 # Bo dau cau trang tri o cuoi tieu de cho the trong gon.
 TRIM = " :-–—"
 
@@ -75,7 +99,7 @@ def render(slug):
     d = ImageDraw.Draw(canvas)
 
     # Chu thuong hieu co lon, mau gan sat nen, lap khoang trong goc phai duoi.
-    f_mark = ImageFont.truetype(FONT_DIR + "Arial Bold.ttf", 124)
+    f_mark = font("Arial Bold.ttf", 124)
     mark = "TECHVISION"
     d.text((W - 40 - d.textlength(mark, font=f_mark), H - 148),
            mark, font=f_mark, fill="#1e1b1a")
@@ -88,7 +112,7 @@ def render(slug):
     # ha co den khi bo vua 3 dong, neu khong se tran ra ngoai khung.
     size = 62
     while size > 34:
-        f_title = ImageFont.truetype(FONT_DIR + "Arial Bold.ttf", size)
+        f_title = font("Arial Bold.ttf", size)
         lines = wrap(d, title, f_title, max_w)
         if len(lines) <= 3:
             break
@@ -97,8 +121,8 @@ def render(slug):
         lines = lines[:3]
         lines[-1] = lines[-1].rstrip() + "..."
 
-    f_kicker = ImageFont.truetype(FONT_DIR + "Arial Bold.ttf", 24)
-    f_foot = ImageFont.truetype(FONT_DIR + "Arial.ttf", 29)
+    f_kicker = font("Arial Bold.ttf", 24)
+    f_foot = font("Arial.ttf", 29)
 
     kicker = " · ".join(p for p in [cat.upper(), date] if p)
     d.text((x, 132), kicker, font=f_kicker, fill=ACCENT)
