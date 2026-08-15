@@ -82,10 +82,6 @@ Phần mềm của Plaud sử dụng AI để phiên âm giọng nói thành vă
 
 Về chi phí, mỗi thiết bị đi kèm gói miễn phí 300 phút phiên âm AI mỗi tháng, đủ dùng cho nhu cầu cơ bản của phần lớn người dùng văn phòng. Người có nhu cầu sử dụng nhiều hơn, ví dụ thường xuyên tham gia họp hành hoặc phỏng vấn dài, có thể nâng cấp lên gói Pro trả phí với giá khoảng 8,33 USD mỗi tháng khi thanh toán theo năm, cho phép phiên âm tới 1.200 phút mỗi tháng. Một điểm cần lưu ý là thiết bị được thiết kế chủ yếu cho các cuộc trò chuyện trực tiếp, không phù hợp để ghi âm cuộc gọi trực tuyến qua các nền tảng như Zoom hay Microsoft Teams, người có nhu cầu này nên tìm giải pháp phần mềm chuyên dụng khác thay thế.
 
-<figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ifiXC1ePxkE/maxresdefault.jpg" alt="Plaud NotePin S phien am tom tat AI 2026" loading="lazy" width="1280" height="720">
-  <figcaption>Tính năng phiên âm và tóm tắt tự động bằng AI là điểm mạnh cốt lõi của Plaud NotePin S. Nguồn: YouTube</figcaption>
-</figure>
 
 ## Đối tượng phù hợp và so sánh với các thiết bị ghi chú khác
 
