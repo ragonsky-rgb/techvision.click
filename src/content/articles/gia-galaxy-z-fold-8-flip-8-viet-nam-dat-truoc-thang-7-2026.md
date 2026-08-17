@@ -1,18 +1,18 @@
 ---
 slug: "gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026"
 title: "Giá Galaxy Z Flip 8, Z Fold 8 tại Việt Nam: mở bán 18/8"
-description: "Khảo sát 13/8: Z Flip 8 bán 29,49 triệu, Z Fold 8 44,49 triệu. Khuyến mãi các chuỗi chạy tới 17/8, mở bán rộng 18/8. So sánh giá từng đại lý."
+description: "Khảo sát 17/8: Z Flip 8 bán 29,49 triệu, Z Fold 8 44,49 triệu, giá không bật lại sau mốc mở bán 18/8. Chênh 2,5 triệu giữa các chuỗi."
 keywords: "gia Galaxy Z Flip 8, gia Z Flip 8 Viet Nam, gia Galaxy Z Fold 8 Viet Nam, Z Flip 8 gia bao nhieu, Galaxy Z Fold 8 Ultra gia, uu dai thu cu Galaxy Z, Samsung Z Fold 8 Flip 8 gia"
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-22T21:00:00+07:00"
-dateModified: "2026-08-13T15:30:00+07:00"
-deck: "Galaxy Z Flip 8 và Z Fold 8 đã có mặt tại cửa hàng và bước vào tuần cuối trước ngày mở bán rộng 18/8. Khảo sát ngày 13/8 cho thấy giá bán thực tế đã lùi 2 đến 2,5 triệu so với niêm yết, trong đó Z Flip 8 xuống 29,49 triệu và Z Fold 8 xuống 44,49 triệu. Bài viết cập nhật giá từng phiên bản tại các chuỗi lớn, kèm lưu ý về đợt khuyến mãi kết thúc ngày 17/8."
+dateModified: "2026-08-17T23:00:00+07:00"
+deck: "Galaxy Z Flip 8 và Z Fold 8 đã có mặt tại cửa hàng và bước vào tuần cuối trước ngày mở bán rộng 18/8. Khảo sát ngày 13/8 cho thấy giá bán thực tế đã lùi 2 đến 2,5 triệu so với niêm yết, trong đó Z Flip 8 xuống 29,49 triệu và Z Fold 8 xuống 44,49 triệu. Khảo sát lại tối 17/8 cho thấy giá không bật lại sau mốc mở bán rộng, nhưng hai chuỗi lớn xử lý khác hẳn nhau."
 heroImage: "https://i.ytimg.com/vi/EG38N3Lo0pM/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.jpg"
 heroAlt: "Gia Galaxy Z Flip 8 va Z Fold 8 tai Viet Nam cap nhat thang 8 2026"
 heroCaption: "Galaxy Z Flip 8 và Z Fold 8 đã bán tại Việt Nam, mở bán rộng ngày 18/8. Nguồn: YouTube"
-tldr: "Khảo sát ngày <strong>13/8/2026</strong>: <strong>Galaxy Z Flip 8</strong> 256GB niêm yết 31,99 triệu, bán thực tế <strong>29,49 triệu</strong> tại CellphoneS và 29,99 triệu tại FPT Shop; bản 512GB 37,99 triệu. <strong>Galaxy Z Fold 8</strong> 256GB niêm yết 46,99 triệu, bán <strong>44,49 triệu</strong>. <strong>Z Fold 8 Ultra</strong> từ 52,99 triệu. Đợt khuyến mãi hiện hành chạy tới <strong>17/8</strong>, ngay trước ngày <strong>mở bán rộng 18/8</strong>. Cộng đủ phiếu mua hàng, thu cũ và ưu đãi thanh toán, giá thực trả có thể giảm thêm khoảng <strong>8,5 triệu</strong>."
+tldr: "Khảo sát ngày <strong>13/8/2026</strong>: <strong>Galaxy Z Flip 8</strong> 256GB niêm yết 31,99 triệu, bán thực tế <strong>29,49 triệu</strong> tại CellphoneS và 29,99 triệu tại FPT Shop; bản 512GB 37,99 triệu. <strong>Galaxy Z Fold 8</strong> 256GB niêm yết 46,99 triệu, bán <strong>44,49 triệu</strong>. <strong>Z Fold 8 Ultra</strong> từ 52,99 triệu. Khảo sát lại tối <strong>17/8</strong>: giá <strong>không bật lại</strong> sau mốc mở bán rộng 18/8, nhưng Thế Giới Di Động khép cửa sổ khuyến mãi đúng hạn còn CellphoneS chuyển sang gói mở bán không ghi hạn. Cộng đủ phiếu mua hàng, thu cũ và ưu đãi thanh toán, giá thực trả có thể giảm thêm khoảng <strong>8,5 triệu</strong>."
 tags: ["Smartphone", "Samsung", "GalaxyZFold8", "GalaxyZFlip8", "GiaVietNam", "MoBan"]
 about: ["Samsung Galaxy Z Flip 8", "Samsung Galaxy Z Fold 8", "Giá Việt Nam", "Samsung"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các sản phẩm công nghệ và giải trí cho người dùng Việt."
@@ -23,8 +23,8 @@ stats:
   - { num: "29,49tr", label: "Giá bán Galaxy Z Flip 8 256GB ngày 13/8, niêm yết 31,99tr" }
   - { num: "44,49tr", label: "Giá bán Galaxy Z Fold 8 256GB ngày 13/8, niêm yết 46,99tr" }
   - { num: "52,99tr", label: "Giá niêm yết Galaxy Z Fold 8 Ultra bản 256GB" }
-  - { num: "17/8", label: "Ngày kết thúc đợt khuyến mãi đang chạy tại các chuỗi" }
-  - { num: "18/8", label: "Ngày mở bán rộng tại Việt Nam" }
+  - { num: "2,5tr", label: "Chênh lệch cùng máy giữa CellphoneS và Thế Giới Di Động" }
+  - { num: "18/8", label: "Ngày mở bán rộng, giá không bật lại ở chuỗi rẻ nhất" }
   - { num: "~8,5tr", label: "Mức giảm tối đa khi cộng đủ phiếu, thu cũ, thanh toán" }
 faq:
   - q: "Giá Galaxy Z Flip 8 tại Việt Nam hôm nay bao nhiêu?"
@@ -34,7 +34,7 @@ faq:
   - q: "Mua Galaxy Z Flip 8, Z Fold 8 ở đâu lợi nhất?"
     a: "Mỗi hệ thống mạnh một kiểu nên cần so tổng giá trị chứ không chỉ giá niêm yết. CellphoneS đang để giá bán thấp nhất trong nhóm khảo sát và cộng gói ưu đãi tới 8,5 triệu. FPT Shop bán 29,99 triệu kèm trả góp 0% từ khoảng 1,05 triệu mỗi tháng. Thế Giới Di Động giữ giá niêm yết nhưng trợ giá thu cũ tới 5 triệu, hợp người có máy cũ để lên đời. Samsung Store thường định giá thu cũ cao và có thêm ưu đãi hệ sinh thái Galaxy."
   - q: "Khi nào Galaxy Z Flip 8, Z Fold 8 mở bán rộng tại Việt Nam?"
-    a: "Ngày mở bán rộng là 18/8/2026. Giai đoạn đặt trước đã khép lại từ 7/8 và người đặt trước bắt đầu nhận máy từ 8/8, nên hiện tại máy đã có sẵn tại nhiều cửa hàng. Điểm đáng lưu ý là đợt khuyến mãi hiện hành tại Thế Giới Di Động ghi rõ chạy từ 8/8 đến 17/8, tức kết thúc ngay trước ngày mở bán rộng, nên mức giá sau 18/8 có thể khác với hôm nay."
+    a: "Ngày mở bán rộng là 18/8/2026. Giai đoạn đặt trước đã khép lại từ 7/8 và người đặt trước bắt đầu nhận máy từ 8/8, nên hiện tại máy đã có sẵn tại nhiều cửa hàng. Khảo sát tối 17/8 cho thấy giá không bật lại sau mốc này: CellphoneS chuyển chương trình thành gói mở bán không ghi hạn và giữ nguyên 29,49 triệu, trong khi Thế Giới Di Động khép cửa sổ 8/8 tới 17/8 đúng như công bố và để niêm yết 31,99 triệu, bù bằng giảm ngay 2 triệu hoặc thu cũ tới 5 triệu."
   - q: "Nên chọn Galaxy Z Flip 8, Z Fold 8 hay bản Ultra?"
     a: "Chọn theo nhu cầu và ngân sách. Galaxy Z Flip 8 gập vỏ sò nhỏ gọn, mỏng 6,1mm khi mở và nặng 180g, giá mềm nhất, hợp người thích thời trang và dùng một tay. Galaxy Z Fold 8 mở ra màn hình lớn để làm việc và giải trí. Bản Ultra thêm camera 200MP và ống tele, dành cho người đặt nặng nhiếp ảnh, giá cao nhất. Nếu cần cân đối chi phí, bản Fold 8 tiêu chuẩn hoặc Flip 8 là lựa chọn hợp lý hơn."
   - q: "Galaxy Z Fold 8 đắt hơn Z Flip 8 bao nhiêu tiền?"
@@ -48,7 +48,7 @@ related:
 featured: true
 ---
 
-Bộ ba gập mới của Samsung đã bước vào tuần cuối trước ngày mở bán rộng 18/8 tại Việt Nam. Giai đoạn đặt trước khép lại từ 7/8, người đặt sớm đã nhận máy từ 8/8, và hiện tại Galaxy Z Flip 8 cùng Z Fold 8 đã có sẵn tại phần lớn cửa hàng lớn. Câu hỏi thực tế nhất lúc này không còn là đặt trước ở đâu, mà là giá hôm nay bao nhiêu và có nên chốt trước ngày 18/8 hay không. Bài viết cập nhật giá khảo sát ngày 13/8/2026 tại các chuỗi lớn, kèm một chi tiết nhiều người bỏ qua: đợt khuyến mãi đang chạy kết thúc ngày 17/8.
+Bộ ba gập mới của Samsung đã bước vào tuần cuối trước ngày mở bán rộng 18/8 tại Việt Nam. Giai đoạn đặt trước khép lại từ 7/8, người đặt sớm đã nhận máy từ 8/8, và hiện tại Galaxy Z Flip 8 cùng Z Fold 8 đã có sẵn tại phần lớn cửa hàng lớn. Câu hỏi thực tế nhất lúc này không còn là đặt trước ở đâu, mà là giá hôm nay bao nhiêu và có nên chốt trước ngày 18/8 hay không. Bài viết cập nhật giá khảo sát tại các chuỗi lớn, kèm một chi tiết nhiều người bỏ qua: qua mốc 18/8, hai chuỗi lớn nhất đi hai hướng ngược nhau.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Giá bán thực tế tại Việt Nam, khảo sát ngày 13/8/2026</div>
@@ -92,11 +92,15 @@ Một chi tiết đáng cân nhắc cho người phân vân giữa hai dòng: c�
 
 Người dùng muốn nắm kỹ hơn về cấu hình và điểm nâng cấp có thể xem bài [Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP](/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html), cũng như bài [Galaxy Z Flip 8 với sạc nhanh 45W](/articles/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia.html) để so sánh giữa hai kiểu gập trước khi chốt.
 
-## Mốc thời gian: khuyến mãi kết thúc 17/8, mở bán rộng 18/8
+## Mốc 17/8 sang 18/8: hai chuỗi đi hai hướng khác nhau
 
-Đây là phần dễ bỏ sót nhất. Chương trình đặt trước đã khép lại ngày 7/8 và máy được giao cho người đặt sớm từ 8/8. Nhưng đợt khuyến mãi hiện hành không kéo dài vô hạn: banner chương trình tại Thế Giới Di Động ghi rõ áp dụng từ 8/8 đến 17/8, tức đúng một ngày trước mốc mở bán rộng 18/8.
+Đây là phần dễ bỏ sót nhất, và diễn biến thực tế đã cho câu trả lời rõ. Chương trình đặt trước khép lại ngày 7/8, máy giao cho người đặt sớm từ 8/8, và ngày 18/8 là mốc mở bán rộng. Câu hỏi đặt ra suốt tuần qua là mức giảm 2 tới 2,5 triệu có bị rút lại sau mốc đó không. Khảo sát tối 17/8 cho thấy hai chuỗi lớn xử lý hoàn toàn khác nhau.
 
-Điều đó tạo ra hai kịch bản trái ngược mà người mua nên tự cân. Nếu bạn đã chắc chắn về phiên bản, chốt trong khoảng từ nay tới 17/8 là an toàn hơn, vì mức giảm 2 đến 2,5 triệu cùng gói thu cũ đang ở giai đoạn mạnh nhất và chưa có gì bảo đảm nó được giữ nguyên sau ngày mở bán. Ngược lại, nếu chưa vội, chờ qua 18/8 cũng có lý: đó là lúc hàng về rộng, các đại lý nhỏ tham gia cuộc đua giá, và những bài đánh giá dài ngày về thời lượng pin cùng độ bền bản lề bắt đầu xuất hiện. Cái giá của việc chờ là có thể mất đợt khuyến mãi hiện tại; cái được là thông tin đầy đủ hơn và khả năng giá tiếp tục lùi.
+Thế Giới Di Động giữ đúng cửa sổ đã công bố: banner chương trình ghi rõ áp dụng từ 8/8 đến 17/8 và không nhắc gì tới ngày 18/8. Giá niêm yết trên trang sản phẩm vẫn là 31,99 triệu, phần lợi nằm ở gói giảm ngay 2 triệu hoặc trợ giá thu cũ tới 5 triệu, kèm trả chậm 0% tới 18 tháng, bảo hành mở rộng và bảo hiểm rơi vỡ 24 tháng. Nếu bạn nhắm gói này thì đêm 17/8 là hạn cuối theo đúng thông báo của họ.
+
+CellphoneS đi hướng ngược lại. Chương trình ở đây đã chuyển thành gói mở bán và không còn ghi ngày kết thúc, trong khi giá bán vẫn giữ nguyên 29,49 triệu cho Z Flip 8 và 44,49 triệu cho Z Fold 8. Tổng ưu đãi tối đa vẫn khoảng 8,5 triệu, gồm phiếu mua hàng 4 triệu, trợ giá thu cũ tới 3 triệu cộng 1 triệu bonus cho thành viên, giảm 500.000 đồng cho học sinh sinh viên và ưu đãi thanh toán.
+
+Nghĩa là lo ngại giá bật lại sau 18/8 đã không xảy ra ở chuỗi đang để giá thấp nhất. Với người còn đang cân nhắc, sức ép phải chốt gấp trong đêm 17/8 nhỏ hơn nhiều so với những gì các chương trình đếm ngược gợi ý. Điều vẫn nên làm là hỏi giá ít nhất hai nơi, vì khoảng cách giữa 29,49 triệu và 31,99 triệu cho cùng một chiếc máy là 2,5 triệu đồng, và nó phụ thuộc hoàn toàn vào việc bạn có máy cũ để đổi hay không.
 
 ## Mua ở đâu lợi nhất
 
@@ -132,6 +136,10 @@ Về trả góp, nhiều đại lý áp dụng trả góp 0% lãi suất qua th�
 </figure>
 
 Ngoài ra, người mua cũng nên cân nhắc phiên bản bộ nhớ phù hợp thay vì mặc định chọn bản cao nhất, vì chênh lệch giá giữa các mức 256GB, 512GB và 1TB đôi khi lên tới nhiều triệu đồng nhưng chưa chắc cần thiết với nhu cầu thực tế. Nếu đã có thói quen lưu trữ đám mây, bản 256GB thường là điểm cân bằng tốt giữa giá và dung lượng. Cũng lưu ý bản Z Fold 8 Ultra 256GB niêm yết 52,99 triệu, đúng bằng giá bản Z Fold 8 thường 512GB: cùng số tiền, bạn phải chọn giữa thêm dung lượng lưu trữ hay thêm cấu hình và camera. Nếu vẫn đang phân vân giữa hai bản Fold, xem thêm bài [Galaxy Z Fold 8 và Z Fold 8 Ultra khác nhau ra sao](/articles/galaxy-z-fold-8-vs-z-fold-8-ultra-so-sanh-chon-ban-nao-2026.html).
+
+<div class="art-callout">
+  🔥 <strong>Cập nhật tối 17/8:</strong> Qua mốc mở bán rộng 18/8, giá <strong>không bật lại</strong> ở chuỗi đang bán rẻ nhất. CellphoneS chuyển chương trình thành gói mở bán không ghi hạn, giữ nguyên Z Flip 8 ở <strong>29,49 triệu</strong> và Z Fold 8 ở <strong>44,49 triệu</strong>. Thế Giới Di Động khép cửa sổ 8/8 tới 17/8 đúng như công bố, trang sản phẩm vẫn để niêm yết 31,99 triệu và bù bằng giảm ngay 2 triệu hoặc thu cũ tới 5 triệu. Chênh lệch cùng một chiếc máy giữa hai nơi là <strong>2,5 triệu đồng</strong>.
+</div>
 
 <div class="art-callout">
   🔥 <strong>Cập nhật 13/8:</strong> Giá bán thực tế đã lùi so với niêm yết ở hai chuỗi lớn: CellphoneS để Z Flip 8 256GB ở 29,49 triệu và Z Fold 8 256GB ở 44,49 triệu, FPT Shop để Z Flip 8 ở 29,99 triệu, trong khi Thế Giới Di Động giữ niêm yết nhưng đổi sang giảm ngay 2 triệu hoặc thu cũ tới 5 triệu. Đợt khuyến mãi này ghi rõ chạy tới <strong>17/8</strong>, ngay trước mốc mở bán rộng <strong>18/8</strong>, nên mức giá sau đó có thể thay đổi.

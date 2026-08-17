@@ -6,7 +6,7 @@ keywords: "Pixel 11 Pro Fold vs Galaxy Z Fold 8, gia Pixel 11 Pro Fold Viet Nam,
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-08-15T15:30:00+07:00"
-dateModified: "2026-08-15T15:30:00+07:00"
+dateModified: "2026-08-17T23:10:00+07:00"
 deck: "Trên bảng giá quốc tế, Pixel 11 Pro Fold và Galaxy Z Fold 8 cùng khởi điểm đúng 1.899 USD. Nhưng tại Việt Nam hai máy này ở hai thế giới khác nhau: Z Fold 8 có phân phối chính hãng và đang bán 44,49 triệu, còn Pro Fold không có kênh chính hãng nào. Bài viết đối chiếu thông số đã xác minh và chỉ ra khoản chênh thật mà người mua phải trả."
 heroImage: "https://i.ytimg.com/vi/NZ2LNrQ0b9o/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.jpg"
@@ -40,7 +40,7 @@ faq:
   - q: "Mua Pixel 11 Pro Fold xách tay tại Việt Nam có rủi ro gì?"
     a: "Rủi ro lớn nhất với máy gập là chi phí sửa chữa. Máy nhập khẩu chỉ được bảo hành tại chính cửa hàng bán ra, điều kiện và thời hạn do từng nơi tự đặt. Với dòng gập, hỏng màn trong hoặc bản lề là hỏng nặng và chi phí thay rất cao, nên khoản chênh vài triệu lúc mua có thể bị xóa sạch chỉ bởi một lần sửa. Ngoài ra còn các vấn đề quen thuộc của hàng xách tay như khả năng tương thích mạng và việc không được hỗ trợ đổi trả theo chính sách chính hãng."
   - q: "Nên chờ Galaxy Z Fold 8 giảm giá thêm sau 18/8 không?"
-    a: "Ngày 18/8/2026 là mốc mở bán rộng tại Việt Nam, còn đợt khuyến mãi hiện hành tại nhiều chuỗi ghi rõ kết thúc ngày 17/8. Nghĩa là mức giảm 2 tới 2,5 triệu đang có chưa chắc được giữ nguyên sau đó. Nếu đã chắc chắn về máy, chốt trước 17/8 là an toàn hơn. Nếu chưa vội, chờ qua 18/8 để xem giá ổn định ở đâu và đọc thêm đánh giá dài ngày về độ bền bản lề cũng là lựa chọn hợp lý."
+    a: "Khảo sát tối 17/8/2026 cho thấy giá không bật lại sau mốc mở bán rộng 18/8. CellphoneS đã chuyển chương trình thành gói mở bán không ghi ngày kết thúc và giữ nguyên Z Fold 8 ở 44,49 triệu, còn Thế Giới Di Động khép cửa sổ khuyến mãi 8/8 tới 17/8 đúng như công bố, để niêm yết 46,99 triệu và bù bằng trợ giá thu cũ. Nghĩa là sức ép phải chốt gấp không lớn như các chương trình đếm ngược gợi ý. Việc nên làm là hỏi giá ít nhất hai nơi, vì chênh lệch cùng một chiếc máy giữa các chuỗi tới 2,5 triệu đồng."
 related:
   - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Flip 8, Z Fold 8 tại Việt Nam: mở bán 18/8" }
   - { href: "/articles/google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026.html", cat: "Smartphone", title: "Pixel 11 ra mắt: Fold 1.899 USD, Pro bị cắt RAM còn 12GB" }
@@ -133,7 +133,7 @@ Chọn **Pixel 11 Pro Fold** nếu hai thứ sau quan trọng với bạn hơn p
 Còn nếu bạn muốn tele nhưng vẫn cần bảo hành chính hãng, đường đi là bản Galaxy Z Fold 8 Ultra ở mức 52,99 triệu. Đó là lựa chọn đắt nhất trong ba phương án, nhưng cũng là phương án duy nhất không bắt bạn phải đánh đổi.
 
 <div class="art-callout">
-  💡 <strong>Lưu ý về thời điểm:</strong> Galaxy Z Fold 8 mở bán rộng tại Việt Nam ngày <strong>18/8/2026</strong>, trong khi đợt khuyến mãi hiện hành tại nhiều chuỗi ghi rõ kết thúc ngày <strong>17/8</strong>. Mức giảm 2 tới 2,5 triệu đang có chưa chắc được giữ sau mốc đó, nên nếu đã quyết thì nên đối chiếu giá ở ít nhất hai nơi trước ngày 17/8.
+  💡 <strong>Cập nhật tối 17/8:</strong> Galaxy Z Fold 8 mở bán rộng tại Việt Nam ngày <strong>18/8/2026</strong> và giá <strong>không bật lại</strong> sau mốc này. CellphoneS chuyển sang gói mở bán không ghi hạn, giữ nguyên <strong>44,49 triệu</strong>; Thế Giới Di Động khép cửa sổ khuyến mãi 8/8 tới 17/8 đúng như công bố. Chênh lệch cùng một chiếc máy giữa hai nơi là 2,5 triệu đồng, nên vẫn nên hỏi ít nhất hai chỗ.
 </div>
 
 <div class="art-callout">
