@@ -75,10 +75,6 @@ Việc được xếp vào danh mục công nghệ chiến lược đồng nghĩ
 
 Việt Nam hiện đã hình thành một lực lượng doanh nghiệp, viện nghiên cứu và trường đại học có khả năng làm chủ nhiều công đoạn quan trọng trong chuỗi phát triển UAV. Ba doanh nghiệp được xem là mũi nhọn của ngành gồm CT UAV, Viettel và RTR Việt Nam, cùng hướng tới mục tiêu chung là đưa Việt Nam trở thành quốc gia làm chủ công nghệ UAV, phục vụ cả phát triển kinh tế lẫn quốc phòng an ninh, đồng thời tham gia sâu hơn vào chuỗi cung ứng toàn cầu.
 
-<figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/wbQMv0H3qIA/maxresdefault.jpg" alt="UAV Việt Nam hiện đại nhất nhì thế giới khiến nhiều nước chú ý" loading="lazy" width="1280" height="720">
-  <figcaption>Năng lực chế tạo UAV của các doanh nghiệp Việt Nam đang được đánh giá cao trên trường quốc tế. Nguồn: YouTube</figcaption>
-</figure>
 
 Trên thực tế, nhiều mẫu UAV do Việt Nam tự nghiên cứu và sản xuất phục vụ mục đích chiến đấu, trinh sát và cứu hộ đã tạo được ấn tượng mạnh, trong đó có các dòng M400-CT2, MMD-01, DIS-18 và RAV-80. Tại triển lãm XPONENTIAL 2026 tổ chức ở Detroit, UAV made in Vietnam gây chú ý khi là thiết bị duy nhất bay ổn định trong điều kiện gió mạnh. Trước đó, vào tháng 2/2026, một mẫu UAV vận tải trong nước đã thực hiện thành công chuyến bay vượt biển từ Cần Giờ tới Vũng Tàu, chứng minh năng lực kỹ thuật thực tế chứ không chỉ dừng lại ở lý thuyết.
 
