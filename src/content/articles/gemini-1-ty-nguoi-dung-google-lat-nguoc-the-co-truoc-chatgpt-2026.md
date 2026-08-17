@@ -12,13 +12,13 @@ heroImage: "https://i.ytimg.com/vi/SgBy3NFGl3U/maxresdefault.jpg"
 heroAlt: "Ung dung Gemini cua Google vuot moc 1 ty nguoi dung hang thang nam 2026"
 heroCaption: "Gemini cán mốc 1 tỷ người dùng hàng tháng vào tháng 8/2026. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.jpg"
-tldr: "Ngày <strong>11/8/2026</strong>, Sundar Pichai công bố ứng dụng Gemini vượt <strong>1 tỷ người dùng hàng tháng</strong>, sản phẩm tăng nhanh nhất trong 28 năm của Google. Đường đi: <strong>400 triệu</strong> tháng 5/2025, <strong>900 triệu</strong> tháng 5/2026, rồi từ 950 triệu lên 1 tỷ trong chưa đầy một tháng. ChatGPT đã chạm mốc 1 tỷ người dùng hàng tháng từ <strong>tháng 6/2026</strong> và đạt 1 tỷ người dùng hàng tuần trong tháng 7, tức vẫn dẫn về mức độ gắn bó. Google <strong>không công bố số thuê bao trả phí</strong>. Với người Việt, mốc đáng chú ý là <strong>4/9/2026</strong>, ngày Google Assistant bắt đầu bị thay bằng Gemini trên điện thoại Android."
+tldr: "Ngày <strong>11/8/2026</strong>, Sundar Pichai công bố ứng dụng Gemini vượt <strong>1 tỷ người dùng hàng tháng</strong>, sản phẩm tăng nhanh nhất trong 28 năm của Google. Đường đi: <strong>400 triệu</strong> tháng 5/2025, <strong>900 triệu</strong> tháng 5/2026, rồi từ 950 triệu lên 1 tỷ trong chưa đầy một tháng. ChatGPT đã chạm mốc 1 tỷ người dùng hàng tháng từ <strong>tháng 6/2026</strong>, và cuối tháng 7 được The Information dẫn số liệu nội bộ cho biết đang <strong>tiến sát</strong> mốc 1 tỷ người dùng hàng tuần, mức OpenAI chưa xác nhận công khai. Google <strong>không công bố số thuê bao trả phí</strong>. Với người Việt, mốc đáng chú ý là <strong>4/9/2026</strong>, ngày Google Assistant bắt đầu bị thay bằng Gemini trên điện thoại Android."
 tags: ["AI", "Google", "Gemini", "ChatGPT", "Android", "TroLyAo"]
 about: ["Google Gemini", "Google", "ChatGPT", "OpenAI", "Google Assistant"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các sản phẩm công nghệ và giải trí cho người dùng Việt."
 sourceUrl: "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/"
 sourceName: "Google Blog, TechCrunch, Forbes, 9to5Google"
-sourceDomains: "blog.google, techcrunch.com, forbes.com, 9to5google.com"
+sourceDomains: "blog.google, techcrunch.com, forbes.com, 9to5google.com, theinformation.com"
 stats:
   - { num: "1 tỷ", label: "Người dùng hàng tháng của ứng dụng Gemini" }
   - { num: "11/8/2026", label: "Ngày Sundar Pichai công bố cột mốc" }
@@ -28,7 +28,7 @@ stats:
   - { num: "4/9/2026", label: "Ngày Google Assistant bắt đầu bị Gemini thay thế" }
 faq:
   - q: "Gemini có 1 tỷ người dùng, vậy đã vượt ChatGPT chưa?"
-    a: "Chưa, ít nhất là chưa theo cách đo thẳng. ChatGPT đã đạt 1 tỷ người dùng hàng tháng từ tháng 6/2026, tức sớm hơn Gemini khoảng hai tháng, và trong tháng 7/2026 đạt mốc 1 tỷ người dùng hàng tuần. Người dùng hàng tuần là chỉ số khắt khe hơn hẳn người dùng hàng tháng, vì nó đòi hỏi người ta quay lại thường xuyên chứ không chỉ mở ứng dụng một lần trong 30 ngày. Nói gọn: Gemini đã bắt kịp về quy mô, nhưng vẫn sau về mức độ gắn bó."
+    a: "Chưa, ít nhất là chưa theo cách đo thẳng. ChatGPT đã đạt 1 tỷ người dùng hàng tháng từ tháng 6/2026, tức sớm hơn Gemini khoảng hai tháng. Cuối tháng 7/2026, The Information dẫn số liệu nội bộ của OpenAI cho biết ChatGPT đang tiến sát mốc 1 tỷ người dùng hàng tuần, tuy OpenAI chưa xác nhận đã vượt qua. Người dùng hàng tuần là chỉ số khắt khe hơn hẳn người dùng hàng tháng, vì nó đòi hỏi người ta quay lại thường xuyên chứ không chỉ mở ứng dụng một lần trong 30 ngày. Nói gọn: Gemini đã bắt kịp về quy mô tiếp cận, còn về mức độ gắn bó thì chưa có con số công khai nào cho phép kết luận Gemini đã ngang bằng."
   - q: "Google đã làm gì để Gemini tăng nhanh như vậy?"
     a: "Chủ yếu là phân phối. Google không cần người dùng chủ động đi tìm Gemini, vì hãng có sẵn Android, Chrome, Google Search và Google Workspace để đưa Gemini tới trước mặt hàng tỷ người. Ứng dụng được cài sẵn hoặc gợi ý trên điện thoại Android, tính năng AI xuất hiện ngay trong trang kết quả tìm kiếm, và Gemini được nhúng vào Gmail, Docs, Meet. Đây là lợi thế mà OpenAI không có, và cũng là lý do con số của hai bên nên được đọc theo cách khác nhau."
   - q: "Vì sao cần thận trọng khi đọc con số người dùng trợ lý AI?"
@@ -67,9 +67,9 @@ Ngày 11/8/2026, Sundar Pichai công bố ứng dụng Gemini đã vượt 1 t�
 
 Điều đầu tiên cần làm rõ khi so sánh Gemini với ChatGPT là hai bên đang được nhắc tới bằng những thước đo khác nhau, và sự khác nhau đó không nhỏ.
 
-Gemini vừa đạt 1 tỷ người dùng hàng tháng. ChatGPT đã đạt cùng mốc đó từ tháng 6/2026, tức sớm hơn khoảng hai tháng. Quan trọng hơn, trong tháng 7/2026 ChatGPT được ghi nhận đạt 1 tỷ người dùng hàng tuần. Người dùng hàng tuần là chỉ số khắt khe hơn nhiều: nó đòi hỏi người ta quay lại trong vòng bảy ngày, thay vì chỉ cần mở ứng dụng một lần trong ba mươi ngày.
+Gemini vừa đạt 1 tỷ người dùng hàng tháng. ChatGPT đã đạt cùng mốc đó từ tháng 6/2026, tức sớm hơn khoảng hai tháng. Đáng chú ý hơn là chỉ số còn lại: cuối tháng 7/2026, The Information dẫn số liệu nội bộ của OpenAI cho biết ChatGPT đang tiến sát mốc 1 tỷ người dùng hàng tuần, dù chính OpenAI chưa xác nhận công khai đã vượt qua. Con số gần nhất được OpenAI tự công bố là 900 triệu người dùng hàng tuần hồi tháng 2/2026. Người dùng hàng tuần là chỉ số khắt khe hơn nhiều: nó đòi hỏi người ta quay lại trong vòng bảy ngày, thay vì chỉ cần mở ứng dụng một lần trong ba mươi ngày.
 
-Nói cách khác, nếu đặt hai con số cạnh nhau mà không đọc phần chú thích, người ta dễ kết luận rằng Gemini đã đuổi kịp. Thực tế là Gemini đã bắt kịp về quy mô tiếp cận, còn về mức độ người dùng thật sự quay lại thì khoảng cách vẫn còn. Đây là kiểu chênh lệch mà cả hai công ty đều biết rõ và đều chọn công bố con số có lợi cho mình.
+Nói cách khác, nếu đặt hai con số cạnh nhau mà không đọc phần chú thích, người ta dễ kết luận rằng Gemini đã đuổi kịp. Thực tế thì Gemini mới bắt kịp về quy mô tiếp cận, còn ở mức độ người dùng thật sự quay lại, không bên nào công bố đủ dữ liệu để so thẳng. Đây là kiểu chênh lệch mà cả hai công ty đều biết rõ và đều chọn công bố con số có lợi cho mình.
 
 <div class="art-video-label">VIDEO · Gemini và cuộc đua trợ lý AI năm 2026</div>
 <div class="art-video-wrap">

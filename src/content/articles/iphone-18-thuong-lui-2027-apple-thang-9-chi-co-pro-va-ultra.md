@@ -12,7 +12,7 @@ heroImage: "https://i.ytimg.com/vi/rng_yUSwrgU/maxresdefault.jpg"
 heroAlt: "Apple chuan bi su kien thang 9 2026 voi iPhone 18 Pro va may gap iPhone Ultra"
 heroCaption: "Sự kiện tháng 9/2026 của Apple được cho là không có bản iPhone 18 thường. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.jpg"
-tldr: "Theo các nguồn tin trong ngành, sự kiện tháng 9/2026 của Apple sẽ chỉ có <strong>iPhone 18 Pro</strong>, <strong>iPhone 18 Pro Max</strong> và máy gập <strong>iPhone Ultra</strong>. Bản <strong>iPhone 18 thường</strong>, cùng iPhone 18e và iPhone Air thế hệ hai, được cho là dời sang <strong>nửa đầu 2027</strong>. Ngày sự kiện chưa được Apple xác nhận, các dự đoán tập trung vào <strong>8 hoặc 9/9/2026</strong>. Máy gập ước tính <strong>1.999 tới 2.499 USD</strong>, dùng Touch ID ở nút nguồn thay Face ID. Người mua tầm trung tại Việt Nam vì thế mất lựa chọn iPhone mới giá dễ chịu trong cả mùa cuối năm, và iPhone 17 hiện bán từ khoảng <strong>35,2 triệu đồng</strong> trở thành phương án thực tế."
+tldr: "Theo các nguồn tin trong ngành, sự kiện tháng 9/2026 của Apple sẽ chỉ có <strong>iPhone 18 Pro</strong>, <strong>iPhone 18 Pro Max</strong> và máy gập <strong>iPhone Ultra</strong>. Bản <strong>iPhone 18 thường</strong>, cùng iPhone 18e và iPhone Air thế hệ hai, được cho là dời sang <strong>nửa đầu 2027</strong>. Ngày sự kiện chưa được Apple xác nhận, các dự đoán rơi vào khoảng <strong>9/9 tới 15/9/2026</strong>. Máy gập ước tính <strong>1.999 tới 2.499 USD</strong>, dùng Touch ID ở nút nguồn thay Face ID. Người mua tầm trung tại Việt Nam vì thế mất lựa chọn iPhone mới giá dễ chịu trong cả mùa cuối năm, và iPhone 17 hiện bán từ khoảng <strong>35,2 triệu đồng</strong> trở thành phương án thực tế."
 tags: ["Apple", "iPhone18", "iPhoneUltra", "Smartphone", "iPhone18Pro", "GiaVietNam"]
 about: ["Apple", "iPhone 18 Pro", "iPhone Ultra", "iPhone 18"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các sản phẩm công nghệ và giải trí cho người dùng Việt."
@@ -20,7 +20,7 @@ sourceUrl: "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ul
 sourceName: "MacRumors, Bloomberg (Mark Gurman), AppleInsider, Forbes"
 sourceDomains: "macrumors.com, appleinsider.com, forbes.com, macworld.com"
 stats:
-  - { num: "8 hoặc 9/9", label: "Hai ngày được dự đoán cho sự kiện Apple 2026" }
+  - { num: "9 tới 15/9", label: "Khoảng ngày được dự đoán cho sự kiện Apple 2026" }
   - { num: "3 máy", label: "Số iPhone ra mắt tháng 9: 18 Pro, 18 Pro Max, Ultra" }
   - { num: "Nửa đầu 2027", label: "Thời điểm iPhone 18 thường được cho là xuất hiện" }
   - { num: "1.999 USD", label: "Mức thấp nhất trong khoảng giá ước tính của iPhone Ultra" }
@@ -69,7 +69,7 @@ Suốt hơn một thập kỷ, lịch của Apple đơn giản tới mức ngư�
 
 Nhìn từ phía Apple, cách chia này có lý. Khi bản thường và bản Pro cùng lên sân khấu, gần như toàn bộ sự chú ý dồn về bản Pro, còn bản thường bị mô tả như phiên bản bị cắt bớt. Tách ra hai đợt thì mỗi máy có một buổi riêng, và doanh số cũng trải đều ra cả năm thay vì dồn cục vào quý cuối. Năm nay Apple còn có thêm lý do: chiếc máy gập đầu tiên cần khoảng trống truyền thông mà một buổi ra mắt chật kín sản phẩm không thể cho nó.
 
-Về ngày cụ thể, Apple chưa gửi thư mời và chưa xác nhận gì. Các dự đoán hiện tập trung vào thứ Ba ngày 8/9 hoặc thứ Tư ngày 9/9, trong đó ngày 9/9 được nhắc tới nhiều hơn do Apple có thói quen tránh ngày liền sau kỳ nghỉ Lễ Lao động của Mỹ. Mốc này chỉ nên coi là ước đoán cho tới khi có thư mời chính thức.
+Về ngày cụ thể, Apple chưa gửi thư mời và chưa xác nhận gì. Một số báo đưa ra thứ Ba ngày 8/9, nhưng MacRumors đánh giá mốc này khó xảy ra vì Apple thường chừa ít nhất hai ngày sau kỳ nghỉ Lễ Lao động của Mỹ. Hai khả năng được cho là hợp lý hơn là thứ Tư ngày 9/9, hoặc tuần kế tiếp vào ngày 14 và 15/9. Nếu rơi vào tuần sau, lịch đặt trước và mở bán cũng lùi theo, khoảng ngày 18/9 và 25/9. Tất cả chỉ nên coi là ước đoán cho tới khi có thư mời chính thức.
 
 <div class="art-video-label">VIDEO · Những gì đã biết về dòng iPhone 18</div>
 <div class="art-video-wrap">
@@ -118,7 +118,7 @@ Một chi tiết có lợi cho người mua trong nước: năm 2025, Việt Nam
 
 ## Nên mua bây giờ hay chờ
 
-Câu trả lời phụ thuộc vào việc bạn định mua bản nào. Nếu bạn nhắm bản Pro, chờ tới tháng 9 là hợp lý: chỉ còn khoảng ba tuần, và dù có chọn máy cũ thì giá iPhone 17 Pro cũng sẽ mềm hơn sau khi bản mới lên kệ. Không có lý do gì để chốt bản Pro ngay lúc này.
+Câu trả lời phụ thuộc vào việc bạn định mua bản nào. Nếu bạn nhắm bản Pro, chờ tới tháng 9 là hợp lý: chỉ còn khoảng ba tới bốn tuần, và dù có chọn máy cũ thì giá iPhone 17 Pro cũng sẽ mềm hơn sau khi bản mới lên kệ. Không có lý do gì để chốt bản Pro ngay lúc này.
 
 Nếu bạn nhắm bản thường, tính toán đảo ngược hoàn toàn. Chờ tới nửa đầu 2027 nghĩa là chờ ít nhất nửa năm, cho một chiếc máy mà cấu hình, giá bán lẫn ngày ra mắt đều chưa có gì chắc chắn. Trong khoảng thời gian đó, iPhone 17 sẽ tiếp tục hạ giá và trở thành lựa chọn tốt dần lên. Mức độ nghiêm túc của Apple với chiếc máy gập cũng đã lộ ra qua chuỗi cung ứng, khi hãng [nâng đơn hàng iPhone Ultra lên 10 triệu máy](/articles/apple-iphone-ultra-gap-nang-don-hang-10-trieu-may-2026.html), con số lớn hơn nhiều so với kỳ vọng thường thấy ở một sản phẩm thế hệ đầu.
 

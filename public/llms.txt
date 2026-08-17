@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 206
-- **Cập nhật:** 2026-08-13 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 219
+- **Cập nhật:** 2026-08-17 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,9 @@
 
 ## Bài viết mới nhất
 
+- [Gemini đạt 1 tỷ người dùng: Google lật ngược thế cờ ra sao](https://techvision.click/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html)
+- [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
+- [Pixel 11 Pro Fold hay Z Fold 8: mua máy gập nào tại Việt Nam](https://techvision.click/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html)
 - [Pixel 11 giá bao nhiêu, bao giờ về Việt Nam](https://techvision.click/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html)
 - [Pixel Tag giá bao nhiêu, dùng tại Việt Nam được không](https://techvision.click/articles/google-pixel-tag-the-dinh-vi-29-usd-doi-thu-airtag-2026.html)
 - [Vivo S2 trở lại sau 7 năm: pin 7.050mAh, màn cong 1.5K](https://techvision.click/articles/vivo-s2-pin-7050mah-man-cong-15k-dimensity-7360-turbo-2026.html)
@@ -42,12 +45,10 @@
 - [LCP 2026 Split 3: thể thức Thụy Sĩ và cửa GAM Esports](https://techvision.click/articles/lcp-2026-split-3-swiss-stage-lich-the-thuc-gam-esports.html)
 - [Lê Viết Quốc rời Google lập startup AI Discovery Loop](https://techvision.click/articles/le-viet-quoc-roi-google-lap-startup-ai-discovery-loop-2026.html)
 - [Vivo G5i, G5z: pin 7200mAh, chuẩn IP69, giá tham khảo](https://techvision.click/articles/vivo-g5i-g5z-ra-mat-pin-7200mah-ip69-gia-tham-khao-2026.html)
-- [POCO F8 Ultra, F8 Pro giá Việt Nam: Snapdragon 8, loa Bose](https://techvision.click/articles/poco-f8-ultra-f8-pro-gia-viet-nam-snapdragon-8-elite-loa-bose-2026.html)
-- [Top điện thoại mạnh nhất AnTuTu tháng 8/2026: iQOO dẫn đầu](https://techvision.click/articles/top-dien-thoai-manh-nhat-antutu-thang-8-2026-xep-hang.html)
-- [Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu](https://techvision.click/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html)
 
-## Smartphone (54 bài)
+## Smartphone (61 bài)
 
+- [Pixel 11 Pro Fold hay Z Fold 8: mua máy gập nào tại Việt Nam](https://techvision.click/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html)
 - [Pixel 11 giá bao nhiêu, bao giờ về Việt Nam](https://techvision.click/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html)
 - [Vivo S2 trở lại sau 7 năm: pin 7.050mAh, màn cong 1.5K](https://techvision.click/articles/vivo-s2-pin-7050mah-man-cong-15k-dimensity-7360-turbo-2026.html)
 - [Redmi 17 giá từ 5,99 triệu tại Việt Nam, pin 7.500mAh](https://techvision.click/articles/redmi-17-series-ra-mat-viet-nam-pin-7500mah-gia-tu-599-trieu-2026.html)
@@ -69,7 +70,7 @@
 - [Galaxy S26 FE lộ cấu hình: Exynos 2500, giá dự kiến 2026](https://techvision.click/articles/samsung-galaxy-s26-fe-lo-cau-hinh-exynos-2500-gia-du-kien-2026.html)
 - [Honor 600 Pro: camera 200MP, pin 7000mAh có gì đáng mua?](https://techvision.click/articles/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.html)
 - [Galaxy Z Fold 8 vs Z Fold 8 Ultra: chọn bản nào 2026?](https://techvision.click/articles/galaxy-z-fold-8-vs-z-fold-8-ultra-so-sanh-chon-ban-nao-2026.html)
-- [Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8](https://techvision.click/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html)
+- [Giá Galaxy Z Flip 8, Z Fold 8 tại Việt Nam: mở bán 18/8](https://techvision.click/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html)
 - [Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP](https://techvision.click/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html)
 - [Xiaomi 17 vs iQOO 15: camera Leica hay gaming, chọn máy nào?](https://techvision.click/articles/xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026.html)
 - [Honor WIN Turbo: điện thoại pin 10000mAh, sạc 80W, Dimensity 8500](https://techvision.click/articles/honor-win-turbo-pin-10000mah-sac-80w-dimensity-8500-2026.html)
@@ -77,7 +78,9 @@
 - [Galaxy Unpacked 22/7/2026: Z Fold 8, Z Flip 8, Galaxy Glasses](https://techvision.click/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html)
 - [Galaxy Z Flip 8: cấu hình, sạc 45W, giá ra mắt 22/7/2026](https://techvision.click/articles/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia.html)
 - [RedMagic 11S Pro+: vô địch AnTuTu, pin 8000mAh](https://techvision.click/articles/redmagic-11s-pro-plus-vo-dich-antutu-dien-thoai-gaming-2026.html)
+- [iQOO 15: chip 8 Elite Gen 5, pin 7.000mAh, giá bao nhiêu?](https://techvision.click/articles/iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026.html)
 - [Motorola Edge 70 Max: pin 7100mAh, thân siêu mỏng có gì hay?](https://techvision.click/articles/motorola-edge-70-max-pin-7100mah-man-hinh-7000-nit-2026.html)
+- [Honor Magic 8 Pro: camera 200MP, pin 7100mAh có gì hot?](https://techvision.click/articles/honor-magic-8-pro-camera-200mp-snapdragon-8-elite-gen-5-2026.html)
 - [OnePlus rút khỏi Mỹ và châu Âu: hồi kết của flagship killer](https://techvision.click/articles/oneplus-rut-khoi-my-chau-au-thuong-hieu-con-oppo-2026.html)
 - [Redmi Note 17 Pro ra mắt: pin 9.000mAh, giá từ 1.599 tệ](https://techvision.click/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html)
 - [Thị trường smartphone quý 2/2026: thấp nhất 13 năm, giá còn tăng](https://techvision.click/articles/thi-truong-smartphone-quy-2-2026-xuat-xuong-thap-nhat-13-nam.html)
@@ -86,8 +89,12 @@
 - [Haaland dùng điện thoại gì: đại sứ Galaxy mà cầm iPhone?](https://techvision.click/articles/haaland-dung-dien-thoai-gi-samsung-iphone-2026.html)
 - [Cách bật 120 FPS Liên Quân Mobile trên Android, máy nào hỗ trợ](https://techvision.click/articles/lien-quan-mobile-120-fps-android-cap-nhat-2026-cach-bat-may-ho-tro.html)
 - [Nothing Phone chính hãng về Việt Nam, giá dự kiến từ 6,49 triệu](https://techvision.click/articles/nothing-phone-ban-chinh-hang-viet-nam-cellphones-2026.html)
-- [Pixel 11 Pro Fold lộ giá 1.899 USD, sự kiện Google 12/8](https://techvision.click/articles/google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026.html)
+- [Oppo Reno16 F 5G về Việt Nam: pin 7.000mAh, giá từ 15 triệu](https://techvision.click/articles/oppo-reno16-f-5g-ra-mat-viet-nam-pin-7000mah-2026.html)
+- [Huawei Watch GT 6 ra mắt Việt Nam: pin 21 ngày, từ 4,99 triệu](https://techvision.click/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html)
+- [Samsung Exynos 2600: chip smartphone 2nm đầu tiên thế giới](https://techvision.click/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html)
+- [Pixel 11 ra mắt: Fold 1.899 USD, Pro bị cắt RAM còn 12GB](https://techvision.click/articles/google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026.html)
 - [Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá](https://techvision.click/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html)
+- [Galaxy S26 Ultra ra mắt: camera 200MP f/1.4, màn Privacy Display](https://techvision.click/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html)
 - [Galaxy Z TriFold: điện thoại gập ba đầu tiên, mở ra 10 inch](https://techvision.click/articles/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.html)
 - [18 triệu SIM bị khóa từ 15/6: cách xác thực VNeID giữ số](https://techvision.click/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html)
 - [Camera Galaxy Z Fold 8 lộ diện: cụm kép, bỏ ống tele](https://techvision.click/articles/galaxy-z-fold-8-thiet-ke-camera-kep-lo-dien-2026.html)
@@ -103,8 +110,9 @@
 - [iOS 27 mở cho AI agents bên thứ 3 - bước ngoặt Apple](https://techvision.click/articles/apple-ios-27-third-party-ai-agents.html)
 - [Smartphone tháng 5/2026: Vivo X300 Ultra, OnePlus CE6, Oppo X9](https://techvision.click/articles/may-2026-smartphone-launches.html)
 
-## AI (45 bài)
+## AI (46 bài)
 
+- [Gemini đạt 1 tỷ người dùng: Google lật ngược thế cờ ra sao](https://techvision.click/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html)
 - [ChatGPT bỏ giới hạn tin nhắn cho gói miễn phí từ tuần 10/8](https://techvision.click/articles/chatgpt-bo-gioi-han-tin-nhan-goi-free-go-gpt-5-6-luna-2026.html)
 - [Lê Viết Quốc rời Google lập startup AI Discovery Loop](https://techvision.click/articles/le-viet-quoc-roi-google-lap-startup-ai-discovery-loop-2026.html)
 - [GPT-5.6 Sol chạy trên chip Cerebras, nhanh 750 token/giây](https://techvision.click/articles/openai-gpt-5-6-sol-chip-cerebras-750-token-roi-nvidia-2026.html)
@@ -194,7 +202,7 @@
 - [Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ](https://techvision.click/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html)
 - [Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc](https://techvision.click/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html)
 
-## Laptop (18 bài)
+## Laptop (19 bài)
 
 - [ROG Strix Scar 18 2026 về VN: RTX 5090, giá 179,99 triệu](https://techvision.click/articles/asus-rog-strix-scar-18-2026-rtx-5090-mini-led-4k-240hz-gia-viet-nam.html)
 - [ASUS ROG RTX 5070, 5060 mở đặt trước Việt Nam: giá](https://techvision.click/articles/asus-rog-rtx-5070-5060-laptop-gaming-mo-dat-truoc-viet-nam-2026.html)
@@ -205,6 +213,7 @@
 - [Chip laptop 2026: Panther Lake vs Snapdragon X2 Elite vs AMD](https://techvision.click/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html)
 - [MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026](https://techvision.click/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html)
 - [ROG Flow Z13: máy tính bảng gaming Ryzen AI Max+ 395 mạnh nhất](https://techvision.click/articles/asus-rog-flow-z13-ryzen-ai-max-395-may-tinh-bang-gaming-2026.html)
+- [Laptop Snapdragon X2 Elite 2026: Surface mới, NPU 80 TOPS](https://techvision.click/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html)
 - [Dell XPS 13 mới giá 699 USD: đấu trực tiếp MacBook](https://techvision.click/articles/dell-xps-13-699-usd-2026-dau-macbook.html)
 - [Khủng hoảng bộ nhớ 2026: RAM, SSD tăng giá vì AI gom hàng](https://techvision.click/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html)
 - [MacBook Pro M6 OLED cảm ứng: đại tu lớn nhất của Apple, bỏ notch](https://techvision.click/articles/macbook-pro-m6-oled-cam-ung-thiet-ke-moi-2026.html)
@@ -215,8 +224,9 @@
 - [macOS 27: sửa Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
 - [RTX 5090 Ti 48GB GDDR7: thông số, hiệu năng, ngày ra mắt dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
 
-## Apple (12 bài)
+## Apple (14 bài)
 
+- [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
 - [Apple cho thuê iPhone giá từ 17,99 USD/tháng qua Klarna](https://techvision.click/articles/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.html)
 - [Trung Quốc duyệt Apple Intelligence, Alibaba và Baidu góp sức](https://techvision.click/articles/apple-intelligence-trung-quoc-phe-duyet-alibaba-qwen-baidu-2026.html)
 - [Apple TV, HomePod, Home Hub 2026: bộ ba nhà thông minh mới](https://techvision.click/articles/apple-tv-homepod-home-hub-2026-nha-thong-minh-ro-ri.html)
@@ -224,6 +234,7 @@
 - [iPhone 18 Pro: giá bán, tính năng, ngày ra mắt tháng 9/2026](https://techvision.click/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html)
 - [Apple nâng đơn hàng iPhone Ultra gập lên 10 triệu máy](https://techvision.click/articles/apple-iphone-ultra-gap-nang-don-hang-10-trieu-may-2026.html)
 - [iPhone 18 Pro lộ ảnh thật sau vụ hacker tấn công Tata](https://techvision.click/articles/iphone-18-pro-anh-that-ro-ri-hacker-tan-cong-tata-electronics-2026.html)
+- [iPhone 17e ra mắt: iPhone rẻ nhất 2026, chip A19](https://techvision.click/articles/iphone-17e-apple-gia-re-a19-dynamic-island-2026.html)
 - [Siri AI có tiếng Việt không? Lộ trình và máy nào dùng được](https://techvision.click/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html)
 - [WWDC 2026 có gì mới: Siri AI, iOS 27, macOS Golden Gate](https://techvision.click/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html)
 - [WWDC 2026 mấy giờ Việt Nam? Xem ở đâu, iOS 27 và Siri mới](https://techvision.click/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html)
@@ -241,6 +252,16 @@
 - [Pulsar PCMK3 HE về Việt Nam: bàn phím Hall Effect 8K](https://techvision.click/articles/pulsar-pcmk3-he-ban-phim-hall-effect-viet-nam-2026.html)
 - [Sony khai tử đĩa vật lý PlayStation từ năm 2028](https://techvision.click/articles/sony-khai-tu-dia-vat-ly-playstation-tu-2028.html)
 
+## Wearable (7 bài)
+
+- [Pixel Watch 5 ra mắt: giá 399 USD, thêm loạt chỉ số sức khỏe](https://techvision.click/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html)
+- [Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?](https://techvision.click/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html)
+- [Galaxy Watch 9 và Ultra 2: rò rỉ pin, cảm biến trước 22/7](https://techvision.click/articles/samsung-galaxy-watch-9-ultra-2-ro-ri-pin-cam-bien-unpacked-22-7-2026.html)
+- [Redmi Watch 6 ra mắt Việt Nam: AMOLED 2000 nit, giá 2,99 triệu](https://techvision.click/articles/redmi-watch-6-ra-mat-viet-nam-amoled-2000-nit-2026.html)
+- [Ray-Ban Meta vs Samsung Galaxy Glasses 2026: So sánh kính AI](https://techvision.click/articles/ray-ban-meta-vs-samsung-galaxy-glasses-so-sanh-2026.html)
+- [Samsung Galaxy Glasses: kính AI Gemini ra mắt 22/7, chưa có giá](https://techvision.click/articles/samsung-galaxy-glasses-july-2026.html)
+- [Xiaomi Band 10 Pro: AMOLED cong, pin 21 ngày](https://techvision.click/articles/xiaomi-band-10-pro.html)
+
 ## Internet (6 bài)
 
 - [Google reCAPTCHA cử chỉ tay: quét bàn tay chống bot AI](https://techvision.click/articles/google-recaptcha-cu-chi-tay-quet-ban-tay-chong-bot-ai-2026.html)
@@ -248,16 +269,13 @@
 - [Điện thoại Android nhiễm mã độc: 7 dấu hiệu và cách xử lý 2026](https://techvision.click/articles/dien-thoai-android-nhiem-ma-doc-dau-hieu-cach-xu-ly-2026.html)
 - [Google gắn nhãn quảng cáo tạo bằng AI: cách xem nguồn gốc](https://techvision.click/articles/google-gan-nhan-quang-cao-ai-how-this-ad-was-made-2026.html)
 - [VNeID 2026 thêm tiện ích: phản ánh lừa đảo, lý lịch tư pháp](https://techvision.click/articles/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.html)
-- [Starlink Việt Nam: giá cước, tốc độ và ai nên dùng](https://techvision.click/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html)
+- [Starlink Việt Nam mở bán: giá cước từ 1,13 triệu/tháng](https://techvision.click/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html)
 
-## Wearable (6 bài)
+## Audio (3 bài)
 
-- [Pixel Watch 5 ra mắt: giá 399 USD, thêm loạt chỉ số sức khỏe](https://techvision.click/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html)
-- [Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?](https://techvision.click/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html)
-- [Galaxy Watch 9 và Ultra 2: rò rỉ pin, cảm biến trước 22/7](https://techvision.click/articles/samsung-galaxy-watch-9-ultra-2-ro-ri-pin-cam-bien-unpacked-22-7-2026.html)
-- [Ray-Ban Meta vs Samsung Galaxy Glasses 2026: So sánh kính AI](https://techvision.click/articles/ray-ban-meta-vs-samsung-galaxy-glasses-so-sanh-2026.html)
-- [Samsung Galaxy Glasses: kính AI Gemini ra mắt 22/7, chưa có giá](https://techvision.click/articles/samsung-galaxy-glasses-july-2026.html)
-- [Xiaomi Band 10 Pro: AMOLED cong, pin 21 ngày](https://techvision.click/articles/xiaomi-band-10-pro.html)
+- [REDMI Headphones Neo về Việt Nam: chụp tai, pin 72 giờ](https://techvision.click/articles/redmi-headphones-neo-ra-mat-viet-nam-anc-42db-2026.html)
+- [Redmi Buds 8 về Việt Nam: chống ồn 50dB, giá 1,59 triệu](https://techvision.click/articles/redmi-buds-8-ra-mat-viet-nam-anc-50db-2026.html)
+- [Soundcore Liberty 5 Pro Max: chip AI, 8 kỷ lục Guinness](https://techvision.click/articles/anker-soundcore-liberty-5-pro-max-thus-ai-chip-amoled-2026.html)
 
 ## Camera (2 bài)
 
@@ -273,11 +291,6 @@
 
 - [13 triệu SIM khóa 2 chiều từ 15/8: cách xác thực ngay](https://techvision.click/articles/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.html)
 - [Viettel trúng đấu giá đầu số 095 với 252,5 tỷ đồng](https://techvision.click/articles/viettel-trung-dau-gia-dau-so-095-2525-ty-dong-2026.html)
-
-## Audio (2 bài)
-
-- [REDMI Headphones Neo về Việt Nam: chụp tai, pin 72 giờ](https://techvision.click/articles/redmi-headphones-neo-ra-mat-viet-nam-anc-42db-2026.html)
-- [Soundcore Liberty 5 Pro Max: chip AI, 8 kỷ lục Guinness](https://techvision.click/articles/anker-soundcore-liberty-5-pro-max-thus-ai-chip-amoled-2026.html)
 
 ## Android (2 bài)
 
