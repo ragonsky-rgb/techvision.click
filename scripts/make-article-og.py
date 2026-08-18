@@ -38,7 +38,11 @@ TRIM = " :-–—"
 def load(slug):
     path = f"src/content/articles/{slug}.md"
     if not os.path.exists(path):
-        raise SystemExit(f"khong thay {path}")
+        # Trang HTML cu trong public/articles/ khong co frontmatter, doc tu JSON-LD.
+        legacy = f"public/articles/{slug}.html"
+        if os.path.exists(legacy):
+            return load_legacy(legacy)
+        raise SystemExit(f"khong thay {path} lan {legacy}")
     fm = open(path, encoding="utf-8").read().split("---", 2)[1]
 
     def field(name):
@@ -49,6 +53,21 @@ def load(slug):
     # datePublished van la ngay goc, the chia se se hien ngay lech voi tieu de.
     day = (field("dateModified") or field("datePublished"))[:10]
     return field("title"), field("category"), day
+
+
+def load_legacy(path):
+    """Doc tieu de, chuyen muc, ngay tu JSON-LD cua trang HTML cu."""
+    html = open(path, encoding="utf-8").read()
+
+    def grab(pattern, fallback=""):
+        m = re.search(pattern, html)
+        return m.group(1).strip() if m else fallback
+
+    title = grab(r'"headline"\s*:\s*"([^"]+)"') or grab(r"<title>([^<]+)</title>")
+    cat = grab(r'"articleSection"\s*:\s*"([^"]+)"')
+    day = (grab(r'"dateModified"\s*:\s*"([^"]+)"')
+           or grab(r'"datePublished"\s*:\s*"([^"]+)"'))[:10]
+    return title, cat, day
 
 
 def wrap(draw, text, font, max_w):
