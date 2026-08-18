@@ -40,7 +40,7 @@ faq:
   - q: "Người dùng Việt Nam bình thường có mua được SIM Pottel không?"
     a: "Ở giai đoạn đầu, Pottel tập trung vào SIM du lịch cho khách quốc tế, bán tại một số điểm ở trung tâm Hà Nội và Phú Quốc, nên người dùng trong nước chưa phải là nhóm được nhắm tới trước. Tuy nhiên giấy phép của Pottel là giấy phép mạng di động ảo phủ toàn quốc, nên về lý thuyết hãng có thể mở rộng sang thuê bao cá nhân trong nước ở các bước sau. Người dùng Việt quan tâm nên chờ Vietnam Post công bố gói cước và kế hoạch bán SIM nội địa."
 related:
-  - { href: "/articles/esim-la-gi-cach-chuyen-sim-vat-ly-sang-esim-viet-nam.html", cat: "Viễn thông", title: "eSIM là gì và cách chuyển SIM vật lý sang eSIM tại Việt Nam" }
+  - { href: "/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html", cat: "Internet", title: "Starlink Việt Nam mở bán: giá cước từ 1,13 triệu/tháng" }
   - { href: "/articles/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.html", cat: "Viễn thông", title: "13 triệu SIM khóa 2 chiều từ 15/8: cách xác thực thông tin thuê bao" }
   - { href: "/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html", cat: "Viễn thông", title: "Starlink Việt Nam mở bán: giá cước, tốc độ và ai nên dùng" }
 featured: false

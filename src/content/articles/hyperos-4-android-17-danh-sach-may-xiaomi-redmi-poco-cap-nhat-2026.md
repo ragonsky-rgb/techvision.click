@@ -41,8 +41,8 @@ faq:
     a: "Với người dùng phổ thông thì không nên. Beta nội địa Trung Quốc hướng tới lập trình viên và người thử nghiệm, thường kèm lỗi vặt, hao pin và đôi khi thiếu một số dịch vụ Google trên máy bản Trung Quốc. Nếu máy là thiết bị dùng chính hằng ngày, chờ bản ổn định Global là lựa chọn an toàn. Chỉ nên thử beta trên máy phụ và sau khi đã sao lưu đầy đủ dữ liệu."
 related:
   - { href: "/articles/android-17-cinnamon-bun-chinh-thuc-phat-hanh-2026.html", cat: "Smartphone", title: "Android 17 Cinnamon Bun chính thức phát hành: có gì mới" }
-  - { href: "/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html", cat: "Smartphone", title: "Xiaomi 17 Series ra mắt Việt Nam: camera Leica, Snapdragon 8 Elite Gen 5" }
-  - { href: "/articles/samsung-one-ui-8-5-android-16-tinh-nang-galaxy-ai-moi-2026.html", cat: "Smartphone", title: "Samsung One UI 8.5 nền Android 16: tính năng Galaxy AI mới" }
+  - { href: "/articles/xiaomi-17-ultra-cam-bien-1-inch-leica-camera-2026.html", cat: "Smartphone", title: "Xiaomi 17 Ultra: cảm biến 1 inch Leica, ống tele 200MP" }
+  - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro ra mắt: pin 9.000mAh, giá từ 1.599 tệ" }
 featured: false
 ---
 
