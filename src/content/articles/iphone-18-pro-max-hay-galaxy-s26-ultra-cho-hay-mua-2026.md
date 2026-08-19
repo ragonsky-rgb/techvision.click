@@ -87,7 +87,7 @@ Về phần mềm, đây thường là yếu tố quyết định. Nếu bạn �
 
 <div class="art-video-label">VIDEO · Đối đầu flagship: Galaxy S26 Ultra và iPhone Pro Max</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/ppH_lAl1Iag" title="Doi dau flagship Galaxy S26 Ultra va iPhone Pro Max 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/ftqhZ--p7Xk" title="iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: so sanh day du" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Lựa chọn giữa hai hệ sinh thái thường quan trọng hơn từng thông số riêng lẻ. Nguồn: YouTube</p>
 

@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "dien-thoai-4g-thay-may-2g-truoc-15-9-2026-gia-tu-400-nghin"
 title: "Điện thoại 4G thay máy 2G: giá từ 400.000 đồng, chọn máy nào"
 description: "Trước ngày tắt sóng 2G 15/9/2026, các mẫu điện thoại phím bấm 4G tại Việt Nam có giá từ 400.000 đồng. So sánh Nokia, Masstel, Mobell, Itel và cách chọn."
@@ -9,6 +10,7 @@ datePublished: "2026-08-20T08:30:00+07:00"
 dateModified: "2026-08-20T08:30:00+07:00"
 deck: "Ngày 15/9/2026 mạng 2G tại Việt Nam ngừng hoạt động, kéo theo hàng loạt máy phím bấm đời cũ mất khả năng nghe gọi. Điều nhiều người chưa biết là không nhất thiết phải lên smartphone: phân khúc điện thoại phím bấm hỗ trợ 4G hiện khá dày, giá khởi điểm chỉ khoảng 400.000 đồng và giữ nguyên trải nghiệm quen thuộc. Bài này điểm qua các mẫu đang bán tại Việt Nam, mức giá tham khảo và những tiêu chí thực sự cần cân nhắc khi mua máy thay thế cho người lớn tuổi."
 heroImage: "https://i.ytimg.com/vi/lFFRHRyEEJU/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/dien-thoai-4g-thay-may-2g-truoc-15-9-2026-gia-tu-400-nghin.jpg"
 heroAlt: "Dien thoai phim bam 4G thay the may 2G tai Viet Nam truoc ngay 15/9/2026"
 heroCaption: "Máy phím bấm hỗ trợ 4G giữ nguyên kiểu dáng quen thuộc nhưng không bị ảnh hưởng bởi mốc tắt sóng. Nguồn: YouTube"
 tldr: "Mạng 2G ngừng hoạt động từ <strong>15/9/2026</strong>, máy chỉ hỗ trợ 2G sẽ mất khả năng nghe gọi. Máy phím bấm 4G thay thế có giá từ khoảng <strong>400.000 đồng</strong>: <strong>Mobell M239 4G</strong> khoảng <strong>400.000đ</strong>, <strong>Masstel Izi 30 4G</strong> khoảng <strong>600.000đ</strong>, <strong>Nokia 105 4G</strong> khoảng <strong>620.000 tới 650.000đ</strong>. Các lựa chọn khác gồm <strong>Masstel Fami 8 4G</strong> cho người lớn tuổi, <strong>Itel it9200</strong> hỗ trợ hai nano SIM 4G và <strong>Nokia 3210 4G</strong>. Hộ nghèo, cận nghèo được hỗ trợ tới <strong>500.000 đồng</strong> mỗi máy qua Quỹ Dịch vụ viễn thông công ích."

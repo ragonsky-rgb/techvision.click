@@ -1,4 +1,5 @@
 ---
+noindex: true
 slug: "cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026"
 title: "Cách bật VoLTE trước ngày tắt sóng 2G 15/9/2026"
 description: "Máy có 4G vẫn có thể mất khả năng gọi khi 2G tắt. Hướng dẫn kiểm tra và bật VoLTE trên Android, iPhone kèm cú pháp đăng ký Viettel, VinaPhone, MobiFone."
@@ -9,6 +10,7 @@ datePublished: "2026-08-20T15:30:00+07:00"
 dateModified: "2026-08-20T15:30:00+07:00"
 deck: "Nhiều người yên tâm rằng máy mình bắt được 4G nên không bị ảnh hưởng bởi ngày tắt sóng 2G. Thực tế không hẳn vậy: trên khá nhiều máy đời cũ, 4G chỉ dùng cho dữ liệu còn cuộc gọi vẫn lặng lẽ rớt về mạng 2G hoặc 3G. Khi 2G ngừng hoạt động từ 15/9/2026, những máy chưa bật VoLTE có thể vào mạng bình thường mà gọi điện lại chập chờn. Bài này hướng dẫn cách kiểm tra, bật VoLTE trên Android và iPhone, kèm cú pháp đăng ký của ba nhà mạng lớn."
 heroImage: "https://i.ytimg.com/vi/wa143by14Cs/maxresdefault.jpg"
+ogImage: "https://techvision.click/uploads/og-article/cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026.jpg"
 heroAlt: "Bat VoLTE tren dien thoai truoc ngay tat song 2G tai Viet Nam"
 heroCaption: "Bật VoLTE là bước miễn phí nhưng quyết định khả năng nghe gọi sau ngày 15/9. Nguồn: YouTube"
 tldr: "Khi mạng 2G ngừng hoạt động từ <strong>15/9/2026</strong>, máy có 4G nhưng chưa bật <strong>VoLTE</strong> vẫn có thể mất khả năng gọi vì cuộc gọi trước đó rớt về mạng cũ. Cú pháp đăng ký: <strong>Viettel</strong> soạn <strong>HDCALL</strong> gửi <strong>191</strong> (miễn phí), <strong>VinaPhone</strong> soạn <strong>WICALL</strong> hoặc <strong>VOLTE</strong> gửi <strong>888</strong> (miễn phí), <strong>MobiFone</strong> soạn <strong>DK VOLTE</strong> gửi <strong>999</strong> (phí <strong>200 đồng</strong>). Trên máy, bật VoLTE trong phần cài đặt mạng di động rồi khởi động lại. Cuộc gọi VoLTE tính cước như cuộc gọi thường."

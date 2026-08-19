@@ -93,7 +93,7 @@ Cụ thể, theo các ước tính được dẫn lại, chi phí RAM trên mộ
 Đây là phần thú vị nhất. Nếu Apple muốn giữ biên lợi nhuận khoảng 47% như iPhone 17 Pro, với chi phí sản xuất mới quanh 726 USD, giá bán hợp lý sẽ rơi vào tầm 1.370 USD. Từ đó, Apple có thể chọn một mức tròn dễ chịu về tâm lý là 1.299 hoặc 1.399 USD. Nói cách khác, mức 1.399 USD không phải con số ngẫu nhiên, mà là kết quả của bài toán chi phí cộng lợi nhuận.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/ppH_lAl1Iag/maxresdefault.jpg" alt="Apple được cho là xác nhận chiến lược giá mới cho iPhone 18 Pro Max" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/9mtqp66rplQ/maxresdefault.jpg" alt="Apple được cho là xác nhận chiến lược giá mới cho iPhone 18 Pro Max" loading="lazy" width="1280" height="720">
   <figcaption>Apple được cho là đang định hình chiến lược giá dài hạn cho dòng Pro Max. Nguồn: YouTube</figcaption>
 </figure>
 
