@@ -12,7 +12,8 @@ trả trụ B2B về chamaiagency, bổ sung chương phân phối mà bản g�
 | Backlink | 4, cả 4 từ chamaiagency (site của chính mình) | Ahrefs 09/08 |
 | GSC tuần 04-10/08 | 8 click, 197 hiển thị, vị trí 14,5 | Search Console |
 | Trang mạnh nhất | hub sale 2/9: 114 hiển thị/tuần, vị trí 8,1 | Search Console |
-| GA4 sạch (lọc nội bộ từ 08/08) | ~10 phiên/ngày | GA4 540969783 |
+| GA4 phiên/ngày, LỌC country=Vietnam | 2-8 phiên/ngày (TB ~4,7) | GA4 540969783 |
+| Nhiễu bot cần biết | chỉ 38% phiên là từ VN; 51% từ Mỹ (bot trung tâm dữ liệu) | đo 14-20/08 |
 | YouTube | 209 sub, 33 video công khai, 75.442 lượt xem Shorts tích lũy | kênh @LongTechVision |
 | Format video thắng/thua | "số + nghịch lý" 1.000+ view; "tin công bố" 17-29 view | bóc 31 Shorts 11/08 |
 | Video dài | 3 video, 8-233 view cả đời | kênh |
@@ -41,7 +42,7 @@ Mọi quyết định trong kế hoạch này xếp sau mệnh đề đó.
 | Bài viết: giữ pipeline nhánh nháp, trần 2 bài/ngày | Ưu tiên refresh bài có impression và làm dày hub hơn là đẻ bài mới | Bài học 704 bài/53 ngày không lặp lại |
 | 1 video dài/THÁNG, dạng thử nghiệm | Chỉ tăng nếu một video vượt 1.000 view | Số hiện tại (8-233 view) chưa cho phép đầu tư hơn |
 | Trả lời bình luận hằng ngày 10 phút | Thay cho livestream/Q&A định kỳ của bản gốc | Nguồn ý tưởng video + tín hiệu thuật toán |
-| Newsletter: KHÔNG gửi tuần từ đầu | Form đăng ký từ M4, gửi THÁNG từ M6, gửi tuần khi vượt 500 sub | 10 phiên/ngày chưa phải lúc làm email |
+| Newsletter: KHÔNG gửi tuần từ đầu | Form đăng ký từ M4, gửi THÁNG từ M6, gửi tuần khi vượt 500 sub | 2-8 phiên/ngày (đã lọc VN) chưa phải lúc làm email |
 
 ## 3. Kế hoạch theo tháng
 
@@ -96,6 +97,11 @@ nguồn traffic ngoài Google từ ~0 lên **30% số phiên**.
   viết đã có gate máy.
 
 ## 6. Hệ đo và luật ra quyết định
+
+**Luật đo GA4 (bắt buộc):** mọi số phiên/người dùng của techvision phải lọc
+`country = Vietnam`. Không lọc thì số bị thổi ~2,6 lần vì bot trung tâm dữ liệu
+Mỹ (Flint Hill, Des Moines) đập vào trang hồ sơ `/`, `/certificates`, `/cv`,
+`/portfolio` - không đọc bài nào. Ngày 16/08 có 39 phiên thì 29 là bot.
 
 | Chu kỳ | Đo gì | Quyết gì |
 |---|---|---|
