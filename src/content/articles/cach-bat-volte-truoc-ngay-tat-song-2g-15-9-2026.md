@@ -1,5 +1,4 @@
 ---
-noindex: true
 slug: "cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026"
 title: "Cách bật VoLTE trước ngày tắt sóng 2G 15/9/2026"
 description: "Máy có 4G vẫn có thể mất khả năng gọi khi 2G tắt. Hướng dẫn kiểm tra và bật VoLTE trên Android, iPhone kèm cú pháp đăng ký Viettel, VinaPhone, MobiFone."

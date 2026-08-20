@@ -1,5 +1,4 @@
 ---
-noindex: true
 slug: "dien-thoai-4g-thay-may-2g-truoc-15-9-2026-gia-tu-400-nghin"
 title: "Điện thoại 4G thay máy 2G: giá từ 400.000 đồng, chọn máy nào"
 description: "Trước ngày tắt sóng 2G 15/9/2026, các mẫu điện thoại phím bấm 4G tại Việt Nam có giá từ 400.000 đồng. So sánh Nokia, Masstel, Mobell, Itel và cách chọn."
