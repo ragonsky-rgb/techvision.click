@@ -5,12 +5,13 @@ description: "Esports Foundation dời kỳ Esports Nations Cup đầu tiên san
 keywords: "Esports Nations Cup hoãn, ENC 2027, tuyển Việt Nam esports, VALORANT Việt Nam, Esports Foundation, ENC Riyadh, esports 2026"
 category: "Gaming"
 type: "tin-tuc"
-datePublished: "2026-08-25T15:30:00+07:00"
-dateModified: "2026-08-25T15:30:00+07:00"
+datePublished: "2026-08-23T08:30:00+07:00"
+dateModified: "2026-08-23T08:30:00+07:00"
 deck: "Ngày 18/8/2026, Esports Foundation thông báo hoãn kỳ Esports Nations Cup đầu tiên từ tháng 11/2026 sang tháng 11/2027, Riyadh vẫn giữ quyền đăng cai. Quyết định đến khi vòng loại ở phần lớn trong số 16 bộ môn đã hoàn tất, trong đó tuyển VALORANT Việt Nam đã giành vé sau chuỗi trận toàn thắng ở khu vực Đông Nam Á và châu Đại Dương."
 heroImage: "https://i.ytimg.com/vi/1RVGvkIyygA/maxresdefault.jpg"
 heroAlt: "Sân khấu thi đấu thể thao điện tử quốc tế, minh họa giải Esports Nations Cup bị hoãn sang năm 2027"
 heroCaption: "Kỳ Esports Nations Cup đầu tiên lùi một năm dù vòng loại gần như đã xong. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.jpg"
 tldr: "Esports Foundation thông báo ngày <strong>18/8/2026</strong> rằng kỳ <strong>Esports Nations Cup</strong> đầu tiên, dự kiến diễn ra từ <strong>2 tới 29/11/2026</strong> tại Riyadh, được dời sang <strong>tháng 11/2027</strong>. Ban tổ chức nêu lý do là tình hình chung của khu vực và kết quả tham vấn với các bên liên quan, đồng thời khẳng định Riyadh vẫn là nơi đăng cai và các cam kết của <strong>ENC Development Fund</strong> giữ nguyên. Giải có quy mô tài chính <strong>45 triệu USD</strong>, gồm 20 triệu tiền thưởng cho tuyển thủ và huấn luyện viên ở <strong>16 bộ môn</strong>. Tuyển <strong>VALORANT Việt Nam</strong> đã giành vé và nay phải chờ thêm một năm."
 tags: ["Esports", "ENC", "TuyenVietNam", "VALORANT"]
 about: ["Esports Nations Cup", "Esports Foundation", "VALORANT", "Liên Minh Huyền Thoại", "Riyadh"]
@@ -39,8 +40,8 @@ faq:
 related:
   - { href: "/articles/100-thieves-vo-dich-valorant-ewc-2026-danh-bai-nrg.html", cat: "Game", title: "100 Thieves vô địch Valorant EWC 2026, hạ NRG 3-1" }
   - { href: "/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html", cat: "Gaming", title: "EWC 2026 LMHT: Dplus KIA vô địch, hạ Karmine Corp 3-0" }
-  - { href: "/articles/apl-2026-viet-nam-3-dai-dien-tu-ket-lien-quan-mobile.html", cat: "Gaming", title: "APL 2026: Việt Nam có 3 đại diện vào tứ kết Liên Quân Mobile, chung kết tại Đà Nẵng" }
 featured: true
+noindex: true
 ---
 
 Giải đấu được kỳ vọng trở thành World Cup của thể thao điện tử vừa lùi lại đúng một năm. Ngày 18/8/2026, Esports Foundation thông báo kỳ Esports Nations Cup đầu tiên, ban đầu diễn ra tại Riyadh từ ngày 2 tới 29/11/2026, được dời sang tháng 11/2027. Quyết định đến vào thời điểm khó xử, khi vòng loại ở phần lớn trong số 16 bộ môn đã hoàn tất và nhiều đội tuyển quốc gia, trong đó có Việt Nam, đã cầm vé trong tay.

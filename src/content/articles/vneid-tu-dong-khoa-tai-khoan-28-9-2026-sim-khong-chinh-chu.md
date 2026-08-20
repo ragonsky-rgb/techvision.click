@@ -5,12 +5,13 @@ description: "Nghị định 320/2026 có hiệu lực 28/9/2026: tài khoản �
 keywords: "VNeID khóa tài khoản 28/9, Nghị định 320/2026, định danh điện tử, số thuê bao chính chủ, kiểm tra SIM chính chủ, VNeID 2026, tích hợp giấy tờ VNeID"
 category: "Internet"
 type: "tin-tuc"
-datePublished: "2026-08-24T15:30:00+07:00"
-dateModified: "2026-08-24T15:30:00+07:00"
+datePublished: "2026-08-22T15:30:00+07:00"
+dateModified: "2026-08-22T15:30:00+07:00"
 deck: "Từ ngày 28/9/2026, hệ thống định danh và xác thực điện tử sẽ tự động khóa tài khoản VNeID nếu số điện thoại dùng để đăng ký đã đổi chủ và không còn chính chủ. Đây là một trong nhiều thay đổi của Nghị định 320/2026, bên cạnh việc mở rộng danh mục giấy tờ tích hợp và yêu cầu liên kết hàng loạt tài khoản giao dịch điện tử với VNeID."
 heroImage: "https://i.ytimg.com/vi/2nPDvlIIs6k/maxresdefault.jpg"
 heroAlt: "Ứng dụng định danh điện tử VNeID trên điện thoại, minh họa quy định khóa tài khoản từ ngày 28/9/2026"
 heroCaption: "Tài khoản định danh điện tử gắn chặt với số thuê bao dùng để đăng ký. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.jpg"
 tldr: "Nghị định <strong>320/2026/NĐ-CP</strong> về định danh và xác thực điện tử có hiệu lực từ <strong>28/9/2026</strong>. Điểm người dùng cần chú ý nhất: hệ thống sẽ <strong>tự động khóa tài khoản định danh điện tử</strong> nếu số thuê bao dùng để đăng ký đã thay đổi và không còn chính chủ. Cùng thời điểm, danh mục giấy tờ được tích hợp trên VNeID mở rộng lên <strong>206 loại</strong>, cơ quan tiếp nhận <strong>không được yêu cầu nộp lại</strong> giấy tờ đã tích hợp, và người dân làm thủ tục hành chính qua VNeID được <strong>miễn, giảm phí và lệ phí</strong>. Ngoài ra có <strong>11 nhóm tài khoản</strong> phải liên kết, xác thực với VNeID trước ngày 31/12/2026."
 tags: ["VNeID", "DinhDanhDienTu", "SIMChinhChu", "NghiDinh320"]
 about: ["VNeID", "Định danh điện tử", "Nghị định 320/2026/NĐ-CP", "Thuê bao di động"]
@@ -38,9 +39,9 @@ faq:
     a: "Đây là yêu cầu bắt buộc liên kết, xác thực các tài khoản giao dịch điện tử trên nền tảng số với tài khoản định danh điện tử quốc gia, áp dụng cho 11 nhóm tài khoản với hạn hoàn thành trước ngày 31/12/2026. Mục tiêu là gắn mỗi tài khoản giao dịch trên môi trường mạng với một danh tính đã được xác thực, qua đó giảm tài khoản ảo và hạn chế lừa đảo trực tuyến."
 related:
   - { href: "/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html", cat: "Smartphone", title: "18 triệu SIM bị khóa từ 15/6: cách xác thực VNeID giữ số" }
-  - { href: "/articles/canh-bao-ma-doc-gia-mao-vneid-2026-cach-phong-tranh.html", cat: "Internet", title: "Cảnh báo mã độc giả VNeID 2026: cách phòng mất tiền" }
   - { href: "/articles/tat-song-2g-15-9-2026-ai-bi-anh-huong-can-lam-gi.html", cat: "Viễn thông", title: "Tắt sóng 2G từ 15/9/2026: ai bị ảnh hưởng, cần làm gì" }
 featured: true
+noindex: true
 ---
 
 Một quy định mới sắp có hiệu lực khiến số điện thoại đang dùng trở thành yếu tố quyết định tài khoản định danh điện tử còn hoạt động hay không. Từ ngày 28/9/2026, theo Nghị định 320/2026/NĐ-CP, hệ thống định danh và xác thực điện tử sẽ tự động khóa tài khoản nếu số thuê bao dùng để đăng ký đã thay đổi và không còn chính chủ. Với hàng chục triệu người đang dùng VNeID cho thủ tục hành chính, đây là mốc cần kiểm tra trước, không nên chờ tới lúc bị khóa mới xử lý.

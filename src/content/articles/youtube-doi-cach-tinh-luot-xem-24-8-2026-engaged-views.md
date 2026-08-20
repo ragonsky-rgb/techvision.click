@@ -5,12 +5,13 @@ description: "Từ 24/8/2026, YouTube tính một view ngay khi video bắt đ�
 keywords: "YouTube đổi cách tính lượt xem, engaged views, lượt xem có tương tác, YouTube 24/8/2026, kiếm tiền YouTube, view YouTube tăng, nhà sáng tạo nội dung"
 category: "Internet"
 type: "tin-tuc"
-datePublished: "2026-08-25T08:30:00+07:00"
-dateModified: "2026-08-25T08:30:00+07:00"
+datePublished: "2026-08-21T08:30:00+07:00"
+dateModified: "2026-08-21T08:30:00+07:00"
 deck: "YouTube bắt đầu áp dụng cách đếm lượt xem mới từ ngày 24/8/2026: một view được ghi nhận ngay khi video bắt đầu phát, thay vì phải đạt ngưỡng thời gian xem như trước. Con số hiển thị công khai của nhiều kênh sẽ tăng mạnh, nhưng phần gắn với doanh thu lại là một chỉ số khác, nay mang tên Lượt xem có tương tác."
 heroImage: "https://i.ytimg.com/vi/1B_J5MJ0Po0/maxresdefault.jpg"
 heroAlt: "Nhà sáng tạo nội dung làm việc với video, minh họa thay đổi cách tính lượt xem của YouTube từ 24/8/2026"
 heroCaption: "Cách đếm view mới đổi ý nghĩa của con số quen thuộc nhất trên YouTube. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.jpg"
 tldr: "Từ ngày <strong>24/8/2026</strong>, YouTube ghi nhận một lượt xem <strong>ngay khi video bắt đầu phát</strong>, bỏ ngưỡng thời gian xem tối thiểu áp dụng trước đây. Cách tính cũ không biến mất mà được đổi tên thành <strong>Lượt xem có tương tác</strong>, tiếng Anh là Engaged views, và đây mới là chỉ số dùng để đánh giá hiệu quả nội dung cũng như các hệ thống liên quan tới kiếm tiền. YouTube giải thích thay đổi nhằm thống nhất cách đo giữa các định dạng, đưa video thường về gần với <strong>Shorts</strong>, vốn đã đếm theo cách này từ tháng 3/2025. Hệ quả thực tế: view hiển thị tăng, doanh thu <strong>không tự động tăng theo</strong>."
 tags: ["YouTube", "NhaSangTao", "EngagedViews", "MangXaHoi"]
 about: ["YouTube", "YouTube Shorts", "Engaged views", "Nhà sáng tạo nội dung"]
@@ -37,10 +38,10 @@ faq:
   - q: "Người làm nội dung tại Việt Nam cần điều chỉnh gì?"
     a: "Việc cần làm ngay là đổi chỉ số tham chiếu khi báo cáo và khi thương lượng hợp đồng quảng cáo. Nếu hợp đồng booking ghi cam kết theo lượt xem, cần nói rõ là tính theo view hiển thị hay theo Lượt xem có tương tác, vì hai con số này sẽ chênh nhau đáng kể sau ngày 24/8. Ngoài ra, khi so sánh hiệu quả video trước và sau mốc này, nên dùng Lượt xem có tương tác để tránh kết luận sai rằng kênh đang tăng trưởng đột biến."
 related:
-  - { href: "/articles/thuong-mai-dien-tu-viet-nam-2026-tiktok-shop-shopee-livestream-luat-moi.html", cat: "Internet", title: "Thương mại điện tử Việt Nam 2026: TikTok Shop bám đuổi Shopee, luật mới từ 1/7" }
-  - { href: "/articles/cach-quay-video-dep-bang-dien-thoai-meo-on-dinh-anh-sang-bo-cuc.html", cat: "Công nghệ", title: "Cách quay video đẹp bằng điện thoại: mẹo ổn định, ánh sáng, bố cục" }
-  - { href: "/articles/ai-tao-video-2026-sora-2-dong-cua-veo-gemini-omni-flash-dan-dat.html", cat: "AI", title: "Cuộc đua AI tạo video 2026: Sora 2 đóng cửa, Veo và Gemini dẫn dắt" }
+  - { href: "/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html", cat: "AI", title: "Gemini đạt 1 tỷ người dùng: Google lật ngược thế cờ" }
+  - { href: "/articles/google-assistant-khai-tu-thay-bang-gemini-android-wear-os-2026.html", cat: "Công nghệ", title: "Google Assistant khai tử từ 4/9: Gemini thay thế ra sao" }
 featured: true
+noindex: true
 ---
 
 Con số quen thuộc nhất trên YouTube vừa đổi ý nghĩa. Từ ngày 24/8/2026, nền tảng này ghi nhận một lượt xem ngay khi video bắt đầu phát, bỏ đi ngưỡng thời gian xem tối thiểu vốn tồn tại nhiều năm. Với người xem, thay đổi gần như vô hình. Với người làm nội dung và các nhãn hàng đang mua quảng cáo theo lượt xem, đây là thay đổi cần đọc kỹ trước khi ký hợp đồng tiếp theo.

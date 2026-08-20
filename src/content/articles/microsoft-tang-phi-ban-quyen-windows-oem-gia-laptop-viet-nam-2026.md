@@ -5,12 +5,13 @@ description: "Microsoft nâng phí bản quyền Windows cho hãng máy tính th
 keywords: "Microsoft tăng phí Windows OEM, giá laptop tăng 2026, bản quyền Windows 11 OEM, laptop giá rẻ Việt Nam, giá PC tăng, khủng hoảng RAM SSD, mua laptop 2026"
 category: "Laptop"
 type: "tin-tuc"
-datePublished: "2026-08-24T08:30:00+07:00"
-dateModified: "2026-08-24T08:30:00+07:00"
+datePublished: "2026-08-22T08:30:00+07:00"
+dateModified: "2026-08-22T08:30:00+07:00"
 deck: "Nhiều nguồn trong ngành cho biết Microsoft đã nâng phí bản quyền Windows dành cho các hãng sản xuất máy tính thêm 7 đến 10% kể từ tháng 7/2026, mức tăng hai chữ số hiếm thấy so với thông lệ vài phần trăm mỗi năm. Khoản này rơi đúng lúc giá RAM và SSD đang leo thang, và tại Việt Nam hệ quả đã thấy rõ: phân khúc laptop dưới 10 triệu đồng gần như không còn hàng mới trên kệ."
 heroImage: "https://i.ytimg.com/vi/5hqhhLH3nZ8/maxresdefault.jpg"
 heroAlt: "Laptop Windows và biểu đồ chi phí linh kiện tăng, minh họa đợt tăng phí bản quyền Windows OEM năm 2026"
 heroCaption: "Chi phí bản quyền hệ điều hành là mắt xích mới nhất đẩy giá máy tính lên. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.jpg"
 tldr: "Theo nhiều nguồn trong ngành, Microsoft đã tăng phí bản quyền Windows cho các hãng lắp máy thêm <strong>7 đến 10%</strong> từ tháng 7/2026, thay vì mức vài phần trăm như thường lệ. Các hãng lớn như Dell, ASUS, HP chịu mức khoảng <strong>7%</strong>, hãng nhỏ có thể tới hai chữ số. Khoản tăng chỉ áp cho máy cài sẵn Windows, <strong>bản quyền bán lẻ không đổi</strong>. Cộng với đà tăng của RAM và SSD, ASUS và Acer dự báo giá máy nguyên chiếc tăng thêm khoảng <strong>5%</strong> trong quý 3. Tại Việt Nam, giá laptop đã tăng <strong>50 đến 80%</strong> so với tháng 11/2025 và nhóm dưới <strong>10 triệu đồng</strong> gần như biến mất khỏi kệ hàng."
 tags: ["Windows", "GiaLaptop", "Microsoft", "ThiTruongPC"]
 about: ["Microsoft", "Windows 11", "Laptop", "DRAM", "NAND flash"]
@@ -38,9 +39,8 @@ faq:
     a: "Nếu cần máy để học tập hoặc làm việc trong vài tháng tới, mua sớm thường hợp lý hơn, vì cả chi phí bộ nhớ lẫn phí bản quyền đều đang đi lên và chưa có tín hiệu đảo chiều rõ ràng. Nếu máy hiện tại còn dùng được, có thể trì hoãn và cân nhắc nâng cấp RAM hoặc SSD cho máy cũ, dù chính hai linh kiện này cũng đã tăng giá mạnh."
 related:
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Công nghệ", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
-  - { href: "/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html", cat: "Công nghệ", title: "Gartner cảnh báo giá máy tính tăng 17%, điện thoại tăng 13% trong 2026: nên mua gì lúc này?" }
-  - { href: "/articles/windows-10-het-ho-tro-nen-len-windows-11-hay-o-lai-2026.html", cat: "Công nghệ", title: "Windows 10 hết hỗ trợ: nên lên Windows 11 hay ở lại?" }
 featured: true
+noindex: true
 ---
 
 Người mua máy tính năm 2026 vừa nhận thêm một tin không vui. Sau chuỗi tăng giá do khủng hoảng chip nhớ, một khoản chi phí khác trong cấu thành giá laptop cũng đang nhích lên: phí bản quyền hệ điều hành. Nhiều nguồn trong ngành cho biết Microsoft đã nâng mức phí Windows dành cho các hãng lắp máy thêm 7 đến 10% kể từ tháng 7/2026, và phần chênh này gần như chắc chắn sẽ được chuyển tiếp vào giá bán tới tay người dùng.

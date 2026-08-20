@@ -67,10 +67,6 @@ Về hình dáng, Google không đi theo kiểu đĩa tròn của AirTag mà là
 
 Nguồn điện là viên pin cúc áo CR2032 quen thuộc, Google công bố thời lượng hơn một năm và người dùng tự thay được. Chi tiết này quan trọng hơn vẻ ngoài: pin CR2032 bán đầy ở Việt Nam với giá vài chục nghìn đồng, nên chi phí duy trì gần như bằng không. Đây cũng là điểm mà cả AirTag lẫn phần lớn thẻ định vị khác đều làm giống nhau, và là lý do nhóm sản phẩm này bền hơn nhiều loại phụ kiện dùng pin sạc.
 
-<figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Eyv2ppAbr9I/hqdefault.jpg" alt="Kich thuoc va thiet ke the chu nhat cua Google Pixel Tag" loading="lazy" width="480" height="360">
-  <figcaption>Pixel Tag là thẻ chữ nhật bo góc, khác kiểu đĩa tròn quen thuộc của AirTag. Ảnh cắt từ video giới thiệu. Nguồn: YouTube</figcaption>
-</figure>
 
 ## UWB và Channel Sounding: dò hướng chứ không chỉ báo gần xa
 

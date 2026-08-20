@@ -78,10 +78,24 @@ async function checkVideo(id, errs, warns) {
   }
   const sz = await jpegSize(`https://i.ytimg.com/vi/${id}/maxresdefault.jpg`);
   if (!sz) warns.push(`video ${id}: khong doc duoc kich thuoc anh maxresdefault`);
-  else if (sz.w < 1280)
-    errs.push(
-      `video ${id}: maxresdefault chi ${sz.w}x${sz.h} (anh bao loi cua YouTube), khong co ban do phan giai that`
-    );
+  else if (sz.w < 1280) {
+    // maxresdefault 120x90 la anh bao loi cua YouTube. Truoc day coi la ERROR,
+    // nhung no gop hai truong hop khac han: video BI GO (oembed da bat o tren),
+    // va video CON SONG nhung upload o do phan giai thap nen YouTube khong sinh
+    // ban 1280. Truong hop sau vo hai voi video chi de NHUNG - trinh phat tu
+    // dung khung hinh, kich thuoc thumbnail khong lo ra man hinh.
+    // Chuan xac minh cua repo la oembed 200 + hqdefault that, nen doi ve WARN
+    // khi hqdefault con song, va chi giu ERROR khi ca hai ban deu hong.
+    const hq = await jpegSize(`https://i.ytimg.com/vi/${id}/hqdefault.jpg`);
+    if (hq && hq.w >= 480)
+      warns.push(
+        `video ${id}: khong co maxresdefault that (${sz.w}x${sz.h}) nhung hqdefault ${hq.w}x${hq.h} con song - dung de nhung thi duoc, KHONG duoc lay thumbnail nay lam anh bai`
+      );
+    else
+      errs.push(
+        `video ${id}: maxresdefault chi ${sz.w}x${sz.h} va hqdefault cung hong - video coi nhu khong dung duoc`
+      );
+  }
 }
 
 async function checkOne(path) {

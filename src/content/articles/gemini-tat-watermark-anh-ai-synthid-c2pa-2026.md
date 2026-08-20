@@ -5,12 +5,13 @@ description: "Google cho phép tắt watermark hiển thị trên ảnh, video v
 keywords: "Gemini tắt watermark, SynthID, Media Watermark Gemini, ảnh AI Nano Banana, C2PA, nhận biết ảnh AI, Google Gemini 2026"
 category: "AI"
 type: "tin-tuc"
-datePublished: "2026-08-26T08:30:00+07:00"
-dateModified: "2026-08-26T08:30:00+07:00"
+datePublished: "2026-08-21T15:30:00+07:00"
+dateModified: "2026-08-21T15:30:00+07:00"
 deck: "Google vừa bổ sung tùy chọn Media Watermark trong phần cài đặt của Gemini, cho phép tắt watermark hiển thị trên ảnh, video và nhạc do AI tạo ra. Điều nhiều người hiểu nhầm là dấu vết AI đã biến mất, trong khi thực tế chỉ phần nhìn thấy được gỡ bỏ, còn dấu chìm SynthID và dữ liệu nguồn gốc C2PA vẫn nằm nguyên trong tệp."
 heroImage: "https://i.ytimg.com/vi/4laYXFoPG1I/maxresdefault.jpg"
 heroAlt: "Công cụ tạo ảnh bằng AI trong ứng dụng Gemini, minh họa tùy chọn tắt watermark hiển thị"
 heroCaption: "Tùy chọn tắt watermark nằm ngay trong phần cài đặt của ứng dụng Gemini. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/gemini-tat-watermark-anh-ai-synthid-c2pa-2026.jpg"
 tldr: "Ngày <strong>14/8/2026</strong>, Google thông báo người dùng có thể tắt <strong>watermark hiển thị</strong> trên ảnh, video và nhạc tạo bằng mô hình của hãng. Tùy chọn mang tên <strong>Media Watermark</strong>, nằm trong phần cài đặt của Gemini với công tắc bật hoặc tắt, áp dụng cho các mô hình <strong>Nano Banana, Omni và Lyria</strong>. Điều quan trọng cần nhớ: Google chỉ gỡ phần nhìn thấy được, còn dấu chìm <strong>SynthID</strong> và dữ liệu <strong>C2PA</strong> vẫn nằm trong tệp, nên vẫn có cách xác định nội dung do AI của Google tạo ra. Tính năng đang được triển khai dần theo tài khoản."
 tags: ["Gemini", "SynthID", "AnhAI", "GoogleAI"]
 about: ["Google Gemini", "SynthID", "C2PA", "Nano Banana", "Lyria"]
@@ -38,9 +39,8 @@ faq:
     a: "Với người làm nội dung, tắt watermark giúp có tệp sạch để dùng cho ảnh bìa, ấn phẩm hoặc video mà không phải cắt xén. Nhưng cần nhớ nội dung vẫn có thể bị nhận diện là do AI tạo ra, nên việc trình bày một hình ảnh AI như ảnh chụp thật vẫn là hành vi gây hiểu nhầm. Ở chiều người xem, việc không còn watermark nghĩa là không nên dựa vào dấu hiệu thị giác để phân biệt thật giả, nhất là với ảnh dùng trong các bài viết kêu gọi chuyển tiền hoặc đầu tư."
 related:
   - { href: "/articles/cach-phuc-che-anh-cu-tao-anh-ai-gemini-nano-banana-2026.html", cat: "AI", title: "Cách phục chế ảnh cũ và tạo ảnh AI bằng Gemini 2026" }
-  - { href: "/articles/ai-tao-video-2026-sora-2-dong-cua-veo-gemini-omni-flash-dan-dat.html", cat: "AI", title: "Cuộc đua AI tạo video 2026: Sora 2 đóng cửa, Veo và Gemini dẫn dắt" }
-  - { href: "/articles/cach-viet-prompt-ai-hieu-qua-chatgpt-gemini-2026.html", cat: "AI", title: "Cách viết prompt AI hiệu quả: công thức cho ChatGPT, Gemini và Claude" }
 featured: true
+noindex: true
 ---
 
 Chi tiết gây khó chịu nhất khi tạo ảnh bằng Gemini lâu nay là cái watermark ở góc tệp. Nó buộc người dùng phải cắt xén hoặc chỉnh sửa thêm nếu muốn dùng ảnh cho ấn phẩm. Ngày 14/8/2026, Google thông báo bỏ ràng buộc đó bằng một công tắc trong phần cài đặt. Nhưng đi kèm là một chi tiết dễ bị đọc lướt qua: thứ bị tắt chỉ là phần nhìn thấy, còn dấu vết nguồn gốc thì vẫn ở nguyên trong tệp.
