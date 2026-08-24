@@ -1,0 +1,94 @@
+# Phat hanh bai hen lich (xem AGENTS.md muc "Hen lich bai viet").
+#
+# Bai hen lich = frontmatter co du `noindex: true` + `scheduled: true` +
+# datePublished o tuong lai. Workflow nay chay moi gio, goi
+# scripts/release-scheduled.mjs de go hai co do khi toi gio, dung lai
+# blog.html rồi commit va push. Vercel deploy theo push; xong thi buoc cuoi
+# doi URL tra 200 truoc khi ping IndexNow, de khong bao Bing mot URL 404.
+#
+# Truoc 25/8/2026 phan script da co nhung file workflow nay chua duoc commit,
+# nen bai hen lich nam im vo thoi han. Day la nua con thieu cua co che do.
+name: Phat hanh bai hen lich
+
+on:
+  schedule:
+    - cron: '5 * * * *'   # phut thu 5 moi gio (UTC)
+  workflow_dispatch:
+
+concurrency:
+  group: release-scheduled
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Go noindex cho bai da toi gio
+        id: release
+        run: |
+          set +e
+          node scripts/release-scheduled.mjs
+          code=$?
+          set -e
+          # Ma thoat 10 = co bai vua phat hanh. 0 = khong co bai nao toi gio.
+          if [ "$code" -eq 10 ]; then
+            echo "released=true" >> "$GITHUB_OUTPUT"
+          elif [ "$code" -eq 0 ]; then
+            echo "released=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "release-scheduled.mjs loi, ma thoat $code"
+            exit "$code"
+          fi
+
+      - name: Dung lai blog.html va index.html
+        if: steps.release.outputs.released == 'true'
+        run: |
+          npm ci
+          node scripts/build-legacy-index.mjs
+          node scripts/build-blog.mjs
+          node scripts/build-llms.mjs
+
+      - name: Commit va push
+        if: steps.release.outputs.released == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A src/content/articles public/blog.html public/index.html src/data/legacy-articles.json public/llms.txt public/chat-index.json
+          git commit -m "phat hanh bai hen lich: ${{ steps.release.outputs.slugs }}"
+          git push origin main
+
+      - name: Doi Vercel deploy xong roi ping IndexNow
+        if: steps.release.outputs.released == 'true'
+        run: |
+          urls=""
+          for slug in $(echo "${{ steps.release.outputs.slugs }}" | tr ',' ' '); do
+            url="https://techvision.click/articles/$slug.html"
+            # Deploy cua Vercel thuong xong trong vai phut. Doi toi 10 phut,
+            # kiem moi 20 giay; het gio thi bo qua URL do chu khong ping bua.
+            for i in $(seq 1 30); do
+              code=$(curl -s -o /dev/null -w '%{http_code}' "$url" || echo 000)
+              if [ "$code" = "200" ]; then
+                urls="$urls $url"
+                echo "OK  $url"
+                break
+              fi
+              sleep 20
+            done
+            [ "$code" = "200" ] || echo "BO QUA (van $code sau 10 phut): $url"
+          done
+          if [ -n "$urls" ]; then
+            node scripts/indexnow.mjs $urls https://techvision.click/blog.html
+          else
+            echo "Khong co URL nao tra 200, khong ping IndexNow."
+          fi

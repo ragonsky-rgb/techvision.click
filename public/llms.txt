@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 219
-- **Cập nhật:** 2026-08-17 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 227
+- **Cập nhật:** 2026-08-25 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,14 @@
 
 ## Bài viết mới nhất
 
+- [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
+- [YouTube đổi cách tính view từ 24/8: số tăng, tiền không tăng](https://techvision.click/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html)
+- [Cách bật VoLTE trước ngày tắt sóng 2G 15/9/2026](https://techvision.click/articles/cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026.html)
+- [Điện thoại 4G thay máy 2G: giá từ 400.000 đồng, chọn máy nào](https://techvision.click/articles/dien-thoai-4g-thay-may-2g-truoc-15-9-2026-gia-tu-400-nghin.html)
+- [LCP 2026 Split 3 Playoffs: lịch thi đấu và cửa Worlds](https://techvision.click/articles/lcp-2026-split-3-playoffs-lich-thi-dau-cua-worlds-gam-mvk.html)
+- [Tắt sóng 2G từ 15/9/2026: ai bị ảnh hưởng, cần làm gì](https://techvision.click/articles/tat-song-2g-15-9-2026-ai-bi-anh-huong-can-lam-gi.html)
+- [HyperOS 4 cập nhật khi nào: danh sách máy Xiaomi, Redmi, POCO](https://techvision.click/articles/hyperos-4-android-17-danh-sach-may-xiaomi-redmi-poco-cap-nhat-2026.html)
+- [Pottel là gì: Vietnam Post thành mạng di động ảo thứ 6](https://techvision.click/articles/pottel-vietnam-post-mang-di-dong-ao-thu-6-sim-du-lich-2026.html)
 - [Gemini đạt 1 tỷ người dùng: Google lật ngược thế cờ ra sao](https://techvision.click/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html)
 - [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
 - [Pixel 11 Pro Fold hay Z Fold 8: mua máy gập nào tại Việt Nam](https://techvision.click/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html)
@@ -37,17 +45,10 @@
 - [POCO M8 Power pin 8000mAh ra mắt, giá dự kiến về Việt Nam](https://techvision.click/articles/poco-m8-power-5g-pin-8000mah-ra-mat-gia-du-kien-viet-nam-2026.html)
 - [ChatGPT bỏ giới hạn tin nhắn cho gói miễn phí từ tuần 10/8](https://techvision.click/articles/chatgpt-bo-gioi-han-tin-nhan-goi-free-go-gpt-5-6-luna-2026.html)
 - [gamescom 2026: lịch, cách xem tại VN và game đáng chờ](https://techvision.click/articles/gamescom-2026-lich-cach-xem-viet-nam-game-dang-cho.html)
-- [Vivo V80 sắp ra mắt: pin 7200mAh, camera tele, giá dự kiến](https://techvision.click/articles/vivo-v80-ra-mat-pin-7200mah-camera-tele-gia-du-kien-2026.html)
-- [ASUS ROG RTX 5070, 5060 mở đặt trước Việt Nam: giá](https://techvision.click/articles/asus-rog-rtx-5070-5060-laptop-gaming-mo-dat-truoc-viet-nam-2026.html)
-- [TSW giành vé Worlds 2026 đầu tiên thế giới, LMHT Việt Nam](https://techvision.click/articles/tsw-gianh-ve-worlds-2026-dai-dien-lmht-viet-nam-dau-tien-lcp-split-3.html)
-- [Vì sao Apple gỡ Telegram khỏi App Store toàn cầu 2026](https://techvision.click/articles/apple-go-telegram-app-store-toan-cau-csam-2026.html)
-- [iQOO Z11: pin 9020mAh kỷ lục, chip Dimensity 7500 Turbo](https://techvision.click/articles/iqoo-z11-pin-9020mah-silicon-carbon-dimensity-7500-turbo-2026.html)
-- [LCP 2026 Split 3: thể thức Thụy Sĩ và cửa GAM Esports](https://techvision.click/articles/lcp-2026-split-3-swiss-stage-lich-the-thuc-gam-esports.html)
-- [Lê Viết Quốc rời Google lập startup AI Discovery Loop](https://techvision.click/articles/le-viet-quoc-roi-google-lap-startup-ai-discovery-loop-2026.html)
-- [Vivo G5i, G5z: pin 7200mAh, chuẩn IP69, giá tham khảo](https://techvision.click/articles/vivo-g5i-g5z-ra-mat-pin-7200mah-ip69-gia-tham-khao-2026.html)
 
-## Smartphone (61 bài)
+## Smartphone (62 bài)
 
+- [HyperOS 4 cập nhật khi nào: danh sách máy Xiaomi, Redmi, POCO](https://techvision.click/articles/hyperos-4-android-17-danh-sach-may-xiaomi-redmi-poco-cap-nhat-2026.html)
 - [Pixel 11 Pro Fold hay Z Fold 8: mua máy gập nào tại Việt Nam](https://techvision.click/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html)
 - [Pixel 11 giá bao nhiêu, bao giờ về Việt Nam](https://techvision.click/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html)
 - [Vivo S2 trở lại sau 7 năm: pin 7.050mAh, màn cong 1.5K](https://techvision.click/articles/vivo-s2-pin-7050mah-man-cong-15k-dimensity-7360-turbo-2026.html)
@@ -241,8 +242,9 @@
 - [WWDC 2026 (8/6): Siri mới chạy Google Gemini, preview iOS 27](https://techvision.click/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html)
 - [iPhone sẽ tự khóa khi bị giật khỏi tay: tính năng mới](https://techvision.click/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html)
 
-## Gaming (8 bài)
+## Gaming (9 bài)
 
+- [LCP 2026 Split 3 Playoffs: lịch thi đấu và cửa Worlds](https://techvision.click/articles/lcp-2026-split-3-playoffs-lich-thi-dau-cua-worlds-gam-mvk.html)
 - [Free Fire EWC 2026: LYON vô địch, lập kỷ lục hạ gục](https://techvision.click/articles/free-fire-ewc-2026-lyon-vo-dich-ky-luc-ha-guc.html)
 - [EWC 2026 LMHT: Dplus KIA vô địch, hạ Karmine Corp 3-0](https://techvision.click/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html)
 - [EWC 2026 LMHT: chung kết Karmine Corp gặp Dplus KIA](https://techvision.click/articles/ewc-2026-lmht-chung-ket-karmine-corp-dplus-kia.html)
@@ -251,6 +253,17 @@
 - [MSI 2026 chung kết tổng BLG vs HLE: HLE vô địch 3-2](https://techvision.click/articles/msi-2026-chung-ket-tong-blg-hle-doi-dau-vuong-mien.html)
 - [Pulsar PCMK3 HE về Việt Nam: bàn phím Hall Effect 8K](https://techvision.click/articles/pulsar-pcmk3-he-ban-phim-hall-effect-viet-nam-2026.html)
 - [Sony khai tử đĩa vật lý PlayStation từ năm 2028](https://techvision.click/articles/sony-khai-tu-dia-vat-ly-playstation-tu-2028.html)
+
+## Internet (8 bài)
+
+- [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
+- [YouTube đổi cách tính view từ 24/8: số tăng, tiền không tăng](https://techvision.click/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html)
+- [Google reCAPTCHA cử chỉ tay: quét bàn tay chống bot AI](https://techvision.click/articles/google-recaptcha-cu-chi-tay-quet-ban-tay-chong-bot-ai-2026.html)
+- [VssID giả mạo chứa mã độc: cách nhận biết và phòng tránh 2026](https://techvision.click/articles/canh-bao-vssid-gia-mao-ma-doc-chiem-quyen-dien-thoai-2026.html)
+- [Điện thoại Android nhiễm mã độc: 7 dấu hiệu và cách xử lý 2026](https://techvision.click/articles/dien-thoai-android-nhiem-ma-doc-dau-hieu-cach-xu-ly-2026.html)
+- [Google gắn nhãn quảng cáo tạo bằng AI: cách xem nguồn gốc](https://techvision.click/articles/google-gan-nhan-quang-cao-ai-how-this-ad-was-made-2026.html)
+- [VNeID 2026 thêm tiện ích: phản ánh lừa đảo, lý lịch tư pháp](https://techvision.click/articles/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.html)
+- [Starlink Việt Nam mở bán: giá cước từ 1,13 triệu/tháng](https://techvision.click/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html)
 
 ## Wearable (7 bài)
 
@@ -262,14 +275,13 @@
 - [Samsung Galaxy Glasses: kính AI Gemini ra mắt 22/7, chưa có giá](https://techvision.click/articles/samsung-galaxy-glasses-july-2026.html)
 - [Xiaomi Band 10 Pro: AMOLED cong, pin 21 ngày](https://techvision.click/articles/xiaomi-band-10-pro.html)
 
-## Internet (6 bài)
+## Viễn thông (5 bài)
 
-- [Google reCAPTCHA cử chỉ tay: quét bàn tay chống bot AI](https://techvision.click/articles/google-recaptcha-cu-chi-tay-quet-ban-tay-chong-bot-ai-2026.html)
-- [VssID giả mạo chứa mã độc: cách nhận biết và phòng tránh 2026](https://techvision.click/articles/canh-bao-vssid-gia-mao-ma-doc-chiem-quyen-dien-thoai-2026.html)
-- [Điện thoại Android nhiễm mã độc: 7 dấu hiệu và cách xử lý 2026](https://techvision.click/articles/dien-thoai-android-nhiem-ma-doc-dau-hieu-cach-xu-ly-2026.html)
-- [Google gắn nhãn quảng cáo tạo bằng AI: cách xem nguồn gốc](https://techvision.click/articles/google-gan-nhan-quang-cao-ai-how-this-ad-was-made-2026.html)
-- [VNeID 2026 thêm tiện ích: phản ánh lừa đảo, lý lịch tư pháp](https://techvision.click/articles/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.html)
-- [Starlink Việt Nam mở bán: giá cước từ 1,13 triệu/tháng](https://techvision.click/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html)
+- [Cách bật VoLTE trước ngày tắt sóng 2G 15/9/2026](https://techvision.click/articles/cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026.html)
+- [Tắt sóng 2G từ 15/9/2026: ai bị ảnh hưởng, cần làm gì](https://techvision.click/articles/tat-song-2g-15-9-2026-ai-bi-anh-huong-can-lam-gi.html)
+- [Pottel là gì: Vietnam Post thành mạng di động ảo thứ 6](https://techvision.click/articles/pottel-vietnam-post-mang-di-dong-ao-thu-6-sim-du-lich-2026.html)
+- [13 triệu SIM khóa 2 chiều từ 15/8: cách xác thực ngay](https://techvision.click/articles/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.html)
+- [Viettel trúng đấu giá đầu số 095 với 252,5 tỷ đồng](https://techvision.click/articles/viettel-trung-dau-gia-dau-so-095-2525-ty-dong-2026.html)
 
 ## Audio (3 bài)
 
@@ -287,11 +299,6 @@
 - [100 Thieves vô địch Valorant EWC 2026, hạ NRG 3-1](https://techvision.click/articles/100-thieves-vo-dich-valorant-ewc-2026-danh-bai-nrg.html)
 - [MenaRD vô địch EVO 2026 Street Fighter 6, kỷ lục 4 lần](https://techvision.click/articles/menard-vo-dich-evo-2026-street-fighter-6-ky-luc-4-lan.html)
 
-## Viễn thông (2 bài)
-
-- [13 triệu SIM khóa 2 chiều từ 15/8: cách xác thực ngay](https://techvision.click/articles/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.html)
-- [Viettel trúng đấu giá đầu số 095 với 252,5 tỷ đồng](https://techvision.click/articles/viettel-trung-dau-gia-dau-so-095-2525-ty-dong-2026.html)
-
 ## Android (2 bài)
 
 - [Samsung One UI 8.5: Máy nào được cập nhật, One UI 9.0 ra khi nào?](https://techvision.click/articles/samsung-one-ui-85-thiet-bi-duoc-cap-nhat-one-ui-90-khi-nao.html)
@@ -301,6 +308,10 @@
 
 - [iOS 27: Camera tùy biến, AI Extend, Enhance, Reframe](https://techvision.click/articles/ios-27-camera-app-moi-photos-ai-extend-enhance-reframe.html)
 - [iOS 27 Leak: Siri 2.0, Camera mới, AI bên thứ ba trước WWDC 2026](https://techvision.click/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html)
+
+## Điện thoại (1 bài)
+
+- [Điện thoại 4G thay máy 2G: giá từ 400.000 đồng, chọn máy nào](https://techvision.click/articles/dien-thoai-4g-thay-may-2g-truoc-15-9-2026-gia-tu-400-nghin.html)
 
 ## Âm thanh (1 bài)
 
