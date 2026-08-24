@@ -6,7 +6,7 @@ keywords: "săn sale 2/9, sale công nghệ 2/9 2026, sale Quốc khánh, Shopee
 category: "Công nghệ"
 type: "cam-nang"
 datePublished: "2026-08-04T23:30:00+07:00"
-dateModified: "2026-08-10T21:00:00+07:00"
+dateModified: "2026-08-24T11:40:00+07:00"
 deck: "Lễ Quốc khánh 2/9 và đại tiệc Shopee 9.9 ngay sau đó tạo thành hai tuần sale dày đặc nhất nửa cuối năm cho đồ công nghệ. Bài viết tổng hợp lịch khuyến mãi, mẹo canh giá để không mua hớ và danh sách những món đáng săn nhất theo từng ngân sách, từ điện thoại flagship tới tai nghe, sạc dự phòng."
 heroImage: "https://i.ytimg.com/vi/FUS1QLKLOZ0/maxresdefault.jpg"
 heroAlt: "Meo san sale cong nghe dip le Quoc khanh 2 9 va Shopee 9 9 nam 2026"
@@ -52,7 +52,7 @@ featured: false
 Lễ Quốc khánh 2/9 năm nay rơi vào giữa tuần, và như mọi năm, các chuỗi bán lẻ lớn tại Việt Nam sẽ chạy sale lễ kéo dài 3 tới 5 ngày, ngay trước khi Shopee bước vào đại tiệc 9.9 Ngày Siêu Mua Sắm. Hai đợt giảm giá liền nhau tạo thành khoảng hai tuần vàng để sắm đồ công nghệ, đặc biệt khi nhiều mẫu flagship 2024-2025 đang ở vùng giá thấp nhất từ khi mở bán. Bài viết này tổng hợp lịch sale, mẹo canh giá để không mua hớ, và danh sách những món đáng săn nhất theo từng ngân sách. Lưu ý minh bạch: các link mua hàng trong bài là link affiliate trỏ tới trang tìm kiếm gian hàng chính hãng trên Shopee Mall, bạn mua qua link là ủng hộ TechVision mà giá không đổi.
 
 <div class="art-callout">
-  🗓️ <strong>Cập nhật 10/8/2026:</strong> chưa chuỗi bán lẻ lớn nào công bố lịch khuyến mãi 2/9/2026 chính thức. Các mốc ngày trong bảng dưới là quy luật rút ra từ những năm trước, không phải lịch đã công bố. Bài sẽ được cập nhật ngay khi có thông báo từ các chuỗi và từ sàn.
+  🗓️ <strong>Cập nhật 24/8/2026:</strong> còn 9 ngày tới lễ nhưng vẫn chưa chuỗi bán lẻ lớn nào công bố lịch khuyến mãi 2/9/2026 chính thức. Kiểm lại ngày 24/8 trên trang khuyến mãi của CellphoneS, FPT Shop và Thế Giới Di Động đều chưa thấy chương trình riêng cho dịp này. Các mốc ngày trong bảng dưới là quy luật rút ra từ những năm trước, không phải lịch đã công bố. Theo nếp các năm trước, chương trình thường được công bố trong khoảng 3 tới 5 ngày trước lễ, nên mốc đáng theo dõi là từ 28/8. Bài sẽ được cập nhật ngay khi có thông báo từ các chuỗi và từ sàn.
 </div>
 
 <div class="spec-box">
