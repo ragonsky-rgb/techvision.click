@@ -71,6 +71,13 @@ const articles = defineCollection({
     // Gỡ khỏi index Google: meta robots noindex + loại khỏi sitemap/RSS.
     // Trang vẫn sống, vẫn đọc được, vẫn nhận traffic trực tiếp và từ AI.
     noindex: z.boolean().default(false),
+
+    // Bài hẹn lịch: đặt kèm noindex: true và datePublished ở tương lai.
+    // scripts/release-scheduled.mjs (chạy tự động bằng GitHub Action) sẽ gỡ cả
+    // hai cờ khi tới giờ. Cờ này BẮT BUỘC để phân biệt bài hẹn lịch với hơn
+    // 500 bài noindex vĩnh viễn từ đợt dọn scaled content - thiếu nó thì
+    // script sẽ bung nhầm toàn bộ số bài đó ra.
+    scheduled: z.boolean().default(false),
   }),
 });
 

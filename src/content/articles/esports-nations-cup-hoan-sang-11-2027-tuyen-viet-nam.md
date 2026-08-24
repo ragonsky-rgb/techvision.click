@@ -42,6 +42,7 @@ related:
   - { href: "/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html", cat: "Gaming", title: "EWC 2026 LMHT: Dplus KIA vô địch, hạ Karmine Corp 3-0" }
 featured: true
 noindex: true
+scheduled: true
 ---
 
 Giải đấu được kỳ vọng trở thành World Cup của thể thao điện tử vừa lùi lại đúng một năm. Ngày 18/8/2026, Esports Foundation thông báo kỳ Esports Nations Cup đầu tiên, ban đầu diễn ra tại Riyadh từ ngày 2 tới 29/11/2026, được dời sang tháng 11/2027. Quyết định đến vào thời điểm khó xử, khi vòng loại ở phần lớn trong số 16 bộ môn đã hoàn tất và nhiều đội tuyển quốc gia, trong đó có Việt Nam, đã cầm vé trong tay.

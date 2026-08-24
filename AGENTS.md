@@ -192,3 +192,33 @@ Với mỗi bài: cập nhật giá/sản phẩm còn bán, đổi "tháng X" tr
 - Chiến lược nội dung: `docs/chien-luoc-noi-dung-2026.md`
 - Lộ trình SEO/GEO: `docs/lo-trinh-seo-geo.md`
 - Spec HTML đầy đủ + GEO: `skills/website-content-writer/` (nếu dùng kit gốc)
+
+## Hẹn lịch bài viết (tự động, không cần mở phiên chat)
+
+Từ 24/08/2026 việc gỡ `noindex` cho bài tới giờ do GitHub Action làm, không
+còn làm tay trong phiên chat nữa (trước đó bài 21-23/8 nằm im quá hạn vì
+không ai mở phiên).
+
+Muốn hẹn một bài, khai đủ **ba** thứ trong frontmatter:
+
+```yaml
+datePublished: "2026-09-02T08:30:00+07:00"   # giờ muốn đăng
+noindex: true                                 # ẩn khỏi blog.html + sitemap
+scheduled: true                               # BẮT BUỘC, xem lý do bên dưới
+```
+
+`scheduled: true` là cờ phân biệt. Repo đang có hơn 500 bài `noindex` vĩnh
+viễn từ đợt dọn scaled content, đa số ngày đăng ở quá khứ. Thiếu cờ này thì
+script sẽ hiểu nhầm cả 500 bài đó là "bài hẹn lịch đã quá hạn" và bung hết ra.
+
+Cơ chế: `.github/workflows/release-scheduled.yml` chạy mỗi giờ, gọi
+`scripts/release-scheduled.mjs`. Tới giờ thì script gỡ cả hai cờ, chạy lại
+`build-blog.mjs`, commit và push. Vercel deploy theo push, xong thì Action đợi
+URL trả 200 rồi mới ping IndexNow đúng các URL vừa lên.
+
+Script chỉ kiểm cấu trúc tối thiểu, **không** chạy lại gate mạng. Gate đầy đủ
+(`check-new-article.mjs` + `check-media.mjs`) phải chạy **lúc viết bài**, trước
+khi hẹn lịch - đừng hẹn một bài chưa qua gate.
+
+Chạy thử tại máy: `node scripts/release-scheduled.mjs --dry` (chỉ in, không sửa).
+Chạy tay trên web: tab Actions → "Phat hanh bai hen lich" → Run workflow.
