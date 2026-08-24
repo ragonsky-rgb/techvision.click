@@ -9,9 +9,10 @@ type: "tin-tuc"
 datePublished: "2026-07-06T00:00:00+07:00"
 dateModified: "2026-07-06T00:00:00+07:00"
 deck: "Alienware vừa công bố AW3926QW tại Computex 2026, màn hình gaming cong 39 inch độ phân giải 5K2K đầu tiên trên thế giới sử dụng tấm nền OLED RGB Tandem không điểm ảnh trắng, tần số quét lên tới 330Hz, giá khởi điểm chỉ 1.099 USD."
-heroImage: "https://i.ytimg.com/vi/2IALeE1RGXY/maxresdefault.jpg"
+heroImage: "https://techvision.click/uploads/og-article/alienware-aw3926qw-man-hinh-oled-5k-39-inch-2026.jpg"
+ogImage: "https://techvision.click/uploads/og-article/alienware-aw3926qw-man-hinh-oled-5k-39-inch-2026.jpg"
 heroAlt: "Alienware AW3926QW man hinh OLED 5K 39 inch 2026"
-heroCaption: "Alienware AW3926QW là màn hình gaming OLED 5K 39 inch cong đầu tiên trên thế giới. Nguồn: YouTube"
+heroCaption: "Alienware AW3926QW là màn hình gaming OLED 5K 39 inch cong đầu tiên trên thế giới. Thẻ đồ họa: TechVision"
 tldr: "Alienware vừa công bố <strong>AW3926QW</strong> tại Computex 2026, màn hình gaming cong <strong>1500R</strong> kích thước <strong>39 inch</strong>, độ phân giải <strong>5K2K (5120x2160)</strong>, sử dụng tấm nền OLED <strong>RGB Tandem</strong> không điểm ảnh trắng đầu tiên trên thế giới ở kích thước này. Màn hình đạt tần số quét gốc <strong>165Hz</strong>, có thể lên tới <strong>330Hz</strong> ở chế độ tăng tốc, độ sáng đỉnh <strong>1.300 nit</strong>, cổng kết nối DisplayPort 2.1, HDMI 2.1 và USB-C 90W. Giá khởi điểm chỉ <strong>1.099 USD</strong>, mở bán tại châu Á từ cuối tháng 6/2026, thị trường Bắc Mỹ và châu Âu vào mùa thu 2026."
 tags: ["Alienware", "AW3926QW", "ManHinhGaming", "TinTuc"]
 about: ["Alienware AW3926QW", "màn hình OLED RGB Tandem"]

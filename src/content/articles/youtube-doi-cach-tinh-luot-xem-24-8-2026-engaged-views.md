@@ -5,8 +5,8 @@ description: "Từ 24/8/2026, YouTube tính một view ngay khi video bắt đ�
 keywords: "YouTube đổi cách tính lượt xem, engaged views, lượt xem có tương tác, YouTube 24/8/2026, kiếm tiền YouTube, view YouTube tăng, nhà sáng tạo nội dung"
 category: "Internet"
 type: "tin-tuc"
-datePublished: "2026-08-21T08:30:00+07:00"
-dateModified: "2026-08-21T08:30:00+07:00"
+datePublished: "2026-08-24T09:00:00+07:00"
+dateModified: "2026-08-24T09:00:00+07:00"
 deck: "YouTube bắt đầu áp dụng cách đếm lượt xem mới từ ngày 24/8/2026: một view được ghi nhận ngay khi video bắt đầu phát, thay vì phải đạt ngưỡng thời gian xem như trước. Con số hiển thị công khai của nhiều kênh sẽ tăng mạnh, nhưng phần gắn với doanh thu lại là một chỉ số khác, nay mang tên Lượt xem có tương tác."
 heroImage: "https://i.ytimg.com/vi/1B_J5MJ0Po0/maxresdefault.jpg"
 heroAlt: "Nhà sáng tạo nội dung làm việc với video, minh họa thay đổi cách tính lượt xem của YouTube từ 24/8/2026"
@@ -41,7 +41,6 @@ related:
   - { href: "/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html", cat: "AI", title: "Gemini đạt 1 tỷ người dùng: Google lật ngược thế cờ" }
   - { href: "/articles/google-assistant-khai-tu-thay-bang-gemini-android-wear-os-2026.html", cat: "Công nghệ", title: "Google Assistant khai tử từ 4/9: Gemini thay thế ra sao" }
 featured: true
-noindex: true
 ---
 
 Con số quen thuộc nhất trên YouTube vừa đổi ý nghĩa. Từ ngày 24/8/2026, nền tảng này ghi nhận một lượt xem ngay khi video bắt đầu phát, bỏ đi ngưỡng thời gian xem tối thiểu vốn tồn tại nhiều năm. Với người xem, thay đổi gần như vô hình. Với người làm nội dung và các nhãn hàng đang mua quảng cáo theo lượt xem, đây là thay đổi cần đọc kỹ trước khi ký hợp đồng tiếp theo.
