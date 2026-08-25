@@ -33,26 +33,26 @@ Cảnh nào đưa số so sánh hiệu năng phải kèm dòng nhỏ "Số liệ
 - Không nói M6 mạnh hơn M5 Ultra. Hai con chip khác hạng, M6 là bản thường.
 - Không nói bộ nhớ 512GB mua được ngay. Apple ghi rõ **cuối tháng 10**.
 
-## Kịch bản đọc (bản cho AI TTS đọc, số phiên âm thành chữ)
+## Kịch bản đọc (anh Long tự đọc, số giữ nguyên dạng số)
+
+Khối copy trơn để dán thẳng vào teleprompter:
 
 ```
-Apple vừa ra chip mới. Và bản rẻ nhất ở Việt Nam giá gần hai mươi lăm triệu.
+Apple vừa ra chip mới. Và bản rẻ nhất ở Việt Nam giá gần 25 triệu.
 
-Hôm nay, hai mươi lăm tháng tám, Apple công bố cùng lúc hai con chip. Em sáu là chip hai nanomet đầu tiên của hãng. Em năm Ultra là lần đầu Apple ghép bốn đế silicon vào chung một con chip.
+Hôm nay, 25 tháng 8, Apple công bố cùng lúc hai con chip. M6 là chip 2nm đầu tiên của hãng. M5 Ultra là lần đầu Apple ghép 4 đế silicon vào chung một con chip.
 
-Em sáu nằm trong Mac mini mới, giá ở Việt Nam từ hai mươi bốn triệu chín trăm chín mươi chín nghìn. Em năm Ultra nằm trong Mac Studio, từ một trăm năm mươi chín triệu chín trăm chín mươi chín nghìn.
+M6 nằm trong Mac mini mới, giá ở Việt Nam từ 24.999.000đ. M5 Ultra nằm trong Mac Studio, từ 159.999.000đ.
 
-Nhưng có hai chi tiết đáng để ý hơn cả giá. Em sáu chỉ hỗ trợ tối đa ba mươi hai ghi bộ nhớ. Và tùy chọn năm trăm mười hai ghi của Em năm Ultra bị dời tới cuối tháng mười.
+Nhưng có hai chi tiết đáng để ý hơn cả giá. M6 chỉ hỗ trợ tối đa 32GB bộ nhớ. Và tùy chọn 512GB của M5 Ultra bị dời tới cuối tháng 10.
 
-Cả hai đều chỉ về cùng một chuyện: chip nhớ vẫn đang khan. Chính Apple đã tăng giá Mac tại Việt Nam mười lăm tới hai mươi phần trăm hồi tháng sáu, cũng vì lý do đó.
+Cả hai đều chỉ về cùng một chuyện: chip nhớ vẫn đang khan. Chính Apple đã tăng giá Mac tại Việt Nam 15 tới 20% hồi tháng 6, cũng vì lý do đó.
 
-Còn bây giờ thì máy chưa có hàng. Mới chỉ cho đăng ký theo dõi, và mỗi người mua tối đa hai máy.
+Còn bây giờ thì máy chưa có hàng. Mới chỉ cho đăng ký theo dõi, và mỗi người mua tối đa 2 máy.
 ```
 
-Nếu **anh Long tự đọc** thay vì dùng TTS thì giữ số ở dạng số: `2nm`, `32GB`, `512GB`,
-`24.999.000đ`, `159.999.000đ`, `15 tới 20%`, và đọc "M6" là "em sáu", "ngày 25 tháng 8".
-
-Đọc thử bấm giờ: mục tiêu **55 tới 62 giây**. Quá 65 giây thì bỏ nguyên câu về đợt tăng giá tháng 6.
+Xưng hô với người xem là **anh chị**. Đọc thử bấm giờ: mục tiêu **55 tới 62 giây**.
+Quá 65 giây thì bỏ nguyên câu về đợt tăng giá tháng 6, đừng cắt các số khác.
 
 ## Gói cảnh (dọc 9:16, ảnh chính hãng Apple)
 
