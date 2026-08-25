@@ -40,8 +40,6 @@ faq:
 related:
   - { href: "/articles/cach-phuc-che-anh-cu-tao-anh-ai-gemini-nano-banana-2026.html", cat: "AI", title: "Cách phục chế ảnh cũ và tạo ảnh AI bằng Gemini 2026" }
 featured: true
-noindex: true
-scheduled: true
 ---
 
 Chi tiết gây khó chịu nhất khi tạo ảnh bằng Gemini lâu nay là cái watermark ở góc tệp. Nó buộc người dùng phải cắt xén hoặc chỉnh sửa thêm nếu muốn dùng ảnh cho ấn phẩm. Ngày 14/8/2026, Google thông báo bỏ ràng buộc đó bằng một công tắc trong phần cài đặt. Nhưng đi kèm là một chi tiết dễ bị đọc lướt qua: thứ bị tắt chỉ là phần nhìn thấy, còn dấu vết nguồn gốc thì vẫn ở nguyên trong tệp.

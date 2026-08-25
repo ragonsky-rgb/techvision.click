@@ -10,7 +10,7 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 227
+- **Số bài viết:** 228
 - **Cập nhật:** 2026-08-25 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Gemini cho tắt watermark ảnh AI, SynthID vẫn nằm trong file](https://techvision.click/articles/gemini-tat-watermark-anh-ai-synthid-c2pa-2026.html)
 - [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
 - [YouTube đổi cách tính view từ 24/8: số tăng, tiền không tăng](https://techvision.click/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html)
 - [Cách bật VoLTE trước ngày tắt sóng 2G 15/9/2026](https://techvision.click/articles/cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026.html)
@@ -44,7 +45,6 @@
 - [Google Assistant khai tử từ 4/9: Gemini thay thế ra sao](https://techvision.click/articles/google-assistant-khai-tu-thay-bang-gemini-android-wear-os-2026.html)
 - [POCO M8 Power pin 8000mAh ra mắt, giá dự kiến về Việt Nam](https://techvision.click/articles/poco-m8-power-5g-pin-8000mah-ra-mat-gia-du-kien-viet-nam-2026.html)
 - [ChatGPT bỏ giới hạn tin nhắn cho gói miễn phí từ tuần 10/8](https://techvision.click/articles/chatgpt-bo-gioi-han-tin-nhan-goi-free-go-gpt-5-6-luna-2026.html)
-- [gamescom 2026: lịch, cách xem tại VN và game đáng chờ](https://techvision.click/articles/gamescom-2026-lich-cach-xem-viet-nam-game-dang-cho.html)
 
 ## Smartphone (62 bài)
 
@@ -111,8 +111,9 @@
 - [iOS 27 mở cho AI agents bên thứ 3 - bước ngoặt Apple](https://techvision.click/articles/apple-ios-27-third-party-ai-agents.html)
 - [Smartphone tháng 5/2026: Vivo X300 Ultra, OnePlus CE6, Oppo X9](https://techvision.click/articles/may-2026-smartphone-launches.html)
 
-## AI (46 bài)
+## AI (47 bài)
 
+- [Gemini cho tắt watermark ảnh AI, SynthID vẫn nằm trong file](https://techvision.click/articles/gemini-tat-watermark-anh-ai-synthid-c2pa-2026.html)
 - [Gemini đạt 1 tỷ người dùng: Google lật ngược thế cờ ra sao](https://techvision.click/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html)
 - [ChatGPT bỏ giới hạn tin nhắn cho gói miễn phí từ tuần 10/8](https://techvision.click/articles/chatgpt-bo-gioi-han-tin-nhan-goi-free-go-gpt-5-6-luna-2026.html)
 - [Lê Viết Quốc rời Google lập startup AI Discovery Loop](https://techvision.click/articles/le-viet-quoc-roi-google-lap-startup-ai-discovery-loop-2026.html)
