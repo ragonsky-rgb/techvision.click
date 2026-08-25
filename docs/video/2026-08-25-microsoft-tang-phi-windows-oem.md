@@ -253,3 +253,114 @@ Ken Burns 1,00 <-> 1,07 xen kẽ phóng to / thu nhỏ từng cảnh, fade 4 fra
 1. Chip "Microsoft chưa xác nhận" ban đầu dính nhầm vào cả thẻ 50-80% và 5% do Remotion trộn `defaultProps`. Đã sửa: hai số đó là của Dân Trí và của ASUS/Acer, không liên quan tới việc Microsoft xác nhận hay chưa.
 2. Không khung hình nào nói hay ám chỉ giá laptop VN tăng 50-80% là do phí Windows.
 3. Không khung hình nào ám chỉ bản quyền bán lẻ tăng giá; cảnh s06 chiếu thẳng giá niêm yết 139 USD không đổi.
+
+---
+
+# Gói đăng theo từng nền tảng
+
+Link bài kèm UTM (đổi `utm_source` theo nền tảng):
+`https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html?utm_source=<youtube|facebook|tiktok>&utm_medium=video&utm_campaign=windows-oem-gia-laptop`
+
+**Ràng buộc bắt buộc giữ ở cả 3 nền tảng:** mô tả phải nói rõ con số 7-10% là **theo nguồn
+trong ngành, Microsoft chưa xác nhận công khai**. Không được viết như thể Microsoft đã thông
+báo. Không được viết giá laptop Việt Nam tăng 50-80% **vì** phí Windows. Không được viết bản
+quyền Windows bán lẻ tăng giá.
+
+## YouTube Shorts
+
+**Tiêu đề:** Laptop dưới 10 triệu biến mất, giờ có thêm khoản phí nữa
+
+**Mô tả:**
+```
+Giá laptop tăng, ai cũng nghĩ do RAM. Đúng, nhưng chưa đủ.
+
+Theo nguồn trong ngành, Microsoft đã nâng phí bản quyền Windows thu của các hãng lắp máy thêm
+7 đến 10% từ tháng 7/2026, thay vì mức vài phần trăm như thông lệ hằng năm. Dell, ASUS và HP
+được cho là chịu khoảng 7%, các hãng nhỏ có thể chạm hai chữ số. Microsoft chưa xác nhận công
+khai con số này.
+
+Một điểm hay bị hiểu nhầm: khoản tăng chỉ áp cho máy cài sẵn Windows bán nguyên chiếc. Anh chị
+tự lắp máy rồi mua khóa Windows lẻ thì giá không đổi.
+
+Nguyên nhân chính đẩy giá máy vẫn là RAM và ổ SSD. Tính từ tháng 11/2025, giá laptop tại Việt
+Nam đã tăng khoảng 50 đến 80%. Máy chip Core i3 rẻ nhất hiện trên 15 triệu đồng, và 20 triệu
+đang trở thành tầm giá phổ thông. ASUS cùng Acer dự báo giá máy nguyên chiếc tăng thêm khoảng
+5% trong quý 3.
+
+Nếu anh chị cần máy trong vài tháng tới, mua sớm hợp lý hơn là chờ. Còn máy cũ vẫn chạy được
+thì nâng RAM, nâng SSD trước khi tính chuyện thay máy.
+
+Bài viết đầy đủ, có bảng số liệu và nguồn:
+https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html?utm_source=youtube&utm_medium=video&utm_campaign=windows-oem-gia-laptop
+
+Nguồn tham khảo: TechPowerUp, Windows Central, Notebookcheck, Dân Trí.
+
+Kênh khác của TechVision:
+TikTok: https://www.tiktok.com/@longtechvision
+Facebook: https://www.facebook.com/techvisionclick
+
+#Shorts #laptop #Windows #giaLaptop #TechVision
+```
+
+## Facebook
+
+**Nội dung bài đăng:**
+```
+Laptop dưới 10 triệu ở Việt Nam gần như đã biến mất khỏi kệ. Và vừa có thêm một khoản phí nữa
+lặng lẽ cộng vào giá máy.
+
+Theo nguồn trong ngành, Microsoft nâng phí bản quyền Windows thu của các hãng lắp máy thêm 7
+đến 10% kể từ tháng 7/2026, trong khi thông lệ hằng năm chỉ vài phần trăm. Dell, ASUS, HP chịu
+khoảng 7%, hãng nhỏ có thể chạm hai chữ số. Microsoft chưa xác nhận công khai.
+
+Cần nói rõ hai điều để tránh hiểu nhầm:
+
+1. Khoản này chỉ áp cho máy cài sẵn Windows bán nguyên chiếc. Ai tự lắp máy rồi mua khóa
+Windows bán lẻ thì giá giữ nguyên.
+
+2. Phí bản quyền không phải thủ phạm chính. Thủ phạm là RAM và ổ SSD. Từ tháng 11/2025, giá
+laptop tại Việt Nam đã tăng khoảng 50 đến 80%, máy Core i3 rẻ nhất giờ trên 15 triệu, và 20
+triệu đang thành tầm giá phổ thông.
+
+Lời khuyên gọn: cần máy trong vài tháng tới thì mua sớm hơn là chờ, vì cả chi phí bộ nhớ lẫn
+phí bản quyền đều đang đi lên. Máy cũ còn chạy được thì nâng RAM, nâng SSD trước đã.
+
+Anh chị đang tính mua máy tầm bao nhiêu? Comment để mọi người cùng tham khảo giá.
+
+#laptop #Windows #giaLaptop #congnghe #TechVision
+```
+
+**Bình luận đầu tiên (tự đăng ngay sau khi lên bài):**
+```
+Bài viết đầy đủ, có bảng số liệu và nguồn tham khảo:
+https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html?utm_source=facebook&utm_medium=video&utm_campaign=windows-oem-gia-laptop
+```
+
+## TikTok
+
+**Caption:**
+```
+Ai cũng nghĩ laptop tăng giá vì RAM. Còn một khoản phí nữa ít người để ý 👀
+
+Microsoft nâng phí bản quyền Windows với hãng lắp máy 7-10% từ 7/2026 (nguồn trong ngành, Microsoft chưa xác nhận). Chỉ áp cho máy cài sẵn, bản lẻ không đổi.
+
+Link bài đầy đủ ở bio nhé.
+
+#laptop #windows #gialaptop #mualaptop #congnghe #techvision #laptopgiare #LearnOnTikTok
+```
+
+**Bình luận ghim:**
+```
+Số liệu và nguồn đầy đủ trong bài trên techvision.click, link ở bio.
+Anh chị đang tính mua máy tầm bao nhiêu?
+```
+
+**Link bio khi đăng video này:**
+`https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html?utm_source=tiktok&utm_medium=video&utm_campaign=windows-oem-gia-laptop`
+
+## Việc cần làm sau khi đăng
+
+Đo UTM trong GA4 sau 48 giờ, tách theo `utm_source` để biết nền tảng nào thật sự đưa người về
+web. Tới nay chưa video nào của kênh ghi nhận phiên nào từ nguồn video, nên nếu cả 3 nền tảng
+đều ra 0 phiên thì nút thắt nằm ở cầu nối chứ không phải nội dung, và bước tiếp theo là sửa
+cách gắn link chứ không phải làm thêm video.
