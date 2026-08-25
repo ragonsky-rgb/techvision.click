@@ -40,8 +40,6 @@ faq:
 related:
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Công nghệ", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
 featured: true
-noindex: true
-scheduled: true
 ---
 
 Người mua máy tính năm 2026 vừa nhận thêm một tin không vui. Sau chuỗi tăng giá do khủng hoảng chip nhớ, một khoản chi phí khác trong cấu thành giá laptop cũng đang nhích lên: phí bản quyền hệ điều hành. Nhiều nguồn trong ngành cho biết Microsoft đã nâng mức phí Windows dành cho các hãng lắp máy thêm 7 đến 10% kể từ tháng 7/2026, và phần chênh này gần như chắc chắn sẽ được chuyển tiếp vào giá bán tới tay người dùng.

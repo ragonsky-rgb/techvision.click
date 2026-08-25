@@ -10,7 +10,7 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 228
+- **Số bài viết:** 229
 - **Cập nhật:** 2026-08-25 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
@@ -26,6 +26,7 @@
 ## Bài viết mới nhất
 
 - [Gemini cho tắt watermark ảnh AI, SynthID vẫn nằm trong file](https://techvision.click/articles/gemini-tat-watermark-anh-ai-synthid-c2pa-2026.html)
+- [Microsoft tăng phí Windows OEM, giá laptop Việt Nam tăng tiếp](https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html)
 - [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
 - [YouTube đổi cách tính view từ 24/8: số tăng, tiền không tăng](https://techvision.click/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html)
 - [Cách bật VoLTE trước ngày tắt sóng 2G 15/9/2026](https://techvision.click/articles/cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026.html)
@@ -44,7 +45,6 @@
 - [Redmi 17 giá từ 5,99 triệu tại Việt Nam, pin 7.500mAh](https://techvision.click/articles/redmi-17-series-ra-mat-viet-nam-pin-7500mah-gia-tu-599-trieu-2026.html)
 - [Google Assistant khai tử từ 4/9: Gemini thay thế ra sao](https://techvision.click/articles/google-assistant-khai-tu-thay-bang-gemini-android-wear-os-2026.html)
 - [POCO M8 Power pin 8000mAh ra mắt, giá dự kiến về Việt Nam](https://techvision.click/articles/poco-m8-power-5g-pin-8000mah-ra-mat-gia-du-kien-viet-nam-2026.html)
-- [ChatGPT bỏ giới hạn tin nhắn cho gói miễn phí từ tuần 10/8](https://techvision.click/articles/chatgpt-bo-gioi-han-tin-nhan-goi-free-go-gpt-5-6-luna-2026.html)
 
 ## Smartphone (62 bài)
 
@@ -204,8 +204,9 @@
 - [Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ](https://techvision.click/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html)
 - [Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc](https://techvision.click/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html)
 
-## Laptop (19 bài)
+## Laptop (20 bài)
 
+- [Microsoft tăng phí Windows OEM, giá laptop Việt Nam tăng tiếp](https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html)
 - [ROG Strix Scar 18 2026 về VN: RTX 5090, giá 179,99 triệu](https://techvision.click/articles/asus-rog-strix-scar-18-2026-rtx-5090-mini-led-4k-240hz-gia-viet-nam.html)
 - [ASUS ROG RTX 5070, 5060 mở đặt trước Việt Nam: giá](https://techvision.click/articles/asus-rog-rtx-5070-5060-laptop-gaming-mo-dat-truoc-viet-nam-2026.html)
 - [Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu](https://techvision.click/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html)
