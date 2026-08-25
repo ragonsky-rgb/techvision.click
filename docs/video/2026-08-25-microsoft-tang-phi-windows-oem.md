@@ -57,7 +57,13 @@ Xưng hô với người xem là **anh chị**.
 Đọc thử bấm giờ trước khi quay: mục tiêu dưới 60 giây để còn đăng dạng Short.
 Nếu quá 60 giây, bỏ nguyên câu về ASUS và Acer (câu thứ 5), đừng cắt các số khác.
 
-## Gói cảnh
+> **CẬP NHẬT 25/08/2026 - đã dựng xong.** Anh Long chốt đổi hướng: không tự quay cảnh nào,
+> 100% hình lấy trên mạng (anh cho phép lấy cả ảnh từ trang báo lớn, khác luật nguồn media
+> 12/08 - quyết định này chỉ áp cho media TRONG VIDEO, ảnh đăng trên web vẫn giữ luật cũ).
+> Gói 6 cảnh tự quay bên dưới **hết hiệu lực**, thay bằng bảng 13 cảnh ở mục
+> "Bản dựng thực tế" cuối file. Kịch bản đọc vẫn nguyên vì giọng đọc bám sát.
+
+## Gói cảnh (BẢN CŨ - phương án tự quay, không dùng nữa)
 
 ```
 VIDEO: Microsoft tang phi Windows OEM - gia laptop VN
@@ -180,3 +186,70 @@ https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-l
 nào của kênh đưa được phiên nào về web, nên nếu video này cũng ra 0 phiên thì vấn đề nằm ở
 cách gắn link chứ không phải ở nội dung, và bước tiếp theo là sửa cầu nối chứ không phải làm
 thêm video.
+
+---
+
+# Bản dựng thực tế (25/08/2026)
+
+Thành phẩm: `windows-oem-gia-laptop-vn.mp4` - 1080x1920, 30fps, **61,67 giây**, H.264 + AAC.
+Thư mục làm việc: `/Volumes/Edit video  1/windows-oem-video/`
+
+## Dây chuyền
+
+| Khâu | Công cụ | Ghi chú |
+|---|---|---|
+| Bóc lời thoại | mlx-whisper large-v3-turbo (venv `~/.venvs/whisper`) | Palmier không nhận `language: vi` |
+| Gom hình | `fetch-img.py` (Openverse + Wikimedia), `fetch-page-img.py` (og:image trang báo) | kho CC0 quá nghèo cho chủ đề này nên phải lấy thêm ảnh báo |
+| Đưa về khung dọc | `make-frames.py` | nền mờ + tối 42%, chủ thể vừa bề ngang, có tham số zoom/pan |
+| Đồ họa số liệu | Remotion, `~/techvision-video-kit` | render ProRes 4444 `yuva444p10le`, Palmier giữ đúng nền trong |
+| Ghép, phụ đề, chỉnh màu | Palmier Pro qua cầu JSON-RPC `/tmp/palm.py` | phiên Claude chưa nạp schema tool nên đi đường curl |
+
+## Bảng cảnh (mốc lấy từ lời thoại thật)
+
+| Cảnh | Frame | Giây | Lời thoại | Hình | Đồ họa |
+|---|---|---|---|---|---|
+| s01 | 0-156 | 0,0-5,2 | Laptop 10 triệu gần như không còn trên kệ | Kệ laptop cửa hàng VN | Thẻ mở: "Dưới 10 triệu: gần như hết hàng" |
+| s02 | 156-323 | 5,2-10,8 | Thêm một khoản phí nữa cộng vào giá máy | Máy tính đặt trên tiền | |
+| s03 | 323-470 | 10,8-15,7 | Microsoft tăng phí bản quyền 7-10% | Logo Windows 11 | **7-10%** + chip "Microsoft chưa xác nhận" |
+| s04 | 470-600 | 15,7-20,0 | Dell, ASUS, HP chịu khoảng 7% | Hai laptop chạy Windows | |
+| s05 | 600-709 | 20,0-23,6 | Microsoft chưa xác nhận công khai | Toà nhà Microsoft Redmond | Thẻ "Microsoft chưa xác nhận công khai" |
+| s06 | 709-922 | 23,6-30,7 | Chỉ máy cài sẵn, bản lẻ không đổi | Trang bán Windows 11 Home 139 USD | Thẻ "Bản quyền bán lẻ: KHÔNG đổi" |
+| s07a | 922-999 | 30,7-33,3 | Thủ phạm là RAM | Thanh RAM SO-DIMM | |
+| s07b | 999-1068 | 33,3-35,6 | và ổ SSD | Ổ SSD Patriot P210 | |
+| s08 | 1068-1251 | 35,6-41,7 | Giá laptop VN tăng 50-80% | Bàn trưng bày laptop VN | **50-80%** |
+| s09 | 1251-1428 | 41,7-47,6 | Core i3 rẻ nhất trên 15 triệu, 20 triệu phổ thông | Laptop kèm bảng giá | Biểu đồ cột 10 / 15 / 20 triệu |
+| s10 | 1428-1580 | 47,6-52,7 | ASUS và Acer dự báo tăng 5% quý 3 | Laptop chụp sản phẩm | **5%** |
+| s11 | 1580-1707 | 52,7-56,9 | Cần máy vài tháng tới thì mua sớm | Người xem laptop tại cửa hàng | |
+| s12 | 1707-1850 | 56,9-61,7 | Nâng RAM, nâng SSD, đừng vội thay máy | Tay cầm thanh RAM | |
+
+Ken Burns 1,00 <-> 1,07 xen kẽ phóng to / thu nhỏ từng cảnh, fade 4 frame hai đầu.
+
+## Bảng kê nguồn hình
+
+Đầy đủ link gốc trong `credits.json`. Mỗi cảnh có dòng credit góc dưới trái suốt thời gian ảnh hiện.
+
+| Cảnh | Nguồn | Giấy phép |
+|---|---|---|
+| s01, s08 | dantri.com.vn | ảnh báo, dùng kèm credit |
+| s02, s04 | windowscentral.com | ảnh báo, dùng kèm credit |
+| s03 | notebookcheck.net | ảnh báo, dùng kèm credit |
+| s05 | Wikimedia Commons | CC BY-SA 4.0 |
+| s06 | windowslatest.com | ảnh báo, dùng kèm credit |
+| s07a | Wikimedia Commons | Public domain |
+| s07b | Wikimedia Commons | CC BY-SA 4.0 |
+| s09 | Wikimedia Commons | CC0 |
+| s10 | windowsreport.com | ảnh báo, dùng kèm credit |
+| s11 | tincongnghe.net | ảnh báo, dùng kèm credit |
+| s12 | tomshardware.com | ảnh báo, dùng kèm credit |
+
+## Phụ đề và màu
+
+- 36 cụm phụ đề sinh từ mốc từng từ của Whisper, cụm ≤28 ký tự, `highlightPop` với từ đang đọc màu `#C0392B`, chữ trắng đậm viền đen, đặt y 0,62.
+- Sửa tay 4 chỗ Whisper bóc sai: "Windows 2" -> "Windows thu", "CoE3" -> "Core i3", "Nưng" -> "Nhưng", "Asus" -> "ASUS".
+- Chỉnh màu: chuẩn hóa điểm đen/trắng từng ảnh theo `inspect_color`, giữ nguyên sắc xanh của ảnh Windows 11 vì đó là màu thương hiệu, rồi phủ look chung (tương phản 1,08, vibrance 0,10, split-tone lạnh vùng tối / ấm vùng sáng, toe phim nhẹ).
+
+## Chỗ đã chặn sai lệch
+
+1. Chip "Microsoft chưa xác nhận" ban đầu dính nhầm vào cả thẻ 50-80% và 5% do Remotion trộn `defaultProps`. Đã sửa: hai số đó là của Dân Trí và của ASUS/Acer, không liên quan tới việc Microsoft xác nhận hay chưa.
+2. Không khung hình nào nói hay ám chỉ giá laptop VN tăng 50-80% là do phí Windows.
+3. Không khung hình nào ám chỉ bản quyền bán lẻ tăng giá; cảnh s06 chiếu thẳng giá niêm yết 139 USD không đổi.
