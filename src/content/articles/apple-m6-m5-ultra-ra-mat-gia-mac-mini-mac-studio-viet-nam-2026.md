@@ -41,6 +41,7 @@ related:
   - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Apple", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Công nghệ", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
 featured: true
+pinned: true
 ---
 
 Apple vừa công bố hai con chip mới trong cùng một ngày, nhưng chúng đi theo hai hướng hoàn toàn khác nhau. M6 là con chip đầu tiên của Apple dùng tiến trình 2 nanomet, đặt vào chiếc máy để bàn rẻ nhất của hãng. M5 Ultra thì là lần đầu Apple ghép bốn đế silicon vào chung một con chip, dành cho nhóm người dùng chuyên nghiệp nhất. Điểm đáng chú ý với người mua trong nước là giá bán tại Việt Nam đã lên trang Apple Việt Nam ngay trong ngày công bố.

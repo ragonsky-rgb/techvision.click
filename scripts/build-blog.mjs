@@ -39,6 +39,7 @@ if (existsSync(mdDir)) {
       image: fm.heroImage || '',
       heroAlt: fm.heroAlt || fm.title || '',
       noindex: String(fm.noindex).trim() === 'true',
+      pinned: String(fm.pinned).trim() === 'true',
       source: 'collection',
     });
   }
@@ -78,10 +79,19 @@ const url = (a) => `/articles/${a.slug}.html`;
 const newestTime = articles.length ? new Date(articles[0].datePublished).getTime() : 0;
 const isNew = (a) => newestTime - new Date(a.datePublished).getTime() <= 3 * 86400000; // trong 3 ngày so với bài mới nhất
 
-const hero = articles[0];
-const featured = articles.slice(1, 4);      // Nổi bật (hero-side)
-const grid = articles.slice(1);             // Grid: tất cả trừ hero
-const picks = articles.slice(4, 10);        // Đáng chú ý: 6 bài tiếp theo
+// Mặc định bài mới nhất lên "Tiêu điểm". Muốn ghim một bài cụ thể lên đầu thì đặt
+// `pinned: true` trong frontmatter - dùng khi bài đó đang là mũi nhọn (có video, có
+// chiến dịch) chứ không phải bài mới nhất. Ghim CHỈ đổi thứ tự hiển thị, KHÔNG đụng
+// tới datePublished, nên ngày đăng thật của bài vẫn nguyên.
+const pin = articles.find((a) => a.pinned);
+const ordered = pin ? [pin, ...articles.filter((a) => a !== pin)] : articles;
+if (pin) console.log(`   (ghim lên Tiêu điểm: ${pin.slug})`);
+
+const hero = ordered[0];
+const featured = ordered.slice(1, 4);      // Nổi bật (hero-side)
+const grid = ordered.slice(1);             // Grid: tất cả trừ hero
+const picks = ordered.slice(4, 10);        // Đáng chú ý: 6 bài tiếp theo
+const newest = articles[0];                // bài mới nhất THẬT, để ghi ngày cập nhật
 
 // --- Sinh HTML ---
 const heroHtml = `
@@ -129,7 +139,9 @@ ${picks.map((a, i) => `            <a class="side-item" href="${url(a)}">
             </a>`).join('\n')}
           `;
 
-const lastUpdated = `Cập nhật ${dmy(hero.datePublished)}, Bài mới: ${esc(hero.title)}, ${esc(featured[0]?.title || '')}`;
+// bài thứ hai phải KHÁC bài mới nhất: khi có bài ghim, featured[0] chính là bài mới nhất
+const second = featured.find((a) => a !== newest) || featured[0];
+const lastUpdated = `Cập nhật ${dmy(newest.datePublished)}, Bài mới: ${esc(newest.title)}, ${esc(second?.title || '')}`;
 
 // --- Thay vào blog.html (dùng replacer function để $ trong tiền không bị hiểu nhầm) ---
 let html = readFileSync(BLOG, 'utf-8');
@@ -138,7 +150,7 @@ html = html.replace(/(<section class="news-hero"[^>]*>)[\s\S]*?(<\/section>)/, (
 html = html.replace(/(<!-- BLOG ARTICLES START -->)[\s\S]*?(<!-- BLOG ARTICLES END -->)/, () => `<!-- BLOG ARTICLES START -->${gridHtml}<!-- BLOG ARTICLES END -->`);
 html = html.replace(/(<div class="side-list">)[\s\S]*?(<\/div>)/, () => `<div class="side-list">${picksHtml}</div>`);
 // dateModified của schema Blog = ngày bài mới nhất (tự tươi mỗi lần build)
-html = html.replace(/"dateModified": "[^"]*"/, () => `"dateModified": "${hero.datePublished}"`);
+html = html.replace(/"dateModified": "[^"]*"/, () => `"dateModified": "${newest.datePublished}"`);
 
 writeFileSync(BLOG, html);
 console.log(`✅ blog.html cập nhật: hero=${hero.slug}, grid=${grid.length} bài, picks=${picks.length}, tổng=${articles.length}`);
