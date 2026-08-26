@@ -10,7 +10,7 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 231
+- **Số bài viết:** 232
 - **Cập nhật:** 2026-08-26 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
@@ -26,6 +26,7 @@
 ## Bài viết mới nhất
 
 - [Esports Nations Cup hoãn sang 11/2027, tuyển Việt Nam chờ](https://techvision.click/articles/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.html)
+- [Nothing Phone (4a) ra mắt Việt Nam: giá bán và cấu hình](https://techvision.click/articles/nothing-phone-4a-4a-pro-ra-mat-viet-nam-gia-cau-hinh-2026.html)
 - [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
 - [Gemini cho tắt watermark ảnh AI, SynthID vẫn nằm trong file](https://techvision.click/articles/gemini-tat-watermark-anh-ai-synthid-c2pa-2026.html)
 - [Microsoft tăng phí Windows OEM, giá laptop Việt Nam tăng tiếp](https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html)
@@ -44,10 +45,10 @@
 - [Pixel Tag giá bao nhiêu, dùng tại Việt Nam được không](https://techvision.click/articles/google-pixel-tag-the-dinh-vi-29-usd-doi-thu-airtag-2026.html)
 - [Vivo S2 trở lại sau 7 năm: pin 7.050mAh, màn cong 1.5K](https://techvision.click/articles/vivo-s2-pin-7050mah-man-cong-15k-dimensity-7360-turbo-2026.html)
 - [ROG Strix Scar 18 2026 về VN: RTX 5090, giá 179,99 triệu](https://techvision.click/articles/asus-rog-strix-scar-18-2026-rtx-5090-mini-led-4k-240hz-gia-viet-nam.html)
-- [Redmi 17 giá từ 5,99 triệu tại Việt Nam, pin 7.500mAh](https://techvision.click/articles/redmi-17-series-ra-mat-viet-nam-pin-7500mah-gia-tu-599-trieu-2026.html)
 
-## Smartphone (62 bài)
+## Smartphone (63 bài)
 
+- [Nothing Phone (4a) ra mắt Việt Nam: giá bán và cấu hình](https://techvision.click/articles/nothing-phone-4a-4a-pro-ra-mat-viet-nam-gia-cau-hinh-2026.html)
 - [HyperOS 4 cập nhật khi nào: danh sách máy Xiaomi, Redmi, POCO](https://techvision.click/articles/hyperos-4-android-17-danh-sach-may-xiaomi-redmi-poco-cap-nhat-2026.html)
 - [Pixel 11 Pro Fold hay Z Fold 8: mua máy gập nào tại Việt Nam](https://techvision.click/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html)
 - [Pixel 11 giá bao nhiêu, bao giờ về Việt Nam](https://techvision.click/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html)

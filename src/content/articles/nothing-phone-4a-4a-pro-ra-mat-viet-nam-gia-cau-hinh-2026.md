@@ -42,8 +42,6 @@ related:
   - { href: "/articles/nothing-phone-ban-chinh-hang-viet-nam-cellphones-2026.html", cat: "Smartphone", title: "Nothing Phone bán chính hãng tại Việt Nam" }
   - { href: "/articles/gia-smartphone-cao-cap-viet-nam-tang-manh-2026-thieu-chip-nho.html", cat: "Smartphone", title: "Giá smartphone cao cấp tại Việt Nam tăng mạnh vì thiếu chip nhớ" }
 featured: true
-noindex: true
-scheduled: true
 ---
 
 Nothing vốn là thương hiệu dễ nhận ra nhờ mặt lưng trong suốt và dải đèn ở lưng máy, nhưng lần lên kệ này tại Việt Nam có một chi tiết đáng chú ý hơn nhiều so với phần nhìn. Cả hai máy trong bộ đôi Phone (4a) và Phone (4a) Pro đều mang camera tele tiềm vọng, thứ mà ở vùng giá 12 đến 16 triệu đồng vẫn còn là hàng hiếm trên thị trường trong nước.
