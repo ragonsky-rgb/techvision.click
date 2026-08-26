@@ -1,1 +1,14 @@
-{ "autoPort": true }
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "techvision",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "dev"
+      ],
+      "port": 4321
+    }
+  ]
+}
