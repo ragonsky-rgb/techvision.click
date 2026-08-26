@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 229
-- **Cập nhật:** 2026-08-25 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 231
+- **Cập nhật:** 2026-08-26 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,8 @@
 
 ## Bài viết mới nhất
 
+- [Esports Nations Cup hoãn sang 11/2027, tuyển Việt Nam chờ](https://techvision.click/articles/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.html)
+- [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
 - [Gemini cho tắt watermark ảnh AI, SynthID vẫn nằm trong file](https://techvision.click/articles/gemini-tat-watermark-anh-ai-synthid-c2pa-2026.html)
 - [Microsoft tăng phí Windows OEM, giá laptop Việt Nam tăng tiếp](https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html)
 - [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
@@ -43,8 +45,6 @@
 - [Vivo S2 trở lại sau 7 năm: pin 7.050mAh, màn cong 1.5K](https://techvision.click/articles/vivo-s2-pin-7050mah-man-cong-15k-dimensity-7360-turbo-2026.html)
 - [ROG Strix Scar 18 2026 về VN: RTX 5090, giá 179,99 triệu](https://techvision.click/articles/asus-rog-strix-scar-18-2026-rtx-5090-mini-led-4k-240hz-gia-viet-nam.html)
 - [Redmi 17 giá từ 5,99 triệu tại Việt Nam, pin 7.500mAh](https://techvision.click/articles/redmi-17-series-ra-mat-viet-nam-pin-7500mah-gia-tu-599-trieu-2026.html)
-- [Google Assistant khai tử từ 4/9: Gemini thay thế ra sao](https://techvision.click/articles/google-assistant-khai-tu-thay-bang-gemini-android-wear-os-2026.html)
-- [POCO M8 Power pin 8000mAh ra mắt, giá dự kiến về Việt Nam](https://techvision.click/articles/poco-m8-power-5g-pin-8000mah-ra-mat-gia-du-kien-viet-nam-2026.html)
 
 ## Smartphone (62 bài)
 
@@ -227,8 +227,9 @@
 - [macOS 27: sửa Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
 - [RTX 5090 Ti 48GB GDDR7: thông số, hiệu năng, ngày ra mắt dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
 
-## Apple (14 bài)
+## Apple (15 bài)
 
+- [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
 - [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
 - [Apple cho thuê iPhone giá từ 17,99 USD/tháng qua Klarna](https://techvision.click/articles/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.html)
 - [Trung Quốc duyệt Apple Intelligence, Alibaba và Baidu góp sức](https://techvision.click/articles/apple-intelligence-trung-quoc-phe-duyet-alibaba-qwen-baidu-2026.html)
@@ -244,8 +245,9 @@
 - [WWDC 2026 (8/6): Siri mới chạy Google Gemini, preview iOS 27](https://techvision.click/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html)
 - [iPhone sẽ tự khóa khi bị giật khỏi tay: tính năng mới](https://techvision.click/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html)
 
-## Gaming (9 bài)
+## Gaming (10 bài)
 
+- [Esports Nations Cup hoãn sang 11/2027, tuyển Việt Nam chờ](https://techvision.click/articles/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.html)
 - [LCP 2026 Split 3 Playoffs: lịch thi đấu và cửa Worlds](https://techvision.click/articles/lcp-2026-split-3-playoffs-lich-thi-dau-cua-worlds-gam-mvk.html)
 - [Free Fire EWC 2026: LYON vô địch, lập kỷ lục hạ gục](https://techvision.click/articles/free-fire-ewc-2026-lyon-vo-dich-ky-luc-ha-guc.html)
 - [EWC 2026 LMHT: Dplus KIA vô địch, hạ Karmine Corp 3-0](https://techvision.click/articles/ewc-2026-lmht-dplus-kia-vo-dich-thang-karmine-corp-3-0.html)
