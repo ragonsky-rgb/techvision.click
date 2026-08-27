@@ -69,7 +69,14 @@ bắc cầu bằng `curl` JSON-RPC vào cổng đó.
 
 ## 3. Chuẩn hình và chữ
 
+> **Tay nghề dựng nằm ở `docs/video/SKILL-EDIT.md`** - nhịp cắt, vùng an toàn, cỡ phụ đề,
+> cách kiểm trước khi giao. File này chỉ nói quy trình và luật nội dung.
+
 - Dọc 9:16, 1080x1920.
+- **Giọng tua 1,1x và không được có khoảng lặng** (anh Long chốt 27/08/2026).
+  Cắt im lặng hai đầu từng đoạn bằng `silenceremove` ngưỡng `-45dB`, nối không chèn im lặng,
+  rồi `atempo=1.1`. Tua xong phải **tính lại toàn bộ mốc cảnh và `durationInFrames`** (chia 1,1).
+- **Chữ phải nằm trong y từ 140 tới 1440.** Dưới 1440 là vùng nút của TikTok và Reels đè lên.
 - Màu nhấn **đỏ `#C0392B`** (đúng `--accent` của techvision.click).
 - **Phụ đề word-pop nhấn đỏ**, centerY khoảng 0,62, mỗi cụm dưới 28 ký tự.
 - Thẻ số Remotion mặc định `y: 0.2` để không đè lên phụ đề.

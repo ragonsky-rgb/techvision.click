@@ -1,0 +1,123 @@
+# Skill edit video - luật nghề cho video dọc kênh TechVision
+
+Viết ngày 27/08/2026 theo yêu cầu của anh Long. Đây là phần **tay nghề dựng**, khác với
+`AGENTS.md` (quy trình và luật nội dung). Đọc cả hai.
+
+Mỗi luật dưới đây đều kèm lý do. Luật không có lý do thì không đáng theo.
+
+---
+
+## 1. Nhịp cắt - thứ quyết định giữ chân
+
+Người xem Shorts mang theo một "ngân sách chú ý" rất ngắn. Hình đứng yên quá lâu là
+tụt giữ chân, kể cả khi lời thoại vẫn hay.
+
+| Nền tảng | Nhịp đổi hình |
+|---|---|
+| TikTok | 1,5 tới 3 giây |
+| Reels | 2,5 tới 4 giây |
+| YouTube Shorts | 3 tới 5 giây, video hướng dẫn thì nới được |
+
+**Luật áp cho kênh:** không cảnh nào để hình đứng yên quá **3 giây**.
+
+Kênh này không có cảnh quay, chỉ có ảnh tĩnh. Cách xử lý là **cắt punch**: vẫn dùng đúng
+tấm ảnh đó nhưng nhảy sang khuôn hẹp hơn. Mắt đọc ra là một cú cắt, dù không có cảnh mới.
+Đã cài trong `build.py` của video 27/8:
+
+- cảnh dưới 3,2 giây: một nhịp, Ken Burns trôi nhẹ
+- cảnh 3,2 tới 5 giây: hai nhịp, nấc zoom 1,00 rồi 1,13
+- cảnh trên 5 giây: ba nhịp, nấc 1,00 / 1,13 / 1,26
+
+Đừng đẩy nấc quá 1,3 - ảnh nguồn chỉ 1080 chiều ngang, phóng hơn là thấy vỡ.
+
+## 2. Vùng an toàn - chỗ dễ sai nhất và không ai nhắc
+
+Nền tảng đè giao diện lên video. Chữ rơi vào đó là **coi như không có**, dù trong file vẫn hiện.
+
+| Cạnh | Bị che | Ghi chú |
+|---|---|---|
+| Trên | ~140px | |
+| Dưới | **TikTok ~400px · Reels ~500px · Shorts ~320px** | lấy mốc xấu nhất là 500 |
+| Trái | ~60px | |
+| Phải | ~180px | cụm nút tim / bình luận / chia sẻ, TikTok thêm nút Playlist từ 1/2026 |
+
+**Luật áp cho kênh:** mọi chữ phải nằm trong khoảng **y từ 140 tới 1440** trên khung 1920.
+
+Ngày 27/8 đã dính đúng lỗi này: dòng credit đặt ở `H - 96`, tức sát đáy, nằm trọn trong vùng
+TikTok che. Đã dời lên `H - 480`. **Kiểm bằng mắt trước khi giao**: trích một khung rồi tô đè
+ba vùng đỏ như `chk/safe-small.jpg`, nhìn xem có chữ nào lọt vào không.
+
+## 3. Phụ đề
+
+- **Có mặt từ giây thứ nhất.** Đây là một trong số ít thay đổi nâng thời lượng xem trung bình
+  rõ rệt, vì phần lớn người xem để tắt tiếng.
+- Cỡ chữ **64px** trên khung 1080 chiều ngang. Cỡ 46 nhìn trên máy tính thì đủ nhưng trên điện
+  thoại là bé. Dài quá thì tự hạ xuống 54 chứ không xuống dòng.
+- Bề ngang tối đa **980px**, đặt giữa. Tránh cụm nút bên phải.
+- Cụm dưới **22 ký tự**, chữ trắng đậm, viền đen 4px, từ đang đọc nhấn `#C0392B`.
+- **Ngắt cứng ở cuối câu.** Để chữ cuối câu này dính sang câu sau là đọc vấp.
+- **Không để cụm mồ côi** một hai chữ. Gộp vào cụm trước nếu tổng dưới 34 ký tự.
+- **Chữ lấy từ kịch bản, KHÔNG lấy từ bản bóc Whisper.** Whisper nghe nhầm ("gặp" thay "gập",
+  "rời" thay "dời", "0 giờ" thành "không giờ") và còn bịa thêm câu ở đoạn cuối. Whisper chỉ
+  dùng để lấy mốc. Chữ trên màn hình để **dạng số** theo luật kênh.
+
+## 4. Thẻ số liệu
+
+- Đặt ở `y: 0.20`, tức phần trên khung, không đè lên phụ đề ở 0,62.
+- **Thẻ phải sống hết đoạn nó nói về.** Ngày 27/8 thẻ "Apple chưa công bố sản phẩm nào" tắt sau
+  2,2 giây trong khi lời thoại còn đọc tin đồn thêm 4 giây, tức có đoạn nói tin đồn mà trên hình
+  không còn chip cảnh báo. Sai điều 4 của `AGENTS.md`.
+- Số có dấu chấm phân nghìn hoặc ngày tháng thì `countUp: false`.
+
+## 5. Mở đầu và kết
+
+- **Khung một là con số hoặc hình động**, không phải thẻ chữ tĩnh. Khoảng 30 tới 50% người xem
+  rời đi trong 3 giây đầu, nên đây là chỗ đắt nhất của cả video.
+- Câu đầu **tối đa 8 từ**.
+- **Khung cuối nên nối lại được với khung đầu.** Video lặp lại mượt thì thời lượng xem cộng dồn
+  tăng. Cách rẻ nhất: cảnh cuối dùng lại tông màu hoặc bố cục của cảnh đầu.
+- Câu mời theo dõi phải nói rõ **người xem được gì**, không nói suông "nhớ theo dõi".
+
+## 6. Tiếng
+
+- **Không để khoảng lặng** (luật anh Long chốt 27/08/2026). Khoảng chết là cách nhanh nhất làm
+  tụt giữ chân giữa video.
+  - Cắt im lặng đầu và cuối từng đoạn: `silenceremove` hai đầu, ngưỡng `-45dB`.
+  - Nối các đoạn **không chèn im lặng** ở giữa.
+  - Kiểm lại bằng `silencedetect=noise=-40dB:d=0.35`, không ra dòng nào là sạch.
+- **Tua 1,1x** (luật anh Long chốt 27/08/2026): `atempo=1.1`. Nhớ **tính lại toàn bộ mốc cảnh và
+  `durationInFrames` của thẻ** sau khi tua, chia mốc cũ cho 1,1.
+- Nhạc nền thấp hơn giọng ít nhất 12dB. `amix` mặc định `normalize=1` sẽ tự chia đều theo số
+  nguồn và dìm giọng mà không báo gì - luôn đặt `normalize=0`.
+
+## 7. Cắt J và cắt L - dùng khi có cảnh quay
+
+Cắt J là tiếng của cảnh sau vào trước hình. Cắt L là tiếng cảnh trước kéo dài qua hình mới.
+Đây là cách chuyển cảnh mượt hơn hẳn hiệu ứng mờ chồng.
+
+Kênh này hiện dựng từ ảnh tĩnh với một dải giọng liền nên **chưa dùng tới**. Ghi lại để khi nào
+có cảnh quay thật thì áp. Cùng nhóm còn có **match cut**: cắt sang hình có bố cục hoặc chuyển
+động trùng khớp, ví dụ từ khuôn tròn của Apple Park sang khuôn tròn cụm camera.
+
+## 8. Kiểm trước khi giao - không được bỏ
+
+1. Trích 8 tới 16 khung rải đều, **nhìn tận mắt**, ghép thành một tấm để soi một lượt.
+2. Tô đè ba vùng an toàn lên một khung, xem có chữ nào lọt vùng bị che không.
+3. Soi từng con số trên hình khớp lời thoại, không lệch một ký tự.
+4. Mọi ảnh mượn có dòng credit, ảnh CC BY phải có tên tác giả.
+5. Đo lại độ dài, so với mốc giọng.
+6. Chạy `silencedetect` xem còn khoảng lặng không.
+
+## Nguồn đã đọc
+
+Nhịp cắt và giữ chân: [Short-Form Video Pacing Guide](https://shortzly.com/blog/short-form-video-pacing-editing-guide) ·
+[YouTube Shorts Retention Curve Playbook](https://aibrify.com/blog/youtube-shorts-retention-curve-playbook) ·
+[The First 3 Seconds](https://virvid.ai/blog/first-3-seconds-hook-faceless-shorts-2026) ·
+[Ideal YouTube Shorts Length & Format](https://www.opus.pro/blog/ideal-youtube-shorts-length-format-retention)
+
+Vùng an toàn và phụ đề: [TikTok Safe Zone 2026](https://kreatli.com/guides/tiktok-safe-zone) ·
+[Safe Zone Hub 2026](https://kreatli.com/guides/safe-zone-guide) ·
+[Best Caption Placement for Short-Form Video](https://blitzcutai.com/blog/best-caption-placement-short-form-video)
+
+Cắt J, cắt L, match cut: [Adobe - L cut và J cut](https://www.adobe.com/creativecloud/video/post-production/cuts-in-film/l-and-j-cut.html) ·
+[Vimeo - J-Cut vs L-Cut](https://vimeo.com/blog/post/guide-to-film-cuts)
