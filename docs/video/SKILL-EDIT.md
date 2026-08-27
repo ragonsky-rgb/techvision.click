@@ -30,6 +30,39 @@ tấm ảnh đó nhưng nhảy sang khuôn hẹp hơn. Mắt đọc ra là một
 
 Đừng đẩy nấc quá 1,3 - ảnh nguồn chỉ 1080 chiều ngang, phóng hơn là thấy vỡ.
 
+## 1b. Chuyển động phải mượt - `zoompan` giật là do làm tròn
+
+Anh Long báo ngày 27/8: "hình ảnh tăng giảm nhìn nó khựng quá". Đúng, và đây là lỗi kỹ thuật
+chứ không phải cảm giác.
+
+`zoompan` của ffmpeg tính toạ độ cắt rồi **làm tròn về số nguyên ở không gian ảnh gốc**, mỗi
+khung một lần. Ảnh gốc rộng 1080, đầu ra cũng 1080, nên mỗi bước làm tròn là trọn một pixel
+đầu ra. Khung thì nhích, khung thì đứng yên, mắt đọc ra là giật từng bậc.
+
+**Cách sửa: phóng ảnh lên trước khi zoompan, rồi cho zoompan xuất thẳng về 1080x1920.**
+
+```
+scale=3240:5760:flags=lanczos,zoompan=z='...':s=1080x1920
+```
+
+Phóng 3x thì một pixel gốc chỉ còn 1/3 pixel đầu ra, làm tròn không nhìn ra nữa. Đo trên
+đúng một cảnh, lấy sai khác trung bình giữa hai khung liên tiếp:
+
+| Cách dựng | Tỷ lệ giật (độ lệch / trung bình) |
+|---|---|
+| zoompan thẳng trên ảnh 1080 | **0,61** |
+| phóng 3x rồi zoompan | **0,19** |
+
+Thấp hơn là mượt hơn. Mất thêm khoảng 3 giây mỗi cảnh, đáng.
+
+**Bẫy thứ hai, cùng ngày:** cắt nhịp lúc đầu làm bằng một biểu thức `if()` nhảy nấc zoom giữa
+chừng trong cùng một clip. Cái đó **không đọc ra như một cú cắt, nó đọc ra như lỗi**. Cắt thật
+phải là ranh giới giữa hai clip: dựng từng nhịp thành clip riêng rồi nối lại, sau đó mới dán
+thẻ số đè lên cả cảnh.
+
+Mỗi nhịp đổi cả khuôn chứ không chỉ đổi zoom: nhịp 1 tâm hơi cao (`cy 0,45`), nhịp 2 tâm hơi
+thấp (`cy 0,55`), nhịp 3 lệch ngang. Có đổi khuôn thì mới ra cảm giác đổi máy quay.
+
 ## 2. Vùng an toàn - chỗ dễ sai nhất và không ai nhắc
 
 Nền tảng đè giao diện lên video. Chữ rơi vào đó là **coi như không có**, dù trong file vẫn hiện.
@@ -107,6 +140,44 @@ có cảnh quay thật thì áp. Cùng nhóm còn có **match cut**: cắt sang 
 4. Mọi ảnh mượn có dòng credit, ảnh CC BY phải có tên tác giả.
 5. Đo lại độ dài, so với mốc giọng.
 6. Chạy `silencedetect` xem còn khoảng lặng không.
+
+## 9. Cảnh động - đừng để cả video toàn ảnh tĩnh
+
+Anh Long báo ngày 27/8: "hình ảnh không thì nhìn hơi chán". Đúng. Ken Burns dù mượt tới đâu
+vẫn là ảnh tĩnh giả vờ động, xem một lúc là nhận ra.
+
+**Thứ tự tìm cảnh động, đã thử thật ngày 27/8:**
+
+**1. Wikimedia Commons - lọc theo loại video.** Miễn phí, không cần khoá API, có clip 4K thật.
+```
+https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search
+  &gsrsearch=<tu khoa> filetype:video&gsrnamespace=6&gsrlimit=5
+  &prop=imageinfo&iiprop=url|size|mime|extmetadata
+```
+Lấy được `File:Apple Park 1 2018-12-23.webm`, 3840x2160, CC BY-SA 4.0, tác giả FASTILY.
+Kho này mỏng nhưng thứ tìm được thì dùng thật được. **CC BY và CC BY-SA đều bắt buộc ghi tên
+tác giả.**
+
+**2. VOD keynote của chính Apple.** Trang `apple.com/apple-events` nhúng sẵn link `m3u8` của các
+sự kiện cũ, có tận bản 1080p và 4K, `ffmpeg -ss <giây> -i <prog_index.m3u8> -t <giây>` là cắt
+được. Nguồn chính hãng, ghi credit là dùng được.
+**Nhưng cẩn thận:** phần lớn là phim sản phẩm đời hiện tại và có nhận diện sự kiện cũ dán trên
+hình (thử ngày 27/8 ra cảnh WWDC24 và macro iPhone 17). Đưa vào bài nói về máy chưa ra mắt là
+làm người xem hiểu nhầm. Chỉ dùng khi cảnh đó **không có nhãn sự kiện và không phải sản phẩm
+đang bàn**, hoặc dán rõ dòng "đời hiện tại" như với ảnh tĩnh.
+
+**3. Cảnh anh Long tự quay.** Vẫn là nguồn sạch nhất, không vướng gì.
+
+**Chưa mở được:** Pexels và Pixabay có kho video CC0 lớn hơn hẳn hai nguồn trên nhưng **đều cần
+khoá API miễn phí**. Máy chưa có khoá nào. Xin một khoá rồi cắm vào kit là mở ra nguồn cảnh động
+thật sự dồi dào - đây là việc đáng làm nhất để video hết chán.
+
+**Đưa clip ngang vào khung dọc** thì xử lý y như ảnh: nền phóng to làm mờ và tối đi, chủ thể
+giữ nguyên tỷ lệ đặt ở `0,44` chiều cao. Clip ngắn hơn cảnh thì `-stream_loop -1`.
+Cảnh dùng clip thật **không thêm Ken Burns** - nó đã có chuyển động thật rồi, chồng thêm là rối.
+
+Dòng credit trên cảnh clip không đốt thẳng vào ảnh được, phải xuất PNG nền trong rồi dán đè
+(`cred-png.py`).
 
 ## Nguồn đã đọc
 
