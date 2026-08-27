@@ -179,6 +179,48 @@ Cảnh dùng clip thật **không thêm Ken Burns** - nó đã có chuyển đ�
 Dòng credit trên cảnh clip không đốt thẳng vào ảnh được, phải xuất PNG nền trong rồi dán đè
 (`cred-png.py`).
 
+## 10. Cân màu bằng Palmier - đo rồi mới chỉnh
+
+Ảnh trộn nhiều nguồn thì sáng tối lệch nhau rất rõ khi cắt liên tiếp. Đây là khâu bắt buộc,
+làm ngày 27/8 cho video Apple Event.
+
+**Cân trên bản SẠCH, chưa dán thẻ và phụ đề.** Nếu cân lên bản đã có thẻ thì màu đỏ nhấn
+`#C0392B` cũng bị kéo theo. `build.py` giữ sẵn `clips/<canh>_raw.mp4` chính là bản sạch đó.
+
+**Thứ tự:** đưa từng cảnh vào Palmier, `inspect_color` đọc scope trước, chỉnh, rồi `inspect_color`
+lại để xác nhận. Không chỉnh mò rồi nhìn bằng mắt.
+
+Ba con số đáng nhìn nhất: `luma.black` (nên quanh 0,02 tới 0,10, cao hơn là đục),
+`luma.white` (nên 0,80 tới 0,95), và `luma.clipLowPct` (trên 5% là mất chi tiết vùng tối).
+Rồi so `luma.mean` giữa các cảnh - **độ lệch chuẩn của dãy này chính là thước đo lệch tông**.
+
+Kết quả đo được lần 27/8, 13 cảnh:
+
+| | trước | sau |
+|---|---|---|
+| sáng thấp nhất tới cao nhất | 0,144 - 0,440 | 0,257 - 0,396 |
+| độ lệch chuẩn | 0,102 | **0,056** |
+| cảnh bị kẹt đen nặng nhất | 33,7% | 1,1% |
+
+**Đừng ép về bằng nhau tuyệt đối.** Cảnh đêm với cảnh sản phẩm nền trắng vốn phải khác nhau,
+kéo bằng hết là mất luôn ý đồ. Đích là hết cú nhảy chói mắt, không phải 13 cảnh giống hệt.
+
+**Bẫy đã trả giá:**
+- `inspect_color` gọi bằng `mediaRef` thì dữ liệu nằm dưới khoá **`media`**, gọi bằng `clipId`
+  mới nằm dưới **`clip`**. Bóc sai khoá là ra **toàn số 0** mà không báo lỗi gì.
+- `apply_color` **gộp** lên grade cũ, không cộng dồn. Nước chỉnh thứ hai phải truyền **giá trị
+  tuyệt đối**, không phải phần chênh.
+- Tên tham số hay đoán sai: `import_media` cần `source` là **object** (`{"path": "..."}`),
+  `add_clips` dùng `entries` chứ không phải `clips`, `export_project` chỉ nhận `resolution` là
+  `720p / 1080p / 2K / 4K / Match Timeline`. Cứ truyền bừa một khoá sai thì máy trả về đúng
+  danh sách khoá hợp lệ - đó là cách dò nhanh nhất.
+- Palmier **không mở project nào thì MCP trả "Editor not available"**, và app treo thì cổng
+  19789 mở nhưng không trả lời gì cả. `open -a PalmierPro` rồi `manage_project action=open`
+  là xong.
+
+Cân xong thì `export_project`, rồi dán thẻ và phụ đề lên bản đã cân bằng ffmpeg
+(`ghep-cuoi.py`), dùng `-itsoffset` để đặt từng thẻ vào đúng mốc.
+
 ## Nguồn đã đọc
 
 Nhịp cắt và giữ chân: [Short-Form Video Pacing Guide](https://shortzly.com/blog/short-form-video-pacing-editing-guide) ·
