@@ -19,7 +19,23 @@ Gói sản xuất (docs/video/<ngày>-<slug>.md)
    -> gói đăng (tiêu đề + mô tả + UTM) nằm cuối chính file gói sản xuất
 ```
 
-Anh Long **tự đọc lời thoại**, không nhân bản giọng như bên Chạm AI.
+Lời thoại: **anh Long tự đọc** hoặc **nhân bản giọng bằng OmniVoice** như bên Chạm AI.
+Nới ngày **27/08/2026** theo yêu cầu của anh Long, trước đó luật là chỉ tự đọc.
+
+Nếu dùng giọng nhân bản thì **kịch bản phải có hai bản**:
+- **Bản đọc** (số dạng số) giữ trong gói sản xuất, dùng khi anh Long tự thu.
+- **Bản cho TTS** (số phiên âm thành chữ: "mùng chín tháng chín", "hai nghìn đô") đặt ở
+  `~/chamai-video-kit/out/<tên>-script.txt`, mỗi câu một dòng. Máy đọc số dạng số là vấp.
+  **Chữ hiện trên màn hình vẫn để dạng số.** Đây là chỗ khác nhau giữa hai bản, đừng lẫn.
+
+Quy trình nhân bản giọng nằm ở `~/chamai-video-kit/AGENTS.md` mục 2 và 3. Tóm tắt:
+```bash
+cd ~/chamai-video-kit
+nohup .venv/bin/python scripts/voice.py --file out/<tên>-script.txt -o out/<tên>-voice.wav &
+```
+Mất khoảng 2 phút mỗi câu, chạy nền rồi làm việc khác. **Bóc lại bằng Whisper để soi từng con
+số là bắt buộc** - TTS từng đọc "sáu mươi bảy phần trăm" thành "sáu phần trăm, mười bảy phần
+trăm". Câu nào hỏng thì thu lại riêng câu đó rồi ghép, đừng chạy lại cả lượt.
 
 Whisper chạy local vì **Palmier không bóc được tiếng Việt**:
 ```bash
