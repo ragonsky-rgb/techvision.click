@@ -10,7 +10,7 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 233
+- **Số bài viết:** 234
 - **Cập nhật:** 2026-08-27 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
@@ -26,6 +26,7 @@
 ## Bài viết mới nhất
 
 - [LCP Split 3: TSW vào tuần chung kết, lịch thi đấu 29-30/8](https://techvision.click/articles/lcp-2026-split-3-tuan-chung-ket-29-30-8-tsw-gam-mvk.html)
+- [Motorola razr fold về Việt Nam: giá 49,99 triệu đồng](https://techvision.click/articles/motorola-razr-fold-ra-mat-viet-nam-gia-49-99-trieu-2026.html)
 - [Esports Nations Cup hoãn sang 11/2027, tuyển Việt Nam chờ](https://techvision.click/articles/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.html)
 - [Nothing Phone (4a) ra mắt Việt Nam: giá bán và cấu hình](https://techvision.click/articles/nothing-phone-4a-4a-pro-ra-mat-viet-nam-gia-cau-hinh-2026.html)
 - [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
@@ -44,10 +45,10 @@
 - [Pixel 11 Pro Fold hay Z Fold 8: mua máy gập nào tại Việt Nam](https://techvision.click/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html)
 - [Pixel 11 giá bao nhiêu, bao giờ về Việt Nam](https://techvision.click/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html)
 - [Pixel Tag giá bao nhiêu, dùng tại Việt Nam được không](https://techvision.click/articles/google-pixel-tag-the-dinh-vi-29-usd-doi-thu-airtag-2026.html)
-- [Vivo S2 trở lại sau 7 năm: pin 7.050mAh, màn cong 1.5K](https://techvision.click/articles/vivo-s2-pin-7050mah-man-cong-15k-dimensity-7360-turbo-2026.html)
 
-## Smartphone (63 bài)
+## Smartphone (64 bài)
 
+- [Motorola razr fold về Việt Nam: giá 49,99 triệu đồng](https://techvision.click/articles/motorola-razr-fold-ra-mat-viet-nam-gia-49-99-trieu-2026.html)
 - [Nothing Phone (4a) ra mắt Việt Nam: giá bán và cấu hình](https://techvision.click/articles/nothing-phone-4a-4a-pro-ra-mat-viet-nam-gia-cau-hinh-2026.html)
 - [HyperOS 4 cập nhật khi nào: danh sách máy Xiaomi, Redmi, POCO](https://techvision.click/articles/hyperos-4-android-17-danh-sach-may-xiaomi-redmi-poco-cap-nhat-2026.html)
 - [Pixel 11 Pro Fold hay Z Fold 8: mua máy gập nào tại Việt Nam](https://techvision.click/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html)

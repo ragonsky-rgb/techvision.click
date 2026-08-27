@@ -42,8 +42,6 @@ related:
   - { href: "/articles/dien-thoai-gap-co-ben-khong-ban-le-nep-gap-tuoi-tho-2026.html", cat: "Smartphone", title: "Điện thoại gập có bền không: bản lề, nếp gấp, tuổi thọ" }
   - { href: "/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html", cat: "Smartphone", title: "Pixel 11 Pro Fold và Galaxy Z Fold 8: giá tại Việt Nam" }
 featured: true
-noindex: true
-scheduled: true
 ---
 
 Thị trường điện thoại gập tại Việt Nam lâu nay gần như là sân riêng của Samsung ở nhóm gập kiểu sách. Ngày 19/8/2026, Motorola bước vào phân khúc đó với razr fold, chiếc máy gập kiểu sách đầu tiên của hãng bán chính hãng trong nước, giá niêm yết 49,99 triệu đồng.
