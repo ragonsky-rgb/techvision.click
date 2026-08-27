@@ -42,8 +42,6 @@ related:
   - { href: "/articles/tsw-gianh-ve-worlds-2026-dai-dien-lmht-viet-nam-dau-tien-lcp-split-3.html", cat: "Gaming", title: "TSW giành vé Worlds 2026, đại diện LMHT Việt Nam đầu tiên" }
   - { href: "/articles/worlds-2026-lmht-chung-ket-new-york-lich-suat-lcp.html", cat: "Gaming", title: "Worlds 2026: chung kết tại New York, suất dự của LCP" }
 featured: true
-noindex: true
-scheduled: true
 ---
 
 Vòng playoffs LCP 2026 Split 3 diễn ra dồn dập trong bốn ngày, từ 20 tới 23/8, và đã trả lời gần hết các câu hỏi mà khán giả Việt Nam theo dõi suốt mùa giải. Trong ba đại diện của Việt Nam bước vào giai đoạn loại trực tiếp, chỉ còn Team Secret Whales đi tiếp tới tuần chung kết ngày 29 và 30/8 tại Đài Bắc.

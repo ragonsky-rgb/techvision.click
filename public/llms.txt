@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 232
-- **Cập nhật:** 2026-08-26 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 233
+- **Cập nhật:** 2026-08-27 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [LCP Split 3: TSW vào tuần chung kết, lịch thi đấu 29-30/8](https://techvision.click/articles/lcp-2026-split-3-tuan-chung-ket-29-30-8-tsw-gam-mvk.html)
 - [Esports Nations Cup hoãn sang 11/2027, tuyển Việt Nam chờ](https://techvision.click/articles/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.html)
 - [Nothing Phone (4a) ra mắt Việt Nam: giá bán và cấu hình](https://techvision.click/articles/nothing-phone-4a-4a-pro-ra-mat-viet-nam-gia-cau-hinh-2026.html)
 - [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
@@ -44,7 +45,6 @@
 - [Pixel 11 giá bao nhiêu, bao giờ về Việt Nam](https://techvision.click/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html)
 - [Pixel Tag giá bao nhiêu, dùng tại Việt Nam được không](https://techvision.click/articles/google-pixel-tag-the-dinh-vi-29-usd-doi-thu-airtag-2026.html)
 - [Vivo S2 trở lại sau 7 năm: pin 7.050mAh, màn cong 1.5K](https://techvision.click/articles/vivo-s2-pin-7050mah-man-cong-15k-dimensity-7360-turbo-2026.html)
-- [ROG Strix Scar 18 2026 về VN: RTX 5090, giá 179,99 triệu](https://techvision.click/articles/asus-rog-strix-scar-18-2026-rtx-5090-mini-led-4k-240hz-gia-viet-nam.html)
 
 ## Smartphone (63 bài)
 
@@ -246,8 +246,9 @@
 - [WWDC 2026 (8/6): Siri mới chạy Google Gemini, preview iOS 27](https://techvision.click/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html)
 - [iPhone sẽ tự khóa khi bị giật khỏi tay: tính năng mới](https://techvision.click/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html)
 
-## Gaming (10 bài)
+## Gaming (11 bài)
 
+- [LCP Split 3: TSW vào tuần chung kết, lịch thi đấu 29-30/8](https://techvision.click/articles/lcp-2026-split-3-tuan-chung-ket-29-30-8-tsw-gam-mvk.html)
 - [Esports Nations Cup hoãn sang 11/2027, tuyển Việt Nam chờ](https://techvision.click/articles/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.html)
 - [LCP 2026 Split 3 Playoffs: lịch thi đấu và cửa Worlds](https://techvision.click/articles/lcp-2026-split-3-playoffs-lich-thi-dau-cua-worlds-gam-mvk.html)
 - [Free Fire EWC 2026: LYON vô địch, lập kỷ lục hạ gục](https://techvision.click/articles/free-fire-ewc-2026-lyon-vo-dich-ky-luc-ha-guc.html)
