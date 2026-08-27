@@ -16,7 +16,11 @@ App nhận một bài đã đăng trên techvision.click, trả về gói sản 
 
 ---
 
-## Prompt để dán vào Flow
+## ~~Prompt để dán vào Flow~~ (HẾT HIỆU LỰC từ 13/08/2026)
+
+> ⛔ **Bỏ hẳn khâu Flow / AI sinh video.** Media chỉ còn nguồn thật. Giữ mục này lại chỉ để
+> tra lịch sử, KHÔNG làm theo. Quy trình đang dùng: `docs/video/AGENTS.md`.
+
 
 ```
 Bạn là biên kịch video ngắn cho kênh TechVision, kênh tin công nghệ tiêu dùng
