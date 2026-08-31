@@ -42,8 +42,6 @@ related:
   - { href: "/articles/asus-rog-flow-z13-ryzen-ai-max-395-may-tinh-bang-gaming-2026.html", cat: "Laptop", title: "ROG Flow Z13: máy tính bảng gaming Ryzen AI Max+ 395" }
   - { href: "/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html", cat: "Laptop", title: "Chip laptop 2026: Panther Lake, Snapdragon X2 Elite và AMD" }
 featured: true
-noindex: true
-scheduled: true
 ---
 
 Giữa lúc giá laptop tại Việt Nam liên tục nhích lên vì chi phí bộ nhớ, Lenovo đưa về một mẫu máy đi ngược dòng: thay vì tiết kiệm RAM, Yoga Pro 7a lấy chính lượng bộ nhớ lớn làm điểm bán hàng. Bản 15 inch bắt đầu bán trong nước từ tháng 8/2026 với giá 69,99 triệu đồng, nhắm vào nhóm làm nội dung chuyên nghiệp.
