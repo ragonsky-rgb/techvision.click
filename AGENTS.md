@@ -62,6 +62,22 @@ Kiểm bằng `node scripts/check-vn-signal.mjs` (thêm `--since YYYY-MM-DD` đ�
 Chạy đủ 4 bước này trước MỖI lần commit để máy/AI khác không tái tạo lỗi cũ:
 0. **`node scripts/check-cadence.mjs`** và **`node scripts/check-vn-signal.mjs --since <ngày hôm nay>`** → cả hai phải PASS. Cadence chặn đăng ồ ạt và series template (§0a); vn-signal chặn bài sản phẩm không có dữ liệu Việt Nam (§0a-bis).
 1. **`node scripts/check-media.mjs`** → phải ra **0 ảnh lỗi · 0 video lỗi · 0 bài media dồn cụm**. Script quét cả `src/content/articles`, `public/articles` và `public/su-kien`. Nếu có lỗi: sửa (thay thumbnail sống, hạ maxres→hqdefault, giãn media) rồi chạy lại tới khi sạch.
+
+   ⚠️ **PHIÊN CLOUD (Claude Code web) KHÔNG chạy được phần kiểm mạng của gate này.** Proxy egress
+   chặn thẳng `i.ytimg.com` và `youtube.com` ở tầng CONNECT tunnel, nên script báo **mọi** thumbnail
+   là lỗi. Đo ngày 01/09/2026: 2.474 "ảnh lỗi" trên tổng 2.363 URL ytimg của repo, tức trượt gần như
+   100%, kể cả ảnh hero đang sống bình thường trên production.
+
+   **Cách phân biệt trước khi sửa bất cứ thứ gì:**
+   - Lỗi ghi `[403]` = proxy chặn, KHÔNG phải ảnh chết. Bỏ qua.
+   - Lỗi ghi `[404]` hoặc thumbnail trả về dưới 8000 byte = chết thật. Sửa.
+   - Kiểm nhanh: `curl -sS -o /dev/null -w "%{http_code}" https://i.ytimg.com/vi/<ID>/maxresdefault.jpg`.
+     Nếu ra `CONNECT tunnel failed, response 403` thì cả môi trường đang bị chặn, mọi kết quả
+     mạng của gate đều vô nghĩa.
+
+   **TUYỆT ĐỐI KHÔNG thay hàng loạt thumbnail dựa trên kết quả 403.** Sẽ phá media đang sống.
+   Phần "media dồn cụm" của script chạy hoàn toàn offline nên vẫn tin được ở mọi môi trường;
+   phần kiểm URL sống phải chạy ở máy local không qua proxy.
 2. **Build sạch** bằng lệnh ở §5, không warning/lỗi.
 3. **Ảnh/video mới**: verify HTTP 200 + kích thước thật (maxres có thể trả ảnh xám ~1KB status 200, xem §4). Video embed phải còn sống + cho nhúng. KHÔNG dán URL chưa kiểm tra.
 4. **Commit chỉ file nguồn**, KHÔNG commit `dist/`. Máy mới: set `git config user.email` trước (xem §7). Sau đó `git push origin main` — **push thẳng `main`, không dùng nhánh phụ/PR** (xem quy tắc vàng §0, bài trên nhánh phụ không lên production).
