@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 235
-- **Cập nhật:** 2026-08-31 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 236
+- **Cập nhật:** 2026-09-01 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [iPhone 18 ra mắt khi nào, bao giờ về Việt Nam?](https://techvision.click/articles/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.html)
 - [Lenovo Yoga Pro 7a về Việt Nam: giá 69,99 triệu đồng](https://techvision.click/articles/lenovo-yoga-pro-7a-ra-mat-viet-nam-gia-69-99-trieu-2026.html)
 - [LCP Split 3: TSW vào tuần chung kết, lịch thi đấu 29-30/8](https://techvision.click/articles/lcp-2026-split-3-tuan-chung-ket-29-30-8-tsw-gam-mvk.html)
 - [Motorola razr fold về Việt Nam: giá 49,99 triệu đồng](https://techvision.click/articles/motorola-razr-fold-ra-mat-viet-nam-gia-49-99-trieu-2026.html)
@@ -44,7 +45,6 @@
 - [Gemini đạt 1 tỷ người dùng: Google lật ngược thế cờ ra sao](https://techvision.click/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html)
 - [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
 - [Pixel 11 Pro Fold hay Z Fold 8: mua máy gập nào tại Việt Nam](https://techvision.click/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html)
-- [Pixel 11 giá bao nhiêu, bao giờ về Việt Nam](https://techvision.click/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html)
 
 ## Smartphone (64 bài)
 
@@ -230,8 +230,9 @@
 - [macOS 27: sửa Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
 - [RTX 5090 Ti 48GB GDDR7: thông số, hiệu năng, ngày ra mắt dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
 
-## Apple (15 bài)
+## Apple (16 bài)
 
+- [iPhone 18 ra mắt khi nào, bao giờ về Việt Nam?](https://techvision.click/articles/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.html)
 - [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
 - [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
 - [Apple cho thuê iPhone giá từ 17,99 USD/tháng qua Klarna](https://techvision.click/articles/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.html)

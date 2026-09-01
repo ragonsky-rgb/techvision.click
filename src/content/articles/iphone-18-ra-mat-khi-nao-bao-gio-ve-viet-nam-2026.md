@@ -42,8 +42,6 @@ related:
   - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Fold 2026: giá dự kiến, cấu hình, ngày ra mắt" }
   - { href: "/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html", cat: "Apple", title: "iPhone 18 bản thường lùi 2027, mùa thu chỉ có Pro và máy gập" }
 featured: true
-noindex: true
-scheduled: true
 ---
 
 Mỗi năm vào khoảng cuối tháng 8, lượng tìm kiếm về iPhone tại Việt Nam tăng vọt, và phần lớn không hỏi máy có gì mới mà hỏi bao giờ mua được. Năm nay câu hỏi đó phức tạp hơn thường lệ, bởi Apple được cho là đã tách lịch ra mắt làm hai đợt. Dưới đây là các mốc thời gian dự kiến, kèm phần quan trọng với người mua trong nước: giá iPhone đời hiện tại đang ở đâu.
