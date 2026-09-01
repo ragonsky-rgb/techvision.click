@@ -23,6 +23,7 @@
 > Bối cảnh: tới 07/08/2026 site có 704 bài markdown sinh ra trong 53 ngày (**13,3 bài/ngày**, ngày đỉnh **66 bài**). Kết quả: chỉ **2,7%** bài markdown từng có 1 lượt hiển thị trên Google, trong khi 61 bài legacy viết tay từng bài đạt **41%**. Chênh 15 lần. Google crawl rồi từ chối lập chỉ mục (*Crawled - currently not indexed*) dù kỹ thuật sạch - đây là tín hiệu *scaled content abuse*. Đã gỡ 480 bài khỏi index và xóa 47 bài lạc ngách để dọn.
 
 - **Tối đa 2 bài/ngày, tối đa 8 bài/tuần.** Không có ngoại lệ cho "batch", "bù bài", hay "tin nóng nhiều quá".
+- **Trần này đếm BÀI MỚI, không đếm lượt refresh.** Cập nhật một bài đã có (giữ nguyên slug, bump `dateModified`) không tính vào trần. Bài hot đang vào mùa (hub sale, trang sự kiện, bài giá) thì cứ cập nhật nhiều lần trong ngày mỗi khi có tin mới, đó là việc nên làm chứ không phải vi phạm. Chốt của anh Long ngày 01/09/2026.
 - **Cấm tuyệt đối các series template** kiểu đổi danh từ giữ nguyên khung: `Cách chọn X 2026: 5 tiêu chí`, `X hay Y chọn loại nào`, `Top X đáng mua tháng N`, `X là gì`. Toàn bộ 171 bài dạng này đã bị noindex vì 0 lượt hiển thị.
 - **Chỉ viết đúng ngách công nghệ.** Cấm đồ gia dụng (nồi cơm, tủ lạnh, máy giặt, bếp từ, máy sấy tóc, máy lọc nước...) - 47 bài dạng này đã bị xóa.
 - **Mỗi bài phải có thứ mà nguồn quốc tế không có**: giá VN thật, so sánh máy bán ở VN, trải nghiệm thật, hoặc góc phân tích riêng. Bài chỉ dịch lại tin nước ngoài thì đừng đăng.
