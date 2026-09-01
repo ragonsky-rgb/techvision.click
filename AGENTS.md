@@ -168,6 +168,14 @@ node scripts/indexnow.mjs <url-bai> https://techvision.click/blog.html
 node scripts/gsc/gsc.mjs sitemap sitemap-news.xml   # nếu có token
 ```
 - IndexNow ping Bing/Yandex (nuôi ChatGPT/Copilot) ngay sau mỗi bài.
+
+  ⚠️ **Phiên cloud (Claude Code web) KHÔNG ping IndexNow được.** Proxy egress chặn cả
+  `api.indexnow.org` lẫn `www.bing.com` ở tầng CONNECT tunnel, script trả `403 Forbidden`
+  cho mọi URL. Đây KHÔNG phải key hỏng hay script lỗi: đo ngày 01/09/2026, `curl` trực tiếp
+  hai endpoint đều ra `CONNECT tunnel failed, response 403`, trong khi `github.com` vẫn
+  kết nối bình thường. **Đừng đi tạo lại key IndexNow hay sửa script vì lỗi này.**
+  Phiên cloud cứ đăng bài rồi ghi lại URL cần ping; anh Long chạy `node scripts/indexnow.mjs <url>`
+  ở máy local là xong. Google vẫn crawl bình thường qua sitemap, không phụ thuộc IndexNow.
 - Sitemap: đã có `sitemap-index.xml` + `sitemap.xml` + `sitemap-news.xml`. GSC "chưa nhận" với domain mới là chuyện bình thường (hàng đợi), không phải lỗi file.
 
 ## 7. Khi làm việc từ máy khác (quan trọng)
