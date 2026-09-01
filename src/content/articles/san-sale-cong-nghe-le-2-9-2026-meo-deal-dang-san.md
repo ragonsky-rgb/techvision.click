@@ -6,7 +6,7 @@ keywords: "săn sale 2/9, sale công nghệ 2/9 2026, sale Quốc khánh, Shopee
 category: "Công nghệ"
 type: "cam-nang"
 datePublished: "2026-08-04T23:30:00+07:00"
-dateModified: "2026-08-24T11:40:00+07:00"
+dateModified: "2026-09-01T09:00:00+07:00"
 deck: "Lễ Quốc khánh 2/9 và đại tiệc Shopee 9.9 ngay sau đó tạo thành hai tuần sale dày đặc nhất nửa cuối năm cho đồ công nghệ. Bài viết tổng hợp lịch khuyến mãi, mẹo canh giá để không mua hớ và danh sách những món đáng săn nhất theo từng ngân sách, từ điện thoại flagship tới tai nghe, sạc dự phòng."
 heroImage: "https://i.ytimg.com/vi/FUS1QLKLOZ0/maxresdefault.jpg"
 heroAlt: "Meo san sale cong nghe dip le Quoc khanh 2 9 va Shopee 9 9 nam 2026"
@@ -16,9 +16,9 @@ tldr: "Dịp <strong>lễ Quốc khánh 2/9/2026</strong>, các chuỗi lớn nh
 tags: ["SanSale", "MuaSam", "TuVan", "Shopee", "CongNghe", "2026"]
 about: ["Sale Quốc khánh 2/9", "Shopee 9.9", "iPhone 16 Pro Max", "Galaxy S25 Ultra"]
 authorBio: "Founder LongTechVision. Theo dõi giá và khuyến mãi đồ công nghệ tại Việt Nam cho người dùng phổ thông."
-sourceUrl: "https://shopee.vn/m/9-9"
-sourceName: "Shopee 9.9 Ngày Siêu Mua Sắm"
-sourceDomains: "shopee.vn · cellphones.com.vn · fptshop.com.vn"
+sourceUrl: "https://cellphones.com.vn/khuyen-mai-2-9"
+sourceName: "Trang khuyến mãi lễ 2/9 của CellphoneS"
+sourceDomains: "cellphones.com.vn · thegioididong.com · shopee.vn"
 stats:
   - { num: "2/9 + 9.9", label: "Hai đợt sale liền nhau đầu tháng 9" }
   - { num: "3-5 ngày", label: "Thời lượng sale lễ ở các chuỗi lớn" }
@@ -32,13 +32,13 @@ faq:
   - q: "Làm sao biết giảm giá thật hay giảm ảo?"
     a: "Hãy ghi lại giá món đồ bạn nhắm trước lễ khoảng một tuần, hoặc tra các bài bảng giá gần nhất. Đến ngày sale, so giá cuối cùng sau khi trừ voucher với mức tham chiếu đó. Nếu giá gạch bị đẩy lên rồi gạch xuống, tổng tiền phải trả sẽ không thấp hơn đáng kể so với ngày thường."
   - q: "Nên mua iPhone dịp 2/9 hay chờ iPhone 18 ra mắt?"
-    a: "iPhone 18 dự kiến ra mắt khoảng ngày 9/9/2026 nhưng chỉ có bản Pro và Pro Max trong đợt mùa thu. Nếu cần máy giá hợp lý, iPhone 16 Pro Max và dòng iPhone 17 đang ở vùng giá thấp nhất từ khi mở bán, mua dịp sale lễ là hợp lý. Nếu nhắm đúng iPhone 18 Pro thì nên chờ thêm vài tuần."
+    a: "iPhone 18 dự kiến ra mắt khoảng ngày 9/9/2026 nhưng chỉ có bản Pro và Pro Max trong đợt mùa thu. Nếu cần máy giá hợp lý, iPhone 16 Pro Max và dòng iPhone 17 đang ở vùng giá thấp nhất từ khi mở bán, mua dịp sale lễ là hợp lý. Nếu nhắm đúng iPhone 18 Pro thì chỉ còn khoảng một tuần nữa, chờ tới sự kiện rồi quyết là hợp lý."
   - q: "Mẹo cộng voucher trên Shopee dịp 9.9 thế nào cho tối ưu?"
     a: "Thứ tự nên làm: lưu voucher toàn sàn từ trước 0h ngày sale, kiểm tra mã hoàn xu của gian hàng, chọn ưu đãi thanh toán qua thẻ hoặc ví liên kết, và canh khung giờ flash sale 0h, 12h, 20h. Ba lớp giảm cộng lại thường sâu hơn nhiều so với chỉ nhìn phần trăm giảm trên giá gạch."
   - q: "Sale 2/9/2026 có rẻ bằng các năm trước không?"
     a: "Với điện thoại thì tương đương, vì máy hạ giá theo vòng đời sản phẩm. Với laptop và PC thì khả năng cao là không, do khủng hoảng bộ nhớ do AI đã đẩy giá RAM DRAM lên khoảng 171% và NAND khoảng 246% trong năm 2026, kéo giá máy tại Việt Nam tăng 15-20% ở phân khúc phổ thông. Cùng một mức giảm phần trăm, số tiền thực trả vẫn có thể cao hơn năm ngoái."
-  - q: "Đã có lịch sale 2/9/2026 chính thức chưa?"
-    a: "Tính tới ngày 10/8/2026, chưa chuỗi bán lẻ lớn nào tại Việt Nam công bố lịch khuyến mãi 2/9/2026 chính thức. Các mốc thời gian trong bài dựa trên quy luật những năm trước, thường là sale lễ 3 tới 5 ngày quanh 30/8 tới 2/9. Bài sẽ được cập nhật khi có thông báo chính thức."
+  - q: "Lịch sale 2/9/2026 chính thức thế nào?"
+    a: "Các chương trình đã chạy. CellphoneS mở sale lễ Quốc khánh từ 29/8/2026 với mức giảm tới 50% và tới 7,5 triệu đồng ở nhóm điện thoại, máy tính bảng. Thế Giới Di Động giảm thêm tới 2,9 triệu đồng cho laptop và điện thoại, đồng hồ thông minh và phụ kiện giảm tới 18%. Trên sàn, mùa Shopee 9.9 kéo dài từ 26/8 tới 11/9 và dồn ưu đãi mạnh nhất vào đúng ngày 9/9. Mức giảm cụ thể thay đổi theo từng model nên vẫn phải so giá cuối cùng."
   - q: "Mua đồ công nghệ dịp sale cần lưu ý gì để tránh rủi ro?"
     a: "Ưu tiên gian hàng Mall hoặc cửa hàng chính hãng, kiểm tra chính sách đổi trả và bảo hành trước khi đặt. Với điện thoại, laptop nên quay video khi mở hộp. Giá rẻ bất thường so với mặt bằng gần như chắc chắn là hàng trôi nổi hoặc lừa đảo."
 related:
@@ -49,18 +49,18 @@ related:
 featured: false
 ---
 
-Lễ Quốc khánh 2/9 năm nay rơi vào giữa tuần, và như mọi năm, các chuỗi bán lẻ lớn tại Việt Nam sẽ chạy sale lễ kéo dài 3 tới 5 ngày, ngay trước khi Shopee bước vào đại tiệc 9.9 Ngày Siêu Mua Sắm. Hai đợt giảm giá liền nhau tạo thành khoảng hai tuần vàng để sắm đồ công nghệ, đặc biệt khi nhiều mẫu flagship 2024-2025 đang ở vùng giá thấp nhất từ khi mở bán. Bài viết này tổng hợp lịch sale, mẹo canh giá để không mua hớ, và danh sách những món đáng săn nhất theo từng ngân sách. Lưu ý minh bạch: các link mua hàng trong bài là link affiliate trỏ tới trang tìm kiếm gian hàng chính hãng trên Shopee Mall, bạn mua qua link là ủng hộ TechVision mà giá không đổi.
+Lễ Quốc khánh 2/9 năm nay rơi vào giữa tuần, và các chuỗi bán lẻ lớn tại Việt Nam đã mở sale lễ từ cuối tháng 8, đúng lúc Shopee bước vào mùa 9.9 Ngày Siêu Mua Sắm. Hai đợt giảm giá chồng lên nhau tạo thành khoảng hai tuần vàng để sắm đồ công nghệ, đặc biệt khi nhiều mẫu flagship 2024-2025 đang ở vùng giá thấp nhất từ khi mở bán. Bài viết này tổng hợp lịch sale, mẹo canh giá để không mua hớ, và danh sách những món đáng săn nhất theo từng ngân sách. Lưu ý minh bạch: các link mua hàng trong bài là link affiliate trỏ tới trang tìm kiếm gian hàng chính hãng trên Shopee Mall, bạn mua qua link là ủng hộ TechVision mà giá không đổi.
 
 <div class="art-callout">
-  🗓️ <strong>Cập nhật 24/8/2026:</strong> còn 9 ngày tới lễ nhưng vẫn chưa chuỗi bán lẻ lớn nào công bố lịch khuyến mãi 2/9/2026 chính thức. Kiểm lại ngày 24/8 trên trang khuyến mãi của CellphoneS, FPT Shop và Thế Giới Di Động đều chưa thấy chương trình riêng cho dịp này. Các mốc ngày trong bảng dưới là quy luật rút ra từ những năm trước, không phải lịch đã công bố. Theo nếp các năm trước, chương trình thường được công bố trong khoảng 3 tới 5 ngày trước lễ, nên mốc đáng theo dõi là từ 28/8. Bài sẽ được cập nhật ngay khi có thông báo từ các chuỗi và từ sàn.
+  🗓️ <strong>Cập nhật 1/9/2026:</strong> các chương trình đã chạy, không còn phải chờ. CellphoneS mở trang khuyến mãi lễ Quốc khánh từ 29/8 với mức giảm tới 50% và tới 7,5 triệu đồng ở nhóm điện thoại, máy tính bảng, kèm miễn phí vận chuyển cho đơn từ 300 nghìn đồng và voucher phụ kiện 150 nghìn đồng khi mua máy trên 10 triệu. Thế Giới Di Động giảm thêm tới 2,9 triệu đồng cho laptop và điện thoại, nhóm đồng hồ thông minh và phụ kiện giảm tới 18%. Phía sàn, Shopee đã vào mùa 9.9 từ 26/8 và chạy tới 11/9, cao điểm rơi đúng ngày 9/9. Nói cách khác, hai đợt giảm giá đang chồng lên nhau ngay lúc này.
 </div>
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Lịch săn sale công nghệ đầu tháng 9/2026</div>
   <table>
-    <tr><td>30/8 - 2/9</td><td>Sale lễ Quốc khánh ở CellphoneS, TGDĐ, FPT Shop (điện thoại, laptop)</td></tr>
-    <tr><td>Trước 2/9 một tuần</td><td>Chốt giá tham chiếu các món đang nhắm</td></tr>
-    <tr><td>9/9</td><td>Shopee 9.9 Ngày Siêu Mua Sắm (phụ kiện, tai nghe, flash sale)</td></tr>
+    <tr><td>Từ 29/8</td><td>CellphoneS chạy sale lễ Quốc khánh, giảm tới 50% và tới 7,5 triệu đồng</td></tr>
+    <tr><td>Quanh 2/9</td><td>Thế Giới Di Động giảm thêm tới 2,9 triệu đồng cho laptop và điện thoại</td></tr>
+    <tr><td>26/8 - 11/9</td><td>Mùa Shopee 9.9, cao điểm đúng ngày 9/9 (phụ kiện, tai nghe, flash sale)</td></tr>
     <tr><td>Khung giờ vàng</td><td>0h, 12h, 20h ngày sale trên sàn</td></tr>
     <tr><td>Công thức giảm</td><td>Voucher sàn + hoàn xu + ưu đãi thanh toán</td></tr>
   </table>
@@ -113,8 +113,8 @@ Phụ kiện giá trị vừa phải lại là nhóm hưởng trọn công thứ
 
 ## Chốt lại: mua gì đợt nào
 
-Điện thoại, laptop chính hãng giá trị cao: canh sale lễ 30/8 tới 2/9 ở chuỗi lớn để tận dụng thu cũ và trả góp 0%, so thêm giá Shopee Mall trước khi chốt. Tai nghe, sạc, phụ kiện: để dành sang 9/9 cộng voucher sàn. Món nào đã chạm mức giá tham chiếu bạn đặt ra từ trước thì chốt luôn, đừng chờ đáy tuyệt đối, vì hàng hot dịp sale hết rất nhanh và giá sau lễ thường bật lại. Cuối cùng, chỉ mua ở gian hàng Mall hoặc chuỗi ủy quyền chính hãng, món giá trị cao nên quay video mở hộp để yên tâm khâu đổi trả.
+Điện thoại, laptop chính hãng giá trị cao: canh sale lễ đang chạy ở chuỗi lớn từ 29/8 tới hết dịp 2/9 để tận dụng thu cũ và trả góp 0%, so thêm giá Shopee Mall trước khi chốt. Tai nghe, sạc, phụ kiện: để dành sang 9/9 cộng voucher sàn. Món nào đã chạm mức giá tham chiếu bạn đặt ra từ trước thì chốt luôn, đừng chờ đáy tuyệt đối, vì hàng hot dịp sale hết rất nhanh và giá sau lễ thường bật lại. Cuối cùng, chỉ mua ở gian hàng Mall hoặc chuỗi ủy quyền chính hãng, món giá trị cao nên quay video mở hộp để yên tâm khâu đổi trả.
 
 <div class="art-callout">
-  ✅ <strong>Minh bạch:</strong> Các link Shopee trong bài là link affiliate trỏ tới trang tìm kiếm gian hàng Mall chính hãng, giá không đổi khi mua qua link. Giá tham khảo thay đổi theo ngày và chương trình khuyến mãi. LongTechVision sẽ cập nhật khi có lịch sale chính thức từ các sàn.
+  ✅ <strong>Minh bạch:</strong> Các link Shopee trong bài là link affiliate trỏ tới trang tìm kiếm gian hàng Mall chính hãng, giá không đổi khi mua qua link. Giá tham khảo thay đổi theo ngày và chương trình khuyến mãi. Bài được cập nhật ngày 1/9/2026 theo các chương trình đang chạy, LongTechVision sẽ soát lại quanh ngày 9/9.
 </div>

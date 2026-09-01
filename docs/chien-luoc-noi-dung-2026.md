@@ -1,5 +1,29 @@
 # Chiến lược nội dung & Topical map - techvision.click
 
+> ## ⚠️ SỐ LIỆU TRONG FILE NÀY LÀ CỦA THÁNG 6/2026, ĐÃ LẠC HẬU
+>
+> **Rà ngày 01/09/2026.** File tự đặt luật "cập nhật mỗi quý" nhưng chưa từng
+> được cập nhật kể từ 10/6. Ba chỗ sai lệch nặng nhất, đừng trích dẫn:
+>
+> | Ghi trong file (6/2026) | Thực tế 01/09/2026 |
+> |---|---|
+> | 64 bài | 688 bài markdown + 61 bài legacy, trong đó **513 bài markdown đang noindex** |
+> | Nhịp 3-4 bài/tuần | Trần cứng **2 bài/ngày, 8 bài/tuần** (`AGENTS.md §0a`, từ 07/08) |
+> | KPI 90 ngày: click 42 → 150-200 | Tuần 04-10/08 chỉ được **8 click, 197 hiển thị** |
+>
+> **Phần còn dùng được:** mục 2 (định vị, 3 nguyên tắc), mục 4 (template
+> OUTLINE & AM), mục 6 (vận hành đo lường). Ba mục đó vẫn đúng.
+>
+> **Phần đã bị thay thế:** mục 1 (audit), mục 3 (topical map), mục 5 (brief
+> hai bài đã viết xong từ lâu). Định hướng hiện hành nằm ở
+> **`ke-hoach-12-thang-2026-2027.md`**, dựa trên số đo 12/08 và định vị lại
+> TechVision thành "hệ ra quyết định mua công nghệ tiêu dùng".
+>
+> **Bài học đắt nhất chưa có trong file này:** giai đoạn 6-8/2026 đẻ 704 bài
+> trong 53 ngày, chỉ 2,7% từng có 1 lượt hiển thị, trong khi 61 bài legacy
+> viết tay đạt 41%. Nút thắt là phân phối và tín hiệu Việt Nam, không phải
+> số lượng bài. Xem `AGENTS.md §0a-bis`.
+
 > Lập ngày 10/6/2026, dựa trên audit 64 bài + GSC 90 ngày. Cập nhật mỗi quý.
 
 ## 1. Audit tóm tắt (6/2026)
