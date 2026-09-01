@@ -73,6 +73,17 @@ async function checkVideo(id, errs, warns) {
     `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${id}&format=json`
   );
   if (o !== 200) {
+    // Phan biet BI CHAN voi DA GO, dung theo luat ghi o dau file: 403/429 chi
+    // canh bao, 404/410 moi la loi that. Truoc 01/09/2026 khoi nay gop ca hai
+    // vao ERROR, nen tren phien cloud (proxy chan youtube.com o tang CONNECT)
+    // MOI video deu bi bao la "ID khong ton tai", khien khong bai nao qua duoc
+    // gate va de dan toi viec thay nham media dang song. Xem AGENTS.md §0b.
+    if (o === 403 || o === 429 || o === 0) {
+      warns.push(
+        `video ${id}: oembed tra ${o}, KHONG ket luan duoc (proxy hoac YouTube chan bot). Neu dang o phien cloud thi bo qua; muon chac thi verify lai o may local`
+      );
+      return;
+    }
     errs.push(`video ${id}: oembed tra ${o}, ID khong ton tai hoac bi go`);
     return;
   }
@@ -166,7 +177,18 @@ async function checkOne(path) {
   const today = new Intl.DateTimeFormat('en-CA', {
     timeZone: 'Asia/Ho_Chi_Minh', year: 'numeric', month: '2-digit', day: '2-digit',
   }).format(new Date());
-  if (pub > today) errs.push(`datePublished ${pub} nam o tuong lai (hom nay ${today})`);
+  // Bai hen lich CO CHU Y dat datePublished o tuong lai, kem `scheduled: true`
+  // va `noindex: true` (xem AGENTS.md muc "Hen lich bai viet"). Voi nhom do,
+  // ngay tuong lai la dung chuc nang chu khong phai loi. Truoc 01/09/2026 gate
+  // nay bao loi cho ca bai hen lich, de phien sau tuong nham va di sua ngay
+  // dang ve qua khu, lam bai bung ra som.
+  const isScheduled = /^scheduled:\s*true\s*$/m.test(s);
+  if (pub > today && !isScheduled)
+    errs.push(`datePublished ${pub} nam o tuong lai (hom nay ${today})`);
+  if (pub > today && isScheduled && !/^noindex:\s*true\s*$/m.test(s))
+    errs.push(`bai hen lich (scheduled: true) co datePublished tuong lai nhung THIEU noindex: true, se lo ra blog.html va sitemap ngay bay gio`);
+  if (/^scheduled:\s*true\s*$/m.test(s) && pub && pub <= today)
+    warns.push(`co co scheduled: true nhung datePublished ${pub} khong con o tuong lai - go co nay sau khi bai da len song`);
 
   const vids = [...new Set([...body.matchAll(/youtube\.com\/embed\/([A-Za-z0-9_-]{11})/g)].map((m) => m[1]))];
   const imgs = (body.match(/<img\b/g) || []).length;
