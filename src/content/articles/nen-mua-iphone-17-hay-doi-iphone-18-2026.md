@@ -5,8 +5,8 @@ description: "Apple xác nhận sự kiện 9/9/2026 nhưng không có iPhone 18
 keywords: "nên mua iPhone 17 hay đợi iPhone 18, có nên mua iPhone 17 lúc này, iPhone 18 bao giờ ra, giá iPhone 17 tháng 9 2026, chờ iPhone 18 có đáng, iPhone 18 về Việt Nam khi nào"
 category: "Apple"
 type: "cam-nang"
-datePublished: "2026-09-02T08:30:00+07:00"
-dateModified: "2026-09-02T08:30:00+07:00"
+datePublished: "2026-09-02T06:00:00+07:00"
+dateModified: "2026-09-02T06:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Apple đã chốt ngày sự kiện 9/9/2026, nhưng dàn máy ra mắt lần này không có iPhone 18 bản thường. Điều đó đảo ngược lời khuyên quen thuộc mọi năm là cứ chờ tháng 9. Bài viết tách bạch ai nên xuống tiền ngay, ai nên chờ, dựa trên giá iPhone 17 và iPhone 16 Pro Max đang bán tại Việt Nam."

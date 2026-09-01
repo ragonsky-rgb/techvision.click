@@ -79,6 +79,13 @@ Viết theo template OUTLINE và AM ở `chien-luoc-noi-dung-2026.md` mục 4.
 - **AM OUT:** `iphone-18-thuong-lui-2027-...`, `chip-a20-pro-iphone-18-pro-...`, hub `/su-kien/apple-september-2026.html`
 - **Media:** ≥5, rải đều, 1 hero + 3 ảnh + 1 video, không dồn cụm
 
+> **Cập nhật 01/09/2026:** bài ưu tiên số 1 ở mục 3 đã viết xong và hẹn lịch, không cần
+> mở phiên vào ngày đăng. Cơ chế: `scheduled: true` + `noindex: true` + `datePublished`
+> tương lai, GitHub Action `release-scheduled` tự gỡ cờ rồi đẩy lên. Đặt giờ 06:00 thay vì
+> 08:30 vì cron của GitHub là best-effort: đo lịch chạy thật ngày 26/8 tới 1/9 thấy khoảng
+> cách giữa các lần chạy có lúc tới 5 tiếng chứ không đều mỗi giờ. Đặt sớm để dù trễ vẫn
+> rơi trong buổi sáng.
+
 ## 4. Playbook 72h quanh keynote
 
 Nhịp `AGENTS.md §0a` là 2 bài mới/ngày. Refresh không tính vào trần, nên tuần sự kiện
@@ -86,7 +93,7 @@ chủ yếu là **refresh dày, không đẻ bài ồ ạt**.
 
 | Mốc | Việc | Loại |
 |---|---|---|
-| **02 tới 05/9** | Viết và đăng bài "mua iPhone 17 hay đợi" | Bài mới (1) |
+| **02/9 06:00** | Bài "mua iPhone 17 hay đợi" ĐÃ VIẾT XONG và hẹn lịch tự động ngày 01/09, slug `nen-mua-iphone-17-hay-doi-iphone-18-2026` | ✅ Bài mới (1) |
 | 05 tới 08/9 | Refresh `iphone-18-pro-tat-tan-tat-tinh-nang` theo tin rò rỉ cuối | Refresh |
 | 08/9 | Đẩy hub sự kiện lên Tiêu điểm, kiểm đếm ngược chạy đúng | Kỹ thuật |
 | **09/9 trong ngày** | Hub sự kiện chuyển sang chế độ chờ trực, chốt cách xem trực tiếp | Refresh |
