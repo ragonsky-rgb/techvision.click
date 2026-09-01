@@ -7,8 +7,6 @@ category: "Apple"
 type: "cam-nang"
 datePublished: "2026-09-02T06:00:00+07:00"
 dateModified: "2026-09-02T06:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Apple đã chốt ngày sự kiện 9/9/2026, nhưng dàn máy ra mắt lần này không có iPhone 18 bản thường. Điều đó đảo ngược lời khuyên quen thuộc mọi năm là cứ chờ tháng 9. Bài viết tách bạch ai nên xuống tiền ngay, ai nên chờ, dựa trên giá iPhone 17 và iPhone 16 Pro Max đang bán tại Việt Nam."
 heroImage: "https://i.ytimg.com/vi/Y4p_ZrP-2Gk/maxresdefault.jpg"
 heroAlt: "Nen mua iPhone 17 ngay hay doi iPhone 18 ra mat thang 9 2026"

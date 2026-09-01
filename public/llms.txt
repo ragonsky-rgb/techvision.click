@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 236
-- **Cập nhật:** 2026-09-01 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 238
+- **Cập nhật:** 2026-09-02 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,8 @@
 
 ## Bài viết mới nhất
 
+- [Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?](https://techvision.click/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html)
+- [Nên mua iPhone 17 hay đợi iPhone 18? Câu trả lời thẳng](https://techvision.click/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html)
 - [iPhone 18 ra mắt khi nào, bao giờ về Việt Nam?](https://techvision.click/articles/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.html)
 - [Lenovo Yoga Pro 7a về Việt Nam: giá 69,99 triệu đồng](https://techvision.click/articles/lenovo-yoga-pro-7a-ra-mat-viet-nam-gia-69-99-trieu-2026.html)
 - [LCP Split 3: TSW vào tuần chung kết, lịch thi đấu 29-30/8](https://techvision.click/articles/lcp-2026-split-3-tuan-chung-ket-29-30-8-tsw-gam-mvk.html)
@@ -43,8 +45,6 @@
 - [HyperOS 4 cập nhật khi nào: danh sách máy Xiaomi, Redmi, POCO](https://techvision.click/articles/hyperos-4-android-17-danh-sach-may-xiaomi-redmi-poco-cap-nhat-2026.html)
 - [Pottel là gì: Vietnam Post thành mạng di động ảo thứ 6](https://techvision.click/articles/pottel-vietnam-post-mang-di-dong-ao-thu-6-sim-du-lich-2026.html)
 - [Gemini đạt 1 tỷ người dùng: Google lật ngược thế cờ ra sao](https://techvision.click/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html)
-- [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
-- [Pixel 11 Pro Fold hay Z Fold 8: mua máy gập nào tại Việt Nam](https://techvision.click/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html)
 
 ## Smartphone (64 bài)
 
@@ -70,7 +70,7 @@
 - [Điện thoại dưới 10 triệu đáng mua nửa cuối 2026](https://techvision.click/articles/dien-thoai-duoi-10-trieu-dang-mua-nua-cuoi-2026.html)
 - [iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026](https://techvision.click/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html)
 - [Redmi K100 Pro Max ra mắt: pin 9.070mAh, màn OLED 185Hz](https://techvision.click/articles/redmi-k100-k100-pro-ro-ri-pin-9000mah-man-185hz-2026.html)
-- [Galaxy S26 FE lộ cấu hình: Exynos 2500, giá dự kiến 2026](https://techvision.click/articles/samsung-galaxy-s26-fe-lo-cau-hinh-exynos-2500-gia-du-kien-2026.html)
+- [Galaxy S26 FE giá 18,99 triệu, đã mở bán tại Việt Nam](https://techvision.click/articles/samsung-galaxy-s26-fe-lo-cau-hinh-exynos-2500-gia-du-kien-2026.html)
 - [Honor 600 Pro: camera 200MP, pin 7000mAh có gì đáng mua?](https://techvision.click/articles/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.html)
 - [Galaxy Z Fold 8 vs Z Fold 8 Ultra: chọn bản nào 2026?](https://techvision.click/articles/galaxy-z-fold-8-vs-z-fold-8-ultra-so-sanh-chon-ban-nao-2026.html)
 - [Giá Galaxy Z Flip 8, Z Fold 8 tại Việt Nam: mở bán 18/8](https://techvision.click/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html)
@@ -230,8 +230,10 @@
 - [macOS 27: sửa Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
 - [RTX 5090 Ti 48GB GDDR7: thông số, hiệu năng, ngày ra mắt dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
 
-## Apple (16 bài)
+## Apple (18 bài)
 
+- [Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?](https://techvision.click/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html)
+- [Nên mua iPhone 17 hay đợi iPhone 18? Câu trả lời thẳng](https://techvision.click/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html)
 - [iPhone 18 ra mắt khi nào, bao giờ về Việt Nam?](https://techvision.click/articles/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.html)
 - [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
 - [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
