@@ -113,8 +113,8 @@ Phụ kiện giá trị vừa phải lại là nhóm hưởng trọn công thứ
 
 ## Chốt lại: mua gì đợt nào
 
-Điện thoại, laptop chính hãng giá trị cao: canh sale lễ 30/8 tới 2/9 ở chuỗi lớn để tận dụng thu cũ và trả góp 0%, so thêm giá Shopee Mall trước khi chốt. Tai nghe, sạc, phụ kiện: để dành sang 9/9 cộng voucher sàn. Món nào đã chạm mức giá tham chiếu bạn đặt ra từ trước thì chốt luôn, đừng chờ đáy tuyệt đối, vì hàng hot dịp sale hết rất nhanh và giá sau lễ thường bật lại. Cuối cùng, chỉ mua ở gian hàng Mall hoặc chuỗi ủy quyền chính hãng, món giá trị cao nên quay video mở hộp để yên tâm khâu đổi trả.
+Điện thoại, laptop chính hãng giá trị cao: canh sale lễ đang chạy ở chuỗi lớn từ 29/8 tới hết dịp 2/9 để tận dụng thu cũ và trả góp 0%, so thêm giá Shopee Mall trước khi chốt. Tai nghe, sạc, phụ kiện: để dành sang 9/9 cộng voucher sàn. Món nào đã chạm mức giá tham chiếu bạn đặt ra từ trước thì chốt luôn, đừng chờ đáy tuyệt đối, vì hàng hot dịp sale hết rất nhanh và giá sau lễ thường bật lại. Cuối cùng, chỉ mua ở gian hàng Mall hoặc chuỗi ủy quyền chính hãng, món giá trị cao nên quay video mở hộp để yên tâm khâu đổi trả.
 
 <div class="art-callout">
-  ✅ <strong>Minh bạch:</strong> Các link Shopee trong bài là link affiliate trỏ tới trang tìm kiếm gian hàng Mall chính hãng, giá không đổi khi mua qua link. Giá tham khảo thay đổi theo ngày và chương trình khuyến mãi. LongTechVision sẽ cập nhật khi có lịch sale chính thức từ các sàn.
+  ✅ <strong>Minh bạch:</strong> Các link Shopee trong bài là link affiliate trỏ tới trang tìm kiếm gian hàng Mall chính hãng, giá không đổi khi mua qua link. Giá tham khảo thay đổi theo ngày và chương trình khuyến mãi. Bài được cập nhật ngày 1/9/2026 theo các chương trình đang chạy, LongTechVision sẽ soát lại quanh ngày 9/9.
 </div>
