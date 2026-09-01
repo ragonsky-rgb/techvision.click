@@ -65,6 +65,38 @@ Neo theo mùa sự kiện thật của thị trường VN: 9/2026 (iPhone 18 + s
 | **M11 (6/2027)** | Tựu trường + authority assets | Hub laptop/điện thoại sinh viên; biến 5 nội dung thắng nhất năm thành guide/playlist/checklist evergreen | Direct + organic vào evergreen tăng so với M8 |
 | **M12 (7/2027)** | Tổng kết, quyết định năm 2 | Báo cáo what worked/failed đối chiếu từng dòng kế hoạch này; quyết định thuê part-time hay giữ solo; viết kế hoạch năm 2 | Có số trả lời được: kênh nào nuôi web, format nào nuôi kênh, tiền đến từ đâu |
 
+### Nghiệm thu M1 (tháng 8/2026), chốt ngày 01/09/2026
+
+Đo trên repo, không dựa vào trí nhớ. So mốc 17/08 (commit cũ nhất còn trong
+clone này) với 01/09:
+
+| Việc M1 đã hứa | Kết quả đo được | Trạng thái |
+|---|---|---|
+| Gỡ noindex đợt 1 từ 39 bài ứng viên | Số bài `noindex: true` giữ nguyên **513 bài**, không đổi một bài nào từ 17/08 tới 01/09 | ❌ **KHÔNG LÀM** |
+| Giữ trần 2 bài/ngày | 673 → 688 bài trong 15 ngày, tức **1 bài/ngày** | ✅ đạt, còn dư địa |
+| Pipeline video 3-4 Short/tuần | `docs/video/` có commit đều suốt tháng 8, gói sản xuất Apple Event 9/9 đã dựng | ✅ phần chuẩn bị |
+| UTM video có phiên đầu tiên | Cần GA4, phiên cloud không đọc được | ⏳ anh Long đo |
+| Trực sự kiện Made by Google | Chưa thấy bài hay trang sự kiện tương ứng trong repo | ❓ cần xác nhận |
+
+**Việc trôi sang M2:** đợt gỡ noindex. Số 200 bài indexable ở mục 0 nay đã
+thành 250 URL trong sitemap, nhưng toàn bộ mức tăng đó đến từ bài mới viết,
+không phải từ việc cứu bài cũ. Nếu quyết định là không cứu nữa thì nên ghi
+thẳng vào đây để khỏi treo mãi, xem thêm phần đầu
+`ke-hoach-refresh-thang-8-2026.md`.
+
+### M2 (tháng 9/2026) bắt đầu từ hôm nay
+
+Ba mốc dồn vào 9 ngày đầu tháng, đây là tuần quan trọng nhất quý:
+
+| Ngày | Việc | Trạng thái 01/09 |
+|---|---|---|
+| 02/09 | Lễ Quốc khánh, sale đang chạy ở CellphoneS và Thế Giới Di Động | ✅ bài hub đã cập nhật sáng 01/09 |
+| 09/09 | Shopee 9.9, cao điểm mùa sale (mùa kéo 26/08 - 11/09) | ⏳ bài hub đã nêu, cần cập nhật lại sát ngày |
+| ~09/09 | Apple ra mắt iPhone 18 Pro, playbook 72h | ⏳ gói video đã dựng, bài chờ sự kiện |
+
+Chỉ số nghiệm thu cuối M2 giữ nguyên như bảng trên: hub sale vượt 500 hiển
+thị/tuần, và chọn được 2 hook video vượt trung vị kênh.
+
 ## 4. Chương phân phối (bản Manus thiếu hẳn)
 
 Mục tiêu 12 tháng: backlink từ 4 (toàn tự trỏ) lên **15+ domain thật**;

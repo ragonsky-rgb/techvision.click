@@ -1,5 +1,23 @@
 # Lộ trình SEO + GEO · techvision.click
 
+> ## ⚠️ MỤC "HIỆN TRẠNG" BÊN DƯỚI LÀ CỦA 16/6/2026
+>
+> **Rà ngày 01/09/2026.** Con số "28/75 bài đã index" không còn ý nghĩa gì:
+> site nay có 688 bài markdown nhưng **513 bài đang noindex** sau đợt dọn
+> scaled content 07/08, sitemap còn **250 URL**. Việc cần làm không còn là
+> "đẩy cho index hết" mà là giữ cho phần còn lại đáng được index.
+>
+> **Trạng thái thật của từng phase:**
+> - Phase 1: xong phần máy (IndexNow, llms.txt, robots). Hai việc cần anh
+>   Long tự làm (Bing Webmaster Tools, request index hằng ngày) vẫn treo.
+> - Phase 2 (backlink, brand mention): **chưa động**. Ahrefs 09/08 đo được
+>   đúng 4 backlink và cả 4 đều từ chamaiagency, tức tự trỏ. Đây là nút thắt
+>   lớn nhất còn lại.
+> - Phase 3, 4: một phần đã thành luật cứng trong `AGENTS.md`.
+>
+> Chương phân phối chi tiết (mục tiêu 15+ domain thật trong 12 tháng, cách
+> làm asset đáng dẫn link) nằm ở **`ke-hoach-12-thang-2026-2027.md` mục 4**.
+
 > Mục tiêu: lên top tìm kiếm Google + được AI (ChatGPT, Perplexity, Google AI Overviews, Bing Copilot, Gemini) trích dẫn nhiều hơn. Chia 4 phase, làm dần.
 
 ## Hiện trạng (cập nhật 16/6/2026)
@@ -31,6 +49,6 @@
 - [ ] Mỗi quý cập nhật topical map, mở rộng cụm có demand thật từ GSC.
 
 ## Tiện ích đã có
-- `node scripts/indexnow.mjs` — ping toàn sitemap lên IndexNow (chạy sau mỗi đợt đăng bài).
-- `node scripts/indexnow.mjs <url>` — ping URL cụ thể.
-- `scripts/gsc/` — báo cáo GSC, inspect index, nộp sitemap (cần token, xem README).
+- `node scripts/indexnow.mjs`: ping toàn sitemap lên IndexNow (chạy sau mỗi đợt đăng bài).
+- `node scripts/indexnow.mjs <url>`: ping URL cụ thể.
+- `scripts/gsc/`: báo cáo GSC, inspect index, nộp sitemap (cần token, xem README).

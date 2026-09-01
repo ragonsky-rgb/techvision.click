@@ -1,5 +1,29 @@
 # Kế hoạch refresh tháng 8/2026 - 60 bài "tháng 7/6" (luật §8b AGENTS.md)
 
+> ## ⛔ KẾ HOẠCH NÀY ĐÃ HỦY, ĐỪNG THỰC HIỆN
+>
+> **Chốt ngày 01/09/2026.** Đợt 1 làm ngày 3-4/8. Đợt 2 tới đợt 5 (48 bài) sẽ
+> KHÔNG bao giờ chạy, và đó là quyết định đúng, không phải việc còn tồn.
+>
+> **Lý do:** ngày 07/08/2026, tức 4 ngày sau khi file này được viết, đợt dọn
+> scaled content đã đặt `noindex: true` cho toàn bộ series template, trong đó
+> có 42 trên 44 bài `top-*-dang-mua-*`. Cùng lúc `AGENTS.md §0a` cấm tuyệt đối
+> series `Top X đáng mua tháng N` vì 171 bài dạng này đạt 0 lượt hiển thị.
+> Kế hoạch này và AGENTS.md §0a mâu thuẫn trực tiếp; §0a mới hơn và đúng.
+>
+> **Kiểm chứng ngày 01/09/2026:** cả 32 bài "tháng 7/2026" còn lại đều
+> `noindex: true`, không bài nào có trong `dist/sitemap.xml` (250 URL) hay
+> `blog.html`. Refresh chúng là công toi: Google không thấy trang nào.
+>
+> **Thay bằng gì:** chạy `node scripts/list-monthly-refresh.mjs`. Script đã
+> được vá ngày 01/09 để tách nhóm noindex ra khỏi số đếm, nên nó chỉ báo
+> những bài CÒN INDEX thật sự cần refresh (tháng 9/2026: 3 bài).
+>
+> **Nếu muốn cứu nhóm bài này:** gỡ noindex hàng loạt không phải câu trả lời,
+> vì chúng bị phạt do trùng khuôn chứ không do cũ. Cách duy nhất có cửa là
+> chọn 3-5 chủ đề có nhu cầu thật từ GSC, viết lại từ đầu thành bài độc lập
+> có giá Việt Nam thật (§0a-bis), rồi 301 các bài template về đó.
+
 > Trạng thái 3/8: đã refresh xong `top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc` (bài hút traffic số 1) và cụm giá Z Fold 8. Còn 60 bài chia 5 đợt dưới đây. Mỗi đợt = 1 phiên AI cloud = 1 nhánh phụ; máy local duyệt (dedup + QA + media verify) rồi đăng.
 
 ## Quy tắc refresh BẮT BUỘC (mọi đợt)

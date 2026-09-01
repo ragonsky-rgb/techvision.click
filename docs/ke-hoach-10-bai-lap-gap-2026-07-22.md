@@ -1,5 +1,16 @@
 # Kế hoạch 10 bài lấp gap tuyến nội dung (chốt 22/7/2026)
 
+> ## ⏸️ TREO TỪ 23/7/2026, CẦN QUYẾT LẠI
+>
+> **Rà ngày 01/09/2026.** Xong 3 trên 10 bài (bài 9, 1, 5), 7 bài còn lại
+> không động tới suốt hơn 5 tuần. Không phải quên, mà vì bối cảnh đã đổi:
+> ngày 07/08 site chuyển từ "đẻ bài" sang trần 2 bài/ngày (`AGENTS.md §0a`),
+> và trọng tâm dồn sang video theo `ke-hoach-12-thang-2026-2027.md`.
+>
+> **Cần anh Long quyết:** bỏ hẳn 7 bài này, hay chọn lại 2-3 bài đáng nhất
+> rồi nhét vào nhịp tháng 9? Lưu ý bài 8 (giá RTX 5090 tháng 8/2026) đã lỡ
+> mùa, nếu làm thì phải đổi thành tháng 9.
+
 > Trạng thái: **CHỜ** - anh Long báo sau khi Samsung Unpacked (tối 22/7) ra mắt xong mới viết.
 > Phiên nào (local hay cloud) nhận lệnh "viết đi" thì đọc file này, viết theo `AGENTS.md` + spec HTML TechVision, xong bài nào đánh dấu bài đó rồi commit.
 
