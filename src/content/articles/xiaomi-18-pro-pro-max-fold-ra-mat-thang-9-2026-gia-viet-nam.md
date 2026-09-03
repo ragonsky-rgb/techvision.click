@@ -7,8 +7,6 @@ category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-03T07:30:00+07:00"
 dateModified: "2026-09-03T07:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Xiaomi đã xác nhận dòng 18 Pro ra mắt trong tháng 9/2026 và sẽ là điện thoại đầu tiên trên thế giới dùng Snapdragon 8 Elite Gen 6 trên tiến trình 2nm. Nhưng câu hỏi thiết thực nhất với người Việt lại không phải cấu hình, mà là chuyện dòng Pro Max của Xiaomi vốn không bán chính hãng tại Việt Nam. Bài viết tách rõ phần Xiaomi đã xác nhận, phần còn là rò rỉ, và đường mua thực tế trong nước."
 heroImage: "https://i.ytimg.com/vi/DqAKQwagCDg/maxresdefault.jpg"
 heroAlt: "Xiaomi 18 Pro va Pro Max du kien ra mat thang 9 2026 voi camera Leica"
