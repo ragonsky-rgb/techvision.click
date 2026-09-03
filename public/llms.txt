@@ -10,7 +10,7 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 239
+- **Số bài viết:** 240
 - **Cập nhật:** 2026-09-03 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [IFA 2026 khai mạc 4/9: Xiaomi lần đầu dự, Samsung vắng mặt](https://techvision.click/articles/ifa-2026-berlin-4-9-xiaomi-lan-dau-du-samsung-vang-mat.html)
 - [Xiaomi 18 Pro ra mắt tháng 9: cấu hình, giá, có về Việt Nam?](https://techvision.click/articles/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.html)
 - [Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?](https://techvision.click/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html)
 - [Nên mua iPhone 17 hay đợi iPhone 18? Câu trả lời thẳng](https://techvision.click/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html)
@@ -44,7 +45,6 @@
 - [LCP 2026 Split 3 Playoffs: lịch thi đấu và cửa Worlds](https://techvision.click/articles/lcp-2026-split-3-playoffs-lich-thi-dau-cua-worlds-gam-mvk.html)
 - [Tắt sóng 2G từ 15/9/2026: ai bị ảnh hưởng, cần làm gì](https://techvision.click/articles/tat-song-2g-15-9-2026-ai-bi-anh-huong-can-lam-gi.html)
 - [HyperOS 4 cập nhật khi nào: danh sách máy Xiaomi, Redmi, POCO](https://techvision.click/articles/hyperos-4-android-17-danh-sach-may-xiaomi-redmi-poco-cap-nhat-2026.html)
-- [Pottel là gì: Vietnam Post thành mạng di động ảo thứ 6](https://techvision.click/articles/pottel-vietnam-post-mang-di-dong-ao-thu-6-sim-du-lich-2026.html)
 
 ## Smartphone (65 bài)
 
@@ -164,8 +164,9 @@
 - [Osaurus: server AI local cho Mac M-series, LLM offline](https://techvision.click/articles/osaurus-mac-local-ai-server.html)
 - [Google ra mắt Gemini Intelligence trên Android 17](https://techvision.click/articles/google-gemini-intelligence-android-17.html)
 
-## Công nghệ (40 bài)
+## Công nghệ (41 bài)
 
+- [IFA 2026 khai mạc 4/9: Xiaomi lần đầu dự, Samsung vắng mặt](https://techvision.click/articles/ifa-2026-berlin-4-9-xiaomi-lan-dau-du-samsung-vang-mat.html)
 - [Pixel Tag giá bao nhiêu, dùng tại Việt Nam được không](https://techvision.click/articles/google-pixel-tag-the-dinh-vi-29-usd-doi-thu-airtag-2026.html)
 - [Google Assistant khai tử từ 4/9: Gemini thay thế ra sao](https://techvision.click/articles/google-assistant-khai-tu-thay-bang-gemini-android-wear-os-2026.html)
 - [gamescom 2026: lịch, cách xem tại VN và game đáng chờ](https://techvision.click/articles/gamescom-2026-lich-cach-xem-viet-nam-game-dang-cho.html)

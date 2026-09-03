@@ -7,8 +7,6 @@ category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-09-03T16:30:00+07:00"
 dateModified: "2026-09-03T16:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Triển lãm công nghệ lớn nhất châu Âu mở cửa ngày 4/9 với hai chuyện đảo chiều đáng chú ý cùng lúc. Samsung, cái tên có mặt tại Berlin từ năm 1991, năm nay không dựng gian hàng lớn. Xiaomi thì ngược lại, lần đầu tiên xuất hiện trong 102 năm lịch sử của IFA và mang theo gần 400 sản phẩm. Bài viết điểm những gì đáng theo dõi và phần nào trong đó thực sự chạm tới người dùng Việt Nam."
 heroImage: "https://i.ytimg.com/vi/O8jg-Shxd3o/maxresdefault.jpg"
 heroAlt: "Trien lam cong nghe IFA 2026 tai Berlin dien ra tu ngay 4 den 8 9 2026"
