@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 240
-- **Cập nhật:** 2026-09-03 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 241
+- **Cập nhật:** 2026-09-04 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Học sinh học AI từ năm học 2026-2027: học gì, bao nhiêu tiết?](https://techvision.click/articles/hoc-sinh-hoc-ai-tu-nam-hoc-2026-2027-khung-noi-dung-bo-gddt.html)
 - [IFA 2026 khai mạc 4/9: Xiaomi lần đầu dự, Samsung vắng mặt](https://techvision.click/articles/ifa-2026-berlin-4-9-xiaomi-lan-dau-du-samsung-vang-mat.html)
 - [Xiaomi 18 Pro ra mắt tháng 9: cấu hình, giá, có về Việt Nam?](https://techvision.click/articles/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.html)
 - [Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?](https://techvision.click/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html)
@@ -44,7 +45,6 @@
 - [Điện thoại 4G thay máy 2G: giá từ 400.000 đồng, chọn máy nào](https://techvision.click/articles/dien-thoai-4g-thay-may-2g-truoc-15-9-2026-gia-tu-400-nghin.html)
 - [LCP 2026 Split 3 Playoffs: lịch thi đấu và cửa Worlds](https://techvision.click/articles/lcp-2026-split-3-playoffs-lich-thi-dau-cua-worlds-gam-mvk.html)
 - [Tắt sóng 2G từ 15/9/2026: ai bị ảnh hưởng, cần làm gì](https://techvision.click/articles/tat-song-2g-15-9-2026-ai-bi-anh-huong-can-lam-gi.html)
-- [HyperOS 4 cập nhật khi nào: danh sách máy Xiaomi, Redmi, POCO](https://techvision.click/articles/hyperos-4-android-17-danh-sach-may-xiaomi-redmi-poco-cap-nhat-2026.html)
 
 ## Smartphone (65 bài)
 
@@ -114,8 +114,9 @@
 - [iOS 27 mở cho AI agents bên thứ 3 - bước ngoặt Apple](https://techvision.click/articles/apple-ios-27-third-party-ai-agents.html)
 - [Smartphone tháng 5/2026: Vivo X300 Ultra, OnePlus CE6, Oppo X9](https://techvision.click/articles/may-2026-smartphone-launches.html)
 
-## AI (47 bài)
+## AI (48 bài)
 
+- [Học sinh học AI từ năm học 2026-2027: học gì, bao nhiêu tiết?](https://techvision.click/articles/hoc-sinh-hoc-ai-tu-nam-hoc-2026-2027-khung-noi-dung-bo-gddt.html)
 - [Gemini cho tắt watermark ảnh AI, SynthID vẫn nằm trong file](https://techvision.click/articles/gemini-tat-watermark-anh-ai-synthid-c2pa-2026.html)
 - [Gemini đạt 1 tỷ người dùng: Google lật ngược thế cờ ra sao](https://techvision.click/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html)
 - [ChatGPT bỏ giới hạn tin nhắn cho gói miễn phí từ tuần 10/8](https://techvision.click/articles/chatgpt-bo-gioi-han-tin-nhan-goi-free-go-gpt-5-6-luna-2026.html)

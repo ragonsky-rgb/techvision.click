@@ -7,8 +7,6 @@ category: "AI"
 type: "tin-tuc"
 datePublished: "2026-09-04T07:30:00+07:00"
 dateModified: "2026-09-04T07:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Bộ Giáo dục và Đào tạo đã ban hành Khung nội dung giáo dục trí tuệ nhân tạo cho học sinh phổ thông, triển khai đại trà ngay từ năm học 2026-2027. Điểm đáng chú ý là khung này không biến AI thành một môn học mới, cũng không yêu cầu trường mua sắm thiết bị đắt tiền. Bài viết giải thích học sinh sẽ học gì, bao nhiêu tiết, và phụ huynh cần chuẩn bị những gì cho con, kèm mức chi phí thiết bị thực tế tại Việt Nam."
 heroImage: "https://i.ytimg.com/vi/r2sIGdlyjZY/maxresdefault.jpg"
 heroAlt: "Giao duc tri tue nhan tao cho hoc sinh pho thong tu nam hoc 2026 2027"
