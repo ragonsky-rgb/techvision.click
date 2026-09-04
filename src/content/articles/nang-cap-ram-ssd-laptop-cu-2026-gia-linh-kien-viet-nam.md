@@ -7,8 +7,6 @@ category: "Laptop"
 type: "cam-nang"
 datePublished: "2026-09-04T16:30:00+07:00"
 dateModified: "2026-09-04T16:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Cơn bão giá bộ nhớ năm 2026 đã đẩy một thanh RAM DDR4 16GB từ dưới một triệu lên gần ba triệu đồng, còn SSD 1TB chạm mốc năm triệu. Trong bối cảnh đó, câu hỏi nâng cấp máy cũ hay mua máy mới không còn câu trả lời mặc định như trước. Bài viết đưa bảng giá linh kiện thực tế tại Việt Nam, cách tự kiểm tra máy có nâng cấp được không, và ba trường hợp mà nâng cấp là quyết định sai."
 heroImage: "https://i.ytimg.com/vi/g3o2TeBXyCg/maxresdefault.jpg"
 heroAlt: "Nang cap RAM va SSD cho laptop cu nam 2026 khi gia linh kien tang cao"

@@ -10,7 +10,7 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 241
+- **Số bài viết:** 242
 - **Cập nhật:** 2026-09-04 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
@@ -26,6 +26,7 @@
 ## Bài viết mới nhất
 
 - [Học sinh học AI từ năm học 2026-2027: học gì, bao nhiêu tiết?](https://techvision.click/articles/hoc-sinh-hoc-ai-tu-nam-hoc-2026-2027-khung-noi-dung-bo-gddt.html)
+- [Nâng cấp RAM, SSD cho laptop cũ 2026: giá bao nhiêu, có đáng?](https://techvision.click/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html)
 - [IFA 2026 khai mạc 4/9: Xiaomi lần đầu dự, Samsung vắng mặt](https://techvision.click/articles/ifa-2026-berlin-4-9-xiaomi-lan-dau-du-samsung-vang-mat.html)
 - [Xiaomi 18 Pro ra mắt tháng 9: cấu hình, giá, có về Việt Nam?](https://techvision.click/articles/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.html)
 - [Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?](https://techvision.click/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html)
@@ -44,7 +45,6 @@
 - [Cách bật VoLTE trước ngày tắt sóng 2G 15/9/2026](https://techvision.click/articles/cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026.html)
 - [Điện thoại 4G thay máy 2G: giá từ 400.000 đồng, chọn máy nào](https://techvision.click/articles/dien-thoai-4g-thay-may-2g-truoc-15-9-2026-gia-tu-400-nghin.html)
 - [LCP 2026 Split 3 Playoffs: lịch thi đấu và cửa Worlds](https://techvision.click/articles/lcp-2026-split-3-playoffs-lich-thi-dau-cua-worlds-gam-mvk.html)
-- [Tắt sóng 2G từ 15/9/2026: ai bị ảnh hưởng, cần làm gì](https://techvision.click/articles/tat-song-2g-15-9-2026-ai-bi-anh-huong-can-lam-gi.html)
 
 ## Smartphone (65 bài)
 
@@ -209,8 +209,9 @@
 - [Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ](https://techvision.click/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html)
 - [Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc](https://techvision.click/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html)
 
-## Laptop (21 bài)
+## Laptop (22 bài)
 
+- [Nâng cấp RAM, SSD cho laptop cũ 2026: giá bao nhiêu, có đáng?](https://techvision.click/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html)
 - [Lenovo Yoga Pro 7a về Việt Nam: giá 69,99 triệu đồng](https://techvision.click/articles/lenovo-yoga-pro-7a-ra-mat-viet-nam-gia-69-99-trieu-2026.html)
 - [Microsoft tăng phí Windows OEM, giá laptop Việt Nam tăng tiếp](https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html)
 - [ROG Strix Scar 18 2026 về VN: RTX 5090, giá 179,99 triệu](https://techvision.click/articles/asus-rog-strix-scar-18-2026-rtx-5090-mini-led-4k-240hz-gia-viet-nam.html)
