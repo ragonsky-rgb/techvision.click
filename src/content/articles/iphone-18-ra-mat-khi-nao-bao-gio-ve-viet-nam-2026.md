@@ -1,18 +1,18 @@
 ---
 slug: "iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026"
 title: "iPhone 18 ra mắt khi nào, bao giờ về Việt Nam?"
-description: "Sự kiện iPhone 18 Pro dự kiến đầu tháng 9/2026 theo Bloomberg, đặt trước và mở bán trong tháng. Kèm bảng giá iPhone 17 tại Việt Nam để tham chiếu."
+description: "Apple xác nhận sự kiện iPhone ngày 9/9/2026, đặt trước và mở bán dự kiến trong tháng. Kèm bảng giá iPhone 17 tại Việt Nam để biết nên chờ hay mua ngay."
 keywords: "iPhone 18 ra mắt khi nào, sự kiện Apple tháng 9 2026, iPhone 18 về Việt Nam, giá iPhone 18, iPhone 18 Pro Max, iPhone gập, giá iPhone 17 tháng 8 2026"
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-01T08:30:00+07:00"
-dateModified: "2026-09-01T08:30:00+07:00"
-deck: "Câu hỏi được tìm nhiều nhất về iPhone lúc này không phải máy có gì mới, mà là bao giờ mua được. Bài này tổng hợp mốc thời gian dự kiến của sự kiện Apple mùa thu 2026 theo các nguồn quốc tế, cách suy ra thời điểm máy về Việt Nam, và quan trọng hơn với người mua trong nước: giá iPhone 17 đang ở đâu để biết có nên chờ hay không. Toàn bộ mốc dưới đây là dự đoán, Apple chưa xác nhận."
+dateModified: "2026-08-31T21:00:00+07:00"
+deck: "Câu hỏi được tìm nhiều nhất về iPhone lúc này không phải máy có gì mới, mà là bao giờ mua được. Apple đã chốt ngày sự kiện mùa thu 2026 là 9/9. Bài này tổng hợp mốc thời gian đã xác nhận, cách suy ra thời điểm máy về Việt Nam, và quan trọng hơn với người mua trong nước: giá iPhone 17 đang ở đâu để biết có nên chờ hay không."
 heroImage: "https://i.ytimg.com/vi/rng_yUSwrgU/maxresdefault.jpg"
 heroAlt: "Bản dựng iPhone thế hệ mới dựa trên rò rỉ, minh họa sự kiện ra mắt iPhone 18 mùa thu 2026"
 heroCaption: "Các bản dựng iPhone 18 hiện lưu hành đều dựa trên rò rỉ, chưa có hình ảnh chính thức từ Apple. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.jpg"
-tldr: "Theo Bloomberg và các trang theo dõi Apple, sự kiện ra mắt iPhone mùa thu 2026 <strong>dự kiến rơi vào đầu tháng 9</strong>, khả năng cao nhất là <strong>thứ Tư 9/9</strong>. Nếu Apple giữ đúng thông lệ nhiều năm qua, <strong>đặt trước bắt đầu thứ Bảy 12/9</strong> và <strong>mở bán thứ Sáu 18/9</strong>. Bộ sản phẩm dự kiến gồm <strong>iPhone 18 Pro</strong>, <strong>iPhone 18 Pro Max</strong> và chiếc <strong>iPhone gập đầu tiên</strong>, trong khi bản iPhone 18 tiêu chuẩn được cho là lùi sang <strong>mùa xuân 2027</strong>. Tại Việt Nam, giá iPhone 17 hiện đã lùi về vùng thấp nhất từ khi ra mắt, bản tiêu chuẩn quanh <strong>17,99 tới 21,99 triệu đồng</strong>. Tất cả mốc thời gian đều là dự đoán, Apple chưa công bố."
+tldr: "Sự kiện ra mắt iPhone mùa thu 2026 đã được Apple xác nhận diễn ra <strong>thứ Tư 9/9</strong>, thông báo phát đi ngày <strong>26/8</strong> với thông điệp <strong>Surprise and Shine</strong>. Nếu Apple giữ đúng thông lệ nhiều năm qua, <strong>đặt trước bắt đầu thứ Bảy 12/9</strong> và <strong>mở bán thứ Sáu 18/9</strong>. Bộ sản phẩm dự kiến gồm <strong>iPhone 18 Pro</strong>, <strong>iPhone 18 Pro Max</strong> và chiếc <strong>iPhone gập đầu tiên</strong>, trong khi bản iPhone 18 tiêu chuẩn được cho là lùi sang <strong>mùa xuân 2027</strong>. Tại Việt Nam, giá iPhone 17 hiện đã lùi về vùng thấp nhất từ khi ra mắt, bản tiêu chuẩn quanh <strong>17,99 tới 21,99 triệu đồng</strong>. Ngày sự kiện là thông tin chính thức, các mốc đặt trước và mở bán vẫn là dự đoán."
 tags: ["iPhone18", "SuKienApple", "GiaVietNam", "iPhoneGap"]
 about: ["Apple", "iPhone 18 Pro", "iPhone 18 Pro Max", "Bloomberg", "Việt Nam"]
 authorBio: "Founder LongTechVision. Theo dõi hệ sinh thái Apple và diễn biến giá iPhone tại thị trường Việt Nam."
@@ -20,7 +20,7 @@ sourceUrl: "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ul
 sourceName: "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event? - MacRumors"
 sourceDomains: "macrumors.com · 9to5mac.com · appleinsider.com · forbes.com"
 stats:
-  - { num: "Thứ Tư 9/9", label: "Ngày sự kiện được dự đoán nhiều nhất, theo Bloomberg" }
+  - { num: "Thứ Tư 9/9", label: "Ngày sự kiện, Apple xác nhận trong thư mời phát ngày 26/8" }
   - { num: "Thứ Bảy 12/9", label: "Thời điểm mở đặt trước dự kiến theo thông lệ các năm" }
   - { num: "Thứ Sáu 18/9", label: "Ngày mở bán dự kiến theo thông lệ các năm" }
   - { num: "3 máy", label: "Số iPhone dự kiến ra mắt: 18 Pro, 18 Pro Max và bản gập" }
@@ -28,7 +28,7 @@ stats:
   - { num: "17,99 triệu", label: "Vùng giá thấp của iPhone 17 tiêu chuẩn tại Việt Nam trong tháng 8/2026" }
 faq:
   - q: "Sự kiện ra mắt iPhone 18 diễn ra ngày nào?"
-    a: "Apple chưa công bố ngày chính thức. Theo Bloomberg và các trang theo dõi Apple lâu năm, khả năng cao nhất là thứ Tư 9/9/2026. Lập luận đằng sau con số này là Apple thường tổ chức sự kiện vào giữa tuần đầu tiên sau kỳ nghỉ Lễ Lao động của Mỹ, năm nay rơi vào ngày 7/9, và hãng có thói quen tránh tổ chức ngay sát ngày lễ. Cần nhấn mạnh đây là dự đoán dựa trên quy luật nhiều năm, không phải thông báo từ Apple."
+    a: "Apple đã xác nhận sự kiện diễn ra thứ Tư 9/9/2026 lúc 10 giờ sáng giờ Thái Bình Dương tại Apple Park, thông báo phát đi ngày 26/8 với thông điệp Surprise and Shine. Quy đổi sang giờ Việt Nam là khoảng 0 giờ ngày 10/9. Trước đó, mốc 9/9 mới chỉ là dự đoán dựa trên quy luật Apple thường tổ chức sự kiện vào giữa tuần đầu sau kỳ nghỉ Lễ Lao động của Mỹ."
   - q: "Bao giờ iPhone 18 về Việt Nam?"
     a: "Nếu Apple giữ đúng nếp các năm gần đây, máy mở đặt trước tại thị trường đợt đầu vào thứ Bảy sau sự kiện và lên kệ vào thứ Sáu kế tiếp, tức khoảng 12/9 và 18/9. Việt Nam những năm gần đây nằm trong nhóm thị trường mở bán đợt đầu, nên khoảng cách so với Mỹ thường chỉ tính bằng ngày chứ không còn hàng tháng như trước. Tuy vậy, danh sách thị trường đợt đầu do Apple công bố tại sự kiện, nên trước đó chưa thể khẳng định chắc chắn."
   - q: "Năm nay có iPhone 18 bản thường không?"
@@ -44,26 +44,26 @@ related:
 featured: true
 ---
 
-Mỗi năm vào khoảng cuối tháng 8, lượng tìm kiếm về iPhone tại Việt Nam tăng vọt, và phần lớn không hỏi máy có gì mới mà hỏi bao giờ mua được. Năm nay câu hỏi đó phức tạp hơn thường lệ, bởi Apple được cho là đã tách lịch ra mắt làm hai đợt. Dưới đây là các mốc thời gian dự kiến, kèm phần quan trọng với người mua trong nước: giá iPhone đời hiện tại đang ở đâu.
+Mỗi năm vào khoảng cuối tháng 8, lượng tìm kiếm về iPhone tại Việt Nam tăng vọt, và phần lớn không hỏi máy có gì mới mà hỏi bao giờ mua được. Năm nay câu hỏi đó phức tạp hơn thường lệ, bởi Apple được cho là đã tách lịch ra mắt làm hai đợt. Apple đã chốt ngày sự kiện, phần còn lại vẫn phải suy ra theo thông lệ. Dưới đây là các mốc thời gian, kèm phần quan trọng với người mua trong nước: giá iPhone đời hiện tại đang ở đâu.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Mốc thời gian dự kiến · Sự kiện Apple mùa thu 2026</div>
   <table>
-    <tr><td>Ngày sự kiện</td><td>Dự đoán thứ Tư 9/9/2026, Apple chưa xác nhận</td></tr>
+    <tr><td>Ngày sự kiện</td><td>Thứ Tư 9/9/2026, Apple đã xác nhận hôm 26/8</td></tr>
     <tr><td>Mở đặt trước</td><td>Dự kiến thứ Bảy 12/9 theo thông lệ các năm</td></tr>
     <tr><td>Mở bán</td><td>Dự kiến thứ Sáu 18/9 theo thông lệ các năm</td></tr>
     <tr><td>iPhone dự kiến ra mắt</td><td>iPhone 18 Pro, iPhone 18 Pro Max, một máy gập</td></tr>
     <tr><td>iPhone 18 tiêu chuẩn</td><td>Được cho là lùi sang mùa xuân 2027</td></tr>
     <tr><td>Sản phẩm khác</td><td>Đồng hồ Apple Watch thế hệ mới, theo rò rỉ</td></tr>
-    <tr><td>Mức độ chắc chắn</td><td>Toàn bộ là dự đoán từ nguồn quốc tế, chưa có thông báo chính thức</td></tr>
+    <tr><td>Mức độ chắc chắn</td><td>Ngày sự kiện đã chính thức, các mốc còn lại vẫn là dự đoán</td></tr>
   </table>
 </div>
 
-## Vì sao ngày 9/9 là con số được nhắc nhiều nhất
+## Ngày 9/9 đã được Apple xác nhận
 
-Apple không công bố lịch sự kiện sớm, nhưng hãng có quy luật khá ổn định mà giới theo dõi lâu năm đã đúc kết. Sự kiện iPhone thường rơi vào giữa tuần đầu tiên sau kỳ nghỉ Lễ Lao động của Mỹ, và hãng có thói quen tránh tổ chức ngay sát ngày lễ. Năm 2026, Lễ Lao động rơi vào thứ Hai 7/9, nên thứ Tư 9/9 trở thành ứng viên hợp lý nhất. Đây cũng là mốc mà Bloomberg đưa ra.
+Suốt tháng 8, mốc 9/9 mới chỉ là suy luận từ quy luật nhiều năm của Apple, tức là hãng thường tổ chức sự kiện iPhone vào giữa tuần đầu tiên sau kỳ nghỉ Lễ Lao động của Mỹ. Năm 2026, Lễ Lao động rơi vào thứ Hai 7/9, nên thứ Tư 9/9 là ứng viên hợp lý nhất, và đây cũng là mốc Bloomberg đưa ra từ sớm.
 
-Một quy luật khác cũng được nhắc tới là khoảng cách giữa lúc Apple gửi thư mời và lúc sự kiện diễn ra. Nhiều năm liền con số này là đúng hai tuần. Nếu giữ nguyên, thư mời cho sự kiện ngày 9/9 sẽ được phát đi vào khoảng cuối tháng 8. Cần nói rõ đây là suy luận từ quy luật quá khứ chứ không phải thông tin nội bộ, và Apple hoàn toàn có thể phá lệ như đã từng làm ở một vài năm.
+Ngày 26/8, Apple phát thư mời và chốt lại con số đó. Sự kiện diễn ra thứ Tư 9/9/2026 lúc 10 giờ sáng theo giờ Thái Bình Dương tại Apple Park, Cupertino, với thông điệp Surprise and Shine. Quy đổi sang giờ Việt Nam là khoảng 0 giờ ngày 10/9. Như thường lệ, Apple không nêu tên sản phẩm trong thư mời, nên danh sách máy sẽ trình làng vẫn thuộc nhóm thông tin chưa xác nhận. Chi tiết về buổi lễ và chiếc máy gập nằm trong bài [Apple chốt sự kiện 9/9 và chiếc iPhone Ultra gập](/articles/apple-xac-nhan-su-kien-9-9-2026-iphone-ultra-gap-gia-du-kien.html).
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/bXz4awae01s/maxresdefault.jpg" alt="Bản dựng thiết kế iPhone Pro Max thế hệ mới dựa trên rò rỉ khuôn ốp lưng" loading="lazy" width="1280" height="720">
@@ -107,5 +107,5 @@ Từ các con số này, có thể rút ra vài hướng quyết định. Ngư�
 Một lưu ý cuối về cách đọc thông tin trong vài tuần tới. Giai đoạn trước mỗi sự kiện Apple luôn là lúc tin đồn dày đặc nhất, và không phải nguồn nào cũng có độ tin cậy như nhau. Những thông số phần cứng cụ thể đang lưu hành, từ chip tới camera, đều đã được tổng hợp trong bài về [tính năng iPhone 18 Pro theo rò rỉ](/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html), nhưng nên đọc chúng như giả thuyết chứ không phải thông số đã chốt cho tới khi Apple lên sân khấu.
 
 <div class="art-callout">
-  💡 <strong>Lưu ý:</strong> Toàn bộ mốc thời gian trong bài là dự đoán từ các nguồn quốc tế dựa trên quy luật nhiều năm, Apple chưa công bố lịch sự kiện hay danh sách thị trường mở bán đợt đầu. Giá iPhone tại Việt Nam biến động theo tuần tùy đại lý và chương trình khuyến mãi, nên hãy khảo giá ở nhiều hệ thống trước khi quyết định.
+  💡 <strong>Lưu ý:</strong> Chỉ ngày, giờ và địa điểm sự kiện là thông tin Apple đã công bố. Các mốc đặt trước, mở bán và danh sách thị trường đợt đầu vẫn là dự đoán dựa trên quy luật nhiều năm. Giá iPhone tại Việt Nam biến động theo tuần tùy đại lý và chương trình khuyến mãi, nên hãy khảo giá ở nhiều hệ thống trước khi quyết định.
 </div>
