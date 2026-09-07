@@ -10,7 +10,7 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 243
+- **Số bài viết:** 244
 - **Cập nhật:** 2026-09-07 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Redmi Note 17 giá từ 6,99 triệu tại VN, pin 10.000mAh](https://techvision.click/articles/redmi-note-17-series-ra-mat-viet-nam-gia-pin-10000mah-2026.html)
 - [Sự kiện Apple 9/9/2026: mấy giờ, xem ở đâu, có gì](https://techvision.click/articles/su-kien-apple-9-9-2026-xem-truc-tiep-may-gio-co-gi.html)
 - [Học sinh học AI từ năm học 2026-2027: học gì, bao nhiêu tiết?](https://techvision.click/articles/hoc-sinh-hoc-ai-tu-nam-hoc-2026-2027-khung-noi-dung-bo-gddt.html)
 - [Nâng cấp RAM, SSD cho laptop cũ 2026: giá bao nhiêu, có đáng?](https://techvision.click/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html)
@@ -44,10 +45,10 @@
 - [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
 - [YouTube đổi cách tính view từ 24/8: số tăng, tiền không tăng](https://techvision.click/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html)
 - [Cách bật VoLTE trước ngày tắt sóng 2G 15/9/2026](https://techvision.click/articles/cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026.html)
-- [Điện thoại 4G thay máy 2G: giá từ 400.000 đồng, chọn máy nào](https://techvision.click/articles/dien-thoai-4g-thay-may-2g-truoc-15-9-2026-gia-tu-400-nghin.html)
 
-## Smartphone (65 bài)
+## Smartphone (66 bài)
 
+- [Redmi Note 17 giá từ 6,99 triệu tại VN, pin 10.000mAh](https://techvision.click/articles/redmi-note-17-series-ra-mat-viet-nam-gia-pin-10000mah-2026.html)
 - [Xiaomi 18 Pro ra mắt tháng 9: cấu hình, giá, có về Việt Nam?](https://techvision.click/articles/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.html)
 - [Motorola razr fold về Việt Nam: giá 49,99 triệu đồng](https://techvision.click/articles/motorola-razr-fold-ra-mat-viet-nam-gia-49-99-trieu-2026.html)
 - [Nothing Phone (4a) ra mắt Việt Nam: giá bán và cấu hình](https://techvision.click/articles/nothing-phone-4a-4a-pro-ra-mat-viet-nam-gia-cau-hinh-2026.html)

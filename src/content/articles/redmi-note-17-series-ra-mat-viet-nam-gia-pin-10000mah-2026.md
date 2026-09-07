@@ -7,8 +7,6 @@ category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-07T14:30:00+07:00"
 dateModified: "2026-09-07T14:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Xiaomi đưa Redmi Note 17 Series về Việt Nam từ ngày 27/8/2026 với bốn phiên bản, dải giá niêm yết trải từ 6,99 tới 17,99 triệu đồng. Hai bản Pro và Pro Max kết thúc giai đoạn đặt trước ngày 6/9 và chính thức lên kệ từ 7/9. Thứ khiến dòng máy được chú ý là viên pin dung lượng lớn bậc nhất phân khúc, nhưng cấu hình xử lý lại là phần cần đọc kỹ trước khi xuống tiền."
 heroImage: "https://i.ytimg.com/vi/uX3FyMD06v0/maxresdefault.jpg"
 heroAlt: "Redmi Note 17 Series ban chinh hang tai Viet Nam pin dung luong lon"
