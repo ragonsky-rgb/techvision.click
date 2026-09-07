@@ -7,8 +7,6 @@ category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-07T08:00:00+07:00"
 dateModified: "2026-09-07T08:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Apple đã gửi thư mời cho buổi keynote ngày 9/9/2026 với dòng chữ Surprise and shine. Quy ra giờ Việt Nam, sự kiện bắt đầu lúc 0 giờ rạng sáng thứ Năm 10/9. Điểm khác biệt lớn nhất so với mọi năm không nằm ở sản phẩm mà nằm ở người đứng trên sân khấu: John Ternus vừa chính thức nhận ghế CEO từ ngày 1/9 và đây là keynote iPhone đầu tiên của ông."
 heroImage: "https://i.ytimg.com/vi/AphzG6OayUw/maxresdefault.jpg"
 heroAlt: "Su kien Apple ngay 9 9 2026 ra mat iPhone 18 Pro va iPhone gap"
