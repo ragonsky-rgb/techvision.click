@@ -7,8 +7,6 @@ category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-08T18:30:00+07:00"
 dateModified: "2026-09-08T18:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Tai nghe thường bị coi là phần phụ của một buổi keynote iPhone, nhưng năm nay AirPods 5 lại là sản phẩm dễ bán nhất trong danh sách của Apple tại Việt Nam, đơn giản vì nó nằm trong tầm tiền của số đông. Bài viết tổng hợp những gì các nguồn tin đồn lớn đã hội tụ, tách rõ đâu là thứ gần như chắc chắn và đâu vẫn là phỏng đoán, kèm khung giá tham chiếu từ chính các đời AirPods đang bán trong nước."
 heroImage: "https://i.ytimg.com/vi/9Z-c20kT9cE/maxresdefault.jpg"
 heroAlt: "AirPods 5 du kien ra mat ngay 9 9 2026 cung iPhone 18 Pro"
