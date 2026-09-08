@@ -7,8 +7,6 @@ category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-08T08:00:00+07:00"
 dateModified: "2026-09-08T08:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Danh sách máy được lên iOS 27 rộng hơn nhiều người nghĩ, kéo dài tới tận iPhone 11 ra mắt năm 2019. Nhưng phía sau danh sách đó là ba tầng tính năng khác nhau, và tầng đáng giá nhất chỉ mở cho một nhóm máy hẹp. Bài viết này tách rõ ba tầng đó để bạn biết chiếc máy đang cầm sẽ thực sự nhận được gì."
 heroImage: "https://i.ytimg.com/vi/BdsiBu4t3ao/maxresdefault.jpg"
 heroAlt: "iOS 27 phat hanh thang 9 2026 danh sach iPhone duoc cap nhat"
