@@ -6,7 +6,7 @@ keywords: "Xiaomi 18 Pro, Xiaomi 18 Pro Max, Xiaomi 18 Fold, Xiaomi 18 ra mắt 
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-03T07:30:00+07:00"
-dateModified: "2026-09-03T07:30:00+07:00"
+dateModified: "2026-09-08T20:00:00+07:00"
 deck: "Xiaomi đã xác nhận dòng 18 Pro ra mắt trong tháng 9/2026 và sẽ là điện thoại đầu tiên trên thế giới dùng Snapdragon 8 Elite Gen 6 trên tiến trình 2nm. Nhưng câu hỏi thiết thực nhất với người Việt lại không phải cấu hình, mà là chuyện dòng Pro Max của Xiaomi vốn không bán chính hãng tại Việt Nam. Bài viết tách rõ phần Xiaomi đã xác nhận, phần còn là rò rỉ, và đường mua thực tế trong nước."
 heroImage: "https://i.ytimg.com/vi/DqAKQwagCDg/maxresdefault.jpg"
 heroAlt: "Xiaomi 18 Pro va Pro Max du kien ra mat thang 9 2026 voi camera Leica"
@@ -51,9 +51,13 @@ Tháng 9 năm nay dồn quá nhiều lễ ra mắt vào cùng một khoảng, v�
   <table>
     <tr><td>Xiaomi 18 Pro</td><td>Tháng 9/2026, Snapdragon 8 Elite Gen 6 <code>[XÁC NHẬN LỊCH]</code></td></tr>
     <tr><td>Xiaomi 18 Pro Max</td><td>Tháng 9/2026, chip bản Gen 6 Pro, camera 200MP kép <code>[RÒ RỈ]</code></td></tr>
-    <tr><td>Xiaomi 18 Fold</td><td>Tháng 9/2026, chip XRING O3 tự phát triển <code>[XÁC NHẬN TÊN]</code></td></tr>
+    <tr><td>Xiaomi 18 Fold</td><td>Đã ra mắt <strong>7/9/2026</strong>, chip XRING O3, giá từ 10.999 tệ <code>[ĐÃ RA MẮT]</code></td></tr>
     <tr><td>Xiaomi 18 bản thường</td><td>Lùi tới cuối 2026 hoặc đầu 2027 <code>[RÒ RỈ]</code></td></tr>
   </table>
+</div>
+
+<div class="art-callout">
+  🔄 <strong>Cập nhật 8/9/2026:</strong> Xiaomi đã chính thức ra mắt <strong>Xiaomi 18 Fold</strong> ngày 7/9/2026 tại Trung Quốc, nên phần dự đoán về máy này bên dưới nay đã có số liệu chính thức thay thế. Thông số công bố: màn gập trong <strong>7,58 inch</strong>, màn ngoài 5,38 inch, chip <strong>XRING O3</strong>, camera Leica <strong>200MP</strong>, pin <strong>6.000mAh</strong>, dày 5,02mm khi mở và 10,68mm khi gập, nặng 219g. Giá khởi điểm <strong>10.999 tệ</strong> cho bản 12GB kèm 256GB, khoảng 40,6 triệu đồng, lên tới 12.999 tệ cho bản 16GB kèm 512GB. Đây là chiếc điện thoại đắt nhất Xiaomi từng bán. Cùng đợt, hãng ra mắt máy tính bảng <strong>Xiaomi Pad 9 Pro Max</strong> màn 13,3 inch. Hai bản 18 Pro và 18 Pro Max vẫn chưa ra mắt tính tới thời điểm cập nhật, và phần dự đoán về chúng bên dưới giữ nguyên để bạn đối chiếu.
 </div>
 
 ## Xiaomi tách lịch: đợt tháng 9 chỉ có nhóm cao cấp
@@ -101,7 +105,7 @@ Phần mềm là **HyperOS 4**, giao diện mới của Xiaomi. Có một khác 
   <figcaption>Pin lớn và tản nhiệt là hai thứ quyết định trải nghiệm dài hạn hơn là điểm số hiệu năng. Nguồn: YouTube</figcaption>
 </figure>
 
-Với bản gập, **Xiaomi 18 Fold** được đồn có màn gập 7,6 inch, camera chính 200MP, pin 6.000mAh, sạc có dây 67W và sạc không dây 50W. Con số pin 6.000mAh trên một máy gập là đáng chú ý, vì nhóm sản phẩm này vốn phải hy sinh pin cho độ mỏng.
+Với bản gập, **Xiaomi 18 Fold** trước ra mắt được đồn có màn gập 7,6 inch, camera chính 200MP, pin 6.000mAh, sạc có dây 67W và sạc không dây 50W. Số liệu chính thức công bố ngày 7/9 xác nhận phần lớn dự đoán đó: màn gập trong **7,58 inch**, camera Leica 200MP và pin **6.000mAh** đúng như tin đồn. Con số pin 6.000mAh trên một máy gập là đáng chú ý, vì nhóm sản phẩm này vốn phải hy sinh pin cho độ mỏng, và Xiaomi vẫn giữ được thân máy dày 5,02mm khi mở phẳng.
 
 ## Giá dự kiến và đường mua thực tế tại Việt Nam
 
