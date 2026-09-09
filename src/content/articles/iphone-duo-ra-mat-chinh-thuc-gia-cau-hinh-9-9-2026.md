@@ -8,9 +8,9 @@ type: "tin-tuc"
 datePublished: "2026-09-10T01:10:00+07:00"
 dateModified: "2026-09-10T01:10:00+07:00"
 deck: "Sau nhiều năm đồn đoán, Apple đã trình làng chiếc iPhone màn hình gập đầu tiên và đặt tên là iPhone Duo, không phải iPhone Fold hay iPhone Ultra như giới rò rỉ dự đoán. Máy khởi điểm 1.999 USD, dùng Touch ID thay vì Face ID, và phải tới tháng 10 mới bán. Đây cũng là keynote đầu tiên của John Ternus trên cương vị CEO Apple."
-heroImage: "https://i.ytimg.com/vi/vNRl-STFcR8/maxresdefault.jpg"
+heroImage: "https://techvision.click/images/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026/iphone-duo-hero.jpg"
 heroAlt: "iPhone Duo ra mat chinh thuc gia tu 1999 USD man gap 7 6 inch"
-heroCaption: "Apple chốt tên iPhone Duo cho chiếc gập đầu tiên, giá khởi điểm 1.999 USD. Nguồn: YouTube"
+heroCaption: "iPhone Duo mở ra thành màn hình 7,6 inch, dùng như một chiếc iPad mini thu nhỏ. Nguồn: Apple"
 ogImage: "https://techvision.click/uploads/og-article/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.jpg"
 tldr: "Apple ra mắt <strong>iPhone Duo</strong>, chiếc iPhone gập đầu tiên, tại sự kiện Surprise and shine rạng sáng 10/9 giờ Việt Nam. Máy có màn trong <strong>7,6 inch</strong> và màn ngoài <strong>5,4 inch</strong>, khung titan grade 5, dùng <strong>Touch ID ở nút nguồn</strong> thay vì Face ID. Giá từ <strong>1.999 USD</strong> bản 256GB, lên tới khoảng 3.000 USD bản 2TB, hai màu Star White và Night Sky, <strong>bán từ tháng 10</strong>. Cùng đợt có iPhone 18 Pro từ 1.199 USD và Pro Max từ 1.299 USD, tăng 100 USD so với thế hệ trước."
 tags: ["iPhoneDuo", "Apple", "iPhone18Pro", "DienThoaiGap", "TinCongNghe", "2026"]
@@ -44,6 +44,7 @@ related:
   - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Apple", title: "iPhone Duo vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
   - { href: "/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html", cat: "Apple", title: "Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?" }
 featured: false
+pinned: true
 ---
 
 Rạng sáng 10/9 giờ Việt Nam, Apple khép lại nhiều năm đồn đoán bằng chiếc iPhone màn hình gập đầu tiên. Tên chính thức là **iPhone Duo**, không phải iPhone Fold hay iPhone Ultra như giới rò rỉ vẫn gọi suốt một năm qua. Đây cũng là keynote đầu tiên của **John Ternus** trên cương vị Tổng giám đốc Apple, sau khi ông nhận bàn giao từ Tim Cook ngày 1/9.
@@ -65,8 +66,8 @@ Rạng sáng 10/9 giờ Việt Nam, Apple khép lại nhiều năm đồn đoán
 Cái tên phản ánh đúng thứ Apple muốn nhấn: máy có hai màn hình chứ không phải một tấm màn bị gập lại. Màn ngoài 5,4 inch đủ để dùng như một chiếc iPhone bình thường khi đóng, còn màn trong 7,6 inch mở ra theo kiểu cuốn sổ. Cách đặt tên này cũng tách Apple khỏi cuộc đua chữ "Fold" mà Samsung đã sở hữu gần như tuyệt đối trong bảy năm qua.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/yNhZ49uwRJw/maxresdefault.jpg" alt="iPhone Duo khi gap lai co kich thuoc gan bang mot chiec iPhone thuong" loading="lazy" width="1280" height="720">
-  <figcaption>Khi gập lại, iPhone Duo có kích thước gần bằng một chiếc iPhone thông thường. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026/iphone-duo-mo-ra.jpg" alt="iPhone Duo mo ra thanh man hinh trong 7 6 inch cam bang hai tay" loading="lazy" width="1480" height="1140">
+  <figcaption>Mở ra, máy cho không gian hiển thị rộng gần bằng một chiếc máy tính bảng nhỏ. Nguồn: Apple</figcaption>
 </figure>
 
 Điểm gây tranh luận nhiều nhất là việc Apple bỏ Face ID. Máy dùng Touch ID tích hợp vào nút nguồn cạnh viền, cách làm quen thuộc trên iPad. Lý do kỹ thuật khá dễ hiểu: cụm camera TrueDepth cần một độ dày nhất định để bắn và đọc lưới điểm hồng ngoại, trong khi thân máy gập khi mở ra chỉ dày khoảng 4,5mm. Đây là lần đầu tiên kể từ iPhone X năm 2017 một chiếc iPhone cao cấp không có Face ID. Bù lại, Apple cho phép mở khoá máy bằng Apple Watch đã ghép đôi.
