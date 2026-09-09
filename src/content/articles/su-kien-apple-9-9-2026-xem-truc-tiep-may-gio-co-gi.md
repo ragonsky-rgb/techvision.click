@@ -6,7 +6,7 @@ keywords: "sự kiện apple 9/9, apple keynote tháng 9 2026, xem trực tiếp
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-07T08:00:00+07:00"
-dateModified: "2026-09-07T08:00:00+07:00"
+dateModified: "2026-09-10T01:45:00+07:00"
 deck: "Apple đã gửi thư mời cho buổi keynote ngày 9/9/2026 với dòng chữ Surprise and shine. Quy ra giờ Việt Nam, sự kiện bắt đầu lúc 0 giờ rạng sáng thứ Năm 10/9. Điểm khác biệt lớn nhất so với mọi năm không nằm ở sản phẩm mà nằm ở người đứng trên sân khấu: John Ternus vừa chính thức nhận ghế CEO từ ngày 1/9 và đây là keynote iPhone đầu tiên của ông."
 heroImage: "https://i.ytimg.com/vi/AphzG6OayUw/maxresdefault.jpg"
 heroAlt: "Su kien Apple ngay 9 9 2026 ra mat iPhone 18 Pro va iPhone gap"
@@ -74,7 +74,7 @@ Với người mua máy ở Việt Nam, chuyện đổi ghế CEO nghe xa vời,
 
 ## Ba máy được chờ đợi và điểm chung của chúng
 
-Danh sách sản phẩm mà các nguồn tổng hợp tin đồn lớn nghiêng về gồm ba máy: **iPhone 18 Pro**, **iPhone 18 Pro Max** và chiếc **iPhone gập** đầu tiên, mà một số nguồn gọi bằng tên iPhone Ultra. Cả ba được cho là dùng chung con chip **A20 Pro** sản xuất trên tiến trình **2nm**, bước rút gọn tiến trình đầu tiên của Apple sau vài thế hệ đứng yên ở nhóm 3nm.
+Danh sách sản phẩm mà các nguồn tổng hợp tin đồn lớn nghiêng về gồm ba máy: **iPhone 18 Pro**, **iPhone 18 Pro Max** và chiếc **iPhone gập** đầu tiên, mà một số nguồn gọi bằng tên iPhone Duo. Cả ba được cho là dùng chung con chip **A20 Pro** sản xuất trên tiến trình **2nm**, bước rút gọn tiến trình đầu tiên của Apple sau vài thế hệ đứng yên ở nhóm 3nm.
 
 Điểm đáng nói là năm nay danh sách thiếu hẳn một cái tên: bản iPhone 18 tiêu chuẩn. Theo các nguồn tin đồn, Apple đã tách chu kỳ ra mắt làm hai nửa, tháng 9 dành cho nhóm Pro và máy gập, còn nhóm giá dễ tiếp cận hơn dời sang mùa xuân 2027. Nếu đúng, người dùng Việt Nam đang chờ một chiếc iPhone mới trong tầm giá phổ thông sẽ phải cân nhắc lại kế hoạch, vì lựa chọn thực tế trong quý 4 năm nay chỉ còn là mua iPhone 17 đang giảm giá hoặc dồn tiền lên nhóm Pro.
 

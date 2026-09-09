@@ -6,7 +6,7 @@ keywords: "Haaland dùng điện thoại gì, Haaland Samsung, Haaland iPhone, c
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-11T21:10:00+07:00"
-dateModified: "2026-07-11T21:10:00+07:00"
+dateModified: "2026-09-10T01:45:00+07:00"
 deck: "Erling Haaland ký hợp đồng đại sứ thương hiệu Samsung Galaxy tại thị trường Bắc Âu từ năm 2021, xuất hiện trong hàng loạt chiến dịch quảng cáo Galaxy S21 và S22. Thế nhưng chân sút người Na Uy từng khiến truyền thông xứ sở Bắc Âu dậy sóng khi bị ống kính báo chí bắt gặp sử dụng iPhone ngay tại một buổi tập trung đội tuyển quốc gia, làm dấy lên câu hỏi quen thuộc trong giới hâm mộ: các ngôi sao bóng đá thực sự dùng điện thoại gì khi ống kính quảng cáo tắt máy."
 heroImage: "https://i.ytimg.com/vi/W_x2TWl0zhU/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/haaland-dung-dien-thoai-gi-samsung-iphone-2026.jpg"
@@ -36,9 +36,9 @@ faq:
   - q: "Người dùng Việt Nam nên rút ra điều gì từ câu chuyện này?"
     a: "Câu chuyện là lời nhắc rằng hình ảnh quảng cáo của người nổi tiếng không phải lúc nào cũng phản ánh trải nghiệm sử dụng thực tế. Khi cân nhắc mua smartphone, người dùng nên dựa vào nhu cầu cá nhân, ngân sách và đánh giá thông số thực tế thay vì chỉ dựa vào việc một ngôi sao nào đó đang quảng cáo cho sản phẩm nào."
 related:
-  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
+  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Duo vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
   - { href: "/articles/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.html", cat: "Smartphone", title: "Galaxy Z TriFold: điện thoại gập ba đầu tiên, mở ra 10 inch" }
-  - { href: "/articles/iphone-fold-2026-apple-foldable.html", cat: "Smartphone", title: "iPhone Fold: Apple ra mắt điện thoại gập đầu tiên, mỏng 4.5mm, màn 7.8 inch, giá từ $2,000" }
+  - { href: "/articles/iphone-fold-2026-apple-foldable.html", cat: "Smartphone", title: "iPhone Duo: Apple ra mắt điện thoại gập đầu tiên, mỏng 4.5mm, màn 7.8 inch, giá từ $2,000" }
 featured: false
 ---
 

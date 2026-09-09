@@ -6,7 +6,7 @@ keywords: "Galaxy S26 FE giá bao nhiêu, Galaxy S26 FE giá Việt Nam, Samsung
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-24T07:30:00+07:00"
-dateModified: "2026-09-02T02:20:00+07:00"
+dateModified: "2026-09-10T01:45:00+07:00"
 deck: "Samsung đã chính thức giới thiệu Galaxy S26 FE tại Việt Nam ngày 27/8/2026 và mở bán từ 28/8, giá niêm yết từ 18,99 triệu đồng. Bài viết cập nhật toàn bộ cấu hình chính thức, đối chiếu với loạt tin đồn trước đó để thấy chỗ nào đúng chỗ nào lệch, và trả lời câu hỏi thiết thực nhất: ở mức giá gần 19 triệu, chiếc máy này đáng mua cho ai và nên bỏ qua trong trường hợp nào."
 heroImage: "https://i.ytimg.com/vi/2KHm2nHECzg/maxresdefault.jpg"
 heroAlt: "Samsung Galaxy S26 FE ra mat chinh hang tai Viet Nam gia tu 18 99 trieu dong"
@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia.html", cat: "Smartphone", title: "Galaxy Z Flip 8: cấu hình, sạc 45W, giá ra mắt 22/7/2026" }
   - { href: "/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP" }
-  - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Fold 2026: giá dự kiến, cấu hình, ngày ra mắt" }
+  - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Duo 2026: giá dự kiến, cấu hình, ngày ra mắt" }
 featured: true
 ---
 

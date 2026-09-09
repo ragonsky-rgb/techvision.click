@@ -38,7 +38,7 @@ faq:
   - q: "Có nên mua iPhone 17e không?"
     a: "iPhone 17e phù hợp với người muốn trải nghiệm iPhone mới với chip mạnh, thiết kế cập nhật mà không phải chi quá nhiều. Nếu bạn cần nhiều camera, zoom quang hay màn tần số quét cao, các bản iPhone 17 hoặc Pro sẽ phù hợp hơn. Với nhu cầu phổ thông, iPhone 17e là lựa chọn cân bằng tốt giữa giá và hiệu năng."
 related:
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 9/2026: chọn theo phân khúc" }
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Công nghệ", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
   - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
 featured: false

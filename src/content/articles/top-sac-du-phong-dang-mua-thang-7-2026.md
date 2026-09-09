@@ -38,7 +38,7 @@ faq:
     a: "Người dùng nên ưu tiên mua tại các hệ thống bán lẻ ủy quyền chính hãng của Anker, UGREEN tại Việt Nam để đảm bảo chế độ bảo hành đầy đủ, hỗ trợ đổi trả khi lỗi và tránh rủi ro hàng giả, hàng kém chất lượng dễ gây mất an toàn khi sạc công suất lớn."
 related:
   - { href: "/articles/cach-chon-sac-du-phong-mah-thuc-cong-suat-an-toan.html", cat: "Smartphone", title: "Cách chọn sạc dự phòng: dung lượng thực, công suất và an toàn" }
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026 mọi phân khúc" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 9/2026: chọn theo phân khúc" }
   - { href: "/articles/top-laptop-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Laptop", title: "Top laptop đáng mua tháng 8/2026 mọi phân khúc" }
 featured: true
 ---

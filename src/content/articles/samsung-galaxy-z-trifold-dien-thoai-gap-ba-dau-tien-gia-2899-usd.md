@@ -6,7 +6,7 @@ keywords: "Samsung Galaxy Z TriFold, điện thoại gập ba, Galaxy gập 3, Z
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-06-19T09:00:00+07:00"
-dateModified: "2026-06-19T09:00:00+07:00"
+dateModified: "2026-09-10T01:45:00+07:00"
 deck: "Samsung Galaxy Z TriFold là điện thoại gập ba đầu tiên của hãng, mở ra màn hình 10 inch như máy tính bảng nhưng gập gọn lại như điện thoại. Với cấu hình cao cấp và mức giá khởi điểm 2.899 USD, đây là chiếc gập đắt nhất và tham vọng nhất từ trước tới nay của Samsung."
 heroImage: "https://i.ytimg.com/vi/3eGI9CNkFZk/maxresdefault.jpg"
 heroAlt: "Samsung Galaxy Z TriFold điện thoại gập ba mở ra màn hình 10 inch"
@@ -39,7 +39,7 @@ faq:
     a: "Đây là sản phẩm dành cho nhóm người dùng đam mê công nghệ mới, sẵn sàng chi trả cao và muốn trải nghiệm thiết kế gập ba độc đáo. Với phần lớn người dùng, mức giá rất cao, độ dày khi gập và việc là thế hệ đầu khiến đây chưa phải lựa chọn thực dụng. Nên cân nhắc kỹ nhu cầu thực tế và chờ các đánh giá dài hạn về độ bền bản lề trước khi quyết định."
 related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
-  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
+  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Duo vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
   - { href: "/articles/haaland-dung-dien-thoai-gi-samsung-iphone-2026.html", cat: "Smartphone", title: "Haaland dùng điện thoại gì: đại sứ Galaxy mà cầm iPhone?" }
 featured: false
 ---

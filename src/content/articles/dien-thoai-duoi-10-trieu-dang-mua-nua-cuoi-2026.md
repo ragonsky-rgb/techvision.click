@@ -6,7 +6,7 @@ keywords: "điện thoại dưới 10 triệu 2026, điện thoại dưới 10 t
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-27T13:55:00+07:00"
-dateModified: "2026-07-27T13:55:00+07:00"
+dateModified: "2026-09-10T01:45:00+07:00"
 deck: "Phân khúc dưới 10 triệu đồng đang là nơi cạnh tranh khốc liệt nhất tại Việt Nam nửa cuối 2026, với loạt máy có chip 4nm, màn AMOLED 120Hz, pin lớn và chuẩn kháng nước cao. Bài viết điểm 5 mẫu đáng mua nhất kèm cấu hình, giá tham khảo và gợi ý chọn máy theo nhu cầu chụp ảnh, pin hay hiệu năng."
 heroImage: "https://i.ytimg.com/vi/Z0G7GhYPy20/maxresdefault.jpg"
 heroAlt: "Top điện thoại dưới 10 triệu đáng mua nửa cuối 2026 tại Việt Nam"
@@ -38,9 +38,9 @@ faq:
   - q: "Nên chọn Xiaomi, Samsung hay OPPO trong tầm dưới 10 triệu?"
     a: "Tùy nhu cầu. Xiaomi Redmi Note mạnh về camera và pin trên giá tiền. Samsung Galaxy A ăn điểm ở màn hình đẹp, chính sách cập nhật phần mềm dài và giá trị bán lại tốt. OPPO A-series ưu thế pin lớn và độ bền. Bạn nên cân nhắc hệ sinh thái và thói quen dùng máy trước khi chọn."
 related:
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 9/2026: chọn theo phân khúc" }
   - { href: "/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html", cat: "Laptop", title: "Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu" }
-  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
+  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Duo vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
 featured: false
 ---
 

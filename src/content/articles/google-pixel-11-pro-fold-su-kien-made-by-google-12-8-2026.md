@@ -6,7 +6,7 @@ keywords: "Google Pixel 11 Pro Fold, Made by Google 2026, sự kiện Pixel 12 8
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-07-08T20:00:00+07:00"
-dateModified: "2026-08-13T10:30:00+07:00"
+dateModified: "2026-09-10T01:45:00+07:00"
 deck: "Google đã chính thức ấn định sự kiện Made by Google vào ngày 12/8/2026, sớm hơn thường lệ, và tâm điểm được chờ đợi là chiếc điện thoại gập Pixel 11 Pro Fold. Cùng với Samsung, Google tiếp tục đưa máy gập ra thị trường trước khi Apple kịp góp mặt, trong khi loạt rò rỉ hé lộ nhiều nâng cấp và cả những thay đổi vì cơn khát chip nhớ toàn cầu."
 heroImage: "https://i.ytimg.com/vi/4Gpzrn42-tM/maxresdefault.jpg"
 heroAlt: "Google Pixel 11 Pro Fold ra mắt tại sự kiện Made by Google ngày 12 8 2026"
@@ -41,7 +41,7 @@ faq:
     a: "Cả hai đều là điện thoại gập cao cấp ra mắt trong mùa hè 2026. Pixel 11 Pro Fold mạnh về tính năng AI và trải nghiệm phần mềm thuần Google, trong khi Galaxy Z Fold 8 có lợi thế về hệ sinh thái, phân phối chính hãng tại Việt Nam và bề dày kinh nghiệm làm máy gập của Samsung."
 related:
   - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8" }
-  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
+  - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Duo vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
   - { href: "/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html", cat: "Smartphone", title: "Pixel 11 giá bao nhiêu, bao giờ về Việt Nam" }
 featured: false
 ---

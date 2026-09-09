@@ -6,13 +6,13 @@ keywords: "iPhone 18 Pro, iPhone 18 Pro Max, chip A20 Pro 2nm, camera khẩu đ�
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-07-13T21:00:00+07:00"
-dateModified: "2026-07-13T22:00:00+07:00"
+dateModified: "2026-09-10T01:45:00+07:00"
 deck: "Còn khoảng hai tháng nữa tới sự kiện ra mắt iPhone thường niên, các luồng rò rỉ về iPhone 18 Pro và iPhone 18 Pro Max đã hội tụ quanh một loạt nâng cấp lớn: chip A20 Pro trên tiến trình 2nm, camera chính 48MP với khẩu độ biến thiên vật lý lần đầu xuất hiện, và cảm biến Face ID đưa xuống dưới màn hình. Cần nhấn mạnh, toàn bộ thông số dưới đây đến từ rò rỉ và tin đồn, Apple chưa xác nhận bất kỳ chi tiết nào."
 heroImage: "https://i.ytimg.com/vi/cJMMspVDxt4/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.jpg"
 heroAlt: "iPhone 18 Pro rò rỉ thiết kế cụm camera plateau và tính năng mới ra mắt tháng 9/2026"
-heroCaption: "Bộ ba iPhone 18 Pro, 18 Pro Max và iPhone Fold dự kiến ra mắt tháng 9/2026 theo rò rỉ. Nguồn: YouTube"
-tldr: "Theo tổng hợp rò rỉ từ nhiều nguồn quốc tế, <strong>iPhone 18 Pro</strong> và <strong>iPhone 18 Pro Max</strong> dự kiến ra mắt vào <strong>tháng 9/2026</strong>, cùng với một mẫu <strong>iPhone Fold</strong> gập lần đầu tiên. Điểm nhấn phần cứng là chip <strong>A20 Pro</strong> sản xuất trên tiến trình <strong>2nm</strong> của TSMC, được giới phân tích dự phóng nhanh hơn tới <strong>15%</strong> và tiết kiệm điện tới <strong>30%</strong>. Camera chính <strong>48MP Fusion</strong> lần đầu có <strong>khẩu độ biến thiên</strong> vật lý, camera selfie nâng lên <strong>24MP</strong>, còn Face ID được đưa xuống <strong>dưới màn hình</strong> để thu nhỏ Dynamic Island. Pin theo rò rỉ tăng lên khoảng <strong>4.288 mAh</strong> (18 Pro) và <strong>5.567 mAh</strong> (18 Pro Max) ở bản Mỹ. Tất cả vẫn là tin đồn, Apple chưa xác nhận."
+heroCaption: "Bộ ba iPhone 18 Pro, 18 Pro Max và iPhone Duo dự kiến ra mắt tháng 9/2026 theo rò rỉ. Nguồn: YouTube"
+tldr: "Theo tổng hợp rò rỉ từ nhiều nguồn quốc tế, <strong>iPhone 18 Pro</strong> và <strong>iPhone 18 Pro Max</strong> dự kiến ra mắt vào <strong>tháng 9/2026</strong>, cùng với một mẫu <strong>iPhone Duo</strong> gập lần đầu tiên. Điểm nhấn phần cứng là chip <strong>A20 Pro</strong> sản xuất trên tiến trình <strong>2nm</strong> của TSMC, được giới phân tích dự phóng nhanh hơn tới <strong>15%</strong> và tiết kiệm điện tới <strong>30%</strong>. Camera chính <strong>48MP Fusion</strong> lần đầu có <strong>khẩu độ biến thiên</strong> vật lý, camera selfie nâng lên <strong>24MP</strong>, còn Face ID được đưa xuống <strong>dưới màn hình</strong> để thu nhỏ Dynamic Island. Pin theo rò rỉ tăng lên khoảng <strong>4.288 mAh</strong> (18 Pro) và <strong>5.567 mAh</strong> (18 Pro Max) ở bản Mỹ. Tất cả vẫn là tin đồn, Apple chưa xác nhận."
 tags: ["iPhone18Pro", "AppleA20", "CameraKhauDo", "FaceIDDuoiManHinh"]
 about: ["Apple", "iPhone 18 Pro", "iPhone 18 Pro Max", "Apple A20 Pro", "TSMC"]
 authorBio: "Founder LongTechVision. Theo dõi hệ sinh thái Apple và các dòng flagship smartphone toàn cầu."
@@ -28,7 +28,7 @@ stats:
   - { num: "Dark Cherry", label: "Màu sắc đặc biệt mới theo tin đồn" }
 faq:
   - q: "iPhone 18 Pro dự kiến ra mắt khi nào?"
-    a: "Theo các luồng rò rỉ và tin đồn hiện tại, iPhone 18 Pro cùng iPhone 18 Pro Max dự kiến ra mắt vào tháng 9/2026, tức chỉ còn khoảng hai tháng nữa tính từ tháng 7/2026, theo lịch trình ra mắt iPhone thường niên của Apple. Ngoài ra còn có tin đồn về một mẫu iPhone Fold gập ra mắt cùng đợt. Apple chưa xác nhận bất kỳ mốc thời gian nào."
+    a: "Theo các luồng rò rỉ và tin đồn hiện tại, iPhone 18 Pro cùng iPhone 18 Pro Max dự kiến ra mắt vào tháng 9/2026, tức chỉ còn khoảng hai tháng nữa tính từ tháng 7/2026, theo lịch trình ra mắt iPhone thường niên của Apple. Ngoài ra còn có tin đồn về một mẫu iPhone Duo gập ra mắt cùng đợt. Apple chưa xác nhận bất kỳ mốc thời gian nào."
   - q: "Chip A20 Pro trên iPhone 18 Pro mạnh tới đâu?"
     a: "Theo rò rỉ, iPhone 18 Pro sẽ dùng chip A20 Pro sản xuất trên tiến trình 2nm do TSMC gia công, lần đầu tiên Apple sử dụng công nghệ 2nm. Dựa trên lộ trình của TSMC, giới phân tích dự phóng chip có thể nhanh hơn tới khoảng 15% và tiết kiệm điện tới khoảng 30% so với thế hệ trước, dù đây chỉ là ước tính chưa được kiểm chứng thực tế."
   - q: "Camera khẩu độ biến thiên trên iPhone 18 Pro hoạt động thế nào?"
@@ -38,7 +38,7 @@ faq:
   - q: "Pin và màu sắc của iPhone 18 Pro có gì mới theo rò rỉ?"
     a: "Theo rò rỉ, pin iPhone 18 Pro bản Mỹ vào khoảng 4.288 mAh còn iPhone 18 Pro Max khoảng 5.567 mAh, bản Trung Quốc thấp hơn đôi chút. Về màu sắc, tin đồn nhắc tới một màu đặc biệt mới là Dark Cherry cùng các màu Light Blue, Dark Gray và Silver. Các con số và tên màu này chưa được Apple xác nhận."
 related:
-  - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Fold 2026: giá dự kiến, cấu hình, ngày ra mắt" }
+  - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Duo 2026: giá dự kiến, cấu hình, ngày ra mắt" }
   - { href: "/articles/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.html", cat: "Apple", title: "Apple cho thuê iPhone giá từ 17,99 USD/tháng qua Klarna" }
 featured: false
 ---
@@ -48,7 +48,7 @@ Chỉ còn khoảng hai tháng nữa là tới thời điểm Apple thường tr
 <div class="spec-box">
   <div class="spec-box-title">📋 iPhone 18 Pro · Thông số dự kiến (theo rò rỉ)</div>
   <table>
-    <tr><td>Ra mắt dự kiến</td><td>Tháng 9/2026 (18 Pro, 18 Pro Max, iPhone Fold)</td></tr>
+    <tr><td>Ra mắt dự kiến</td><td>Tháng 9/2026 (18 Pro, 18 Pro Max, iPhone Duo)</td></tr>
     <tr><td>Chip</td><td>A20 Pro, tiến trình 2nm (TSMC gia công)</td></tr>
     <tr><td>Camera chính</td><td>48MP Fusion, khẩu độ biến thiên (variable aperture)</td></tr>
     <tr><td>Camera selfie</td><td>24MP (nâng từ 18MP)</td></tr>
@@ -59,7 +59,7 @@ Chỉ còn khoảng hai tháng nữa là tới thời điểm Apple thường tr
 
 ## Ngày ra mắt và bộ ba sản phẩm
 
-Theo lịch trình ra mắt iPhone thường niên và các nguồn rò rỉ, bộ ba sản phẩm cao cấp dự kiến trình làng vào tháng 9/2026, tức là chỉ còn khoảng hai tháng nữa tính từ thời điểm hiện tại. Đợt ra mắt này được cho là bao gồm iPhone 18 Pro, iPhone 18 Pro Max và điểm nhấn đặc biệt là một mẫu iPhone Fold gập lần đầu tiên trong lịch sử dòng iPhone. Nếu điều này thành hiện thực, Apple sẽ chính thức gia nhập cuộc chơi điện thoại gập mà Samsung, Google và nhiều hãng Trung Quốc đã khai phá nhiều năm qua.
+Theo lịch trình ra mắt iPhone thường niên và các nguồn rò rỉ, bộ ba sản phẩm cao cấp dự kiến trình làng vào tháng 9/2026, tức là chỉ còn khoảng hai tháng nữa tính từ thời điểm hiện tại. Đợt ra mắt này được cho là bao gồm iPhone 18 Pro, iPhone 18 Pro Max và điểm nhấn đặc biệt là một mẫu iPhone Duo gập lần đầu tiên trong lịch sử dòng iPhone. Nếu điều này thành hiện thực, Apple sẽ chính thức gia nhập cuộc chơi điện thoại gập mà Samsung, Google và nhiều hãng Trung Quốc đã khai phá nhiều năm qua.
 
 Việc chia lịch ra mắt cũng là chủ đề được bàn tán. Một số nguồn cho rằng Apple có thể tách dòng iPhone tiêu chuẩn sang một thời điểm khác trong năm, dồn sự chú ý cho các mẫu Pro và mẫu gập vào tháng 9. Dù vậy, đây vẫn là suy đoán và chưa có gì chắc chắn cho tới khi Apple gửi thư mời sự kiện chính thức.
 

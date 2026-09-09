@@ -6,7 +6,7 @@ keywords: "iPhone 18 ra mắt khi nào, sự kiện Apple tháng 9 2026, iPhone 
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-01T08:30:00+07:00"
-dateModified: "2026-09-08T09:00:00+07:00"
+dateModified: "2026-09-10T01:45:00+07:00"
 deck: "Câu hỏi được tìm nhiều nhất về iPhone lúc này không phải máy có gì mới, mà là bao giờ mua được. Apple đã chốt ngày sự kiện mùa thu 2026 là 9/9. Bài này tổng hợp mốc thời gian đã xác nhận, cách suy ra thời điểm máy về Việt Nam, và quan trọng hơn với người mua trong nước: giá iPhone 17 đang ở đâu để biết có nên chờ hay không."
 heroImage: "https://i.ytimg.com/vi/rng_yUSwrgU/maxresdefault.jpg"
 heroAlt: "Bản dựng iPhone thế hệ mới dựa trên rò rỉ, minh họa sự kiện ra mắt iPhone 18 mùa thu 2026"
@@ -17,7 +17,7 @@ tags: ["iPhone18", "SuKienApple", "GiaVietNam", "iPhoneGap"]
 about: ["Apple", "iPhone 18 Pro", "iPhone 18 Pro Max", "Bloomberg", "Việt Nam"]
 authorBio: "Founder LongTechVision. Theo dõi hệ sinh thái Apple và diễn biến giá iPhone tại thị trường Việt Nam."
 sourceUrl: "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/"
-sourceName: "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event? - MacRumors"
+sourceName: "iPhone 18 Pro and iPhone Duo: When is the Next Apple Event? - MacRumors"
 sourceDomains: "macrumors.com · 9to5mac.com · appleinsider.com · forbes.com"
 stats:
   - { num: "Thứ Tư 9/9", label: "Ngày sự kiện, Apple xác nhận trong thư mời phát ngày 26/8" }
@@ -39,7 +39,7 @@ faq:
     a: "Theo các luồng rò rỉ, đây là máy gập kiểu sách với màn hình trong khoảng 7,8 inch, dùng Touch ID thay cho Face ID, và mức giá được đồn vượt 2.000 USD, đắt nhất lịch sử dòng iPhone. Một số nguồn cũng cho rằng nguồn cung ban đầu sẽ hạn chế và thời điểm lên kệ có thể muộn hơn các bản Pro. Toàn bộ thông tin này là tin đồn, Apple chưa xác nhận bất kỳ chi tiết nào."
 related:
   - { href: "/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html", cat: "Apple", title: "iPhone 18 Pro: giá bán, tính năng, ngày ra mắt tháng 9/2026" }
-  - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Fold 2026: giá dự kiến, cấu hình, ngày ra mắt" }
+  - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Duo 2026: giá dự kiến, cấu hình, ngày ra mắt" }
   - { href: "/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html", cat: "Apple", title: "iPhone 18 bản thường lùi 2027, mùa thu chỉ có Pro và máy gập" }
 featured: true
 ---
@@ -83,7 +83,7 @@ Thay đổi này có hệ quả trực tiếp với người mua Việt Nam. B�
   <figcaption>Chiếc iPhone gập theo rò rỉ có dạng gập sách, mở ra thành màn hình khoảng 7,8 inch. Nguồn: YouTube</figcaption>
 </figure>
 
-Chiếc máy gập là ẩn số lớn nhất. Các rò rỉ mô tả một thiết bị gập kiểu sách với màn trong khoảng 7,8 inch, dùng cảm biến vân tay Touch ID thay cho Face ID, và mức giá được đồn vượt 2.000 USD. Một số nguồn cho rằng nguồn cung ban đầu sẽ hạn chế và máy có thể lên kệ muộn hơn các bản Pro. Với thị trường Việt Nam, điều này có nghĩa kể cả khi máy được công bố trong sự kiện, thời điểm mua được thực tế vẫn là câu hỏi mở. Chi tiết cấu hình theo rò rỉ đã được tổng hợp trong bài về [iPhone Fold 2026 và mức giá dự kiến](/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html).
+Chiếc máy gập là ẩn số lớn nhất. Các rò rỉ mô tả một thiết bị gập kiểu sách với màn trong khoảng 7,8 inch, dùng cảm biến vân tay Touch ID thay cho Face ID, và mức giá được đồn vượt 2.000 USD. Một số nguồn cho rằng nguồn cung ban đầu sẽ hạn chế và máy có thể lên kệ muộn hơn các bản Pro. Với thị trường Việt Nam, điều này có nghĩa kể cả khi máy được công bố trong sự kiện, thời điểm mua được thực tế vẫn là câu hỏi mở. Chi tiết cấu hình theo rò rỉ đã được tổng hợp trong bài về [iPhone Duo 2026 và mức giá dự kiến](/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html).
 
 <div class="art-video-label">VIDEO · Tổng hợp rò rỉ về thế hệ iPhone mới và chiếc máy gập</div>
 <div class="art-video-wrap">

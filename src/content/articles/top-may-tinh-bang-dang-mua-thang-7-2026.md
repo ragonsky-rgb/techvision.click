@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/cach-chon-may-tinh-bang-tablet-2026-tieu-chi.html", cat: "Công nghệ", title: "Cách chọn máy tính bảng 2026: 5 tiêu chí trước khi xuống tiền" }
   - { href: "/articles/samsung-galaxy-tab-s11-may-tinh-bang-nho-gon-dimensity-9400-plus-2026.html", cat: "Công nghệ", title: "Samsung Galaxy Tab S11: máy tính bảng nhỏ gọn, Dimensity 9400+" }
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026 mọi phân khúc" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 9/2026: chọn theo phân khúc" }
 featured: true
 ---
 

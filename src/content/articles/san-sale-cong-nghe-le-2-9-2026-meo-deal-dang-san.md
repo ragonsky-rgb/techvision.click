@@ -43,7 +43,7 @@ faq:
     a: "Ưu tiên gian hàng Mall hoặc cửa hàng chính hãng, kiểm tra chính sách đổi trả và bảo hành trước khi đặt. Với điện thoại, laptop nên quay video khi mở hộp. Giá rẻ bất thường so với mặt bằng gần như chắc chắn là hàng trôi nổi hoặc lừa đảo."
 related:
   - { href: "/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html", cat: "Công nghệ", title: "Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ" }
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026 mọi phân khúc" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 9/2026: chọn theo phân khúc" }
   - { href: "/articles/tai-nghe-true-wireless-dang-mua-2026-theo-tui-tien.html", cat: "Âm thanh", title: "Tai nghe true wireless đáng mua 2026 theo túi tiền" }
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Laptop", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
 featured: false

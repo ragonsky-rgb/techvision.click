@@ -40,7 +40,7 @@ faq:
 related:
   - { href: "/articles/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.html", cat: "Smartphone", title: "Honor 600 Pro: camera 200MP, pin 7000mAh có gì đáng mua?" }
   - { href: "/articles/xiaomi-17-ultra-cam-bien-1-inch-leica-camera-2026.html", cat: "Smartphone", title: "Xiaomi 17 Ultra: cảm biến 1 inch Leica, ống tele 200MP" }
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 9/2026: chọn theo phân khúc" }
 featured: false
 ---
 

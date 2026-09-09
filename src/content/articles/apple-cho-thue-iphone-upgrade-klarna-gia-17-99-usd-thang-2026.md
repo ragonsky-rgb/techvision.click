@@ -6,7 +6,7 @@ keywords: "Apple cho thuê iPhone, Apple Upgrade Klarna, thuê iPhone giá bao n
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-08-02T16:00:00+07:00"
-dateModified: "2026-08-02T16:00:00+07:00"
+dateModified: "2026-09-10T01:45:00+07:00"
 deck: "Apple vừa chính thức triển khai Apple Upgrade, chương trình cho thuê thiết bị hợp tác cùng nền tảng thanh toán Klarna tại thị trường Mỹ. Thay vì mua đứt, người dùng có thể thuê iPhone, iPad, Mac hay Apple Watch theo tháng, với mức khởi điểm 17,99 USD mỗi tháng cho iPhone, đồng thời khai tử chương trình iPhone Upgrade Program cũ."
 heroImage: "https://i.ytimg.com/vi/bdsL8IGC7ik/maxresdefault.jpg"
 heroAlt: "Apple ra mắt chương trình Upgrade cho thuê iPhone qua Klarna"
@@ -41,7 +41,7 @@ faq:
     a: "Giới phân tích cho rằng mô hình thuê giúp hạ rào cản chi phí ban đầu, biến iPhone hay Mac thành một khoản chi hàng tháng thay vì khoản tiền lớn trả một lần, qua đó kích thích doanh số và giữ khách hàng gắn bó lâu hơn với hệ sinh thái Apple trong bối cảnh chu kỳ nâng cấp máy đang kéo dài ra."
 related:
   - { href: "/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html", cat: "Apple", title: "iPhone 18 Pro: giá bán, tính năng, ngày ra mắt tháng 9/2026" }
-  - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Fold 2026: giá dự kiến, cấu hình, ngày ra mắt" }
+  - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Duo 2026: giá dự kiến, cấu hình, ngày ra mắt" }
 featured: true
 ---
 

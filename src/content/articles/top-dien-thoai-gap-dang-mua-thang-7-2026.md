@@ -38,7 +38,7 @@ faq:
 related:
   - { href: "/articles/cach-chon-dien-thoai-gap-foldable-2026-tieu-chi.html", cat: "Smartphone", title: "Cách chọn điện thoại gập 2026: 5 tiêu chí trước khi xuống tiền" }
   - { href: "/articles/samsung-nha-hang-galaxy-z-fold-8-wide-ti-le-moi-43-2026.html", cat: "Smartphone", title: "Samsung nhá hàng Galaxy Z Fold 8 Wide: tỉ lệ màn hình mới 4:3" }
-  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 8/2026 mọi phân khúc" }
+  - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 9/2026: chọn theo phân khúc" }
 featured: true
 ---
 
