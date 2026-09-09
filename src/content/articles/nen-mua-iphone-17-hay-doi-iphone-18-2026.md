@@ -6,13 +6,13 @@ keywords: "nên mua iPhone 17 hay đợi iPhone 18, có nên mua iPhone 17 lúc 
 category: "Apple"
 type: "cam-nang"
 datePublished: "2026-09-02T06:00:00+07:00"
-dateModified: "2026-09-02T06:00:00+07:00"
+dateModified: "2026-09-10T01:30:00+07:00"
 deck: "Apple đã chốt ngày sự kiện 9/9/2026, nhưng dàn máy ra mắt lần này không có iPhone 18 bản thường. Điều đó đảo ngược lời khuyên quen thuộc mọi năm là cứ chờ tháng 9. Bài viết tách bạch ai nên xuống tiền ngay, ai nên chờ, dựa trên giá iPhone 17 và iPhone 16 Pro Max đang bán tại Việt Nam."
 heroImage: "https://i.ytimg.com/vi/Y4p_ZrP-2Gk/maxresdefault.jpg"
 heroAlt: "Nen mua iPhone 17 ngay hay doi iPhone 18 ra mat thang 9 2026"
 heroCaption: "Giá iPhone 17 tại Việt Nam thường hạ thêm một nhịp sau khi dòng mới ra mắt. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/nen-mua-iphone-17-hay-doi-iphone-18-2026.jpg"
-tldr: "Câu trả lời ngắn phụ thuộc bạn nhắm bản nào. Nhắm <strong>iPhone 18 Pro hoặc Pro Max</strong> thì nên chờ, vì Apple đã xác nhận sự kiện <strong>9/9/2026</strong>, chỉ còn ít ngày là biết giá chính thức. Nhắm <strong>iPhone 18 bản thường</strong> thì ngược lại: đợt tháng 9 này Apple không ra bản đó, phải chờ tới <strong>xuân 2027</strong>, nên mua iPhone 17 hoặc iPhone 16 Pro Max lúc giá đang chạm đáy hợp lý hơn nhiều. Lưu ý các dự báo cho rằng bản Pro năm nay đắt hơn thế hệ trước <strong>100 tới 300 USD</strong>, tức 2,6 tới 7,8 triệu đồng."
+tldr: "Câu trả lời ngắn phụ thuộc bạn nhắm bản nào. Nhắm <strong>iPhone 18 Pro hoặc Pro Max</strong> thì nên chờ, vì Apple đã xác nhận sự kiện <strong>9/9/2026</strong>, chỉ còn ít ngày là biết giá chính thức. Nhắm <strong>iPhone 18 bản thường</strong> thì ngược lại: đợt tháng 9 này Apple không ra bản đó, phải chờ tới <strong>xuân 2027</strong>, nên mua iPhone 17 hoặc iPhone 16 Pro Max lúc giá đang chạm đáy hợp lý hơn nhiều. Cập nhật sau keynote: Apple đã công bố <strong>iPhone 18 Pro từ 1.199 USD</strong> và <strong>Pro Max từ 1.299 USD</strong>, tăng đúng <strong>100 USD</strong>, tức mức nhẹ nhất trong dải dự báo trước đó."
 tags: ["iPhone18", "iPhone17", "Apple", "TuVan", "MuaSam", "2026"]
 about: ["iPhone 18 Pro", "iPhone 17", "Sự kiện Apple 9/9/2026", "iPhone 16 Pro Max"]
 authorBio: "Founder LongTechVision. Theo dõi giá và thời điểm mua đồ công nghệ tại Việt Nam cho người dùng phổ thông."
@@ -23,7 +23,7 @@ stats:
   - { num: "9/9/2026", label: "Ngày sự kiện Apple đã xác nhận" }
   - { num: "0:00 ngày 10/9", label: "Giờ Việt Nam xem trực tiếp keynote" }
   - { num: "Xuân 2027", label: "Thời điểm iPhone 18 bản thường mới ra" }
-  - { num: "2,6 - 7,8 triệu", label: "Mức tăng giá dự báo của bản Pro" }
+  - { num: "1.199 USD", label: "Giá iPhone 18 Pro 256GB Apple vừa công bố" }
   - { num: "~34 triệu", label: "iPhone 17 Pro Max 256GB thấp nhất tại VN" }
   - { num: "Đầu tháng 10", label: "Mốc iPhone 18 Pro dự kiến về Việt Nam" }
 faq:
@@ -47,6 +47,10 @@ featured: false
 ---
 
 Mọi năm, lời khuyên mua iPhone gần như là một câu tự động: cứ chờ tới tháng 9 rồi tính. Năm 2026 thì câu đó không còn đúng nữa, và lý do rất cụ thể. Apple đã xác nhận sự kiện ngày 9/9, nhưng theo hàng loạt nguồn tin quốc tế, đợt này công ty **không** ra iPhone 18 bản thường. Ai đang chờ đúng bản đó sẽ phải đợi thêm tới tận mùa xuân 2027.
+
+<div class="art-callout">
+  🗓️ <strong>Cập nhật 10/9/2026:</strong> keynote đã diễn ra rạng sáng nay. Apple công bố iPhone 18 Pro từ 1.199 USD và Pro Max từ 1.299 USD, đều bản 256GB, tăng 100 USD so với thế hệ trước và lần đầu có tuỳ chọn 2TB. Máy giao tại Mỹ từ 18/9. Đúng như bài này viết từ đầu, đợt tháng 9 KHÔNG có iPhone 18 bản thường. Máy gập tên iPhone Duo, theo Bloomberg khởi điểm quanh 2.000 USD và bán từ tháng 10. Khuyến nghị bên dưới giữ nguyên, chỉ khác là phần chờ giá nay đã có đáp án.
+</div>
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Chốt nhanh: bạn thuộc nhóm nào</div>
@@ -93,7 +97,7 @@ Trong số này, thứ người dùng phổ thông cảm nhận rõ nhất hằn
 
 Phần này ít được nhắc tới nhưng lại quyết định phần lớn quyết định mua. Cái giá của việc chờ có ba lớp.
 
-Thứ nhất là **tiền**. Các dự báo ngành hiện cho rằng iPhone 18 Pro và Pro Max sẽ đắt hơn thế hệ trước khoảng **100 tới 300 USD**, tức 2,6 tới 7,8 triệu đồng quy đổi thô, chưa tính chênh lệch giá niêm yết tại Việt Nam vốn luôn cao hơn giá Mỹ sau thuế và phí. Nếu điều này thành sự thật, khoản chênh đó thừa sức mua một chiếc Apple Watch hoặc một bộ phụ kiện đầy đủ.
+Thứ nhất là **tiền**. Con số này giờ đã rõ: Apple công bố **iPhone 18 Pro từ 1.199 USD** và **Pro Max từ 1.299 USD**, đều bản 256GB, tức tăng đúng **100 USD** so với thế hệ trước. Mức tăng nằm ở đáy dải dự báo trước sự kiện (100 tới 300 USD), nhẹ hơn nhiều người lo. Dù vậy 100 USD quy đổi thô vẫn khoảng 2,6 triệu đồng, chưa tính chênh lệch giá niêm yết tại Việt Nam vốn luôn cao hơn giá Mỹ sau thuế và phí.
 
 Thứ hai là **thời gian**. Ngay cả khi keynote diễn ra ngày 9/9, máy cũng không tới tay người Việt ngay. Đặt trước tại Mỹ theo nếp cũ mở vào thứ Sáu ngay sau sự kiện, tức khoảng 11/9, có năm Apple lùi sang thứ Bảy 12/9. Máy giao tại Mỹ tầm 18/9. Việt Nam không nằm trong nhóm mở bán đợt đầu và thường chậm hơn 2 tới 3 tuần, nên mốc thực tế là **đầu tháng 10/2026**. Từ hôm nay tới lúc cầm được máy là khoảng năm tuần. Mốc chi tiết được cập nhật liên tục ở bài [iPhone 18 bao giờ về Việt Nam](/articles/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.html).
 
