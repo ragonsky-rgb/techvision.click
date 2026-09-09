@@ -10,7 +10,7 @@ dateModified: "2026-09-14T08:30:00+07:00"
 noindex: true
 scheduled: true
 deck: "Huawei giới thiệu Mate XT 2 Ultimate Design ngày 7/9/2026 và mở bán từ 12/9 tại Trung Quốc. Đây là thế hệ thứ ba của dòng gập ba, nhưng lần này hãng bỏ kiểu gập chữ Z quen thuộc để chuyển sang cơ chế gập hai mép vào trong, đồng thời lần đầu đưa tấm nền chống nhìn trộm ở mức phần cứng lên một máy gập ba. Bài này tách bạch những gì Huawei đã công bố, phần nào còn khác nhau giữa các nguồn, và người dùng Việt Nam thực tế mua máy này bằng đường nào."
-heroImage: "https://i.ytimg.com/vi/3eGI9CNkFZk/maxresdefault.jpg"
+heroImage: "https://i.ytimg.com/vi/3bWMNheEOAg/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/huawei-mate-xt-2-gap-ba-ra-mat-gia-kirin-9050-pro-2026.jpg"
 heroAlt: "Huawei Mate XT 2 dien thoai gap ba ra mat thang 9 2026"
 heroCaption: "Mate XT 2 là thế hệ thứ ba của dòng gập ba Huawei, đổi hẳn cơ chế bản lề. Nguồn: YouTube"
@@ -73,7 +73,7 @@ Hai đời Mate XT trước dùng kiểu gập chữ Z. Nói đơn giản, tấm
 Mate XT 2 đi hướng ngược lại. Hai mép màn cụp vào trong để tấm nền chính được che kín hoàn toàn khi gập, và hãng bù lại bằng một màn phụ độc lập gắn ở mặt ngoài để nghe gọi, xem thông báo. Đây là đánh đổi kinh điển của nhóm máy gập: thêm một tấm nền nữa thì máy nặng và đắt hơn, nhưng phần dễ hỏng nhất được bảo vệ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/SVb0Sg-ZQb8/maxresdefault.jpg" alt="Co che gap ba cua dien thoai man hinh gap Mate XT 2" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/HIrLzS9ir7k/maxresdefault.jpg" alt="Co che gap ba cua dien thoai man hinh gap Mate XT 2" loading="lazy" width="1280" height="720">
   <figcaption>Cơ chế cụp hai mép vào trong giúp che kín tấm nền chính khi gập lại. Nguồn: YouTube</figcaption>
 </figure>
 
@@ -86,8 +86,8 @@ Máy chạy **Kirin 9050 Pro**, con chip do chính Huawei phát triển. Hãng c
 Điều đáng chú ý hơn con số là bối cảnh. Huawei bị hạn chế tiếp cận công nghệ sản xuất chip tiên tiến trong nhiều năm, nên việc hãng vẫn ra được chip mới cho dòng sản phẩm đắt nhất của mình là một tuyên bố về năng lực chuỗi cung ứng nội địa. Xu hướng này không chỉ có ở Huawei: Xiaomi cũng đưa chip tự phát triển XRING O3 lên bản gập của mình thay vì dùng Qualcomm.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/zdCwzUW8fiM/maxresdefault.jpg" alt="Chip Kirin 9050 Pro tren dien thoai gap ba Huawei" loading="lazy" width="1280" height="720">
-  <figcaption>Kirin 9050 Pro là chip tự phát triển, Huawei công bố mạnh hơn 42% so với đời trước. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://www.intomobile.com/wp-content/uploads/2026/09/multisite_img_6a9f9e84c27f7.jpg" alt="Chip Kirin 9050 Pro tren dien thoai gap ba Huawei" loading="lazy" width="1280" height="720">
+  <figcaption>Ảnh tháo máy cho thấy cụm chip Kirin 9050 Pro, Huawei công bố mạnh hơn 42% so với đời trước. Nguồn: IntoMobile</figcaption>
 </figure>
 
 Máy có **16GB RAM** cho mọi phiên bản, khác biệt giữa các bản chỉ nằm ở dung lượng lưu trữ 256GB, 512GB hoặc 1TB. Cách chia này khá hợp lý với một sản phẩm ở tầm giá gần trăm triệu, vì người bỏ số tiền đó thường không muốn phải cân nhắc chuyện thiếu RAM ngay từ đầu.
@@ -98,9 +98,9 @@ Lần đầu tiên Huawei đưa tấm nền chống nhìn trộm ở mức phầ
 
 Samsung đã đưa công nghệ cùng hướng lên Galaxy S26 Ultra trong năm nay, nên đây đang thành một điểm cạnh tranh mới ở nhóm máy cao cấp thay vì một tính năng lạ. Điểm cần nhớ là trên Mate XT 2, tính năng này **chỉ có ở bản 1TB giá 24.999 tệ**, tức bạn phải trả thêm khoảng 5.000 tệ so với bản khởi điểm, gần 20 triệu đồng, để có nó cùng với dung lượng lưu trữ lớn hơn.
 
-<div class="art-video-label">VIDEO · Nhóm điện thoại gập và những đánh đổi về độ bền, độ mỏng</div>
+<div class="art-video-label">VIDEO · Cận cảnh Huawei Mate XT 2 Ultimate Design vừa ra mắt</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/FWpxSSMJOYU" title="Dien thoai man hinh gap va nhung danh doi ve do ben" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/-QAOonexUsY" title="Huawei Mate XT 2 can canh sau ra mat" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Với máy gập, cảm giác cầm nắm và độ tin cậy của bản lề khó đọc ra từ bảng thông số. Nguồn: YouTube</p>
 
@@ -111,8 +111,8 @@ Samsung đã đưa công nghệ cùng hướng lên Galaxy S26 Ultra trong năm 
 Máy về nước sẽ đi theo đường xách tay, kéo theo ba điểm cần cân nhắc trước khi xuống tiền. Thứ nhất là bảo hành: cửa hàng xách tay thường bảo hành theo chính sách riêng của họ chứ không phải chính sách của Huawei, và với một máy gập giá gần trăm triệu thì đây là rủi ro lớn nhất. Thứ hai là phần mềm, vì bản bán tại Trung Quốc dùng kho ứng dụng nội địa và không có bộ dịch vụ Google. Thứ ba là giá, do từng cửa hàng tự đặt nên mức chênh giữa các nơi có thể lên tới cả chục triệu đồng cho cùng một cấu hình.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/hrpFdy9rz9s/maxresdefault.jpg" alt="Mua dien thoai gap xach tay tai Viet Nam can luu y gi" loading="lazy" width="1280" height="720">
-  <figcaption>Với máy gập giá cao, khác biệt giữa hàng chính hãng và hàng xách tay nằm ở khâu bảo hành. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://technode.com/wp-content/uploads/2026/09/mate-XT2.png" alt="Mua dien thoai gap xach tay tai Viet Nam can luu y gi" loading="lazy" width="1280" height="720">
+  <figcaption>Với máy gập giá cao, khác biệt giữa hàng chính hãng và hàng xách tay nằm ở khâu bảo hành. Nguồn: TechNode</figcaption>
 </figure>
 
 Vướng mắc thực tế nhất với người Việt không phải là thiếu Gmail hay Google Maps, vì hai thứ đó còn dùng tạm được qua trình duyệt. Vấn đề nằm ở nhóm ứng dụng ngân hàng và ví điện tử trong nước, vốn phân phối qua Google Play và nhiều app kiểm tra môi trường thiết bị trước khi cho đăng nhập. Một chiếc điện thoại gần trăm triệu mà không mở được app ngân hàng là tình huống nên lường trước, không nên để tới lúc đã mua mới phát hiện.
