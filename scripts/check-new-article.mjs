@@ -185,6 +185,20 @@ async function checkOne(path) {
   const isScheduled = /^scheduled:\s*true\s*$/m.test(s);
   if (pub > today && !isScheduled)
     errs.push(`datePublished ${pub} nam o tuong lai (hom nay ${today})`);
+
+  // So ca GIO, khong chi NGAY. Ngay 10/09/2026 mot bai dat datePublished 02:30
+  // trong khi luc do moi 01:18 gio VN: cung ngay nen check tren khong bat, nhung
+  // Astro bo qua bai co moc tuong lai nen KHONG sinh trang, con build-blog.mjs
+  // lai khong loc nhu vay nen van chen link vao blog.html. Ket qua la link chet
+  // 404 ma khong gate nao keu. Chenh vai phut thi vo hai, nen chi bao tu 1 phut.
+  const pubFull = (s.match(/^datePublished: "([^"]+)"/m) || [, ''])[1];
+  if (pubFull && !isScheduled) {
+    const t = Date.parse(pubFull);
+    if (!Number.isNaN(t) && t > Date.now() + 60_000)
+      errs.push(
+        `datePublished ${pubFull} o TUONG LAI so voi bay gio. Astro se khong sinh trang nhung blog.html van chen link, thanh link chet. Lui ve qua khu, hoac them scheduled: true + noindex: true neu that su muon hen lich`
+      );
+  }
   if (pub > today && isScheduled && !/^noindex:\s*true\s*$/m.test(s))
     errs.push(`bai hen lich (scheduled: true) co datePublished tuong lai nhung THIEU noindex: true, se lo ra blog.html va sitemap ngay bay gio`);
   if (/^scheduled:\s*true\s*$/m.test(s) && pub && pub <= today)
