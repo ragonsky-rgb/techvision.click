@@ -77,7 +77,7 @@ Việc Apple tách lịch như vậy tạo ra một tình huống lạ mà nhi�
 Đây là phần công bằng nhất cần nói cho những ai định chờ. Các rò rỉ hội tụ ở năm điểm nâng cấp: chip **A20** trên tiến trình 2nm, **RAM 12GB**, camera trước **24MP**, phần **Dynamic Island thu nhỏ** nhờ Face ID chuyển xuống dưới màn hình, và **modem C2** do Apple tự phát triển thay cho linh kiện mua ngoài.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/VKjvdIw0gCI/maxresdefault.jpg" alt="Chip A20 Pro tren iPhone 18 Pro theo tin don" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nQkuBmv7FuY/maxresdefault.jpg" alt="Chip A20 Pro tren iPhone 18 Pro theo tin don" loading="lazy" width="1280" height="720">
   <figcaption>A20 Pro được đồn dành riêng cho bản Pro, còn bản thường dùng A20. Nguồn: YouTube</figcaption>
 </figure>
 

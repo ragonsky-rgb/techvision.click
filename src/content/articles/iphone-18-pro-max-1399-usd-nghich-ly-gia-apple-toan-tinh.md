@@ -9,9 +9,9 @@ type: "tin-tuc"
 datePublished: "2026-06-20T08:00:00+07:00"
 dateModified: "2026-06-20T08:00:00+07:00"
 deck: "Theo nhiều nguồn tin nước ngoài, iPhone 18 Pro Max có thể khởi điểm tới 1.399 USD, tăng khoảng 300 USD so với đời trước. Nhưng nghịch lý nằm ở chỗ Apple không tăng giá đơn thuần để kiếm lời, mà là một nước cờ tính toán kỹ giữa cơn bão chi phí bộ nhớ do AI và kế hoạch dài hơi cho năm 2027. Bài viết tổng hợp số liệu từ báo chí quốc tế và phân tích Apple thực sự toan tính gì."
-heroImage: "https://images.macrumors.com/t/lYf14IFj-_I1liH_JpkCoQvPBPw=/2500x/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg"
-heroAlt: "Render iPhone 18 Pro màu Deep Red, dự kiến tăng giá mạnh năm 2026"
-heroCaption: "iPhone 18 Pro Max dự kiến khởi điểm tới 1.399 USD theo các nguồn quốc tế. Nguồn: MacRumors"
+heroImage: "https://i.ytimg.com/vi/kT_iyz_VhIU/maxresdefault.jpg"
+heroAlt: "iPhone 18 Pro Max du kien tang gia manh nam 2026 theo cac nguon ro ri"
+heroCaption: "iPhone 18 Pro Max dự kiến khởi điểm tới 1.399 USD theo các nguồn quốc tế. Nguồn: YouTube"
 tldr: "Theo các nguồn nước ngoài như <strong>PhoneArena, Macworld và MacRumors</strong>, iPhone 18 Pro Max có thể khởi điểm tới <strong>1.399 USD</strong>, tăng khoảng <strong>300 USD</strong> so với đời trước (iPhone 17 Pro khởi điểm 1.099 USD). Nguyên nhân chính là chi phí linh kiện leo thang vì <strong>khủng hoảng RAM do AI</strong>: chi phí RAM trên một chiếc iPhone Pro nhảy từ khoảng 39 USD lên 145 USD, đẩy tổng chi phí sản xuất từ ~530 lên ~726 USD (tăng 37%). Tim Cook xác nhận Apple đối mặt các đợt tăng giá rất lớn từ chuỗi cung ứng. Nghịch lý ở chỗ Apple tăng mạnh năm 2026 để tạo dư địa <strong>giữ giá năm 2027</strong>, khi ra mắt iPhone kỷ niệm 20 năm, biến việc không tăng giá thành một điểm cộng dù mức giá vốn đã rất cao. Ước tính giá còn dao động tùy nguồn, máy dự kiến ra mắt tháng 9/2026."
 tags: ["iPhone18ProMax", "Apple", "GiaiPhone", "KhungHoangRAM", "iPhone18", "Apple2026"]
 about: ["iPhone 18 Pro Max", "Apple", "Khủng hoảng RAM", "Giá iPhone"]

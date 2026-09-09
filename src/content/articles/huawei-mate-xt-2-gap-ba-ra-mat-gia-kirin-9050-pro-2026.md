@@ -86,8 +86,8 @@ Máy chạy **Kirin 9050 Pro**, con chip do chính Huawei phát triển. Hãng c
 Điều đáng chú ý hơn con số là bối cảnh. Huawei bị hạn chế tiếp cận công nghệ sản xuất chip tiên tiến trong nhiều năm, nên việc hãng vẫn ra được chip mới cho dòng sản phẩm đắt nhất của mình là một tuyên bố về năng lực chuỗi cung ứng nội địa. Xu hướng này không chỉ có ở Huawei: Xiaomi cũng đưa chip tự phát triển XRING O3 lên bản gập của mình thay vì dùng Qualcomm.
 
 <figure>
-  <img decoding="async" src="https://www.intomobile.com/wp-content/uploads/2026/09/multisite_img_6a9f9e84c27f7.jpg" alt="Chip Kirin 9050 Pro tren dien thoai gap ba Huawei" loading="lazy" width="1280" height="720">
-  <figcaption>Ảnh tháo máy cho thấy cụm chip Kirin 9050 Pro, Huawei công bố mạnh hơn 42% so với đời trước. Nguồn: IntoMobile</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/fQYSUB4gYq4/maxresdefault.jpg" alt="Chip Kirin 9050 Pro tren dien thoai gap ba Huawei" loading="lazy" width="1280" height="720">
+  <figcaption>Kirin 9050 Pro là chip Kirin đầu tiên vượt mốc 3GHz, Huawei công bố mạnh hơn 42% so với đời trước. Nguồn: YouTube</figcaption>
 </figure>
 
 Máy có **16GB RAM** cho mọi phiên bản, khác biệt giữa các bản chỉ nằm ở dung lượng lưu trữ 256GB, 512GB hoặc 1TB. Cách chia này khá hợp lý với một sản phẩm ở tầm giá gần trăm triệu, vì người bỏ số tiền đó thường không muốn phải cân nhắc chuyện thiếu RAM ngay từ đầu.
@@ -111,8 +111,8 @@ Samsung đã đưa công nghệ cùng hướng lên Galaxy S26 Ultra trong năm 
 Máy về nước sẽ đi theo đường xách tay, kéo theo ba điểm cần cân nhắc trước khi xuống tiền. Thứ nhất là bảo hành: cửa hàng xách tay thường bảo hành theo chính sách riêng của họ chứ không phải chính sách của Huawei, và với một máy gập giá gần trăm triệu thì đây là rủi ro lớn nhất. Thứ hai là phần mềm, vì bản bán tại Trung Quốc dùng kho ứng dụng nội địa và không có bộ dịch vụ Google. Thứ ba là giá, do từng cửa hàng tự đặt nên mức chênh giữa các nơi có thể lên tới cả chục triệu đồng cho cùng một cấu hình.
 
 <figure>
-  <img decoding="async" src="https://technode.com/wp-content/uploads/2026/09/mate-XT2.png" alt="Mua dien thoai gap xach tay tai Viet Nam can luu y gi" loading="lazy" width="1280" height="720">
-  <figcaption>Với máy gập giá cao, khác biệt giữa hàng chính hãng và hàng xách tay nằm ở khâu bảo hành. Nguồn: TechNode</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/R9-rBB4K2GI/maxresdefault.jpg" alt="Huawei Mate XT 2 ban ban tai Trung Quoc, may ve Viet Nam theo duong xach tay" loading="lazy" width="1280" height="720">
+  <figcaption>Bản bán tại Trung Quốc là bản sẽ theo đường xách tay về Việt Nam, kèm kho ứng dụng nội địa và chính sách bảo hành của cửa hàng. Nguồn: YouTube</figcaption>
 </figure>
 
 Vướng mắc thực tế nhất với người Việt không phải là thiếu Gmail hay Google Maps, vì hai thứ đó còn dùng tạm được qua trình duyệt. Vấn đề nằm ở nhóm ứng dụng ngân hàng và ví điện tử trong nước, vốn phân phối qua Google Play và nhiều app kiểm tra môi trường thiết bị trước khi cho đăng nhập. Một chiếc điện thoại gần trăm triệu mà không mở được app ngân hàng là tình huống nên lường trước, không nên để tới lúc đã mua mới phát hiện.

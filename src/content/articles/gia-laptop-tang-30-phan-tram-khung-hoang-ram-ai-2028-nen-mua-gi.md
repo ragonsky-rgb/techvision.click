@@ -95,8 +95,8 @@ Vấn đề nằm ở loại bộ nhớ tốc độ cao HBM mà chip AI cần. M
 Giữa lúc laptop Windows đồng loạt tăng giá, một lựa chọn bất ngờ trở nên hấp dẫn là MacBook Neo. Đây là dòng MacBook giá phổ thông của Apple, niêm yết khoảng 599 USD, và trên các sàn như Shopee có thời điểm rớt xuống quanh 13 triệu đồng tùy đợt khuyến mãi. Với một máy Apple chạy chip M mới, mức giá đó là rất hời, nhất là khi mặt bằng laptop chung đang đi lên.
 
 <figure>
-  <img decoding="async" src="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-citrus-0000.jpg?quality=82&strip=all&w=1600" alt="MacBook Neo màu citrus, dòng MacBook giá phổ thông của Apple" loading="lazy" width="1600" height="900">
-  <figcaption>MacBook Neo giá quanh 13 triệu trên sàn là món hời hiếm trong giai đoạn laptop tăng giá. Nguồn: 9to5mac</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/91zQ6Pyxb3Y/maxresdefault.jpg" alt="MacBook Neo, dong MacBook gia pho thong cua Apple" loading="lazy" width="1280" height="720">
+  <figcaption>MacBook Neo giá quanh 13 triệu trên sàn là món hời hiếm trong giai đoạn laptop tăng giá. Nguồn: YouTube</figcaption>
 </figure>
 
 Vì sao Neo đáng cân nhắc? Nó hợp nhóm người dùng phổ thông cần lướt web, làm văn phòng, xem phim, học tập và lập trình nhẹ, với lợi thế thời lượng pin và độ mượt của macOS. Cảm nhận thực tế về máy được ghi lại trong bài [review MacBook Neo 599 USD sau hai tháng dùng](/articles/macbook-neo-599-review-sau-2-thang-ai-vibe-coding.html). Tuy nhiên có một lưu ý quan trọng gắn thẳng với khủng hoảng RAM: bộ nhớ unified trên máy Mac không thể nâng cấp sau khi mua. Nếu ngân sách cho phép, bạn nên chọn cấu hình RAM cao hơn ngay từ đầu, vì sau này muốn nhiều RAM hơn thì chỉ còn cách đổi máy, mà giá RAM thì đang ngày càng đắt.

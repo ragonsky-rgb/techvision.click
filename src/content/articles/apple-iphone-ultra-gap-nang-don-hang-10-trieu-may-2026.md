@@ -65,7 +65,7 @@ Giới phân tích cho rằng việc điều chỉnh tăng cho thấy Apple tin 
 
 <div class="art-video-label">VIDEO · iPhone Ultra gập lộ diện qua rò rỉ mới nhất</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/pjUy1f-6-OQ" title="iPhone Ultra Fold - The Foldable iPhone Is Real" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/NW5D4Vdd5mc" title="iPhone Ultra Fold LEAKED - First Hands-On Impressions" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Loạt nâng cấp được đồn đoán trên chiếc iPhone gập đầu tiên của Apple. Nguồn: YouTube</p>
 
