@@ -5,8 +5,8 @@ description: "Ookla xếp Internet di động Việt Nam hạng 10 với 205,58 
 keywords: "tốc độ internet việt nam, speedtest global index, internet việt nam top 10, tốc độ 5g việt nam, tốc độ mạng cố định, ookla xếp hạng, đo tốc độ mạng"
 category: "Internet"
 type: "tin-tuc"
-datePublished: "2026-09-12T09:00:00+07:00"
-dateModified: "2026-09-12T09:00:00+07:00"
+datePublished: "2026-09-21T09:00:00+07:00"
+dateModified: "2026-09-21T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Lần đầu tiên Việt Nam có mặt trong nhóm 10 quốc gia và vùng lãnh thổ có Internet nhanh nhất thế giới ở cả hai hạng mục di động và cố định, theo bảng xếp hạng của Ookla. Con số nghe rất đẹp, nhưng nó đo cái gì và vì sao tốc độ bạn bấm thử ở nhà lại thấp hơn nhiều so với bảng xếp hạng, đó mới là phần đáng nói."

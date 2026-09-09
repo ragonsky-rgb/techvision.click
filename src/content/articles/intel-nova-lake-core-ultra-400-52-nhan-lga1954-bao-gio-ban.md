@@ -5,8 +5,8 @@ description: "Nova Lake là dòng Core Ultra 400 với tối đa 52 nhân, socke
 keywords: "intel nova lake, core ultra 400, nova lake ra mắt khi nào, socket lga1954, nova lake 52 nhân, chip intel 2027, build pc 2026, cache bllc"
 category: "Công nghệ"
 type: "tin-tuc"
-datePublished: "2026-09-15T09:00:00+07:00"
-dateModified: "2026-09-15T09:00:00+07:00"
+datePublished: "2026-09-22T09:00:00+07:00"
+dateModified: "2026-09-22T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Nova Lake là thế hệ chip máy bàn mà Intel đặt nhiều kỳ vọng nhất trong nhiều năm, với số nhân gấp đôi thế hệ hiện tại và một kiểu bộ nhớ đệm mới nhắm thẳng vào thế mạnh chơi game của AMD. Nhưng giữa lời hứa và ngày máy chạy được trong phòng khách nhà bạn là một lịch trình khá rối, kèm một chi tiết tốn tiền: socket mới, tức phải đổi cả bo mạch chủ."
