@@ -7,8 +7,6 @@ category: "Laptop"
 type: "tin-tuc"
 datePublished: "2026-09-09T08:00:00+07:00"
 dateModified: "2026-09-09T08:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Google đã gửi thư mời báo giới cho một sự kiện phần cứng tổ chức tại New York ngày 15/9/2026, nơi hãng lần đầu trình làng Googlebook. Đây là nỗ lực lớn nhất trong hơn một thập kỷ nhằm đưa Android lên máy tính xách tay, và nó đồng nghĩa với việc ChromeOS trên máy tiêu dùng sắp có người kế nhiệm. Câu hỏi thật sự không phải Google làm được hay không, mà là dòng máy này bán cho ai."
 heroImage: "https://i.ytimg.com/vi/4Gpzrn42-tM/maxresdefault.jpg"
 heroAlt: "Google to chuc su kien ra mat Googlebook ngay 15 9 2026 tai New York"

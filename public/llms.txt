@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 246
-- **Cập nhật:** 2026-09-08 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 247
+- **Cập nhật:** 2026-09-09 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Googlebook ra mắt 15/9: Android lên laptop, thay Chromebook](https://techvision.click/articles/googlebook-aluminium-os-ra-mat-15-9-2026-android-len-laptop.html)
 - [AirPods 5 ra mắt 9/9: hai bản, chip H3, giá dự kiến](https://techvision.click/articles/airpods-5-ra-mat-9-9-2026-chip-h3-hai-phien-ban.html)
 - [iOS 27 ra mắt ngày nào, iPhone nào được cập nhật?](https://techvision.click/articles/ios-27-ra-mat-ngay-nao-iphone-nao-duoc-cap-nhat-2026.html)
 - [Redmi Note 17 giá từ 6,99 triệu tại VN, pin 10.000mAh](https://techvision.click/articles/redmi-note-17-series-ra-mat-viet-nam-gia-pin-10000mah-2026.html)
@@ -44,7 +45,6 @@
 - [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
 - [Gemini cho tắt watermark ảnh AI, SynthID vẫn nằm trong file](https://techvision.click/articles/gemini-tat-watermark-anh-ai-synthid-c2pa-2026.html)
 - [Microsoft tăng phí Windows OEM, giá laptop Việt Nam tăng tiếp](https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html)
-- [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
 
 ## Smartphone (66 bài)
 
@@ -210,8 +210,9 @@
 - [Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ](https://techvision.click/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html)
 - [Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc](https://techvision.click/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html)
 
-## Laptop (22 bài)
+## Laptop (23 bài)
 
+- [Googlebook ra mắt 15/9: Android lên laptop, thay Chromebook](https://techvision.click/articles/googlebook-aluminium-os-ra-mat-15-9-2026-android-len-laptop.html)
 - [Nâng cấp RAM, SSD cho laptop cũ 2026: giá bao nhiêu, có đáng?](https://techvision.click/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html)
 - [Lenovo Yoga Pro 7a về Việt Nam: giá 69,99 triệu đồng](https://techvision.click/articles/lenovo-yoga-pro-7a-ra-mat-viet-nam-gia-69-99-trieu-2026.html)
 - [Microsoft tăng phí Windows OEM, giá laptop Việt Nam tăng tiếp](https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html)
