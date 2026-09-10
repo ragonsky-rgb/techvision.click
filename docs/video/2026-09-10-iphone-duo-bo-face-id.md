@@ -111,7 +111,7 @@ Giấu được camera, mà vẫn không đưa Face ID vào.
 Cùng đợt có iPhone mười tám Pro ba mươi tám triệu chín trăm chín mươi chín nghìn đồng.
 Và Pro Max bốn mươi mốt triệu chín trăm chín mươi chín nghìn đồng.
 Năm nay Việt Nam nằm trong đợt mở bán đầu, không phải chờ.
-Mười tám Pro đặt trước bảy giờ tối ngày mười hai tháng chín.
+iPhone mười tám Pro đặt trước bảy giờ tối ngày mười hai tháng chín.
 Còn Duo đặt trước ngày mười sáu tháng mười.
 Theo dõi kênh để biết giá thật ở từng chuỗi ngay khi mở đặt trước.
 ```
@@ -179,34 +179,43 @@ Face ID. Suy ra là đúng, nhưng **chữ lên hình không được để tron
 **Sửa một chỗ trong gói cũ:** gói trước viết "Apple chưa nêu chip cho Duo nên chưa nói chắc là
 A20 Pro". Sai rồi - trang sản phẩm ghi thẳng **"Vapor-cooled A20 Pro chip"** cho chính Duo.
 
-## Gói cảnh (dọc 9:16)
+## Gói cảnh (dọc 9:16) - mốc THẬT, đã bóc từ giọng
 
-Mốc thời gian để trống, điền sau khi Whisper bóc xong file giọng đã tua 1,1x.
+Giọng chốt **60,54 giây** sau khi cắt im lặng và tua 1,1x. 17 câu, 30 nhịp hình.
 
-| Cảnh | Câu đọc | Khung nền | Thẻ số / chữ |
+Sinh bằng `scripts/make_scenes.py`, ra `out/duo-scenes.json`. Không cảnh nào để hình đứng yên
+quá 3 giây - cảnh dài tự chẻ thành 2 hoặc 3 nhịp, mỗi nhịp là một khuôn hẹp hơn (nấc 1,00 /
+1,13 / 1,26). Khuôn hẹp phải cắt sẵn thành file riêng vì `zoompan` chỉ trôi mượt trong một
+nhịp, không nhảy được giữa chừng.
+
+| Câu | Khung nền | Mốc | Thẻ Remotion |
 |---|---|---|---|
-| 1 | 1 | f04-durability | thẻ `103.999.000đ` |
-| 2 | 2 | f06-design | - |
-| 3 | 3 | f08-haimau | thẻ `64.999.000đ` |
-| 4 | 4 (nửa đầu) | f06b-mo | thẻ `7,6 inch` |
-| 5 | 4 (nửa sau) | f03-closed | thẻ `5,4 inch` |
-| 6 | 5 | f01-cam | chữ `Titan grade 5 · IP68` |
-| 7 | 6 | f07-haiman | chữ `Không có Face ID` |
-| 8 | 7 | s01-touchid | chữ `Touch ID ở nút nguồn` |
-| 9 | 8 | f02-foldable | chữ `Lần cuối: iPhone 8, 2017` |
-| 10 | 9-10 | f06b-mo (cắt hẹp vào mép trên màn) | chữ `Camera FaceTime dưới màn hình` |
-| 11 | 11 | f05-landscape | - |
-| 12 | 12-13 | f09-18pro | thẻ `38.999.000đ` rồi `41.999.000đ` |
-| 13 | 14 | s02-giavn | chữ `Việt Nam trong đợt mở bán đầu` |
-| 14 | 15-16 | f08-haimau | thẻ `12/9` rồi `16/10` |
-| 15 | 17 | f04-durability | chữ `Giá thật từng chuỗi, ngay khi mở đặt` |
+| 1 | f04-durability | 0,00-3,00 | `duo-c01` 103.999.000đ |
+| 2 | f06-design (3 nhịp) | 3,00-8,04 | - |
+| 3 | f08-haimau (2 nhịp) | 8,04-11,30 | `duo-c03` 64.999.000đ |
+| 4a | f06b-mo | 11,30-13,20 | `duo-c04` 7,6 inch |
+| 4b | f03-closed | 13,20-14,68 | `duo-c05` 5,4 inch |
+| 5 | f01-cam | 14,68-17,02 | `duo-c06` Titan grade 5 · IP68 |
+| 6 | f07-haiman (2 nhịp) | 17,02-20,26 | `duo-c07` Không có Face ID |
+| 7 | s01-touchid (2 nhịp) | 20,26-23,54 | - (thẻ trích là chính khung) |
+| 8 | f02-foldable (2 nhịp) | 23,54-28,42 | `duo-c09` 2017 |
+| 9 | f05-landscape | 28,42-31,30 | - |
+| 10 | f06b-mo (2 nhịp) | 31,30-35,74 | `duo-c11` Camera FaceTime dưới màn |
+| 11 | f03-closed | 35,74-38,40 | - |
+| 12 | f09-18pro (3 nhịp) | 38,40-43,72 | `duo-c13` 38.999.000đ |
+| 13 | f09-18pro (2 nhịp) | 43,72-47,56 | `duo-c14` 41.999.000đ |
+| 14 | f06-design | 47,56-50,56 | `duo-c15` VN trong đợt mở bán đầu |
+| 15 | f08-haimau (2 nhịp) | 50,56-54,32 | `duo-c16a` 12/9 |
+| 16 | f07-haiman | 54,32-56,68 | `duo-c16b` 16/10 |
+| 17 | f04-durability (2 nhịp) | 56,68-60,54 | `duo-c17` câu mời theo dõi |
 
-Cảnh 15 cố ý quay lại đúng tấm của cảnh 1 - `SKILL-EDIT.md` mục 5: cảnh cuối lặp bố cục cảnh đầu
-thì tỷ lệ xem lại tăng.
+Chỗ tách câu 4 lấy từ **mốc từng từ** của Whisper: chữ "gập" bắt đầu đúng ở 13,20s, nên hình
+đổi đúng lúc miệng nói, không phải ước lượng.
 
-Khung nền đã dựng sẵn ở `~/techvision-video-kit/out/duo-frames/`, đúng 1080x1920, giữ nguyên tỷ lệ
-máy, nền là chính tấm đó phóng to làm mờ và tối đi. Script: `~/techvision-video-kit/scripts/frame916.py` (đóng khung ảnh)
-và `quote_card.py` (thẻ trích dẫn).
+Cảnh 17 quay lại đúng tấm của cảnh 1 - `SKILL-EDIT.md` mục 5.
+
+Khung nền ở `~/techvision-video-kit/out/duo-frames/`, khuôn hẹp tự sinh ở `out/duo-punch/`,
+thẻ nền trong ProRes 4444 ở `out/duo-ov/` (14 thẻ).
 
 ## Chữ chèn màn hình
 
@@ -215,6 +224,21 @@ có 10 dòng trong khi gói cảnh có 15 cảnh, sửa một bên là lệch ng
 
 Luật giữ nguyên: tối đa 7 từ mỗi màn, chữ nằm trong y 140-1440, thẻ số Remotion `y: 0.2`.
 Không cảnh nào còn chip "Ước tính" - toàn bộ giá trong video là giá Apple niêm yết.
+
+## Bẫy đã trả giá với OmniVoice - câu mở đầu bằng số
+
+Câu TTS số 15 viết là `Mười tám Pro đặt trước...`. Giọng nhân bản đọc ra thành một từ nghe như
+"Gigabatt". Bóc riêng đoạn 5 giây đó, không cho ngữ cảnh trước, Whisper vẫn ra "Gigabatt" - tức
+**máy đọc vấp thật, không phải Whisper nghe nhầm**.
+
+Câu 12 `Cùng đợt có iPhone mười tám Pro...` thì đọc đúng. Khác nhau đúng ở chỗ có chữ "iPhone"
+đứng trước.
+
+**Luật rút ra: câu cho TTS không được mở đầu bằng số viết chữ.** Cho một danh từ đứng trước.
+Đã sửa thành `iPhone mười tám Pro đặt trước...` và đọc lại riêng câu đó.
+
+voice.py giữ từng câu ở `$TMPDIR/cv_part_NN.wav` (không phải `/tmp`), nên sửa một câu thì
+**không phải đọc lại cả bài** - thay đúng part rồi nối lại. 17 câu mất 34 phút, một câu mất 2 phút.
 
 ## Dựng
 
