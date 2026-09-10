@@ -296,3 +296,32 @@ Link bài đầy đủ ở bio.
 
 #iphoneduo #apple #iphone18pro #dienthoaigap #touchid #congnghe #techvision
 ```
+
+---
+
+## Bàn giao (10/09/2026)
+
+**Thành phẩm:** `~/techvision-video-kit/out/iphone-duo-bo-face-id-final.mp4`
+1080x1920 · 30fps · H.264 · **60,53 giây** · 75,5 MB · AAC mono 24kHz.
+
+Đã kiểm:
+
+| Hạng mục | Kết quả |
+|---|---|
+| Âm lượng | trung bình -16,2 dB, đỉnh -1,3 dB, không vỡ |
+| Nhịp hình | 30 nhịp, không nhịp nào quá 3,00 giây |
+| Cân màu | độ lệch chuẩn 0,070 (bỏ thẻ trích dẫn cố ý tối); mốc 27/8 là 0,056 |
+| Cú nhảy sáng lớn nhất giữa hai cảnh liền | 0,11 (trước khi sửa nền ảnh 18 Pro là 0,27) |
+| Phụ đề | 59 cụm, dài nhất 17 ký tự, số không rời khỏi đơn vị |
+| Nguồn hình | 10/11 khung là ảnh Apple, 1 khung là thẻ trích chữ nguyên văn |
+| Credit | "Ảnh: Apple" cỡ cố định, chạy suốt trừ khoảng thẻ trích dẫn |
+
+**Một chỗ chưa hoàn hảo, không sửa:** ở 51,8s cụm `iPhone 18 Pro đặt` (17 ký tự) bị hộp
+phụ đề bẻ thành hai dòng vì cỡ chữ để 66. Không hỏng nghĩa. Lần sau muốn chắc một dòng thì
+đặt `MAXC = 16` trong `scripts/make_srt.py`.
+
+**Chưa có nhạc nền.** Cố ý: chưa có nguồn nhạc đã tra bản quyền, mà luật kênh cấm dùng media
+của người khác. Muốn thêm thì `build.py` có sẵn `--music` (tự hạ 18dB dưới giọng).
+
+**Việc còn lại của anh Long:** gắn UTM vào link khi đăng (mẫu đã có trong Gói đăng phía trên).
+Social hiện chỉ 10 phiên/28 ngày mà không đo được vì link chưa có UTM.
