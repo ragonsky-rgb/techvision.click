@@ -7,8 +7,6 @@ category: "Esports"
 type: "tin-tuc"
 datePublished: "2026-09-10T08:00:00+07:00"
 dateModified: "2026-09-10T08:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Đấu Trường Danh Vọng Mùa Đông 2026 đã khởi tranh từ ngày 29/8 và hiện đang trong giai đoạn lượt đi. Đây là mùa giải đánh dấu tròn 10 năm của giải đấu Liên Quân Mobile chuyên nghiệp lớn nhất Việt Nam, với chủ đề Kỷ Nguyên Danh Vọng. Nhưng thứ khiến mùa này khác hẳn các mùa trước không phải là cái tên, mà là hai thay đổi về thể thức có thể làm đảo lộn cách các đội tính toán cả mùa."
 heroImage: "https://i.ytimg.com/vi/TlgPbh6vcMc/maxresdefault.jpg"
 heroAlt: "Dau Truong Danh Vong Mua Dong 2026 khoi tranh voi 9 doi tuyen"

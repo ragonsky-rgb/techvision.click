@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 247
-- **Cập nhật:** 2026-09-09 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 250
+- **Cập nhật:** 2026-09-10 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,9 @@
 
 ## Bài viết mới nhất
 
+- [ĐTDV Mùa Đông 2026: lịch thi đấu, 9 đội, thể thức mới](https://techvision.click/articles/dtdv-mua-dong-2026-lich-thi-dau-9-doi-the-thuc-moi.html)
+- [iPhone 18 Pro giá chính thức 1.199 USD, có gì mới?](https://techvision.click/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html)
+- [iPhone Duo ra mắt: giá 1.999 USD, màn gập 7,6 inch](https://techvision.click/articles/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.html)
 - [Googlebook ra mắt 15/9: Android lên laptop, thay Chromebook](https://techvision.click/articles/googlebook-aluminium-os-ra-mat-15-9-2026-android-len-laptop.html)
 - [AirPods 5 ra mắt 9/9: hai bản, chip H3, giá dự kiến](https://techvision.click/articles/airpods-5-ra-mat-9-9-2026-chip-h3-hai-phien-ban.html)
 - [iOS 27 ra mắt ngày nào, iPhone nào được cập nhật?](https://techvision.click/articles/ios-27-ra-mat-ngay-nao-iphone-nao-duoc-cap-nhat-2026.html)
@@ -42,9 +45,6 @@
 - [Motorola razr fold về Việt Nam: giá 49,99 triệu đồng](https://techvision.click/articles/motorola-razr-fold-ra-mat-viet-nam-gia-49-99-trieu-2026.html)
 - [Esports Nations Cup hoãn sang 11/2027, tuyển Việt Nam chờ](https://techvision.click/articles/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.html)
 - [Nothing Phone (4a) ra mắt Việt Nam: giá bán và cấu hình](https://techvision.click/articles/nothing-phone-4a-4a-pro-ra-mat-viet-nam-gia-cau-hinh-2026.html)
-- [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
-- [Gemini cho tắt watermark ảnh AI, SynthID vẫn nằm trong file](https://techvision.click/articles/gemini-tat-watermark-anh-ai-synthid-c2pa-2026.html)
-- [Microsoft tăng phí Windows OEM, giá laptop Việt Nam tăng tiếp](https://techvision.click/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html)
 
 ## Smartphone (66 bài)
 
@@ -70,7 +70,7 @@
 - [iPhone 18 Pro Max dày và nặng hơn: đánh đổi lấy pin lớn](https://techvision.click/articles/iphone-18-pro-max-day-nang-hon-pin-lon-thiet-ke-2026.html)
 - [iPhone 18 Pro Max hay Galaxy S26 Ultra: chờ hay mua 2026?](https://techvision.click/articles/iphone-18-pro-max-hay-galaxy-s26-ultra-cho-hay-mua-2026.html)
 - [Điện thoại dưới 10 triệu đáng mua nửa cuối 2026](https://techvision.click/articles/dien-thoai-duoi-10-trieu-dang-mua-nua-cuoi-2026.html)
-- [iPhone Fold vs Galaxy Z Fold8: chọn điện thoại gập nào 2026](https://techvision.click/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html)
+- [iPhone Duo vs Galaxy Z Fold8: chọn điện thoại gập nào 2026](https://techvision.click/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html)
 - [Redmi K100 Pro Max ra mắt: pin 9.070mAh, màn OLED 185Hz](https://techvision.click/articles/redmi-k100-k100-pro-ro-ri-pin-9000mah-man-185hz-2026.html)
 - [Galaxy S26 FE giá 18,99 triệu, đã mở bán tại Việt Nam](https://techvision.click/articles/samsung-galaxy-s26-fe-lo-cau-hinh-exynos-2500-gia-du-kien-2026.html)
 - [Honor 600 Pro: camera 200MP, pin 7000mAh có gì đáng mua?](https://techvision.click/articles/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.html)
@@ -98,7 +98,7 @@
 - [Huawei Watch GT 6 ra mắt Việt Nam: pin 21 ngày, từ 4,99 triệu](https://techvision.click/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html)
 - [Samsung Exynos 2600: chip smartphone 2nm đầu tiên thế giới](https://techvision.click/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html)
 - [Pixel 11 ra mắt: Fold 1.899 USD, Pro bị cắt RAM còn 12GB](https://techvision.click/articles/google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026.html)
-- [Top điện thoại đáng mua tháng 8/2026: chọn theo phân khúc giá](https://techvision.click/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html)
+- [Top điện thoại đáng mua tháng 9/2026: chọn theo phân khúc](https://techvision.click/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html)
 - [Galaxy S26 Ultra ra mắt: camera 200MP f/1.4, màn Privacy Display](https://techvision.click/articles/samsung-galaxy-s26-ultra-camera-200mp-privacy-display-snapdragon-8-elite-gen-5.html)
 - [Galaxy Z TriFold: điện thoại gập ba đầu tiên, mở ra 10 inch](https://techvision.click/articles/samsung-galaxy-z-trifold-dien-thoai-gap-ba-dau-tien-gia-2899-usd.html)
 - [18 triệu SIM bị khóa từ 15/6: cách xác thực VNeID giữ số](https://techvision.click/articles/khoa-sim-15-6-2026-cach-xac-thuc-vneid-de-khong-mat-so.html)
@@ -210,6 +210,32 @@
 - [Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ](https://techvision.click/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html)
 - [Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc](https://techvision.click/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html)
 
+## Apple (23 bài)
+
+- [iPhone 18 Pro giá chính thức 1.199 USD, có gì mới?](https://techvision.click/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html)
+- [iPhone Duo ra mắt: giá 1.999 USD, màn gập 7,6 inch](https://techvision.click/articles/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.html)
+- [AirPods 5 ra mắt 9/9: hai bản, chip H3, giá dự kiến](https://techvision.click/articles/airpods-5-ra-mat-9-9-2026-chip-h3-hai-phien-ban.html)
+- [iOS 27 ra mắt ngày nào, iPhone nào được cập nhật?](https://techvision.click/articles/ios-27-ra-mat-ngay-nao-iphone-nao-duoc-cap-nhat-2026.html)
+- [Sự kiện Apple 9/9/2026: mấy giờ, xem ở đâu, có gì](https://techvision.click/articles/su-kien-apple-9-9-2026-xem-truc-tiep-may-gio-co-gi.html)
+- [Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?](https://techvision.click/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html)
+- [Nên mua iPhone 17 hay đợi iPhone 18? Câu trả lời thẳng](https://techvision.click/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html)
+- [iPhone 18 ra mắt khi nào, bao giờ về Việt Nam?](https://techvision.click/articles/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.html)
+- [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
+- [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
+- [Apple cho thuê iPhone giá từ 17,99 USD/tháng qua Klarna](https://techvision.click/articles/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.html)
+- [Trung Quốc duyệt Apple Intelligence, Alibaba và Baidu góp sức](https://techvision.click/articles/apple-intelligence-trung-quoc-phe-duyet-alibaba-qwen-baidu-2026.html)
+- [Apple TV, HomePod, Home Hub 2026: bộ ba nhà thông minh mới](https://techvision.click/articles/apple-tv-homepod-home-hub-2026-nha-thong-minh-ro-ri.html)
+- [iPhone Duo 2026: giá dự kiến, cấu hình, ngày ra mắt](https://techvision.click/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html)
+- [iPhone 18 Pro: giá bán, tính năng, ngày ra mắt tháng 9/2026](https://techvision.click/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html)
+- [Apple nâng đơn hàng iPhone Duo gập lên 10 triệu máy](https://techvision.click/articles/apple-iphone-ultra-gap-nang-don-hang-10-trieu-may-2026.html)
+- [iPhone 18 Pro lộ ảnh thật sau vụ hacker tấn công Tata](https://techvision.click/articles/iphone-18-pro-anh-that-ro-ri-hacker-tan-cong-tata-electronics-2026.html)
+- [iPhone 17e ra mắt: iPhone rẻ nhất 2026, chip A19](https://techvision.click/articles/iphone-17e-apple-gia-re-a19-dynamic-island-2026.html)
+- [Siri AI có tiếng Việt không? Lộ trình và máy nào dùng được](https://techvision.click/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html)
+- [WWDC 2026 có gì mới: Siri AI, iOS 27, macOS Golden Gate](https://techvision.click/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html)
+- [WWDC 2026 mấy giờ Việt Nam? Xem ở đâu, iOS 27 và Siri mới](https://techvision.click/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html)
+- [WWDC 2026 (8/6): Siri mới chạy Google Gemini, preview iOS 27](https://techvision.click/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html)
+- [iPhone sẽ tự khóa khi bị giật khỏi tay: tính năng mới](https://techvision.click/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html)
+
 ## Laptop (23 bài)
 
 - [Googlebook ra mắt 15/9: Android lên laptop, thay Chromebook](https://techvision.click/articles/googlebook-aluminium-os-ra-mat-15-9-2026-android-len-laptop.html)
@@ -235,30 +261,6 @@
 - [Computex 2026: AMD Ryzen AI 400, Snapdragon X2 Elite, ASUS ROG](https://techvision.click/articles/computex-2026-amd-ryzen-ai-400-qualcomm-snapdragon-x2-elite-asus-rog.html)
 - [macOS 27: sửa Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
 - [RTX 5090 Ti 48GB GDDR7: thông số, hiệu năng, ngày ra mắt dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
-
-## Apple (21 bài)
-
-- [AirPods 5 ra mắt 9/9: hai bản, chip H3, giá dự kiến](https://techvision.click/articles/airpods-5-ra-mat-9-9-2026-chip-h3-hai-phien-ban.html)
-- [iOS 27 ra mắt ngày nào, iPhone nào được cập nhật?](https://techvision.click/articles/ios-27-ra-mat-ngay-nao-iphone-nao-duoc-cap-nhat-2026.html)
-- [Sự kiện Apple 9/9/2026: mấy giờ, xem ở đâu, có gì](https://techvision.click/articles/su-kien-apple-9-9-2026-xem-truc-tiep-may-gio-co-gi.html)
-- [Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?](https://techvision.click/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html)
-- [Nên mua iPhone 17 hay đợi iPhone 18? Câu trả lời thẳng](https://techvision.click/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html)
-- [iPhone 18 ra mắt khi nào, bao giờ về Việt Nam?](https://techvision.click/articles/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.html)
-- [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
-- [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
-- [Apple cho thuê iPhone giá từ 17,99 USD/tháng qua Klarna](https://techvision.click/articles/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.html)
-- [Trung Quốc duyệt Apple Intelligence, Alibaba và Baidu góp sức](https://techvision.click/articles/apple-intelligence-trung-quoc-phe-duyet-alibaba-qwen-baidu-2026.html)
-- [Apple TV, HomePod, Home Hub 2026: bộ ba nhà thông minh mới](https://techvision.click/articles/apple-tv-homepod-home-hub-2026-nha-thong-minh-ro-ri.html)
-- [iPhone Fold 2026: giá dự kiến, cấu hình, ngày ra mắt](https://techvision.click/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html)
-- [iPhone 18 Pro: giá bán, tính năng, ngày ra mắt tháng 9/2026](https://techvision.click/articles/iphone-18-pro-tat-tan-tat-tinh-nang-ra-mat-thang-9-2026.html)
-- [Apple nâng đơn hàng iPhone Ultra gập lên 10 triệu máy](https://techvision.click/articles/apple-iphone-ultra-gap-nang-don-hang-10-trieu-may-2026.html)
-- [iPhone 18 Pro lộ ảnh thật sau vụ hacker tấn công Tata](https://techvision.click/articles/iphone-18-pro-anh-that-ro-ri-hacker-tan-cong-tata-electronics-2026.html)
-- [iPhone 17e ra mắt: iPhone rẻ nhất 2026, chip A19](https://techvision.click/articles/iphone-17e-apple-gia-re-a19-dynamic-island-2026.html)
-- [Siri AI có tiếng Việt không? Lộ trình và máy nào dùng được](https://techvision.click/articles/siri-ai-tieng-viet-khi-nao-co-may-nao-dung-duoc-ios-27.html)
-- [WWDC 2026 có gì mới: Siri AI, iOS 27, macOS Golden Gate](https://techvision.click/articles/wwdc-2026-recap-tat-ca-cong-bo-siri-ai-ios-27-macos-golden-gate.html)
-- [WWDC 2026 mấy giờ Việt Nam? Xem ở đâu, iOS 27 và Siri mới](https://techvision.click/articles/wwdc-2026-keynote-dem-nay-xem-o-dau-cho-doi-gi.html)
-- [WWDC 2026 (8/6): Siri mới chạy Google Gemini, preview iOS 27](https://techvision.click/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html)
-- [iPhone sẽ tự khóa khi bị giật khỏi tay: tính năng mới](https://techvision.click/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html)
 
 ## Gaming (11 bài)
 
@@ -328,6 +330,10 @@
 
 - [iOS 27: Camera tùy biến, AI Extend, Enhance, Reframe](https://techvision.click/articles/ios-27-camera-app-moi-photos-ai-extend-enhance-reframe.html)
 - [iOS 27 Leak: Siri 2.0, Camera mới, AI bên thứ ba trước WWDC 2026](https://techvision.click/articles/ios-27-leak-roundup-wwdc-2026-tinh-nang-moi.html)
+
+## Esports (1 bài)
+
+- [ĐTDV Mùa Đông 2026: lịch thi đấu, 9 đội, thể thức mới](https://techvision.click/articles/dtdv-mua-dong-2026-lich-thi-dau-9-doi-the-thuc-moi.html)
 
 ## Điện thoại (1 bài)
 
