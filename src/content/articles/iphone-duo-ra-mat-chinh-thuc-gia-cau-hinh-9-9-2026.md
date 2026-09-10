@@ -8,11 +8,11 @@ type: "tin-tuc"
 datePublished: "2026-09-10T01:10:00+07:00"
 dateModified: "2026-09-10T01:10:00+07:00"
 deck: "Sau nhiều năm đồn đoán, Apple đã trình làng chiếc iPhone màn hình gập đầu tiên và đặt tên là iPhone Duo, không phải iPhone Fold hay iPhone Ultra như giới rò rỉ dự đoán. Máy khởi điểm 1.999 USD, dùng Touch ID thay vì Face ID, và phải tới tháng 10 mới bán. Đây cũng là keynote đầu tiên của John Ternus trên cương vị CEO Apple."
-heroImage: "https://techvision.click/images/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026/iphone-duo-hero.jpg"
-heroAlt: "iPhone Duo ra mat chinh thuc gia tu 1999 USD man gap 7 6 inch"
-heroCaption: "iPhone Duo mở ra thành màn hình 7,6 inch, dùng như một chiếc iPad mini thu nhỏ. Nguồn: Apple"
+heroImage: "https://techvision.click/images/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026/iphone-duo-hai-man-hinh.jpg"
+heroAlt: "iPhone Duo man ngoai 5 4 inch va man trong 7 6 inch anh chinh thuc Apple"
+heroCaption: "Màn ngoài 5,4 inch khi gập và màn trong 7,6 inch khi mở, ảnh chính thức Apple công bố ngày 9/9/2026. Nguồn: Apple"
 ogImage: "https://techvision.click/uploads/og-article/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.jpg"
-tldr: "Apple ra mắt <strong>iPhone Duo</strong>, chiếc iPhone gập đầu tiên, tại sự kiện Surprise and shine rạng sáng 10/9 giờ Việt Nam. Máy có màn trong <strong>7,6 inch</strong> và màn ngoài <strong>5,4 inch</strong>, khung titan grade 5, dùng <strong>Touch ID ở nút nguồn</strong> thay vì Face ID. Giá từ <strong>1.999 USD</strong> bản 256GB, lên tới khoảng 3.000 USD bản 2TB, hai màu Star White và Night Sky, <strong>bán từ tháng 10</strong>. Cùng đợt có iPhone 18 Pro từ 1.199 USD và Pro Max từ 1.299 USD, tăng 100 USD so với thế hệ trước."
+tldr: "Apple ra mắt <strong>iPhone Duo</strong>, chiếc iPhone gập đầu tiên, tại sự kiện Surprise and shine rạng sáng 10/9 giờ Việt Nam. Máy có màn trong <strong>7,6 inch</strong> và màn ngoài <strong>5,4 inch</strong>, khung titan grade 5, dùng <strong>Touch ID ở nút nguồn</strong> thay vì Face ID. Giá từ <strong>1.999 USD</strong> bản 256GB, lên tới khoảng 3.000 USD bản 2TB, hai màu Star White và Night Sky, <strong>đặt trước từ 16/10 và bán từ 23/10</strong>. Cùng đợt có iPhone 18 Pro từ 1.199 USD và Pro Max từ 1.299 USD, tăng 100 USD so với thế hệ trước."
 tags: ["iPhoneDuo", "Apple", "iPhone18Pro", "DienThoaiGap", "TinCongNghe", "2026"]
 about: ["iPhone Duo", "iPhone 18 Pro", "Apple", "John Ternus"]
 authorBio: "Founder LongTechVision. Theo dõi tin công nghệ quốc tế và quy đổi ra bối cảnh giá cả tại Việt Nam."
@@ -34,7 +34,7 @@ faq:
   - q: "iPhone Duo có Face ID không?"
     a: "Không. Apple dùng Touch ID tích hợp ở nút nguồn cạnh viền thay vì Face ID. Lý do kỹ thuật là cụm camera TrueDepth cần độ dày nhất định, khó nhét vào thân máy gập vốn rất mỏng. Bù lại máy hỗ trợ mở khoá bằng Apple Watch."
   - q: "Bao giờ iPhone Duo về Việt Nam và giá khoảng bao nhiêu?"
-    a: "Apple cho biết máy bán từ tháng 10 tại các thị trường đợt đầu, và Việt Nam không nằm trong nhóm này. Theo nếp các năm trước, hàng chính hãng về Việt Nam chậm hơn Mỹ khoảng 2 tới 4 tuần, nên mốc đáng chờ là cuối tháng 10 hoặc tháng 11. Về giá, lấy tỷ lệ thực tế từ iPhone 17 Pro Max (1.199 USD tại Mỹ, khoảng 35,2 triệu đồng tại Việt Nam) áp sang thì iPhone Duo có thể rơi vào khoảng 58 tới 60 triệu đồng. Đây là ước tính, không phải giá đã công bố."
+    a: "Apple cho biết máy mở đặt trước ngày 16/10 và lên kệ ngày 23/10 tại các thị trường đợt đầu, và Việt Nam không nằm trong nhóm này. Theo nếp các năm trước, hàng chính hãng về Việt Nam chậm hơn Mỹ khoảng 2 tới 4 tuần, nên mốc đáng chờ là cuối tháng 10 hoặc tháng 11. Về giá, lấy tỷ lệ thực tế từ iPhone 17 Pro Max (1.199 USD tại Mỹ, khoảng 35,2 triệu đồng tại Việt Nam) áp sang thì iPhone Duo có thể rơi vào khoảng 58 tới 60 triệu đồng. Đây là ước tính, không phải giá đã công bố."
   - q: "iPhone 18 Pro và Pro Max giá bao nhiêu, khi nào giao máy?"
     a: "iPhone 18 Pro từ 1.199 USD và Pro Max từ 1.299 USD, đều khởi điểm bản 256GB, tăng 100 USD so với thế hệ trước. Lần đầu tiên hai máy có tuỳ chọn 2TB. Máy giao tới tay người mua tại Mỹ từ ngày 18/9."
   - q: "Có nên mua iPhone Duo không?"
@@ -66,8 +66,8 @@ Rạng sáng 10/9 giờ Việt Nam, Apple khép lại nhiều năm đồn đoán
 Cái tên phản ánh đúng thứ Apple muốn nhấn: máy có hai màn hình chứ không phải một tấm màn bị gập lại. Màn ngoài 5,4 inch đủ để dùng như một chiếc iPhone bình thường khi đóng, còn màn trong 7,6 inch mở ra theo kiểu cuốn sổ. Cách đặt tên này cũng tách Apple khỏi cuộc đua chữ "Fold" mà Samsung đã sở hữu gần như tuyệt đối trong bảy năm qua.
 
 <figure>
-  <img decoding="async" src="https://techvision.click/images/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026/iphone-duo-mo-ra.jpg" alt="iPhone Duo mo ra thanh man hinh trong 7 6 inch cam bang hai tay" loading="lazy" width="1480" height="1140">
-  <figcaption>Mở ra, máy cho không gian hiển thị rộng gần bằng một chiếc máy tính bảng nhỏ. Nguồn: Apple</figcaption>
+  <img decoding="async" src="https://techvision.click/images/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026/iphone-duo-hai-mau.jpg" alt="iPhone Duo hai mau Star White va Night Sky khung titan danh bong guong" loading="lazy" width="1780" height="1000">
+  <figcaption>Hai màu Star White và Night Sky, khung titan grade 5 đánh bóng gương. Nguồn: Apple</figcaption>
 </figure>
 
 Điểm gây tranh luận nhiều nhất là việc Apple bỏ Face ID. Máy dùng Touch ID tích hợp vào nút nguồn cạnh viền, cách làm quen thuộc trên iPad. Lý do kỹ thuật khá dễ hiểu: cụm camera TrueDepth cần một độ dày nhất định để bắn và đọc lưới điểm hồng ngoại, trong khi thân máy gập khi mở ra chỉ dày khoảng 4,5mm. Đây là lần đầu tiên kể từ iPhone X năm 2017 một chiếc iPhone cao cấp không có Face ID. Bù lại, Apple cho phép mở khoá máy bằng Apple Watch đã ghép đôi.
@@ -78,7 +78,7 @@ Phần Apple xác nhận trên sân khấu gồm giá, kích thước hai màn h
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/khefl5hYouM/maxresdefault.jpg" alt="iPhone Duo nhin tu nhieu goc do khung titan grade 5" loading="lazy" width="1280" height="720">
-  <figcaption>Khung titan grade 5 và bản lề là hai điểm Apple nhấn mạnh trong phần giới thiệu. Nguồn: YouTube</figcaption>
+  <figcaption>Bản xem trước do kênh công nghệ dựng lại trước giờ công bố, không phải ảnh máy thương mại. Nguồn: YouTube</figcaption>
 </figure>
 
 Phần chưa rõ ràng bằng là cấu hình bên trong. Các nguồn theo dõi sự kiện ghi nhận máy dùng chip A20 Pro trên tiến trình 2nm cùng 12GB RAM và cụm camera sau kép 48MP, nhưng đây là thông tin tổng hợp từ báo chí công nghệ chứ chưa phải bảng thông số chi tiết Apple đăng trên trang sản phẩm. Con số dung lượng pin cũng vậy, nên tạm coi là tham khảo cho tới khi trang bán chính thức mở.
