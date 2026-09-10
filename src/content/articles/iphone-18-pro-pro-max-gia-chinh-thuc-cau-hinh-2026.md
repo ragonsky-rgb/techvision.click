@@ -12,7 +12,7 @@ heroImage: "https://techvision.click/images/iphone-18-pro-pro-max-gia-chinh-thuc
 heroAlt: "iPhone 18 Pro bon mau black silver glacier burgundy anh chinh thuc Apple"
 heroCaption: "Bốn màu của iPhone 18 Pro: black, silver, glacier và burgundy mới. Ảnh chính thức Apple công bố 9/9/2026. Nguồn: Apple"
 ogImage: "https://techvision.click/uploads/og-article/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.jpg"
-tldr: "Apple công bố <strong>iPhone 18 Pro từ 1.199 USD</strong> và <strong>18 Pro Max từ 1.299 USD</strong>, đều khởi điểm bản 256GB, tăng <strong>100 USD</strong> so với thế hệ trước. Lần đầu tiên dòng Pro có tuỳ chọn <strong>2TB</strong>. Nâng cấp đáng chú ý gồm <strong>Dynamic Island thu nhỏ xử lý ba tác vụ</strong> cùng lúc, cụm camera pro làm mới cả phần cứng lẫn phần mềm, và buồng hơi tản nhiệt cải tiến. Máy giao tại Mỹ từ <strong>18/9</strong>, Việt Nam dự kiến đầu tháng 10. Đặt trước mở từ <strong>12/9</strong>, máy lên kệ <strong>18/9</strong>."
+tldr: "Apple công bố <strong>iPhone 18 Pro từ 1.199 USD</strong> và <strong>18 Pro Max từ 1.299 USD</strong>, đều khởi điểm bản 256GB, tăng <strong>100 USD</strong> so với thế hệ trước. Lần đầu tiên dòng Pro có tuỳ chọn <strong>2TB</strong>. Nâng cấp đáng chú ý gồm <strong>Dynamic Island thu nhỏ xử lý ba tác vụ</strong> cùng lúc, cụm camera pro làm mới cả phần cứng lẫn phần mềm, và buồng hơi tản nhiệt cải tiến. Máy giao tại Mỹ từ <strong>18/9</strong>, Việt Nam dự kiến đầu tháng 10. Việt Nam nằm trong đợt mở bán đầu: đặt trước <strong>19h ngày 12/9</strong>, có hàng <strong>18/9</strong>, giá chính thức <strong>38.999.000đ</strong> và <strong>41.999.000đ</strong> cho bản 256GB."
 tags: ["iPhone18Pro", "Apple", "TinCongNghe", "GiaVietNam", "2026"]
 about: ["iPhone 18 Pro", "iPhone 18 Pro Max", "Apple", "Dynamic Island"]
 authorBio: "Founder LongTechVision. Theo dõi tin công nghệ quốc tế và quy đổi ra bối cảnh giá cả tại Việt Nam."
@@ -36,7 +36,7 @@ faq:
   - q: "Bản 2TB dành cho ai?"
     a: "Đây là bậc dung lượng mới, lần đầu xuất hiện trên iPhone. Nó nhắm tới người quay video ProRes hoặc log ở độ phân giải cao, vốn ngốn hàng chục GB cho mỗi vài phút quay. Với người dùng phổ thông chỉ chụp ảnh và quay clip thường ngày, bản 256GB hoặc 512GB vẫn thoải mái."
   - q: "iPhone 18 Pro bao giờ về Việt Nam, giá khoảng bao nhiêu?"
-    a: "Máy giao tại Mỹ từ 18/9. Việt Nam không nằm trong nhóm mở bán đợt đầu, thường chậm hơn 2 tới 3 tuần, nên mốc đáng chờ là đầu tháng 10/2026. Về giá, lấy tỷ lệ thực tế từ iPhone 17 Pro Max (1.199 USD tại Mỹ, khoảng 35,2 triệu đồng tại đại lý Việt Nam) áp sang thì iPhone 18 Pro có thể quanh 35 triệu và Pro Max quanh 38 triệu. Đây là ước tính, chưa phải giá công bố."
+    a: "Việt Nam nằm trong nhóm mở bán đợt đầu năm nay. Đặt trước mở lúc 19h ngày 12/9 giờ Việt Nam, máy có hàng từ 18/9, cùng ngày với Mỹ, giới hạn 2 máy mỗi khách. Giá chính thức Apple công bố: iPhone 18 Pro 256GB là 38.999.000đ, iPhone 18 Pro Max 256GB là 41.999.000đ. Bản 2TB lần lượt 77.999.000đ và 80.999.000đ."
   - q: "Đang dùng iPhone 17 Pro có nên lên đời không?"
     a: "Không cần thiết. Khoảng cách giữa hai đời Pro liền kề vài năm nay chủ yếu nằm ở camera và hiệu năng, đều là mức chênh khó nhận ra trong sử dụng hằng ngày. Nếu bạn đang dùng iPhone 15 Pro trở về trước thì bước nhảy đáng kể hơn nhiều, nhất là ở thời lượng pin và khả năng tản nhiệt khi quay video dài."
 related:
@@ -55,7 +55,7 @@ Chiếc iPhone gập chiếm hết tít báo, nhưng iPhone 18 Pro mới là má
     <tr><td>iPhone 18 Pro Max</td><td>từ <strong>1.299 USD</strong> bản 256GB</td></tr>
     <tr><td>Dung lượng cao nhất</td><td><strong>2TB</strong>, lần đầu có trên iPhone</td></tr>
     <tr><td>Mức tăng giá</td><td>+100 USD so với thế hệ trước</td></tr>
-    <tr><td>Giao máy</td><td>18/9 tại Mỹ, Việt Nam dự kiến đầu tháng 10</td></tr>
+    <tr><td>Giao máy</td><td>18/9 tại cả Mỹ và <strong>Việt Nam</strong>, đặt trước 19h ngày 12/9</td></tr>
   </table>
 </div>
 
@@ -93,20 +93,27 @@ Thứ ba là **cụm camera pro** được làm mới cả phần cứng lẫn p
   <figcaption>Người dùng nặng ưu tiên pin lớn, người thích gọn nhẹ nên cân nhắc bản Pro thường. Nguồn: YouTube</figcaption>
 </figure>
 
-## Giá về Việt Nam khoảng bao nhiêu
+## Giá chính thức tại Việt Nam
 
-Apple chưa công bố giá Việt Nam, nên phải ước tính. Cách đáng tin hơn tỷ giá ngân hàng là lấy tỷ lệ thực tế từ một máy đang bán: iPhone 17 Pro Max có giá 1.199 USD tại Mỹ và khoảng 35,2 triệu đồng tại đại lý trong nước, tức khoảng 29.400 đồng cho mỗi USD sau toàn bộ thuế và biên lợi nhuận.
+Apple đã công bố giá Việt Nam ngay trong ngày, và Việt Nam **nằm trong nhóm mở bán đợt đầu** chứ không phải chờ như các năm trước. Đặt trước mở lúc **19h ngày 12/9 giờ Việt Nam**, máy có hàng từ **18/9**, giới hạn 2 máy mỗi khách.
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Ước tính giá iPhone 18 Pro tại Việt Nam</div>
+  <div class="spec-box-title">📋 Giá chính thức Apple Việt Nam</div>
   <table>
-    <tr><td>iPhone 18 Pro 256GB</td><td>khoảng <strong>35 triệu đồng</strong></td></tr>
-    <tr><td>iPhone 18 Pro Max 256GB</td><td>khoảng <strong>38 triệu đồng</strong></td></tr>
-    <tr><td>Mức độ tin cậy</td><td>ước tính theo tỷ lệ thực tế, <strong>chưa phải giá công bố</strong></td></tr>
+    <tr><td>iPhone 18 Pro 256GB</td><td><strong>38.999.000đ</strong></td></tr>
+    <tr><td>iPhone 18 Pro 512GB</td><td>45.499.000đ</td></tr>
+    <tr><td>iPhone 18 Pro 1TB</td><td>58.499.000đ</td></tr>
+    <tr><td>iPhone 18 Pro 2TB</td><td>77.999.000đ</td></tr>
+    <tr><td>iPhone 18 Pro Max 256GB</td><td><strong>41.999.000đ</strong></td></tr>
+    <tr><td>iPhone 18 Pro Max 512GB</td><td>48.499.000đ</td></tr>
+    <tr><td>iPhone 18 Pro Max 1TB</td><td>61.499.000đ</td></tr>
+    <tr><td>iPhone 18 Pro Max 2TB</td><td>80.999.000đ</td></tr>
   </table>
 </div>
 
-Điều đáng chú ý là mức này khiến iPhone 18 Pro gần như ngang giá iPhone 17 Pro Max hiện tại. Nói cách khác, cùng một khoản tiền, bạn đứng trước lựa chọn giữa máy đời mới bản thường và máy đời cũ bản Max màn lớn pin trâu. Phân tích chi tiết cho tình huống này nằm trong bài [nên mua iPhone 17 hay đợi iPhone 18](/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html).
+Bốn màu bán tại Việt Nam: Đen, Bạc, Băng Thanh và Đỏ Burgundy.
+
+Đặt cạnh mặt bằng hiện tại thì con số này đáng suy nghĩ. iPhone 17 Pro Max 256GB đang bán 34,09 triệu tại CellphoneS, tức **iPhone 18 Pro bản thường đã đắt hơn máy Max đời trước gần 5 triệu đồng**. Cùng một khoản tiền, bạn đứng trước lựa chọn giữa máy đời mới bản thường và máy đời cũ bản Max màn lớn pin trâu. Phân tích chi tiết nằm trong bài [nên mua iPhone 17 hay đợi iPhone 18](/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html).
 
 ## Những thứ Apple không đổi
 
@@ -132,5 +139,5 @@ Cuối cùng, hệ điều hành đi kèm vẫn là iOS 27 giống các máy đ�
 Còn nếu bạn đang cân nhắc chiếc iPhone gập vừa ra mắt cùng đợt, chi tiết giá và cấu hình nằm trong bài [iPhone Duo ra mắt chính thức](/articles/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.html). Lưu ý máy đó phải tới tháng 10 mới bán và giá gần gấp đôi bản Pro.
 
 <div class="art-callout">
-  💡 <strong>Lưu ý:</strong> giá và ngày mở bán chính hãng tại Việt Nam chưa được Apple hay đại lý công bố. Bài viết sẽ được cập nhật ngay khi các chuỗi bán lẻ trong nước chốt giá.
+  💡 <strong>Cập nhật 10/9/2026:</strong> Apple đã công bố giá chính hãng tại Việt Nam ngay trong ngày ra mắt, và Việt Nam nằm trong nhóm mở bán đợt đầu chứ không phải chờ vài tuần như mọi năm. iPhone 18 Pro 256GB là 38.999.000đ, Pro Max 256GB là 41.999.000đ. Đặt trước mở lúc 19h ngày 12/9 giờ Việt Nam, máy có hàng từ 18/9, giới hạn 2 máy mỗi khách.
 </div>

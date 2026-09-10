@@ -36,41 +36,53 @@ Bài nguồn trên site:
 | 12/9 và 18/9 | Đặt trước và mở bán iPhone 18 Pro | như trên |
 | 2017 | Lần gần nhất một iPhone cao cấp dùng vân tay (iPhone 8) | mốc lịch sử, Face ID ra cùng iPhone X 2017 |
 
-### Phải gắn chip "Ước tính" trên hình
+### Giá chính thức Việt Nam - Apple đã công bố, KHÔNG còn là ước tính
 
-| Số | Nội dung | Vì sao chỉ là ước tính |
+Cập nhật 10/9: Apple công bố giá Việt Nam ngay trong ngày và **Việt Nam nằm trong nhóm mở bán
+đợt đầu**, khác hẳn nếp mọi năm. Bỏ toàn bộ phần ước tính khỏi kịch bản.
+
+| Số | Nội dung | Nguồn |
 |---|---|---|
-| 57 - 59 triệu | Giá iPhone Duo về Việt Nam | Apple chưa công bố giá VN. Suy từ tỷ lệ thực của iPhone 17 Pro Max: 1.199 USD ở Mỹ, 34,09 tới 35,2 triệu ở đại lý VN tùy nơi, ra 28.400 tới 29.400đ/USD. Dùng **khoảng** chứ không chốt một số. |
-| đầu tháng 11 | Mốc Duo có thể về VN | Nếp các năm trước, VN chậm hơn Mỹ 2 tới 4 tuần |
+| 64.999.000đ | iPhone Duo 256GB tại VN | apple.com/vn/shop/buy-iphone/iphone-duo |
+| 71.499.000đ | Duo 512GB | như trên |
+| 84.499.000đ | Duo 1TB | như trên |
+| **103.999.000đ** | Duo 2TB - lần đầu iPhone vượt 100 triệu tại VN | như trên |
+| 19h 16/10 | Giờ mở đặt trước tại VN | như trên |
+| 23/10 | Ngày có hàng tại VN | như trên |
+| 38.999.000đ | iPhone 18 Pro 256GB tại VN | apple.com/vn/shop/buy-iphone/iphone-18-pro |
+| 41.999.000đ | iPhone 18 Pro Max 256GB tại VN | như trên |
+| 19h 12/9 · 18/9 | Đặt trước và có hàng, iPhone 18 Pro tại VN | như trên |
+| ~24% | Chênh giá VN so với Mỹ sau thuế và phân phối | tự tính từ 1.999 USD và 64.999.000đ |
+| Trắng Ánh Sao · Trời Đêm | Tên hai màu bản Việt Nam | apple.com/vn |
 
 **Không được nói:**
-- Không nói Apple đã công bố giá Việt Nam. Chưa có.
-- Không nói chắc ngày về Việt Nam. Chỉ nói theo nếp các năm trước.
-- Không chốt một con số VND duy nhất. Dùng khoảng.
-- Không nói máy có A20 Pro / 12GB RAM như thể Apple xác nhận. Đó là số báo chí tổng hợp.
+- Không nói Việt Nam phải chờ. Năm nay VN nằm trong đợt đầu.
+- Không nói giá là ước tính. Đã là giá Apple niêm yết.
+- Không nói máy có A20 Pro / 12GB RAM như thể Apple xác nhận với Duo. Apple đăng ảnh chip A20 Pro
+  trong thông cáo **iPhone 18 Pro**, còn với Duo thì thông cáo không nêu chip.
 
 ## Kịch bản đọc (anh Long tự đọc, số giữ nguyên dạng số)
 
 Khối copy trơn để dán thẳng vào teleprompter:
 
 ```
-Máy gập đầu tiên của Apple, giá gần 2.000 đô. Mà mở khoá bằng vân tay.
+Lần đầu có một chiếc iPhone giá 104 triệu ở Việt Nam. Mà nó mở khoá bằng vân tay.
 
-Rạng sáng nay, 0 giờ ngày 10 tháng 9 giờ Việt Nam, Apple ra mắt iPhone Duo. Đây cũng là buổi ra mắt đầu tiên của John Ternus trên ghế CEO, không còn Tim Cook.
+Rạng sáng nay Apple ra mắt iPhone Duo, chiếc iPhone gập đầu tiên. Giá chính hãng tại Việt Nam từ 64.999.000đ, bản 2TB lên tới 103.999.000đ.
 
-Máy mở ra 7,6 inch, gập lại còn 5,4 inch. Khung titan grade 5, chuẩn IP68. Giá từ 1.999 đô cho bản 256GB.
+Máy mở ra 7,6 inch, gập lại còn 5,4 inch. Khung titan grade 5, chuẩn IP68.
 
 Nhưng chi tiết lạ nhất nằm ở chỗ khác. Apple bỏ Face ID. iPhone Duo mở khoá bằng Touch ID đặt ở nút nguồn. Lần gần nhất một chiếc iPhone cao cấp dùng vân tay là iPhone 8, năm 2017.
 
 Nghịch lý là Apple thừa sức giấu camera. Chính máy này có camera FaceTime nằm dưới màn hình, ẩn đi khi không dùng. Giấu được camera, mà vẫn không đưa Face ID vào.
 
-Cùng đợt còn có iPhone 18 Pro từ 1.199 đô và Pro Max từ 1.299 đô, đều tăng 100 đô.
+Cùng đợt có iPhone 18 Pro 38.999.000đ và Pro Max 41.999.000đ.
 
-Việt Nam không nằm trong nhóm mở bán đợt đầu. Duo đặt trước 16 tháng 10, lên kệ 23 tháng 10. Về nước, ước tính khoảng 57 tới 59 triệu.
+Điểm đáng mừng cho người Việt: năm nay Việt Nam nằm trong đợt mở bán đầu, không phải chờ. 18 Pro đặt trước 19 giờ ngày 12 tháng 9, có hàng 18 tháng 9. Còn Duo đặt trước 16 tháng 10, có hàng 23 tháng 10.
 ```
 
 Xưng hô với người xem là **anh chị**. Đọc thử bấm giờ: mục tiêu **58 tới 65 giây**.
-Quá 68 giây thì bỏ nguyên câu về John Ternus, đừng cắt các số khác.
+Quá 68 giây thì bỏ nguyên câu về camera dưới màn hình, đừng cắt các số giá.
 
 ## Bản cho TTS (chỉ dùng nếu nhân bản giọng bằng OmniVoice)
 
@@ -78,21 +90,22 @@ Quá 68 giây thì bỏ nguyên câu về John Ternus, đừng cắt các số k
 chữ vì máy đọc số dạng số là vấp. **Chữ hiện trên màn hình vẫn để dạng số.**
 
 ```
-Máy gập đầu tiên của Apple, giá gần hai nghìn đô. Mà mở khoá bằng vân tay.
-Rạng sáng nay, không giờ ngày mùng mười tháng chín giờ Việt Nam, Apple ra mắt iPhone Duo.
-Đây cũng là buổi ra mắt đầu tiên của John Ternus trên ghế CEO, không còn Tim Cook.
+Lần đầu có một chiếc iPhone giá một trăm lẻ bốn triệu ở Việt Nam. Mà nó mở khoá bằng vân tay.
+Rạng sáng nay Apple ra mắt iPhone Duo, chiếc iPhone gập đầu tiên.
+Giá chính hãng tại Việt Nam từ sáu mươi tư triệu chín trăm chín mươi chín nghìn đồng.
+Bản hai tê bi lên tới một trăm lẻ ba triệu chín trăm chín mươi chín nghìn đồng.
 Máy mở ra bảy phẩy sáu inch, gập lại còn năm phẩy bốn inch.
-Khung titan grade năm, chuẩn IP sáu tám. Giá từ một nghìn chín trăm chín mươi chín đô cho bản hai trăm năm mươi sáu gi ga bai.
+Khung titan grade năm, chuẩn IP sáu tám.
 Nhưng chi tiết lạ nhất nằm ở chỗ khác. Apple bỏ Face ID.
 iPhone Duo mở khoá bằng Touch ID đặt ở nút nguồn.
 Lần gần nhất một chiếc iPhone cao cấp dùng vân tay là iPhone tám, năm hai nghìn không trăm mười bảy.
 Nghịch lý là Apple thừa sức giấu camera.
 Chính máy này có camera FaceTime nằm dưới màn hình, ẩn đi khi không dùng.
 Giấu được camera, mà vẫn không đưa Face ID vào.
-Cùng đợt còn có iPhone mười tám Pro từ một nghìn một trăm chín mươi chín đô, và Pro Max từ một nghìn hai trăm chín mươi chín đô, đều tăng một trăm đô.
-Việt Nam không nằm trong nhóm mở bán đợt đầu.
-Duo đặt trước mười sáu tháng mười, lên kệ hai mươi ba tháng mười.
-Về nước, ước tính khoảng năm mươi bảy tới năm mươi chín triệu.
+Cùng đợt có iPhone mười tám Pro ba mươi tám triệu chín trăm chín mươi chín nghìn đồng, và Pro Max bốn mươi mốt triệu chín trăm chín mươi chín nghìn đồng.
+Điểm đáng mừng cho người Việt: năm nay Việt Nam nằm trong đợt mở bán đầu, không phải chờ.
+Mười tám Pro đặt trước bảy giờ tối ngày mười hai tháng chín, có hàng mười tám tháng chín.
+Còn Duo đặt trước mười sáu tháng mười, có hàng hai mươi ba tháng mười.
 ```
 
 **Bắt buộc bóc lại bằng Whisper để soi từng con số.** TTS từng đọc "sáu mươi bảy phần trăm"
@@ -113,7 +126,7 @@ chỉ kiểm đường dẫn.
 | 4b | camera dưới màn (thay thế) | `Apple-iPhone-Duo-display-sizes-260909` crop vào màn trong | để chữ trên hình gánh phần giải thích | ✅ có | Apple Newsroom, credit |
 | 5 | 18 Pro bốn màu | `Apple-iPhone-18-Pro-color-lineup-260909` | black, silver, glacier, burgundy | ✅ có | Apple Newsroom, credit |
 | 6 | chip A20 Pro | `Apple-iPhone-18-Pro-A20-Pro-chip-260909` | đã mở ra xem: ảnh chip A20 PRO nền đen, viền phát sáng. Dùng tốt | ✅ có | Apple Newsroom, credit |
-| 7 | giá về VN | ảnh chụp bảng giá trong bài trên techvision.click | bảng ước tính | tự chụp | trang nhà |
+| 7 | giá chính thức VN | ảnh chụp bảng giá Apple VN trong bài trên techvision.click | bảng giá niêm yết | tự chụp | trang nhà |
 
 Đường dẫn gốc, thay `<ten-anh>` bằng cột "Tên ảnh":
 ```
@@ -139,16 +152,16 @@ VIDEO: iPhone Duo bo Face ID
 TOTAL: ~62s
 KHUNG HINH: doc 9:16
 
-SCENE 1  (hook)                display-sizes            + the "1.999 USD" + the "Touch ID"
-SCENE 2  (moc su kien)         colors                   + the "0h 10/9 gio VN"
-SCENE 3  (Ternus thay Cook)    colors (crop khac)       + the "Keynote dau tien khong co Tim Cook"
+SCENE 1  (hook)                display-sizes            + the "103.999.000d" + the "Touch ID"
+SCENE 2  (gia VN)              colors                   + the "Tu 64.999.000d"
+SCENE 3  (ban cao nhat)        colors (crop khac)       + the "Ban 2TB: 103.999.000d"
 SCENE 4  (hai man hinh)        display-sizes (crop)     + the "7,6 inch / 5,4 inch"
-SCENE 5  (gia va titan)        colors                   + the "Tu 1.999 USD - titan grade 5"
+SCENE 5  (titan)               colors                   + the "Titan grade 5 - IP68"
 SCENE 6  (bo Face ID)          screenshot thong cao     + the "Touch ID o nut nguon"
 SCENE 7  (moc 2017)            display-sizes (crop)     + the "Lan cuoi: iPhone 8, 2017"
 SCENE 8  (nghich ly camera)    display-sizes (crop man trong) + the "Camera duoi man hinh"
-SCENE 9  (18 Pro)              18-Pro-color-lineup      + the "18 Pro 1.199 - Pro Max 1.299 USD"
-SCENE 10 (VN)                  screenshot bang gia site + the "Uoc tinh 57-59 trieu" + chip "Uoc tinh"
+SCENE 9  (18 Pro)              18-Pro-color-lineup      + the "18 Pro 38.999.000d - Max 41.999.000d"
+SCENE 10 (VN nam trong dot dau) screenshot bang gia site + the "Dat truoc 12/9 va 16/10"
 ```
 
 Ảnh Apple ít, phải cắt lại nhiều khung từ cùng một ảnh. Khi crop thì **giữ nguyên tỷ lệ máy**,
@@ -158,18 +171,18 @@ SCENE 10 (VN)                  screenshot bang gia site + the "Uoc tinh 57-59 tr
 
 | Cảnh | Chữ lên hình |
 |---|---|
-| 1 | `Máy gập 1.999 đô, mở khoá bằng vân tay` |
-| 2 | `Ra mắt 0h ngày 10/9 giờ VN` |
-| 3 | `Keynote đầu tiên không có Tim Cook` |
+| 1 | `iPhone 104 triệu, mở khoá bằng vân tay` |
+| 2 | `iPhone Duo: từ 64.999.000đ tại VN` |
+| 3 | `Bản 2TB: 103.999.000đ` |
 | 4 | `Mở 7,6 inch, gập 5,4 inch` |
-| 5 | `Từ 1.999 USD, khung titan grade 5` |
+| 5 | `Khung titan grade 5, chuẩn IP68` |
 | 6 | `Không Face ID. Touch ID ở nút nguồn` |
 | 7 | `Lần cuối iPhone cao cấp dùng vân tay: 2017` |
 | 8 | `Camera FaceTime nằm dưới màn hình` |
-| 9 | `18 Pro 1.199 USD, Pro Max 1.299 USD` |
-| 10 | `Về VN ước tính 57-59 triệu` |
+| 9 | `18 Pro 38.999.000đ · Pro Max 41.999.000đ` |
+| 10 | `VN nằm trong đợt đầu: 12/9 và 16/10` |
 
-Cảnh 10 bắt buộc kèm chip nhỏ `Ước tính, Apple chưa công bố giá VN`.
+Không còn chip "Ước tính" ở cảnh nào: toàn bộ giá trong video là giá Apple niêm yết.
 
 ## Dựng
 
@@ -179,7 +192,7 @@ Dây chuyền y như các video trước:
    `~/.venvs/whisper/bin/mlx_whisper <file>.wav --language vi --word-timestamps True --output-format json --output-dir out --model mlx-community/whisper-large-v3-turbo`
 3. `make-frames.py` đưa ảnh Apple về khung dọc 9:16.
 4. Remotion ở `~/techvision-video-kit` dựng thẻ số nền trong (`kind: "stat"` cho 1.999 USD,
-   7,6 inch, 1.199/1.299 USD, 57-59 triệu).
+   7,6 inch, 64.999.000đ, 103.999.000đ, 38.999.000đ).
 5. Ghép trong Palmier. Phụ đề word-pop nhấn đỏ `#C0392B`.
 
 Lưu ý màu: ảnh Apple nền trắng sáng, **đừng kéo điểm trắng xuống** làm xám nền. Giữ nguyên
@@ -190,36 +203,38 @@ Lưu ý âm: nếu dùng OmniVoice thì **decode ra WAV trước khi đưa vào 
 
 ## Gói đăng
 
-**YouTube - tiêu đề:** Apple ra máy gập iPhone Duo 1.999 USD, nhưng bỏ Face ID
+**YouTube - tiêu đề:** iPhone Duo giá 64,99 triệu tại Việt Nam, nhưng bỏ Face ID
 
 **Mô tả chung (đổi UTM theo nền tảng):**
 ```
 Rạng sáng 10/9/2026 giờ Việt Nam, Apple ra mắt iPhone Duo, chiếc iPhone màn hình gập đầu tiên.
-Máy mở ra 7,6 inch, gập lại còn 5,4 inch, khung titan grade 5 đánh bóng gương, chuẩn IP68, giá
-từ 1.999 USD cho bản 256GB, hai màu Star White và Night Sky. Đặt trước từ 16/10, lên kệ 23/10
-tại các thị trường đợt đầu.
+Giá chính hãng tại Việt Nam: 64.999.000đ bản 256GB, 71.499.000đ bản 512GB, 84.499.000đ bản 1TB
+và 103.999.000đ bản 2TB, tức lần đầu một chiếc iPhone vượt mốc 100 triệu đồng tại Việt Nam. Máy
+mở ra 7,6 inch, gập lại còn 5,4 inch, khung titan grade 5 đánh bóng gương, chuẩn IP68, hai màu
+Trắng Ánh Sao và Trời Đêm. Đặt trước 19h ngày 16/10, có hàng từ 23/10.
 
 Chi tiết đáng chú ý nhất không nằm ở giá: Apple bỏ Face ID trên chiếc máy này và quay lại
 Touch ID đặt ở nút nguồn. Trong khi đó camera FaceTime lại được giấu dưới màn hình trong. Lần
 gần nhất một chiếc iPhone cao cấp dùng vân tay là iPhone 8 năm 2017.
 
-Cùng đợt Apple giới thiệu iPhone 18 Pro từ 1.199 USD và iPhone 18 Pro Max từ 1.299 USD, tăng
-100 USD so với thế hệ trước, đặt trước 12/9 và lên kệ 18/9. Việt Nam không nằm trong nhóm mở
-bán đợt đầu; giá về nước trong video là ước tính, Apple chưa công bố.
+Cùng đợt Apple giới thiệu iPhone 18 Pro giá 38.999.000đ và iPhone 18 Pro Max 41.999.000đ cho
+bản 256GB, đặt trước 19h ngày 12/9 và có hàng từ 18/9. Điểm đáng chú ý cho người mua trong nước:
+năm nay Việt Nam nằm trong nhóm mở bán đợt đầu và Apple công bố giá nội địa ngay trong ngày ra
+mắt, khác với nếp phải chờ vài tuần của các năm trước.
 
 Bài viết đầy đủ, có bảng thông số và nguồn:
-https://techvision.click/articles/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.html?utm_source=<youtube|facebook|tiktok>&utm_medium=video&utm_campaign=iphone-duo-touch-id
+https://techvision.click/articles/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.html?utm_source=<youtube|facebook|tiktok>&utm_medium=video&utm_campaign=iphone-duo-gia-viet-nam
 ```
 
 **Hashtag:** #iPhoneDuo #Apple #iPhone18Pro #DienThoaiGap #TouchID #TechVision
 
 **Caption TikTok rút gọn:**
 ```
-Máy gập đầu tiên của Apple giá 1.999 đô. Mà mở khoá bằng vân tay 👀
+Lần đầu có một chiếc iPhone giá 104 triệu ở Việt Nam. Mà nó mở khoá bằng vân tay 👀
 
-Apple bỏ Face ID trên iPhone Duo, quay lại Touch ID ở nút nguồn. Lần cuối một iPhone cao cấp dùng vân tay là iPhone 8, năm 2017. Trớ trêu là camera FaceTime thì lại giấu được xuống dưới màn hình.
+iPhone Duo từ 64.999.000đ, bản 2TB 103.999.000đ. Apple bỏ Face ID, quay lại Touch ID ở nút nguồn. Lần cuối một iPhone cao cấp dùng vân tay là iPhone 8, năm 2017. Trớ trêu là camera FaceTime thì lại giấu được xuống dưới màn hình.
 
-Về Việt Nam ước tính 57-59 triệu, Apple chưa công bố giá chính thức.
+Năm nay Việt Nam nằm trong đợt mở bán đầu: Duo đặt trước 16/10, có hàng 23/10.
 
 Link bài đầy đủ ở bio.
 

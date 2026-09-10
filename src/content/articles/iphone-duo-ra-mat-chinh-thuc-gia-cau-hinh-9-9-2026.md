@@ -1,18 +1,18 @@
 ---
 slug: "iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026"
 title: "iPhone Duo ra mắt: giá 1.999 USD, màn gập 7,6 inch"
-description: "Apple ra mắt iPhone gập đầu tiên tên iPhone Duo, giá từ 1.999 USD, bán tháng 10. Kèm giá iPhone 18 Pro và ước tính giá về Việt Nam."
+description: "Apple ra mắt iPhone gập đầu tiên tên iPhone Duo, giá chính thức tại Việt Nam từ 64.999.000đ, đặt trước 16/10. Bản 2TB gần 104 triệu, đắt nhất lịch sử iPhone."
 keywords: "iPhone Duo, iPhone Duo giá bao nhiêu, iPhone gập Apple, iPhone Duo Việt Nam, sự kiện Apple 9/9/2026, iPhone 18 Pro giá, iPhone Duo khi nào bán"
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-10T01:10:00+07:00"
 dateModified: "2026-09-10T01:10:00+07:00"
-deck: "Sau nhiều năm đồn đoán, Apple đã trình làng chiếc iPhone màn hình gập đầu tiên và đặt tên là iPhone Duo, không phải iPhone Fold hay iPhone Ultra như giới rò rỉ dự đoán. Máy khởi điểm 1.999 USD, dùng Touch ID thay vì Face ID, và phải tới tháng 10 mới bán. Đây cũng là keynote đầu tiên của John Ternus trên cương vị CEO Apple."
+deck: "Sau nhiều năm đồn đoán, Apple đã trình làng chiếc iPhone màn hình gập đầu tiên và đặt tên là iPhone Duo, không phải iPhone Fold hay iPhone Ultra như giới rò rỉ dự đoán. Máy khởi điểm 1.999 USD, tại Việt Nam là 64.999.000đ, dùng Touch ID thay vì Face ID và phải tới 23/10 mới có hàng. Đây cũng là keynote đầu tiên của John Ternus trên cương vị CEO Apple."
 heroImage: "https://techvision.click/images/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026/iphone-duo-hai-man-hinh.jpg"
 heroAlt: "iPhone Duo man ngoai 5 4 inch va man trong 7 6 inch anh chinh thuc Apple"
 heroCaption: "Màn ngoài 5,4 inch khi gập và màn trong 7,6 inch khi mở, ảnh chính thức Apple công bố ngày 9/9/2026. Nguồn: Apple"
 ogImage: "https://techvision.click/uploads/og-article/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.jpg"
-tldr: "Apple ra mắt <strong>iPhone Duo</strong>, chiếc iPhone gập đầu tiên, tại sự kiện Surprise and shine rạng sáng 10/9 giờ Việt Nam. Máy có màn trong <strong>7,6 inch</strong> và màn ngoài <strong>5,4 inch</strong>, khung titan grade 5, dùng <strong>Touch ID ở nút nguồn</strong> thay vì Face ID. Giá từ <strong>1.999 USD</strong> bản 256GB, lên tới khoảng 3.000 USD bản 2TB, hai màu Star White và Night Sky, <strong>đặt trước từ 16/10 và bán từ 23/10</strong>. Cùng đợt có iPhone 18 Pro từ 1.199 USD và Pro Max từ 1.299 USD, tăng 100 USD so với thế hệ trước."
+tldr: "Apple ra mắt <strong>iPhone Duo</strong>, chiếc iPhone gập đầu tiên, tại sự kiện Surprise and shine rạng sáng 10/9 giờ Việt Nam. Máy có màn trong <strong>7,6 inch</strong> và màn ngoài <strong>5,4 inch</strong>, khung titan grade 5, dùng <strong>Touch ID ở nút nguồn</strong> thay vì Face ID. Giá từ <strong>1.999 USD</strong> bản 256GB, lên tới khoảng 3.000 USD bản 2TB, hai màu Star White và Night Sky, <strong>giá chính thức tại Việt Nam từ 64.999.000đ</strong>, đặt trước 19h ngày 16/10 và có hàng từ 23/10. Bản 2TB giá <strong>103.999.000đ</strong>, lần đầu một chiếc iPhone vượt mốc 100 triệu đồng tại Việt Nam. Cùng đợt có iPhone 18 Pro từ 1.199 USD và Pro Max từ 1.299 USD, tăng 100 USD so với thế hệ trước."
 tags: ["iPhoneDuo", "Apple", "iPhone18Pro", "DienThoaiGap", "TinCongNghe", "2026"]
 about: ["iPhone Duo", "iPhone 18 Pro", "Apple", "John Ternus"]
 authorBio: "Founder LongTechVision. Theo dõi tin công nghệ quốc tế và quy đổi ra bối cảnh giá cả tại Việt Nam."
@@ -25,7 +25,7 @@ stats:
   - { num: "5,4 inch", label: "Màn hình ngoài khi gập lại" }
   - { num: "Tháng 10", label: "Thời điểm iPhone Duo lên kệ" }
   - { num: "1.199 USD", label: "Giá khởi điểm iPhone 18 Pro" }
-  - { num: "~58,7 triệu", label: "Ước tính giá iPhone Duo về Việt Nam" }
+  - { num: "64.999.000đ", label: "Giá chính thức iPhone Duo tại Việt Nam, bản 256GB" }
 faq:
   - q: "iPhone Duo giá bao nhiêu?"
     a: "Apple công bố giá khởi điểm 1.999 USD cho bản 256GB, các bậc dung lượng cao hơn kéo lên tới khoảng 3.000 USD ở bản 2TB. Đây là chiếc iPhone đắt nhất Apple từng bán. Giá niêm yết tại Việt Nam chưa được công bố."
@@ -34,7 +34,7 @@ faq:
   - q: "iPhone Duo có Face ID không?"
     a: "Không. Apple dùng Touch ID tích hợp ở nút nguồn cạnh viền thay vì Face ID. Lý do kỹ thuật là cụm camera TrueDepth cần độ dày nhất định, khó nhét vào thân máy gập vốn rất mỏng. Bù lại máy hỗ trợ mở khoá bằng Apple Watch."
   - q: "Bao giờ iPhone Duo về Việt Nam và giá khoảng bao nhiêu?"
-    a: "Apple cho biết máy mở đặt trước ngày 16/10 và lên kệ ngày 23/10 tại các thị trường đợt đầu, và Việt Nam không nằm trong nhóm này. Theo nếp các năm trước, hàng chính hãng về Việt Nam chậm hơn Mỹ khoảng 2 tới 4 tuần, nên mốc đáng chờ là cuối tháng 10 hoặc tháng 11. Về giá, lấy tỷ lệ thực tế từ iPhone 17 Pro Max (1.199 USD tại Mỹ, khoảng 35,2 triệu đồng tại Việt Nam) áp sang thì iPhone Duo có thể rơi vào khoảng 58 tới 60 triệu đồng. Đây là ước tính, không phải giá đã công bố."
+    a: "Việt Nam nằm trong nhóm mở bán đợt đầu. Đặt trước mở lúc 19h ngày 16/10 giờ Việt Nam, máy có hàng từ 23/10. Giá chính hãng: 64.999.000đ bản 256GB, 71.499.000đ bản 512GB, 84.499.000đ bản 1TB và 103.999.000đ bản 2TB. Nếu muốn máy sớm thì nên canh đúng giờ mở đặt trước, vì thế hệ gập đầu tiên nhiều khả năng thiếu hàng đợt tháng 11. Về giá, lấy tỷ lệ thực tế từ iPhone 17 Pro Max (1.199 USD tại Mỹ, khoảng 35,2 triệu đồng tại Việt Nam) áp sang thì iPhone Duo có thể rơi vào khoảng 58 tới 60 triệu đồng. Đây là ước tính, không phải giá đã công bố."
   - q: "iPhone 18 Pro và Pro Max giá bao nhiêu, khi nào giao máy?"
     a: "iPhone 18 Pro từ 1.199 USD và Pro Max từ 1.299 USD, đều khởi điểm bản 256GB, tăng 100 USD so với thế hệ trước. Lần đầu tiên hai máy có tuỳ chọn 2TB. Máy giao tới tay người mua tại Mỹ từ ngày 18/9."
   - q: "Có nên mua iPhone Duo không?"
@@ -106,20 +106,22 @@ Hai sản phẩm còn lại trong đợt là Apple Watch Series 12 từ 399 USD,
 
 ## Về Việt Nam khi nào, giá bao nhiêu
 
-Đây là phần Apple chưa nói gì, nên phải tính bằng quy luật. Việt Nam không nằm trong nhóm thị trường mở bán đợt đầu của iPhone, thường chậm hơn Mỹ khoảng 2 tới 4 tuần. Với iPhone Duo, bản thân máy đã bán muộn hơn dòng Pro một tháng, nên mốc thực tế đáng chờ là **cuối tháng 10 hoặc sang tháng 11**.
-
-Về giá, cách ước tính đáng tin nhất là lấy tỷ lệ thực tế từ một máy đang bán. iPhone 17 Pro Max có giá 1.199 USD tại Mỹ và khoảng 35,2 triệu đồng tại đại lý Việt Nam, tức tỷ lệ quy đổi thực tế vào khoảng 29.400 đồng cho mỗi USD sau thuế và biên lợi nhuận. Áp tỷ lệ đó sang iPhone Duo:
+Khác với nếp mọi năm, **Việt Nam nằm trong nhóm mở bán đợt đầu** và Apple công bố giá nội địa ngay trong ngày. Đặt trước mở lúc **19h ngày 16/10 giờ Việt Nam**, máy có hàng từ **23/10**.
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Ước tính giá iPhone Duo tại Việt Nam</div>
+  <div class="spec-box-title">📋 Giá chính thức Apple Việt Nam</div>
   <table>
-    <tr><td>Bản 256GB (1.999 USD)</td><td>khoảng <strong>58 tới 60 triệu đồng</strong></td></tr>
-    <tr><td>Bản 2TB (~3.000 USD)</td><td>khoảng <strong>85 tới 90 triệu đồng</strong></td></tr>
-    <tr><td>Mức độ tin cậy</td><td>ước tính theo tỷ lệ thực tế, <strong>chưa phải giá công bố</strong></td></tr>
+    <tr><td>Bản 256GB</td><td><strong>64.999.000đ</strong></td></tr>
+    <tr><td>Bản 512GB</td><td>71.499.000đ</td></tr>
+    <tr><td>Bản 1TB</td><td>84.499.000đ</td></tr>
+    <tr><td>Bản 2TB</td><td><strong>103.999.000đ</strong></td></tr>
+    <tr><td>Hai màu</td><td>Trắng Ánh Sao và Trời Đêm</td></tr>
   </table>
 </div>
 
-Nếu con số này đúng, iPhone Duo sẽ đắt hơn đáng kể so với Galaxy Z Fold8 đang bán chính hãng tại Việt Nam, vốn là lựa chọn gập phổ biến nhất hiện nay. So sánh cụ thể giữa hai máy nằm trong bài [iPhone Duo vs Galaxy Z Fold8](/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html).
+Con số 103.999.000đ của bản 2TB đáng dừng lại một nhịp: đây là **lần đầu tiên một chiếc iPhone vượt mốc 100 triệu đồng tại Việt Nam**. Còn bản rẻ nhất 64.999.000đ đã cao hơn iPhone 18 Pro Max bản 256GB tới 23 triệu đồng.
+
+Đặt cạnh mức 1.999 USD tại Mỹ thì giá Việt Nam cao hơn khoảng 24% sau thuế nhập khẩu và chi phí phân phối. Đây cũng là lý do máy đắt hơn đáng kể so với Galaxy Z Fold8 đang bán chính hãng tại Việt Nam, vốn là lựa chọn gập phổ biến nhất hiện nay. So sánh cụ thể giữa hai máy nằm trong bài [iPhone Duo vs Galaxy Z Fold8](/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html).
 
 ## Nên mua hay chờ
 
@@ -128,5 +130,5 @@ Với đa số người dùng phổ thông, câu trả lời là chưa nên vộ
 Nhóm thực sự nên cân nhắc mua sớm là người đã dùng hệ sinh thái Apple sâu, cần một thiết bị vừa là điện thoại vừa thay được iPad mini khi đi lại, và không ngại làm người dùng thế hệ đầu. Còn nếu bạn chỉ tò mò muốn thử điện thoại gập, Galaxy Z Fold8 đang bán chính hãng tại Việt Nam với giá dễ chịu hơn nhiều và đã qua bảy thế hệ hoàn thiện bản lề.
 
 <div class="art-callout">
-  💡 <strong>Lưu ý:</strong> giá và ngày bán tại Việt Nam chưa được Apple hay đại lý công bố. Bài viết sẽ được cập nhật ngay khi có thông tin chính thức từ các chuỗi bán lẻ trong nước.
+  💡 <strong>Cập nhật 10/9/2026:</strong> Apple đã công bố giá chính thức tại Việt Nam ngay trong ngày ra mắt, sớm hơn nếp mọi năm. Bản 256GB là 64.999.000đ, cao hơn khoảng 24% so với mức 1.999 USD tại Mỹ sau thuế nhập khẩu và chi phí phân phối. Đặt trước mở lúc 19h ngày 16/10 giờ Việt Nam.
 </div>
