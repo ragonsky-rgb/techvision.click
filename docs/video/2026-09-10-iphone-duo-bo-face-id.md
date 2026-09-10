@@ -66,9 +66,9 @@ Cập nhật 10/9: Apple công bố giá Việt Nam ngay trong ngày và **Việ
 Khối copy trơn để dán thẳng vào teleprompter:
 
 ```
-Lần đầu có một chiếc iPhone giá 104 triệu ở Việt Nam. Mà nó mở khoá bằng vân tay.
+104 triệu đồng. Cho một chiếc iPhone.
 
-Rạng sáng nay Apple ra mắt iPhone Duo, chiếc iPhone gập đầu tiên. Giá chính hãng tại Việt Nam từ 64.999.000đ, bản 2TB lên tới 103.999.000đ.
+Đó là bản 2TB của iPhone Duo, chiếc iPhone gập đầu tiên Apple vừa ra mắt. Bản rẻ nhất 64.999.000đ.
 
 Máy mở ra 7,6 inch, gập lại còn 5,4 inch. Khung titan grade 5, chuẩn IP68.
 
@@ -78,11 +78,18 @@ Nghịch lý là Apple thừa sức giấu camera. Chính máy này có camera F
 
 Cùng đợt có iPhone 18 Pro 38.999.000đ và Pro Max 41.999.000đ.
 
-Điểm đáng mừng cho người Việt: năm nay Việt Nam nằm trong đợt mở bán đầu, không phải chờ. 18 Pro đặt trước 19 giờ ngày 12 tháng 9, có hàng 18 tháng 9. Còn Duo đặt trước 16 tháng 10, có hàng 23 tháng 10.
+Năm nay Việt Nam nằm trong đợt mở bán đầu, không phải chờ. 18 Pro đặt trước 19 giờ ngày 12 tháng 9. Duo đặt trước 16 tháng 10.
+
+Theo dõi kênh để biết giá thật ở từng chuỗi ngay khi mở đặt trước.
 ```
 
-Xưng hô với người xem là **anh chị**. Đọc thử bấm giờ: mục tiêu **58 tới 65 giây**.
-Quá 68 giây thì bỏ nguyên câu về camera dưới màn hình, đừng cắt các số giá.
+Xưng hô với người xem là **anh chị**. Mục tiêu **58 tới 65 giây** trước khi tua, sau khi tua
+1,1x còn khoảng **53 tới 59 giây**. Quá 68 giây thì bỏ nguyên câu về camera dưới màn hình,
+đừng cắt các số giá.
+
+Kịch bản này viết theo 3 luật cố định từ 26/8: **khung hình đầu là con số** (104 triệu, không
+phải câu dẫn), **câu đầu 6 từ** (dưới trần 8 từ), và **câu cuối nói rõ người xem được gì**
+(biết giá thật từng chuỗi khi mở đặt trước).
 
 ## Bản cho TTS (chỉ dùng nếu nhân bản giọng bằng OmniVoice)
 
@@ -90,10 +97,9 @@ Quá 68 giây thì bỏ nguyên câu về camera dưới màn hình, đừng c�
 chữ vì máy đọc số dạng số là vấp. **Chữ hiện trên màn hình vẫn để dạng số.**
 
 ```
-Lần đầu có một chiếc iPhone giá một trăm lẻ bốn triệu ở Việt Nam. Mà nó mở khoá bằng vân tay.
-Rạng sáng nay Apple ra mắt iPhone Duo, chiếc iPhone gập đầu tiên.
-Giá chính hãng tại Việt Nam từ sáu mươi tư triệu chín trăm chín mươi chín nghìn đồng.
-Bản hai tê bi lên tới một trăm lẻ ba triệu chín trăm chín mươi chín nghìn đồng.
+Một trăm lẻ bốn triệu đồng. Cho một chiếc iPhone.
+Đó là bản hai tê bi của iPhone Duo, chiếc iPhone gập đầu tiên Apple vừa ra mắt.
+Bản rẻ nhất sáu mươi tư triệu chín trăm chín mươi chín nghìn đồng.
 Máy mở ra bảy phẩy sáu inch, gập lại còn năm phẩy bốn inch.
 Khung titan grade năm, chuẩn IP sáu tám.
 Nhưng chi tiết lạ nhất nằm ở chỗ khác. Apple bỏ Face ID.
@@ -102,10 +108,12 @@ Lần gần nhất một chiếc iPhone cao cấp dùng vân tay là iPhone tám
 Nghịch lý là Apple thừa sức giấu camera.
 Chính máy này có camera FaceTime nằm dưới màn hình, ẩn đi khi không dùng.
 Giấu được camera, mà vẫn không đưa Face ID vào.
-Cùng đợt có iPhone mười tám Pro ba mươi tám triệu chín trăm chín mươi chín nghìn đồng, và Pro Max bốn mươi mốt triệu chín trăm chín mươi chín nghìn đồng.
-Điểm đáng mừng cho người Việt: năm nay Việt Nam nằm trong đợt mở bán đầu, không phải chờ.
-Mười tám Pro đặt trước bảy giờ tối ngày mười hai tháng chín, có hàng mười tám tháng chín.
-Còn Duo đặt trước mười sáu tháng mười, có hàng hai mươi ba tháng mười.
+Cùng đợt có iPhone mười tám Pro ba mươi tám triệu chín trăm chín mươi chín nghìn đồng.
+Và Pro Max bốn mươi mốt triệu chín trăm chín mươi chín nghìn đồng.
+Năm nay Việt Nam nằm trong đợt mở bán đầu, không phải chờ.
+Mười tám Pro đặt trước bảy giờ tối ngày mười hai tháng chín.
+Còn Duo đặt trước ngày mười sáu tháng mười.
+Theo dõi kênh để biết giá thật ở từng chuỗi ngay khi mở đặt trước.
 ```
 
 **Bắt buộc bóc lại bằng Whisper để soi từng con số.** TTS từng đọc "sáu mươi bảy phần trăm"
@@ -113,76 +121,100 @@ thành "sáu phần trăm, mười bảy phần trăm". Câu nào hỏng thì th
 
 ## Bảng kê nguồn media - CHỜ ANH LONG DUYỆT
 
-Toàn bộ ảnh từ Apple Newsroom, credit **"Ảnh: Apple"** góc dưới trái suốt thời gian ảnh hiện.
-Tất cả đã kiểm HTTP 200 ngày 10/9/2026. Cột "đã xem" cho biết em đã mở ảnh ra nhìn hay mới
-chỉ kiểm đường dẫn.
+Cập nhật 10/9/2026. **Bản này thay hẳn bảng kê cũ** (bảng cũ chỉ có 2 ảnh máy dùng được vì
+thông cáo Newsroom phần lớn là ảnh chụp mẫu). Đã lấy thêm từ trang sản phẩm `apple.com/iphone-duo`,
+nơi có ảnh máy đúng nghĩa.
 
-| # | Cảnh | Tên ảnh | Nội dung | Đã xem | Giấy phép |
-|---|---|---|---|---|---|
-| 1 | hook | `Apple-iPhone-Duo-display-sizes-260909` | Máy gập và máy mở, thấy cả hai màn | ✅ có | Apple Newsroom, credit |
-| 2 | hai màu | `Apple-iPhone-Duo-colors-260909` | Star White và Night Sky, mặt trước sau | ✅ có | Apple Newsroom, credit |
-| 3 | Touch ID | ảnh chụp màn hình thông cáo Apple, khoanh câu "Touch ID is integrated into the side button" | bằng chứng chữ | tự chụp | screenshot nguồn, hợp lệ |
-| 4 | camera dưới màn | ~~`Apple-iPhone-Duo-Center-Stage-front-camera-260909`~~ **LOẠI** | đã mở ra xem: là ảnh selfie 4 người chụp mẫu, không phải ảnh máy | ✅ có | - |
-| 4b | camera dưới màn (thay thế) | `Apple-iPhone-Duo-display-sizes-260909` crop vào màn trong | để chữ trên hình gánh phần giải thích | ✅ có | Apple Newsroom, credit |
-| 5 | 18 Pro bốn màu | `Apple-iPhone-18-Pro-color-lineup-260909` | black, silver, glacier, burgundy | ✅ có | Apple Newsroom, credit |
-| 6 | chip A20 Pro | `Apple-iPhone-18-Pro-A20-Pro-chip-260909` | đã mở ra xem: ảnh chip A20 PRO nền đen, viền phát sáng. Dùng tốt | ✅ có | Apple Newsroom, credit |
-| 7 | giá chính thức VN | ảnh chụp bảng giá Apple VN trong bài trên techvision.click | bảng giá niêm yết | tự chụp | trang nhà |
+Toàn bộ ảnh của Apple, credit **"Ảnh: Apple"** đốt sẵn góc dưới trái, nằm trong vùng an toàn.
+Đã tải bản gốc **`_large_2x`** nên không tấm nào phải phóng to - mọi khung đều là thu nhỏ xuống.
 
-Đường dẫn gốc, thay `<ten-anh>` bằng cột "Tên ảnh":
-```
-https://www.apple.com/newsroom/images/2026/09/apple-unveils-iphone-duo/article/<ten-anh>_big.jpg.large_2x.jpg
-https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/article/<ten-anh>_big.jpg.large_2x.jpg
-```
-Riêng `A20-Pro-chip` dùng đuôi `_inline.jpg.large_2x.jpg`.
+### Cách xác minh đường dẫn
 
-**Đã mở từng ảnh ra nhìn, không tin tên file.** Thông cáo Duo phần lớn là ảnh chụp mẫu bằng
-camera chứ không phải ảnh máy: `48MP-Fusion-Main-camera` là người nhảy với bóng bay,
-`Center-Stage-front-camera` là selfie bốn người. Cả hai đã loại. Kết quả là **chỉ có đúng hai
-ảnh máy dùng được** (`display-sizes` và `colors`), nên gói cảnh phải cắt nhiều khung từ hai ảnh
-đó. Nếu anh muốn nhiều góc hơn thì lấy thêm từ trang sản phẩm `apple.com/iphone-duo`.
+Sáu tấm trang sản phẩm ban đầu tải về mà không ghi lại URL. Cách truy lại: tải trang, bóc ra
+**596 đường dẫn ảnh**, gọi HEAD từng cái lấy `Content-Length`, rồi so với kích thước file trên đĩa.
+**6/6 tấm khớp byte-chính-xác và mỗi tấm chỉ khớp đúng một đường dẫn** - không có tấm nào mơ hồ.
 
-**A20 Pro giờ là tên Apple công bố chính thức**, không còn là tin báo chí tổng hợp: Apple đăng
-hẳn ảnh chip trong thông cáo iPhone 18 Pro. Riêng với Duo thì Apple chưa nêu chip trong thông
-cáo, nên vẫn không nói chắc Duo dùng A20 Pro.
+| # | Tên khung | Nguồn | Nội dung thấy được | Cỡ gốc |
+|---|---|---|---|---|
+| f01 | `f01-cam.png` | `/v/iphone-duo/a/images/overview/camera/hero_right__gk9rwhz4kdqq_large_2x.jpg` | Cận cảnh cụm camera sau và cạnh viền kim loại, thấy màn ngoài đang chạy widget Library | 982x2290 |
+| f02 | `f02-foldable.png` | `.../overview/product-viewer/foldable__iybtpzlhgj6u_large_2x.jpg` | Máy mở, màn trong chạy Mail | 2880x1520 |
+| f03 | `f03-closed.png` | `.../overview/product-viewer/closed__3le61imm1w2e_large_2x.jpg` | Máy gập, màn ngoài chạy nhạc | 2880x1520 |
+| f04 | `f04-durability.png` | `.../overview/product-viewer/durability__d8uh14wcv2oi_large_2x.jpg` | Máy gập nửa chừng, thấy cả lưng có camera lẫn màn trong. **Tấm khoẻ nhất** | 2880x1520 |
+| f05 | `f05-landscape.png` | `.../overview/product-viewer/landscape__f7x2oe1oxemy_large_2x.jpg` | Máy mở nằm ngang, màn trong chia hai cột | 2880x1520 |
+| f06 | `f06-design.png` | `/v/iphone-duo/a/images/overview/design/design_hero__gczn1e74mwa6_large_2x.jpg` | Ba máy: gập, mở, và mặt sau | 2524x1376 |
+| f06b | `f06b-mo.png` | cắt giữa của f06 | Riêng máy đang mở, màn khoá 9:41 | - |
+| f07 | `f07-haiman.png` | Newsroom `Apple-iPhone-Duo-display-sizes-260909_big.jpg.large_2x.jpg` | Tay cầm máy, so hai cỡ màn | 1960x1102 |
+| f08 | `f08-haimau.png` | Newsroom `Apple-iPhone-Duo-colors-260909_big.jpg.large_2x.jpg` | Trắng Ánh Sao và Trời Đêm | 1960x1102 |
+| f09 | `f09-18pro.png` | Newsroom `Apple-iPhone-18-Pro-color-lineup-260909_big.jpg.large_2x.jpg` | 18 Pro bốn màu trên nền đen | 1960x1400 |
+| s01 | `s01-touchid.png` | ảnh chụp mục Hỏi đáp trên `apple.com/iphone-duo` | Câu "iPhone Duo uses Touch ID, which is integrated into the side button" | chờ chụp |
+| s02 | `s02-giavn.png` | ảnh chụp bảng giá trên bài techvision.click | Giá niêm yết Apple VN | chờ chụp |
+
+Tiền tố cho các dòng viết tắt `.../`: `https://www.apple.com/v/iphone-duo/a/images/`
+Tiền tố Newsroom Duo: `https://www.apple.com/newsroom/images/2026/09/apple-unveils-iphone-duo/article/`
+Tiền tố Newsroom 18 Pro: `https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/article/`
+
+### Hai tấm Newsroom đã LOẠI, ghi lại để khỏi lấy nhầm lần sau
+
+- `Apple-iPhone-Duo-48MP-Fusion-Main-camera-260909` - mở ra xem: người nhảy với bóng bay, ảnh mẫu chụp bằng máy.
+- `Apple-iPhone-Duo-Center-Stage-front-camera-260909` - mở ra xem: selfie bốn người.
+
+Cả hai đều có chữ "camera" trong tên nhưng **không phải ảnh máy**. Luật rút ra: mở từng tấm ra
+nhìn, đừng tin tên file.
+
+### Mọi câu trong kịch bản đã đối chiếu chữ gốc trên apple.com/iphone-duo (10/9/2026)
+
+| Câu trong video | Chữ gốc của Apple |
+|---|---|
+| Bỏ Face ID, mở khoá bằng Touch ID ở nút nguồn | "iPhone Duo uses Touch ID, which is integrated into the side button" |
+| Camera FaceTime nằm dưới màn hình | "Under-display FaceTime camera" - và bảng so sánh ghi 18 Pro "not applicable", tức chỉ Duo có |
+| Khung titan grade 5 | "Grade 5 titanium frame and hinge cover" |
+| Chuẩn IP68 | "IP68 water and dust resistant" |
+| Mở 7,6 inch | "the 7.6-inch..." |
+| Đặt trước 16/10, bán 23/10 | "Pre-order starting 5:00 a.m. PT on 10.16 / Available starting 10.23" (5h sáng PT = 19h giờ VN cùng ngày) |
+
+**Lưu ý cách nói.** Apple không viết câu "bỏ Face ID". Apple đặt câu hỏi *"Does iPhone Duo come
+with Touch ID or Face ID?"* rồi chỉ trả lời Touch ID, và bảng thông số của máy không có dòng
+Face ID. Suy ra là đúng, nhưng **chữ lên hình không được để trong ngoặc kép** như thể trích Apple.
+
+**Sửa một chỗ trong gói cũ:** gói trước viết "Apple chưa nêu chip cho Duo nên chưa nói chắc là
+A20 Pro". Sai rồi - trang sản phẩm ghi thẳng **"Vapor-cooled A20 Pro chip"** cho chính Duo.
 
 ## Gói cảnh (dọc 9:16)
 
-```
-VIDEO: iPhone Duo bo Face ID
-TOTAL: ~62s
-KHUNG HINH: doc 9:16
+Mốc thời gian để trống, điền sau khi Whisper bóc xong file giọng đã tua 1,1x.
 
-SCENE 1  (hook)                display-sizes            + the "103.999.000d" + the "Touch ID"
-SCENE 2  (gia VN)              colors                   + the "Tu 64.999.000d"
-SCENE 3  (ban cao nhat)        colors (crop khac)       + the "Ban 2TB: 103.999.000d"
-SCENE 4  (hai man hinh)        display-sizes (crop)     + the "7,6 inch / 5,4 inch"
-SCENE 5  (titan)               colors                   + the "Titan grade 5 - IP68"
-SCENE 6  (bo Face ID)          screenshot thong cao     + the "Touch ID o nut nguon"
-SCENE 7  (moc 2017)            display-sizes (crop)     + the "Lan cuoi: iPhone 8, 2017"
-SCENE 8  (nghich ly camera)    display-sizes (crop man trong) + the "Camera duoi man hinh"
-SCENE 9  (18 Pro)              18-Pro-color-lineup      + the "18 Pro 38.999.000d - Max 41.999.000d"
-SCENE 10 (VN nam trong dot dau) screenshot bang gia site + the "Dat truoc 12/9 va 16/10"
-```
+| Cảnh | Câu đọc | Khung nền | Thẻ số / chữ |
+|---|---|---|---|
+| 1 | 1 | f04-durability | thẻ `103.999.000đ` |
+| 2 | 2 | f06-design | - |
+| 3 | 3 | f08-haimau | thẻ `64.999.000đ` |
+| 4 | 4 (nửa đầu) | f06b-mo | thẻ `7,6 inch` |
+| 5 | 4 (nửa sau) | f03-closed | thẻ `5,4 inch` |
+| 6 | 5 | f01-cam | chữ `Titan grade 5 · IP68` |
+| 7 | 6 | f07-haiman | chữ `Không có Face ID` |
+| 8 | 7 | s01-touchid | chữ `Touch ID ở nút nguồn` |
+| 9 | 8 | f02-foldable | chữ `Lần cuối: iPhone 8, 2017` |
+| 10 | 9-10 | f06b-mo (cắt hẹp vào mép trên màn) | chữ `Camera FaceTime dưới màn hình` |
+| 11 | 11 | f05-landscape | - |
+| 12 | 12-13 | f09-18pro | thẻ `38.999.000đ` rồi `41.999.000đ` |
+| 13 | 14 | s02-giavn | chữ `Việt Nam trong đợt mở bán đầu` |
+| 14 | 15-16 | f08-haimau | thẻ `12/9` rồi `16/10` |
+| 15 | 17 | f04-durability | chữ `Giá thật từng chuỗi, ngay khi mở đặt` |
 
-Ảnh Apple ít, phải cắt lại nhiều khung từ cùng một ảnh. Khi crop thì **giữ nguyên tỷ lệ máy**,
-đừng kéo méo cho vừa khung dọc; thà để nền trắng hai bên rồi phủ nền màu của kênh.
+Cảnh 15 cố ý quay lại đúng tấm của cảnh 1 - `SKILL-EDIT.md` mục 5: cảnh cuối lặp bố cục cảnh đầu
+thì tỷ lệ xem lại tăng.
 
-## Chữ chèn màn hình (tối đa 7 từ mỗi màn)
+Khung nền đã dựng sẵn ở `~/techvision-video-kit/out/duo-frames/`, đúng 1080x1920, giữ nguyên tỷ lệ
+máy, nền là chính tấm đó phóng to làm mờ và tối đi. Script: `~/techvision-video-kit/scripts/frame916.py` (đóng khung ảnh)
+và `quote_card.py` (thẻ trích dẫn).
 
-| Cảnh | Chữ lên hình |
-|---|---|
-| 1 | `iPhone 104 triệu, mở khoá bằng vân tay` |
-| 2 | `iPhone Duo: từ 64.999.000đ tại VN` |
-| 3 | `Bản 2TB: 103.999.000đ` |
-| 4 | `Mở 7,6 inch, gập 5,4 inch` |
-| 5 | `Khung titan grade 5, chuẩn IP68` |
-| 6 | `Không Face ID. Touch ID ở nút nguồn` |
-| 7 | `Lần cuối iPhone cao cấp dùng vân tay: 2017` |
-| 8 | `Camera FaceTime nằm dưới màn hình` |
-| 9 | `18 Pro 38.999.000đ · Pro Max 41.999.000đ` |
-| 10 | `VN nằm trong đợt đầu: 12/9 và 16/10` |
+## Chữ chèn màn hình
 
-Không còn chip "Ước tính" ở cảnh nào: toàn bộ giá trong video là giá Apple niêm yết.
+Nằm luôn ở cột cuối bảng gói cảnh phía trên - **không tách bảng riêng nữa**. Bảng riêng đời trước
+có 10 dòng trong khi gói cảnh có 15 cảnh, sửa một bên là lệch ngay bên kia.
+
+Luật giữ nguyên: tối đa 7 từ mỗi màn, chữ nằm trong y 140-1440, thẻ số Remotion `y: 0.2`.
+Không cảnh nào còn chip "Ước tính" - toàn bộ giá trong video là giá Apple niêm yết.
 
 ## Dựng
 
