@@ -6,7 +6,7 @@ keywords: "iPhone 18 Pro giá, iPhone 18 Pro Max giá bao nhiêu, iPhone 18 Pro 
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-10T01:25:00+07:00"
-dateModified: "2026-09-11T09:42:00+07:00"
+dateModified: "2026-09-12T00:29:00+07:00"
 deck: "Bị chiếc iPhone gập che bớt ánh đèn, nhưng iPhone 18 Pro mới là máy đại đa số người dùng sẽ mua. Apple tăng giá 100 USD, thêm bản 2TB lần đầu tiên, và nâng cấp Dynamic Island để xử lý ba tác vụ cùng lúc. Bài này bóc từng thay đổi và tính xem giá về Việt Nam khoảng bao nhiêu."
 heroImage: "https://techvision.click/images/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026/iphone-18-pro-dai-mau.jpg"
 heroAlt: "iPhone 18 Pro bon mau black silver glacier burgundy anh chinh thuc Apple"
@@ -28,7 +28,7 @@ stats:
   - { num: "18/9", label: "Ngày giao máy tại Mỹ" }
 faq:
   - q: "Mua iPhone 18 Pro ở chuỗi nào rẻ nhất?"
-    a: "Giá niêm yết gần như bằng nhau. Ngày 11/9/2026 Thế Giới Di Động, CellphoneS và FPT Shop đều bán iPhone 18 Pro 256GB 38.990.000đ và Pro Max 256GB 41.990.000đ, thấp hơn giá Apple 9.000đ. Khác nhau nằm ở ưu đãi: CellphoneS trợ giá thu cũ đến 5 triệu, FPT Shop quảng cáo giảm đến 10 triệu cho khách đăng ký trước nhưng chưa ghi điều kiện."
+    a: "Giá niêm yết gần như bằng nhau. Ngày 12/9/2026 Thế Giới Di Động, CellphoneS và FPT Shop đều bán iPhone 18 Pro 256GB 38.990.000đ và Pro Max 256GB 41.990.000đ, thấp hơn giá Apple 9.000đ. Khác nhau nằm ở ưu đãi: Thế Giới Di Động tặng 1 triệu khi đặt trước và giảm thêm đến 5 triệu qua thẻ hoặc ví, CellphoneS trợ giá thu cũ đến 5 triệu, FPT Shop quảng cáo giảm đến 10 triệu cho khách đăng ký trước nhưng chưa ghi điều kiện."
   - q: "iPhone 18 Pro và Pro Max giá bao nhiêu?"
     a: "Apple công bố iPhone 18 Pro từ 1.199 USD và iPhone 18 Pro Max từ 1.299 USD, đều là bản khởi điểm 256GB. So với thế hệ trước, cả hai tăng 100 USD. Giá niêm yết chính hãng tại Việt Nam chưa được công bố."
   - q: "Vì sao Apple tăng giá 100 USD?"
@@ -122,16 +122,16 @@ Sáng 11/9 cả ba chuỗi lớn đã mở trang đặt trước. Giá niêm y�
 Nói cách khác, chọn chuỗi nào thì giá niêm yết cũng gần như bằng nhau. Chỗ khác nhau thật nằm ở ưu đãi đi kèm:
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Giá đặt trước và ưu đãi, đọc trên trang từng chuỗi ngày 11/9/2026</div>
+  <div class="spec-box-title">📋 Giá đặt trước và ưu đãi, đọc trên trang từng chuỗi ngày 12/9/2026</div>
   <table>
     <tr><td>Chuỗi</td><td>18 Pro 256GB</td><td>Pro Max 256GB</td><td>Ưu đãi ghi trên trang</td></tr>
-    <tr><td>Thế Giới Di Động</td><td>38.990.000đ</td><td>41.990.000đ</td><td>Chương trình ưu đãi đặt trước từ 10/9 tới 12/9, mức cụ thể nằm trong thể lệ</td></tr>
+    <tr><td>Thế Giới Di Động</td><td>38.990.000đ</td><td>41.990.000đ</td><td>Tặng 1 triệu khi đặt trước (quà xác nhận sau khi cọc), giảm thêm đến 5 triệu qua thẻ hoặc ví tùy đối tác, thu cũ trợ giá đến 3 triệu</td></tr>
     <tr><td>CellphoneS</td><td>38.990.000đ</td><td>41.990.000đ</td><td>Thu cũ lên đời trợ giá đến 5 triệu, trả góp 0% tới 18 tháng</td></tr>
-    <tr><td>FPT Shop</td><td>38.990.000đ</td><td>41.990.000đ</td><td>Đăng ký nhận ưu đãi "giảm đến 10 triệu", trả góp 0% đến 18 tháng</td></tr>
+    <tr><td>FPT Shop</td><td>38.990.000đ</td><td>41.990.000đ</td><td>Đăng ký nhận ưu đãi "giảm đến 10 triệu", trả góp 0% đến 18 tháng. Nhận cọc từ 19h 12/9, mở bán 8h 18/9</td></tr>
   </table>
 </div>
 
-Con số "giảm đến 10 triệu" của FPT Shop là mức tối đa dành cho khách đăng ký trước, và trang sản phẩm chưa ghi điều kiện để đạt mức đó. Nếu định đặt cọc vì con số này, hãy hỏi rõ điều kiện trước khi chuyển tiền. Ưu đãi thu cũ của CellphoneS thì chỉ có lợi khi bạn đang có máy cũ để đổi.
+Thế Giới Di Động giờ ghi rõ nhất từng món, nhưng món nào cũng kèm điều kiện: chính trang của họ viết quà 1 triệu "sẽ được xác nhận sau khi đặt cọc", còn khoản giảm đến 5 triệu tùy đối tác thẻ hoặc ví và hạn mức. Con số "giảm đến 10 triệu" của FPT Shop là mức tối đa dành cho khách đăng ký trước, và trang sản phẩm vẫn chưa ghi điều kiện để đạt mức đó. Nếu định đặt cọc vì một con số ưu đãi, hãy hỏi rõ điều kiện trước khi chuyển tiền. Ưu đãi thu cũ ở CellphoneS (đến 5 triệu) và Thế Giới Di Động (đến 3 triệu) chỉ có lợi khi bạn đang có máy cũ để đổi.
 
 Đặt cạnh mặt bằng hiện tại thì con số này đáng suy nghĩ. iPhone 17 Pro Max 256GB đang bán 34,09 triệu tại CellphoneS, tức **iPhone 18 Pro bản thường đã đắt hơn máy Max đời trước gần 5 triệu đồng**. Cùng một khoản tiền, bạn đứng trước lựa chọn giữa máy đời mới bản thường và máy đời cũ bản Max màn lớn pin trâu. Phân tích chi tiết nằm trong bài [nên mua iPhone 17 hay đợi iPhone 18](/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html).
 
@@ -159,5 +159,5 @@ Cuối cùng, hệ điều hành đi kèm vẫn là iOS 27 giống các máy đ�
 Còn nếu bạn đang cân nhắc chiếc iPhone gập vừa ra mắt cùng đợt, chi tiết giá và cấu hình nằm trong bài [iPhone Duo ra mắt chính thức](/articles/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.html). Lưu ý máy đó phải tới tháng 10 mới bán và giá gần gấp đôi bản Pro.
 
 <div class="art-callout">
-  💡 <strong>Cập nhật 11/9/2026:</strong> Thế Giới Di Động, CellphoneS và FPT Shop đã mở trang đặt trước, giá thấp hơn Apple 9.000đ: 18 Pro 256GB 38.990.000đ, Pro Max 256GB 41.990.000đ. <strong>Ngày 10/9/2026:</strong> Apple đã công bố giá chính hãng tại Việt Nam ngay trong ngày ra mắt, và Việt Nam nằm trong nhóm mở bán đợt đầu chứ không phải chờ vài tuần như mọi năm. iPhone 18 Pro 256GB là 38.999.000đ, Pro Max 256GB là 41.999.000đ. Đặt trước mở lúc 19h ngày 12/9 giờ Việt Nam, máy có hàng từ 18/9, giới hạn 2 máy mỗi khách.
+  💡 <strong>Cập nhật 12/9/2026:</strong> Thế Giới Di Động công bố ưu đãi đặt trước (tặng 1 triệu, giảm thêm đến 5 triệu qua thẻ hoặc ví); FPT Shop nhận cọc từ 19h 12/9, mở bán 8h 18/9. <strong>Ngày 11/9/2026:</strong> Thế Giới Di Động, CellphoneS và FPT Shop đã mở trang đặt trước, giá thấp hơn Apple 9.000đ: 18 Pro 256GB 38.990.000đ, Pro Max 256GB 41.990.000đ. <strong>Ngày 10/9/2026:</strong> Apple đã công bố giá chính hãng tại Việt Nam ngay trong ngày ra mắt, và Việt Nam nằm trong nhóm mở bán đợt đầu chứ không phải chờ vài tuần như mọi năm. iPhone 18 Pro 256GB là 38.999.000đ, Pro Max 256GB là 41.999.000đ. Đặt trước mở lúc 19h ngày 12/9 giờ Việt Nam, máy có hàng từ 18/9, giới hạn 2 máy mỗi khách.
 </div>

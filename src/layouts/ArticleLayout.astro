@@ -186,6 +186,17 @@ const breadcrumbLd = {
     .spec-box td:first-child { font-weight: 600; width: 48%; padding-right: 1rem; color: var(--text, #111); }
     .spec-box tr { border-bottom: 1px solid var(--line, #e8e8e8); }
     .spec-box tr:last-child { border-bottom: none; }
+    /* Bảng spec-box 3+ cột (so máy, so chuỗi). Luật ở trên viết cho bảng 2 cột: ô đầu
+       chiếm 48% và các ô không có đệm ngang, nên bảng 4 cột dính chữ ("256GBPro Max").
+       Dùng :has để chỉ đụng bảng nhiều cột, hàng trăm bảng 2 cột giữ nguyên. */
+    .spec-box tr:has(> td:nth-child(3)) td:first-child { width: auto; }
+    .spec-box tr:has(> td:nth-child(3)) td + td { padding-left: .9rem; }
+    /* 11/11 bảng nhiều cột hiện có đều dùng hàng đầu làm tiêu đề cột */
+    .spec-box table:has(td:nth-child(3)) tr:first-child td { font-weight: 700; color: var(--dim, #6b6760); font-size: .78rem; }
+    @media (max-width: 640px) {
+      .spec-box table:has(td:nth-child(3)) td { font-size: .8rem; }
+      .spec-box tr:has(> td:nth-child(3)) td + td { padding-left: .6rem; }
+    }
 
     /* Bảng Markdown thuần trong thân bài (không phải spec-box) */
     .art-body table:not(.spec-box table) { width: 100%; border-collapse: collapse; margin: 1.4rem 0; font-family: var(--sans); font-size: .88rem; }
