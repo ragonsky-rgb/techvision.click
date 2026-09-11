@@ -196,6 +196,10 @@ const breadcrumbLd = {
     @media (max-width: 640px) {
       .spec-box table:has(td:nth-child(3)) td { font-size: .8rem; }
       .spec-box tr:has(> td:nth-child(3)) td + td { padding-left: .6rem; }
+      /* Bảng 4+ cột trên khung 375px: bóp cột thì chữ xuống dòng từng từ và tràn mép.
+         Cho hộp cuộn ngang, bảng giữ bề rộng tối thiểu để mỗi cột còn đọc được. */
+      .spec-box:has(tr > td:nth-child(4)) { overflow-x: auto; }
+      .spec-box table:has(td:nth-child(4)) { min-width: 34rem; }
     }
 
     /* Bảng Markdown thuần trong thân bài (không phải spec-box) */

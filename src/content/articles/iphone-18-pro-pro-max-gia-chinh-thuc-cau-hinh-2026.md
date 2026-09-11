@@ -122,12 +122,12 @@ Sáng 11/9 cả ba chuỗi lớn đã mở trang đặt trước. Giá niêm y�
 Nói cách khác, chọn chuỗi nào thì giá niêm yết cũng gần như bằng nhau. Chỗ khác nhau thật nằm ở ưu đãi đi kèm:
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Giá đặt trước và ưu đãi, đọc trên trang từng chuỗi ngày 12/9/2026</div>
+  <div class="spec-box-title">📋 Ưu đãi đặt trước, đọc trên trang từng chuỗi ngày 12/9/2026</div>
   <table>
-    <tr><td>Chuỗi</td><td>18 Pro 256GB</td><td>Pro Max 256GB</td><td>Ưu đãi ghi trên trang</td></tr>
-    <tr><td>Thế Giới Di Động</td><td>38.990.000đ</td><td>41.990.000đ</td><td>Tặng 1 triệu khi đặt trước (quà xác nhận sau khi cọc), giảm thêm đến 5 triệu qua thẻ hoặc ví tùy đối tác, thu cũ trợ giá đến 3 triệu</td></tr>
-    <tr><td>CellphoneS</td><td>38.990.000đ</td><td>41.990.000đ</td><td>Thu cũ lên đời trợ giá đến 5 triệu, trả góp 0% tới 18 tháng</td></tr>
-    <tr><td>FPT Shop</td><td>38.990.000đ</td><td>41.990.000đ</td><td>Đăng ký nhận ưu đãi "giảm đến 10 triệu", trả góp 0% đến 18 tháng. Nhận cọc từ 19h 12/9, mở bán 8h 18/9</td></tr>
+    <tr><td>Thế Giới Di Động</td><td>Tặng 1 triệu khi đặt trước (quà xác nhận sau khi cọc), giảm thêm đến 5 triệu qua thẻ hoặc ví tùy đối tác, thu cũ trợ giá đến 3 triệu</td></tr>
+    <tr><td>CellphoneS</td><td>Thu cũ lên đời trợ giá đến 5 triệu, trả góp 0% tới 18 tháng</td></tr>
+    <tr><td>FPT Shop</td><td>Đăng ký nhận ưu đãi "giảm đến 10 triệu", trả góp 0% đến 18 tháng. Nhận cọc từ 19h 12/9, mở bán 8h 18/9</td></tr>
+    <tr><td>Giá niêm yết, cả ba chuỗi</td><td>18 Pro 256GB 38.990.000đ · Pro Max 256GB 41.990.000đ</td></tr>
   </table>
 </div>
 
