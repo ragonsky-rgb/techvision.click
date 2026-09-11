@@ -7,8 +7,6 @@ category: "AI"
 type: "tin-tuc"
 datePublished: "2026-09-11T09:00:00+07:00"
 dateModified: "2026-09-11T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Hugging Face là chỗ gần như mọi người làm AI đều ghé qua, kể cả khi họ không nhận ra: tải một mô hình dịch tiếng Việt, thử một bản Whisper để bóc băng, hay chạy thử một mô hình ảnh trên Colab. Kho đó vừa đổi chủ. Nvidia trả 12,93 tỷ USD, và câu hỏi đáng hỏi không phải là con số, mà là những gì thay đổi với người đang dùng nó hằng ngày ở Việt Nam."
 heroImage: "https://i.ytimg.com/vi/dLNeGN4wEyY/maxresdefault.jpg"
 heroAlt: "Nvidia mua lai Hugging Face voi 12,93 ty USD trong nam 2026"

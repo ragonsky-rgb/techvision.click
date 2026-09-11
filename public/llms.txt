@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 250
-- **Cập nhật:** 2026-09-10 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 251
+- **Cập nhật:** 2026-09-11 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Nvidia mua Hugging Face 12,9 tỷ USD: đổi gì cho dev Việt](https://techvision.click/articles/nvidia-mua-hugging-face-12-9-ty-usd-lap-trinh-vien-viet-nam.html)
 - [ĐTDV Mùa Đông 2026: lịch thi đấu, 9 đội, thể thức mới](https://techvision.click/articles/dtdv-mua-dong-2026-lich-thi-dau-9-doi-the-thuc-moi.html)
 - [iPhone 18 Pro giá chính thức 1.199 USD, có gì mới?](https://techvision.click/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html)
 - [iPhone Duo ra mắt: giá 1.999 USD, màn gập 7,6 inch](https://techvision.click/articles/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.html)
@@ -44,7 +45,6 @@
 - [LCP Split 3: TSW vào tuần chung kết, lịch thi đấu 29-30/8](https://techvision.click/articles/lcp-2026-split-3-tuan-chung-ket-29-30-8-tsw-gam-mvk.html)
 - [Motorola razr fold về Việt Nam: giá 49,99 triệu đồng](https://techvision.click/articles/motorola-razr-fold-ra-mat-viet-nam-gia-49-99-trieu-2026.html)
 - [Esports Nations Cup hoãn sang 11/2027, tuyển Việt Nam chờ](https://techvision.click/articles/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.html)
-- [Nothing Phone (4a) ra mắt Việt Nam: giá bán và cấu hình](https://techvision.click/articles/nothing-phone-4a-4a-pro-ra-mat-viet-nam-gia-cau-hinh-2026.html)
 
 ## Smartphone (66 bài)
 
@@ -115,8 +115,9 @@
 - [iOS 27 mở cho AI agents bên thứ 3 - bước ngoặt Apple](https://techvision.click/articles/apple-ios-27-third-party-ai-agents.html)
 - [Smartphone tháng 5/2026: Vivo X300 Ultra, OnePlus CE6, Oppo X9](https://techvision.click/articles/may-2026-smartphone-launches.html)
 
-## AI (48 bài)
+## AI (49 bài)
 
+- [Nvidia mua Hugging Face 12,9 tỷ USD: đổi gì cho dev Việt](https://techvision.click/articles/nvidia-mua-hugging-face-12-9-ty-usd-lap-trinh-vien-viet-nam.html)
 - [Học sinh học AI từ năm học 2026-2027: học gì, bao nhiêu tiết?](https://techvision.click/articles/hoc-sinh-hoc-ai-tu-nam-hoc-2026-2027-khung-noi-dung-bo-gddt.html)
 - [Gemini cho tắt watermark ảnh AI, SynthID vẫn nằm trong file](https://techvision.click/articles/gemini-tat-watermark-anh-ai-synthid-c2pa-2026.html)
 - [Gemini đạt 1 tỷ người dùng: Google lật ngược thế cờ ra sao](https://techvision.click/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html)
