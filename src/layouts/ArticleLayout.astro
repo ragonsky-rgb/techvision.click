@@ -23,6 +23,9 @@ const bio = authorBio || 'Founder LongTechVision. Theo dõi tin tức công ngh�
 // (scripts/gen-og-sizes.mjs), có dự phòng theo quy ước tên ảnh YouTube để bài
 // mới thêm sau vẫn khai được mà không cần chạy lại bảng.
 import ogSizes from '../data/og-image-sizes.json';
+import { withReadNext } from '../lib/read-next.mjs';
+// Than bai render thanh chuoi de dien hop "Doc tiep" vao giua (xem src/lib/read-next.mjs)
+const bodyHtml = await withReadNext(await Astro.slots.render('default'), related);
 const heroSize = (() => {
   const known = ogSizes[heroImage];
   if (known) return { width: known[0], height: known[1] };
@@ -202,6 +205,16 @@ const breadcrumbLd = {
       .spec-box table:has(td:nth-child(4)) { min-width: 34rem; }
     }
 
+    /* Hộp "Đọc tiếp" giữa bài, chèn lúc build bởi src/plugins/rehype-read-next.mjs */
+    .read-next { margin: 2.2rem 0; padding: 1rem 1.2rem; border: 1px solid var(--line); border-left: 3px solid var(--accent); border-radius: 0; font-family: var(--sans); }
+    .read-next-label { font-size: .62rem; letter-spacing: .22em; text-transform: uppercase; color: var(--dim); margin-bottom: .55rem; }
+    .read-next-link { display: block; padding: .55rem 0; text-decoration: none; color: var(--text); }
+    .read-next-link + .read-next-link { border-top: 1px solid var(--line); }
+    .read-next-cat { display: block; font-size: .58rem; letter-spacing: .2em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin-bottom: .25rem; }
+    .read-next-title { font-family: var(--serif); font-size: 1rem; line-height: 1.4; }
+    .read-next-link:hover .read-next-title { color: var(--accent); }
+    .read-next-title::after { content: ' →'; color: var(--accent); }
+
     /* Bảng Markdown thuần trong thân bài (không phải spec-box) */
     .art-body table:not(.spec-box table) { width: 100%; border-collapse: collapse; margin: 1.4rem 0; font-family: var(--sans); font-size: .88rem; }
     .art-body table:not(.spec-box table) th { text-align: left; padding: .55rem .6rem; border-bottom: 2px solid var(--accent, #c0392b); font-weight: 700; }
@@ -350,7 +363,7 @@ const breadcrumbLd = {
         </div>
       )}
 
-      <slot />
+      <Fragment set:html={bodyHtml} />
 
       {videos.map((v) => (
         <>
@@ -543,6 +556,17 @@ const breadcrumbLd = {
         const isOpen = item.classList.contains('open');
         document.querySelectorAll('.faq-item.open').forEach(el => el.classList.remove('open'));
         if (!isOpen) item.classList.add('open');
+      });
+    });
+    // Đo hộp "Đọc tiếp" giữa bài so với mục "Bài liên quan" cuối bài: GA4 mặc định
+    // chỉ ghi nhận click ra ngoài site, click nội bộ phải tự bắn sự kiện.
+    document.querySelectorAll('.read-next-link, .related-card').forEach(a => {
+      a.addEventListener('click', () => {
+        if (typeof window.gtag !== 'function') return;
+        window.gtag('event', 'internal_read_click', {
+          link_position: a.classList.contains('read-next-link') ? 'mid_article' : 'bottom_related',
+          link_url: a.getAttribute('href'),
+        });
       });
     });
     (function(){

@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import rehypeReadNext from './src/plugins/rehype-read-next.mjs';
 
 // Static site. Legacy HTML lives in /public and is served verbatim.
 // New articles are authored as Markdown in src/content/articles and
@@ -7,5 +8,8 @@ export default defineConfig({
   site: 'https://techvision.click',
   build: {
     format: 'file', // generate /articles/slug.html (match existing URL convention)
+  },
+  markdown: {
+    rehypePlugins: [rehypeReadNext],
   },
 });
