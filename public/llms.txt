@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 251
-- **Cập nhật:** 2026-09-11 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 252
+- **Cập nhật:** 2026-09-12 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Sale 10/10/2026: Shopee có sale không, giá tham chiếu](https://techvision.click/articles/sale-10-10-2026-lich-du-kien-gia-tham-chieu-truoc-ngay-sale.html)
 - [Nvidia mua Hugging Face 12,9 tỷ USD: đổi gì cho dev Việt](https://techvision.click/articles/nvidia-mua-hugging-face-12-9-ty-usd-lap-trinh-vien-viet-nam.html)
 - [ĐTDV Mùa Đông 2026: lịch thi đấu, 9 đội, thể thức mới](https://techvision.click/articles/dtdv-mua-dong-2026-lich-thi-dau-9-doi-the-thuc-moi.html)
 - [iPhone 18 Pro giá chính thức 1.199 USD, có gì mới?](https://techvision.click/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html)
@@ -44,7 +45,6 @@
 - [Lenovo Yoga Pro 7a về Việt Nam: giá 69,99 triệu đồng](https://techvision.click/articles/lenovo-yoga-pro-7a-ra-mat-viet-nam-gia-69-99-trieu-2026.html)
 - [LCP Split 3: TSW vào tuần chung kết, lịch thi đấu 29-30/8](https://techvision.click/articles/lcp-2026-split-3-tuan-chung-ket-29-30-8-tsw-gam-mvk.html)
 - [Motorola razr fold về Việt Nam: giá 49,99 triệu đồng](https://techvision.click/articles/motorola-razr-fold-ra-mat-viet-nam-gia-49-99-trieu-2026.html)
-- [Esports Nations Cup hoãn sang 11/2027, tuyển Việt Nam chờ](https://techvision.click/articles/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.html)
 
 ## Smartphone (66 bài)
 
@@ -167,8 +167,9 @@
 - [Osaurus: server AI local cho Mac M-series, LLM offline](https://techvision.click/articles/osaurus-mac-local-ai-server.html)
 - [Google ra mắt Gemini Intelligence trên Android 17](https://techvision.click/articles/google-gemini-intelligence-android-17.html)
 
-## Công nghệ (41 bài)
+## Công nghệ (42 bài)
 
+- [Sale 10/10/2026: Shopee có sale không, giá tham chiếu](https://techvision.click/articles/sale-10-10-2026-lich-du-kien-gia-tham-chieu-truoc-ngay-sale.html)
 - [IFA 2026 khai mạc 4/9: Xiaomi lần đầu dự, Samsung vắng mặt](https://techvision.click/articles/ifa-2026-berlin-4-9-xiaomi-lan-dau-du-samsung-vang-mat.html)
 - [Pixel Tag giá bao nhiêu, dùng tại Việt Nam được không](https://techvision.click/articles/google-pixel-tag-the-dinh-vi-29-usd-doi-thu-airtag-2026.html)
 - [Google Assistant khai tử từ 4/9: Gemini thay thế ra sao](https://techvision.click/articles/google-assistant-khai-tu-thay-bang-gemini-android-wear-os-2026.html)

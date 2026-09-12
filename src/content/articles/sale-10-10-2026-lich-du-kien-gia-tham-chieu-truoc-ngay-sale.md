@@ -7,8 +7,6 @@ category: "Công nghệ"
 type: "cam-nang"
 datePublished: "2026-09-12T09:00:00+07:00"
 dateModified: "2026-09-12T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Ngày đôi 10/10 là đợt sale lớn cuối cùng trước mùa 11/11 và Black Friday. Tính tới giữa tháng 9, chưa nền tảng nào công bố chương trình cụ thể, nên việc đáng làm lúc này không phải là chờ tin mà là ghi lại giá thật của món mình nhắm. Bài viết chốt sẵn mặt bằng giá tại chuỗi bán lẻ để tới ngày sale bạn biết ngay mức giảm là thật hay chỉ là con số trên giá gạch."
 heroImage: "https://i.ytimg.com/vi/t6ytJjHqIqY/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/sale-10-10-2026-lich-du-kien-gia-tham-chieu-truoc-ngay-sale.jpg"
