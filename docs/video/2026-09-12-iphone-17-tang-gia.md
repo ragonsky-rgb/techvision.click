@@ -5,7 +5,8 @@ Bài nguồn trên site:
 - https://techvision.click/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html
 - https://techvision.click/articles/sale-10-10-2026-lich-du-kien-gia-tham-chieu-truoc-ngay-sale.html
 
-**Trạng thái: anh Long đã duyệt bảng kê ngày 12/9. Đang dựng.** Clip đã tải và soi khung xong, giọng đang chạy OmniVoice.
+**Trạng thái: DỰNG XONG 12/9, chờ anh Long duyệt trước khi đăng.**
+Bản cuối: `~/techvision-video-kit/out/i17-final.mp4` - 61,99 giây, 1080x1920, 30fps, 11 MB.
 
 ## Vì sao làm video này
 
@@ -116,3 +117,108 @@ quảng cáo, đọc trên điện thoại không nổi, nên **cảnh 6 chuyể
    đặt tại y 152-214 để không lọt vào vùng 140px trên cùng mà TikTok đè nút.
 6. Cân màu bằng Palmier trên bản sạch, rồi mới dán thẻ và phụ đề.
 7. Phụ đề word-pop nhấn đỏ #C0392B, chữ nằm trong y 140 tới 1440, mỗi cụm dưới 28 ký tự.
+
+---
+
+## Bản dựng thật (12/09/2026)
+
+### Giọng
+
+OmniVoice nhân bản, 13 câu, đọc lại **câu 9 ba lần** vì máy đọc hỏng:
+bản đầu ra "Lên 256GB, trưa 12 tháng 9, **di động mình** vẫn còn hiện..." - vừa dính rác đầu
+câu vừa nuốt mất "Thế Giới". Bản `try2` đọc đúng "thế giới di động" nhưng vẫn còn 1,90 giây rác
+ở đầu ("2,56 Ghirat"), cắt bỏ đúng mốc đó rồi mới dùng. Cả ba lần thử đều dính rác đầu câu, nên
+đây là bẫy cố định của câu này chứ không phải rủi may.
+
+Xử lý giọng: cắt lặng hai đầu **từng câu** ở `-45dB` (hai lượt kẹp giữa `areverse` vì
+`silenceremove` chỉ cắt được đầu file), nối khít không chèn im lặng - **không dùng bản
+`-voice.wav` mà `voice.py` nối sẵn, vì hàm `concat()` của nó chèn 0,25 giây im lặng giữa mỗi
+câu, 13 câu là 3 giây chết. Sau đó `atempo=1.1`.
+
+| Mốc | Giây |
+|---|---|
+| Thô (13 câu, có im lặng) | 77,09 |
+| Sau khi cắt lặng, nối khít | 69,83 (68,16 sau khi sửa câu 9) |
+| Sau `atempo=1.1` | **61,97** |
+
+Whisper local bóc lại toàn bộ: **13/13 câu đúng chữ, mọi con số khớp bảng số liệu.**
+
+### Mốc từng câu lấy từ đâu
+
+Không lấy từ Whisper. Whisper lần này gom "Năm nay ngược lại" vào câu 5 rồi tách chỗ khác,
+ra 15 đoạn cho 13 câu, nên `assert len(segs) == len(LINES)` trong `make_srt_i17.py` vỡ.
+Bản cuối là chuỗi **nối 13 file rời**, nên mốc mỗi câu = tổng độ dài các file trước chia 1,1,
+chính xác tuyệt đối. Đã tách ra `scripts/i17_timing.py` trong kit. Whisper giờ chỉ còn một việc:
+soi lại chữ để bắt lỗi TTS đọc sai số.
+
+### Gói cảnh thật: 11 cảnh chứ không phải 9
+
+Bản phác 9 cảnh soạn **trước khi có giọng** (chính file này ghi "mốc chốt lại sau khi có
+giọng"). Ghép 13 câu vào 9 cảnh thì có hai đoạn tĩnh 10-13 giây, xem trên Short là chết.
+Tách thành 11 cảnh, **không thêm nguồn media nào ngoài bảng kê đã duyệt**, chỉ không dồn
+hai câu vào một khung.
+
+Một thẻ mới: `i17-c10` (bars 28.990.000đ gạch so 24.990.000đ) - số lấy nguyên văn từ câu 11
+và 12 của kịch bản đã duyệt, không phải số mới.
+
+| # | Câu | Mốc | Nền | Thẻ |
+|---|---|---|---|---|
+| 1 | 1 | 0,000 - 2,065 | **clip** `cut1_phones` (boomerang) | `c01` số 4.000.000đ |
+| 2 | 2 | 2,065 - 7,782 | ảnh chụp trang Apple iPhone 17 | - |
+| 3 | 3 | 7,782 - 16,135 | khung tĩnh clip Apple | `c03` bars 24.999 / 28.999 |
+| 4 | 4 | 16,135 - 19,716 | **clip** `cut2_camera` (boomerang) | - |
+| 5 | 5 | 19,716 - 23,945 | ảnh chụp ba máy 16 / 17e / Air | - |
+| 6 | 6 | 23,945 - 30,349 | ảnh chụp riêng khối iPhone 16 | - |
+| 7 | 7 | 30,349 - 36,581 | khung tĩnh chip A19 | `c06` note ba chuỗi |
+| 8 | 8 | 36,581 - 42,525 | khung tĩnh clip Apple | `c07` bars 9/9 so 12/9 |
+| 9 | 9 + 10 | 42,525 - 48,788 | **clip** `cut3_fan` (boomerang) | - |
+| 10 | 11 + 12 | 48,788 - 58,620 | khung tĩnh clip Apple | `c10` bars 28.990 gạch / 24.990 |
+| 11 | 13 | 58,620 - 61,967 | khung tĩnh clip Apple | `c09` note mời theo dõi |
+
+**Cảnh 6 giữ nguyên quyết định cũ là thẻ chữ, không dùng ảnh chụp ba chuỗi.** Đã thử chụp
+đúng ô giá bằng `scripts/shot-el.mjs`: CellphoneS và FPT Shop đọc rõ 28.490.000đ, nhưng ô của
+Thế Giới Di Động hiện "Gói dịch vụ 1: 24.990.000đ gạch còn 24.590.000đ" - lên hình sẽ đá nhau
+với con số 24.990.000đ mà lời đọc nói. Ba ảnh đó giữ lại làm bằng chứng
+(`out/px_cps.png`, `out/px_fpt.png`, `out/px_tgdd.png`), không lên hình.
+
+**Clip lặp kiểu boomerang** (xuôi rồi ngược) vì ba đoạn sạch chữ chỉ dài 1,10 - 1,50 giây, mà
+cảnh dài 2 - 6,3 giây. Lặp thẳng thì thấy rõ chỗ nối; boomerang giấu được mối vì chuyển động
+đảo chiều mượt. `cut1` 1,40 -> 2,80; `cut2` 1,10 -> 2,20; `cut3` 1,50 -> 3,00.
+
+### Phụ đề
+
+ffmpeg trên máy này **không có `subtitles`, `ass` hay `drawtext`**, nên không burn SRT thẳng
+được. Viết `scripts/make_caption_track.py`: vẽ từng trạng thái (một cụm + một từ đang nhấn)
+bằng PIL rồi nối bằng concat demuxer, xuất `qtrle` giữ alpha, ghép một lượt.
+141 trạng thái, 44 cụm, cụm dài nhất 24 ký tự, không cụm nào dưới 0,5 giây.
+Nhấn đỏ `#C0392B`, tâm dải ở y 0,63 (đáy khoảng y 1296, trong vùng an toàn 140-1440).
+
+Đã nới luật cắt cụm của riêng bản này: cụm mồ côi dưới 7 ký tự được gộp lên tới 24 ký tự
+(chữ tự co lại). Trước đó câu 1 ra cụm "Tăng" nhoáng 0,24 giây - mắt không kịp đọc, chỉ thấy giật.
+
+### Kiểm trước khi giao
+
+- 13/13 câu Whisper đọc lại đúng số.
+- Thế Giới Di Động **kiểm lại lúc 12h** ngày 12/9: vẫn 24.990.000đ (bản 256GB) và 31.490.000đ
+  (512GB). Mốc trong lời đọc còn hiệu lực.
+- Chữ nằm trong y 140-1440 ở cả thẻ số, phụ đề và dòng credit.
+- Credit "Video: Apple" ở y 152-214 trên ba cảnh clip; "Ảnh: Apple" hoặc "Nguồn: apple.com/vn"
+  ở y 1372-1428 trên các cảnh tĩnh.
+
+## Gói đăng (chờ anh Long duyệt, CHƯA đăng)
+
+**Tiêu đề:** iPhone 17 tăng 4 triệu sau một đêm
+
+**Mô tả:**
+```
+Ngày 10/9/2026 Apple Việt Nam nâng giá iPhone 17 bản 256GB từ 24.999.000đ lên 28.999.000đ, không một thông báo nào. iPhone 16, iPhone 17e và iPhone Air cũng bị nâng giá cùng ngày.
+
+Giá đọc trưa 12/9: CellphoneS và FPT Shop 28.490.000đ, Thế Giới Di Động vẫn 24.990.000đ.
+
+Bảng giá tham chiếu đầy đủ trước ngày sale 10/10:
+https://techvision.click/articles/sale-10-10-2026-lich-du-kien-gia-tham-chieu-truoc-ngay-sale.html?utm_source=tiktok&utm_medium=social&utm_campaign=video-iphone17-tanggia
+
+Video: Apple. Ảnh: apple.com/vn.
+```
+
+**UTM:** `utm_source=<tiktok|youtube|facebook>&utm_medium=social&utm_campaign=video-iphone17-tanggia`
