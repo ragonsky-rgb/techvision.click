@@ -7,8 +7,6 @@ category: "Công nghệ"
 type: "cam-nang"
 datePublished: "2026-09-13T09:00:00+07:00"
 dateModified: "2026-09-13T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Ngày 25 mỗi tháng là lúc các sàn chạy đợt giảm giá đón lương về. Đợt kế tiếp rơi vào thứ Sáu 25/9/2026 và chưa sàn nào công bố chi tiết. Bài viết gom lại những gì đã xác minh được về lịch của từng sàn, kèm một bảng giá đồ công nghệ tầm tiền vừa với một tháng lương để tới ngày 25 bạn biết mức giảm nào là thật."
 heroImage: "https://i.ytimg.com/vi/iqtpnW6vFB0/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/sale-luong-ve-ngay-25-hang-thang-shopee-lazada-gia-do-cong-nghe.jpg"
