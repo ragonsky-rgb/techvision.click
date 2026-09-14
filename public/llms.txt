@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 253
-- **Cập nhật:** 2026-09-13 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 255
+- **Cập nhật:** 2026-09-14 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,8 @@
 
 ## Bài viết mới nhất
 
+- [Điện thoại 2026: RAM 16GB biến mất, RAM 4GB trở lại](https://techvision.click/articles/dien-thoai-2026-ram-16gb-bien-mat-ram-4gb-tro-lai.html)
+- [Huawei Mate XT 2 gập ba ra mắt: giá, chip Kirin 9050 Pro](https://techvision.click/articles/huawei-mate-xt-2-gap-ba-ra-mat-gia-kirin-9050-pro-2026.html)
 - [Sale lương về 25/9/2026: sàn nào, ngày nào, giá bao nhiêu](https://techvision.click/articles/sale-luong-ve-ngay-25-hang-thang-shopee-lazada-gia-do-cong-nghe.html)
 - [Sale 10/10/2026: Shopee có sale không, giá tham chiếu](https://techvision.click/articles/sale-10-10-2026-lich-du-kien-gia-tham-chieu-truoc-ngay-sale.html)
 - [Nvidia mua Hugging Face 12,9 tỷ USD: đổi gì cho dev Việt](https://techvision.click/articles/nvidia-mua-hugging-face-12-9-ty-usd-lap-trinh-vien-viet-nam.html)
@@ -43,11 +45,11 @@
 - [Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?](https://techvision.click/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html)
 - [Nên mua iPhone 17 hay đợi iPhone 18? Câu trả lời thẳng](https://techvision.click/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html)
 - [iPhone 18 ra mắt khi nào, bao giờ về Việt Nam?](https://techvision.click/articles/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.html)
-- [Lenovo Yoga Pro 7a về Việt Nam: giá 69,99 triệu đồng](https://techvision.click/articles/lenovo-yoga-pro-7a-ra-mat-viet-nam-gia-69-99-trieu-2026.html)
-- [LCP Split 3: TSW vào tuần chung kết, lịch thi đấu 29-30/8](https://techvision.click/articles/lcp-2026-split-3-tuan-chung-ket-29-30-8-tsw-gam-mvk.html)
 
-## Smartphone (66 bài)
+## Smartphone (68 bài)
 
+- [Điện thoại 2026: RAM 16GB biến mất, RAM 4GB trở lại](https://techvision.click/articles/dien-thoai-2026-ram-16gb-bien-mat-ram-4gb-tro-lai.html)
+- [Huawei Mate XT 2 gập ba ra mắt: giá, chip Kirin 9050 Pro](https://techvision.click/articles/huawei-mate-xt-2-gap-ba-ra-mat-gia-kirin-9050-pro-2026.html)
 - [Redmi Note 17 giá từ 6,99 triệu tại VN, pin 10.000mAh](https://techvision.click/articles/redmi-note-17-series-ra-mat-viet-nam-gia-pin-10000mah-2026.html)
 - [Xiaomi 18 Pro ra mắt tháng 9: cấu hình, giá, có về Việt Nam?](https://techvision.click/articles/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.html)
 - [Motorola razr fold về Việt Nam: giá 49,99 triệu đồng](https://techvision.click/articles/motorola-razr-fold-ra-mat-viet-nam-gia-49-99-trieu-2026.html)
@@ -75,7 +77,7 @@
 - [Galaxy S26 FE giá 18,99 triệu, đã mở bán tại Việt Nam](https://techvision.click/articles/samsung-galaxy-s26-fe-lo-cau-hinh-exynos-2500-gia-du-kien-2026.html)
 - [Honor 600 Pro: camera 200MP, pin 7000mAh có gì đáng mua?](https://techvision.click/articles/honor-600-pro-camera-200mp-pin-7000mah-snapdragon-8-elite-2026.html)
 - [Galaxy Z Fold 8 vs Z Fold 8 Ultra: chọn bản nào 2026?](https://techvision.click/articles/galaxy-z-fold-8-vs-z-fold-8-ultra-so-sanh-chon-ban-nao-2026.html)
-- [Giá Galaxy Z Flip 8, Z Fold 8 tại Việt Nam: mở bán 18/8](https://techvision.click/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html)
+- [Giá Galaxy Z Flip 8, Z Fold 8 tại Việt Nam 14/9: giảm 5,9 triệu](https://techvision.click/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html)
 - [Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP](https://techvision.click/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html)
 - [Xiaomi 17 vs iQOO 15: camera Leica hay gaming, chọn máy nào?](https://techvision.click/articles/xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026.html)
 - [Honor WIN Turbo: điện thoại pin 10000mAh, sạc 80W, Dimensity 8500](https://techvision.click/articles/honor-win-turbo-pin-10000mah-sac-80w-dimensity-8500-2026.html)

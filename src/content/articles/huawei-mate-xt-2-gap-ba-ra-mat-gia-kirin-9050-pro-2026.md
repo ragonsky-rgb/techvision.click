@@ -7,8 +7,6 @@ category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-14T08:30:00+07:00"
 dateModified: "2026-09-14T08:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Huawei giới thiệu Mate XT 2 Ultimate Design ngày 7/9/2026 và mở bán từ 12/9 tại Trung Quốc. Đây là thế hệ thứ ba của dòng gập ba, nhưng lần này hãng bỏ kiểu gập chữ Z quen thuộc để chuyển sang cơ chế gập hai mép vào trong, đồng thời lần đầu đưa tấm nền chống nhìn trộm ở mức phần cứng lên một máy gập ba. Bài này tách bạch những gì Huawei đã công bố, phần nào còn khác nhau giữa các nguồn, và người dùng Việt Nam thực tế mua máy này bằng đường nào."
 heroImage: "https://i.ytimg.com/vi/3bWMNheEOAg/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/huawei-mate-xt-2-gap-ba-ra-mat-gia-kirin-9050-pro-2026.jpg"

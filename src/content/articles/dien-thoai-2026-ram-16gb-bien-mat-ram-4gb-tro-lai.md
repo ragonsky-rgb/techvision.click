@@ -7,8 +7,6 @@ category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-14T09:00:00+07:00"
 dateModified: "2026-09-14T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Suốt vài năm qua, mỗi thế hệ điện thoại mới đều nhiều RAM hơn thế hệ trước, tới mức 16GB trở thành điểm bán hàng quen thuộc ở nhóm cao cấp. Năm nay chiều mũi tên đảo lại. Các hãng đang lặng lẽ cắt cấu hình bộ nhớ vì giá chip nhớ leo thang, và người mua tại Việt Nam sẽ thấy điều đó trong bảng giá trước khi thấy nó trong thông cáo báo chí."
 heroImage: "https://i.ytimg.com/vi/uKnActQI2Ko/maxresdefault.jpg"
 heroAlt: "Cau hinh RAM tren dien thoai nam 2026 bi cat giam vi gia chip nho tang"
