@@ -3,7 +3,9 @@
 // GET /api/social-kit?slug=<slug>   (Groq server-side, key trong env GROQ_API_KEY - dùng chung với chatbot)
 export const config = { runtime: 'edge' };
 
-const MODEL = 'llama-3.3-70b-versatile';
+// llama-3.3-70b-versatile bị Groq tắt ngày 16/08/2026.
+const MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
+const REASONING = MODEL.startsWith('openai/gpt-oss') ? { reasoning_effort: 'low', include_reasoning: false } : {};
 const ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
 const SITE = 'https://techvision.click';
 
@@ -85,8 +87,9 @@ export default async function handler(req) {
         model: MODEL,
         messages: [{ role: 'system', content: sys }, { role: 'user', content: user }],
         temperature: 0.8,
-        max_tokens: 2200,
+        max_tokens: 3500,
         response_format: { type: 'json_object' },
+        ...REASONING,
       }),
     });
 

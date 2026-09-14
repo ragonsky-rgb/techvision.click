@@ -4,6 +4,10 @@
 // Đăng ký key miễn phí: https://console.groq.com (free tier đủ dùng cho site nhỏ).
 export const config = { runtime: 'edge' };
 
+// llama-3.3-70b-versatile bị Groq tắt ngày 16/08/2026 (trả 404, widget lùi về chế độ tìm bài).
+// Model suy luận gpt-oss tính token suy nghĩ vào giới hạn đầu ra: để mức thấp, không trả phần suy nghĩ.
+const MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-120b';
+const REASONING = MODEL.startsWith('openai/gpt-oss') ? { reasoning_effort: 'low', include_reasoning: false } : {};
 const MAX_Q = 500;
 const MAX_CTX = 6;
 const MAX_HISTORY = 6;
@@ -60,10 +64,11 @@ export default async function handler(req) {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
       body: JSON.stringify({
-        model: process.env.GROQ_MODEL || 'llama-3.3-70b-versatile',
+        model: MODEL,
         messages,
-        max_tokens: 400,
+        max_tokens: 900,
         temperature: 0.4,
+        ...REASONING,
       }),
     });
     if (!r.ok) {
