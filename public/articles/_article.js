@@ -311,6 +311,11 @@
   tvcs.src = '/chat-widget.js'; tvcs.defer = true;
   document.head.appendChild(tvcs);
 
+  // WebMCP: cong cu doc cho AI agent trong trinh duyet (trinh duyet chua ho tro thi khong lam gi)
+  var tvmcp = document.createElement('script');
+  tvmcp.src = '/webmcp.js'; tvmcp.defer = true;
+  document.head.appendChild(tvmcp);
+
   // ── Social Kit: AI soan nhap dang X/Threads/FB/TikTok/YouTube ngay duoi khoi chia se ──
   try {
     var shareSec = document.querySelector('.share-section');
