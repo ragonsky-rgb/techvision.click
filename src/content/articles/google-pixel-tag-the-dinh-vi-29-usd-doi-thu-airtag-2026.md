@@ -6,19 +6,19 @@ keywords: "pixel tag, pixel tag giá bao nhiêu, google pixel tag, thẻ định
 category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-08-13T17:00:00+07:00"
-dateModified: "2026-08-13T17:00:00+07:00"
+dateModified: "2026-09-14T10:00:00+07:00"
 deck: "Sau nhiều năm để sân chơi thẻ định vị Android cho bên thứ ba, Google tự làm sản phẩm của mình. Pixel Tag ra mắt tại Made by Google 2026 với giá 29 USD một chiếc, hỗ trợ băng siêu rộng UWB và chuẩn Bluetooth Channel Sounding để dò hướng chính xác, chạy trên mạng Find Hub gồm hơn 3 tỷ thiết bị Android. Câu hỏi đáng giá với người Việt là nó rẻ hơn hay đắt hơn AirTag 2 đang bán trong nước, và có dùng được cho nhu cầu phổ biến nhất ở đây là gắn vào xe máy hay không."
 heroImage: "https://i.ytimg.com/vi/hK9fypJKHyY/hqdefault.jpg"
 heroAlt: "Google Pixel Tag the dinh vi dau tien cua Google canh mot chiec chia khoa"
 heroCaption: "Pixel Tag là thẻ định vị đầu tiên do chính Google làm. Ảnh cắt từ video trên tay. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/google-pixel-tag-the-dinh-vi-29-usd-doi-thu-airtag-2026.jpg"
-tldr: "<strong>Google Pixel Tag</strong> ra mắt ngày <strong>12/8/2026</strong> tại Made by Google, giá <strong>29 USD</strong> một chiếc và <strong>99 USD</strong> cho gói 4 chiếc, quy đổi tạm tính khoảng <strong>760.000 đồng</strong> và <strong>2,6 triệu đồng</strong>. Máy bán từ <strong>11/11/2026</strong>. Thẻ có kích thước 28 x 46,1 x 5,4mm, nặng <strong>11,8g</strong>, chuẩn kháng nước <strong>IP67</strong>, dùng pin <strong>CR2032</strong> thay được với thời lượng hơn một năm. Điểm mạnh là hỗ trợ <strong>UWB</strong> cùng Bluetooth Channel Sounding để dò hướng trong phạm vi <strong>50m</strong>, chạy trên mạng <strong>Find Hub</strong> và tương thích Android 9 trở lên. Tại Việt Nam, <strong>AirTag 2</strong> của Apple đang bán <strong>890.000 đồng</strong> một chiếc và <strong>2,99 triệu đồng</strong> cho gói 4."
+tldr: "<strong>Google Pixel Tag</strong> ra mắt ngày <strong>12/8/2026</strong> tại Made by Google, giá <strong>29 USD</strong> một chiếc và <strong>99 USD</strong> cho gói 4 chiếc, quy đổi tạm tính khoảng <strong>760.000 đồng</strong> và <strong>2,6 triệu đồng</strong>. Máy bán từ <strong>11/11/2026</strong>. Thẻ có kích thước 28 x 46,1 x 5,4mm, nặng <strong>11,8g</strong>, chuẩn kháng nước <strong>IP67</strong>, dùng pin <strong>CR2032</strong> thay được với thời lượng hơn một năm. Điểm mạnh là hỗ trợ <strong>UWB</strong> cùng Bluetooth Channel Sounding để dò hướng trong phạm vi <strong>50m</strong>, chạy trên mạng <strong>Find Hub</strong> và tương thích Android 9 trở lên. Tại Việt Nam, <strong>AirTag 2</strong> của Apple đang bán <strong>890.000 đồng</strong> một chiếc và <strong>2,99 triệu đồng</strong> cho gói 4. Cập nhật 14/9: <strong>Galaxy SmartTag 3</strong> của Samsung đã lộ thiết kế và qua chứng nhận FCC nhưng <strong>chưa ra mắt chính thức</strong>, trong khi SmartTag 2 đang hiển thị <strong>620.509 đồng</strong> trên Samsung.com Việt Nam."
 tags: ["Công nghệ", "Google", "Phụ kiện", "Định vị", "Android"]
 about: ["Google Pixel Tag", "Google Find Hub", "Apple AirTag", "Ultra Wideband", "Made by Google"]
 authorBio: "Founder LongTechVision. Quan tâm tới nhóm phụ kiện nhỏ nhưng giải quyết vấn đề thật, trong đó thẻ định vị là món được người Việt mua nhiều qua sàn thương mại điện tử suốt hai năm qua."
 sourceUrl: "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/"
 sourceName: "Google Blog"
-sourceDomains: "blog.google · 9to5google.com · androidcentral.com · androidauthority.com · dantri.com.vn"
+sourceDomains: "blog.google · 9to5google.com · androidcentral.com · androidauthority.com · sammobile.com · samsung.com/vn · apple.com/vn · dantri.com.vn"
 stats:
   - { num: "29 USD", label: "Giá một chiếc Pixel Tag, khoảng 760.000 đồng quy đổi" }
   - { num: "99 USD", label: "Giá gói 4 chiếc, khoảng 2,6 triệu đồng quy đổi" }
@@ -37,6 +37,10 @@ faq:
     a: "Tính năng dò hướng bằng UWB đòi hỏi điện thoại Android có sẵn chip UWB, hiện chỉ có ở nhóm cao cấp như dòng Pixel và Galaxy S hay Galaxy Z. Phần lớn máy tầm trung bán tại Việt Nam không có UWB, nên với những máy đó thẻ vẫn hoạt động bình thường qua Bluetooth và mạng Find Hub, chỉ mất phần chỉ hướng và khoảng cách theo thời gian thực. Bản thân thẻ tương thích Android 9 trở lên."
   - q: "Dùng Pixel Tag để định vị xe máy tại Việt Nam có hiệu quả không?"
     a: "Thẻ định vị dạng này không có GPS và không phát sóng di động, nó chỉ nhờ các điện thoại đi ngang qua báo vị trí về mạng chung, nên hiệu quả phụ thuộc mật độ người dùng quanh đó. Ở khu vực đông người tại thành phố lớn thì khả năng dò ra khá tốt, nhưng ở nơi vắng thì có thể không cập nhật vị trí trong nhiều giờ. Với xe máy, đây là phương án hỗ trợ tìm lại chứ không thay được thiết bị định vị GPS gắn xe có SIM riêng."
+  - q: "Galaxy SmartTag 3 bao giờ ra mắt, giá bao nhiêu?"
+    a: "Tính tới ngày 14/9/2026, Samsung chưa công bố Galaxy SmartTag 3. Thông tin hiện có đều là tin rò rỉ: thiết kế vuông bo góc hai màu đen và trắng, bỏ lỗ xỏ móc khóa, có UWB và Bluetooth, chống nước IP67, pin khoảng 500 ngày. Giá rò rỉ chưa thống nhất giữa các nguồn, nơi ghi 39,99 euro, nơi ghi 29,99 USD một chiếc. Thời điểm ra mắt được đồn là cùng Galaxy S26 FE hoặc đầu tháng 10."
+  - q: "Dùng điện thoại Samsung thì nên mua SmartTag 2 bây giờ hay chờ SmartTag 3?"
+    a: "Nếu cần ngay, SmartTag 2 đang hiển thị 620.509 đồng trên Samsung.com Việt Nam, rẻ hơn AirTag 2 khoảng 270.000 đồng, đã có UWB và pin tới 500 ngày, còn có lỗ xỏ móc khóa sẵn. Nếu không gấp, nên chờ vài tuần xem giá SmartTag 3 chính thức, vì theo tin rò rỉ đời mới bỏ lỗ móc và phải mua thêm ốp để treo vào chìa khóa hay ba lô."
 related:
   - { href: "/articles/google-pixel-11-gia-ban-viet-nam-tensor-g6-2026.html", cat: "Smartphone", title: "Pixel 11 giá bao nhiêu, bao giờ về Việt Nam" }
   - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 ra mắt: giá 399 USD, thêm loạt chỉ số sức khỏe" }
@@ -114,10 +118,29 @@ Vì vậy cách nhìn đúng là coi thẻ định vị như một lớp hỗ tr
 
 Một lưu ý về quyền riêng tư đáng biết trước khi mua: cả Find Hub lẫn Find My đều có cơ chế cảnh báo khi phát hiện một thẻ lạ di chuyển theo bạn trong thời gian dài, và hai hệ đã bắt tay để cảnh báo chéo giữa Android với iOS. Điều này khiến việc dùng thẻ để theo dõi người khác trở nên khó và không nên làm, đồng thời cũng có nghĩa là chiếc thẻ bạn giấu trong xe có thể bị kẻ trộm dùng iPhone phát hiện.
 
+## Galaxy SmartTag 3 sắp ra: người dùng Galaxy nên chờ không
+
+Người dùng điện thoại Samsung có một lựa chọn riêng không phải Pixel Tag hay AirTag: dòng Galaxy SmartTag, chạy trên SmartThings Find và chỉ dùng được với máy Galaxy. Ngày 11/9/2026, loạt ảnh và thông tin về Galaxy SmartTag 3 đã rò rỉ đồng loạt trên 9to5Google, SamMobile và Android Authority, sau khi thiết bị qua chứng nhận FCC với kết nối UWB và Bluetooth. **Đây vẫn là tin rò rỉ, Samsung chưa công bố chính thức.**
+
+Theo ảnh rò rỉ, SmartTag 3 bỏ dáng viên thuốc của đời 2 để chuyển sang khối vuông bo góc, mặt bạc in logo Samsung lớn, có hai màu đen và trắng. Thay đổi gây tranh cãi nhất là **bỏ lỗ xỏ móc khóa**: muốn treo vào chìa khóa hay ba lô, người dùng phải mua thêm ốp có móc, đúng cách Apple đã làm với AirTag từ đời đầu. Các nguồn tin cho biết thẻ chống nước IP67 và pin khoảng 500 ngày. Về giá, tin rò rỉ chưa thống nhất: Dealabs ghi 39,99 euro một chiếc và 139,99 euro gói 4, trong khi một danh sách nhà phân phối tại Mỹ ghi 29,99 USD và 99,99 USD. Vì các con số lệch nhau, bài chưa quy đổi sang tiền Việt.
+
+<div class="spec-box">
+  <div class="spec-box-title">📋 Bốn thẻ định vị theo hệ điện thoại, cập nhật 14/9/2026</div>
+  <table>
+    <tr><td><strong>Thẻ</strong></td><td><strong>Dùng với</strong></td><td><strong>Giá tại Việt Nam</strong></td><td><strong>Tình trạng</strong></td></tr>
+    <tr><td>AirTag 2</td><td>iPhone</td><td>890.000đ, gói 4 là 2,99 triệu</td><td>Bán chính hãng tại Apple, Thế Giới Di Động, CellphoneS</td></tr>
+    <tr><td>Galaxy SmartTag 2</td><td>Điện thoại Galaxy</td><td>620.509đ trên Samsung.com Việt Nam</td><td>CellphoneS báo sắp về hàng</td></tr>
+    <tr><td>Pixel Tag</td><td>Android 9 trở lên</td><td>Chưa có, quốc tế 29 USD</td><td>Bán quốc tế từ 11/11/2026, không phân phối chính hãng tại Việt Nam</td></tr>
+    <tr><td>Galaxy SmartTag 3</td><td>Điện thoại Galaxy</td><td>Chưa có</td><td><strong>Tin rò rỉ</strong>, chưa ra mắt</td></tr>
+  </table>
+</div>
+
+Với người đang dùng máy Galaxy, SmartTag 2 hiện là lựa chọn rẻ nhất trong nhóm có thương hiệu lớn: 620.509 đồng trên trang Samsung Việt Nam, thấp hơn AirTag 2 khoảng 270.000 đồng, đã có UWB để dò hướng, pin tới 500 ngày và còn giữ lỗ xỏ móc khóa. Nếu cần gắn vào xe máy hay chìa khóa ngay, không có lý do gì phải chờ. Nếu không gấp, chờ vài tuần để thấy giá SmartTag 3 chính thức là hợp lý, nhất là khi đời mới có thể buộc bạn mua thêm ốp. LongTechVision sẽ cập nhật mục này khi Samsung công bố.
+
 ## Có nên chờ Pixel Tag
 
 Nếu bạn dùng Android và chưa có thẻ định vị nào, chờ tới tháng 11 là hợp lý, nhất là khi bạn đang dùng máy có UWB để tận dụng phần dò hướng. Mức giá 99 USD cho gói 4 chiếc là điểm dễ chịu nhất của sản phẩm, vì nhu cầu thực tế thường là gắn nhiều món cùng lúc gồm xe, ví, ba lô và chìa khóa, chứ hiếm ai chỉ cần một chiếc.
 
 Nếu bạn cần dùng ngay trong vài tháng tới, các lựa chọn chạy trên cùng mạng Find Hub như Chipolo hay Pebblebee đã bán tại Việt Nam qua sàn thương mại điện tử với mức giá tương đương, và chúng làm được phần lớn những gì Pixel Tag làm ngoại trừ mức tích hợp sâu với hệ sinh thái Pixel. Còn nếu bạn đang dùng iPhone thì câu trả lời đơn giản: AirTag 2 với giá 890.000 đồng và có hàng sẵn trong nước vẫn là lựa chọn đúng, vì chọn thẻ định vị là chọn theo hệ điều hành chứ không phải theo thông số.
 
-<div class="art-callout">💡 <strong>Lưu ý:</strong> Mọi mức giá quy đổi trong bài chỉ mang tính tham khảo theo tỷ giá giữa tháng 8/2026. Pixel Tag không được Google phân phối chính hãng tại Việt Nam, nên giá bán thực tế trong nước sẽ do từng cửa hàng nhập khẩu quyết định và thường cao hơn giá quy đổi.</div>
+<div class="art-callout">💡 <strong>Lưu ý:</strong> Mọi mức giá quy đổi trong bài chỉ mang tính tham khảo theo tỷ giá giữa tháng 8/2026. Giá AirTag 2 và Galaxy SmartTag 2 đọc lại trên trang Apple, Samsung, Thế Giới Di Động và CellphoneS ngày 14/9/2026. Pixel Tag không được Google phân phối chính hãng tại Việt Nam, nên giá bán thực tế trong nước sẽ do từng cửa hàng nhập khẩu quyết định và thường cao hơn giá quy đổi.</div>
