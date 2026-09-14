@@ -6,13 +6,13 @@ keywords: "iPhone 18 Pro giá, iPhone 18 Pro Max giá bao nhiêu, iPhone 18 Pro 
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-10T01:25:00+07:00"
-dateModified: "2026-09-12T00:29:00+07:00"
+dateModified: "2026-09-14T20:30:00+07:00"
 deck: "Bị chiếc iPhone gập che bớt ánh đèn, nhưng iPhone 18 Pro mới là máy đại đa số người dùng sẽ mua. Apple tăng giá 100 USD, thêm bản 2TB lần đầu tiên, và nâng cấp Dynamic Island để xử lý ba tác vụ cùng lúc. Bài này bóc từng thay đổi và tính xem giá về Việt Nam khoảng bao nhiêu."
 heroImage: "https://techvision.click/images/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026/iphone-18-pro-dai-mau.jpg"
 heroAlt: "iPhone 18 Pro bon mau black silver glacier burgundy anh chinh thuc Apple"
 heroCaption: "Bốn màu của iPhone 18 Pro: black, silver, glacier và burgundy mới. Ảnh chính thức Apple công bố 9/9/2026. Nguồn: Apple"
 ogImage: "https://techvision.click/uploads/og-article/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.jpg"
-tldr: "Apple công bố <strong>iPhone 18 Pro từ 1.199 USD</strong> và <strong>18 Pro Max từ 1.299 USD</strong>, đều khởi điểm bản 256GB, tăng <strong>100 USD</strong> so với thế hệ trước. Lần đầu tiên dòng Pro có tuỳ chọn <strong>2TB</strong>. Nâng cấp đáng chú ý gồm <strong>Dynamic Island thu nhỏ xử lý ba tác vụ</strong> cùng lúc, cụm camera pro làm mới cả phần cứng lẫn phần mềm, và buồng hơi tản nhiệt cải tiến. Máy giao tại Mỹ từ <strong>18/9</strong>, Việt Nam dự kiến đầu tháng 10. Việt Nam nằm trong đợt mở bán đầu: đặt trước <strong>19h ngày 12/9</strong>, có hàng <strong>18/9</strong>, giá chính thức <strong>38.999.000đ</strong> và <strong>41.999.000đ</strong> cho bản 256GB."
+tldr: "Apple công bố <strong>iPhone 18 Pro từ 1.199 USD</strong> và <strong>18 Pro Max từ 1.299 USD</strong>, đều khởi điểm bản 256GB, tăng <strong>100 USD</strong> so với thế hệ trước. Lần đầu tiên dòng Pro có tuỳ chọn <strong>2TB</strong>. Nâng cấp đáng chú ý gồm <strong>Dynamic Island thu nhỏ xử lý ba tác vụ</strong> cùng lúc, cụm camera pro làm mới cả phần cứng lẫn phần mềm, và buồng hơi tản nhiệt cải tiến. Máy giao tại Mỹ từ <strong>18/9</strong>, Việt Nam dự kiến đầu tháng 10. Việt Nam nằm trong đợt mở bán đầu: đặt trước <strong>19h ngày 12/9</strong>, có hàng <strong>18/9</strong>, giá chính thức <strong>38.999.000đ</strong> và <strong>41.999.000đ</strong> cho bản 256GB. Đợt đặt trước vượt <strong>300.000 đơn</strong>, nhiều bản Pro Max hẹn giao sang <strong>tháng 10</strong>."
 tags: ["iPhone18Pro", "Apple", "TinCongNghe", "GiaVietNam", "2026"]
 about: ["iPhone 18 Pro", "iPhone 18 Pro Max", "Apple", "Dynamic Island"]
 authorBio: "Founder LongTechVision. Theo dõi tin công nghệ quốc tế và quy đổi ra bối cảnh giá cả tại Việt Nam."
@@ -134,6 +134,14 @@ Nói cách khác, chọn chuỗi nào thì giá niêm yết cũng gần như b�
 Thế Giới Di Động giờ ghi rõ nhất từng món, nhưng món nào cũng kèm điều kiện: chính trang của họ viết quà 1 triệu "sẽ được xác nhận sau khi đặt cọc", còn khoản giảm đến 5 triệu tùy đối tác thẻ hoặc ví và hạn mức. Con số "giảm đến 10 triệu" của FPT Shop là mức tối đa dành cho khách đăng ký trước, và trang sản phẩm vẫn chưa ghi điều kiện để đạt mức đó. Nếu định đặt cọc vì một con số ưu đãi, hãy hỏi rõ điều kiện trước khi chuyển tiền. Ưu đãi thu cũ ở CellphoneS (đến 5 triệu) và Thế Giới Di Động (đến 3 triệu) chỉ có lợi khi bạn đang có máy cũ để đổi.
 
 Đặt cạnh mặt bằng hiện tại thì con số này đáng suy nghĩ. iPhone 17 Pro Max 256GB đang bán 34,09 triệu tại CellphoneS, tức **iPhone 18 Pro bản thường đã đắt hơn máy Max đời trước gần 5 triệu đồng**. Cùng một khoản tiền, bạn đứng trước lựa chọn giữa máy đời mới bản thường và máy đời cũ bản Max màn lớn pin trâu. Phân tích chi tiết nằm trong bài [nên mua iPhone 17 hay đợi iPhone 18](/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html).
+
+### Kết quả đặt trước: Pro Max cháy hàng, lịch giao trượt sang tháng 10
+
+Đợt đặt trước mở lúc 19h ngày 12/9 cho thấy sức mua mạnh hơn dự đoán. Theo ghi nhận của báo chí trong nước trong hai ngày sau đó, tổng lượng đơn đặt trước của iPhone 18 Pro và Pro Max tại Việt Nam vượt **300.000 đơn**, và riêng số tiền khách bỏ ra để giữ chỗ trong đêm đầu tiên được ước tính trên **300 tỷ đồng**. Chỉ khoảng **10 phút** sau khi mở cổng, thời gian giao một số bản Pro Max trên cửa hàng trực tuyến của Apple đã bị đẩy lùi hai tới ba tuần.
+
+Ở kênh bán lẻ, TopZone thuộc Thế Giới Di Động ghi nhận gần **167.000 đơn** trong khoảng nửa giờ đầu trên tổng số khoảng 181.000 đơn của hệ thống. Màu Đỏ Burgundy bản 256GB chiếm khoảng **60%** lựa chọn ghi nhận trong giai đoạn đầu, tức phần lớn nhu cầu dồn vào đúng một cấu hình. Hệ quả thực tế với người mua muộn: máy vẫn mở bán từ 18/9 nhưng nhiều đơn đặt sau đó được hẹn giao sang **tháng 10**, và màu hot ở bản dung lượng thấp là nhóm khan nhất.
+
+Có hai điều rút ra. Thứ nhất, nếu bạn cần máy sớm mà chưa đặt cọc, khả năng cao phải chọn màu hoặc dung lượng khác thay vì chờ đúng cấu hình mong muốn. Thứ hai, giai đoạn khan hàng là lúc kênh không chính thức hoạt động mạnh nhất, nên hãy kiểm tra kỹ nguồn gốc máy và tình trạng bảo hành trước khi trả tiền cho một lời hứa giao ngay.
 
 ## Những thứ Apple không đổi
 

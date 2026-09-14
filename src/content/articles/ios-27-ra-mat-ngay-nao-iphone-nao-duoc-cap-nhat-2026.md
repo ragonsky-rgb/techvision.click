@@ -1,18 +1,18 @@
 ---
 slug: "ios-27-ra-mat-ngay-nao-iphone-nao-duoc-cap-nhat-2026"
 title: "iOS 27 ra mắt ngày nào, iPhone nào được cập nhật?"
-description: "iOS 27 dự kiến phát hành giữa tháng 9/2026, chạy được từ iPhone 11 trở lên. Nhưng Siri mới cần iPhone 15 Pro, còn vài tính năng đòi iPhone 17 Pro trở lên."
+description: "iOS 27 đã phát hành ngày 14/9/2026, chạy được từ iPhone 11 trở lên. Nhưng Siri thế hệ mới cần iPhone 15 Pro trở lên mới dùng được."
 keywords: "ios 27 ra mắt ngày nào, ios 27 máy nào được cập nhật, ios 27 hỗ trợ iphone nào, siri mới ios 27, ios 27 iphone 11, cập nhật ios 27 có nên không"
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-08T08:00:00+07:00"
-dateModified: "2026-09-08T08:00:00+07:00"
+dateModified: "2026-09-14T20:10:00+07:00"
 deck: "Danh sách máy được lên iOS 27 rộng hơn nhiều người nghĩ, kéo dài tới tận iPhone 11 ra mắt năm 2019. Nhưng phía sau danh sách đó là ba tầng tính năng khác nhau, và tầng đáng giá nhất chỉ mở cho một nhóm máy hẹp. Bài viết này tách rõ ba tầng đó để bạn biết chiếc máy đang cầm sẽ thực sự nhận được gì."
 heroImage: "https://i.ytimg.com/vi/BdsiBu4t3ao/maxresdefault.jpg"
 heroAlt: "iOS 27 phat hanh thang 9 2026 danh sach iPhone duoc cap nhat"
-heroCaption: "iOS 27 dự kiến phát hành giữa tháng 9/2026, ngay sau keynote của Apple. Ảnh minh họa từ YouTube"
+heroCaption: "iOS 27 phát hành chính thức ngày 14/9/2026, ngay sau tuần lễ ra mắt iPhone. Ảnh minh họa từ YouTube"
 ogImage: "https://techvision.click/uploads/og-article/ios-27-ra-mat-ngay-nao-iphone-nao-duoc-cap-nhat-2026.jpg"
-tldr: "<strong>iOS 27</strong> dự kiến phát hành <strong>giữa tháng 9/2026</strong>, mốc được nhắc nhiều nhất là quanh <strong>ngày 14/9</strong>, và Apple sẽ chốt ngày chính xác trong keynote <strong>9/9</strong>. Bản cập nhật chạy được trên <strong>iPhone 11 trở lên</strong> cùng iPhone SE đời 2 và 3, tức không máy nào bị loại so với iOS 26. Điểm cần lưu ý là tính năng lớn nhất, <strong>Siri thế hệ mới</strong>, đòi từ <strong>iPhone 15 Pro</strong> trở lên, còn một vài tính năng nâng cao như giọng Siri mới được cho là chỉ chạy trên <strong>iPhone 17 Pro</strong> trở lên. Máy đời cũ vẫn nhận được phần giao diện, Ảnh và kiểm soát của cha mẹ."
+tldr: "<strong>iOS 27 đã phát hành chính thức ngày 14/9/2026</strong>, đúng mốc được đồn đoán trước đó, kèm hơn <strong>250 thay đổi</strong> lớn nhỏ theo công bố của Apple. Bản cập nhật chạy được trên <strong>iPhone 11 trở lên</strong> cùng iPhone SE đời 2 và 3, tức không máy nào bị loại so với iOS 26. Điểm cần lưu ý là tính năng lớn nhất, <strong>Siri thế hệ mới</strong>, đòi từ <strong>iPhone 15 Pro</strong> trở lên, còn một vài tính năng nâng cao như giọng Siri mới được cho là chỉ chạy trên <strong>iPhone 17 Pro</strong> trở lên. Máy đời cũ vẫn nhận được phần giao diện, Ảnh và kiểm soát của cha mẹ."
 tags: ["Apple", "iOS", "iPhone", "Cập nhật phần mềm", "Siri"]
 about: ["iOS 27", "Apple", "Siri", "Apple Intelligence"]
 authorBio: "Founder LongTechVision. Theo dõi chu kỳ cập nhật iOS và cách các tính năng mới thực sự chạy trên máy đang bán tại Việt Nam."
@@ -52,12 +52,12 @@ Mỗi tháng 9, câu hỏi được người dùng iPhone tại Việt Nam tìm 
     <tr><td>Tầng 1: mọi máy hỗ trợ</td><td>iPhone 11 trở lên và iPhone SE đời 2, đời 3. Nhận giao diện mới, ứng dụng Ảnh nâng cấp, kiểm soát của cha mẹ, vá bảo mật</td></tr>
     <tr><td>Tầng 2: Siri thế hệ mới</td><td>Từ <strong>iPhone 15 Pro</strong> trở lên</td></tr>
     <tr><td>Tầng 3: tính năng nâng cao</td><td>Một số tính năng như giọng Siri mới được cho là cần <strong>iPhone 17 Pro</strong> trở lên</td></tr>
-    <tr><td>Ngày phát hành</td><td>Dự kiến giữa tháng 9/2026, mốc hay được nhắc là quanh 14/9</td></tr>
-    <tr><td>Chốt ngày chính thức</td><td>Trong keynote 9/9, tức rạng sáng 10/9 giờ Việt Nam</td></tr>
+    <tr><td>Ngày phát hành</td><td>Đã phát hành chính thức ngày 14/9/2026</td></tr>
+    <tr><td>Quy mô thay đổi</td><td>Hơn 250 thay đổi lớn nhỏ theo công bố của Apple</td></tr>
   </table>
 </div>
 
-Nhưng danh sách hỗ trợ rộng không có nghĩa là mọi máy nhận được như nhau. Đây là điểm gây hiểu nhầm nhiều nhất trong hai năm gần đây, kể từ khi Apple bắt đầu gắn các tính năng trí tuệ nhân tạo vào yêu cầu phần cứng. Cài được bản cập nhật và dùng được tính năng nổi bật của bản cập nhật đó là hai chuyện hoàn toàn khác nhau.
+Bản cập nhật đã được phát hành chính thức ngày 14/9/2026 và hiện có thể tải trực tiếp trong mục cập nhật phần mềm của máy. Nhưng danh sách hỗ trợ rộng không có nghĩa là mọi máy nhận được như nhau. Đây là điểm gây hiểu nhầm nhiều nhất trong hai năm gần đây, kể từ khi Apple bắt đầu gắn các tính năng trí tuệ nhân tạo vào yêu cầu phần cứng. Cài được bản cập nhật và dùng được tính năng nổi bật của bản cập nhật đó là hai chuyện hoàn toàn khác nhau.
 
 ## Siri thế hệ mới: thứ đáng giá nhất và cũng kén máy nhất
 
@@ -108,7 +108,7 @@ Nếu bạn quan tâm riêng tới việc trợ lý mới có nói được ti�
 
 ## Mốc thời gian cần nhớ
 
-Ngày phát hành chính thức sẽ được Apple công bố trong keynote **9/9**, tức rạng sáng **10/9 theo giờ Việt Nam**. Theo nếp nhiều năm, bản chính thức ra khoảng một tuần sau đó, nên mốc thực tế nhất để đánh dấu lịch là quanh **ngày 14/9**. Bản vá nhỏ đầu tiên thường xuất hiện cuối tháng 9 hoặc đầu tháng 10, và đó là thời điểm hợp lý nhất để cập nhật nếu bạn thuộc nhóm thận trọng.
+Apple công bố ngày phát hành trong keynote **9/9** và bản chính thức đã lên sóng đúng **ngày 14/9/2026**, khoảng một tuần sau sự kiện, đúng nếp nhiều năm nay. Cùng với Siri thế hệ mới, Apple ghi nhận hơn **250 thay đổi** lớn nhỏ trong bản cập nhật này, trải từ giao diện, ứng dụng Ảnh tới nhóm công cụ viết. Bản vá nhỏ đầu tiên thường xuất hiện cuối tháng 9 hoặc đầu tháng 10, và đó là thời điểm hợp lý nhất để cập nhật nếu bạn thuộc nhóm thận trọng.
 
 Một điểm nữa đáng chú ý: iOS 27 phát hành cùng đợt với các máy iPhone mới, nên trong khoảng một tuần đầu, máy chủ của Apple thường quá tải và tốc độ tải bản cập nhật rất chậm. Nếu ngày đầu bạn thấy thanh tiến trình đứng yên hàng chục phút, đó là chuyện bình thường chứ không phải máy hỏng.
 
