@@ -6,7 +6,7 @@ keywords: "sale 10/10, sale 10 10 2026, shopee 10.10, 10 10 có sale không, gi�
 category: "Công nghệ"
 type: "cam-nang"
 datePublished: "2026-09-12T09:00:00+07:00"
-dateModified: "2026-09-12T09:00:00+07:00"
+dateModified: "2026-09-14T08:30:00+07:00"
 deck: "Ngày đôi 10/10 là đợt sale lớn cuối cùng trước mùa 11/11 và Black Friday. Tính tới giữa tháng 9, chưa nền tảng nào công bố chương trình cụ thể, nên việc đáng làm lúc này không phải là chờ tin mà là ghi lại giá thật của món mình nhắm. Bài viết chốt sẵn mặt bằng giá tại chuỗi bán lẻ để tới ngày sale bạn biết ngay mức giảm là thật hay chỉ là con số trên giá gạch."
 heroImage: "https://i.ytimg.com/vi/t6ytJjHqIqY/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/sale-10-10-2026-lich-du-kien-gia-tham-chieu-truoc-ngay-sale.jpg"
@@ -94,7 +94,7 @@ Ba chuyển động đó nói lên vị trí vòng đời của từng máy và 
 
 Một hiểu lầm phổ biến là đợt sale nào cũng giảm đều cho mọi thứ. Thực tế mức giảm phụ thuộc gần như hoàn toàn vào chuyện món đó đang ở đâu trong vòng đời của nó, chứ không phụ thuộc vào đợt sale.
 
-Máy đời trước như Galaxy S25 Ultra đã giảm sâu vì Samsung cần dọn chỗ cho thế hệ kế tiếp. Với nhóm này, đợt sale chỉ là cái cớ để hạ thêm một nấc mà lẽ ra vẫn hạ. Ngược lại, máy vừa mở bán như iPhone 17 gần như không giảm, vì chuỗi bán lẻ không có lý do gì phá giá một sản phẩm đang bán chạy.
+Máy đời trước như Galaxy S25 Ultra đã giảm sâu vì Samsung cần dọn chỗ cho thế hệ kế tiếp. Với nhóm này, đợt sale chỉ là cái cớ để hạ thêm một nấc mà lẽ ra vẫn hạ. Ngược lại, máy vừa mở bán như iPhone 17 gần như không giảm, vì chuỗi bán lẻ không có lý do gì phá giá một sản phẩm đang bán chạy. Máy gập Samsung là ngoại lệ đáng ghi lại: Galaxy Z Fold 8 mở bán rộng từ 18/8 mà tới 14/9 đã giảm thêm 3,4 triệu tại CellphoneS, không cần chờ dịp sale nào, xem [bảng giá Galaxy Z Flip 8, Z Fold 8 tháng 9](/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html).
 
 Nhóm hưởng lợi thật từ ngày đôi là phụ kiện, tai nghe và đồ gia dụng nhỏ. Đây là nhóm biên lợi nhuận cao, hàng nhiều, và là chỗ các sàn dồn voucher để kéo lượng đơn.
 
