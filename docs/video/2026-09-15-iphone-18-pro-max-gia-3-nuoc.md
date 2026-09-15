@@ -3,7 +3,9 @@
 Bài nguồn trên site (hẹn đăng 28/9, link mở được nhưng chưa lên blog):
 - https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html
 
-**Trạng thái: CHỜ ANH LONG DUYỆT bảng kê nguồn + cho phép tải clip Apple.**
+**Trạng thái: DỰNG XONG 15/9, chờ anh Long duyệt trước khi đăng.**
+Bản cuối: `~/techvision-video-kit/out/i18/iphone-18-pro-max-gia-3-nuoc-final.mp4` - 48,06 giây, 1080x1920, 14,9 MB.
+Dựng lại: `python3 scripts/build_i18.py voice|cards|base|caps|final` trong kit.
 
 ## Vì sao làm video này
 
@@ -87,4 +89,46 @@ Bảng giá đủ 4 dung lượng ở cả 3 nước có trên TechVision.
 
 Không dùng Flow, không dùng công cụ sinh hình.
 
-## Gói đăng (soạn sau khi dựng xong)
+## Ghi chú dựng
+
+- Clip A tải bằng yt-dlp (phải nâng lên 2026.08.19, bản 03/2026 bị 403). Clip B "iPhone 18 Pro: The
+  ultimate performance and camera of any iPhone" (Apple, 55 giây) anh Long tải bằng VidBee.
+- Quãng sạch chữ: A 164,0+6,0 (máy xoay) · 52,5+3,0 (khung máy) · 64,5+2,5 (tay cầm) · 74,75+1,75
+  (vòng camera) · B 3,6+1,9 (ống kính) · 5,6+2,0 (máy trong mây) · 8,0+1,9 (máy nằm) · 10,0+2,4
+  (chip A20) · 28,0+1,05 (mặt lưng). Bẫy: tờ tiếp xúc 2fps của clip B lệch khoảng 4 giây ở nửa sau,
+  phải soi lại từng mốc trước khi cắt.
+- Giọng OmniVoice câu 8 dính rác đầu câu ("Kigat", 0,68 giây), đã cắt. Whisper soi lại đủ 10 câu.
+- Whisper transformers trên máy này: dùng CPU float32; mps float16 ra chữ rác.
+
+## Gói đăng (chờ anh Long duyệt, CHƯA đăng)
+
+**TikTok**
+```
+Mua iPhone 18 Pro Max ở Singapore giờ còn đắt hơn Việt Nam 😳 Việt Nam 41.999.000đ, Singapore 2.099 SGD ≈ 43,67 triệu, Mỹ 1.299 USD ≈ 34 triệu nhưng chưa gồm thuế. Mua ở đâu lợi nhất? #iphone18promax #iphone18 #apple #giadienthoai #techvision
+```
+
+**YouTube Shorts**
+
+Tiêu đề: `iPhone 18 Pro Max: Singapore đắt hơn Việt Nam 1,67 triệu #Shorts`
+
+Mô tả:
+```
+So giá iPhone 18 Pro Max 256GB tại 3 nước, đọc từ trang Apple ngày 15/9/2026:
+- Việt Nam: 41.999.000đ, đã gồm thuế
+- Singapore: 2.099 SGD, đã gồm GST, khoảng 43,67 triệu đồng
+- Mỹ: 1.299 USD, chưa gồm thuế bán hàng, khoảng 34,03 triệu đồng
+Quy đổi theo tỷ giá bán ra Vietcombank chiều 15/9 (USD 26.200, SGD 20.803).
+
+Bảng giá đủ 4 dung lượng ở cả 3 nước:
+https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html?utm_source=youtube&utm_medium=social&utm_campaign=video-iphone-18-pro-max-gia-3-nuoc
+
+Video: Apple. #Shorts #iPhone18ProMax #Apple
+```
+
+**Facebook Reels**
+```
+Năm nay mua iPhone 18 Pro Max ở Singapore còn đắt hơn mua ở Việt Nam khoảng 1,67 triệu (quy theo tỷ giá bán ra Vietcombank 15/9). Mỹ rẻ hơn gần 8 triệu nhưng giá đó chưa gồm thuế bán hàng, và máy mua ngoài không có bảo hành chính hãng tại Việt Nam.
+Bảng giá đủ 4 dung lượng: https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html?utm_source=facebook&utm_medium=social&utm_campaign=video-iphone-18-pro-max-gia-3-nuoc
+```
+
+TikTok không bấm được link trong caption: để link bio với `utm_source=tiktok`.
