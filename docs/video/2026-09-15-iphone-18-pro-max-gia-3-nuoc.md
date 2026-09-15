@@ -4,7 +4,7 @@ Bài nguồn trên site (hẹn đăng 28/9, link mở được nhưng chưa lên
 - https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html
 
 **Trạng thái: DỰNG XONG 15/9, chờ anh Long duyệt trước khi đăng.**
-Bản cuối: `~/techvision-video-kit/out/i18/iphone-18-pro-max-gia-3-nuoc-final.mp4` - 50,96 giây, 1080x1920, 15,4 MB (bản sửa phát âm 15/9 17h07).
+Bản cuối: `~/techvision-video-kit/out/i18/iphone-18-pro-max-gia-3-nuoc-final.mp4` - 51,72 giây, 1080x1920, 15,6 MB (bản 3, 15/9 22h33: "Singapore" viết "Singapoor" cho giọng đọc, anh Long chọn mẫu 5/6).
 Dựng lại: `python3 scripts/build_i18.py voice|cards|base|caps|final` trong kit.
 
 ## Vì sao làm video này
