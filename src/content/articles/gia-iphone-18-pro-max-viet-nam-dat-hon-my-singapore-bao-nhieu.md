@@ -62,6 +62,19 @@ Câu hỏi quen thuộc mỗi mùa iPhone là máy bán tại Việt Nam đắt 
   </table>
 </div>
 
+<div class="spec-box">
+  <div class="spec-box-title">🌏 iPhone 18 Pro Max ở Việt Nam, Singapore và Mỹ (giá Apple 15/9/2026)</div>
+  <table>
+    <tr><td>Dung lượng</td><td>Việt Nam</td><td>Singapore (quy đổi)</td><td>Mỹ, trước thuế (quy đổi)</td></tr>
+    <tr><td>256GB</td><td>41.999.000đ</td><td>2.099 SGD, ~43,67 triệu</td><td>1.299 USD, ~34,03 triệu</td></tr>
+    <tr><td>512GB</td><td>48.499.000đ</td><td>2.399 SGD, ~49,91 triệu</td><td>1.499 USD, ~39,27 triệu</td></tr>
+    <tr><td>1TB</td><td>61.499.000đ</td><td>2.999 SGD, ~62,39 triệu</td><td>1.899 USD, ~49,75 triệu</td></tr>
+    <tr><td>2TB</td><td>80.999.000đ</td><td>3.899 SGD, ~81,11 triệu</td><td>2.499 USD, ~65,47 triệu</td></tr>
+  </table>
+</div>
+
+Quy đổi theo tỷ giá bán ra của Vietcombank chiều 15/9/2026: 26.200 đồng/USD và 20.803 đồng/SGD. Giá Việt Nam và Singapore đã gồm thuế, giá Mỹ chưa gồm thuế bán hàng. Ở cả bốn bậc dung lượng, Singapore đều đắt hơn Việt Nam khi quy đổi theo tỷ giá bán ra.
+
 Một lưu ý về cách đọc bảng trên. Các chuỗi bán lẻ lớn trong nước niêm yết thấp hơn giá của Apple vài nghìn đồng, tức là chênh lệch giữa các nơi bán gần như bằng không. Phần khác biệt thật sự nằm ở chương trình khuyến mãi, trợ giá thu cũ và ưu đãi thanh toán qua thẻ, chứ không nằm ở con số in trên bảng giá.
 
 ## Chênh với Mỹ: con số 8,15 triệu và phần bị bỏ quên
