@@ -7,8 +7,6 @@ category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-09-15T08:30:00+07:00"
 dateModified: "2026-09-15T08:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Xiaomi giới thiệu Pad 9 Pro Max ngày 7/9/2026, chiếc máy tính bảng lớn nhất và đắt nhất hãng từng làm. Máy có màn 13,3 inch tỉ lệ 3:2, chip XRING O3 tự phát triển, viên pin 12.000mAh và một chi tiết ít được nhắc tới nhưng đáng chú ý nhất với người dùng máy tính: cổng DP-in cho phép biến tablet thành màn hình rời cho laptop. Bài này điểm lại thông số đã công bố, bảng giá từng cấu hình và đối chiếu với dòng Pad đang bán chính hãng tại Việt Nam."
 heroImage: "https://i.ytimg.com/vi/9P9w3rwJMd0/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/xiaomi-pad-9-pro-max-ra-mat-man-13-3-inch-pin-12000mah-2026.jpg"
