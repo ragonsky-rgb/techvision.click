@@ -4,7 +4,7 @@ Bài nguồn trên site (hẹn đăng 28/9, link mở được nhưng chưa lên
 - https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html
 
 **Trạng thái: DỰNG XONG 15/9, chờ anh Long duyệt trước khi đăng.**
-Bản cuối: `~/techvision-video-kit/out/i18/iphone-18-pro-max-gia-3-nuoc-final.mp4` - 48,06 giây, 1080x1920, 14,9 MB.
+Bản cuối: `~/techvision-video-kit/out/i18/iphone-18-pro-max-gia-3-nuoc-final.mp4` - 50,96 giây, 1080x1920, 15,4 MB (bản sửa phát âm 15/9 17h07).
 Dựng lại: `python3 scripts/build_i18.py voice|cards|base|caps|final` trong kit.
 
 ## Vì sao làm video này
@@ -98,6 +98,9 @@ Không dùng Flow, không dùng công cụ sinh hình.
   (chip A20) · 28,0+1,05 (mặt lưng). Bẫy: tờ tiếp xúc 2fps của clip B lệch khoảng 4 giây ở nửa sau,
   phải soi lại từng mốc trước khi cắt.
 - Giọng OmniVoice câu 8 dính rác đầu câu ("Kigat", 0,68 giây), đã cắt. Whisper soi lại đủ 10 câu.
+- Bản 1 anh Long chê đọc sai "Singapore" và giá tiền. Đọc lại câu 1-6 và 8 với chữ phiên âm:
+  "Xin-ga-po", giá viết bằng chữ ("bốn mươi mốt triệu, chín trăm chín mươi chín nghìn đồng"). Phụ đề vẫn
+  giữ số. Câu 4 bản mới dính rác đầu ("Gigaat", 0,95 giây), đã cắt. Kịch bản phiên âm: `out/i18/script_fix.txt`.
 - Whisper transformers trên máy này: dùng CPU float32; mps float16 ra chữ rác.
 
 ## Gói đăng (chờ anh Long duyệt, CHƯA đăng)
