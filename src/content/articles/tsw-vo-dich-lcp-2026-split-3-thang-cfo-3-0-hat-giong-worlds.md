@@ -7,8 +7,6 @@ category: "Gaming"
 type: "tin-tuc"
 datePublished: "2026-09-16T09:00:00+07:00"
 dateModified: "2026-09-16T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Team Secret Whales khép lại mùa giải LCP 2026 bằng trận thắng 3-0 trước CTBC Flying Oyster ở chung kết tổng Split 3 ngày 30/8 tại Đài Bắc. Đây là chức vô địch thứ ba liên tiếp trong cùng một mùa giải của đội, và quan trọng hơn con số danh hiệu, nó quyết định vị trí hạt giống của đại diện Việt Nam khi Chung kết Thế giới 2026 khởi tranh giữa tháng 10."
 heroImage: "https://i.ytimg.com/vi/mFR9Apo1dEM/maxresdefault.jpg"
 heroAlt: "Sân khấu thi đấu Liên Minh Huyền Thoại chuyên nghiệp, minh họa chung kết tổng LCP 2026 Split 3 tại Đài Bắc"

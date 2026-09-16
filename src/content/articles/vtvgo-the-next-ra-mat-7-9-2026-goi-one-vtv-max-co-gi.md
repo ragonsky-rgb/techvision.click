@@ -7,8 +7,6 @@ category: "Internet"
 type: "tin-tuc"
 datePublished: "2026-09-16T08:30:00+07:00"
 dateModified: "2026-09-16T08:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Ngày 7/9/2026, Đài Truyền hình Việt Nam công bố VTVgo The Next, bản nâng cấp lớn nhất của ứng dụng VTVgo từ trước tới nay. Điểm thay đổi không nằm ở giao diện mà ở phạm vi: nền tảng gộp kho kênh của bốn đơn vị thành một gói duy nhất và mở thêm nhóm dịch vụ vốn không thuộc về một ứng dụng truyền hình, từ tài chính tới dịch vụ công. Bài này tách bạch những gì thực sự mới, gói One VTV MAX gồm những gì, và người xem miễn phí có bị ảnh hưởng không."
 heroImage: "https://i.ytimg.com/vi/pGjDsP9hLDY/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/vtvgo-the-next-ra-mat-7-9-2026-goi-one-vtv-max-co-gi.jpg"

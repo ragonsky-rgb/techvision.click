@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 256
-- **Cập nhật:** 2026-09-15 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 258
+- **Cập nhật:** 2026-09-16 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,8 @@
 
 ## Bài viết mới nhất
 
+- [TSW vô địch LCP 2026 Split 3, thắng CFO 3-0 dự Worlds](https://techvision.click/articles/tsw-vo-dich-lcp-2026-split-3-thang-cfo-3-0-hat-giong-worlds.html)
+- [VTVgo The Next ra mắt: gói One VTV MAX có gì, xem ở đâu](https://techvision.click/articles/vtvgo-the-next-ra-mat-7-9-2026-goi-one-vtv-max-co-gi.html)
 - [Xiaomi Pad 9 Pro Max ra mắt: màn 13,3 inch, pin 12.000mAh](https://techvision.click/articles/xiaomi-pad-9-pro-max-ra-mat-man-13-3-inch-pin-12000mah-2026.html)
 - [Điện thoại 2026: RAM 16GB biến mất, RAM 4GB trở lại](https://techvision.click/articles/dien-thoai-2026-ram-16gb-bien-mat-ram-4gb-tro-lai.html)
 - [Huawei Mate XT 2 gập ba ra mắt: giá, chip Kirin 9050 Pro](https://techvision.click/articles/huawei-mate-xt-2-gap-ba-ra-mat-gia-kirin-9050-pro-2026.html)
@@ -43,8 +45,6 @@
 - [Nâng cấp RAM, SSD cho laptop cũ 2026: giá bao nhiêu, có đáng?](https://techvision.click/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html)
 - [IFA 2026 khai mạc 4/9: Xiaomi lần đầu dự, Samsung vắng mặt](https://techvision.click/articles/ifa-2026-berlin-4-9-xiaomi-lan-dau-du-samsung-vang-mat.html)
 - [Xiaomi 18 Pro ra mắt tháng 9: cấu hình, giá, có về Việt Nam?](https://techvision.click/articles/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.html)
-- [Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?](https://techvision.click/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html)
-- [Nên mua iPhone 17 hay đợi iPhone 18? Câu trả lời thẳng](https://techvision.click/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html)
 
 ## Smartphone (68 bài)
 
@@ -268,8 +268,9 @@
 - [macOS 27: sửa Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
 - [RTX 5090 Ti 48GB GDDR7: thông số, hiệu năng, ngày ra mắt dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
 
-## Gaming (11 bài)
+## Gaming (12 bài)
 
+- [TSW vô địch LCP 2026 Split 3, thắng CFO 3-0 dự Worlds](https://techvision.click/articles/tsw-vo-dich-lcp-2026-split-3-thang-cfo-3-0-hat-giong-worlds.html)
 - [LCP Split 3: TSW vào tuần chung kết, lịch thi đấu 29-30/8](https://techvision.click/articles/lcp-2026-split-3-tuan-chung-ket-29-30-8-tsw-gam-mvk.html)
 - [Esports Nations Cup hoãn sang 11/2027, tuyển Việt Nam chờ](https://techvision.click/articles/esports-nations-cup-hoan-sang-11-2027-tuyen-viet-nam.html)
 - [LCP 2026 Split 3 Playoffs: lịch thi đấu và cửa Worlds](https://techvision.click/articles/lcp-2026-split-3-playoffs-lich-thi-dau-cua-worlds-gam-mvk.html)
@@ -282,8 +283,9 @@
 - [Pulsar PCMK3 HE về Việt Nam: bàn phím Hall Effect 8K](https://techvision.click/articles/pulsar-pcmk3-he-ban-phim-hall-effect-viet-nam-2026.html)
 - [Sony khai tử đĩa vật lý PlayStation từ năm 2028](https://techvision.click/articles/sony-khai-tu-dia-vat-ly-playstation-tu-2028.html)
 
-## Internet (8 bài)
+## Internet (9 bài)
 
+- [VTVgo The Next ra mắt: gói One VTV MAX có gì, xem ở đâu](https://techvision.click/articles/vtvgo-the-next-ra-mat-7-9-2026-goi-one-vtv-max-co-gi.html)
 - [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
 - [YouTube đổi cách tính view từ 24/8: số tăng, tiền không tăng](https://techvision.click/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html)
 - [Google reCAPTCHA cử chỉ tay: quét bàn tay chống bot AI](https://techvision.click/articles/google-recaptcha-cu-chi-tay-quet-ban-tay-chong-bot-ai-2026.html)
