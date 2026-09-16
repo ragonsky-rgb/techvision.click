@@ -4,7 +4,7 @@
 dòng "cắt dán giấy kiểu Vox" có làm được bằng công cụ đang có không, tốn bao nhiêu, vướng ở đâu.
 
 **Trạng thái: DỰNG XONG 16/9, CHƯA đăng, chờ anh Long duyệt.**
-Bản cuối: `~/techvision-video-kit/out/ceo/lich-su-ceo-apple-final.mp4` - 33,60 giây, 1080x1920, 21 MB.
+Bản cuối: `~/techvision-video-kit/out/ceo/lich-su-ceo-apple-final.mp4` - 34,90 giây, 1080x1920, 22 MB.
 Dựng lại: `python3 scripts/build_ceo.py voice|motion|base|caps|final` trong kit.
 
 ## Vì sao được dùng Flow cho video này
@@ -61,12 +61,12 @@ Và từ ngày 1/9/2026, John Ternus là CEO thứ 8 của Apple.
 | Nhịp | Mốc giọng | Hình (đầu khung) | Chuyển động |
 |---|---|---|---|
 | 1 | 0,00 - 4,63 | "8 CEOs", táo đỏ, 8 ghế văn phòng, "1977 - 2026" | 8 ghế bật lên lần lượt, đẩy máy chậm |
-| 2 | 4,63 - 10,38 | "1977", nhà để xe, máy tính cá nhân, 2 bảng tên | lia phải, màn hình sáng lên, bảng tên trượt vào |
-| 3 | 10,38 - 16,58 | "1983", chai soda, máy tính, "COCA-COLA AD" | chai nghiêng, bọt giấy nổi lên, màn hình sáng |
-| 4 | 16,58 - 19,60 | "1993", mũi tên đỏ lao xuống, Spindler + Amelio | mũi tên bắn xuống, mẩu báo văng ra, rung máy |
-| 5 | 19,60 - 25,61 | "1997", máy tính "hello", áo len, dấu INTERIM CEO | màn hình bật, kim tuyến rơi, dấu đóng xuống |
-| 6 | 25,61 - 27,45 | "15 YEARS", dãy điện thoại 2011 - 2026, TIM COOK | dãy máy cao dần từ trái sang phải |
-| 7 | 27,45 - 33,62 | "2026", JOHN TERNUS, thước cặp, dấu CEO No.8 | tách lớp giấy, dấu sáp xoay nhẹ, đẩy máy |
+| 2 | 4,63 - 11,07 | "1977", nhà để xe, máy tính cá nhân, 2 bảng tên | lia phải, màn hình sáng lên, bảng tên trượt vào |
+| 3 | 11,07 - 17,56 | "1983", chai soda, máy tính, "COCA-COLA AD" | chai nghiêng, bọt giấy nổi lên, màn hình sáng |
+| 4 | 17,56 - 20,59 | "1993", mũi tên đỏ lao xuống, Spindler + Amelio | mũi tên bắn xuống, mẩu báo văng ra, rung máy |
+| 5 | 20,59 - 26,90 | "1997", máy tính "hello", áo len, dấu INTERIM CEO | màn hình bật, kim tuyến rơi, dấu đóng xuống |
+| 6 | 26,90 - 28,74 | "15 YEARS", dãy điện thoại 2011 - 2026, TIM COOK | dãy máy cao dần từ trái sang phải |
+| 7 | 28,74 - 34,90 | "2026", JOHN TERNUS, thước cặp, dấu CEO No.8 | tách lớp giấy, dấu sáp xoay nhẹ, đẩy máy |
 
 ## Bảng kê nguồn
 
@@ -106,20 +106,13 @@ Và từ ngày 1/9/2026, John Ternus là CEO thứ 8 của Apple.
    phải năm. Vì clip Flow dài 8 giây mà nhịp dài nhất mới 6,2 giây nên **sửa giọng không phải dựng
    lại cảnh nào**, chỉ chạy lại `voice` rồi `motion|base|caps|final`.
 
-## Cách đọc năm cho giọng TTS (anh Long chốt 16/09/2026)
+## Cách đọc năm
 
-| Năm | Viết trong kịch bản đọc |
-|---|---|
-| 1977 | `một chín bảy bảy` |
-| 1981 | `một chín tám mốt` |
-| 1983 | `một chín tám ba` |
-| 1997 | `một chín chín bảy` |
-| 2011 | `hai nghìn không trăm mười một` |
-| 2026 | `hai nghìn không trăm hai mươi sáu` |
-| ngày 1/9 | `ngày mùng một tháng chín` |
-
-**Luật: 19xx đọc rời từng số, 20xx đọc đầy đủ.** Tuyệt đối không rút gọn thành "năm tám mươi mốt",
-"năm chín mươi bảy" - nghe thành số thứ tự. Phụ đề vẫn giữ số (`1977`, `2026`).
+Đã tách ra thành luật chung cho mọi video giọng máy: **`docs/video/tts-cach-doc-so.md`**.
+Tóm tắt: **19xx = hai số đầu đọc rời, hai số cuối đọc thành số** (`một chín bảy mươi bảy`),
+**20xx đọc đầy đủ** (`hai nghìn không trăm mười một`). Anh Long chốt 16/09 sau khi nghe 4 mẫu.
+Video này đã qua 3 bản giọng: bản 1 rút gọn còn "năm tám mươi mốt" (sai hẳn), bản 2 đọc rời cả
+bốn số "một chín bảy bảy" (nghe như số điện thoại), bản 3 là bản đạt.
 
 ## Gói đăng (CHƯA đăng, chờ duyệt)
 

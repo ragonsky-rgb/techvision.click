@@ -110,6 +110,11 @@ bắc cầu bằng `curl` JSON-RPC vào cổng đó.
 - Ngày tháng viết đủ, không viết tắt.
 - Giao cho anh Long **một khối copy trơn**, không chú thích chen giữa, để anh dán vào máy nhắc chữ.
 
+**Khi GIỌNG MÁY đọc (OmniVoice) thì ngược lại: phiên âm hết số thành chữ.**
+Bảng tra bắt buộc đọc trước: **`docs/video/tts-cach-doc-so.md`** - năm, tiền, đơn vị, tên riêng
+nước ngoài, mỗi dòng là một lỗi đã nghe thấy thật rồi mới sửa. Lỗi hay gặp nhất: rút gọn năm còn
+hai chữ số ("năm tám mươi mốt") - giọng máy đọc ra thành số thứ tự. Phụ đề vẫn giữ số gốc.
+
 ---
 
 ## 5. Bộ khuôn đồ họa số liệu
