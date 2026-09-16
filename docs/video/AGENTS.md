@@ -52,6 +52,14 @@ bắc cầu bằng `curl` JSON-RPC vào cổng đó.
 
 1. **KHÔNG dùng Flow hay bất kỳ công cụ AI sinh video/sinh hình.** Bỏ hẳn từ 13/08/2026. Mọi
    đoạn nhắc tới Flow trong `docs/prompt-app-video-tin-tuc.md` đã hết hiệu lực.
+   **NGOẠI LỆ DUY NHẤT, anh Long mở ngày 15/09/2026: dòng video "cắt dán giấy kiểu Vox".**
+   Chỉ dòng này được dùng Flow (Nano Banana 2 vẽ poster, Omni 1.1 Flash làm động), kèm 4 điều
+   kiện: không vẽ mặt người thật; mốc và số liệu kiểm tận gốc; giọng vẫn là OmniVoice cục bộ,
+   không dùng giọng AI của Flow; không cài tiện ích bên thứ ba, chạy trong Chrome của anh Long.
+   Mô tả khi đăng **bắt buộc ghi rõ hình dựng bằng AI**. **Video tin tức thường vẫn cấm như cũ.**
+   Bản mẫu đầu tiên và toàn bộ bẫy: `docs/video/2026-09-16-lich-su-ceo-apple.md`.
+   Bẫy quan trọng nhất: **Flow chặn cả ẢNH lẫn CÂU LỆNH có tên người nổi tiếng**, nên đừng in
+   tên người thật lên poster của nhịp cần làm động - để phụ đề nói tên.
 2. **Nguồn media hợp lệ:** kênh chính hãng (có credit), kho CC0 (Pexels/Pixabay/Unsplash/
    Wikimedia), ảnh chụp màn hình chính techvision.click, và cảnh anh Long tự quay.
    **Nới ngày 25/08/2026:** ảnh dùng **bên trong video** thì lấy thoải mái, kể cả từ trang báo,
