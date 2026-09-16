@@ -10,28 +10,38 @@ Mỗi dòng dưới đây là một lỗi đã nghe thấy thật rồi mới s�
 
 ## 1. Năm
 
-**LUẬT (anh Long chốt 16/09/2026, chọn mẫu 3/4):**
-**19xx = hai số đầu đọc RỜI, hai số cuối đọc THÀNH SỐ. 20xx đọc ĐẦY ĐỦ.**
+**LUẬT (anh Long chốt 16/09/2026): MỌI NĂM ĐỌC ĐẦY ĐỦ**, 19xx cũng như 20xx.
 
 | Năm | Viết trong kịch bản đọc |
 |---|---|
-| 1977 | `một chín bảy mươi bảy` |
-| 1981 | `một chín tám mươi mốt` |
-| 1983 | `một chín tám mươi ba` |
-| 1985 | `một chín tám mươi lăm` |
-| 1997 | `một chín chín mươi bảy` |
+| 1977 | `một nghìn chín trăm bảy mươi bảy` |
+| 1981 | `một nghìn chín trăm tám mươi mốt` |
+| 1983 | `một nghìn chín trăm tám mươi ba` |
+| 1985 | `một nghìn chín trăm tám mươi lăm` |
+| 1997 | `một nghìn chín trăm chín mươi bảy` |
 | 2011 | `hai nghìn không trăm mười một` |
 | 2026 | `hai nghìn không trăm hai mươi sáu` |
 | ngày 1/9 | `ngày mùng một tháng chín` |
 
 **CẤM tuyệt đối:** rút gọn năm còn hai chữ số cuối - `tới năm tám mươi mốt`, `năm tám mươi ba`,
-`năm chín mươi bảy`. Giọng máy đọc ra thành **số thứ tự**, không ra năm. Đây là lỗi của bản 1
-video "Lịch sử CEO Apple" (16/09/2026).
+`năm chín mươi bảy`. Giọng máy đọc ra thành **số thứ tự**, không ra năm.
 
-**Đã loại:** `một chín bảy bảy` (đọc rời cả 4 số, nghe như đọc số điện thoại),
-`một nghìn chín trăm bảy mươi bảy` (đúng nhưng dài, chậm nhịp), `mười chín bảy mươi bảy`
-(bắt chước lối tiếng Anh, không tự nhiên). 4 mẫu giữ ở
+**Đã loại, đừng thử lại:**
+
+| Cách viết | Vì sao loại |
+|---|---|
+| `năm tám mươi mốt` | nghe thành số thứ tự, không ra năm |
+| `một chín bảy bảy` | rời cả 4 số, nghe như đọc số điện thoại |
+| `một chín bảy mươi bảy` | vẫn lệch nhịp so với cách đọc 20xx |
+| `mười chín bảy mươi bảy` | bắt chước lối tiếng Anh, không tự nhiên |
+
+Video "Lịch sử CEO Apple" đi qua **4 bản giọng** mới đúng. 4 mẫu thử giữ ở
 `~/techvision-video-kit/out/ceo/nam_test/mau-nam-1..4.m4a`.
+
+**Giá phải trả về thời lượng:** đọc đầy đủ dài hơn cách rút gọn khoảng **0,6 giây mỗi năm**.
+Câu có hai năm (1977 và 1981) nở từ 5,8 lên **7,7 giây**. Clip Flow xuất cố định 8 giây, nên
+**một câu chứa tối đa 2 năm** thì còn vừa; ba năm trở lên phải tách câu, hoặc dựng clip nền
+ở mức 10 giây.
 
 **Cách thử khi gặp chữ mới:** dựng nguyên câu chứ đừng cắt riêng con số, và **tua `atempo=1.1`**
 đúng như bản dựng - giọng máy đọc số đứng một mình khác hẳn khi số nằm giữa câu.
