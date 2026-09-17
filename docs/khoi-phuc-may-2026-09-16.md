@@ -135,7 +135,7 @@ Remotion.** Hai lần đơ máy ngày 16/09 đều do chạy dồn.
 | Việc | Trạng thái |
 |---|---|
 | Video **Lịch sử CEO Apple** bản cuối, 37,56 giây | dựng xong, **chưa đăng**, chờ anh duyệt. Gói đăng: techvision-click `docs/video/2026-09-16-lich-su-ceo-apple.md` |
-| Video **iPhone 18 Pro Max giá 3 nước** bản 3, 51,72 giây | dựng xong, **chưa đăng**. Bài web đi kèm **hẹn lịch 28/9** (đang noindex) nên nên đăng video sau 28/9 |
+| Video **iPhone 18 Pro Max giá 3 nước** bản 3, 51,72 giây | dựng xong, **chưa đăng**. Bài web đi kèm **đã dời lên 5h30 18/9** (17/9), đăng video sau khi link lên sóng |
 | Video **KOC CellphoneS** | chờ anh Long tự quay. Kịch bản: `docs/video/koc/2026-09-15-cellphones-len-doi-iphone-13-mini.md` |
 | Tên riêng "Markkula", "Ternus" trong video CEO | Whisper nghe lệch, chờ anh nghe lại |
 | Bài OPPO Find X10 | cập nhật giá chính thức quanh 22/9, bài lên 24/9 |

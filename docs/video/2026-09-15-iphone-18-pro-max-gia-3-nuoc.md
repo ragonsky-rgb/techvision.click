@@ -1,6 +1,6 @@
 # Gói sản xuất video: iPhone 18 Pro Max, Việt Nam so với Mỹ và Singapore (soạn 15/09/2026)
 
-Bài nguồn trên site (hẹn đăng 28/9, link mở được nhưng chưa lên blog):
+Bài nguồn trên site (hẹn đăng **5h30 ngày 18/9** - dời từ 28/9 ngày 17/9 để video đăng được đúng ngày máy về tay khách):
 - https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html
 
 **Trạng thái: DỰNG XONG 15/9, chờ anh Long duyệt trước khi đăng.**
