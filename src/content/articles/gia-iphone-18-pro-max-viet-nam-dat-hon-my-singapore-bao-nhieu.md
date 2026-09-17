@@ -5,8 +5,8 @@ description: "So giá iPhone 18 Pro Max chính hãng Việt Nam 41,999 triệu v
 keywords: "giá iphone 18 pro max việt nam, iphone 18 pro max giá bao nhiêu, iphone 18 pro max xách tay, iphone 18 pro max mỹ, so sánh giá iphone 18, iphone 18 pro max singapore"
 category: "Apple"
 type: "tin-tuc"
-datePublished: "2026-09-28T08:30:00+07:00"
-dateModified: "2026-09-28T08:30:00+07:00"
+datePublished: "2026-09-18T05:30:00+07:00"
+dateModified: "2026-09-18T05:30:00+07:00"
 noindex: true
 scheduled: true
 deck: "Mỗi mùa iPhone, câu hỏi quay lại đúng một kiểu: máy bán ở Việt Nam đắt hơn Mỹ bao nhiêu, và có nên nhờ người xách tay về. Năm nay có đủ số liệu để trả lời gọn, vì Việt Nam nằm trong đợt mở bán đầu tiên và bảng giá chính hãng đã công bố đầy đủ bốn bậc dung lượng."

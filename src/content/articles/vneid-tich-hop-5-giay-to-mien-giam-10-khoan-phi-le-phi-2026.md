@@ -5,8 +5,8 @@ description: "Từ 15/8/2026 tới 28/2/2027, công dân có VNeID mức độ 2
 keywords: "VNeID miễn giảm phí, tích hợp 5 giấy tờ VNeID, VNeID mức độ 2, giảm lệ phí trước bạ, Nghị quyết 66.22/2026/NQ-CP, lệ phí đăng ký xe, công dân số"
 category: "Internet"
 type: "tin-tuc"
-datePublished: "2026-09-18T09:00:00+07:00"
-dateModified: "2026-09-18T09:00:00+07:00"
+datePublished: "2026-09-28T09:00:00+07:00"
+dateModified: "2026-09-28T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Một chính sách có hiệu lực từ giữa tháng 8/2026 gắn trực tiếp việc dùng ứng dụng VNeID với tiền: tích hợp đủ 5 loại giấy tờ và làm thủ tục trực tuyến thì được miễn hoặc giảm 10 khoản phí, lệ phí. Mức giảm cao nhất áp dụng cho lệ phí trước bạ và lệ phí đăng ký xe, hai khoản thường lên tới hàng triệu đồng. Bài viết liệt kê điều kiện, danh mục ưu đãi và những giới hạn dễ bị bỏ qua."
