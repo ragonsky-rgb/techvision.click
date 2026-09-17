@@ -230,7 +230,7 @@
 - [Apple Watch Series 12 và Ultra 4: ra mắt 9/9, giá bao nhiêu?](https://techvision.click/articles/apple-watch-series-12-ultra-4-ra-mat-9-9-2026-gia-viet-nam.html)
 - [Nên mua iPhone 17 hay đợi iPhone 18? Câu trả lời thẳng](https://techvision.click/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html)
 - [iPhone 18 ra mắt khi nào, bao giờ về Việt Nam?](https://techvision.click/articles/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.html)
-- [Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
+- [Mac mini M6 giá 24,99 triệu tại Việt Nam: cấu hình, khi nào bán?](https://techvision.click/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html)
 - [iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra](https://techvision.click/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html)
 - [Apple cho thuê iPhone giá từ 17,99 USD/tháng qua Klarna](https://techvision.click/articles/apple-cho-thue-iphone-upgrade-klarna-gia-17-99-usd-thang-2026.html)
 - [Trung Quốc duyệt Apple Intelligence, Alibaba và Baidu góp sức](https://techvision.click/articles/apple-intelligence-trung-quoc-phe-duyet-alibaba-qwen-baidu-2026.html)
@@ -270,7 +270,7 @@
 - [Đánh Giá MacBook Neo $599 Sau 2 Tháng: AI Vibe Coding Thực Tế](https://techvision.click/articles/macbook-neo-599-review-sau-2-thang-ai-vibe-coding.html)
 - [Computex 2026: AMD Ryzen AI 400, Snapdragon X2 Elite, ASUS ROG](https://techvision.click/articles/computex-2026-amd-ryzen-ai-400-qualcomm-snapdragon-x2-elite-asus-rog.html)
 - [macOS 27: sửa Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
-- [RTX 5090 Ti 48GB GDDR7: thông số, hiệu năng, ngày ra mắt dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
+- [RTX 5090 Ti 48GB chưa ra mắt: thông số tin đồn, giá dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
 
 ## Internet (13 bài)
 

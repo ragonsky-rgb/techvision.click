@@ -1,13 +1,13 @@
 ---
 slug: "apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026"
-title: "Apple ra mắt M6 và M5 Ultra, Mac mini tại Việt Nam từ 24,99 triệu"
-description: "Apple công bố chip M6 tiến trình 2nm và M5 Ultra kiến trúc bốn đế ngày 25/8/2026. Mac mini M6 tại Việt Nam từ 24,999 triệu, Mac Studio M5 Ultra từ 159,999 triệu."
+title: "Mac mini M6 giá 24,99 triệu tại Việt Nam: cấu hình, khi nào bán?"
+description: "Mac mini M6 giá từ 24,999 triệu tại Việt Nam, chip 2nm, CPU và GPU 12 lõi. Cập nhật 16/9: Apple vẫn ghi theo dõi để biết khi có hàng."
 keywords: "Apple M6, M5 Ultra, Mac mini M6 giá, Mac Studio M5 Ultra, chip 2nm Apple, giá Mac mini Việt Nam, Apple silicon 2026, M5 Pro, M5 Max"
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-08-25T18:30:00+07:00"
-dateModified: "2026-08-25T18:30:00+07:00"
-deck: "Apple vừa công bố cùng lúc hai con chip mở ra hai hướng khác nhau: M6 là chip tiến trình 2 nanomet đầu tiên của hãng, còn M5 Ultra là lần đầu Apple ghép bốn đế silicon vào một con chip. Cả hai lên kệ trong Mac mini và Mac Studio thế hệ mới, và giá bán tại Việt Nam đã xuất hiện trên trang Apple Việt Nam ngay trong ngày."
+dateModified: "2026-09-16T22:52:00+07:00"
+deck: "Mac mini M6 có giá từ 24,999 triệu đồng tại Việt Nam, dùng chip 2 nanomet với CPU và GPU 12 lõi. Apple Việt Nam hiện vẫn để trạng thái theo dõi để biết khi có hàng, chưa công bố ngày mở bán cụ thể."
 heroImage: "https://www.apple.com/newsroom/images/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/article/Apple-M6-and-M5-Ultra-hero-260825_big.jpg.large_2x.jpg"
 heroAlt: "Chip Apple M6 và M5 Ultra công bố ngày 25/8/2026"
 heroCaption: "M6 và M5 Ultra là hai hướng đi khác nhau trong cùng một ngày công bố. Nguồn: Apple"
@@ -16,8 +16,8 @@ tldr: "Ngày <strong>25/8/2026</strong>, Apple công bố <strong>M6</strong> v�
 tags: ["Apple", "AppleSilicon", "MacMini", "MacStudio"]
 about: ["Apple M6", "Apple M5 Ultra", "Mac mini", "Mac Studio", "Apple silicon"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường máy tính và chip xử lý, tư vấn cấu hình cho người dùng Việt Nam nhiều năm."
-sourceUrl: "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
-sourceName: "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute"
+sourceUrl: "https://www.apple.com/vn/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
+sourceName: "Apple ra mắt Mac mini mới với chip M6 và M5 Pro"
 sourceDomains: "apple.com · apple.com/vn · engadget.com"
 stats:
   - { num: "2nm", label: "Tiến trình của M6, lần đầu tiên trên chip Apple" }
@@ -44,6 +44,10 @@ featured: true
 ---
 
 Apple vừa công bố hai con chip mới trong cùng một ngày, nhưng chúng đi theo hai hướng hoàn toàn khác nhau. M6 là con chip đầu tiên của Apple dùng tiến trình 2 nanomet, đặt vào chiếc máy để bàn rẻ nhất của hãng. M5 Ultra thì là lần đầu Apple ghép bốn đế silicon vào chung một con chip, dành cho nhóm người dùng chuyên nghiệp nhất. Điểm đáng chú ý với người mua trong nước là giá bán tại Việt Nam đã lên trang Apple Việt Nam ngay trong ngày công bố.
+
+<div class="art-callout">
+  🟢 <strong>Cập nhật 16/9/2026:</strong> <a href="https://www.apple.com/vn/mac-mini/" target="_blank" rel="noopener">Apple Việt Nam</a> vẫn hiển thị Mac mini M6 từ 24.999.000 đồng và trạng thái “Theo dõi để biết khi có hàng”. Hãng chưa công bố ngày mở bán cụ thể tại Việt Nam.
+</div>
 
 <div class="spec-box">
   <div class="spec-box-title">📋 M6 và M5 Ultra · Số liệu nhanh</div>
