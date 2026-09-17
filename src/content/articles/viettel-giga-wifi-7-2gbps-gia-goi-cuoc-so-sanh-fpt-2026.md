@@ -7,8 +7,6 @@ category: "Internet"
 type: "tin-tuc"
 datePublished: "2026-09-17T09:00:00+07:00"
 dateModified: "2026-09-17T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Cuộc đua internet gia đình tại Việt Nam vừa chuyển mốc từ 1Gbps lên 2Gbps, và lần này điểm khác biệt không chỉ nằm ở tốc độ. Từ ngày 28/8/2026, Viettel bán gói 2Gbps kèm trọn bộ thiết bị Wi-Fi 7 với giá 485.000 đồng mỗi tháng, thấp hơn đáng kể so với gói cùng tốc độ của FPT. Bài viết đối chiếu giá, thiết bị đi kèm và trả lời câu hỏi thực tế hơn: nhà nào thật sự cần tới 2Gbps."
 heroImage: "https://i.ytimg.com/vi/K0uBYtuDNio/maxresdefault.jpg"
 heroAlt: "Bộ phát Wi-Fi 7 đặt trong phòng khách gia đình, minh họa gói internet tốc độ cao tại Việt Nam"
