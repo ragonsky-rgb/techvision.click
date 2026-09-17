@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 259
-- **Cập nhật:** 2026-09-17 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 260
+- **Cập nhật:** 2026-09-18 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Giá iPhone 18 Pro Max Việt Nam đắt hơn Mỹ bao nhiêu?](https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html)
 - [Giá gói internet 2Gbps: Viettel GIGA 485.000đ, FPT 999.000đ](https://techvision.click/articles/viettel-giga-wifi-7-2gbps-gia-goi-cuoc-so-sanh-fpt-2026.html)
 - [TSW vô địch LCP 2026 Split 3, thắng CFO 3-0 dự Worlds](https://techvision.click/articles/tsw-vo-dich-lcp-2026-split-3-thang-cfo-3-0-hat-giong-worlds.html)
 - [VTVgo The Next ra mắt: gói One VTV MAX có gì, xem ở đâu](https://techvision.click/articles/vtvgo-the-next-ra-mat-7-9-2026-goi-one-vtv-max-co-gi.html)
@@ -44,7 +45,6 @@
 - [Sự kiện Apple 9/9/2026: mấy giờ, xem ở đâu, có gì](https://techvision.click/articles/su-kien-apple-9-9-2026-xem-truc-tiep-may-gio-co-gi.html)
 - [Học sinh học AI từ năm học 2026-2027: học gì, bao nhiêu tiết?](https://techvision.click/articles/hoc-sinh-hoc-ai-tu-nam-hoc-2026-2027-khung-noi-dung-bo-gddt.html)
 - [Nâng cấp RAM, SSD cho laptop cũ 2026: giá bao nhiêu, có đáng?](https://techvision.click/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html)
-- [IFA 2026 khai mạc 4/9: Xiaomi lần đầu dự, Samsung vắng mặt](https://techvision.click/articles/ifa-2026-berlin-4-9-xiaomi-lan-dau-du-samsung-vang-mat.html)
 
 ## Smartphone (68 bài)
 
@@ -216,8 +216,9 @@
 - [Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ](https://techvision.click/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html)
 - [Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc](https://techvision.click/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html)
 
-## Apple (23 bài)
+## Apple (24 bài)
 
+- [Giá iPhone 18 Pro Max Việt Nam đắt hơn Mỹ bao nhiêu?](https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html)
 - [iPhone 18 Pro giá chính thức 1.199 USD, có gì mới?](https://techvision.click/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html)
 - [iPhone Duo ra mắt: giá 1.999 USD, màn gập 7,6 inch](https://techvision.click/articles/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.html)
 - [AirPods 5 ra mắt 9/9: hai bản, chip H3, giá dự kiến](https://techvision.click/articles/airpods-5-ra-mat-9-9-2026-chip-h3-hai-phien-ban.html)
