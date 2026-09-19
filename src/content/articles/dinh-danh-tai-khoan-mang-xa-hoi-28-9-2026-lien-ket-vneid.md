@@ -7,8 +7,6 @@ category: "Internet"
 type: "tin-tuc"
 datePublished: "2026-09-19T09:00:00+07:00"
 dateModified: "2026-09-19T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Từ ngày 28/9/2026, tài khoản mạng xã hội tại Việt Nam bước vào diện phải liên kết với tài khoản định danh điện tử. Quy định nằm ở Điều 19 Nghị định 320/2026/NĐ-CP, và điều đáng chú ý không phải là ngày hiệu lực mà là hạn chót dành cho hàng chục triệu tài khoản đã tạo từ trước: 31/12/2026. Bài viết bóc tách xem ai thuộc diện, xác thực bằng cách nào, và những gì luật không cho phép nền tảng đòi hỏi ở người dùng."
 heroImage: "https://i.ytimg.com/vi/1c4kGuBKV2w/maxresdefault.jpg"
 heroAlt: "Dinh danh tai khoan mang xa hoi lien ket VNeID tu 28/9/2026"

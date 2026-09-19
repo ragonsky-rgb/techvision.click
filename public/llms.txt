@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 260
-- **Cập nhật:** 2026-09-18 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 261
+- **Cập nhật:** 2026-09-19 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Định danh tài khoản mạng xã hội 28/9: ai phải liên kết VNeID](https://techvision.click/articles/dinh-danh-tai-khoan-mang-xa-hoi-28-9-2026-lien-ket-vneid.html)
 - [Giá iPhone 18 Pro Max Việt Nam đắt hơn Mỹ bao nhiêu?](https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html)
 - [Giá gói internet 2Gbps: Viettel GIGA 485.000đ, FPT 999.000đ](https://techvision.click/articles/viettel-giga-wifi-7-2gbps-gia-goi-cuoc-so-sanh-fpt-2026.html)
 - [TSW vô địch LCP 2026 Split 3, thắng CFO 3-0 dự Worlds](https://techvision.click/articles/tsw-vo-dich-lcp-2026-split-3-thang-cfo-3-0-hat-giong-worlds.html)
@@ -44,7 +45,6 @@
 - [Redmi Note 17 giá từ 6,99 triệu tại VN, pin 10.000mAh](https://techvision.click/articles/redmi-note-17-series-ra-mat-viet-nam-gia-pin-10000mah-2026.html)
 - [Sự kiện Apple 9/9/2026: mấy giờ, xem ở đâu, có gì](https://techvision.click/articles/su-kien-apple-9-9-2026-xem-truc-tiep-may-gio-co-gi.html)
 - [Học sinh học AI từ năm học 2026-2027: học gì, bao nhiêu tiết?](https://techvision.click/articles/hoc-sinh-hoc-ai-tu-nam-hoc-2026-2027-khung-noi-dung-bo-gddt.html)
-- [Nâng cấp RAM, SSD cho laptop cũ 2026: giá bao nhiêu, có đáng?](https://techvision.click/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html)
 
 ## Smartphone (68 bài)
 
@@ -284,8 +284,9 @@
 - [Pulsar PCMK3 HE về Việt Nam: bàn phím Hall Effect 8K](https://techvision.click/articles/pulsar-pcmk3-he-ban-phim-hall-effect-viet-nam-2026.html)
 - [Sony khai tử đĩa vật lý PlayStation từ năm 2028](https://techvision.click/articles/sony-khai-tu-dia-vat-ly-playstation-tu-2028.html)
 
-## Internet (10 bài)
+## Internet (11 bài)
 
+- [Định danh tài khoản mạng xã hội 28/9: ai phải liên kết VNeID](https://techvision.click/articles/dinh-danh-tai-khoan-mang-xa-hoi-28-9-2026-lien-ket-vneid.html)
 - [Giá gói internet 2Gbps: Viettel GIGA 485.000đ, FPT 999.000đ](https://techvision.click/articles/viettel-giga-wifi-7-2gbps-gia-goi-cuoc-so-sanh-fpt-2026.html)
 - [VTVgo The Next ra mắt: gói One VTV MAX có gì, xem ở đâu](https://techvision.click/articles/vtvgo-the-next-ra-mat-7-9-2026-goi-one-vtv-max-co-gi.html)
 - [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
