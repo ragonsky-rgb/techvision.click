@@ -7,8 +7,6 @@ category: "Internet"
 type: "tin-tuc"
 datePublished: "2026-09-21T08:30:00+07:00"
 dateModified: "2026-09-21T08:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Lực lượng Công an vừa công bố danh sách 25 kịch bản lừa đảo trên không gian mạng trong năm 2026, gom thành 5 nhóm thủ đoạn. Điểm chung của cả 5 nhóm là chúng không còn dựa vào việc nạn nhân nhẹ dạ, mà dựa vào công nghệ: AI dựng giọng, deepfake dựng mặt, mã QR độc hại và phần mềm điều khiển từ xa. Bài này mô tả từng nhóm hoạt động thế nào, dấu hiệu nhận ra sớm, và những việc cần làm ngay nếu đã lỡ bấm vào link hoặc chuyển tiền."
 heroImage: "https://i.ytimg.com/vi/2nPDvlIIs6k/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/25-kich-ban-lua-dao-mang-2026-cong-an-canh-bao-cach-phong.jpg"

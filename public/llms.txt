@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 261
-- **Cập nhật:** 2026-09-19 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 263
+- **Cập nhật:** 2026-09-21 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,8 @@
 
 ## Bài viết mới nhất
 
+- [25 kịch bản lừa đảo mạng 2026: nhận biết và cách phòng](https://techvision.click/articles/25-kich-ban-lua-dao-mang-2026-cong-an-canh-bao-cach-phong.html)
+- [Internet Việt Nam vào top 10 thế giới: nhanh cỡ nào?](https://techvision.click/articles/internet-viet-nam-top-10-the-gioi-2026-toc-do-di-dong-co-dinh.html)
 - [Định danh tài khoản mạng xã hội 28/9: ai phải liên kết VNeID](https://techvision.click/articles/dinh-danh-tai-khoan-mang-xa-hoi-28-9-2026-lien-ket-vneid.html)
 - [Giá iPhone 18 Pro Max Việt Nam đắt hơn Mỹ bao nhiêu?](https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html)
 - [Giá gói internet 2Gbps: Viettel GIGA 485.000đ, FPT 999.000đ](https://techvision.click/articles/viettel-giga-wifi-7-2gbps-gia-goi-cuoc-so-sanh-fpt-2026.html)
@@ -43,8 +45,6 @@
 - [AirPods 5 ra mắt 9/9: hai bản, chip H3, giá dự kiến](https://techvision.click/articles/airpods-5-ra-mat-9-9-2026-chip-h3-hai-phien-ban.html)
 - [iOS 27 ra mắt ngày nào, iPhone nào được cập nhật?](https://techvision.click/articles/ios-27-ra-mat-ngay-nao-iphone-nao-duoc-cap-nhat-2026.html)
 - [Redmi Note 17 giá từ 6,99 triệu tại VN, pin 10.000mAh](https://techvision.click/articles/redmi-note-17-series-ra-mat-viet-nam-gia-pin-10000mah-2026.html)
-- [Sự kiện Apple 9/9/2026: mấy giờ, xem ở đâu, có gì](https://techvision.click/articles/su-kien-apple-9-9-2026-xem-truc-tiep-may-gio-co-gi.html)
-- [Học sinh học AI từ năm học 2026-2027: học gì, bao nhiêu tiết?](https://techvision.click/articles/hoc-sinh-hoc-ai-tu-nam-hoc-2026-2027-khung-noi-dung-bo-gddt.html)
 
 ## Smartphone (68 bài)
 
@@ -269,6 +269,22 @@
 - [macOS 27: sửa Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
 - [RTX 5090 Ti 48GB GDDR7: thông số, hiệu năng, ngày ra mắt dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
 
+## Internet (13 bài)
+
+- [25 kịch bản lừa đảo mạng 2026: nhận biết và cách phòng](https://techvision.click/articles/25-kich-ban-lua-dao-mang-2026-cong-an-canh-bao-cach-phong.html)
+- [Internet Việt Nam vào top 10 thế giới: nhanh cỡ nào?](https://techvision.click/articles/internet-viet-nam-top-10-the-gioi-2026-toc-do-di-dong-co-dinh.html)
+- [Định danh tài khoản mạng xã hội 28/9: ai phải liên kết VNeID](https://techvision.click/articles/dinh-danh-tai-khoan-mang-xa-hoi-28-9-2026-lien-ket-vneid.html)
+- [Giá gói internet 2Gbps: Viettel GIGA 485.000đ, FPT 999.000đ](https://techvision.click/articles/viettel-giga-wifi-7-2gbps-gia-goi-cuoc-so-sanh-fpt-2026.html)
+- [VTVgo The Next ra mắt: gói One VTV MAX có gì, xem ở đâu](https://techvision.click/articles/vtvgo-the-next-ra-mat-7-9-2026-goi-one-vtv-max-co-gi.html)
+- [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
+- [YouTube đổi cách tính view từ 24/8: số tăng, tiền không tăng](https://techvision.click/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html)
+- [Google reCAPTCHA cử chỉ tay: quét bàn tay chống bot AI](https://techvision.click/articles/google-recaptcha-cu-chi-tay-quet-ban-tay-chong-bot-ai-2026.html)
+- [VssID giả mạo chứa mã độc: cách nhận biết và phòng tránh 2026](https://techvision.click/articles/canh-bao-vssid-gia-mao-ma-doc-chiem-quyen-dien-thoai-2026.html)
+- [Điện thoại Android nhiễm mã độc: 7 dấu hiệu và cách xử lý 2026](https://techvision.click/articles/dien-thoai-android-nhiem-ma-doc-dau-hieu-cach-xu-ly-2026.html)
+- [Google gắn nhãn quảng cáo tạo bằng AI: cách xem nguồn gốc](https://techvision.click/articles/google-gan-nhan-quang-cao-ai-how-this-ad-was-made-2026.html)
+- [VNeID 2026 thêm tiện ích: phản ánh lừa đảo, lý lịch tư pháp](https://techvision.click/articles/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.html)
+- [Starlink Việt Nam mở bán: giá cước từ 1,13 triệu/tháng](https://techvision.click/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html)
+
 ## Gaming (12 bài)
 
 - [TSW vô địch LCP 2026 Split 3, thắng CFO 3-0 dự Worlds](https://techvision.click/articles/tsw-vo-dich-lcp-2026-split-3-thang-cfo-3-0-hat-giong-worlds.html)
@@ -283,20 +299,6 @@
 - [MSI 2026 chung kết tổng BLG vs HLE: HLE vô địch 3-2](https://techvision.click/articles/msi-2026-chung-ket-tong-blg-hle-doi-dau-vuong-mien.html)
 - [Pulsar PCMK3 HE về Việt Nam: bàn phím Hall Effect 8K](https://techvision.click/articles/pulsar-pcmk3-he-ban-phim-hall-effect-viet-nam-2026.html)
 - [Sony khai tử đĩa vật lý PlayStation từ năm 2028](https://techvision.click/articles/sony-khai-tu-dia-vat-ly-playstation-tu-2028.html)
-
-## Internet (11 bài)
-
-- [Định danh tài khoản mạng xã hội 28/9: ai phải liên kết VNeID](https://techvision.click/articles/dinh-danh-tai-khoan-mang-xa-hoi-28-9-2026-lien-ket-vneid.html)
-- [Giá gói internet 2Gbps: Viettel GIGA 485.000đ, FPT 999.000đ](https://techvision.click/articles/viettel-giga-wifi-7-2gbps-gia-goi-cuoc-so-sanh-fpt-2026.html)
-- [VTVgo The Next ra mắt: gói One VTV MAX có gì, xem ở đâu](https://techvision.click/articles/vtvgo-the-next-ra-mat-7-9-2026-goi-one-vtv-max-co-gi.html)
-- [VNeID khóa tài khoản từ 28/9 nếu SIM không còn chính chủ](https://techvision.click/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html)
-- [YouTube đổi cách tính view từ 24/8: số tăng, tiền không tăng](https://techvision.click/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html)
-- [Google reCAPTCHA cử chỉ tay: quét bàn tay chống bot AI](https://techvision.click/articles/google-recaptcha-cu-chi-tay-quet-ban-tay-chong-bot-ai-2026.html)
-- [VssID giả mạo chứa mã độc: cách nhận biết và phòng tránh 2026](https://techvision.click/articles/canh-bao-vssid-gia-mao-ma-doc-chiem-quyen-dien-thoai-2026.html)
-- [Điện thoại Android nhiễm mã độc: 7 dấu hiệu và cách xử lý 2026](https://techvision.click/articles/dien-thoai-android-nhiem-ma-doc-dau-hieu-cach-xu-ly-2026.html)
-- [Google gắn nhãn quảng cáo tạo bằng AI: cách xem nguồn gốc](https://techvision.click/articles/google-gan-nhan-quang-cao-ai-how-this-ad-was-made-2026.html)
-- [VNeID 2026 thêm tiện ích: phản ánh lừa đảo, lý lịch tư pháp](https://techvision.click/articles/vneid-cap-nhat-2026-phan-anh-lua-dao-ly-lich-tu-phap-tien-ich-moi.html)
-- [Starlink Việt Nam mở bán: giá cước từ 1,13 triệu/tháng](https://techvision.click/articles/starlink-viet-nam-2026-gia-cuoc-toc-do-dang-ky-ai-nen-dung.html)
 
 ## Wearable (7 bài)
 
