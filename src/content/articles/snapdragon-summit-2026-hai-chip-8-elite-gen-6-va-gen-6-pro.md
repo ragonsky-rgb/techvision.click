@@ -7,8 +7,6 @@ category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-09-22T08:30:00+07:00"
 dateModified: "2026-09-22T08:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Qualcomm tổ chức Snapdragon Summit từ 22 tới 24/9/2026 tại Maui, Hawaii, và lần đầu tiên trong lịch sử dòng sản phẩm, hãng úp mở về hai con chip đầu bảng ra mắt cùng lúc thay vì một. Việc tách đôi nhóm cao cấp nghe như chuyện kỹ thuật của giới làm chip, nhưng nó chạm thẳng tới túi tiền người mua điện thoại: nó là cách các hãng chia lại bậc giá cho thế hệ máy đầu bảng năm sau. Bài này tách phần Qualcomm đã xác nhận khỏi phần còn là rò rỉ, và nói rõ chuyện này đổi gì tại thị trường Việt Nam."
 heroImage: "https://i.ytimg.com/vi/McN8sfNAcL4/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/snapdragon-summit-2026-hai-chip-8-elite-gen-6-va-gen-6-pro.jpg"

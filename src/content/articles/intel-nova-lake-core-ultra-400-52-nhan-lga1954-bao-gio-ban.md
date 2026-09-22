@@ -7,8 +7,6 @@ category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-09-22T09:00:00+07:00"
 dateModified: "2026-09-22T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Nova Lake là thế hệ chip máy bàn mà Intel đặt nhiều kỳ vọng nhất trong nhiều năm, với số nhân gấp đôi thế hệ hiện tại và một kiểu bộ nhớ đệm mới nhắm thẳng vào thế mạnh chơi game của AMD. Nhưng giữa lời hứa và ngày máy chạy được trong phòng khách nhà bạn là một lịch trình khá rối, kèm một chi tiết tốn tiền: socket mới, tức phải đổi cả bo mạch chủ."
 heroImage: "https://i.ytimg.com/vi/1b_PmTC9_Z8/maxresdefault.jpg"
 heroAlt: "Intel Nova Lake dong Core Ultra 400 voi toi da 52 nhan"
