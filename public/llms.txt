@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 265
-- **Cập nhật:** 2026-09-22 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 266
+- **Cập nhật:** 2026-09-23 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Galaxy S27 dùng Exynos 2700: lộ CPU 10 nhân, GPU Xclipse 970](https://techvision.click/articles/galaxy-s27-exynos-2700-ro-ri-cpu-10-nhan-2nm-npu-lon.html)
 - [Intel Nova Lake: 52 nhân, socket LGA1954, bao giờ bán?](https://techvision.click/articles/intel-nova-lake-core-ultra-400-52-nhan-lga1954-bao-gio-ban.html)
 - [Snapdragon Summit 2026: hai chip 8 Elite Gen 6 có gì mới](https://techvision.click/articles/snapdragon-summit-2026-hai-chip-8-elite-gen-6-va-gen-6-pro.html)
 - [25 kịch bản lừa đảo mạng 2026: nhận biết và cách phòng](https://techvision.click/articles/25-kich-ban-lua-dao-mang-2026-cong-an-canh-bao-cach-phong.html)
@@ -44,10 +45,10 @@
 - [iPhone 18 Pro giá chính thức 1.199 USD, có gì mới?](https://techvision.click/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html)
 - [iPhone Duo ra mắt: giá 1.999 USD, màn gập 7,6 inch](https://techvision.click/articles/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.html)
 - [Googlebook ra mắt 15/9: Android lên laptop, thay Chromebook](https://techvision.click/articles/googlebook-aluminium-os-ra-mat-15-9-2026-android-len-laptop.html)
-- [AirPods 5 ra mắt 9/9: hai bản, chip H3, giá dự kiến](https://techvision.click/articles/airpods-5-ra-mat-9-9-2026-chip-h3-hai-phien-ban.html)
 
-## Smartphone (68 bài)
+## Smartphone (69 bài)
 
+- [Galaxy S27 dùng Exynos 2700: lộ CPU 10 nhân, GPU Xclipse 970](https://techvision.click/articles/galaxy-s27-exynos-2700-ro-ri-cpu-10-nhan-2nm-npu-lon.html)
 - [Điện thoại 2026: RAM 16GB biến mất, RAM 4GB trở lại](https://techvision.click/articles/dien-thoai-2026-ram-16gb-bien-mat-ram-4gb-tro-lai.html)
 - [Huawei Mate XT 2 gập ba ra mắt: giá, chip Kirin 9050 Pro](https://techvision.click/articles/huawei-mate-xt-2-gap-ba-ra-mat-gia-kirin-9050-pro-2026.html)
 - [Redmi Note 17 giá từ 6,99 triệu tại VN, pin 10.000mAh](https://techvision.click/articles/redmi-note-17-series-ra-mat-viet-nam-gia-pin-10000mah-2026.html)

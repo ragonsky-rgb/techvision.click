@@ -7,8 +7,6 @@ category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-23T09:00:00+07:00"
 dateModified: "2026-09-23T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Đầu tháng 9/2026, một tấm ảnh chụp die của Exynos 2700 xuất hiện và lần đầu cho thấy Samsung xếp đặt con chip cho Galaxy S27 ra sao. Hai nhân đầu bảng thay vì một, khối NPU phình rõ, GPU Xclipse 970 chiếm phần diện tích lớn bất thường. Đây vẫn là rò rỉ chứ không phải thông số công bố, nhưng nó đủ chi tiết để đọc ra hướng đi của Samsung, và đủ để đặt một câu hỏi mà người mua tại Việt Nam năm nào cũng phải hỏi lại: máy bán ở đây rồi sẽ chạy chip nào."
 heroImage: "https://i.ytimg.com/vi/VJElw8f_SX8/maxresdefault.jpg"
 heroAlt: "Exynos 2700 ro ri cau hinh cho Samsung Galaxy S27 nam 2027"
