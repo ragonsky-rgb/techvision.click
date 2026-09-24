@@ -81,9 +81,9 @@ bắc cầu bằng `curl` JSON-RPC vào cổng đó.
 > cách kiểm trước khi giao. File này chỉ nói quy trình và luật nội dung.
 
 - Dọc 9:16, 1080x1920.
-- **Giọng tua 1,1x và không được có khoảng lặng** (anh Long chốt 27/08/2026).
+- **Giọng tua 1,2x và không được có khoảng lặng** (anh Long nâng từ 1,1x lên 1,2x ngày 24/09/2026; mốc cũ 27/08/2026 là 1,1x).
   Cắt im lặng hai đầu từng đoạn bằng `silenceremove` ngưỡng `-45dB`, nối không chèn im lặng,
-  rồi `atempo=1.1`. Tua xong phải **tính lại toàn bộ mốc cảnh và `durationInFrames`** (chia 1,1).
+  rồi `atempo=1.2`. Tua xong phải **tính lại toàn bộ mốc cảnh và `durationInFrames`** (chia 1,2).
 - **Chữ phải nằm trong y từ 140 tới 1440.** Dưới 1440 là vùng nút của TikTok và Reels đè lên.
 - Màu nhấn **đỏ `#C0392B`** (đúng `--accent` của techvision.click).
 - **Phụ đề word-pop nhấn đỏ**, centerY khoảng 0,62, mỗi cụm dưới 28 ký tự.
