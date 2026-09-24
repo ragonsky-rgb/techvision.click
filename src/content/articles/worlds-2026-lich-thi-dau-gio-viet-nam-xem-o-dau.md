@@ -5,8 +5,8 @@ description: "Lịch từng vòng Worlds 2026 quy về giờ Việt Nam, cái b�
 keywords: "worlds 2026 lịch thi đấu, worlds 2026 giờ việt nam, xem worlds 2026 ở đâu, cktg 2026 mấy giờ, lịch thi đấu chung kết thế giới 2026, tsw worlds 2026"
 category: "Gaming"
 type: "tin-tuc"
-datePublished: "2026-09-29T08:30:00+07:00"
-dateModified: "2026-09-29T08:30:00+07:00"
+datePublished: "2026-10-06T08:30:00+07:00"
+dateModified: "2026-10-06T08:30:00+07:00"
 noindex: true
 scheduled: true
 deck: "Worlds năm nay tổ chức ở Mỹ, nghĩa là người xem tại Việt Nam sẽ phải dậy sớm chứ không ngồi xem buổi tối như hai mùa gần đây. Bài này quy đổi toàn bộ khung lịch sang giờ Việt Nam, giải thích cái bẫy đổi múi giờ đầu tháng 11, và chỉ ra nơi xem có bình luận tiếng Việt."

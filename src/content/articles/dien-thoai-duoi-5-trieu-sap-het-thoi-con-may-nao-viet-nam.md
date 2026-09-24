@@ -5,8 +5,8 @@ description: "Máy dưới 150 USD chỉ còn 33,6% lượng bán tại Đông N
 keywords: "điện thoại dưới 5 triệu, điện thoại giá rẻ 2026, phân khúc giá rẻ biến mất, giá điện thoại tăng, oppo a6c, galaxy a16 5g, vivo y39, honor x7d"
 category: "Smartphone"
 type: "tin-tuc"
-datePublished: "2026-10-06T09:00:00+07:00"
-dateModified: "2026-10-06T09:00:00+07:00"
+datePublished: "2026-10-28T09:00:00+07:00"
+dateModified: "2026-10-28T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Quý 1/2026, máy dưới 150 USD chỉ còn chiếm 33,6% lượng điện thoại bán ra tại Đông Nam Á, mức thấp nhất kể từ quý 3/2023. Tại Việt Nam, lượng máy xuất xưởng giảm 9% nhưng giá trị thị trường lại tăng 8%. Hai con số đó nói cùng một điều: người mua không rời đi, họ chỉ mua thưa hơn và trả nhiều tiền hơn cho mỗi lần mua."
