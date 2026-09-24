@@ -7,8 +7,6 @@ category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-24T16:30:00+07:00"
 dateModified: "2026-09-24T16:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Cứ mỗi tháng 9, thị trường iPhone tại Việt Nam lặp lại một chu kỳ giống nhau: giá thế hệ cũ hạ dần trước ngày Apple ra máy mới, chạm đáy quanh thời điểm mở bán, rồi có thể nhích lên khi nguồn hàng thu hẹp. Năm nay iPhone 18 Pro có hàng từ 18/9. Bài viết dựng lại các mốc giá đã ghi nhận được, giải thích vì sao giá vận động như vậy, và chỉ ra khoảng thời gian mà người mua thường có lợi nhất."
 heroImage: "https://i.ytimg.com/vi/2_pVdLZ9Ojo/maxresdefault.jpg"
 heroAlt: "Gia iPhone 17 Pro Max tai Viet Nam sau khi iPhone 18 mo ban"
