@@ -39,6 +39,52 @@ cảnh 5 cả 2 bản đầu ("HBM3 MEMORY", "MODURY") → vẽ lại với câu
 - Font Helvetica Neue Condensed Black KHÔNG có mũi tên "→" (ra ô vuông) - dùng dấu gạch
 - Gói đăng: dùng chung gói ở trên (bỏ dòng "Hình minh họa ... Google Flow"; thay bằng "Hình cắt dán dựng bằng code")
 
+## BẢN 3 (bản giao cuối 24/9): Vox dựng bằng code + ẢNH THẬT dán polaroid
+
+- File: `~/techvision-video-kit/out/samsung/samsung-2-ceo-chip-ai-vox-final.mp4` (56,6 giây, 37,8 MB) + bản nhẹ `samsung-vox-xem-dien-thoai.mp4` (16 MB)
+- Ảnh ở `~/techvision-video-kit/assets/samsung_real/cand/`, mỗi ảnh ghi tên + nguồn ngay dưới ảnh trong khung
+
+| Cảnh | Ảnh | Nguồn / giấy phép |
+|---|---|---|
+| 1 | Chủ tịch Lee Jae-yong (lee.jpg) | Wikimedia Commons "Lee Jae-yong in 2016.jpg", KBS, CC BY 3.0 |
+| 3 | Jun Young-hyun phát biểu lễ NRD-K (nrdk_1.jpg) | Samsung Newsroom, 11/2024 |
+| 3 | TM Roh trên sân khấu Galaxy Unpacked 2026 (up_main6.jpg) | Samsung Newsroom 26/2/2026 - chú thích gốc "Roh introduced Samsung's vision for agentic AI" |
+| 4 | Chip HBM4 (hbm4_1.jpg), xe xuất xưởng lô HBM4 đầu tiên (hbm4_4.jpg) | Samsung Newsroom 12/2/2026 |
+| 5 | Chip HBM4 (hbm4_2.jpg) | Samsung Newsroom 12/2/2026 |
+| 7 | Tesla Model Y 2025 (tesla.jpg) | Wikimedia Commons, Alexander Migl, CC BY-SA 4.0 |
+| 8 | Nhà máy chip Samsung ở Texas (taylor.jpg) | ảnh Samsung Electronics trong bài Seoul Economic Daily 16/9/2026 - chú thích gốc mập mờ Taylor/Austin nên video chỉ ghi "ở Texas" |
+| 9 | Lee Jae-yong gặp Elon Musk, "Welcome Tesla", 5/2023 (leemusk.jpg) | ảnh Samsung Electronics trong bài Seoul Economic Daily 16/9/2026 |
+
+Luật áp dụng: ảnh TRONG VIDEO được lấy cả ảnh báo/hãng có ghi nguồn (nới luật 25/08). Bỏ các ảnh chuyến thăm Pyeongtaek (có Tổng thống Biden) để tránh kéo sang chính trị.
+
+### Gói đăng BẢN 3 (CHƯA đăng, chờ anh Long)
+
+**TikTok** (link để bio)
+```
+Samsung đang có 2 CEO cùng lúc, và đứng trên cả hai là Chủ tịch Lee Jae-yong 👀 Họ đang dồn tiền kỷ lục vào chip AI: HBM4 đầu tiên thế giới, hợp đồng 16,5 tỷ USD với Tesla, nhà máy Texas chạy thử chip 2nm. #samsung #chipAI #tesla #HBM4 #techvision
+```
+Link bio: https://techvision.click/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html?utm_source=tiktok&utm_medium=social&utm_campaign=video-samsung-2-ceo-chip-ai
+
+**YouTube Shorts**
+
+Tiêu đề: `Samsung có 2 CEO và canh bạc chip AI 16,5 tỷ USD với Tesla #Shorts`
+
+Mô tả:
+```
+Từ 21/11/2025 Samsung Electronics có 2 đồng CEO: Jun Young-hyun (mảng chip) và Roh Tae-moon (điện thoại, thiết bị), dưới Chủ tịch Lee Jae-yong. Ngày 12/2/2026 Samsung là hãng đầu tiên sản xuất hàng loạt bộ nhớ HBM4; năm 2026 đầu tư hơn 110 nghìn tỷ won, cao nhất lịch sử; hợp đồng làm chip AI cho Tesla 16,5 tỷ USD tới hết 2033. Giữa tháng 9, báo Hàn Quốc đưa tin nhà máy Texas đã chạy thử chip AI5 trên tiến trình 2nm.
+
+Chip 2nm của Samsung mạnh cỡ nào:
+https://techvision.click/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html?utm_source=youtube&utm_medium=social&utm_campaign=video-samsung-2-ceo-chip-ai
+
+Ảnh: Samsung Newsroom, Samsung Electronics, KBS (CC BY 3.0), Alexander Migl (CC BY-SA 4.0). Hình cắt dán dựng bằng code.
+#Shorts #Samsung #ChipAI #HBM4 #Tesla
+```
+
+**Facebook Reels**
+```
+Ít ai để ý: Samsung đang được điều hành bởi 2 CEO cùng lúc. Và họ đang đặt cược lớn nhất vào chip AI: HBM4 đầu tiên thế giới, hợp đồng 16,5 tỷ USD làm chip cho Tesla tới 2033, nhà máy ở Texas vừa chạy thử chip 2nm. Chip 2nm của Samsung mạnh cỡ nào: https://techvision.click/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html?utm_source=facebook&utm_medium=social&utm_campaign=video-samsung-2-ceo-chip-ai
+```
+
 ## Bẫy Flow gặp lần này (bổ sung cho hồ sơ CEO Apple)
 
 1. **Nút gửi bị khoá khi đang có ảnh vẽ dở**; phím Enter lúc đó không báo gì, chữ nằm lại trong ô và bị nối với câu gõ sau
