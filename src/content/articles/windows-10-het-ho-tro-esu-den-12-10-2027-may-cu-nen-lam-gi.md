@@ -42,7 +42,7 @@ faq:
   - q: "Vì sao Microsoft gia hạn mà không thông báo rộng rãi?"
     a: "Microsoft không đưa ra thông cáo chính thức cho lần gia hạn này. Thay đổi xuất hiện dưới dạng một lần chỉnh sửa trang hỗ trợ về chương trình ESU vào cuối tháng 6/2026, kèm một ghi chú thêm vào bài viết cũ trên blog. Bối cảnh được nhiều bên theo dõi ghi nhận là tốc độ chuyển sang Windows 11 chậm hơn kỳ vọng, và một lượng lớn máy vẫn ở lại Windows 10. Với người dùng, điều cần rút ra không phải là chuyện truyền thông của Microsoft, mà là đừng coi mốc gia hạn này là vĩnh viễn: lộ trình dài hạn vẫn là chuyển sang Windows 11 hoặc thay máy."
 related:
-  - { href: "/articles/windows-11-25h2-cap-nhat-2026-hieu-nang-tim-kiem-npu-khoi-phuc.html", cat: "Laptop", title: "Windows 11 25H2 và cập nhật 2026: nhanh hơn, tìm kiếm thông minh, khôi phục theo thời điểm" }
+  - { href: "/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html", cat: "Laptop", title: "Nâng cấp RAM, SSD cho laptop cũ 2026: giá bao nhiêu, có đáng?" }
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Công nghệ", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
   - { href: "/articles/kiem-tra-laptop-cu-truoc-khi-mua-checklist-2026.html", cat: "Laptop", title: "Kiểm tra laptop cũ trước khi mua: 10 bước không nên bỏ" }
 featured: false

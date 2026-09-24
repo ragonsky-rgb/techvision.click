@@ -44,7 +44,7 @@ faq:
 related:
   - { href: "/articles/tat-song-2g-15-9-2026-ai-bi-anh-huong-can-lam-gi.html", cat: "Viễn thông", title: "Tắt sóng 2G từ 15/9/2026: ai bị ảnh hưởng, cần làm gì" }
   - { href: "/articles/dien-thoai-4g-thay-may-2g-truoc-15-9-2026-gia-tu-400-nghin.html", cat: "Điện thoại", title: "Điện thoại 4G thay máy 2G: giá từ 400.000 đồng, chọn máy nào" }
-  - { href: "/articles/5g-viet-nam-2026-phu-song-92-phan-tram-viettel-vnpt-mo-rong.html", cat: "Viễn thông", title: "5G Việt Nam 2026: phủ sóng gần 92% dân số, nhà mạng đua mở rộng" }
+  - { href: "/articles/cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026.html", cat: "Viễn thông", title: "Cách bật VoLTE trước ngày tắt sóng 2G 15/9/2026" }
 featured: false
 ---
 

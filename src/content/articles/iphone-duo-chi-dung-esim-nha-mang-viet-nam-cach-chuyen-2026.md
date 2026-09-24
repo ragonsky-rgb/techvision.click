@@ -43,7 +43,7 @@ faq:
     a: "Với riêng câu chuyện eSIM thì chờ không giải quyết được gì, vì hướng đi của Apple là bỏ hẳn khe SIM chứ không phải thử nghiệm một năm rồi quay lại. Câu hỏi đáng cân nhắc hơn nằm ở chỗ khác: đây là thế hệ máy gập đầu tiên của Apple, và với mọi dòng sản phẩm mới, thế hệ đầu thường là thế hệ đắt nhất so với những gì nó mang lại. Mức giá khởi điểm gần 65 triệu đồng tại Việt Nam đặt máy vào nhóm hoàn toàn khác so với iPhone tiêu chuẩn. Nếu bạn không có nhu cầu cụ thể với màn hình gập, số tiền đó đủ mua một máy đầu bảng thông thường cộng thêm một chiếc máy tính bảng."
 related:
   - { href: "/articles/iphone-duo-dat-truoc-16-10-gia-viet-nam-co-nen-mua.html", cat: "Apple", title: "iPhone Duo đặt trước 16/10: giá Việt Nam, có nên mua?" }
-  - { href: "/articles/esim-la-gi-cach-chuyen-sim-vat-ly-sang-esim-viet-nam.html", cat: "Viễn thông", title: "eSIM là gì? Cách chuyển SIM vật lý sang eSIM tại nhà ở Việt Nam" }
+  - { href: "/articles/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.html", cat: "Viễn thông", title: "13 triệu SIM khóa 2 chiều từ 15/8: cách xác thực ngay" }
   - { href: "/articles/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban-viet-nam-2026.html", cat: "Apple", title: "Giá iPhone 17 Pro Max sau khi iPhone 18 mở bán tại Việt Nam" }
 featured: false
 ---

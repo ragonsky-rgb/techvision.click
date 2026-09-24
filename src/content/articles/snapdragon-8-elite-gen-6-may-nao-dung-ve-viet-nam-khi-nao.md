@@ -43,7 +43,7 @@ faq:
     a: "FlexCache là kiến trúc bộ nhớ đệm mới với dung lượng 16MB, được Qualcomm thiết kế nhằm giảm độ trễ cho các vòng lặp điều phối mà những tác nhân AI tự động phải chạy liên tục. Hiểu đơn giản, khi một trợ lý AI trên máy phải lặp đi lặp lại chu trình đọc dữ liệu, suy luận rồi gọi công cụ, phần lớn thời gian chờ đến từ việc đi lấy dữ liệu chứ không phải từ phép tính. Bộ nhớ đệm lớn và nhanh hơn rút ngắn đúng khoảng chờ đó. Đây là chi tiết cho thấy Qualcomm đang thiết kế chip cho nhóm tác vụ AI chạy ngay trên máy, không chỉ cho game và camera như các thế hệ trước."
 related:
   - { href: "/articles/snapdragon-summit-2026-hai-chip-8-elite-gen-6-va-gen-6-pro.html", cat: "Công nghệ", title: "Snapdragon Summit 2026: hai chip 8 Elite Gen 6 có gì mới" }
-  - { href: "/articles/xiaomi-17-series-ra-mat-viet-nam-2026-leica-snapdragon-8-elite-gen5.html", cat: "Smartphone", title: "Xiaomi 17 Series ra mắt Việt Nam: camera Leica, Snapdragon 8 Elite Gen 5" }
+  - { href: "/articles/oneplus-16-ro-ri-snapdragon-8-elite-gen6-pro-pin-9000mah-2026.html", cat: "Smartphone", title: "OnePlus 16 rò rỉ: pin 9000mAh, camera 200MP, chip Gen 6" }
   - { href: "/articles/galaxy-s27-exynos-2700-ro-ri-cpu-10-nhan-2nm-npu-lon.html", cat: "Smartphone", title: "Galaxy S27 dùng Exynos 2700: lộ CPU 10 nhân, GPU Xclipse 970" }
 featured: false
 ---

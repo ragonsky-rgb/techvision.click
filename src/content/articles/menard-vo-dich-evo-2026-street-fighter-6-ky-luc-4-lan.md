@@ -91,11 +91,6 @@ Về phía Shigematsu, dù không thể lên ngôi, màn trình diễn của tuy
 
 ## Sức hút của làng đối kháng và esports
 
-<figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Jy-ZiqjW4ps/maxresdefault.jpg" alt="Cộng đồng đối kháng dõi theo hành trình vô địch EVO 2026 của MenaRD" loading="lazy" width="1280" height="720">
-  <figcaption>EVO tiếp tục là sân khấu lớn nhất của cộng đồng game đối kháng thế giới. Nguồn: YouTube</figcaption>
-</figure>
-
 Chiến thắng của MenaRD một lần nữa khẳng định sức hút bền bỉ của game đối kháng trong bức tranh esports toàn cầu. Không giống các bộ môn đồng đội, fighting game là cuộc chiến của từng cá nhân, nơi bản lĩnh và kỹ năng được phơi bày trọn vẹn dưới ánh đèn sân khấu. Điều này tạo nên những câu chuyện anh hùng rất riêng, và MenaRD với kỷ lục của mình chính là một trong số đó. Bức tranh esports năm 2026 vốn đã rất sôi động, với hàng loạt giải đấu đỉnh cao như [chức vô địch Valorant EWC 2026 của 100 Thieves](/articles/100-thieves-vo-dich-valorant-ewc-2026-danh-bai-nrg.html) hay [bộ môn Liên Minh Huyền Thoại tại EWC 2026](/articles/ewc-2026-lmht-ket-qua-vong-bang-nhanh-thang-nhanh-thua-cap-nhat.html).
 
 Với người hâm mộ Việt Nam, những giải đấu quốc tế như EVO là nguồn cảm hứng lớn cho cộng đồng game đối kháng trong nước, vốn cũng đang phát triển mạnh mẽ bên cạnh các bộ môn phổ biến khác. Phong trào esports khu vực ngày càng khởi sắc, như cách [Liên Quân Mobile Việt Nam có ba đại diện vào tứ kết APL 2026](/articles/apl-2026-viet-nam-3-dai-dien-tu-ket-lien-quan-mobile.html) cho thấy sức sống của thể thao điện tử.
