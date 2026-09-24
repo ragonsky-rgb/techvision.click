@@ -5,8 +5,8 @@ description: "iPhone 18 Pro có hàng tại Việt Nam từ 18/9/2026 với giá
 keywords: "giá iphone 17 pro max, iphone 17 giảm giá, giá iphone 18 pro, iphone 17 pro max còn bao nhiêu, mua iphone 17 hay 18, giá iphone tháng 9 2026, iphone 17 pro max cũ"
 category: "Apple"
 type: "tin-tuc"
-datePublished: "2026-09-24T17:00:00+07:00"
-dateModified: "2026-09-24T17:00:00+07:00"
+datePublished: "2026-09-24T16:30:00+07:00"
+dateModified: "2026-09-24T16:30:00+07:00"
 noindex: true
 scheduled: true
 deck: "Cứ mỗi tháng 9, thị trường iPhone tại Việt Nam lặp lại một chu kỳ giống nhau: giá thế hệ cũ hạ dần trước ngày Apple ra máy mới, chạm đáy quanh thời điểm mở bán, rồi có thể nhích lên khi nguồn hàng thu hẹp. Năm nay iPhone 18 Pro có hàng từ 18/9. Bài viết dựng lại các mốc giá đã ghi nhận được, giải thích vì sao giá vận động như vậy, và chỉ ra khoảng thời gian mà người mua thường có lợi nhất."
