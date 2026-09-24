@@ -76,6 +76,13 @@ Câu có hai năm (1977 và 1981) nở từ 5,8 lên **7,7 giây**. Clip Flow xu
   `return_timestamps="word"`, xác nhận im lặng bằng `volumedetect`, rồi cắt bằng `-ss` cộng
   `afade=t=in` ngắn. Whisper trên máy này **phải chạy CPU float32**, mps float16 ra chữ rác.
 
+**Từ giọng máy hay đọc sai (ghi 24/09/2026):**
+
+| Từ / cụm | Lỗi nghe được | Cách viết thay |
+|---|---|---|
+| `chênh` | "Trên", "tranh" (sai 2 lần liên tiếp, kể cả khi đứng giữa câu) | `cách nhau` ("Giá hai máy cách nhau đúng...") |
+| `iPhone mười bảy Pro Max cùng chỗ là...` | lặp thành "Pro Pro Max" | thêm dấu phẩy: `iPhone mười bảy Pro Max, cùng chỗ, là...` |
+
 ## 5. Sửa một câu tốn bao nhiêu
 
 Đọc lại 1 câu mất khoảng 2 phút (kể cả 15 giây nghỉ cho đỡ lag máy). Sửa giọng **không kéo theo
