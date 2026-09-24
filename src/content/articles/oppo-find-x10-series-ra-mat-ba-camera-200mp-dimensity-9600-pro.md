@@ -7,8 +7,6 @@ category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-24T09:00:00+07:00"
 dateModified: "2026-09-24T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Oppo đã tự xác nhận phần gây chú ý nhất của Find X10 Pro Max trước khi máy ra mắt: ba ống kính, cả ba đều 200MP. Đây là lần đầu một smartphone thương mại đi theo hướng đó, thay vì để camera chính gánh độ phân giải còn hai ống kia chạy cảm biến nhỏ hơn. Máy ra mắt tại Trung Quốc cuối tháng 9/2026 và ra toàn cầu trong tháng 10, nên câu hỏi giá bán tại Việt Nam sẽ có lời đáp sớm hơn nhiều so với các dòng flagship khác."
 heroImage: "https://i.ytimg.com/vi/x9JJE2M-4Lc/maxresdefault.jpg"
 heroAlt: "Oppo Find X10 Pro Max voi ba camera 200MP Hasselblad nam 2026"
