@@ -1,12 +1,12 @@
 ---
 slug: "gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban-viet-nam-2026"
 title: "Giá iPhone 17 Pro Max sau khi iPhone 18 mở bán tại Việt Nam"
-description: "iPhone 18 Pro có hàng tại Việt Nam từ 18/9/2026 với giá từ 38,999 triệu. Giá iPhone 17 Pro Max biến động ra sao và khi nào là thời điểm mua hợp lý."
+description: "iPhone 18 Pro có hàng tại Việt Nam từ 18/9/2026 với giá từ 38,999 triệu. Ngày 24/9, iPhone 17 Pro Max quay về 34.590.000đ. Giá từng chuỗi và khi nào nên mua."
 keywords: "giá iphone 17 pro max, iphone 17 giảm giá, giá iphone 18 pro, iphone 17 pro max còn bao nhiêu, mua iphone 17 hay 18, giá iphone tháng 9 2026, iphone 17 pro max cũ"
 category: "Apple"
 type: "tin-tuc"
-datePublished: "2026-09-25T09:00:00+07:00"
-dateModified: "2026-09-25T09:00:00+07:00"
+datePublished: "2026-09-24T17:00:00+07:00"
+dateModified: "2026-09-24T17:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Cứ mỗi tháng 9, thị trường iPhone tại Việt Nam lặp lại một chu kỳ giống nhau: giá thế hệ cũ hạ dần trước ngày Apple ra máy mới, chạm đáy quanh thời điểm mở bán, rồi có thể nhích lên khi nguồn hàng thu hẹp. Năm nay iPhone 18 Pro có hàng từ 18/9. Bài viết dựng lại các mốc giá đã ghi nhận được, giải thích vì sao giá vận động như vậy, và chỉ ra khoảng thời gian mà người mua thường có lợi nhất."
@@ -14,7 +14,7 @@ heroImage: "https://i.ytimg.com/vi/2_pVdLZ9Ojo/maxresdefault.jpg"
 heroAlt: "Gia iPhone 17 Pro Max tai Viet Nam sau khi iPhone 18 mo ban"
 heroCaption: "iPhone 18 Pro có hàng tại Việt Nam từ 18/9/2026. Ảnh minh họa từ YouTube"
 ogImage: "https://techvision.click/uploads/og-article/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban-viet-nam-2026.jpg"
-tldr: "<strong>iPhone 18 Pro</strong> mở đặt trước tại Việt Nam từ <strong>19h ngày 12/9/2026</strong> và có hàng từ <strong>18/9</strong>, giá từ <strong>38,999 triệu đồng</strong> bản 256GB; bản Pro Max từ <strong>41,999 triệu đồng</strong>. Ở chiều ngược lại, <strong>iPhone 17 Pro Max</strong> đã hạ dần trước đó: ghi nhận ngày <strong>9/9/2026</strong> cho thấy máy mới quanh mức <strong>33,6 tới 34 triệu đồng</strong>, thấp hơn khoảng <strong>4 triệu</strong> so với mức niêm yết 38 triệu khi ra mắt tháng 9/2025. Hàng cũ bản dung lượng thấp nhất về <strong>28 tới 29 triệu đồng</strong>. Giới kinh doanh lưu ý giá có thể nhích lại sau khi máy mới lên kệ, như đã xảy ra với iPhone 16 Pro năm trước."
+tldr: "<strong>iPhone 18 Pro</strong> mở đặt trước tại Việt Nam từ <strong>19h ngày 12/9/2026</strong> và có hàng từ <strong>18/9</strong>, giá từ <strong>38,999 triệu đồng</strong> bản 256GB; bản Pro Max từ <strong>41,999 triệu đồng</strong>. Ở chiều ngược lại, <strong>iPhone 17 Pro Max</strong> đã hạ dần trước đó: ghi nhận ngày <strong>9/9/2026</strong> cho thấy máy mới quanh mức <strong>33,6 tới 34 triệu đồng</strong>, thấp hơn khoảng <strong>4 triệu</strong> so với mức niêm yết 38 triệu khi ra mắt tháng 9/2025. Hàng cũ bản dung lượng thấp nhất về <strong>28 tới 29 triệu đồng</strong>. Khảo lại ngày <strong>24/9/2026</strong>, sau khi iPhone 18 lên kệ: iPhone 17 Pro Max 256GB tại CellphoneS và FPT Shop đã quay về <strong>34.590.000đ</strong>, gần mức 34,5 triệu trước đợt giảm. Cùng hai chuỗi, iPhone 18 Pro Max 256GB bán <strong>41.990.000đ</strong>, chênh đúng <strong>7,4 triệu đồng</strong>."
 tags: ["Apple", "iPhone", "Giá bán", "Việt Nam"]
 about: ["Apple", "iPhone 17 Pro Max", "iPhone 18 Pro", "Thị trường điện thoại Việt Nam"]
 authorBio: "Founder LongTechVision. Theo dõi mặt bằng giá iPhone tại các đại lý Việt Nam qua từng mùa ra mắt."
@@ -22,6 +22,8 @@ sourceUrl: "https://vnexpress.net/bo-doi-iphone-17-pro-giam-gia-truoc-le-ra-mat-
 sourceName: "VnExpress"
 sourceDomains: "vnexpress.net · cafef.vn · cellphones.com.vn · hoanghamobile.com"
 stats:
+  - { num: "34.590.000đ", label: "Giá iPhone 17 Pro Max 256GB tại CellphoneS và FPT Shop ngày 24/9/2026" }
+  - { num: "7,4 triệu", label: "Chênh lệch với iPhone 18 Pro Max 256GB tại cùng hai chuỗi" }
   - { num: "18/9/2026", label: "Ngày iPhone 18 Pro bắt đầu có hàng tại Việt Nam" }
   - { num: "12/9/2026", label: "Thời điểm mở đặt trước, từ 19h" }
   - { num: "38,999 triệu", label: "Giá khởi điểm iPhone 18 Pro bản 256GB" }
@@ -53,15 +55,33 @@ Thị trường iPhone tại Việt Nam mỗi tháng 9 đều đi qua cùng mộ
   <table>
     <tr><td>iPhone 18 Pro 256GB</td><td>38.999.000đ (niêm yết chính hãng)</td></tr>
     <tr><td>iPhone 18 Pro 512GB</td><td>45.499.000đ</td></tr>
-    <tr><td>iPhone 18 Pro Max 256GB</td><td>41.999.000đ</td></tr>
+    <tr><td>iPhone 18 Pro Max 256GB</td><td>41.999.000đ (Apple Việt Nam), 41.990.000đ tại CellphoneS và FPT Shop ngày 24/9</td></tr>
     <tr><td>iPhone 18 Pro Max 512GB</td><td>48.499.000đ</td></tr>
-    <tr><td>iPhone 17 Pro Max máy mới</td><td>33,6 tới 34 triệu (ghi nhận 9/9/2026)</td></tr>
+    <tr><td>iPhone 17 Pro Max máy mới, 24/9</td><td>34.590.000đ (CellphoneS, FPT Shop)</td></tr>
+    <tr><td>iPhone 17 Pro Max máy mới, 9/9</td><td>33,6 tới 34 triệu (VnExpress)</td></tr>
     <tr><td>iPhone 17 Pro Max hàng cũ</td><td>28 tới 29 triệu (ghi nhận đầu tháng 9/2026)</td></tr>
     <tr><td>Ngày có hàng iPhone 18 Pro</td><td>18/9/2026</td></tr>
   </table>
 </div>
 
-Cập nhật 25/9/2026: các con số iPhone 17 trong bài là ghi nhận từ báo chí trong nước quanh mốc 9/9/2026, tức trước ngày iPhone 18 lên kệ. Giá iPhone tại Việt Nam thay đổi theo tuần và khác nhau giữa các đại lý, nên hãy dùng những con số này làm mốc đối chiếu khi đi khảo giá chứ không phải giá hiện hành.
+## Cập nhật 24/9: giá đã quay về
+
+Khảo lại tận trang bán của từng chuỗi ngày **24/9/2026**, sáu ngày sau khi iPhone 18 lên kệ. Kết quả trùng với cảnh báo ở phần dưới của bài này: đợt giảm trước sự kiện không kéo dài.
+
+<div class="spec-box">
+  <div class="spec-box-title">🏷️ Giá bản 256GB ngày 24/9/2026</div>
+  <table>
+    <tr><td>iPhone 17 Pro Max tại CellphoneS</td><td>34.590.000đ (niêm yết 37.990.000đ)</td></tr>
+    <tr><td>iPhone 17 Pro Max tại FPT Shop</td><td>34.590.000đ</td></tr>
+    <tr><td>iPhone 17 Pro Max tại Thế Giới Di Động</td><td>niêm yết 37.990.000đ, trang sản phẩm ghi giảm ngay 3 triệu kèm thu cũ và phiếu mua hàng; máy cũ từ 31.630.000đ</td></tr>
+    <tr><td>iPhone 18 Pro Max tại CellphoneS và FPT Shop</td><td>41.990.000đ</td></tr>
+    <tr><td>iPhone 18 Pro Max tại Apple Việt Nam</td><td>41.999.000đ</td></tr>
+  </table>
+</div>
+
+Ngày 9/9, VnExpress ghi nhận iPhone 17 Pro Max bản thấp nhất từng bán **34,5 triệu đồng** tại Thế Giới Di Động, FPT Shop và CellphoneS, rồi giảm về **33,6 tới 34 triệu** trước sự kiện. Ngày 24/9, CellphoneS và FPT Shop cùng bán **34.590.000đ**, tức giá đã trở về gần mức trước đợt giảm. Người chờ iPhone 18 ra mắt để mua iPhone 17 Pro Max rẻ hơn, tới thời điểm này, không được như kỳ vọng.
+
+So tại cùng hai chuỗi, iPhone 18 Pro Max 256GB đắt hơn iPhone 17 Pro Max 256GB đúng **7.400.000đ**. Giá của Thế Giới Di Động không đặt chung vào phép so này vì mức giảm hiển thị dưới dạng khuyến mại và phiếu mua hàng, không phải một giá bán duy nhất.
 
 ## Giá iPhone 17 Pro Max đã đi xuống tới đâu
 
@@ -93,7 +113,7 @@ Giới kinh doanh trong nước đã lưu ý khả năng này, dẫn chính trư
 
 ## Đặt cạnh iPhone 18: khoản chênh lệch mua được gì
 
-So cùng bản 256GB, iPhone 18 Pro niêm yết **38,999 triệu đồng**, còn iPhone 17 Pro Max ghi nhận ngày 9/9 ở mức 33,6 tới 34 triệu. Khoảng cách khoảng 5 triệu đồng. Cần lưu ý đây là phép so giữa hai dòng khác cấp: Pro Max của thế hệ cũ đặt cạnh Pro của thế hệ mới. Nếu so đúng cùng cấp Pro Max với Pro Max, khoảng cách rộng hơn đáng kể vì iPhone 18 Pro Max khởi điểm **41,999 triệu đồng**.
+So cùng bản 256GB, iPhone 18 Pro niêm yết **38,999 triệu đồng**, còn iPhone 17 Pro Max ghi nhận ngày 9/9 ở mức 33,6 tới 34 triệu. Khoảng cách khoảng 5 triệu đồng theo giá ngày 9/9, còn khoảng 4,4 triệu nếu lấy giá 34.590.000đ ngày 24/9. Cần lưu ý đây là phép so giữa hai dòng khác cấp: Pro Max của thế hệ cũ đặt cạnh Pro của thế hệ mới. Nếu so đúng cùng cấp Pro Max với Pro Max tại CellphoneS và FPT Shop ngày 24/9, khoảng cách là **7,4 triệu đồng** (41.990.000đ so với 34.590.000đ).
 
 <div class="art-video-label">VIDEO · So sánh hai thế hệ iPhone gần nhất</div>
 <div class="art-video-wrap">
