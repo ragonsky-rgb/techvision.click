@@ -92,3 +92,71 @@ https://techvision.click/articles/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban
 Chờ iPhone 18 ra để mua iPhone 17 Pro Max rẻ hơn? Năm nay chưa được như vậy. Trước sự kiện máy từng giảm về 33,6-34 triệu, hôm nay CellphoneS và FPT Shop đều bán 34.590.000đ. Cùng hai chuỗi, iPhone 18 Pro Max 256GB là 41.990.000đ.
 Giá từng chuỗi: https://techvision.click/articles/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban-viet-nam-2026.html?utm_source=facebook&utm_medium=social&utm_campaign=video-gia-iphone-17-pro-max-quay-ve
 ```
+
+---
+
+## BẢN DÀI ~1 PHÚT (anh Long yêu cầu 24/9, giọng giữ 1,1x)
+
+Khung dựng: `scripts/build_i17long.py`, thư mục `out/i17long/`. Bản 26 giây vẫn giữ nguyên ở `out/i17hd/`.
+Giữ 5 câu đầu + câu kết đã soát sạch, thêm 7 câu mới (6-12).
+
+**Số mới, kiểm tận nguồn 24/9/2026:**
+
+| Số | Giá trị | Nguồn |
+|---|---|---|
+| iPhone 18 Pro 256GB | 38.990.000đ | schema `price` CellphoneS + FPT Shop (FPT priceValidUntil 2026-09-24) |
+| 17 Pro Max rẻ hơn 18 Pro | 4.400.000đ | 38.990.000 - 34.590.000 |
+| iPhone 17 Pro Max 256GB máy cũ | từ 31.630.000đ, -16%, bảo hành chính hãng tới 20/06/2027 | trang TGDĐ, khối máy cũ |
+
+Câu 6-7 (vì sao giá quay về) là phần giải thích cơ chế đã viết trong bài web, nói dạng "lý do thường gặp",
+không khẳng định cho riêng đợt này. Câu 11-12 là lời khuyên của TechVision, lấy từ mục "Ba việc nên làm trước
+khi chốt mua" trong bài.
+
+**Kịch bản đọc thêm (câu 6-12):**
+```
+Lý do thường gặp: trước ngày máy mới bán, đại lý xả hàng tồn nên hạ giá.
+Máy mới lên kệ, hàng đời cũ ít dần, giá lại nhích lên.
+So chéo mới thú vị: iPhone mười tám Pro ở hai chuỗi này là ba mươi tám triệu chín trăm chín mươi nghìn.
+Tức là iPhone mười bảy Pro Max, vẫn rẻ hơn iPhone mười tám Pro, đúng bốn triệu bốn trăm nghìn.
+Muốn rẻ hơn nữa, Thế Giới Di Động có iPhone mười bảy Pro Max, máy cũ, từ ba mươi mốt triệu sáu trăm ba mươi nghìn.
+Mua máy cũ thì kiểm ba thứ: pin, lịch sử sửa chữa và nguồn gốc máy.
+Còn mua mới, hãy khảo ít nhất ba chuỗi trong cùng một ngày, vì khuyến mãi mỗi nơi một kiểu.
+```
+
+**Cảnh thêm:** 6 cửa hàng đầy hộp "17" + thẻ "xả hàng" mũi tên xuống · 7 hộp "17" bị gạch dần, hộp "18" mới về,
+mũi tên lên · 8 máy "18" Pro + thẻ 38.990.000đ · 9 biểu đồ cột 3 máy + ngoặc "-4,4tr" · 10 máy "17" dấu MÁY CŨ +
+thẻ 31.630.000đ · 11 danh sách 3 ô tích đỏ · 12 ba cửa hàng dấu hỏi + tờ lịch "cùng 1 ngày".
+
+Lỗi bố cục bắt được ở bước `still` (sửa trước khi dựng): chữ "giá nhích lên" tràn mép phải, hộp "18" đè biển
+ĐẠI LÝ, nhãn "-4,4tr" đè cột, dấu MÁY CŨ đè đáy máy.
+
+**Bản cuối 1 phút:** `~/techvision-video-kit/out/i17long/iphone-17-pro-max-gia-quay-ve-1phut-final.mp4`, 59,21 giây,
+1080x1920, 10,7 MB, đỉnh âm -0,9 dB. Whisper soát 13/13 câu khớp, mọi số đúng. Riêng câu 6 Whisper ghi "xã hàng tồn"
+(nhiều khả năng Whisper lẫn dấu hỏi/ngã), cần anh Long nghe lại.
+
+**Bài học máy lag 24/9:** 7 câu giọng mới chạy nối đuôi ngay sau lượt dựng và Whisper, máy 16 GB đã dùng 1,9 GB swap
+nên anh Long phải khởi động lại giữa chừng. Giọng vẫn đọc xong đủ vì `gen.sh` bỏ qua câu đã có. Các bước sau (nối giọng,
+Whisper, dựng) chạy `nice -n 19` từng bước một, dựng 1.421 khung hết 31 giây, không lag.
+
+### Gói đăng bản 1 phút (CHƯA đăng)
+
+**TikTok** (link để bio, `utm_source=tiktok`)
+```
+Chờ iPhone 18 ra để mua iPhone 17 Pro Max rẻ hơn? Năm nay chưa được 😅 Trước sự kiện máy từng giảm còn 33,6-34 triệu, hôm nay CellphoneS và FPT Shop bán 34.590.000đ. Vẫn rẻ hơn iPhone 18 Pro đúng 4,4 triệu, máy cũ ở TGDĐ từ 31.630.000đ. Giá từng chuỗi ở link bio. #iphone17promax #iphone18 #giaiphone #techvision
+```
+
+**YouTube Shorts** - tiêu đề: `iPhone 17 Pro Max giá quay về: mua mới, mua cũ hay lên iPhone 18? #Shorts`
+```
+Giá bản 256GB ngày 24/9/2026 tại CellphoneS và FPT Shop: iPhone 17 Pro Max 34.590.000đ, iPhone 18 Pro 38.990.000đ, iPhone 18 Pro Max 41.990.000đ. Ngày 9/9 iPhone 17 Pro Max từng giảm còn 33,6-34 triệu (VnExpress). Máy cũ 17 Pro Max tại Thế Giới Di Động từ 31.630.000đ.
+
+Bảng giá từng chuỗi và lúc nào nên mua:
+https://techvision.click/articles/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban-viet-nam-2026.html?utm_source=youtube&utm_medium=social&utm_campaign=video-gia-iphone-17-pro-max-quay-ve-1phut
+
+#Shorts #iPhone17ProMax #iPhone18
+```
+
+**Facebook Reels**
+```
+iPhone 18 lên kệ, iPhone 17 Pro Max lại quay về giá cũ: 34.590.000đ tại CellphoneS và FPT Shop (24/9). So cùng hai chuỗi: rẻ hơn iPhone 18 Pro 4,4 triệu, rẻ hơn iPhone 18 Pro Max 7,4 triệu. Mua máy cũ thì nhớ kiểm pin, lịch sử sửa chữa và nguồn gốc máy.
+Giá từng chuỗi: https://techvision.click/articles/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban-viet-nam-2026.html?utm_source=facebook&utm_medium=social&utm_campaign=video-gia-iphone-17-pro-max-quay-ve-1phut
+```
