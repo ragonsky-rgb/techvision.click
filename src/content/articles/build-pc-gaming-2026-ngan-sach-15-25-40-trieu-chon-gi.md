@@ -5,7 +5,7 @@ description: "Cách chia ngân sách và chọn linh kiện cho ba mức 15, 25 
 keywords: "build PC gaming 2026, cấu hình PC 15 triệu, cấu hình PC 25 triệu, build PC 40 triệu, linh kiện máy tính giá tăng, RTX 5060 Ti 16GB, Ryzen 7 9800X3D"
 category: "Công nghệ"
 type: "huong-dan"
-datePublished: "2026-10-07T08:30:00+07:00"
+datePublished: "2026-11-03T09:00:00+07:00"
 dateModified: "2026-10-07T08:30:00+07:00"
 noindex: true
 scheduled: true

@@ -6,7 +6,7 @@ keywords: "googlebook, aluminium os, google ra mắt laptop android, thay thế 
 category: "Laptop"
 type: "tin-tuc"
 datePublished: "2026-09-09T08:00:00+07:00"
-dateModified: "2026-09-09T08:00:00+07:00"
+dateModified: "2026-09-24T19:45:00+07:00"
 deck: "Google đã gửi thư mời báo giới cho một sự kiện phần cứng tổ chức tại New York ngày 15/9/2026, nơi hãng lần đầu trình làng Googlebook. Đây là nỗ lực lớn nhất trong hơn một thập kỷ nhằm đưa Android lên máy tính xách tay, và nó đồng nghĩa với việc ChromeOS trên máy tiêu dùng sắp có người kế nhiệm. Câu hỏi thật sự không phải Google làm được hay không, mà là dòng máy này bán cho ai."
 heroImage: "https://i.ytimg.com/vi/4Gpzrn42-tM/maxresdefault.jpg"
 heroAlt: "Google to chuc su kien ra mat Googlebook ngay 15 9 2026 tai New York"
@@ -85,6 +85,8 @@ Chi tiết gây tranh luận nhất hiện nay là giá. Google mô tả Googleb
 </figure>
 
 Nhảy lên vùng trên 999 USD nghĩa là Googlebook không kế thừa chỗ đứng của Chromebook mà đi tìm chỗ đứng mới, đối đầu trực diện với MacBook Air và nhóm laptop Windows cao cấp. Đó là một canh bạc khó, vì ở vùng giá này người mua đòi hỏi một hệ sinh thái phần mềm đã chín, chứ không chỉ một ý tưởng hay.
+
+<div class="art-callout">💡 <strong>Cập nhật 24/9/2026:</strong> giá thật đã rõ và <strong>thấp hơn con số 999 USD ở trên</strong>. Khi mở đặt trước ngày 21/9/2026, Google chốt giá khởi điểm <strong>899 USD</strong> cho Acer Googlebook 14, cao nhất <strong>1.299 USD</strong> cho Asus và HP Googlebook 14, với 5 máy từ Acer, Asus, Dell, HP và Lenovo. Cả 5 dùng chung nền <strong>16GB RAM kèm 512GB</strong>. Máy giao từ <strong>4/10</strong> tại Mỹ và <strong>5/10</strong> tại Canada, Anh, Ireland, Pháp, Đức, Australia; <strong>Việt Nam không có trong đợt đầu</strong>. Phần phân tích mốc 999 USD phía trên được giữ nguyên để đối chiếu với dự đoán trước sự kiện. Chi tiết giá từng máy nằm trong bài <a href="/articles/googlebook-5-may-gia-tu-899-usd-dat-truoc-21-9-giao-4-10-2026.html">Googlebook mở đặt trước: 5 máy, giá từ 899 USD, giao từ 4/10</a>.</div>
 
 <div class="art-video-label">VIDEO · Nhìn lại nỗ lực đưa Android lên máy tính của Google</div>
 <div class="art-video-wrap">

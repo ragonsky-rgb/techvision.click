@@ -5,7 +5,7 @@ description: "OLED, Mini LED hay IPS, 180Hz hay 480Hz và bao nhiêu tiền là 
 keywords: "màn hình gaming 2026, màn hình OLED chơi game, Mini LED hay IPS, tần số quét 480Hz, LG UltraGear 27GX790A, Samsung Odyssey OLED G6, màn hình 1440p"
 category: "Công nghệ"
 type: "huong-dan"
-datePublished: "2026-10-08T08:30:00+07:00"
+datePublished: "2026-11-04T09:00:00+07:00"
 dateModified: "2026-10-08T08:30:00+07:00"
 noindex: true
 scheduled: true

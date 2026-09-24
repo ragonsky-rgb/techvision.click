@@ -5,7 +5,7 @@ description: "Mã trong iOS 27 lộ hai cơ chế cho phép thay mô hình Siri 
 keywords: "siri claude, siri chatgpt, ios 27 siri, apple ai bên thứ ba, model delegation apple, siri ai tiếng việt, thay mô hình siri, apple intelligence 2026"
 category: "Apple"
 type: "tin-tuc"
-datePublished: "2026-10-02T09:00:00+07:00"
+datePublished: "2026-11-02T09:00:00+07:00"
 dateModified: "2026-10-02T09:00:00+07:00"
 noindex: true
 scheduled: true

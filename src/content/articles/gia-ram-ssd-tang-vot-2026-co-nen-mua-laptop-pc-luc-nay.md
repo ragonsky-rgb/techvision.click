@@ -6,7 +6,7 @@ keywords: "giá RAM tăng 2026, giá SSD tăng, khủng hoảng bộ nhớ AI, c
 category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-07-16T15:30:00+07:00"
-dateModified: "2026-08-15T16:30:00+07:00"
+dateModified: "2026-09-24T19:50:00+07:00"
 deck: "Cơn khát chip nhớ phục vụ AI đang đẩy giá RAM và SSD lên mức cao chưa từng thấy, kéo theo laptop và PC lắp ráp tăng từ 10 đến 30% tùy phân khúc. Nhiều dự báo cho rằng đợt tăng giá này còn kéo dài. Bài viết phân tích nguyên nhân, mức độ ảnh hưởng tại Việt Nam và gợi ý người dùng nên mua ngay hay tiếp tục chờ."
 heroImage: "https://i.ytimg.com/vi/BBK72bk05i8/maxresdefault.jpg"
 heroAlt: "Thanh RAM và ổ SSD với biểu đồ giá tăng, minh họa khủng hoảng bộ nhớ do AI năm 2026"
@@ -116,6 +116,14 @@ Ngoài ra, với người dùng chỉ có nhu cầu cơ bản, các dòng máy �
 Mức giá này khớp với con số mà chính Google đưa ra khi giải thích vì sao [cả dòng Pixel 11 tăng 100 USD và hai bản Pro bị cắt RAM khởi điểm](/articles/google-pixel-11-pro-fold-su-kien-made-by-google-12-8-2026.html): dẫn số liệu Morgan Stanley, chi phí mỗi GB RAM đã nhảy từ khoảng 2,80 USD trong năm 2025 lên 12 USD trong năm 2026, tức gấp hơn sáu lần chỉ trong một năm. Nhân 12 USD với 16GB ra khoảng 192 USD, tương đương hơn 5 triệu đồng tiền linh kiện thuần, nên mức bán lẻ 6,49 tới 7,69 triệu tại Việt Nam là hệ quả trực tiếp chứ không phải cửa hàng tự đẩy giá.
 
 Điều đáng chú ý với người mua Việt: khi một hãng lớn như Google phải công khai lấy giá chip nhớ làm lý do tăng giá sản phẩm, đó là tín hiệu cho thấy đợt tăng này chưa tới điểm dừng. Các hãng ra máy vào cuối năm 2026 nhiều khả năng đối mặt cùng bài toán, nên kỳ vọng giá bộ nhớ quay về mức cũ trong vài tháng tới là không thực tế.
+
+## Cập nhật 24/9/2026: tốc độ tăng đã chậm lại rõ ở quý 3
+
+Diễn biến mới nhất đáng ghi nhận vì nó đổi cách đọc tình hình. Theo dữ liệu giá hợp đồng của TrendForce, nhóm DRAM thường tăng **90 tới 95%** trong quý 1/2026 so với quý trước, rồi **58 tới 63%** trong quý 2, nhưng quý 3 chỉ còn **13 tới 18%**. Nhóm NAND Flash đi cùng hướng: từ mức 55 tới 60% quý 1 lên 70 tới 75% quý 2, rồi về **10 tới 15%** quý 3. Nguyên nhân được nêu là nhu cầu từ nhóm thiết bị tiêu dùng yếu đi, cộng với việc mốc so sánh của quý trước đã rất cao.
+
+<div class="art-callout">💡 <strong>Đọc đúng con số này:</strong> chậm lại không phải giảm. Mức <strong>13 tới 18% vẫn là tăng</strong>, chỉ là tăng chậm hơn, và chưa có quý nào trong năm 2026 giá quay đầu. Về phía bán lẻ trong nước, số liệu từ hệ thống Thế Giới Di Động cho thấy giá RAM đã <strong>gần gấp đôi</strong> và SSD tăng <strong>khoảng 50%</strong>, khiến nhiều mẫu laptop bị điều chỉnh giá; các hệ thống khác ghi nhận PC lắp và laptop đội <strong>10 tới 30%</strong> tùy phân khúc. Dự báo chung là mặt bằng giá PC năm 2026 cao hơn năm 2025 <strong>khoảng 17%</strong>.</div>
+
+Hệ quả thực dụng: nên coi mặt bằng giá hiện tại là **mặt bằng mới trong trung hạn** thay vì một đợt sốt sẽ qua nhanh. Nhóm chịu nặng nhất theo tỉ lệ là cấu hình phổ thông và giá rẻ, không phải cấu hình cao, vì trên một bộ máy tầm 15 triệu đồng thì RAM và ổ cứng chiếm tỉ trọng lớn hơn nhiều so với một bộ 40 triệu, nơi phần lớn tiền nằm ở card đồ họa và vi xử lý.
 
 ## Nên mua ngay hay chờ
 
