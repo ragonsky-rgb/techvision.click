@@ -61,12 +61,15 @@ Câu có hai năm (1977 và 1981) nở từ 5,8 lên **7,7 giây**. Clip Flow xu
 
 ## 3. Tên riêng nước ngoài
 
+**Trước khi gửi kịch bản cho OmniVoice: dò từng tên hãng/tên riêng trong kịch bản với bảng này.** Tên nào có trong bảng mà kịch bản vẫn để nguyên là lỗi.
+
 | Tên | Viết trong kịch bản đọc | Vì sao |
 |---|---|---|
 | Singapore | `Singapoor` | anh Long chọn mẫu 5/6 ngày 15/09; `Xin-ga-po` bị chê, `Singapore` để nguyên cũng sai âm cuối |
 | Markkula | `Mác-kiu-la` | để nguyên thì mất hẳn âm giữa |
 | Spindler | `Spin-đờ-lơ` | để nguyên thì nuốt cụm "dl" |
 | HiLight | `Hai Lai` | |
+| OPPO | `Ốp pồ` | anh Long chốt 25/09/2026 (bản 15/09 ghi "Óp pô"); để nguyên "OPPO" là SAI, video OPPO 25/09 đã dính |
 | Pixel, Pro, RAM, CEO | để nguyên | tên đã quen, đọc đúng sẵn |
 
 ## 4. Hai bẫy kỹ thuật
