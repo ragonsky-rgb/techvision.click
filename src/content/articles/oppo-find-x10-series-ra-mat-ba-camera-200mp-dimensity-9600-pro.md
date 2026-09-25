@@ -1,42 +1,43 @@
 ---
 slug: "oppo-find-x10-series-ra-mat-ba-camera-200mp-dimensity-9600-pro"
-title: "Oppo Find X10 Pro Max: 3 camera 200MP, ra mắt ngày 22/9"
-description: "Oppo chốt Find X10 series ra mắt Trung Quốc ngày 22/9/2026 với 3 bản. Find X10 Pro Max có ba camera 200MP Hasselblad, bản thường hai camera 200MP."
+title: "Oppo Find X10 Pro Max ra mắt: 3 camera 200MP, giá từ 6.799 tệ"
+description: "Find X10 series ra mắt Trung Quốc 22/9/2026, bán từ 24/9. Pro Max ba camera 200MP giá từ 6.799 tệ (khoảng 25,9 triệu đồng), bản thường từ 5.499 tệ."
 keywords: "oppo find x10, oppo find x10 pro max, find x10 camera 200mp, dimensity 9600 pro, oppo find x10 giá, oppo find x10 ra mắt, hasselblad oppo"
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-24T09:00:00+07:00"
-dateModified: "2026-09-24T09:00:00+07:00"
-deck: "Oppo đã tự xác nhận phần gây chú ý nhất của Find X10 Pro Max trước khi máy ra mắt: ba ống kính, cả ba đều 200MP. Đây là lần đầu một smartphone thương mại đi theo hướng đó, thay vì để camera chính gánh độ phân giải còn hai ống kia chạy cảm biến nhỏ hơn. Máy ra mắt tại Trung Quốc cuối tháng 9/2026 và ra toàn cầu trong tháng 10, nên câu hỏi giá bán tại Việt Nam sẽ có lời đáp sớm hơn nhiều so với các dòng flagship khác."
+dateModified: "2026-09-25T11:00:00+07:00"
+deck: "Find X10 Pro Max đã ra mắt tại Trung Quốc ngày 22/9/2026 với ba ống kính, cả ba đều 200MP. Đây là lần đầu một smartphone thương mại đi theo hướng đó, thay vì để camera chính gánh độ phân giải còn hai ống kia chạy cảm biến nhỏ hơn. Giá Trung Quốc đã có, từ 6.799 tệ, còn lịch bán toàn cầu và giá Việt Nam Oppo chưa công bố."
 heroImage: "https://i.ytimg.com/vi/x9JJE2M-4Lc/maxresdefault.jpg"
 heroAlt: "Oppo Find X10 Pro Max voi ba camera 200MP Hasselblad nam 2026"
 heroCaption: "Find X10 series ra mắt tại Trung Quốc ngày 22/9/2026. Ảnh minh họa từ YouTube"
 ogImage: "https://techvision.click/uploads/og-article/oppo-find-x10-series-ra-mat-ba-camera-200mp-dimensity-9600-pro.jpg"
-tldr: "Oppo xác nhận <strong>Find X10 series</strong> ra mắt tại Trung Quốc ngày <strong>22/9/2026</strong> với ba bản <strong>Find X10, Find X10 Pro Max và Find X10 E</strong>; ngày ra mắt toàn cầu chưa được công bố. Bản cao nhất <strong>Find X10 Pro Max</strong> dùng <strong>ba camera 200MP</strong> phát triển cùng Hasselblad: camera chính khẩu <strong>f/1.5</strong>, góc siêu rộng f/2.2 và tele f/2.1 kèm chống rung chuẩn <strong>CIPA 7.5</strong>. Máy được cho là chạy <strong>Dimensity 9600 Pro</strong> trên tiến trình <strong>2nm của TSMC</strong>, thuộc nhóm chip 2nm thương mại đầu tiên. Tại Việt Nam, thế hệ trước là Find X9 Pro đang bán ở mức <strong>32,99 triệu đồng</strong> bản 16GB/512GB."
+tldr: "Oppo xác nhận <strong>Find X10 series</strong> ra mắt tại Trung Quốc ngày <strong>22/9/2026</strong> với ba bản <strong>Find X10, Find X10 Pro Max và Find X10 E</strong>; máy bán từ <strong>24/9</strong>, ngày ra mắt toàn cầu chưa được công bố. Bản cao nhất <strong>Find X10 Pro Max</strong> dùng <strong>ba camera 200MP</strong> phát triển cùng Hasselblad: camera chính khẩu <strong>f/1.5</strong>, góc siêu rộng f/2.2 và tele f/2.1 kèm chống rung chuẩn <strong>CIPA 7.5</strong>, chạy <strong>Dimensity 9600 Pro</strong> tiến trình <strong>2nm</strong>, pin <strong>8.000mAh</strong>. Giá Trung Quốc từ <strong>6.799 tệ</strong> (khoảng <strong>25,9 triệu đồng</strong> quy đổi) cho Pro Max, <strong>5.499 tệ</strong> cho Find X10 và <strong>4.999 tệ</strong> cho Find X10 E. Tại Việt Nam, mốc tham chiếu là Find X9 Ultra đang bán <strong>44,84 triệu đồng</strong>."
 tags: ["Smartphone", "Oppo", "Camera", "MediaTek"]
 about: ["Oppo", "Oppo Find X10 Pro Max", "Hasselblad", "MediaTek Dimensity 9600 Pro"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường smartphone và mức giá thực tế tại các đại lý Việt Nam."
-sourceUrl: "https://www.gizmochina.com/2026/09/02/oppo-find-x10-pro-max-leaked-renders-triple-200mp-cameras/"
-sourceName: "Gizmochina"
-sourceDomains: "gizmochina.com · t3.com · gizchina.com · notebookcheck.net"
+sourceUrl: "https://www.gizchina.com/oppo-phones-2/oppo-find-x10-pro-max-officially-unveiled-how-much-does-it-cost"
+sourceName: "Gizchina"
+sourceDomains: "gizchina.com · phonebunch.com · mymobileindia.com · gizmochina.com · notebookcheck.net"
 stats:
   - { num: "3 x 200MP", label: "Số ống kính 200MP trên Find X10 Pro Max theo xác nhận của Oppo" }
   - { num: "f/1.5", label: "Khẩu độ camera chính, hai ống còn lại f/2.2 và f/2.1" }
   - { num: "CIPA 7.5", label: "Chuẩn chống rung của ống tele trên bản Pro Max" }
   - { num: "2nm", label: "Tiến trình TSMC của chip Dimensity 9600 Pro" }
-  - { num: "22/9/2026", label: "Ngày Find X10 series ra mắt tại Trung Quốc, Oppo xác nhận 14/9" }
+  - { num: "22/9/2026", label: "Ngày Find X10 series ra mắt tại Trung Quốc, bán từ 24/9" }
+  - { num: "6.799 tệ", label: "Giá khởi điểm Find X10 Pro Max 12GB/256GB tại Trung Quốc, khoảng 25,9 triệu đồng" }
   - { num: "44,84 triệu", label: "Giá bán Find X9 Ultra tại Việt Nam ngày 15/9, làm mốc tham chiếu" }
 faq:
   - q: "Ba camera 200MP có thực sự tốt hơn cách bố trí thông thường không?"
     a: "Không tự động tốt hơn. Độ phân giải cao ở cả ba ống giúp giữ chi tiết khi cắt ảnh và khi chuyển giữa các tiêu cự, đặc biệt có lợi cho ống góc siêu rộng vốn hay là mắt xích yếu nhất. Nhưng chất lượng ảnh cuối cùng phụ thuộc kích thước cảm biến, khẩu độ, ống kính và phần xử lý nhiều hơn là con số megapixel. Cảm biến 200MP nhỏ vẫn có thể thua cảm biến 50MP lớn trong điều kiện thiếu sáng."
   - q: "Find X10 bao giờ về Việt Nam và giá khoảng bao nhiêu?"
-    a: "Oppo chưa công bố lịch bán hay giá tại Việt Nam. Căn cứ có thể dùng là thế hệ trước: ngày 15/9/2026, Find X9 Ultra đang bán 44,84 triệu đồng tại Thế Giới Di Động và CellphoneS (niêm yết 49,99 triệu), còn Find X9 Pro đã ngừng kinh doanh tại Thế Giới Di Động. Các thế hệ Find X gần đây thường về Việt Nam sau bản toàn cầu vài tuần tới hơn một tháng. Mọi con số giá cho Find X10 lúc này đều là suy đoán, nên chờ công bố chính thức trước khi tính toán."
+    a: "Oppo chưa công bố lịch bán hay giá tại Việt Nam. Giá Trung Quốc đã có: Find X10 Pro Max từ 6.799 tệ, Find X10 từ 5.499 tệ, Find X10 E từ 4.999 tệ, tương đương khoảng 25,9, 21 và 19 triệu đồng theo tỷ giá chuyển khoản Vietcombank ngày 25/9/2026. Giá chính hãng tại Việt Nam thường không trùng giá quy đổi vì còn VAT, chi phí phân phối và bảo hành. Một mốc khác là thế hệ trước: ngày 15/9/2026, Find X9 Ultra đang bán 44,84 triệu đồng tại Thế Giới Di Động và CellphoneS (niêm yết 49,99 triệu), còn Find X9 Pro đã ngừng kinh doanh tại Thế Giới Di Động. Các thế hệ Find X gần đây thường về Việt Nam sau bản toàn cầu vài tuần tới hơn một tháng. Giá Việt Nam cho Find X10 lúc này vẫn là suy đoán, nên chờ công bố chính thức trước khi tính toán."
   - q: "Dimensity 9600 Pro khác gì Dimensity 9600 thường?"
-    a: "Theo các bản tin rò rỉ, Find X10 Pro Max dùng bản Dimensity 9600 Pro còn các model thấp hơn trong dòng có thể dùng biến thể khác cùng họ chip. Cách phân tầng này khá phổ biến: bản Pro thường có xung nhịp cao hơn hoặc phần đồ họa mở rộng hơn. Chi tiết cụ thể chưa được MediaTek công bố đầy đủ nên chưa thể so sánh chính xác."
+    a: "Khi ra mắt, Oppo chia chip theo ba tầng: Find X10 Pro Max dùng Dimensity 9600 Pro tiến trình 2nm, Find X10 bản thường dùng Dimensity 9600M, còn Find X10 E dùng Dimensity 9500s của thế hệ trước. Cách phân tầng này khá phổ biến: bản cao nhất thường có xung nhịp cao hơn hoặc phần đồ họa mở rộng hơn. Chênh lệch hiệu năng thực tế giữa các bản cần chờ đo trên máy bán ra."
   - q: "Chip 2nm có làm máy mát và tiết kiệm pin hơn rõ rệt không?"
     a: "Tiến trình nhỏ hơn giúp giảm điện năng tiêu thụ ở cùng mức hiệu năng, nhưng phần cải thiện người dùng cảm nhận được phụ thuộc rất nhiều vào cách hãng thiết lập xung nhịp và tản nhiệt. Nhiều máy dùng tiến trình mới lại đẩy hiệu năng lên cao hơn thay vì giữ nguyên để tiết kiệm điện, nên thời lượng pin không nhất thiết tăng tương ứng. Cần chờ đo thực tế trên máy bán ra."
   - q: "Nên mua Find X9 Ultra đang giảm giá hay chờ Find X10?"
-    a: "Nếu ưu tiên chụp ảnh ở dải tiêu cự rộng và muốn thiết bị mới nhất thì chờ Find X10 hợp lý, vì máy chỉ còn cách vài tuần. Nếu ưu tiên giá thì thời điểm ngay sau khi Find X10 ra toàn cầu thường là lúc thế hệ trước giảm sâu nhất tại các đại lý Việt Nam. Với đa số nhu cầu thường ngày, khoảng chênh lệch giữa hai thế hệ liền kề trong dòng Find X không lớn bằng mức chênh giá."
+    a: "Nếu ưu tiên chụp ảnh ở dải tiêu cự rộng và muốn thiết bị mới nhất thì chờ Find X10 hợp lý, vì máy đã bán tại Trung Quốc và bản toàn cầu thường theo sau. Nếu ưu tiên giá thì thời điểm ngay sau khi Find X10 ra toàn cầu thường là lúc thế hệ trước giảm sâu nhất tại các đại lý Việt Nam. Với đa số nhu cầu thường ngày, khoảng chênh lệch giữa hai thế hệ liền kề trong dòng Find X không lớn bằng mức chênh giá."
 related:
   - { href: "/articles/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.html", cat: "Smartphone", title: "Xiaomi 18 Pro, Pro Max và Fold ra mắt: giá tại Việt Nam" }
   - { href: "/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html", cat: "Apple", title: "iPhone 18 Pro và Pro Max: giá chính thức và cấu hình" }
@@ -44,22 +45,26 @@ related:
 featured: true
 ---
 
-Oppo đã chủ động xác nhận điểm nhấn của **Find X10 Pro Max** trước ngày ra mắt, thay vì để thông tin nhỏ giọt qua rò rỉ: máy có **ba camera 200MP**, cả ba phát triển cùng Hasselblad. Ngày 14/9, Oppo công bố ảnh chính thức, video teaser và chốt lịch: dòng Find X10 ra mắt tại Trung Quốc ngày **22/9/2026** với ba bản Find X10, Find X10 Pro Max và Find X10 E, ra cùng đồng hồ Watch S2 và tai nghe Enco X4. Find X10 bản thường dùng hai camera 200MP. Ngày ra mắt toàn cầu chưa được công bố.
+> **Cập nhật 25/9/2026:** Find X10 series đã ra mắt tại Trung Quốc ngày 22/9 và bán từ 24/9. Giá Trung Quốc, chip và pin trong bài là số chính thức đối chiếu từ nhiều nguồn. Giá Việt Nam và lịch bán toàn cầu Oppo chưa công bố.
+
+Oppo đã chủ động xác nhận điểm nhấn của **Find X10 Pro Max** trước ngày ra mắt, thay vì để thông tin nhỏ giọt qua rò rỉ: máy có **ba camera 200MP**, cả ba phát triển cùng Hasselblad. Ngày 14/9, Oppo công bố ảnh chính thức, video teaser và chốt lịch: dòng Find X10 ra mắt tại Trung Quốc ngày **22/9/2026** với ba bản Find X10, Find X10 Pro Max và Find X10 E, ra cùng đồng hồ Watch S2 và tai nghe Enco X4. Find X10 bản thường dùng hai camera 200MP. Sự kiện diễn ra đúng lịch, cả ba bản lên kệ tại Trung Quốc từ 24/9. Ngày ra mắt toàn cầu chưa được công bố.
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Find X10 Pro Max: những gì đã được xác nhận và rò rỉ</div>
+  <div class="spec-box-title">📋 Find X10 Pro Max: thông số Oppo công bố khi ra mắt</div>
   <table>
     <tr><td>Camera chính</td><td>200MP, khẩu độ f/1.5</td></tr>
     <tr><td>Camera góc siêu rộng</td><td>200MP, khẩu độ f/2.2</td></tr>
     <tr><td>Camera tele</td><td>200MP, f/2.1, chống rung chuẩn CIPA 7.5</td></tr>
     <tr><td>Hợp tác quang học</td><td>Hasselblad</td></tr>
-    <tr><td>Chip</td><td>Dimensity 9600 Pro, tiến trình 2nm TSMC (rò rỉ)</td></tr>
-    <tr><td>Ra mắt Trung Quốc</td><td>22/9/2026 (Oppo xác nhận 14/9)</td></tr>
+    <tr><td>Chip</td><td>Dimensity 9600 Pro, tiến trình 2nm</td></tr>
+    <tr><td>Pin và sạc</td><td>8.000mAh, sạc dây 80W, không dây 50W</td></tr>
+    <tr><td>Giá Trung Quốc</td><td>Từ 6.799 tệ (12GB/256GB) tới 8.999 tệ (16GB/1TB)</td></tr>
+    <tr><td>Ra mắt Trung Quốc</td><td>22/9/2026, bán từ 24/9</td></tr>
     <tr><td>Ra mắt toàn cầu</td><td>Chưa công bố</td></tr>
   </table>
 </div>
 
-Phần camera là thông tin do chính Oppo đưa ra, còn phần chip và ngày bán cụ thể đến từ rò rỉ, trong đó có các nguồn quen thuộc như Digital Chat Station và Ice Universe, còn ngày ra mắt 22/9 tại Trung Quốc thì Oppo đã tự xác nhận hôm 14/9. Ranh giới giữa hai nhóm thông tin này nên được giữ rõ khi đọc.
+Trước sự kiện, phần camera do chính Oppo hé lộ còn chip đến từ rò rỉ của Digital Chat Station và Ice Universe. Sau buổi ra mắt 22/9, cả hai nhóm thông tin đều đã khớp với thông số chính thức. Phần còn thiếu là lịch bán toàn cầu và giá ngoài Trung Quốc.
 
 ## Ba ống kính 200MP: vì sao đây là bước đi khác thường
 
@@ -93,15 +98,33 @@ Với ống tele thì chống rung quan trọng hơn hẳn so với ống chính
 
 ## Dimensity 9600 Pro và làn sóng chip 2nm
 
-Theo rò rỉ, Find X10 Pro Max chạy **Dimensity 9600 Pro** sản xuất trên tiến trình **2nm của TSMC**, thuộc nhóm chip di động 2nm thương mại đầu tiên. Các model thấp hơn trong dòng được cho là dùng biến thể khác cùng họ chip.
+Find X10 Pro Max chạy **Dimensity 9600 Pro** tiến trình **2nm**, thuộc nhóm chip di động 2nm thương mại đầu tiên. Find X10 bản thường dùng **Dimensity 9600M**, còn Find X10 E lùi về **Dimensity 9500s** với pin 7.025mAh.
 
 Việc MediaTek có mặt sớm ở tiến trình 2nm là thay đổi đáng kể so với vài năm trước, khi dòng Dimensity còn bị xem là lựa chọn hạng hai so với Snapdragon ở phân khúc cao cấp. Cuộc cạnh tranh chip cao cấp năm nay vì thế có ba bên thay vì hai, và người mua là bên hưởng lợi. Cùng thời điểm này, dòng Xiaomi cũng đã lên kệ với cấu hình cao cấp và mức giá Việt Nam đã công bố, chi tiết nằm trong bài [Xiaomi 18 Pro, Pro Max và Fold ra mắt cùng giá tại Việt Nam](/articles/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.html).
 
 Về hiệu năng thực tế, nên chờ máy thương mại. Tiến trình nhỏ hơn giúp giảm điện năng ở cùng mức hiệu năng, nhưng phần lớn hãng chọn đẩy hiệu năng lên thay vì giữ nguyên để tiết kiệm pin. Kết quả là thời lượng pin không phải lúc nào cũng tăng theo, và nhiệt độ máy phụ thuộc vào thiết kế tản nhiệt nhiều hơn là con số nanomet.
 
-## Giá tại Việt Nam: lấy gì làm mốc
+## Giá Trung Quốc và mốc tham chiếu tại Việt Nam
 
-Oppo chưa công bố giá cho Find X10 ở bất kỳ thị trường nào, nên mọi con số lúc này đều là suy đoán. Mốc tham chiếu đáng tin nhất là thế hệ liền trước.
+Oppo mới công bố giá tại Trung Quốc. Bảng dưới quy đổi theo tỷ giá chuyển khoản Vietcombank ngày 25/9/2026 (1 tệ = 3.811,56 đồng), chỉ để hình dung mặt bằng giá chứ không phải giá bán tại Việt Nam.
+
+<div class="spec-box">
+  <div class="spec-box-title">💰 Giá Find X10 series tại Trung Quốc</div>
+  <table>
+    <tr><td>Find X10 E 12GB/256GB</td><td>4.999 tệ, khoảng 19,05 triệu đồng</td></tr>
+    <tr><td>Find X10 E 16GB/512GB</td><td>5.499 tệ, khoảng 20,96 triệu đồng</td></tr>
+    <tr><td>Find X10 12GB/256GB</td><td>5.499 tệ, khoảng 20,96 triệu đồng</td></tr>
+    <tr><td>Find X10 12GB/512GB</td><td>5.999 tệ, khoảng 22,87 triệu đồng</td></tr>
+    <tr><td>Find X10 16GB/512GB</td><td>6.499 tệ, khoảng 24,77 triệu đồng</td></tr>
+    <tr><td>Find X10 16GB/1TB</td><td>7.499 tệ, khoảng 28,58 triệu đồng</td></tr>
+    <tr><td>Find X10 Pro Max 12GB/256GB</td><td>6.799 tệ, khoảng 25,91 triệu đồng</td></tr>
+    <tr><td>Find X10 Pro Max 12GB/512GB</td><td>7.499 tệ, khoảng 28,58 triệu đồng</td></tr>
+    <tr><td>Find X10 Pro Max 16GB/512GB</td><td>7.999 tệ, khoảng 30,49 triệu đồng</td></tr>
+    <tr><td>Find X10 Pro Max 16GB/1TB</td><td>8.999 tệ, khoảng 34,30 triệu đồng</td></tr>
+  </table>
+</div>
+
+Giá chính hãng tại Việt Nam thường không trùng giá quy đổi, vì còn VAT, chi phí phân phối và bảo hành. Oppo chưa công bố giá Việt Nam, nên mốc tham chiếu đáng tin nhất vẫn là thế hệ liền trước đang bán tại đại lý.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/v3P5Buwiy1k/maxresdefault.jpg" alt="Dien thoai Oppo Find X ban chinh hang tai dai ly Viet Nam" loading="lazy" width="1280" height="720">
@@ -110,7 +133,7 @@ Oppo chưa công bố giá cho Find X10 ở bất kỳ thị trường nào, nê
 
 Khảo sát ngày 15/9/2026, **Find X9 Pro** đã ở trạng thái ngừng kinh doanh trên Thế Giới Di Động, nên mốc tham chiếu còn bán rộng là **Find X9 Ultra** với giá **44,84 triệu đồng** tại Thế Giới Di Động và CellphoneS, niêm yết 49,99 triệu. Các đại lý lớn đang chạy chương trình thu cũ đổi mới và quà tặng kèm, nên giá thực tế người mua trả thường thấp hơn mức niêm yết.
 
-Với Find X10, có hai yếu tố kéo giá theo hai hướng ngược nhau. Kéo lên là chi phí linh kiện: giá bộ nhớ và chip nhớ tăng mạnh trong năm 2026, cộng thêm tiến trình 2nm còn mới nên đắt. Kéo xuống là áp lực cạnh tranh ở phân khúc 30 tới 35 triệu đồng, nơi đang có mặt cả iPhone, Samsung, Xiaomi và Honor. Mức giá thực tế nhiều khả năng nằm quanh vùng của thế hệ trước, nhưng đó là suy luận chứ chưa phải con số xác nhận.
+Với Find X10, có hai yếu tố kéo giá theo hai hướng ngược nhau. Kéo lên là chi phí linh kiện: giá bộ nhớ và chip nhớ tăng mạnh trong năm 2026, cộng thêm tiến trình 2nm còn mới nên đắt. Kéo xuống là áp lực cạnh tranh ở phân khúc 30 tới 35 triệu đồng, nơi đang có mặt cả iPhone, Samsung, Xiaomi và Honor. Giá Trung Quốc của bản Pro Max quy đổi khoảng 25,9 tới 34,3 triệu đồng tùy bộ nhớ, nhưng giá Việt Nam vẫn là suy luận cho tới khi Oppo công bố.
 
 Với người đang cân nhắc, thời điểm đáng chú ý không hẳn là ngày Find X10 lên kệ mà là vài tuần sau đó. Đây là lúc Find X9 và X9 Pro thường giảm mạnh nhất tại các đại lý Việt Nam. Nếu nhu cầu chính là chụp ảnh thường ngày chứ không phải khai thác hết dải tele, khoảng chênh lệch giá giữa hai thế hệ liền kề thường lớn hơn khoảng chênh lệch trải nghiệm.
 
