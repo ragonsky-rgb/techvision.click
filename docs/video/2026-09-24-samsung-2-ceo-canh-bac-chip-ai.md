@@ -1,6 +1,6 @@
 # Video Vox: Samsung có 2 CEO + 1 chủ tịch, và canh bạc chip AI (24/09/2026)
 
-> **Facebook Reels: ĐÃ HẸN 28/09 19:00 (bản Vox ảnh thật)** qua `fb_reel.py` (video_id 1242405018062558, 25/09/2026). **TikTok: ĐÃ HẸN 28/09 19:00** (Claude qua Chrome, 25/09). YouTube: chưa.
+> **Facebook Reels: ĐÃ HẸN 28/09 19:00 (bản Vox ảnh thật)** qua `fb_reel.py` (video_id 1242405018062558, 25/09/2026). **TikTok: ĐÃ HẸN 28/09 19:00** (Claude qua Chrome, 25/09). **YouTube: ĐÃ HẸN 28/09 19:00** https://youtube.com/shorts/fRfZgVVIbv4.
 
 - Kiểu: cắt dán giấy kiểu Vox (ngoại lệ 15/09 cho phép Flow), dọc 9:16, **56,6 giây**, giọng OmniVoice **1,2x**
 - Bản cuối: `~/techvision-video-kit/out/samsung/samsung-2-ceo-canh-bac-chip-ai-final.mp4` (27,6 MB)
