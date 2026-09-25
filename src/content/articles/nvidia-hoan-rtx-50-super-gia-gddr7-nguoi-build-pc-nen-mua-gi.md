@@ -5,8 +5,8 @@ description: "Card RTX 50 Super đã tới tay hãng lắp ráp rồi nằm im v
 keywords: "RTX 50 Super, RTX 5080 Super, RTX 5070 Ti Super, GDDR7 3GB, NVIDIA hoãn ra mắt, giá card đồ họa 2026, build PC Việt Nam, khủng hoảng chip nhớ"
 category: "Công nghệ"
 type: "tin-tuc"
-datePublished: "2026-10-05T08:30:00+07:00"
-dateModified: "2026-10-05T08:30:00+07:00"
+datePublished: "2026-11-03T15:30:00+07:00"
+dateModified: "2026-11-03T15:30:00+07:00"
 noindex: true
 scheduled: true
 deck: "Cả ba mẫu RTX 5070 Super, RTX 5070 Ti Super và RTX 5080 Super đã được sản xuất và chuyển tới các hãng lắp ráp, nhưng NVIDIA giữ lại không cho bán. Nguyên nhân không nằm ở con chip đồ họa mà ở chip nhớ: module GDDR7 dung lượng 3GB hiện đắt gấp khoảng ba lần loại 2GB, đủ để thổi bay toàn bộ biên lợi nhuận của một thế hệ card làm mới giữa vòng đời."

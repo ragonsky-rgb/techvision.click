@@ -5,8 +5,8 @@ description: "One UI 9 nền Android 17 tới máy Galaxy từ tháng 9/2026: nh
 keywords: "one ui 9, one ui 9 cập nhật máy nào, one ui 9 khi nào, android 17 samsung, galaxy cập nhật one ui 9, one ui 9 việt nam, galaxy s26 fe one ui 9"
 category: "Smartphone"
 type: "tin-tuc"
-datePublished: "2026-09-28T15:30:00+07:00"
-dateModified: "2026-09-28T15:30:00+07:00"
+datePublished: "2026-10-29T09:00:00+07:00"
+dateModified: "2026-10-29T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Sau vài tháng thử nghiệm, One UI 9 nền Android 17 bắt đầu rời khỏi nhóm máy gập cao cấp để đi xuống phần còn lại của danh mục Galaxy. Bài này gom lại những gì đã chắc chắn, những gì mới ở mức lộ trình, và cách để không phải ngồi bấm nút kiểm tra cập nhật mỗi ngày."

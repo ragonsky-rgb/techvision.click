@@ -5,8 +5,8 @@ description: "Ba mô hình AI ra trong 48 giờ. Bảng chấm độc lập xế
 keywords: "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, Grok 4.7, AI nào mạnh nhất, AI miễn phí, Artificial Analysis, so sánh mô hình AI 2026"
 category: "AI"
 type: "tin-tuc"
-datePublished: "2026-09-29T08:30:00+07:00"
-dateModified: "2026-09-29T08:30:00+07:00"
+datePublished: "2026-10-31T09:00:00+07:00"
+dateModified: "2026-10-31T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Chỉ trong hai ngày 21 và 22/9/2026, xAI ra Grok 4.7, OpenAI ra GPT-6 Sol cùng GPT-6 Luna, còn Anthropic ra Claude Opus 5.5. Mỗi hãng đều công bố bảng điểm có lợi cho mình. Bài này đặt cả ba lên cùng một bảng chấm độc lập để xem ai mạnh nhất thật, rồi trả lời câu hỏi mà người dùng phổ thông quan tâm hơn: không trả tiền thì được dùng bản nào."

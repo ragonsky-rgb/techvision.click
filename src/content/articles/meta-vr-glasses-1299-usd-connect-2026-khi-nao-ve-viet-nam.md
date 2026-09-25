@@ -5,8 +5,8 @@ description: "Meta Connect 2026 công bố Meta VR Glasses 1.299,99 USD, nặng 
 keywords: "meta vr glasses, meta connect 2026, meta vr glasses giá, kính vr meta, ray-ban meta gen 3, muse charm, quest 4, meta vr glasses việt nam"
 category: "Công nghệ"
 type: "tin-tuc"
-datePublished: "2026-10-02T09:00:00+07:00"
-dateModified: "2026-10-02T09:00:00+07:00"
+datePublished: "2026-11-02T15:30:00+07:00"
+dateModified: "2026-11-02T15:30:00+07:00"
 scheduled: true
 noindex: true
 deck: "Sau nhiều năm bán kính thực tế ảo dạng mũ trùm, Meta đưa ra thiết bị đi ngược hướng đó tại Connect 2026: một cặp kính nặng khoảng 100 gram, còn toàn bộ phần xử lý nằm trong hộp rời để trong túi. Giá 1.299,99 USD và phải chờ tới mùa xuân 2027 mới bán. Đáng chú ý hơn cả thông số là điều Meta không công bố: không có Quest mới năm nay, và Quest 4 bị đẩy sang 2027."
