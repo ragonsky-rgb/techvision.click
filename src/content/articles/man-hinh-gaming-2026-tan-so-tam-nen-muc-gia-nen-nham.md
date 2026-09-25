@@ -96,11 +96,11 @@ Từ 144Hz lên 240Hz vẫn cảm nhận được, đặc biệt trong các pha 
 
 Điều quan trọng hơn con số tần số là tính năng đồng bộ khung hình giữa card và màn hình. Khi số khung hình dao động, cơ chế này giữ cho hình ảnh không bị xé ngang, và nó tạo cảm giác mượt rõ rệt hơn việc nâng thêm vài chục Hz. Gần như mọi màn hình chơi game hiện nay đều có, nhưng nên kiểm tra xem nó hoạt động đúng với loại card đang dùng hay không.
 
-<div class="art-video-label">VIDEO · Công nghệ hiển thị và khác biệt giữa các loại tấm nền</div>
+<div class="art-video-label">VIDEO · So sánh màn hình chơi game OLED và Mini LED năm 2026</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/X93bXnG0GVI" title="Cong nghe hien thi va khac biet giua cac loai tam nen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/ccnHBukkddU" title="OLED vs Mini LED Gaming Monitors in 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
-<p class="art-video-caption">Độ tương phản và thời gian phản hồi là hai chỉ số phân biệt rõ nhất giữa OLED, Mini LED và IPS. Nguồn: YouTube</p>
+<p class="art-video-caption">Độ tương phản và thời gian phản hồi là hai chỉ số phân biệt rõ nhất giữa OLED, Mini LED và IPS. Nguồn: GeekaWhat / YouTube</p>
 
 ## Ngân sách và những chỗ dễ trả tiền oan
 
