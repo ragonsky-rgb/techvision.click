@@ -1,6 +1,6 @@
 # Video: OPPO Find X10 Pro Max đã lên kệ - giá quy đổi (25/09/2026)
 
-> **Facebook Reels: ĐÃ HẸN 26/09 19:00** qua `fb_reel.py` (video_id 1644025567388446, 25/09/2026). **TikTok: ĐÃ HẸN 26/09 19:00** (Claude qua Chrome, 25/09). YouTube: chưa.
+> **ĐÃ ĐĂNG SỚM 25/09 tối** (anh Long bảo lên sớm vì nhiều kênh đã ra): **YouTube Shorts** https://youtube.com/shorts/ASX60M6YiUA (công khai) · **Facebook Reels** đăng ngay bằng `fb_reel.py move --now` (video_id 1644025567388446). **TikTok**: bài hẹn 26/09 19:00 KHÔNG sửa giờ được (TikTok cấm sửa bài đã lên lịch), chờ anh Long xoá bài hẹn rồi đăng lại.
 
 Trạng thái: bảng kê anh Long duyệt 25/9; **đã dựng xong** `techvision-video-kit/out/x10gia/oppo-find-x10-pro-max-gia-final.mp4` (51,3s, 22 MB), CHƯA đăng.
 
