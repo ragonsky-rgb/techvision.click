@@ -1,5 +1,7 @@
 # Video thử nghiệm: Lịch sử 8 đời CEO Apple, dựng kiểu cắt dán giấy (16/09/2026)
 
+> **Facebook Reels: ĐÃ HẸN 30/09 19:00** qua `fb_reel.py` (video_id 1084825337856858, 25/09/2026). TikTok/YouTube: anh Long tự đăng.
+
 **Đây là bản THỬ dòng phong cách mới**, không phải video tin tức thường lệ. Mục đích: kiểm xem
 dòng "cắt dán giấy kiểu Vox" có làm được bằng công cụ đang có không, tốn bao nhiêu, vướng ở đâu.
 

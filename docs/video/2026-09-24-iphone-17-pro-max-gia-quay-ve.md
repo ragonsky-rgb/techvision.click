@@ -1,5 +1,7 @@
 # Video: iPhone 17 Pro Max giá quay về sau khi iPhone 18 lên kệ (24/09/2026)
 
+> **Facebook Reels: ĐÃ HẸN 27/09 19:00 (bản 26s)** qua `fb_reel.py` (video_id 1482250960406084, 25/09/2026). TikTok/YouTube: anh Long tự đăng.
+
 **Kiểu dựng MỚI: hoạt hình vẽ tay, dọc 9:16.** Mọi hình vẽ bằng code (PIL) trong
 `~/techvision-video-kit/scripts/build_i17hd.py`: nét bút rung đổi dạng 12 lần/giây như hoạt hình
 vẽ tay, chữ tự viết ra, khoanh tròn, mũi tên, biểu đồ vẽ dần, zoom giật đầu cảnh. **Không Flow,
@@ -89,7 +91,7 @@ https://techvision.click/articles/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban
 
 **Facebook Reels**
 ```
-Chờ iPhone 18 ra để mua iPhone 17 Pro Max rẻ hơn? Năm nay chưa được như vậy. Trước sự kiện máy từng giảm về 33,6-34 triệu, hôm nay CellphoneS và FPT Shop đều bán 34.590.000đ. Cùng hai chuỗi, iPhone 18 Pro Max 256GB là 41.990.000đ.
+Chờ iPhone 18 ra để mua iPhone 17 Pro Max rẻ hơn? Năm nay chưa được như vậy. Trước sự kiện máy từng giảm về 33,6-34 triệu, ngày 24/9 CellphoneS và FPT Shop đều bán 34.590.000đ. Cùng hai chuỗi, iPhone 18 Pro Max 256GB là 41.990.000đ.
 Giá từng chuỗi: https://techvision.click/articles/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban-viet-nam-2026.html?utm_source=facebook&utm_medium=social&utm_campaign=video-gia-iphone-17-pro-max-quay-ve
 ```
 

@@ -1,5 +1,7 @@
 # Video Vox: Samsung có 2 CEO + 1 chủ tịch, và canh bạc chip AI (24/09/2026)
 
+> **Facebook Reels: ĐÃ HẸN 28/09 19:00 (bản Vox ảnh thật)** qua `fb_reel.py` (video_id 1242405018062558, 25/09/2026). TikTok/YouTube: anh Long tự đăng.
+
 - Kiểu: cắt dán giấy kiểu Vox (ngoại lệ 15/09 cho phép Flow), dọc 9:16, **56,6 giây**, giọng OmniVoice **1,2x**
 - Bản cuối: `~/techvision-video-kit/out/samsung/samsung-2-ceo-canh-bac-chip-ai-final.mp4` (27,6 MB)
 - Dựng lại: `python3 scripts/build_samsung.py voice|motion|caps|final`; câu lệnh Flow ở `out/samsung/prompts.md`
@@ -82,7 +84,7 @@ https://techvision.click/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi
 
 **Facebook Reels**
 ```
-Ít ai để ý: Samsung đang được điều hành bởi 2 CEO cùng lúc. Và họ đang đặt cược lớn nhất vào chip AI: HBM4 đầu tiên thế giới, hợp đồng 16,5 tỷ USD làm chip cho Tesla tới 2033, nhà máy ở Texas vừa chạy thử chip 2nm. Chip 2nm của Samsung mạnh cỡ nào: https://techvision.click/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html?utm_source=facebook&utm_medium=social&utm_campaign=video-samsung-2-ceo-chip-ai
+Ít ai để ý: Samsung đang được điều hành bởi 2 CEO cùng lúc. Và họ đang đặt cược lớn nhất vào chip AI: HBM4 đầu tiên thế giới, hợp đồng 16,5 tỷ USD làm chip cho Tesla tới 2033, và báo Hàn Quốc đưa tin nhà máy ở Texas đã chạy thử chip 2nm. Chip 2nm của Samsung mạnh cỡ nào: https://techvision.click/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html?utm_source=facebook&utm_medium=social&utm_campaign=video-samsung-2-ceo-chip-ai
 ```
 
 ## Bẫy Flow gặp lần này (bổ sung cho hồ sơ CEO Apple)
