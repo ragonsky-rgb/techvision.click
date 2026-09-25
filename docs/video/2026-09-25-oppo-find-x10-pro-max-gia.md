@@ -1,6 +1,8 @@
 # Video: OPPO Find X10 Pro Max đã lên kệ - giá quy đổi (25/09/2026)
 
-Trạng thái: **CHỜ ANH LONG DUYỆT BẢNG KÊ** (luật 12/08: duyệt rồi mới dựng).
+Trạng thái: bảng kê anh Long duyệt 25/9; **đã dựng xong** `techvision-video-kit/out/x10gia/oppo-find-x10-pro-max-gia-final.mp4` (51,3s, 22 MB), CHƯA đăng.
+
+Sửa lúc dựng: câu 3 đọc lại (giọng lẫn "sáu nghìn" thành "sáu ghi"), câu 10 đọc lại 2 lần (vấp "Find X10", rồi NUỐT chữ "nghìn" ở "năm nghìn bốn trăm..." - sửa bằng dấu phẩy sau "nghìn"). Cảnh 2/10 đổi khúc theo bản đồ popup-video; câu 3 và 10 đổi lời nhẹ, số giữ nguyên.
 
 - Kiểu dựng: KHÔNG Vox. Toàn bộ là clip video thật của máy, lấy từ trang sản phẩm OPPO chính hãng; thẻ giá dựng bằng code đè lên; phụ đề word-pop nhấn đỏ #C0392B; giọng OmniVoice tua 1,2x.
 - Góc khác Short cũ `Be3AhEUcJsU` ("ra mắt 22/9", đăng trước sự kiện): video này là **sau ra mắt, trục là giá quy đổi**.
@@ -56,3 +58,30 @@ Nguồn chung: trang `https://www.oppo.com/cn/smartphones/series-find-x/find-x10
 | 11 | screenshot bài techvision (nguồn số 3) | bảng giá 10 phiên bản trong bài | chụp màn hình dọc |
 
 KHÔNG dùng: clip review YouTube của kênh khác (cấm theo luật 12/08), ColorOS 90s (giao diện tiếng Trung chiếm hình).
+
+## Gói đăng (CHƯA đăng, chờ anh Long)
+
+**TikTok** (link để bio)
+```
+OPPO Find X10 Pro Max đã lên kệ: quy đổi chưa tới 26 triệu 👀 3 camera 200MP Hasselblad, pin 8.000mAh, quay 8K cả 3 tiêu cự. Giá VN chưa có, anh em đoán bao nhiêu? #oppo #findx10promax #oppofindx10 #camera200mp #techvision
+```
+Link bio: https://techvision.click/articles/oppo-find-x10-series-ra-mat-ba-camera-200mp-dimensity-9600-pro.html?utm_source=tiktok&utm_medium=social&utm_campaign=video-oppo-find-x10-pro-max-gia
+
+**YouTube Shorts**
+
+Tiêu đề: `OPPO Find X10 Pro Max lên kệ: quy đổi chưa tới 26 triệu #Shorts`
+
+Mô tả:
+```
+OPPO Find X10 Pro Max ra mắt tại Trung Quốc ngày 22/9/2026, mở bán từ 24/9. Giá từ 6.799 tệ bản 12GB/256GB (khoảng 25,91 triệu đồng) tới 8.999 tệ bản 16GB/1TB (khoảng 34,30 triệu đồng), quy đổi theo tỷ giá chuyển khoản Vietcombank 25/9. Máy có 3 camera 200MP cùng Hasselblad, tele 70mm chụp macro 10cm, quay 8K cả 3 tiêu cự và Open Gate, pin 8.000mAh, sạc dây 80W, không dây 50W, chip Dimensity 9600 Pro 2nm. Find X10 bản thường từ 5.499 tệ. Giá Việt Nam OPPO chưa công bố.
+
+Bảng giá đủ 3 phiên bản Find X10:
+https://techvision.click/articles/oppo-find-x10-series-ra-mat-ba-camera-200mp-dimensity-9600-pro.html?utm_source=youtube&utm_medium=social&utm_campaign=video-oppo-find-x10-pro-max-gia
+
+Video sản phẩm: OPPO (oppo.com). #Shorts #OPPO #FindX10ProMax
+```
+
+**Facebook Reels**
+```
+OPPO Find X10 Pro Max đã bán ở Trung Quốc, bản rẻ nhất quy đổi chưa tới 26 triệu đồng, bản 1TB hơn 34 triệu. Ba camera 200MP, pin 8.000mAh. Bảng giá đủ 3 phiên bản: https://techvision.click/articles/oppo-find-x10-series-ra-mat-ba-camera-200mp-dimensity-9600-pro.html?utm_source=facebook&utm_medium=social&utm_campaign=video-oppo-find-x10-pro-max-gia
+```
