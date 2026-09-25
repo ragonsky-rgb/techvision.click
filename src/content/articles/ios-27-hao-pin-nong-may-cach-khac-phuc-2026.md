@@ -82,7 +82,7 @@ Ranh giới thực dụng nhất là mốc một tuần sử dụng bình thư�
 Dấu hiệu chắc chắn là lỗi thật gồm: máy nóng tới mức hiện cảnh báo nhiệt độ và tự giảm độ sáng, pin tụt vài phần trăm mỗi giờ ngay cả khi máy nằm yên không dùng, hoặc một ứng dụng cụ thể chiếm tỉ lệ pin lớn bất thường trong mục thống kê dù bạn hiếm khi mở nó. Trường hợp ngược lại, máy chỉ ấm nhẹ khi quay video hoặc chơi game, là hành vi bình thường của mọi điện thoại chứ không liên quan tới bản cập nhật.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FkaC4R54HHE/maxresdefault.jpg" alt="Kiểm tra tình trạng pin và dung lượng tối đa còn lại trên iPhone" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/FkaC4R54HHE/hqdefault.jpg" alt="Kiểm tra tình trạng pin và dung lượng tối đa còn lại trên iPhone" loading="lazy" width="480" height="360">
   <figcaption>Dung lượng pin tối đa dưới 80% là lúc nên tính chuyện thay pin thay vì đổ lỗi cho phần mềm. Nguồn: YouTube</figcaption>
 </figure>
 
