@@ -1,6 +1,6 @@
 # Video Vox: Samsung có 2 CEO + 1 chủ tịch, và canh bạc chip AI (24/09/2026)
 
-> **Facebook Reels: ĐÃ HẸN 28/09 19:00 (bản Vox ảnh thật)** qua `fb_reel.py` (video_id 1242405018062558, 25/09/2026). TikTok/YouTube: anh Long tự đăng.
+> **Facebook Reels: ĐÃ HẸN 28/09 19:00 (bản Vox ảnh thật)** qua `fb_reel.py` (video_id 1242405018062558, 25/09/2026). **TikTok: ĐÃ HẸN 28/09 19:00** (Claude qua Chrome, 25/09). YouTube: chưa.
 
 - Kiểu: cắt dán giấy kiểu Vox (ngoại lệ 15/09 cho phép Flow), dọc 9:16, **56,6 giây**, giọng OmniVoice **1,2x**
 - Bản cuối: `~/techvision-video-kit/out/samsung/samsung-2-ceo-canh-bac-chip-ai-final.mp4` (27,6 MB)
@@ -63,7 +63,7 @@ Luật áp dụng: ảnh TRONG VIDEO được lấy cả ảnh báo/hãng có gh
 
 **TikTok** (link để bio)
 ```
-Samsung đang có 2 CEO cùng lúc, và đứng trên cả hai là Chủ tịch Lee Jae-yong 👀 Họ đang dồn tiền kỷ lục vào chip AI: HBM4 đầu tiên thế giới, hợp đồng 16,5 tỷ USD với Tesla, nhà máy Texas chạy thử chip 2nm. #samsung #chipAI #tesla #HBM4 #techvision
+Samsung đang có 2 CEO cùng lúc, và đứng trên cả hai là Chủ tịch Lee Jae-yong 👀 Họ đang dồn tiền kỷ lục vào chip AI: HBM4 đầu tiên thế giới, hợp đồng 16,5 tỷ USD với Tesla, và báo Hàn Quốc đưa tin nhà máy Texas đã chạy thử chip 2nm. #samsung #chipAI #tesla #HBM4 #techvision
 ```
 Link bio: https://techvision.click/articles/samsung-exynos-2600-chip-2nm-dau-tien-the-gioi-2026.html?utm_source=tiktok&utm_medium=social&utm_campaign=video-samsung-2-ceo-chip-ai
 
