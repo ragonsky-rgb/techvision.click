@@ -5,8 +5,8 @@ description: "Từ 1/7/2026 mỗi khách chỉ mang tối đa 2 sạc dự phòn
 keywords: "sạc dự phòng lên máy bay, quy định sạc dự phòng 2026, 100Wh là bao nhiêu mAh, pin lithium máy bay, Cục Hàng không Việt Nam, mang pin dự phòng"
 category: "Công nghệ"
 type: "huong-dan"
-datePublished: "2026-10-15T15:00:00+07:00"
-dateModified: "2026-10-15T15:00:00+07:00"
+datePublished: "2026-11-11T09:00:00+07:00"
+dateModified: "2026-11-11T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Quy định về sạc dự phòng trên máy bay tại Việt Nam đã siết lại từ ngày 1/7/2026: giới hạn số lượng, bắt buộc để trong hành lý xách tay và cấm sử dụng trong suốt chuyến bay. Phần khiến nhiều người lúng túng nhất là ngưỡng dung lượng tính bằng Wh, trong khi vỏ sạc chỉ ghi mAh. Bài viết hướng dẫn cách quy đổi và đối chiếu với các mức dung lượng phổ biến đang bán tại Việt Nam."

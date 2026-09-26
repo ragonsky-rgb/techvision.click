@@ -5,8 +5,8 @@ description: "GPT-6 Astra ra mắt 3/9 nhưng chỉ có từ gói ChatGPT Plus t
 keywords: "GPT-6 Astra, ChatGPT Plus giá bao nhiêu, ChatGPT Go, Google AI Pro giá, gói AI trả phí Việt Nam, Gemini giá, chọn gói AI 2026"
 category: "AI"
 type: "phan-tich"
-datePublished: "2026-10-12T15:00:00+07:00"
-dateModified: "2026-10-12T15:00:00+07:00"
+datePublished: "2026-11-06T09:00:00+07:00"
+dateModified: "2026-11-06T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "OpenAI phát hành GPT-6 Astra ngày 3/9/2026 và đặt mô hình này từ gói ChatGPT Plus trở lên, tức người dùng gói miễn phí và gói Go rẻ nhất không chạm tới. Bài viết đối chiếu giá thật của các gói AI đang bán tại Việt Nam, từ 132.000 đồng tới hơn 2 triệu đồng mỗi tháng, để trả lời câu hỏi thực tế: với nhu cầu của bạn thì bỏ tiền ở mức nào là đủ."

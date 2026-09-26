@@ -5,8 +5,8 @@ description: "Cách các chuỗi bán lẻ Việt Nam định giá máy cũ, nh�
 keywords: "thu cũ đổi mới, giá thu điện thoại cũ, bán iPhone cũ, trợ giá lên đời, thu cũ đổi mới FPT Shop, CellphoneS thu cũ, lên đời iPhone 18"
 category: "Smartphone"
 type: "huong-dan"
-datePublished: "2026-10-14T15:00:00+07:00"
-dateModified: "2026-10-14T15:00:00+07:00"
+datePublished: "2026-11-10T09:00:00+07:00"
+dateModified: "2026-11-10T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Mỗi mùa máy mới ra là các chuỗi lại tung chương trình thu cũ đổi mới với những con số trợ giá rất kêu. Nhưng số tiền cuối cùng bạn nhận được phụ thuộc vào cách nhân viên chấm tình trạng máy tại quầy, chứ không phải dòng quảng cáo trên trang chủ. Bài này bóc tách cách giá thu được tính, các khoản hay bị trừ và thứ tự việc nên làm trước khi mang máy đi."

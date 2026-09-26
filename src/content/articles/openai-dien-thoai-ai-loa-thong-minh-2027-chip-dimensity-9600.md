@@ -5,8 +5,8 @@ description: "OpenAI đẩy nhanh điện thoại AI, sản xuất hàng loạt 
 keywords: "openai điện thoại ai, openai phone 2027, dimensity 9600, loa thông minh openai, thiết bị openai, ming-chi kuo openai, điện thoại không app"
 category: "AI"
 type: "tin-tuc"
-datePublished: "2026-10-05T09:00:00+07:00"
-dateModified: "2026-10-05T09:00:00+07:00"
+datePublished: "2026-11-05T09:00:00+07:00"
+dateModified: "2026-11-05T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Sau nhiều tháng chỉ có tin đồn về một thiết bị nhỏ không màn hình, chuỗi cung ứng bắt đầu lộ ra thứ tham vọng hơn nhiều: một chiếc điện thoại chạy chip tùy biến do MediaTek làm riêng, đặt cược rằng người dùng sẽ ra lệnh cho agent thay vì mở từng ứng dụng. Kế hoạch được đẩy lên nửa đầu 2027, kèm một chiếc loa AI rẻ hơn đi trước dọn đường."

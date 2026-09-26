@@ -1,18 +1,18 @@
 ---
 slug: "xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam"
-title: "Xiaomi 18 Pro ra mắt tháng 9: cấu hình, giá, có về Việt Nam?"
-description: "Xiaomi 18 Pro, Pro Max và 18 Fold ra mắt tháng 9/2026 với Snapdragon 8 Elite Gen 6 và camera 200MP kép. Giá dự kiến và thực tế mua tại Việt Nam."
+title: "Xiaomi 18 Pro, Pro Max ra mắt: giá, cấu hình, về Việt Nam"
+description: "Xiaomi 18 Pro và 18 Pro Max ra mắt 23/9/2026, giá từ 5.999 và 6.999 tệ, chip 2nm xung 5GHz, camera 200MP kép, pin 7.000 và 8.500mAh."
 keywords: "Xiaomi 18 Pro, Xiaomi 18 Pro Max, Xiaomi 18 Fold, Xiaomi 18 ra mắt khi nào, Snapdragon 8 Elite Gen 6, Xiaomi 18 giá bao nhiêu, Xiaomi 18 về Việt Nam"
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-03T07:30:00+07:00"
-dateModified: "2026-09-08T20:00:00+07:00"
+dateModified: "2026-09-26T19:30:00+07:00"
 deck: "Xiaomi đã xác nhận dòng 18 Pro ra mắt trong tháng 9/2026 và sẽ là điện thoại đầu tiên trên thế giới dùng Snapdragon 8 Elite Gen 6 trên tiến trình 2nm. Nhưng câu hỏi thiết thực nhất với người Việt lại không phải cấu hình, mà là chuyện dòng Pro Max của Xiaomi vốn không bán chính hãng tại Việt Nam. Bài viết tách rõ phần Xiaomi đã xác nhận, phần còn là rò rỉ, và đường mua thực tế trong nước."
 heroImage: "https://i.ytimg.com/vi/DqAKQwagCDg/maxresdefault.jpg"
 heroAlt: "Xiaomi 18 Pro va Pro Max du kien ra mat thang 9 2026 voi camera Leica"
 heroCaption: "Dòng Pro của Xiaomi tiếp tục lấy camera hợp tác Leica làm điểm bán chính. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.jpg"
-tldr: "Xiaomi xác nhận ra mắt <strong>Xiaomi 18 Pro, 18 Pro Max và 18 Fold trong tháng 9/2026</strong> tại Trung Quốc, còn bản thường Xiaomi 18 lùi tới cuối 2026 hoặc đầu 2027. Dòng Pro là máy đầu tiên dùng <strong>Snapdragon 8 Elite Gen 6</strong> trên tiến trình <strong>2nm</strong>, trong khi bản gập chạy chip tự phát triển <strong>XRING O3</strong>. Pro Max được đồn có <strong>hai camera 200MP</strong>, màn <strong>6,9 inch</strong> và pin trên <strong>7.000mAh</strong>. Giá tại Trung Quốc đồn quanh <strong>6.000 tệ</strong> cho bản Pro, tăng khoảng 20% so với đời trước. Lưu ý quan trọng: <strong>Xiaomi 17 Pro Max chưa từng bán chính hãng tại Việt Nam</strong>, hàng trong nước là bản nội địa Trung giá 22,3 tới 29,5 triệu."
+tldr: "Xiaomi ra mắt <strong>Xiaomi 18 Pro và 18 Pro Max ngày 23/9/2026</strong> tại Trung Quốc, sau khi bản gập <strong>18 Fold</strong> lên kệ từ 7/9. Bản Pro là <strong>máy đầu tiên trên thị trường dùng Snapdragon 8 Elite Gen 6</strong>, còn Pro Max dùng bản <strong>8 Elite Extreme Gen 6</strong>, cả hai trên tiến trình <strong>2nm của TSMC</strong> và đạt xung <strong>5GHz</strong>. Giá khởi điểm là <strong>5.999 tệ</strong> cho 18 Pro và <strong>6.999 tệ</strong> cho 18 Pro Max ở bản 12GB kèm 256GB, tức khoảng <strong>23,4 và 27,3 triệu đồng</strong> khi quy đổi. Camera gồm <strong>hai cảm biến 200MP</strong>, một chính và một tele tiềm vọng, kèm ống siêu rộng 50MP. Pin lần lượt <strong>7.000mAh và 8.500mAh</strong>, sạc có dây 100W. Xiaomi đã xác nhận có bản bán toàn cầu, nhưng <strong>chưa công bố giá hay ngày bán chính hãng tại Việt Nam</strong>."
 tags: ["Xiaomi", "Xiaomi18", "Smartphone", "Snapdragon", "Android", "2026"]
 about: ["Xiaomi 18 Pro", "Xiaomi 18 Pro Max", "Xiaomi 18 Fold", "Snapdragon 8 Elite Gen 6"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường điện thoại Android và đường mua máy chính hãng tại Việt Nam."
@@ -23,8 +23,8 @@ stats:
   - { num: "Tháng 9/2026", label: "Thời điểm Xiaomi xác nhận ra mắt dòng 18 Pro" }
   - { num: "2nm", label: "Tiến trình của Snapdragon 8 Elite Gen 6" }
   - { num: "200MP x2", label: "Camera chính và tele của bản Pro Max theo rò rỉ" }
-  - { num: "22-24/9", label: "Snapdragon Summit, nơi Qualcomm công bố chip" }
-  - { num: "~6.000 tệ", label: "Giá Xiaomi 18 Pro tại Trung Quốc theo tin đồn" }
+  - { num: "23/9/2026", label: "Ngày Xiaomi 18 Pro và Pro Max chính thức ra mắt" }
+  - { num: "5.999 tệ", label: "Giá khởi điểm Xiaomi 18 Pro, khoảng 23,4 triệu đồng" }
   - { num: "22,3-29,5 triệu", label: "Giá Xiaomi 17 Pro Max bản nội địa tại VN" }
 faq:
   - q: "Xiaomi 18 Pro ra mắt ngày nào?"
@@ -49,8 +49,8 @@ Tháng 9 năm nay dồn quá nhiều lễ ra mắt vào cùng một khoảng, v�
 <div class="spec-box">
   <div class="spec-box-title">📋 Dòng Xiaomi 18: ai ra trước, ai ra sau</div>
   <table>
-    <tr><td>Xiaomi 18 Pro</td><td>Tháng 9/2026, Snapdragon 8 Elite Gen 6 <code>[XÁC NHẬN LỊCH]</code></td></tr>
-    <tr><td>Xiaomi 18 Pro Max</td><td>Tháng 9/2026, chip bản Gen 6 Pro, camera 200MP kép <code>[RÒ RỈ]</code></td></tr>
+    <tr><td>Xiaomi 18 Pro</td><td>Đã ra mắt <strong>23/9/2026</strong>, Snapdragon 8 Elite Gen 6, từ 5.999 tệ <code>[ĐÃ RA MẮT]</code></td></tr>
+    <tr><td>Xiaomi 18 Pro Max</td><td>Đã ra mắt <strong>23/9/2026</strong>, Snapdragon 8 Elite Extreme Gen 6, từ 6.999 tệ <code>[ĐÃ RA MẮT]</code></td></tr>
     <tr><td>Xiaomi 18 Fold</td><td>Đã ra mắt <strong>7/9/2026</strong>, chip XRING O3, giá từ 10.999 tệ <code>[ĐÃ RA MẮT]</code></td></tr>
     <tr><td>Xiaomi 18 bản thường</td><td>Lùi tới cuối 2026 hoặc đầu 2027 <code>[RÒ RỈ]</code></td></tr>
   </table>
@@ -58,6 +58,10 @@ Tháng 9 năm nay dồn quá nhiều lễ ra mắt vào cùng một khoảng, v�
 
 <div class="art-callout">
   🔄 <strong>Cập nhật 8/9/2026:</strong> Xiaomi đã chính thức ra mắt <strong>Xiaomi 18 Fold</strong> ngày 7/9/2026 tại Trung Quốc, nên phần dự đoán về máy này bên dưới nay đã có số liệu chính thức thay thế. Thông số công bố: màn gập trong <strong>7,58 inch</strong>, màn ngoài 5,38 inch, chip <strong>XRING O3</strong>, camera Leica <strong>200MP</strong>, pin <strong>6.000mAh</strong>, dày 5,02mm khi mở và 10,68mm khi gập, nặng 219g. Giá khởi điểm <strong>10.999 tệ</strong> cho bản 12GB kèm 256GB, khoảng 40,6 triệu đồng, lên tới 12.999 tệ cho bản 16GB kèm 512GB. Đây là chiếc điện thoại đắt nhất Xiaomi từng bán. Cùng đợt, hãng ra mắt máy tính bảng <strong>Xiaomi Pad 9 Pro Max</strong> màn 13,3 inch. Hai bản 18 Pro và 18 Pro Max vẫn chưa ra mắt tính tới thời điểm cập nhật, và phần dự đoán về chúng bên dưới giữ nguyên để bạn đối chiếu.
+</div>
+
+<div class="art-callout">
+  🔄 <strong>Cập nhật 26/9/2026:</strong> Xiaomi đã ra mắt <strong>Xiaomi 18 Pro và 18 Pro Max ngày 23/9/2026</strong>, nên toàn bộ phần dự đoán về hai máy này bên dưới đã có số liệu chính thức thay thế. Số liệu công bố: <strong>18 Pro</strong> màn 6,4 inch (2436 x 1120), pin <strong>7.000mAh</strong>, chip <strong>Snapdragon 8 Elite Gen 6</strong>, giá từ <strong>5.999 tệ</strong> cho bản 12GB kèm 256GB, khoảng <strong>23,4 triệu đồng</strong>. <strong>18 Pro Max</strong> màn 6,9 inch (2624 x 1208), pin <strong>8.500mAh</strong>, chip <strong>Snapdragon 8 Elite Extreme Gen 6</strong>, giá từ <strong>6.999 tệ</strong>, khoảng <strong>27,3 triệu đồng</strong>. Cả hai dùng chip trên tiến trình <strong>2nm của TSMC</strong>, đạt xung <strong>5GHz</strong>, chuẩn kháng nước <strong>IP69</strong>, sạc có dây <strong>100W</strong>, sạc không dây 50W, chạy HyperOS 4 và có màn hình chống nhìn trộm ở mức phần cứng. Cụm camera Leica giống nhau trên cả hai máy: chính <strong>200MP</strong> cảm biến 1/1,28 inch Light Fusion 960L có LOFIC và chống rung quang học, siêu rộng <strong>50MP</strong> góc 102 độ, tele tiềm vọng <strong>200MP</strong> cảm biến 1/1,56 inch. Xiaomi cũng xác nhận sẽ có bản bán toàn cầu trong năm nay, điểm đáng chú ý với người Việt vì dòng Pro Max các đời trước không có bản phân phối chính hãng trong nước. Hãng vẫn chưa công bố giá và ngày bán tại Việt Nam.
 </div>
 
 ## Xiaomi tách lịch: đợt tháng 9 chỉ có nhóm cao cấp
