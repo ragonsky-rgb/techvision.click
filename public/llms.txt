@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 268
-- **Cập nhật:** 2026-09-24 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 269
+- **Cập nhật:** 2026-09-26 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,8 +25,9 @@
 
 ## Bài viết mới nhất
 
+- [Vivo X500 series: camera Zeiss 17EV, cảm biến Phantom 900](https://techvision.click/articles/vivo-x500-series-camera-zeiss-17ev-cam-bien-phantom-900-2026.html)
 - [Giá iPhone 17 Pro Max sau khi iPhone 18 mở bán tại Việt Nam](https://techvision.click/articles/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban-viet-nam-2026.html)
-- [Oppo Find X10 Pro Max: 3 camera 200MP, ra mắt ngày 22/9](https://techvision.click/articles/oppo-find-x10-series-ra-mat-ba-camera-200mp-dimensity-9600-pro.html)
+- [Oppo Find X10 Pro Max ra mắt: 3 camera 200MP, giá từ 6.799 tệ](https://techvision.click/articles/oppo-find-x10-series-ra-mat-ba-camera-200mp-dimensity-9600-pro.html)
 - [Galaxy S27 dùng Exynos 2700: lộ CPU 10 nhân, GPU Xclipse 970](https://techvision.click/articles/galaxy-s27-exynos-2700-ro-ri-cpu-10-nhan-2nm-npu-lon.html)
 - [Intel Nova Lake: 52 nhân, socket LGA1954, bao giờ bán?](https://techvision.click/articles/intel-nova-lake-core-ultra-400-52-nhan-lga1954-bao-gio-ban.html)
 - [Snapdragon 8 Elite Gen 6 và Extreme Gen 6: chip 2nm 5GHz](https://techvision.click/articles/snapdragon-summit-2026-hai-chip-8-elite-gen-6-va-gen-6-pro.html)
@@ -44,11 +45,11 @@
 - [Sale 10/10/2026: Shopee có sale không, giá tham chiếu](https://techvision.click/articles/sale-10-10-2026-lich-du-kien-gia-tham-chieu-truoc-ngay-sale.html)
 - [Nvidia mua Hugging Face 12,9 tỷ USD: đổi gì cho dev Việt](https://techvision.click/articles/nvidia-mua-hugging-face-12-9-ty-usd-lap-trinh-vien-viet-nam.html)
 - [ĐTDV Mùa Đông 2026: lịch thi đấu, 9 đội, thể thức mới](https://techvision.click/articles/dtdv-mua-dong-2026-lich-thi-dau-9-doi-the-thuc-moi.html)
-- [iPhone 18 Pro giá chính thức 1.199 USD, có gì mới?](https://techvision.click/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html)
 
-## Smartphone (70 bài)
+## Smartphone (71 bài)
 
-- [Oppo Find X10 Pro Max: 3 camera 200MP, ra mắt ngày 22/9](https://techvision.click/articles/oppo-find-x10-series-ra-mat-ba-camera-200mp-dimensity-9600-pro.html)
+- [Vivo X500 series: camera Zeiss 17EV, cảm biến Phantom 900](https://techvision.click/articles/vivo-x500-series-camera-zeiss-17ev-cam-bien-phantom-900-2026.html)
+- [Oppo Find X10 Pro Max ra mắt: 3 camera 200MP, giá từ 6.799 tệ](https://techvision.click/articles/oppo-find-x10-series-ra-mat-ba-camera-200mp-dimensity-9600-pro.html)
 - [Galaxy S27 dùng Exynos 2700: lộ CPU 10 nhân, GPU Xclipse 970](https://techvision.click/articles/galaxy-s27-exynos-2700-ro-ri-cpu-10-nhan-2nm-npu-lon.html)
 - [Điện thoại 2026: RAM 16GB biến mất, RAM 4GB trở lại](https://techvision.click/articles/dien-thoai-2026-ram-16gb-bien-mat-ram-4gb-tro-lai.html)
 - [Huawei Mate XT 2 gập ba ra mắt: giá, chip Kirin 9050 Pro](https://techvision.click/articles/huawei-mate-xt-2-gap-ba-ra-mat-gia-kirin-9050-pro-2026.html)

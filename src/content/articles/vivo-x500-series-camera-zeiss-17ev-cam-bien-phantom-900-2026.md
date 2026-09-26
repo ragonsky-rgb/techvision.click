@@ -7,8 +7,6 @@ category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-26T09:00:00+07:00"
 dateModified: "2026-09-26T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Vivo chốt lịch ra mắt dòng X500 trong tháng 9/2026 với ba phiên bản và một trọng tâm rõ ràng: quay phim. Cảm biến Phantom 900 do Sony cùng đội hình ảnh của vivo phát triển được công bố với dải sáng 17EV, con số thuộc địa hạt máy quay chuyên dụng chứ không phải điện thoại. Bài viết bóc tách xem những thông số này có ý nghĩa gì trong thực tế, và người mua tại Việt Nam nên đặt dòng máy này cạnh những lựa chọn nào ở cùng tầm tiền."
 heroImage: "https://i.ytimg.com/vi/McN8sfNAcL4/maxresdefault.jpg"
 heroAlt: "Vivo X500 series ra mat thang 9 2026 voi camera Zeiss dai sang 17EV"
