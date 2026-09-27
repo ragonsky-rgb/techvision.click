@@ -43,6 +43,6 @@ File cần mang sang PC để làm tiếp: `out/src18/` (clip Apple đã duyệt
 
 ## Những thứ chỉ có trên Mac (chưa chuyển)
 
-- Bộ nhớ dài hạn của Claude (`~/.claude/projects/.../memory/`, 128 file): chứa luật làm video, bẫy phát âm, cách đăng TikTok/YouTube/Facebook. Cần chép sang PC để Claude bên đó "nhớ" như trên Mac.
+- ~~Bộ nhớ dài hạn của Claude~~ ĐÃ CHUYỂN: từ 27/09 là repo riêng tư `ragonsky-rgb/claude-memory`. Trên PC, mở Claude trong thư mục dự án rồi bảo: "Clone ragonsky-rgb/claude-memory vào đúng thư mục memory của phiên này". Hai máy cùng pull/push.
 - Khoá Facebook đăng Reel (`~/.config/techvision/fb.env`): KHÔNG đưa lên GitHub. Chép tay qua USB, hoặc cứ đăng Facebook từ Mac.
 - Chrome đã đăng nhập TikTok Studio / YouTube Studio: trên PC phải đăng nhập lại.
