@@ -9,7 +9,7 @@ hẳn (`~/chamai-video-kit`) - đừng lẫn hai bên.
 ---
 
 
-> **Từ 27/09/2026 thư mục `out/` của kit là symlink sang ổ SSD rời** `/Volumes/Edit video  1/03_Video-Content/_video-kit/<tên-kit>-out/` (ổ máy chỉ 228 GB, hay đầy). **Cắm ổ Edit video trước khi đọc giọng hay dựng**; chưa cắm thì mọi lệnh ghi vào `out/` báo lỗi không tìm thấy. Model OmniVoice/Whisper vẫn ở ổ máy (`~/.cache/huggingface`), đừng chuyển.
+> **Từ 27/09/2026 thư mục `out/` của kit là symlink sang ổ SSD rời** `/Volumes/Edit video  1/03_Video-Content/_video-kit/<tên-kit>-out/` (ổ máy chỉ 228 GB, hay đầy). **Cắm ổ Edit video trước khi đọc giọng hay dựng**; chưa cắm thì mọi lệnh ghi vào `out/` báo lỗi không tìm thấy. Từ 27/09/2026 CẢ bộ dựng, `~/omnivoice-env`, `~/.venvs` (Whisper) và `~/.cache/huggingface` (model OmniVoice/Whisper) cũng đã chuyển sang `/Volumes/Edit video  1/CONG-CU-VIDEO/` (có `DOC-TRUOC.txt`), chỗ cũ là symlink nên đường dẫn `~/...` vẫn dùng bình thường. Đừng đổi tên các thư mục đó.
 
 ## 1. Dây chuyền hiện tại (chốt từ 25/08/2026)
 
