@@ -7,8 +7,8 @@ Phiên AI mới trên PC: **đọc file này trước**, rồi `docs/video/AGENT
 
 | Video | Ngày đăng | Trạng thái | Việc còn lại |
 |---|---|---|---|
-| iPhone 18 Pro 1TB chậm hơn 512GB (QLC) | T5 01/10 19:00 | Kịch bản + bảng kê **đã duyệt**. Giọng đọc xong câu 1-8/11 (`out/i18qlc/raw_parts/p01-p08.wav`), máy Mac treo nên dừng | Đọc nốt câu 9, 10, 11 (`out/i18qlc/script_voice.txt`) → soát Whisper các chữ mới (Kiu Eo Xi, Ti Eo Xi, tê ra bai, mê ga bai) → viết `scripts/build_i18qlc.py` dựa trên `build_x10gia.py` → dựng → bản <10 MB → hẹn FB/TikTok/YouTube. Hồ sơ: `2026-10-01-iphone-18-pro-1tb-qlc.md` |
-| iPhone hao pin, nóng máy sau iOS 27 | T6 02/10 | Chưa có kịch bản | Viết kịch bản + bảng kê, **chờ anh Long duyệt** |
+| iPhone 18 Pro 1TB chậm hơn 512GB (QLC) | T5 01/10 19:00 | **ĐÃ DỰNG XONG trên PC 27/09** (54s, bản nhẹ 7,9 MB) | Anh Long xem → hẹn FB/TikTok/YouTube (khoá FB chưa có trên PC). Hồ sơ: `2026-10-01-iphone-18-pro-1tb-qlc.md` |
+| iPhone hao pin, nóng máy sau iOS 27 | T6 02/10 | Kịch bản + bảng kê **đã soạn 27/09, CHỜ duyệt** (vẽ tay 100% bằng code) | Anh Long duyệt → đọc giọng → dựng. Hồ sơ: `2026-10-02-ios-27-hao-pin.md` |
 | Siri đổi "bộ não" sang Claude/ChatGPT | T7 03/10 | Chưa có kịch bản | như trên |
 | Googlebook giao hàng từ 899 USD | CN 04/10 | Chưa có kịch bản | như trên, quy đổi VND theo tỷ giá VCB ngày dựng |
 | iOS 27.0.1 sửa lỗi Face ID (phản ứng nhanh) | khi Apple phát hành | Chờ Apple | - |
@@ -16,6 +16,12 @@ Phiên AI mới trên PC: **đọc file này trước**, rồi `docs/video/AGENT
 Lịch tuần và luật chọn chủ đề: `docs/ke-hoach-video-2026-09-28-den-10-04.md`.
 
 Lưu ý: 4 bài web mà các video trên dẫn về đang ở trạng thái hẹn giờ (`scheduled: true`, `noindex: true`, ngày đăng 02/10 tới 04/11) nhưng trang đã mở được (mã 200), nên link trong video vẫn chạy.
+
+## PC đã cài xong (27/09/2026)
+
+Mọi thứ đã chạy thật trên PC (RTX 3080): OmniVoice GPU ~4 giây/câu, Whisper GPU, ffmpeg 9 bản full, dựng video 54s mất ~1 phút.
+Hướng dẫn dùng + các bẫy khác Mac: **`techvision-video-kit/pc/README.md`**. Luôn `source "/d/Techvision video/techvision-video-kit/pc/env.sh"` trước.
+Phần dưới là ghi chép cài lần đầu, giữ để cài lại nếu cần.
 
 ## Cài đặt trên PC (một lần)
 

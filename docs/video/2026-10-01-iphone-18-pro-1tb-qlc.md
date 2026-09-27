@@ -1,6 +1,10 @@
 # Video: iPhone 18 Pro bản 1TB chậm hơn bản 512GB (đăng T5 01/10/2026)
 
-Trạng thái: **CHỜ anh Long duyệt kịch bản + bảng kê** (lập 26/09/2026). Chưa đọc giọng, chưa dựng.
+Trạng thái: **ĐÃ DỰNG XONG 27/09/2026 trên PC Windows, CHỜ anh Long xem + cho phép hẹn đăng** (T5 01/10 19:00). Kịch bản + bảng kê đã duyệt 26/09.
+
+- Bản cuối: `techvision-video-kit/out/i18qlc/iphone-18-pro-1tb-qlc-final.mp4` (54s, 14,3 MB) + `-nhe.mp4` (7,9 MB, để đăng/gửi điện thoại).
+- Dựng: `python scripts/build_i18qlc.py voice|cards|shots|caps|final` (chạy cả Mac lẫn PC). 11 cảnh: 8 cảnh clip Apple `out/src18/` + thẻ số, 3 cảnh vẽ tay (ô nhớ 8/16 mức, thanh tốc độ ghi + thẻ microSD, cột bộ đệm 250GB tụt còn 58GB), cảnh 10 là 2 dòng giá cắt từ bảng trong bài (chụp bằng `shot-el.mjs`).
+- Giọng: **đọc lại cả 11 câu trên PC** cho đồng đều âm sắc (8 câu đọc trên Mac giữ ở `raw_parts_mac/`). Whisper soát đủ số trên file giọng cuối. Câu 5 và 7 đổi dấu phẩy so với bản duyệt (không đổi chữ) vì bản đầu nghe "nhồi" thành "nhiều", "tụt" thành "tù" - xem `script_voice.txt`.
 
 - Bài dẫn về: `/articles/iphone-18-pro-1tb-2tb-bo-nho-qlc-cham-hon-ban-256gb.html` (trang đã mở, mã 200).
 - Kiểu dựng: clip THẬT của Apple (đã duyệt ở video 15/9) + thẻ số và hình vẽ tay dựng bằng code (ô nhớ 3 bit / 4 bit, thanh so điểm, đồng hồ bộ đệm). Không Flow, không sinh hình.

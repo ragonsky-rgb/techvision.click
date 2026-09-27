@@ -86,6 +86,17 @@ Câu có hai năm (1977 và 1981) nở từ 5,8 lên **7,7 giây**. Clip Flow xu
 | `chênh` | "Trên", "tranh" (sai 2 lần liên tiếp, kể cả khi đứng giữa câu) | `cách nhau` ("Giá hai máy cách nhau đúng...") |
 | `iPhone mười bảy Pro Max cùng chỗ là...` | lặp thành "Pro Pro Max" | thêm dấu phẩy: `iPhone mười bảy Pro Max, cùng chỗ, là...` |
 
+**Ghi 27/09/2026 (video iPhone 18 Pro 1TB, đọc trên PC):**
+
+| Từ / cụm | Kết quả |
+|---|---|
+| `Kiu Eo Xi` (QLC), `Ti Eo Xi` (TLC), `một tê ra bai` (1TB), `mê ga bai mỗi giây`, `bít` | Whisper nghe ra đúng QLC / TLC / 1TB / MB / bit - **dùng được** |
+| `nhồi bốn bít` | nghe thành "nhiều" → thêm dấu phẩy trước: `Kiu Eo Xi, nhồi bốn bít` |
+| `bộ đệm tụt từ hai trăm năm mươi ghi` | nghe thành "tù từ" → `bộ đệm tụt, từ hai trăm...` |
+| câu mở bằng `Ở phép đo...` ngay sau câu kết bằng "ghi" | trên Mac dính rác "Làm ghi bản" 1 giây đầu; đọc trên PC thì sạch |
+
+Trên PC giọng máy ra **cố định theo chữ** (đọc lại y nguyên = ra y hệt), nên sửa lỗi bằng cách thêm/bớt dấu phẩy.
+
 ## 5. Sửa một câu tốn bao nhiêu
 
 Đọc lại 1 câu mất khoảng 2 phút (kể cả 15 giây nghỉ cho đỡ lag máy). Sửa giọng **không kéo theo
