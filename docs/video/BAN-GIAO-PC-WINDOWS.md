@@ -8,10 +8,12 @@ Phiên AI mới trên PC: **đọc file này trước**, rồi `docs/video/AGENT
 | Video | Ngày đăng | Trạng thái | Việc còn lại |
 |---|---|---|---|
 | iPhone 18 Pro 1TB chậm hơn 512GB (QLC) | T5 01/10 19:00 | **ĐÃ DỰNG XONG trên PC 27/09** (54s, bản nhẹ 7,9 MB) | Anh Long xem → hẹn FB/TikTok/YouTube (khoá FB chưa có trên PC). Hồ sơ: `2026-10-01-iphone-18-pro-1tb-qlc.md` |
-| iPhone hao pin, nóng máy sau iOS 27 | T6 02/10 | Kịch bản + bảng kê **đã soạn 27/09, CHỜ duyệt** (vẽ tay 100% bằng code) | Anh Long duyệt → đọc giọng → dựng. Hồ sơ: `2026-10-02-ios-27-hao-pin.md` |
-| Siri đổi "bộ não" sang Claude/ChatGPT | T7 03/10 | Chưa có kịch bản | như trên |
-| Googlebook giao hàng từ 899 USD | CN 04/10 | Chưa có kịch bản | như trên, quy đổi VND theo tỷ giá VCB ngày dựng |
+| iPhone hao pin, nóng máy sau iOS 27 | T6 02/10 | **ĐÃ DỰNG XONG 27/09** (vẽ tay, 38s) | Hẹn đăng. Hồ sơ: `2026-10-02-ios-27-hao-pin.md` |
+| Siri đổi "bộ não" sang Claude/ChatGPT | T7 03/10 | **ĐÃ DỰNG XONG 27/09** (vẽ tay, 34s, chip "Apple chưa xác nhận") | Hẹn đăng. Hồ sơ: `2026-10-03-siri-doi-bo-nao.md` |
+| Googlebook giao hàng từ 899 USD | CN 04/10 | **ĐÃ DỰNG XONG 27/09** (vẽ tay, 36s, VCB 26.170đ/USD) | Hẹn đăng ĐÚNG ngày 4/10 (câu 1 nói "hôm nay"). Hồ sơ: `2026-10-04-googlebook-giao-hang.md` |
 | iOS 27.0.1 sửa lỗi Face ID (phản ứng nhanh) | khi Apple phát hành | Chờ Apple | - |
+
+**Bản chất lượng cao nhất (CRF 16) của mọi video nằm thẳng ở `D:\Techvision video\<ngày>-<slug>.mp4`** (anh Long dặn 27/09); bản nhẹ < 10 MB để đăng/gửi điện thoại nằm trong `out/<video>/`.
 
 Lịch tuần và luật chọn chủ đề: `docs/ke-hoach-video-2026-09-28-den-10-04.md`.
 

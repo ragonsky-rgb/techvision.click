@@ -95,7 +95,16 @@ Câu có hai năm (1977 và 1981) nở từ 5,8 lên **7,7 giây**. Clip Flow xu
 | `bộ đệm tụt từ hai trăm năm mươi ghi` | nghe thành "tù từ" → `bộ đệm tụt, từ hai trăm...` |
 | câu mở bằng `Ở phép đo...` ngay sau câu kết bằng "ghi" | trên Mac dính rác "Làm ghi bản" 1 giây đầu; đọc trên PC thì sạch |
 
-Trên PC giọng máy ra **cố định theo chữ** (đọc lại y nguyên = ra y hệt), nên sửa lỗi bằng cách thêm/bớt dấu phẩy.
+| `Ai Ô Ét` (iOS), `Wai Phai` (Wi-Fi), `Gi Pi Ti năm chấm sáu của Âu pừn Ai` (GPT-5.6 của OpenAI) | đọc đúng |
+| `Claude`, `ChatGPT`, `Googlebook`, `Chromebook`, `Google AI Pro`, `Dell`, `HP`, `Lenovo` để nguyên chữ | đọc được (Whisper nghe Claude thành "Cloud" - gần đúng âm) |
+| `Clốt ... cạnh Chát Gi Pi Ti` (phiên âm) | TỆ hơn để nguyên: "cạnh" thành "cảnh", ChatGPT méo |
+| `Acer, Asus` đứng sát nhau | giọng NUỐT mất Asus (5 lần/6). Xếp lại: `Dell, Asus, Lenovo, HP và Acer` |
+| `máy mới bắt đầu` | đọc thành "mày" (nghe hỗn) → `lúc này máy mới bắt đầu` |
+| `mục Pin` | đọc thành "một pin" 3 lần liền → `phần Pin` |
+| `đổi hẳn động cơ` | thành "hành động cơ" → `thay hẳn cả động cơ` |
+| câu dài liệt kê 5 tên + "năm hãng ra máy" trong một hơi | rơi cả nửa câu → tách, đặt số lượng trước ("Đợt đầu có năm hãng làm máy, gồm ...") |
+
+Trên PC giọng máy **thường** ra giống nhau khi đọc lại y nguyên, nhưng KHÔNG phải luôn luôn: câu Claude/ChatGPT đọc 3 lần ra 3 bản khác. Cách làm nhanh nhất: đọc 2-3 bản mỗi biến thể, Whisper cả loạt, chọn bản đúng.
 
 ## 5. Sửa một câu tốn bao nhiêu
 
