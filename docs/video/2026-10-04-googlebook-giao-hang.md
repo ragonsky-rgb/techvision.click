@@ -1,5 +1,7 @@
 # Video: Googlebook giao hàng hôm nay: laptop Android từ 899 USD, 5 hãng (đăng CN 04/10/2026)
 
+> **Facebook Reels ĐÃ HẸN 04/10 19:00** (27/09, bản gốc nét từ PC, video_id 1009277758754074). TikTok + YouTube CHƯA hẹn: anh Long dặn đăng bản gốc, KHÔNG nén; file gốc `techvision-video-kit/out/*/2026-10-04-googlebook-giao-hang.mp4`.
+
 Trạng thái: **ĐÃ DỰNG XONG 27/09/2026 trên PC**, CHƯA đăng. Bản cao nhất: `D:\Techvision video\2026-10-04-googlebook-giao-hang.mp4` (36s, CRF 16); bản nhẹ `techvision-video-kit/out/gbook/2026-10-04-googlebook-giao-hang-nhe.mp4` (8,3 MB).
 
 - Bài dẫn về: `/articles/googlebook-5-may-gia-tu-899-usd-dat-truoc-21-9-giao-4-10-2026.html` (hẹn giờ, `noindex`).
