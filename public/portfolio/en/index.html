@@ -148,6 +148,19 @@
     .foot-links a{font-size:0.82rem;color:var(--dim);transition:color .2s}
     .foot-links a:hover{color:var(--accent)}
     .foot-copy{font-size:0.74rem;color:var(--dim)}
+
+    /* Dòng thời gian */
+    .tl{list-style:none;margin:0 0 0 .45rem;padding:0;border-left:2px solid var(--line)}
+    .tl li{position:relative;padding:0 0 1.35rem 1.25rem}
+    .tl li:last-child{padding-bottom:0}
+    .tl li::before{content:"";position:absolute;left:-8px;top:.3rem;width:14px;height:14px;border-radius:50%;background:var(--surface);border:3px solid var(--accent)}
+    .tl-date{font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+    .tl-t{font-weight:700;font-size:1rem;margin:.15rem 0 .3rem}
+    .tl-t span{font-weight:500;color:var(--dim)}
+    .tl-d{font-size:.9rem;color:var(--muted);max-width:78ch;line-height:1.55}
+    .tl-ev{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.5rem}
+    .tl-ev a{font-size:.72rem;font-weight:600;border:1px solid var(--line);border-radius:99px;padding:.28rem .75rem;color:var(--dim);text-decoration:none}
+    .tl-ev a:hover{border-color:var(--accent);color:var(--accent)}
   </style>
   <script async src="/ga.js"></script>
 </head>
@@ -200,6 +213,7 @@
     <div class="controls">
       <div class="wrap">
         <div class="pills">
+          <button class="pill" data-target="timeline">Timeline</button>
           <button class="pill" data-target="san-pham">Products &amp; Services</button>
           <button class="pill" data-target="ky-nang">Skills</button>
           <button class="pill" data-target="activation">Brand Activation</button>
@@ -233,6 +247,26 @@
           <a class="pf-partner" href="https://www.facebook.com/kenhtaitrosukien/" target="_blank" rel="noopener"><img src="/uploads/p-sponsorshipchannel.png" alt="Sponsorship Channel" loading="lazy">Sponsorship Channel</a>
           <a class="pf-partner" href="https://goldenasia.vn/" target="_blank" rel="noopener"><img src="/uploads/p-goldenasia.png" alt="Golden Asia" loading="lazy">Golden Asia</a>
         </div>
+
+        <section class="pf-section" id="timeline">
+          <h2 class="pf-h">🗓 Timeline</h2>
+          <p class="pf-sub">Work and project milestones from newest to oldest, each with evidence: press, photos, performance reports. Original documents with financial details sit in the access-code archive (🔒).</p>
+          <ol class="tl">
+            <li><div class="tl-date">2026 - present</div><div class="tl-t">Cham AI Agency <span>· Founder</span></div><div class="tl-d">Built an agency for AI agents, chatbots and SEO/GEO for small businesses; a system of 13 specialised AI agents runs two bilingual websites.</div><div class="tl-ev"><a href="https://chamaiagency.website" target="_blank" rel="noopener">chamaiagency.website</a></div></li>
+            <li><div class="tl-date">01/2026 - 07/2026</div><div class="tl-t">Hoang Sa Viet (Nidec elevators) <span>· Marketing Lead</span></div><div class="tl-d">Led a 5-person in-house team (SEO, content, video, dev) on a 12-week plan run in sprints with weekly progress dashboards; thangmaynidec.vn reached 141,902 sessions in 7 months, up 70.4% year on year (GA4).</div><div class="tl-ev"><a href="/portfolio/kho-ho-so/">🔒 6-month plan, Paid Ads report, SEO audit, sprint dashboards</a></div></li>
+            <li><div class="tl-date">12/2025</div><div class="tl-t">Team Flash and social listening <span>· Fastcare</span></div><div class="tl-d">Partnership with Team Flash (Arena of Valor, SEA Games 33 gold) with a #FASTCARE hashtag minigame on the team page; ran a YouNet Media dashboard benchmarking Fastcare against 4 competitors, 825 mentions in 30 days.</div><div class="tl-ev"><a href="#activation">See the esports card</a></div></li>
+            <li><div class="tl-date">16 - 19/09/2025</div><div class="tl-t">iPhone 17 Pro Max teardown on launch day <span>· Fastcare</span></div><div class="tl-d">Integrated PR + KOL campaign: a Kenh14 feature (16/09) and a teardown video with Vat Vo Studio (19/09) reaching <b>228,041 views, 3,300 likes, 555 comments</b>; a teardown photo set on Tinh Te.</div><div class="tl-ev"><a href="/portfolio/2025-mo-may-iphone-17/bao-cao-kol-vat-vo.jpg" target="_blank" rel="noopener">KOL report</a><a href="/portfolio/2025-mo-may-iphone-17/video-vat-vo-studio.jpg" target="_blank" rel="noopener">Vat Vo Studio video</a><a href="https://kenh14.vn/fastcare-tien-phong-mo-bung-iphone-17-pro-max-ngay-ngay-mo-ban-215250916122151879.chn" target="_blank" rel="noopener">Kenh14 feature</a><a href="/portfolio/2025-mo-may-iphone-17/tinh-te-bo-anh-thao-roi.jpg" target="_blank" rel="noopener">Tinh Te</a><a href="/portfolio/kho-ho-so/">🔒 28 recap screenshots</a></div></li>
+            <li><div class="tl-date">07/2025</div><div class="tl-t">Plan to grow laptop repair revenue 20% for back-to-school <span>· Fastcare · proposal</span></div><div class="tl-d">A 3-month plan (07-09/2025) combining student micro-KOCs, tech-news PR and weekly KPI reporting, with projected revenue and budget allocation charts.</div><div class="tl-ev"><a href="/portfolio/kho-ho-so/">🔒 Plan deck</a></div></li>
+            <li><div class="tl-date">09/04/2025</div><div class="tl-t">Fastcare Di An, Binh Duong branch opening <span>· Fastcare</span></div><div class="tl-d">Coordinated the launch of the 14th branch: 5 PR features via Admicro (3 with reports: <b>6,514 page views, 87,925 reach</b>), 30 street banners on Nguyen An Ninh (14 days) and 10 intersection banners (7 days) with a signed acceptance record, a 20%-off key visual, a launch video and an outreach letter to Van Hien University.</div><div class="tl-ev"><a href="/portfolio/2025-khai-truong-di-an/bao-cao-pr-admicro.jpg" target="_blank" rel="noopener">Admicro PR report</a><a href="/portfolio/2025-khai-truong-di-an/ooh-phuon-banner-nghiem-thu.jpg" target="_blank" rel="noopener">Banner acceptance photos</a><a href="/portfolio/2025-khai-truong-di-an/mat-tien-cua-hang-di-an.jpg" target="_blank" rel="noopener">Storefront</a><a href="/portfolio/2025-khai-truong-di-an/kv-khai-truong.jpg" target="_blank" rel="noopener">Key visual</a><a href="/portfolio/kho-ho-so/">🔒 Contracts, acceptance, quotes</a></div></li>
+            <li><div class="tl-date">19/04/2025</div><div class="tl-t">TDT Sport Science Reunion 2025 <span>· Bronze Sponsor</span></div><div class="tl-d">Fastcare sponsored the Faculty of Sports Science event at Ton Duc Thang University: a 14-item benefit package closed with a signed acceptance record.</div><div class="tl-ev"><a href="https://www.facebook.com/share/p/16FLnGNaqG/" target="_blank" rel="noopener">Thank-you post</a><a href="/portfolio/tdtu-sport-science-2025/nghiem-thu-trang-1.jpg" target="_blank" rel="noopener">Acceptance record</a><a href="/portfolio/kho-ho-so/">🔒 Sponsorship contract</a></div></li>
+            <li><div class="tl-date">04/2025</div><div class="tl-t">Student campaign at Van Hien University <span>· Fastcare's point of contact</span></div><div class="tl-d">Worked with Sponsorship Channel (Kenh Tai Tro); the service contract names Long as Fastcare's point of contact.</div><div class="tl-ev"><a href="/portfolio/kho-ho-so/">🔒 Service contract, invoice</a></div></li>
+            <li><div class="tl-date">2025</div><div class="tl-t">HUTECH Techshow 2025 <span>· booth 23</span></div><div class="tl-d">Fastcare exhibited at HUTECH's engineering and technology recruitment fair.</div><div class="tl-ev"><a href="/portfolio/hutech-techshow-2025/so-do-gian-hang.jpg" target="_blank" rel="noopener">Booth map</a><a href="/portfolio/hutech-techshow-2025/danh-sach-doanh-nghiep.jpg" target="_blank" rel="noopener">Exhibitor list</a></div></li>
+            <li><div class="tl-date">09/2024</div><div class="tl-t">Fastcare's 11th anniversary <span>· PR</span></div><div class="tl-d">7 PR features in 6 days across major news sites.</div><div class="tl-ev"><a href="#bao-chi">See Press</a></div></li>
+            <li><div class="tl-date">01/2024 - 01/2026</div><div class="tl-t">Fastcare Vietnam <span>· in-house</span></div><div class="tl-d">Joined in-house: media relations (13 features across 7 outlets), the Apple Independent Repair Provider application, booking 9 tech review channels, brand activation.</div></li>
+            <li><div class="tl-date">10/2020 - 01/2026</div><div class="tl-t">Fastcare YouTube channel <span>· content lead</span></div><div class="tl-d">Repositioned the channel to teardowns and technical deep-dives: +52,310 subscribers, 25.7M views (YouTube Studio).</div><div class="tl-ev"><a href="#video">See Video</a></div></li>
+            <li><div class="tl-date">2019 - 2021</div><div class="tl-t">The Gioi Di Dong · Ngoc Tran Studio <span>· Tech writer, reviewer</span></div><div class="tl-d">18 SEO reviews and tech news pieces for thegioididong.com; on-camera smartphone and laptop reviews.</div><div class="tl-ev"><a href="#bai-viet">See Articles</a></div></li>
+          </ol>
+        </section>
 
         <section class="pf-section" id="ky-nang">
           <h2 class="pf-h">🛠 Skills - backed by proof on this page</h2>
@@ -331,7 +365,7 @@
 
             <div class="pf-card nolink">
               <span class="pf-outlet">Trade Marketing</span>
-              <span class="pf-title">Campus trade marketing at major universities in Ho Chi Minh City (Tôn Đức Thắng, HUTECH, University of Technology and Education, FPT...): brand-identity booths and direct engagement with students, maximizing touchpoints with the Gen Z audience.</span>
+              <span class="pf-title">Campus trade marketing at universities in Ho Chi Minh City (Ton Duc Thang, HUTECH, Van Hien): brand-identity booths and direct engagement with students, maximizing touchpoints with the Gen Z audience.</span>
             </div>
 
             <a class="pf-card" href="/portfolio/hutech-techshow-2025/so-do-gian-hang.jpg" target="_blank" rel="noopener">
@@ -362,9 +396,37 @@
               <span class="pf-foot"><span class="pf-cta">View the record →</span></span>
             </a>
 
+            <a class="pf-card" href="/portfolio/2025-khai-truong-di-an/bao-cao-pr-admicro.jpg" target="_blank" rel="noopener">
+              <span class="pf-thumb"><img src="/portfolio/2025-khai-truong-di-an/thumb-bao-cao-pr.jpg" alt="Admicro performance report for the Fastcare Di An launch feature on GenK" loading="lazy" width="960" height="540"></span>
+              <span class="pf-outlet">Launch PR · 04/2025</span>
+              <span class="pf-title">Fastcare Di An launch (14th branch): 5 PR features via Admicro; reports for CafeBiz, Soha and GenK show 6,514 page views and 87,925 reach.</span>
+              <span class="pf-foot"><span class="pf-cta">View the report →</span></span>
+            </a>
+
+            <a class="pf-card" href="/portfolio/2025-khai-truong-di-an/ooh-phuon-banner-nghiem-thu.jpg" target="_blank" rel="noopener">
+              <span class="pf-thumb"><img src="/portfolio/2025-khai-truong-di-an/thumb-ooh.jpg" alt="Acceptance photos of Fastcare banners at Di An intersections, Binh Duong" loading="lazy" width="960" height="540"></span>
+              <span class="pf-outlet">Out-of-home · 04/2025</span>
+              <span class="pf-title">30 street banners on Nguyen An Ninh (10-23/04) and 10 intersection banners in Di An (10-16/04), photos from the signed acceptance record with the installer.</span>
+              <span class="pf-foot"><span class="pf-cta">View acceptance photos →</span></span>
+            </a>
+
+            <a class="pf-card" href="/portfolio/2025-khai-truong-di-an/mat-tien-cua-hang-di-an.jpg" target="_blank" rel="noopener">
+              <span class="pf-thumb"><img src="/portfolio/2025-khai-truong-di-an/thumb-mat-tien.jpg" alt="Fastcare storefront at 76 Nguyen An Ninh, Di An, Binh Duong" loading="lazy" width="960" height="540"></span>
+              <span class="pf-outlet">Branch opening · 09/04/2025</span>
+              <span class="pf-title">The Fastcare store at 76 Nguyen An Ninh, Di An on opening day, with the 20%-off launch key visual.</span>
+              <span class="pf-foot"><span class="pf-cta">View photo →</span></span>
+            </a>
+
+            <a class="pf-card" href="/portfolio/2025-mo-may-iphone-17/bao-cao-kol-vat-vo.jpg" target="_blank" rel="noopener">
+              <span class="pf-thumb"><img src="/portfolio/2025-mo-may-iphone-17/thumb-mo-may.jpg" alt="iPhone 17 Pro Max teardown with Vat Vo Studio at Fastcare" loading="lazy" width="960" height="540"></span>
+              <span class="pf-outlet">KOL · 19/09/2025</span>
+              <span class="pf-title">Launch-day iPhone 17 Pro Max teardown with Vat Vo Studio: 228,041 views, 3,300 likes, 555 comments (KOL report), alongside a Kenh14 feature and a Tinh Te photo set.</span>
+              <span class="pf-foot"><span class="pf-cta">View the report →</span></span>
+            </a>
+
             <a class="pf-card" href="/portfolio/kho-ho-so/" rel="nofollow">
               <span class="pf-outlet">🔒 Original documents · access code required</span>
-              <span class="pf-title">All original documents behind the projects above (25 files): sponsorship contracts, acceptance records, organiser proposals, HUTECH invitations and banner quotations. They contain financial and personal details, so they are encrypted. Recruiters can contact me for the access code.</span>
+              <span class="pf-title">All original documents, ordered by timeline (90 files): sponsorship and PR contracts, acceptance records, Admicro reports, event photos, marketing plans for Fastcare 2025 and Hoang Sa Viet 2026. They contain financial and personal details, so they are encrypted. Recruiters can contact me for the access code.</span>
               <span class="pf-foot"><span class="pf-cta">Open the archive →</span></span>
             </a>
 

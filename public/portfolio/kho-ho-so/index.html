@@ -44,7 +44,7 @@
 <main>
   <a class="back" href="/portfolio/#activation">← Portfolio</a>
   <h1>Kho hồ sơ gốc</h1>
-  <p class="sub">Hợp đồng, biên bản nghiệm thu, đề xuất và báo giá của các dự án Brand Activation. Nội dung đã được mã hoá, cần mã khoá để mở. <br><em>Original project documents, encrypted. Access code required.</em></p>
+  <p class="sub">Tài liệu gốc xếp theo dòng thời gian: hợp đồng, biên bản nghiệm thu, báo cáo PR, kế hoạch marketing, ảnh sự kiện (Fastcare 2025, Hoàng Sa Việt 2026). Nội dung đã được mã hoá, cần mã khoá để mở. <br><em>Original project documents, encrypted. Access code required.</em></p>
 
   <div class="box">
     <form id="f" autocomplete="off">
@@ -87,11 +87,14 @@
     files.forEach((f) => (groups[f.group] ||= []).push(f));
     const list = $('#list');
     list.innerHTML = '';
-    Object.keys(groups).sort().forEach((g) => {
+    // Nhóm mở đầu bằng năm-tháng xếp mới nhất trước, nhóm không có mốc thời gian để cuối
+    const dated = (g) => /^\d{4}/.test(g);
+    const order = (a, b) => (dated(b) - dated(a)) || (dated(a) ? b.localeCompare(a) : a.localeCompare(b));
+    Object.keys(groups).sort(order).forEach((g) => {
       const sec = document.createElement('section');
       sec.className = 'group';
       const h = document.createElement('h2');
-      h.textContent = g.replace(/^\d+-/, '').replace(/-/g, ' ');
+      h.textContent = g.replace(/^(\d{4})-(\d{2}) /, '$2/$1 · ');
       sec.appendChild(h);
       groups[g].forEach((f) => {
         const row = document.createElement('div');

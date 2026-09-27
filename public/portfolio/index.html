@@ -148,6 +148,19 @@
     .foot-links a{font-size:0.82rem;color:var(--dim);transition:color .2s}
     .foot-links a:hover{color:var(--accent)}
     .foot-copy{font-size:0.74rem;color:var(--dim)}
+
+    /* Dòng thời gian */
+    .tl{list-style:none;margin:0 0 0 .45rem;padding:0;border-left:2px solid var(--line)}
+    .tl li{position:relative;padding:0 0 1.35rem 1.25rem}
+    .tl li:last-child{padding-bottom:0}
+    .tl li::before{content:"";position:absolute;left:-8px;top:.3rem;width:14px;height:14px;border-radius:50%;background:var(--surface);border:3px solid var(--accent)}
+    .tl-date{font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+    .tl-t{font-weight:700;font-size:1rem;margin:.15rem 0 .3rem}
+    .tl-t span{font-weight:500;color:var(--dim)}
+    .tl-d{font-size:.9rem;color:var(--muted);max-width:78ch;line-height:1.55}
+    .tl-ev{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.5rem}
+    .tl-ev a{font-size:.72rem;font-weight:600;border:1px solid var(--line);border-radius:99px;padding:.28rem .75rem;color:var(--dim);text-decoration:none}
+    .tl-ev a:hover{border-color:var(--accent);color:var(--accent)}
   </style>
   <script async src="/ga.js"></script>
 </head>
@@ -200,6 +213,7 @@
     <div class="controls">
       <div class="wrap">
         <div class="pills">
+          <button class="pill" data-target="timeline">Dòng thời gian</button>
           <button class="pill" data-target="san-pham">Sản phẩm &amp; Dịch vụ</button>
           <button class="pill" data-target="ky-nang">Kỹ năng</button>
           <button class="pill" data-target="activation">Brand Activation</button>
@@ -233,6 +247,26 @@
           <a class="pf-partner" href="https://www.facebook.com/kenhtaitrosukien/" target="_blank" rel="noopener"><img src="/uploads/p-sponsorshipchannel.png" alt="Sponsorship Channel" loading="lazy">Sponsorship Channel</a>
           <a class="pf-partner" href="https://goldenasia.vn/" target="_blank" rel="noopener"><img src="/uploads/p-goldenasia.png" alt="Golden Asia" loading="lazy">Golden Asia</a>
         </div>
+
+        <section class="pf-section" id="timeline">
+          <h2 class="pf-h">🗓 Dòng thời gian</h2>
+          <p class="pf-sub">Các mốc công việc và dự án từ mới tới cũ, mỗi mốc kèm bằng chứng: bài báo, ảnh, báo cáo số liệu. Tài liệu gốc có thông tin tài chính nằm trong kho có mã khoá (🔒).</p>
+          <ol class="tl">
+            <li><div class="tl-date">2026 - nay</div><div class="tl-t">Chạm AI Agency <span>· Founder</span></div><div class="tl-d">Tự dựng agency AI Agent, chatbot và SEO/GEO cho doanh nghiệp nhỏ; hệ thống 13 AI agent chuyên trách vận hành hai website song ngữ.</div><div class="tl-ev"><a href="https://chamaiagency.website" target="_blank" rel="noopener">chamaiagency.website</a></div></li>
+            <li><div class="tl-date">01/2026 - 07/2026</div><div class="tl-t">Hoàng Sa Việt (thang máy Nidec) <span>· Marketing Lead</span></div><div class="tl-d">Dẫn đội marketing in-house 5 người (SEO, content, video, dev) theo kế hoạch 12 tuần chia sprint, có dashboard tiến độ theo tuần; website thangmaynidec.vn đạt 141.902 phiên trong 7 tháng, tăng 70,4% cùng kỳ (GA4).</div><div class="tl-ev"><a href="/portfolio/kho-ho-so/">🔒 Kế hoạch 6 tháng, báo cáo Paid Ads, SEO audit, dashboard sprint</a></div></li>
+            <li><div class="tl-date">12/2025</div><div class="tl-t">Team Flash và social listening <span>· Fastcare</span></div><div class="tl-d">Hợp tác Team Flash (Liên Quân Mobile, HCV SEA Games 33) kèm minigame hashtag #FASTCARE trên fanpage đội; vận hành dashboard YouNet Media so Fastcare với 4 đối thủ, ghi nhận 825 đề cập trong 30 ngày.</div><div class="tl-ev"><a href="#activation">Xem thẻ esports</a></div></li>
+            <li><div class="tl-date">16 - 19/09/2025</div><div class="tl-t">Mổ máy iPhone 17 Pro Max ngày mở bán <span>· Fastcare</span></div><div class="tl-d">Chiến dịch tích hợp PR + KOL: bài Kenh14 (16/09) và video mổ máy cùng Vật Vờ Studio (19/09) đạt <b>228.041 lượt xem, 3.300 lượt thích, 555 bình luận</b>; bộ ảnh tháo rời đăng trên Tinh Tế.</div><div class="tl-ev"><a href="/portfolio/2025-mo-may-iphone-17/bao-cao-kol-vat-vo.jpg" target="_blank" rel="noopener">Báo cáo KOL</a><a href="/portfolio/2025-mo-may-iphone-17/video-vat-vo-studio.jpg" target="_blank" rel="noopener">Video Vật Vờ Studio</a><a href="https://kenh14.vn/fastcare-tien-phong-mo-bung-iphone-17-pro-max-ngay-ngay-mo-ban-215250916122151879.chn" target="_blank" rel="noopener">Bài Kenh14</a><a href="/portfolio/2025-mo-may-iphone-17/tinh-te-bo-anh-thao-roi.jpg" target="_blank" rel="noopener">Tinh Tế</a><a href="/portfolio/kho-ho-so/">🔒 28 ảnh chụp tổng kết</a></div></li>
+            <li><div class="tl-date">07/2025</div><div class="tl-t">Kế hoạch tăng 20% doanh thu sửa laptop mùa tựu trường <span>· Fastcare · đề xuất</span></div><div class="tl-d">Kế hoạch 3 tháng (07-09/2025) kết hợp micro-KOC sinh viên, PR trang tin công nghệ và báo cáo KPI hằng tuần; kèm biểu đồ doanh thu dự phóng và phân bổ ngân sách.</div><div class="tl-ev"><a href="/portfolio/kho-ho-so/">🔒 Slide kế hoạch</a></div></li>
+            <li><div class="tl-date">09/04/2025</div><div class="tl-t">Khai trương Fastcare Dĩ An, Bình Dương <span>· Fastcare</span></div><div class="tl-d">Điều phối chiến dịch khai trương chi nhánh thứ 14: 5 bài PR qua Admicro (3 bài có báo cáo đạt <b>6.514 lượt xem, tiếp cận 87.925</b>), 30 phướn trục Nguyễn An Ninh (14 ngày) và 10 băng rôn tại các ngã tư (7 ngày) có biên bản nghiệm thu, key visual ưu đãi 20%, video quảng cáo, thư ngỏ hợp tác gửi ĐH Văn Hiến.</div><div class="tl-ev"><a href="/portfolio/2025-khai-truong-di-an/bao-cao-pr-admicro.jpg" target="_blank" rel="noopener">Báo cáo PR Admicro</a><a href="/portfolio/2025-khai-truong-di-an/ooh-phuon-banner-nghiem-thu.jpg" target="_blank" rel="noopener">Ảnh nghiệm thu phướn</a><a href="/portfolio/2025-khai-truong-di-an/mat-tien-cua-hang-di-an.jpg" target="_blank" rel="noopener">Mặt tiền cửa hàng</a><a href="/portfolio/2025-khai-truong-di-an/kv-khai-truong.jpg" target="_blank" rel="noopener">Key visual</a><a href="/portfolio/kho-ho-so/">🔒 Hợp đồng, nghiệm thu, báo giá</a></div></li>
+            <li><div class="tl-date">19/04/2025</div><div class="tl-t">TDT Sport Science Reunion 2025 <span>· Nhà tài trợ Đồng</span></div><div class="tl-d">Fastcare tài trợ chương trình của Khoa Khoa học Thể thao, ĐH Tôn Đức Thắng: gói 14 hạng mục quyền lợi, nghiệm thu bằng biên bản.</div><div class="tl-ev"><a href="https://www.facebook.com/share/p/16FLnGNaqG/" target="_blank" rel="noopener">Bài cảm ơn trên Fanpage</a><a href="/portfolio/tdtu-sport-science-2025/nghiem-thu-trang-1.jpg" target="_blank" rel="noopener">Biên bản nghiệm thu</a><a href="/portfolio/kho-ho-so/">🔒 Hợp đồng tài trợ</a></div></li>
+            <li><div class="tl-date">04/2025</div><div class="tl-t">Chiến dịch sinh viên ĐH Văn Hiến <span>· đầu mối phía Fastcare</span></div><div class="tl-d">Làm việc với Kênh Tài Trợ (Sponsorship Channel), hợp đồng ghi tên anh Long là đầu mối phía Fastcare.</div><div class="tl-ev"><a href="/portfolio/kho-ho-so/">🔒 Hợp đồng dịch vụ, hoá đơn</a></div></li>
+            <li><div class="tl-date">2025</div><div class="tl-t">HUTECH Techshow 2025 <span>· gian hàng số 23</span></div><div class="tl-d">Fastcare tham gia ngày hội triển lãm công nghệ và tuyển dụng khối Kỹ thuật - Công nghệ của HUTECH.</div><div class="tl-ev"><a href="/portfolio/hutech-techshow-2025/so-do-gian-hang.jpg" target="_blank" rel="noopener">Sơ đồ gian hàng</a><a href="/portfolio/hutech-techshow-2025/danh-sach-doanh-nghiep.jpg" target="_blank" rel="noopener">Danh sách doanh nghiệp</a></div></li>
+            <li><div class="tl-date">09/2024</div><div class="tl-t">Sinh nhật Fastcare 11 năm <span>· PR</span></div><div class="tl-d">7 bài PR trong 6 ngày trên các báo điện tử lớn.</div><div class="tl-ev"><a href="#bao-chi">Xem mục Báo chí</a></div></li>
+            <li><div class="tl-date">01/2024 - 01/2026</div><div class="tl-t">Fastcare Việt Nam <span>· in-house</span></div><div class="tl-d">Vào làm in-house: PR báo chí (13 bài trên 7 đầu báo), hồ sơ Apple Independent Repair Provider, booking 9 kênh review công nghệ, brand activation.</div></li>
+            <li><div class="tl-date">10/2020 - 01/2026</div><div class="tl-t">Kênh YouTube Fastcare <span>· phụ trách nội dung</span></div><div class="tl-d">Chuyển kênh sang teardown và deep-dive kỹ thuật: +52.310 người đăng ký, 25,7 triệu lượt xem (YouTube Studio).</div><div class="tl-ev"><a href="#video">Xem mục Video</a></div></li>
+            <li><div class="tl-date">2019 - 2021</div><div class="tl-t">Thế Giới Di Động · Ngọc Trần Studio <span>· Tech writer, reviewer</span></div><div class="tl-d">18 bài đánh giá và tin công nghệ chuẩn SEO cho thegioididong.com; review smartphone, laptop trước ống kính.</div><div class="tl-ev"><a href="#bai-viet">Xem mục Bài viết</a></div></li>
+          </ol>
+        </section>
 
         <section class="pf-section" id="ky-nang">
           <h2 class="pf-h">🛠 Kỹ năng - gắn với bằng chứng trong trang</h2>
@@ -338,7 +372,7 @@
 
             <div class="pf-card nolink">
               <span class="pf-outlet">Trade Marketing</span>
-              <span class="pf-title">Campus Trade Marketing tại các trường ĐH lớn ở TP.HCM (Tôn Đức Thắng, HUTECH, Sư phạm Kỹ thuật, FPT...): booth nhận diện thương hiệu và tương tác trực tiếp với sinh viên, tối đa hóa điểm chạm với tệp Gen Z.</span>
+              <span class="pf-title">Campus Trade Marketing tại các trường ĐH lớn ở TP.HCM (Tôn Đức Thắng, HUTECH, Văn Hiến): booth nhận diện thương hiệu và tương tác trực tiếp với sinh viên, tối đa hóa điểm chạm với tệp Gen Z.</span>
             </div>
 
             <a class="pf-card" href="/portfolio/hutech-techshow-2025/so-do-gian-hang.jpg" target="_blank" rel="noopener">
@@ -369,9 +403,37 @@
               <span class="pf-foot"><span class="pf-cta">Xem biên bản →</span></span>
             </a>
 
+            <a class="pf-card" href="/portfolio/2025-khai-truong-di-an/bao-cao-pr-admicro.jpg" target="_blank" rel="noopener">
+              <span class="pf-thumb"><img src="/portfolio/2025-khai-truong-di-an/thumb-bao-cao-pr.jpg" alt="Báo cáo số liệu bài PR khai trương Fastcare Dĩ An trên GenK do Admicro gửi" loading="lazy" width="960" height="540"></span>
+              <span class="pf-outlet">PR khai trương · 04/2025</span>
+              <span class="pf-title">Khai trương Fastcare Dĩ An (chi nhánh thứ 14): 5 bài PR qua Admicro; báo cáo 3 bài CafeBiz, Soha, GenK đạt 6.514 lượt xem, tiếp cận 87.925.</span>
+              <span class="pf-foot"><span class="pf-cta">Xem báo cáo →</span></span>
+            </a>
+
+            <a class="pf-card" href="/portfolio/2025-khai-truong-di-an/ooh-phuon-banner-nghiem-thu.jpg" target="_blank" rel="noopener">
+              <span class="pf-thumb"><img src="/portfolio/2025-khai-truong-di-an/thumb-ooh.jpg" alt="Ảnh nghiệm thu băng rôn Fastcare tại các ngã tư Dĩ An, Bình Dương" loading="lazy" width="960" height="540"></span>
+              <span class="pf-outlet">Quảng cáo ngoài trời · 04/2025</span>
+              <span class="pf-title">30 phướn trục Nguyễn An Ninh (10-23/04) và 10 băng rôn tại các ngã tư Dĩ An (10-16/04), ảnh trích từ biên bản nghiệm thu với đơn vị thi công.</span>
+              <span class="pf-foot"><span class="pf-cta">Xem ảnh nghiệm thu →</span></span>
+            </a>
+
+            <a class="pf-card" href="/portfolio/2025-khai-truong-di-an/mat-tien-cua-hang-di-an.jpg" target="_blank" rel="noopener">
+              <span class="pf-thumb"><img src="/portfolio/2025-khai-truong-di-an/thumb-mat-tien.jpg" alt="Mặt tiền cửa hàng Fastcare 76 Nguyễn An Ninh, Dĩ An, Bình Dương" loading="lazy" width="960" height="540"></span>
+              <span class="pf-outlet">Khai trương · 09/04/2025</span>
+              <span class="pf-title">Cửa hàng Fastcare 76 Nguyễn An Ninh, Dĩ An ngày khai trương, cùng key visual ưu đãi giảm 20% tất cả dịch vụ.</span>
+              <span class="pf-foot"><span class="pf-cta">Xem ảnh →</span></span>
+            </a>
+
+            <a class="pf-card" href="/portfolio/2025-mo-may-iphone-17/bao-cao-kol-vat-vo.jpg" target="_blank" rel="noopener">
+              <span class="pf-thumb"><img src="/portfolio/2025-mo-may-iphone-17/thumb-mo-may.jpg" alt="Khoảnh khắc mổ máy iPhone 17 Pro Max cùng Vật Vờ Studio tại Fastcare" loading="lazy" width="960" height="540"></span>
+              <span class="pf-outlet">KOL · 19/09/2025</span>
+              <span class="pf-title">Mổ máy iPhone 17 Pro Max ngày mở bán cùng Vật Vờ Studio: 228.041 lượt xem, 3.300 lượt thích, 555 bình luận (báo cáo KOL), đi kèm bài Kenh14 và bộ ảnh trên Tinh Tế.</span>
+              <span class="pf-foot"><span class="pf-cta">Xem báo cáo →</span></span>
+            </a>
+
             <a class="pf-card" href="/portfolio/kho-ho-so/" rel="nofollow">
               <span class="pf-outlet">🔒 Kho hồ sơ gốc · cần mã khoá</span>
-              <span class="pf-title">Toàn bộ hồ sơ gốc của các dự án trên (25 tài liệu): hợp đồng tài trợ, biên bản nghiệm thu, đề xuất của đơn vị tổ chức, thư mời HUTECH, báo giá bảng rôn, phướn. Tài liệu có thông tin tài chính và thông tin cá nhân nên đã được mã hoá, nhà tuyển dụng cần xem vui lòng liên hệ để nhận mã khoá.</span>
+              <span class="pf-title">Toàn bộ hồ sơ gốc xếp theo dòng thời gian (90 tài liệu): hợp đồng tài trợ và PR, biên bản nghiệm thu, báo cáo Admicro, ảnh sự kiện, kế hoạch marketing Fastcare 2025 và Hoàng Sa Việt 2026. Tài liệu có thông tin tài chính và thông tin cá nhân nên đã được mã hoá, nhà tuyển dụng cần xem vui lòng liên hệ để nhận mã khoá.</span>
               <span class="pf-foot"><span class="pf-cta">Mở kho →</span></span>
             </a>
 
