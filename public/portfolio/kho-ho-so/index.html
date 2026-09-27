@@ -21,6 +21,10 @@
     .sub { color:var(--mute); margin:0 0 24px; }
     .box { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:20px; }
     form { display:flex; gap:10px; flex-wrap:wrap; }
+    .pwbox { position:relative; flex:1 1 220px; display:flex; }
+    .pwbox input { padding-right:72px; }
+    .eye { position:absolute; right:4px; top:50%; transform:translateY(-50%); min-height:38px; padding:6px 12px; background:transparent; color:var(--mute); font-size:14px; }
+    .eye:hover { color:var(--ink); }
     input { flex:1 1 220px; min-height:46px; padding:10px 14px; border:1px solid var(--line); border-radius:10px; font:inherit; }
     button { min-height:46px; padding:10px 18px; border:0; border-radius:10px; background:var(--ink); color:#fff; font:600 15px "Be Vietnam Pro",sans-serif; cursor:pointer; }
     button.ghost { background:transparent; color:var(--ink); border:1px solid var(--line); min-height:38px; padding:6px 12px; font-size:14px; }
@@ -45,7 +49,10 @@
   <div class="box">
     <form id="f" autocomplete="off">
       <label for="pw" style="position:absolute;left:-9999px">Mã khoá</label>
-      <input id="pw" type="password" placeholder="Nhập mã khoá / Access code" required>
+      <span class="pwbox">
+        <input id="pw" type="password" placeholder="Nhập mã khoá / Access code" required>
+        <button type="button" id="eye" class="eye" aria-label="Hiện mã khoá" aria-pressed="false">Hiện</button>
+      </span>
       <button type="submit">Mở kho</button>
     </form>
     <p id="msg" role="status"></p>
@@ -105,6 +112,15 @@
       list.appendChild(sec);
     });
   };
+
+  $('#eye').addEventListener('click', () => {
+    const pw = $('#pw'), show = pw.type === 'password';
+    pw.type = show ? 'text' : 'password';
+    $('#eye').textContent = show ? 'Ẩn' : 'Hiện';
+    $('#eye').setAttribute('aria-pressed', String(show));
+    $('#eye').setAttribute('aria-label', show ? 'Ẩn mã khoá' : 'Hiện mã khoá');
+    pw.focus();
+  });
 
   $('#f').addEventListener('submit', async (e) => {
     e.preventDefault();
