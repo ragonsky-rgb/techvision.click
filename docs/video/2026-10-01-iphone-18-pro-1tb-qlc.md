@@ -78,3 +78,45 @@ Số đo: Tom's Hardware, AppleInsider, Notebookcheck. Video sản phẩm: Apple
 ```
 iPhone 18 Pro bản 1TB dùng bộ nhớ QLC, chậm hơn bản 512GB khoảng 38% ở phép đo hỗn hợp, mà ở Việt Nam đắt hơn tới 13 triệu đồng. Lúc nào mới thấy khác, và nên chọn bản nào: https://techvision.click/articles/iphone-18-pro-1tb-2tb-bo-nho-qlc-cham-hon-ban-256gb.html?utm_source=facebook&utm_medium=social&utm_campaign=video-iphone-18-pro-1tb-qlc
 ```
+
+## Bảng kê media THẬT (bản dựng lại 27/09 tối)
+
+Anh Long nhận xét bản vẽ tay: *"video chưa ổn, anh cần nhiều ảnh thật hoặc video thật đan xen"*. Bản mới đan xen ảnh/clip thật (chính hãng có credit, kho miễn phí bản quyền, ảnh báo có credit trong video), hình vẽ chỉ còn là nhãn số đè lên. File ở `techvision-video-kit/out/i18qlc/media/` (ngoài git), bảng đầy đủ `manifest.json` cùng chỗ.
+
+| File | Nội dung | Credit trên hình | Giấy phép | Trạng thái |
+|---|---|---|---|---|
+| m01.jpg | Ảnh chụp tiêu đề bài Tom's Hardware (21/9/2026): bộ nhớ iPhone 18 Pro Max có thể tụt xuống | Ảnh: Tom's Hardware | Ảnh chụp màn hình bài báo, dùng trích dẫ | dùng |
+| m02.jpg | Ảnh chụp tiêu đề bài Notebookcheck: 'Chậm hơn cả thẻ SD khi tải nặng: bộ nhớ QLC của iPhon | Ảnh: Notebookcheck | Ảnh chụp màn hình bài báo, dùng trích dẫ | dự phòng |
+| m03.jpg | Biểu đồ benchmark FIO của HOMOLAB: cột Q1T1 MIX bản QLC 1TB được 8168, bản TLC 512GB được  | Ảnh: HOMOLAB qua Notebookcheck | Biểu đồ đo của HOMOLAB, đăng lại trong b | dùng |
+| m04.jpg | Biểu đồ ghi tuần tự 128K của HOMOLAB trên iPhone 18 Pro Max 1TB: SLC cache khoảng 3256 MB/ | Ảnh: HOMOLAB qua Notebookcheck | Biểu đồ đo của HOMOLAB, đăng lại trong b | dùng |
+| m05.jpg | Biểu đồ HOMOLAB khi máy đầy 60%: SLC cache chỉ còn 58G (khi trống khoảng 250G), QLC trung  | Ảnh: HOMOLAB qua Notebookcheck | Biểu đồ đo của HOMOLAB, đăng lại trong b | dùng |
+| m06.jpg | Ảnh báo chí Samsung: chip NAND V-NAND QLC thế hệ 9 (lưu 4 bit mỗi ô nhớ) đặt trên bo mạch | Ảnh: Samsung | Ảnh báo chí chính thức Samsung Newsroom, | dùng |
+| m07.jpg | Tay cầm thẻ nhớ microSD trên nền tối, minh hoạ ý 'tốc độ ghi tụt như thẻ microSD' | Ảnh: Ivan Radic / Wikimedia Commons (CC BY 2.0) | CC BY 2.0, tác giả Ivan Radic | dùng |
+| m08.jpg | Ảnh chụp màn hình Cài đặt > Cài đặt chung > Dung lượng iPhone (đã dùng 150,69 GB / 256 GB) | Ảnh: Apple Support | Ảnh minh hoạ chính thức của Apple Suppor | dự phòng |
+| m09.mp4 | Video Apple Support: màn hình Dung lượng iPhone, thanh dung lượng nhiều màu gần đầy (98,5  | Video: Apple Support | Video chính thức kênh YouTube Apple Supp | dùng |
+| m10.mp4 | Tay cắm cáp Lightning vào iPhone đặt trên bàn gỗ, màn hình sáng lên; b-roll chép dữ liệu/k | Video: Aghyad Najjar / Pexels | Pexels License (miễn phí, không bắt buộc | dự phòng |
+| m11.mp4 | Video Apple Support: hai iPhone cạnh nhau, máy cũ 'Updating Backup', máy mới chờ rồi 'Rest | Video: Apple Support | Video chính thức kênh YouTube Apple Supp | dùng |
+| m12.mp4 | Hai tay lấy thẻ nhớ SanDisk Ultra ra khỏi hộp đựng thẻ trên nền cam, quay khung dọc 9:16 | Video: Cemrecan Yurtman / Pexels | Pexels License (miễn phí, không bắt buộc | dự phòng |
+| m13.mp4 | Hoạt hình thanh dung lượng iPhone trên nền đen, các khối màu co dần (bản gốc là giải phóng | Video: Apple Support | Video chính thức kênh YouTube Apple Supp | dự phòng |
+| A_iphone18pro.mp4 | Video Apple 'Introducing iPhone 18 Pro': cầm iPhone quay video, màn hình hiện giao diện ca | Video: Apple | Video chính thức của Apple, ghi nguồn | dùng |
+| B_iphone18pro_vidbee.mkv | Video Apple: giao diện camera Pro của iPhone 18 Pro, chọn định dạng 4K rồi bấm nút quay đỏ | Video: Apple | Video chính thức của Apple, ghi nguồn | dự phòng |
+
+<details><summary>Link gốc từng file</summary>
+
+- m01.jpg: https://www.tomshardware.com/pc-components/ssds/iphone-18-pro-max-storage-can-drop-lower-than-a-hard-drive-at-1-1-mb-s-during-heavy-writes-qlc-nand-offers-higher-capacity-but-reportedly-suffers-38-percent-drop-compared-to-tlc-based-pro
+- m02.jpg: https://www.notebookcheck.net/Slower-than-an-SD-card-under-heavy-load-iPhone-18-Pro-Max-s-QLC-storage-gets-tested.1403886.0.html
+- m03.jpg: https://www.notebookcheck.net/fileadmin/_processed_/5/1/csm_1789928059082_5f6e185e1f.png
+- m04.jpg: https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Homolab-1TB-test.jpg
+- m05.jpg: https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/IMG_20260921_012551.jpg
+- m06.jpg: https://news.samsung.com/global/samsung-begins-industrys-first-mass-production-of-qlc-9th-gen-v-nand-for-ai-era
+- m07.jpg: https://commons.wikimedia.org/wiki/File:MicroSD_card_between_two_fingers.jpg
+- m08.jpg: https://support.apple.com/en-us/108429
+- m09.mp4: https://www.youtube.com/watch?v=bwjcYyCneNc
+- m10.mp4: https://www.pexels.com/video/close-up-view-of-person-plugging-a-cable-charger-into-a-smartphone-4820379/
+- m11.mp4: https://www.youtube.com/watch?v=8UrN8XBP9PE
+- m12.mp4: https://www.pexels.com/video/high-speed-sd-card-handling-on-orange-background-30730784/
+- m13.mp4: https://www.youtube.com/watch?v=bwjcYyCneNc
+- A_iphone18pro.mp4: (video Apple chính thức có sẵn trong out/src18)
+- B_iphone18pro_vidbee.mkv: (video Apple chính thức có sẵn trong out/src18)
+
+</details>

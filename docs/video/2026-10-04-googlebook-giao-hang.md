@@ -53,3 +53,59 @@ Quy đổi theo tỷ giá bán Vietcombank 27/9/2026 (26.170đ/USD). #Shorts #Go
 ```
 Googlebook giao hàng từ hôm nay: laptop Android của Google từ 899 USD, cả 5 máy đều 16GB RAM. Việt Nam chưa có tên đợt đầu. Giá từng máy: https://techvision.click/articles/googlebook-5-may-gia-tu-899-usd-dat-truoc-21-9-giao-4-10-2026.html?utm_source=facebook&utm_medium=social&utm_campaign=video-googlebook-giao-hang
 ```
+
+## Bảng kê media THẬT (bản dựng lại 27/09 tối)
+
+Anh Long nhận xét bản vẽ tay: *"video chưa ổn, anh cần nhiều ảnh thật hoặc video thật đan xen"*. Bản mới đan xen ảnh/clip thật (chính hãng có credit, kho miễn phí bản quyền, ảnh báo có credit trong video), hình vẽ chỉ còn là nhãn số đè lên. File ở `techvision-video-kit/out/gbook/media/` (ngoài git), bảng đầy đủ `manifest.json` cùng chỗ.
+
+| File | Nội dung | Credit trên hình | Giấy phép | Trạng thái |
+|---|---|---|---|---|
+| m01.mp4 | Video giới thiệu chính thức Googlebook của Google: vệt sáng cầu vồng quét qua cạnh máy, cậ | Video: Google | Tư liệu báo chí chính thức (kênh YouTube | dùng |
+| m02.mp4 | Thanh Glowbar sáng lên, nắp máy HP Googlebook mở ra trên nền đen (hero video trang googleb | Video: Google | Tư liệu marketing chính thức của Google | dùng |
+| m03.mp4 | 5 mẫu Googlebook (Acer, ASUS, Dell, HP, Lenovo) lần lượt xuất hiện xếp hàng trên nền đen | Video: Google | Tư liệu báo chí chính thức (blog.google) | dùng |
+| m04.mp4 | Giao diện Googlebook OS: desktop kiểu Android với thanh ứng dụng và cửa sổ app; cuối clip  | Video: Google | Tư liệu báo chí chính thức (kênh YouTube | dùng |
+| m05.mp4 | Ứng dụng Android đang mở trên điện thoại được tiếp tục ngay trên màn hình Googlebook (tính | Video: Google | Tư liệu báo chí chính thức (blog.google) | dùng |
+| m06.jpg | Googlebook trên bàn gỗ cạnh điện thoại Android và tai nghe, màn hình chạy ứng dụng Android | Ảnh: Google | Tư liệu marketing chính thức của Google | dự phòng |
+| m07.jpg | Chromebook Acer (logo chrome trên nắp) - ảnh đối chiếu dòng máy ChromeOS mà Googlebook tha | Ảnh: Rajeshodayanchal / Wikimedia Commons (CC BY-SA 4.0) | CC BY-SA 4.0 | dùng |
+| m08.png | Acer Googlebook 14 - ảnh sản phẩm mở máy, nền trong suốt | Ảnh: Google | Tư liệu marketing chính thức của Google | dùng |
+| m09.png | ASUS Googlebook 14 - ảnh sản phẩm mở máy, nền trong suốt | Ảnh: Google | Tư liệu marketing chính thức của Google | dùng |
+| m10.png | Dell XPS Googlebook (màu vàng nhạt) - ảnh sản phẩm mở máy, nền trong suốt | Ảnh: Google | Tư liệu marketing chính thức của Google | dùng |
+| m11.png | HP Googlebook 14 (xanh navy) - ảnh sản phẩm mở máy, nền trong suốt | Ảnh: Google | Tư liệu marketing chính thức của Google | dùng |
+| m12.png | Lenovo Googlebook 15 (trắng) - ảnh sản phẩm mở máy nhìn chính diện, nền trong suốt | Ảnh: Google | Tư liệu marketing chính thức của Google | dùng |
+| m13.png | Acer Googlebook 14 - ảnh báo chí: hai máy (mở thường và gập ngược), máy xoay gập 360 độ | Ảnh: Acer | Tư liệu báo chí chính thức của Acer | dự phòng |
+| m14.mp4 | Cận cảnh bàn phím và màn hình Acer Googlebook 14, vệt sáng cầu vồng trên màn hình, logo Ac | Video: Google | Tư liệu marketing chính thức của Google | dùng |
+| m15.png | HP Googlebook 14 màu Atmospheric Blue - ảnh báo chí góc trước trái, nền trong suốt | Ảnh: HP | Tư liệu báo chí chính thức của HP | dự phòng |
+| m16.jpg | ASUS Googlebook 14 đặt trên bàn đá trong phòng khách, ảnh phong cách sống | Ảnh: Google | Tư liệu marketing chính thức của Google | dự phòng |
+| m17.jpg | Hai thanh RAM SO-DIMM gắn trên bo mạch chủ laptop | Ảnh: dumanag / WordPress Photos (CC0) | CC0 | dự phòng |
+| m18.jpg | Cận cảnh các chip nhớ DRAM trên một thanh RAM DDR5 Micron | Ảnh: PantheraLeo1359531 / Wikimedia Commons (CC BY 4.0) | CC BY 4.0 | dùng |
+| m19.png | Logo Gemini chính thức (ngôi sao bốn cánh + chữ Gemini) | Ảnh: Google | Tư liệu marketing chính thức của Google | dự phòng |
+| m20.jpg | Ảnh bìa Googlebook: chữ 'Googlebook - Designed for Gemini Intelligence' trên nền dải màu | Ảnh: Google | Tư liệu marketing chính thức của Google | dùng |
+| m21.jpg | Người đàn ông dán băng keo niêm phong thùng carton để giao hàng | Ảnh: Meanwell Packaging / Wikimedia Commons (CC BY 2.0) | CC BY 2.0 | dùng |
+| m22.mp4 | Video chính thức Lenovo Googlebook 15: ánh sáng lướt trên thân máy, logo Lenovo trên nắp,  | Video: Lenovo | Tư liệu báo chí chính thức (kênh YouTube | dùng |
+
+<details><summary>Link gốc từng file</summary>
+
+- m01.mp4: https://www.youtube.com/watch?v=S0J6zQFuZwo
+- m02.mp4: https://googlebook.google/
+- m03.mp4: https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/
+- m04.mp4: https://www.youtube.com/watch?v=VUthq-JuxxE
+- m05.mp4: https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/
+- m06.jpg: https://googlebook.google/
+- m07.jpg: https://commons.wikimedia.org/wiki/File:Chromebook_laptop_for_Wikimedians_1.jpg
+- m08.png: https://googlebook.google/shop
+- m09.png: https://googlebook.google/shop
+- m10.png: https://googlebook.google/shop
+- m11.png: https://googlebook.google/shop
+- m12.png: https://googlebook.google/shop
+- m13.png: https://news.acer.com/acer-debuts-first-googlebook-the-embodiment-of-premium-intelligence-powered-hardware
+- m14.mp4: https://googlebook.google/shop/acer-googlebook-14
+- m15.png: https://www.hp.com/us-en/newsroom/press-releases/2026/hp-googlebook-14-brings-premium-craftsmanship-to-googles-newest-connected-platform.html
+- m16.jpg: https://googlebook.google/shop/asus-googlebook-14
+- m17.jpg: https://wordpress.org/photos/photo/8806a6146f/
+- m18.jpg: https://commons.wikimedia.org/wiki/File:Micron_MTC40F204681RC48BA1R_20240407_076.jpg
+- m19.png: https://one.google.com/about/google-ai-plans/
+- m20.jpg: https://googlebook.google/
+- m21.jpg: https://commons.wikimedia.org/wiki/File:Sealing_a_package_with_plastic_tape_for_shipping.jpg
+- m22.mp4: https://www.youtube.com/watch?v=wXEq65LEeqA
+
+</details>
