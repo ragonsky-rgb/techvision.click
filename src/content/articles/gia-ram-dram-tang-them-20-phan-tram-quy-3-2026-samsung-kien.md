@@ -12,6 +12,7 @@ deck: "Giá hợp đồng DRAM quý 3/2026 được TrendForce điều chỉnh t
 heroImage: "https://i.ytimg.com/vi/GzPN3Zpzusg/maxresdefault.jpg"
 heroAlt: "Khủng hoảng giá RAM và DRAM toàn cầu tiếp diễn sang quý 4/2026"
 heroCaption: "Giá DRAM chậm lại trong quý 4/2026 nhưng vẫn chưa hạ nhiệt thực sự. Nguồn: YouTube"
+ogImage: "https://techvision.click/uploads/og-article/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.jpg"
 tldr: "Giá hợp đồng <strong>DRAM PC quý 3/2026</strong> được TrendForce điều chỉnh tăng lên <strong>15-20%</strong>, cao hơn mức 8-13% dự báo trước đó, trong khi <strong>DRAM cho máy chủ tăng 13-18%</strong>. Quý 4/2026 được dự báo chậm lại còn <strong>3-8%</strong>, tức vẫn tăng chứ chưa giảm. Song song đó, <strong>Samsung, SK hynix và Micron</strong> đang bị kiện tập thể tại tòa án liên bang California (vụ <strong>Garciaguirre v. Samsung</strong>, số hồ sơ <strong>5:26-cv-06345</strong>), cáo buộc thao túng giá khiến DRAM tăng gần <strong>700%</strong> từ quý 3/2024 tới quý 1/2026. Tính riêng RAM DDR5 bán lẻ, Tom's Hardware ghi nhận giá tăng trung bình <strong>500%</strong> trong 12 tháng, còn hãng laptop Đức XMG báo giá RAM DDR5 SO-DIMM cho laptop đã tăng gần <strong>6 lần</strong> kể từ tháng 7/2025."
 tags: ["RAM", "DRAM", "Samsung", "SKhynix", "Micron", "KhungHoangBoNho", "VuKienDRAM"]
 about: ["Samsung", "SK hynix", "Micron", "DRAM", "RAM", "TrendForce"]
