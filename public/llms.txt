@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 269
-- **Cập nhật:** 2026-09-26 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 271
+- **Cập nhật:** 2026-09-28 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -54,7 +54,7 @@
 - [Điện thoại 2026: RAM 16GB biến mất, RAM 4GB trở lại](https://techvision.click/articles/dien-thoai-2026-ram-16gb-bien-mat-ram-4gb-tro-lai.html)
 - [Huawei Mate XT 2 gập ba ra mắt: giá, chip Kirin 9050 Pro](https://techvision.click/articles/huawei-mate-xt-2-gap-ba-ra-mat-gia-kirin-9050-pro-2026.html)
 - [Redmi Note 17 giá từ 6,99 triệu tại VN, pin 10.000mAh](https://techvision.click/articles/redmi-note-17-series-ra-mat-viet-nam-gia-pin-10000mah-2026.html)
-- [Xiaomi 18 Pro ra mắt tháng 9: cấu hình, giá, có về Việt Nam?](https://techvision.click/articles/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.html)
+- [Xiaomi 18 Pro, Pro Max ra mắt: giá, cấu hình, về Việt Nam](https://techvision.click/articles/xiaomi-18-pro-pro-max-fold-ra-mat-thang-9-2026-gia-viet-nam.html)
 - [Motorola razr fold về Việt Nam: giá 49,99 triệu đồng](https://techvision.click/articles/motorola-razr-fold-ra-mat-viet-nam-gia-49-99-trieu-2026.html)
 - [Nothing Phone (4a) ra mắt Việt Nam: giá bán và cấu hình](https://techvision.click/articles/nothing-phone-4a-4a-pro-ra-mat-viet-nam-gia-cau-hinh-2026.html)
 - [HyperOS 4 cập nhật khi nào: danh sách máy Xiaomi, Redmi, POCO](https://techvision.click/articles/hyperos-4-android-17-danh-sach-may-xiaomi-redmi-poco-cap-nhat-2026.html)
@@ -172,7 +172,7 @@
 - [Osaurus: server AI local cho Mac M-series, LLM offline](https://techvision.click/articles/osaurus-mac-local-ai-server.html)
 - [Google ra mắt Gemini Intelligence trên Android 17](https://techvision.click/articles/google-gemini-intelligence-android-17.html)
 
-## Công nghệ (46 bài)
+## Công nghệ (47 bài)
 
 - [Intel Nova Lake: 52 nhân, socket LGA1954, bao giờ bán?](https://techvision.click/articles/intel-nova-lake-core-ultra-400-52-nhan-lga1954-bao-gio-ban.html)
 - [Snapdragon 8 Elite Gen 6 và Extreme Gen 6: chip 2nm 5GHz](https://techvision.click/articles/snapdragon-summit-2026-hai-chip-8-elite-gen-6-va-gen-6-pro.html)
@@ -216,6 +216,7 @@
 - [Meta sản xuất chip AI Iris từ tháng 9, bớt phụ thuộc Nvidia](https://techvision.click/articles/meta-chip-ai-iris-san-xuat-thang-9-mtia-broadcom-tsmc-2026.html)
 - [Android 17 ra mắt: tính năng mới, máy nào được cập nhật](https://techvision.click/articles/android-17-cinnamon-bun-chinh-thuc-phat-hanh-2026.html)
 - [Volvo EX90 và ES90 về Việt Nam quý 4/2026: cọc, thông số](https://techvision.click/articles/volvo-ex90-es90-xe-dien-ve-viet-nam-quy-4-2026-nhan-coc.html)
+- [Giá RAM quý 4/2026: DRAM tăng chậm, Samsung vẫn bị kiện](https://techvision.click/articles/gia-ram-dram-tang-them-20-phan-tram-quy-3-2026-samsung-kien.html)
 - [FPT AI Factory: nhà máy AI đầu tiên của Việt Nam](https://techvision.click/articles/fpt-ai-factory-2026-nha-may-ai-chu-quyen-viet-nam-nvidia.html)
 - [MoMo: siêu ứng dụng AI với hơn 40 triệu người dùng Việt](https://techvision.click/articles/momo-sieu-ung-dung-ai-2026-40-trieu-nguoi-dung-fintech-viet-nam.html)
 - [Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ](https://techvision.click/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html)
@@ -249,7 +250,7 @@
 - [WWDC 2026 (8/6): Siri mới chạy Google Gemini, preview iOS 27](https://techvision.click/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html)
 - [iPhone sẽ tự khóa khi bị giật khỏi tay: tính năng mới](https://techvision.click/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html)
 
-## Laptop (23 bài)
+## Laptop (24 bài)
 
 - [Googlebook ra mắt 15/9: Android lên laptop, thay Chromebook](https://techvision.click/articles/googlebook-aluminium-os-ra-mat-15-9-2026-android-len-laptop.html)
 - [Nâng cấp RAM, SSD cho laptop cũ 2026: giá bao nhiêu, có đáng?](https://techvision.click/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html)
@@ -264,6 +265,7 @@
 - [Chip laptop 2026: Panther Lake vs Snapdragon X2 Elite vs AMD](https://techvision.click/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html)
 - [MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026](https://techvision.click/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html)
 - [ROG Flow Z13: máy tính bảng gaming Ryzen AI Max+ 395 mạnh nhất](https://techvision.click/articles/asus-rog-flow-z13-ryzen-ai-max-395-may-tinh-bang-gaming-2026.html)
+- [RTX 5090 giá vượt 5.000 USD, card đồ họa tại Việt Nam tăng theo](https://techvision.click/articles/rtx-5090-gia-tang-vot-khung-hoang-dram-2026.html)
 - [Laptop Snapdragon X2 Elite 2026: Surface mới, NPU 80 TOPS](https://techvision.click/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html)
 - [Dell XPS 13 mới giá 699 USD: đấu trực tiếp MacBook](https://techvision.click/articles/dell-xps-13-699-usd-2026-dau-macbook.html)
 - [Khủng hoảng bộ nhớ 2026: RAM, SSD tăng giá vì AI gom hàng](https://techvision.click/articles/khung-hoang-bo-nho-ram-tang-gia-2026-ai-data-center.html)
