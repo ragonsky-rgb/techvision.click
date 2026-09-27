@@ -31,7 +31,7 @@ const MIME = {
   '.pptx': 'application/vnd.openxmlformats-officedocument.presentationml.presentation',
   '.xlsx': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
   '.xls': 'application/vnd.ms-excel', '.doc': 'application/msword',
-  '.html': 'text/html', '.md': 'text/markdown', '.txt': 'text/plain', '.mp4': 'video/mp4',
+  '.html': 'text/html', '.json': 'application/json', '.md': 'text/markdown', '.txt': 'text/plain', '.mp4': 'video/mp4',
 };
 
 const old = APPEND ? JSON.parse(readFileSync(join(OUT, 'vault.json'), 'utf8')) : null;
