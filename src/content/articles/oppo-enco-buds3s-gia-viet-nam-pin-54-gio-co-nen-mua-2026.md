@@ -8,10 +8,10 @@ type: "tin-tuc"
 datePublished: "2026-09-28T16:30:00+07:00"
 dateModified: "2026-09-28T21:40:00+07:00"
 deck: "OPPO Enco Buds3s lên kệ OPPO Store Việt Nam từ 25/9 với giá niêm yết 990.000đ, và đang có ưu đãi mở bán 690.000đ tới hết 11/10. Pin 12 giờ mỗi lần sạc là điểm mạnh thật, nhưng máy không có chống ồn chủ động và gần như trùng thông số với Enco Buds3 Pro đời trước."
-heroImage: "https://i.ytimg.com/vi/LvdeuJACVAU/maxresdefault.jpg"
+heroImage: "https://techvision.click/images/oppo-enco-buds3s-gia-viet-nam-pin-54-gio-co-nen-mua-2026/enco-buds3s-hop-sac-mo.jpg"
 ogImage: "https://techvision.click/uploads/og-article/oppo-enco-buds3s-gia-viet-nam-pin-54-gio-co-nen-mua-2026.jpg"
-heroAlt: "Tai nghe OPPO Enco Buds3s mau den va hop sac trong video danh gia cua kenh Duy An Vlog"
-heroCaption: "OPPO Enco Buds3s bản màu đen, màu duy nhất bán tại Việt Nam, trong video đánh giá của kênh Duy An Vlog Đồ Công Nghệ. Nguồn: YouTube"
+heroAlt: "Tai nghe OPPO Enco Buds3s mau den voi hop sac mo, anh chinh thuc cua OPPO"
+heroCaption: "OPPO Enco Buds3s bản màu đen, màu duy nhất bán tại Việt Nam, với hộp sạc 560 mAh cho tổng 54 giờ nghe nhạc. Ảnh chính thức. Nguồn: OPPO Việt Nam"
 tldr: "OPPO Enco Buds3s mở bán trên OPPO Store Việt Nam từ <strong>25/9/2026</strong>, niêm yết <strong>990.000đ</strong>, đang bán <strong>690.000đ</strong> trong đợt ưu đãi mở bán tới hết <strong>11/10</strong>. Gian hàng OPPO trên Shopee Mall để 890.000đ, còn Thế Giới Di Động, CellphoneS, FPT Shop và Điện Máy Xanh chưa có hàng (đọc ngày 28/9). Điểm mạnh là pin <strong>12 giờ mỗi lần sạc, 54 giờ tính cả hộp</strong>, sạc 10 phút nghe 8 giờ, IP55 và độ trễ chơi game 47 ms. Điểm trừ: <strong>không có chống ồn chủ động</strong>, codec chỉ AAC và SBC, và thông số gần như trùng Enco Buds3 Pro đang bán 870.000đ."
 tags: ["OPPO", "TaiNghe", "TrueWireless", "GiaVietNam", "DuoiMotTrieu", "2026"]
 about: ["OPPO Enco Buds3s", "OPPO", "OPPO Enco Buds3 Pro", "Samsung Galaxy Buds Core", "realme Buds T200", "Tai nghe true wireless"]
