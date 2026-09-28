@@ -67,7 +67,7 @@ Yếu tố đầu tiên cần cân nhắc là độ phân giải video, quyết 
 Về số kênh camera, camera 1 kênh chỉ ghi hình phía trước phù hợp ngân sách hạn chế và nhu cầu cơ bản. Camera 2 kênh (trước và sau) phù hợp với đa số người dùng phổ thông, ghi lại được cả tình huống va chạm từ phía sau xe. Camera 3 kênh, bổ sung thêm góc quay bên trong xe, phù hợp nhất với tài xế dịch vụ như taxi công nghệ hoặc xe khách, cần ghi lại cả tình huống xảy ra bên trong khoang xe.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/TwfifP3p-GU/maxresdefault.jpg" alt="Viofo A329S 4K 60FPS danh gia chi tiet 2026" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/nJSs7nI4MG8/maxresdefault.jpg" alt="Viofo A329S 4K 60FPS danh gia chi tiet 2026" loading="lazy" width="1280" height="720">
   <figcaption>Viofo A329S là một trong những mẫu camera hành trình 4K được đánh giá cao nhất năm 2026. Nguồn: YouTube</figcaption>
 </figure>
 

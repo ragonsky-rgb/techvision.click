@@ -63,7 +63,7 @@ Theo rò rỉ được nguồn tin quen thuộc chia sẻ, một nhà cung cấp
 
 <div class="art-video-label">VIDEO · Tất tần tật về iPhone gập đầu tiên của Apple</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/pjUy1f-6-OQ" title="iPhone Ultra gập đầu tiên của Apple" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/XVDggLe-24A" title="iPhone gap dau tien cua Apple va dien thoai gap" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">iPhone Ultra được kỳ vọng là bước ngoặt của Apple trên thị trường điện thoại gập. Nguồn: YouTube</p>
 

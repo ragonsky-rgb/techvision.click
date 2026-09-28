@@ -69,7 +69,7 @@ Về khả năng chụp cận cảnh, ống kính có thể lấy nét macro ở
 
 <div class="art-video-label">VIDEO · Sony RX10 V chính thức ra mắt, thay đổi cuộc chơi máy ảnh siêu zoom</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/vSqppGydUnw" title="Sony RX10 V is OFFICIAL! July 9 Changes Everything" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/lPyu5ki-jAw" title="Sony RX10 V Review PetaPixel" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Sony chính thức công bố RX10 V với hàng loạt nâng cấp đáng chú ý so với thế hệ tiền nhiệm. Nguồn: YouTube</p>
 
@@ -96,7 +96,7 @@ Về khả năng quay phim, RX10 V hỗ trợ quay video 4K 60p với chế đ�
 Về khả năng chống rung, máy trang bị chế độ ổn định hình ảnh Active Mode sử dụng cảm biến con quay hồi chuyển (gyro sensor) mới kết hợp cùng thuật toán ổn định hình ảnh thế hệ mới nhất, giúp giảm đáng kể hiện tượng rung lắc khi quay video cầm tay, đặc biệt hữu ích khi sử dụng ở tiêu cự tele xa vốn rất nhạy cảm với chuyển động nhỏ của tay người cầm máy.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/vSqppGydUnw/maxresdefault.jpg" alt="Những thay đổi lớn của Sony RX10 V so với thế hệ tiền nhiệm" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/P3meDs7jouk/maxresdefault.jpg" alt="Những thay đổi lớn của Sony RX10 V so với thế hệ tiền nhiệm" loading="lazy" width="1280" height="720">
   <figcaption>RX10 V mang tới hàng loạt nâng cấp đáng giá sau 9 năm chờ đợi của cộng đồng nhiếp ảnh. Nguồn: YouTube</figcaption>
 </figure>
 

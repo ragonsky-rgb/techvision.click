@@ -94,7 +94,7 @@ Ngoài nông nghiệp, UAV còn được triển khai trong logistics giao hàng
 Mạng lưới UAV Việt Nam đã đặt ra mục tiêu dài hạn đầy tham vọng: xây dựng một ngành công nghiệp UAV trị giá khoảng 5 tỷ USD vào năm 2035, với các sản phẩm mang thương hiệu made in Vietnam hiện diện tại nhiều quốc gia trên thế giới. Đây không phải mục tiêu viển vông khi xét tới lợi thế giá thành hiện tại, sản phẩm UAV sản xuất trong nước hiện chỉ có giá khoảng 70% so với các sản phẩm cùng loại trên thị trường quốc tế, trong khi một số sản phẩm đã được xuất khẩu thành công sang Mỹ và châu Âu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/OgHPEJ1HQ3Q/maxresdefault.jpg" alt="UAV Việt Nam ứng dụng trong nhiều nhiệm vụ chuyên biệt" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/RBbjYEvvNIc/maxresdefault.jpg" alt="UAV Việt Nam ứng dụng trong nhiều nhiệm vụ chuyên biệt" loading="lazy" width="1280" height="720">
   <figcaption>Nhiều mẫu UAV nội địa đã được thử nghiệm và đưa vào ứng dụng thực tế tại Việt Nam. Nguồn: YouTube</figcaption>
 </figure>
 

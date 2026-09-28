@@ -102,7 +102,7 @@ Tuy nhiên, trải nghiệm thực tế với Nubia M153 cũng bộc lộ không
 Sự kiện WAIC 2026 tại Thượng Hải, diễn ra từ ngày 17 đến 20/7, được xem là một trong những hội nghị trí tuệ nhân tạo lớn nhất châu Á trong năm nay, quy tụ nhiều công bố công nghệ đáng chú ý khác bên cạnh smartphone AI Agent của Nubia, bao gồm cụm máy tính AI Atlas 950 SuperPoD của Huawei, cho thấy Trung Quốc đang đẩy mạnh nỗ lực thể hiện năng lực cạnh tranh trong lĩnh vực trí tuệ nhân tạo ứng dụng trên diện rộng, từ trung tâm dữ liệu quy mô lớn cho tới thiết bị cá nhân hàng ngày.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/QJ04YP2c3I0/maxresdefault.jpg" alt="Đánh giá chi tiết trải nghiệm AI Doubao trên smartphone Nubia" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/s_42mv7DFro/maxresdefault.jpg" alt="Đánh giá chi tiết trải nghiệm AI Doubao trên smartphone Nubia" loading="lazy" width="1280" height="720">
   <figcaption>Trải nghiệm thực tế cho thấy AI Agent xử lý khá nhanh các tác vụ đơn giản như tìm kiếm và điền thông tin. Nguồn: YouTube</figcaption>
 </figure>
 

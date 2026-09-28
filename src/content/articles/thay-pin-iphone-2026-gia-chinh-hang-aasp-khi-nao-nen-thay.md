@@ -71,7 +71,7 @@ Mốc kỹ thuật là **dung lượng tối đa dưới 80%**. Đây là ngư�
 Nhưng con số đó không phải toàn bộ câu chuyện. Thực tế có hai kiểu pin hỏng khác nhau. Kiểu thứ nhất là chai từ từ: dung lượng giảm dần, máy hết pin sớm hơn nhưng vẫn hoạt động ổn định. Kiểu thứ hai nguy hiểm hơn: pin còn hiện dung lượng khá nhưng không đẩy nổi dòng điện tức thời, khiến máy sập nguồn khi có tác vụ nặng như mở camera, dùng đèn flash hoặc ra trời lạnh. Với kiểu thứ hai, đừng chờ tới 80% mới thay.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/FkaC4R54HHE/maxresdefault.jpg" alt="Dau hieu pin iPhone chai can thay the" loading="lazy" width="1280" height="720">
+  <img decoding="async" src="https://i.ytimg.com/vi/px32_JR3ZdI/maxresdefault.jpg" alt="Dau hieu pin iPhone chai can thay the" loading="lazy" width="1280" height="720">
   <figcaption>Máy sập nguồn khi mở camera là dấu hiệu nặng hơn con số dung lượng tối đa. Ảnh minh họa từ YouTube</figcaption>
 </figure>
 
