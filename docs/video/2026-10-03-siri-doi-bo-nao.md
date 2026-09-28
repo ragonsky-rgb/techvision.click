@@ -1,6 +1,6 @@
 # Video: Siri sắp cho đổi "bộ não" sang Claude hoặc ChatGPT (đăng T7 03/10/2026)
 
-> **Facebook Reels ĐÃ HẸN 03/10 19:00** (27/09, bản gốc nét từ PC, video_id 1627306572170797). TikTok + YouTube CHƯA hẹn: anh Long dặn đăng bản gốc, KHÔNG nén; file gốc `techvision-video-kit/out/*/2026-10-03-siri-doi-bo-nao.mp4`.
+> **Facebook Reels ĐÃ HẸN 03/10 19:00** (27/09, bản gốc nét từ PC, video_id 1627306572170797). **YouTube Shorts ĐÃ HẸN 03/10 19:00** (28/09, bản nháp anh Long tải bản gốc, Claude điền tiêu đề + mô tả + không dành cho trẻ em qua Studio, https://youtube.com/shorts/l6s_YFG24cg). TikTok anh Long tự hẹn trên PC. file gốc `techvision-video-kit/out/*/2026-10-03-siri-doi-bo-nao.mp4`.
 
 Trạng thái: **ĐÃ DỰNG XONG 27/09/2026 trên PC** (anh Long bảo "cứ làm video tiếp"), CHƯA đăng. Bản cao nhất: `D:\Techvision video\2026-10-03-siri-doi-bo-nao.mp4` (34s, CRF 16); bản nhẹ `techvision-video-kit/out/siri27/2026-10-03-siri-doi-bo-nao-nhe.mp4` (8,3 MB).
 

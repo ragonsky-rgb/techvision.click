@@ -1,6 +1,6 @@
 # Video: iPhone 18 Pro bản 1TB chậm hơn bản 512GB (đăng T5 01/10/2026)
 
-> **Facebook Reels ĐÃ HẸN 01/10 19:00** (27/09, bản gốc nét từ PC, video_id 1648675763441734). TikTok + YouTube CHƯA hẹn: anh Long dặn đăng bản gốc, KHÔNG nén; file gốc `techvision-video-kit/out/*/2026-10-01-iphone-18-pro-1tb-qlc.mp4`.
+> **Facebook Reels ĐÃ HẸN 01/10 19:00** (27/09, bản gốc nét từ PC, video_id 1648675763441734). **YouTube Shorts ĐÃ HẸN 01/10 19:00** (28/09, bản nháp anh Long tải bản gốc, Claude điền tiêu đề + mô tả + không dành cho trẻ em qua Studio, https://youtube.com/shorts/r6YFD-sQvEg). TikTok anh Long tự hẹn trên PC. file gốc `techvision-video-kit/out/*/2026-10-01-iphone-18-pro-1tb-qlc.mp4`.
 
 Trạng thái: **ĐÃ DỰNG XONG 27/09/2026 trên PC Windows, CHỜ anh Long xem + cho phép hẹn đăng** (T5 01/10 19:00). Kịch bản + bảng kê đã duyệt 26/09.
 
