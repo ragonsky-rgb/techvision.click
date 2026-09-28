@@ -1,4 +1,6 @@
-# Video: OPPO Enco Buds3s 690.000đ, pin 54 giờ, không chống ồn (dự kiến CN 05/10/2026 19:00)
+# Video: OPPO Enco Buds3s 690.000đ, pin 54 giờ, không chống ồn
+
+> **Facebook Reels ĐÃ ĐĂNG 28/09/2026 ~17:10** (anh Long nói "lên luôn"), bản gốc nét 57 MB, video_id 2175295900002333, https://www.facebook.com/reel/2175295900002333 . Kiểm bản quyền Facebook: qua (nhạc Soundraw). TikTok + YouTube Shorts: anh Long tự đăng.
 
 Trạng thái: **ĐANG DỰNG trên Mac 28/09/2026** (anh Long duyệt media + bỏ hết ảnh màu xanh). Chưa đăng.
 
