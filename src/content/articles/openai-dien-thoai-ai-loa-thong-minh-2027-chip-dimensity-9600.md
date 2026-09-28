@@ -25,7 +25,7 @@ stats:
   - { num: "Nửa đầu 2027", label: "Mốc sản xuất hàng loạt điện thoại AI của OpenAI theo Ming-Chi Kuo" }
   - { num: "Dimensity 9600", label: "Chip MediaTek bản tùy biến, sản xuất trên tiến trình N2P của TSMC" }
   - { num: "2 khối NPU", label: "Kiến trúc chia tải riêng cho các tác vụ AI trên máy" }
-  - { num: "200 - 300 USD", label: "Khoảng giá dự kiến của chiếc loa thông minh, tương đương 5,3 tới 7,9 triệu đồng" }
+  - { num: "200 - 300 USD", label: "Khoảng giá dự kiến của chiếc loa thông minh, tương đương 5,2 tới 7,7 triệu đồng quy đổi" }
   - { num: "30 triệu máy", label: "Sản lượng ước tính tới năm 2028 theo dự báo của Kuo" }
   - { num: "LPDDR6", label: "Chuẩn RAM được dùng, đi cùng lưu trữ UFS 5.0" }
 faq:
@@ -34,7 +34,7 @@ faq:
   - q: "Vì sao dùng chip MediaTek chứ không phải Qualcomm?"
     a: "Có ba lý do thường được nhắc tới. Thứ nhất là chi phí, MediaTek linh hoạt hơn về giá cho khách hàng đặt chip tùy biến. Thứ hai là mức độ tùy biến, một khách hàng mới bước vào ngành dễ thương lượng thiết kế riêng với MediaTek hơn. Thứ ba là năng lực sản xuất, khi bản tùy biến này được làm trên tiến trình N2P của TSMC, tức nhóm tiến trình tiên tiến nhất ở thời điểm đó. Cần nói rõ đây là thông tin từ chuỗi cung ứng, chưa được OpenAI hay MediaTek xác nhận."
   - q: "Chiếc loa AI có ra trước điện thoại không?"
-    a: "Theo các bản tin từ chuỗi cung ứng thì có. Loa thông minh được nhắc tới với mốc ra mắt sớm hơn và mức giá khoảng 200 tới 300 USD, tức khoảng 5,3 tới 7,9 triệu đồng nếu quy đổi thô chưa tính thuế và chi phí phân phối. Đây là cách vào thị trường phần cứng ít rủi ro hơn: sản phẩm rẻ, ít cạnh tranh trực diện với điện thoại, và cho phép thử nghiệm trải nghiệm giọng nói trước khi làm thiết bị phức tạp hơn."
+    a: "Theo các bản tin từ chuỗi cung ứng thì có. Loa thông minh được nhắc tới với mốc ra mắt sớm hơn và mức giá khoảng 200 tới 300 USD, tức khoảng 5,2 tới 7,7 triệu đồng nếu quy đổi thô theo tỷ giá chuyển khoản Vietcombank ngày 28/09/2026 (25.770 đồng/USD), chưa tính thuế và chi phí phân phối. Đây là cách vào thị trường phần cứng ít rủi ro hơn: sản phẩm rẻ, ít cạnh tranh trực diện với điện thoại, và cho phép thử nghiệm trải nghiệm giọng nói trước khi làm thiết bị phức tạp hơn."
   - q: "Thiết bị này có bán chính hãng tại Việt Nam không?"
     a: "Chưa có bất kỳ thông tin nào về kế hoạch phân phối, và với một sản phẩm còn cách thời điểm sản xuất hơn một năm thì việc suy đoán là vô nghĩa. Điều đáng chú ý hơn với người dùng trong nước là phần mềm: một chiếc điện thoại thay ứng dụng bằng agent sẽ vấp phải nhóm dịch vụ bắt buộc phải dùng app riêng tại Việt Nam, từ định danh điện tử tới ngân hàng và ví điện tử."
   - q: "Dự báo của Ming-Chi Kuo đáng tin tới đâu?"
@@ -77,7 +77,7 @@ Việc MediaTek nhiều khả năng là nhà cung cấp SoC duy nhất cũng đ�
 
 ## Chiếc loa đi trước, và vì sao thứ tự đó hợp lý
 
-Chiếc loa thông minh được nhắc tới với mốc ra mắt sớm hơn và giá khoảng 200 tới 300 USD, tương đương 5,3 tới 7,9 triệu đồng nếu quy đổi thô. So với một chiếc điện thoại, đây là sản phẩm dễ làm hơn nhiều: không cần chuỗi cung ứng màn hình, không cần chứng nhận mạng di động ở từng thị trường, không phải cạnh tranh trực diện với Apple và Samsung.
+Chiếc loa thông minh được nhắc tới với mốc ra mắt sớm hơn và giá khoảng 200 tới 300 USD, tương đương 5,2 tới 7,7 triệu đồng nếu quy đổi thô theo tỷ giá ngày 28/09/2026. So với một chiếc điện thoại, đây là sản phẩm dễ làm hơn nhiều: không cần chuỗi cung ứng màn hình, không cần chứng nhận mạng di động ở từng thị trường, không phải cạnh tranh trực diện với Apple và Samsung.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/fs6f9NByrVo/maxresdefault.jpg" alt="OpenAI dat muc tieu san luong lon cho dai san pham phan cung dau tien" loading="lazy" width="1280" height="720">

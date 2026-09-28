@@ -2,7 +2,7 @@
 slug: "dien-thoai-duoi-5-trieu-sap-het-thoi-con-may-nao-viet-nam"
 title: "Điện thoại dưới 5 triệu sắp hết thời, còn máy nào?"
 description: "Máy dưới 150 USD chỉ còn 33,6% lượng bán tại Đông Nam Á. Vì sao phân khúc giá rẻ co lại và những mẫu nào còn đáng mua ở Việt Nam."
-keywords: "điện thoại dưới 5 triệu, điện thoại giá rẻ 2026, phân khúc giá rẻ biến mất, giá điện thoại tăng, oppo a6c, galaxy a16 5g, vivo y39, honor x7d"
+keywords: "điện thoại dưới 5 triệu, điện thoại giá rẻ 2026, phân khúc giá rẻ biến mất, giá điện thoại tăng, oppo a6c, galaxy a07 5g, vivo y39, honor x7d"
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-10-28T09:00:00+07:00"
@@ -14,9 +14,9 @@ heroImage: "https://i.ytimg.com/vi/GzPN3Zpzusg/maxresdefault.jpg"
 heroAlt: "Gia linh kien tang khien phan khuc dien thoai gia re duoi 5 trieu thu hep"
 heroCaption: "Chi phí bộ nhớ leo thang đang bóp nghẹt biên lợi nhuận của nhóm máy rẻ nhất. Ảnh minh họa từ YouTube"
 ogImage: "https://techvision.click/uploads/og-article/dien-thoai-duoi-5-trieu-sap-het-thoi-con-may-nao-viet-nam.jpg"
-tldr: "Phân khúc điện thoại giá rẻ đang co lại trên toàn khu vực. Theo Counterpoint, máy dưới 150 USD chỉ còn <strong>33,6%</strong> lượng xuất xưởng tại Đông Nam Á trong quý 1/2026, thấp nhất kể từ quý 3/2023. IDC dự báo giá bán trung bình toàn cầu chạm <strong>465 USD</strong> trong năm 2026, đẩy tổng giá trị thị trường lên mức kỷ lục <strong>578,9 tỷ USD</strong>. Nguyên nhân gốc là chi phí bộ nhớ: giá DRAM được ghi nhận tăng tới <strong>171,8%</strong> trong vòng một năm, khiến việc làm máy giá rẻ gần như không còn lãi. Tại Việt Nam, quý 1/2026 lượng máy bán ra <strong>giảm 9%</strong> nhưng giá trị thị trường <strong>tăng 8%</strong>. Dưới 5 triệu đồng vẫn còn lựa chọn thật, từ <strong>Samsung Galaxy A16 5G</strong> giá 3.799.000đ tới <strong>OPPO A6c</strong> pin 7.000mAh, nhưng cấu hình đang bị siết dần."
+tldr: "Phân khúc điện thoại giá rẻ đang co lại trên toàn khu vực. Theo Counterpoint, máy dưới 150 USD chỉ còn <strong>33,6%</strong> lượng xuất xưởng tại Đông Nam Á trong quý 1/2026, thấp nhất kể từ quý 3/2023. IDC dự báo giá bán trung bình toàn cầu chạm <strong>465 USD</strong> trong năm 2026, đẩy tổng giá trị thị trường lên mức kỷ lục <strong>578,9 tỷ USD</strong>. Nguyên nhân gốc là chi phí bộ nhớ: giá DRAM được ghi nhận tăng tới <strong>171,8%</strong> trong vòng một năm, khiến việc làm máy giá rẻ gần như không còn lãi. Tại Việt Nam, quý 1/2026 lượng máy bán ra <strong>giảm 9%</strong> nhưng giá trị thị trường <strong>tăng 8%</strong>. Dưới 5 triệu đồng vẫn còn lựa chọn thật, từ <strong>Samsung Galaxy A07 5G</strong> giá 4.540.000đ tới <strong>OPPO A6c</strong> pin 7.000mAh giá 4.690.000đ (Thế Giới Di Động, giá đọc ngày 28/09/2026), nhưng cấu hình đang bị siết dần."
 tags: ["Smartphone", "GiaRe", "ThiTruong", "GiaVietNam", "2026"]
-about: ["Counterpoint Research", "IDC", "Samsung Galaxy A16 5G", "OPPO A6c"]
+about: ["Counterpoint Research", "IDC", "Samsung Galaxy A07 5G", "OPPO A6c"]
 authorBio: "Founder LongTechVision. Theo dõi giá linh kiện và cách nó chuyển thành giá máy bán ra tại Việt Nam."
 sourceUrl: "https://www.counterpointresearch.com/"
 sourceName: "Counterpoint Research và IDC, dẫn qua báo chí trong nước"
@@ -26,7 +26,7 @@ stats:
   - { num: "465 USD", label: "Giá bán trung bình smartphone toàn cầu năm 2026 theo dự báo của IDC" }
   - { num: "171,8%", label: "Mức tăng giá DRAM được ghi nhận trong vòng một năm" }
   - { num: "-9% và +8%", label: "Lượng máy bán ra giảm và giá trị thị trường tăng tại Việt Nam quý 1/2026" }
-  - { num: "3.799.000đ", label: "Giá khởi điểm Samsung Galaxy A16 5G bản 8GB/128GB tại Việt Nam" }
+  - { num: "4.540.000đ", label: "Giá bán Samsung Galaxy A07 5G 4GB/128GB tại Thế Giới Di Động, đọc ngày 28/09/2026" }
   - { num: "7.000mAh", label: "Dung lượng pin của OPPO A6c, mức cao nhất nhóm máy phổ thông" }
 faq:
   - q: "Điện thoại dưới 5 triệu có thật sự biến mất không?"
@@ -84,7 +84,7 @@ Hai con số của thị trường Việt Nam trong quý 1/2026 rất đáng ch�
   <figcaption>Cùng một tầm tiền, cấu hình bên trong máy đang bị siết lại so với năm ngoái. Nguồn: YouTube</figcaption>
 </figure>
 
-Điều đang xảy ra là người dùng kéo dài chu kỳ đổi máy, từ hai năm lên ba hoặc bốn năm, nhưng khi đổi thì chọn máy đắt tiền hơn. Đợt mở bán iPhone 18 Pro Max hồi giữa tháng 9 là minh chứng rõ nhất: hơn 300.000 đơn giữ chỗ cho một dòng máy khởi điểm gần 42 triệu đồng. Cùng lúc đó, nhóm máy dưới 5 triệu lại thu hẹp. Thị trường đang tách làm hai đầu và phần giữa bị kéo mỏng dần.
+Điều đang xảy ra là người dùng kéo dài chu kỳ đổi máy, từ hai năm lên ba hoặc bốn năm, nhưng khi đổi thì chọn máy đắt tiền hơn. Đợt mở bán iPhone 18 Pro Max hồi giữa tháng 9 là minh chứng rõ nhất: hơn 300.000 đơn giữ chỗ cho một dòng máy có bản 256GB bán 41.990.000đ tại Thế Giới Di Động. Cùng lúc đó, nhóm máy dưới 5 triệu lại thu hẹp. Thị trường đang tách làm hai đầu và phần giữa bị kéo mỏng dần.
 
 <div class="art-video-label">VIDEO · Vì sao giá linh kiện leo thang</div>
 <div class="art-video-wrap">
@@ -94,17 +94,19 @@ Hai con số của thị trường Việt Nam trong quý 1/2026 rất đáng ch�
 
 ## Dưới 5 triệu đồng còn lựa chọn nào thật sự
 
-Phân khúc co lại không có nghĩa là trống rỗng. Dưới đây là những mẫu đang được các hệ thống bán lẻ trong nước xếp quanh hoặc dưới mốc 5 triệu đồng, kèm điểm mạnh cụ thể của từng máy.
+Phân khúc co lại không có nghĩa là trống rỗng. Dưới đây là những mẫu quanh mốc 5 triệu đồng tại các hệ thống bán lẻ trong nước, kèm điểm mạnh cụ thể của từng máy, và cả những mẫu vừa bị đẩy qua mốc này.
 
-**Samsung Galaxy A16 5G** là lựa chọn cân bằng nhất nhóm, giá 3.799.000đ cho bản 8GB/128GB và 4.299.000đ cho bản 8GB/256GB. Máy dùng chip Exynos 1330, màn hình 6,7 inch Super AMOLED 90Hz, camera chính 50MP và pin 5.000mAh sạc 25W. Tấm nền AMOLED ở tầm giá này là điểm đáng tiền nhất, cùng với chính sách cập nhật phần mềm dài của Samsung.
+Giá dưới đây đọc ngày 28/09/2026 tại Thế Giới Di Động, trừ khi ghi khác.
 
-**OPPO A6c** đi theo hướng khác hẳn, đặt cược gần như toàn bộ vào pin 7.000mAh, mức cao nhất nhóm và cho thời lượng hai tới ba ngày với nhu cầu nhẹ. Máy dùng chip Unisoc T7250, màn hình 6,75 inch LCD 120Hz, bản cơ sở 4GB/64GB và có chuẩn kháng nước bụi IP64. Đây là máy dành cho người cần thời lượng pin trước tiên, chấp nhận đánh đổi hiệu năng và bộ nhớ.
+**Samsung Galaxy A07 5G** là lựa chọn Samsung rẻ nhất có 5G còn nằm dưới mốc 5 triệu, bản 4GB/128GB bán 4.540.000đ (niêm yết 5.890.000đ); **Galaxy A17** bản 4GB/128GB bán 4.740.000đ. Mẫu từng là điểm cân bằng của nhóm này, **Galaxy A16 5G** với chip Exynos 1330, màn Super AMOLED 90Hz và pin 5.000mAh, đã ngừng bán tại Thế Giới Di Động và đang được FPT Shop niêm yết 5.980.000đ, tức đã vượt mốc 5 triệu. Lợi thế lớn nhất của nhóm Samsung giá rẻ vẫn là chính sách cập nhật phần mềm dài.
 
-**vivo Y39 5G** nhắm vào nhóm chụp ảnh tự sướng với camera trước 32MP, cao bất thường ở tầm giá này. Cấu hình còn lại gồm chip Snapdragon 4 Gen 2, 8GB RAM, 128GB bộ nhớ, màn hình 6,68 inch LCD 90Hz và camera chính 50MP.
+**OPPO A6c** đi theo hướng khác hẳn, đặt cược gần như toàn bộ vào pin 7.000mAh, mức cao nhất nhóm và cho thời lượng hai tới ba ngày với nhu cầu nhẹ. Máy dùng chip Unisoc T7250, màn hình 6,75 inch LCD 120Hz, bản cơ sở 4GB/64GB và có chuẩn kháng nước bụi IP64. Bản 4GB/64GB bán 4.690.000đ, bản 4GB/128GB 5.490.000đ. Đây là máy dành cho người cần thời lượng pin trước tiên, chấp nhận đánh đổi hiệu năng và bộ nhớ.
 
-**HONOR X7d 5G** đã vượt qua mốc 5 triệu, hiện quanh 7 triệu đồng, nhưng đáng nhắc tới vì cho thấy đích đến của cả phân khúc. Máy có pin 6.500mAh, camera 108MP và 256GB bộ nhớ, tức những thông số từng thuộc về nhóm rẻ hơn nay đã dịch lên một bậc giá.
+**vivo Y39 5G** nhắm vào nhóm chụp ảnh tự sướng với camera trước 32MP, cao bất thường ở tầm giá này. Cấu hình còn lại gồm chip Snapdragon 4 Gen 2, 8GB RAM, 128GB bộ nhớ, màn hình 6,68 inch LCD 90Hz và camera chính 50MP. Tuy vậy, bản 8GB/128GB hiện bán 6.910.000đ, đã nằm trên mốc 5 triệu, một ví dụ nữa cho việc cấu hình này đang dịch lên bậc giá cao hơn.
 
-**Redmi Note 14** vẫn là cái tên được nhắc nhiều trong nhóm phổ thông, và thế hệ kế nhiệm cho thấy xu hướng rõ hơn: dòng [Redmi Note 17 đã khởi điểm từ 6,99 triệu đồng tại Việt Nam](/articles/redmi-note-17-series-ra-mat-viet-nam-gia-pin-10000mah-2026.html), một mức mà vài năm trước đủ mua máy cận cao cấp.
+**HONOR X7d 5G** đã vượt qua mốc 5 triệu, bản 8GB/256GB bán 6.540.000đ (niêm yết 7.990.000đ), nhưng đáng nhắc tới vì cho thấy đích đến của cả phân khúc. Máy có pin 6.500mAh, camera 108MP và 256GB bộ nhớ, tức những thông số từng thuộc về nhóm rẻ hơn nay đã dịch lên một bậc giá.
+
+**Redmi Note 14** vẫn là cái tên được nhắc nhiều trong nhóm phổ thông, và thế hệ kế nhiệm cho thấy xu hướng rõ hơn: dòng [Redmi Note 17 có giá niêm yết khởi điểm 6,99 triệu đồng tại Việt Nam](/articles/redmi-note-17-series-ra-mat-viet-nam-gia-pin-10000mah-2026.html), một mức mà vài năm trước đủ mua máy cận cao cấp.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/PEuvslSm1Ow/maxresdefault.jpg" alt="Chon cau hinh vua du nhu cau khi gia linh kien leo thang" loading="lazy" width="1280" height="720">

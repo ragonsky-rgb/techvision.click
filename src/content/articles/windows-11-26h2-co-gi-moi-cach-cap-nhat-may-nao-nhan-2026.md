@@ -27,7 +27,7 @@ stats:
   - { num: "Gói kích hoạt", label: "Cách 26H2 tới máy đang chạy 25H2, không cài lại hệ điều hành" }
   - { num: "4 cạnh", label: "Taskbar trở lại đặt được ở các cạnh màn hình" }
   - { num: "Phím Copilot", label: "Gán lại được thành Right Ctrl hoặc phím menu ngữ cảnh" }
-  - { num: "Trên 15 triệu", label: "Giá laptop Core i3 rẻ nhất tại Việt Nam hiện nay" }
+  - { num: "13,89 triệu", label: "Giá bán laptop Core i3 rẻ nhất tại TGDĐ ngày 28/09/2026, niêm yết 15,19 triệu" }
 faq:
   - q: "Windows 11 26H2 phát hành khi nào?"
     a: "Microsoft đã đưa 26H2 vào kênh Release Preview, tức bản gần như hoàn thiện dành cho người thử nghiệm ở bước cuối. Hãng chưa công bố một ngày cố định cho toàn bộ người dùng, và theo cách làm nhiều năm nay thì bản cập nhật sẽ mở dần theo từng đợt chứ không đến với mọi máy cùng lúc. Nếu bạn không muốn chờ, có thể chủ động kiểm tra trong Windows Update khi bản chính thức bắt đầu phân phối."
@@ -117,7 +117,7 @@ Ngược lại, nếu muốn chờ cho chắc, mục tạm dừng cập nhật t
 
 Với người đã ở Windows 11, 26H2 là bản nên cập nhật, ít rủi ro và trả lại một vài thứ đáng giá. Nhưng bức tranh lớn hơn ở Việt Nam lại nằm ở nhóm máy chưa lên được Windows 11, phần nhiều vì yêu cầu TPM 2.0 chứ không vì thiếu sức mạnh. Nhóm đó cần quyết định giữa việc gia hạn bản vá cho Windows 10, dùng máy như hiện tại và chấp nhận rủi ro, hoặc đổi máy.
 
-Bài toán đổi máy năm nay khó hơn các năm trước vì giá đang đi lên từ hai phía. Phí bản quyền Windows OEM tăng đẩy giá vốn của máy mới lên, chi tiết trong bài [Microsoft tăng phí Windows OEM và tác động tới giá laptop Việt Nam](/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html). Cùng lúc, giá RAM và SSD tăng vọt khiến phân khúc rẻ gần như biến mất khỏi kệ hàng: chiếc laptop Core i3 rẻ nhất hiện đã **trên 15 triệu đồng**, và **khoảng 20 triệu đồng** đang thành phân khúc chủ đạo, phân tích đầy đủ trong bài [Giá RAM, SSD tăng vọt: nên mua laptop, PC lúc này không](/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html).
+Bài toán đổi máy năm nay khó hơn các năm trước vì giá đang đi lên từ hai phía. Phí bản quyền Windows OEM tăng đẩy giá vốn của máy mới lên, chi tiết trong bài [Microsoft tăng phí Windows OEM và tác động tới giá laptop Việt Nam](/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html). Cùng lúc, giá RAM và SSD tăng vọt khiến phân khúc rẻ gần như biến mất khỏi kệ hàng: chiếc laptop Core i3 rẻ nhất tại Thế Giới Di Động niêm yết **15,19 triệu đồng**, bán **13,89 triệu** (giá đọc ngày 28/09/2026), và các mẫu phổ thông cấu hình khá đã nằm quanh **19 tới 20 triệu đồng**, phân tích đầy đủ trong bài [Giá RAM, SSD tăng vọt: nên mua laptop, PC lúc này không](/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html).
 
 <div class="art-callout">💡 <strong>Việc nên làm trước khi cập nhật:</strong> mở Windows Update, xem máy đang ở bản nào trong mục System rồi About. Nếu đang ở 25H2 thì lần cập nhật này rất nhẹ. Nếu còn ở 23H2 hoặc cũ hơn, máy sẽ phải đi qua một bản nâng cấp lớn trước, và đó mới là lúc cần sao lưu cẩn thận.</div>
 

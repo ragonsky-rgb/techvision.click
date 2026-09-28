@@ -14,7 +14,7 @@ heroImage: "https://i.ytimg.com/vi/Dou0r_e9fqE/maxresdefault.jpg"
 heroAlt: "Người dùng kiểm tra một chiếc điện thoại đã qua sử dụng trước khi định giá"
 heroCaption: "Tình trạng máy chấm tại quầy mới là thứ quyết định giá thu cuối cùng. Ảnh minh họa. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/thu-cu-doi-moi-dien-thoai-2026-cach-tinh-gia-thu-viet-nam.jpg"
-tldr: "Giá thu máy cũ tại Việt Nam được ghép từ ba phần: <strong>giá thu cơ bản theo model và dung lượng</strong>, <strong>mức trừ theo tình trạng</strong> và <strong>phần trợ giá của chương trình</strong>. Các chuỗi lớn công bố mức trợ giá <strong>tới 5 triệu đồng</strong>, có đợt cộng thêm <strong>15% giá trị máy cũ</strong>, nơi khác cộng <strong>2%</strong> theo điều kiện chương trình. Phần trợ giá chỉ áp dụng khi bạn mua máy mới tại chính cửa hàng đó. Những khoản bị trừ sâu nhất là <strong>pin chai</strong>, <strong>màn hình đã thay</strong> và <strong>máy chưa thoát tài khoản</strong>. Nên hỏi giá ít nhất <strong>ba nơi</strong> trong cùng một ngày vì bảng giá thu đổi theo tuần."
+tldr: "Giá thu máy cũ tại Việt Nam được ghép từ ba phần: <strong>giá thu cơ bản theo model và dung lượng</strong>, <strong>mức trừ theo tình trạng</strong> và <strong>phần trợ giá của chương trình</strong>. FPT Shop công bố ưu đãi lên đời <strong>tới 5 triệu đồng</strong> trong tháng 9, còn CellphoneS cộng thêm <strong>5% giá thu</strong> cho thành viên (tối đa 300.000đ hạng Smember, 500.000đ hạng SVIP), theo trang chương trình đọc ngày 28/09/2026. Phần trợ giá chỉ áp dụng khi bạn mua máy mới tại chính cửa hàng đó. Những khoản bị trừ sâu nhất là <strong>pin chai</strong>, <strong>màn hình đã thay</strong> và <strong>máy chưa thoát tài khoản</strong>. Nên hỏi giá ít nhất <strong>ba nơi</strong> trong cùng một ngày vì bảng giá thu đổi theo tuần."
 tags: ["Smartphone", "ThuCuDoiMoi", "MeoMuaSam", "GiaVietNam"]
 about: ["FPT Shop", "CellphoneS", "Thế Giới Di Động", "iPhone", "Samsung Galaxy"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường bán lẻ điện thoại và giá thiết bị đã qua sử dụng tại Việt Nam."
@@ -23,8 +23,8 @@ sourceName: "FPT Shop - chương trình thu cũ đổi mới"
 sourceDomains: "fptshop.com.vn · cellphones.com.vn · thegioididong.com"
 stats:
   - { num: "3 phần", label: "Giá thu gồm giá cơ bản, mức trừ tình trạng và trợ giá" }
-  - { num: "5 triệu", label: "Mức trợ giá tối đa các chuỗi lớn công bố cho máy lên đời" }
-  - { num: "15%", label: "Mức cộng thêm trên giá máy cũ trong một số đợt khuyến mãi" }
+  - { num: "5 triệu", label: "Mức ưu đãi lên đời tối đa FPT Shop công bố tháng 9/2026" }
+  - { num: "5%", label: "Mức CellphoneS cộng thêm trên giá thu cho thành viên, tối đa 500.000đ" }
   - { num: "80%", label: "Ngưỡng dung lượng pin nên giữ để không bị trừ nặng" }
   - { num: "3 nơi", label: "Số cửa hàng tối thiểu nên hỏi giá trong cùng một ngày" }
   - { num: "1 ngày", label: "Khoảng thời gian bảng giá thu có thể thay đổi trong mùa máy mới" }
@@ -54,7 +54,7 @@ Cứ tới mùa máy mới là các chuỗi bán lẻ lại chạy chương trì
     <tr><td>Giá thu cơ bản</td><td>Theo model, dung lượng, phiên bản chính hãng hay xách tay</td></tr>
     <tr><td>Mức trừ tình trạng</td><td>Ngoại hình, màn hình, pin, linh kiện đã thay</td></tr>
     <tr><td>Trợ giá chương trình</td><td>Chỉ áp dụng khi mua máy mới tại cùng cửa hàng</td></tr>
-    <tr><td>Cộng thêm theo đợt</td><td>Có nơi cộng 15%, có nơi cộng 2% giá trị máy cũ</td></tr>
+    <tr><td>Cộng thêm theo đợt</td><td>CellphoneS cộng 5% giá thu cho thành viên (tối đa 300.000đ hoặc 500.000đ tùy hạng), đọc ngày 28/09/2026</td></tr>
     <tr><td>Điều kiện kèm theo</td><td>Máy phải lên nguồn, thoát tài khoản, không dính khóa</td></tr>
     <tr><td>Thời hạn hiệu lực</td><td>Bảng giá thu thay đổi theo tuần, có khi theo ngày</td></tr>
   </table>
@@ -90,7 +90,7 @@ Các khoản nhẹ hơn gồm trầy xước vỏ, cấn viền, camera mờ, n�
 
 ## Trợ giá: đọc kỹ chỗ chữ nhỏ
 
-Phần thứ ba là trợ giá của chương trình. Các chuỗi lớn công bố mức tới 5 triệu đồng cho máy lên đời, có đợt cộng thêm 15% trên giá trị máy cũ, nơi khác cộng 2% theo điều kiện riêng. Điểm chung là phần này chỉ tồn tại khi bạn mua máy mới ngay tại đó, và thường không cộng dồn được với các chương trình giảm giá khác trên chính máy mới.
+Phần thứ ba là trợ giá của chương trình. Theo trang chương trình đọc ngày 28/09/2026, FPT Shop công bố ưu đãi lên đời tới 5 triệu đồng trong tháng 9 (riêng lên đời iPhone trợ giá tới 3 triệu), còn CellphoneS cộng thêm 5% giá thu cho khách mua máy tại cửa hàng, tối đa 300.000đ với hạng Smember và 500.000đ với hạng SVIP. Điểm chung là phần này chỉ tồn tại khi bạn mua máy mới ngay tại đó, và thường không cộng dồn được với các chương trình giảm giá khác trên chính máy mới.
 
 Vì vậy phép so sánh đúng không phải là nơi nào thu máy cũ cao hơn, mà là tổng số tiền bạn phải bù ra để cầm máy mới về. Một cửa hàng thu cao nhưng bán máy mới giá niêm yết có thể đắt hơn nơi thu thấp mà đang giảm sâu máy mới. Hãy yêu cầu ghi rõ ba con số: giá máy mới sau giảm, giá thu máy cũ, và phần trợ giá, rồi tính hiệu số.
 

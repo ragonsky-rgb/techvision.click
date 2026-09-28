@@ -99,7 +99,7 @@ Có hai chuyện xảy ra trong năm nay làm méo mặt bằng giá, và cả h
 
 Thứ nhất, giá hợp đồng RAM và ổ SSD tăng rất mạnh do các nhà sản xuất chuyển phần lớn năng lực sang phục vụ máy chủ và hạ tầng AI. Nguồn cung cho thị trường tiêu dùng bị co lại, và mức tăng đó truyền thẳng vào giá laptop cùng linh kiện bán lẻ. Các đơn vị theo dõi thị trường không kỳ vọng giá hạ nhiệt trước nửa cuối năm 2027.
 
-Thứ hai, ngày 10/9/2026, Apple Việt Nam tăng giá một loạt máy đời cũ thay vì giảm như thông lệ khi đời mới ra mắt. iPhone 17 bản 256GB nhảy từ 24,99 lên 28,99 triệu đồng, tức tăng đúng bốn triệu.
+Thứ hai, ngày 10/9/2026, Apple Việt Nam tăng giá một loạt máy đời cũ thay vì giảm như thông lệ khi đời mới ra mắt. iPhone 17 bản 256GB nhảy từ 24,99 lên 28,99 triệu đồng, tức tăng đúng bốn triệu. Theo giá đọc ngày 28/09/2026, Thế Giới Di Động và CellphoneS đang bán bản này 26,99 triệu, vẫn cao hơn 2 triệu so với mức niêm yết cũ.
 
 Khi giá niêm yết đã được nâng lên, một mức giảm phần trăm trông sâu vẫn có thể khiến bạn trả nhiều hơn so với vài tháng trước. Phân tích kỹ hơn về phần linh kiện nằm ở bài [giá RAM và SSD tăng vọt 2026](/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html).
 

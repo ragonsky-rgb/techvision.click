@@ -14,7 +14,7 @@ heroImage: "https://i.ytimg.com/vi/g3o2TeBXyCg/maxresdefault.jpg"
 heroAlt: "Một chiếc laptop đã qua sử dụng được mở ra kiểm tra trên bàn"
 heroCaption: "Kiểm tra theo đúng thứ tự giúp phát hiện sớm máy đã bị thay linh kiện. Ảnh minh họa. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/kiem-tra-laptop-cu-truoc-khi-mua-checklist-2026.jpg"
-tldr: "Mua laptop cũ năm 2026 có hai rủi ro mới so với trước: <strong>máy bị rút bớt RAM hoặc đổi SSD dung lượng thấp</strong> vì linh kiện tăng giá, và <strong>máy còn khóa tài khoản</strong> khiến người mua không dùng được. Hai công cụ bắt buộc dùng là lệnh <strong>powercfg /batteryreport</strong> của Windows để đọc độ chai pin và <strong>CrystalDiskInfo</strong> để xem số giờ chạy cùng lượng dữ liệu đã ghi lên ổ. Pin còn trên <strong>85%</strong> dung lượng thiết kế là tốt, dưới <strong>70%</strong> nên tính thêm chi phí thay. Mức giá tham khảo hiện nay: laptop văn phòng cũ từ <strong>2 tới 7 triệu đồng</strong>, ThinkPad X1 Carbon đời Gen 9 trở lên từ khoảng <strong>15 triệu đồng</strong>."
+tldr: "Mua laptop cũ năm 2026 có hai rủi ro mới so với trước: <strong>máy bị rút bớt RAM hoặc đổi SSD dung lượng thấp</strong> vì linh kiện tăng giá, và <strong>máy còn khóa tài khoản</strong> khiến người mua không dùng được. Hai công cụ bắt buộc dùng là lệnh <strong>powercfg /batteryreport</strong> của Windows để đọc độ chai pin và <strong>CrystalDiskInfo</strong> để xem số giờ chạy cùng lượng dữ liệu đã ghi lên ổ. Pin còn trên <strong>85%</strong> dung lượng thiết kế là tốt, dưới <strong>70%</strong> nên tính thêm chi phí thay. Mức giá tham khảo: Dell Latitude cũ trên Chợ Tốt khoảng <strong>5,85 tới 7,15 triệu đồng</strong>, ThinkPad X1 Carbon Gen 9 đã qua sử dụng tại ThinkPro <strong>16,49 triệu đồng</strong> (giá đọc ngày 28/09/2026)."
 tags: ["Laptop", "MuaSam", "MayCu", "MeoCongNghe"]
 about: ["Lenovo ThinkPad X1 Carbon", "Dell Latitude 7420", "HP EliteBook 840 G8", "MacBook Air M1", "CrystalDiskInfo"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường laptop và giá linh kiện máy tính tại Việt Nam."
@@ -25,8 +25,8 @@ stats:
   - { num: "10 bước", label: "Số hạng mục nên kiểm tra trước khi trả tiền" }
   - { num: "85%", label: "Ngưỡng dung lượng pin còn lại được coi là tốt" }
   - { num: "70%", label: "Dưới mức này nên tính thêm chi phí thay pin vào giá mua" }
-  - { num: "2 tới 7 triệu", label: "Khoảng giá phổ biến của laptop văn phòng cũ tại Việt Nam" }
-  - { num: "15 triệu", label: "Mức khởi điểm cho ThinkPad X1 Carbon đời Gen 9 trở lên" }
+  - { num: "5,85-7,15 triệu", label: "Mặt bằng giá Dell Latitude cũ trên Chợ Tốt cuối tháng 8/2026" }
+  - { num: "16,49 triệu", label: "Giá ThinkPad X1 Carbon Gen 9 đã qua sử dụng tại ThinkPro ngày 28/09/2026" }
   - { num: "15 phút", label: "Thời lượng chạy tải tối thiểu để phát hiện lỗi nhiệt" }
 faq:
   - q: "Xem độ chai pin laptop Windows bằng cách nào?"
@@ -103,7 +103,7 @@ Bước chín là khóa tài khoản, thứ nhiều người bỏ qua rồi ph�
 
 ## Mức giá tham khảo và chọn dòng nào
 
-Ở nhóm phổ thông, laptop văn phòng cũ của Dell, HP và Lenovo phổ biến trong khoảng 2 tới 7 triệu đồng tùy đời và cấu hình, phù hợp cho nhu cầu soạn thảo và học trực tuyến. Nhóm doanh nhân đã qua sử dụng như Lenovo ThinkPad X1 Carbon có phổ giá rộng, các đời cũ quanh 8 tới 12 triệu đồng, còn từ Gen 9 trở lên thường bắt đầu từ khoảng 15 triệu đồng. Dell Latitude 7420 và HP EliteBook 840 G8 là hai lựa chọn cùng nhóm dễ tìm linh kiện thay thế tại Việt Nam.
+Ở nhóm phổ thông, Dell Latitude cũ trên Chợ Tốt dao động khoảng 5,85 tới 7,15 triệu đồng theo khảo sát của chính sàn này cuối tháng 8/2026, tùy đời CPU, RAM, ổ cứng và tình trạng pin, phù hợp cho nhu cầu soạn thảo và học trực tuyến. Nhóm doanh nhân như Lenovo ThinkPad X1 Carbon có phổ giá rộng: Chợ Tốt ghi Gen 6 khoảng 8 tới 10 triệu, Gen 7 khoảng 10 tới 12 triệu, Gen 8 và Gen 9 từ khoảng 15 triệu đồng. Để có mốc cụ thể, ThinkPro bán X1 Carbon Gen 9 bản i7 1185G7, 16GB RAM, 512GB đã qua sử dụng giá 16,49 triệu (giá đọc ngày 28/09/2026). Dell Latitude 7420 và HP EliteBook 840 G8 là hai lựa chọn cùng nhóm dễ tìm linh kiện thay thế tại Việt Nam.
 
 Với người dùng macOS, MacBook Air M1 vẫn là món đáng cân nhắc nhất trong nhóm cũ vì hiệu năng trên mỗi đồng còn tốt và máy chạy mát. Điều cần nhớ là dòng này không nâng cấp được RAM hay ổ cứng, nên phải chọn đúng cấu hình ngay từ đầu. Nếu bạn còn phân vân giữa mua máy cũ và cố mua máy mới, hãy đối chiếu với phân tích trong bài [giá RAM, SSD tăng vọt: nên mua laptop lúc này không](/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html), vì chênh lệch giữa hai phương án năm nay hẹp hơn mọi năm.
 

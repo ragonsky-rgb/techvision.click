@@ -30,7 +30,7 @@ stats:
   - { num: "Khoảng 40%", label: "Mức nhanh hơn Note Air5 C theo công bố của BOOX" }
 faq:
   - q: "Boox Note Air6 C giá bao nhiêu tại Việt Nam?"
-    a: "Máy về Việt Nam với giá 14,99 triệu đồng qua đại lý ủy quyền, mức đã được các trang trong nước ghi nhận từ nửa cuối tháng 9/2026. Giá niêm yết quốc tế là 579,99 USD, nên mức trong nước khá sát giá quy đổi, khác với nhiều thiết bị E Ink trước đây thường bị đội giá đáng kể khi về Việt Nam. Vẫn nên hỏi kỹ về bảo hành và nguồn hàng, vì thị trường này có cả hàng nhập không chính thức."
+    a: "Máy về Việt Nam với giá 14,99 triệu đồng qua đại lý ủy quyền, mức Akishop niêm yết và GenK ghi nhận (giá đọc ngày 28/09/2026). Giá niêm yết quốc tế là 579,99 USD, nên mức trong nước khá sát giá quy đổi, khác với nhiều thiết bị E Ink trước đây thường bị đội giá đáng kể khi về Việt Nam. Vẫn nên hỏi kỹ về bảo hành và nguồn hàng, vì thị trường này có cả hàng nhập không chính thức."
   - q: "Màn hình màu Kaleido 3 có đẹp không?"
     a: "Cần đặt đúng kỳ vọng. Kaleido 3 cho 4.096 màu ở mật độ 150 ppi, còn khi đọc nội dung đen trắng thì máy đạt 300 ppi như các máy đọc sách thường. Nghĩa là chữ vẫn nét, còn màu thì nhạt và có lớp vân nhẹ khi nhìn gần, không thể so với màn hình tablet. Giá trị thật của màu ở đây là phân biệt được biểu đồ, hình minh họa, phần bút highlight trong tài liệu, chứ không phải để xem ảnh hay đọc truyện tranh màu."
   - q: "Máy này khác gì một chiếc tablet Android cùng giá?"
@@ -48,7 +48,7 @@ featured: true
 
 Máy đọc sách màn hình màu là nhóm sản phẩm khó thuyết phục nhất trong thế giới thiết bị E Ink. Nó luôn đắt hơn bản đen trắng cùng kích thước, trong khi chất lượng màu thì không có cách nào so được với màn LCD hay OLED. Người mua vì thế thường dừng lại ở câu hỏi rất hợp lý: bỏ thêm tiền để lấy màu nhạt thì được gì.
 
-**Boox Note Air6 C** ra mắt giữa tháng 9/2026 cùng hai máy khác là Palma 3 và Note Mini C, và đã về Việt Nam với giá **14,99 triệu đồng** qua đại lý ủy quyền. Con số đó ngang một chiếc tablet Android tầm trung khá tốt, nên bài viết này tập trung vào đúng phép so sánh đó: máy được gì, mất gì, và ai là nhóm nên bỏ số tiền này.
+**Boox Note Air6 C** ra mắt giữa tháng 9/2026 cùng hai máy khác là Palma 3 và Note Mini C, và đã về Việt Nam với giá **14,99 triệu đồng** qua đại lý ủy quyền (giá niêm yết tại Akishop, đọc ngày 28/09/2026). Con số đó ngang một chiếc tablet Android tầm trung khá tốt, nên bài viết này tập trung vào đúng phép so sánh đó: máy được gì, mất gì, và ai là nhóm nên bỏ số tiền này.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Boox Note Air6 C: thông số chính</div>
@@ -93,7 +93,7 @@ Các chi tiết còn lại đều theo hướng biến máy thành thiết bị 
 
 ## Đặt cạnh tablet cùng tiền thì nên chọn gì
 
-Đây là phép so sánh sòng phẳng nhất với mức giá 14,99 triệu đồng, vì đó đúng là khoảng tiền của tablet Android tầm trung tốt. Cùng tầm giá, chiếc **HONOR MagicPad 3 Pro** có giá quanh 14 triệu đồng với chip Snapdragon cao cấp, còn **Huawei MatePad 12 X** ở mức 13,7 triệu đồng với màn PaperMatte chống lóa và bút M-Pencil Pro.
+Đây là phép so sánh sòng phẳng nhất với mức giá 14,99 triệu đồng, vì đó đúng là khoảng tiền của tablet Android tầm trung tốt. Cùng tầm giá có **HONOR MagicPad 3 Pro** với chip Snapdragon cao cấp, và **Huawei MatePad 12 X** 12GB/256GB kèm bàn phím, màn PaperMatte chống lóa, đang bán 14,99 triệu đồng tại CellphoneS (niêm yết 15,49 triệu đồng, giá đọc ngày 28/09/2026).
 
 Nhìn vào bảng thông số, tablet thắng gần như mọi mục: màn sáng hơn, tần số quét cao, chơi game được, xem phim tốt, camera dùng được. Nhưng có hai thứ chúng không đổi được. Thứ nhất là cảm giác đọc: màn E Ink không phát sáng trực tiếp vào mắt, nên đọc ba bốn giờ liền không gây mỏi theo cách màn LCD gây ra. Thứ hai là pin, tính theo ngày hoặc tuần thay vì theo giờ, vì màn chỉ tốn điện khi đổi nội dung.
 

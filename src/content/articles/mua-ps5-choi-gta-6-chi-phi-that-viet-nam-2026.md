@@ -51,7 +51,7 @@ Ngày 19/11/2026, GTA 6 lên kệ trên PS5 và Xbox Series X|S. Bản PC chưa 
 <div class="spec-box">
   <div class="spec-box-title">📋 Các khoản phải tính khi chơi GTA 6 trên PS5</div>
   <table>
-    <tr><td>Máy PS5 bản đĩa</td><td>16,9 triệu đồng, giá chính hãng tại Việt Nam</td></tr>
+    <tr><td>Máy PS5 bản đĩa</td><td>16,9 triệu đồng giá hãng, CellphoneS bán 16,89 triệu (giá đọc ngày 28/09/2026)</td></tr>
     <tr><td>GTA 6 bản Standard</td><td>79,99 USD, khoảng 2,1 triệu đồng</td></tr>
     <tr><td>GTA 6 bản Ultimate</td><td>99,99 USD, khoảng 2,6 triệu đồng</td></tr>
     <tr><td>Dịch vụ trực tuyến</td><td>Khoảng 79,99 USD cho gói cơ bản một năm</td></tr>
@@ -62,7 +62,7 @@ Ngày 19/11/2026, GTA 6 lên kệ trên PS5 và Xbox Series X|S. Bản PC chưa 
 
 ## Tiền máy: PS5 thường hay PS5 Pro
 
-Sony đã điều chỉnh giá dòng PS5 tại Việt Nam từ tháng 5/2026, đưa bản đĩa lên mức 16,9 triệu đồng. Bản kỹ thuật số rẻ hơn nhưng không có ổ quang, còn PS5 Pro chưa có giá niêm yết chính thức trong nước. Tham chiếu khu vực cho thấy bản Pro tại Malaysia ở mức 3.999 ringgit, quy đổi khoảng 26,5 triệu đồng, nên người mua trong nước có thể lấy đó làm mốc để cân nhắc.
+Sony đã điều chỉnh giá dòng PS5 tại Việt Nam từ tháng 5/2026, đưa bản đĩa lên mức 16,9 triệu đồng. Bản kỹ thuật số rẻ hơn nhưng không có ổ quang, còn PS5 Pro chưa có giá niêm yết chính thức trong nước. Tham chiếu khu vực cho thấy bản Pro tại Malaysia ở mức 3.999 ringgit từ ngày 1/5/2026, quy đổi khoảng 25,5 triệu đồng theo tỷ giá ngày 28/09/2026, nên người mua trong nước có thể lấy đó làm mốc để cân nhắc.
 
 <div class="art-video-label">VIDEO · GTA 6 và lịch phát hành trên console</div>
 <div class="art-video-wrap">
@@ -70,7 +70,7 @@ Sony đã điều chỉnh giá dòng PS5 tại Việt Nam từ tháng 5/2026, đ
 </div>
 <p class="art-video-caption">GTA 6 chốt ngày phát hành 19/11/2026. Nguồn: YouTube</p>
 
-Câu hỏi nên mua bản nào phụ thuộc vào màn hình bạn đang có. Nếu chơi trên TV 4K có tần số quét cao và bạn quan tâm tới độ nét hình ảnh, bản Pro với bộ tăng chất lượng hình ảnh bằng học máy cho khác biệt rõ. Nếu TV chỉ ở mức phổ thông, phần chênh gần 10 triệu đồng gần như không đổi lấy trải nghiệm tương xứng, và số tiền đó đủ mua thêm nhiều game.
+Câu hỏi nên mua bản nào phụ thuộc vào màn hình bạn đang có. Nếu chơi trên TV 4K có tần số quét cao và bạn quan tâm tới độ nét hình ảnh, bản Pro với bộ tăng chất lượng hình ảnh bằng học máy cho khác biệt rõ. Nếu TV chỉ ở mức phổ thông, phần chênh khoảng 8,5 triệu đồng gần như không đổi lấy trải nghiệm tương xứng, và số tiền đó đủ mua thêm nhiều game.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/BlE4PI4hbZA/maxresdefault.jpg" alt="Máy chơi game PlayStation 5 Pro đặt cạnh tay cầm DualSense" loading="lazy" width="1280" height="720">

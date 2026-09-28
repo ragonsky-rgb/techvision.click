@@ -26,7 +26,7 @@ stats:
   - { num: "Galaxy S26 FE", label: "Máy đầu tiên bán ra đã cài sẵn One UI 9" }
   - { num: "Tháng 9/2026", label: "Mốc bắt đầu mở rộng đợt cập nhật ổn định" }
   - { num: "7 năm", label: "Cam kết nâng cấp hệ điều hành cho flagship Galaxy gần đây" }
-  - { num: "18,99 triệu", label: "Giá Galaxy S26 FE bản 8GB/128GB tại Việt Nam" }
+  - { num: "18,99 triệu", label: "Giá niêm yết Galaxy S26 FE 8GB/128GB tại TGDĐ, CellphoneS (đọc 28/09/2026)" }
   - { num: "5 tới 10GB", label: "Dung lượng trống nên chuẩn bị trước khi cập nhật" }
 faq:
   - q: "One UI 9 có gì khác Android 17 thuần?"
@@ -85,7 +85,7 @@ Thứ tự đã lặp lại đủ nhiều năm để coi là quy luật. Nhóm �
 </div>
 <p class="art-video-caption">Phần lớn thay đổi người dùng cảm nhận được nằm ở lớp One UI chứ không ở nền Android. Nguồn: YouTube</p>
 
-Galaxy S26 FE là trường hợp riêng đáng nhắc: đây là máy đầu tiên của dòng S26 bán ra đã cài sẵn Android 17 và One UI 9 từ nhà máy, với giá 18,99 triệu đồng cho bản 8GB/128GB tại Việt Nam. Người mua máy này không phải chờ đợt cập nhật nào cả. Cấu hình chi tiết và mức giá theo từng bản nằm ở bài [Galaxy S26 FE với chip Exynos 2500](/articles/samsung-galaxy-s26-fe-lo-cau-hinh-exynos-2500-gia-du-kien-2026.html).
+Galaxy S26 FE là trường hợp riêng đáng nhắc: đây là máy đầu tiên của dòng S26 bán ra đã cài sẵn Android 17 và One UI 9 từ nhà máy, với giá niêm yết 18,99 triệu đồng cho bản 8GB/128GB tại Việt Nam; theo giá đọc ngày 28/09/2026, máy đang bán 15,84 triệu đồng tại Thế Giới Di Động và 16,49 triệu đồng tại CellphoneS. Người mua máy này không phải chờ đợt cập nhật nào cả. Cấu hình chi tiết và mức giá theo từng bản nằm ở bài [Galaxy S26 FE với chip Exynos 2500](/articles/samsung-galaxy-s26-fe-lo-cau-hinh-exynos-2500-gia-du-kien-2026.html).
 
 ## Máy bán tại Việt Nam thì sao
 

@@ -1,7 +1,7 @@
 ---
 slug: "xiaomi-pad-9-va-pad-9-pro-ra-mat-gia-quy-doi-bao-gio-ve-viet-nam"
-title: "Xiaomi Pad 9 và Pad 9 Pro ra mắt: giá quy đổi từ 11,4 triệu"
-description: "Xiaomi chốt dải máy tính bảng ba bản ngày 23/9/2026: Pad 9 màn 11,2 inch, Pad 9 Pro 12,5 inch, pin 11.000mAh. Đối chiếu với Pad 9 Pro Max đang bán ở Việt Nam."
+title: "Xiaomi Pad 9 và Pad 9 Pro ra mắt: giá quy đổi khoảng 11,4 triệu"
+description: "Xiaomi chốt dải máy tính bảng ba bản ngày 23/9/2026: Pad 9 màn 11,2 inch, Pad 9 Pro 12,5 inch, pin 11.000mAh. Đối chiếu với Pad 8 đang bán ở Việt Nam."
 keywords: "xiaomi pad 9, xiaomi pad 9 pro, xiaomi pad 9 gia, xiaomi pad 9 pro max gia viet nam, may tinh bang xiaomi 2026, snapdragon 8 gen 5 tablet"
 category: "Công nghệ"
 type: "tin-tuc"
@@ -9,12 +9,12 @@ datePublished: "2026-10-09T09:00:00+07:00"
 dateModified: "2026-10-09T09:00:00+07:00"
 noindex: true
 scheduled: true
-deck: "Xiaomi vừa khép lại dải máy tính bảng năm nay bằng hai bản Pad 9 và Pad 9 Pro, ra mắt tối 23/9/2026 tại Trung Quốc, sau khi bản Pad 9 Pro Max đã lên kệ từ đầu tháng. Điểm chung của cả ba là màn hình độ phân giải cao 144Hz và viên pin lớn hơn hẳn mặt bằng. Bài này đặt bảng giá Trung Quốc cạnh mức giá Pad 9 Pro Max đang bán tại Việt Nam để ước lượng vùng giá khi máy về, và đối chiếu với các máy tính bảng Android cùng tầm đang có mặt ở đại lý."
+deck: "Xiaomi vừa khép lại dải máy tính bảng năm nay bằng hai bản Pad 9 và Pad 9 Pro, ra mắt tối 23/9/2026 tại Trung Quốc, sau khi bản Pad 9 Pro Max đã lên kệ từ đầu tháng. Điểm chung của cả ba là màn hình độ phân giải cao 144Hz và viên pin lớn hơn hẳn mặt bằng. Bài này đặt bảng giá Trung Quốc cạnh giá Pad 8 và Pad 8 Pro đang bán chính hãng tại Việt Nam để ước lượng vùng giá khi máy về, và đối chiếu với các máy tính bảng Android cùng tầm đang có mặt ở đại lý."
 heroImage: "https://i.ytimg.com/vi/9P9w3rwJMd0/maxresdefault.jpg"
 heroAlt: "Xiaomi Pad 9 va Pad 9 Pro ra mat man hinh 3 2K 144Hz"
 heroCaption: "Xiaomi hoàn tất dải máy tính bảng ba bản cho năm 2026. Ảnh minh họa từ YouTube"
 ogImage: "https://techvision.click/uploads/og-article/xiaomi-pad-9-va-pad-9-pro-ra-mat-gia-quy-doi-bao-gio-ve-viet-nam.jpg"
-tldr: "Ngày <strong>23/9/2026</strong>, Xiaomi ra mắt <strong>Pad 9</strong> và <strong>Pad 9 Pro</strong> tại Trung Quốc, hoàn tất dải ba bản cùng <strong>Pad 9 Pro Max</strong> đã bán từ đầu tháng. Pad 9 có màn <strong>11,2 inch 3.2K 144Hz</strong>, chip <strong>Snapdragon 8s Gen 4</strong>, pin <strong>9.720mAh</strong>, sạc 45W, giá từ <strong>2.999 tệ</strong>, khoảng <strong>11,43 triệu đồng</strong> quy đổi. Pad 9 Pro lên <strong>12,5 inch</strong>, chip <strong>Snapdragon 8 Gen 5</strong>, pin <strong>11.000mAh</strong>, sạc 67W, giá từ <strong>3.799 tệ</strong>, khoảng <strong>14,48 triệu đồng</strong>. Tại Việt Nam, bản <strong>Pad 9 Pro Max</strong> đang bán từ <strong>17.999.000đ</strong>, còn hai bản mới chưa có lịch."
+tldr: "Ngày <strong>23/9/2026</strong>, Xiaomi ra mắt <strong>Pad 9</strong> và <strong>Pad 9 Pro</strong> tại Trung Quốc, hoàn tất dải ba bản cùng <strong>Pad 9 Pro Max</strong> đã bán từ đầu tháng. Pad 9 có màn <strong>11,2 inch 3.2K 144Hz</strong>, chip <strong>Snapdragon 8s Gen 4</strong>, pin <strong>9.720mAh</strong>, sạc 45W, giá từ <strong>2.999 tệ</strong>, khoảng <strong>11,43 triệu đồng</strong> quy đổi. Pad 9 Pro lên <strong>12,5 inch</strong>, chip <strong>Snapdragon 8 Gen 5</strong>, pin <strong>11.000mAh</strong>, sạc 67W, giá từ <strong>3.799 tệ</strong>, khoảng <strong>14,48 triệu đồng</strong>. Tại Việt Nam, cả ba bản Pad 9 chưa có giá chính hãng; thế hệ trước <strong>Pad 8 Pro 8GB/256GB</strong> đang bán <strong>15.190.000đ</strong> tại Thế Giới Di Động (giá đọc ngày 28/09/2026)."
 tags: ["Xiaomi", "MayTinhBang", "Snapdragon", "Android", "2026"]
 about: ["Xiaomi Pad 9", "Xiaomi Pad 9 Pro", "Xiaomi Pad 9 Pro Max", "Snapdragon 8 Gen 5", "Xiaomi"]
 authorBio: "Founder LongTechVision. Theo dõi tin công nghệ quốc tế và quy đổi ra bối cảnh giá cả tại Việt Nam."
@@ -27,14 +27,14 @@ stats:
   - { num: "3.799 tệ", label: "Giá khởi điểm Pad 9 Pro, khoảng 14,48 triệu đồng quy đổi" }
   - { num: "11.000mAh", label: "Dung lượng pin của bản Pad 9 Pro" }
   - { num: "144Hz", label: "Tần số quét màn hình trên cả ba bản" }
-  - { num: "17.999.000đ", label: "Giá khởi điểm Pad 9 Pro Max đang bán tại Việt Nam" }
+  - { num: "12,5 inch", label: "Kích thước màn hình Pad 9 Pro, độ phân giải 3.2K" }
 faq:
   - q: "Xiaomi Pad 9 và Pad 9 Pro khác nhau ở đâu?"
     a: "Khác ở ba điểm chính. Màn hình: Pad 9 dùng tấm 11,2 inch, Pad 9 Pro lên 12,5 inch, cả hai cùng độ phân giải 3.2K và tần số 144Hz. Chip: Pad 9 dùng Snapdragon 8s Gen 4, Pad 9 Pro dùng Snapdragon 8 Gen 5 mạnh hơn một bậc. Pin và sạc: Pad 9 có 9.720mAh sạc 45W, Pad 9 Pro có 11.000mAh sạc 67W. Chênh giá khởi điểm giữa hai bản là 800 tệ, khoảng 3 triệu đồng quy đổi."
   - q: "Giá quy đổi bao nhiêu và có phải giá bán tại Việt Nam không?"
-    a: "Không phải. Giá quy đổi trong bài tính theo tỷ giá chuyển khoản Vietcombank ngày 25/9/2026, ở mức 1 tệ bằng 3.811,56 đồng, chỉ để hình dung mặt bằng. Giá chính hãng tại Việt Nam luôn cao hơn giá quy đổi vì còn thuế giá trị gia tăng, chi phí phân phối và bảo hành. Mốc tham chiếu sát thực tế hơn là bản Pad 9 Pro Max, có giá Trung Quốc 4.799 tệ và giá Việt Nam 17.999.000đ."
+    a: "Không phải. Giá quy đổi trong bài tính theo tỷ giá chuyển khoản Vietcombank ngày 25/9/2026, ở mức 1 tệ bằng 3.811,56 đồng, chỉ để hình dung mặt bằng. Giá chính hãng tại Việt Nam luôn cao hơn giá quy đổi vì còn thuế giá trị gia tăng, chi phí phân phối và bảo hành. Mốc tham chiếu sát thực tế hơn là thế hệ Pad 8 đang bán chính hãng: ngày 28/09/2026, Thế Giới Di Động bán Pad 8 8GB/256GB giá 11.290.000đ và Pad 8 Pro 8GB/256GB giá 15.190.000đ."
   - q: "Bao giờ Pad 9 và Pad 9 Pro về Việt Nam?"
-    a: "Xiaomi chưa công bố lịch bán ngoài Trung Quốc cho hai bản này. Theo nếp các thế hệ trước, máy tính bảng Xiaomi thường về Việt Nam sau bản Trung Quốc vài tuần tới vài tháng, và không phải bản nào cũng được phân phối chính hãng. Bản Pad 9 Pro Max đã có mặt tại Việt Nam nên khả năng hai bản còn lại theo sau là có, nhưng chưa có gì chắc chắn."
+    a: "Xiaomi chưa công bố lịch bán ngoài Trung Quốc cho hai bản này. Theo nếp các thế hệ trước, máy tính bảng Xiaomi thường về Việt Nam sau bản Trung Quốc vài tuần tới vài tháng, và không phải bản nào cũng được phân phối chính hãng. Tới ngày 28/09/2026, Thế Giới Di Động và CellphoneS vẫn chưa liệt kê bản Pad 9 nào, kể cả Pad 9 Pro Max; dòng đang bán chính hãng là Pad 8 và Pad 8 Pro."
   - q: "Pin 11.000mAh trên máy tính bảng có ý nghĩa thực tế không?"
     a: "Có, nhưng cần đọc đúng. Máy tính bảng màn lớn tiêu thụ điện nhiều hơn điện thoại, nên viên pin lớn chủ yếu bù lại phần đó chứ không tự động cho thời lượng gấp đôi. Điểm hữu ích thật của pin lớn nằm ở chỗ khác: máy chịu được nhiều ngày chờ giữa các lần dùng, và không tụt pin nhanh khi bạn xem video hoặc học trực tuyến liên tục vài tiếng. Sạc 67W trên bản Pro cũng giúp thời gian nạp không kéo dài quá mức dù pin lớn."
   - q: "Nên chọn Pad 9 Pro hay chờ bản Pro Max?"
@@ -58,7 +58,7 @@ Tối **23/9/2026**, Xiaomi ra mắt **Pad 9** và **Pad 9 Pro** tại Trung Qu�
     <tr><td>Pin</td><td>9.720mAh · 11.000mAh · 12.000mAh</td></tr>
     <tr><td>Sạc</td><td>45W · 67W · 120W</td></tr>
     <tr><td>Giá khởi điểm Trung Quốc</td><td>2.999 tệ · 3.799 tệ · 4.799 tệ</td></tr>
-    <tr><td>Giá Việt Nam</td><td>Chưa có · Chưa có · Từ 17.999.000đ</td></tr>
+    <tr><td>Giá Việt Nam</td><td>Chưa có · Chưa có · Chưa có</td></tr>
   </table>
 </div>
 
@@ -109,14 +109,14 @@ Bảng dưới quy đổi theo tỷ giá chuyển khoản Vietcombank ngày 25/9
   </table>
 </div>
 
-Mốc tham chiếu đáng tin nhất không phải bảng quy đổi mà là bản **Pad 9 Pro Max**, chiếc duy nhất trong dải đã có giá Việt Nam. Bản này có giá Trung Quốc 4.799 tệ, tương đương khoảng 18,29 triệu đồng quy đổi, và đang bán tại Việt Nam từ **17.999.000đ** cho cấu hình 8GB/256GB. Chi tiết cấu hình bản cao nhất nằm trong bài [Xiaomi Pad 9 Pro Max: màn 13,3 inch, pin 12.000mAh](/articles/xiaomi-pad-9-pro-max-ra-mat-man-13-3-inch-pin-12000mah-2026.html).
+Mốc tham chiếu đáng tin hơn bảng quy đổi là thế hệ **Pad 8** đang bán chính hãng. Theo giá đọc ngày 28/09/2026 tại Thế Giới Di Động, **Pad 8 8GB/256GB** bán 11.290.000đ (niêm yết 13.490.000đ) và **Pad 8 Pro 8GB/256GB** bán **15.190.000đ** (niêm yết 17.990.000đ); CellphoneS bán bản 8GB/128GB lần lượt 10.990.000đ và 14.490.000đ. Bản Pad 9 Pro Max có giá Trung Quốc 4.799 tệ, khoảng 18,29 triệu đồng quy đổi, nhưng chưa được bán chính hãng tại Việt Nam. Chi tiết cấu hình bản cao nhất nằm trong bài [Xiaomi Pad 9 Pro Max: màn 13,3 inch, pin 12.000mAh](/articles/xiaomi-pad-9-pro-max-ra-mat-man-13-3-inch-pin-12000mah-2026.html).
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/YQgOBkQrY7s/maxresdefault.jpg" alt="Mua may tinh bang Xiaomi chinh hang tai dai ly Viet Nam" loading="lazy" width="1280" height="720">
-  <figcaption>Giá Việt Nam của Pad 9 Pro Max nằm sát mức quy đổi, khác với thông lệ thường thấy. Ảnh minh họa từ YouTube</figcaption>
+  <figcaption>Dòng Xiaomi Pad đang bán chính hãng tại Việt Nam là Pad 8 và Pad 8 Pro. Ảnh minh họa từ YouTube</figcaption>
 </figure>
 
-Điều này cho thấy Xiaomi định giá máy tính bảng tại Việt Nam khá sát giá gốc, không đội lên nhiều như một số dòng sản phẩm khác. Nếu Pad 9 và Pad 9 Pro về theo cùng cách định giá đó, vùng giá hợp lý để chờ đợi sẽ nằm quanh 11 tới 15 triệu đồng cho bản thường và 15 tới 19 triệu đồng cho bản Pro, tùy cấu hình. Cần nhấn mạnh đây là suy luận từ một mẫu duy nhất, không phải cam kết của hãng.
+Nếu Pad 9 và Pad 9 Pro về Việt Nam và giữ vị trí tương đương thế hệ Pad 8, vùng giá dự kiến có thể nằm quanh 11 tới 15 triệu đồng cho bản thường và 15 tới 19 triệu đồng cho bản Pro, tùy cấu hình. Cần nhấn mạnh đây là ước lượng dựa trên giá quy đổi và giá Pad 8 hiện tại, không phải giá chính hãng hay cam kết của hãng.
 
 ## Đặt cạnh các lựa chọn đang bán ở Việt Nam
 
@@ -131,4 +131,4 @@ Lợi thế của dải Pad 9 trong cuộc so sánh này là màn hình và pin.
 
 <div class="art-callout">💡 <strong>Lưu ý khi mua:</strong> nếu chọn hàng xách tay để có giá thấp hơn, cần kiểm tra trước xem máy có hỗ trợ đầy đủ tiếng Việt và các dịch vụ Google hay không, vì bản nội địa Trung Quốc thường chạy phiên bản hệ điều hành khác với bản quốc tế. Đây là khác biệt lớn hơn nhiều so với khoản chênh giá.</div>
 
-Tóm lại, Pad 9 và Pad 9 Pro là bước hoàn thiện gọn gàng cho dải máy tính bảng của Xiaomi năm nay, với cách chia bậc hợp lý và mức giá gốc dễ chịu. Với người dùng Việt Nam, câu hỏi còn lại chỉ là hãng có đưa cả hai bản về hay chỉ giữ bản Pro Max. Trong lúc chờ, bản Pro Max vẫn là lựa chọn duy nhất có giá chính hãng và bảo hành trong nước, còn hai bản mới thì nên chờ thông báo thay vì vội mua xách tay ở thời điểm máy vừa ra.
+Tóm lại, Pad 9 và Pad 9 Pro là bước hoàn thiện gọn gàng cho dải máy tính bảng của Xiaomi năm nay, với cách chia bậc hợp lý và mức giá gốc dễ chịu. Với người dùng Việt Nam, câu hỏi còn lại là hãng có đưa bản nào trong dải Pad 9 về hay không. Trong lúc chờ, Pad 8 và Pad 8 Pro vẫn là lựa chọn Xiaomi có giá chính hãng và bảo hành trong nước, còn các bản Pad 9 thì nên chờ thông báo thay vì vội mua xách tay ở thời điểm máy vừa ra.

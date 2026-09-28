@@ -36,7 +36,7 @@ faq:
   - q: "Những hãng nào đã xác nhận làm máy dùng chip mới?"
     a: "Qualcomm công bố chín đối tác đã xác nhận: HONOR, iQOO, Motorola, OnePlus, OPPO, Redmi, RedMagic, vivo và Xiaomi. Những chiếc máy đầu tiên dự kiến ra mắt trong quý 4/2026, còn làn sóng flagship Android dùng chip này rộng rãi hơn sẽ tới vào đầu năm 2027. Điểm đáng lưu ý với người mua tại Việt Nam là danh sách này gồm nhiều hãng có lịch ra mắt tại Trung Quốc sớm hơn lịch bán chính hãng trong nước vài tháng, và một số mẫu thậm chí không có bản phân phối chính hãng tại Việt Nam."
   - q: "Chip mới ảnh hưởng thế nào tới giá máy bán tại Việt Nam?"
-    a: "Theo hai hướng. Hướng thứ nhất là việc tách đôi nhóm đầu bảng cho phép các hãng đặt hai bậc giá rõ ràng hơn, thay vì dồn tất cả máy cao cấp vào cùng một con chip như trước, nên nhiều khả năng sẽ xuất hiện những máy dùng bản thường với giá dễ chịu hơn máy dùng bản Extreme. Hướng thứ hai đi ngược lại: tiến trình 2nm trong giai đoạn đầu luôn đắt, và năm 2026 giá bộ nhớ toàn cầu tăng mạnh do nhu cầu từ hạ tầng AI. Hai chi phí này cộng dồn vào giá thành máy. Để dễ hình dung mặt bằng, Xiaomi 17 Series dùng chip thế hệ trước ra mắt tại Việt Nam với giá khởi điểm 26,99 triệu đồng."
+    a: "Theo hai hướng. Hướng thứ nhất là việc tách đôi nhóm đầu bảng cho phép các hãng đặt hai bậc giá rõ ràng hơn, thay vì dồn tất cả máy cao cấp vào cùng một con chip như trước, nên nhiều khả năng sẽ xuất hiện những máy dùng bản thường với giá dễ chịu hơn máy dùng bản Extreme. Hướng thứ hai đi ngược lại: tiến trình 2nm trong giai đoạn đầu luôn đắt, và năm 2026 giá bộ nhớ toàn cầu tăng mạnh do nhu cầu từ hạ tầng AI. Hai chi phí này cộng dồn vào giá thành máy. Để dễ hình dung mặt bằng, Xiaomi 17 dùng chip thế hệ trước có giá niêm yết 26,99 triệu đồng cho bản 12GB/256GB tại Việt Nam, ngày 28/09/2026 đang bán 18,59 triệu đồng tại Thế Giới Di Động."
   - q: "Có nên chờ máy dùng chip mới không?"
     a: "Phụ thuộc vào thời điểm bạn cần máy và loại tác vụ bạn dùng. Nếu máy hiện tại vẫn chạy tốt và bạn không gấp, chờ tới đầu năm 2027 là hợp lý vì đó là lúc có nhiều lựa chọn, có bản phân phối chính hãng tại Việt Nam và giá đã qua giai đoạn cao nhất. Nếu bạn cần máy ngay trong vài tháng tới, đừng chờ: những máy đầu tiên dùng chip mới sẽ ra mắt ở thị trường Trung Quốc trước, giá khởi điểm luôn cao, và trong lúc đó các máy dùng chip thế hệ trước thường bắt đầu giảm giá, đó mới là thời điểm mua hời nhất với phần lớn người dùng."
   - q: "FlexCache là gì và vì sao Qualcomm nhấn mạnh nó?"
@@ -126,7 +126,7 @@ Có hai lực kéo ngược chiều nhau, và người mua cần nhìn cả hai.
   <figcaption>Máy đầu bảng dùng chip mới thường ra mắt tại Trung Quốc trước, bản chính hãng Việt Nam về sau vài tháng. Nguồn: YouTube</figcaption>
 </figure>
 
-Để có mốc so sánh, Xiaomi 17 Series dùng chip thế hệ trước ra mắt tại Việt Nam với giá khởi điểm 26,99 triệu đồng, còn các bản Pro và Ultra dao động trong khoảng 22 tới 28 triệu đồng tùy phiên bản và thời điểm khuyến mãi. Đó là mặt bằng mà thế hệ máy dùng chip mới sẽ được đặt cạnh khi về Việt Nam.
+Để có mốc so sánh, theo giá đọc ngày 28/09/2026 tại Thế Giới Di Động, Xiaomi 17 dùng chip thế hệ trước có giá niêm yết 26,99 triệu đồng cho bản 12GB/256GB và đang bán 18,59 triệu đồng, còn Xiaomi 17 Ultra 16GB/512GB niêm yết 39,99 triệu đồng, đang bán 29,79 triệu đồng. Đó là mặt bằng mà thế hệ máy dùng chip mới sẽ được đặt cạnh khi về Việt Nam.
 
 ## Người đang định mua flagship nên làm gì
 
