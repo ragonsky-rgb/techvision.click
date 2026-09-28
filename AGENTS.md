@@ -221,6 +221,7 @@ Với mỗi bài: cập nhật giá/sản phẩm còn bán, đổi "tháng X" tr
 - Chiến lược nội dung: `docs/chien-luoc-noi-dung-2026.md`
 - Lộ trình SEO/GEO: `docs/lo-trinh-seo-geo.md`
 - Spec HTML đầy đủ + GEO: `skills/website-content-writer/` (nếu dùng kit gốc)
+- Shopee Affiliate (khối "Mua ở đâu"): sổ link `src/data/affiliate-links.json`, trường frontmatter `shop`, gate `node scripts/check-affiliate.mjs --net`. Cách thêm link và luật (chỉ bài đã index, tối đa 3 sản phẩm, không ghi giá, rel sponsored): `docs/affiliate/bao-cao-2026-09-28.md`.
 
 ## Hẹn lịch bài viết (tự động, không cần mở phiên chat)
 

@@ -26,8 +26,6 @@ document.addEventListener('click', function (e) {
     aff_product: a.getAttribute('data-aff-product') || (a.textContent || '').trim().slice(0, 80),
     aff_sub_id: a.getAttribute('data-aff-sub') || '',
     link_position: box ? box.getAttribute('data-aff-box') : 'inline',
-    page_path: location.pathname,
-    link_url: a.href,
-    transport_type: 'beacon'
+    link_url: a.href
   });
 }, true);
