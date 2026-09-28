@@ -26,7 +26,7 @@ stats:
   - { num: "OLED", label: "Loại màn hình iPad mini thế hệ mới được cho là chuyển sang" }
   - { num: "2nm", label: "Tiến trình sản xuất của chip M6, lần đầu Apple dùng" }
   - { num: "M5 Pro / M5 Max", label: "Chip vẫn dùng cho MacBook Pro bản cao, không có M6 Pro" }
-  - { num: "14,4 triệu", label: "Giá iPad mini 7 bản WiFi 256GB tại chuỗi bán lẻ Việt Nam" }
+  - { num: "15,99 triệu", label: "Giá bán iPad mini 7 WiFi 128GB tại Thế Giới Di Động và CellphoneS, đọc ngày 28/09/2026" }
   - { num: "A17 Pro", label: "Chip trên iPad mini đang bán, sắp được thay thế" }
 faq:
   - q: "Apple có tổ chức sự kiện tháng 10/2026 không?"
@@ -40,7 +40,7 @@ faq:
   - q: "Chip M6 có gì đáng chú ý?"
     a: "M6 là con chip đầu tiên của Apple dựng trên tiến trình 2nm, thay cho 3nm của thế hệ trước. Tiến trình nhỏ hơn cho phép xếp nhiều bóng bán dẫn hơn trên diện tích nhỏ hơn, thường đổi lại thành hiệu năng cao hơn ở cùng mức điện năng, hoặc thời lượng pin tốt hơn ở cùng hiệu năng. Với máy để bàn như iMac thì lợi ích nghiêng về hiệu năng, còn với máy xách tay thì phần thời lượng pin thường dễ cảm nhận hơn. Mức cải thiện cụ thể chỉ xác định được khi có máy thật và các phép đo độc lập."
   - q: "Nên mua iPad mini bây giờ hay chờ bản mới?"
-    a: "Tùy nhu cầu và mức giá bạn chấp nhận. iPad mini 7 đang bán tại Việt Nam quanh mức 14,4 triệu đồng cho bản WiFi 256GB, và chip A17 Pro trên máy vẫn dư sức cho đọc sách, ghi chú, xem nội dung và phần lớn ứng dụng thông dụng trong nhiều năm tới. Nếu bạn cần máy ngay và ngân sách eo hẹp, mua bản hiện tại là lựa chọn hợp lý, nhất là khi bản cũ thường được giảm thêm sau khi đời mới ra mắt. Nếu bạn dùng máy chủ yếu để đọc trong môi trường thiếu sáng thì màn OLED là nâng cấp đáng chờ, và thời gian chờ cũng không còn dài."
+    a: "Tùy nhu cầu và mức giá bạn chấp nhận. iPad mini 7 đang bán tại Việt Nam từ 15,99 triệu đồng cho bản WiFi 128GB và khoảng 19,09 triệu đồng cho bản WiFi 256GB (giá đọc ngày 28/09/2026 tại Thế Giới Di Động và CellphoneS), và chip A17 Pro trên máy vẫn dư sức cho đọc sách, ghi chú, xem nội dung và phần lớn ứng dụng thông dụng trong nhiều năm tới. Nếu bạn cần máy ngay và ngân sách eo hẹp, mua bản hiện tại là lựa chọn hợp lý, nhất là khi bản cũ thường được giảm thêm sau khi đời mới ra mắt. Nếu bạn dùng máy chủ yếu để đọc trong môi trường thiếu sáng thì màn OLED là nâng cấp đáng chờ, và thời gian chờ cũng không còn dài."
 related:
   - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu, cấu hình nào đáng mua 2026" }
   - { href: "/articles/su-kien-apple-9-9-2026-xem-truc-tiep-may-gio-co-gi.html", cat: "Apple", title: "Sự kiện Apple 9/9/2026: xem trực tiếp mấy giờ, có gì" }
@@ -78,7 +78,7 @@ Thay đổi được nhắc nhiều nhất lần này là màn hình chuyển t�
 
 Đây là phần có ích nhất với người đọc trong nước, vì nó quyết định được ngay chứ không phải chờ tin đồn.
 
-iPad mini 7 chạy chip A17 Pro hiện bán tại các chuỗi bán lẻ chính hãng ở Việt Nam quanh mức 14,4 triệu đồng cho bản WiFi 256GB. Dải giá chung của dòng này trải từ khoảng 9 triệu cho bản dung lượng thấp tới khoảng 15 triệu cho bản cao, tùy phiên bản kết nối và nơi bán.
+iPad mini 7 chạy chip A17 Pro hiện niêm yết trên Apple Store Việt Nam từ 16.499.000đ cho bản WiFi 128GB và 19.299.000đ cho bản WiFi 256GB. Tại chuỗi bán lẻ, giá đọc ngày 28/09/2026 là 15.990.000đ cho bản WiFi 128GB ở Thế Giới Di Động và CellphoneS, 19.090.000đ cho bản WiFi 256GB và 20.490.000đ cho bản 5G 128GB ở CellphoneS.
 
 Cách quyết định hợp lý: nếu bạn dùng máy để đọc sách, ghi chú, xem nội dung và chạy các ứng dụng thông dụng, A17 Pro vẫn dư sức trong nhiều năm tới, nên mua bản hiện tại là lựa chọn tốt, nhất là khi máy đời cũ thường được giảm thêm sau lúc đời mới lên kệ. Nếu bạn đọc nhiều trong môi trường thiếu sáng, màn OLED là thứ đáng chờ, và khoảng chờ cũng không còn dài.
 
@@ -119,7 +119,7 @@ Ba việc, theo thứ tự ưu tiên với người mua tại Việt Nam.
 
 **Thứ hai**, phân biệt rõ bản thường với bản Pro và Max khi xem tin về MacBook Pro. Đây là điểm dễ nhầm nhất của đợt này, và nó ảnh hưởng trực tiếp tới việc bạn có nên chờ hay không.
 
-**Thứ ba**, với iPad mini, hãy quyết định dựa trên cách bạn thực sự dùng máy chứ không dựa trên thông số. Nếu đọc nhiều trong tối thì OLED đáng chờ. Nếu không, bản A17 Pro đang bán quanh 14,4 triệu đồng vẫn là món hợp lý, và giá thường mềm thêm sau khi đời mới lên kệ.
+**Thứ ba**, với iPad mini, hãy quyết định dựa trên cách bạn thực sự dùng máy chứ không dựa trên thông số. Nếu đọc nhiều trong tối thì OLED đáng chờ. Nếu không, bản A17 Pro đang bán từ 15,99 triệu đồng vẫn là món hợp lý, và giá thường mềm thêm sau khi đời mới lên kệ.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/CbGdf2jW4JY/maxresdefault.jpg" alt="iPad mini va MacBook ban chinh hang tai he thong ban le Viet Nam" loading="lazy" width="1280" height="720">

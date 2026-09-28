@@ -6,7 +6,7 @@ keywords: "iphone 18 pro loi face id, iphone 18 pro tu khoi dong lai, iphone 18 
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-28T09:00:00+07:00"
-dateModified: "2026-09-28T09:00:00+07:00"
+dateModified: "2026-09-28T12:56:00+07:00"
 noindex: true
 scheduled: true
 deck: "Chưa đầy một tuần sau ngày máy tới tay người mua, iPhone 18 Pro và Pro Max dính một lỗi khó chịu: bấm Face ID để mở khóa một ứng dụng đã khóa thì máy đứng hình vài giây rồi tự khởi động lại. Apple đã xác nhận đây là lỗi phần mềm chứ không phải hỏng phần cứng, và đang chuẩn bị bản vá iOS 27. Bài này gom lại điều kiện tái hiện lỗi, cách né tạm thời, và phần quan trọng với người mua tại Việt Nam: khi nào nên mang máy đi đổi, khi nào thì không."
@@ -61,7 +61,7 @@ Ngày 21/9/2026, chỉ ba ngày sau khi những chiếc **iPhone 18 Pro** đầu
   </table>
 </div>
 
-Với thị trường Việt Nam, đây là câu chuyện đến rất đúng lúc và cũng rất dễ gây hoang mang. Năm nay Việt Nam nằm trong nhóm mở bán đợt đầu, máy bắt đầu tới tay người dùng từ 18/9, nghĩa là hàng chục nghìn chiếc iPhone 18 Pro đang chạy đúng phiên bản phần mềm dính lỗi. Phản xạ tự nhiên của người vừa bỏ ra gần 40 triệu đồng khi thấy máy tự khởi động lại là nghĩ tới máy lỗi và mang ra đại lý đổi. Phần sau sẽ giải thích vì sao trong trường hợp này, đó lại là việc không cần thiết.
+Với thị trường Việt Nam, đây là câu chuyện đến rất đúng lúc và cũng rất dễ gây hoang mang. Năm nay Việt Nam nằm trong nhóm mở bán đợt đầu, máy bắt đầu tới tay người dùng từ 18/9, nghĩa là hàng chục nghìn chiếc iPhone 18 Pro đang chạy đúng phiên bản phần mềm dính lỗi. Phản xạ tự nhiên của người vừa bỏ ra gần 40 triệu đồng (iPhone 18 Pro niêm yết từ 38.999.000đ trên Apple Store Việt Nam, giá đọc ngày 28/09/2026) khi thấy máy tự khởi động lại là nghĩ tới máy lỗi và mang ra đại lý đổi. Phần sau sẽ giải thích vì sao trong trường hợp này, đó lại là việc không cần thiết.
 
 ## Lỗi xảy ra ở đâu, và không xảy ra ở đâu
 

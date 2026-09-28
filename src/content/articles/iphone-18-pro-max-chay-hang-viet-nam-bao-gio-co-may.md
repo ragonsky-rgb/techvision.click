@@ -14,7 +14,7 @@ heroImage: "https://i.ytimg.com/vi/axrPfjkP4HQ/maxresdefault.jpg"
 heroAlt: "iPhone 18 Pro Max chay hang dot dat truoc dau tien tai Viet Nam"
 heroCaption: "Nhu cầu vượt xa lượng máy phân bổ cho đợt đầu khiến lịch giao bị đẩy lùi nhiều tuần. Ảnh minh họa từ YouTube"
 ogImage: "https://techvision.click/uploads/og-article/iphone-18-pro-max-chay-hang-viet-nam-bao-gio-co-may.jpg"
-tldr: "Apple và các đại lý ủy quyền mở đặt trước iPhone 18 Pro và 18 Pro Max tại Việt Nam từ <strong>19h ngày 12/9/2026</strong>, hàng chính thức về từ <strong>18/9</strong>. Chỉ khoảng <strong>10 phút</strong> sau khi mở cổng, lô iPhone 18 Pro Max đầu tiên trên Apple Store Online Việt Nam đã hết, lịch giao bị đẩy lùi <strong>2 tới 3 tuần</strong>. Toàn thị trường ghi nhận <strong>hơn 300.000 đơn giữ chỗ</strong>, riêng hệ thống Thế Giới Di Động và TopZone báo gần <strong>167.000 đơn cọc thành công trên 181.000 yêu cầu</strong> trong 30 phút đầu, gấp hơn hai lần dòng iPhone 17. Giá niêm yết bốn bản lần lượt là <strong>41.999.000đ</strong> (256GB), <strong>48.499.000đ</strong> (512GB), <strong>61.499.000đ</strong> (1TB) và <strong>80.999.000đ</strong> (2TB). Một số cấu hình màu đặt muộn được hẹn giao từ <strong>29/9 tới 6/10</strong>, đơn sau đó kéo sang giữa tháng 10."
+tldr: "Apple và các đại lý ủy quyền mở đặt trước iPhone 18 Pro và 18 Pro Max tại Việt Nam từ <strong>19h ngày 12/9/2026</strong>, hàng chính thức về từ <strong>18/9</strong>. Chỉ khoảng <strong>10 phút</strong> sau khi mở cổng, lô iPhone 18 Pro Max đầu tiên trên Apple Store Online Việt Nam đã hết, lịch giao bị đẩy lùi <strong>2 tới 3 tuần</strong>. Toàn thị trường ghi nhận <strong>hơn 300.000 đơn giữ chỗ</strong>, riêng hệ thống Thế Giới Di Động và TopZone báo gần <strong>167.000 đơn cọc thành công trên 181.000 yêu cầu</strong> trong 30 phút đầu, gấp hơn hai lần dòng iPhone 17. Giá niêm yết trên Apple Store Việt Nam (giá đọc ngày 28/09/2026) của bốn bản lần lượt là <strong>41.999.000đ</strong> (256GB), <strong>48.499.000đ</strong> (512GB), <strong>61.499.000đ</strong> (1TB) và <strong>80.999.000đ</strong> (2TB). Một số cấu hình màu đặt muộn được hẹn giao từ <strong>29/9 tới 6/10</strong>, đơn sau đó kéo sang giữa tháng 10."
 tags: ["iPhone18ProMax", "Apple", "GiaViettNam", "DatTruoc", "2026"]
 about: ["iPhone 18 Pro Max", "Apple", "Thế Giới Di Động", "TopZone"]
 authorBio: "Founder LongTechVision. Theo dõi tin công nghệ quốc tế và quy đổi ra bối cảnh giá cả tại Việt Nam."
@@ -62,7 +62,7 @@ Mỗi mùa iPhone tại Việt Nam đều có một đêm mở cọc đông đú
   </table>
 </div>
 
-Cần nói rõ về nguồn các con số này. Số đơn giữ chỗ và tỷ lệ chuyển đổi do các hệ thống bán lẻ tự công bố với báo chí trong nước, không phải số liệu Apple kiểm toán. Chúng phản ánh đúng mức độ quan tâm nhưng nên đọc như con số truyền thông của nhà bán lẻ. Giá niêm yết và lịch giao thì khác, đó là thông tin hiển thị trực tiếp trên hệ thống bán hàng nên kiểm chứng được.
+Cần nói rõ về nguồn các con số này. Số đơn giữ chỗ và tỷ lệ chuyển đổi do các hệ thống bán lẻ tự công bố với báo chí trong nước, không phải số liệu Apple kiểm toán. Chúng phản ánh đúng mức độ quan tâm nhưng nên đọc như con số truyền thông của nhà bán lẻ. Giá niêm yết và lịch giao thì khác, đó là thông tin hiển thị trực tiếp trên hệ thống bán hàng nên kiểm chứng được. Bốn mức giá trong bảng là giá niêm yết trên Apple Store Việt Nam, giá đọc ngày 28/09/2026; cùng ngày Thế Giới Di Động, CellphoneS và FPT Shop bán bản 256GB ở mức 41.990.000đ.
 
 ## Con số thật của đêm mở cọc
 

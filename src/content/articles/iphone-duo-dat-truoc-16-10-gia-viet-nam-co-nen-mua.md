@@ -9,12 +9,12 @@ datePublished: "2026-10-01T09:00:00+07:00"
 dateModified: "2026-10-01T09:00:00+07:00"
 noindex: true
 scheduled: true
-deck: "Chiếc iPhone gập đầu tiên của Apple mở cổng đặt trước tại Việt Nam lúc 19h ngày 16/10 và giao máy từ 23/10. Mức khởi điểm 64.999.000đ đặt nó vào đúng vùng giá của Galaxy Z Fold 8 và Galaxy Z TriFold, còn bản 2TB lần đầu đưa một chiếc iPhone vượt mốc 100 triệu đồng. Bài này bóc tách xem khoản tiền đó mua được gì và nhóm người dùng nào thực sự nên xuống tiền."
+deck: "Chiếc iPhone gập đầu tiên của Apple mở cổng đặt trước tại Việt Nam lúc 19h ngày 16/10 và giao máy từ 23/10. Mức khởi điểm 64.999.000đ cao hơn Galaxy Z Fold 8 khoảng 18 triệu đồng, còn bản 2TB lần đầu đưa một chiếc iPhone vượt mốc 100 triệu đồng. Bài này bóc tách xem khoản tiền đó mua được gì và nhóm người dùng nào thực sự nên xuống tiền."
 heroImage: "https://i.ytimg.com/vi/khefl5hYouM/maxresdefault.jpg"
 heroAlt: "iPhone Duo chiec iPhone gap dau tien cua Apple mo dat truoc tai Viet Nam"
 heroCaption: "iPhone Duo mở đặt trước tại Việt Nam từ 19h ngày 16/10 và lên kệ ngày 23/10. Ảnh minh họa từ YouTube"
 ogImage: "https://techvision.click/uploads/og-article/iphone-duo-dat-truoc-16-10-gia-viet-nam-co-nen-mua.jpg"
-tldr: "iPhone Duo là chiếc iPhone màn hình gập đầu tiên, công bố tại sự kiện Surprise and shine rạng sáng <strong>10/9/2026</strong> giờ Việt Nam. Máy gập kiểu sách với màn ngoài <strong>5,4 inch</strong>, màn trong <strong>7,6 inch</strong>, khung titan grade 5, dùng <strong>Touch ID ở nút nguồn</strong> thay cho Face ID và hỗ trợ bút Apple Pen. Giá khởi điểm <strong>1.999 USD</strong>, tại Việt Nam là <strong>64.999.000đ</strong> cho bản 256GB, bản 2TB lên tới <strong>103.999.000đ</strong>, lần đầu một chiếc iPhone vượt mốc 100 triệu đồng trong nước. Hai màu Star White và Night Sky. <strong>Đặt trước 19h ngày 16/10</strong>, giao máy từ <strong>23/10</strong>. Ở cùng vùng giá, người mua tại Việt Nam còn có Galaxy Z Fold 8 và Galaxy Z TriFold để cân nhắc."
+tldr: "iPhone Duo là chiếc iPhone màn hình gập đầu tiên, công bố tại sự kiện Surprise and shine rạng sáng <strong>10/9/2026</strong> giờ Việt Nam. Máy gập kiểu sách với màn ngoài <strong>5,4 inch</strong>, màn trong <strong>7,6 inch</strong>, khung titan grade 5, dùng <strong>Touch ID ở nút nguồn</strong> thay cho Face ID và hỗ trợ bút Apple Pen. Giá khởi điểm <strong>1.999 USD</strong>, tại Việt Nam là <strong>64.999.000đ</strong> cho bản 256GB, bản 2TB lên tới <strong>103.999.000đ</strong>, lần đầu một chiếc iPhone vượt mốc 100 triệu đồng trong nước. Hai màu Star White và Night Sky. <strong>Đặt trước 19h ngày 16/10</strong>, giao máy từ <strong>23/10</strong>. Giá trên là giá niêm yết Apple Store Việt Nam đọc ngày 28/09/2026. Rẻ hơn khoảng 18 triệu đồng, người mua tại Việt Nam còn có Galaxy Z Fold 8 niêm yết 46.990.000đ để cân nhắc."
 tags: ["iPhoneDuo", "Apple", "DienThoaiGap", "GiaVietNam", "2026"]
 about: ["iPhone Duo", "Apple", "Galaxy Z Fold 8", "Pixel 11 Pro Fold"]
 authorBio: "Founder LongTechVision. Theo dõi tin công nghệ quốc tế và quy đổi ra bối cảnh giá cả tại Việt Nam."
@@ -57,12 +57,12 @@ Apple là hãng lớn cuối cùng bước vào thị trường điện thoại 
     <tr><td>Bảo mật</td><td>Touch ID tích hợp nút nguồn, không có Face ID</td></tr>
     <tr><td>Chất liệu</td><td>Khung titan grade 5, hỗ trợ bút Apple Pen</td></tr>
     <tr><td>Màu sắc</td><td>Star White và Night Sky</td></tr>
-    <tr><td>Giá tại Việt Nam</td><td>Từ 64.999.000đ, bản 2TB 103.999.000đ</td></tr>
+    <tr><td>Giá tại Việt Nam</td><td>256GB 64.999.000đ, 512GB 71.499.000đ, 1TB 84.499.000đ, 2TB 103.999.000đ (Apple Store Việt Nam, giá đọc ngày 28/09/2026)</td></tr>
     <tr><td>Mốc thời gian</td><td>Đặt trước 19h ngày 16/10, giao máy từ 23/10</td></tr>
   </table>
 </div>
 
-Một lưu ý về nguồn số liệu. Thông số phần cứng và giá niêm yết lấy từ công bố chính thức của Apple tại sự kiện Surprise and shine rạng sáng 10/9 giờ Việt Nam cùng bảng giá trong nước của hệ thống bán lẻ ủy quyền. Phần cảm nhận về nếp gập và chất lượng hoàn thiện đến từ các bài trên tay đầu tiên với máy trưng bày, chưa phải đánh giá dài ngày.
+Một lưu ý về nguồn số liệu. Thông số phần cứng và giá niêm yết lấy từ công bố chính thức của Apple tại sự kiện Surprise and shine rạng sáng 10/9 giờ Việt Nam cùng bảng giá trong nước trên Apple Store Việt Nam, giá đọc ngày 28/09/2026; cùng ngày Thế Giới Di Động, CellphoneS và FPT Shop niêm yết bản 256GB ở mức 64.990.000đ. Phần cảm nhận về nếp gập và chất lượng hoàn thiện đến từ các bài trên tay đầu tiên với máy trưng bày, chưa phải đánh giá dài ngày.
 
 ## Khoản 65 triệu đồng mua được gì
 
@@ -77,14 +77,14 @@ Khung titan grade 5 và khả năng dùng bút Apple Pen là hai chi tiết cho 
 
 ## So với máy gập đang bán tại Việt Nam
 
-Đây là phần quan trọng nhất, vì iPhone Duo không bước vào một thị trường trống. Người mua trong nước đã có vài lựa chọn gập ở cùng vùng giá, và mỗi máy mạnh ở một điểm khác nhau.
+Đây là phần quan trọng nhất, vì iPhone Duo không bước vào một thị trường trống. Người mua trong nước đã có vài lựa chọn gập rẻ hơn đáng kể, và mỗi máy mạnh ở một điểm khác nhau.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/Q4BK9OQtYAQ/maxresdefault.jpg" alt="Galaxy Z Fold 8 mong nhe la doi thu truc tiep cua iPhone Duo tai Viet Nam" loading="lazy" width="1280" height="720">
   <figcaption>Galaxy Z Fold 8 nặng 201g và mỏng 9,7mm khi gập, lợi thế rõ về cầm nắm hằng ngày. Nguồn: YouTube</figcaption>
 </figure>
 
-Galaxy Z Fold 8 là đối thủ trực diện nhất. Samsung đã qua nhiều thế hệ để mài giũa phần mềm đa nhiệm, và thân máy 201g, mỏng 9,7mm khi gập vẫn là chuẩn mực về cầm nắm trong nhóm gập kiểu sách. Quan trọng hơn với túi tiền, máy đã qua giai đoạn ra mắt nên giá thực tế tại đại lý mềm hơn giá niêm yết nhờ khuyến mãi và chương trình thu cũ đổi mới.
+Galaxy Z Fold 8 là đối thủ trực diện nhất. Samsung đã qua nhiều thế hệ để mài giũa phần mềm đa nhiệm, và thân máy 201g, mỏng 9,7mm khi gập vẫn là chuẩn mực về cầm nắm trong nhóm gập kiểu sách. Quan trọng hơn với túi tiền, bản 12GB/256GB niêm yết 46.990.000đ, và ngày 28/09/2026 Thế Giới Di Động bán 39.840.000đ, CellphoneS bán 40.990.000đ, tức rẻ hơn iPhone Duo bản 256GB khoảng 24 tới 25 triệu đồng.
 
 Pixel 11 Pro Fold đi theo hướng khác, với màn trong 8 inch lớn nhất nhóm và ống tele tiềm vọng zoom quang 5x. Đây là lựa chọn của người coi trọng camera và bản Android gốc. So sánh chi tiết hai máy này nằm trong bài [mua máy gập nào tại Việt Nam giữa Pixel 11 Pro Fold và Z Fold 8](/articles/pixel-11-pro-fold-vs-galaxy-z-fold-8-gia-viet-nam-2026.html).
 
@@ -94,7 +94,7 @@ Pixel 11 Pro Fold đi theo hướng khác, với màn trong 8 inch lớn nhất 
 </div>
 <p class="art-video-caption">Bản lề và lớp màn hình trong là hai bộ phận quyết định tuổi thọ của mọi máy gập. Nguồn: YouTube</p>
 
-Còn một lựa chọn nữa mà người mua Việt hay bỏ qua: Galaxy Z TriFold, mẫu gập ba của Samsung đã được một số đại lý trong nước niêm yết quanh mốc 64 triệu đồng. Máy này lạ hơn, màn hình mở ra lớn hơn hẳn, nhưng phần mềm và ứng dụng cho tỷ lệ đó còn ít được tối ưu.
+Còn một lựa chọn nữa mà người mua Việt hay bỏ qua: Galaxy Z TriFold, mẫu gập ba của Samsung. Máy này lạ hơn, màn hình mở ra lớn hơn hẳn, nhưng phần mềm và ứng dụng cho tỷ lệ đó còn ít được tối ưu.
 
 ## Ai nên mua, ai nên bỏ qua
 

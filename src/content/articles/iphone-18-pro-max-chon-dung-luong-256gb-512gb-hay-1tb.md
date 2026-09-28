@@ -14,7 +14,7 @@ heroImage: "https://i.ytimg.com/vi/2f1kRJOtUYY/maxresdefault.jpg"
 heroAlt: "Chon dung luong bo nho cho iPhone 18 Pro Max 256GB 512GB hay 1TB"
 heroCaption: "Khoảng cách giữa hai bậc dung lượng liền kề của iPhone 18 Pro Max là 6,5 triệu đồng. Ảnh minh họa từ YouTube"
 ogImage: "https://techvision.click/uploads/og-article/iphone-18-pro-max-chon-dung-luong-256gb-512gb-hay-1tb.jpg"
-tldr: "Bốn bậc dung lượng của iPhone 18 Pro Max tại Việt Nam là <strong>41.999.000đ</strong> cho 256GB, <strong>48.499.000đ</strong> cho 512GB, <strong>61.499.000đ</strong> cho 1TB và <strong>80.999.000đ</strong> cho 2TB. Quy ra giá mỗi GB tăng thêm, hai bước đầu đều rơi vào khoảng <strong>25.000đ mỗi GB</strong>. Khoản chênh 6,5 triệu giữa 256GB và 512GB tương đương gần <strong>21 tháng</strong> thuê gói iCloud+ 2TB, vốn có giá <strong>299.000đ mỗi tháng</strong> tại Việt Nam từ 17/7/2026. Video 4K và nhất là định dạng ProRes mới là thứ ăn dung lượng thật, còn ảnh chụp thường ngày thì không."
+tldr: "Theo giá niêm yết trên Apple Store Việt Nam (giá đọc ngày 28/09/2026), bốn bậc dung lượng của iPhone 18 Pro Max là <strong>41.999.000đ</strong> cho 256GB, <strong>48.499.000đ</strong> cho 512GB, <strong>61.499.000đ</strong> cho 1TB và <strong>80.999.000đ</strong> cho 2TB. Quy ra giá mỗi GB tăng thêm, hai bước đầu đều rơi vào khoảng <strong>25.000đ mỗi GB</strong>. Khoản chênh 6,5 triệu giữa 256GB và 512GB tương đương gần <strong>21 tháng</strong> thuê gói iCloud+ 2TB, vốn có giá <strong>299.000đ mỗi tháng</strong> tại Việt Nam từ 17/7/2026. Video 4K và nhất là định dạng ProRes mới là thứ ăn dung lượng thật, còn ảnh chụp thường ngày thì không."
 tags: ["iPhone18ProMax", "Apple", "DungLuong", "iCloud", "2026"]
 about: ["iPhone 18 Pro Max", "iCloud+", "Apple", "ProRes"]
 authorBio: "Founder LongTechVision. Theo dõi tin công nghệ quốc tế và quy đổi ra bối cảnh giá cả tại Việt Nam."
@@ -61,6 +61,8 @@ Giữa hai người mua cùng một chiếc iPhone 18 Pro Max, khoản tiền ch
     <tr><td>iCloud+ 2TB</td><td>299.000đ mỗi tháng tại Việt Nam</td></tr>
   </table>
 </div>
+
+Giá máy trong bảng là giá niêm yết trên Apple Store Việt Nam, giá iCloud+ lấy từ trang hỗ trợ của Apple, tất cả đọc ngày 28/09/2026. Cùng ngày, Thế Giới Di Động bán các bản 256GB, 512GB, 1TB và 2TB ở mức 41.990.000đ, 48.490.000đ, 61.490.000đ và 80.990.000đ, thấp hơn giá Apple 9.000đ mỗi bản, CellphoneS cũng bán bản 256GB và 2TB ở đúng mức đó.
 
 Điều thú vị khi quy về cùng đơn vị đo: hai bước nhảy đầu tiên có giá gần như y hệt nhau, khoảng 25.400 đồng cho mỗi GB tăng thêm. Bước cuối từ 1TB lên 2TB rẻ hơn một chút tính theo mỗi GB, quanh 19.000 đồng, nhưng đòi hỏi bạn bỏ ra một cục tiền 19,5 triệu đồng, tương đương nửa chiếc máy tầm trung.
 

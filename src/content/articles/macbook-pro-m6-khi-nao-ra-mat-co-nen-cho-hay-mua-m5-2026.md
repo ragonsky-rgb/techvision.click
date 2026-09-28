@@ -54,7 +54,7 @@ Ngày 25/8/2026, Apple công bố M6, con chip đầu tiên của hãng sản xu
     <tr><td>Chip M6 tồn tại</td><td>Đã xác nhận, Apple công bố 25/8/2026</td></tr>
     <tr><td>Tiến trình 2nm, CPU 12 lõi, GPU 12 lõi</td><td>Đã xác nhận theo công bố của Apple</td></tr>
     <tr><td>Băng thông bộ nhớ 170GB/s, RAM tối đa 32GB</td><td>Đã xác nhận</td></tr>
-    <tr><td>Máy đầu tiên dùng M6</td><td>Mac mini, đã bán, giá Việt Nam từ 24,999 triệu đồng</td></tr>
+    <tr><td>Máy đầu tiên dùng M6</td><td>Mac mini, đã bán, niêm yết từ 24.999.000đ trên Apple Store Việt Nam (giá đọc ngày 28/09/2026)</td></tr>
     <tr><td>MacBook Pro M6 ra cuối 2026</td><td>Tin đồn từ chuỗi cung ứng, chưa xác nhận</td></tr>
     <tr><td>Chưa có M6 Pro và M6 Max</td><td>Tin đồn, được cho là lùi sang thế hệ M7 năm 2027</td></tr>
     <tr><td>Giữ thiết kế nhôm, màn Liquid Retina XDR</td><td>Tin đồn, chưa xác nhận</td></tr>

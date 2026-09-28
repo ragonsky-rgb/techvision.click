@@ -98,14 +98,14 @@ Ba tình huống thực tế dễ gặp khoảng cách đó nhất: quay video 4
 
 ## Quy ra tiền tại Việt Nam thì bài toán đổi thế nào
 
-Đây là chỗ câu chuyện kỹ thuật chạm vào ví tiền. Với iPhone 18 Pro Max chính hãng tại Việt Nam, bản 512GB có giá **48.499.000đ**, bản 1TB **61.499.000đ**. Khoản chênh là **13 triệu đồng**, gần bằng nguyên một chiếc điện thoại tầm trung khá.
+Đây là chỗ câu chuyện kỹ thuật chạm vào ví tiền. Với iPhone 18 Pro Max chính hãng tại Việt Nam, bản 512GB có giá **48.499.000đ**, bản 1TB **61.499.000đ** theo niêm yết trên Apple Store Việt Nam (giá đọc ngày 28/09/2026). Khoản chênh là **13 triệu đồng**, gần bằng nguyên một chiếc điện thoại tầm trung khá. Bản iPhone 18 Pro thường cũng chênh đúng 13 triệu, từ 45.499.000đ bản 512GB lên 58.499.000đ bản 1TB.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/le6owiMdTHg/maxresdefault.jpg" alt="Bang gia iPhone 18 Pro Max cac ban dung luong tai Viet Nam" loading="lazy" width="1280" height="720">
   <figcaption>Bước nhảy từ 512GB lên 1TB tại Việt Nam tốn 13 triệu đồng. Ảnh minh họa từ YouTube</figcaption>
 </figure>
 
-Trước khi có thông tin về QLC, lập luận ủng hộ bản 1TB đã không mạnh, vì giá mỗi GB tăng thêm ở bước nhảy này đắt hơn hẳn hai bước trước đó. Cách tính chi tiết theo từng bậc, có đối chiếu với giá thuê gói iCloud+ tại Việt Nam, nằm trong bài [iPhone 18 Pro Max nên mua bản 256GB, 512GB hay 1TB](/articles/iphone-18-pro-max-chon-dung-luong-256gb-512gb-hay-1tb.html). Thông tin về loại chip nhớ chỉ làm cán cân nghiêng thêm về một phía: bạn trả thêm 13 triệu đồng để nhận dung lượng gấp đôi và tốc độ ghi bền thấp hơn.
+Trước khi có thông tin về QLC, lập luận ủng hộ bản 1TB đã không mạnh, vì bước nhảy này vẫn tốn khoảng 25.400đ cho mỗi GB tăng thêm, ngang bước từ 256GB lên 512GB, trong khi số tiền phải bỏ ra một lần thì gấp đôi. Cách tính chi tiết theo từng bậc, có đối chiếu với giá thuê gói iCloud+ tại Việt Nam, nằm trong bài [iPhone 18 Pro Max nên mua bản 256GB, 512GB hay 1TB](/articles/iphone-18-pro-max-chon-dung-luong-256gb-512gb-hay-1tb.html). Thông tin về loại chip nhớ chỉ làm cán cân nghiêng thêm về một phía: bạn trả thêm 13 triệu đồng để nhận dung lượng gấp đôi và tốc độ ghi bền thấp hơn.
 
 Điều đó không có nghĩa bản 1TB là lựa chọn sai với mọi người. Nếu công việc của bạn là quay dựng và bạn cần chứa tệp gốc ngay trên máy suốt cả buổi quay, thì dung lượng vẫn thắng tốc độ, vì máy đầy bộ nhớ giữa buổi quay là hỏng việc thật, còn ghi chậm hơn chỉ là chờ lâu hơn. Vấn đề là nhóm người này chiếm tỷ lệ nhỏ, trong khi bản 1TB lâu nay vẫn được nhiều người chọn theo phản xạ mua bản cao nhất cho yên tâm.
 

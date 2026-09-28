@@ -46,7 +46,7 @@ related:
 featured: true
 ---
 
-Với giá niêm yết từ 41.999.000 đồng cho bản 256GB, iPhone 18 Pro Max là món hàng đủ đắt để một chiếc máy không đúng nguồn gốc gây thiệt hại thật sự. Thị trường Việt Nam có đủ các dạng: máy chính hãng phân phối trong nước, máy nhập từ thị trường khác, máy trưng bày, máy khóa mạng, và ở mức tệ nhất là máy đã thay linh kiện nhưng bán như máy mới. Bảy bước dưới đây không cần thiết bị chuyên dụng, làm được ngay tại quầy và mất khoảng mười phút.
+Với giá niêm yết từ 41.999.000 đồng cho bản 256GB trên Apple Store Việt Nam (giá đọc ngày 28/09/2026, đại lý như Thế Giới Di Động bán 41.990.000 đồng), iPhone 18 Pro Max là món hàng đủ đắt để một chiếc máy không đúng nguồn gốc gây thiệt hại thật sự. Thị trường Việt Nam có đủ các dạng: máy chính hãng phân phối trong nước, máy nhập từ thị trường khác, máy trưng bày, máy khóa mạng, và ở mức tệ nhất là máy đã thay linh kiện nhưng bán như máy mới. Bảy bước dưới đây không cần thiết bị chuyên dụng, làm được ngay tại quầy và mất khoảng mười phút.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Đọc nhanh mã model theo thị trường</div>
