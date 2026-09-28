@@ -1,6 +1,6 @@
 {
   "framework": "astro",
-  "buildCommand": "node scripts/build-legacy-index.mjs && node scripts/build-blog.mjs && astro build",
+  "buildCommand": "rm -rf node_modules/.astro && node scripts/build-legacy-index.mjs && node scripts/build-blog.mjs && astro build",
   "outputDirectory": "dist",
   "redirects": [
     {

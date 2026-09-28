@@ -147,6 +147,7 @@ node scripts/build-legacy-index.mjs && node scripts/build-blog.mjs && npx astro 
 - `build-blog.mjs` tự sinh: hero blog.html, grid, "Nổi bật", "Đáng chú ý", và mục "Tin mới nhất" trên `index.html` (qua marker `<!-- HOME POSTS START/END -->`). KHÔNG sửa tay mục này, để build lo.
 - **Bài mới nhất (datePublished mới nhất) tự thành hero "Tiêu điểm"** trên trang chủ blog. Muốn bài nào lên hero thì cho `datePublished` mới nhất. (Standing rule: bài mới luôn lên top.)
 - Commit: chỉ add file nguồn + `public/blog.html` + `public/index.html` + `src/data/legacy-articles.json`. KHÔNG commit `dist/`.
+- **Bẫy cache nội dung Astro (28/09/2026):** Vercel khôi phục `node_modules` từ build cache, kéo theo kho nội dung `node_modules/.astro/data-store.json` cũ. Sửa một bài ĐÃ CÓ (frontmatter `slug`) thì Astro báo `Duplicate id` và web live vẫn ra bản cũ dù build READY đúng commit. Vì vậy `buildCommand` trong `vercel.json` xóa `node_modules/.astro` trước khi build, ĐỪNG bỏ bước này. Kiểm bài sửa đã lên chưa: `curl` trang live rồi grep chuỗi mới, đừng tin trạng thái READY.
 
 ## 5b. NHÌN trang render thật (đừng đoán layout từ code)
 
