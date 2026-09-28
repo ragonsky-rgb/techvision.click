@@ -1,20 +1,20 @@
 ---
 slug: "vivo-v80-lite-5g-pin-10000mah-ra-mat-viet-nam-26-9"
-title: "vivo V80 Lite 5G pin 10.000mAh ra mắt Việt Nam ngày 26/9"
-description: "Máy giữ kỷ lục Guinness 32 giờ 37 phút sáng màn liên tục, pin BlueVolt 10.000mAh trong thân máy thường, ra mắt tại Việt Nam ngày 26/9/2026."
+title: "vivo V80 Lite 5G pin 10.000mAh giá 12,99 triệu tại Việt Nam"
+description: "vivo V80 Lite 5G bán tại Việt Nam từ 26/9/2026, giá niêm yết 12,99 triệu (128GB) và 14,99 triệu (256GB), pin 10.000mAh giữ kỷ lục Guinness."
 keywords: "vivo v80 lite 5g, vivo v80 lite gia, dien thoai pin 10000mah, vivo v80 lite viet nam, ky luc guinness pin dien thoai, pin bluevolt"
 category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-29T09:00:00+07:00"
-dateModified: "2026-09-29T09:00:00+07:00"
+dateModified: "2026-09-29T09:05:00+07:00"
 noindex: true
 scheduled: true
-deck: "Một viên pin 10.000mAh đặt trong thân máy điện thoại thông thường là thứ vài năm trước còn bị xem là bất khả thi. vivo V80 Lite 5G không chỉ làm được mà còn mang đi đo trước sự giám sát của Kỷ lục Guinness Thế giới, đạt 32 giờ 37 phút sáng màn liên tục. Máy ra mắt tại Việt Nam ngày 26/9/2026. Bài này bóc tách con số kỷ lục đó có nghĩa gì với người dùng thật, phần còn lại của cấu hình có tương xứng không, và mức giá nào là hợp lý."
+deck: "Một viên pin 10.000mAh đặt trong thân máy điện thoại thông thường là thứ vài năm trước còn bị xem là bất khả thi. vivo V80 Lite 5G không chỉ làm được mà còn mang đi đo trước sự giám sát của Kỷ lục Guinness Thế giới, đạt 32 giờ 37 phút sáng màn liên tục. Máy lên kệ tại Việt Nam ngày 26/9/2026 với giá niêm yết từ 12,99 triệu đồng. Bài này bóc tách con số kỷ lục đó có nghĩa gì với người dùng thật, phần còn lại của cấu hình có tương xứng không, và mức giá đó có hợp lý."
 heroImage: "https://i.ytimg.com/vi/P8BHk24lTis/maxresdefault.jpg"
 heroAlt: "vivo V80 Lite 5G pin 10000mAh ra mat tai Viet Nam"
 heroCaption: "Pin BlueVolt 10.000mAh là điểm bán hàng trung tâm của V80 Lite 5G. Ảnh minh họa từ YouTube"
 ogImage: "https://techvision.click/uploads/og-article/vivo-v80-lite-5g-pin-10000mah-ra-mat-viet-nam-26-9.jpg"
-tldr: "<strong>vivo V80 Lite 5G</strong> ra mắt tại Việt Nam ngày <strong>26/9/2026</strong>, sau khi bản toàn cầu công bố ngày 3/9. Điểm nhấn là viên pin <strong>BlueVolt 10.000mAh</strong> đi cùng sạc <strong>44W</strong>, đặt trong thân máy dùng màn <strong>AMOLED 6,83 inch 120Hz</strong>. Ngày <strong>18/9/2026</strong>, máy được <strong>Kỷ lục Guinness Thế giới</strong> công nhận với <strong>32 giờ 37 phút</strong> sáng màn liên tục. Cấu hình còn lại ở mức tầm trung: chip <strong>Dimensity 7300e</strong>, RAM 8GB, bộ nhớ 256GB, camera sau 50MP kèm cảm biến phụ 2MP, camera trước 50MP, chạy <strong>OriginOS 6</strong> nền Android 16."
+tldr: "<strong>vivo V80 Lite 5G</strong> ra mắt tại Việt Nam ngày <strong>26/9/2026</strong>, sau khi bản toàn cầu công bố ngày 3/9. Điểm nhấn là viên pin <strong>BlueVolt 10.000mAh</strong> đi cùng sạc <strong>44W</strong>, đặt trong thân máy dùng màn <strong>AMOLED 6,83 inch 120Hz</strong>. Ngày <strong>18/9/2026</strong>, máy được <strong>Kỷ lục Guinness Thế giới</strong> công nhận với <strong>32 giờ 37 phút</strong> sáng màn liên tục. Bản bán tại Việt Nam có <strong>6GB RAM</strong>, giá niêm yết <strong>12.990.000đ</strong> (128GB) và <strong>14.990.000đ</strong> (256GB). Cấu hình còn lại ở mức tầm trung: chip <strong>Dimensity 7300e</strong>, camera sau 50MP kèm cảm biến phụ 2MP, camera trước 32MP, chạy <strong>OriginOS 6</strong>."
 tags: ["vivo", "Smartphone", "Pin", "TamTrung", "2026"]
 about: ["vivo V80 Lite 5G", "vivo", "Dimensity 7300e", "Kỷ lục Guinness Thế giới"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các sản phẩm công nghệ cho người dùng Việt."
@@ -24,7 +24,7 @@ sourceDomains: "gsmarena.com · vnexpress.net · genk.vn · vivo.com"
 stats:
   - { num: "10.000mAh", label: "Dung lượng pin BlueVolt, hiếm gặp trên thân máy thường" }
   - { num: "32 giờ 37 phút", label: "Thời gian sáng màn liên tục được Guinness công nhận" }
-  - { num: "18/9/2026", label: "Ngày kỷ lục được công bố" }
+  - { num: "12,99 triệu", label: "Giá niêm yết bản 6GB/128GB tại Việt Nam" }
   - { num: "26/9/2026", label: "Ngày máy ra mắt tại Việt Nam" }
   - { num: "44W", label: "Công suất sạc có dây tối đa" }
   - { num: "6,83 inch", label: "Kích thước màn hình AMOLED, tần số quét 120Hz" }
@@ -46,7 +46,7 @@ related:
 featured: true
 ---
 
-> **Lưu ý:** bài viết dựa trên thông số bản toàn cầu và thông tin vivo công bố trước sự kiện. Giá niêm yết chính hãng tại Việt Nam công bố trong ngày ra mắt 26/9/2026, nên hãy đối chiếu lại tại đại lý trước khi quyết định.
+> **Cập nhật:** máy đã bán tại Việt Nam từ 26/9/2026. Giá và cấu hình bản Việt Nam trong bài đọc ngày 28/09/2026 tại Thế Giới Di Động và trang vivo Việt Nam; giá khuyến mãi thay đổi theo ngày, hãy đối chiếu lại tại đại lý trước khi mua.
 
 Cuộc đua dung lượng pin trên điện thoại tầm trung đã đi qua mốc 6.000mAh, rồi 7.000mAh, và tới năm nay thì chạm một con số mà cách đây vài năm còn bị xem là chuyện của sạc dự phòng chứ không phải của điện thoại: **10.000mAh**. Chiếc mang con số đó ra thị trường Việt Nam là **vivo V80 Lite 5G**, ra mắt ngày **26/9/2026**, sau khi bản toàn cầu được công bố hôm 3/9.
 
@@ -55,13 +55,13 @@ Cuộc đua dung lượng pin trên điện thoại tầm trung đã đi qua m�
   <table>
     <tr><td>Màn hình</td><td>AMOLED 6,83 inch, tần số quét 120Hz</td></tr>
     <tr><td>Chip</td><td>MediaTek Dimensity 7300e</td></tr>
-    <tr><td>RAM và bộ nhớ</td><td>8GB RAM, 256GB bộ nhớ trong</td></tr>
+    <tr><td>RAM và bộ nhớ</td><td>6GB RAM, 128GB hoặc 256GB (bản Việt Nam)</td></tr>
     <tr><td>Pin</td><td>BlueVolt 10.000mAh</td></tr>
     <tr><td>Sạc</td><td>Có dây 44W</td></tr>
     <tr><td>Camera sau</td><td>50MP chính, 2MP phụ</td></tr>
-    <tr><td>Camera trước</td><td>50MP</td></tr>
+    <tr><td>Camera trước</td><td>32MP</td></tr>
     <tr><td>Phần mềm</td><td>OriginOS 6 trên nền Android 16</td></tr>
-    <tr><td>Ra mắt Việt Nam</td><td>26/9/2026</td></tr>
+    <tr><td>Giá Việt Nam</td><td>12.990.000đ (128GB), 14.990.000đ (256GB), giá đọc ngày 28/09/2026</td></tr>
   </table>
 </div>
 
@@ -92,7 +92,7 @@ Câu trả lời trung thực là: đúng tầm, không hơn. **Dimensity 7300e*
 
 Thực ra việc chọn chip tiết kiệm điện là quyết định đúng với một chiếc máy lấy pin làm điểm bán hàng. Nếu nhét chip hiệu năng cao vào cùng viên pin này, phần lớn lợi thế thời lượng sẽ bị tiêu tán, và máy còn nóng hơn. Cùng logic đó, màn hình AMOLED 6,83 inch ở tần số 120Hz là mức cân bằng hợp lý: đủ mượt để dùng dễ chịu nhưng không đẩy lên 144Hz vốn ăn thêm điện mà mắt thường khó phân biệt.
 
-Camera là chỗ rõ ràng nhất cho thấy máy thuộc dòng Lite. Cụm sau gồm cảm biến chính 50MP và một cảm biến phụ 2MP, tức là không có ống góc siêu rộng hay tele đúng nghĩa. Camera trước 50MP là điểm cộng với người hay gọi video và chụp ảnh chân dung tự sướng, nhóm khách hàng mà dòng V của vivo nhắm tới từ lâu. Ai cần dải tiêu cự đầy đủ nên nhìn sang bản V80 tiêu chuẩn, vốn có ống tele tiềm vọng, chi tiết trong bài [vivo V80 ra mắt: pin 7200mAh, camera tele và giá dự kiến](/articles/vivo-v80-ra-mat-pin-7200mah-camera-tele-gia-du-kien-2026.html).
+Camera là chỗ rõ ràng nhất cho thấy máy thuộc dòng Lite. Cụm sau gồm cảm biến chính 50MP và một cảm biến phụ 2MP, tức là không có ống góc siêu rộng hay tele đúng nghĩa. Camera trước 32MP góc rộng đủ tốt cho người hay gọi video và chụp ảnh chân dung tự sướng, nhóm khách hàng mà dòng V của vivo nhắm tới từ lâu. Ai cần dải tiêu cự đầy đủ nên nhìn sang bản V80 tiêu chuẩn, vốn có ống tele tiềm vọng, chi tiết trong bài [vivo V80 ra mắt: pin 7200mAh, camera tele và giá dự kiến](/articles/vivo-v80-ra-mat-pin-7200mah-camera-tele-gia-du-kien-2026.html).
 
 ## Đánh đổi thật sự nằm ở trọng lượng và tốc độ sạc
 
@@ -109,7 +109,7 @@ Một điểm tích cực ít được nhắc: pin lớn thường xuống sức
 
 ## Mức giá nào là hợp lý tại Việt Nam
 
-vivo công bố giá chính hãng trong ngày ra mắt, nên bài này không đưa con số cụ thể để tránh dẫn sai. Điều có thể nói chắc là khung tham chiếu. Dòng V tiêu chuẩn của vivo năm nay được nhắc tới quanh mốc **16,5 triệu đồng** khi về Việt Nam, và theo thông lệ nhiều năm, bản Lite luôn nằm ở bậc thấp hơn rõ rệt so với bản tiêu chuẩn cùng thế hệ.
+Giá niêm yết tại Việt Nam là **12.990.000đ** cho bản 6GB/128GB và **14.990.000đ** cho bản 6GB/256GB (đọc ngày 28/09/2026 tại Thế Giới Di Động). Tuần mở bán, bản 128GB đang được giảm xuống quanh **12,1 tới 12,3 triệu đồng** tùy ngày. Khoản chênh 2 triệu để lên 256GB chỉ đáng khi bạn quay video và lưu ảnh nhiều trên máy. Theo thông lệ nhiều năm, bản Lite nằm ở bậc thấp hơn rõ rệt so với bản V tiêu chuẩn cùng thế hệ.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/McN8sfNAcL4/maxresdefault.jpg" alt="Dien thoai vivo ban chinh hang tai dai ly Viet Nam" loading="lazy" width="1280" height="720">

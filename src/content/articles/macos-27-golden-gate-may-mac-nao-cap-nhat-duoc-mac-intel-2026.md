@@ -6,7 +6,7 @@ keywords: "macOS 27, macOS Golden Gate, macOS 27 may nao cap nhat duoc, mac inte
 category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-10-05T09:00:00+07:00"
-dateModified: "2026-10-05T09:00:00+07:00"
+dateModified: "2026-10-05T09:05:00+07:00"
 noindex: true
 scheduled: true
 deck: "Apple phát hành macOS 27 Golden Gate ngày 14/9/2026 và lần đầu tiên trong mười lăm năm, danh sách máy được cập nhật không còn một chiếc Mac chip Intel nào. Với người dùng Việt Nam, câu hỏi thực tế không phải Golden Gate có gì mới, mà là chiếc máy đang dùng còn nằm trong danh sách hay không, nếu bị loại thì còn an toàn bao lâu, và có nên đổi máy ngay hay chờ."
@@ -38,7 +38,7 @@ faq:
   - q: "Có nên nâng cấp lên macOS 27 ngay không?"
     a: "Nếu máy của bạn chỉ dùng cho công việc thông thường và các ứng dụng đều phổ biến, nâng cấp sớm không có gì đáng lo. Nếu bạn phụ thuộc vào một phần mềm chuyên môn, nên kiểm tra trang hỗ trợ của phần mềm đó trước, đặc biệt với phần mềm kế toán, thiết kế, âm thanh và các plugin. Cách an toàn là sao lưu Time Machine đầy đủ trước khi nâng cấp, vì hạ cấp macOS luôn phức tạp hơn nâng cấp."
   - q: "Nếu phải đổi máy, lựa chọn rẻ nhất tại Việt Nam là gì?"
-    a: "Mac mini là đường vào Apple Silicon rẻ nhất nếu bạn đã có màn hình, bàn phím và chuột. Bản Mac mini M6 có giá niêm yết 24,99 triệu đồng tại Việt Nam. Nếu cần máy di động, MacBook Air là lựa chọn phổ thông, bản M5 khởi điểm quanh 29,99 triệu đồng. Với người đang dùng MacBook Pro Intel 16 inch cho công việc nặng, nên so cả hiệu năng lẫn thời lượng pin trước khi chọn giữa Air và Pro, vì khác biệt về pin giữa Intel và Apple Silicon lớn hơn khác biệt về tốc độ."
+    a: "Mac mini là đường vào Apple Silicon rẻ nhất nếu bạn đã có màn hình, bàn phím và chuột. Bản Mac mini M6 có giá niêm yết 24,99 triệu đồng tại Việt Nam. Nếu cần máy di động, MacBook Air là lựa chọn phổ thông, bản M5 khởi điểm 35,999 triệu đồng trên Apple Store Việt Nam (giá đọc ngày 28/09/2026). Với người đang dùng MacBook Pro Intel 16 inch cho công việc nặng, nên so cả hiệu năng lẫn thời lượng pin trước khi chọn giữa Air và Pro, vì khác biệt về pin giữa Intel và Apple Silicon lớn hơn khác biệt về tốc độ."
 related:
   - { href: "/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html", cat: "Laptop", title: "MacBook Air M5 giá bao nhiêu: cấu hình, có nên mua 2026" }
   - { href: "/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html", cat: "Công nghệ", title: "Mac mini M6 giá 24,99 triệu tại Việt Nam: cấu hình, khi nào bán?" }
@@ -119,7 +119,7 @@ Cần nói rõ giới hạn: các tính năng Apple Intelligence phụ thuộc v
 
 Chia theo tình huống sẽ rõ hơn. Nếu bạn đang dùng máy Apple Silicon, việc cần làm chỉ là sao lưu Time Machine rồi cập nhật, ưu tiên chờ thêm vài tuần nếu công việc phụ thuộc vào một phần mềm chuyên môn. Nếu bạn dùng máy Intel, đừng vội đổi máy chỉ vì một bản cập nhật. Ba năm bản vá bảo mật là khoảng thời gian đủ để lên kế hoạch, và quyết định nên dựa trên việc phần mềm của bạn còn hỗ trợ Tahoe bao lâu, chứ không dựa trên tên phiên bản macOS.
 
-Khi đã quyết định đổi, khung giá tại Việt Nam hiện nay khá rõ. Đường lên Apple Silicon rẻ nhất là Mac mini, bản **M6 niêm yết 24,99 triệu đồng**, hợp với người đã có màn hình và bàn phím sẵn, chi tiết cấu hình nằm trong bài [Mac mini M6 giá 24,99 triệu tại Việt Nam](/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html). Nếu cần máy di động, MacBook Air vẫn là lựa chọn phổ thông nhất, bản M5 khởi điểm quanh **29,99 triệu đồng**, phân tích cấu hình và các mức bộ nhớ nằm trong bài [MacBook Air M5 giá bao nhiêu, có nên mua](/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html).
+Khi đã quyết định đổi, khung giá tại Việt Nam hiện nay khá rõ. Đường lên Apple Silicon rẻ nhất là Mac mini, bản **M6 niêm yết 24.999.000đ** trên Apple Store Việt Nam, hợp với người đã có màn hình và bàn phím sẵn, chi tiết cấu hình nằm trong bài [Mac mini M6 giá 24,99 triệu tại Việt Nam](/articles/apple-m6-m5-ultra-ra-mat-gia-mac-mini-mac-studio-viet-nam-2026.html). Nếu cần máy di động, MacBook Air vẫn là lựa chọn phổ thông nhất, bản M5 niêm yết từ **35.999.000đ** trên Apple Store Việt Nam, đại lý như Thế Giới Di Động bán từ khoảng 34,79 triệu (giá đọc ngày 28/09/2026), phân tích cấu hình và các mức bộ nhớ nằm trong bài [MacBook Air M5 giá bao nhiêu, có nên mua](/articles/macbook-air-m5-gia-bao-nhieu-cau-hinh-co-nen-mua-2026.html).
 
 <div class="art-callout">💡 <strong>Trước khi bán máy Intel:</strong> hãy tính cả phần mất giá sắp tới. Thông tin một máy không còn nhận bản macOS mới thường khiến giá bán lại giảm thêm một bậc trong vài tháng sau đó, nên nếu chắc chắn sẽ đổi máy trong năm nay thì bán sớm sẽ được giá tốt hơn bán vào giữa năm sau.</div>
 
