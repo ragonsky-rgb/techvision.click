@@ -590,6 +590,36 @@
       "created": "2026-08-05",
       "checked": "2026-09-28",
       "mention": "AirPods 4"
+    },
+    {
+      "id": "oppo-enco-buds3s",
+      "name": "OPPO Enco Buds3s",
+      "short": "https://s.shopee.vn/9AOycHt9x1",
+      "target": "https://shopee.vn/mall/search?keyword=oppo+enco+buds3s",
+      "subId": "tvaudio",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Buds ?3s"
+    },
+    {
+      "id": "oppo-enco-buds3-pro",
+      "name": "OPPO Enco Buds3 Pro",
+      "short": "https://s.shopee.vn/9KiOoasWc4",
+      "target": "https://shopee.vn/mall/search?keyword=oppo+enco+buds3+pro",
+      "subId": "tvaudio",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Buds ?3 Pro"
+    },
+    {
+      "id": "galaxy-buds-core",
+      "name": "Samsung Galaxy Buds Core",
+      "short": "https://s.shopee.vn/9V1p0trtH7",
+      "target": "https://shopee.vn/mall/search?keyword=galaxy+buds+core",
+      "subId": "tvaudio",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Buds Core"
     }
   ]
 }

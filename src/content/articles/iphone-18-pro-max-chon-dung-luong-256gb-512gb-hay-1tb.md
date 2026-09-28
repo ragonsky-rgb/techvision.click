@@ -5,8 +5,8 @@ description: "Chênh 6,5 triệu giữa bản 256GB và 512GB có đáng không?
 keywords: "iphone 18 pro max dung lượng, iphone 18 pro max 256gb hay 512gb, iphone 18 pro max 1tb, giá iphone 18 pro max các bản, icloud giá việt nam, chọn dung lượng iphone"
 category: "Apple"
 type: "tin-tuc"
-datePublished: "2026-09-30T09:00:00+07:00"
-dateModified: "2026-09-30T09:00:00+07:00"
+datePublished: "2026-11-16T09:00:00+07:00"
+dateModified: "2026-11-16T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Chọn màu thì mất mười giây, chọn dung lượng thì đắn đo cả tuần, vì bước nhảy giữa hai bậc dung lượng của iPhone 18 Pro Max lên tới 6,5 triệu đồng. Bài này quy mọi thứ về cùng một đơn vị đo để so: giá mỗi GB, giá thuê đám mây tại Việt Nam, và tốc độ một thư viện ảnh thật sự phình ra."

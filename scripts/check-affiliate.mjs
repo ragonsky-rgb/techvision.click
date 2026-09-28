@@ -9,7 +9,7 @@
 // Luat (ERROR = thoat ma 1):
 //  - so link: id khong trung, du truong, short la s.shopee.vn, target la shopee.vn/mall/search,
 //    subId chi chu + so, ten san pham khong chua gia
-//  - bai: id co trong so, toi da 3 san pham, KHONG khai cho bai noindex/hen lich,
+//  - bai: id co trong so, toi da 3 san pham, KHONG khai cho bai noindex vinh vien (bai hen lich thi duoc),
 //    `after` phai khop 1 tieu de H2, ten san pham (regex `mention`) phai xuat hien trong bai
 //  - --net: link song, chuyen huong ve dung tu khoa + utm_content = subId
 // Them bao cao: bai nao gan san pham nao, san pham nao chua dung.
@@ -58,7 +58,8 @@ for (const f of readdirSync(ART).filter((x) => x.endsWith('.md')).sort()) {
   const slug = f.slice(0, -3);
   const body = fold(m[2]);
   const tag = `[bai] ${slug}`;
-  if (fm.noindex || fm.scheduled) errors.push(`${tag}: khong gan link cho bai noindex/hen lich`);
+  // Bai hen lich (noindex + scheduled) duoc khai san: layout an khoi toi khi bot tha bai, luc do khoi tu hien.
+  if (fm.noindex && !fm.scheduled) errors.push(`${tag}: khong gan link cho bai noindex vinh vien`);
   if (shop.length > 3) errors.push(`${tag}: ${shop.length} san pham, toi da 3`);
   const h2 = [...body.matchAll(/^## (.+)$/gm)].map((x) => x[1].replace(/\*|`/g, '').trim().toLowerCase());
   for (const s of shop) {
