@@ -38,6 +38,7 @@ for (const l of reg.links) {
   }
   if (!/^https:\/\/s\.shopee\.vn\/[A-Za-z0-9]+$/.test(l.short || '')) errors.push(`${tag}: short khong phai link s.shopee.vn`);
   if (!/^https:\/\/shopee\.vn\/mall\/search\?keyword=[a-z0-9+.\-]+$/.test(l.target || '')) errors.push(`${tag}: target phai la shopee.vn/mall/search?keyword=... (dau +)`);
+  if (l.tiktok && !/^https:\/\/vt\.tiktok\.com\/[A-Za-z0-9_-]+\/$/.test(l.tiktok)) errors.push(`${tag}: tiktok phai la link vt.tiktok.com/.../`);
   if (!/^[A-Za-z0-9]+$/.test(l.subId || '')) errors.push(`${tag}: subId chi duoc chu va so`);
   if (/\d[\d.,]*\s*(tri[eệ]u|đ|vnd|usd)/i.test(l.name || '')) errors.push(`${tag}: ten san pham khong duoc chua gia`);
 }

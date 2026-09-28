@@ -1,4 +1,4 @@
-// Dung khoi "Mua o dau" (Shopee Affiliate) tu truong frontmatter `shop` va so
+// Dung khoi "Mua o dau" (Shopee Affiliate, them TikTok Shop neu dong so link co `tiktok`) tu truong frontmatter `shop` va so
 // link src/data/affiliate-links.json. Chay trong ArticleLayout moi lan build,
 // giong src/lib/read-next.mjs.
 //
@@ -23,7 +23,11 @@ const plain = (html) => html.replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').repl
 function boxHtml(items, n) {
   const links = items.map((l) =>
     `<a class="shop-link" href="${esc(l.short)}" target="_blank" rel="sponsored nofollow noopener" data-aff-product="${esc(l.id)}" data-aff-sub="${esc(l.subId)}">`
-    + `<span class="shop-name">${esc(l.name)}</span><span class="shop-cta">Xem trên Shopee Mall</span></a>`,
+    + `<span class="shop-name">${esc(l.name)}</span><span class="shop-cta">Xem trên Shopee Mall</span></a>`
+    + (l.tiktok
+      ? `<a class="shop-link" href="${esc(l.tiktok)}" target="_blank" rel="sponsored nofollow noopener" data-aff-product="${esc(l.id)}" data-aff-sub="${esc(l.subId)}">`
+        + `<span class="shop-name">${esc(l.name)}</span><span class="shop-cta shop-cta-tiktok">Xem trên TikTok Shop</span></a>`
+      : ''),
   ).join('');
   return `<aside class="shop-box" data-aff-box="shop_box_${n}" aria-label="Mua ở đâu">`
     + `<div class="shop-box-label">Mua ở đâu</div>${links}`
