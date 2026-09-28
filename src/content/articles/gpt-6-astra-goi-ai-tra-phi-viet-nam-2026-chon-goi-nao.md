@@ -14,13 +14,13 @@ heroImage: "https://i.ytimg.com/vi/rAKoXEw1-9k/maxresdefault.jpg"
 heroAlt: "Giao diện ChatGPT với mô hình mới của OpenAI trên màn hình máy tính"
 heroCaption: "GPT-6 Astra được OpenAI đưa vào ChatGPT từ gói Plus trở lên. Ảnh minh họa. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/gpt-6-astra-goi-ai-tra-phi-viet-nam-2026-chon-goi-nao.jpg"
-tldr: "OpenAI phát hành <strong>GPT-6 Astra</strong> ngày <strong>3/9/2026</strong>, với cửa sổ ngữ cảnh <strong>1,05 triệu token</strong> và đầu ra tối đa <strong>128K token</strong>. Mô hình chỉ mở cho <strong>ChatGPT Plus, Pro, Business và Enterprise</strong>, không có ở gói Free và gói Go. Tại Việt Nam, <strong>ChatGPT Go</strong> có giá khoảng <strong>132.000 đồng</strong> mỗi tháng còn <strong>ChatGPT Plus</strong> là <strong>499.000 đồng</strong>. Phía Google, <strong>Google AI Plus</strong> cũng quanh mức <strong>132.000 đồng</strong>, <strong>Google AI Pro</strong> khoảng <strong>489.000 đồng</strong> và <strong>Google AI Ultra</strong> tới <strong>2.250.000 đồng</strong> mỗi tháng. Chênh lệch giữa gói rẻ và gói đắt hiện nằm ở quyền dùng mô hình mạnh nhất chứ không chỉ ở số lượt hỏi."
+tldr: "OpenAI phát hành <strong>GPT-6 Astra</strong> ngày <strong>3/9/2026</strong>, với cửa sổ ngữ cảnh <strong>1,05 triệu token</strong> và đầu ra tối đa <strong>128K token</strong>. Mô hình chỉ mở cho <strong>ChatGPT Plus, Pro, Business và Enterprise</strong>, không có ở gói Free và gói Go. Tại Việt Nam, <strong>ChatGPT Go</strong> có giá khoảng <strong>132.000 đồng</strong> mỗi tháng còn <strong>ChatGPT Plus</strong> là <strong>499.000 đồng</strong>. Phía Google, <strong>Google AI Plus</strong> cũng quanh mức <strong>132.000 đồng</strong>, <strong>Google AI Pro</strong> khoảng <strong>489.000 đồng</strong> và <strong>Google AI Ultra</strong> từ <strong>2.250.000 đồng</strong> mỗi tháng. Chênh lệch giữa gói rẻ và gói đắt hiện nằm ở quyền dùng mô hình mạnh nhất chứ không chỉ ở số lượt hỏi."
 tags: ["AI", "OpenAI", "ChatGPT", "Gemini", "GiaVietNam"]
 about: ["GPT-6 Astra", "OpenAI", "ChatGPT Plus", "Google AI Pro", "Gemini"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường mô hình AI và chi phí thực tế mà người dùng Việt Nam phải trả."
 sourceUrl: "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/"
 sourceName: "9to5Mac - OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra"
-sourceDomains: "9to5mac.com · openai.com · gemini.google · fptshop.com.vn"
+sourceDomains: "9to5mac.com · openai.com · apps.apple.com · one.google.com · vietnamnet.vn · fptshop.com.vn"
 stats:
   - { num: "3/9/2026", label: "Ngày OpenAI phát hành GPT-6 Astra" }
   - { num: "1,05 triệu", label: "Số token tối đa trong một lần trò chuyện với Astra" }
@@ -79,7 +79,7 @@ Khác biệt đó chỉ có nghĩa với một nhóm công việc cụ thể. Ng
 
 ## Giá thật của từng gói tại Việt Nam
 
-Phía OpenAI, gói Go ra mắt tại Việt Nam cùng 15 thị trường châu Á khác với mức 4 USD, tương đương khoảng 132.000 đồng mỗi tháng, và đây là gói trả phí rẻ nhất. Gói Plus giữ mức 499.000 đồng mỗi tháng, là ngưỡng thấp nhất chạm tới Astra. Phía Google, Google AI Plus quanh 132.000 đồng, Google AI Pro khoảng 489.000 đồng và Google AI Ultra lên tới 2.250.000 đồng mỗi tháng cho hạn mức gấp nhiều lần.
+Phía OpenAI, gói Go ra mắt tại Việt Nam cùng 15 thị trường châu Á khác với mức 4 USD, tương đương khoảng 132.000 đồng mỗi tháng, và đây là gói trả phí rẻ nhất. Gói Plus giữ mức 499.000 đồng mỗi tháng, là ngưỡng thấp nhất chạm tới Astra. Phía Google, Google AI Plus 132.000 đồng, Google AI Pro 489.000 đồng và Google AI Ultra từ 2.250.000 đồng mỗi tháng cho hạn mức gấp nhiều lần. Giá đọc ngày 28/09/2026: ChatGPT Go và Plus theo mục mua trong ứng dụng ChatGPT trên App Store Việt Nam, Google AI Plus và Pro theo ứng dụng Gemini trên App Store Việt Nam và trang gói Google One, riêng Google AI Ultra theo VietNamNet và FPT Shop vì trang Google không hiển thị giá gói này cho tài khoản Việt Nam. Trả bằng thẻ trên web, gói Plus tính theo mức 20 USD nên số tiền có thể lệch vài chục nghìn đồng tùy tỷ giá.
 
 Nhìn theo bảng giá, thị trường đang hình thành hai nấc rõ rệt. Nấc khoảng 130.000 đồng dành cho người dùng phổ thông, đủ để bỏ quảng cáo chờ đợi và tăng hạn mức hỏi đáp. Nấc khoảng 500.000 đồng mới mở cửa mô hình mạnh nhất và các tính năng làm việc nhiều bước. Ai đang cân nhắc giữa hai bên có thể tham khảo thêm bối cảnh cạnh tranh trong bài [Gemini đạt 1 tỷ người dùng](/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html).
 

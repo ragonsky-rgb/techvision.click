@@ -6,15 +6,15 @@ keywords: "VNeID miễn giảm phí, tích hợp 5 giấy tờ VNeID, VNeID mứ
 category: "Internet"
 type: "tin-tuc"
 datePublished: "2026-09-28T09:00:00+07:00"
-dateModified: "2026-09-28T09:00:00+07:00"
+dateModified: "2026-09-28T12:56:00+07:00"
 noindex: true
 scheduled: true
-deck: "Một chính sách có hiệu lực từ giữa tháng 8/2026 gắn trực tiếp việc dùng ứng dụng VNeID với tiền: tích hợp đủ 5 loại giấy tờ và làm thủ tục trực tuyến thì được miễn hoặc giảm 10 khoản phí, lệ phí. Mức giảm cao nhất áp dụng cho lệ phí trước bạ và lệ phí đăng ký xe, hai khoản thường lên tới hàng triệu đồng. Bài viết liệt kê điều kiện, danh mục ưu đãi và những giới hạn dễ bị bỏ qua."
+deck: "Một chính sách có hiệu lực từ giữa tháng 8/2026 gắn trực tiếp việc dùng ứng dụng VNeID với tiền: tích hợp đủ 5 loại giấy tờ và làm thủ tục trực tuyến thì được miễn hoặc giảm 10 khoản phí, lệ phí. Ưu đãi có giá trị lớn nhất nằm ở lệ phí trước bạ khi sang tên nhà đất, ô tô và xe máy, khoản thường lên tới hàng triệu đồng. Bài viết liệt kê điều kiện, danh mục ưu đãi và những giới hạn dễ bị bỏ qua."
 heroImage: "https://i.ytimg.com/vi/1c4kGuBKV2w/maxresdefault.jpg"
 heroAlt: "Giao diện ứng dụng VNeID trên điện thoại với các tiện ích tích hợp giấy tờ của công dân"
 heroCaption: "VNeID mở rộng vai trò từ định danh sang cửa vào các dịch vụ công có ưu đãi phí. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/vneid-tich-hop-5-giay-to-mien-giam-10-khoan-phi-le-phi-2026.jpg"
-tldr: "Nghị quyết <strong>66.22/2026/NQ-CP</strong> về phát triển công dân số có hiệu lực từ <strong>15/8/2026 tới 28/2/2027</strong>. Công dân có tài khoản định danh điện tử <strong>mức độ 2</strong>, tích hợp đủ <strong>5 loại giấy tờ và thông tin cơ bản</strong> trên VNeID rồi làm thủ tục hành chính trực tuyến sẽ được miễn hoặc giảm <strong>10 khoản phí, lệ phí</strong>. Năm loại thông tin gồm <strong>giấy khai sinh</strong>, <strong>thông tin ngân hàng hoặc ví điện tử</strong>, <strong>tài khoản bảo hiểm xã hội</strong>, <strong>số điện thoại</strong> và <strong>sổ sức khỏe điện tử</strong>. Mức ưu đãi nổi bật gồm giảm <strong>10% lệ phí trước bạ</strong> khi nhận chuyển nhượng tài sản, giảm <strong>50% lệ phí đăng ký ô tô</strong> và <strong>100% với xe máy</strong>. Ưu đãi áp dụng <strong>một lần mỗi năm</strong>, tối đa không quá <strong>5 lần mức lương cơ sở</strong>, tương đương khoảng <strong>12,65 triệu đồng</strong> theo mức lương cơ sở 2.530.000 đồng áp dụng từ 1/7/2026."
+tldr: "Nghị quyết <strong>66.22/2026/NQ-CP</strong> về phát triển công dân số có hiệu lực từ <strong>15/8/2026 tới 28/2/2027</strong>. Công dân có tài khoản định danh điện tử <strong>mức độ 2</strong>, tích hợp đủ <strong>5 loại giấy tờ và thông tin cơ bản</strong> trên VNeID rồi làm thủ tục hành chính trực tuyến sẽ được miễn hoặc giảm <strong>10 khoản phí, lệ phí</strong>. Năm loại thông tin gồm <strong>giấy khai sinh</strong>, <strong>thông tin ngân hàng hoặc ví điện tử</strong>, <strong>tài khoản bảo hiểm xã hội</strong>, <strong>số điện thoại</strong> và <strong>sổ sức khỏe điện tử</strong>. Mức ưu đãi nổi bật là lệ phí trước bạ: giảm <strong>10% với nhà, đất</strong>, giảm <strong>50% với ô tô chở người đến 9 chỗ</strong> và <strong>100% với xe máy</strong> khi nộp lệ phí trước bạ từ lần thứ hai trở đi, tức mua xe cũ sang tên. Ưu đãi trước bạ áp dụng <strong>một lần cho mỗi loại tài sản trong một năm</strong>, tối đa không quá <strong>5 lần mức lương cơ sở</strong>, tương đương khoảng <strong>12,65 triệu đồng</strong> theo mức lương cơ sở 2.530.000 đồng áp dụng từ 1/7/2026."
 tags: ["VNeID", "DichVuCong", "CongDanSo", "ChinhSach"]
 about: ["VNeID", "Bộ Công an", "Nghị quyết 66.22/2026/NQ-CP", "Định danh điện tử", "Dịch vụ công trực tuyến"]
 authorBio: "Founder LongTechVision. Theo dõi mảng chính phủ số và các ứng dụng công nghệ ảnh hưởng trực tiếp tới người dân."
@@ -26,15 +26,15 @@ stats:
   - { num: "28/2/2027", label: "Ngày chính sách hết hiệu lực theo nghị quyết" }
   - { num: "5 giấy tờ", label: "Số loại thông tin phải tích hợp đủ trên VNeID để đủ điều kiện" }
   - { num: "10 khoản", label: "Số khoản phí, lệ phí được miễn hoặc giảm" }
-  - { num: "100%", label: "Mức giảm lệ phí đăng ký xe máy khi đủ điều kiện" }
-  - { num: "12,65 triệu", label: "Trần ưu đãi mỗi năm, bằng 5 lần mức lương cơ sở 2.530.000 đồng" }
+  - { num: "100%", label: "Mức giảm lệ phí trước bạ xe máy sang tên từ lần thứ hai trở đi" }
+  - { num: "12,65 triệu", label: "Trần giảm lệ phí trước bạ, bằng 5 lần mức lương cơ sở 2.530.000 đồng" }
 faq:
   - q: "Cần tích hợp những giấy tờ nào trên VNeID để được ưu đãi?"
     a: "Theo nghị quyết, công dân phải tích hợp đủ 5 loại thông tin và giấy tờ cơ bản trên ứng dụng VNeID, gồm giấy khai sinh, thông tin tài khoản ngân hàng hoặc ví điện tử, tài khoản bảo hiểm xã hội, số điện thoại di động và sổ sức khỏe điện tử. Thiếu một trong năm mục này thì chưa đủ điều kiện hưởng ưu đãi, dù tài khoản đã ở mức độ 2."
   - q: "Ai đủ điều kiện được miễn giảm phí?"
     a: "Điều kiện gồm ba phần cùng lúc: có tài khoản định danh điện tử mức độ 2, đã tích hợp đủ 5 loại thông tin nêu trên, và thực hiện thủ tục hành chính theo hình thức trực tuyến. Làm thủ tục trực tiếp tại quầy thì không được hưởng, vì mục tiêu của chính sách là khuyến khích chuyển sang dịch vụ công trực tuyến."
   - q: "Mức giảm lệ phí trước bạ và lệ phí đăng ký xe là bao nhiêu?"
-    a: "Lệ phí trước bạ khi nhận chuyển nhượng tài sản được giảm 10%. Với lệ phí đăng ký xe, mức giảm là 50% cho ô tô và 100% cho xe máy. Ưu đãi này áp dụng một lần mỗi năm cho mỗi người, và tổng mức được hưởng không vượt quá 5 lần mức lương cơ sở tại thời điểm kê khai lệ phí trước bạ. Đây là giới hạn quan trọng vì với tài sản giá trị lớn, mức giảm thực nhận sẽ chạm trần chứ không tính đủ theo tỷ lệ phần trăm."
+    a: "Lệ phí trước bạ được giảm 10% với nhà, đất, giảm 50% với ô tô chở người đến 9 chỗ và giảm 100% với xe máy khi nộp trước bạ từ lần thứ hai trở đi, tức trường hợp mua xe cũ sang tên. Lệ phí đăng ký, cấp biển số được miễn với trường hợp đổi chứng nhận đăng ký xe và biển số xe làm trực tuyến. Ưu đãi trước bạ áp dụng một lần cho mỗi loại tài sản của mỗi người trong một năm, và tổng mức được hưởng không vượt quá 5 lần mức lương cơ sở tại thời điểm kê khai lệ phí trước bạ. Đây là giới hạn quan trọng vì với tài sản giá trị lớn, mức giảm thực nhận sẽ chạm trần chứ không tính đủ theo tỷ lệ phần trăm."
   - q: "Ngoài lệ phí xe và trước bạ còn khoản nào được miễn giảm?"
     a: "Danh mục gồm 10 khoản, trong đó có lệ phí cấp đổi thẻ căn cước khi làm qua dịch vụ công trực tuyến, cùng các khoản liên quan tới giấy phép lái xe, hộ chiếu và phiếu lý lịch tư pháp. Mức miễn hoặc giảm khác nhau theo từng khoản. Người dân nên tra cứu danh mục cụ thể trên cổng dịch vụ công trước khi nộp hồ sơ, vì cách áp dụng có thể khác nhau giữa các thủ tục."
   - q: "Chính sách này kéo dài tới bao giờ?"
@@ -55,9 +55,9 @@ Từ ngày 15/8/2026, việc tích hợp giấy tờ trên VNeID không còn ch�
     <tr><td>Điều kiện 1</td><td>Có tài khoản định danh điện tử mức độ 2</td></tr>
     <tr><td>Điều kiện 2</td><td>Tích hợp đủ 5 loại thông tin, giấy tờ cơ bản trên VNeID</td></tr>
     <tr><td>Điều kiện 3</td><td>Thực hiện thủ tục hành chính theo hình thức trực tuyến</td></tr>
-    <tr><td>Lệ phí trước bạ</td><td>Giảm 10% khi nhận chuyển nhượng tài sản</td></tr>
-    <tr><td>Lệ phí đăng ký xe</td><td>Giảm 50% với ô tô, giảm 100% với xe máy</td></tr>
-    <tr><td>Giới hạn</td><td>Áp dụng 1 lần mỗi năm, tối đa không quá 5 lần mức lương cơ sở</td></tr>
+    <tr><td>Lệ phí trước bạ</td><td>Giảm 10% với nhà, đất; giảm 50% với ô tô đến 9 chỗ và 100% với xe máy khi nộp từ lần thứ hai trở đi</td></tr>
+    <tr><td>Lệ phí đăng ký xe</td><td>Miễn khi đổi chứng nhận đăng ký xe và biển số xe</td></tr>
+    <tr><td>Giới hạn</td><td>Trước bạ: 1 lần cho mỗi loại tài sản trong năm, giảm tối đa 5 lần mức lương cơ sở</td></tr>
     <tr><td>Tổng số khoản ưu đãi</td><td>10 khoản phí, lệ phí</td></tr>
   </table>
 </div>
@@ -77,9 +77,9 @@ Trong năm mục này, hai mục thường bị bỏ sót là sổ sức khỏe 
 
 ## Ưu đãi lớn nhất nằm ở lệ phí trước bạ và lệ phí đăng ký xe
 
-Trong danh mục 10 khoản, hai nhóm có giá trị bằng tiền lớn nhất là lệ phí trước bạ và lệ phí đăng ký phương tiện. Lệ phí trước bạ khi nhận chuyển nhượng tài sản được giảm 10%. Với lệ phí đăng ký xe, mức giảm là 50% cho ô tô và 100% cho xe máy, tức là đăng ký xe máy có thể không mất khoản lệ phí này.
+Trong danh mục 10 khoản, hai nhóm có giá trị bằng tiền lớn nhất là lệ phí trước bạ và lệ phí đăng ký phương tiện. Lệ phí trước bạ được giảm 10% với nhà, đất, giảm 50% với ô tô chở người đến 9 chỗ và giảm 100% với xe máy, riêng hai loại xe chỉ áp dụng khi nộp trước bạ từ lần thứ hai trở đi, tức mua xe cũ sang tên. Xe mới mua lần đầu không nằm trong diện này. Với lệ phí đăng ký, cấp biển số, người dân được miễn khi đổi chứng nhận đăng ký xe và biển số xe qua dịch vụ công trực tuyến.
 
-Cần đọc kỹ phần giới hạn vì nó thay đổi đáng kể con số thực nhận. Ưu đãi áp dụng một lần mỗi năm cho mỗi người, và tổng mức được hưởng không vượt quá 5 lần mức lương cơ sở tại thời điểm kê khai lệ phí trước bạ. Với tài sản giá trị lớn, khoản giảm sẽ chạm trần chứ không tính đủ theo tỷ lệ phần trăm. Nói cách khác, tỷ lệ 10% là mức trần lý thuyết, còn số tiền thực tế bị chặn bởi trần tuyệt đối.
+Cần đọc kỹ phần giới hạn vì nó thay đổi đáng kể con số thực nhận. Ưu đãi trước bạ chỉ áp dụng một lần cho mỗi loại tài sản của mỗi người trong một năm, và số tiền được giảm không vượt quá 5 lần mức lương cơ sở tại thời điểm kê khai lệ phí trước bạ. Với tài sản giá trị lớn, khoản giảm sẽ chạm trần chứ không tính đủ theo tỷ lệ phần trăm.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/9cxWftTVJAE/maxresdefault.jpg" alt="Màn hình cổng dịch vụ công trực tuyến hiển thị các thủ tục hành chính của người dân" loading="lazy" width="1280" height="720">
@@ -98,9 +98,9 @@ Chính sách có thời hạn rõ ràng: hết hiệu lực ngày 28/2/2027. Đ�
 
 ## Quy ra tiền: khoản tiết kiệm thực tế là bao nhiêu
 
-Câu hỏi thực tế nhất là mỗi người tiết kiệm được bao nhiêu đồng. Với lệ phí đăng ký xe máy, đây là khoản thấy rõ nhất vì mức giảm là 100%. Theo biểu lệ phí cấp biển số áp dụng từ 1/1/2026, xe máy đăng ký tại khu vực I gồm Hà Nội và TP.HCM chịu mức 700.000 đồng nếu xe trị giá dưới 15 triệu đồng, 1,4 triệu đồng nếu xe trị giá từ 15 tới 40 triệu đồng, và 2,8 triệu đồng nếu xe trị giá trên 40 triệu đồng. Miễn 100% nghĩa là toàn bộ khoản này về 0 khi đủ điều kiện.
+Câu hỏi thực tế nhất là mỗi người tiết kiệm được bao nhiêu đồng. Khoản thấy rõ nhất là lệ phí trước bạ khi mua xe máy cũ sang tên, vì mức giảm là 100%. Xe máy nộp trước bạ từ lần thứ hai trở đi chịu mức 1% giá trị tính lệ phí, nên một chiếc xe cũ được tính 30 triệu đồng sẽ tiết kiệm 300.000 đồng. Với ô tô cũ đến 9 chỗ, mức trước bạ lần thứ hai trở đi là 2%, giảm 50% còn 1%: xe được tính 500 triệu đồng tiết kiệm 5 triệu đồng.
 
-Với lệ phí trước bạ, mức giảm 10% nghe nhỏ nhưng vẫn đáng kể vì gốc tính là giá trị tài sản. Điều cần nhớ là trần tuyệt đối: tổng ưu đãi không vượt quá 5 lần mức lương cơ sở tại thời điểm kê khai. Mức lương cơ sở tăng lên 2.530.000 đồng mỗi tháng từ ngày 1/7/2026, nên trần này tương ứng khoảng 12,65 triệu đồng. Nói cách khác, dù tài sản có giá trị bao nhiêu thì phần được giảm cũng dừng ở con số đó, và ưu đãi chỉ áp dụng một lần mỗi năm.
+Với nhà, đất, lệ phí trước bạ là 0,5% giá trị, nên mức giảm 10% tương đương 0,05% giá trị tài sản: một căn nhà được tính 3 tỷ đồng giảm 1,5 triệu đồng. Điều cần nhớ là trần tuyệt đối: số tiền được giảm không vượt quá 5 lần mức lương cơ sở tại thời điểm kê khai. Mức lương cơ sở tăng lên 2.530.000 đồng mỗi tháng từ ngày 1/7/2026, nên trần này tương ứng khoảng 12,65 triệu đồng. Nói cách khác, dù tài sản có giá trị bao nhiêu thì phần được giảm cũng dừng ở con số đó. Các mức trên đối chiếu lại ngày 28/09/2026 với bản tin của LuatVietnam, VietNamNet và CafeF về nghị quyết.
 
 Cần lưu ý các mức lệ phí trên thay đổi theo khu vực đăng ký và theo văn bản hiện hành, đồng thời mức lương cơ sở là con số có thể được điều chỉnh. Trước khi tính toán, hãy tra cứu lại biểu phí đang áp dụng tại địa phương mình thay vì lấy nguyên con số trong bài làm căn cứ tài chính.
 

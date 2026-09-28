@@ -19,7 +19,7 @@ tags: ["Apple", "iPhoneDuo", "eSIM", "VienThong", "VietNam", "2026"]
 about: ["iPhone Duo", "Apple", "eSIM", "Viettel", "VinaPhone", "MobiFone"]
 authorBio: "Founder LongTechVision. Theo dõi và phân tích các sản phẩm công nghệ và giải trí cho người dùng Việt."
 sourceUrl: "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
-sourceName: "Apple Newsroom, Apple Việt Nam, MacObserver"
+sourceName: "Apple Newsroom, Apple Việt Nam, MacObserver, thông báo giá đổi SIM/eSIM của MobiFone"
 sourceDomains: "apple.com · apple.com/vn · macobserver.com"
 stats:
   - { num: "23/10/2026", label: "Ngày iPhone Duo lên kệ tại Việt Nam và hơn 70 thị trường khác" }
@@ -34,7 +34,7 @@ faq:
   - q: "Ba nhà mạng Việt Nam có hỗ trợ eSIM cho iPhone Duo không?"
     a: "Có. Viettel, VinaPhone và MobiFone đều đã triển khai eSIM từ nhiều năm nay và Apple cũng ghi rõ yêu cầu là nhà mạng phải hỗ trợ eSIM cùng gói cước tương ứng. Nghĩa là về mặt hạ tầng, ba nhà mạng lớn tại Việt Nam không phải rào cản. Khác biệt nằm ở kênh làm thủ tục: Viettel và MobiFone cho phép làm phần lớn quy trình qua ứng dụng hoặc kênh trực tuyến, trong khi VinaPhone ở thời điểm đầu năm 2026 vẫn hướng người dùng ra điểm giao dịch VNPT hoặc VinaPhone kèm giấy tờ. Nếu bạn dùng VinaPhone, nên sắp xếp thời gian ra cửa hàng trước ngày nhận máy thay vì chờ tới lúc cầm máy mới làm."
   - q: "Chuyển từ SIM vật lý sang eSIM mất phí bao nhiêu?"
-    a: "Theo hướng dẫn đang được các hệ thống bán lẻ và trang hỗ trợ nhà mạng công bố, mức phí phổ biến cho một lần đổi sang eSIM ở cả ba nhà mạng là 25.000 đồng cho mỗi SIM, thường trừ thẳng vào tài khoản thuê bao khi làm trực tuyến. Đây là mức tham khảo chứ không phải giá cố định vĩnh viễn: các nhà mạng có điều chỉnh theo từng đợt khuyến mãi, và đã từng có giai đoạn miễn phí hoàn toàn cho khách làm thủ tục trực tuyến. Trước khi ra cửa hàng, nên kiểm tra lại trên ứng dụng chính thức của nhà mạng bạn đang dùng để biết mức phí và hình thức áp dụng ở thời điểm đó."
+    a: "Mức phí khác nhau giữa các nhà mạng. Theo thông báo của MobiFone, từ ngày 01/7/2026 giá đổi eSIM là 50.000 đồng mỗi lần, đã gồm VAT, tăng từ mức 35.000 đồng trước đó. Viettel và VinaPhone điều chỉnh phí theo từng đợt, và Viettel đã có giai đoạn miễn phí cho khách đổi eSIM trực tuyến trên My Viettel. Trước khi ra cửa hàng, nên kiểm tra lại trên ứng dụng chính thức của nhà mạng bạn đang dùng để biết mức phí và hình thức áp dụng ở thời điểm đó."
   - q: "Máy hỏng hoặc mất thì eSIM xử lý thế nào?"
     a: "Đây là tình huống thực tế đáng lo hơn cả chuyện thủ tục ban đầu, vì với SIM vật lý bạn chỉ cần rút ra cắm sang máy khác trong vài giây. Với eSIM, hồ sơ nằm trong chip của máy nên khi máy hỏng nặng hoặc mất, bạn phải liên hệ nhà mạng để được cấp lại hồ sơ eSIM mới cho thiết bị thay thế, kèm xác thực danh tính. Hệ quả thực tế là quãng thời gian mất liên lạc kéo dài hơn, và nếu số điện thoại đó đang gắn với tài khoản ngân hàng hay ứng dụng xác thực hai lớp thì rắc rối nhân lên. Cách phòng tránh đơn giản nhất là đừng để một số duy nhất gánh toàn bộ việc xác thực, và ghi nhớ trước điểm giao dịch gần nhất của nhà mạng."
   - q: "Đi nước ngoài với máy chỉ có eSIM thì sao?"
@@ -48,7 +48,7 @@ related:
 featured: false
 ---
 
-iPhone Duo, chiếc điện thoại gập đầu tiên của Apple, lên kệ tại Việt Nam ngày 23/10/2026 sau khi mở đặt trước từ 19h ngày 16/10. Apple Việt Nam niêm yết bốn mức giá theo dung lượng: 64,999 triệu, 71,499 triệu, 84,499 triệu và 103,999 triệu đồng.
+iPhone Duo, chiếc điện thoại gập đầu tiên của Apple, lên kệ tại Việt Nam ngày 23/10/2026 sau khi mở đặt trước từ 19h ngày 16/10. Apple Việt Nam niêm yết bốn mức giá theo dung lượng: 64,999 triệu, 71,499 triệu, 84,499 triệu và 103,999 triệu đồng (giá đọc ngày 28/09/2026 trên Apple Store trực tuyến Việt Nam). Cùng ngày, Thế Giới Di Động, CellphoneS và FPT Shop đăng bản 256GB giá 64.990.000 đồng.
 
 Phần lớn sự chú ý đổ vào tấm màn hình gập. Nhưng có một chi tiết khác trong bảng thông số kỹ thuật ảnh hưởng tới sinh hoạt hằng ngày của người dùng Việt Nam nhiều hơn thế.
 
@@ -85,7 +85,7 @@ Tin tốt là phần hạ tầng đã sẵn sàng từ lâu. Viettel, VinaPhone 
 
 Điểm khác biệt đáng lưu ý nhất nằm ở VinaPhone. Tính tới đầu năm 2026, nhà mạng này vẫn hướng người dùng ra điểm giao dịch thay vì cho làm trọn gói qua ứng dụng như hai nhà mạng còn lại. Nếu bạn đang dùng VinaPhone và đã đặt trước iPhone Duo, nên chủ động ra cửa hàng làm trước ngày nhận máy, đừng chờ tới lúc cầm hộp máy mới bắt đầu tìm điểm giao dịch gần nhất.
 
-Về phí, mức đang được các hệ thống bán lẻ và trang hỗ trợ nhà mạng công bố là 25.000 đồng cho mỗi lần đổi sang eSIM, thường trừ thẳng vào tài khoản khi làm trực tuyến. Đây là con số tham khảo chứ không cố định: đã từng có giai đoạn miễn phí cho khách làm thủ tục trực tuyến, nên kiểm tra lại trên ứng dụng chính thức trước khi đi là việc nên làm.
+Về phí, mỗi nhà mạng một mức. MobiFone công bố giá đổi eSIM từ ngày 01/7/2026 là 50.000 đồng mỗi lần, đã gồm VAT, tăng từ 35.000 đồng. Viettel và VinaPhone điều chỉnh phí theo từng đợt, Viettel từng có giai đoạn miễn phí cho khách đổi trực tuyến, nên kiểm tra lại trên ứng dụng chính thức trước khi đi là việc nên làm.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/wa143by14Cs/maxresdefault.jpg" alt="Chuyen doi tu SIM vat ly sang eSIM tai cua hang nha mang Viet Nam" loading="lazy" width="1280" height="720">
