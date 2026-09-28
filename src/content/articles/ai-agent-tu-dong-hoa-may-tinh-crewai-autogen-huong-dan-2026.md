@@ -90,7 +90,7 @@ AutoGen của Microsoft tiếp cận theo hướng khác: các agent trò chuy�
   <figcaption>AutoGen của Microsoft cho nhiều agent trò chuyện qua lại để cùng giải quyết vấn đề. Nguồn: YouTube</figcaption>
 </figure>
 
-Nếu cần kiểm soát luồng xử lý phức tạp, LangGraph mô hình hóa agent dưới dạng đồ thị trạng thái, hợp với các quy trình nhiều nhánh và điều kiện. Còn nếu bạn không muốn viết code, các nền tảng kéo thả như n8n hay Flowise cho phép dựng agent bằng giao diện trực quan. Bạn có thể tham khảo thêm nhiều công cụ AI mã nguồn mở trong [bộ sưu tập GitHub repo theo ngành nghề](/tai-nguyen/) của TechVision, nơi có sẵn mục AI và LLM để chạy thử.
+Nếu cần kiểm soát luồng xử lý phức tạp, LangGraph mô hình hóa agent dưới dạng đồ thị trạng thái, hợp với các quy trình nhiều nhánh và điều kiện. Còn nếu bạn không muốn viết code, các nền tảng kéo thả như n8n hay Flowise cho phép dựng agent bằng giao diện trực quan. Nếu muốn xem những repo mã nguồn mở TechVision đang dùng thật hằng ngày (trợ lý AI, skill cho Claude Code, giọng đọc, dựng video), có danh sách kèm cách dùng ở [trang Tài nguyên](/tai-nguyen/).
 
 ## Case study: AI Agent tự cào tin thị trường và viết báo cáo
 
