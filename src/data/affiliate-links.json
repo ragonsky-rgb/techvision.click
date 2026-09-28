@@ -1,0 +1,595 @@
+{
+  "_ghi_chu": "So link Shopee Affiliate cua techvision.click. Moi dong = 1 link rut gon tao o affiliate.shopee.vn > Custom Link. target la trang tim kiem Shopee Mall (ben vinh vien, luon ra hang chinh hang). subId = cum bai de doc Bao cao Shopee theo Sub_id. mention = regex (khong phan biet hoa thuong) bat buoc co trong bai gan san pham. Kiem bang: node scripts/check-affiliate.mjs [--net]. Khong ghi gia o day.",
+  "links": [
+    {
+      "id": "iphone-17-pro-max",
+      "name": "Apple iPhone 17 Pro Max",
+      "short": "https://s.shopee.vn/9fLF1SuwsN",
+      "target": "https://shopee.vn/mall/search?keyword=iphone+17+pro+max",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "iPhone 17 Pro Max"
+    },
+    {
+      "id": "iphone-17",
+      "name": "Apple iPhone 17",
+      "short": "https://s.shopee.vn/AAHVcNt2rU",
+      "target": "https://shopee.vn/mall/search?keyword=iphone+17",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "iPhone 17(?! ?Pro)(?!e)"
+    },
+    {
+      "id": "galaxy-s26-ultra",
+      "name": "Samsung Galaxy S26 Ultra",
+      "short": "https://s.shopee.vn/9zy5Q4tgCT",
+      "target": "https://shopee.vn/mall/search?keyword=galaxy+s26+ultra",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "S26 Ultra"
+    },
+    {
+      "id": "galaxy-s26-fe",
+      "name": "Samsung Galaxy S26 FE",
+      "short": "https://s.shopee.vn/AUuM0zrmBa",
+      "target": "https://shopee.vn/mall/search?keyword=galaxy+s26+fe",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "S26 FE"
+    },
+    {
+      "id": "galaxy-z-fold8",
+      "name": "Samsung Galaxy Z Fold8 (cả bản Ultra)",
+      "short": "https://s.shopee.vn/9zwgPEE40f",
+      "target": "https://shopee.vn/mall/search?keyword=samsung+galaxy+z+fold+8",
+      "subId": "techvisionreviews",
+      "created": "2026-08-05",
+      "checked": "2026-09-28",
+      "mention": "Z ?Fold ?8"
+    },
+    {
+      "id": "galaxy-z-flip8",
+      "name": "Samsung Galaxy Z Flip8",
+      "short": "https://s.shopee.vn/8KprR42O4R",
+      "target": "https://shopee.vn/mall/search?keyword=galaxy+z+flip8",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Z ?Flip ?8"
+    },
+    {
+      "id": "poco-x7",
+      "name": "POCO X7",
+      "short": "https://s.shopee.vn/8pm81z0U3Y",
+      "target": "https://shopee.vn/mall/search?keyword=poco+x7",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "POCO X7"
+    },
+    {
+      "id": "poco-f8-ultra",
+      "name": "POCO F8 Ultra",
+      "short": "https://s.shopee.vn/8fShpg17OX",
+      "target": "https://shopee.vn/mall/search?keyword=poco+f8+ultra",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "F8 Ultra"
+    },
+    {
+      "id": "poco-f8-pro",
+      "name": "POCO F8 Pro",
+      "short": "https://s.shopee.vn/9AOyQazDNe",
+      "target": "https://shopee.vn/mall/search?keyword=poco+f8+pro",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "F8 Pro"
+    },
+    {
+      "id": "redmi-note-17",
+      "name": "Xiaomi Redmi Note 17",
+      "short": "https://s.shopee.vn/905YEHzqid",
+      "target": "https://shopee.vn/mall/search?keyword=redmi+note+17",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Redmi Note 17"
+    },
+    {
+      "id": "redmi-17",
+      "name": "Xiaomi Redmi 17",
+      "short": "https://s.shopee.vn/1BMgtwtc4i",
+      "target": "https://shopee.vn/mall/search?keyword=redmi+17",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Redmi 17"
+    },
+    {
+      "id": "realme-16t",
+      "name": "realme 16T 5G",
+      "short": "https://s.shopee.vn/113GhduFPh",
+      "target": "https://shopee.vn/mall/search?keyword=realme+16t",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "realme 16T"
+    },
+    {
+      "id": "oppo-reno16-f",
+      "name": "OPPO Reno16 F 5G",
+      "short": "https://s.shopee.vn/qjqVKuskg",
+      "target": "https://shopee.vn/mall/search?keyword=oppo+reno16+f",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Reno ?16 F"
+    },
+    {
+      "id": "nokia-3210-4g",
+      "name": "Nokia 3210 4G",
+      "short": "https://s.shopee.vn/gQQJ1vW5f",
+      "target": "https://shopee.vn/mall/search?keyword=nokia+3210+4g",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Nokia 3210"
+    },
+    {
+      "id": "nokia-105-4g",
+      "name": "Nokia 105 4G",
+      "short": "https://s.shopee.vn/1qcNhAr4iu",
+      "target": "https://shopee.vn/mall/search?keyword=nokia+105+4g",
+      "subId": "tvphone",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Nokia 105"
+    },
+    {
+      "id": "macbook-air-m5",
+      "name": "Apple MacBook Air M5",
+      "short": "https://s.shopee.vn/7faAdz1QXv",
+      "target": "https://shopee.vn/mall/search?keyword=macbook+air+m5",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "MacBook Air M5"
+    },
+    {
+      "id": "mac-mini-m6",
+      "name": "Apple Mac mini M6",
+      "short": "https://s.shopee.vn/5VVg409fwW",
+      "target": "https://shopee.vn/mall/search?keyword=mac+mini+m6",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Mac mini M6"
+    },
+    {
+      "id": "asus-proart-p16",
+      "name": "ASUS ProArt P16",
+      "short": "https://s.shopee.vn/5LCFrhAJHV",
+      "target": "https://shopee.vn/mall/search?keyword=asus+proart+p16",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "ProArt P16"
+    },
+    {
+      "id": "asus-proart-px13",
+      "name": "ASUS ProArt PX13",
+      "short": "https://s.shopee.vn/5q8WSc8PGc",
+      "target": "https://shopee.vn/mall/search?keyword=asus+proart+px13",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "ProArt PX13"
+    },
+    {
+      "id": "asus-vivobook-s15",
+      "name": "ASUS Vivobook S 15",
+      "short": "https://s.shopee.vn/5fp6GJ92bb",
+      "target": "https://shopee.vn/mall/search?keyword=vivobook+s15",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Vivobook S ?15"
+    },
+    {
+      "id": "msi-stealth-a16",
+      "name": "MSI Stealth A16 AI+",
+      "short": "https://s.shopee.vn/1AjVtrzG8",
+      "target": "https://shopee.vn/mall/search?keyword=msi+stealth+a16",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Stealth A16"
+    },
+    {
+      "id": "asus-vivobook-15",
+      "name": "ASUS Vivobook 15 X1504VA",
+      "short": "https://s.shopee.vn/BU9iCrLvB",
+      "target": "https://shopee.vn/mall/search?keyword=vivobook+15+x1504va",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Vivobook 15"
+    },
+    {
+      "id": "acer-nitro-v-15",
+      "name": "Acer Nitro V 15",
+      "short": "https://s.shopee.vn/LnZuVqiaE",
+      "target": "https://shopee.vn/mall/search?keyword=acer+nitro+v+15",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Nitro V ?15"
+    },
+    {
+      "id": "lenovo-yoga-pro-7",
+      "name": "Lenovo Yoga Pro 7",
+      "short": "https://s.shopee.vn/W706oq5FH",
+      "target": "https://shopee.vn/mall/search?keyword=lenovo+yoga+pro+7",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Yoga Pro 7"
+    },
+    {
+      "id": "rog-strix-scar-18",
+      "name": "ASUS ROG Strix Scar 18",
+      "short": "https://s.shopee.vn/20vntZkNCa",
+      "target": "https://shopee.vn/mall/search?keyword=rog+strix+scar+18",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Strix Scar 18"
+    },
+    {
+      "id": "laptop-asus-rog-rtx5070",
+      "name": "Laptop ASUS ROG RTX 5070",
+      "short": "https://s.shopee.vn/W706pBG1C",
+      "target": "https://shopee.vn/mall/search?keyword=laptop+asus+rog+rtx+5070",
+      "subId": "tvlaptop",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "RTX 5070"
+    },
+    {
+      "id": "rtx-5090",
+      "name": "Card đồ họa RTX 5090",
+      "short": "https://s.shopee.vn/113GhkVLuU",
+      "target": "https://shopee.vn/mall/search?keyword=rtx+5090",
+      "subId": "tvpc",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "RTX 5090"
+    },
+    {
+      "id": "rtx-5070-ti",
+      "name": "Card đồ họa RTX 5070 Ti",
+      "short": "https://s.shopee.vn/1BMgu3UiZX",
+      "target": "https://shopee.vn/mall/search?keyword=rtx+5070+ti",
+      "subId": "tvpc",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "RTX 5070 Ti"
+    },
+    {
+      "id": "ssd-nvme",
+      "name": "SSD NVMe gắn trong",
+      "short": "https://s.shopee.vn/1AjVuZ9wK",
+      "target": "https://shopee.vn/mall/search?keyword=ssd+nvme",
+      "subId": "tvpc",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "SSD"
+    },
+    {
+      "id": "ssd-di-dong",
+      "name": "SSD di động",
+      "short": "https://s.shopee.vn/BU9iDYWbN",
+      "target": "https://shopee.vn/mall/search?keyword=ssd+di+dong",
+      "subId": "tvpc",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "di động"
+    },
+    {
+      "id": "ram-laptop-ddr5",
+      "name": "RAM laptop DDR5",
+      "short": "https://s.shopee.vn/LnZuWXtGQ",
+      "target": "https://shopee.vn/mall/search?keyword=ram+laptop+ddr5",
+      "subId": "tvpc",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "RAM"
+    },
+    {
+      "id": "galaxy-buds-4-pro",
+      "name": "Samsung Galaxy Buds4 Pro",
+      "short": "https://s.shopee.vn/BU9iDvPvI",
+      "target": "https://shopee.vn/mall/search?keyword=galaxy+buds+4+pro",
+      "subId": "tvaudio",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Buds ?4 Pro"
+    },
+    {
+      "id": "sony-wf-1000xm5",
+      "name": "Sony WF-1000XM5",
+      "short": "https://s.shopee.vn/9V0PoJFy1c",
+      "target": "https://shopee.vn/mall/search?keyword=sony+wf-1000xm5",
+      "subId": "techvisionreviews",
+      "created": "2026-08-05",
+      "checked": "2026-09-28",
+      "mention": "WF-1000XM5"
+    },
+    {
+      "id": "redmi-headphones-neo",
+      "name": "REDMI Headphones Neo",
+      "short": "https://s.shopee.vn/W706pu9FO",
+      "target": "https://shopee.vn/mall/search?keyword=redmi+headphones",
+      "subId": "tvaudio",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Redmi Headphones"
+    },
+    {
+      "id": "huawei-watch-gt-6",
+      "name": "HUAWEI WATCH GT 6",
+      "short": "https://s.shopee.vn/1BMgu4DKkw",
+      "target": "https://shopee.vn/mall/search?keyword=huawei+watch+gt+6",
+      "subId": "tvwear",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Watch GT 6"
+    },
+    {
+      "id": "amazfit-t-rex-ultra-2",
+      "name": "Amazfit T-Rex Ultra 2",
+      "short": "https://s.shopee.vn/113GhlDy5v",
+      "target": "https://shopee.vn/mall/search?keyword=amazfit+t+rex+ultra",
+      "subId": "tvwear",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "T-Rex Ultra"
+    },
+    {
+      "id": "redmi-watch-6",
+      "name": "Xiaomi Redmi Watch 6",
+      "short": "https://s.shopee.vn/1VzXIgC452",
+      "target": "https://shopee.vn/mall/search?keyword=redmi+watch+6",
+      "subId": "tvwear",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Redmi Watch 6"
+    },
+    {
+      "id": "galaxy-watch-9",
+      "name": "Samsung Galaxy Watch9",
+      "short": "https://s.shopee.vn/AKZWnqCnKl",
+      "target": "https://shopee.vn/mall/search?keyword=samsung+galaxy+watch+9",
+      "subId": "techvisionreviews",
+      "created": "2026-08-05",
+      "checked": "2026-09-28",
+      "mention": "Galaxy Watch ?9"
+    },
+    {
+      "id": "galaxy-watch-ultra-2",
+      "name": "Samsung Galaxy Watch Ultra 2",
+      "short": "https://s.shopee.vn/1qcNhIAnP8",
+      "target": "https://shopee.vn/mall/search?keyword=galaxy+watch+ultra",
+      "subId": "tvwear",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Ultra 2"
+    },
+    {
+      "id": "huawei-matepad-11-5",
+      "name": "HUAWEI MatePad 11.5 PaperMatte",
+      "short": "https://s.shopee.vn/70KTqnCAA2",
+      "target": "https://shopee.vn/mall/search?keyword=huawei+matepad+11.5",
+      "subId": "tvtablet",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "MatePad 11[.,]5"
+    },
+    {
+      "id": "huawei-matepad-12-x",
+      "name": "HUAWEI MatePad 12 X",
+      "short": "https://s.shopee.vn/7Adu36BWp5",
+      "target": "https://shopee.vn/mall/search?keyword=huawei+matepad+12+x",
+      "subId": "tvtablet",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "MatePad 12 X"
+    },
+    {
+      "id": "honor-magicpad-3-pro",
+      "name": "HONOR MagicPad 3 Pro",
+      "short": "https://s.shopee.vn/60RwexFyBs",
+      "target": "https://shopee.vn/mall/search?keyword=honor+magicpad+3",
+      "subId": "tvtablet",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "MagicPad 3"
+    },
+    {
+      "id": "dji-mavic-4-pro",
+      "name": "DJI Mavic 4 Pro",
+      "short": "https://s.shopee.vn/8AWREwUtAx",
+      "target": "https://shopee.vn/mall/search?keyword=dji+mavic+4+pro",
+      "subId": "tvgadget",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "Mavic 4 Pro"
+    },
+    {
+      "id": "sony-wf-c510-sale",
+      "name": "Sony WF-C510",
+      "short": "https://s.shopee.vn/9V1opOkIcA",
+      "target": "https://shopee.vn/mall/search?keyword=sony+wf+c510",
+      "subId": "tvsale",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "WF-C510"
+    },
+    {
+      "id": "sony-wh-1000xm5",
+      "name": "Sony WH-1000XM5",
+      "short": "https://s.shopee.vn/5VUGzSpgej",
+      "target": "https://shopee.vn/mall/search?keyword=sony+wh-1000xm5",
+      "subId": "techvisionreviews",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "WH-1000XM5"
+    },
+    {
+      "id": "airpods-pro-3-sale",
+      "name": "Apple AirPods Pro 3",
+      "short": "https://s.shopee.vn/9AOyQmlZI8",
+      "target": "https://shopee.vn/mall/search?keyword=airpods+pro+3",
+      "subId": "tvsale",
+      "created": "2026-09-28",
+      "checked": "2026-09-28",
+      "mention": "AirPods Pro 3"
+    },
+    {
+      "id": "galaxy-s25-ultra",
+      "name": "Samsung Galaxy S25 Ultra",
+      "short": "https://s.shopee.vn/6L3NyzmVxq",
+      "target": "https://shopee.vn/mall/search?keyword=samsung+galaxy+s25+ultra",
+      "subId": "techvisionreviews",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "S25 Ultra"
+    },
+    {
+      "id": "redmi-note-15-pro",
+      "name": "Xiaomi Redmi Note 15 Pro",
+      "short": "https://s.shopee.vn/1BLHqMSZ76",
+      "target": "https://shopee.vn/mall/search?keyword=redmi+note+15+pro",
+      "subId": "techvisionsale29",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "Redmi Note 15 Pro"
+    },
+    {
+      "id": "galaxy-a56",
+      "name": "Samsung Galaxy A56",
+      "short": "https://s.shopee.vn/111re3TCS5",
+      "target": "https://shopee.vn/mall/search?keyword=samsung+galaxy+a56",
+      "subId": "techvisionsale29",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "Galaxy A56"
+    },
+    {
+      "id": "redmi-buds-8",
+      "name": "Xiaomi Redmi Buds 8",
+      "short": "https://s.shopee.vn/qiRRkTpn4",
+      "target": "https://shopee.vn/mall/search?keyword=redmi+buds+8",
+      "subId": "techvisionsale29",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "Redmi Buds 8"
+    },
+    {
+      "id": "soundpeats-air5-lite",
+      "name": "Soundpeats Air5 Lite",
+      "short": "https://s.shopee.vn/gP1FRUT83",
+      "target": "https://shopee.vn/mall/search?keyword=soundpeats+air5+lite",
+      "subId": "techvisionsale29",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "Air5 Lite"
+    },
+    {
+      "id": "ugreen-100w",
+      "name": "Sạc dự phòng UGREEN 20000mAh 100W",
+      "short": "https://s.shopee.vn/1qaydaQ1lI",
+      "target": "https://shopee.vn/mall/search?keyword=ugreen+20000mah+100w",
+      "subId": "techvisionsale29",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "UGREEN"
+    },
+    {
+      "id": "iphone-16-pro-max",
+      "name": "Apple iPhone 16 Pro Max",
+      "short": "https://s.shopee.vn/6Ajxmgn9In",
+      "target": "https://shopee.vn/mall/search?keyword=iphone+16+pro+max",
+      "subId": "techvisionreviews",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "iPhone 16 Pro Max"
+    },
+    {
+      "id": "macbook-air-m4",
+      "name": "Apple MacBook Air M4",
+      "short": "https://s.shopee.vn/6VMoBIlsct",
+      "target": "https://shopee.vn/mall/search?keyword=macbook+air+m4",
+      "subId": "techvisionreviews",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "MacBook Air M4"
+    },
+    {
+      "id": "asus-zenbook-14-oled",
+      "name": "ASUS Zenbook 14 OLED",
+      "short": "https://s.shopee.vn/5LAqn9qJzg",
+      "target": "https://shopee.vn/mall/search?keyword=asus+zenbook+14+oled",
+      "subId": "techvisionreviews",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "Zenbook 14"
+    },
+    {
+      "id": "airpods-pro-2",
+      "name": "Apple AirPods Pro 2",
+      "short": "https://s.shopee.vn/4qEaCNntyz",
+      "target": "https://shopee.vn/mall/search?keyword=airpods+pro+2",
+      "subId": "techvisionreviews",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "AirPods Pro 2"
+    },
+    {
+      "id": "anker-65w-gan",
+      "name": "Sạc Anker 65W GaN",
+      "short": "https://s.shopee.vn/50Y0OgnGe2",
+      "target": "https://shopee.vn/mall/search?keyword=anker+65w+gan",
+      "subId": "techvisionreviews",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "Anker"
+    },
+    {
+      "id": "logitech-mx-master-3s",
+      "name": "Logitech MX Master 3S",
+      "short": "https://s.shopee.vn/5ArQazmdJ5",
+      "target": "https://shopee.vn/mall/search?keyword=logitech+mx+master+3s",
+      "subId": "techvisionreviews",
+      "created": "2026-08-04",
+      "checked": "2026-09-28",
+      "mention": "MX Master 3S"
+    },
+    {
+      "id": "airpods-4",
+      "name": "Apple AirPods 4",
+      "short": "https://s.shopee.vn/AUsx09C9zm",
+      "target": "https://shopee.vn/mall/search?keyword=airpods+4",
+      "subId": "techvisionreviews",
+      "created": "2026-08-05",
+      "checked": "2026-09-28",
+      "mention": "AirPods 4"
+    }
+  ]
+}

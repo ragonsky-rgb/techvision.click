@@ -59,6 +59,16 @@ const articles = defineCollection({
       title: z.string(),
     })).default([]),
 
+    // Khối "Mua ở đâu" (Shopee Affiliate). `id` tra trong src/data/affiliate-links.json,
+    // `after` là một đoạn chữ trong tiêu đề H2 của mục nói về sản phẩm: khối được
+    // chèn sau đoạn văn đầu tiên của mục đó. Nhiều sản phẩm cùng `after` gộp chung
+    // một khối. Tối đa 3 sản phẩm/bài, không khai cho bài noindex/hẹn lịch
+    // (scripts/check-affiliate.mjs chặn). Không ghi giá: giá trên sàn đổi liên tục.
+    shop: z.array(z.object({
+      id: z.string(),
+      after: z.string().optional(),
+    })).default([]),
+
     // about[] cho JSON-LD (dùng Thing, tránh lỗi product-snippet)
     about: z.array(z.string()).default([]),
 

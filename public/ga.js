@@ -12,3 +12,22 @@
   gtag('js', new Date());
   gtag('config', GA_ID);
 })();
+
+// Do click link tiep thi lien ket (Shopee Affiliate). Bat o 1 cho duy nhat
+// nay de phu ca bai markdown (khoi "Mua o dau" do ArticleLayout dung tu
+// src/data/affiliate-links.json), trang /reviews.html lan bai HTML cu co link
+// chen tay. So sanh voi bao cao Shopee theo sub_id de biet bai nao ra don.
+document.addEventListener('click', function (e) {
+  var a = e.target && e.target.closest ? e.target.closest('a[href*="s.shopee.vn"], a[href*="shope.ee"]') : null;
+  if (!a || typeof window.gtag !== 'function') return;
+  var box = a.closest('[data-aff-box]');
+  window.gtag('event', 'affiliate_click', {
+    aff_network: 'shopee',
+    aff_product: a.getAttribute('data-aff-product') || (a.textContent || '').trim().slice(0, 80),
+    aff_sub_id: a.getAttribute('data-aff-sub') || '',
+    link_position: box ? box.getAttribute('data-aff-box') : 'inline',
+    page_path: location.pathname,
+    link_url: a.href,
+    transport_type: 'beacon'
+  });
+}, true);

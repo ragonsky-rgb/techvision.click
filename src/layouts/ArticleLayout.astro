@@ -5,7 +5,7 @@ const {
   datePublished, dateModified,
   deck, heroImage, heroAlt, heroCaption, ogImage, tldr, tags,
   stats, videos, faq, sourceUrl, sourceName, sourceDomains,
-  related, about, authorBio, noindex,
+  related, about, authorBio, noindex, shop,
 } = data;
 
 const SITE = 'https://techvision.click';
@@ -24,8 +24,10 @@ const bio = authorBio || 'Founder LongTechVision. Theo dõi tin tức công ngh�
 // mới thêm sau vẫn khai được mà không cần chạy lại bảng.
 import ogSizes from '../data/og-image-sizes.json';
 import { withReadNext } from '../lib/read-next.mjs';
+import { withShopBox } from '../lib/shop-box.mjs';
 // Than bai render thanh chuoi de dien hop "Doc tiep" vao giua (xem src/lib/read-next.mjs)
-const bodyHtml = await withReadNext(await Astro.slots.render('default'), related);
+// Khoi "Mua o dau" (Shopee Affiliate) chen sau doan dau cua muc nhac san pham (xem src/lib/shop-box.mjs)
+const bodyHtml = withShopBox(await withReadNext(await Astro.slots.render('default'), related), shop, { noindex });
 const heroSize = (() => {
   const known = ogSizes[heroImage];
   if (known) return { width: known[0], height: known[1] };
@@ -214,6 +216,16 @@ const breadcrumbLd = {
     .read-next-title { font-family: var(--serif); font-size: 1rem; line-height: 1.4; }
     .read-next-link:hover .read-next-title { color: var(--accent); }
     .read-next-title::after { content: ' →'; color: var(--accent); }
+    /* Khối "Mua ở đâu" (Shopee Affiliate), dựng bởi src/lib/shop-box.mjs */
+    .shop-box { margin: 1.8rem 0; padding: 1rem 1.2rem; border: 1px solid var(--line); border-left: 3px solid #ee4d2d; font-family: var(--sans); }
+    .shop-box-label { font-size: .62rem; letter-spacing: .22em; text-transform: uppercase; color: var(--dim); margin-bottom: .45rem; }
+    .shop-link { display: flex; justify-content: space-between; align-items: center; gap: .8rem; min-height: 44px; padding: .5rem 0; text-decoration: none; color: var(--text); }
+    .shop-link + .shop-link { border-top: 1px solid var(--line); }
+    .shop-name { font-family: var(--serif); font-size: 1rem; line-height: 1.35; }
+    .shop-cta { flex-shrink: 0; font-size: .78rem; font-weight: 600; color: #ee4d2d; white-space: nowrap; }
+    .shop-cta::after { content: ' →'; }
+    .shop-link:hover .shop-name { color: var(--accent); }
+    .shop-note { margin: .6rem 0 0 !important; font-size: .74rem !important; line-height: 1.5 !important; color: var(--dim); }
 
     /* Bảng Markdown thuần trong thân bài (không phải spec-box) */
     .art-body table:not(.spec-box table) { width: 100%; border-collapse: collapse; margin: 1.4rem 0; font-family: var(--sans); font-size: .88rem; }
