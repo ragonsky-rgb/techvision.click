@@ -5,10 +5,8 @@ description: "OPPO Enco Buds3s mở bán tại Việt Nam, niêm yết 990.000đ
 keywords: "oppo enco buds3s, enco buds3s giá, oppo enco buds 3s, tai nghe oppo dưới 1 triệu, enco buds3s có chống ồn không, enco buds3s vs buds3 pro, tai nghe true wireless pin trâu"
 category: "Âm thanh"
 type: "tin-tuc"
-datePublished: "2026-09-30T09:00:00+07:00"
-dateModified: "2026-09-30T09:00:00+07:00"
-noindex: true
-scheduled: true
+datePublished: "2026-09-28T16:30:00+07:00"
+dateModified: "2026-09-28T16:30:00+07:00"
 deck: "OPPO Enco Buds3s lên kệ OPPO Store Việt Nam từ 25/9 với giá niêm yết 990.000đ, và đang có ưu đãi mở bán 690.000đ tới hết 11/10. Pin 12 giờ mỗi lần sạc là điểm mạnh thật, nhưng máy không có chống ồn chủ động và gần như trùng thông số với Enco Buds3 Pro đời trước."
 heroImage: "https://i.ytimg.com/vi/LvdeuJACVAU/maxresdefault.jpg"
 ogImage: "https://techvision.click/uploads/og-article/oppo-enco-buds3s-gia-viet-nam-pin-54-gio-co-nen-mua-2026.jpg"
