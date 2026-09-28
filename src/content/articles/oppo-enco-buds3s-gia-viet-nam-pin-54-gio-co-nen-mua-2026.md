@@ -6,7 +6,7 @@ keywords: "oppo enco buds3s, enco buds3s giá, oppo enco buds 3s, tai nghe oppo 
 category: "Âm thanh"
 type: "tin-tuc"
 datePublished: "2026-09-28T16:30:00+07:00"
-dateModified: "2026-09-28T21:40:00+07:00"
+dateModified: "2026-09-28T22:43:00+07:00"
 deck: "OPPO Enco Buds3s lên kệ OPPO Store Việt Nam từ 25/9 với giá niêm yết 990.000đ, và đang có ưu đãi mở bán 690.000đ tới hết 11/10. Pin 12 giờ mỗi lần sạc là điểm mạnh thật, nhưng máy không có chống ồn chủ động và gần như trùng thông số với Enco Buds3 Pro đời trước."
 heroImage: "https://techvision.click/images/oppo-enco-buds3s-gia-viet-nam-pin-54-gio-co-nen-mua-2026/enco-buds3s-hop-sac-mo.jpg"
 ogImage: "https://techvision.click/uploads/og-article/oppo-enco-buds3s-gia-viet-nam-pin-54-gio-co-nen-mua-2026.jpg"
@@ -99,8 +99,8 @@ Việt Nam không phải thị trường đầu tiên. Enco Buds3s mở bán ở
 Con số đáng chú ý nhất là 12 giờ nghe liên tục cho mỗi lần sạc tai nghe. OPPO gọi đây là thời lượng pin dài nhất từ trước tới nay trên tai nghe không dây của hãng, và nói nó lâu hơn 40% so với Enco Buds2 Pro. Để dễ hình dung, 12 giờ đủ cho một ngày làm việc đeo tai nghe liên tục mà không cần cất vào hộp, và hộp sạc 560 mAh bơm thêm khoảng bốn lần sạc đầy. OPPO cũng cam kết pin còn ít nhất 80% dung lượng sau 1.000 chu kỳ sạc, tức khoảng ba năm nếu mỗi ngày sạc một lần.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/Uo4Q4nXGvwo/maxresdefault.jpg" alt="Kenh Dedy Irvan danh gia OPPO Enco Buds3s voi pin 12 gio va ung dung chinh EQ" loading="lazy" width="1280" height="720">
-  <figcaption>Video đánh giá của kênh Dedy Irvan (Indonesia) nhấn vào pin 12 giờ và ứng dụng chỉnh EQ, hai điểm được nhắc nhiều nhất ở thị trường ra mắt trước Việt Nam. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/oppo-enco-buds3s-gia-viet-nam-pin-54-gio-co-nen-mua-2026/enco-buds3s-sac-nhanh-10-phut.jpg" alt="Hop sac OPPO Enco Buds3s mau den cam cap USB-C, sac 10 phut nghe 8 gio" loading="lazy" width="1600" height="731">
+  <figcaption>Sạc nhanh qua cổng USB-C: 10 phút sạc cho khoảng 8 giờ nghe nhạc nếu tính cả hộp. Ảnh chính thức. Nguồn: OPPO Việt Nam</figcaption>
 </figure>
 
 Phần còn lại ở mức đủ dùng cho tầm giá. Chuẩn IP55 chịu được mồ hôi và mưa nhỏ, nhưng OPPO ghi rõ hộp sạc không kháng nước và hư hỏng do nước không được bảo hành. Độ trễ 47 ms ở chế độ chơi game là số đo trong phòng thí nghiệm của OPPO, với máy OPPO chế độ này tự bật, còn máy hãng khác phải bật tay trong ứng dụng HeyMelody. Codec chỉ có AAC và SBC, không có LDAC, nên đừng kỳ vọng chất âm độ phân giải cao.
@@ -110,8 +110,8 @@ Phần còn lại ở mức đủ dùng cho tầm giá. Chuẩn IP55 chịu đư
 Đây là chỗ dễ hiểu nhầm nhất. Trang quảng cáo của OPPO nhắc tới "Khử Ồn Cuộc Gọi AI", nhưng tính năng này chỉ dùng hai micro để lọc tiếng gió và tiếng ồn xung quanh khỏi giọng bạn khi gọi điện, giúp người ở đầu dây bên kia nghe rõ hơn. Nó không làm giảm tiếng ồn mà chính bạn nghe thấy. Trang thông số của OPPO ở Việt Nam, Singapore, Malaysia, Indonesia và Thái Lan đều không liệt kê chống ồn chủ động (ANC) hay mức dB nào.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/G_zn_thsEQQ/maxresdefault.jpg" alt="Nguoi deo tai nghe OPPO Enco Buds3s mau den trong video danh gia cua kenh Sobat HAPE" loading="lazy" width="1280" height="720">
-  <figcaption>Enco Buds3s là tai nghe dạng nhét tai có núm silicon, tự cách âm một phần nhờ độ kín của núm tai chứ không có mạch chống ồn chủ động. Nguồn: YouTube (kênh Sobat HAPE)</figcaption>
+  <img decoding="async" src="https://techvision.click/images/oppo-enco-buds3s-gia-viet-nam-pin-54-gio-co-nen-mua-2026/enco-buds3s-tron-bo-nut-tai.jpg" alt="Tron bo OPPO Enco Buds3s trong hop gom tai nghe, hop sac mau den va cac co nut tai silicon" loading="lazy" width="1600" height="853">
+  <figcaption>Trọn bộ trong hộp có thêm các cỡ núm tai silicon. Máy chỉ cách âm thụ động nhờ độ kín của núm tai, không có mạch chống ồn chủ động. Ảnh chính thức. Nguồn: OPPO Việt Nam</figcaption>
 </figure>
 
 Điều này quan trọng vì ở tầm giá dưới 1 triệu đồng, chống ồn chủ động không còn là thứ xa xỉ. Samsung Galaxy Buds Core có ANC và đang bán 990.000đ tại Thế Giới Di Động, realme Buds T200 được ghi chống ồn 32 dB với giá 775.000đ. Nếu bạn mua tai nghe để đi xe buýt, tàu điện hay ngồi quán cà phê đông người, Enco Buds3s sẽ không cắt được tiếng xe cộ hay tiếng máy lạnh, và bạn sẽ phải tăng âm lượng, vừa hao pin vừa hại tai.
@@ -147,8 +147,8 @@ Vậy nên mua bản nào? Enco Buds3 Pro đang bán 870.000đ tại Thế Giớ
 Bảng trên cho thấy vị trí khá rõ của Enco Buds3s: pin dài nhất nhóm, giá ưu đãi thấp nhất nhóm, nhưng là mẫu duy nhất cùng Buds3 Pro không có chống ồn chủ động. Cách tính pin "tổng" giữa các hãng có thể khác nhau, nên hãy xem đây là mức tham chiếu chứ không phải phép đo cùng điều kiện. Nếu bạn cần cả pin trâu lẫn chống ồn, realme Buds T200 là điểm cân bằng đáng xem, còn Galaxy Buds Core hợp hơn với người dùng điện thoại Samsung.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/1d-8hMVk4mo/maxresdefault.jpg" alt="Kenh DKID Media gioi thieu tinh nang dich thuat AI va cham de chup anh tren OPPO Enco Buds3s" loading="lazy" width="1280" height="720">
-  <figcaption>Hai tính năng AI Translate và chạm để chụp ảnh được giới thiệu nhiều trong các video nước ngoài, nhưng chỉ chạy đầy đủ khi ghép với điện thoại OPPO đời mới. Nguồn: YouTube (kênh DKID Media)</figcaption>
+  <img decoding="async" src="https://techvision.click/images/oppo-enco-buds3s-gia-viet-nam-pin-54-gio-co-nen-mua-2026/enco-buds3s-dich-thuat-ai.jpg" alt="Tinh nang dich thuat AI cua OPPO Enco Buds3s hien tren man hinh dien thoai OPPO" loading="lazy" width="1480" height="960">
+  <figcaption>Dịch thuật AI hiển thị trên điện thoại, nhưng chỉ chạy khi ghép với một số máy OPPO chạy ColorOS 15 trở lên. Dùng iPhone hay Android hãng khác thì không có tính năng này. Ảnh chính thức. Nguồn: OPPO Việt Nam</figcaption>
 </figure>
 
 Muốn xem thêm các lựa chọn theo từng mức tiền, từ dưới 1 triệu tới cao cấp, bạn có thể đọc bài [tai nghe true wireless đáng mua theo túi tiền](/articles/tai-nghe-true-wireless-dang-mua-2026-theo-tui-tien.html). Nếu ưu tiên chống ồn mạnh và chấp nhận trả cao hơn, [Redmi Buds 8 với chống ồn 50 dB](/articles/redmi-buds-8-ra-mat-viet-nam-anc-50db-2026.html) là một mốc để so.
