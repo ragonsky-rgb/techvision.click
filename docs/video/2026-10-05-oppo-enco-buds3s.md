@@ -1,11 +1,11 @@
 # Video: OPPO Enco Buds3s 690.000đ, pin 54 giờ, không chống ồn (dự kiến CN 05/10/2026 19:00)
 
-Trạng thái: **CHỜ anh Long duyệt bảng media + kịch bản** (28/09/2026). Chưa dựng, chưa đăng.
+Trạng thái: **ĐANG DỰNG trên Mac 28/09/2026** (anh Long duyệt media + bỏ hết ảnh màu xanh). Chưa đăng.
 
-- Giọng: đã đọc 11/14 câu trên Mac (`techvision-video-kit/out/enco-buds3s/raw_parts/p01-p11.wav`). **Còn thiếu p12, p13, p14.** Ngày 28/9, OmniVoice trên Mac đẩy GPU lên khoảng 85% làm máy anh Long bị lag, nên đã dừng. Ba câu còn lại đọc trên PC (khoảng 4 giây mỗi câu), hoặc đọc trên Mac lúc anh không dùng máy. Muốn giọng đều thì đọc lại cả 14 câu trên PC.
-- Bài dẫn về: `/articles/oppo-enco-buds3s-gia-viet-nam-pin-54-gio-co-nen-mua-2026.html`, hẹn lịch **30/09 09:00**, có khối "Mua ở đâu" gồm 3 link Shopee (Buds3s, Buds3 Pro, Galaxy Buds Core). Tới ngày đăng video, trang đã mở được 5 ngày.
+- Giọng: đủ 14 câu đọc trên Mac 28/9 qua `scripts/gpu_guard.py --max 85` (tạm dừng OmniVoice mỗi khi GPU chạm 80%, máy anh Long không lag). Whisper soát đủ số. Câu 2 thu lại: bản đầu đọc lộn, bản mới dính tạp âm giọng mẫu ở 2 giây đầu nên cắt từ chữ "Máy" (mốc Whisper). Bản cũ ở `asr/p02_old.wav`.
+- Bài dẫn về: `/articles/oppo-enco-buds3s-gia-viet-nam-pin-54-gio-co-nen-mua-2026.html`, **đã đăng sớm 28/09 16:30** (anh Long duyệt vượt trần 2 bài/ngày một lần), khối "Mua ở đâu" gồm 3 link Shopee (Buds3s, Buds3 Pro, Galaxy Buds Core) đã hiện.
 - Kiểu dựng: **ảnh và clip THẬT làm chủ đạo**, gồm ảnh chính hãng OPPO, clip quảng cáo OPPO Indonesia khổ dọc và clip đường phố Việt Nam từ Pexels. Thẻ số chỉ là nhãn đè lên hình. Không dùng Flow, không sinh hình.
-- Dựng bằng `scripts/build_buds3s.py voice|still|render` (chưa viết, chép khung từ `build_gbook.py`). Giọng tua 1,2x, phụ đề word-pop đỏ #C0392B. Khung đầu là con số 690.000đ, câu cuối mời theo dõi và nói rõ người xem nhận được gì.
+- Dựng bằng `scripts/build_buds3s.py voice|still|render`. Trên Mac: `VIDEO_THREADS=4 nice -n 15 python3 scripts/gpu_guard.py --max 85 -- python3 scripts/build_buds3s.py render`. Giọng tua 1,2x, phụ đề word-pop đỏ #C0392B. Khung đầu là con số 690.000đ, câu cuối mời theo dõi và nói rõ người xem nhận được gì.
 
 ## Số liệu (đọc tận gốc 28/9/2026)
 
@@ -26,19 +26,19 @@ Phụ đề = `caps_lines.txt` (số giữ nguyên). Giọng = `script_voice.txt
 | # | Phụ đề | Hình (xem bảng media) |
 |---|---|---|
 | 1 | OPPO Enco Buds3s: 690.000đ, pin 54 giờ. | 02 toàn khung + nhãn "690.000đ" |
-| 2 | Mở bán tại Việt Nam từ 25/9, niêm yết 990.000đ. | 07 + nhãn "Việt Nam chỉ có màu Đen Nhám" |
+| 2 | Mở bán tại Việt Nam từ 25/9, niêm yết 990.000đ. | 02 dạng khung, cận hộp sạc + nhãn "Việt Nam chỉ có màu Đen Nhám" |
 | 3 | Mức 690.000đ là ưu đãi mở bán, tới hết 11/10. | clip 14 (quán cà phê) + nhãn "tới 11/10" |
 | 4 | Giá đó chỉ có ở OPPO Store. Shopee Mall của hãng để 890.000đ, 4 chuỗi lớn chưa có hàng. | 04 dạng khung + bảng 3 dòng giá |
 | 5 | Điểm mạnh nhất là pin: 12 giờ mỗi lần sạc, 54 giờ tính cả hộp. | clip 13 (đi làm, tàu điện) + nhãn "12 giờ / 54 giờ" |
 | 6 | Sạc 10 phút, nghe được 8 giờ nếu tính cả hộp. | clip 15 (chạy bộ) + nhãn "10 phút = 8 giờ" |
 | 7 | Màng loa 12,4 mm phủ titan, Bluetooth 5.4, kết nối 2 máy cùng lúc. | 12 dạng khung (driver) |
-| 8 | Chơi game có độ trễ 47 ms, tai nghe kháng nước IP55. | clip 18 (game) rồi ảnh 11 (giọt nước) |
+| 8 | Chơi game có độ trễ 47 ms, tai nghe kháng nước IP55. | clip 18 (game, phủ dải tối lên chữ tiếng Indonesia) rồi clip 17 (macro tai đen) |
 | 9 | Điểm trừ: không có chống ồn chủ động, chỉ có 2 micro lọc ồn khi gọi. | clip 20 (ngã tư TP.HCM đêm) + nhãn đỏ "KHÔNG chống ồn chủ động" |
 | 10 | Tính năng dịch thuật AI chỉ chạy trên một số máy OPPO đời mới. | clip 16 (cận góc nghiêng đeo tai nghe) |
-| 11 | Thông số gần trùng Enco Buds3 Pro, mẫu này TGDĐ đang bán 870.000đ. | 08 dạng khung (trọn bộ) + nhãn giá |
+| 11 | Thông số gần trùng Enco Buds3 Pro, mẫu này TGDĐ đang bán 870.000đ. | clip 17 từ giây 1,4 (macro tai đen) + nhãn giá |
 | 12 | Cần chống ồn dưới 1 triệu thì xem Galaxy Buds Core, giá 990.000đ. | clip 19 (đường phố Việt Nam ban ngày) |
-| 13 | Buds3s đáng mua ở giá 690.000đ nếu bạn cần pin trâu, không cần chống ồn. | clip 17 (macro) |
-| 14 | Theo dõi TechVision để biết giá thật trước khi mua tai nghe, điện thoại. | thẻ chốt trên nền 07 + techvision.click |
+| 13 | Buds3s đáng mua ở giá 690.000đ nếu bạn cần pin trâu, không cần chống ồn. | clip 14 từ giây 1,3 (nhét tai nghe, hộp đen trên bàn) |
+| 14 | Theo dõi TechVision để biết giá thật trước khi mua tai nghe, điện thoại. | thẻ chốt trên nền 02 + techvision.click |
 
 **Soát Whisper:** câu 7 đọc "mười hai phẩy bốn" (bẫy nuốt chữ "phẩy"). Nếu Whisper không nghe ra thì đọc lại thành "mười hai chấm bốn mi li mét" hoặc "hơn mười hai mi li mét". Phụ đề vẫn giữ 12,4 mm. Tên đọc mới cần soát: "En cô Bát ba ét", "Galaxy Bát Co", "IP năm lăm", "mi li giây".
 
@@ -50,11 +50,8 @@ File ở `techvision-video-kit/out/enco-buds3s/media/` (ngoài git), bảng đ�
 |---|---|---|---|---|
 | 02 | Hộp sạc đen mở nắp, 2 tai nghe bay | Ảnh: OPPO | oppo.com, trang Enco Buds3s | dùng (khung đầu) |
 | 04 | Cặp tai nghe đen, nền trong | Ảnh: OPPO | như trên | dùng |
-| 07 | Hai hộp sạc đen và xanh, ảnh dọc key visual | Ảnh: OPPO | như trên | dùng |
-| 08 | Trọn bộ hộp giấy + hộp sạc + tai nghe | Ảnh: OPPO | như trên | dùng |
-| 11 | Tai nghe với giọt nước (IP55) | Ảnh: OPPO | như trên | dùng |
 | 12 | Driver tách lớp, chữ "12.4mm" | Ảnh: OPPO | như trên | dùng |
-| 01, 03, 05, 06 | Bản màu xanh (Việt Nam không bán màu này) | Ảnh: OPPO | như trên | dự phòng, hạn chế |
+| 01, 03, 05, 06, 07, 08, 11 | Có hộp hoặc tai màu xanh | Ảnh: OPPO | như trên | **KHÔNG dùng**: Việt Nam chỉ bán Đen Nhám (anh Long chốt 28/9) |
 | 09, 10 | Ảnh người đeo tai nghe | Ảnh: OPPO | như trên | **KHÔNG dùng**: trang OPPO ghi một số ảnh do AI tạo hoặc chỉnh sửa, không chắc ảnh nào |
 | 13 | Clip đi làm, tàu điện (3,5s) | Video: OPPO | YouTube OPPO Indonesia AV7Kh7xMyZ0, 3,42-6,92s | dùng |
 | 14 | Clip quán cà phê, nhét tai nghe (3,0s) | Video: OPPO | như trên, 7,71-10,67s | dùng |
