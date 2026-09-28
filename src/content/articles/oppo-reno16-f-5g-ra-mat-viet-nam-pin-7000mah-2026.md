@@ -41,6 +41,9 @@ related:
   - { href: "/articles/iqoo-15-snapdragon-8-elite-gen-5-pin-7000mah-gia-2026.html", cat: "Smartphone", title: "iQOO 15: chip 8 Elite Gen 5, pin 7.000mAh, giá bao nhiêu?" }
   - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro ra mắt: pin 9.000mAh, giá từ 1.599 tệ" }
 featured: true
+shop:
+  - id: oppo-reno16-f
+    after: "Vị trí cạnh tranh"
 ---
 
 Phân khúc smartphone tầm trung tại Việt Nam tiếp tục sôi động khi OPPO chính thức đưa Reno16 F 5G lên kệ, phiên bản phổ thông nhất trong bộ ba Reno16 Series vừa ra mắt đầu tháng 7, được định vị nhắm tới nhóm khách hàng ưu tiên thời lượng pin bền bỉ cho nhu cầu sử dụng cả ngày dài.

@@ -44,6 +44,11 @@ related:
   - { href: "/articles/iphone-18-thuong-lui-2027-apple-thang-9-chi-co-pro-va-ultra.html", cat: "Apple", title: "iPhone 18 thường lùi sang 2027, tháng 9 chỉ có Pro và Ultra" }
   - { href: "/articles/chip-a20-pro-iphone-18-pro-2nm-manh-co-nao-2026.html", cat: "Apple", title: "Chip A20 Pro iPhone 18 Pro: bước nhảy 2nm mạnh cỡ nào?" }
 featured: false
+shop:
+  - id: iphone-17
+    after: "Giá iPhone 17 và iPhone 16 Pro Max"
+  - id: iphone-16-pro-max
+    after: "Giá iPhone 17 và iPhone 16 Pro Max"
 ---
 
 Mọi năm, lời khuyên mua iPhone gần như là một câu tự động: cứ chờ tới tháng 9 rồi tính. Năm 2026 thì câu đó không còn đúng nữa, và lý do rất cụ thể. Apple đã xác nhận sự kiện ngày 9/9, nhưng theo hàng loạt nguồn tin quốc tế, đợt này công ty **không** ra iPhone 18 bản thường. Ai đang chờ đúng bản đó sẽ phải đợi thêm tới tận mùa xuân 2027.

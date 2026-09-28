@@ -42,6 +42,9 @@ related:
   - { href: "/articles/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia.html", cat: "Smartphone", title: "Galaxy Z Flip 8: cấu hình, sạc 45W, giá ra mắt" }
   - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại Việt Nam: mở bán tháng 8" }
 featured: true
+shop:
+  - id: galaxy-z-fold8
+    after: "Nên chọn Galaxy Z Fold 8 hay bản Ultra"
 ---
 
 Samsung vừa chính thức trình làng Galaxy Z Fold 8 tại sự kiện Galaxy Unpacked ngày 22 tháng 7 năm 2026 ở London, khép lại chuỗi rò rỉ kéo dài nhiều tháng. Đây không đơn thuần là bản nâng cấp thường niên, mà là thế hệ Fold thay đổi lớn về kiểu dáng với màn hình rộng hơn và trọng lượng nhẹ kỷ lục. Cùng lúc, Samsung giới thiệu thêm bản Galaxy Z Fold 8 Ultra hướng tới người dùng cần camera và cấu hình cao cấp nhất. Bài viết tổng hợp thông tin chính thức về hai phiên bản, kèm bối cảnh giá bán tại Việt Nam.

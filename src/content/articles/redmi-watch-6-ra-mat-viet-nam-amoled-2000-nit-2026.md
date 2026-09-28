@@ -41,6 +41,9 @@ related:
   - { href: "/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html", cat: "Smartphone", title: "Huawei Watch GT 6 ra mắt Việt Nam: pin 21 ngày, từ 4,99 triệu" }
   - { href: "/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html", cat: "Smartphone", title: "HUAWEI Watch GT 6 ra mắt Việt Nam, pin 21 ngày" }
 featured: false
+shop:
+  - id: redmi-watch-6
+    after: "Trải nghiệm thực tế"
 ---
 
 Phân khúc đồng hồ thông minh tầm giá 3 triệu đồng tại Việt Nam tiếp tục trở nên sôi động khi Xiaomi chính thức đưa REDMI Watch 6 lên kệ, mẫu sản phẩm được kỳ vọng sẽ tạo sức ép đáng kể lên các đối thủ cùng phân khúc nhờ loạt nâng cấp đáng chú ý về màn hình, thời lượng pin và độ chính xác định vị.

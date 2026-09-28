@@ -42,6 +42,9 @@ related:
   - { href: "/articles/galaxy-z-fold-8-vs-z-fold-8-ultra-so-sanh-chon-ban-nao-2026.html", cat: "Smartphone", title: "Galaxy Z Fold8 và Z Fold8 Ultra: so sánh chọn bản nào" }
   - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá đặt trước Galaxy Z Fold8 và Z Flip8 tại Việt Nam" }
 featured: false
+shop:
+  - id: galaxy-z-fold8
+    after: "Giá và lời khuyên"
 ---
 
 Lần đầu tiên trong lịch sử, người dùng sắp có thể đặt một chiếc iPhone gập lên bàn cân với Galaxy Z Fold. Đây là cuộc đối đầu giữa hai triết lý trái ngược trong cùng một phân khúc siêu cao cấp. Galaxy Z Fold8 đã ra mắt chính thức tại Galaxy Unpacked ngày 22/7/2026 với thông số minh bạch, trong khi iPhone Duo vẫn nằm trong vùng tin đồn nhưng đã đủ chi tiết để phác họa. Bài viết đặt hai máy cạnh nhau trên năm khía cạnh quan trọng nhất để bạn hình dung nên chọn hướng nào.

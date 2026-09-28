@@ -43,6 +43,9 @@ related:
   - { href: "/articles/huawei-watch-gt-6-ra-mat-viet-nam-pin-21-ngay-2026.html", cat: "Smartphone", title: "Huawei Watch GT 6 ra mắt Việt Nam: pin 21 ngày, từ 4,99 triệu" }
   - { href: "/articles/redmi-watch-6-ra-mat-viet-nam-amoled-2000-nit-2026.html", cat: "Wearable", title: "Redmi Watch 6 ra mắt Việt Nam: AMOLED 2000 nit, giá 2,99 triệu" }
 featured: true
+shop:
+  - id: redmi-buds-8
+    after: "Lựa chọn màu sắc"
 ---
 
 Phân khúc tai nghe true wireless giá phổ thông tại Việt Nam tiếp tục sôi động khi Xiaomi chính thức đưa REDMI Buds 8 lên kệ, mẫu tai nghe được định vị mang tới loạt tính năng vốn thường chỉ xuất hiện trên các sản phẩm cao cấp hơn nhưng với mức giá chưa tới 2 triệu đồng.

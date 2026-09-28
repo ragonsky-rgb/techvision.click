@@ -47,6 +47,11 @@ related:
   - { href: "/articles/dien-thoai-duoi-10-trieu-dang-mua-nua-cuoi-2026.html", cat: "Smartphone", title: "Điện thoại dưới 10 triệu đáng mua nửa cuối 2026" }
   - { href: "/articles/top-dien-thoai-manh-nhat-antutu-thang-8-2026-xep-hang.html", cat: "Smartphone", title: "Top điện thoại mạnh nhất AnTuTu tháng 8/2026: iQOO dẫn đầu" }
 featured: true
+shop:
+  - id: iphone-17-pro-max
+    after: "Phân khúc flagship"
+  - id: galaxy-s26-ultra
+    after: "Phân khúc flagship"
 ---
 
 Bài viết này được đối chiếu lại toàn bộ giá tại CellphoneS trong ngày 9/9/2026, và kết quả cho thấy vài thay đổi đáng kể chỉ sau một tháng. Galaxy S26 Ultra tăng giá thay vì giảm. Ba mẫu tầm trung và giá rẻ phổ biến chuyển sang trạng thái hết hàng. Còn món đáng tiền nhất hiện nay lại là một chiếc máy đời trước. Dưới đây là danh sách theo từng nhóm giá, kèm giá thực tế và tình trạng hàng của từng máy để bạn biết cái nào mua được ngay.

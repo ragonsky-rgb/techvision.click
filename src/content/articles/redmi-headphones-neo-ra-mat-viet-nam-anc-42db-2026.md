@@ -40,6 +40,9 @@ related:
   - { href: "/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html", cat: "Smartphone", title: "Xiaomi 17T Series ra mắt 28/5: Leica 5x zoom, pin 6.500mAh, giá từ 12.9 triệu tại Việt Nam" }
   - { href: "/articles/xiaomi-17-max-pin-8000mah-camera-200mp-leica-gia-viet-nam-2026.html", cat: "Smartphone", title: "Xiaomi 17 Max vừa ra mắt: Pin 8.000mAh, Camera Leica 200MP, Giá Xách Tay Việt Nam Dự Kiến Bao Nhiêu?" }
 featured: true
+shop:
+  - id: redmi-headphones-neo
+    after: "Vị trí cạnh tranh"
 ---
 
 Phân khúc tai nghe chụp tai (over-ear) tại Việt Nam đón nhận thêm một tân binh đáng chú ý khi Xiaomi chính thức đưa REDMI Headphones Neo lên kệ, đánh dấu lần đầu tiên thương hiệu REDMI thử sức ở định dạng tai nghe over-ear sau nhiều năm chỉ tập trung vào các dòng true wireless quen thuộc.

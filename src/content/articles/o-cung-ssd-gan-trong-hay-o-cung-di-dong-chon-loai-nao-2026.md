@@ -41,6 +41,11 @@ related:
   - { href: "/articles/hdmi-hay-displayport-chon-cong-nao-pc-man-hinh-2026.html", cat: "Công nghệ", title: "HDMI hay DisplayPort? Chọn cổng nào cho PC, màn hình 2026" }
   - { href: "/articles/xiaomi-17-vs-iqoo-15-camera-leica-hay-gaming-chon-may-nao-2026.html", cat: "Smartphone", title: "Xiaomi 17 vs iQOO 15: camera Leica hay gaming, chọn máy nào?" }
 featured: false
+shop:
+  - id: ssd-nvme
+    after: "Giá và nên chọn"
+  - id: ssd-di-dong
+    after: "Giá và nên chọn"
 ---
 
 Khi cần thêm dung lượng lưu trữ, nhiều người phân vân giữa ổ SSD gắn trong và ổ cứng di động gắn ngoài, hai giải pháp phục vụ những mục đích khác nhau. SSD gắn trong lắp vào bên trong máy tính, cho tốc độ truy xuất nhanh, phù hợp để cài hệ điều hành, phần mềm và chạy các tác vụ nặng cần tốc độ, giúp máy khởi động và mở ứng dụng nhanh, nhưng cố định trong máy. Ổ cứng di động gắn ngoài kết nối qua cổng USB, tiện mang theo, dễ cắm rút giữa nhiều máy, phù hợp để sao lưu dữ liệu, mở rộng dung lượng và di chuyển file, nhưng tốc độ phụ thuộc vào cổng kết nối và loại ổ. Vì mỗi loại có thế mạnh riêng, việc so sánh là xác định bạn cần lưu trữ để làm gì và coi trọng tốc độ hay tính di động. Bài viết này so sánh chi tiết hai giải pháp để giúp bạn chọn đúng.

@@ -42,6 +42,13 @@ related:
   - { href: "/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html", cat: "Laptop", title: "Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu" }
   - { href: "/articles/iphone-fold-vs-galaxy-z-fold-8-so-sanh-chon-may-nao-2026.html", cat: "Smartphone", title: "iPhone Duo vs Galaxy Z Fold8: chọn điện thoại gập nào 2026" }
 featured: false
+shop:
+  - id: redmi-note-15-pro
+    after: "Redmi Note 15 Pro 5G"
+  - id: galaxy-a56
+    after: "Galaxy A56 và A36"
+  - id: poco-x7
+    after: "POCO X7 và OPPO A6 Pro"
 ---
 
 Phân khúc dưới 10 triệu đồng đang là chiến trường sôi động nhất của thị trường smartphone Việt Nam nửa cuối 2026. Chỉ với ngân sách này, người dùng phổ thông giờ đây đã có thể sở hữu máy dùng chip 4nm mạnh mẽ, màn hình AMOLED 120Hz, pin dung lượng lớn, camera độ phân giải cao và cả chuẩn kháng nước từng chỉ thấy trên máy cao cấp. Bài viết điểm qua 5 mẫu đáng mua nhất, nêu rõ cấu hình và giá tham khảo, kèm gợi ý chọn máy theo từng nhu cầu cụ thể. Nếu muốn nhìn toàn cảnh mọi phân khúc từ giá rẻ tới flagship, bạn có thể xem thêm bài [top điện thoại đáng mua tháng 7/2026 theo phân khúc giá](/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html), còn bài này đào sâu riêng tầm dưới 10 triệu.

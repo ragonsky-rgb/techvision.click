@@ -42,6 +42,9 @@ related:
   - { href: "/articles/chip-a20-pro-iphone-18-pro-2nm-manh-co-nao-2026.html", cat: "Smartphone", title: "Chip A20 Pro iPhone 18 Pro: bước nhảy 2nm mạnh cỡ nào" }
   - { href: "/articles/top-dien-thoai-dang-mua-thang-7-2026-moi-phan-khuc.html", cat: "Smartphone", title: "Top điện thoại đáng mua tháng 9/2026: chọn theo phân khúc" }
 featured: true
+shop:
+  - id: galaxy-s26-ultra
+    after: "Giá tại Việt Nam và lời khuyên"
 ---
 
 Cuối năm 2026, người mua smartphone cao cấp lại đứng trước lựa chọn quen thuộc mỗi mùa iPhone: nên mua ngay chiếc Galaxy S26 Ultra đang bán và đã được kiểm chứng, hay kiên nhẫn chờ iPhone 18 Pro Max ra mắt mùa thu với con chip A20 Pro tiến trình 2nm cùng viên pin lớn hơn. Một bên là sản phẩm hoàn thiện, có giá, có hàng và đã qua thử lửa thực tế. Bên kia là loạt rò rỉ hấp dẫn nhưng chưa thể chạm tay. Bài viết so sánh hai máy trên các trục quan trọng nhất để bạn quyết định. Xin nhấn mạnh: thông số iPhone 18 Pro Max vẫn là tin đồn, còn Galaxy S26 Ultra là thông tin chính thức.

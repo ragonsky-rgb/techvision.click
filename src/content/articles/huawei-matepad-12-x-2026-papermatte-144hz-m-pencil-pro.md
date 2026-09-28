@@ -40,6 +40,9 @@ faq:
 related:
   - { href: "/articles/huawei-matepad-11-5-papermatte-2026-ra-mat-viet-nam.html", cat: "Công nghệ", title: "Huawei MatePad 11.5 PaperMatte 2026 ra mắt Việt Nam" }
 featured: true
+shop:
+  - id: huawei-matepad-12-x
+    after: "Giá bán và vị trí"
 ---
 
 Trong khi phần lớn máy tính bảng vẫn được xem là thiết bị giải trí, Huawei nhiều năm qua kiên trì đẩy dòng MatePad theo hướng công cụ làm việc và sáng tạo. MatePad 12 X 2026 là bước tiếp theo của chiến lược đó. Máy không chạy đua cấu hình theo kiểu phô diễn, mà tập trung vào trải nghiệm viết, vẽ và làm việc di động, với điểm nhấn là màn hình PaperMatte thế hệ mới cùng bộ phụ kiện đi kèm.

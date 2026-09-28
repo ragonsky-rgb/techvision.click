@@ -41,6 +41,9 @@ related:
   - { href: "/articles/gia-smartphone-cao-cap-viet-nam-tang-manh-2026-thieu-chip-nho.html", cat: "Công nghệ", title: "Giá smartphone cao cấp tại Việt Nam tăng mạnh năm 2026" }
   - { href: "/articles/xiaomi-17t-series-ra-mat-28-5-2026-leica-5x-pin-6500mah-gia-viet-nam.html", cat: "Smartphone", title: "Xiaomi 17T Series ra mắt 28/5: Leica 5x zoom, pin 6.500mAh, giá từ 12.9 triệu tại Việt Nam" }
 featured: false
+shop:
+  - id: realme-16t
+    after: "Vị thế tại thị trường Việt Nam"
 ---
 
 Realme tiếp tục khẳng định vị thế thương hiệu chuyên về pin trâu và hiệu năng trên giá tiền với sự xuất hiện của Realme 16T 5G tại thị trường Việt Nam. Trong một phân khúc tầm trung ngày càng đông đúc, chiếc máy này chọn cách gây ấn tượng bằng một thông số cực kỳ nổi bật: viên pin dung lượng khủng 8.000mAh, hứa hẹn giải quyết triệt để nỗi lo về thời lượng sử dụng.

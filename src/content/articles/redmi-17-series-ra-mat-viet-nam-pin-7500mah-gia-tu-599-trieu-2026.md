@@ -42,6 +42,9 @@ related:
   - { href: "/articles/iqoo-z11-pin-9020mah-silicon-carbon-dimensity-7500-turbo-2026.html", cat: "Smartphone", title: "iQOO Z11: pin 9020mAh kỷ lục, chip Dimensity 7500 Turbo" }
   - { href: "/articles/poco-m8-power-5g-pin-8000mah-ra-mat-gia-du-kien-viet-nam-2026.html", cat: "Smartphone", title: "POCO M8 Power pin 8000mAh ra mắt, giá dự kiến về Việt Nam" }
 featured: true
+shop:
+  - id: redmi-17
+    after: "Giá bán và các phiên bản"
 ---
 
 Redmi 17 Series đã chính thức mở bán tại thị trường Việt Nam từ ngày 7/8/2026, tiếp tục củng cố vị thế của Xiaomi trong phân khúc smartphone phổ thông. Bộ đôi gồm Redmi 17 và Redmi 17 5G hướng tới nhóm người dùng cần một chiếc máy pin lớn, dùng bền cả ngày với mức giá dễ tiếp cận. Điểm nhấn đáng chú ý nhất của dòng máy là viên pin 7.500mAh, thuộc nhóm dung lượng cao hàng đầu trong tầm giá, kết hợp màn hình 6,9 inch tần số quét 120Hz cho trải nghiệm mượt mà hơn khi lướt và xem nội dung.

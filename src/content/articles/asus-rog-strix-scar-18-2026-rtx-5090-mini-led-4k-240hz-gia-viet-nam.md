@@ -42,6 +42,9 @@ related:
   - { href: "/articles/asus-rog-flow-z13-ryzen-ai-max-395-may-tinh-bang-gaming-2026.html", cat: "Laptop", title: "ROG Flow Z13: máy tính bảng gaming Ryzen AI Max+ 395 mạnh nhất" }
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Laptop", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
 featured: false
+shop:
+  - id: rog-strix-scar-18
+    after: "Giá bán và cấu hình"
 ---
 
 ASUS ROG Strix Scar 18 2026, mã máy G835, đã mở bán tại thị trường Việt Nam từ ngày 7/8/2026 với vị thế là một trong những laptop gaming đầu bảng đáng chú ý nhất năm. Máy quy tụ gần như mọi công nghệ cao cấp nhất hiện có trong một cỗ máy di động: card đồ họa RTX 5090 Laptop, vi xử lý Intel Core Ultra 9 290HX Plus, và đặc biệt là màn hình Mini-LED 4K 240Hz thuộc nhóm đầu tiên xuất hiện trên laptop. Với mức giá 179,99 triệu đồng, đây là sản phẩm dành cho game thủ và nhà sáng tạo nội dung xác định đầu tư nghiêm túc vào thiết bị làm việc.

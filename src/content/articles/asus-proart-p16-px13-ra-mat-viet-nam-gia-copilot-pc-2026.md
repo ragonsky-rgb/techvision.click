@@ -43,6 +43,11 @@ related:
   - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Công nghệ", title: "Realme 16T 5G pin 8.000mAh ra mắt Việt Nam, giá từ 7 triệu" }
   - { href: "/articles/asus-rog-flow-z13-ryzen-ai-max-395-may-tinh-bang-gaming-2026.html", cat: "Laptop", title: "ASUS ROG Flow Z13 chip Ryzen AI Max+ 395: máy tính bảng gaming" }
 featured: true
+shop:
+  - id: asus-proart-p16
+    after: "ProArt P16:"
+  - id: asus-proart-px13
+    after: "ProArt PX13:"
 ---
 
 ASUS chính thức đưa bộ đôi laptop đồ họa ProArt P16 và ProArt PX13 về thị trường Việt Nam từ ngày 15 tháng 7 năm 2026, hai mẫu máy hướng tới nhóm người làm sáng tạo chuyên nghiệp. Cả hai đều thuộc chuẩn Copilot+ PC, sở hữu màn hình OLED chuẩn màu và chip AMD Ryzen AI thế hệ mới, đại diện cho hướng đi laptop tích hợp sâu năng lực AI mà nhiều hãng đang theo đuổi trong năm nay.

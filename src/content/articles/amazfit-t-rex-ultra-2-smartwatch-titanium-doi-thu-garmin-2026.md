@@ -39,6 +39,9 @@ related:
   - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?" }
   - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 ra mắt: giá 399 USD, thêm loạt chỉ số sức khỏe" }
 featured: false
+shop:
+  - id: amazfit-t-rex-ultra-2
+    after: "Lựa chọn thay thế Garmin"
 ---
 
 Trong thế giới smartwatch thể thao, Garmin từ lâu được xem là chuẩn mực, nhưng cái giá đi kèm không hề dễ chịu. Đó chính là khoảng trống mà Amazfit T-Rex Ultra 2 nhắm tới. Với khung titanium bền bỉ, định vị GPS chính xác và loạt tính năng chuyên sâu, chiếc đồng hồ này mang tới trải nghiệm gần với các dòng cao cấp nhưng ở mức giá dễ tiếp cận hơn nhiều, biến nó thành lựa chọn đáng chú ý cho người mê vận động.

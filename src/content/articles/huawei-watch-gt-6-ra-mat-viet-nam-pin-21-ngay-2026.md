@@ -42,6 +42,9 @@ related:
   - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ra-mat-chinh-thuc-gia-viet-nam-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2 giá bao nhiêu tại Việt Nam?" }
   - { href: "/articles/redmi-watch-6-ra-mat-viet-nam-amoled-2000-nit-2026.html", cat: "Wearable", title: "Redmi Watch 6 ra mắt Việt Nam: AMOLED 2000 nit, giá 2,99 triệu" }
 featured: true
+shop:
+  - id: huawei-watch-gt-6
+    after: "Vị trí trong phân khúc"
 ---
 
 Thị trường smartwatch tại Việt Nam vừa đón nhận thêm một lựa chọn đáng chú ý khi HUAWEI chính thức trình làng HUAWEI Watch GT 6 Series, dòng đồng hồ thông minh được định vị nhắm vào nhóm người dùng ưu tiên thời lượng pin bền bỉ kết hợp cùng loạt tính năng theo dõi sức khỏe và thể thao chuyên sâu.

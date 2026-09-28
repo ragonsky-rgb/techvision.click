@@ -43,6 +43,9 @@ related:
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Laptop", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
   - { href: "/articles/top-laptop-ai-copilot-pc-dang-mua-nua-cuoi-2026-theo-nhu-cau.html", cat: "Laptop", title: "Top laptop AI Copilot+ PC đáng mua nửa cuối 2026 theo nhu cầu" }
 featured: true
+shop:
+  - id: laptop-asus-rog-rtx5070
+    after: "Chọn cấu hình nào"
 ---
 
 ASUS ROG vừa mở đặt trước dải laptop gaming mới trang bị card đồ họa NVIDIA GeForce RTX 5070 và RTX 5060 tại Việt Nam, gồm những cái tên quen thuộc như ROG Strix G16 và G18, Zephyrus G14 mỏng nhẹ và TUF Gaming A14 giá mềm hơn. Với người dùng trong nước, đây là đợt đáng chú ý vì RTX 50-series là thế hệ card di động hiện hành, nhưng đợt mở bán lại rơi đúng lúc giá RAM và linh kiện đang leo thang vì cơn sốt AI. Bài viết tổng hợp cấu hình, giá tham khảo tại các đại lý Việt Nam và phân tích nên chọn máy nào theo túi tiền.

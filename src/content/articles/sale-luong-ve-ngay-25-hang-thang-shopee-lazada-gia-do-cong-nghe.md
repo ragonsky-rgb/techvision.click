@@ -44,6 +44,9 @@ related:
   - { href: "/articles/san-sale-cong-nghe-le-2-9-2026-meo-deal-dang-san.html", cat: "Công nghệ", title: "Săn sale công nghệ lễ 2/9/2026: mẹo và deal đáng săn" }
   - { href: "/articles/tai-nghe-true-wireless-dang-mua-2026-theo-tui-tien.html", cat: "Âm thanh", title: "Tai nghe true wireless đáng mua 2026 theo túi tiền" }
 featured: false
+shop:
+  - id: sony-wf-c510-sale
+    after: "Giảm 50% ngày thường"
 ---
 
 Ngày 25 mỗi tháng là lúc các sàn thương mại điện tử chạy đợt giảm giá đón lương về. Đợt tháng 9 rơi vào **thứ Sáu 25/9/2026**, và tính tới ngày 12/9 chưa sàn nào công bố mức voucher hay khung giờ cụ thể.

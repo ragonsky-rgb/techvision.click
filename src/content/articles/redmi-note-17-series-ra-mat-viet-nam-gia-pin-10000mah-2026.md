@@ -42,6 +42,9 @@ related:
   - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Smartphone", title: "Realme 16T 5G pin 8.000mAh ra mắt Việt Nam, giá từ 7 triệu" }
   - { href: "/articles/redmi-note-17-series-ra-mat-14-7-pin-10100mah-200mp-2026.html", cat: "Smartphone", title: "Redmi Note 17 ra mắt 14/7: pin 10.100mAh, camera 200MP" }
 featured: true
+shop:
+  - id: redmi-note-17
+    after: "Viên pin là lý do"
 ---
 
 Xiaomi tổ chức sự kiện giới thiệu **Redmi Note 17 Series** tại Việt Nam ngày **27/8/2026** với bốn phiên bản cùng lúc. Đây cũng là lần Xiaomi bỏ qua hẳn tên gọi Note 16 để đồng bộ số hiệu với dòng flagship Xiaomi 17, nên nếu bạn đang tìm "Redmi Note 16" thì máy đó không tồn tại.

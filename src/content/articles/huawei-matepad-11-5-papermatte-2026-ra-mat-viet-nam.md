@@ -42,6 +42,9 @@ related:
   - { href: "/articles/hyundai-palisade-2026-ra-mat-viet-nam-suv-hybrid-gia-2026.html", cat: "Công nghệ", title: "Hyundai Palisade 2026 ra mắt Việt Nam: SUV hybrid giá từ 1,7 tỷ" }
   - { href: "/articles/realme-16t-5g-pin-8000mah-ra-mat-viet-nam-2026.html", cat: "Công nghệ", title: "Realme 16T 5G pin 8.000mAh ra mắt Việt Nam, giá từ 7 triệu" }
 featured: false
+shop:
+  - id: huawei-matepad-11-5
+    after: "Giá bán và vị thế"
 ---
 
 Huawei tiếp tục làm sôi động phân khúc máy tính bảng tầm trung tại Việt Nam với MatePad 11.5 phiên bản PaperMatte 2026. Không chạy đua về cấu hình cao cấp, chiếc tablet này chọn hướng đi khác biệt, đặt trọng tâm vào trải nghiệm màn hình chống chói và khả năng viết tay chân thực, hướng tới nhóm người dùng học tập và làm việc.

@@ -40,6 +40,9 @@ faq:
 related:
   - { href: "/articles/iqoo-15-ultra-gaming-antutu-quat-tan-nhiet-pin-7400mah-2026.html", cat: "Smartphone", title: "iQOO 15 Ultra: gaming phone AnTuTu 4,5 triệu, có quạt tản nhiệt" }
 featured: false
+shop:
+  - id: honor-magicpad-3-pro
+    after: "Có nên mua"
 ---
 
 HONOR MagicPad 3 Pro là chiếc máy tính bảng đang gây chú ý mạnh trong giới công nghệ, khi trở thành tablet đầu tiên trên thế giới được trang bị chip Snapdragon 8 Elite Gen 5. Đây là vi xử lý flagship mới nhất của Qualcomm, thường xuất hiện trên các smartphone cao cấp, nay được đưa lên một chiếc tablet màn hình lớn. Kết hợp với màn hình 13,3 inch tần số 165Hz, pin dung lượng 12.450mAh và hệ thống 8 loa, MagicPad 3 Pro định vị là một trong những máy tính bảng Android mạnh nhất hiện nay, nhưng vẫn giữ mức giá khởi điểm 14,04 triệu đồng tại Việt Nam.

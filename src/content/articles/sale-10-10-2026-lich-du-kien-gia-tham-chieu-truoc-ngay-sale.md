@@ -47,6 +47,13 @@ related:
   - { href: "/articles/tai-nghe-true-wireless-dang-mua-2026-theo-tui-tien.html", cat: "Âm thanh", title: "Tai nghe true wireless đáng mua 2026 theo túi tiền" }
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Laptop", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
 featured: false
+shop:
+  - id: galaxy-s25-ultra
+    after: "Điện thoại: nhóm nào"
+  - id: sony-wh-1000xm5
+    after: "Tai nghe và phụ kiện"
+  - id: airpods-pro-3-sale
+    after: "Tai nghe và phụ kiện"
 ---
 
 Ngày đôi 10/10 là đợt giảm giá lớn cuối cùng trước khi bước vào mùa cao điểm 11/11 và Black Friday. Nhưng khác với dịp lễ 2/9 vừa qua, thời điểm này chưa có gì để bàn về chương trình: tính tới ngày 12/9/2026, Shopee, Lazada và TikTok Shop đều chưa công bố tên chiến dịch hay mức voucher cho đợt 10/10, và các chuỗi bán lẻ công nghệ như CellphoneS, Thế Giới Di Động, FPT Shop cũng chưa mở trang khuyến mãi tháng 10.

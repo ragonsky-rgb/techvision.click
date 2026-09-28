@@ -44,6 +44,9 @@ related:
   - { href: "/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html", cat: "Apple", title: "Nên mua iPhone 17 hay đợi iPhone 18" }
   - { href: "/articles/iphone-duo-ra-mat-chinh-thuc-gia-cau-hinh-9-9-2026.html", cat: "Apple", title: "iPhone Duo ra mắt chính thức: giá và cấu hình" }
 featured: true
+shop:
+  - id: iphone-17-pro-max
+    after: "Giá iPhone 17 Pro Max đã đi xuống"
 ---
 
 Thị trường iPhone tại Việt Nam mỗi tháng 9 đều đi qua cùng một chu kỳ. Năm nay, **iPhone 18 Pro** mở đặt trước từ **19h ngày 12/9/2026** và bắt đầu có hàng từ **18/9**, trong khi **iPhone 17 Pro Max** đã hạ giá từ trước đó nhiều tuần.

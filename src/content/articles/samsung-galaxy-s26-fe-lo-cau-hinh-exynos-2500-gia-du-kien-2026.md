@@ -42,6 +42,9 @@ related:
   - { href: "/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP" }
   - { href: "/articles/iphone-fold-2026-gia-du-kien-cau-hinh-ngay-ra-mat-ro-ri.html", cat: "Apple", title: "iPhone Duo 2026: giá dự kiến, cấu hình, ngày ra mắt" }
 featured: true
+shop:
+  - id: galaxy-s26-fe
+    after: "Giá chính thức tại Việt Nam"
 ---
 
 Bản cập nhật ngày 2/9/2026: Samsung đã chính thức giới thiệu Galaxy S26 FE tại Việt Nam ngày **27/8/2026** và mở bán từ **28/8**, sớm hơn hẳn mốc cuối tháng 9 mà các rò rỉ trước đó dự đoán. Toàn bộ phần dưới đây đã được viết lại theo thông số và giá chính thức, kèm đối chiếu với tin đồn cũ để bạn thấy chỗ nào đúng, chỗ nào lệch.

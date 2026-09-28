@@ -43,6 +43,11 @@ related:
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Laptop", title: "Giá RAM, SSD tăng vọt 2026: nên mua laptop, PC lúc này?" }
   - { href: "/articles/asus-rog-rtx-5070-5060-laptop-gaming-mo-dat-truoc-viet-nam-2026.html", cat: "Laptop", title: "ASUS ROG RTX 5070, 5060 mở đặt trước Việt Nam: giá" }
 featured: true
+shop:
+  - id: rtx-5090
+    after: "Giá RTX 5090 và card đồ họa RTX 50 tại Việt Nam"
+  - id: rtx-5070-ti
+    after: "Giá RTX 5090 và card đồ họa RTX 50 tại Việt Nam"
 ---
 
 Giá bán thực tế của RTX 5090, card đồ họa cao cấp nhất trong dải GeForce RTX 50 series của NVIDIA, tiếp tục lập đỉnh mới trong tháng 9/2026. Theo dữ liệu giá được TechPowerUp tổng hợp từ nhiều thị trường, mẫu RTX 5090 rẻ nhất còn mua được tại Mỹ hiện đã vượt mốc 5.000 USD, cao hơn tới 136% so với giá niêm yết gốc 1.999 USD mà NVIDIA chưa từng điều chỉnh chính thức. Không chỉ riêng RTX 5090, toàn bộ dải RTX 50 series, từ RTX 5060 đến RTX 5080, cũng ghi nhận mức tăng giá hai chữ số chỉ trong vài tháng, kéo theo giá bán card đồ họa tại Việt Nam leo thang tương ứng.

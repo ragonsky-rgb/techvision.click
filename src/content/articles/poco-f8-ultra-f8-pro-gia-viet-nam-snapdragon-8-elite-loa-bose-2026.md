@@ -43,6 +43,11 @@ related:
   - { href: "/articles/top-dien-thoai-manh-nhat-antutu-thang-8-2026-xep-hang.html", cat: "Smartphone", title: "Top điện thoại mạnh nhất AnTuTu tháng 8/2026" }
   - { href: "/articles/redmi-note-17-pro-chinh-thuc-ra-mat-gia-pin-9000mah-2026.html", cat: "Smartphone", title: "Redmi Note 17 Pro chính thức ra mắt: giá, pin 9000mAh" }
 featured: true
+shop:
+  - id: poco-f8-ultra
+    after: "Có nên mua POCO F8"
+  - id: poco-f8-pro
+    after: "Có nên mua POCO F8"
 ---
 
 POCO từ lâu đã nổi tiếng với công thức đưa cấu hình mạnh xuống tầm giá dễ chịu, và bộ đôi POCO F8 Ultra cùng POCO F8 Pro tiếp tục theo đúng hướng đi đó. Lần này, điểm gây chú ý không chỉ là con chip Snapdragon 8 Elite Gen 5 đầu bảng, mà còn ở hệ thống loa 2.1 được tinh chỉnh cùng Bose, một hãng âm thanh danh tiếng. Với mức giá khởi điểm dưới 20 triệu đồng, hai máy này đang trở thành lựa chọn đáng cân nhắc cho người muốn trải nghiệm flagship mà không phải chi quá nhiều. Bài viết tổng hợp cấu hình, giá và vị trí của chúng trên thị trường.

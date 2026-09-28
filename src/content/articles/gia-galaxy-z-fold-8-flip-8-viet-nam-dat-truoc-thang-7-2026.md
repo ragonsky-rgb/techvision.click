@@ -45,6 +45,11 @@ related:
   - { href: "/articles/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia.html", cat: "Smartphone", title: "Galaxy Z Flip 8: cấu hình, sạc 45W, giá ra mắt" }
   - { href: "/articles/galaxy-z-fold-8-vs-z-fold-8-ultra-so-sanh-chon-ban-nao-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 vs Z Fold 8 Ultra: chọn bản nào 2026?" }
 featured: true
+shop:
+  - id: galaxy-z-flip8
+    after: "Giá Galaxy Z Flip 8 tháng 9"
+  - id: galaxy-z-fold8
+    after: "Giá Galaxy Z Fold 8 và bản Ultra"
 ---
 
 Gần một tháng sau ngày mở bán rộng 18/8, giá Galaxy Z Flip 8 và Z Fold 8 tại Việt Nam đã đi xuống thêm một nấc, và các chuỗi không còn đi cùng một nhịp. Khảo sát ngày 14/9/2026 trên trang sản phẩm của CellphoneS, FPT Shop và Thế Giới Di Động cho thấy chuỗi rẻ nhất đã hạ thêm 2 tới 3,4 triệu so với giữa tháng 8, trong khi FPT Shop giữ nguyên. Cùng một chiếc Z Fold 8, chọn nhầm nơi là trả dư 3,4 triệu đồng. Bài cập nhật bảng giá từng phiên bản, lịch sử giá từ ngày ra mắt và phần khảo sát tháng 8 được giữ lại ở cuối để đối chiếu.

@@ -40,6 +40,9 @@ faq:
 related:
   - { href: "/articles/google-pixel-watch-5-lo-cau-hinh-gia-399-usd-made-by-google-2026.html", cat: "Wearable", title: "Pixel Watch 5 ra mắt: giá 399 USD, thêm loạt chỉ số sức khỏe" }
 featured: false
+shop:
+  - id: macbook-air-m5
+    after: "Giá tại Việt Nam và có nên mua"
 ---
 
 MacBook Air từ lâu là dòng laptop mỏng nhẹ bán chạy nhất của Apple, và phiên bản MacBook Air M5 tiếp tục củng cố vị thế đó bằng một bản nâng cấp thiên về hiệu năng. Điểm nhấn lớn nhất là chip M5 mới, với khả năng xử lý AI nhanh hơn nhiều so với thế hệ M4, cùng cấu hình khởi điểm 16GB RAM và 512GB SSD hào phóng hơn. Máy giữ nguyên thiết kế mỏng nhẹ quen thuộc, bổ sung Wi-Fi 7 và pin tới 18 giờ. Tại Việt Nam, giá khởi điểm từ 29,99 triệu đồng, đặt ra câu hỏi quen thuộc: có nên mua hoặc nâng cấp lúc này hay không. Bài viết sẽ phân tích chi tiết.

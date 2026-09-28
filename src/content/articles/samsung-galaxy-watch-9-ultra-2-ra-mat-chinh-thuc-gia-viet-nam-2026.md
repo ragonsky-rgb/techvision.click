@@ -41,6 +41,11 @@ related:
   - { href: "/articles/samsung-galaxy-watch-9-ultra-2-ro-ri-pin-cam-bien-unpacked-22-7-2026.html", cat: "Wearable", title: "Galaxy Watch 9 và Ultra 2: rò rỉ pin, cảm biến trước 22/7" }
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Galaxy Unpacked 22/7/2026: Z Fold 8, Z Flip 8 và Galaxy Glasses" }
 featured: false
+shop:
+  - id: galaxy-watch-9
+    after: "Giá bán và ưu đãi"
+  - id: galaxy-watch-ultra-2
+    after: "Giá bán và ưu đãi"
 ---
 
 Samsung đã chính thức ra mắt bộ đôi đồng hồ thông minh Galaxy Watch 9 và Galaxy Watch Ultra 2 tại sự kiện Galaxy Unpacked ngày 22/7/2026 ở London. Đáng chú ý, sản phẩm lên kệ tại Việt Nam ngay trong ngày 22/7, cho thấy Samsung ưu tiên đưa dòng wearable mới tới thị trường trong nước sớm hơn nhiều so với các thế hệ trước. Cả hai mẫu tập trung vào ba hướng nâng cấp chính là hiệu năng, thời lượng pin và các tính năng sức khỏe dựa trên AI.

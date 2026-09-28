@@ -40,6 +40,9 @@ related:
   - { href: "/articles/samsung-galaxy-unpacked-22-7-2026-z-fold-8-z-flip-8-galaxy-glasses.html", cat: "Smartphone", title: "Samsung Galaxy Unpacked 22/7: Z Fold 8, Z Flip 8, Galaxy Glasses" }
   - { href: "/articles/samsung-galaxy-z-fold-8-ra-mat-chinh-thuc-gia-cau-hinh-ultra-2026.html", cat: "Smartphone", title: "Galaxy Z Fold 8 ra mắt: giá, cấu hình và bản Ultra 200MP" }
 featured: true
+shop:
+  - id: galaxy-z-flip8
+    after: "Có nên chờ mua"
 ---
 
 <div class="art-callout">

@@ -42,6 +42,9 @@ related:
   - { href: "/articles/gia-galaxy-z-fold-8-flip-8-viet-nam-dat-truoc-thang-7-2026.html", cat: "Smartphone", title: "Giá Galaxy Z Fold 8, Z Flip 8 tại VN: đặt trước ở đâu lợi?" }
   - { href: "/articles/samsung-galaxy-z-flip-8-ra-mat-unpacked-22-7-2026-sac-45w-gia.html", cat: "Smartphone", title: "Galaxy Z Flip 8: cấu hình, sạc 45W, giá ra mắt" }
 featured: true
+shop:
+  - id: galaxy-z-fold8
+    after: "Nên chọn Galaxy Z Fold 8 hay bản Ultra"
 ---
 
 Ngay sau khi ra mắt tại Galaxy Unpacked 22/7, bộ đôi Galaxy Z Fold 8 và Galaxy Z Fold 8 Ultra lập tức khiến nhiều người dùng bối rối, không phải vì thông số mà vì cách đặt tên. Khác với thói quen, năm nay Samsung đưa thiết kế mới mẻ nhất, dáng rộng và ngắn, thành bản Galaxy Z Fold 8 tiêu chuẩn, trong khi giữ kiểu dáng cao hẹp quen thuộc cùng camera cao cấp nhất cho bản Ultra. Bài viết so sánh chi tiết hai phiên bản để bạn hiểu rõ khác biệt và chọn đúng máy theo nhu cầu.

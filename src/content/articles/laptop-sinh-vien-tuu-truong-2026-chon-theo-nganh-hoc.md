@@ -41,6 +41,13 @@ related:
   - { href: "/articles/cach-ve-sinh-dien-thoai-laptop-cho-sinh-vien-2026.html", cat: "Công nghệ", title: "Cách vệ sinh điện thoại, laptop cho sinh viên đúng cách" }
   - { href: "/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html", cat: "Công nghệ", title: "Giá RAM và SSD tăng vọt 2026: có nên mua laptop lúc này?" }
 featured: false
+shop:
+  - id: asus-vivobook-15
+    after: "Nhóm kinh tế"
+  - id: acer-nitro-v-15
+    after: "Nhóm kỹ thuật"
+  - id: macbook-air-m5
+    after: "Nhóm thiết kế"
 ---
 
 Tháng 8 hằng năm là thời điểm các hệ thống bán lẻ Việt Nam tung ra chương trình tựu trường, và cũng là lúc hàng trăm nghìn tân sinh viên phải đưa ra quyết định mua sắm lớn đầu tiên trong đời. Vấn đề là phần lớn tư vấn hiện nay chỉ chia theo mức giá, trong khi yếu tố quyết định máy có dùng được suốt bốn năm hay không lại là ngành học. Một chiếc máy 15 triệu có thể là quá thừa với sinh viên luật nhưng lại quá yếu với sinh viên cơ khí.

@@ -44,6 +44,11 @@ related:
   - { href: "/articles/dien-thoai-duoi-10-trieu-dang-mua-nua-cuoi-2026.html", cat: "Điện thoại", title: "Điện thoại dưới 10 triệu đáng mua nửa cuối 2026" }
   - { href: "/articles/13-trieu-sim-khoa-2-chieu-15-8-2026-cach-xac-thuc-thong-tin-thue-bao.html", cat: "Viễn thông", title: "13 triệu SIM khóa 2 chiều từ 15/8: cách xác thực ngay" }
 featured: false
+shop:
+  - id: nokia-3210-4g
+    after: "Các mẫu đang bán"
+  - id: nokia-105-4g
+    after: "Các mẫu đang bán"
 ---
 
 Ngày 15/9/2026, mạng 2G tại Việt Nam ngừng hoạt động trên toàn quốc. Với những chiếc máy chỉ bắt được sóng 2G, đây không phải là chuyện mạng chậm đi mà là mất hẳn khả năng nghe gọi và nhắn tin. Điều đáng nói là rất nhiều người trong nhóm bị ảnh hưởng mặc định rằng mình buộc phải chuyển sang smartphone, trong khi lựa chọn giữ nguyên kiểu máy phím bấm vẫn còn nguyên và rẻ hơn nhiều so với hình dung.

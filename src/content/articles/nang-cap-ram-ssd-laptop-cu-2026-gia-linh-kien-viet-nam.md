@@ -42,6 +42,11 @@ related:
   - { href: "/articles/microsoft-tang-phi-ban-quyen-windows-oem-gia-laptop-viet-nam-2026.html", cat: "Laptop", title: "Microsoft tăng phí Windows OEM, giá laptop Việt Nam tăng tiếp" }
   - { href: "/articles/laptop-sinh-vien-tuu-truong-2026-chon-theo-nganh-hoc.html", cat: "Laptop", title: "Laptop cho sinh viên tựu trường 2026: chọn theo ngành học" }
 featured: false
+shop:
+  - id: ssd-nvme
+    after: "Nâng SSD trước hay RAM trước"
+  - id: ram-laptop-ddr5
+    after: "Nâng SSD trước hay RAM trước"
 ---
 
 Trong nhiều năm, lời khuyên dành cho một chiếc laptop chạy chậm gần như luôn giống nhau: gắn thêm RAM, thay ổ cứng cơ bằng SSD, máy sẽ như mới. Lời khuyên đó dựa trên một giả định thầm lặng rằng linh kiện bộ nhớ rẻ. Năm 2026, giả định đó không còn đúng.
