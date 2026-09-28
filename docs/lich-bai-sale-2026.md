@@ -26,7 +26,7 @@ Lập ngày 12/9/2026 từ số GSC + GA4 thật. Phiên AI nào làm bài sale 
 | 11/11 | T4 11/11 | 14-18/10 | chưa viết | Đợt lớn nhất năm, viết kỹ nhất |
 | Lương về 25/11 | T4 25/11 | cập nhật ~5-10/11 | cùng URL lương về | Chờ |
 | Black Friday | T6 27/11 | 30/10-3/11 | chưa viết | Autocomplete có "black friday 2026 là ngày nào", "black friday gearvn" |
-| 12/12 | T7 12/12 | 14-18/11 | chưa viết | |
+| 12/12 | T7 12/12 | 14-18/11 | `sale-12-12-2026-shopee-lazada-gia-do-cong-nghe` | Hẹn 14/11 09:00 (giá đọc 28/9) |
 | Lương về 25/12 | T6 25/12 | cập nhật ~5-10/12 | cùng URL lương về | |
 | Tết Đinh Mùi | mùng 1 = T7 6/2/2027 | 5-10/1/2027 | chưa viết | |
 
