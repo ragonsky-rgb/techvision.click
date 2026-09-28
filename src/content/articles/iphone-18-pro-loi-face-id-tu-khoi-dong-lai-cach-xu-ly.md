@@ -7,8 +7,6 @@ category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-28T09:00:00+07:00"
 dateModified: "2026-09-28T12:56:00+07:00"
-noindex: true
-scheduled: true
 deck: "Chưa đầy một tuần sau ngày máy tới tay người mua, iPhone 18 Pro và Pro Max dính một lỗi khó chịu: bấm Face ID để mở khóa một ứng dụng đã khóa thì máy đứng hình vài giây rồi tự khởi động lại. Apple đã xác nhận đây là lỗi phần mềm chứ không phải hỏng phần cứng, và đang chuẩn bị bản vá iOS 27. Bài này gom lại điều kiện tái hiện lỗi, cách né tạm thời, và phần quan trọng với người mua tại Việt Nam: khi nào nên mang máy đi đổi, khi nào thì không."
 heroImage: "https://i.ytimg.com/vi/cJMMspVDxt4/maxresdefault.jpg"
 heroAlt: "iPhone 18 Pro loi Face ID khien may treo va tu khoi dong lai"

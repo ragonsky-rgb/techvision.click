@@ -7,8 +7,6 @@ category: "Internet"
 type: "tin-tuc"
 datePublished: "2026-09-28T09:00:00+07:00"
 dateModified: "2026-09-28T12:56:00+07:00"
-noindex: true
-scheduled: true
 deck: "Một chính sách có hiệu lực từ giữa tháng 8/2026 gắn trực tiếp việc dùng ứng dụng VNeID với tiền: tích hợp đủ 5 loại giấy tờ và làm thủ tục trực tuyến thì được miễn hoặc giảm 10 khoản phí, lệ phí. Ưu đãi có giá trị lớn nhất nằm ở lệ phí trước bạ khi sang tên nhà đất, ô tô và xe máy, khoản thường lên tới hàng triệu đồng. Bài viết liệt kê điều kiện, danh mục ưu đãi và những giới hạn dễ bị bỏ qua."
 heroImage: "https://i.ytimg.com/vi/1c4kGuBKV2w/maxresdefault.jpg"
 heroAlt: "Giao diện ứng dụng VNeID trên điện thoại với các tiện ích tích hợp giấy tờ của công dân"

@@ -10,7 +10,7 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 271
+- **Số bài viết:** 273
 - **Cập nhật:** 2026-09-28 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
@@ -25,6 +25,8 @@
 
 ## Bài viết mới nhất
 
+- [iPhone 18 Pro lỗi Face ID tự khởi động lại: cách xử lý](https://techvision.click/articles/iphone-18-pro-loi-face-id-tu-khoi-dong-lai-cach-xu-ly.html)
+- [VNeID: tích hợp 5 giấy tờ để được miễn giảm 10 khoản phí](https://techvision.click/articles/vneid-tich-hop-5-giay-to-mien-giam-10-khoan-phi-le-phi-2026.html)
 - [Vivo X500 series: camera Zeiss 17EV, cảm biến Phantom 900](https://techvision.click/articles/vivo-x500-series-camera-zeiss-17ev-cam-bien-phantom-900-2026.html)
 - [Giá iPhone 17 Pro Max sau khi iPhone 18 mở bán tại Việt Nam](https://techvision.click/articles/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban-viet-nam-2026.html)
 - [Oppo Find X10 Pro Max ra mắt: 3 camera 200MP, giá từ 6.799 tệ](https://techvision.click/articles/oppo-find-x10-series-ra-mat-ba-camera-200mp-dimensity-9600-pro.html)
@@ -43,8 +45,6 @@
 - [Huawei Mate XT 2 gập ba ra mắt: giá, chip Kirin 9050 Pro](https://techvision.click/articles/huawei-mate-xt-2-gap-ba-ra-mat-gia-kirin-9050-pro-2026.html)
 - [Sale lương về 25/9/2026: sàn nào, ngày nào, giá bao nhiêu](https://techvision.click/articles/sale-luong-ve-ngay-25-hang-thang-shopee-lazada-gia-do-cong-nghe.html)
 - [Sale 10/10/2026: Shopee có sale không, giá tham chiếu](https://techvision.click/articles/sale-10-10-2026-lich-du-kien-gia-tham-chieu-truoc-ngay-sale.html)
-- [Nvidia mua Hugging Face 12,9 tỷ USD: đổi gì cho dev Việt](https://techvision.click/articles/nvidia-mua-hugging-face-12-9-ty-usd-lap-trinh-vien-viet-nam.html)
-- [ĐTDV Mùa Đông 2026: lịch thi đấu, 9 đội, thể thức mới](https://techvision.click/articles/dtdv-mua-dong-2026-lich-thi-dau-9-doi-the-thuc-moi.html)
 
 ## Smartphone (71 bài)
 
@@ -222,8 +222,9 @@
 - [Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ](https://techvision.click/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html)
 - [Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc](https://techvision.click/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html)
 
-## Apple (25 bài)
+## Apple (26 bài)
 
+- [iPhone 18 Pro lỗi Face ID tự khởi động lại: cách xử lý](https://techvision.click/articles/iphone-18-pro-loi-face-id-tu-khoi-dong-lai-cach-xu-ly.html)
 - [Giá iPhone 17 Pro Max sau khi iPhone 18 mở bán tại Việt Nam](https://techvision.click/articles/gia-iphone-17-pro-max-sau-khi-iphone-18-mo-ban-viet-nam-2026.html)
 - [Giá iPhone 18 Pro Max Việt Nam đắt hơn Mỹ bao nhiêu?](https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html)
 - [iPhone 18 Pro giá chính thức 1.199 USD, có gì mới?](https://techvision.click/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html)
@@ -277,8 +278,9 @@
 - [macOS 27: sửa Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
 - [RTX 5090 Ti 48GB chưa ra mắt: thông số tin đồn, giá dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
 
-## Internet (13 bài)
+## Internet (14 bài)
 
+- [VNeID: tích hợp 5 giấy tờ để được miễn giảm 10 khoản phí](https://techvision.click/articles/vneid-tich-hop-5-giay-to-mien-giam-10-khoan-phi-le-phi-2026.html)
 - [25 kịch bản lừa đảo mạng 2026: nhận biết và cách phòng](https://techvision.click/articles/25-kich-ban-lua-dao-mang-2026-cong-an-canh-bao-cach-phong.html)
 - [Internet Việt Nam vào top 10 thế giới: nhanh cỡ nào?](https://techvision.click/articles/internet-viet-nam-top-10-the-gioi-2026-toc-do-di-dong-co-dinh.html)
 - [Định danh tài khoản mạng xã hội 28/9: ai phải liên kết VNeID](https://techvision.click/articles/dinh-danh-tai-khoan-mang-xa-hoi-28-9-2026-lien-ket-vneid.html)
