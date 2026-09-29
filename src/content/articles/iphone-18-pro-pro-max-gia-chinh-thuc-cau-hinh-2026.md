@@ -74,6 +74,12 @@ Kết quả cuối cùng là **100 USD**, tức đáy dải. Với người mua,
 
 Bậc dung lượng **2TB** là lần đầu tiên xuất hiện trên iPhone, đẩy trần lưu trữ lên gấp đôi mức 1TB cũ. Đây rõ ràng là bậc nhắm tới người quay video chuyên nghiệp, vì định dạng ProRes hoặc log ở độ phân giải cao có thể ngốn vài chục GB chỉ trong ít phút quay. Với người dùng phổ thông, bản 256GB khởi điểm vẫn là lựa chọn hợp lý nhất về giá trên dung lượng.
 
+<div class="art-video-label">VIDEO · Mức tăng 100 USD đặt cạnh 19 năm giá iPhone</div>
+<div class="art-video-wrap">
+  <iframe src="https://www.youtube.com/embed/IBKA9vX3iAI" title="iPhone 19 nam gia tu 499 USD toi 104 trieu" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Tính theo sức mua, iPhone 17 Pro Max chỉ còn tương đương 1.248 USD tiền năm 2026, thấp hơn đỉnh 1.466 USD của iPhone XS Max năm 2018. Nguồn: kênh YouTube TechVision</p>
+
 ## Ba thay đổi thực sự cảm nhận được
 
 Trong danh sách nâng cấp, có ba thứ người dùng thường ngày sẽ nhận ra ngay.

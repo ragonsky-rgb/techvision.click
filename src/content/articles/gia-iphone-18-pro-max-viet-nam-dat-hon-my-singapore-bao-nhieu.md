@@ -86,6 +86,12 @@ Mức chênh khoảng 8,15 triệu đồng so với giá niêm yết tại Mỹ 
 
 Vấn đề là hai con số đó không cùng loại. Giá niêm yết tại Mỹ chưa gồm thuế bán hàng, vốn do từng bang và từng địa phương quy định, dao động từ 0% ở một số bang tới 8,875% ở thành phố New York theo bảng thuế suất của bang New York. Người mua ở New York trả thêm khoảng 115 USD so với con số 1.299 USD trên trang Apple, tức khoảng ba triệu đồng. Trong khi đó giá Việt Nam đã gồm thuế giá trị gia tăng, chi phí nhập khẩu và mạng lưới bảo hành trong nước. Sau khi quy về cùng một mặt bằng, khoảng cách thực tế co lại đáng kể, còn quanh mức năm triệu đồng tùy nơi mua ở Mỹ.
 
+<div class="art-video-label">VIDEO · iPhone 19 năm: từ 499 USD tới 104 triệu, đắt lên thật hay ảo giác?</div>
+<div class="art-video-wrap">
+  <iframe src="https://www.youtube.com/embed/IBKA9vX3iAI" title="iPhone 19 nam gia tu 499 USD toi 104 trieu" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Quy giá khởi điểm tại Mỹ của mọi đời iPhone từ 2007 ra sức mua năm 2026: bản thường gần như không đắt lên, thứ đắt lên là các bậc giá mới như Pro Max, máy gập và bản 2TB. Nguồn: kênh YouTube TechVision</p>
+
 ## Singapore, Nhật và Thái Lan: nơi gần nhất chỉ chênh vài trăm nghìn
 
 Phép so sánh có ý nghĩa hơn là đặt Việt Nam cạnh các thị trường trong khu vực, nơi giá niêm yết đã gồm thuế giống cách Việt Nam làm. Với Singapore, giá bản 256GB là 2.099 SGD. Quy theo tỷ giá bán ra của Vietcombank chiều 15/9 (20.803 đồng/SGD) là khoảng 43,67 triệu đồng, tức Singapore đắt hơn Việt Nam khoảng 1,67 triệu. Nếu tính theo tỷ giá chuyển khoản thì phần chênh chỉ còn khoảng 226.000đ, nhưng dù tính cách nào Việt Nam cũng không còn đắt hơn Singapore, ngược với truyền thống nhiều năm trước. Khách du lịch mua tại Singapore được xin hoàn thuế hàng hóa dịch vụ ở sân bay nếu hóa đơn từ 100 SGD và mang hàng rời nước trong vòng hai tháng.
