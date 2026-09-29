@@ -126,7 +126,7 @@ Cần anh biết trước khi duyệt:
 
 ## Gói đăng
 
-**Đã đăng:** Facebook Reels (Short mồi) 29/9/2026, reel 1791600398702442 https://www.facebook.com/reel/1791600398702442 . YouTube dài, Shorts, TikTok: CHƯA.
+**Đã đăng:** Facebook Reels (Short mồi) 29/9/2026, reel 1791600398702442 https://www.facebook.com/reel/1791600398702442 . Facebook video dài (ngang, ảnh bìa A) 29/9/2026: https://www.facebook.com/522724064254352/videos/2228343591073607 . YouTube dài, Shorts, TikTok: CHƯA.
 
 **Thumbnail** (1280x720, `out/iphone19/thumbnail-*.jpg`, dựng từ `thumb.html`, ảnh thật đã duyệt, biểu đồ C vẽ từ đúng số liệu video):
 - A (chính): "iPHONE ĐẮT LÊN THẬT?" 2007 499$ -> 2026 104 TRIỆU. Khớp 2 câu mở đầu của video.
