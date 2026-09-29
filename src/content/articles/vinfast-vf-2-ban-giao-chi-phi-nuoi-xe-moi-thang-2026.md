@@ -7,8 +7,6 @@ category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-09-29T15:30:00+07:00"
 dateModified: "2026-09-29T15:35:00+07:00"
-noindex: true
-scheduled: true
 deck: "VF 2 là mẫu xe điện rẻ nhất trong danh mục ô tô của VinFast, và những chiếc đầu tiên bắt đầu tới tay khách trong tháng 9. Giá niêm yết ai cũng biết, nhưng khoản đáng quan tâm hơn với người mua xe lần đầu là tiền nuôi xe hằng tháng và những giới hạn mà bảng thông số không nói thẳng."
 heroImage: "https://i.ytimg.com/vi/OuAFobsHWbI/maxresdefault.jpg"
 heroAlt: "Xe dien mini VinFast VF 2 chay trong do thi Viet Nam"
