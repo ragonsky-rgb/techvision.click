@@ -1,6 +1,6 @@
 # Video DÀI: iPhone 19 năm, từ 499 USD tới 103.999.000đ - đắt lên thật hay ảo giác?
 
-- Loại: video dài ngang 16:9 (1920x1080), khoảng 2 phút 40 giây, kèm 1 Short dọc 20 giây làm mồi.
+- Loại: video dài ngang 16:9 (1920x1080), 2 phút 56 giây, kèm 1 Short dọc 17 giây làm mồi.
 - Lịch dự kiến: 08/10/2026 (video dài 1 tháng/lần, thử nghiệm). **CHƯA đăng, chờ anh Long duyệt.**
 - Cách dựng: theo repo `latent-spaces/brag` (skill `/brag-slim`): mỗi khung hình là hàm thuần của thời gian,
   vẽ bằng HTML (`out/iphone19/index.html` + `data.js`), chụp bằng Chrome headless tắt GPU
@@ -117,7 +117,7 @@ Cần anh biết trước khi duyệt:
 - Ảnh Wikimedia CC BY/BY-SA: dòng tên tác giả là bắt buộc, đã có trên hình ở từng cảnh.
 - Biểu đồ, thanh bộ nhớ, bậc giá: vẽ bằng code từ bảng số trên, không phải ảnh.
 
-## Âm thanh (làm SAU khi anh duyệt media)
+## Âm thanh (anh Long duyệt media 29/9/2026, đã trộn)
 
 - Giọng: OmniVoice giọng anh Long, tua 1,2x, cắt lặng -45dB, nối liền không khoảng lặng.
 - Nhạc nền Soundraw của anh (thư mục `09-nhac-khong-ban-quyen`), duck 55% dưới giọng.
@@ -134,7 +134,16 @@ Cần anh biết trước khi duyệt:
   Video quy toàn bộ giá khởi điểm tại Mỹ (bản không hợp đồng) ra sức mua năm 2026 theo chỉ số giá tiêu dùng Mỹ, và chỉ ra 2 "ảo giác" về giá mà Apple dùng suốt 19 năm.
 
   Chương:
-  (mốc thời gian điền sau khi dựng xong)
+  0:00 Từ 499 USD tới 103.999.000đ
+  0:15 Luật so sánh: giá Mỹ, quy ra tiền 2026
+  0:30 Ảo giác thứ nhất: iPhone 199 USD
+  0:54 iPhone X và XS Max: đỉnh giá
+  1:12 Ảo giác thứ hai: 799 USD
+  1:22 Lạm phát làm iPhone rẻ đi
+  1:42 Biểu đồ 19 năm
+  1:55 2026: tăng giá Pro và iPhone Duo
+  2:22 Kết luận
+  2:34 Nên mua iPhone nào ở Việt Nam
 
   Nguồn giá: Apple Newsroom 2007-2026, Cục Thống kê Lao động Mỹ (BLS, CPI-U tháng 8/2026).
   Ảnh: Apple Newsroom; Wikimedia Commons (Pavel Ševela, Feureau, SimonWaldherr, Maurizio Pesce, Beamish4).
@@ -143,5 +152,5 @@ Cần anh biết trước khi duyệt:
 - Thẻ: iPhone, giá iPhone, iPhone 18 Pro Max, iPhone Duo, Apple, lạm phát, TechVision
 
 **YouTube Shorts / TikTok / Facebook Reels (mồi 20 giây, dọc)**
-- Nội dung: 3 nhịp của video dài: "199 USD là ảo giác" -> biểu đồ 19 năm -> câu chốt "Apple làm thêm những chiếc iPhone đắt hơn", cuối dẫn về video dài.
+- Nội dung (17,2 giây, câu 20, 21, 34 + câu mời xem): 3 nhịp của video dài: "199 USD là ảo giác" -> biểu đồ 19 năm -> câu chốt "Apple làm thêm những chiếc iPhone đắt hơn", cuối dẫn về video dài.
 - Tiêu đề: `iPhone 17 rẻ hơn iPhone 4? Tính theo sức mua thì đúng`
