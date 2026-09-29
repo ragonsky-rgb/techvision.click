@@ -1,44 +1,44 @@
 ---
 slug: "chuyen-du-lieu-sang-iphone-18-zalo-ngan-hang-vneid-2026"
 title: "Chuyển dữ liệu sang iPhone 18: Zalo, app ngân hàng, VNeID"
-description: "Hướng dẫn chuyển sang iPhone 18: phần Quick Start chỉ lo được ảnh và danh bạ. Zalo, app ngân hàng, VNeID và eSIM phải xử lý riêng, làm đúng thứ tự."
-keywords: "chuyển dữ liệu sang iPhone 18, chuyển Zalo sang máy mới, app ngân hàng đổi điện thoại, VNeID máy mới, chuyển eSIM iPhone, Quick Start iPhone"
+description: "Chuyển sang iPhone 18: Quick Start chỉ lo ảnh, danh bạ, ứng dụng. Zalo, app ngân hàng, VNeID và SIM phải xử lý riêng, có cả bước xác thực khuôn mặt khi đổi máy."
+keywords: "chuyển dữ liệu sang iPhone 18, chuyển Zalo sang máy mới, app ngân hàng đổi điện thoại, VNeID máy mới, xác thực khuôn mặt đổi điện thoại, chuyển eSIM iPhone, Quick Start iPhone"
 category: "Apple"
 type: "huong-dan"
 datePublished: "2026-10-12T09:00:00+07:00"
 dateModified: "2026-10-12T09:00:00+07:00"
 noindex: true
 scheduled: true
-deck: "Chuyển máy iPhone sang iPhone tưởng là việc nhẹ nhàng vì Apple đã có Quick Start, nhưng ở Việt Nam thì phần khó nhất lại nằm ngoài tầm với của Quick Start. Lịch sử tin nhắn Zalo, ứng dụng ngân hàng gắn với sinh trắc học, tài khoản VNeID và chiếc eSIM đang gắn trên máy cũ đều có quy trình riêng, và làm sai thứ tự thì có thể mất quyền truy cập tạm thời đúng lúc cần dùng nhất. Bài này sắp lại toàn bộ quy trình theo đúng thứ tự an toàn."
-heroImage: "https://i.ytimg.com/vi/zxN4RKSJrDc/maxresdefault.jpg"
-heroAlt: "Hai chiếc điện thoại đặt cạnh nhau trong quá trình chuyển dữ liệu sang máy mới"
-heroCaption: "Đặt hai máy cạnh nhau là bước đầu, nhưng phần lớn công việc thật sự nằm ở các ứng dụng Việt Nam. Nguồn: YouTube"
+deck: "Chuyển từ iPhone cũ sang iPhone 18 tưởng nhẹ nhàng vì đã có Quick Start, nhưng ở Việt Nam phần khó nhất nằm ngoài tầm với của Quick Start. Tin nhắn Zalo, ứng dụng ngân hàng gắn sinh trắc học, tài khoản VNeID và số thuê bao đều có quy trình riêng, và từ 15/6/2026 còn thêm bước xác thực lại khuôn mặt khi lắp SIM sang máy mới. Bài này sắp lại toàn bộ theo đúng thứ tự an toàn."
+heroImage: "https://techvision.click/images/chuyen-du-lieu-sang-iphone-18-zalo-ngan-hang-vneid-2026/nguoi-mua-iphone-18-viet-nam.jpg"
+heroAlt: "Nguoi mua xep hang nhan iPhone 18 Pro trong ngay mo ban tai Viet Nam"
+heroCaption: "Người mua nhận iPhone 18 Pro trong ngày mở bán 18/9/2026 tại Việt Nam. Ảnh: VnExpress"
 ogImage: "https://techvision.click/uploads/og-article/chuyen-du-lieu-sang-iphone-18-zalo-ngan-hang-vneid-2026.jpg"
-tldr: "iPhone 18 Pro Max bán chính hãng tại Việt Nam từ <strong>41.999.000 đồng</strong> bản 256GB, và đợt đổi máy kéo theo một loạt việc mà <strong>Quick Start không làm thay được</strong>. Quick Start lo phần ảnh, danh bạ, tin nhắn iMessage và cài lại ứng dụng. Bốn thứ phải tự xử lý là <strong>lịch sử tin nhắn Zalo</strong>, <strong>ứng dụng ngân hàng</strong> gắn với sinh trắc học và thiết bị, <strong>tài khoản VNeID</strong>, và <strong>eSIM</strong>. Thứ tự an toàn: sao lưu đầy đủ, chuyển máy, xử lý eSIM, kích hoạt lại VNeID, rồi mới tới ngân hàng. <strong>Giữ máy cũ ít nhất 7 ngày</strong> trước khi bán hoặc thu cũ đổi mới."
+tldr: "iPhone 18 Pro Max bán chính hãng tại Việt Nam từ <strong>18/9/2026</strong>, giá từ <strong>41.999.000 đồng</strong>, và nhiều đơn đặt trước được giao dần trong tháng 10. <strong>Quick Start</strong> lo phần ảnh, danh bạ, iMessage và cài lại ứng dụng. Bốn thứ phải tự xử lý là <strong>tin nhắn Zalo</strong> (sao lưu trong Zalo chỉ gồm văn bản), <strong>ứng dụng ngân hàng</strong> (xác thực khuôn mặt khi dùng trên thiết bị mới theo Quyết định 2345), <strong>VNeID</strong> (mã xác nhận gửi về máy cũ) và <strong>số thuê bao</strong>: từ 15/6/2026, trong <strong>2 giờ</strong> sau khi đổi máy, nhà mạng tạm dừng gọi đi và nhắn tin đi cho tới khi bạn <strong>xác thực lại khuôn mặt</strong>. <strong>Giữ máy cũ ít nhất 7 ngày</strong> trước khi bán."
 tags: ["iPhone18", "Apple", "VNeID", "HuongDan"]
 about: ["iPhone 18", "Zalo", "VNeID", "eSIM", "Apple"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường smartphone và các dịch vụ số tại Việt Nam nhiều năm."
-sourceUrl: "https://vnexpress.net/mo-hop-iphone-18-pro-max-va-18-pro-sap-ban-o-viet-nam-5121043.html"
-sourceName: "Mở hộp iPhone 18 Pro Max và 18 Pro sắp bán ở Việt Nam - VnExpress"
-sourceDomains: "vnexpress.net · vietnamnet.vn · cellphones.com.vn · apple.com"
+sourceUrl: "https://baochinhphu.vn/doi-thiet-bi-thue-bao-di-dong-xac-thuc-lai-khuon-mat-the-nao-102260615114318412.htm"
+sourceName: "Báo Chính phủ, VnExpress, Apple Support, Zalo Help"
+sourceDomains: "baochinhphu.vn · vnexpress.net · support.apple.com · help.zalo.me · apple.com"
 stats:
-  - { num: "41.999.000đ", label: "Giá niêm yết iPhone 18 Pro Max bản 256GB tại Việt Nam" }
-  - { num: "4 hạng mục", label: "Số thứ Quick Start không chuyển được: Zalo, ngân hàng, VNeID, eSIM" }
-  - { num: "7 ngày", label: "Thời gian tối thiểu nên giữ máy cũ trước khi bán hoặc đổi" }
-  - { num: "2 bước", label: "Số lớp xác thực cần chuẩn bị trước khi đăng nhập lại app ngân hàng" }
-  - { num: "1 lần", label: "Số lần một eSIM được kích hoạt, chuyển máy là phải cấp lại" }
-  - { num: "5 phút", label: "Thời gian Quick Start cần để bắt đầu, phần còn lại chạy trong nền" }
+  - { num: "41.999.000đ", label: "Giá khởi điểm iPhone 18 Pro Max tại Việt Nam, bán từ 18/9/2026" }
+  - { num: "4 hạng mục", label: "Quick Start không lo được: Zalo, ngân hàng, VNeID, số thuê bao" }
+  - { num: "2 giờ", label: "Sau khi đổi máy, nhà mạng tạm dừng gọi đi và nhắn tin đi nếu chưa xác thực khuôn mặt" }
+  - { num: "30 ngày", label: "Hạn xác thực lại trước khi thuê bao có thể bị khóa hai chiều" }
+  - { num: "Chỉ văn bản", label: "Phạm vi sao lưu tin nhắn miễn phí của Zalo, ảnh và video cần zCloud" }
+  - { num: "7 ngày", label: "Thời gian tối thiểu nên giữ máy cũ trước khi bán hoặc thu cũ đổi mới" }
 faq:
   - q: "Quick Start có chuyển được lịch sử tin nhắn Zalo không?"
-    a: "Không, và đây là hiểu lầm phổ biến nhất. Quick Start chuyển được ứng dụng Zalo cùng tài khoản đăng nhập, nhưng lịch sử tin nhắn nằm trong bộ nhớ của riêng ứng dụng và phải chuyển bằng chức năng sao lưu trong chính Zalo. Việc cần làm là mở Zalo trên máy cũ, vào phần cài đặt tài khoản để tạo bản sao lưu trước khi chuyển máy, rồi khôi phục trên máy mới ngay lần đăng nhập đầu tiên. Bỏ qua bước này thì lịch sử hội thoại cũ sẽ không tự quay lại."
+    a: "Không. Quick Start cài lại ứng dụng Zalo, nhưng lịch sử tin nhắn phải chuyển bằng chức năng Sao lưu và khôi phục trong chính Zalo: trên máy cũ vào Cá nhân, Cài đặt, Sao lưu và khôi phục, Sao lưu ngay và đặt mật khẩu cho bản sao lưu; trên máy mới đăng nhập rồi chọn Khôi phục. Theo trang hỗ trợ của Zalo, cách này chỉ khôi phục tin nhắn văn bản, ảnh, video và tệp cần gói zCloud, còn tin đã xóa hoặc đã thu hồi thì không được sao lưu."
   - q: "Đổi sang iPhone mới thì app ngân hàng có phải đăng ký lại không?"
-    a: "Hầu hết ứng dụng ngân hàng tại Việt Nam gắn tài khoản với thiết bị cụ thể, nên khi đăng nhập trên máy mới sẽ phải kích hoạt lại thiết bị. Quy trình thường gồm nhập lại mật khẩu, nhận mã xác thực qua số điện thoại đã đăng ký, và trong nhiều trường hợp phải quét lại khuôn mặt hoặc căn cước để xác thực sinh trắc học. Vì vậy phải bảo đảm số điện thoại đăng ký đang hoạt động trên máy mới trước khi mở app ngân hàng."
-  - q: "Chuyển eSIM sang iPhone mới thế nào?"
-    a: "Nếu cả hai máy đều là iPhone và đều chạy phiên bản iOS đủ mới, có thể chuyển eSIM trực tiếp trong quá trình thiết lập bằng chức năng chuyển eSIM của máy, không cần ra cửa hàng. Nếu cách này không hiện ra hoặc báo lỗi, phương án còn lại là liên hệ nhà mạng để được cấp lại mã QR eSIM cho thiết bị mới. Hãy làm bước này sớm, vì số điện thoại là chìa khóa để nhận mã xác thực cho VNeID và app ngân hàng."
-  - q: "Có nên xóa sạch máy cũ ngay sau khi chuyển xong không?"
-    a: "Không nên. Hãy giữ máy cũ ở trạng thái còn đăng nhập thêm ít nhất một tuần. Trong tuần đó bạn sẽ phát hiện ra những thứ còn sót: một ứng dụng chưa đồng bộ, một mã hai lớp còn nằm trên máy cũ, một tấm ảnh chưa tải lên iCloud. Chỉ khi đã dùng máy mới trọn vẹn vài ngày mà không cần chạm tới máy cũ thì mới đăng xuất tài khoản Apple, tắt Tìm iPhone và xóa toàn bộ nội dung."
+    a: "Phải kích hoạt lại. Theo Quyết định 2345/QĐ-NHNN có hiệu lực từ 1/7/2024, lần đầu dùng ứng dụng ngân hàng trên thiết bị mới phải xác thực sinh trắc học, tức quét khuôn mặt đối chiếu với dữ liệu trên căn cước gắn chip. Quy trình thường gồm đăng nhập, nhận mã OTP qua số điện thoại đã đăng ký rồi quét khuôn mặt. Chuẩn bị sẵn căn cước và làm ở nơi đủ sáng."
+  - q: "Lắp SIM sang iPhone mới thì có bị khóa số không?"
+    a: "Có thể bị tạm dừng một chiều. Theo Thông tư 08/2026/TT-BKHCN áp dụng từ 15/6/2026, trong tối đa 2 giờ sau khi phát hiện thuê bao đổi sang thiết bị khác, nhà mạng tạm dừng gọi đi và nhắn tin đi cho tới khi chủ thuê bao xác thực lại khuôn mặt qua ứng dụng nhà mạng hoặc tại cửa hàng. Chiều đến, tức nghe gọi, nhận tin nhắn và mã OTP, cùng dữ liệu di động vẫn dùng bình thường. Quá 30 ngày chưa xác thực thì thuê bao có thể bị khóa hai chiều."
   - q: "Tài khoản VNeID có phải kích hoạt lại trên máy mới không?"
-    a: "Có. VNeID gắn với thiết bị, nên khi đăng nhập trên máy mới bạn sẽ cần xác thực lại, thường bằng mã gửi tới số điện thoại đã đăng ký cùng bước xác thực khuôn mặt. Điều kiện tiên quyết là số thuê bao phải đang hoạt động và đúng thông tin chính chủ. Nếu số điện thoại đã đổi hoặc thông tin thuê bao không khớp, việc cần làm trước là chuẩn hóa thông tin với nhà mạng chứ không phải cài lại ứng dụng nhiều lần."
+    a: "Có. Khi đăng nhập VNeID trên thiết bị mới, hệ thống báo phát hiện thiết bị mới và gửi mã xác nhận tới ứng dụng VNeID trên máy cũ để nhập vào máy mới. Đây là lý do phải giữ máy cũ còn đăng nhập. Nếu đã mất máy cũ, có thể xác thực bằng cách áp căn cước gắn chip vào máy mới qua NFC để nhận OTP."
+  - q: "Có nên xóa sạch máy cũ ngay sau khi chuyển xong không?"
+    a: "Không nên. Giữ máy cũ ở trạng thái còn đăng nhập thêm ít nhất một tuần. Trong tuần đó bạn sẽ phát hiện những thứ còn sót: một ứng dụng chưa đồng bộ, một mã hai lớp còn nằm trên máy cũ, một tấm ảnh chưa lên iCloud. Chỉ khi đã dùng máy mới trọn vẹn vài ngày mà không cần chạm tới máy cũ mới đăng xuất tài khoản Apple, tắt Tìm iPhone và xóa toàn bộ nội dung."
 related:
   - { href: "/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html", cat: "Apple", title: "iPhone 18 Pro giá chính thức 1.199 USD, có gì mới?" }
   - { href: "/articles/ios-27-ra-mat-ngay-nao-iphone-nao-duoc-cap-nhat-2026.html", cat: "Apple", title: "iOS 27 ra mắt ngày nào, iPhone nào được cập nhật?" }
@@ -46,7 +46,7 @@ related:
 featured: true
 ---
 
-iPhone 18 Pro Max lên kệ chính hãng tại Việt Nam với giá niêm yết từ 41.999.000 đồng cho bản 256GB trên Apple Store Việt Nam (giá đọc ngày 28/09/2026), và cùng với những chiếc máy mới về tay là một loạt câu hỏi rất thực tế mà hướng dẫn quốc tế gần như không trả lời: lịch sử tin nhắn Zalo đi đâu, app ngân hàng có phải đăng ký lại không, VNeID trên máy mới xác thực kiểu gì, và chiếc eSIM đang gắn trên máy cũ chuyển sang cách nào. Apple lo phần khung, còn phần ruột thì người dùng Việt Nam phải tự làm.
+iPhone 18 Pro và 18 Pro Max bán chính hãng tại Việt Nam từ **18/9/2026**, Việt Nam nằm trong nhóm thị trường đầu tiên. Giá khởi điểm là **38.999.000 đồng** cho iPhone 18 Pro và **41.999.000 đồng** cho iPhone 18 Pro Max trên Apple Store Việt Nam (giá đọc ngày 30/09/2026), và nhiều đơn đặt trước đang được giao dần trong tháng 10. Cùng với máy mới về tay là loạt câu hỏi rất thực tế mà hướng dẫn quốc tế gần như không trả lời: tin nhắn Zalo đi đâu, app ngân hàng có phải đăng ký lại không, VNeID trên máy mới xác thực kiểu gì, và vì sao lắp SIM sang máy mới thì không gọi đi được. Apple lo phần khung, phần ruột người dùng Việt Nam phải tự làm.
 
 <div class="spec-box">
   <div class="spec-box-title">📋 Thứ gì Quick Start làm được và không làm được</div>
@@ -54,11 +54,11 @@ iPhone 18 Pro Max lên kệ chính hãng tại Việt Nam với giá niêm yết
     <tr><td>Ảnh, video, danh bạ, lịch</td><td>Quick Start và iCloud lo được</td></tr>
     <tr><td>Tin nhắn iMessage và SMS</td><td>Quick Start lo được</td></tr>
     <tr><td>Danh sách ứng dụng đã cài</td><td>Tự tải lại, nhưng phải đăng nhập lại từng ứng dụng</td></tr>
-    <tr><td>Lịch sử tin nhắn Zalo</td><td>Không, phải sao lưu và khôi phục trong chính Zalo</td></tr>
-    <tr><td>Ứng dụng ngân hàng</td><td>Không, phải kích hoạt lại thiết bị và xác thực sinh trắc học</td></tr>
-    <tr><td>Tài khoản VNeID</td><td>Không, phải đăng nhập và xác thực lại trên máy mới</td></tr>
-    <tr><td>eSIM</td><td>Không tự động, chuyển bằng chức năng chuyển eSIM hoặc xin cấp lại QR</td></tr>
-    <tr><td>Mã xác thực hai lớp trong ứng dụng authenticator</td><td>Không, phải xuất và nhập thủ công trước khi xóa máy cũ</td></tr>
+    <tr><td>Lịch sử tin nhắn Zalo</td><td>Không, sao lưu và khôi phục trong Zalo (chỉ văn bản nếu không có zCloud)</td></tr>
+    <tr><td>Ứng dụng ngân hàng</td><td>Không, kích hoạt lại và xác thực khuôn mặt theo Quyết định 2345</td></tr>
+    <tr><td>Tài khoản VNeID</td><td>Không, nhập mã xác nhận gửi về máy cũ hoặc xác thực NFC bằng căn cước</td></tr>
+    <tr><td>Số thuê bao (SIM, eSIM)</td><td>Không tự động, và phải xác thực lại khuôn mặt với nhà mạng sau khi đổi máy</td></tr>
+    <tr><td>Mã hai lớp trong ứng dụng authenticator</td><td>Không, phải chuyển thủ công trước khi xóa máy cũ</td></tr>
   </table>
 </div>
 
@@ -66,63 +66,68 @@ iPhone 18 Pro Max lên kệ chính hãng tại Việt Nam với giá niêm yết
 
 Sai lầm tốn thời gian nhất là mở hộp máy mới rồi mới quay lại nghĩ xem máy cũ còn gì. Có ba việc nên hoàn tất trên máy cũ khi nó vẫn đang đăng nhập đầy đủ.
 
-Thứ nhất là sao lưu iCloud thủ công ngay trước khi chuyển, đừng tin vào bản sao lưu tự động tối qua. Vào phần cài đặt tài khoản Apple, chọn iCloud, rồi sao lưu ngay và chờ tới khi báo hoàn tất. Thứ hai là tạo bản sao lưu Zalo từ bên trong ứng dụng, vì đây là dữ liệu duy nhất trong bài mà không công cụ hệ thống nào chạm tới được. Thứ ba là xử lý ứng dụng sinh mã hai lớp: nếu bạn đang dùng một ứng dụng authenticator cho tài khoản Google, ngân hàng hay sàn giao dịch, hãy dùng chức năng chuyển tài khoản sang thiết bị mới của chính ứng dụng đó, vì các mã này thường không nằm trong bản sao lưu.
+Thứ nhất là sao lưu iCloud thủ công ngay trước khi chuyển, đừng tin vào bản sao lưu tự động tối qua: vào Cài đặt, chọn tên tài khoản Apple, iCloud, Sao lưu iCloud, rồi Sao lưu bây giờ và chờ tới khi xong. Thứ hai là tạo bản sao lưu Zalo từ bên trong ứng dụng: Cá nhân, Cài đặt, Sao lưu và khôi phục, Sao lưu ngay, và đặt mật khẩu cho bản sao lưu, nhớ ghi lại mật khẩu này. Thứ ba là xử lý ứng dụng sinh mã hai lớp: nếu đang dùng một ứng dụng authenticator cho Google, ngân hàng hay sàn giao dịch, hãy dùng chức năng chuyển tài khoản của chính ứng dụng đó, vì các mã này thường không nằm trong bản sao lưu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/1ij_5A9GsFA/maxresdefault.jpg" alt="Màn hình sao lưu iCloud trên iPhone hiển thị tiến trình đang chạy" loading="lazy" width="1280" height="720">
-  <figcaption>Sao lưu thủ công ngay trước khi chuyển máy giúp tránh mất phần dữ liệu phát sinh trong ngày. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/chuyen-du-lieu-sang-iphone-18-zalo-ngan-hang-vneid-2026/sao-luu-icloud-iphone-apple.jpg" alt="Man hinh Sao luu iCloud tren iPhone voi nut Sao luu bay gio va thoi diem sao luu gan nhat" loading="lazy" width="1280" height="720">
+  <figcaption>Màn hình Sao lưu iCloud trên iOS 27, dòng cuối cho biết lần sao lưu thành công gần nhất. Ảnh: Apple Support</figcaption>
 </figure>
 
-Một điểm dễ bỏ qua là dung lượng iCloud. Gói miễn phí 5GB gần như không đủ cho một chiếc máy dùng vài năm, và bản sao lưu sẽ dừng giữa chừng mà chỉ hiện một dòng thông báo nhỏ. Nếu sắp đổi máy, việc mua tạm gói dung lượng lớn hơn trong một tháng là khoản chi nhỏ nhưng loại bỏ được nguyên nhân hỏng việc phổ biến nhất. Sau khi chuyển xong có thể hạ lại gói cũ.
+Một điểm dễ bỏ qua là dung lượng iCloud. Gói miễn phí 5GB gần như không đủ cho một chiếc máy dùng vài năm, và bản sao lưu sẽ dừng giữa chừng chỉ với một dòng thông báo nhỏ. Mua tạm gói dung lượng lớn hơn trong một tháng là khoản chi nhỏ nhưng loại bỏ nguyên nhân hỏng việc phổ biến nhất, sau khi chuyển xong có thể hạ lại gói cũ. Với Zalo cũng vậy: bản sao lưu miễn phí chỉ gồm tin nhắn văn bản, nếu cần giữ ảnh, video và tệp trong các cuộc trò chuyện thì phải dùng gói zCloud hoặc tự lưu những tệp quan trọng ra ngoài trước.
 
 ## Bước chuyển máy: Quick Start và những gì nó thật sự làm
 
-Quick Start là cách nhanh nhất khi cả máy cũ lẫn máy mới đều là iPhone. Bật máy mới, đặt cạnh máy cũ, chờ máy cũ hiện thông báo thiết lập iPhone mới, rồi làm theo hướng dẫn. Phần bắt đầu chỉ tốn vài phút, sau đó dữ liệu chuyển trực tiếp giữa hai máy hoặc tải về từ iCloud, tùy lựa chọn.
-
-Điều cần hiểu đúng là Quick Start chuyển được cấu trúc máy chứ không chuyển được trạng thái đăng nhập của từng dịch vụ. Ứng dụng sẽ xuất hiện lại trên màn hình chính, nhưng phần lớn sẽ yêu cầu đăng nhập từ đầu khi mở lần đầu. Với ứng dụng giải trí thì đây chỉ là phiền toái, còn với ứng dụng tài chính thì đó là một quy trình xác thực đầy đủ, và quy trình đó cần số điện thoại hoạt động.
-
-<div class="art-video-label">VIDEO · Chuyển dữ liệu sang iPhone mới</div>
-<div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/3MUT2XM6wFU" title="Chuyen du lieu sang iPhone moi" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-</div>
-<p class="art-video-caption">Quá trình chuyển máy chạy nền khá lâu, nên cắm sạc và giữ Wi-Fi ổn định. Nguồn: YouTube</p>
-
-Vì lý do đó, thứ tự hợp lý nhất sau khi Quick Start chạy xong là: xử lý eSIM trước, rồi mới tới VNeID, rồi mới tới ngân hàng. Làm ngược lại thì bạn sẽ ngồi chờ mã xác thực gửi tới một số thuê bao chưa kích hoạt trên máy mới, và vòng lặp đó là nguyên nhân khiến nhiều người mất cả buổi chiều.
-
-## eSIM: làm sớm, vì nó là chìa khóa cho mọi bước sau
-
-Nếu đang dùng eSIM, hai máy iPhone chạy iOS đủ mới có thể chuyển trực tiếp trong lúc thiết lập, không cần ra cửa hàng. Trong trường hợp chức năng này không hiện hoặc báo lỗi, phương án thay thế là liên hệ nhà mạng để được cấp lại mã QR cho thiết bị mới. Với người dùng SIM vật lý, việc đơn giản hơn nhiều: tháo ra lắp sang, hoặc nhân dịp này chuyển luôn sang eSIM nếu máy mới hỗ trợ.
-
-Điểm cần nhớ là một eSIM chỉ tồn tại trên một thiết bị tại một thời điểm. Khi đã chuyển sang máy mới, số thuê bao trên máy cũ ngừng hoạt động. Vì vậy đừng chuyển eSIM khi bạn còn đang cần máy cũ để nhận mã xác thực cho một dịch vụ nào đó chưa xử lý xong.
+Quick Start là cách nhanh nhất khi cả máy cũ lẫn máy mới đều là iPhone. Bật máy mới, đặt cạnh máy cũ đang bật Bluetooth, chờ máy cũ hiện thông báo thiết lập iPhone mới, rồi làm theo hướng dẫn. Dữ liệu chuyển trực tiếp giữa hai máy hoặc tải về từ iCloud, tùy lựa chọn; cắm sạc cả hai máy và giữ Wi-Fi ổn định vì quá trình này chạy khá lâu với máy nhiều dữ liệu.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/kRjwUiS3C70/maxresdefault.jpg" alt="Thiết lập eSIM và thông tin thuê bao di động trên điện thoại" loading="lazy" width="1280" height="720">
-  <figcaption>Số thuê bao hoạt động trên máy mới là điều kiện tiên quyết cho VNeID và ứng dụng ngân hàng. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/chuyen-du-lieu-sang-iphone-18-zalo-ngan-hang-vneid-2026/quick-start-iphone-apple.jpg" alt="Man hinh Quick Start tren iPhone moi dang tim thiet bi o gan" loading="lazy" width="1280" height="720">
+  <figcaption>Màn hình Quick Start trên máy mới, chờ iPhone cũ đặt ở gần. Ảnh: Apple Support</figcaption>
 </figure>
 
-Có một tình huống riêng của thị trường Việt Nam đáng lưu ý: nếu thông tin thuê bao không còn khớp với giấy tờ chính chủ, các dịch vụ định danh có thể từ chối xác thực. Đây không phải lỗi của máy mới. Việc cần làm là chuẩn hóa thông tin thuê bao với nhà mạng trước, nội dung này được nói kỹ trong bài [VNeID khóa tài khoản nếu SIM không còn chính chủ](/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html).
+Điều cần hiểu đúng là Quick Start chuyển được cấu trúc máy chứ không chuyển được trạng thái đăng nhập của từng dịch vụ. Ứng dụng xuất hiện lại trên màn hình chính, nhưng phần lớn sẽ yêu cầu đăng nhập từ đầu. Với ứng dụng giải trí đây chỉ là phiền toái, còn với ứng dụng tài chính và định danh thì đó là một quy trình xác thực đầy đủ, cần số điện thoại hoạt động và cần cả máy cũ.
+
+<div class="art-video-label">VIDEO · Apple hướng dẫn dùng Quick Start và iCloud để chuyển dữ liệu</div>
+<div class="art-video-wrap">
+  <iframe src="https://www.youtube.com/embed/8UrN8XBP9PE" title="How to transfer data to your new iPhone or iPad using Quick Start and iCloud - Apple Support" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video chính thức của Apple Support về Quick Start và iCloud (tiếng Anh). Nguồn: YouTube/Apple Support</p>
+
+Vì vậy thứ tự hợp lý sau khi Quick Start chạy xong là: xử lý số thuê bao và xác thực lại khuôn mặt với nhà mạng trước, rồi tới VNeID, rồi mới tới ngân hàng và Zalo. Làm ngược lại thì dễ rơi vào cảnh chờ mã xác thực gửi tới một số chưa hoạt động trên máy mới, vòng lặp khiến nhiều người mất cả buổi chiều.
+
+## SIM và eSIM: bước mới từ 15/6/2026 là xác thực lại khuôn mặt
+
+Với SIM vật lý, chỉ cần tháo ra lắp sang. Với eSIM, iPhone có chức năng chuyển eSIM trong lúc thiết lập, nhưng việc nó có hiện ra hay không phụ thuộc chính sách của từng nhà mạng. Nếu không hiện hoặc báo lỗi, cách chắc chắn là chuyển qua ứng dụng My Viettel, My VNPT hoặc My MobiFone (thuê bao phải đúng chính chủ), hoặc ra cửa hàng. Một eSIM chỉ hoạt động trên một thiết bị tại một thời điểm, nên chuyển xong thì số trên máy cũ ngừng hoạt động.
+
+Điểm mới mà nhiều người đổi máy đợt này gặp phải: theo **Thông tư 08/2026/TT-BKHCN** áp dụng từ **15/6/2026**, trong tối đa **2 giờ** sau khi phát hiện thuê bao chuyển sang thiết bị khác, nhà mạng **tạm dừng gọi đi và nhắn tin đi** cho tới khi chủ thuê bao **xác thực lại khuôn mặt**, qua ứng dụng nhà mạng hoặc tại cửa hàng. Chiều đến vẫn bình thường: bạn vẫn nghe gọi, nhận tin nhắn, nhận mã OTP và dùng dữ liệu di động. Quá **30 ngày** không xác thực thì thuê bao có thể bị khóa hai chiều hoặc chấm dứt hợp đồng.
+
+<figure>
+  <img decoding="async" src="https://techvision.click/images/chuyen-du-lieu-sang-iphone-18-zalo-ngan-hang-vneid-2026/xac-thuc-khuon-mat-doi-thiet-bi.jpg" alt="Nguoi dung cam dien thoai quet khuon mat de xac thuc lai thue bao sau khi doi may" loading="lazy" width="1600" height="838">
+  <figcaption>Xác thực lại khuôn mặt trên ứng dụng nhà mạng sau khi đổi điện thoại, áp dụng từ 15/6/2026. Ảnh: VTV</figcaption>
+</figure>
+
+Vì chiều nhận OTP không bị chặn, bước này không cản việc đăng nhập ngân hàng hay VNeID, nhưng nên làm ngay trong ngày đầu để khỏi bất ngờ khi cần gọi đi. Nếu thông tin thuê bao không còn khớp giấy tờ chính chủ, việc xác thực sẽ thất bại và cần chuẩn hóa với nhà mạng trước, nội dung này được nói kỹ trong bài [VNeID khóa tài khoản nếu SIM không còn chính chủ](/articles/vneid-tu-dong-khoa-tai-khoan-28-9-2026-sim-khong-chinh-chu.html).
 
 ## Zalo, ngân hàng và VNeID: ba ca cần làm tay
 
-**Zalo.** Cài ứng dụng trên máy mới, đăng nhập bằng số điện thoại, và ngay ở lần đăng nhập đầu tiên hệ thống sẽ hỏi có muốn khôi phục tin nhắn từ bản sao lưu hay không. Đây là thời điểm duy nhất thuận tiện để làm việc đó, nên đừng bấm bỏ qua cho nhanh. Nếu bạn chưa tạo bản sao lưu trên máy cũ và máy cũ vẫn còn trong tay, hãy quay lại tạo bản sao lưu rồi đăng nhập lại.
+**Zalo.** Cài ứng dụng trên máy mới, đăng nhập bằng số điện thoại, chọn **Khôi phục** và nhập mật khẩu bản sao lưu. Đây là lúc thuận tiện nhất để làm việc đó, nên đừng bấm bỏ qua cho nhanh. Nếu chưa tạo bản sao lưu trên máy cũ và máy cũ vẫn còn trong tay, hãy quay lại tạo bản sao lưu rồi đăng nhập lại. Nhớ rằng tin nhắn đã xóa hoặc đã thu hồi không nằm trong bản sao lưu.
 
-**Ứng dụng ngân hàng.** Mỗi ngân hàng có quy trình riêng nhưng khung chung giống nhau: đăng nhập bằng tên đăng nhập và mật khẩu, nhận mã xác thực gửi tới số điện thoại đã đăng ký, rồi kích hoạt thiết bị mới. Nhiều ngân hàng yêu cầu thêm bước xác thực sinh trắc học bằng cách quét khuôn mặt và đọc chip trên thẻ căn cước. Hãy chuẩn bị sẵn thẻ căn cước bên cạnh trước khi bắt đầu, và làm ở nơi đủ sáng, vì bước quét khuôn mặt hay thất bại trong điều kiện thiếu sáng.
+**Ứng dụng ngân hàng.** Theo **Quyết định 2345/QĐ-NHNN** có hiệu lực từ 1/7/2024, lần đầu dùng ứng dụng ngân hàng trên thiết bị mới phải xác thực sinh trắc học. Khung chung giống nhau ở mọi ngân hàng: đăng nhập, nhận OTP qua số đã đăng ký, rồi quét khuôn mặt đối chiếu với dữ liệu trên căn cước gắn chip. Chuẩn bị sẵn căn cước và làm ở nơi đủ sáng, vì bước quét khuôn mặt hay thất bại khi thiếu sáng.
 
-**VNeID.** Tương tự, ứng dụng gắn với thiết bị nên phải xác thực lại. Sau khi đăng nhập, làm theo bước xác thực được yêu cầu và kiểm tra lại các giấy tờ đã tích hợp còn hiển thị đầy đủ hay không. Nếu bạn dùng VNeID cho các thủ tục hành chính thường xuyên, nên kiểm tra ngay trong ngày đầu thay vì đợi tới lúc cần dùng gấp.
+**VNeID.** Khi đăng nhập trên máy mới, ứng dụng báo phát hiện thiết bị mới và gửi **mã xác nhận tới VNeID trên máy cũ**; bạn mở máy cũ lấy mã rồi nhập vào máy mới. Đây là lý do mạnh nhất để chưa xóa máy cũ. Nếu đã mất máy cũ, VNeID cho xác thực bằng cách áp căn cước gắn chip vào máy mới qua NFC. Sau khi vào được, kiểm tra các giấy tờ đã tích hợp còn hiển thị đủ không, ngay trong ngày đầu thay vì đợi lúc cần gấp.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/RqO4owZNinQ/maxresdefault.jpg" alt="Người dùng thao tác xác thực danh tính trên ứng dụng điện thoại" loading="lazy" width="1280" height="720">
-  <figcaption>Các ứng dụng định danh và ngân hàng đều cần xác thực lại khi đổi thiết bị. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://techvision.click/images/chuyen-du-lieu-sang-iphone-18-zalo-ngan-hang-vneid-2026/mo-hop-iphone-18-pro-max.jpg" alt="Tay mo hop iPhone 18 Pro Max mau do ban chinh hang Viet Nam" loading="lazy" width="1200" height="675">
+  <figcaption>Mở hộp iPhone 18 Pro Max bản bán tại Việt Nam. Ảnh: VnExpress</figcaption>
 </figure>
 
 ## Giữ máy cũ bao lâu trước khi bán
 
-Mốc an toàn là một tuần. Trong bảy ngày đó, hãy dùng máy mới như máy chính và ghi lại mọi lần bạn phải cầm máy cũ lên. Mỗi lần như vậy là một dịch vụ chưa chuyển xong. Khi đã qua vài ngày liên tiếp không cần chạm tới máy cũ, mới tới lúc dọn dẹp: đăng xuất tài khoản Apple, tắt chức năng Tìm iPhone, rồi xóa toàn bộ nội dung và cài đặt.
+Mốc an toàn là một tuần. Trong bảy ngày đó, dùng máy mới như máy chính và ghi lại mọi lần phải cầm máy cũ lên, mỗi lần như vậy là một dịch vụ chưa chuyển xong. Khi đã qua vài ngày liên tiếp không cần chạm tới máy cũ, mới tới lúc dọn dẹp: đăng xuất tài khoản Apple, tắt Tìm iPhone, rồi xóa toàn bộ nội dung và cài đặt.
 
-Riêng với người định thu cũ đổi mới, thứ tự này vẫn nên được giữ. Các chương trình thu cũ thường cho phép định giá trước rồi hoàn tất giao dịch sau, nên hoàn toàn có thể chốt giá trong tuần đầu và chỉ giao máy khi đã chắc chắn. Nếu bạn đang phân vân giữa giữ máy cũ hay lên đời, bài [nên mua iPhone 17 hay đợi iPhone 18](/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html) có phần phân tích chênh lệch giá theo từng đời máy tại thị trường trong nước.
+Riêng với người định thu cũ đổi mới, thứ tự này vẫn nên được giữ. Các chương trình thu cũ thường cho định giá trước rồi hoàn tất sau, nên có thể chốt giá trong tuần đầu và chỉ giao máy khi đã chắc chắn. Nếu còn phân vân giữa giữ máy cũ hay lên đời, bài [nên mua iPhone 17 hay đợi iPhone 18](/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html) có phần phân tích chênh lệch giá theo từng đời máy tại thị trường trong nước.
 
-Cuối cùng, nếu máy mới của bạn chạy iOS 27 ngay từ hộp và bạn thấy pin tụt nhanh trong vài ngày đầu, đó là hiện tượng bình thường của giai đoạn máy đang lập chỉ mục và đồng bộ dữ liệu. Nguyên nhân và cách xử lý nằm trong bài [iPhone hao pin, nóng máy sau khi lên iOS 27](/articles/ios-27-hao-pin-nong-may-cach-khac-phuc-2026.html).
+Cuối cùng, máy mới chạy iOS 27 ngay từ hộp thường nóng và tụt pin nhanh hơn trong vài ngày đầu vì đang lập chỉ mục ảnh và đồng bộ dữ liệu, hiện tượng này tự hết khi quá trình đồng bộ xong. Danh sách máy được lên iOS 27 và lịch cập nhật nằm trong bài [iOS 27 ra mắt ngày nào, iPhone nào được cập nhật](/articles/ios-27-ra-mat-ngay-nao-iphone-nao-duoc-cap-nhat-2026.html).
 
 <div class="art-callout">
-  💡 <strong>Lưu ý:</strong> Không xóa máy cũ, không tháo eSIM và không đăng xuất tài khoản Apple cho tới khi đã đăng nhập lại thành công toàn bộ ứng dụng ngân hàng và ứng dụng định danh trên máy mới. Quy trình khôi phục quyền truy cập khi đã mất cả thiết bị cũ lẫn số thuê bao phức tạp hơn nhiều so với việc giữ máy cũ thêm một tuần.
+  💡 <strong>Lưu ý:</strong> Không xóa máy cũ, không chuyển eSIM đi và không đăng xuất tài khoản Apple cho tới khi đã đăng nhập lại thành công toàn bộ ứng dụng ngân hàng và VNeID trên máy mới. Khôi phục quyền truy cập khi đã mất cả máy cũ lẫn số thuê bao phức tạp hơn nhiều so với việc giữ máy cũ thêm một tuần.
 </div>
