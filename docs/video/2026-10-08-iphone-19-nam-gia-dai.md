@@ -126,8 +126,15 @@ Cần anh biết trước khi duyệt:
 
 ## Gói đăng (CHƯA đăng)
 
+**Thumbnail** (1280x720, `out/iphone19/thumbnail-*.jpg`, dựng từ `thumb.html`, ảnh thật đã duyệt, biểu đồ C vẽ từ đúng số liệu video):
+- A (chính): "iPHONE ĐẮT LÊN THẬT?" 2007 499$ -> 2026 104 TRIỆU. Khớp 2 câu mở đầu của video.
+- B: "iPhone 17 RẺ HƠN iPhone 4?" 997$ vs 863$ tính theo sức mua 2026.
+- C: nền tối "2 ẢO GIÁC GIÁ iPHONE" + biểu đồ 19 năm.
+- Đăng A làm thumbnail chính, cho B và C vào "Thử nghiệm và so sánh" của YouTube Studio.
+
 **YouTube (video dài)**
 - Tiêu đề: `iPhone 19 năm: từ 499 USD tới 104 triệu, đắt lên thật hay ảo giác?`
+- Tiêu đề dự phòng (đi với thumbnail B / C): `iPhone 17 rẻ hơn iPhone 4? Giá iPhone 19 năm tính theo sức mua` / `2 ảo giác giá iPhone mà Apple dùng suốt 19 năm`
 - Mô tả:
   ```
   iPhone đầu tiên năm 2007 giá 499 USD. Năm 2026, iPhone Duo 2TB ở Việt Nam giá 103.999.000đ. Vậy iPhone có thật sự đắt lên?
@@ -153,4 +160,6 @@ Cần anh biết trước khi duyệt:
 
 **YouTube Shorts / TikTok / Facebook Reels (mồi 20 giây, dọc)**
 - Nội dung (17,2 giây, câu 20, 21, 34 + câu mời xem): 3 nhịp của video dài: "199 USD là ảo giác" -> biểu đồ 19 năm -> câu chốt "Apple làm thêm những chiếc iPhone đắt hơn", cuối dẫn về video dài.
-- Tiêu đề: `iPhone 17 rẻ hơn iPhone 4? Tính theo sức mua thì đúng`
+- YouTube Shorts: `iPhone 17 rẻ hơn iPhone 4? Tính theo sức mua thì đúng #iphone #apple` (gắn "Video liên quan" = video dài)
+- TikTok: `iPhone 17 rẻ hơn iPhone 4? Quy ra tiền 2026 thì đúng vậy. Apple không làm iPhone đắt hơn, Apple làm thêm những chiếc iPhone đắt hơn. Bản đầy đủ 19 năm giá iPhone trên YouTube TechVision. #iphone #apple #iphone17 #giaiphone #techvision`
+- Facebook Reels: `iPhone 17 rẻ hơn iPhone 4 nếu tính theo sức mua năm 2026: 863 USD so với 997 USD. Bảng giá iPhone 18 Pro Max tại Việt Nam: https://techvision.click/?utm_source=facebook&utm_medium=reel&utm_campaign=iphone-19-nam`
