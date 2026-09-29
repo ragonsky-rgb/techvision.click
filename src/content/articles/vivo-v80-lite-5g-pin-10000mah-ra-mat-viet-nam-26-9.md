@@ -7,8 +7,6 @@ category: "Smartphone"
 type: "tin-tuc"
 datePublished: "2026-09-29T09:00:00+07:00"
 dateModified: "2026-09-29T09:05:00+07:00"
-noindex: true
-scheduled: true
 deck: "Một viên pin 10.000mAh đặt trong thân máy điện thoại thông thường là thứ vài năm trước còn bị xem là bất khả thi. vivo V80 Lite 5G không chỉ làm được mà còn mang đi đo trước sự giám sát của Kỷ lục Guinness Thế giới, đạt 32 giờ 37 phút sáng màn liên tục. Máy lên kệ tại Việt Nam ngày 26/9/2026 với giá niêm yết từ 12,99 triệu đồng. Bài này bóc tách con số kỷ lục đó có nghĩa gì với người dùng thật, phần còn lại của cấu hình có tương xứng không, và mức giá đó có hợp lý."
 heroImage: "https://i.ytimg.com/vi/P8BHk24lTis/maxresdefault.jpg"
 heroAlt: "vivo V80 Lite 5G pin 10000mAh ra mat tai Viet Nam"
