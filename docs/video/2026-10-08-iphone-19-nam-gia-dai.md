@@ -124,7 +124,9 @@ Cần anh biết trước khi duyệt:
 - Tiếng động theo nghĩa cảnh, không lặp một tiếng: chạy số (tick), con dấu "ẢO GIÁC" (stamp), gạch giá 199 (xoẹt),
   vẽ biểu đồ (whoosh dài), thẻ "Tin đồn" (pop nhẹ), endcard (chime).
 
-## Gói đăng (CHƯA đăng)
+## Gói đăng
+
+**Đã đăng:** Facebook Reels (Short mồi) 29/9/2026, reel 1791600398702442 https://www.facebook.com/reel/1791600398702442 . YouTube dài, Shorts, TikTok: CHƯA.
 
 **Thumbnail** (1280x720, `out/iphone19/thumbnail-*.jpg`, dựng từ `thumb.html`, ảnh thật đã duyệt, biểu đồ C vẽ từ đúng số liệu video):
 - A (chính): "iPHONE ĐẮT LÊN THẬT?" 2007 499$ -> 2026 104 TRIỆU. Khớp 2 câu mở đầu của video.
@@ -137,8 +139,18 @@ Cần anh biết trước khi duyệt:
 - Tiêu đề dự phòng (đi với thumbnail B / C): `iPhone 17 rẻ hơn iPhone 4? Giá iPhone 19 năm tính theo sức mua` / `2 ảo giác giá iPhone mà Apple dùng suốt 19 năm`
 - Mô tả:
   ```
-  iPhone đầu tiên năm 2007 giá 499 USD. Năm 2026, iPhone Duo 2TB ở Việt Nam giá 103.999.000đ. Vậy iPhone có thật sự đắt lên?
-  Video quy toàn bộ giá khởi điểm tại Mỹ (bản không hợp đồng) ra sức mua năm 2026 theo chỉ số giá tiêu dùng Mỹ, và chỉ ra 2 "ảo giác" về giá mà Apple dùng suốt 19 năm.
+  iPhone đầu tiên năm 2007 giá 499 USD. Năm 2026, iPhone Duo 2TB ở Việt Nam giá 103.999.000đ, chiếc iPhone đầu tiên vượt 100 triệu đồng. Vậy sau 19 năm, iPhone có thật sự đắt lên?
+
+  Video quy giá khởi điểm tại Mỹ (bản không kèm hợp đồng nhà mạng) của từng đời iPhone ra sức mua năm 2026, và chỉ ra 2 "ảo giác" về giá mà Apple dùng suốt 19 năm.
+
+  Con số chính (quy ra USD năm 2026):
+  - iPhone đầu tiên 2007: 499 USD, tương đương 806 USD
+  - iPhone 4 năm 2010: giá thật 649 USD, tương đương 997 USD (con số 199 USD là giá khi ký hợp đồng 2 năm)
+  - iPhone XS Max năm 2018: 1.099 USD, tương đương 1.466 USD, giá khởi điểm cao nhất của iPhone không gập
+  - iPhone 17 năm 2025: giá thật 829 USD (799 USD đã trừ 30 USD nhà mạng), tương đương 863 USD, rẻ hơn iPhone 4
+  - Bộ nhớ khởi điểm 4GB lên 256GB; giá mỗi GB từ khoảng 202 USD xuống 3,4 USD
+  - 2026: iPhone 18 Pro từ 1.199 USD, Pro Max từ 1.299 USD, iPhone Duo từ 1.999 USD
+  - Việt Nam: iPhone 18 Pro Max chính hãng từ 41.999.000đ
 
   Chương:
   0:00 Từ 499 USD tới 103.999.000đ
@@ -152,9 +164,14 @@ Cần anh biết trước khi duyệt:
   2:22 Kết luận
   2:34 Nên mua iPhone nào ở Việt Nam
 
-  Nguồn giá: Apple Newsroom 2007-2026, Cục Thống kê Lao động Mỹ (BLS, CPI-U tháng 8/2026).
-  Ảnh: Apple Newsroom; Wikimedia Commons (Pavel Ševela, Feureau, SimonWaldherr, Maurizio Pesce, Beamish4).
+  Cách tính: giá niêm yết ngày ra mắt tại Mỹ (chưa thuế) nhân với chỉ số giá tiêu dùng CPI-U của Cục Thống kê Lao động Mỹ (BLS), tháng 8/2026 = 334,980. Giá Việt Nam lấy từ Apple Store Việt Nam. Thông tin iPhone 18 bản thường lùi sang 2027 là tin đồn.
+
+  Nguồn giá: Apple Newsroom 2007-2026, BLS, MacRumors.
+  Ảnh: Apple Newsroom. Wikimedia Commons: Pavel Ševela (CC BY-SA 3.0), Feureau (CC BY-SA 3.0), SimonWaldherr (CC BY-SA 4.0), Maurizio Pesce (CC BY 2.0), Beamish4 (CC BY-SA 4.0).
+
   Bảng giá iPhone 18 Pro Max tại Việt Nam: https://techvision.click/?utm_source=youtube&utm_medium=video&utm_campaign=iphone-19-nam
+
+  #iPhone #Apple #GiaiPhone
   ```
 - Thẻ: iPhone, giá iPhone, iPhone 18 Pro Max, iPhone Duo, Apple, lạm phát, TechVision
 
