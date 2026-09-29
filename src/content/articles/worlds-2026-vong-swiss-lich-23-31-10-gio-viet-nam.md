@@ -42,7 +42,6 @@ faq:
   - q: "Sau vòng Swiss thì giải diễn ra thế nào?"
     a: "Tứ kết diễn ra từ 3 tới 6/11, bán kết vào 7 và 8/11, và chung kết tổng được ấn định ngày 14/11. Từ tứ kết trở đi, toàn bộ các cặp đấu đều theo thể thức BO5. Điểm đáng chú ý của mùa này là lần đầu tiên vòng Swiss, tứ kết và bán kết cùng tổ chức tại một thành phố và trong một nhà thi đấu, thay vì di chuyển qua nhiều địa điểm như thông lệ. Việc gom địa điểm giúp các đội đỡ hao sức vì di chuyển, một yếu tố vẫn hay bị bỏ qua khi đánh giá phong độ của các đội ở giai đoạn cuối giải."
 related:
-  - { href: "/articles/worlds-2026-the-thuc-lich-play-in-cua-di-tiep-cua-tsw.html", cat: "Gaming", title: "Worlds 2026: thể thức, lịch play-in và cửa đi tiếp của TSW" }
   - { href: "/articles/worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau.html", cat: "Gaming", title: "Worlds 2026: lịch thi đấu giờ Việt Nam, xem ở đâu" }
   - { href: "/articles/tsw-gianh-ve-worlds-2026-dai-dien-lmht-viet-nam-dau-tien-lcp-split-3.html", cat: "Công nghệ", title: "TSW giành vé Worlds 2026 đầu tiên thế giới, LMHT Việt Nam" }
 featured: false
@@ -101,7 +100,7 @@ Giải năm nay có 19 đội. Cơ cấu suất gồm ba đại diện cho mỗi
 
 Cách phân bổ này thưởng cho thành tích thực tế ở MSI thay vì cố định cứng số suất theo từng khu vực. Với các khu vực nhỏ hơn, nó vừa là cơ hội vừa là áp lực: kết quả ở giải giữa năm ảnh hưởng trực tiếp tới số suất mà cả khu vực nhận được ở giải cuối năm.
 
-Vòng play-in trước đó gồm bốn đội, thi đấu theo nhánh loại kép với các cặp BO5, và chỉ một đội duy nhất bước tiếp vào vòng Swiss. Đây là thay đổi làm play-in trở nên khắc nghiệt hơn hẳn so với các mùa cho nhiều suất đi tiếp. Phân tích kỹ hơn về chặng này nằm ở bài [thể thức, lịch play-in và cửa đi tiếp của TSW](/articles/worlds-2026-the-thuc-lich-play-in-cua-di-tiep-cua-tsw.html).
+Vòng play-in trước đó gồm bốn đội, thi đấu theo nhánh loại kép với các cặp BO5, và chỉ một đội duy nhất bước tiếp vào vòng Swiss. Đây là thay đổi làm play-in trở nên khắc nghiệt hơn hẳn so với các mùa cho nhiều suất đi tiếp. Giờ thi đấu play-in theo giờ Việt Nam nằm ở bài [lịch thi đấu Worlds 2026 giờ Việt Nam](/articles/worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau.html).
 
 <div class="art-video-label">VIDEO · Không khí Chung kết thế giới và các đội dự giải</div>
 <div class="art-video-wrap">

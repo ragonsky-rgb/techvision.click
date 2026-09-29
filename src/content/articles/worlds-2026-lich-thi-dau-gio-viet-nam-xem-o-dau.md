@@ -1,116 +1,124 @@
 ---
 slug: "worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau"
 title: "Worlds 2026: lịch thi đấu giờ Việt Nam, xem ở đâu"
-description: "Lịch từng vòng Worlds 2026 quy về giờ Việt Nam, cái bẫy đổi múi giờ ngày 1/11 và nơi xem trực tiếp có bình luận tiếng Việt."
-keywords: "worlds 2026 lịch thi đấu, worlds 2026 giờ việt nam, xem worlds 2026 ở đâu, cktg 2026 mấy giờ, lịch thi đấu chung kết thế giới 2026, tsw worlds 2026"
+description: "Giờ Việt Nam từng vòng Worlds 2026 theo lịch Riot: play-in 1h sáng, vòng Thụy Sĩ 0h hoặc 3h, tứ kết 5h, chung kết 2h sáng 15/11. Kênh xem tiếng Việt."
+keywords: "worlds 2026 lịch thi đấu, worlds 2026 giờ việt nam, xem worlds 2026 ở đâu, cktg 2026 mấy giờ, lịch thi đấu chung kết thế giới 2026, tsw worlds 2026, mvk play-in worlds 2026"
 category: "Gaming"
 type: "tin-tuc"
 datePublished: "2026-10-06T08:30:00+07:00"
 dateModified: "2026-10-06T08:30:00+07:00"
 noindex: true
 scheduled: true
-deck: "Worlds năm nay tổ chức ở Mỹ, nghĩa là người xem tại Việt Nam sẽ phải dậy sớm chứ không ngồi xem buổi tối như hai mùa gần đây. Bài này quy đổi toàn bộ khung lịch sang giờ Việt Nam, giải thích cái bẫy đổi múi giờ đầu tháng 11, và chỉ ra nơi xem có bình luận tiếng Việt."
-heroImage: "https://i.ytimg.com/vi/gkyoEUJ_vME/maxresdefault.jpg"
-heroAlt: "San khau Chung ket the gioi Lien Minh Huyen Thoai Worlds 2026 tai My"
-heroCaption: "Worlds 2026 đi qua ba thành phố của nước Mỹ, khép lại ở Barclays Center. Ảnh minh họa từ YouTube"
+deck: "Worlds năm nay tổ chức ở Mỹ, nghĩa là người xem tại Việt Nam sẽ phải xem lúc nửa đêm hoặc rạng sáng thay vì buổi tối như hai mùa gần đây. Riot Games đã công bố giờ bắt đầu của từng giai đoạn, bài này quy đổi toàn bộ sang giờ Việt Nam, chỉ ra mốc đổi giờ đầu tháng 11, lịch của hai đại diện Việt Nam TSW và MVK, và nơi xem có bình luận tiếng Việt."
+heroImage: "https://techvision.click/images/worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau/worlds-2026-logo-riot.jpg"
+heroAlt: "Logo Chung ket the gioi Lien Minh Huyen Thoai Worlds 2026 cua Riot Games"
+heroCaption: "Worlds 2026 diễn ra từ 15/10 tới 14/11 tại Los Angeles, Allen (Texas) và New York. Ảnh: Riot Games"
 ogImage: "https://techvision.click/uploads/og-article/worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau.jpg"
-tldr: "Worlds 2026 chạy từ <strong>15/10 tới 14/11/2026</strong> trên đất Mỹ. Vòng khởi động ở Los Angeles, vòng Thụy Sĩ và loại trực tiếp ở Allen (Texas), chung kết tổng tại <strong>Barclays Center, New York</strong>. Với người xem Việt Nam, các trận ở Los Angeles lệch <strong>14 tiếng</strong> và các trận ở Texas lệch <strong>12 tiếng</strong>, nên phần lớn rơi vào khung <strong>rạng sáng theo giờ Việt Nam</strong>. Từ ngày <strong>1/11</strong> nước Mỹ kết thúc giờ mùa hè, mức lệch cộng thêm một tiếng, đây là chỗ nhiều người tính nhầm. Khu vực <strong>LCP</strong> có <strong>3 suất</strong>, trong đó Team Secret Whales là đội Việt Nam đã chắc vé."
-tags: ["Worlds2026", "LMHT", "Esports", "LichThiDau", "2026"]
-about: ["Worlds 2026", "Liên Minh Huyền Thoại", "Riot Games", "Team Secret Whales"]
+tldr: "Worlds 2026 chạy từ <strong>15/10 tới 14/11/2026</strong> tại Mỹ. Theo giờ Riot công bố, quy về giờ Việt Nam: vòng khởi động (play-in) bắt đầu <strong>1h sáng</strong> các ngày 16 tới 19/10, vòng Thụy Sĩ bắt đầu <strong>0h</strong> (các ngày 24 tới 27/10 và 1/11) hoặc <strong>3h sáng</strong> (29 tới 31/10), tứ kết và bán kết bắt đầu <strong>5h sáng</strong> từ 4 tới 9/11, chung kết tổng bắt đầu <strong>2h sáng ngày 15/11</strong>. Việt Nam có hai đại diện: <strong>Team Secret Whales</strong> vào thẳng vòng Thụy Sĩ, <strong>MVK Esports</strong> đá play-in. Kênh tiếng Việt chính thức là <strong>LoL Esports VN</strong>."
+tags: ["Worlds2026", "LMHT", "Esports", "LichThiDau", "TSW", "MVK", "2026"]
+about: ["Worlds 2026", "Liên Minh Huyền Thoại", "Riot Games", "Team Secret Whales", "MVK Esports", "LCP"]
 authorBio: "Founder LongTechVision. Theo dõi lịch thi đấu esports quốc tế và quy đổi sang khung giờ người xem Việt Nam."
-sourceUrl: "https://lolesports.com/"
-sourceName: "LoL Esports (Riot Games)"
-sourceDomains: "lolesports.com · fptshop.com.vn · thethao247.vn · en.wikipedia.org"
+sourceUrl: "https://lolesports.com/en-US/news/msi-and-worlds-updates"
+sourceName: "LoL Esports (Riot Games), Liquipedia, Insider Gaming"
+sourceDomains: "lolesports.com · liquipedia.net · en.wikipedia.org · insider-gaming.com"
 stats:
   - { num: "15/10 - 14/11", label: "Thời gian diễn ra toàn bộ Worlds 2026" }
-  - { num: "14 tiếng", label: "Mức lệch giờ giữa Los Angeles và Việt Nam trong tháng 10" }
-  - { num: "12 tiếng", label: "Mức lệch giữa Allen (Texas) và Việt Nam trong tháng 10" }
-  - { num: "1/11", label: "Ngày Mỹ kết thúc giờ mùa hè, mức lệch cộng thêm một tiếng" }
-  - { num: "19 đội", label: "Số đội dự giải, nhiều nhất từ trước tới nay" }
-  - { num: "3 suất", label: "Số vé Worlds của khu vực LCP có các đội Việt Nam" }
+  - { num: "1h sáng", label: "Giờ Việt Nam bắt đầu các ngày play-in, 16 tới 19/10" }
+  - { num: "0h và 3h", label: "Hai khung giờ Việt Nam của vòng Thụy Sĩ" }
+  - { num: "5h sáng", label: "Giờ Việt Nam bắt đầu tứ kết và bán kết, 4 tới 9/11" }
+  - { num: "2h sáng 15/11", label: "Giờ Việt Nam bắt đầu chung kết tổng tại New York" }
+  - { num: "2 đội", label: "Đại diện Việt Nam tại giải: TSW và MVK Esports" }
 faq:
   - q: "Worlds 2026 diễn ra từ ngày nào tới ngày nào?"
-    a: "Giải kéo dài từ 15/10 tới 14/11/2026. Vòng khởi động diễn ra từ 15 tới 18/10 tại Los Angeles, vòng Thụy Sĩ chia làm hai đợt trong khoảng 23 tới 31/10, vòng tứ kết rơi vào đầu tháng 11, bán kết ngay sau đó và chung kết tổng ngày 14/11 tại New York."
+    a: "Giải kéo dài từ 15/10 tới 14/11/2026 theo giờ Mỹ. Vòng khởi động (play-in) từ 15 tới 18/10 tại Riot Games Arena, Los Angeles. Vòng Thụy Sĩ chia hai đợt 23 tới 26/10 và 28 tới 31/10 tại Credit Union of Texas Event Center ở Allen, bang Texas. Tứ kết 3 tới 6/11, bán kết 7 và 8/11 cũng tại Allen. Chung kết tổng ngày 14/11 tại Barclays Center, New York."
   - q: "Trận đấu Worlds 2026 mấy giờ theo giờ Việt Nam?"
-    a: "Riot thường công bố giờ từng trận sát ngày thi đấu, nhưng mức lệch múi giờ thì tính được ngay. Trong tháng 10, Los Angeles chậm hơn Việt Nam 14 tiếng và Allen thuộc Texas chậm hơn 12 tiếng. Với khung giờ chiều quen thuộc ở địa phương, các trận sẽ rơi vào rạng sáng theo giờ Việt Nam. Từ ngày 1/11, khi Mỹ kết thúc giờ mùa hè, cộng thêm một tiếng vào mức lệch."
+    a: "Quy đổi từ giờ Riot công bố: play-in bắt đầu 1h sáng các ngày 16 tới 19/10; vòng Thụy Sĩ bắt đầu 0h các ngày 24, 25, 26, 27/10 và 1/11, riêng ba ngày 29, 30, 31/10 bắt đầu 3h sáng; tứ kết và bán kết bắt đầu 5h sáng từ 4 tới 9/11; chung kết tổng bắt đầu 2h sáng ngày 15/11. Đó là giờ mở màn của ngày thi đấu, các trận sau nối tiếp nên có thể kéo tới sáng."
   - q: "Xem Worlds 2026 ở đâu có tiếng Việt?"
-    a: "Các mùa gần đây, trận đấu được phát miễn phí trên hệ thống kênh chính thức của giải cùng các kênh có bản quyền phát bằng tiếng Việt trên YouTube và Facebook. Danh sách kênh cụ thể thường được công bố trước ngày khai mạc, nên hãy theo dõi trang chính thức của giải và fanpage của đơn vị phát sóng trong nước thay vì tìm các nguồn phát lậu, vốn hay chậm và dễ mất tín hiệu ở trận quan trọng."
+    a: "Kênh tiếng Việt chính thức của Riot là LoL Esports VN, phát trên YouTube và TikTok (tài khoản @lolesports_vn) và trên nền tảng ON Live. Nếu muốn nghe bình luận tiếng Anh, kênh gốc là @lolesports trên YouTube và riotgames trên Twitch. Nên dùng kênh chính thức thay vì nguồn phát lậu, vốn hay trễ và dễ mất tín hiệu ở trận quan trọng."
   - q: "Đội Việt Nam nào dự Worlds 2026?"
-    a: "Team Secret Whales là đội Việt Nam đầu tiên chốt suất, sau khi thắng CTBC Flying Oyster 3-0 tại vòng Thụy Sĩ LCP 2026 Split 3 ngày 2/8. Khu vực LCP nơi các đội Việt Nam thi đấu được phân 3 suất, nên các đại diện còn lại vẫn có cửa tranh những vé cuối cùng thông qua hệ thống thi đấu của khu vực."
-  - q: "Vì sao năm nay phải xem lúc rạng sáng?"
-    a: "Vì giải tổ chức ở Mỹ. Hai mùa gần đây khi Worlds đặt tại châu Âu hoặc châu Á, khung giờ thi đấu rơi vào buổi tối hoặc chiều muộn theo giờ Việt Nam. Nước Mỹ nằm ở phía bên kia bán cầu, buổi chiều ở Los Angeles chính là rạng sáng hôm sau ở Việt Nam, và không có cách nào dịch chuyển khung giờ đó."
+    a: "Hai đội. Team Secret Whales là hạt giống số 1 của khu vực LCP sau khi vô địch cả ba giai đoạn trong năm, vào thẳng vòng Thụy Sĩ. MVK Esports giành suất thứ ba của LCP nhờ điểm tích lũy cả mùa (76 điểm), phải đá vòng play-in cùng Karmine Corp và các đại diện của Bắc Mỹ và Brazil. Chỉ đội thắng play-in mới được vào vòng Thụy Sĩ."
+  - q: "Vì sao năm nay phải xem lúc nửa đêm và rạng sáng?"
+    a: "Vì giải tổ chức ở Mỹ. Worlds 2024 diễn ra ở châu Âu và Worlds 2025 ở Trung Quốc nên trận đấu rơi vào chiều tối theo giờ Việt Nam. Buổi trưa và chiều ở Mỹ tương ứng với nửa đêm tới sáng sớm hôm sau ở Việt Nam, và không có cách nào dịch chuyển khung giờ đó."
   - q: "Thể thức Thụy Sĩ ở vòng chính hoạt động thế nào?"
-    a: "Thay vì chia bảng cố định, các đội được ghép cặp theo thành tích tương đương sau mỗi lượt đấu. Đội thắng gặp đội thắng, đội thua gặp đội thua. Đội đạt đủ số trận thắng sẽ đi tiếp, đội chạm ngưỡng thua sẽ bị loại. Cách này giảm yếu tố may rủi của lá thăm chia bảng và tạo nhiều cặp đấu đáng xem hơn ở giữa giải."
+    a: "16 đội không chia bảng cố định mà được ghép cặp theo thành tích tương đương sau mỗi lượt. Đội đạt 3 trận thắng vào tứ kết, đội chạm 3 trận thua bị loại, tối đa 5 lượt. Trận quyết định đi tiếp hoặc bị loại đánh Bo3, các trận còn lại đánh Bo1. Toàn giải áp dụng Fearless Draft, tức tướng đã dùng trong một loạt đấu không được chọn lại ở ván sau."
 related:
   - { href: "/articles/worlds-2026-lmht-chung-ket-new-york-lich-suat-lcp.html", cat: "Esports", title: "Worlds 2026 LMHT: chung kết New York, lịch và suất LCP" }
+  - { href: "/articles/tsw-vo-dich-lcp-2026-split-3-thang-cfo-3-0-hat-giong-worlds.html", cat: "Gaming", title: "TSW vô địch LCP 2026 Split 3, thắng CFO 3-0 dự Worlds" }
   - { href: "/articles/tsw-gianh-ve-worlds-2026-dai-dien-lmht-viet-nam-dau-tien-lcp-split-3.html", cat: "Esports", title: "TSW giành vé Worlds 2026 đầu tiên thế giới, LMHT Việt Nam" }
-  - { href: "/articles/lcp-2026-split-3-playoffs-lich-thi-dau-cua-worlds-gam-mvk.html", cat: "Esports", title: "LCP 2026 Split 3 Playoffs: lịch thi đấu và cửa Worlds" }
 featured: true
 ---
 
-Hai mùa Worlds gần đây khá dễ chịu với người xem Việt Nam, vì giải tổ chức ở châu Âu và châu Á nên trận đấu rơi vào buổi chiều tối. Năm nay khác hẳn. Worlds 2026 đặt tại nước Mỹ, và điều đó đổi toàn bộ thói quen xem của người hâm mộ trong nước: phần lớn trận đấu sẽ diễn ra khi Việt Nam đang ngủ.
+Hai mùa Worlds gần đây khá dễ chịu với người xem Việt Nam, vì giải tổ chức ở châu Âu (2024) và Trung Quốc (2025) nên trận đấu rơi vào buổi chiều tối. Năm nay khác hẳn. Worlds 2026 đặt tại nước Mỹ, và Riot Games đã công bố giờ bắt đầu của từng giai đoạn: quy về giờ Việt Nam, sớm nhất là 0h, muộn nhất là 5h sáng. Toàn bộ giải diễn ra khi Việt Nam đang ngủ.
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Khung lịch Worlds 2026 và mức lệch giờ với Việt Nam</div>
+  <div class="spec-box-title">📋 Lịch Worlds 2026 quy đổi sang giờ Việt Nam (UTC+7)</div>
   <table>
-    <tr><td>Vòng khởi động</td><td>15 tới 18/10, Los Angeles, lệch 14 tiếng</td></tr>
-    <tr><td>Vòng Thụy Sĩ đợt 1</td><td>23 tới 26/10, Allen (Texas), lệch 12 tiếng</td></tr>
-    <tr><td>Vòng Thụy Sĩ đợt 2</td><td>28 tới 31/10, Allen (Texas), lệch 12 tiếng</td></tr>
-    <tr><td>Tứ kết</td><td>Đầu tháng 11, sau mốc đổi giờ của Mỹ</td></tr>
-    <tr><td>Bán kết</td><td>Ngay sau tứ kết, cùng địa điểm</td></tr>
-    <tr><td>Chung kết tổng</td><td>14/11, Barclays Center, New York</td></tr>
+    <tr><td><strong>Giai đoạn</strong></td><td><strong>Ngày và giờ tại Mỹ</strong></td><td><strong>Giờ Việt Nam</strong></td></tr>
+    <tr><td>Play-in, Los Angeles</td><td>15 tới 18/10, 11h (giờ bờ Tây)</td><td>1h sáng, 16 tới 19/10</td></tr>
+    <tr><td>Vòng Thụy Sĩ đợt 1, Allen</td><td>23 tới 26/10, 12h (giờ miền Trung)</td><td>0h, 24 tới 27/10</td></tr>
+    <tr><td>Vòng Thụy Sĩ đợt 2, Allen</td><td>28 tới 30/10, 15h</td><td>3h sáng, 29 tới 31/10</td></tr>
+    <tr><td>Vòng Thụy Sĩ ngày cuối, Allen</td><td>31/10, 12h</td><td>0h, 1/11</td></tr>
+    <tr><td>Tứ kết, Allen</td><td>3 tới 6/11, 16h</td><td>5h sáng, 4 tới 7/11</td></tr>
+    <tr><td>Bán kết, Allen</td><td>7 và 8/11, 16h</td><td>5h sáng, 8 và 9/11</td></tr>
+    <tr><td>Chung kết tổng, New York</td><td>14/11, 14h (giờ bờ Đông)</td><td>2h sáng, 15/11</td></tr>
   </table>
 </div>
 
-Một điểm cần nói trước để tránh hiểu nhầm. Riot Games thường chỉ công bố giờ thi đấu cụ thể của từng cặp sát ngày, vì lịch phụ thuộc vào kết quả vòng trước và vào việc xếp các trận đáng xem vào khung giờ vàng của khán giả tại chỗ. Thứ tính được ngay từ bây giờ là mức lệch múi giờ, và đó mới là thứ quyết định bạn phải đặt báo thức lúc mấy giờ.
+Giờ trong bảng là giờ mở màn của cả ngày thi đấu, lấy từ lịch Riot công bố cuối tháng 9 (Insider Gaming và Altchar đăng lại đủ theo từng múi giờ). Một ngày thường có nhiều trận nối tiếp, nhất là ở vòng Thụy Sĩ với các trận Bo1, nên trận cuối ngày có thể kết thúc khi trời đã sáng. Riot có thể xê dịch vài chục phút theo tiến độ, còn cặp đấu cụ thể của vòng Thụy Sĩ chỉ có sau mỗi buổi bốc thăm.
 
-## Ba thành phố, hai mức lệch giờ khác nhau
+## Ba thành phố, ba múi giờ, và mốc đổi giờ 1/11
 
-Giải năm nay đi qua ba thành phố nằm ở ba múi giờ khác nhau của nước Mỹ, nên không có một con số lệch giờ duy nhất áp cho cả giải. Vòng khởi động ở Los Angeles thuộc múi giờ bờ Tây, chậm hơn Việt Nam 14 tiếng trong tháng 10. Vòng Thụy Sĩ và các vòng loại trực tiếp diễn ra tại Allen thuộc bang Texas, nằm ở múi giờ miền trung, chậm hơn Việt Nam 12 tiếng.
+Giải năm nay đi qua ba thành phố nằm ở ba múi giờ khác nhau của nước Mỹ, nên không có một con số lệch giờ duy nhất. Trong tháng 10, Los Angeles (giờ bờ Tây) chậm hơn Việt Nam 14 tiếng, Allen thuộc bang Texas (giờ miền Trung) chậm hơn 12 tiếng. Đó là lý do play-in đấu 11h trưa ở Los Angeles lại thành 1h sáng hôm sau ở Việt Nam, còn vòng Thụy Sĩ đấu 12h trưa ở Texas thì thành đúng 0h.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XKjQ2XVjsOs/maxresdefault.jpg" alt="Khan gia theo doi tran dau Lien Minh Huyen Thoai tai nha thi dau" loading="lazy" width="1280" height="720">
-  <figcaption>Giải chạy qua ba thành phố Mỹ, mỗi nơi một khung giờ địa phương khác nhau. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/imBr_gVIueo/maxresdefault.jpg" alt="Anh bia highlight tran GZ gap MVK Esports vong Swiss giai doan 3 LCP 2026" loading="lazy" width="1280" height="720">
+  <figcaption>MVK Esports, đại diện Việt Nam thứ hai, sẽ phải đá play-in ở Los Angeles lúc 1h sáng giờ Việt Nam. Ảnh: LoL Esports VN (YouTube)</figcaption>
 </figure>
 
-Cách quy đổi đơn giản: lấy giờ thi đấu địa phương cộng với mức lệch, nếu vượt quá 24 thì trừ đi 24 và cộng thêm một ngày. Ví dụ một trận bắt đầu 13h chiều tại Los Angeles sẽ là 3h sáng hôm sau theo giờ Việt Nam. Cũng trận đó nếu đấu tại Allen lúc 13h thì tương ứng 1h sáng hôm sau ở Việt Nam. Đây là lý do khung giờ xem năm nay nằm gọn trong khoảng nửa đêm tới sáng sớm, chứ không phải buổi tối như mùa trước.
+Mốc cần nhớ là ngày 1/11/2026. Nước Mỹ kết thúc giờ mùa hè vào chủ nhật đầu tiên của tháng 11, đồng hồ ở Mỹ lùi một tiếng, trong khi Việt Nam giữ nguyên. Từ đó Allen chậm hơn Việt Nam 13 tiếng, New York chậm hơn 12 tiếng. Vì vậy tứ kết đấu 16h chiều ở Texas lại rơi vào 5h sáng ở Việt Nam, và chung kết 14h chiều ở New York thành 2h sáng ngày 15/11. Nếu bạn tự quy đổi cả giải bằng một mức lệch duy nhất, các trận quan trọng nhất sẽ bị lệch đúng một tiếng.
 
-## Cái bẫy ngày 1/11: mức lệch giờ tự đổi
+Mẹo nhỏ cho người muốn theo dõi nghiêm túc: khi tạo lịch nhắc trên điện thoại, chọn múi giờ của địa điểm thi đấu rồi nhập giờ địa phương, ứng dụng lịch sẽ tự xử lý phần đổi giờ mùa hè. Cách này đặc biệt hữu ích ở vòng loại trực tiếp, khi bạn không muốn dậy nhầm giờ đúng ngày có trận lớn.
 
-Đây là chi tiết khiến nhiều người tính nhầm lịch mỗi khi giải đấu tổ chức ở Mỹ hoặc châu Âu. Nước Mỹ áp dụng giờ mùa hè và kết thúc vào ngày chủ nhật đầu tiên của tháng 11, tức ngày 1/11/2026. Từ thời điểm đó, đồng hồ ở Mỹ lùi lại một tiếng, trong khi Việt Nam không có giờ mùa hè nên giữ nguyên.
+## Hai đại diện Việt Nam: TSW vào thẳng, MVK đá play-in
 
-<div class="art-video-label">VIDEO · Không khí một kỳ Chung kết thế giới Liên Minh Huyền Thoại</div>
+Khu vực LCP, nơi các đội Việt Nam đang thi đấu, có 3 suất tại Worlds 2026, ngang LEC và LCS; LCK và LPL có 4 suất vì là khu vực vô địch và á quân MSI 2026. Ba đại diện LCP là **Team Secret Whales** (hạt giống 1), **CTBC Flying Oyster** (hạt giống 2) và **MVK Esports** (hạt giống 3). Như vậy Việt Nam có hai đội tại giải.
+
+Team Secret Whales vô địch cả ba giai đoạn của LCP 2026, trận cuối thắng CTBC Flying Oyster 3-0 ngày 30/8 tại Đài Bắc, và vào thẳng vòng Thụy Sĩ. Lượt đầu vòng Thụy Sĩ bắt đầu từ **0h ngày 24/10** theo giờ Việt Nam, cặp đấu của TSW sẽ có sau buổi bốc thăm ngay khi play-in kết thúc. Hành trình của đội nằm ở bài [TSW vô địch LCP 2026 Split 3 và giành suất hạt giống số 1](/articles/tsw-vo-dich-lcp-2026-split-3-thang-cfo-3-0-hat-giong-worlds.html).
+
+<div class="art-video-label">VIDEO · TSW thắng CFO 3-0 ở chung kết tổng LCP 2026 giai đoạn 3</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/CPSUv-Cd3-Y" title="Khong khi mot ky Chung ket the gioi Lien Minh Huyen Thoai" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/UIlYyOO-fEc" title="HIGHLIGHTS TSW vs CFO Chung Ket Tong Giai Doan 3 LCP 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
-<p class="art-video-caption">Vòng knock-out và trận chung kết đều diễn ra sau mốc đổi giờ của nước Mỹ. Nguồn: YouTube</p>
+<p class="art-video-caption">Highlight trận chung kết ngày 30/8 giúp TSW giành suất hạt giống số 1 của LCP. Nguồn: YouTube (LoL Esports VN)</p>
 
-Hệ quả rất cụ thể: các trận vòng Thụy Sĩ trong tháng 10 lệch 12 tiếng so với Việt Nam, nhưng vòng tứ kết và bán kết diễn ra đầu tháng 11 thì lệch 13 tiếng. Trận chung kết ngày 14/11 tại New York, vốn thuộc múi giờ bờ Đông, lệch 12 tiếng với Việt Nam sau khi mốc đổi giờ đã qua. Nếu bạn lập lịch nhắc từ bây giờ cho cả giải bằng một mức lệch duy nhất, các trận quan trọng nhất sẽ bị tính sai đúng một tiếng.
+MVK Esports giành suất thứ ba nhờ tổng điểm tích lũy cả mùa (76 điểm), nên phải bắt đầu từ vòng play-in. Đây là vòng 4 đội: MVK, Karmine Corp (hạt giống 3 châu Âu), đại diện thứ ba của Bắc Mỹ và đại diện thứ hai của Brazil. Thể thức nhánh thắng nhánh thua, mọi trận đánh Bo5, chỉ **một đội** thắng chung cuộc được vào vòng Thụy Sĩ. Với người hâm mộ MVK, các buổi 1h sáng từ 16 tới 19/10 là lịch cần canh; nếu MVK thua trận đầu vẫn còn cơ hội ở nhánh thua.
 
-Một mẹo nhỏ cho người muốn theo dõi nghiêm túc: lập lịch nhắc trên điện thoại theo múi giờ của địa điểm thi đấu thay vì gõ tay giờ Việt Nam. Ứng dụng lịch sẽ tự xử lý phần đổi giờ mùa hè, và bạn tránh được đúng cái bẫy một tiếng vừa nói ở trên. Cách này đặc biệt hữu ích ở vòng knock-out, khi lịch có thể xê dịch theo kết quả của ngày hôm trước và bạn không muốn dậy nhầm giờ.
+## Thể thức từng vòng trong một đoạn
+
+Vòng Thụy Sĩ có 16 đội, gồm 15 đội vào thẳng và đội thắng play-in. Các đội không chia bảng cố định mà được ghép cặp theo thành tích sau mỗi lượt: đội đạt 3 trận thắng vào tứ kết, đội chạm 3 trận thua bị loại, tối đa 5 lượt. Trận quyết định đi tiếp hoặc bị loại đánh Bo3, các trận khác đánh Bo1. Tám đội vượt qua vào vòng loại trực tiếp, mọi loạt đấu từ tứ kết tới chung kết đều là Bo5.
+
+<figure>
+  <img decoding="async" src="https://techvision.click/images/worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau/barclays-center-chung-ket-worlds-2026.jpg" alt="Nha thi dau Barclays Center o Brooklyn New York noi to chuc chung ket Worlds 2026" loading="lazy" width="1080" height="608">
+  <figcaption>Barclays Center ở Brooklyn, nơi diễn ra chung kết tổng lúc 2h sáng ngày 15/11 theo giờ Việt Nam. Ảnh: Riot Games</figcaption>
+</figure>
+
+Toàn giải áp dụng Fearless Draft, tức tướng đã được chọn ở một ván không được dùng lại ở các ván sau của cùng loạt đấu, và thi đấu trên phiên bản 26.20. Tổng giải thưởng là 5 triệu USD. Bối cảnh chia suất và lý do chung kết được đưa về New York đã được tổng hợp trong bài [Worlds 2026: chung kết New York, lịch và suất của LCP](/articles/worlds-2026-lmht-chung-ket-new-york-lich-suat-lcp.html).
 
 ## Xem ở đâu, và vì sao đừng tìm nguồn lậu
 
-Các mùa gần đây, Worlds được phát miễn phí trên hệ thống kênh chính thức của giải, kèm theo các kênh có bản quyền bình luận tiếng Việt trên YouTube và Facebook. Danh sách kênh và khung giờ lên sóng thường được công bố trước ngày khai mạc, nên cách chắc chắn nhất là theo dõi trang chính thức của giải cùng fanpage đơn vị phát sóng trong nước trong hai tuần đầu tháng 10.
+Kênh tiếng Việt chính thức của Riot là **LoL Esports VN**, phát trên YouTube và TikTok với tài khoản @lolesports_vn, đồng thời phát trên nền tảng ON Live. Nếu muốn nghe bình luận tiếng Anh, kênh gốc là @lolesports trên YouTube và riotgames trên Twitch. Danh sách này lấy theo mục phát sóng của Liquipedia cho Worlds 2026; lịch lên sóng cụ thể thường được các kênh đăng ngay trước ngày khai mạc.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/koyhMwfXcsc/maxresdefault.jpg" alt="Tran dau Lien Minh Huyen Thoai duoc phat truc tiep tren nen tang truc tuyen" loading="lazy" width="1280" height="720">
-  <figcaption>Giải phát miễn phí trên kênh chính thức, kèm các kênh có bản quyền tiếng Việt. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/HLub6c6suCk/maxresdefault.jpg" alt="Anh bia highlight TSW gap CFO vong phan hang giai doan 3 LCP 2026 tren kenh LoL Esports VN" loading="lazy" width="1280" height="720">
+  <figcaption>Kênh LoL Esports VN, nơi phát bình luận tiếng Việt các giải LCP và giải quốc tế. Ảnh: LoL Esports VN (YouTube)</figcaption>
 </figure>
 
-Nguồn phát lậu thường có ba vấn đề trong đúng lúc bạn không muốn gặp: độ trễ vài chục giây khiến bạn biết kết quả qua mạng xã hội trước khi thấy trên màn hình, chất lượng hình giảm mạnh ở pha giao tranh đông người, và nguy cơ mất tín hiệu giữa ván quyết định do nguồn bị chặn. Với một giải kéo dài một tháng, thói quen dùng kênh chính thức tiết kiệm cho bạn nhiều phiền phức hơn là vài quảng cáo phải xem.
+Nguồn phát lậu thường có ba vấn đề đúng lúc bạn không muốn gặp: độ trễ vài chục giây khiến bạn biết kết quả qua mạng xã hội trước khi thấy trên màn hình, hình giảm chất lượng ở pha giao tranh đông người, và nguy cơ mất tín hiệu giữa ván quyết định. Với một giải kéo dài một tháng lại phát vào giờ khuya, kênh chính thức còn có lợi thế là có bản phát lại đầy đủ ngay sau khi trận kết thúc.
 
-## Đại diện Việt Nam và cách theo dõi khi phải đi ngủ
+## Cách theo dõi khi phải đi làm sáng hôm sau
 
-Khu vực LCP nơi các đội Việt Nam thi đấu giữ 3 suất tại Worlds 2026. Team Secret Whales là cái tên đã chắc chắn góp mặt, sau chiến thắng 3-0 trước CTBC Flying Oyster ở vòng Thụy Sĩ LCP 2026 Split 3 hồi tháng 8, đồng thời là đội đầu tiên trên toàn thế giới chốt vé mùa này. Hành trình cụ thể của đội nằm ở bài [TSW giành vé Worlds 2026 đầu tiên thế giới](/articles/tsw-gianh-ve-worlds-2026-dai-dien-lmht-viet-nam-dau-tien-lcp-split-3.html).
-
-<figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/mFR9Apo1dEM/maxresdefault.jpg" alt="Doi tuyen Lien Minh Huyen Thoai Viet Nam thi dau tai giai quoc te" loading="lazy" width="1280" height="720">
-  <figcaption>Khu vực LCP giữ 3 suất, trong đó Team Secret Whales đã chắc chắn góp mặt. Nguồn: YouTube</figcaption>
-</figure>
-
-Với người phải đi làm sáng hôm sau, có vài cách xem thực tế hơn là thức trắng. Trận vòng bảng thường được đăng lại đầy đủ trên kênh chính thức chỉ vài giờ sau khi kết thúc, và bản tóm tắt từng ván lên sớm hơn nữa. Chiến lược hợp lý là thức xem trực tiếp những trận có đại diện Việt Nam hoặc các cặp đấu lớn ở vòng knock-out, còn lại xem lại vào sáng hôm sau và tránh mạng xã hội trước khi kịp xem. Bối cảnh đầy đủ về thể thức 19 đội và cách chia suất từng khu vực nằm ở bài [Worlds 2026: chung kết New York và suất của LCP](/articles/worlds-2026-lmht-chung-ket-new-york-lich-suat-lcp.html).
+Với khung giờ năm nay, thức trắng xem hết là không thực tế với đa số người đi làm và đi học. Có ba cách hợp lý hơn. Một là chỉ thức cho các trận có TSW hoặc MVK và các cặp đấu lớn ở vòng loại trực tiếp. Hai là tận dụng khung 5h sáng của tứ kết và bán kết: dậy sớm hơn thường lệ một chút là xem được trực tiếp trước giờ làm. Ba là xem lại vào buổi sáng, vì bản phát lại và bản tóm tắt từng ván lên kênh chính thức chỉ vài giờ sau khi kết thúc, miễn là bạn tránh mạng xã hội trước khi kịp xem.
 
 <div class="art-callout">
-  💡 <strong>Tóm lại:</strong> Tháng 10 lấy giờ thi đấu cộng 14 tiếng cho các trận ở Los Angeles và cộng 12 tiếng cho các trận ở Texas. Từ 1/11 cộng thêm một tiếng nữa vì Mỹ kết thúc giờ mùa hè. Chung kết ngày 14/11 tại New York lệch 12 tiếng so với Việt Nam.
+  💡 <strong>Tóm lại:</strong> Play-in 1h sáng (16 tới 19/10). Vòng Thụy Sĩ 0h (24 tới 27/10 và 1/11) hoặc 3h sáng (29 tới 31/10). Tứ kết và bán kết 5h sáng (4 tới 9/11). Chung kết 2h sáng ngày 15/11. Tất cả là giờ Việt Nam, giờ mở màn ngày thi đấu theo lịch Riot công bố.
 </div>

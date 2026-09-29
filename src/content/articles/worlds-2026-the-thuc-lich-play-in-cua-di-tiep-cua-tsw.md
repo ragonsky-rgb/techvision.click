@@ -6,15 +6,14 @@ keywords: "Worlds 2026, thể thức Worlds 2026, lịch play-in Worlds, vòng T
 category: "Gaming"
 type: "tin-tuc"
 datePublished: "2026-10-06T09:00:00+07:00"
-dateModified: "2026-10-06T09:00:00+07:00"
+dateModified: "2026-09-30T09:00:00+07:00"
 noindex: true
-scheduled: true
 deck: "Chung kết Thế giới 2026 chia làm ba giai đoạn tách biệt về cả thể thức lẫn địa điểm, kéo dài đúng một tháng và khép lại ở New York. Team Secret Whales tới giải với vị trí hạt giống số 1 của khu vực LCP, thành tích tốt nhất mà một đội Việt Nam từng có trước ngày khởi tranh. Bài này bóc tách thể thức từng vòng và nói thẳng về cửa đi tiếp của đội."
 heroImage: "https://i.ytimg.com/vi/PejETiABC_w/maxresdefault.jpg"
 heroAlt: "Sân khấu giải đấu Liên Minh Huyền Thoại chuyên nghiệp với màn hình lớn và khán đài đông khán giả"
 heroCaption: "Worlds 2026 khởi tranh ngày 15/10 và kéo dài tới 14/11. Ảnh minh họa. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/worlds-2026-the-thuc-lich-play-in-cua-di-tiep-cua-tsw.jpg"
-tldr: "<strong>Worlds 2026</strong> diễn ra từ <strong>15/10 tới 14/11</strong>, chia ba giai đoạn. Vòng <strong>play-in</strong> mở màn ngày <strong>15 tới 18/10</strong> tại Riot Games Arena ở Los Angeles. Vòng <strong>Thụy Sĩ</strong> quy tụ <strong>16 đội</strong>, đánh hai đợt <strong>23 tới 26/10</strong> và <strong>28 tới 31/10</strong> tại Allen, bang Texas. Vòng <strong>loại trực tiếp 8 đội</strong> diễn ra trong tháng 11, chung kết ngày <strong>14/11</strong> tại Barclays Center, New York. <strong>Team Secret Whales</strong> dự giải với suất <strong>hạt giống số 1</strong> của LCP sau khi vô địch cả ba split trong năm và từng đạt hạng 5 tại MSI 2026 với tiền thưởng khoảng <strong>160.000 USD</strong>, tương đương gần <strong>4,2 tỷ đồng</strong>."
+tldr: "<strong>Worlds 2026</strong> diễn ra từ <strong>15/10 tới 14/11</strong>, chia ba giai đoạn. Vòng <strong>play-in</strong> mở màn ngày <strong>15 tới 18/10</strong> tại Riot Games Arena ở Los Angeles. Vòng <strong>Thụy Sĩ</strong> quy tụ <strong>16 đội</strong>, đánh hai đợt <strong>23 tới 26/10</strong> và <strong>28 tới 31/10</strong> tại Allen, bang Texas. Vòng <strong>loại trực tiếp 8 đội</strong> diễn ra trong tháng 11, chung kết ngày <strong>14/11</strong> tại Barclays Center, New York. <strong>Team Secret Whales</strong> dự giải với suất <strong>hạt giống số 1</strong> của LCP sau khi vô địch cả ba split trong năm và từng đồng hạng 5-6 tại MSI 2026 với tiền thưởng khoảng <strong>160.000 USD</strong>, tương đương gần <strong>4,2 tỷ đồng</strong>."
 tags: ["LMHT", "Worlds2026", "TSW", "Esports"]
 about: ["Worlds 2026", "Team Secret Whales", "Riot Games", "LCP", "Barclays Center"]
 authorBio: "Founder LongTechVision. Theo dõi mảng esports và công nghệ giải trí, tập trung vào các giải đấu có đại diện Việt Nam."
@@ -26,7 +25,7 @@ stats:
   - { num: "15-18/10", label: "Vòng play-in tại Riot Games Arena, Los Angeles" }
   - { num: "16 đội", label: "Số đội ở vòng Thụy Sĩ, giai đoạn dài nhất của giải" }
   - { num: "8 đội", label: "Số suất vào vòng loại trực tiếp nhánh đơn" }
-  - { num: "3 suất", label: "Số vé dự Worlds của khu vực LCP, ngang LCK và LPL" }
+  - { num: "3 suất", label: "Số vé dự Worlds của khu vực LCP, ngang LEC và LCS" }
   - { num: "Hạt giống 1", label: "Vị trí của TSW trong nhóm ba đại diện LCP" }
 faq:
   - q: "Worlds 2026 diễn ra khi nào và ở đâu?"
@@ -34,9 +33,9 @@ faq:
   - q: "Thể thức Worlds 2026 gồm những vòng nào?"
     a: "Ba giai đoạn với ba cơ chế khác nhau. Play-in là vòng rút gọn dành cho nhóm đội hạt giống thấp, chỉ một số ít đội và lấy suất đi tiếp vào vòng chính. Vòng Thụy Sĩ có 16 đội, mỗi đội đấu tới khi đạt ba trận thắng để đi tiếp hoặc ba trận thua để bị loại, nên số trận mỗi đội phải chơi không cố định. Vòng cuối là loại trực tiếp nhánh đơn với 8 đội, thua một trận là dừng bước."
   - q: "TSW dự Worlds 2026 với tư cách gì?"
-    a: "Team Secret Whales là hạt giống số 1 của khu vực LCP. Đội giành vé sớm nhất thế giới hồi đầu tháng 8 sau trận thắng CTBC Flying Oyster 3-0 ở vòng Thụy Sĩ LCP Split 3, rồi chốt luôn vị trí hạt giống bằng chức vô địch Split 3 ngày 30/8. Trong năm 2026, TSW vô địch cả ba split của LCP và từng có chuỗi 14 trận thắng liên tiếp từ ngày 5/4 tới 7/6."
+    a: "Team Secret Whales là hạt giống số 1 của khu vực LCP. Đội giành vé sớm nhất thế giới hồi đầu tháng 8 sau trận thắng CTBC Flying Oyster 3-0 ở vòng Thụy Sĩ LCP Split 3, rồi chốt luôn vị trí hạt giống bằng chức vô địch Split 3 ngày 30/8. Trong năm 2026, TSW vô địch cả ba split của LCP."
   - q: "Cửa đi sâu của TSW tại Worlds 2026 thực tế tới đâu?"
-    a: "Nên đặt kỳ vọng ở mức vượt qua vòng Thụy Sĩ thay vì tranh chấp danh hiệu. Cơ sở lạc quan là thành tích hạng 5 tại MSI 2026, tức đội đã thắng được các đại diện khu vực mạnh trong điều kiện thi đấu quốc tế. Cơ sở thận trọng là LCP vẫn thua LCK và LPL về chiều sâu đội hình và hạ tầng tập luyện, nên một giải đấu dài với nhiều trận liên tiếp là môi trường bất lợi hơn thể thức ngắn."
+    a: "Nên đặt kỳ vọng ở mức vượt qua vòng Thụy Sĩ thay vì tranh chấp danh hiệu. Cơ sở lạc quan là thành tích đồng hạng 5-6 tại MSI 2026, tức đội đã thắng được các đại diện khu vực mạnh trong điều kiện thi đấu quốc tế. Cơ sở thận trọng là LCP vẫn thua LCK và LPL về chiều sâu đội hình và hạ tầng tập luyện, nên một giải đấu dài với nhiều trận liên tiếp là môi trường bất lợi hơn thể thức ngắn."
   - q: "Người ở Việt Nam xem Worlds 2026 vào khung giờ nào?"
     a: "Giải tổ chức tại Mỹ nên chênh lệch múi giờ rất lớn, phần lớn trận đấu rơi vào rạng sáng hoặc sáng sớm theo giờ Việt Nam tùy từng chặng và tùy múi giờ của thành phố đăng cai. Vòng play-in ở Los Angeles và vòng Thụy Sĩ ở Texas nằm ở hai múi giờ khác nhau, nên khung giờ phát sóng thay đổi giữa hai giai đoạn. Cách an toàn là theo dõi lịch từng ngày do ban tổ chức công bố thay vì suy ra một khung giờ cố định."
 related:
@@ -79,16 +78,16 @@ Vòng cuối là loại trực tiếp nhánh đơn với 8 đội, thua một tr
 
 ## TSW mang gì tới giải
 
-Thành tích năm 2026 của Team Secret Whales gọn và dễ đọc: vô địch cả ba split của LCP, kèm chuỗi 14 trận thắng liên tiếp kéo dài từ ngày 5/4 tới 7/6. Đội cũng là tập thể đầu tiên trên toàn thế giới chốt suất dự Worlds 2026, sau trận thắng CTBC Flying Oyster 3-0 ở vòng Thụy Sĩ LCP Split 3 hồi đầu tháng 8. Chi tiết chặng đường đó nằm ở bài [TSW giành vé Worlds 2026 đầu tiên thế giới](/articles/tsw-gianh-ve-worlds-2026-dai-dien-lmht-viet-nam-dau-tien-lcp-split-3.html).
+Thành tích năm 2026 của Team Secret Whales gọn và dễ đọc: vô địch cả ba split của LCP. Đội cũng là tập thể đầu tiên trên toàn thế giới chốt suất dự Worlds 2026, sau trận thắng CTBC Flying Oyster 3-0 ở vòng Thụy Sĩ LCP Split 3 hồi đầu tháng 8. Chi tiết chặng đường đó nằm ở bài [TSW giành vé Worlds 2026 đầu tiên thế giới](/articles/tsw-gianh-ve-worlds-2026-dai-dien-lmht-viet-nam-dau-tien-lcp-split-3.html).
 
-Dữ kiện đáng chú ý hơn cả bảng thành tích nội khu là kết quả quốc tế. Tại MSI 2026 hồi tháng 7, TSW đạt hạng 5 với tiền thưởng khoảng 160.000 USD, tương đương gần 4,2 tỷ đồng theo tỷ giá hiện hành. Hạng 5 ở một giải mời quy tụ các nhà vô địch khu vực có ý nghĩa khác hẳn một thành tích nội địa, bởi nó chứng minh đội thắng được đối thủ ngoài khu vực trong điều kiện thi đấu tập trung nhiều ngày.
+Dữ kiện đáng chú ý hơn cả bảng thành tích nội khu là kết quả quốc tế. Tại MSI 2026 (28/6 tới 12/7), TSW đồng hạng 5-6 với tiền thưởng khoảng 160.000 USD, tương đương gần 4,2 tỷ đồng theo tỷ giá hiện hành. Nhóm hạng 5-6 ở một giải mời quy tụ các nhà vô địch khu vực có ý nghĩa khác hẳn một thành tích nội địa, bởi nó chứng minh đội thắng được đối thủ ngoài khu vực trong điều kiện thi đấu tập trung nhiều ngày.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/CPSUv-Cd3-Y/maxresdefault.jpg" alt="Khán đài kín người theo dõi trận đấu esports quy mô lớn với hệ thống ánh sáng sân khấu" loading="lazy" width="1280" height="720">
   <figcaption>Vòng Thụy Sĩ ở Allen, Texas là chặng quyết định phần lớn cục diện giải. Ảnh minh họa. Nguồn: YouTube</figcaption>
 </figure>
 
-Khu vực LCP có ba suất dự Worlds, ngang với LCK của Hàn Quốc, LPL của Trung Quốc, LEC của châu Âu và LCS của Bắc Mỹ. Việc phân bổ ngang suất không đồng nghĩa ngang trình độ, nhưng nó bảo đảm đại diện Việt Nam không phải đi đường vòng qua play-in nếu giữ được vị trí hạt giống cao trong khu vực.
+Khu vực LCP có ba suất dự Worlds, ngang với LEC của châu Âu và LCS của Bắc Mỹ; LCK và LPL có bốn suất vì là khu vực vô địch và á quân MSI 2026. Suất thứ ba của LCP thuộc về MVK Esports, đội Việt Nam thứ hai, phải đá play-in. Việc phân bổ ngang suất không đồng nghĩa ngang trình độ, nhưng nó bảo đảm đại diện Việt Nam không phải đi đường vòng qua play-in nếu giữ được vị trí hạt giống cao trong khu vực.
 
 ## Cửa đi tiếp: nên kỳ vọng tới đâu
 
