@@ -11,6 +11,8 @@ hẳn (`~/chamai-video-kit`) - đừng lẫn hai bên.
 
 > **Từ 27/09/2026 thư mục `out/` của kit là symlink sang ổ SSD rời** `/Volumes/Edit video  1/03_Video-Content/_video-kit/<tên-kit>-out/` (ổ máy chỉ 228 GB, hay đầy). **Cắm ổ Edit video trước khi đọc giọng hay dựng**; chưa cắm thì mọi lệnh ghi vào `out/` báo lỗi không tìm thấy. Từ 27/09/2026 CẢ bộ dựng, `~/omnivoice-env`, `~/.venvs` (Whisper) và `~/.cache/huggingface` (model OmniVoice/Whisper) cũng đã chuyển sang `/Volumes/Edit video  1/CONG-CU-VIDEO/` (có `DOC-TRUOC.txt`), chỗ cũ là symlink nên đường dẫn `~/...` vẫn dùng bình thường. Đừng đổi tên các thư mục đó.
 
+> **Video xong lấy ở `/Volumes/Edit video  1/00 - VIDEO XONG/` (từ 30/09/2026)**, chung cho TechVision và Chạm AI, không lẫn file tạm. Tên `<ngày đăng> TechVision - <tên>.mp4`; `_ban-nhe-10MB/` bản nén, `_ban-cu/` bản bị thay. `hd_lib.render` tự chép bản cao nhất + bản nhẹ vào đó qua `scripts/thanh_pham.py` (bản sao APFS, không tốn dung lượng); PC Windows chép ra `VIDEO_EXPORT` (`D:/Techvision video`). Video dựng bằng đường khác (brag_render, sửa tay, v2 thay giọng...) thì chạy `python3 scripts/thanh_pham.py <file.mp4> [--nhe]` sau khi kiểm xong. Giao video cho anh Long luôn trỏ đường dẫn trong thư mục này, không trỏ vào `out/`.
+
 ## 1. Dây chuyền hiện tại (chốt từ 25/08/2026)
 
 ```
