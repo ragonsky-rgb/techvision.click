@@ -1,6 +1,6 @@
 # Video 30/09/2026: ChatGPT có trợ lý chạy 24/7, OpenAI ra mắt dot
 
-> **Facebook Reels ĐÃ ĐĂNG 30/09/2026 ~14:35** lên Trang TechVision, bản `2026-09-30-openai-dots-master.mp4` (50,2 giây, 32,6 MB, -14,0 LUFS / đỉnh -2,4), video_id 1083081761373084, https://www.facebook.com/reel/1083081761373084 . Kiểm bản quyền Facebook: qua. Whisper soát 13/14 câu OK, câu 2 chỉ lệch vì Whisper ghi "Open Eye". TikTok + YouTube Shorts: anh Long tự đăng (file `-nhe.mp4` 9,1 MB nếu cần dưới 10 MB).
+> **Facebook Reels ĐÃ ĐĂNG 30/09/2026 ~14:35** lên Trang TechVision, bản `2026-09-30-openai-dots-master.mp4` (50,2 giây, 32,6 MB, -14,0 LUFS / đỉnh -2,4), video_id 1083081761373084, https://www.facebook.com/reel/1083081761373084 . Kiểm bản quyền Facebook: qua. Bản đăng Facebook đọc SAI chữ OpenAI thành "Open Eye" ở câu 2 và 11 (anh Long phát hiện, Facebook để nguyên). **Bản sửa v2** (`-master-v2.mp4`, `-nhe-v2.mp4` 9,9 MB) đọc `Ô pần Ây Ai`, Whisper nghe đúng "OpenAI" trên bản trộn cuối; dùng bản v2 cho TikTok/YouTube. TikTok + YouTube Shorts: anh Long tự đăng (file `-nhe.mp4` 9,1 MB nếu cần dưới 10 MB).
 
 Trạng thái: **đăng gấp 30/09/2026 theo lệnh anh Long** ("bài lên gấp nên là đưa lên facebook luôn, video dạng dọc"). Anh gửi phim gốc `Introducing dots, always-on agents built to handle everything. [uXspbC2srEQ].mp4`.
 

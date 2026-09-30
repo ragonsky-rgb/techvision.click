@@ -95,7 +95,7 @@ Câu có hai năm (1977 và 1981) nở từ 5,8 lên **7,7 giây**. Clip Flow xu
 | `bộ đệm tụt từ hai trăm năm mươi ghi` | nghe thành "tù từ" → `bộ đệm tụt, từ hai trăm...` |
 | câu mở bằng `Ở phép đo...` ngay sau câu kết bằng "ghi" | trên Mac dính rác "Làm ghi bản" 1 giây đầu; đọc trên PC thì sạch |
 
-| `Ai Ô Ét` (iOS), `Wai Phai` (Wi-Fi), `Gi Pi Ti năm chấm sáu của Âu pừn Ai` (GPT-5.6 của OpenAI) | đọc đúng |
+| `Ai Ô Ét` (iOS), `Wai Phai` (Wi-Fi), `Gi Pi Ti năm chấm sáu` (GPT-5.6) | đọc đúng |
 | `Claude`, `ChatGPT`, `Googlebook`, `Chromebook`, `Google AI Pro`, `Dell`, `HP`, `Lenovo` để nguyên chữ | đọc được (Whisper nghe Claude thành "Cloud" - gần đúng âm) |
 | `Clốt ... cạnh Chát Gi Pi Ti` (phiên âm) | TỆ hơn để nguyên: "cạnh" thành "cảnh", ChatGPT méo |
 | `Acer, Asus` đứng sát nhau | giọng NUỐT mất Asus (5 lần/6). Xếp lại: `Dell, Asus, Lenovo, HP và Acer` |
@@ -111,3 +111,16 @@ Trên PC giọng máy **thường** ra giống nhau khi đọc lại y nguyên, 
 Đọc lại 1 câu mất khoảng 2 phút (kể cả 15 giây nghỉ cho đỡ lag máy). Sửa giọng **không kéo theo
 dựng lại hình**, miễn câu mới không dài hơn clip nền - xem `2026-09-16-lich-su-ceo-apple.md`.
 Chạy `build_ceo.py voice` rồi `motion|base|caps|final`, mọi mốc tự khớp lại theo `spans.json`.
+
+## 5. OpenAI: viết `Ô pần Ây Ai`, KHÔNG viết `Âu pừn Ai` (30/09/2026)
+
+Video OpenAI dots 30/09: `Âu pừn Ai` đọc ra "Open Eye" (chữ "Ai" cuối thành "eye"), anh Long nghe ra lỗi sau khi đã đăng Facebook. Thử 4 cách trên cùng câu, Whisper chấm cả tiếng Việt lẫn tiếng Anh:
+
+| Viết trong script_voice | Whisper nghe |
+|---|---|
+| `Ô pần Ây Ai` | **OpenAI** (cả vi lẫn en) - DÙNG |
+| `Âu pần Ây Ai` | OpenAI (vi), en ra lung tung |
+| `Âu pừn Ây Ai` | OpenAI (vi) nhưng "đót" thành "đó" |
+| `OpenAI` để nguyên | Open Eye - SAI |
+
+Quy luật: chữ "AI" đứng riêng phải viết `Ây Ai`, viết `Ai` sẽ thành "eye". Voice_check báo LỆCH chữ này là lỗi THẬT, không phải Whisper ghi sai.
