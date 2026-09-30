@@ -1,0 +1,24 @@
+{
+ "title": "Giá khởi điểm iPhone tại Mỹ quy ra sức mua năm 2026, 2007 tới 2025",
+ "caption": "Giá khởi điểm tại Mỹ của mỗi đời iPhone (bản không kèm hợp đồng nhà mạng), quy ra USD năm 2026 theo chỉ số giá tiêu dùng Mỹ. Đường đỏ: bản thường; đường đậm: mẫu cao cấp nhất không gập. Cùng bộ số với video phía trên. Biểu đồ: TechVision",
+ "unit": "USD",
+ "ymin": 700,
+ "ymax": 1500,
+ "ystep": 200,
+ "series": [
+  {
+   "key": "top",
+   "label": "Cao cấp nhất",
+   "color": "var(--text)"
+  },
+  {
+   "key": "base",
+   "label": "Bản thường",
+   "color": "var(--accent)"
+  }
+ ],
+ "peak": {
+  "key": "top",
+  "label": "iPhone XS Max"
+ }
+}

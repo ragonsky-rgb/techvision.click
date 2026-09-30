@@ -155,6 +155,21 @@ WAV trước khi dựng**, đừng kéo thẳng file AAC vào.
 **Số trong content-radar phải fetch lại nguồn gốc trước khi lên hình.** Radar từng ghi RAM 16GB
 "1,8-2 triệu" trong khi giá thật là 6,49-7,69 triệu.
 
+## 6b. Kỹ thuật dựng bằng code (học từ awesome-opus5-5-videos, 30/09/2026)
+
+Nguồn: github.com/yihui-dev/awesome-opus5-5-videos (475 prompt làm video bằng HTML/Canvas/SVG, MIT). Phần lớn là video quảng cáo SaaS, 3D, game, không hợp kênh tin tức. Chỉ giữ những gì dùng được với dây chuyền `brag_render.mjs` + OmniVoice:
+
+1. **Mỗi khung là hàm thuần của t, "tua được"**: trạng thái đầu đặt sẵn ở t = 0, không timer, không biến nhớ giữa các khung. Nhờ vậy chụp được bất kỳ giây nào, và cùng một cảnh dùng lại được trên web (mục 7 dưới).
+2. **Duyệt bằng MỘT tờ ảnh trước khi dựng**: `node scripts/brag_render.mjs trang.html <giây> --sheet 20 sheet.jpg` (20 khung rải đều, ~2 giây). Claude tự đọc tờ này để bắt chữ chồng ảnh, chữ tràn; gửi anh Long tờ này thay vì bắt xem cả video nháp.
+3. **Âm thanh chuẩn -14 LUFS, đỉnh <= -1,5 dBTP, đo SAU khi nén AAC**: `python3 scripts/master_audio.py mix.wav mix_master.wav` trước khi ghép hình, hoặc `--fix video.mp4 ra.mp4` với video đã xuất; `--check *.mp4` để đo. Chưa ĐẠT thì không giao. Lý do: đo 30/09, 12 video gần nhất lệch từ -18,1 tới -10,9 LUFS, bản Short iPhone 19 năm đỉnh +0,2 dBFS (vỡ tiếng).
+4. **Nhòe chuyển động cho bản cuối**: `--blur 4` (mỗi khung = trung bình 4 khung phụ trong nửa khung). Chữ và ảnh bay nhanh đỡ giật. Thời gian chụp tăng 4 lần nên bản nháp không bật.
+5. **Chuyển cảnh**: lò xo vượt nhẹ thay cho easing đều; nội dung mới vào SAU khi khung bắt đầu đổi hình và ra TRƯỚC lần đổi kế tiếp (chữ không bao giờ chồng chữ); có nhòe ngắn lúc chuyển.
+6. **Nhịp nhạc**: nhạc nền Soundraw hiện dùng khoảng 120-121 BPM (một phách ~0,5 giây). Giọng vẫn là trục (luật mục 2): cắt cảnh bám ranh giới câu, rồi dời về phách gần nhất nếu lệch không quá 0,25 giây.
+7. **Một nguồn số, nhiều đầu ra**: video dài, Short và biểu đồ trong bài web đọc CHUNG một `data.js` đã soát. Short là danh sách cảnh con của bản dài, không dựng lại. Biểu đồ web: lưu số vào `docs/video/scenes/<ten>-data.json` + `<ten>-spec.json`, chạy `python3 scripts/make-scene-chart.py data.json spec.json`, dán khối `<figure class="tv-scene">` vào bài. `public/scenes/scene.js` cho biểu đồ tự vẽ theo cuộn trang (cuộn ngược thì chạy ngược), HTML vẽ sẵn trạng thái cuối nên tắt JS, bot, người bật giảm chuyển động vẫn đọc đủ. Biểu đồ SVG là điểm cộng, KHÔNG tính vào sàn media của bài. Đã dùng lần đầu ở bài `gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu` (ngay dưới video 19 năm). Kiểm bằng `window.tvScenes.at(p)` vì trình duyệt tự động ở chế độ ẩn không phát sự kiện cuộn.
+8. **Luật trùng với luật kênh** (repo cũng ghi): không bịa số, phần trăm, tên khách; chữ trên hình khớp lời đọc; mỗi đồ họa nằm trong một đoạn thoại liền.
+
+KHÔNG áp dụng: cảnh 3D/shader/WebGL (nặng GPU, lệch giọng kênh), nhạc tự tổng hợp từ sóng sin (kênh dùng nhạc Soundraw của anh Long), giọng TTS OpenAI/ElevenLabs (kênh dùng OmniVoice giọng anh), ảnh AI (luật mục 2).
+
 ---
 
 ## 7. Bản đồ tài liệu
@@ -165,6 +180,7 @@ WAV trước khi dựng**, đừng kéo thẳng file AAC vào.
 | `docs/video/<ngày>-<slug>.md` | gói sản xuất từng video: số liệu, kịch bản đọc, gói cảnh, cách dựng, gói đăng | dùng, xem bản mới nhất làm mẫu |
 | `docs/ke-hoach-video-2026-08-26-den-09-30.md` | kế hoạch 5 tuần, chỉ tiêu, luật chọn chủ đề | dùng |
 | `docs/skill-app-dung-video.md` | system prompt cho AI bên ghép + luật tự tìm source + luật trend | dùng |
+| `docs/video/scenes/` | số liệu + cấu hình biểu đồ động dùng chung video và bài web (mục 6b.7) | dùng |
 | `docs/prompt-app-video-tin-tuc.md` | tài liệu cũ | **mục "Prompt để dán vào Flow" HẾT HIỆU LỰC**, các mục còn lại vẫn đúng |
 
 Bắt đầu một video mới: chép gói sản xuất gần nhất trong `docs/video/` làm khuôn, đừng viết từ đầu.

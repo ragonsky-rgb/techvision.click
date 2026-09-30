@@ -6,7 +6,7 @@ keywords: "giá iphone 18 pro max việt nam, iphone 18 pro max giá bao nhiêu,
 category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-18T05:30:00+07:00"
-dateModified: "2026-09-18T05:30:00+07:00"
+dateModified: "2026-09-30T10:00:00+07:00"
 deck: "Mỗi mùa iPhone, câu hỏi quay lại đúng một kiểu: máy bán ở Việt Nam đắt hơn Mỹ bao nhiêu, và có nên nhờ người xách tay về. Năm nay có đủ số liệu để trả lời gọn, vì Việt Nam nằm trong đợt mở bán đầu tiên và bảng giá chính hãng đã công bố đầy đủ bốn bậc dung lượng."
 heroImage: "https://i.ytimg.com/vi/2_pVdLZ9Ojo/maxresdefault.jpg"
 heroAlt: "iPhone 18 Pro Max ban chinh hang tai Viet Nam gia 41,999 trieu dong"
@@ -91,6 +91,15 @@ Vấn đề là hai con số đó không cùng loại. Giá niêm yết tại M�
   <iframe src="https://www.youtube.com/embed/IBKA9vX3iAI" title="iPhone 19 nam gia tu 499 USD toi 104 trieu" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 <p class="art-video-caption">Quy giá khởi điểm tại Mỹ của mọi đời iPhone từ 2007 ra sức mua năm 2026: bản thường gần như không đắt lên, thứ đắt lên là các bậc giá mới như Pro Max, máy gập và bản 2TB. Nguồn: kênh YouTube TechVision</p>
+
+Nếu chỉ nhìn bản thường, giá iPhone gần như đứng yên suốt 19 năm: iPhone đầu tiên năm 2007 tương đương khoảng 806 USD tiền năm 2026, còn iPhone 17 năm 2025 khoảng 863 USD. Thứ thật sự đi lên là mẫu cao cấp nhất, từ khoảng 968 USD lên quanh 1.248 USD, với đỉnh là iPhone XS Max năm 2018 ở mức khoảng 1.466 USD. Biểu đồ dưới đây vẽ lại hai đường giá đó.
+
+<figure class="tv-scene">
+  <svg viewBox="0 0 600 380" role="img" aria-label="Giá khởi điểm iPhone tại Mỹ quy ra sức mua năm 2026, 2007 tới 2025" style="width:100%;height:auto;font-family:var(--sans);display:block"><line x1="52" x2="468" y1="301.2" y2="301.2" stroke="var(--line)" stroke-width="1"/><text x="45" y="305.2" text-anchor="end" font-size="15" fill="var(--dim)">800</text><line x1="52" x2="468" y1="223.8" y2="223.8" stroke="var(--line)" stroke-width="1"/><text x="45" y="227.8" text-anchor="end" font-size="15" fill="var(--dim)">1.000</text><line x1="52" x2="468" y1="146.2" y2="146.2" stroke="var(--line)" stroke-width="1"/><text x="45" y="150.2" text-anchor="end" font-size="15" fill="var(--dim)">1.200</text><line x1="52" x2="468" y1="68.8" y2="68.8" stroke="var(--line)" stroke-width="1"/><text x="45" y="72.8" text-anchor="end" font-size="15" fill="var(--dim)">1.400</text><text x="52.0" y="364" text-anchor="middle" font-size="15" fill="var(--dim)">2007</text><text x="190.7" y="364" text-anchor="middle" font-size="15" fill="var(--dim)">2013</text><text x="329.3" y="364" text-anchor="middle" font-size="15" fill="var(--dim)">2019</text><text x="468.0" y="364" text-anchor="middle" font-size="15" fill="var(--dim)">2025</text><path data-draw="0.0,0.45" d="M52.0 236.2 L75.1 189.7 L98.2 188.5 L121.3 165.2 L144.4 121.4 L167.6 131.1 L190.7 138.1 L213.8 200.5 L236.9 200.9 L260.0 195.5 L283.1 82.3 L306.2 43.2 L329.3 53.2 L352.4 60.2 L375.6 84.6 L398.7 123.8 L421.8 100.5 L444.9 115.2 L468.0 127.7" fill="none" stroke="var(--text)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><g data-show="0.40,0.53"><circle cx="468.0" cy="127.7" r="5" fill="var(--text)"/><text x="478.0" y="125.7" font-size="16" font-weight="700" fill="var(--text)">Cao cấp nhất</text><text x="478.0" y="145.7" font-size="16" fill="var(--text)" data-count="0.40,0.53">1.248 USD</text></g><path data-draw="0.45,0.9" d="M52.0 298.9 L75.1 250.1 L98.2 248.9 L121.3 224.9 L144.4 236.9 L167.6 244.3 L190.7 249.7 L213.8 255.5 L236.9 255.9 L260.0 260.2 L283.1 241.2 L306.2 224.1 L329.3 256.3 L352.4 195.5 L375.6 214.1 L398.7 243.5 L421.8 258.2 L444.9 268.3 L468.0 276.8" fill="none" stroke="var(--accent)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><g data-show="0.85,0.98"><circle cx="468.0" cy="276.8" r="5" fill="var(--accent)"/><text x="478.0" y="274.8" font-size="16" font-weight="700" fill="var(--accent)">Bản thường</text><text x="478.0" y="294.8" font-size="16" fill="var(--text)" data-count="0.85,0.98">863 USD</text></g><g data-show="0.9,1"><circle cx="306.2" cy="43.2" r="6" fill="none" stroke="var(--accent)" stroke-width="2"/><text x="306.2" y="29.2" text-anchor="middle" font-size="15" font-weight="700" fill="var(--text)">iPhone XS Max 2018: 1.466 USD</text></g></svg>
+  <figcaption>Giá khởi điểm tại Mỹ của mỗi đời iPhone (bản không kèm hợp đồng nhà mạng), quy ra USD năm 2026 theo chỉ số giá tiêu dùng Mỹ. Đường đỏ: bản thường; đường đậm: mẫu cao cấp nhất không gập. Cùng bộ số với video phía trên. Biểu đồ: TechVision</figcaption>
+</figure>
+<script defer src="/scenes/scene.js"></script>
+
 
 ## Singapore, Nhật và Thái Lan: nơi gần nhất chỉ chênh vài trăm nghìn
 
