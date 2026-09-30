@@ -7,8 +7,6 @@ category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-09-30T09:00:00+07:00"
 dateModified: "2026-09-30T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Mở cọc lúc 19h ngày 12/9, chỉ khoảng 10 phút sau lịch giao iPhone 18 Pro Max trên Apple Store Online Việt Nam đã bị đẩy lùi. Các đại lý ủy quyền ghi nhận hơn 300.000 đơn giữ chỗ cho bộ đôi Pro và Pro Max chỉ sau một đêm, trong khi đợt giao đầu ngày 18/9 tại TopZone chỉ có khoảng 20.000 máy. Bài này tổng hợp con số thật của đợt đặt trước, lịch giao từng phiên bản tính tới cuối tháng 9 và cách tính xem nên giữ đơn hay chờ đợt hàng ổn định."
 heroImage: "https://techvision.click/images/iphone-18-pro-max-chay-hang-viet-nam-bao-gio-co-may/khach-viet-nhan-iphone-18-pro-max-ngay-mo-ban.jpg"
 heroAlt: "Khách hàng Việt Nam cầm hộp iPhone 18 Pro Max màu Đỏ Burgundy trong ngày giao máy đầu tiên 18/9/2026"
