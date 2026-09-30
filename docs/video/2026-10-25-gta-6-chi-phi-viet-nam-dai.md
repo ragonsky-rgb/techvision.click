@@ -2,6 +2,7 @@
 
 > Kênh: YouTube @LongTechVision, 16:9, 3-5 phút + teaser dọc 9:16. Khuôn dựng: brag (như `2026-10-08-iphone-19-nam-gia-dai.md`).
 > Lịch đề xuất: đăng **25/10/2026** (trước ngày ra mắt 19/11 đúng 3,5 tuần, theo công thức bài mùa vụ).
+> **ĐÃ DỰNG XONG 01/10/2026 (CHƯA ĐĂNG):** `00 - VIDEO XONG/2026-10-25 TechVision - gta-6-chi-phi-viet-nam-dai.mp4` (2:51, 1920x1080, -14,0 LUFS) + teaser dọc `...gta-6-short-moi.mp4` (17,6s) + thumbnail. Dựng bằng `techvision-video-kit/scripts/gta6_data.py` + `out/gta6/index.html` (brag, 21 cảnh), giọng OmniVoice 46 câu đã soát Whisper.
 > **01/10 anh Long duyệt:** dàn ý + bảng media, đăng video 25/10, kéo bài web lên 24/10.
 > Bài web nền: `mua-ps5-choi-gta-6-chi-phi-that-viet-nam-2026`, ĐÃ dời từ 09/11 sang **24/10/2026 09:00** (sửa deck "mười ngày" thành "chưa tới bốn tuần"; check-new-article OK).
 > Kịch bản đầy đủ ở mục cuối: CHỜ anh đọc duyệt rồi mới thu giọng.
@@ -70,7 +71,7 @@ Không dùng hình AI. Chỉ nói về GTA 6 + PS5 (Xbox chỉ nhắc một câu
 - https://www.nshop.com.vn/products/ps5-pro-playstation-5-sony
 - https://hacom.vn/may-choi-game-sony-playstation-5-ps5-pro
 
-## Kịch bản đầy đủ (bản phụ đề, số giữ nguyên; CHỜ DUYỆT)
+## Kịch bản (anh duyệt 01/10; bản dựng thật 46 câu ở techvision-video-kit/out/gta6/caps_lines.txt, thêm 5 câu có nguồn: Take-Two giữ ngày, mã khu vực x2, Ultimate 1.500.000, GTA+)
 
 Bản đọc cho giọng máy phiên âm theo `tts-cach-doc-so.md` lúc dựng (năm đọc đầy đủ, "PS5" = "PS năm", "USD" = "đô"). Mốc cỡ: video iPhone 19 năm ~600 chữ = 2:56, bản này ~650 chữ nhắm 3:15-3:40.
 
@@ -130,3 +131,48 @@ Bản đọc cho giọng máy phiên âm theo `tts-cach-doc-so.md` lúc dựng (
 39. Game thì không bao giờ hết hàng, còn máy thì có.
 40. Bảng giá chi tiết có ở techvision.click, link trong phần mô tả.
 41. Theo dõi TechVision để biết giá thật trước khi mua.
+
+## Gói đăng (video dài 25/10 + teaser dọc)
+
+Link bài web (lên 24/10 09:00): https://techvision.click/articles/mua-ps5-choi-gta-6-chi-phi-that-viet-nam-2026.html
+
+**YouTube (video dài 16:9)**
+
+Tiêu đề: `Chơi GTA 6 ở Việt Nam hết bao nhiêu tiền? Cộng đủ hóa đơn trước ngày 19/11`
+
+Mô tả:
+```
+GTA 6 ra mắt 19/11/2026, chỉ có trên PS5 và Xbox Series X|S. Video cộng đủ hóa đơn để chơi ở Việt Nam: tiền game (79,99 / 99,99 USD, shop VN nhận đặt khoảng 2,1 - 2,5 triệu, giá dự kiến), bẫy bản hộp không có đĩa, giá PS5 Slim chính hãng 16.890.000đ, PS5 Pro hàng nhập từ khoảng 20,5 triệu, và 3 khoản ẩn: dung lượng, PS Plus, quà đặt trước trước 20/11.
+
+Bảng giá chi tiết và cách chọn máy:
+https://techvision.click/articles/mua-ps5-choi-gta-6-chi-phi-that-viet-nam-2026.html?utm_source=youtube&utm_medium=video&utm_campaign=video-gta6-chi-phi
+
+Giá bán lẻ đọc ngày 01/10/2026 tại CellphoneS, nShop, Hacom, Haloshop; giá có thể đổi.
+Nguồn: Rockstar Games, Take-Two, Video Games Chronicle, Thanh Niên. Video: Rockstar Games. Ảnh: Sony Interactive Entertainment, Wikimedia Commons (BeatEmUps, CC BY 3.0), Pexels (Vika Glitter, Peter Vang).
+
+00:00 GTA 6 ra mắt 19/11
+00:14 Có nên chờ bản PC?
+00:32 Tiền game và mã khu vực
+01:02 Bẫy bản hộp không đĩa
+01:18 Tiền máy: PS5 Slim hay Pro
+01:56 3 khoản ẩn
+02:25 Hóa đơn cuối
+02:38 Lời khuyên
+
+#GTA6 #PS5 #TechVision
+```
+(Mốc chương đã khớp data.js giọng thật, video dài 2:51.)
+
+**Teaser dọc: TikTok**
+```
+Mua GTA 6 bản hộp mà mở ra không có đĩa 😶 Cộng đủ hóa đơn chơi GTA 6 ở Việt Nam: khoảng 19 triệu với PS5 Slim. Bản đầy đủ trên YouTube TechVision. #gta6 #ps5 #gaming #techvision #congnghe
+```
+Link bio: https://techvision.click/articles/mua-ps5-choi-gta-6-chi-phi-that-viet-nam-2026.html?utm_source=tiktok&utm_medium=social&utm_campaign=video-gta6-chi-phi
+
+**Teaser dọc: Facebook Reels**
+```
+GTA 6 bản hộp không có đĩa, chỉ có mã tải game; hộp giao từ 12/11 để tải trước, mở chơi 19/11. Tính cả máy, một suất chơi GTA 6 ở Việt Nam khoảng 19 triệu đồng với PS5 Slim chính hãng. Bảng giá chi tiết: https://techvision.click/articles/mua-ps5-choi-gta-6-chi-phi-that-viet-nam-2026.html?utm_source=facebook&utm_medium=social&utm_campaign=video-gta6-chi-phi
+#GTA6 #PS5 #TechVision
+```
+
+**YouTube Shorts (teaser)**: tiêu đề `GTA 6 bản hộp KHÔNG có đĩa? #Shorts`, mô tả như Facebook + dòng "Bản đầy đủ: <link video dài sau khi đăng>".
