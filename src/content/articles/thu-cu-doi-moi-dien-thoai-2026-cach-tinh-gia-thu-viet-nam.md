@@ -14,16 +14,16 @@ heroImage: "https://i.ytimg.com/vi/Dou0r_e9fqE/maxresdefault.jpg"
 heroAlt: "Người dùng kiểm tra một chiếc điện thoại đã qua sử dụng trước khi định giá"
 heroCaption: "Tình trạng máy chấm tại quầy mới là thứ quyết định giá thu cuối cùng. Ảnh minh họa. Nguồn: YouTube"
 ogImage: "https://techvision.click/uploads/og-article/thu-cu-doi-moi-dien-thoai-2026-cach-tinh-gia-thu-viet-nam.jpg"
-tldr: "Giá thu máy cũ tại Việt Nam được ghép từ ba phần: <strong>giá thu cơ bản theo model và dung lượng</strong>, <strong>mức trừ theo tình trạng</strong> và <strong>phần trợ giá của chương trình</strong>. FPT Shop công bố ưu đãi lên đời <strong>tới 5 triệu đồng</strong> trong tháng 9, còn CellphoneS cộng thêm <strong>5% giá thu</strong> cho thành viên (tối đa 300.000đ hạng Smember, 500.000đ hạng SVIP), theo trang chương trình đọc ngày 28/09/2026. Phần trợ giá chỉ áp dụng khi bạn mua máy mới tại chính cửa hàng đó. Những khoản bị trừ sâu nhất là <strong>pin chai</strong>, <strong>màn hình đã thay</strong> và <strong>máy chưa thoát tài khoản</strong>. Nên hỏi giá ít nhất <strong>ba nơi</strong> trong cùng một ngày vì bảng giá thu đổi theo tuần."
+tldr: "Giá thu máy cũ tại Việt Nam được ghép từ ba phần: <strong>giá thu cơ bản theo model và dung lượng</strong>, <strong>mức trừ theo tình trạng</strong> và <strong>phần trợ giá của chương trình</strong>. Theo trang chương trình đọc ngày 28/09/2026, FPT Shop quảng bá trợ giá lên đời <strong>tới 5 triệu đồng</strong> tùy dòng máy (ưu đãi áp dụng riêng tháng 9 là tới 3 triệu), còn CellphoneS cộng thêm <strong>5% giá thu</strong> cho thành viên (tối đa 300.000đ hạng Smember, 500.000đ hạng SVIP). Các mức này đổi theo đợt, cần xem lại trước khi ra quầy. Phần trợ giá chỉ áp dụng khi bạn mua máy mới tại chính cửa hàng đó. Những khoản bị trừ sâu nhất là <strong>pin chai</strong>, <strong>màn hình đã thay</strong> và <strong>máy chưa thoát tài khoản</strong>. Nên hỏi giá ít nhất <strong>ba nơi</strong> trong cùng một ngày vì bảng giá thu đổi theo tuần."
 tags: ["Smartphone", "ThuCuDoiMoi", "MeoMuaSam", "GiaVietNam"]
 about: ["FPT Shop", "CellphoneS", "Thế Giới Di Động", "iPhone", "Samsung Galaxy"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường bán lẻ điện thoại và giá thiết bị đã qua sử dụng tại Việt Nam."
 sourceUrl: "https://fptshop.com.vn/ctkm/thu-cu-doi-moi"
 sourceName: "FPT Shop - chương trình thu cũ đổi mới"
-sourceDomains: "fptshop.com.vn · cellphones.com.vn · thegioididong.com"
+sourceDomains: "fptshop.com.vn · cellphones.com.vn · thegioididong.com · apple.com/vn"
 stats:
   - { num: "3 phần", label: "Giá thu gồm giá cơ bản, mức trừ tình trạng và trợ giá" }
-  - { num: "5 triệu", label: "Mức ưu đãi lên đời tối đa FPT Shop công bố tháng 9/2026" }
+  - { num: "5 triệu", label: "Mức trợ giá lên đời tối đa FPT Shop quảng bá, tùy dòng máy (đọc 28/09/2026)" }
   - { num: "5%", label: "Mức CellphoneS cộng thêm trên giá thu cho thành viên, tối đa 500.000đ" }
   - { num: "80%", label: "Ngưỡng dung lượng pin nên giữ để không bị trừ nặng" }
   - { num: "3 nơi", label: "Số cửa hàng tối thiểu nên hỏi giá trong cùng một ngày" }
@@ -90,9 +90,11 @@ Các khoản nhẹ hơn gồm trầy xước vỏ, cấn viền, camera mờ, n�
 
 ## Trợ giá: đọc kỹ chỗ chữ nhỏ
 
-Phần thứ ba là trợ giá của chương trình. Theo trang chương trình đọc ngày 28/09/2026, FPT Shop công bố ưu đãi lên đời tới 5 triệu đồng trong tháng 9 (riêng lên đời iPhone trợ giá tới 3 triệu), còn CellphoneS cộng thêm 5% giá thu cho khách mua máy tại cửa hàng, tối đa 300.000đ với hạng Smember và 500.000đ với hạng SVIP. Điểm chung là phần này chỉ tồn tại khi bạn mua máy mới ngay tại đó, và thường không cộng dồn được với các chương trình giảm giá khác trên chính máy mới.
+Phần thứ ba là trợ giá của chương trình. Theo trang chương trình đọc ngày 28/09/2026, FPT Shop quảng bá trợ giá lên đời tới 5 triệu đồng tùy giá trị máy cũ và dòng máy lên đời, còn ưu đãi áp dụng riêng trong tháng 9 là tới 3 triệu. CellphoneS cộng thêm 5% giá thu cho khách mua máy tại cửa hàng, tối đa 300.000đ với hạng Smember và 500.000đ với hạng SVIP. Thế Giới Di Động quảng bá mức hỗ trợ lên đời điện thoại tới 50% giá thu, tối đa 5 triệu đồng, nhận cả máy trầy xước hay pin chai miễn là máy lên nguồn và không khóa iCloud, Google hoặc Samsung KNOX. Đây là các mức của đợt tháng 9/2026; tới lúc bạn đọc bài, chương trình có thể đã sang đợt khác với con số khác. Điểm chung là phần này chỉ tồn tại khi bạn mua máy mới ngay tại đó, và thường không cộng dồn được với các chương trình giảm giá khác trên chính máy mới.
 
 Vì vậy phép so sánh đúng không phải là nơi nào thu máy cũ cao hơn, mà là tổng số tiền bạn phải bù ra để cầm máy mới về. Một cửa hàng thu cao nhưng bán máy mới giá niêm yết có thể đắt hơn nơi thu thấp mà đang giảm sâu máy mới. Hãy yêu cầu ghi rõ ba con số: giá máy mới sau giảm, giá thu máy cũ, và phần trợ giá, rồi tính hiệu số.
+
+Người dùng iPhone còn một kênh nữa là Apple Trade In trên cửa hàng trực tuyến apple.com/vn. Apple báo giá trị ước tính theo model và tình trạng bạn tự khai, trừ thẳng vào đơn mua máy mới, và giữ mức ước tính 14 ngày kể từ khi bạn nhận máy mới để máy cũ được gửi về kiểm tra. Nếu máy không đủ điều kiện nhận tiền, Apple vẫn tái chế miễn phí. Kênh này không có phần trợ giá theo đợt như chuỗi bán lẻ, phù hợp để làm mốc so sánh hơn là lựa chọn mặc định.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/UKvTJ99Icb0/maxresdefault.jpg" alt="Sao lưu dữ liệu điện thoại trước khi đổi máy" loading="lazy" width="1280" height="720">

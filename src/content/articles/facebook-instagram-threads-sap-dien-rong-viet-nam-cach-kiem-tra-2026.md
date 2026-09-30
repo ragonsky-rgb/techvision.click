@@ -1,7 +1,7 @@
 ---
 slug: "facebook-instagram-threads-sap-dien-rong-viet-nam-cach-kiem-tra-2026"
-title: "Facebook, Instagram, Threads sập diện rộng: cách kiểm tra nhanh"
-description: "Facebook, Instagram, Threads lỗi diện rộng sáng 21/9/2026, hơn 300 lượt báo lỗi tại Việt Nam. Vì sao hay xảy ra và cách kiểm tra khi nghi ngờ sự cố."
+title: "Facebook, Instagram, Threads bị sập: cách kiểm tra và dự phòng"
+description: "Facebook, Instagram không vào được: cách phân biệt lỗi mạng nhà với sự cố diện rộng, nhìn lại vụ lỗi 21/9/2026 và phương án dự phòng cho người bán hàng."
 keywords: "facebook sap, instagram loi, threads loi dien rong, facebook instagram sap dien rong, cach kiem tra facebook sap, downdetector viet nam, meta outage 2026, bgp la gi"
 category: "Internet"
 type: "tin-tuc"
@@ -9,34 +9,34 @@ datePublished: "2026-11-11T09:00:00+07:00"
 dateModified: "2026-11-11T09:00:00+07:00"
 noindex: true
 scheduled: true
-deck: "Sáng 21/9/2026, Facebook, Instagram và Threads đồng loạt báo lỗi trên diện rộng, kéo theo hơn 300 lượt báo lỗi tại Việt Nam qua Downdetector chỉ trong khoảng một giờ. Meta chưa từng công bố nguyên nhân kỹ thuật cụ thể, và đây cũng không phải lần đầu trong năm 2026 các nền tảng này gặp sự cố. Bài này giải thích vì sao hạ tầng quy mô toàn cầu vẫn hay sập đồng loạt, cách tự kiểm tra khi nghi ngờ, và việc người bán hàng Việt Nam nên chuẩn bị gì để không bị động."
+deck: "Facebook, Instagram và Threads đã nhiều lần lỗi diện rộng trong năm 2026, gần nhất là sáng 21/9 với hơn 300 lượt báo lỗi tại Việt Nam qua Downdetector. Lần sau gặp lại tình huống không vào được, bạn có thể tự xác định trong một, hai phút lỗi nằm ở mạng nhà hay ở phía Meta. Bài này giải thích vì sao hạ tầng quy mô toàn cầu vẫn hay sập đồng loạt, các bước tự kiểm tra, và việc người bán hàng Việt Nam nên chuẩn bị gì để không bị động."
 heroImage: "https://i.ytimg.com/vi/yMdjvoCGLpg/maxresdefault.jpg"
 heroAlt: "Facebook Instagram Threads gap su co dien rong anh huong nguoi dung toan cau"
-heroCaption: "Facebook, Instagram và Threads đồng loạt báo lỗi diện rộng sáng 21/9/2026. Ảnh minh họa hạ tầng Internet toàn cầu từ YouTube"
+heroCaption: "Facebook, Instagram và Threads dùng chung một lớp hạ tầng toàn cầu nên thường lỗi cùng lúc. Ảnh minh họa từ YouTube"
 ogImage: "https://techvision.click/uploads/og-article/facebook-instagram-threads-sap-dien-rong-viet-nam-cach-kiem-tra-2026.jpg"
-tldr: "Sáng <strong>21/9/2026</strong> (khoảng <strong>7h39</strong> giờ Việt Nam), Facebook, Instagram và bản web Threads đồng loạt báo lỗi, chủ yếu là trang kẹt ở logo hoặc màn hình trắng. Tại Việt Nam ghi nhận <strong>hơn 300 lượt báo lỗi</strong> qua Downdetector, trong khi tại Mỹ con số vượt <strong>17.000 lượt</strong> với Facebook và <strong>5.000 lượt</strong> với Instagram lúc đỉnh điểm. Dịch vụ hồi phục dần từ khoảng 9h sáng và ổn định trong buổi sáng cùng ngày. <strong>Meta không công bố nguyên nhân kỹ thuật</strong>, và đây là sự cố diện rộng thứ ba của nhóm ứng dụng này trong năm 2026. Bài viết giải thích cơ chế khiến các nền tảng khổng lồ dễ sập đồng loạt, cách người dùng tự kiểm tra, và phương án dự phòng cho người bán hàng qua mạng xã hội tại Việt Nam."
+tldr: "Khi Facebook, Instagram không vào được, hãy <strong>thử một trang khác</strong> trên cùng kết nối, rồi <strong>đổi Wi-Fi sang 4G/5G</strong>; lỗi ở cả hai thì gần như chắc chắn là sự cố phía nền tảng. Bước chốt là xem <strong>Downdetector</strong> để biết có nhiều người cùng báo lỗi không. Vụ gần nhất xảy ra sáng <strong>21/9/2026</strong> (từ khoảng <strong>7h39</strong> giờ Việt Nam): <strong>hơn 300 lượt báo lỗi</strong> tại Việt Nam, đỉnh hơn <strong>17.000 lượt</strong> với Facebook tại Mỹ theo Reuters, hồi phục sau khoảng một giờ. Đó là lần lỗi diện rộng thứ ba của Meta được báo chí ghi nhận trong năm 2026, sau <strong>12/6</strong> và <strong>19/7</strong>. Người bán hàng nên có ít nhất một kênh liên hệ dự phòng độc lập như Zalo OA hoặc website riêng."
 tags: ["Facebook", "Instagram", "Threads", "Meta", "Internet", "2026"]
 about: ["Facebook", "Instagram", "Threads", "Meta", "Downdetector"]
 authorBio: "Founder LongTechVision. Theo dõi an toàn mạng và hạ tầng internet cho người dùng Việt Nam."
 sourceUrl: "https://vnexpress.net/facebook-instagram-threads-loi-dien-rong-5122629.html"
-sourceName: "VnExpress, Tuổi Trẻ, Tom's Guide, Quartz"
-sourceDomains: "vnexpress.net · tuoitre.vn · tomsguide.com · qz.com · downdetector.com"
+sourceName: "VnExpress, Reuters, Tom's Guide, Irish Times"
+sourceDomains: "vnexpress.net · reuters.com · tomsguide.com · irishtimes.com · downdetector.com"
 stats:
   - { num: "300+", label: "Lượt báo lỗi Facebook/Instagram/Threads tại Việt Nam qua Downdetector sáng 21/9/2026" }
-  - { num: "17.000+", label: "Lượt báo lỗi Facebook tại Mỹ lúc đỉnh điểm, theo Downdetector" }
-  - { num: "7h39", label: "Giờ Việt Nam sự cố bắt đầu lan rộng sáng 21/9/2026" }
+  - { num: "17.000+", label: "Lượt báo lỗi Facebook tại Mỹ lúc đỉnh điểm vụ 21/9, theo Downdetector dẫn qua Reuters" }
+  - { num: "2 phút", label: "Thời gian đủ để tự phân biệt lỗi mạng nhà với sự cố diện rộng bằng 3 bước" }
   - { num: "2021", label: "Năm xảy ra sự cố BGP nổi tiếng nhất của Meta, kéo dài khoảng 6 giờ" }
-  - { num: "3", label: "Số lần Facebook/Instagram gặp sự cố diện rộng được báo chí ghi nhận trong năm 2026" }
-  - { num: "thứ 50", label: "Vietnam là quốc gia thứ 50 Downdetector mở rộng dịch vụ theo dõi tới" }
+  - { num: "3", label: "Số lần Facebook/Instagram lỗi diện rộng được báo chí ghi nhận trong năm 2026 (12/6, 19/7, 21/9)" }
+  - { num: "~1 giờ", label: "Thời gian gián đoạn chính của vụ 21/9/2026 trước khi dịch vụ hồi phục" }
 faq:
   - q: "Sự cố ngày 21/9/2026 có phải do bị tấn công mạng không?"
-    a: "Không có bằng chứng cho điều đó. Meta không công bố nguyên nhân kỹ thuật cụ thể, và trang trạng thái chính thức của hãng trong lúc xảy ra sự cố không ghi nhận gián đoạn nào, điều thường thấy khi lỗi nằm ở tầng hạ tầng hoặc cấu hình nội bộ chứ không phải bị xâm nhập từ bên ngoài. Các sự cố diện rộng tương tự trong quá khứ của Meta, kể cả vụ năm 2021, đều xuất phát từ lỗi cấu hình hoặc bảo trì nội bộ, không phải tấn công."
+    a: "Không có bằng chứng cho điều đó. Meta không công bố nguyên nhân kỹ thuật chi tiết, và không có nguồn đáng tin nào nói tới tấn công mạng. Phần lớn các sự cố diện rộng từng được Meta giải thích, điển hình là vụ năm 2021, xuất phát từ lỗi cấu hình hoặc bảo trì nội bộ, không phải tấn công."
   - q: "Vì sao một nền tảng lớn như Meta lại sập cùng lúc ở nhiều quốc gia?"
     a: "Vì Facebook, Instagram và Threads dùng chung một lớp hạ tầng mạng và hệ thống định tuyến trên toàn cầu. Khi một thay đổi cấu hình sai ở tầng lõi (ví dụ định tuyến BGP hoặc hệ thống phân giải tên miền nội bộ) được đẩy đi, nó ảnh hưởng đồng thời tới mọi khu vực dùng chung hạ tầng đó, không riêng một quốc gia. Đây là đặc điểm chung của mọi dịch vụ quy mô hyperscale, không riêng gì Meta."
   - q: "Làm sao phân biệt lỗi mạng nhà mình với sự cố diện rộng của nền tảng?"
     a: "Cách nhanh nhất là thử một dịch vụ khác trên cùng kết nối. Nếu Facebook không vào được nhưng YouTube, Google hay các trang khác vẫn chạy bình thường, khả năng cao lỗi nằm ở phía nền tảng chứ không phải mạng nhà. Bước tiếp theo là chuyển từ Wi-Fi sang dữ liệu di động (hoặc ngược lại); nếu vẫn lỗi ở cả hai loại kết nối, gần như chắc chắn đó là sự cố diện rộng chứ không phải vấn đề cục bộ."
   - q: "Có công cụ nào để kiểm tra tình trạng sự cố theo thời gian thực không?"
-    a: "Có. Downdetector đã mở rộng theo dõi tới Việt Nam, cho phép xem số lượt báo lỗi theo thời gian thực và tự báo lỗi nếu gặp sự cố. Ngoài ra có thể tra cứu trang trạng thái chính thức của Meta, dù trang này không phải lúc nào cũng cập nhật kịp lúc sự cố đang diễn ra, như trường hợp ngày 21/9/2026."
+    a: "Có. Downdetector có ghi nhận báo lỗi từ Việt Nam, cho phép xem số lượt báo lỗi theo thời gian thực và tự báo lỗi nếu gặp sự cố. Ngoài ra có thể tra cứu trang trạng thái chính thức của Meta, dù trang này không phải lúc nào cũng cập nhật kịp lúc sự cố đang diễn ra, nên đừng chỉ dựa vào một nguồn."
   - q: "Người bán hàng online chỉ dùng Facebook, Instagram có nên lo lắng không?"
     a: "Nên xem đây là lời nhắc để đa dạng kênh liên hệ với khách hàng, không cần hoảng loạn vì phần lớn sự cố kiểu này chỉ kéo dài từ vài chục phút tới vài giờ. Nhưng với người bán phụ thuộc hoàn toàn vào một nền tảng để nhận đơn và nhắn tin, một sự cố xảy ra đúng giờ cao điểm bán hàng vẫn có thể gây thiệt hại thực tế, nên có thêm ít nhất một kênh dự phòng độc lập là điều hợp lý."
 related:
@@ -46,34 +46,34 @@ related:
 featured: true
 ---
 
-Sáng thứ Hai, ngày **21/9/2026**, hàng loạt người dùng tại Việt Nam và nhiều quốc gia khác phát hiện Facebook, Instagram và bản web Threads đồng loạt không truy cập được. Không phải lần đầu, nhưng lần này mức độ lan rộng đủ lớn để trở thành chủ đề bàn tán ngay trong giờ làm việc buổi sáng, nhất là với những người đang cần đăng bài, nhắn tin công việc hoặc chốt đơn hàng qua các nền tảng này.
+Facebook không tải được, Instagram kẹt ở logo, Threads báo lỗi: tình huống này đã lặp lại ít nhất ba lần trong năm 2026, gần nhất là sáng thứ Hai **21/9/2026** khi người dùng tại Việt Nam và nhiều quốc gia khác đồng loạt không truy cập được. Mỗi lần như vậy, phản xạ quen thuộc là khởi động lại modem hoặc gọi tổng đài nhà mạng, trong khi lỗi thực ra nằm ở phía Meta. Bài này dùng vụ 21/9 làm ví dụ để giải thích vì sao các nền tảng lớn hay sập đồng loạt, cách tự kiểm tra nhanh khi gặp lại, và việc người bán hàng nên chuẩn bị trước.
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Sự cố trong 2 phút: điều đã biết tới hiện tại</div>
+  <div class="spec-box-title">📋 Nhìn lại vụ lỗi ngày 21/9/2026</div>
   <table>
     <tr><td>Thời điểm bắt đầu</td><td>Khoảng 7h39 sáng 21/9/2026 (giờ Việt Nam), lượt báo lỗi tăng vọt trên Downdetector</td></tr>
     <tr><td>Nền tảng ảnh hưởng</td><td>Facebook, Instagram, Threads (bản web); một phần Messenger</td></tr>
     <tr><td>Triệu chứng phổ biến</td><td>Trang kẹt ở logo, màn hình trắng, không tải được newsfeed, đăng nhập chập chờn</td></tr>
     <tr><td>Lượt báo lỗi tại Việt Nam</td><td>Hơn 300 lượt qua Downdetector</td></tr>
     <tr><td>Lượt báo lỗi tại Mỹ (đỉnh điểm)</td><td>Hơn 17.000 lượt với Facebook, hơn 5.000 lượt với Instagram</td></tr>
-    <tr><td>Quốc gia khác ghi nhận</td><td>Singapore, Philippines, Australia, Mexico, Nhật Bản, một phần châu Âu</td></tr>
-    <tr><td>Thời gian phục hồi</td><td>Bắt đầu ổn định dần từ khoảng 9h sáng giờ Việt Nam, hết hẳn trong buổi sáng</td></tr>
-    <tr><td>Nguyên nhân chính thức</td><td>Meta chưa công bố; trang trạng thái của hãng không ghi nhận gián đoạn trong lúc xảy ra sự cố</td></tr>
+    <tr><td>Quốc gia khác ghi nhận</td><td>Mỹ, Nhật Bản (hơn 1.000 lượt) và nhiều nước khác</td></tr>
+    <tr><td>Thời gian phục hồi</td><td>Lượt báo lỗi giảm dần từ khoảng 9h sáng giờ Việt Nam, dịch vụ trở lại trong buổi sáng</td></tr>
+    <tr><td>Nguyên nhân chính thức</td><td>Meta không công bố nguyên nhân kỹ thuật chi tiết</td></tr>
   </table>
 </div>
 
-## Chuyện gì xảy ra sáng 21/9 và mức độ ảnh hưởng tại Việt Nam
+## Nhìn lại vụ lỗi sáng 21/9/2026 và mức độ ảnh hưởng tại Việt Nam
 
-Theo dữ liệu từ Downdetector, lượt báo lỗi với Facebook tại Mỹ bắt đầu tăng vọt từ khoảng 8h55 tối Chủ nhật theo giờ miền Đông nước Mỹ, tức khoảng 7h55 sáng thứ Hai theo giờ Việt Nam, và đạt đỉnh hơn 17.000 lượt báo lỗi cho Facebook, hơn 5.000 lượt cho Instagram. Triệu chứng chủ yếu là trang web kẹt ở logo, hiện màn hình trắng hoặc không tải được nội dung, trong khi ứng dụng di động ở một số nơi vẫn dùng được bình thường hoặc chỉ bị chậm.
+Theo dữ liệu Downdetector được Reuters dẫn lại, lượt báo lỗi với Facebook tại Mỹ bắt đầu tăng vọt từ khoảng 8h55 tối Chủ nhật 20/9 theo giờ miền Đông nước Mỹ, tức khoảng 7h55 sáng thứ Hai theo giờ Việt Nam, và đạt đỉnh hơn 17.000 lượt báo lỗi cho Facebook, hơn 5.000 lượt cho Instagram. Triệu chứng chủ yếu là trang web kẹt ở logo, hiện màn hình trắng hoặc không tải được nội dung, trong khi ứng dụng di động ở một số nơi vẫn dùng được bình thường hoặc chỉ bị chậm.
 
-Tại Việt Nam, số lượt báo lỗi ghi nhận qua Downdetector vượt mốc 300 chỉ trong khoảng một giờ, một con số đáng chú ý với một dịch vụ theo dõi mới mở rộng sang thị trường trong nước chưa lâu (Việt Nam là quốc gia thứ 50 mà Downdetector triển khai theo dõi). Nhiều người dùng phản ánh tình huống tương tự: mở Facebook trên máy tính để làm việc nhưng chỉ thấy logo, thử tải lại nhiều lần không thành công. Ngoài Việt Nam, các báo quốc tế còn ghi nhận phản ánh từ Singapore, Philippines, Australia, Mexico, Nhật Bản và một phần châu Âu, cho thấy đây không phải sự cố cục bộ ở một khu vực mạng nào mà mang tính toàn cầu.
+Tại Việt Nam, số lượt báo lỗi ghi nhận qua Downdetector vượt mốc 300 chỉ trong khoảng một giờ, theo VnExpress. Con số này nhỏ so với Mỹ vì phản ánh số người chủ động vào Downdetector báo lỗi, không phải số người bị ảnh hưởng thật. Nhiều người dùng phản ánh tình huống tương tự: mở Facebook trên máy tính để làm việc nhưng chỉ thấy logo, thử tải lại nhiều lần không thành công. Ngoài Việt Nam và Mỹ, Downdetector còn ghi nhận hơn 1.000 lượt báo lỗi tại Nhật Bản cùng phản ánh từ nhiều nước khác, cho thấy đây không phải sự cố cục bộ ở một khu vực mạng nào mà mang tính toàn cầu.
 
 <figure>
   <img decoding="async" src="https://i.ytimg.com/vi/3_CsTDHnFzw/maxresdefault.jpg" alt="Kiem tra toc do va ket noi mang de phan biet loi thiet bi voi su co dien rong" loading="lazy" width="1280" height="720">
   <figcaption>Khi một nền tảng không vào được, bước đầu tiên nên làm là kiểm tra xem kết nối mạng của mình có vấn đề hay không. Ảnh minh họa từ YouTube</figcaption>
 </figure>
 
-Dịch vụ bắt đầu hồi phục dần từ khoảng 9h sáng giờ Việt Nam, dù một số người vẫn gặp tình trạng chập chờn thêm ít lâu trước khi ổn định hoàn toàn. Tính theo mốc báo lỗi tại Mỹ giảm mạnh vào khoảng 10h tối Chủ nhật giờ miền Đông, tổng thời gian gián đoạn rơi vào khoảng một giờ tới vài giờ tùy khu vực và tùy cách đo. Đáng chú ý, đây không phải sự cố diện rộng duy nhất của nhóm ứng dụng Meta trong năm 2026: báo chí trong nước từng ghi nhận Facebook, Instagram và Messenger đồng loạt gặp lỗi vào giữa tháng 6, và phiên bản web của Facebook sập toàn cầu vào tháng 7 cùng năm. Ba lần trong chưa đầy nửa năm là tần suất đáng để người dùng và người kinh doanh trên nền tảng này lưu tâm, thay vì xem mỗi lần là một sự cố đơn lẻ, ngẫu nhiên.
+Dịch vụ bắt đầu hồi phục dần từ khoảng 9h sáng giờ Việt Nam, dù một số người vẫn gặp tình trạng chập chờn thêm ít lâu trước khi ổn định hoàn toàn. Tính theo mốc báo lỗi tại Mỹ giảm mạnh vào khoảng 10h tối Chủ nhật giờ miền Đông, tổng thời gian gián đoạn rơi vào khoảng một giờ tới vài giờ tùy khu vực và tùy cách đo. Đáng chú ý, đây không phải sự cố diện rộng duy nhất của nhóm ứng dụng Meta trong năm 2026: ngày 12/6 Facebook và Messenger gặp lỗi toàn cầu khiến nhiều người bị đăng xuất, và ngày 19/7 Facebook lại lỗi đăng nhập, không tải được bảng tin, nhất là trên máy tính. Ba lần trong khoảng ba tháng rưỡi là tần suất đáng để người dùng và người kinh doanh trên nền tảng này lưu tâm, thay vì xem mỗi lần là một sự cố đơn lẻ, ngẫu nhiên.
 
 ## Vì sao các nền tảng khổng lồ vẫn hay sập đồng loạt
 
@@ -87,7 +87,7 @@ Ví dụ rõ nhất cho cơ chế này là sự cố nổi tiếng của chính 
 </div>
 <p class="art-video-caption">Một hạ tầng mạng quy mô toàn cầu có nhiều lớp cấu hình, chỉ cần một khâu sai là ảnh hưởng lan rất nhanh. Ảnh minh họa từ YouTube</p>
 
-Sự cố ngày 21/9/2026 chưa được Meta xác nhận nguyên nhân cụ thể, và có thể không liên quan gì tới lỗi BGP như năm 2021. Nhưng mô hình chung của phần lớn các sự cố diện rộng ở những nền tảng cỡ này thường rơi vào một trong vài nhóm quen thuộc: lỗi khi đẩy một bản cập nhật cấu hình (config push) ra toàn hệ thống cùng lúc thay vì theo từng khu vực nhỏ để kiểm tra trước, sự cố ở lớp mạng phân phối nội dung (CDN) khiến yêu cầu của người dùng không tới được máy chủ đích, hoặc lỗi ở hệ thống xác thực nội bộ khiến các dịch vụ con không "nói chuyện" được với nhau dù từng máy chủ riêng lẻ vẫn chạy tốt. Điểm chung của cả ba nhóm là chúng không cần một cuộc tấn công nào từ bên ngoài, chỉ cần một thay đổi nội bộ tưởng chừng nhỏ nhưng chạy trên quy mô hàng tỷ người dùng.
+Sự cố ngày 21/9/2026 không được Meta công bố nguyên nhân cụ thể, và có thể không liên quan gì tới lỗi BGP như năm 2021. Nhưng mô hình chung của phần lớn các sự cố diện rộng ở những nền tảng cỡ này thường rơi vào một trong vài nhóm quen thuộc: lỗi khi đẩy một bản cập nhật cấu hình (config push) ra toàn hệ thống cùng lúc thay vì theo từng khu vực nhỏ để kiểm tra trước, sự cố ở lớp mạng phân phối nội dung (CDN) khiến yêu cầu của người dùng không tới được máy chủ đích, hoặc lỗi ở hệ thống xác thực nội bộ khiến các dịch vụ con không "nói chuyện" được với nhau dù từng máy chủ riêng lẻ vẫn chạy tốt. Điểm chung của cả ba nhóm là chúng không cần một cuộc tấn công nào từ bên ngoài, chỉ cần một thay đổi nội bộ tưởng chừng nhỏ nhưng chạy trên quy mô hàng tỷ người dùng.
 
 ## Cách kiểm tra khi nghi ngờ: lỗi mạng nhà mình hay sự cố diện rộng
 
@@ -100,7 +100,7 @@ Bước đầu tiên và nhanh nhất là thử mở một trang hoặc ứng d�
   <figcaption>Đổi giữa Wi-Fi và dữ liệu di động là cách nhanh để loại trừ nguyên nhân từ phía đường truyền cá nhân. Ảnh minh họa từ YouTube</figcaption>
 </figure>
 
-Bước thứ ba, đáng tin cậy nhất, là tra cứu trực tiếp các công cụ theo dõi sự cố theo thời gian thực. Downdetector hiện đã mở rộng theo dõi tới Việt Nam, hiển thị biểu đồ số lượt báo lỗi theo từng dịch vụ và cho phép tự gửi báo cáo nếu đang gặp vấn đề, giúp người dùng thấy ngay liệu mình có đang bị một mình hay là một phần của một sự cố lớn hơn nhiều người khác cũng đang gặp. Trang trạng thái chính thức của Meta cũng là một nguồn tham khảo, tuy trong trường hợp ngày 21/9/2026 trang này lại không kịp ghi nhận gián đoạn ngay khi sự cố đang xảy ra, cho thấy không nên chỉ dựa vào một nguồn duy nhất. Một điểm cần lưu ý thêm trong lúc mạng xã hội hỗn loạn vì sự cố: đây cũng là thời điểm kẻ gian dễ lợi dụng để giả mạo thông báo "hỗ trợ khôi phục tài khoản" hoặc đường link lạ, một trong những kịch bản đã được liệt kê trong danh sách [25 kịch bản lừa đảo mạng năm 2026 mà công an cảnh báo](/articles/25-kich-ban-lua-dao-mang-2026-cong-an-canh-bao-cach-phong.html), nên tuyệt đối không bấm vào bất kỳ liên kết nào hứa hẹn "khôi phục nhanh" tài khoản trong lúc này.
+Bước thứ ba, đáng tin cậy nhất, là tra cứu trực tiếp các công cụ theo dõi sự cố theo thời gian thực. Downdetector có ghi nhận báo lỗi từ người dùng Việt Nam, hiển thị biểu đồ số lượt báo lỗi theo từng dịch vụ và cho phép tự gửi báo cáo nếu đang gặp vấn đề, giúp người dùng thấy ngay liệu mình có đang bị một mình hay là một phần của một sự cố lớn hơn nhiều người khác cũng đang gặp. Trang trạng thái chính thức của Meta (metastatus.com) cũng là một nguồn tham khảo, nhưng các trang trạng thái của hãng thường cập nhật chậm hơn thực tế, nên không nên chỉ dựa vào một nguồn duy nhất. Một điểm cần lưu ý thêm trong lúc mạng xã hội hỗn loạn vì sự cố: đây cũng là thời điểm kẻ gian dễ lợi dụng để giả mạo thông báo "hỗ trợ khôi phục tài khoản" hoặc đường link lạ, một trong những kịch bản đã được liệt kê trong danh sách [25 kịch bản lừa đảo mạng năm 2026 mà công an cảnh báo](/articles/25-kich-ban-lua-dao-mang-2026-cong-an-canh-bao-cach-phong.html), nên tuyệt đối không bấm vào bất kỳ liên kết nào hứa hẹn "khôi phục nhanh" tài khoản trong lúc này.
 
 ## Người bán hàng và doanh nghiệp Việt Nam nên chuẩn bị gì
 
