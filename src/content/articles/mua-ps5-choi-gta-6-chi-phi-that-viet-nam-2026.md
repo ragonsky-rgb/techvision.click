@@ -5,11 +5,11 @@ description: "GTA 6 lên kệ 19/11/2026 chỉ trên console. Cộng đủ tiề
 keywords: "mua PS5 chơi GTA 6, giá PS5 Việt Nam, giá GTA 6, GTA 6 19/11/2026, PS5 Pro giá, PlayStation Plus giá, chi phí chơi GTA 6"
 category: "Công nghệ"
 type: "huong-dan"
-datePublished: "2026-11-09T09:00:00+07:00"
-dateModified: "2026-11-09T09:00:00+07:00"
+datePublished: "2026-10-24T09:00:00+07:00"
+dateModified: "2026-10-24T09:00:00+07:00"
 noindex: true
 scheduled: true
-deck: "Chỉ còn mười ngày nữa GTA 6 lên kệ, và vì bản PC chưa có lịch nên ai muốn chơi ngay đều phải nghĩ tới console. Vấn đề là tiền máy chỉ là một phần: tiền game, tài khoản khu vực, dung lượng ổ cứng và cả tay cầm dự phòng đều nằm trong hóa đơn. Bài này cộng đủ các khoản theo giá đang bán tại Việt Nam để bạn biết mình cần chuẩn bị bao nhiêu."
+deck: "Còn chưa tới bốn tuần nữa GTA 6 lên kệ, và vì bản PC chưa có lịch nên ai muốn chơi ngay đều phải nghĩ tới console. Vấn đề là tiền máy chỉ là một phần: tiền game, tài khoản khu vực, dung lượng ổ cứng và cả tay cầm dự phòng đều nằm trong hóa đơn. Bài này cộng đủ các khoản theo giá đang bán tại Việt Nam để bạn biết mình cần chuẩn bị bao nhiêu."
 heroImage: "https://i.ytimg.com/vi/REV53mP7-7Y/maxresdefault.jpg"
 heroAlt: "Hình ảnh quảng bá GTA 6 với bối cảnh Vice City hiện đại"
 heroCaption: "GTA 6 phát hành ngày 19/11/2026, trước mắt chỉ có trên console. Ảnh minh họa. Nguồn: YouTube"
