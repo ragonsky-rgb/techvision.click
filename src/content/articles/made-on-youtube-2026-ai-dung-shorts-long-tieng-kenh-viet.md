@@ -1,44 +1,44 @@
 ---
 slug: "made-on-youtube-2026-ai-dung-shorts-long-tieng-kenh-viet"
-title: "Made on YouTube 2026: AI dựng Shorts, lồng tiếng cho kênh Việt"
-description: "YouTube công bố loạt tính năng AI ngày 23/9/2026: Shorts Series, Ask Studio, A/B test video, lồng tiếng trực tiếp. Kênh Việt được và chưa được gì."
-keywords: "made on youtube 2026, youtube tính năng mới, shorts series, ask studio, youtube lồng tiếng tự động, youtube a/b test, youtube việt nam"
+title: "Made on YouTube 2026: kênh Việt đã dùng được gì sau 1 tháng"
+description: "Một tháng sau Made on YouTube 23/9/2026: Shorts series, lồng tiếng tự động có tiếng Việt đã dùng được; A/B test video, lồng tiếng livestream phải chờ 2027."
+keywords: "made on youtube 2026, youtube tính năng mới, shorts series, ask studio, youtube lồng tiếng tự động, youtube a/b test video, youtube việt nam"
 category: "Internet"
 type: "tin-tuc"
 datePublished: "2026-10-26T15:00:00+07:00"
 dateModified: "2026-10-26T15:00:00+07:00"
 scheduled: true
 noindex: true
-deck: "Ngày 23/9/2026 YouTube công bố đợt tính năng lớn nhất năm tại sự kiện Made on YouTube, gần như toàn bộ đều dựa trên AI: trợ lý trả lời trong Studio, thử nghiệm A/B cho video, ảnh đại diện thay đổi theo người xem, Shorts xếp thành mùa và tập, và lồng tiếng trực tiếp cho livestream. Bài này tách rõ tính năng nào kênh Việt dùng được ngay, tính năng nào còn phải chờ, và vì sao con số hơn 50% giờ xem đến từ nước ngoài lại là phần quan trọng nhất."
-heroImage: "https://i.ytimg.com/vi/1B_J5MJ0Po0/maxresdefault.jpg"
-heroAlt: "Nha sang tao noi dung lam viec voi cong cu phan tich kenh YouTube nam 2026"
-heroCaption: "Sự kiện Made on YouTube 2026 diễn ra ngày 23/9/2026. Ảnh minh họa từ YouTube"
+deck: "Made on YouTube diễn ra ngày 23/9/2026 với hơn 30 thông báo, gần như đều gắn với AI. Sau hơn một tháng, danh sách thứ kênh Việt thật sự bật được trong Studio ngắn hơn nhiều so với các bản tin: Shorts series và lồng tiếng tự động đã dùng được, còn A/B test video, trợ lý dựng Gemini Omni và lồng tiếng livestream đều hẹn sang 2027. Bài này tách từng nhóm và giải thích vì sao con số hơn 50% giờ xem đến từ nước ngoài là điểm nên bắt đầu."
+heroImage: "https://techvision.click/images/made-on-youtube-2026-ai-dung-shorts-long-tieng-kenh-viet/made-on-youtube-2026-so-lieu-chinh.jpg"
+heroAlt: "Do hoa so lieu Made on YouTube 2026: ngay 23/9/2026, 27 ngon ngu long tieng tu dong, hon 50% gio xem kenh Viet tu nuoc ngoai"
+heroCaption: "Ba con số nên nắm trước khi chọn tính năng để dùng. Đồ họa: TechVision, số liệu: YouTube Blog, Google Việt Nam (YouTube Festival 16/9/2026)"
 ogImage: "https://techvision.click/uploads/og-article/made-on-youtube-2026-ai-dung-shorts-long-tieng-kenh-viet.jpg"
-tldr: "Tại <strong>Made on YouTube</strong> ngày <strong>23/9/2026</strong>, YouTube công bố <strong>Shorts Series</strong> cho phép xếp Shorts thành mùa và tập với phát tuần tự, <strong>Ask Studio</strong> mở rộng sang iOS và Android kèm khả năng tự theo dõi hiệu quả ảnh đại diện, <strong>thử nghiệm A/B cho video</strong>, <strong>ảnh đại diện động</strong>, và góp ý AI cho bản nháp chưa đăng về nhịp phim cùng cấu trúc kể chuyện. <strong>Lồng tiếng trực tiếp cho livestream lùi sang đầu 2027</strong>, thử nghiệm hẹp chỉ với tiếng Anh và tiếng Tây Ban Nha. Bối cảnh Việt Nam: <strong>93% người dùng Internet</strong> xem YouTube mỗi ngày, <strong>hơn 180.000 kênh</strong> vượt 10.000 người đăng ký, và <strong>hơn 50% giờ xem</strong> nội dung kênh Việt đến từ người xem ngoài nước."
+tldr: "<strong>Made on YouTube</strong> diễn ra ngày <strong>23/9/2026</strong> với hơn 30 thông báo. Tính năng kênh Việt dùng được ngay là <strong>Shorts series</strong> (xếp Shorts thành mùa và tập, triển khai từ 23/9) và <strong>lồng tiếng tự động</strong> với <strong>27 ngôn ngữ</strong>, trong đó có tiếng Việt. <strong>Ask Studio</strong> lên iOS và Android được hẹn <strong>trước cuối 2026</strong>, còn <strong>A/B test video</strong> (tối đa 3 bản dựng) và trợ lý dựng Shorts bằng <strong>Gemini Omni</strong> hẹn sang <strong>2027</strong>. Lồng tiếng livestream thử nghiệm <strong>đầu 2027</strong>, chỉ tiếng Anh và tiếng Tây Ban Nha. Bối cảnh Việt Nam: <strong>hơn 180.000 kênh</strong> vượt 10.000 người đăng ký và <strong>hơn 50% giờ xem</strong> nội dung kênh Việt đến từ nước ngoài."
 tags: ["YouTube", "AI", "NoiDungSo", "Internet", "2026"]
 about: ["YouTube", "Google", "YouTube Studio", "YouTube Shorts", "Gemini"]
 authorBio: "Founder LongTechVision. Theo dõi nền tảng nội dung số và điều kiện kiếm tiền thực tế của kênh tại Việt Nam."
 sourceUrl: "https://blog.youtube/news-and-events/innovation-youtube-era-made-on-viewers-creators/"
 sourceName: "YouTube Blog"
-sourceDomains: "blog.youtube · blog.google · 9to5google.com · socialmediatoday.com"
+sourceDomains: "blog.youtube · techcrunch.com · 9to5google.com · socialmediatoday.com · vneconomy.vn"
 stats:
-  - { num: "23/9/2026", label: "Ngày YouTube công bố loạt tính năng tại Made on YouTube" }
-  - { num: "đầu 2027", label: "Thời điểm lồng tiếng trực tiếp cho livestream bắt đầu thử nghiệm" }
-  - { num: "27 ngôn ngữ", label: "Số ngôn ngữ lồng tiếng tự động hiện hỗ trợ, mở cho mọi kênh" }
-  - { num: "93%", label: "Tỉ lệ người dùng Internet Việt Nam xem YouTube mỗi ngày" }
+  - { num: "23/9/2026", label: "Ngày YouTube công bố hơn 30 tính năng tại Made on YouTube" }
+  - { num: "27 ngôn ngữ", label: "Lồng tiếng tự động hiện hỗ trợ, có tiếng Việt" }
+  - { num: "8 ngôn ngữ", label: "Expressive Speech hỗ trợ, chưa có tiếng Việt" }
+  - { num: "2027", label: "A/B test video và trợ lý dựng Gemini Omni mới triển khai" }
   - { num: "180.000+", label: "Số kênh tại Việt Nam vượt mốc 10.000 người đăng ký" }
   - { num: "hơn 50%", label: "Phần giờ xem nội dung kênh Việt đến từ người xem nước ngoài" }
 faq:
-  - q: "Shorts Series là gì và dùng để làm gì?"
-    a: "Là cách xếp các Shorts rời rạc thành mùa và tập, có ảnh đại diện riêng, và người xem hết tập này thì tập sau tự chạy. Trước đây Shorts chỉ là một dòng video ngắn không có thứ tự, ai vào giữa chuỗi thì xem lệch mạch. Với nội dung có tuyến truyện hoặc dạng hướng dẫn nhiều phần, đây là thay đổi đáng kể vì nó biến một chuỗi Shorts thành thứ người xem theo được từ đầu. Tính năng bắt đầu triển khai từ ngày công bố."
-  - q: "Ask Studio làm được gì mà bảng thống kê cũ không làm được?"
-    a: "Ask Studio là trợ lý hỏi đáp ngay trong YouTube Studio, và đợt này được mở sang ứng dụng iOS cùng Android thay vì chỉ trên máy tính. Khác biệt lớn nhất là nếu chủ kênh cho phép, nó có thể tự theo dõi hiệu quả ảnh đại diện và tự tạo thử nghiệm để chỉnh lại các video cũ. Bảng thống kê cũ chỉ báo số, còn phần diễn giải và hành động là việc của người làm kênh. Cần lưu ý đây là quyền tự chạy thử nghiệm trên video của bạn, nên hãy đọc kỹ trước khi bật."
+  - q: "Shorts series là gì và kênh Việt dùng được chưa?"
+    a: "Shorts series cho phép xếp Shorts thành mùa và tập, người xem hết tập này thì tập sau tự chạy. YouTube bắt đầu triển khai từ ngày 23/9/2026 trên web, di động và TV, không nêu giới hạn thị trường. Phần ảnh đại diện riêng cho từng tập và phát tuần tự dành cho kênh trong Chương trình Đối tác YouTube (YPP). Với kênh Việt làm nội dung nhiều phần, đây là tính năng đáng thử đầu tiên vì không cần sản xuất thêm."
+  - q: "Ask Studio trên điện thoại đã có chưa?"
+    a: "YouTube hẹn đưa Ask Studio lên ứng dụng YouTube Studio trên iOS và Android trước cuối năm 2026, nên tại cuối tháng 10 có thể tài khoản của bạn chưa thấy. Khả năng để Ask Studio tự theo dõi hiệu quả ảnh đại diện và tự tạo thử nghiệm cho video cũ cũng được hẹn trong năm nay và chỉ chạy khi chủ kênh cho phép. YouTube không công bố danh sách thị trường cụ thể cho bản di động, kênh Việt nên kiểm trực tiếp trong ứng dụng."
   - q: "Lồng tiếng tự động đã hỗ trợ tiếng Việt chưa?"
-    a: "Lồng tiếng tự động cho video thường đã mở cho mọi kênh với 27 ngôn ngữ, và tiếng Việt nằm trong nhóm ngôn ngữ nguồn được hỗ trợ để dịch sang tiếng Anh. Tuy nhiên tính năng Expressive Speech, phần giữ lại sắc thái giọng nói của người nói gốc, hiện chỉ có 8 ngôn ngữ gồm Anh, Pháp, Đức, Hindi, Indonesia, Ý, Bồ Đào Nha và Tây Ban Nha, chưa có tiếng Việt. Còn lồng tiếng trực tiếp cho livestream thì lùi sang đầu 2027 và mở thử nghiệm hẹp chỉ với tiếng Anh và tiếng Tây Ban Nha."
-  - q: "Thử nghiệm A/B cho video khác gì thử nghiệm ảnh đại diện?"
-    a: "Thử nghiệm ảnh đại diện đã có từ trước, chỉ đổi tấm ảnh ngoài còn video giữ nguyên. Thử nghiệm A/B mới cho phép so sánh các bản dựng và biến thể khác nhau của chính video, tức là phần nội dung cũng được đưa vào phép thử. Ý nghĩa thực tế là các quyết định dựng phim như mở đầu bao lâu, cắt ở đâu, có thể được kiểm bằng số liệu thay vì bằng cảm giác. Đổi lại, nó chỉ hữu ích khi kênh đủ lượng xem để phép thử có ý nghĩa thống kê."
+    a: "Có. Lồng tiếng tự động cho video thường đã mở cho mọi kênh đủ điều kiện với 27 ngôn ngữ, trong đó video tiếng Việt có thể được lồng sang tiếng Anh. Phần Expressive Speech, giữ lại cao độ và ngữ điệu của người nói gốc, hiện chỉ có 8 ngôn ngữ gồm Anh, Pháp, Đức, Hindi, Indonesia, Ý, Bồ Đào Nha và Tây Ban Nha, chưa có tiếng Việt. Lồng tiếng thời gian thực cho livestream thì thử nghiệm đầu 2027 với tiếng Anh và tiếng Tây Ban Nha."
+  - q: "A/B test video khác gì thử nghiệm ảnh đại diện, và khi nào có?"
+    a: "Thử nghiệm tiêu đề và ảnh đại diện đã có từ 2024, chỉ đổi phần bên ngoài. A/B test video cho phép so sánh tối đa 3 bản dựng của cùng một video hoặc Short, khác nhau ở mở đầu, nhịp và độ dài, rồi chọn bản thắng dựa trên tỉ lệ thời gian xem. Theo TechCrunch, tính năng này chỉ mở cho một số nhà sáng tạo từ năm 2027, nên tại thời điểm này kênh Việt chưa dùng được."
   - q: "Kênh Việt nên bắt đầu từ tính năng nào?"
-    a: "Từ lồng tiếng tự động, vì nó gắn trực tiếp với con số đáng chú ý nhất: hơn 50% giờ xem nội dung do kênh Việt sản xuất đã đến từ người xem ngoài nước, theo số liệu Google công bố tại YouTube Festival Vietnam ngày 16/9/2026. Nghĩa là phần khán giả quốc tế không phải chuyện tương lai mà đang là quá nửa. Sau đó mới tới Shorts Series nếu kênh làm nội dung nhiều phần, rồi thử nghiệm A/B khi kênh đã đủ lượng xem. Ask Studio nên bật sau cùng và bật có chọn lọc, vì nó xin quyền tự tác động lên video cũ."
+    a: "Từ lồng tiếng tự động, vì nó đã dùng được và gắn với con số đáng chú ý nhất: hơn 50% giờ xem nội dung do kênh Việt sản xuất đến từ người xem ngoài nước, theo số liệu Google công bố tại YouTube Festival Vietnam ngày 16/9/2026. Tiếp theo là Shorts series nếu kênh có nội dung nhiều phần. Ask Studio bản di động và ảnh đại diện động nên thử khi xuất hiện trong tài khoản, còn A/B test video và lồng tiếng livestream là việc của năm 2027."
 related:
   - { href: "/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html", cat: "Internet", title: "YouTube đổi cách tính view từ 24/8: số tăng, tiền không tăng" }
   - { href: "/articles/zalo-binh-dan-hoa-ai-2026-tro-ly-cong-dan-so-80-trieu-nguoi-dung.html", cat: "AI", title: "Zalo ra trợ lý Công dân số cho gần 80 triệu người dùng" }
@@ -46,87 +46,79 @@ related:
 featured: true
 ---
 
-Ngày **23/9/2026**, YouTube tổ chức sự kiện thường niên Made on YouTube và công bố đợt tính năng lớn nhất trong năm. Gần như toàn bộ danh sách đều dựa trên AI, nhưng điều đáng chú ý là hướng áp dụng: thay vì thêm công cụ tạo video từ câu lệnh, phần lớn tính năng nhắm vào việc **ra quyết định** trong quá trình làm kênh, tức là dựng thế nào, đặt tiêu đề ra sao, cắt ở đâu.
+Made on YouTube, sự kiện thường niên dành cho người làm nội dung, diễn ra ngày **23/9/2026** với hơn 30 thông báo trải từ khám phá nội dung, cộng đồng người hâm mộ, kinh doanh đến công cụ sáng tạo. Hơn một tháng sau, câu hỏi thực tế với kênh Việt không còn là YouTube công bố gì, mà là trong số đó thứ gì đã bật được trong YouTube Studio hôm nay, thứ gì chỉ là lịch hẹn, và thứ gì chưa đến Việt Nam.
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Made on YouTube 2026: các tính năng chính và thời điểm</div>
+  <div class="spec-box-title">📋 Made on YouTube 2026: tình trạng từng tính năng cuối tháng 10/2026</div>
   <table>
-    <tr><td>Shorts Series</td><td>Xếp Shorts thành mùa và tập, phát tuần tự, triển khai từ 23/9</td></tr>
-    <tr><td>Ask Studio</td><td>Trợ lý hỏi đáp trong Studio, mở sang iOS và Android</td></tr>
-    <tr><td>Thử nghiệm A/B cho video</td><td>So sánh các bản dựng và biến thể của cùng một video</td></tr>
-    <tr><td>Ảnh đại diện động</td><td>Ảnh ngoài thay đổi thay vì cố định một tấm</td></tr>
-    <tr><td>Góp ý bản nháp</td><td>AI đọc video chưa đăng, góp ý nhịp phim và cấu trúc kể chuyện</td></tr>
-    <tr><td>Dựng Shorts bằng Gemini</td><td>Công cụ dựng dựa trên Gemini trong ứng dụng</td></tr>
-    <tr><td>Lồng tiếng trực tiếp</td><td>Đầu 2027, thử nghiệm hẹp với tiếng Anh và tiếng Tây Ban Nha</td></tr>
-    <tr><td>Custom feeds</td><td>Người xem tự tạo luồng video riêng bằng câu lệnh</td></tr>
-    <tr><td>Bảo vệ hình ảnh và giọng nói</td><td>Mở rộng nhận diện giọng để chống video giả mạo</td></tr>
+    <tr><td>Shorts series</td><td>Xếp Shorts thành mùa và tập, triển khai từ 23/9 trên web, di động, TV</td></tr>
+    <tr><td>Lồng tiếng tự động</td><td>Đã mở cho mọi kênh, 27 ngôn ngữ, có tiếng Việt</td></tr>
+    <tr><td>Ask Studio trên iOS, Android</td><td>Hẹn trước cuối 2026</td></tr>
+    <tr><td>Ảnh đại diện động</td><td>Tối đa 3 ảnh, mở dần cho một số nhà sáng tạo</td></tr>
+    <tr><td>Góp ý bản nháp trong Studio</td><td>AI góp ý nhịp, cấu trúc, cách kể; chưa có lịch cụ thể theo thị trường</td></tr>
+    <tr><td>A/B test video</td><td>Tối đa 3 bản dựng, một số nhà sáng tạo, năm 2027</td></tr>
+    <tr><td>Trợ lý dựng Shorts bằng Gemini Omni</td><td>Đầu 2027, trong Shorts và ứng dụng YouTube Create</td></tr>
+    <tr><td>Lồng tiếng livestream</td><td>Thử nghiệm đầu 2027, chỉ tiếng Anh và tiếng Tây Ban Nha</td></tr>
+    <tr><td>Custom feeds</td><td>Người xem tạo luồng video bằng câu lệnh, chỉ tại Mỹ</td></tr>
+    <tr><td>Nhận diện hình ảnh, giọng nói</td><td>Lên ứng dụng di động và thêm nhận diện giọng, cuối 2026</td></tr>
   </table>
 </div>
 
-Cần phân biệt hai nhóm ngay từ đầu, vì các bản tin thường gộp lại thành một danh sách dài. Nhóm thứ nhất đã bắt đầu triển khai từ ngày công bố, ví dụ Shorts Series. Nhóm thứ hai chỉ là lịch hẹn, ví dụ lồng tiếng trực tiếp lùi sang đầu 2027 và chỉ chạy thử nghiệm hẹp. Với người làm kênh thì hai nhóm này đòi hỏi hai cách ứng xử hoàn toàn khác nhau.
+Điểm cần tách bạch ngay từ đầu là các bản tin hôm 23/9 thường gộp mọi thứ thành một danh sách dài, trong khi lịch triển khai chênh nhau cả năm. Theo tổng hợp của TechCrunch và 9to5Google, chỉ một phần nhỏ triển khai ngay trong ngày, phần lớn còn lại hẹn "cuối năm" hoặc "đầu năm sau", và một số tính năng cho người xem như custom feeds chỉ có ở Mỹ. Với người làm kênh, hai nhóm này đòi hỏi hai cách ứng xử khác nhau: nhóm đã có thì thử ngay, nhóm hẹn thì chỉ cần biết để không lên kế hoạch dựa vào nó.
 
-## Shorts Series: biến chuỗi video ngắn thành thứ theo được
+## Shorts series: tính năng đã dùng được, không cần sản xuất thêm
 
-Điểm yếu cố hữu của Shorts không phải chất lượng mà là tính rời rạc. Người xem lướt vào giữa một chuỗi thì mất mạch, và người làm nội dung có tuyến truyện hoặc hướng dẫn nhiều phần không có cách nào buộc thứ tự. Hệ quả là các kênh Việt làm nội dung dài hơi thường phải đăng video dài rồi cắt Shorts ra làm mồi, thay vì coi Shorts là nơi chứa nội dung chính.
+Điểm yếu cố hữu của Shorts không phải chất lượng mà là tính rời rạc. Người xem lướt vào giữa một chuỗi thì mất mạch, và người làm nội dung có tuyến truyện hoặc hướng dẫn nhiều phần không có cách nào buộc thứ tự. Hệ quả là nhiều kênh Việt làm nội dung dài hơi phải đăng video dài rồi cắt Shorts làm mồi, thay vì coi Shorts là nơi chứa nội dung chính.
 
-<figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/XjdbyRLYOik/maxresdefault.jpg" alt="Bang thong ke hieu qua video ngan tren nen tang YouTube nam 2026" loading="lazy" width="1280" height="720">
-  <figcaption>Shorts Series cho phép xếp video ngắn thành mùa và tập có thứ tự. Ảnh minh họa từ YouTube</figcaption>
-</figure>
+**Shorts series** xử lý đúng chỗ đó: xếp Shorts thành mùa và tập, gắn ảnh đại diện riêng cho từng tập và phát tuần tự để hết tập này thì tập sau tự chạy. YouTube bắt đầu triển khai từ ngày 23/9/2026 trên web, di động và TV, và không nêu giới hạn thị trường. Phần ảnh đại diện riêng và phát tuần tự dành cho kênh trong Chương trình Đối tác YouTube (YPP). Bối cảnh YouTube đưa ra là phim ngắn nhiều tập (microdrama): thể loại này đạt hơn 6,5 tỉ lượt xem trong nửa đầu 2026, thời gian xem tăng hơn 50% so với cùng kỳ.
 
-**Shorts Series** xử lý đúng chỗ đó: xếp Shorts thành mùa và tập, gắn ảnh đại diện riêng cho từng tập, và cho phát tuần tự để hết tập này thì tập sau tự chạy. Đây là thay đổi về cấu trúc chứ không phải về công cụ dựng, nên nó không đòi thêm kỹ năng hay thiết bị gì. Một kênh dạy nấu ăn, dạy tiếng Anh hay kể chuyện nhiều kỳ có thể áp dụng ngay với nội dung đã có.
+<figure><img decoding="async" src="https://techvision.click/images/made-on-youtube-2026-ai-dung-shorts-long-tieng-kenh-viet/lich-trien-khai-tinh-nang.jpg" alt="Moc thoi gian trien khai cac tinh nang Made on YouTube 2026 tu 23/9/2026 den nam 2027" loading="lazy" width="1600" height="900"><figcaption>Shorts series là tính năng hiếm hoi triển khai ngay trong ngày công bố, phần lớn còn lại hẹn cuối 2026 hoặc 2027. Đồ họa: TechVision, số liệu: YouTube Blog, TechCrunch, 9to5Google</figcaption></figure>
 
-Mặt khác, nên tỉnh táo với kỳ vọng. Việc xếp thành mùa không tự làm tăng lượng xem, nó chỉ làm giảm tỉ lệ người xem bỏ giữa chuỗi. Lợi ích thật nằm ở thời gian xem trên mỗi người, và phần đó chỉ thành tiền khi nội dung vốn đã giữ được người. Ai đang có chuỗi Shorts mà người xem rơi ngay tập hai thì việc gắn nhãn mùa không giải quyết được gì.
+Đây là thay đổi về cấu trúc chứ không phải về công cụ dựng, nên nó không đòi thêm kỹ năng hay thiết bị. Một kênh dạy nấu ăn, dạy tiếng Anh hay kể chuyện nhiều kỳ có thể áp dụng ngay với nội dung đã có. Mặt khác, nên tỉnh táo với kỳ vọng: xếp thành mùa không tự làm tăng lượng xem, nó chỉ giảm tỉ lệ người xem bỏ giữa chuỗi. Chuỗi Shorts mà người xem rơi ngay tập hai thì gắn nhãn mùa không giải quyết được gì.
 
-## Ask Studio và quyền tự chạy thử nghiệm: đọc kỹ trước khi bật
+## Ask Studio lên điện thoại: hẹn cuối năm, và quyền tự chạy thử nghiệm cần đọc kỹ
 
-**Ask Studio** là trợ lý hỏi đáp ngay trong YouTube Studio, và đợt này được mở sang ứng dụng iOS cùng Android thay vì chỉ trên máy tính. Với người làm kênh ở Việt Nam, phần lớn xử lý công việc trên điện thoại, việc rời khỏi máy tính là thay đổi có giá trị thực tế.
+**Ask Studio** là trợ lý hỏi đáp trong YouTube Studio, trước nay chỉ có trên máy tính. Tại Made on YouTube, YouTube hẹn đưa Ask Studio lên ứng dụng YouTube Studio trên iOS và Android **trước cuối năm 2026**, với các việc như lên ý tưởng, tạo ảnh đại diện theo phong cách kênh và viết kịch bản. Tại thời điểm cuối tháng 10, tài khoản của bạn có thể chưa thấy tính năng này. YouTube cũng không công bố danh sách thị trường cụ thể cho bản di động, nên cách chắc nhất là kiểm trong ứng dụng thay vì tin vào các bài hướng dẫn.
 
-Nhưng chi tiết đáng chú ý hơn nằm ở một câu dễ bị lướt qua: nếu chủ kênh cho phép, Ask Studio có thể **tự theo dõi hiệu quả ảnh đại diện và tự tạo thử nghiệm** để chỉnh lại các video cũ. Đây không còn là trợ lý trả lời câu hỏi mà là một tác nhân được quyền thao tác lên tài sản của kênh.
+Chi tiết đáng chú ý hơn nằm ở một câu dễ bị lướt qua: nếu chủ kênh cho phép, Ask Studio sẽ **tự theo dõi hiệu quả ảnh đại diện và tự tạo thử nghiệm** để làm mới các video cũ. Tính năng này cũng được hẹn trong năm nay. Đây không còn là trợ lý trả lời câu hỏi mà là một tác nhân được quyền thao tác lên tài sản của kênh. Khuyến nghị thực tế là khi nó xuất hiện, chỉ bật cho nhóm video cũ đã hết đà, xem kết quả vài tuần rồi mới mở rộng, vì video cũ đang có lượt xem ổn định là phần thu nhập đang chạy.
 
-<figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/R8z7fgSZ5h8/maxresdefault.jpg" alt="Nguoi lam noi dung phan tich so lieu kenh tren dien thoai" loading="lazy" width="1280" height="720">
-  <figcaption>Quyền tự chạy thử nghiệm trên video cũ nên được bật có chọn lọc. Ảnh minh họa từ YouTube</figcaption>
-</figure>
+Đi kèm là tính năng **góp ý bản nháp**: gửi video chưa đăng để AI góp ý về tiêu đề, cấu trúc, kịch bản, nhịp và cách kể chuyện. Công cụ này không tự sửa video, chỉ đưa gợi ý, và YouTube chưa công bố lịch triển khai cụ thể theo từng thị trường.
 
-Khuyến nghị thực tế là bật sau cùng và bật có chọn lọc. Không phải vì công cụ tệ, mà vì các video cũ đang có lượt xem ổn định là phần thu nhập đang chạy, và một thử nghiệm không đúng lúc trên nhóm đó có chi phí thật. Cách an toàn là để trợ lý chạy thử trên nhóm video cũ đã hết đà trước, xem kết quả sau vài tuần, rồi mới cân nhắc mở rộng.
-
-<div class="art-video-label">VIDEO · Yếu tố giữ chân người xem vẫn quyết định doanh thu kênh</div>
+<div class="art-video-label">VIDEO · Tổng hợp các thông báo cho người làm nội dung tại Made on YouTube 2026</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/Ty3KyBk6Ask" title="Yeu to giu chan nguoi xem quyet dinh doanh thu kenh YouTube" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/IaszQaGHi5w" title="MadeOn YouTube 2026 | Creator Roundup" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
-<p class="art-video-caption">Công cụ mới hỗ trợ ra quyết định, nhưng phần giữ người xem vẫn là gốc. Nguồn: YouTube</p>
+<p class="art-video-caption">Video tổng hợp khoảng 7 phút đăng ngày 23/9/2026, điểm qua các thông báo dành cho người làm nội dung. Nguồn: YouTube</p>
 
-## Thử nghiệm A/B cho video: đưa số liệu vào quyết định dựng phim
+## A/B test video và ảnh đại diện động: phần lớn còn phải chờ
 
-Thử nghiệm ảnh đại diện đã có từ lâu và chỉ đổi tấm ảnh ngoài. Điểm mới năm nay là **thử nghiệm A/B cho chính video**, tức so sánh các bản dựng và biến thể khác nhau của cùng một nội dung. Kèm theo đó là **ảnh đại diện động**, thay vì cố định một tấm cho mọi người xem.
+Thử nghiệm tiêu đề và ảnh đại diện đã có trong Studio từ 2024. Năm nay YouTube thêm hai lớp. Thứ nhất là **ảnh đại diện động**: tải lên tối đa 3 ảnh và để hệ thống chọn ảnh phù hợp nhất với từng nhóm người xem, thay vì một ảnh cho tất cả. Tính năng này đang mở dần cho một số nhà sáng tạo, chưa phải mọi kênh.
 
-Ý nghĩa của thay đổi này nằm ở chỗ nó chuyển một loạt quyết định vốn dựa vào cảm giác sang dựa vào số. Mở đầu nên bao nhiêu giây, có nên bỏ đoạn giới thiệu, cắt ở nhịp nào, tất cả đều có thể kiểm được. Với các kênh Việt học nghề dựng phim qua kinh nghiệm truyền miệng, đây là công cụ rút ngắn quá trình thử và sai rất nhiều.
+Thứ hai là **A/B test video**: so sánh tối đa 3 bản dựng của cùng một video hoặc Short, khác nhau ở cách mở đầu, nhịp và cả độ dài, rồi chọn bản thắng dựa trên tỉ lệ thời gian xem. Theo TechCrunch, tính năng này chỉ mở cho **một số nhà sáng tạo từ năm 2027**. Nói cách khác, các bài viết hồi tháng 9 mô tả nó như công cụ sẵn dùng là không đúng, ít nhất với kênh Việt tại thời điểm này.
 
-Giới hạn cần biết là phép thử chỉ có nghĩa khi đủ lượng xem. Một kênh vài nghìn lượt xem mỗi video sẽ nhận về kết quả nhiễu, và tin vào con số nhiễu còn tệ hơn tin vào cảm giác. Nhóm hưởng lợi rõ nhất là các kênh đã có lượng xem đều, muốn tối ưu thêm vài phần trăm. Nếu kênh còn đang tìm hướng nội dung thì công cụ này chưa phải việc cần làm trước.
+<figure><img decoding="async" src="https://techvision.click/images/made-on-youtube-2026-ai-dung-shorts-long-tieng-kenh-viet/thu-nghiem-anh-dai-dien-va-video.jpg" alt="Bang so sanh ba kieu thu nghiem trong YouTube Studio: test tieu de anh dai dien, anh dai dien dong, A/B test video" loading="lazy" width="1600" height="900"><figcaption>Ba lớp thử nghiệm đều giới hạn tối đa 3 phương án, nhưng chỉ lớp đầu tiên đã mở rộng rãi. Đồ họa: TechVision, số liệu: TechCrunch, YouTube Blog</figcaption></figure>
 
-Cũng nên đặt các chỉ số mới vào bối cảnh thay đổi cách đếm lượt xem hồi tháng 8, vì hai thứ này ảnh hưởng lẫn nhau khi đọc báo cáo. Chi tiết nằm trong bài [YouTube đổi cách tính view từ 24/8 và vì sao số tăng nhưng tiền không tăng](/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html).
+Khi A/B test video mở, ý nghĩa của nó là chuyển một loạt quyết định dựng phim từ cảm giác sang số liệu: mở đầu bao nhiêu giây, có bỏ đoạn giới thiệu không, cắt ở nhịp nào. Giới hạn cần biết là phép thử chỉ có nghĩa khi đủ lượng xem. Kênh vài nghìn lượt xem mỗi video sẽ nhận kết quả nhiễu, và tin vào con số nhiễu còn tệ hơn tin vào cảm giác. Trong lúc chờ, thứ dùng được ngay là thử nghiệm tiêu đề và ảnh đại diện đã có sẵn.
 
-## Lồng tiếng: phần quan trọng nhất với kênh Việt, và phần phải chờ
+Tương tự, trợ lý dựng Shorts bằng câu lệnh, chạy trên mô hình video **Gemini Omni** của Google, được hẹn **đầu 2027** trong trình dựng Shorts và ứng dụng YouTube Create. Người làm kênh sẽ gõ yêu cầu như cắt đoạn thoại, khớp nhạc, chèn dòng chữ mở đầu thay vì kéo thanh thời gian. Khi đọc báo cáo hiệu quả trong thời gian này, cũng nên nhớ thay đổi cách đếm lượt xem hồi tháng 8, chi tiết trong bài [YouTube đổi cách tính view từ 24/8 và vì sao số tăng nhưng tiền không tăng](/articles/youtube-doi-cach-tinh-luot-xem-24-8-2026-engaged-views.html).
 
-Đây là chỗ cần tách bạch rõ nhất, vì nhiều bản tin gộp ba thứ khác nhau thành một. Thứ nhất, **lồng tiếng tự động cho video thường** đã mở cho mọi kênh với **27 ngôn ngữ**, và tiếng Việt nằm trong nhóm ngôn ngữ nguồn được hỗ trợ để dịch sang tiếng Anh. Đây là thứ dùng được ngay hôm nay từ YouTube Studio.
+## Lồng tiếng: phần quan trọng nhất với kênh Việt, và là thứ đã dùng được
 
-<figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/OXBLMcXoJ84/maxresdefault.jpg" alt="Thiet bi quay dung video cua nguoi lam noi dung tai Viet Nam" loading="lazy" width="1280" height="720">
-  <figcaption>Lồng tiếng tự động là tính năng gắn trực tiếp nhất với khán giả quốc tế của kênh Việt. Ảnh minh họa từ YouTube</figcaption>
-</figure>
+Đây là chỗ cần tách bạch rõ nhất, vì nhiều bản tin gộp ba thứ khác nhau thành một. Thứ nhất, **lồng tiếng tự động cho video thường** đã mở cho mọi kênh đủ điều kiện với **27 ngôn ngữ**, và tiếng Việt có trong danh sách: video tiếng Việt có thể được lồng sang tiếng Anh. Đây là thứ bật được ngay hôm nay trong YouTube Studio, không phải chờ.
 
-Thứ hai, **Expressive Speech**, phần giữ lại sắc thái giọng của người nói gốc thay vì đọc phẳng, hiện chỉ có **8 ngôn ngữ** gồm Anh, Pháp, Đức, Hindi, Indonesia, Ý, Bồ Đào Nha và Tây Ban Nha. Tiếng Việt chưa có trong danh sách này. Thứ ba, **lồng tiếng trực tiếp cho livestream** lùi sang **đầu 2027** và mở thử nghiệm hẹp chỉ với tiếng Anh và tiếng Tây Ban Nha. Nói cách khác, kênh Việt dùng được lớp thứ nhất, chưa dùng được hai lớp sau.
+Thứ hai, **Expressive Speech**, phần giữ lại cao độ và ngữ điệu của người nói gốc thay vì đọc phẳng, hiện chỉ có **8 ngôn ngữ** gồm Anh, Pháp, Đức, Hindi, Indonesia, Ý, Bồ Đào Nha và Tây Ban Nha. Tiếng Việt chưa có. Thứ ba, **lồng tiếng thời gian thực cho livestream** là thông báo mới tại Made on YouTube, sẽ thử nghiệm giới hạn vào **đầu 2027** với tiếng Anh và tiếng Tây Ban Nha. Kênh Việt dùng được lớp thứ nhất, chưa dùng được hai lớp sau.
 
-Vì sao phần này quan trọng hơn mọi tính năng còn lại: theo số liệu Google công bố tại **YouTube Festival Vietnam ngày 16/9/2026**, **hơn 50% giờ xem** nội dung do các kênh tại Việt Nam sản xuất đã đến từ người xem **ngoài nước**. Cùng dịp, Google cho biết Việt Nam có **hơn 180.000 kênh** vượt mốc 10.000 người đăng ký, và **93% người dùng Internet** trong nước xem YouTube mỗi ngày. Khán giả quốc tế không phải mục tiêu xa mà đang là quá nửa lượng xem, nên rào cản ngôn ngữ là chi phí cơ hội đang phát sinh hằng ngày, không phải chuyện của tương lai.
+<figure><img decoding="async" src="https://techvision.click/images/made-on-youtube-2026-ai-dung-shorts-long-tieng-kenh-viet/ba-lop-long-tieng-youtube.jpg" alt="Bieu do so ngon ngu ho tro cua ba lop long tieng YouTube: 27, 8 va 2 ngon ngu" loading="lazy" width="1600" height="900"><figcaption>Lồng tiếng tự động có tiếng Việt, còn Expressive Speech và lồng tiếng livestream thì chưa. Đồ họa: TechVision, số liệu: YouTube Blog, YouTube Help, TechCrunch</figcaption></figure>
 
-## Nên làm gì trong ba tháng tới
+Vì sao phần này quan trọng hơn mọi tính năng còn lại: theo số liệu Google công bố tại **YouTube Festival Vietnam ngày 16/9/2026**, **hơn 50% giờ xem** nội dung do các kênh tại Việt Nam sản xuất đến từ người xem **ngoài nước**. Cùng dịp, Google cho biết Việt Nam có **hơn 180.000 kênh** vượt mốc 10.000 người đăng ký, và YouTube tiếp cận **93% người dùng Internet** trong nước mỗi ngày. Khán giả quốc tế không phải mục tiêu xa mà đang là quá nửa lượng xem, nên rào cản ngôn ngữ là chi phí cơ hội phát sinh hằng ngày.
 
-Thứ tự ưu tiên hợp lý cho một kênh Việt cỡ vừa, đặt theo mức chi phí bỏ ra so với phần thu về:
+## Đổi gì cho kênh Việt: thứ tự nên làm từ nay đến đầu 2027
 
-1. **Bật lồng tiếng tự động** cho nhóm video có tiềm năng ra ngoài nước, ưu tiên nội dung ít phụ thuộc văn hóa địa phương như hướng dẫn, nấu ăn, thủ công, du lịch. Đây là việc tốn ít công nhất mà gắn trực tiếp với con số hơn 50% ở trên.
-2. **Xếp lại nội dung nhiều phần thành Shorts Series** nếu kênh đã có sẵn chuỗi. Không cần sản xuất mới, chỉ tổ chức lại thứ đã có.
-3. **Chạy thử nghiệm A/B** nếu lượng xem mỗi video đủ lớn để kết quả không nhiễu. Nếu chưa, bỏ qua và quay lại sau.
-4. **Cân nhắc Ask Studio** sau cùng, và nếu bật quyền tự chạy thử nghiệm thì giới hạn ở nhóm video cũ đã hết đà.
+Thứ tự ưu tiên hợp lý cho một kênh Việt cỡ vừa, đặt theo việc tính năng đã có hay chưa và chi phí bỏ ra:
 
-Điểm cuối cùng đáng nhớ là các công cụ năm nay đều hỗ trợ **ra quyết định** chứ không thay việc sản xuất. YouTube cũng nói rõ định hướng là giảm tải phần dựng và phần việc hành chính, không thay thế người làm nội dung. Nghĩa là thứ quyết định doanh thu vẫn là nội dung có giữ được người xem hay không, còn các tính năng mới chỉ giúp đi tới câu trả lời đó nhanh hơn và ít đoán hơn. Về mặt hạ tầng thì điều kiện ở Việt Nam đang thuận lợi hơn trước, như số liệu tốc độ mạng trong bài [Internet Việt Nam vào top 10 thế giới nhanh cỡ nào](/articles/internet-viet-nam-top-10-the-gioi-2026-toc-do-di-dong-co-dinh.html) cho thấy, nên phần còn lại nằm ở nội dung.
+1. **Bật lồng tiếng tự động** cho nhóm video có tiềm năng ra ngoài nước, ưu tiên nội dung ít phụ thuộc văn hóa địa phương như hướng dẫn, nấu ăn, thủ công, du lịch. Việc này tốn ít công nhất và gắn trực tiếp với con số hơn 50% ở trên. Vì chưa có Expressive Speech cho tiếng Việt, nên nghe lại bản lồng tiếng trước khi để công khai.
+2. **Xếp lại nội dung nhiều phần thành Shorts series** nếu kênh đã có sẵn chuỗi. Không cần sản xuất mới, chỉ tổ chức lại thứ đã có.
+3. **Dùng thử nghiệm tiêu đề và ảnh đại diện** đang có, chờ ảnh đại diện động và Ask Studio bản di động xuất hiện trong tài khoản rồi mới tính.
+4. **Không lên kế hoạch dựa vào** A/B test video, trợ lý dựng Gemini Omni hay lồng tiếng livestream trước năm 2027.
+
+Điểm chung của các công cụ năm nay là hỗ trợ **ra quyết định** chứ không thay việc sản xuất. Thứ quyết định doanh thu vẫn là nội dung có giữ được người xem hay không, còn tính năng mới chỉ giúp đi tới câu trả lời đó nhanh hơn. Về hạ tầng, điều kiện ở Việt Nam đang thuận lợi hơn trước, như số liệu tốc độ mạng trong bài [Internet Việt Nam vào top 10 thế giới nhanh cỡ nào](/articles/internet-viet-nam-top-10-the-gioi-2026-toc-do-di-dong-co-dinh.html) cho thấy, nên phần còn lại nằm ở nội dung và ở việc chọn đúng tính năng đã thật sự có.
