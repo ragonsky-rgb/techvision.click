@@ -10,23 +10,23 @@ dateModified: "2026-10-19T09:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Giá RAM và SSD leo thang suốt năm 2026 đẩy giá laptop mới lên cao, và hệ quả trực tiếp là thị trường máy cũ sôi động hơn hẳn. Nhưng cũng chính vì linh kiện đắt, kiểu rút bớt RAM hoặc thay ổ cứng dung lượng thấp trước khi bán trở nên phổ biến hơn. Mười bước dưới đây là thứ tự kiểm tra nên làm ngay tại chỗ, trước khi chuyển tiền."
-heroImage: "https://i.ytimg.com/vi/g3o2TeBXyCg/maxresdefault.jpg"
-heroAlt: "Một chiếc laptop đã qua sử dụng được mở ra kiểm tra trên bàn"
-heroCaption: "Kiểm tra theo đúng thứ tự giúp phát hiện sớm máy đã bị thay linh kiện. Ảnh minh họa. Nguồn: YouTube"
+heroImage: "https://i.ytimg.com/vi/n3oQlHmgCdM/maxresdefault.jpg"
+heroAlt: "Người hướng dẫn giới thiệu chiếc laptop cũ cần kiểm tra trước khi mua"
+heroCaption: "Kiểm tra theo đúng thứ tự giúp phát hiện sớm máy đã bị thay linh kiện. Ảnh: kênh Thịnh Vượng (LAPTOPTV) trên YouTube"
 ogImage: "https://techvision.click/uploads/og-article/kiem-tra-laptop-cu-truoc-khi-mua-checklist-2026.jpg"
-tldr: "Mua laptop cũ năm 2026 có hai rủi ro mới so với trước: <strong>máy bị rút bớt RAM hoặc đổi SSD dung lượng thấp</strong> vì linh kiện tăng giá, và <strong>máy còn khóa tài khoản</strong> khiến người mua không dùng được. Hai công cụ bắt buộc dùng là lệnh <strong>powercfg /batteryreport</strong> của Windows để đọc độ chai pin và <strong>CrystalDiskInfo</strong> để xem số giờ chạy cùng lượng dữ liệu đã ghi lên ổ. Pin còn trên <strong>85%</strong> dung lượng thiết kế là tốt, dưới <strong>70%</strong> nên tính thêm chi phí thay. Mức giá tham khảo: Dell Latitude cũ trên Chợ Tốt khoảng <strong>5,85 tới 7,15 triệu đồng</strong>, ThinkPad X1 Carbon Gen 9 đã qua sử dụng tại ThinkPro <strong>16,49 triệu đồng</strong> (giá đọc ngày 28/09/2026)."
+tldr: "Mua laptop cũ năm 2026 có hai rủi ro mới so với trước: <strong>máy bị rút bớt RAM hoặc đổi SSD dung lượng thấp</strong> vì linh kiện tăng giá, và <strong>máy còn khóa tài khoản</strong> khiến người mua không dùng được. Hai công cụ bắt buộc dùng là lệnh <strong>powercfg /batteryreport</strong> của Windows để đọc độ chai pin và <strong>CrystalDiskInfo</strong> để xem số giờ chạy cùng lượng dữ liệu đã ghi lên ổ. Pin còn trên <strong>85%</strong> dung lượng thiết kế là tốt, dưới <strong>70%</strong> nên tính thêm chi phí thay. Mức giá tham khảo: Dell Latitude cũ trên Chợ Tốt khoảng <strong>5,85 tới 7,15 triệu đồng</strong>, ThinkPad X1 Carbon Gen 9 hàng Used nhập khẩu tại ThinkPro <strong>16,49 triệu đồng</strong> (kiểm lại ngày 30/09/2026)."
 tags: ["Laptop", "MuaSam", "MayCu", "MeoCongNghe"]
 about: ["Lenovo ThinkPad X1 Carbon", "Dell Latitude 7420", "HP EliteBook 840 G8", "MacBook Air M1", "CrystalDiskInfo"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường laptop và giá linh kiện máy tính tại Việt Nam."
 sourceUrl: "https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options"
 sourceName: "Microsoft Learn - powercfg command line options"
-sourceDomains: "learn.microsoft.com · support.apple.com · thinkpro.vn"
+sourceDomains: "learn.microsoft.com · support.apple.com · thinkpro.vn · chotot.com · crystalmark.info"
 stats:
   - { num: "10 bước", label: "Số hạng mục nên kiểm tra trước khi trả tiền" }
   - { num: "85%", label: "Ngưỡng dung lượng pin còn lại được coi là tốt" }
   - { num: "70%", label: "Dưới mức này nên tính thêm chi phí thay pin vào giá mua" }
   - { num: "5,85-7,15 triệu", label: "Mặt bằng giá Dell Latitude cũ trên Chợ Tốt cuối tháng 8/2026" }
-  - { num: "16,49 triệu", label: "Giá ThinkPad X1 Carbon Gen 9 đã qua sử dụng tại ThinkPro ngày 28/09/2026" }
+  - { num: "16,49 triệu", label: "Giá ThinkPad X1 Carbon Gen 9 Used tại ThinkPro, kiểm lại ngày 30/09/2026" }
   - { num: "15 phút", label: "Thời lượng chạy tải tối thiểu để phát hiện lỗi nhiệt" }
 faq:
   - q: "Xem độ chai pin laptop Windows bằng cách nào?"
@@ -64,17 +64,17 @@ Giá laptop mới tại Việt Nam đi lên gần như liên tục trong năm 20
 
 Bắt đầu bằng số sê ri. Các hãng lớn đều có trang tra cứu bảo hành theo sê ri, cho biết máy sản xuất năm nào và đã kích hoạt ngày nào. Con số này quan trọng vì tin rao thường ghi đời máy theo tên dòng, trong khi cùng một tên có thể chênh nhau vài năm sản xuất. Nếu người bán ngần ngại đọc sê ri, đó đã là một tín hiệu.
 
-<div class="art-video-label">VIDEO · Đọc thông số phần cứng trước khi quyết định mua</div>
+<div class="art-video-label">VIDEO · Hướng dẫn test laptop cũ và mới mùa bão giá</div>
 <div class="art-video-wrap">
-  <iframe src="https://www.youtube.com/embed/bTIzPM5hb6c" title="Doc thong so phan cung laptop" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://www.youtube.com/embed/VeWL-clzCec" title="Huong dan test laptop cu va moi mua bao gia" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
-<p class="art-video-caption">Hiểu thông số chip và cấu hình giúp đối chiếu nhanh với tin rao bán. Nguồn: YouTube</p>
+<p class="art-video-caption">Các bước test laptop cũ và mới trong giai đoạn giá linh kiện tăng. Nguồn: No.1 Computer trên YouTube</p>
 
 Bước hai là ngoại hình, nhưng nhìn vào chỗ ít người nhìn: bản lề có rơ không, các ốc ở mặt đáy có dấu toét do vặn nhiều lần không, viền màn có hở không. Bước ba là màn hình, kiểm tra bằng cách mở lần lượt các nền màu trắng, đen, đỏ, xanh lá và xanh dương phủ kín, rồi soi từng vùng tìm điểm chết, đốm sáng và hiện tượng hở sáng ở bốn góc. Đây là lỗi tốn tiền nhất để khắc phục.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/x5eCNDWm14s/maxresdefault.jpg" alt="Thanh RAM và ổ SSD tháo rời đặt cạnh một chiếc laptop" loading="lazy" width="1280" height="720">
-  <figcaption>RAM và SSD là hai linh kiện có giá trị bán lại cao nhất trong năm 2026. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/jKJa1cM5EI0/maxresdefault.jpg" alt="Trang hỗ trợ Lenovo hiển thị danh sách linh kiện gốc của một chiếc ThinkPad sau khi nhập số sê ri" loading="lazy" width="1280" height="720">
+  <figcaption>Nhập số sê ri trên trang hỗ trợ Lenovo cho biết đời máy và danh sách linh kiện gốc, dùng để đối chiếu với máy thực tế. Nguồn: TaiyoTech trên YouTube</figcaption>
 </figure>
 
 Bước bốn là pin. Trên Windows, mở Command Prompt và gõ lệnh powercfg /batteryreport, hệ thống sẽ xuất ra một tệp báo cáo. Trong đó, hãy so Design Capacity với Full Charge Capacity: trên 85% là pin tốt, từ 70 tới 85% là dùng được, dưới 70% thì trừ thẳng tiền thay pin vào giá. Trên MacBook, xem số chu kỳ sạc trong phần thông tin hệ thống, vì Apple tính tuổi pin theo chu kỳ.
@@ -86,8 +86,8 @@ Mở phần thông tin hệ thống và đối chiếu ba con số với tin rao
 Với ổ cứng, dùng CrystalDiskInfo để xem ba mục: tình trạng sức khỏe, số giờ đã bật máy và tổng lượng dữ liệu từng ghi lên ổ. Một ổ SSD trong máy văn phòng dùng bốn năm thường có vài nghìn giờ chạy, con số đó bình thường. Nhưng nếu lượng dữ liệu ghi lên ổ vượt xa dung lượng danh nghĩa hàng trăm lần, ổ đã qua giai đoạn tốt nhất và bạn nên tính chi phí thay, vốn không còn rẻ như trước theo phân tích trong bài [nâng cấp RAM, SSD cho laptop cũ](/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/b5vT_72QVmw/maxresdefault.jpg" alt="Bảng thông tin tình trạng ổ cứng hiển thị trên màn hình laptop" loading="lazy" width="1280" height="720">
-  <figcaption>Số giờ chạy và lượng dữ liệu đã ghi cho biết ổ cứng đã đi được bao xa. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="/images/kiem-tra-laptop-cu-truoc-khi-mua-checklist-2026/crystaldiskinfo-ssd-power-on-hours.jpg" alt="Giao diện CrystalDiskInfo hiển thị Health Status, Power On Hours và Total Host Writes của một ổ SSD" loading="lazy" width="1010" height="568">
+  <figcaption>Ba ô cần đọc trong CrystalDiskInfo: Health Status (sức khỏe), Power On Hours (số giờ chạy) và Total Host Writes (tổng dữ liệu đã ghi). Ảnh: Crystal Dew World</figcaption>
 </figure>
 
 ## Bốn bước cuối: chức năng, nhiệt và giấy tờ
@@ -97,13 +97,13 @@ Bước bảy là chạy thử toàn bộ chức năng: từng phím trên bàn 
 Bước chín là khóa tài khoản, thứ nhiều người bỏ qua rồi phải quay lại tìm người bán. Yêu cầu chủ máy đăng xuất hoàn toàn tài khoản hệ thống và khởi động lại ngay trước mặt bạn. Với máy Windows, kiểm tra thêm tình trạng mã hóa ổ đĩa và trạng thái kích hoạt bản quyền. Bước mười là giấy tờ: hóa đơn, điều khoản đổi trả và phạm vi bảo hành của cửa hàng nên được ghi rõ chứ không dừng ở lời hứa.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/D0hRkT_5og0/maxresdefault.jpg" alt="Người dùng đối chiếu cấu hình hiển thị trên màn hình laptop cũ" loading="lazy" width="1280" height="720">
-  <figcaption>Đối chiếu cấu hình thật với tin rao là bước tốn ít thời gian nhất mà hiệu quả nhất. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/PxsihUf2Qew/maxresdefault.jpg" alt="Trang hỗ trợ Dell hiển thị tình trạng bảo hành của một chiếc laptop Dell cũ" loading="lazy" width="1280" height="720">
+  <figcaption>Tra Service Tag trên trang hỗ trợ Dell để biết máy còn hay đã hết bảo hành hãng trước khi bàn tới điều khoản của cửa hàng. Nguồn: TaiyoTech trên YouTube</figcaption>
 </figure>
 
 ## Mức giá tham khảo và chọn dòng nào
 
-Ở nhóm phổ thông, Dell Latitude cũ trên Chợ Tốt dao động khoảng 5,85 tới 7,15 triệu đồng theo khảo sát của chính sàn này cuối tháng 8/2026, tùy đời CPU, RAM, ổ cứng và tình trạng pin, phù hợp cho nhu cầu soạn thảo và học trực tuyến. Nhóm doanh nhân như Lenovo ThinkPad X1 Carbon có phổ giá rộng: Chợ Tốt ghi Gen 6 khoảng 8 tới 10 triệu, Gen 7 khoảng 10 tới 12 triệu, Gen 8 và Gen 9 từ khoảng 15 triệu đồng. Để có mốc cụ thể, ThinkPro bán X1 Carbon Gen 9 bản i7 1185G7, 16GB RAM, 512GB đã qua sử dụng giá 16,49 triệu (giá đọc ngày 28/09/2026). Dell Latitude 7420 và HP EliteBook 840 G8 là hai lựa chọn cùng nhóm dễ tìm linh kiện thay thế tại Việt Nam.
+Ở nhóm phổ thông, Dell Latitude cũ trên Chợ Tốt dao động khoảng 5,85 tới 7,15 triệu đồng theo khảo sát của chính sàn này cuối tháng 8/2026, tùy đời CPU, RAM, ổ cứng và tình trạng pin, phù hợp cho nhu cầu soạn thảo và học trực tuyến. Nhóm doanh nhân như Lenovo ThinkPad X1 Carbon có phổ giá rộng: trang tổng hợp giá của Chợ Tốt ghi Gen 6 khoảng 8 tới 10 triệu, Gen 7 khoảng 10 tới 12 triệu, Gen 9 trở lên từ khoảng 15 triệu đồng. Để có mốc cụ thể, ThinkPro bán X1 Carbon Gen 9 bản i7 1185G7, 16GB RAM, 512GB, màn FHD+, loại Used nhập khẩu, giá 16,49 triệu kèm bảo hành cửa hàng 12 tháng (kiểm lại ngày 30/09/2026). Dell Latitude 7420 và HP EliteBook 840 G8 là hai lựa chọn cùng nhóm dễ tìm linh kiện thay thế tại Việt Nam.
 
 Với người dùng macOS, MacBook Air M1 vẫn là món đáng cân nhắc nhất trong nhóm cũ vì hiệu năng trên mỗi đồng còn tốt và máy chạy mát. Điều cần nhớ là dòng này không nâng cấp được RAM hay ổ cứng, nên phải chọn đúng cấu hình ngay từ đầu. Nếu bạn còn phân vân giữa mua máy cũ và cố mua máy mới, hãy đối chiếu với phân tích trong bài [giá RAM, SSD tăng vọt: nên mua laptop lúc này không](/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html), vì chênh lệch giữa hai phương án năm nay hẹp hơn mọi năm.
 
