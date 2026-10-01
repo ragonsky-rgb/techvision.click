@@ -7,8 +7,6 @@ category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-10-01T09:00:00+07:00"
 dateModified: "2026-10-01T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Chiếc iPhone gập đầu tiên của Apple mở cổng đặt trước tại Việt Nam lúc 19h ngày 16/10 và giao máy từ 23/10. Mức khởi điểm 64.999.000đ cao hơn giá niêm yết Galaxy Z Fold 8 khoảng 18 triệu đồng, còn bản 2TB lần đầu đưa một chiếc iPhone vượt mốc 100 triệu đồng. Bài này bóc tách xem khoản tiền đó mua được gì và nhóm người dùng nào thực sự nên xuống tiền."
 heroImage: "https://techvision.click/images/iphone-duo-dat-truoc-16-10-gia-viet-nam-co-nen-mua/iphone-duo-mo-ra-da-nhiem.jpg"
 heroAlt: "iPhone Duo mở ra, màn hình trong 7,6 inch chạy Safari và ứng dụng Siri song song"
