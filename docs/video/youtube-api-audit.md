@@ -7,7 +7,7 @@ hẹn giờ video lên kênh @LongTechVision giống `fb_reel.py` bên Facebook.
 - [x] Trang chính sách có mục 6 "Dịch vụ API YouTube", có cả đoạn tiếng Anh: https://techvision.click/chinh-sach.html#youtube-api
 - [x] Script `yt_upload.py`: mặc định chạy thử, chỉ xin phạm vi `youtube.upload`
 - [x] Bước 1 (02/10): tài khoản ragonsky@gmail.com đầy hạn mức dự án nên DÙNG LẠI "My First Project" đổi tên **LongTechVision Uploader** (ID `graphical-reach-482404-r4`, số **139766350582**). Bật YouTube Data API v3; màn hình đồng ý External + **In production**; quyền chỉ `youtube.upload`; khoá Desktop "yt_upload (Mac)" có tích "used by an AI-powered agent" → `~/.config/techvision/yt-client.json`. Kênh @LongTechVision thuộc ragonsky@gmail.com. Google báo "app requires verification" (xác minh OAuth, khác audit YouTube): chưa xác minh vẫn dùng được cho chủ app, có màn cảnh báo.
-- [ ] Bước 2: `yt_upload.py auth` (anh đăng nhập đúng tài khoản sở hữu @LongTechVision)
+- [x] Bước 2 (02/10 16:33): `yt_upload.py auth` xong, token chỉ có scope youtube.upload, có refresh_token. `yt.env` YT_CHANNEL_ID=UClf1f1pBpeQabxfBEEF7fFQ (@LongTechVision)
 - [ ] Bước 3: quay màn hình demo 1-2 phút
 - [ ] Bước 4: nộp form https://support.google.com/youtube/contact/yt_api_form
 - [ ] Bước 5: chờ Google trả lời qua email (thường vài tuần), trả lời câu hỏi bổ sung nếu có
