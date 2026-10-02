@@ -141,6 +141,8 @@ sourceUrl, sourceName, sourceDomains, stats (6 mục), faq (5 Q&A), related (3 b
 - Lệnh verify nhanh: xem mục Snippets cuối file (có script rà media lỗi + media dồn cụm).
 
 ## 5. Build & deploy (chạy đúng thứ tự)
+
+> **Ngân sách deploy (luật anh Long 02/10/2026):** Vercel Hobby chỉ có **100 deploy/24h tính CHUNG mọi web** của anh (techvision, chamai, stock.docduan, docduan...). Repo này nối Git: **mỗi `git push` lên `main` = 1 deploy, kể cả commit chỉ sửa docs**. Vì vậy: gom nhiều bài/sửa rồi push 1 lần (techvision tối đa ~5 lần/ngày, ngày thường 1-2); phiên radar **không commit/push khi không có gì mới** ("hàng đợi kín" thì ghi log cục bộ hoặc gộp vào lần push sau). Gặp "Deployment rate limited" / `api-deployments-free-per-day`: DỪNG, không thử lại, không vòng lặp, báo anh Long (mỗi lần thử lúc bị chặn đẩy mốc mở lùi 24h). Báo "đã lên web" chỉ sau khi `gh api repos/ragonsky-rgb/techvision.click/commits/<sha>/status` = success VÀ curl trang live thấy nội dung mới.
 ```
 node scripts/build-legacy-index.mjs && node scripts/build-blog.mjs && npx astro build
 ```
