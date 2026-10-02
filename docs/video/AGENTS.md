@@ -174,6 +174,22 @@ KHÔNG áp dụng: cảnh 3D/shader/WebGL (nặng GPU, lệch giọng kênh), nh
 
 ---
 
+## 6c. Hai series chữ ký (anh Long duyệt 02/10/2026, lộ trình M3)
+
+Mỗi video mới phải xếp vào MỘT trong hai series (hoặc ghi rõ "ngoài series" trong hồ sơ):
+
+| Series | Khi nào dùng | Nhãn | Thumbnail |
+|---|---|---|---|
+| **A. Đừng bị con số đánh lừa** | Video lật một con số/thông số gây hiểu sai (1TB chậm hơn 512GB, pin 54 giờ nhưng không chống ồn, giá "rẻ" mà thật ra đắt...) | nhãn đen chấm đỏ "#" | tiêu đề trắng + con số lớn bị gạch đỏ (`--num`) |
+| **B. Nên mua · đợi · bỏ qua** | Video kết bằng quyết định mua sắm (giá về VN, tổng chi phí, có nên lên đời...) | nhãn đen chấm đỏ "?" | tiêu đề + 3 nút NÊN MUA (xanh) / ĐỢI (vàng) / BỎ QUA (xám), sáng nút đúng kết luận (`--verdict mua|doi|bo`, hoặc `an` để giấu bằng dấu "?") |
+
+Công cụ: `techvision-video-kit/scripts/series_kit.py`
+- `python3 scripts/series_kit.py intro` → `out/series/intro-{A,B}-{ngang,doc}.mp4` (1,5 giây, có tiếng). Ghép vào ĐẦU video (concat fps 30, âm mono 44,1 kHz, CRF 16), rồi chạy lại `master_audio.py --fix` cho -14 LUFS.
+- `python3 scripts/series_kit.py thumb A|B --title "dòng 1|dòng 2" --img anh.jpg --credit "..." [--num 1TB | --verdict mua] --out <tên>` → `<tên>-ngang.jpg` 1280x720 + `<tên>-doc.jpg` 1080x1920. Tiêu đề tối đa 2 dòng, mỗi dòng ≤ 16 ký tự cho bản ngang (dài hơn sẽ rớt 4 dòng).
+- Ảnh nền thumbnail theo đúng luật nguồn media (mục 2), ghi credit.
+
+Video đầu tiên mang bộ nhận diện: GTA 6 (series B, 25/10/2026). Các video đăng/hẹn trước 02/10 giữ nguyên.
+
 ## 7. Bản đồ tài liệu
 
 | File | Nội dung | Tình trạng |
