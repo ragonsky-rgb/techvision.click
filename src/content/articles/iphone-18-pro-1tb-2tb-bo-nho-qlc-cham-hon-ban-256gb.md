@@ -7,8 +7,6 @@ category: "Apple"
 type: "tin-tuc"
 datePublished: "2026-10-02T09:00:00+07:00"
 dateModified: "2026-10-02T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Mua bản dung lượng cao nhất thường được mặc định là mua bản tốt nhất. Với iPhone 18 Pro thì không hẳn. Các phép đo của phòng thử nghiệm HOMOLAB công bố quanh ngày 20/9 cho thấy bản 1TB và 2TB dùng loại chip nhớ khác với bản 256GB và 512GB, và loại chip đó chậm hơn rõ rệt khi phải ghi liên tục. Bài này gỡ ra hai tầng: sự khác biệt kỹ thuật thật sự là gì, và nó có đổi quyết định mua ở Việt Nam hay không, khi khoản chênh giữa 512GB và 1TB lên tới 13 triệu đồng."
 heroImage: "https://techvision.click/images/iphone-18-pro-1tb-2tb-bo-nho-qlc-cham-hon-ban-256gb/quay-video-final-cut-camera-iphone-18-pro.jpg"
 heroAlt: "iPhone 18 Pro đặt ngang quay video bằng ứng dụng Final Cut Camera"

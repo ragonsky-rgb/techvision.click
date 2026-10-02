@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 278
-- **Cập nhật:** 2026-10-01 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 279
+- **Cập nhật:** 2026-10-02 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [iPhone 18 Pro bản 1TB, 2TB dùng bộ nhớ QLC chậm hơn bản 512GB](https://techvision.click/articles/iphone-18-pro-1tb-2tb-bo-nho-qlc-cham-hon-ban-256gb.html)
 - [iPhone Duo đặt trước 16/10: giá Việt Nam, có nên mua?](https://techvision.click/articles/iphone-duo-dat-truoc-16-10-gia-viet-nam-co-nen-mua.html)
 - [iPhone 18 Pro Max cháy hàng tại Việt Nam, bao giờ có máy?](https://techvision.click/articles/iphone-18-pro-max-chay-hang-viet-nam-bao-gio-co-may.html)
 - [VinFast VF 2 bàn giao: nuôi xe hết bao nhiêu mỗi tháng?](https://techvision.click/articles/vinfast-vf-2-ban-giao-chi-phi-nuoi-xe-moi-thang-2026.html)
@@ -44,7 +45,6 @@
 - [Giá iPhone 18 Pro Max Việt Nam đắt hơn Mỹ bao nhiêu?](https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html)
 - [Giá gói internet 2Gbps: Viettel GIGA 485.000đ, FPT 999.000đ](https://techvision.click/articles/viettel-giga-wifi-7-2gbps-gia-goi-cuoc-so-sanh-fpt-2026.html)
 - [TSW vô địch LCP 2026 Split 3, thắng CFO 3-0 dự Worlds](https://techvision.click/articles/tsw-vo-dich-lcp-2026-split-3-thang-cfo-3-0-hat-giong-worlds.html)
-- [VTVgo The Next ra mắt: gói One VTV MAX có gì, xem ở đâu](https://techvision.click/articles/vtvgo-the-next-ra-mat-7-9-2026-goi-one-vtv-max-co-gi.html)
 
 ## Smartphone (72 bài)
 
@@ -224,8 +224,9 @@
 - [Quỹ Đổi mới công nghệ quốc gia khảo sát nhu cầu tài trợ](https://techvision.click/articles/quy-doi-moi-cong-nghe-quoc-gia-natif-khao-sat-doanh-nghiep-tai-tro-2027.html)
 - [Viettel khởi công nhà máy chip bán dẫn đầu tiên tại Hòa Lạc](https://techvision.click/articles/viettel-khoi-cong-nha-may-chip-ban-dan-dau-tien-viet-nam-hoa-lac-2026.html)
 
-## Apple (28 bài)
+## Apple (29 bài)
 
+- [iPhone 18 Pro bản 1TB, 2TB dùng bộ nhớ QLC chậm hơn bản 512GB](https://techvision.click/articles/iphone-18-pro-1tb-2tb-bo-nho-qlc-cham-hon-ban-256gb.html)
 - [iPhone Duo đặt trước 16/10: giá Việt Nam, có nên mua?](https://techvision.click/articles/iphone-duo-dat-truoc-16-10-gia-viet-nam-co-nen-mua.html)
 - [iPhone 18 Pro Max cháy hàng tại Việt Nam, bao giờ có máy?](https://techvision.click/articles/iphone-18-pro-max-chay-hang-viet-nam-bao-gio-co-may.html)
 - [iPhone 18 Pro lỗi Face ID tự khởi động lại: cách xử lý](https://techvision.click/articles/iphone-18-pro-loi-face-id-tu-khoi-dong-lai-cach-xu-ly.html)
