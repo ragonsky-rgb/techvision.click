@@ -2,8 +2,8 @@
 
 > Kênh: YouTube @LongTechVision, 16:9, 3-5 phút + teaser dọc 9:16. Khuôn dựng: brag (như `2026-10-08-iphone-19-nam-gia-dai.md`).
 > Lịch đề xuất: đăng **25/10/2026** (trước ngày ra mắt 19/11 đúng 3,5 tuần, theo công thức bài mùa vụ).
-> **FACEBOOK ĐÃ HẸN 25/10/2026 19:00 (anh Long chốt 01/10):** Reel teaser video_id 1399112185151487 (https://www.facebook.com/reel/1399112185151487) + video dài vào mục Video của Trang video_id 1286418670282211, cả hai `published=False`, `scheduled_publish_time` 12:00 UTC. Nếu ~23/10 đọc lại giá mà phải dựng lại cảnh giá: thay bằng cách xóa 2 video hẹn rồi hẹn lại file mới. YouTube + TikTok anh tự đăng.
-> **02/10/2026: gắn bộ nhận diện series B "Nên mua · đợi · bỏ qua"**: intro 1,5s ở đầu (video dài 2:52,6, teaser 19,2s, đã chuẩn lại -14 LUFS), thumbnail mới `(thumbnail).jpg` + ảnh bìa dọc `(anh bia doc).jpg` (verdict NÊN MUA, tiêu đề "Chơi GTA 6 hết ~19 triệu?"). Bản không intro nằm ở `00 - VIDEO XONG/_ban-cu/`. **2 bài Facebook đang hẹn vẫn là bản CŨ (không intro)**, xem mục cuối để thay.
+> **FACEBOOK ĐÃ HẸN 25/10/2026 19:00 (hẹn lại 02/10 bằng bản CÓ intro series B):** Reel teaser video_id 1653324026391928 (https://www.facebook.com/reel/1653324026391928, 19,2s) + video dài vào mục Video của Trang video_id 1435925775128484 (https://www.facebook.com/522724064254352/videos/1435925775128484, 172,6s, thumbnail series B), cả hai `published=False`, `scheduled_publish_time` 12:00 UTC (kiểm Graph 02/10). 2 bài hẹn cũ (1399112185151487, 1286418670282211) anh Long đã tự xóa 02/10. Nếu ~23/10 đọc lại giá mà phải dựng lại cảnh giá: anh xóa 2 video hẹn trên Business Suite, em hẹn lại file mới. YouTube + TikTok anh tự đăng.
+> **02/10/2026: gắn bộ nhận diện series B "Nên mua · đợi · bỏ qua"**: intro 1,5s ở đầu (video dài 2:52,6, teaser 19,2s, đã chuẩn lại -14 LUFS), thumbnail mới `(thumbnail).jpg` + ảnh bìa dọc `(anh bia doc).jpg` (verdict NÊN MUA, tiêu đề "Chơi GTA 6 hết ~19 triệu?"). Bản không intro nằm ở `00 - VIDEO XONG/_ban-cu/`. 2 bài Facebook đã thay bằng bản có intro (02/10). Chương YouTube đã cộng 1,5s cho intro.
 > **ĐÃ DỰNG XONG 01/10/2026:** `00 - VIDEO XONG/2026-10-25 TechVision - gta-6-chi-phi-viet-nam-dai.mp4` (2:51, 1920x1080, -14,0 LUFS) + teaser dọc `...gta-6-short-moi.mp4` (17,6s) + thumbnail. Dựng bằng `techvision-video-kit/scripts/gta6_data.py` + `out/gta6/index.html` (brag, 21 cảnh), giọng OmniVoice 46 câu đã soát Whisper.
 > **01/10 anh Long duyệt:** dàn ý + bảng media, đăng video 25/10, kéo bài web lên 24/10.
 > Bài web nền: `mua-ps5-choi-gta-6-chi-phi-that-viet-nam-2026`, ĐÃ dời từ 09/11 sang **24/10/2026 09:00** (sửa deck "mười ngày" thành "chưa tới bốn tuần"; check-new-article OK).
@@ -153,13 +153,13 @@ Giá bán lẻ đọc ngày 01/10/2026 tại CellphoneS, nShop, Hacom, Haloshop;
 Nguồn: Rockstar Games, Take-Two, Video Games Chronicle, Thanh Niên. Video: Rockstar Games. Ảnh: Sony Interactive Entertainment, Wikimedia Commons (BeatEmUps, CC BY 3.0), Pexels (Vika Glitter, Peter Vang).
 
 00:00 GTA 6 ra mắt 19/11
-00:14 Có nên chờ bản PC?
-00:32 Tiền game và mã khu vực
-01:02 Bẫy bản hộp không đĩa
-01:18 Tiền máy: PS5 Slim hay Pro
-01:56 3 khoản ẩn
-02:25 Hóa đơn cuối
-02:38 Lời khuyên
+00:15 Có nên chờ bản PC?
+00:33 Tiền game và mã khu vực
+01:03 Bẫy bản hộp không đĩa
+01:19 Tiền máy: PS5 Slim hay Pro
+01:57 3 khoản ẩn
+02:26 Hóa đơn cuối
+02:39 Lời khuyên
 
 #GTA6 #PS5 #TechVision
 ```
