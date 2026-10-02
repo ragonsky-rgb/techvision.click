@@ -6,19 +6,19 @@ hẹn giờ video lên kênh @LongTechVision giống `fb_reel.py` bên Facebook.
 **Trạng thái:**
 - [x] Trang chính sách có mục 6 "Dịch vụ API YouTube", có cả đoạn tiếng Anh: https://techvision.click/chinh-sach.html#youtube-api
 - [x] Script `yt_upload.py`: mặc định chạy thử, chỉ xin phạm vi `youtube.upload`
-- [ ] Bước 1: tạo dự án Google Cloud + bật API + màn hình đồng ý + khoá OAuth (anh Long đăng nhập, em làm cùng trên Chrome)
+- [x] Bước 1 (02/10): tài khoản ragonsky@gmail.com đầy hạn mức dự án nên DÙNG LẠI "My First Project" đổi tên **LongTechVision Uploader** (ID `graphical-reach-482404-r4`, số **139766350582**). Bật YouTube Data API v3; màn hình đồng ý External + **In production**; quyền chỉ `youtube.upload`; khoá Desktop "yt_upload (Mac)" có tích "used by an AI-powered agent" → `~/.config/techvision/yt-client.json`. Kênh @LongTechVision thuộc ragonsky@gmail.com. Google báo "app requires verification" (xác minh OAuth, khác audit YouTube): chưa xác minh vẫn dùng được cho chủ app, có màn cảnh báo.
 - [ ] Bước 2: `yt_upload.py auth` (anh đăng nhập đúng tài khoản sở hữu @LongTechVision)
 - [ ] Bước 3: quay màn hình demo 1-2 phút
 - [ ] Bước 4: nộp form https://support.google.com/youtube/contact/yt_api_form
 - [ ] Bước 5: chờ Google trả lời qua email (thường vài tuần), trả lời câu hỏi bổ sung nếu có
 
 ## Bước 1: thiết lập Google Cloud
-1. Tạo dự án mới tên **LongTechVision Uploader**. Tách riêng khỏi dự án SEO `gen-lang-client-0873273298` để hồ sơ audit gọn. Ghi lại **Project number**, form hỏi số này.
+1. (Đã làm, xem trạng thái) Dự án riêng **LongTechVision Uploader**, tách khỏi dự án SEO `gen-lang-client-0873273298`.
 2. Vào APIs & Services → Library → bật **YouTube Data API v3**.
 3. Thiết lập OAuth consent screen:
    - User type: External.
    - App name: LongTechVision Uploader.
-   - Support email: longnguyenreview@gmail.com.
+   - Support email + developer contact: ragonsky@gmail.com.
    - App homepage: https://techvision.click/
    - Privacy policy: https://techvision.click/chinh-sach.html#youtube-api
    - Terms of service: https://techvision.click/chinh-sach.html#youtube-api
@@ -41,16 +41,16 @@ hẹn giờ video lên kênh @LongTechVision giống `fb_reel.py` bên Facebook.
 
 **Website:** https://techvision.click/
 
-**Contact email:** longnguyenreview@gmail.com
+**Contact email:** ragonsky@gmail.com (channel owner); public contact on policy page: longnguyenreview@gmail.com
 
 **API client name:** LongTechVision Uploader
 
-**Google Cloud project number:** (điền sau bước 1)
+**Google Cloud project number:** 139766350582 (project ID graphical-reach-482404-r4)
 
 **Which API Services does your client use?** YouTube Data API v3: `videos.insert`, `thumbnails.set`. Scope requested: `https://www.googleapis.com/auth/youtube.upload` only.
 
 **Describe your API client and how it uses YouTube API Services:**
-LongTechVision Uploader is an internal command-line tool used by a single person, the owner of the LongTechVision YouTube channel, to upload videos he produces himself (Vietnamese consumer technology explainers and price guides) to his own channel. It also sets each video's custom thumbnail and a scheduled publish time (`status.privacyStatus=private` + `status.publishAt`), so videos go live at the same time as the matching article on techvision.click and the same video on our Facebook Page. The tool has no public users, no web interface and no end-user sign-up. It authenticates with OAuth 2.0 (installed-app flow) as the channel owner only.
+LongTechVision Uploader is an internal command-line tool used by a single person, the owner of the LongTechVision YouTube channel, to upload videos he produces himself (Vietnamese consumer technology explainers and price guides) to his own channel. It also sets each video's custom thumbnail and a scheduled publish time (`status.privacyStatus=private` + `status.publishAt`), so videos go live at the same time as the matching article on techvision.click and the same video on our Facebook Page. The tool has no public users, no web interface and no end-user sign-up. It authenticates with OAuth 2.0 (installed-app flow) as the channel owner only. Disclosure: the owner runs this tool through an AI coding assistant on his own computer, which prepares the title, description and schedule and executes the upload command only after the owner explicitly approves each video (the OAuth client is declared as "used by an AI-powered agent").
 
 **Number of users:** 1 (the channel owner). The tool is not distributed.
 
