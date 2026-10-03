@@ -42,6 +42,11 @@ related:
   - { href: "/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html", cat: "Apple", title: "iPhone 18 Pro và Pro Max: giá chính thức và cấu hình" }
   - { href: "/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html", cat: "Apple", title: "Giá iPhone 18 Pro Max Việt Nam đắt hơn Mỹ bao nhiêu?" }
 featured: true
+shop:
+  - id: iphone-18-pro
+    after: "Quy ra tiền tại Việt Nam thì bài toán đổi thế nào"
+  - id: iphone-18-pro-max
+    after: "Quy ra tiền tại Việt Nam thì bài toán đổi thế nào"
 ---
 
 Trong gần một thập kỷ, nguyên tắc chọn dung lượng iPhone rất đơn giản: các bản chỉ khác nhau ở con số dung lượng, còn lại giống hệt. Thế hệ **iPhone 18 Pro** phá vỡ nguyên tắc đó. Các phép đo do HOMOLAB, một kênh thử nghiệm phần cứng trên Bilibili (Trung Quốc), công bố quanh ngày 20/9/2026 cho thấy bản **1TB và 2TB dùng NAND QLC**, trong khi bản **256GB và 512GB dùng NAND TLC**, và khoảng cách hiệu năng giữa hai loại không nhỏ. Tom's Hardware, AppleInsider và Notebookcheck đã đưa lại kết quả này. Cần lưu ý: máy được đo là iPhone 18 Pro Max bản 1TB so với bản 512GB; bản 256GB, bản 2TB và iPhone 18 Pro thường chưa có phép đo công khai riêng, còn Apple không công bố loại chip nhớ trong thông số.

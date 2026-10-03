@@ -621,6 +621,36 @@
       "created": "2026-09-28",
       "checked": "2026-09-28",
       "mention": "Buds Core"
+    },
+    {
+      "id": "iphone-18-pro-max",
+      "name": "Apple iPhone 18 Pro Max",
+      "short": "https://s.shopee.vn/3VkkQq0Hl5",
+      "target": "https://shopee.vn/mall/search?keyword=iphone+18+pro+max",
+      "subId": "tvphone",
+      "created": "2026-10-04",
+      "checked": "2026-10-04",
+      "mention": "iPhone 18 Pro Max"
+    },
+    {
+      "id": "iphone-18-pro",
+      "name": "Apple iPhone 18 Pro",
+      "short": "https://s.shopee.vn/30oTpv2Bm0",
+      "target": "https://shopee.vn/mall/search?keyword=iphone+18+pro",
+      "subId": "tvphone",
+      "created": "2026-10-04",
+      "checked": "2026-10-04",
+      "mention": "iPhone 18 Pro(?! ?Max)"
+    },
+    {
+      "id": "xiaomi-ultrathin-magnetic-5000",
+      "name": "Xiaomi UltraThin Magnetic Power Bank 5000 15W",
+      "short": "https://s.shopee.vn/80D9n7j1cd",
+      "target": "https://shopee.vn/mall/search?keyword=xiaomi+ultrathin+magnetic+5000",
+      "subId": "tvgadget",
+      "created": "2026-10-04",
+      "checked": "2026-10-04",
+      "mention": "UltraThin"
     }
   ]
 }

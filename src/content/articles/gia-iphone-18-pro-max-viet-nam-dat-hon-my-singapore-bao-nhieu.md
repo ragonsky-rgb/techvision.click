@@ -44,6 +44,9 @@ related:
   - { href: "/articles/iphone-18-ra-mat-khi-nao-bao-gio-ve-viet-nam-2026.html", cat: "Apple", title: "iPhone 18 ra mắt khi nào, bao giờ về Việt Nam?" }
   - { href: "/articles/gia-smartphone-cao-cap-viet-nam-tang-manh-2026-thieu-chip-nho.html", cat: "Công nghệ", title: "Giá smartphone cao cấp tại Việt Nam tăng mạnh năm 2026" }
 featured: true
+shop:
+  - id: iphone-18-pro-max
+    after: "Bậc dung lượng nào đáng tiền tại Việt Nam"
 ---
 
 Câu hỏi quen thuộc mỗi mùa iPhone là máy bán tại Việt Nam đắt hơn nước ngoài bao nhiêu. Năm nay câu trả lời dễ kiểm chứng hơn mọi năm, vì Việt Nam nằm trong nhóm thị trường mở bán đợt đầu, bảng giá chính hãng có đủ bốn bậc dung lượng ngay từ ngày đặt trước, và máy bắt đầu tới tay người dùng từ 18/9.

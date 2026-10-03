@@ -44,6 +44,9 @@ related:
   - { href: "/articles/belkin-ultracharge-pro-pin-du-phong-vong-tu-tinh-2026.html", cat: "Công nghệ", title: "Belkin UltraCharge Pro: pin dự phòng 10.000mAh có vòng từ tính" }
   - { href: "/articles/sac-khong-day-la-gi-co-hai-pin-khong-co-nen-dung.html", cat: "Smartphone", title: "Sạc không dây là gì? Có hại pin không và có nên dùng?" }
 featured: true
+shop:
+  - id: xiaomi-ultrathin-magnetic-5000
+    after: "Giá tại Việt Nam và có nên mua"
 ---
 
 Pin dự phòng hít lưng không còn là món lạ, nhưng phần lớn mẫu 5.000mAh đang bán vẫn dày cỡ một chiếc điện thoại thứ hai gắn sau lưng. Xiaomi UltraThin Magnetic Power Bank 5000 15W đi theo hướng ngược lại: chỉ dày 6mm, nặng 98g, mở bán chính hãng tại Việt Nam từ cuối tháng 2/2026. TechVision mua một chiếc bản màu cam, tự mở hộp và dùng thử với iPhone. Bài này ghi lại những gì thấy được tận tay, và đặt cạnh từng con số trên trang Xiaomi Việt Nam để bạn biết chỗ nào đúng như quảng cáo, chỗ nào cần đọc kỹ chú thích.
