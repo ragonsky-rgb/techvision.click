@@ -96,6 +96,14 @@ Với giá bán khởi điểm chỉ 99 USD, HushJet Mini Cool được xem là 
 
 So với vô số mẫu quạt cầm tay mini giá rẻ đang bán tràn lan trên các sàn thương mại điện tử, HushJet Mini Cool có lợi thế rõ rệt về chất lượng gia công, độ ồn thấp hơn nhờ công nghệ HushJet giảm tiếng rít khí đặc trưng của Dyson, cùng cảm giác cầm nắm chắc chắn, cao cấp hơn hẳn. Tuy nhiên, mức giá 99 USD, tương đương khoảng 2,5 triệu đồng khi quy đổi, vẫn cao hơn đáng kể so với các mẫu quạt mini không thương hiệu chỉ vài trăm nghìn đồng, khiến người mua cần cân nhắc kỹ giữa việc trả thêm tiền cho thương hiệu, chất lượng hoàn thiện hay chỉ đơn thuần cần một thiết bị làm mát tạm thời giá rẻ.
 
+Ở chiều ngược lại, nhiều mẫu quạt mini giá rẻ không cạnh tranh bằng độ êm mà bằng tính năng lạ. Một ví dụ TechVision tự mua về mở hộp là quạt cầm tay GOOJODOQ có gắn camera ngay giữa lồng quạt, vừa thổi gió vừa quay video.
+
+<div class="art-video-label">VIDEO · Mở hộp quạt cầm tay GOOJODOQ có camera</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.tiktok.com/player/v1/7692374103814130951?music_info=0&description=0&rel=0" title="Mo hop quat cam tay GOOJODOQ co camera" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Quạt cầm tay GOOJODOQ có camera đặt giữa lồng quạt, quay Full HD 1080p, lồng quạt xoay được 180 độ. Video TechVision tự quay. Nguồn: TikTok @longtechvision</p>
+
 Với những ai thường xuyên di chuyển và cần mang theo nhiều thiết bị điện tử nhỏ gọn cùng lúc, bao gồm cả quạt cầm tay này, việc chuẩn bị thêm phụ kiện sạc dự phòng phù hợp cũng là điều nên tính tới, tham khảo bài viết [top sạc dự phòng đáng mua tháng 7/2026](/articles/top-sac-du-phong-dang-mua-thang-7-2026.html) để chọn được mẫu sạc đủ công suất cho nhiều thiết bị nhỏ cùng lúc. Ngoài ra, nếu đang tìm thêm phụ kiện công nghệ gọn nhẹ khác để mang theo hằng ngày, bài viết [Logitech Mobi Fold, chuột gập đôi đầu tiên bỏ túi được](/articles/logitech-mobi-fold-chuot-gap-doi-dau-tien-2026.html) cũng là một gợi ý đáng cân nhắc, cùng chung xu hướng thiết bị công nghệ cá nhân ngày càng thu nhỏ và tiện lợi hơn.
 
 Nhìn chung, Dyson HushJet Mini Cool đánh dấu bước đi mới của hãng trong việc tiếp cận nhóm khách hàng trẻ, ngân sách vừa phải nhưng vẫn muốn trải nghiệm công nghệ làm mát không cánh đặc trưng, thay vì chỉ tập trung vào phân khúc cao cấp như trước đây. Với những người có nhu cầu lưu trữ thêm dữ liệu hoặc ảnh chụp trải nghiệm sản phẩm khi di chuyển, bài viết [cách chọn ổ cứng di động SSD phù hợp nhu cầu năm 2026](/articles/cach-chon-o-cung-di-dong-ssd-2026.html) cũng là tài liệu tham khảo hữu ích để sao lưu dữ liệu an toàn trong các chuyến đi dài ngày.
