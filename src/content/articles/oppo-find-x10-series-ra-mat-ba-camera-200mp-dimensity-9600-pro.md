@@ -108,6 +108,12 @@ Về hiệu năng thực tế, nên chờ máy thương mại. Tiến trình nh�
 
 Oppo mới công bố giá tại Trung Quốc. Bảng dưới quy đổi theo tỷ giá chuyển khoản Vietcombank ngày 25/9/2026 (1 tệ = 3.811,56 đồng), chỉ để hình dung mặt bằng giá chứ không phải giá bán tại Việt Nam.
 
+<div class="art-video-label">VIDEO · Find X10 Pro Max lên kệ, quy đổi giá Trung Quốc sang tiền Việt</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.tiktok.com/player/v1/7690226703536377096?music_info=0&description=0&rel=0" title="Find X10 Pro Max lên kệ, quy đổi giá Trung Quốc sang tiền Việt" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Bản tóm tắt 1 phút của TechVision: giá Find X10 Pro Max tại Trung Quốc quy đổi và mốc chờ giá Việt Nam. Nguồn: TikTok @longtechvision</p>
+
 <div class="spec-box">
   <div class="spec-box-title">💰 Giá Find X10 series tại Trung Quốc</div>
   <table>

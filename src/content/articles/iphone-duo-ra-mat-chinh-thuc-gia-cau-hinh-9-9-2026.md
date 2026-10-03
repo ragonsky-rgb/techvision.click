@@ -108,6 +108,12 @@ Hai sản phẩm còn lại trong đợt là Apple Watch Series 12 từ 399 USD,
 
 Khác với nếp mọi năm, **Việt Nam nằm trong nhóm mở bán đợt đầu** và Apple công bố giá nội địa ngay trong ngày. Đặt trước mở lúc **19h ngày 16/10 giờ Việt Nam**, máy có hàng từ **23/10**.
 
+<div class="art-video-label">VIDEO · iPhone Duo giá 104 triệu, mở khoá bằng vân tay</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.tiktok.com/player/v1/7683814454433320199?music_info=0&description=0&rel=0" title="iPhone Duo giá 104 triệu, mở khoá bằng vân tay" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video TechVision: mức giá iPhone Duo tại Việt Nam và chuyện Touch ID quay lại. Nguồn: TikTok @longtechvision</p>
+
 <div class="spec-box">
   <div class="spec-box-title">📋 Giá chính thức Apple Việt Nam</div>
   <table>

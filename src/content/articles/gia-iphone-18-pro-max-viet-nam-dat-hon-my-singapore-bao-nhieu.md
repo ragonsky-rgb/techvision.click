@@ -75,6 +75,12 @@ Quy đổi theo tỷ giá bán ra của Vietcombank chiều 15/9/2026: 26.200 đ
 
 Một lưu ý về cách đọc bảng trên. Các chuỗi bán lẻ lớn trong nước niêm yết thấp hơn giá của Apple vài nghìn đồng, tức là chênh lệch giữa các nơi bán gần như bằng không. Phần khác biệt thật sự nằm ở chương trình khuyến mãi, trợ giá thu cũ và ưu đãi thanh toán qua thẻ, chứ không nằm ở con số in trên bảng giá.
 
+<div class="art-video-label">VIDEO · Giá iPhone 18 Pro Max ở Việt Nam, Singapore và Mỹ</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.tiktok.com/player/v1/7686365819143589127?music_info=0&description=0&rel=0" title="Giá iPhone 18 Pro Max ở Việt Nam, Singapore và Mỹ" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Bản video 1 phút của bài này: ba mức giá đặt cạnh nhau và phần thuế hay bị bỏ quên. Nguồn: TikTok @longtechvision</p>
+
 ## Chênh với Mỹ: con số 8,15 triệu và phần bị bỏ quên
 
 Mức chênh khoảng 8,15 triệu đồng so với giá niêm yết tại Mỹ là con số được báo trong nước đưa ra khi so bản 256GB của hai thị trường. Nhìn riêng con số đó thì khoảng cách khá lớn, tương đương gần 20% giá máy.

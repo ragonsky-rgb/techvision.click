@@ -112,6 +112,12 @@ Hướng đi đặt cược vào camera phản ánh xu thế chung của thị t
 
 Dòng Find X10 được rò rỉ ra mắt tại Trung Quốc vào quý 4/2026, nhiều nguồn dự đoán tháng 10, với bản toàn cầu theo sau vài tuần. Oppo chưa công bố lịch chính thức nên mốc thời gian này vẫn có thể thay đổi. Trong bối cảnh [giá smartphone cao cấp tại Việt Nam đang tăng](/articles/gia-smartphone-cao-cap-viet-nam-tang-manh-2026-thieu-chip-nho.html), mức giá của Find X10 Pro khi về nước cũng là điều đáng chú ý.
 
+<div class="art-video-label">VIDEO · Find X10 Pro Max ra mắt 22/9 với 3 camera 200MP</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.tiktok.com/player/v1/7685595203780070663?music_info=0&description=0&rel=0" title="Find X10 Pro Max ra mắt 22/9 với 3 camera 200MP" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video TechVision lúc Find X10 Pro Max ra mắt, so với giá Find X9 Ultra đang bán tại Việt Nam. Nguồn: TikTok @longtechvision</p>
+
 Về giá, chưa có con số chính thức. Tham chiếu Find X9 Pro ra mắt Việt Nam tháng 10/2025 với giá 33 triệu đồng cho bản 16GB/512GB, Find X10 Pro nhiều khả năng cũng về Việt Nam quanh mốc 30 tới 35 triệu đồng, dự kiến cuối 2026 hoặc đầu 2027. Người dùng nên chờ thông tin chính thức trước khi quyết định.
 
 So với iPhone 18 Pro Max được đồn khởi điểm tới 1.399 USD, tức quá ba mươi mấy triệu đồng khi về Việt Nam, Find X10 Pro nếu giữ quanh mốc 30 tới 35 triệu có thể là lựa chọn đáng cân nhắc cho người muốn cấu hình mạnh, camera và pin lớn mà chi phí mềm hơn. Diễn biến giá iPhone 18 Pro Max được phân tích kỹ trong bài [iPhone 18 Pro Max 1.399 USD và toan tính của Apple](/articles/iphone-18-pro-max-1399-usd-nghich-ly-gia-apple-toan-tinh.html).

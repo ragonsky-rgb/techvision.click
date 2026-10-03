@@ -111,6 +111,12 @@ Trước khi có thông tin về QLC, lập luận ủng hộ bản 1TB đã kh�
 
 Bài học lớn hơn của câu chuyện này không nằm ở một dòng máy cụ thể. Nó nằm ở chỗ **bậc dung lượng cao nhất không còn mặc nhiên là cấu hình tốt nhất**. Khi giá chip nhớ leo thang trong năm 2026, dùng loại chip nhớ rẻ hơn trên mỗi GB ở những bậc dung lượng cao là một cách giữ giá bán trong tầm thị trường chấp nhận được, và Apple không ghi loại chip nhớ trong bảng thông số nên người mua khó tự biết trước. Khoảng cách giá giữa thị trường Việt Nam và các thị trường khác ở từng bậc dung lượng được đối chiếu trong bài [giá iPhone 18 Pro Max Việt Nam đắt hơn Mỹ bao nhiêu](/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html).
 
+<div class="art-video-label">VIDEO · iPhone 18 Pro bản 1TB chậm hơn, trả thêm 13 triệu có đáng</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.tiktok.com/player/v1/7690456561382100245?music_info=0&description=0&rel=0" title="iPhone 18 Pro bản 1TB chậm hơn, trả thêm 13 triệu có đáng" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video TechVision tóm tắt chuyện bộ nhớ QLC trên bản 1TB và 2TB. Nguồn: TikTok @longtechvision</p>
+
 <div class="art-callout">💡 <strong>Cách tự kiểm tra:</strong> nếu đã mua bản 1TB hoặc 2TB, bạn không cần phần mềm chuyên dụng để cảm nhận. Chép một tệp video dung lượng vài chục GB từ máy tính sang máy và quan sát: nếu tốc độ giữ đều từ đầu tới cuối thì bạn chưa vượt bộ đệm; nếu tốc độ tụt mạnh sau vài chục giây đầu thì đó chính là lúc dữ liệu bắt đầu ghi thẳng xuống QLC.</div>
 
 Với người sắp mua, lời khuyên gọn lại thành một câu: chọn dung lượng theo lượng dữ liệu bạn thật sự giữ trên máy, đừng chọn theo cảm giác an toàn. Bản 256GB đủ cho người chụp ảnh thường ngày và bật sao lưu đám mây. Bản 512GB là điểm cân bằng tốt nhất hiện nay, vừa còn dùng NAND TLC vừa rẻ hơn 13 triệu đồng. Hai bậc trên cùng nên để dành cho người có nhu cầu nghề nghiệp rõ ràng, và những người đó thường biết chính xác mình cần bao nhiêu GB mỗi tháng mà không cần ai tư vấn.
