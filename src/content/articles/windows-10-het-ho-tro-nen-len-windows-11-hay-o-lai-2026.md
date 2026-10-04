@@ -96,8 +96,8 @@ Một lưu ý quan trọng: rất nhiều máy báo không đủ điều kiện 
 Tính tới đầu năm 2026, Windows 11 đã vươn lên chiếm khoảng 72,6% thị phần, trong khi Windows 10 lùi về quanh 26,5%, cho thấy làn sóng chuyển đổi đang diễn ra mạnh. Nếu máy của bạn đủ chuẩn, hãy nâng cấp Windows 11 miễn phí ngay, vừa an toàn vừa nhận thêm các tính năng mới, có thể tham khảo bài [Windows 11 25H2 với cập nhật hiệu năng và tìm kiếm NPU](/articles/windows-11-25h2-cap-nhat-2026-hieu-nang-tim-kiem-npu-khoi-phuc.html).
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/cgxFSR6ofo8/maxresdefault.jpg" alt="Người dùng cân nhắc nên lên Windows 11 hay ở lại Windows 10" loading="lazy" width="1280" height="720">
-  <figcaption>Lựa chọn phụ thuộc vào phần cứng máy và nhu cầu sử dụng của mỗi người. Nguồn: YouTube</figcaption>
+  <img decoding="async" src="https://i.ytimg.com/vi/WrMimuCV570/maxresdefault.jpg" alt="Người dùng cân nhắc nên lên Windows 11 hay ở lại Windows 10" loading="lazy" width="1280" height="720">
+  <figcaption>Lựa chọn phụ thuộc vào phần cứng máy và nhu cầu sử dụng của mỗi người. Ảnh: kênh YouTube Vi Tính Nguyễn Thắng</figcaption>
 </figure>
 
 Nếu máy không đủ chuẩn nhưng vẫn dùng tốt, hãy ghi danh ESU để an toàn tới tháng 10/2027, đây là cách tiết kiệm và hợp lý trong lúc chờ. Còn nếu tính đổi máy mới, bạn nên cân nhắc thời điểm, bởi giá RAM và ổ cứng đang tăng vọt kéo giá laptop lên theo, như phân tích trong bài [giá laptop tăng vì khủng hoảng RAM nên mua gì](/articles/gia-laptop-tang-30-phan-tram-khung-hoang-ram-ai-2028-nen-mua-gi.html). Trong khi chờ quyết định, giữ máy chạy mượt và sạch sẽ cũng quan trọng, bạn có thể xem thêm [cách tăng tốc laptop Windows chậm](/articles/cach-tang-toc-laptop-windows-cham-lag-muot-hon-2026.html). Dù chọn hướng nào, điều cốt lõi là đừng để máy chạy một hệ điều hành không còn được vá bảo mật mà không có lớp bảo vệ nào.

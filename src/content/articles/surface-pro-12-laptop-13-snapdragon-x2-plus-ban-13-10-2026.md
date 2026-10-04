@@ -9,12 +9,12 @@ datePublished: "2026-10-08T15:00:00+07:00"
 dateModified: "2026-10-08T15:00:00+07:00"
 scheduled: true
 noindex: true
-deck: "Microsoft đưa chip Snapdragon X2 Plus xuống hai máy Surface nhỏ nhất trong dòng, bán từ 13/10/2026. Cấu hình khởi điểm lên 16GB RAM vì Microsoft bỏ hẳn bản 8GB, và giá khởi điểm vì vậy vượt mốc 1.100 USD. Ở Việt Nam, cửa hàng nhập khẩu đã báo giá Surface Pro 12 inch đời mới từ 38,99 triệu đồng, cao hơn đời cũ khoảng 14 triệu, và đó là con số người mua trong nước cần nhìn trước tiên."
+deck: "Microsoft đưa chip Snapdragon X2 Plus xuống hai máy Surface nhỏ nhất trong dòng, bán từ 13/10/2026. Cấu hình khởi điểm lên 16GB RAM vì Microsoft bỏ hẳn bản 8GB, và giá khởi điểm vì vậy vượt mốc 1.100 USD. Ở Việt Nam, cửa hàng nhập khẩu đã báo giá Surface Pro 12 inch đời mới từ 38,99 triệu đồng, cao hơn đời cũ khoảng 12 triệu, và đó là con số người mua trong nước cần nhìn trước tiên."
 heroImage: "https://techvision.click/images/surface-pro-12-laptop-13-snapdragon-x2-plus-ban-13-10-2026/surface-pro-12-inch-x2-plus-mau-tim.jpg"
 heroAlt: "Surface Pro 12 inch mau tim kem but Slim Pen va chuot Surface Mouse moi"
 heroCaption: "Surface Pro 12 inch thế hệ mới chạy Snapdragon X2 Plus, cùng chuột Surface Mouse ra mắt ngày 23/9/2026. Ảnh: Microsoft"
 ogImage: "https://techvision.click/uploads/og-article/surface-pro-12-laptop-13-snapdragon-x2-plus-ban-13-10-2026.jpg"
-tldr: "Ngày <strong>23/9/2026</strong>, Microsoft công bố <strong>Surface Pro 12 inch</strong> giá từ <strong>1.149,99 USD</strong> và <strong>Surface Laptop 13 inch</strong> từ <strong>1.199 USD</strong>, cùng bán từ <strong>13/10/2026</strong> tại một số thị trường. Cả hai dùng <strong>Snapdragon X2 Plus 6 nhân</strong>, NPU <strong>80 TOPS</strong>, cấu hình <strong>16GB hoặc 24GB RAM</strong>, <strong>256GB hoặc 512GB</strong>, màn <strong>500 nit sáng hơn 25%</strong>. Microsoft công bố đồ họa <strong>nhanh hơn trên 60%</strong>, AI trên máy <strong>nhanh hơn 95%</strong>; pin Surface Pro tới <strong>15,5 giờ</strong> phát video, Surface Laptop tới <strong>22,5 giờ</strong>. Tại Việt Nam, Surface Viet báo giá Surface Pro 12 inch X2 Plus từ <strong>38,99 triệu đồng</strong> và Surface Laptop 13 inch từ <strong>39,99 triệu</strong> (đọc ngày 30/09/2026)."
+tldr: "Ngày <strong>23/9/2026</strong>, Microsoft công bố <strong>Surface Pro 12 inch</strong> giá từ <strong>1.149,99 USD</strong> và <strong>Surface Laptop 13 inch</strong> từ <strong>1.199 USD</strong>, cùng bán từ <strong>13/10/2026</strong> tại một số thị trường. Cả hai dùng <strong>Snapdragon X2 Plus 6 nhân</strong>, NPU <strong>80 TOPS</strong>, cấu hình <strong>16GB hoặc 24GB RAM</strong>, <strong>256GB hoặc 512GB</strong>, màn <strong>500 nit sáng hơn 25%</strong>. Microsoft công bố đồ họa <strong>nhanh hơn trên 60%</strong>, AI trên máy <strong>nhanh hơn 95%</strong>; pin Surface Pro tới <strong>15,5 giờ</strong> phát video, Surface Laptop tới <strong>22,5 giờ</strong>. Tại Việt Nam, Surface Viet báo giá Surface Pro 12 inch X2 Plus từ <strong>38,99 triệu đồng</strong> và Surface Laptop 13 inch từ <strong>39,99 triệu</strong> (đọc ngày 04/10/2026)."
 tags: ["Surface", "Microsoft", "Qualcomm", "Laptop", "Snapdragon", "2026"]
 about: ["Microsoft Surface Pro", "Microsoft Surface Laptop", "Qualcomm Snapdragon X2 Plus", "Microsoft", "Windows"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường laptop và mức giá thực tế của máy nhập về Việt Nam."
@@ -32,7 +32,7 @@ faq:
   - q: "Snapdragon X2 Plus khác Snapdragon X2 Elite ở đâu?"
     a: "X2 Plus là bậc dưới trong cùng thế hệ. Bản trên hai máy Surface này có 6 nhân CPU, còn dòng X2 Elite nhắm vào nhóm cấu hình cao với nhiều nhân hơn và phần đồ họa mạnh hơn. Cách phân tầng giống Core i5 với Core i7 bên Intel: cùng kiến trúc, khác số nhân và xung nhịp. Với người dùng văn phòng, học tập và làm nội dung nhẹ, chênh lệch giữa hai bậc thường không đáng kể bằng chênh lệch giá."
   - q: "Surface Pro 12 inch X2 Plus giá bao nhiêu tại Việt Nam?"
-    a: "Microsoft không có giá niêm yết chính hãng tại Việt Nam. Cửa hàng nhập khẩu Surface Viet báo giá bản 16GB/256GB là 38,99 triệu đồng, 16GB/512GB là 40,49 triệu, 24GB/512GB là 49,49 triệu, đã gồm VAT, bảo hành 12 tháng của cửa hàng, bàn phím và bút mua riêng (đọc ngày 30/09/2026). Cùng cửa hàng đang bán đời cũ Snapdragon X Plus 16GB/256GB ở 24,99 triệu đồng."
+    a: "Microsoft không có giá niêm yết chính hãng tại Việt Nam. Cửa hàng nhập khẩu Surface Viet báo giá bản 16GB/256GB là 38,99 triệu đồng, 16GB/512GB là 40,49 triệu, 24GB/512GB là 49,49 triệu, đã gồm VAT, bảo hành 12 tháng của cửa hàng, bàn phím và bút mua riêng (đọc ngày 04/10/2026). Cùng cửa hàng đang bán đời cũ Snapdragon X Plus 16GB/256GB ở 26,9 triệu đồng."
   - q: "Máy chạy chip ARM thì có chạy được phần mềm quen dùng không?"
     a: "Phần lớn phần mềm phổ thông chạy được, gồm bộ Office, trình duyệt, ứng dụng họp trực tuyến và các công cụ thiết kế phổ biến, một số chạy bản biên dịch sẵn cho ARM còn lại chạy qua lớp giả lập. Nhóm cần kiểm trước khi mua là phần mềm kế toán và khai thuế trong nước, ứng dụng ngân hàng doanh nghiệp dùng thiết bị bảo mật riêng, driver máy in hoặc máy scan chuyên dụng, và phần mềm chuyên ngành dùng khóa cứng. Cách an toàn là thử trước hoặc hỏi nhà cung cấp phần mềm."
   - q: "Vì sao giá khởi điểm tăng mạnh so với đời trước?"
@@ -60,7 +60,7 @@ Ngày **23/9/2026**, trong dịp Snapdragon Summit, Microsoft công bố **Surfa
     <tr><td>Hiệu năng theo công bố</td><td>Đồ họa nhanh hơn trên 60%, AI trên máy nhanh hơn 95%, Office nhanh hơn tới 17%</td></tr>
     <tr><td>Pin theo công bố</td><td>Surface Pro: 15,5 giờ video, 13 giờ web. Surface Laptop: 22,5 giờ video, 18 giờ web</td></tr>
     <tr><td>Kết nối di động</td><td>Tùy chọn 5G trên Surface Pro 12 inch, cho khách doanh nghiệp</td></tr>
-    <tr><td>Giá tại Việt Nam</td><td>Hàng nhập: Surface Pro từ 38,99 triệu, Surface Laptop từ 39,99 triệu (Surface Viet, 30/09/2026)</td></tr>
+    <tr><td>Giá tại Việt Nam</td><td>Hàng nhập: Surface Pro từ 38,99 triệu, Surface Laptop từ 39,99 triệu (Surface Viet, 04/10/2026)</td></tr>
   </table>
 </div>
 
@@ -107,16 +107,16 @@ Cả hai máy có màn **500 nit, sáng hơn 25%** so với đời trước. Sur
 
 Về pin, Microsoft công bố hiệu quả tốt hơn **tới 18%**. Surface Pro 12 inch đạt tới **15,5 giờ** phát video cục bộ và **13 giờ** dùng web, Surface Laptop 13 inch tới **22,5 giờ** video và **18 giờ** web. Nên đọc các con số này như trần trên trong điều kiện thử nghiệm thuận lợi; con số dùng web sát thực tế hơn vì tính cả tải trang và nhiều tab. Microsoft cũng giới thiệu chuột Surface Mouse giá 79,99 USD và không gian vẽ Microsoft Ink Canvas cho bút, đều là phụ kiện và phần mềm, không ảnh hưởng tới quyết định chọn máy.
 
-## Giá ở Việt Nam: hàng nhập đã lên kệ, cao hơn đời cũ khoảng 14 triệu
+## Giá ở Việt Nam: hàng nhập đã lên kệ, cao hơn đời cũ khoảng 12 triệu
 
-Microsoft không có kênh bán lẻ chính hãng rộng ở Việt Nam theo cách Apple làm với MacBook, Surface trong nước về qua các cửa hàng nhập khẩu. Ngày 30/09/2026, **Surface Viet** đã niêm yết hai máy đời mới, giá gồm VAT, bảo hành 12 tháng của cửa hàng:
+Microsoft không có kênh bán lẻ chính hãng rộng ở Việt Nam theo cách Apple làm với MacBook, Surface trong nước về qua các cửa hàng nhập khẩu. Đọc ngày 04/10/2026, **Surface Viet** niêm yết hai máy đời mới, giá gồm VAT, bảo hành 12 tháng của cửa hàng:
 
 - **Surface Pro 12 inch X2 Plus**: 16GB/256GB **38,99 triệu đồng**, 16GB/512GB **40,49 triệu**, 24GB/512GB **49,49 triệu**. Bàn phím và bút Slim Pen mua riêng.
 - **Surface Laptop 13 inch X2 Plus**: 16GB/256GB **39,99 triệu**, 16GB/512GB **42,99 triệu**, 24GB/512GB **49,99 triệu**.
 
-Để so sánh, cùng cửa hàng đang bán Surface Pro 12 inch đời cũ chip Snapdragon X Plus bản 16GB/256GB ở **24,99 triệu đồng**, còn TT Center bán bản đó ở **25,49 triệu**. Nghĩa là đời mới đắt hơn khoảng **14 triệu đồng** cho cùng dung lượng RAM và bộ nhớ, mức chênh lớn hơn nhiều so với chênh lệch giá tại Mỹ. Giá hàng nhập đợt đầu thường cao khi nguồn còn ít và có thể giảm sau vài tuần, nên người không vội có lý do để chờ.
+Để so sánh, cùng cửa hàng đang bán Surface Pro 12 inch đời cũ chip Snapdragon X Plus bản 16GB/256GB ở **26,9 triệu đồng** (đọc ngày 04/10/2026). Nghĩa là đời mới đắt hơn khoảng **12 triệu đồng** cho cùng dung lượng RAM và bộ nhớ, mức chênh lớn hơn nhiều so với chênh lệch giá tại Mỹ. Giá hàng nhập đợt đầu thường cao khi nguồn còn ít và có thể giảm sau vài tuần, nên người không vội có lý do để chờ.
 
-Mốc so sánh chính hãng cùng tầm tiền là **MacBook Air M5** 13 inch 16GB/512GB, niêm yết **35,99 triệu đồng**, CellphoneS bán **34,69 triệu** (đọc ngày 30/09/2026), có bảo hành chính hãng trong nước. Ở mức giá hàng nhập hiện tại, Surface Pro 12 inch bản 256GB chưa kèm bàn phím đã đắt hơn MacBook Air bản 512GB vài triệu đồng.
+Mốc so sánh chính hãng cùng tầm tiền là **MacBook Air M5** 13 inch 16GB/512GB, niêm yết **35,99 triệu đồng**, CellphoneS bán **33,09 triệu** (đọc ngày 04/10/2026), có bảo hành chính hãng trong nước. Ở mức giá hàng nhập hiện tại, Surface Pro 12 inch bản 256GB chưa kèm bàn phím đã đắt hơn MacBook Air bản 512GB vài triệu đồng.
 
 ## Ai nên cân nhắc và ai nên bỏ qua
 

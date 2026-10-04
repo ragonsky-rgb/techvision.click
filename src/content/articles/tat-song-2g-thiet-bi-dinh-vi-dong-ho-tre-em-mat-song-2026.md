@@ -14,7 +14,7 @@ heroImage: "https://techvision.click/images/tat-song-2g-thiet-bi-dinh-vi-dong-ho
 heroAlt: "Tram phat song di dong voi bieu tuong cam 2G minh hoa viec tat song 2G tai Viet Nam"
 heroCaption: "Sóng 2G ngừng phát toàn quốc từ 0 giờ ngày 16/9/2026, trừ Trường Sa, Hoàng Sa và nhà giàn DK. Ảnh: Báo Thanh Niên"
 ogImage: "https://techvision.click/uploads/og-article/tat-song-2g-thiet-bi-dinh-vi-dong-ho-tre-em-mat-song-2026.jpg"
-tldr: "Từ <strong>0 giờ ngày 16/9/2026</strong>, sóng 2G ngừng phát trên toàn quốc, trừ <strong>Trường Sa, Hoàng Sa và nhà giàn DK</strong>. Ngoài điện thoại cơ bản, nhóm thiết bị bị ảnh hưởng gồm <strong>định vị xe máy, ô tô</strong>, <strong>đồng hồ định vị trẻ em</strong> đời cũ, <strong>thiết bị báo động và giám sát từ xa</strong> dùng SIM. Thiết bị chỉ có mô đun <strong>2G</strong> mất kết nối vĩnh viễn và không cập nhật phần mềm nào cứu được. Bản thay thế 4G không đắt: định vị <strong>Smart Motor S1</strong> của Viettel niêm yết <strong>800.000 đồng</strong>, đồng hồ <strong>Kidcare Sight S25</strong> hỗ trợ gọi video 4G bán <strong>1.590.000 đồng</strong> tại Thế Giới Di Động."
+tldr: "Từ <strong>0 giờ ngày 16/9/2026</strong>, sóng 2G ngừng phát trên toàn quốc, trừ <strong>Trường Sa, Hoàng Sa và nhà giàn DK</strong>. Ngoài điện thoại cơ bản, nhóm thiết bị bị ảnh hưởng gồm <strong>định vị xe máy, ô tô</strong>, <strong>đồng hồ định vị trẻ em</strong> đời cũ, <strong>thiết bị báo động và giám sát từ xa</strong> dùng SIM. Thiết bị chỉ có mô đun <strong>2G</strong> mất kết nối vĩnh viễn và không cập nhật phần mềm nào cứu được. Bản thay thế 4G không đắt: định vị <strong>Smart Motor S1</strong> của Viettel niêm yết <strong>800.000 đồng</strong>, đồng hồ <strong>Kidcare Sight S25</strong> hỗ trợ gọi video 4G bán <strong>1.740.000 đồng</strong> tại Thế Giới Di Động."
 tags: ["2G", "VienThong", "DinhVi", "DongHoTreEm", "VietNam"]
 about: ["Mạng 2G", "Viettel", "VNPT", "MobiFone", "Bộ Khoa học và Công nghệ", "Smart Motor", "Kidcare"]
 authorBio: "Founder LongTechVision. Theo dõi mảng viễn thông và hạ tầng số tại Việt Nam, tập trung vào tác động thực tế tới người dùng cuối."
@@ -27,7 +27,7 @@ stats:
   - { num: "Gần 2 năm", label: "Độ dài giai đoạn duy trì 2G tối thiểu cho IoT, chuyển vùng và máy chưa có VoLTE" }
   - { num: "4G LTE", label: "Chuẩn kết nối tối thiểu thiết bị cần có để tiếp tục hoạt động" }
   - { num: "800.000đ", label: "Giá niêm yết định vị xe máy Smart Motor S1 bản 4G trên shop.viettel.vn" }
-  - { num: "1.590.000đ", label: "Giá đồng hồ định vị Kidcare Sight S25 hỗ trợ 4G tại Thế Giới Di Động" }
+  - { num: "1.740.000đ", label: "Giá đồng hồ định vị Kidcare Sight S25 hỗ trợ 4G tại Thế Giới Di Động" }
 faq:
   - q: "Thiết bị định vị gắn trên xe máy có ngừng hoạt động sau khi tắt 2G không?"
     a: "Có, nếu thiết bị chỉ có mô đun kết nối 2G. Loại này mất hoàn toàn khả năng gửi dữ liệu về máy chủ, nên ứng dụng theo dõi trên điện thoại không còn cập nhật vị trí. Thiết bị vẫn có thể sáng đèn nguồn bình thường, nên chủ xe dễ tưởng nó còn chạy. Cách kiểm tra chắc chắn nhất là mở ứng dụng quản lý và xem thời điểm cập nhật vị trí gần nhất: nếu dừng quanh ngày 15 hoặc 16/9/2026 thì gần như chắc chắn do mất sóng 2G."
@@ -58,7 +58,7 @@ Sóng 2G tại Việt Nam ngừng phát từ 0 giờ ngày 16/9/2026, trừ qu�
     <tr><td>Máy POS đời cũ</td><td>Có thể lỗi kết nối, cần kiểm tra từng máy</td></tr>
     <tr><td>Thiết bị hỗ trợ 4G LTE</td><td>Hoạt động bình thường</td></tr>
     <tr><td>Dấu hiệu nhận biết</td><td>Đèn nguồn vẫn sáng nhưng dữ liệu ngừng cập nhật từ 15 hoặc 16/9</td></tr>
-    <tr><td>Giá bản 4G tham khảo</td><td>Smart Motor S1 800.000đ, Kidcare Sight S25 1.590.000đ</td></tr>
+    <tr><td>Giá bản 4G tham khảo</td><td>Smart Motor S1 800.000đ, Kidcare Sight S25 1.740.000đ</td></tr>
   </table>
 </div>
 
@@ -70,10 +70,10 @@ Sóng 2G tại Việt Nam ngừng phát từ 0 giờ ngày 16/9/2026, trừ qu�
 
 <figure>
   <img decoding="async" src="https://techvision.click/images/tat-song-2g-thiet-bi-dinh-vi-dong-ho-tre-em-mat-song-2026/dong-ho-dinh-vi-tre-em-kidcare-sight-s25-4g.jpg" alt="Dong ho dinh vi tre em Kidcare Sight S25 ho tro 4G ba mau dat tren cat" loading="lazy" width="1600" height="900">
-  <figcaption>Kidcare Sight S25, một mẫu đồng hồ định vị trẻ em hỗ trợ gọi video 4G/LTE, giá 1.590.000 đồng tại Thế Giới Di Động. Ảnh: Thế Giới Di Động</figcaption>
+  <figcaption>Kidcare Sight S25, một mẫu đồng hồ định vị trẻ em hỗ trợ gọi video 4G/LTE, giá 1.740.000 đồng tại Thế Giới Di Động. Ảnh: Thế Giới Di Động</figcaption>
 </figure>
 
-Nhóm đáng lo nhất về hệ quả là đồng hồ định vị trẻ em. Phụ huynh mua thiết bị này để có một kênh liên lạc dự phòng khi con chưa dùng điện thoại, nên việc nó ngừng hoạt động mà không báo trước là rủi ro thật chứ không chỉ là bất tiện. Mẫu đời cũ chạy nền 2G mất cả định vị lẫn nghe gọi hai chiều cùng lúc. Mẫu hỗ trợ 4G thì không bị ảnh hưởng, và giá không cao: Kidcare Sight S25 đang bán 1.590.000 đồng (giá gốc 1.790.000 đồng) tại Thế Giới Di Động, trang thông số ghi rõ hỗ trợ cuộc gọi video 4G/LTE, dùng Nano SIM.
+Nhóm đáng lo nhất về hệ quả là đồng hồ định vị trẻ em. Phụ huynh mua thiết bị này để có một kênh liên lạc dự phòng khi con chưa dùng điện thoại, nên việc nó ngừng hoạt động mà không báo trước là rủi ro thật chứ không chỉ là bất tiện. Mẫu đời cũ chạy nền 2G mất cả định vị lẫn nghe gọi hai chiều cùng lúc. Mẫu hỗ trợ 4G thì không bị ảnh hưởng, và giá không cao: Kidcare Sight S25 đang bán 1.740.000 đồng tại Thế Giới Di Động, trang thông số ghi rõ hỗ trợ cuộc gọi video 4G/LTE, dùng Nano SIM.
 
 ## Giai đoạn chuyển tiếp đã kết thúc, không còn gia hạn
 
@@ -113,12 +113,12 @@ Tin tốt là thiết bị thay thế 4G không đắt hơn nhiều so với đ�
   <figcaption>Bộ định vị xe máy Smart Motor S1 bản 4G của Viettel, dùng để thay thiết bị Smart Motor 2G cũ. Ảnh: đại lý Smart Motor Viettel</figcaption>
 </figure>
 
-Với đồng hồ trẻ em, các mẫu Kidcare hỗ trợ 4G trên Thế Giới Di Động có giá từ 1.590.000 đồng (Sight S25) tới 2.100.000 đồng (Sight S1) tùy tính năng. Khi mua, nên áp dụng ba bước. Thứ nhất, đọc trang thông số của nơi bán lớn hoặc của nhà mạng thay vì chỉ tin dòng chữ in trên bao bì. Thứ hai, với hàng giá rẻ không rõ nguồn gốc, hỏi thẳng người bán tên mô đun kết nối bên trong, và coi mức giá thấp bất thường là dấu hiệu cảnh báo chứ không phải món hời. Thứ ba, ưu tiên nơi có chính sách đổi trả rõ ràng để còn đường lui nếu thiết bị không kết nối được sau khi lắp SIM.
+Với đồng hồ trẻ em, các mẫu Kidcare hỗ trợ 4G trên Thế Giới Di Động có giá từ 1.350.000 đồng (S6 4G) tới 2.100.000 đồng (Sight S1) tùy tính năng. Khi mua, nên áp dụng ba bước. Thứ nhất, đọc trang thông số của nơi bán lớn hoặc của nhà mạng thay vì chỉ tin dòng chữ in trên bao bì. Thứ hai, với hàng giá rẻ không rõ nguồn gốc, hỏi thẳng người bán tên mô đun kết nối bên trong, và coi mức giá thấp bất thường là dấu hiệu cảnh báo chứ không phải món hời. Thứ ba, ưu tiên nơi có chính sách đổi trả rõ ràng để còn đường lui nếu thiết bị không kết nối được sau khi lắp SIM.
 
 Một lưu ý dành cho người vừa đổi điện thoại: máy hỗ trợ 4G vẫn có thể không gọi được nếu chưa bật gọi thoại qua mạng dữ liệu. Trường hợp này khác hẳn với việc thiết bị không có phần cứng 4G và xử lý được bằng cài đặt, các bước cụ thể nằm ở bài [cách bật VoLTE trước ngày tắt sóng 2G](/articles/cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026.html). Nếu cần đổi hẳn máy, các lựa chọn điện thoại 4G giá rẻ đã được tổng hợp ở bài [điện thoại 4G thay máy 2G giá từ 400.000 đồng](/articles/dien-thoai-4g-thay-may-2g-truoc-15-9-2026-gia-tu-400-nghin.html).
 
 Nhìn tổng thể, việc tắt 2G là bước đi hợp lý về hạ tầng và đã được báo trước nhiều năm. Điều đáng tiếc là truyền thông xoay quanh nó gần như chỉ nói tới chiếc điện thoại, trong khi thiết bị cắm SIM không phải điện thoại nằm ở những chỗ ít ai kiểm tra định kỳ. Bối cảnh chung của đợt chuyển đổi này được tổng hợp ở bài [Tắt sóng 2G: ai bị ảnh hưởng và cần làm gì](/articles/tat-song-2g-15-9-2026-ai-bi-anh-huong-can-lam-gi.html).
 
 <div class="art-callout">
-  💡 <strong>Lưu ý:</strong> Mốc thời gian trong bài lấy từ thông báo của Bộ Khoa học và Công nghệ và các nhà mạng. Giá thiết bị lấy từ shop.viettel.vn, đại lý Smart Motor và Thế Giới Di Động ngày 30/9/2026, có thể thay đổi theo khuyến mãi và khu vực. Mỗi hãng thiết bị có chính sách hỗ trợ đổi máy khác nhau, hãy liên hệ nơi bán hoặc nhà cung cấp dịch vụ giám sát để xác nhận tình trạng thiết bị cụ thể.
+  💡 <strong>Lưu ý:</strong> Mốc thời gian trong bài lấy từ thông báo của Bộ Khoa học và Công nghệ và các nhà mạng. Giá thiết bị lấy từ shop.viettel.vn và đại lý Smart Motor ngày 30/9/2026, giá Thế Giới Di Động đọc ngày 4/10/2026, có thể thay đổi theo khuyến mãi và khu vực. Mỗi hãng thiết bị có chính sách hỗ trợ đổi máy khác nhau, hãy liên hệ nơi bán hoặc nhà cung cấp dịch vụ giám sát để xác nhận tình trạng thiết bị cụ thể.
 </div>
