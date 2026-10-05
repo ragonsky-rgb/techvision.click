@@ -2,7 +2,7 @@
 
 > Trạng thái: **DỰNG 05/10/2026** trên Mac, kiểu linh vật con chip bố cục mới (linh vật NHỎ góc dưới phải, ảnh/clip thật TO 960x680).
 > Trang dựng: `techvision-video-kit/mascot/pages/worlds1007.html`; giọng + tiếng: `techvision-video-kit/scripts/build_worlds.py` (nhạc Cinematic_Electro__BPM150, -19 dB).
-> Đăng: CHƯA. Facebook chỉ hẹn khi anh Long nói "đăng"; TikTok + YouTube anh tự hẹn.
+> **Facebook Reels ĐÃ HẸN 07/10/2026 19:00** (video_id 973445065776865, https://www.facebook.com/reel/973445065776865, anh Long nói "đăng" 05/10). TikTok + YouTube: anh Long tự hẹn.
 
 - Series A "Đừng bị con số đánh lừa": con số 15/10 trên lịch là giờ Mỹ, người xem Việt Nam phải dậy lúc 1h sáng 16/10.
 - Bài web ăn theo: https://techvision.click/articles/worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau.html (hẹn 06/10 08:30).
