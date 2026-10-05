@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chuẩn thiết kế TechVision</title>
+<meta name="description" content="Chuẩn màu, chữ, thành phần và luật dựng video dùng chung cho web và kênh video TechVision.">
+<meta name="robots" content="noindex, follow">
+<meta name="theme-color" content="#c0392b">
+<link rel="canonical" href="https://techvision.click/styleguide.html">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Be+Vietnam+Pro:wght@400;500;600;700&family=Barlow+Condensed:ital,wght@0,700;0,900;1,900&family=IBM+Plex+Mono:wght@700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f5f2ed;--surface:#efe9e0;--text:#1c1a17;--accent:#c0392b;--muted:rgba(28,26,23,.82);--dim:rgba(28,26,23,.66);--line:rgba(28,26,23,.10);
+  --gold:#e3b04b;--buy:#2e7d32;--wait:#e09b00;--skip:#6b665e;
+  --serif:'Lora',Georgia,serif;--sans:'Be Vietnam Pro',-apple-system,BlinkMacSystemFont,sans-serif;
+  --display:'Barlow Condensed',Arial Narrow,sans-serif;--mono:'IBM Plex Mono',Menlo,monospace;
+  --r-card:10px;--r-tag:20px;--ease:cubic-bezier(.2,.8,.2,1)}
+body.dark{--bg:#111010;--surface:#1a1918;--text:#f0ede8;--accent:#e5604f;--muted:rgba(240,237,232,.88);--dim:rgba(240,237,232,.62);--line:rgba(240,237,232,.10)}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font:400 16px/1.65 var(--sans);transition:background .25s var(--ease),color .25s var(--ease)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+a{color:var(--accent)}
+:focus-visible{outline:3px solid var(--accent);outline-offset:3px;border-radius:4px}
+.wrap{max-width:1080px;margin:0 auto;padding:0 16px}
+header.top{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;align-items:center;gap:12px;min-height:60px}
+.logo{font:700 1.15rem var(--sans);text-decoration:none;color:var(--text)}.logo b{color:var(--accent)}
+.top nav{margin-left:auto;display:flex;gap:4px;overflow-x:auto}
+.top nav a{font-size:.85rem;color:var(--muted);text-decoration:none;padding:10px 10px;min-height:44px;display:inline-flex;align-items:center;border-radius:8px;white-space:nowrap}
+.top nav a:hover{color:var(--accent)}
+.btn{font:600 .9rem var(--sans);min-height:44px;padding:0 18px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--text);cursor:pointer;display:inline-flex;align-items:center;gap:8px;transition:border-color .15s var(--ease),background .15s var(--ease)}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:#c0392b;border-color:#c0392b;color:#fff}.btn.primary:hover{background:#a93226}
+.btn svg{width:18px;height:18px}
+#theme{white-space:nowrap}
+@media (max-width:640px){#theme span{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}#theme{padding:0 13px}.top nav{display:none}}
+.hero{padding-top:56px;padding-bottom:28px}
+.eyebrow{font:700 .7rem var(--sans);letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
+h1{font:700 clamp(2rem,5vw,3.1rem)/1.12 var(--serif);margin:.4rem 0 .8rem;text-wrap:balance}
+.lead{font-size:1.08rem;color:var(--muted);max-width:68ch}
+.meta{font-size:.82rem;color:var(--dim);margin-top:.8rem}
+section{padding:40px 0;border-top:1px solid var(--line)}
+h2{font:700 1.7rem/1.2 var(--serif);margin-bottom:.4rem}
+h3{font:600 1.05rem var(--sans);margin:1.6rem 0 .7rem}
+.sub{color:var(--muted);max-width:70ch;margin-bottom:1.2rem}
+.grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-card);padding:16px}
+.principle h3{margin:0 0 .3rem;display:flex;gap:8px;align-items:center}.principle svg{width:20px;height:20px;color:var(--accent);flex:none}
+.principle p{font-size:.92rem;color:var(--muted)}
+.sw{border-radius:var(--r-card);overflow:hidden;border:1px solid var(--line);background:var(--surface)}
+.sw .chip{height:84px;display:flex;align-items:flex-end;padding:10px 12px;font:600 .95rem var(--sans)}
+.sw .info{padding:10px 12px;font-size:.8rem;line-height:1.5}
+.sw code,code{font:700 .78rem var(--mono)}
+.ratio{display:inline-block;margin-top:4px;font:700 .72rem var(--mono);padding:2px 8px;border-radius:999px}
+.ratio.ok{background:#e3f1e4;color:#1b5e20}.ratio.lg{background:#fff1d0;color:#6b4a00}.ratio.bad{background:#fde3df;color:#8f1d12}
+.type-row{display:grid;grid-template-columns:150px 1fr;gap:12px;align-items:baseline;padding:12px 0;border-bottom:1px solid var(--line)}
+.type-row .k{font:700 .72rem var(--mono);color:var(--dim)}
+@media (max-width:640px){.type-row{grid-template-columns:1fr;gap:2px}}
+/* thành phần bài viết (chép từ _article-style.css / ArticleLayout) */
+.art-callout{background:var(--surface);border-left:3px solid var(--accent);border-radius:0 10px 10px 0;padding:1rem 1.2rem;font-size:.9rem;line-height:1.6}
+.spec-box{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:1.2rem 1.4rem}
+.spec-box-title{font-size:.65rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin-bottom:.8rem}
+.spec-box table{width:100%;border-collapse:collapse;font-size:.88rem}.spec-box td{padding:.45rem 0;border-top:1px solid var(--line)}.spec-box td:first-child{color:var(--dim);width:42%}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.stat{border:1px solid var(--line);border-radius:10px;padding:14px}.stat b{display:block;font-size:1.4rem;color:var(--accent);line-height:1.15}.stat span{font-size:.75rem;color:var(--dim)}
+.tags{display:flex;flex-wrap:wrap;gap:8px}.tag{font-size:.75rem;padding:.35rem .8rem;min-height:32px;display:inline-flex;align-items:center;border-radius:20px;border:1px solid var(--line);color:var(--dim);text-decoration:none}.tag:hover{border-color:var(--accent);color:var(--accent)}
+.read-next{padding:1rem 1.2rem;border:1px solid var(--line);border-left:3px solid var(--accent)}
+.read-next small{display:block;font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.read-next a{font-family:var(--serif);color:var(--text);text-decoration:none}.read-next a::after{content:' →';color:var(--accent)}
+.shop-box{padding:1rem 1.2rem;border:1px solid var(--line);border-left:3px solid #ee4d2d}
+.shop-box .lbl{font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:#ee4d2d;font-weight:700}
+.shop-box .row{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:.6rem 0;border-top:1px solid var(--line);min-height:44px}
+.shop-box .row span:first-child{font-family:var(--serif)}.shop-box .row span:last-child{font-size:.8rem;color:#ee4d2d;font-weight:600;white-space:nowrap}
+.pills{display:flex;flex-wrap:wrap;gap:8px}
+.pill{font:900 1.1rem var(--display);color:#fff;border-radius:12px;padding:6px 14px;opacity:.35}.pill.on{opacity:1;box-shadow:0 0 0 3px var(--bg),0 0 0 5px currentColor}
+/* video */
+.mascot{width:100%;height:auto;border-radius:14px;border:1px solid var(--line);display:block}
+.vframe{aspect-ratio:9/16;width:100%;max-width:300px;border-radius:18px;overflow:hidden;position:relative;color:#fff;
+  background:#18806c radial-gradient(rgba(255,255,255,.16) 1.4px,transparent 1.7px) 0 0/14px 14px}
+.vframe.chaos{background:#7a0f0f repeating-conic-gradient(from 0deg at 50% 45%,rgba(255,255,255,.12) 0 7deg,transparent 7deg 18deg)}
+.vframe .cnt{position:absolute;left:18px;top:62px;font:700 11px var(--mono);letter-spacing:1px}
+.vframe .ttl{position:absolute;left:18px;top:78px;font:900 42px/.9 var(--display);text-transform:uppercase}
+.vframe .sb{position:absolute;left:18px;top:168px;font:700 15px var(--display)}
+.vframe .big{position:absolute;left:0;right:0;top:90px;text-align:center;font:italic 900 56px/.88 var(--display);text-transform:uppercase;color:#ffd400;
+  -webkit-text-stroke:2px #120000;paint-order:stroke fill;text-shadow:0 0 14px #ffd400}
+.vframe .cap{position:absolute;left:12px;right:12px;top:69%;text-align:center;font:700 21px/1.2 var(--display);-webkit-text-stroke:4px #111;paint-order:stroke fill}
+.vframe .cap b{background:#c0392b;border-radius:5px;padding:0 4px;-webkit-text-stroke:0}
+.vframe .safe{position:absolute;inset:7.8% 13% 21.9% 5.5%;border:2px dashed rgba(255,255,255,.75);border-radius:8px}
+.vframe .safe::after{content:"vùng an toàn";position:absolute;right:6px;bottom:4px;font:700 10px var(--mono)}
+.vframe .ui{position:absolute;left:0;right:0;bottom:0;height:21.9%;background:rgba(0,0,0,.35);font:700 10px var(--mono);display:flex;align-items:center;justify-content:center}
+.stag{display:inline-flex;align-items:center;gap:8px;background:#1f1d1a;color:#fff;font:900 1rem var(--display);letter-spacing:.5px;border-radius:999px;padding:5px 14px 5px 6px}
+.stag i{font-style:normal;background:#c0392b;width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center}
+.check{list-style:none;display:grid;gap:8px}.check li{display:flex;gap:10px;align-items:flex-start;font-size:.95rem}.check svg{width:20px;height:20px;color:var(--buy);flex:none;margin-top:3px}
+.fix li svg{color:var(--accent)}
+footer{padding:36px 0 60px;color:var(--dim);font-size:.85rem;border-top:1px solid var(--line)}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="logo" href="/">Tech<b>Vision</b></a>
+  <nav aria-label="Mục lục">
+    <a href="#nguyen-tac">Nguyên tắc</a><a href="#mau">Màu</a><a href="#chu">Chữ</a><a href="#thanh-phan">Thành phần</a><a href="#video">Video</a><a href="#kiem-tra">Kiểm tra</a>
+  </nav>
+  <button class="btn" id="theme" type="button" aria-pressed="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg><span>Nền tối</span>
+  </button>
+</div></header>
+
+<main>
+<div class="wrap hero">
+  <div class="eyebrow">Chuẩn thiết kế · bản 05/10/2026</div>
+  <h1>Một chuẩn chung cho web và video TechVision</h1>
+  <p class="lead">Màu, chữ, thành phần bài viết và luật dựng video dùng chung một nguồn. Số trên trang này đo trực tiếp bằng trình duyệt, đổi nền tối là đo lại.</p>
+  <p class="meta">Nguồn chân lý: <a href="/design/tokens.json"><code>/design/tokens.json</code></a> · tài liệu <code>docs/DESIGN-SYSTEM.md</code> · trang này không lập chỉ mục.</p>
+</div>
+
+<section id="nguyen-tac"><div class="wrap">
+  <h2>Nguyên tắc</h2>
+  <p class="sub">Học cách nghĩ của các hãng làm giao diện giỏi, không chép tài sản của ai: không font SF Pro, không icon SF Symbols, không mã màu của trang hãng khác.</p>
+  <div class="grid">
+    <div class="card principle"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3v18h18"/><path d="m7 15 4-4 4 4 5-6"/></svg><span>Con số là nhân vật chính</h3><p>Giá, ngày, thông số đặt to và đỏ. Mọi thứ khác lùi lại để số được đọc trước.</p></div>
+    <div class="card principle"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-5-5L5 21"/></svg>Ảnh thật trước</h3><p>Ảnh, clip sản phẩm thật luôn to. Linh vật chip chỉ là vai phụ dẫn dắt.</p></div>
+    <div class="card principle"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 6h20M2 12h20M2 18h12"/></svg>Ấm và tin cậy</h3><p>Nền giấy ấm, tiêu đề serif như báo in, thân bài sans dễ đọc trên điện thoại.</p></div>
+    <div class="card principle"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Chuyển động có chủ đích</h3><p>Web chuyển nhẹ 150-250ms và tôn trọng chế độ giảm chuyển động. Video: calm chậm, chaos mạnh nhưng ngắn.</p></div>
+  </div>
+</div></section>
+
+<section id="mau"><div class="wrap">
+  <h2>Màu</h2>
+  <p class="sub">Chữ thường cần từ 4,5:1, chữ lớn (từ 24px, hoặc 19px đậm) cần từ 3:1. Nhãn xanh là đạt AA, vàng là chỉ đạt cho chữ lớn, đỏ là không đạt.</p>
+  <h3>Web</h3>
+  <div class="grid" id="web-sw">
+    <div class="sw"><div class="chip" style="background:var(--bg);color:var(--text)" data-fg="--text" data-bg="--bg">Chữ trên nền</div><div class="info"><code>--text</code> / <code>--bg</code><br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:var(--bg);color:var(--accent)" data-fg="--accent" data-bg="--bg">Đỏ nhận diện</div><div class="info"><code>--accent</code> trên <code>--bg</code><br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:#c0392b;color:#fff" data-fg="#ffffff" data-bg="#c0392b">Nút chính</div><div class="info">trắng trên <code>#c0392b</code><br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:var(--bg);color:var(--muted)" data-fg="--muted" data-bg="--bg">Chữ phụ</div><div class="info"><code>--muted</code><br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:var(--bg);color:var(--dim)" data-fg="--dim" data-bg="--bg">Chú thích, ngày</div><div class="info"><code>--dim</code> (chuẩn mới 0,66)<br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:var(--surface);color:var(--text)" data-fg="--text" data-bg="--surface">Khung, hộp</div><div class="info"><code>--surface</code><br><span class="ratio"></span></div></div>
+  </div>
+  <h3>Màu nghĩa</h3>
+  <div class="grid">
+    <div class="sw"><div class="chip" style="background:var(--buy);color:#fff" data-fg="#ffffff" data-bg="#2e7d32">NÊN MUA</div><div class="info"><code>#2e7d32</code><br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:var(--wait);color:#1c1a17" data-fg="#1c1a17" data-bg="#e09b00">ĐỢI</div><div class="info"><code>#e09b00</code> chữ đen<br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:var(--skip);color:#fff" data-fg="#ffffff" data-bg="#6b665e">BỎ QUA</div><div class="info"><code>#6b665e</code><br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:#e3b04b;color:#1c1a17" data-fg="#1c1a17" data-bg="#e3b04b">Vàng pin</div><div class="info"><code>#e3b04b</code>, không làm chữ trên đỏ<br><span class="ratio"></span></div></div>
+  </div>
+</div></section>
+
+<section id="chu"><div class="wrap">
+  <h2>Chữ</h2>
+  <p class="sub">Web dùng Lora cho tiêu đề và Be Vietnam Pro cho thân bài. Video dùng Barlow Condensed và IBM Plex Mono. Tất cả đều là font giấy phép mở, đủ dấu tiếng Việt.</p>
+  <div class="type-row"><span class="k">Lora 700 · H1</span><span style="font:700 2.2rem/1.15 var(--serif)">iPhone 18 Pro Max ở Việt Nam đắt hơn Mỹ bao nhiêu?</span></div>
+  <div class="type-row"><span class="k">Lora 700 · H2</span><span style="font:700 1.5rem/1.2 var(--serif)">Giá tại Việt Nam và có nên mua</span></div>
+  <div class="type-row"><span class="k">Be Vietnam Pro 400 · thân</span><span>Trang Xiaomi Việt Nam niêm yết từ 1.390.000đ ngày 4/10/2026, bảo hành 12 tháng.</span></div>
+  <div class="type-row"><span class="k">Be Vietnam Pro 700 · nhãn</span><span class="eyebrow">Công nghệ · Đánh giá</span></div>
+  <div class="type-row"><span class="k">Barlow Condensed 900 · video</span><span style="font:900 3rem/.9 var(--display);text-transform:uppercase">Tắt sóng 2G</span></div>
+  <div class="type-row"><span class="k">IBM Plex Mono 700 · bộ đếm</span><span style="font:700 1rem var(--mono);letter-spacing:2px">01 / 04 · 0H 16/9/2026</span></div>
+</div></section>
+
+<section id="thanh-phan"><div class="wrap">
+  <h2>Thành phần bài viết</h2>
+  <p class="sub">Đúng lớp CSS đang chạy trong bài (<code>ArticleLayout.astro</code>, <code>_article-style.css</code>). Vùng bấm tối thiểu 44px trên điện thoại.</p>
+  <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(300px,1fr))">
+    <div class="art-callout"><strong>Tóm lại:</strong> giá trị thật nằm ở độ mỏng 6mm và nặng 98g, không nằm ở dung lượng.</div>
+    <div class="spec-box"><div class="spec-box-title">Thông số chính hãng</div><table><tr><td>Dung lượng</td><td>5.000mAh</td></tr><tr><td>Sạc không dây</td><td>15W, iPhone 7,5W</td></tr><tr><td>Giá Việt Nam</td><td>từ 1.390.000đ</td></tr></table></div>
+    <div class="stats"><div class="stat"><b>6mm</b><span>độ dày theo hãng</span></div><div class="stat"><b>1.390.000đ</b><span>giá khởi điểm</span></div></div>
+    <div class="read-next"><small>Đọc tiếp</small><a href="#thanh-phan">Sạc dự phòng lên máy bay: quy định mới và cách tính Wh</a></div>
+    <div class="shop-box"><div class="lbl">Mua ở đâu</div><div class="row"><span>Xiaomi UltraThin 5000</span><span>Xem trên Shopee Mall</span></div></div>
+    <div><div class="tags"><a class="tag" href="#thanh-phan">Xiaomi</a><a class="tag" href="#thanh-phan">Sạc dự phòng</a><a class="tag" href="#thanh-phan">iPhone</a></div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px"><a class="btn primary" href="#thanh-phan">Đọc bài</a><button class="btn" type="button">Nút phụ</button></div></div>
+  </div>
+  <h3>Series video và nút kết luận</h3>
+  <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center">
+    <span class="stag"><i>#</i>ĐỪNG BỊ CON SỐ ĐÁNH LỪA</span><span class="stag"><i>?</i>NÊN MUA · ĐỢI · BỎ QUA</span>
+    <span class="pills"><span class="pill on" style="background:var(--buy);color:#fff">NÊN MUA</span><span class="pill" style="background:var(--wait);color:#1c1a17">ĐỢI</span><span class="pill" style="background:var(--skip)">BỎ QUA</span></span>
+  </div>
+</div></section>
+
+<section id="video"><div class="wrap">
+  <h2>Video: linh vật chip, calm và chaos</h2>
+  <p class="sub">Khung dọc 1080x1920, 30 hình/giây, giọng anh Long tua 1,2x, âm lượng -14 LUFS. Linh vật dựng bằng code (<code>techvision-video-kit/mascot/engine.js</code>), giống hệt nhau ở mọi cảnh.</p>
+  <img class="mascot" src="/design/linh-vat-chip.jpg" width="1500" height="500" alt="Linh vật TechVision hình con chip đỏ có mạch vàng, chân pin vàng và đèn LED trên đầu, ở ba trạng thái: bình thường, vui, mất sóng">
+  <div class="grid" style="margin-top:14px">
+    <div class="card"><h3 style="margin-top:0">Linh vật là vai phụ</h3><p style="font-size:.92rem;color:var(--muted)">Linh vật nhỏ, đứng góc phản ứng. Ảnh hoặc clip sản phẩm thật chiếm phần lớn khung, luôn ghi nguồn.</p></div>
+    <div class="card"><h3 style="margin-top:0">Biểu cảm</h3><p style="font-size:.92rem;color:var(--muted)">Mắt: thường, vui ^ ^, lo lắng, nhắm &gt; &lt;, hoảng. Đèn LED: vàng có sóng là ổn, nháy đỏ là báo động, tắt là mất sóng.</p></div>
+    <div class="card"><h3 style="margin-top:0">Calm rồi chaos</h3><p style="font-size:.92rem;color:var(--muted)">Calm: nền phẳng chấm, máy quay đẩy chậm, tiêu đề góc trên. Chaos: zoom giật, tia sáng, chữ nghiêng phát sáng, không quá 3 giây.</p></div>
+  </div>
+  <h3>Màu chương (đã đo với chữ trên nền)</h3>
+  <div class="grid">
+    <div class="sw"><div class="chip" style="background:#18806c;color:#fff" data-fg="#ffffff" data-bg="#18806c">Xanh ngọc</div><div class="info"><code>#18806c</code> (cũ #2fa58f chỉ 3,04:1)<br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:#e3a92f;color:#1c1a17" data-fg="#1c1a17" data-bg="#e3a92f">Vàng mù tạt</div><div class="info"><code>#e3a92f</code> chữ đen<br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:#2f7cc4;color:#fff" data-fg="#ffffff" data-bg="#2f7cc4">Xanh dương</div><div class="info"><code>#2f7cc4</code><br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:#f3eee3;color:#1c1a17" data-fg="#1c1a17" data-bg="#f3eee3">Kem kết</div><div class="info"><code>#f3eee3</code><br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:#7a0f0f;color:#ffd400" data-fg="#ffd400" data-bg="#7a0f0f">Chaos đỏ</div><div class="info">chữ <code>#ffd400</code><br><span class="ratio"></span></div></div>
+    <div class="sw"><div class="chip" style="background:#1f7a34;color:#b7ff5a" data-fg="#b7ff5a" data-bg="#1f7a34">Chaos xanh</div><div class="info">chữ <code>#b7ff5a</code><br><span class="ratio"></span></div></div>
+  </div>
+  <h3>Bố cục khung dọc</h3>
+  <div style="display:flex;flex-wrap:wrap;gap:16px">
+    <div class="vframe" role="img" aria-label="Khung calm: bộ đếm, tiêu đề góc trái trên, phụ đề nhảy chữ, vùng an toàn và vùng nút TikTok che ở dưới">
+      <div class="cnt">01 / 04</div><div class="ttl">Đồng hồ<br>định vị</div><div class="sb">vẫn sáng đèn</div>
+      <div class="cap">vẫn sáng <b>đèn,</b> nhưng</div><div class="safe"></div><div class="ui">nút TikTok che</div></div>
+    <div class="vframe chaos" role="img" aria-label="Khung chaos: chữ lớn nghiêng phát sáng màu vàng trên nền đỏ có tia sáng">
+      <div class="big">Tắt sóng<br>2G</div><div class="cap">sóng <b>2G</b> ngừng phát</div><div class="ui">nút TikTok che</div></div>
+  </div>
+</div></section>
+
+<section id="kiem-tra"><div class="wrap">
+  <h2>Kiểm tra trước khi giao</h2>
+  <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(300px,1fr))">
+    <div><h3>Web</h3><ul class="check">
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Chụp thật ở 390px và 1280px (<code>scripts/shot.mjs</code>), không tràn ngang.</span></li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Chữ thường từ 4,5:1, cả nền sáng lẫn nền tối.</span></li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Vùng bấm từ 44px, có focus nhìn thấy được.</span></li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Icon là SVG (Lucide), không dùng emoji làm icon trong giao diện.</span></li>
+    </ul></div>
+    <div><h3>Video</h3><ul class="check">
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Duyệt bằng tờ ảnh 16 khung trước khi dựng bản cuối.</span></li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Chữ nằm trong vùng an toàn, không đè mặt linh vật hay ảnh sản phẩm.</span></li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Whisper soát số và tên riêng, -14 LUFS, ghi nguồn mọi ảnh thật.</span></li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg><span>Không em-dash, xưng "em" khi gọi người xem là "anh chị".</span></li>
+    </ul></div>
+  </div>
+  <h3>Đã đo trên web đang chạy, cần sửa</h3>
+  <ul class="check fix">
+    <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg><span><code>--dim</code> đang là 0,58 (4,12:1, dùng cho chú thích ảnh, ngày đăng). Chuẩn mới 0,66 (5,34:1).</span></li>
+    <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg><span>Nền tối vẫn dùng đỏ <code>#c0392b</code> cho link (3,49:1). Chuẩn mới đổi sang <code>#e5604f</code> khi nền tối (5,53:1).</span></li>
+  </ul>
+</div></section>
+</main>
+<footer><div class="wrap">TechVision · chuẩn thiết kế dùng chung web và video · cập nhật 05/10/2026</div></footer>
+
+<script>
+(function () {
+  const root = document.documentElement, body = document.body;
+  function rgb(str) { const m = str.match(/[\d.]+/g).map(Number); return { r: m[0], g: m[1], b: m[2], a: m.length > 3 ? m[3] : 1 }; }
+  function resolve(v) {
+    if (v.startsWith('--')) { const p = document.createElement('span'); p.style.color = 'var(' + v + ')'; body.appendChild(p); const c = getComputedStyle(p).color; p.remove(); return rgb(c); }
+    const p = document.createElement('span'); p.style.color = v; body.appendChild(p); const c = getComputedStyle(p).color; p.remove(); return rgb(c);
+  }
+  function lum(c) { const f = (x) => { x /= 255; return x <= 0.03928 ? x / 12.92 : Math.pow((x + 0.055) / 1.055, 2.4); }; return 0.2126 * f(c.r) + 0.7152 * f(c.g) + 0.0722 * f(c.b); }
+  function measure() {
+    document.querySelectorAll('[data-fg]').forEach((el) => {
+      const bg = resolve(el.dataset.bg); let fg = resolve(el.dataset.fg);
+      if (fg.a < 1) fg = { r: fg.r * fg.a + bg.r * (1 - fg.a), g: fg.g * fg.a + bg.g * (1 - fg.a), b: fg.b * fg.a + bg.b * (1 - fg.a) };
+      const a = lum(fg), b = lum(bg), r = (Math.max(a, b) + 0.05) / (Math.min(a, b) + 0.05);
+      const badge = el.parentElement.querySelector('.ratio'); if (!badge) return;
+      badge.textContent = r.toFixed(2).replace('.', ',') + ':1 · ' + (r >= 4.5 ? 'đạt AA' : r >= 3 ? 'chỉ chữ lớn' : 'không đạt');
+      badge.className = 'ratio ' + (r >= 4.5 ? 'ok' : r >= 3 ? 'lg' : 'bad');
+    });
+  }
+  const btn = document.getElementById('theme');
+  let dark = false;
+  try { dark = localStorage.getItem('tv-sg-dark') === '1'; } catch (e) {}
+  function apply() { body.classList.toggle('dark', dark); btn.setAttribute('aria-pressed', String(dark)); btn.querySelector('span').textContent = dark ? 'Nền sáng' : 'Nền tối'; measure(); }
+  btn.addEventListener('click', () => { dark = !dark; try { localStorage.setItem('tv-sg-dark', dark ? '1' : '0'); } catch (e) {} apply(); });
+  apply();
+  document.fonts && document.fonts.ready.then(measure);
+})();
+</script>
+</body>
+</html>
