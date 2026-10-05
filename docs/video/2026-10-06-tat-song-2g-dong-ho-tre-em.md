@@ -1,6 +1,7 @@
 # Video: Tắt sóng 2G, đồng hồ định vị của con còn sóng không? (series B, đăng T3 06/10/2026)
 
-> Trạng thái: **DỰNG XONG 05/10/2026 12:00** trên Mac (`techvision-video-kit/scripts/build_2g.py`, khuôn real_mix), 40,2 giây gồm intro B 1,5s, -14,0 LUFS / đỉnh -1,4 dBTP. Chưa đăng kênh nào.
+> Trạng thái: **DỰNG XONG 05/10/2026 12:00** trên Mac (`techvision-video-kit/scripts/build_2g.py`, khuôn real_mix), 40,2 giây gồm intro B 1,5s, -14,0 LUFS / đỉnh -1,4 dBTP. 
+> **05/10 anh chọn bản LINH VẬT CON CHIP** (`2026-10-06 TechVision - tat-song-2g-linh-vat.mp4`, dựng `techvision-video-kit/mascot/pages/2g1006.html`). **Facebook Reels ĐÃ HẸN 06/10/2026 19:00** (video_id 1863649738330129, https://www.facebook.com/reel/1863649738330129). TikTok + YouTube: anh Long tự hẹn.
 > File: `00 - VIDEO XONG/2026-10-06 TechVision - tat-song-2g-dong-ho-tre-em.mp4` (30 MB, bản cao nhất) + `_ban-nhe-10MB/` (9 MB). Thumbnail: `out/series/2g1006-thumb-ngang.jpg` / `-doc.jpg` (B, sáng nút NÊN MUA).
 > Trend: chưa duyệt nên dựng thẳng, không áp.
 
