@@ -121,7 +121,7 @@ footer{padding:36px 0 60px;color:var(--dim);font-size:.85rem;border-top:1px soli
   <p class="sub">Học cách nghĩ của các hãng làm giao diện giỏi, không chép tài sản của ai: không font SF Pro, không icon SF Symbols, không mã màu của trang hãng khác.</p>
   <div class="grid">
     <div class="card principle"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3v18h18"/><path d="m7 15 4-4 4 4 5-6"/></svg><span>Con số là nhân vật chính</h3><p>Giá, ngày, thông số đặt to và đỏ. Mọi thứ khác lùi lại để số được đọc trước.</p></div>
-    <div class="card principle"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-5-5L5 21"/></svg>Ảnh thật trước</h3><p>Ảnh, clip sản phẩm thật luôn to. Linh vật chip chỉ là vai phụ dẫn dắt.</p></div>
+    <div class="card principle"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-5-5L5 21"/></svg>Ảnh thật trước</h3><p>Ảnh, clip sản phẩm thật luôn to. Linh vật TV chỉ là vai phụ dẫn dắt.</p></div>
     <div class="card principle"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 6h20M2 12h20M2 18h12"/></svg>Ấm và tin cậy</h3><p>Nền giấy ấm, tiêu đề serif như báo in, thân bài sans dễ đọc trên điện thoại.</p></div>
     <div class="card principle"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Chuyển động có chủ đích</h3><p>Web chuyển nhẹ 150-250ms và tôn trọng chế độ giảm chuyển động. Video: calm chậm, chaos mạnh nhưng ngắn.</p></div>
   </div>
@@ -179,12 +179,19 @@ footer{padding:36px 0 60px;color:var(--dim);font-size:.85rem;border-top:1px soli
 </div></section>
 
 <section id="video"><div class="wrap">
-  <h2>Video: linh vật chip, calm và chaos</h2>
-  <p class="sub">Khung dọc 1080x1920, 30 hình/giây, giọng anh Long tua 1,2x, âm lượng -14 LUFS. Linh vật dựng bằng code (<code>techvision-video-kit/mascot/engine.js</code>), giống hệt nhau ở mọi cảnh.</p>
-  <img class="mascot" src="/design/linh-vat-chip.jpg" width="1500" height="500" alt="Linh vật TechVision hình con chip đỏ có mạch vàng, chân pin vàng và đèn LED trên đầu, ở ba trạng thái: bình thường, vui, mất sóng">
+  <h2>Video: linh vật TV, calm và chaos</h2>
+  <p class="sub">Khung dọc 1080x1920, 30 hình/giây, giọng anh Long tua 1,2x, âm lượng -14 LUFS. Linh vật là chiếc tivi đỏ cổ có ăng-ten, màn hình LED hiện mắt hoặc biểu tượng. Có hai bản giống nhau: ảnh Flow cho hình tĩnh, mô hình 3D dựng bằng code (<code>techvision-video-kit/mascot/engine.js</code>) cho video.</p>
+  <img class="mascot" src="/design/linh-vat-tivi-flow.jpg" width="1200" height="1358" loading="lazy" alt="Linh vật TechVision hình chiếc tivi đỏ cổ có hai ăng-ten, màn hình LED: vẫy chào, chỉ tay, cầm điện thoại, nhảy mừng, và ba biểu tượng kết luận dấu tích xanh, đồng hồ cát vàng, dấu X xám">
+  <p class="sub" style="margin-top:8px">Bản Flow (ảnh tĩnh): ảnh bìa, thumbnail, bài đăng mạng xã hội. Ảnh tạo bằng AI.</p>
+  <img class="mascot" src="/design/linh-vat-tivi-6-goc.jpg" width="1200" height="675" loading="lazy" alt="Linh vật TV đỏ xoay 6 góc nhìn: chính diện, 3/4 trái, nghiêng trái, sau lưng, nghiêng phải, 3/4 phải" style="margin-top:14px">
+  <p class="sub" style="margin-top:8px">Bảng 6 góc nhìn để dựng 3D khớp với bản Flow. Ảnh tạo bằng AI.</p>
+  <img class="mascot" src="/design/linh-vat-tivi-3d.jpg" width="1200" height="600" loading="lazy" alt="Linh vật TV bản 3D dựng bằng code ở 8 tư thế: vẫy chào, chỉ tay, cầm điện thoại, nhảy mừng, dấu tích, đồng hồ cát, dấu X, góc 3/4" style="margin-top:14px">
+  <p class="sub" style="margin-top:8px">Bản 3D (video): cùng tỷ lệ, màu, núm vặn, ăng-ten với bản Flow.</p>
   <div class="grid" style="margin-top:14px">
-    <div class="card"><h3 style="margin-top:0">Linh vật là vai phụ</h3><p style="font-size:.92rem;color:var(--muted)">Linh vật nhỏ, đứng góc phản ứng. Ảnh hoặc clip sản phẩm thật chiếm phần lớn khung, luôn ghi nguồn.</p></div>
-    <div class="card"><h3 style="margin-top:0">Biểu cảm</h3><p style="font-size:.92rem;color:var(--muted)">Mắt: thường, vui ^ ^, lo lắng, nhắm &gt; &lt;, hoảng. Đèn LED: vàng có sóng là ổn, nháy đỏ là báo động, tắt là mất sóng.</p></div>
+    <div class="card"><h3 style="margin-top:0">Linh vật là vai phụ</h3><p style="font-size:.92rem;color:var(--muted)">Linh vật nhỏ, đứng góc dưới phải trên bục. Ảnh hoặc clip sản phẩm thật chiếm phần lớn khung, luôn ghi nguồn.</p></div>
+    <div class="card"><h3 style="margin-top:0">Flow hay 3D</h3><p style="font-size:.92rem;color:var(--muted)">Hình tĩnh (thumbnail, ảnh bìa, bài đăng) dùng bản Flow, ghi "tạo bằng AI". Video dùng bản 3D để cử động và giữ nhân vật giống hệt ở mọi cảnh.</p></div>
+    <div class="card"><h3 style="margin-top:0">Màn hình LED</h3><p style="font-size:.92rem;color:var(--muted)">Mắt: thường, vui ^ ^, nheo, hoảng, lo lắng (có nước mắt), suy nghĩ, nhiễu sóng. Series B thay mắt bằng biểu tượng: dấu tích xanh là nên mua, đồng hồ cát vàng là đợi, dấu X xám là bỏ qua.</p></div>
+    <div class="card"><h3 style="margin-top:0">Ăng-ten</h3><p style="font-size:.92rem;color:var(--muted)">Đầu ăng-ten sáng theo màu biểu tượng. Nháy đỏ là báo động, rũ xuống và tắt là mất sóng.</p></div>
     <div class="card"><h3 style="margin-top:0">Calm rồi chaos</h3><p style="font-size:.92rem;color:var(--muted)">Calm: nền phẳng chấm, máy quay đẩy chậm, tiêu đề góc trên. Chaos: zoom giật, tia sáng, chữ nghiêng phát sáng, không quá 3 giây.</p></div>
   </div>
   <h3>Màu chương (đã đo với chữ trên nền)</h3>
