@@ -7,8 +7,6 @@ category: "Internet"
 type: "tin-tuc"
 datePublished: "2026-10-05T09:00:00+07:00"
 dateModified: "2026-10-05T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Ngày 23/9/2026, Công ty TNHH Amazon Kuiper Việt Nam nhận giấy phép thiết lập mạng viễn thông dùng riêng, trở thành tập đoàn công nghệ Mỹ thứ hai sau SpaceX có giấy phép viễn thông tại Việt Nam. Nhiều nơi đưa tin theo hướng sắp có đối thủ của Starlink, nhưng loại giấy phép này không cho phép bán dịch vụ cho người dùng. Bài này phân biệt rõ hai loại giấy phép, đối chiếu với lộ trình Starlink đã đi, và chỉ ra phần thật sự đáng chú ý: nhà máy thiết bị đầu cuối ở Bắc Ninh."
 heroImage: "https://techvision.click/images/amazon-kuiper-cap-phep-viet-nam-khac-gi-starlink/trao-giay-phep-amazon-kuiper-new-york.jpg"
 heroAlt: "Le trao giay phep thiet lap mang vien thong dung rieng cho Amazon Kuiper Viet Nam tai New York ngay 23/9/2026"

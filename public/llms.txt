@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 279
-- **Cập nhật:** 2026-10-02 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 280
+- **Cập nhật:** 2026-10-05 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Amazon Kuiper được cấp phép tại Việt Nam, khác gì Starlink](https://techvision.click/articles/amazon-kuiper-cap-phep-viet-nam-khac-gi-starlink.html)
 - [iPhone 18 Pro bản 1TB, 2TB dùng bộ nhớ QLC chậm hơn bản 512GB](https://techvision.click/articles/iphone-18-pro-1tb-2tb-bo-nho-qlc-cham-hon-ban-256gb.html)
 - [iPhone Duo đặt trước 16/10: giá Việt Nam, có nên mua?](https://techvision.click/articles/iphone-duo-dat-truoc-16-10-gia-viet-nam-co-nen-mua.html)
 - [iPhone 18 Pro Max cháy hàng tại Việt Nam, bao giờ có máy?](https://techvision.click/articles/iphone-18-pro-max-chay-hang-viet-nam-bao-gio-co-may.html)
@@ -44,7 +45,6 @@
 - [Định danh tài khoản mạng xã hội 28/9: ai phải liên kết VNeID](https://techvision.click/articles/dinh-danh-tai-khoan-mang-xa-hoi-28-9-2026-lien-ket-vneid.html)
 - [Giá iPhone 18 Pro Max Việt Nam đắt hơn Mỹ bao nhiêu?](https://techvision.click/articles/gia-iphone-18-pro-max-viet-nam-dat-hon-my-singapore-bao-nhieu.html)
 - [Giá gói internet 2Gbps: Viettel GIGA 485.000đ, FPT 999.000đ](https://techvision.click/articles/viettel-giga-wifi-7-2gbps-gia-goi-cuoc-so-sanh-fpt-2026.html)
-- [TSW vô địch LCP 2026 Split 3, thắng CFO 3-0 dự Worlds](https://techvision.click/articles/tsw-vo-dich-lcp-2026-split-3-thang-cfo-3-0-hat-giong-worlds.html)
 
 ## Smartphone (72 bài)
 
@@ -283,8 +283,9 @@
 - [macOS 27: sửa Liquid Glass, Safari AI Organize Tabs](https://techvision.click/articles/macos-27-liquid-glass-safari-ai.html)
 - [RTX 5090 Ti 48GB chưa ra mắt: thông số tin đồn, giá dự kiến](https://techvision.click/articles/nvidia-rtx-5090-ti-48gb-gddr7-rumor.html)
 
-## Internet (14 bài)
+## Internet (15 bài)
 
+- [Amazon Kuiper được cấp phép tại Việt Nam, khác gì Starlink](https://techvision.click/articles/amazon-kuiper-cap-phep-viet-nam-khac-gi-starlink.html)
 - [VNeID: tích hợp 5 giấy tờ để được miễn giảm 10 khoản phí](https://techvision.click/articles/vneid-tich-hop-5-giay-to-mien-giam-10-khoan-phi-le-phi-2026.html)
 - [25 kịch bản lừa đảo mạng 2026: nhận biết và cách phòng](https://techvision.click/articles/25-kich-ban-lua-dao-mang-2026-cong-an-canh-bao-cach-phong.html)
 - [Internet Việt Nam vào top 10 thế giới: nhanh cỡ nào?](https://techvision.click/articles/internet-viet-nam-top-10-the-gioi-2026-toc-do-di-dong-co-dinh.html)
