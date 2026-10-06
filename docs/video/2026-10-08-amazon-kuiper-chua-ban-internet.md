@@ -1,6 +1,6 @@
 # Video: Amazon Kuiper có giấy phép ở Việt Nam, nhưng chưa được bán internet (series A, đăng T5 08/10/2026)
 
-> Trạng thái: **DỰNG 05/10/2026** trên Mac. Đây là video đầu tiên dùng **linh vật TV đỏ** (bản 3D, nhỏ ở góc dưới phải) và **giọng VieNeu-TTS** (nhân bản giọng anh Long từ đoạn mẫu 7 giây đã khử ồn, chạy CPU).
+> Trạng thái: **DỰNG 05/10/2026, LÀM LẠI GIỌNG 06/10** trên Mac. Video đầu tiên dùng **linh vật TV đỏ** (bản 3D, nhỏ ở góc dưới phải). Giọng: bản 05/10 đọc bằng VieNeu; 06/10 anh Long nghe so sánh và chốt **OmniVoice + RVC** (OmniVoice đọc với giọng mẫu 20 giây, rồi RVC đổi màu giọng bằng mô hình học từ 38 phút giọng thật của anh, `scripts/rvc_voice.py`; câu 1-3, 6-8 vòng 60, câu 4 vòng 60 index 0,4, câu 5 vòng 40).
 > Trang dựng: `techvision-video-kit/mascot/pages/kuiper1008.html`. Giọng: `scripts/vieneu_voice.py`. Âm thanh: `scripts/build_kuiper.py` (nhạc Soundraw Cinematic Electro, -20 dB).
 > Chưa đăng nền tảng nào. Chờ anh Long nói "đăng".
 
@@ -18,7 +18,7 @@
 7. Điểm đáng chú ý hơn là Amazon đầu tư 570 triệu USD, sản xuất thiết bị đầu cuối ngay tại Bắc Ninh.
 8. Lộ trình và so sánh giá cước, em để chi tiết trong bài trên TechVision.
 
-Whisper soát 8/8 câu, số 1.131.990 nghe đúng. Lưu ý: Whisper nghe "Starlink" thành "Stalin" ở câu 3, 4, 6 (VieNeu đọc chữ tiếng Anh chưa chuẩn), anh nghe lại trước khi đăng.
+Whisper soát 8/8 câu đạt (06/10, bản OmniVoice + RVC), số 1.131.990 nghe đúng. Câu 4 Whisper vẫn có lúc nghe "Starlink" thành "Stalin", anh nghe lại trước khi đăng.
 
 ## Media (out/kuiper1008/media/manifest.json)
 
