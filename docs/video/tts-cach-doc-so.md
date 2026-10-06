@@ -71,6 +71,8 @@ Câu có hai năm (1977 và 1981) nở từ 5,8 lên **7,7 giây**. Clip Flow xu
 | HiLight | `Hai Lai` | |
 | OPPO | `Ốp pồ` | anh Long chốt 25/09/2026 (bản 15/09 ghi "Óp pô"); để nguyên "OPPO" là SAI, video OPPO 25/09 đã dính |
 | Pixel, Pro, RAM, CEO | để nguyên | tên đã quen, đọc đúng sẵn |
+| Pad (Xiaomi Pad 9) | `Pát` | 06/10/2026: để nguyên "Pad chín" thì Whisper nghe Paz/Part/BAT/39 ở 4/8 câu; "Pát chín" rõ |
+| 9.720mAh | `chín nghìn, bảy trăm hai mươi mili ampe giờ` | không có dấu phẩy thì giọng nuốt "nghìn" (nghe "97 2") |
 
 ## 4. Hai bẫy kỹ thuật
 
