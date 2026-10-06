@@ -3,7 +3,7 @@
 > Trạng thái: **DỰNG XONG 06/10/2026 12:52** trên Mac, kiểu linh vật TV nhỏ (ảnh/clip thật TO), giọng **OmniVoice** (giọng mẫu `long-ref-20s.wav`). 45,0 giây gồm intro B 1,5s, -13,9 LUFS / đỉnh -3,1 dBTP.
 > File: `00 - VIDEO XONG/2026-10-09 TechVision - xiaomi-pad-9-nen-doi.mp4` (29 MB, CRF 16) + `_ban-nhe-10MB/` (9,4 MB). Thumbnail: `out/series/xpad1009-thumb-ngang.jpg` / `-doc.jpg` (B, sáng nút ĐỢI).
 > Trang dựng: `techvision-video-kit/mascot/pages/xpad1009.html`. Giọng + tiếng: `techvision-video-kit/scripts/build_xpad.py` (nhạc Soundraw Tropical House 115, -19 dB).
-> Chưa đăng nền tảng nào. Facebook chỉ đăng khi anh Long nói "đăng"; TikTok + YouTube anh Long tự hẹn hoặc nhờ em hẹn qua Chrome.
+> **Facebook Reels ĐÃ HẸN 09/10/2026 19:00** (video_id 1139544965409618, https://www.facebook.com/reel/1139544965409618, anh Long nói "lên lịch luôn" 06/10, chấp nhận vài chỗ đọc chưa ổn). TikTok + YouTube: hẹn qua Chrome cùng giờ.
 
 - Series B "Nên mua · đợi · bỏ qua", kết luận: **ĐỢI** (chưa có giá chính hãng VN, bản nội địa Trung Quốc rủi ro tiếng Việt + Google).
 - Luật một sản phẩm: video chỉ nói Pad 9 / Pad 9 Pro, không nhắc Pad 8 hay máy hãng khác (so sánh để trong bài web).
