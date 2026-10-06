@@ -35,7 +35,7 @@ Lời đọc cho OmniVoice: `techvision-video-kit/out/xpad1009/script_voice.txt`
 
 Whisper soát mix.wav: đủ 8/8 câu, mọi số đúng (11.440.000, 23/9, 9.720mAh, 11.000mAh, 3.799 tệ, 4/10). Bản đầu viết "Pad chín" bị nghe thành Paz/Part/BAT/39 ở 4/8 câu, đổi "Pát chín" thì rõ; pin 9.720 phải ngắt phẩy "chín nghìn, bảy trăm hai mươi" mới không bị nuốt. Chữ "Gen" giọng đọc gần "Ghen" (phụ đề vẫn ghi Gen 4).
 
-**Sửa 06/10 chiều theo anh Long** (sau khi Facebook đã hẹn bản cũ): câu 3-4 đọc lại, inch đọc "chấm" (mười một chấm hai, mười hai chấm năm), thêm "tần số quét" trước 144Hz, Snapdragon viết `Snáp đra gơn`. Bản mới 44,2s + intro. TikTok/YouTube dùng bản mới; Facebook đang hẹn bản cũ.
+**Sửa 06/10 chiều theo anh Long** (sau khi Facebook đã hẹn bản cũ): câu 3-4 đọc lại, inch đọc "chấm" (mười một chấm hai, mười hai chấm năm), thêm "tần số quét" trước 144Hz, Snapdragon viết `Snáp đra gơn`. Bản mới 44,2s + intro. TikTok/YouTube đã hẹn bản mới; Facebook đang hẹn bản cũ (muốn thay thì anh Long tự xoá bài hẹn trong Meta Business Suite, em đăng lại).
 
 ## Media (out/xpad1009/media/manifest.json, trợ lý con gom 06/10)
 
