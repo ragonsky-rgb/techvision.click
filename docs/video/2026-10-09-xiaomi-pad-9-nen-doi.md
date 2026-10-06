@@ -24,7 +24,7 @@
 
 1. Xiaomi Pad 9 quy đổi chỉ khoảng 11,44 triệu đồng, nhưng anh chị đừng vội đặt hàng xách tay.
 2. Ngày 23/9, Xiaomi ra mắt Pad 9 và Pad 9 Pro tại Trung Quốc.
-3. Pad 9 có màn 11,2 inch 3.2K, 144Hz, chip Snapdragon 8s Gen 4, pin 9.720mAh.
+3. Pad 9 có màn 11,2 inch 3.2K, tần số quét 144Hz, chip Snapdragon 8s Gen 4, và viên pin 9.720mAh.
 4. Pad 9 Pro lên 12,5 inch, Snapdragon 8 Gen 5, pin 11.000mAh, giá từ 3.799 tệ.
 5. Nhưng đó là giá Trung Quốc quy đổi. Tới ngày 4/10, chưa bản Pad 9 nào có giá chính hãng ở Việt Nam.
 6. Hàng xách tay bản nội địa chạy hệ điều hành khác bản quốc tế, phải kiểm tiếng Việt và dịch vụ Google trước khi mua.
@@ -34,6 +34,8 @@
 Lời đọc cho OmniVoice: `techvision-video-kit/out/xpad1009/script_voice.txt` (số viết thành chữ, Hz = "Héc", mAh = "mili ampe giờ", **Pad = "Pát"**).
 
 Whisper soát mix.wav: đủ 8/8 câu, mọi số đúng (11.440.000, 23/9, 9.720mAh, 11.000mAh, 3.799 tệ, 4/10). Bản đầu viết "Pad chín" bị nghe thành Paz/Part/BAT/39 ở 4/8 câu, đổi "Pát chín" thì rõ; pin 9.720 phải ngắt phẩy "chín nghìn, bảy trăm hai mươi" mới không bị nuốt. Chữ "Gen" giọng đọc gần "Ghen" (phụ đề vẫn ghi Gen 4).
+
+**Sửa 06/10 chiều theo anh Long** (sau khi Facebook đã hẹn bản cũ): câu 3-4 đọc lại, inch đọc "chấm" (mười một chấm hai, mười hai chấm năm), thêm "tần số quét" trước 144Hz, Snapdragon viết `Snáp đra gơn`. Bản mới 44,2s + intro. TikTok/YouTube dùng bản mới; Facebook đang hẹn bản cũ.
 
 ## Media (out/xpad1009/media/manifest.json, trợ lý con gom 06/10)
 

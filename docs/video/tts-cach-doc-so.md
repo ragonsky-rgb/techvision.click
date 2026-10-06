@@ -73,6 +73,9 @@ Câu có hai năm (1977 và 1981) nở từ 5,8 lên **7,7 giây**. Clip Flow xu
 | Pixel, Pro, RAM, CEO | để nguyên | tên đã quen, đọc đúng sẵn |
 | Pad (Xiaomi Pad 9) | `Pát` | 06/10/2026: để nguyên "Pad chín" thì Whisper nghe Paz/Part/BAT/39 ở 4/8 câu; "Pát chín" rõ |
 | 9.720mAh | `chín nghìn, bảy trăm hai mươi mili ampe giờ` | không có dấu phẩy thì giọng nuốt "nghìn" (nghe "97 2") |
+| Snapdragon | `Snáp đra gơn` | anh Long nghe 06/10/2026: để nguyên chữ thì "đọc chưa rõ"; `Snáp đra gơn` Whisper ra đúng "Snapdragon" 2/2, còn `Xnáp đờ ra gông` ra "XNABD Dragon" |
+| 11,2 inch / 12,5 inch (số lẻ kích thước màn) | `mười một chấm hai inch` | anh Long chốt 06/10/2026: kích thước màn đọc **"chấm"**, KHÔNG "phẩy" (giá tiền/tỷ lệ vẫn "phẩy") |
+| 144Hz đứng sau độ phân giải | `tần số quét một trăm bốn mươi bốn Héc` | đứng trần sau "ba chấm hai K" anh Long nghe không ổn; thêm "tần số quét" thì rõ, phụ đề thêm chữ cho khớp |
 
 ## 4. Hai bẫy kỹ thuật
 
