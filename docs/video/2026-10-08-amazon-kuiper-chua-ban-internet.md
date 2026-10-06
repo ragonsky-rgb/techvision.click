@@ -13,7 +13,7 @@
 2. Đây là giấy phép mạng dùng riêng, để thử nghiệm thiết bị đầu cuối sản xuất tại Việt Nam.
 3. Muốn bán internet, Amazon phải đi lại con đường của Starlink: được cho thí điểm, rồi mới xin giấy phép cung cấp dịch vụ.
 4. Starlink mất khoảng 17 tháng, từ quyết định thí điểm tới ngày nhận đơn của người dùng.
-5. Chòm vệ tinh Amazon Leo cũng mới có 396 chiếc trên quỹ đạo, trong khi mục tiêu là hơn 3.200.
+5. Chòm vệ tinh Amazon Leo cũng mới có 396 chiếc trên quỹ đạo, trong khi mục tiêu là hơn 3.200 chiếc.
 6. Còn giá thì gói Starlink rẻ nhất ở Việt Nam vẫn là 1.131.990 đồng mỗi tháng.
 7. Điểm đáng chú ý hơn là Amazon đầu tư 570 triệu USD, sản xuất thiết bị đầu cuối ngay tại Bắc Ninh.
 8. Lộ trình và so sánh giá cước, em để chi tiết trong bài trên TechVision.
