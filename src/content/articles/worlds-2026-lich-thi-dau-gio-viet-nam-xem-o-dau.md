@@ -7,8 +7,6 @@ category: "Gaming"
 type: "tin-tuc"
 datePublished: "2026-10-06T08:30:00+07:00"
 dateModified: "2026-10-06T08:30:00+07:00"
-noindex: true
-scheduled: true
 deck: "Worlds năm nay tổ chức ở Mỹ, nghĩa là người xem tại Việt Nam sẽ phải xem lúc nửa đêm hoặc rạng sáng thay vì buổi tối như hai mùa gần đây. Riot Games đã công bố giờ bắt đầu của từng giai đoạn, bài này quy đổi toàn bộ sang giờ Việt Nam, chỉ ra mốc đổi giờ đầu tháng 11, lịch của hai đại diện Việt Nam TSW và MVK, và nơi xem có bình luận tiếng Việt."
 heroImage: "https://techvision.click/images/worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau/worlds-2026-logo-riot.jpg"
 heroAlt: "Logo Chung ket the gioi Lien Minh Huyen Thoai Worlds 2026 cua Riot Games"
