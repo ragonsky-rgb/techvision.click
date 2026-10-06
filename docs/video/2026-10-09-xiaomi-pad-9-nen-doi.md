@@ -3,7 +3,7 @@
 > Trạng thái: **DỰNG XONG 06/10/2026 12:52** trên Mac, kiểu linh vật TV nhỏ (ảnh/clip thật TO), giọng **OmniVoice** (giọng mẫu `long-ref-20s.wav`). 45,0 giây gồm intro B 1,5s, -13,9 LUFS / đỉnh -3,1 dBTP.
 > File: `00 - VIDEO XONG/2026-10-09 TechVision - xiaomi-pad-9-nen-doi.mp4` (29 MB, CRF 16) + `_ban-nhe-10MB/` (9,4 MB). Thumbnail: `out/series/xpad1009-thumb-ngang.jpg` / `-doc.jpg` (B, sáng nút ĐỢI).
 > Trang dựng: `techvision-video-kit/mascot/pages/xpad1009.html`. Giọng + tiếng: `techvision-video-kit/scripts/build_xpad.py` (nhạc Soundraw Tropical House 115, -19 dB).
-> **Facebook Reels ĐÃ HẸN 09/10/2026 19:00** (video_id 1139544965409618, https://www.facebook.com/reel/1139544965409618, anh Long nói "lên lịch luôn" 06/10, chấp nhận vài chỗ đọc chưa ổn). TikTok + YouTube: hẹn qua Chrome cùng giờ.
+> **Facebook Reels ĐÃ HẸN 09/10/2026 19:00, bản đọc lại** (video_id 1111380428131679, https://www.facebook.com/reel/1111380428131679). Bản cũ 1139544965409618 anh Long đã tự xoá 06/10. TikTok + YouTube: hẹn qua Chrome cùng giờ.
 
 - Series B "Nên mua · đợi · bỏ qua", kết luận: **ĐỢI** (chưa có giá chính hãng VN, bản nội địa Trung Quốc rủi ro tiếng Việt + Google).
 - Luật một sản phẩm: video chỉ nói Pad 9 / Pad 9 Pro, không nhắc Pad 8 hay máy hãng khác (so sánh để trong bài web).
@@ -35,7 +35,7 @@ Lời đọc cho OmniVoice: `techvision-video-kit/out/xpad1009/script_voice.txt`
 
 Whisper soát mix.wav: đủ 8/8 câu, mọi số đúng (11.440.000, 23/9, 9.720mAh, 11.000mAh, 3.799 tệ, 4/10). Bản đầu viết "Pad chín" bị nghe thành Paz/Part/BAT/39 ở 4/8 câu, đổi "Pát chín" thì rõ; pin 9.720 phải ngắt phẩy "chín nghìn, bảy trăm hai mươi" mới không bị nuốt. Chữ "Gen" giọng đọc gần "Ghen" (phụ đề vẫn ghi Gen 4).
 
-**Sửa 06/10 chiều theo anh Long** (sau khi Facebook đã hẹn bản cũ): câu 3-4 đọc lại, inch đọc "chấm" (mười một chấm hai, mười hai chấm năm), thêm "tần số quét" trước 144Hz, Snapdragon viết `Snáp đra gơn`. Bản mới 44,2s + intro. TikTok/YouTube đã hẹn bản mới; Facebook đang hẹn bản cũ (muốn thay thì anh Long tự xoá bài hẹn trong Meta Business Suite, em đăng lại).
+**Sửa 06/10 chiều theo anh Long** (sau khi Facebook đã hẹn bản cũ): câu 3-4 đọc lại, inch đọc "chấm" (mười một chấm hai, mười hai chấm năm), thêm "tần số quét" trước 144Hz, Snapdragon viết `Snáp đra gơn`. Bản mới 44,2s + intro. TikTok/YouTube đã hẹn bản mới; Facebook cũng đã thay bằng bản mới (anh Long xoá bài hẹn cũ, em đăng lại 14:34).
 
 ## Media (out/xpad1009/media/manifest.json, trợ lý con gom 06/10)
 
