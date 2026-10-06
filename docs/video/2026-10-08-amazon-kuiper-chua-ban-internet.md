@@ -2,7 +2,7 @@
 
 > Trạng thái: **DỰNG 05/10/2026, LÀM LẠI GIỌNG 06/10** trên Mac. Video đầu tiên dùng **linh vật TV đỏ** (bản 3D, nhỏ ở góc dưới phải). Giọng: bản 05/10 đọc bằng VieNeu; 06/10 anh Long nghe so sánh, thử thêm RVC rồi chốt **chỉ dùng OmniVoice** (giọng mẫu 20 giây `long-ref-20s.wav`), bỏ RVC vì làm nhòe phụ âm.
 > Trang dựng: `techvision-video-kit/mascot/pages/kuiper1008.html`. Giọng: `scripts/vieneu_voice.py`. Âm thanh: `scripts/build_kuiper.py` (nhạc Soundraw Cinematic Electro, -20 dB).
-> **Facebook Reels ĐÃ HẸN 08/10/2026 19:00** (video_id 1250661287252256, https://www.facebook.com/reel/1250661287252256, anh Long nói "đăng" 06/10). TikTok + YouTube: anh Long tự hẹn.
+> **Facebook Reels ĐÃ HẸN 08/10/2026 19:00** (video_id 1250661287252256, https://www.facebook.com/reel/1250661287252256, anh Long nói "đăng" 06/10). **YouTube Shorts ĐÃ HẸN 08/10/2026 19:00** (kênh TECHVISION, https://youtube.com/shorts/tfqwwfMdhUA). **TikTok ĐÃ HẸN 08/10/2026 19:00** (@longtechvision, bản gốc 38 MB). Hẹn qua Chrome 06/10.
 
 - Series A "Đừng bị con số đánh lừa": tin "Amazon được cấp phép" dễ hiểu nhầm là sắp bán internet, nhưng thực ra là giấy phép mạng dùng riêng.
 - Bài web ăn theo: https://techvision.click/articles/amazon-kuiper-cap-phep-viet-nam-khac-gi-starlink.html
