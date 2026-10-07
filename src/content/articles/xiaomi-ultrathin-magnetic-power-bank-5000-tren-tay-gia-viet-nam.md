@@ -7,8 +7,6 @@ category: "Công nghệ"
 type: "cam-nang"
 datePublished: "2026-10-07T09:00:00+07:00"
 dateModified: "2026-10-07T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Mẫu pin dự phòng hít lưng mỏng nhất Xiaomi đang bán chính hãng ở Việt Nam. Bài này viết từ một chiếc mua về tự mở hộp và dùng thử, đối chiếu từng con số với trang Xiaomi Việt Nam."
 heroImage: "https://techvision.click/images/xiaomi-ultrathin-magnetic-power-bank-5000-tren-tay-gia-viet-nam/xiaomi-ultrathin-5000-mat-truoc-logo.jpg"
 heroAlt: "Mat truoc pin tu tinh Xiaomi UltraThin Magnetic Power Bank 5000 mau cam voi logo Xiaomi khac quang"
