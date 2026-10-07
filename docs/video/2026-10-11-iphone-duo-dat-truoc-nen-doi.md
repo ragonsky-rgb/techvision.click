@@ -3,7 +3,7 @@
 > Trạng thái: **DỰNG XONG 07/10/2026** trên Mac, kiểu linh vật TV nhỏ (ảnh/clip thật TO), giọng **OmniVoice** (long-ref-20s), intro B 1,5s, -14 LUFS.
 > File: `00 - VIDEO XONG/2026-10-11 TechVision - iphone-duo-dat-truoc-nen-doi.mp4` + `_ban-nhe-10MB/`. Thumbnail: `out/series/duo1011-thumb-ngang.jpg` / `-doc.jpg` (B, sáng nút ĐỢI).
 > Trang dựng: `techvision-video-kit/mascot/pages/duo1011.html` (sinh từ `out/duo1011/page.json` bằng `scripts/mascot_page.py`). Giọng + tiếng: `scripts/build_duo.py` (nhạc Pop 120, -19 dB).
-> Chưa đăng nền tảng nào.
+> **Facebook Reels ĐÃ HẸN 11/10/2026 19:00** (video_id 966183752592978, https://www.facebook.com/reel/966183752592978, anh Long nói "đăng" 07/10). YouTube API chưa được duyệt audit (không có thư youtube-disputes 7 ngày qua) -> YouTube + TikTok hẹn qua Chrome.
 
 - Series B "Nên mua · đợi · bỏ qua", kết luận: **ĐỢI** (bút chưa dùng được ngày 23/10, mất Face ID, máy gập thế hệ đầu mất giá nhanh, chưa có đánh giá dài ngày nếp gập). Thử Touch ID ở máy trưng bày trước khi đặt cọc.
 - Bài web ăn theo: https://techvision.click/articles/iphone-duo-dat-truoc-16-10-gia-viet-nam-co-nen-mua.html (đã lên 01/10).

@@ -3,7 +3,7 @@
 > Trạng thái: **DỰNG XONG 07/10/2026** trên Mac, kiểu linh vật TV nhỏ (ảnh/clip thật TO), giọng **OmniVoice** (long-ref-20s), intro A 1,5s, -13,9 LUFS.
 > File: `00 - VIDEO XONG/2026-10-10 TechVision - surface-pro-12-gia-viet-nam.mp4` + `_ban-nhe-10MB/`. Thumbnail: `out/series/surf1010-thumb-ngang.jpg` / `-doc.jpg` (A, gạch 38,99tr).
 > Trang dựng: `techvision-video-kit/mascot/pages/surf1010.html` (sinh từ `out/surf1010/page.json` bằng `scripts/mascot_page.py`). Giọng + tiếng: `scripts/build_surf.py` (nhạc Future House 131, -19 dB).
-> Chưa đăng nền tảng nào.
+> **Facebook Reels ĐÃ HẸN 10/10/2026 19:00** (video_id 1412870660263902, https://www.facebook.com/reel/1412870660263902, anh Long nói "đăng" 07/10). YouTube API chưa được duyệt audit (không có thư youtube-disputes 7 ngày qua) -> YouTube + TikTok hẹn qua Chrome.
 
 - Series A "Đừng bị con số đánh lừa": giá 38,99 triệu chỉ có máy (bàn phím, bút mua riêng), đắt hơn đời trước cùng cấu hình ~12 triệu; pin 15,5 giờ là số phát video; hiệu năng là số hãng.
 - Bài web ăn theo: https://techvision.click/articles/surface-pro-12-laptop-13-snapdragon-x2-plus-ban-13-10-2026.html (đã lên 08/10).
