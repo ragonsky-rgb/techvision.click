@@ -95,6 +95,12 @@ Về phần cứng, các nguồn rò rỉ cho thấy Pixel 11 Pro Fold sở hữ
 
 Một chi tiết cho thấy tác động của bối cảnh vĩ mô tới từng sản phẩm là việc Google được cho là loại bỏ hoàn toàn bản 128GB. Theo các nguồn tin, do khan hiếm chip nhớ trên toàn cầu, mọi phiên bản Pixel 11 sẽ khởi điểm từ 256GB. Đây không phải quyết định riêng của Google, mà là xu hướng chung khi chi phí chip nhớ tăng khiến các hãng phải cắt bỏ những bản dung lượng thấp có biên lợi nhuận mỏng.
 
+<div class="art-video-label">VIDEO · Pixel 11 tăng 100 USD, bản Pro bị cắt RAM còn 12GB</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/VXtS5OGP6LQ" title="Pixel 11 tăng 100 USD nhưng bị cắt RAM còn 12GB" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 13/8, sau sự kiện: giá chính thức 899, 1.099, 1.299 và 1.899 USD, cả dòng tăng 100 USD, Pixel 11 Pro và Pro XL bị cắt RAM khởi điểm từ 16GB xuống 12GB vì giá RAM tăng, Pixel vẫn không bán chính hãng tại Việt Nam. Nguồn: kênh YouTube TechVision</p>
+
 Diễn biến này ăn khớp với bức tranh chung của thị trường, khi [giá máy tính và điện thoại năm 2026 được dự báo tăng mạnh vì cơn khát chip nhớ phục vụ AI](/articles/gartner-gia-dien-thoai-laptop-2026-tang-nen-mua-gi.html). Với người dùng, việc bỏ bản 128GB vừa có mặt tích cực là dung lượng mặc định lớn hơn, vừa có mặt tiêu cực là giá khởi điểm bị đẩy lên cao hơn. Đây là ví dụ rõ ràng cho thấy những biến động ở tầng chuỗi cung ứng cuối cùng sẽ chạm tới túi tiền người tiêu dùng ra sao.
 
 <figure>

@@ -117,6 +117,12 @@ Với người dùng trong nước, đây là phép so sánh có ý nghĩa thự
 
 Điều đầu tiên cần biết: Google chưa bao giờ phân phối Pixel chính hãng tại Việt Nam và cũng không công bố kế hoạch nào cho Pixel 11. Mọi máy Pixel bán trong nước đều là hàng nhập từ thị trường khác, được bảo hành tại chính cửa hàng bán ra chứ không phải bảo hành hãng theo diện phân phối. Đây là khác biệt căn bản so với iPhone hay Galaxy, và nó ảnh hưởng tới mọi thứ từ giá tới trải nghiệm hậu mãi.
 
+<div class="art-video-label">VIDEO · Pixel 11 Pro hàng nhập về Việt Nam giá 28,99 triệu</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/QQP_QAOwCr0" title="Pixel 11 Pro về Việt Nam 28,99 triệu: hàng nhập, bị cắt RAM còn 12GB" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 30/9: Pixel 11 Pro bản 12GB/256GB hàng nhập đang bán khoảng 28,9 tới 29 triệu đồng (Di Động Mỹ 28.990.000đ), chỉ bảo hành tại cửa hàng bán ra, bản 256GB bị hạ RAM từ 16GB xuống 12GB. Nguồn: kênh YouTube TechVision</p>
+
 Về mốc thời gian, các cửa hàng nhập khẩu trong nước thường nhận đặt trước ngay sau sự kiện và có hàng sau khoảng 2 tới 4 tuần kể từ ngày mở bán quốc tế. Với ngày giao máy chính thức là 20/8, hàng đầu tiên tại Việt Nam nhiều khả năng xuất hiện quanh đầu tháng 9/2026. Về mức giá tham chiếu, đời Pixel 10 hiện được các cửa hàng nhập khẩu niêm yết quanh 20,2 triệu đồng cho bản thường, 24 triệu cho bản Pro và 33,5 triệu cho bản Pro XL. Đối chiếu với giá niêm yết gốc, khoảng chênh giữa giá quy đổi và giá bán thực tại Việt Nam thường dao động từ 10 tới 20% tùy thời điểm và tùy cửa hàng.
 
 Từ đó có thể ước lượng một cách thận trọng rằng Pixel 11 khi về Việt Nam sẽ nằm quanh vùng 25 tới 28 triệu đồng cho bản thường, và nhóm Pro sẽ vượt 30 triệu. Cần nhấn mạnh đây chỉ là ước lượng dựa trên thông lệ các đời trước, không phải giá đã công bố. Giá thực tế còn phụ thuộc lượng hàng về, tỷ giá và mức độ khan hiếm trong những tuần đầu, vốn là giai đoạn giá luôn cao nhất.

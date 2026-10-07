@@ -81,6 +81,12 @@ Việc Samsung xuất hiện trong danh sách đối tác tiềm năng của Ant
 
 Sự tham gia của các nhà sản xuất bộ nhớ và bán dẫn lớn vào vòng gọi vốn của một công ty AI như Anthropic phản ánh xu hướng ngày càng rõ nét: các tập đoàn bán dẫn không chỉ đơn thuần là nhà cung cấp linh kiện, mà đang trở thành đối tác chiến lược sâu rộng hơn trong toàn bộ chuỗi giá trị AI, từ tài trợ vốn cho tới hợp tác phát triển công nghệ lõi.
 
+<div class="art-video-label">VIDEO · Samsung, hai CEO và canh bạc chip AI với Tesla</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/fRfZgVVIbv4" title="Samsung có 2 CEO và canh bạc chip AI 16,5 tỷ USD với Tesla" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 28/9 về mảng chip của Samsung: hãng đầu tiên sản xuất hàng loạt bộ nhớ HBM4 (12/2/2026), hợp đồng làm chip AI cho Tesla 16,5 tỷ USD tới hết 2033, và tin từ báo Hàn Quốc rằng nhà máy Texas đã chạy thử chip AI5 trên tiến trình 2nm. Nguồn: kênh YouTube TechVision</p>
+
 ## Anthropic vẫn duy trì chiến lược đa nền tảng
 
 Dù đang thăm dò khả năng phát triển chip riêng, Anthropic khẳng định rõ ràng rằng các đối tác phần cứng hiện tại, gồm Amazon, Google và Nvidia, vẫn sẽ là nền tảng chính cho hạ tầng tính toán phục vụ mô hình Claude trong ngắn hạn. Đây là chiến lược đa nền tảng có chủ đích, tương tự cách công ty đã và đang [mở rộng sử dụng chip TPU Ironwood của Google với cam kết lên tới một triệu chip](/articles/google-tpu-ironwood-v7-thach-thuc-nvidia-2026.html), song song với việc tiếp tục dùng GPU của Nvidia và chip Trainium của Amazon.

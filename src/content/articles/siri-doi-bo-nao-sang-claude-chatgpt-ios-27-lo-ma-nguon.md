@@ -80,6 +80,12 @@ Model Delegation là lớp nông hơn. Nó cho phép một extension, ví dụ C
 
 Model Manager Services là lớp sâu hơn nhiều. Bên trong nó có một giao thức tên Inference Provider, và theo mô tả của MacRumors, giao thức này cho mô hình bên ngoài nhận lời nhắc lập kế hoạch và danh sách công cụ của Siri, rồi thay thế mô hình Siri chạy trên máy chủ của Apple. pdfu minh họa bằng cách cắm GPT-5.6 Terra vào vị trí đó. Đây không còn là chuyện gọi hộ một câu hỏi khó, mà là đổi phần suy luận nằm ở trung tâm trải nghiệm.
 
+<div class="art-video-label">VIDEO · Hai cách thay bộ não cho Siri lộ ra từ mã iOS 27</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/l6s_YFG24cg" title="Siri sắp cho đổi bộ não sang Claude hoặc ChatGPT? Lộ từ mã iOS 27" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Tóm tắt 34 giây: mã iOS 27 có một cách cho Claude hiện trong menu của Siri cạnh ChatGPT, và một cách thay hẳn mô hình Siri chạy trên máy chủ Apple. Apple chưa bật, chưa mở cho nhà phát triển ngoài và chưa xác nhận. Nguồn: kênh YouTube TechVision</p>
+
 ## Vì sao Apple lại làm như vậy
 
 Cách dễ hiểu nhất là nhìn Siri như một chiếc xe. Apple muốn giữ khung xe, bảng điều khiển, cảm giác lái và các cam kết về quyền riêng tư, tức là mọi thứ người dùng nhìn thấy và cảm nhận. Phần động cơ thì có thể thay bằng loại tốt nhất ở từng thời điểm, và không nhất thiết phải do chính hãng sản xuất.

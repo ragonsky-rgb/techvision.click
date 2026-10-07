@@ -103,6 +103,12 @@ Khác biệt cốt lõi giữa hai bản nằm ở kết nối mạng. Redmi 17 
 
 Khi chọn giữa hai bản, người dùng nên cân nhắc ba yếu tố: khu vực sinh sống đã phủ 5G chưa, thời gian dự kiến dùng máy và ngân sách. Nếu định dùng từ 3 năm trở lên, khoản chênh 500 nghìn đồng cho bản 5G là đáng cân nhắc, vì hạ tầng 5G sẽ còn mở rộng trong vòng đời của máy. Ngược lại, nếu ưu tiên tiết kiệm tối đa hoặc mua cho người lớn tuổi chủ yếu nghe gọi và nhắn tin, bản thường vẫn đáp ứng tốt nhu cầu cơ bản mà không lãng phí.
 
+<div class="art-video-label">VIDEO · Redmi 17 giá từ 5,99 triệu, pin 7.500mAh</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/KXz_xFM_SrE" title="5,99 triệu mà pin 7.500mAh: Redmi 17 vừa mở bán Việt Nam" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 11/8: Redmi 17 mở bán chính hãng từ 7/8/2026, giá từ 5,99 triệu đồng, pin 7.500mAh dùng khoảng 2 ngày, sạc 45W kèm sạc ngược 22,5W, màn 6,9 inch 120Hz, bản 5G chênh khoảng 500 nghìn cùng dung lượng. Nguồn: kênh YouTube TechVision</p>
+
 ## Có nên mua Redmi 17 trong tầm giá dưới 8 triệu
 
 Với giá khởi điểm 5,99 triệu đồng, Redmi 17 là lựa chọn đáng cân nhắc cho người cần pin lớn, màn rộng và một thương hiệu quen thuộc trong phân khúc phổ thông. Máy phù hợp học sinh, sinh viên, người lớn tuổi hoặc mua làm máy phụ, nơi độ bền và thời lượng pin quan trọng hơn hiệu năng đỉnh cao. Cần thẳng thắn rằng chip 8 nhân tầm phổ thông và cụm camera 50MP chỉ đáp ứng nhu cầu hằng ngày, không dành cho người chơi game nặng hay chụp ảnh chuyên sâu.

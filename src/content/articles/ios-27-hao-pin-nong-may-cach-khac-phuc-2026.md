@@ -90,6 +90,12 @@ Dấu hiệu chắc chắn là lỗi thật gồm: máy nóng tới mức hiện
 
 Một nhầm lẫn rất phổ biến tại Việt Nam là quy toàn bộ vấn đề cho bản cập nhật, trong khi nguyên nhân thật nằm ở viên pin đã chai từ trước. Kiểm tra trong Cài đặt, Pin, mục Tình trạng pin và sạc. Máy dùng ba tới bốn năm, dung lượng pin tối đa còn khoảng 78 tới 82%, vẫn trụ được qua ngày với iOS cũ vì hệ thống đã quen nhịp sử dụng. Bản iOS mới làm tăng tải trong vài ngày, và viên pin yếu không còn biên độ để hấp thụ phần tăng đó. Cách kiểm tra chi tiết nằm trong bài [cách kiểm tra độ chai pin điện thoại](/articles/cach-kiem-tra-do-chai-pin-dien-thoai-iphone-android-2026.html).
 
+<div class="art-video-label">VIDEO · Hao pin sau iOS 27: khi nào tự hết, 3 việc nên làm</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/tBcE6qSIHEU" title="iPhone hao pin, nóng máy sau iOS 27: khi nào tự hết, 3 việc nên làm" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Tóm tắt 38 giây: máy ấm và tụt pin vài ngày đầu vì phải quét lại tìm kiếm, ảnh và dữ liệu đám mây. Quá 1 tuần vẫn tụt thì khởi động lại, tìm ứng dụng chạy nền bất thường trong mục Pin và kiểm tra bản vá, còn pin dưới 80% thì lỗi nằm ở pin. Nguồn: kênh YouTube TechVision</p>
+
 ## Tám bước xử lý, xếp từ nhẹ tới nặng
 
 Thứ tự bên dưới được sắp theo nguyên tắc làm việc rẻ tiền trước: mỗi bước tốn ít công sức hơn và ít rủi ro mất dữ liệu hơn bước sau nó. Hãy làm tuần tự và dùng máy thêm một ngày sau mỗi bước để đánh giá, thay vì làm hết một lượt rồi không biết bước nào có tác dụng.

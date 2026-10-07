@@ -92,6 +92,12 @@ Chi tiết đáng chú ý nhất lại là thứ bị bỏ đi: máy được ch
 
 Về giá, các ước tính từ giới phân tích trải từ 1.999 tới 2.499 USD cho thị trường Mỹ. Khoảng này rộng tới 500 USD, cho thấy chính giới phân tích cũng chưa thống nhất. Điều duy nhất có thể nói chắc là chiếc máy này sẽ đứng ở một tầng giá mà iPhone chưa từng chạm tới, và nó không được sinh ra để bán số lượng lớn.
 
+<div class="art-video-label">VIDEO · Tin đồn trước sự kiện: máy gập trên 2.000 USD, dùng Touch ID</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/6_PKQNiGW7I" title="iPhone 18 giá hơn 50 triệu, dùng Touch ID và ra mắt muộn?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 24/8, trước sự kiện 9/9: tổng hợp tin đồn máy gập giá trên 2.000 USD, dùng Touch ID thay Face ID, iPhone 18 bản thường dời sang đầu năm 2027. Khi ra mắt, máy gập mang tên iPhone Duo, giá 1.999 USD và mở khóa bằng Touch ID ở nút nguồn. Nguồn: kênh YouTube TechVision</p>
+
 ## iPhone 18 Pro và phần cứng đi kèm
 
 Với hai bản Pro, thông tin xoay quanh chip A20 Pro, được cho là sản xuất trên tiến trình 2nm của TSMC. Nếu đúng, đây là bước nhảy tiến trình đầu tiên của dòng chip A sau vài thế hệ chỉ tinh chỉnh, và thường thì bước nhảy tiến trình mang lại cải thiện về thời lượng pin rõ hơn là về tốc độ thô. Chi tiết kỹ thuật của con chip này đã được phân tích riêng trong bài [bước nhảy 2nm của chip A20 Pro](/articles/chip-a20-pro-iphone-18-pro-2nm-manh-co-nao-2026.html).

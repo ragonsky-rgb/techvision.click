@@ -72,6 +72,12 @@ Ternus gia nhập nhóm thiết kế sản phẩm của Apple từ năm 2001, l�
 
 Với người mua máy ở Việt Nam, chuyện đổi ghế CEO nghe xa vời, nhưng nó có một hệ quả rất cụ thể. Một lãnh đạo xuất thân kỹ thuật phần cứng thường được kỳ vọng đẩy mạnh các canh bạc về phần cứng, mà chiếc iPhone gập chính là canh bạc phần cứng lớn nhất của Apple trong nhiều năm. Nếu Apple thực sự giới thiệu máy gập trong keynote đầu tiên của Ternus, đó là tín hiệu khá rõ về hướng đi vài năm tới, thay vì tiếp tục lối cải tiến từng bước nhỏ mà dòng iPhone đã đi suốt từ 2020.
 
+<div class="art-video-label">VIDEO · 8 đời CEO Apple trong 49 năm, từ 1977 tới John Ternus</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/Z6jYNKbxe8M" title="8 đời CEO Apple trong 49 năm, từ 1977 tới John Ternus" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Từ Michael Scott năm 1977, qua John Sculley, Michael Spindler, Gil Amelio, Steve Jobs quay lại năm 1997 và Tim Cook 15 năm, tới John Ternus từ 1/9/2026. Hình minh họa trong video dựng bằng AI. Nguồn: kênh YouTube TechVision</p>
+
 ## Ba máy được chờ đợi và điểm chung của chúng
 
 Danh sách sản phẩm mà các nguồn tổng hợp tin đồn lớn nghiêng về gồm ba máy: **iPhone 18 Pro**, **iPhone 18 Pro Max** và chiếc **iPhone gập** đầu tiên, mà một số nguồn gọi bằng tên iPhone Duo. Cả ba được cho là dùng chung con chip **A20 Pro** sản xuất trên tiến trình **2nm**, bước rút gọn tiến trình đầu tiên của Apple sau vài thế hệ đứng yên ở nhóm 3nm.

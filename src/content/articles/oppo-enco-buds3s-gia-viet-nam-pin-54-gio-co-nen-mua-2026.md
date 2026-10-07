@@ -118,6 +118,12 @@ Phần còn lại ở mức đủ dùng cho tầm giá. Chuẩn IP55 chịu đư
 
 Một lưu ý khác nằm ở phần "AI". Tính năng Dịch thuật AI chỉ chạy trên một số điện thoại OPPO chạy ColorOS 15 trở lên. Chạm hai lần để chụp ảnh và âm thanh 3D 360 độ cũng cần máy OPPO. Người dùng iPhone hoặc Android hãng khác vẫn dùng được tai nghe qua HeyMelody, nhưng mất một phần những tính năng được quảng cáo.
 
+<div class="art-video-label">VIDEO · Enco Buds3s 690.000đ: pin 54 giờ nhưng không chống ồn</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/qs3T-8t1v94" title="OPPO Enco Buds3s 690K: pin 54 giờ nhưng không chống ồn, có nên mua?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Bản tóm tắt 1 phút: Enco Buds3s niêm yết 990.000đ, OPPO Store bán 690.000đ tới hết 11/10, pin 12 giờ mỗi lần sạc và 54 giờ tính cả hộp, nhưng không có chống ồn chủ động, chỉ có 2 micro lọc ồn khi gọi. Nguồn: kênh YouTube TechVision</p>
+
 ## Gần như trùng Enco Buds3 Pro: nên mua bản nào
 
 Đặt trang thông số của Enco Buds3s cạnh Enco Buds3 Pro (ra mắt Việt Nam tháng 3/2025 cũng với giá 990.000đ), gần như mọi dòng đều giống nhau: pin 58 mAh mỗi tai và 560 mAh ở hộp, 12 giờ và 54 giờ, màng loa 12,4 mm, độ nhạy 114 dB, Bluetooth 5.4, codec AAC và SBC, IP55, cùng thông số dòng sạc. Khác biệt đo được chỉ là trọng lượng (4,5 g so với 4,3 g mỗi tai, hộp nặng hơn khoảng 5 g) và hộp dài hơn 1 mm. OPPO không nói Buds3s là bản làm lại của Buds3 Pro, nên ở đây chỉ có thể nói hai máy trùng khớp thông số, còn khác biệt về chất âm thì cần nghe thực tế.

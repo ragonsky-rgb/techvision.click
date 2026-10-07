@@ -91,6 +91,12 @@ Một thay đổi đáng chú ý là iPhone Duo được cho là dùng Touch ID 
 
 Với người dùng Việt vốn quen mở khóa bằng khuôn mặt trên iPhone nhiều năm qua, đây có thể là điểm cần làm quen lại. Bù lại, vân tay ở cạnh viền lại tiện khi máy đang gập hoặc đặt trên bàn, những tình huống mà nhận diện khuôn mặt đôi khi bất tiện. Đây là đánh đổi kỹ thuật hợp lý cho một sản phẩm thế hệ đầu, nơi sự gọn nhẹ được ưu tiên.
 
+<div class="art-video-label">VIDEO · iPhone Duo giá từ 64,99 triệu, mở khóa bằng Touch ID</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/wQAw3wiVbec" title="iPhone Duo giá 64,99 triệu tại Việt Nam, nhưng bỏ Face ID" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 12/9, sau sự kiện: Apple xác nhận iPhone Duo dùng Touch ID ở nút nguồn, giá Việt Nam từ 64.999.000đ bản 256GB tới 103.999.000đ bản 2TB, đặt trước 19h ngày 16/10, có hàng từ 23/10. Nguồn: kênh YouTube TechVision</p>
+
 ## Giá dự kiến và thời điểm ra mắt
 
 Về giá, các nguồn tin gần đây đặt mức khởi điểm quanh 1.999 USD, mỗi bậc dung lượng cao hơn cộng thêm khoảng 200 USD, đưa bản 512GB lên khoảng 2.199 USD và bản 1TB lên khoảng 2.399 USD. Nếu chính xác, iPhone Duo sẽ là chiếc iPhone đắt nhất từ trước tới nay, phản ánh chi phí cao của tấm nền gập và cơ cấu bản lề mới. Mức giá này đặt máy vào nhóm siêu cao cấp, cạnh tranh trực tiếp với các bản Fold Ultra của Samsung.

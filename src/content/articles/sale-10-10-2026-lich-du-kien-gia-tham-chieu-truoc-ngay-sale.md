@@ -116,6 +116,12 @@ Với **Galaxy S25 Ultra**, mức 24,89 triệu đã là vùng giá tốt và xu
 
 Với **iPhone 17**, đây là ví dụ rõ nhất cho việc vì sao phải tự ghi mốc giá. Sau đợt tăng giá ngày 10/9, một chương trình 10/10 ghi "giảm 3 triệu" so với giá gạch 28,99 triệu vẫn đưa bạn về khoảng 26 triệu, tức đắt hơn giá bán hôm 9/9. Chiêu giảm phần trăm sẽ trông rất đẹp trong khi thực chất bạn trả nhiều hơn một tháng trước. Nếu bạn định mua iPhone 17, mốc so sánh đúng là 24,59 tới 24,99 triệu, không phải 28,99 triệu.
 
+<div class="art-video-label">VIDEO · iPhone 17 tăng 4 triệu sau một đêm</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/LKmHGaYCZ4k" title="iPhone 17 tăng 4 triệu: chuyện gì vừa xảy ra?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 14/9: Apple Việt Nam nâng giá iPhone 17 256GB từ 24.999.000đ lên 28.999.000đ từ 10/9, nên mốc để so khi săn sale là giá cũ quanh 24,99 triệu, không phải giá gạch mới. Nguồn: kênh YouTube TechVision</p>
+
 Nếu bạn đang phân vân giữa việc mua ngay hay đợi đời máy mới, bài [nên mua iPhone 17 hay đợi iPhone 18](/articles/nen-mua-iphone-17-hay-doi-iphone-18-2026.html) phân tích kỹ hơn mốc thời gian và những gì đã biết về thế hệ kế tiếp.
 
 <div class="art-video-label">VIDEO · Mẹo săn sale và cộng voucher trên sàn</div>

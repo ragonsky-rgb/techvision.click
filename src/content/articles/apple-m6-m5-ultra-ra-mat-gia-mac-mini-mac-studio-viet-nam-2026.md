@@ -138,6 +138,12 @@ Một chi tiết cần để ý với người định mua bản cấu hình cao
 
 Hai chi tiết nhỏ trong đợt ra mắt này đều chỉ về cùng một nguyên nhân. Thứ nhất, M6 chỉ hỗ trợ tối đa 32GB bộ nhớ thống nhất, một mức khá khiêm tốn cho con chip hàng đầu về tiến trình. Thứ hai, tùy chọn bộ nhớ 512GB của M5 Ultra bị lùi tới cuối tháng 10.
 
+<div class="art-video-label">VIDEO · Chip M6, M5 Ultra và giá Mac tại Việt Nam từ 24,99 triệu</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/jFuLBFe6yBg" title="Apple ra chip M6 và M5 Ultra, giá Mac ở Việt Nam từ 24,99 triệu" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 25/8: Mac mini M6 từ 24.999.000đ, Mac Studio M5 Ultra từ 159.999.000đ, M6 chỉ hỗ trợ tối đa 32GB bộ nhớ và tùy chọn 512GB của M5 Ultra dời tới cuối tháng 10. Số hiệu năng trong video là số Apple công bố. Nguồn: kênh YouTube TechVision</p>
+
 Bối cảnh là thị trường bộ nhớ đang căng nhất trong nhiều năm. Giá DRAM và NAND tăng rất mạnh từ đầu năm 2026 vì các trung tâm dữ liệu AI hút phần lớn công suất sản xuất, khiến chip nhớ cho máy tính tiêu dùng vừa khan vừa đắt. Câu chuyện này đã được phân tích kỹ trong bài về [giá RAM, SSD tăng vọt và thời điểm nên mua laptop, PC](/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html).
 
 Chính Apple cũng đã chịu tác động trực tiếp. Ngày 25/6/2026, hãng [tăng giá hàng loạt MacBook, iPad và Mac Studio tại Việt Nam với mức phổ biến 15 đến 20%](/articles/apple-tang-gia-macbook-ipad-mac-studio-viet-nam-2026.html), lý do được nêu chính là giá chip nhớ. Riêng Mac Studio M3 Ultra bản 96GB RAM khi đó tăng gần 20 triệu đồng. Nghĩa là mức 159,999 triệu của Mac Studio M5 Ultra hôm nay đứng trên một nền giá vốn đã được nâng lên từ tháng 6.

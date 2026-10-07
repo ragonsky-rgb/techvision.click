@@ -103,6 +103,12 @@ Nhưng toan tính dài hơi nằm ở năm 2027. Đó là dịp kỷ niệm 20 n
 
 Để hiểu vì sao một mức tăng được tính toán kỹ đến vậy, cần nhìn lại cách Apple định giá dòng cao cấp qua thời gian. Kể từ khi tách dòng Pro, hãng thường giữ giá khởi điểm ổn định qua vài thế hệ rồi mới điều chỉnh, nhằm tránh gây sốc cho người mua trung thành. Mỗi lần thay đổi giá đều đi kèm thông điệp về nâng cấp phần cứng tương xứng, để mức tăng được nhìn nhận là hợp lý thay vì đơn thuần là đắt hơn. Đó là lý do các đợt tăng giá hiếm khi diễn ra đột ngột mà thường có bước đệm.
 
+<div class="art-video-label">VIDEO · iPhone 17 rẻ hơn iPhone 4 nếu tính theo sức mua</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/rStV8756Xk8" title="iPhone 17 rẻ hơn iPhone 4? Tính theo sức mua thì đúng" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Quy giá khởi điểm tại Mỹ ra sức mua năm 2026, iPhone 4 ra năm 2010 tương đương 997 USD, còn iPhone 17 chỉ tương đương 863 USD. Nguồn: kênh YouTube TechVision</p>
+
 Tâm lý người mua cũng đóng vai trò lớn trong chiến lược này. Một con số kết thúc bằng 99 USD tạo cảm giác dễ chịu hơn về mặt tâm lý so với một con số tròn cao hơn, dù chênh lệch thực tế rất nhỏ. Việc neo giá ở một mặt bằng cao còn tạo hiệu ứng so sánh: khi đã quen với mức giá mới, các lựa chọn cũ hoặc thấp hơn lập tức trở nên hấp dẫn về giá trị. Cơ chế tâm lý này giải thích vì sao một thương hiệu có thể tăng giá mà vẫn duy trì được lượng khách hàng trung thành, miễn là người mua tin rằng họ nhận lại giá trị xứng đáng.
 
 ## Người dùng Việt nên nhìn nhận thế nào?

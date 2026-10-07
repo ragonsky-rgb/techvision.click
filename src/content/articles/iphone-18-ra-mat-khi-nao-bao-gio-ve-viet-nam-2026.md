@@ -95,6 +95,12 @@ Chiếc máy gập là ẩn số lớn nhất. Các rò rỉ mô tả một thi�
 
 Đây mới là phần có ích nhất với người mua trong nước, vì nó là số liệu thật chứ không phải dự đoán. Phần này ban đầu viết trước sự kiện, theo quy luật máy đời cũ giảm giá quanh kỳ ra mắt; diễn biến thực tế sau ngày 9/9 lại đi theo hướng ngược lại, nên toàn bộ số dưới đây đã được đọc lại ngày 12/9/2026 trên trang Apple Việt Nam và CellphoneS.
 
+<div class="art-video-label">VIDEO · iPhone 17 tăng 4 triệu sau một đêm</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/LKmHGaYCZ4k" title="iPhone 17 tăng 4 triệu: chuyện gì vừa xảy ra?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 14/9: từ 10/9 Apple Việt Nam nâng giá iPhone 17 256GB từ 24.999.000đ lên 28.999.000đ, iPhone 16, iPhone 17e và iPhone Air cũng tăng cùng ngày, CellphoneS và FPT Shop bán theo giá mới 28.490.000đ. Nguồn: kênh YouTube TechVision</p>
+
 Từ ngày 10/9, Apple Việt Nam nâng giá niêm yết iPhone 17 256GB từ 24.999.000đ lên **28.999.000đ**, bản 512GB lên 35.499.000đ. iPhone Air hiện từ 34.999.000đ, iPhone 17e từ 21.999.000đ, iPhone 16 giữ 24.999.000đ. iPhone 17 Pro không còn trong cửa hàng trực tuyến của Apple. Ở phía bán lẻ, CellphoneS ngày 12/9 bán iPhone 17 256GB 28,49 triệu và iPhone 17 Pro Max 256GB 34,59 triệu. Dòng mới có iPhone 18 Pro từ **38.999.000đ** và iPhone 18 Pro Max từ **41.999.000đ**. Chi tiết giá đặt trước ở từng chuỗi nằm trong bài [giá chính thức iPhone 18 Pro và Pro Max](/articles/iphone-18-pro-pro-max-gia-chinh-thuc-cau-hinh-2026.html).
 
 <figure>

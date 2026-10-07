@@ -104,6 +104,12 @@ Nhưng có ba điểm đáng theo dõi trong trung hạn, và cả ba đều c�
 
 **Thứ hai, mức giá quyết định tất cả.** Quy đổi thô, 999 USD tương đương khoảng 26 triệu đồng, và giá bán chính hãng tại Việt Nam luôn cao hơn con số quy đổi sau khi cộng thuế cùng chi phí phân phối. Ở vùng giá 28 tới 32 triệu, chiếc máy đó phải cạnh tranh với MacBook Air và các laptop Windows mỏng nhẹ dùng chip thế hệ mới đang bán sẵn tại Việt Nam, những sản phẩm có hệ sinh thái phần mềm đã ổn định nhiều năm. Đó là bài toán khó, nhất là trong bối cảnh giá laptop nói chung đang chịu sức ép tăng vì chi phí bộ nhớ leo thang.
 
+<div class="art-video-label">VIDEO · Googlebook lên kệ: giá thật từ 899 USD, Việt Nam chưa có</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/2A3Zt6Zc91U" title="Googlebook giao hàng: laptop Android của Google từ 899 USD, 5 hãng" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 4/10, khi máy bắt đầu giao tại Mỹ: giá thật thấp hơn mốc 999 USD, rẻ nhất Acer Googlebook 14 giá 899 USD (khoảng 23,5 triệu đồng), cả 5 máy chung nền 16GB RAM và 512GB, Việt Nam chưa có trong đợt đầu. Nguồn: kênh YouTube TechVision</p>
+
 **Thứ ba, nhóm giáo dục là chỗ đáng chú ý nhất.** Chromebook vốn mạnh ở trường học, và Việt Nam đang trong giai đoạn đưa nội dung trí tuệ nhân tạo vào chương trình phổ thông từ năm học 2026 đến 2027. Nếu Google giữ được một nhánh Googlebook giá thấp cho giáo dục thay vì bỏ hẳn phân khúc này, đó mới là hướng nền tảng mới có thể chạm tới số đông người dùng Việt Nam. Còn nếu Google chỉ làm máy cao cấp, nền tảng này sẽ nằm ngoài tầm với của phần lớn thị trường trong nước.
 
 <figure>

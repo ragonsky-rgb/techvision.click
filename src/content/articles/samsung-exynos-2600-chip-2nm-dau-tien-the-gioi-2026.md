@@ -63,6 +63,12 @@ Cuộc đua chip xử lý di động vừa chứng kiến một cột mốc côn
 
 Exynos 2600 được xây dựng trên tiến trình 2nm GAA, viết tắt của Gate-All-Around, công nghệ bán dẫn tiên tiến nhất hiện nay giúp kiểm soát dòng điện qua transistor chính xác hơn hẳn so với công nghệ FinFET truyền thống. Việc trở thành chip di động đầu tiên trên thế giới ứng dụng thành công tiến trình này ở quy mô thương mại là một tuyên bố mạnh mẽ của Samsung, cho thấy hãng đang quyết tâm rút ngắn khoảng cách công nghệ với TSMC, đối thủ lâu năm trong lĩnh vực gia công bán dẫn.
 
+<div class="art-video-label">VIDEO · Samsung, hai CEO và canh bạc chip AI với Tesla</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/fRfZgVVIbv4" title="Samsung có 2 CEO và canh bạc chip AI 16,5 tỷ USD với Tesla" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 28/9: Samsung có hai đồng CEO từ 21/11/2025, đầu tư hơn 110 nghìn tỷ won trong năm 2026 và có hợp đồng làm chip AI cho Tesla 16,5 tỷ USD tới hết 2033. Báo Hàn Quốc đưa tin nhà máy Texas đã chạy thử chip AI5 trên tiến trình 2nm, Samsung chưa công bố. Nguồn: kênh YouTube TechVision</p>
+
 Về mặt kiến trúc, Exynos 2600 trang bị CPU 10 nhân dựa trên kiến trúc Arm v9.3 mới nhất, sử dụng các nhân C1-Ultra và C1-Pro thế hệ mới. Nhân chủ lực C1-Ultra hoạt động ở xung nhịp 3,8GHz, đi kèm ba nhân C1-Pro chạy ở 3,25GHz và sáu nhân C1-Pro còn lại vận hành ở mức 2,75GHz tiết kiệm điện hơn, tạo thành cấu trúc phân tầng hiệu năng linh hoạt cho nhiều loại tác vụ khác nhau.
 
 <div class="art-video-label">VIDEO · Mở hộp và đánh giá nhanh Galaxy S26, S26 Plus dùng Exynos 2600</div>

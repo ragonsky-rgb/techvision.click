@@ -96,6 +96,12 @@ Chính các nhà sản xuất cũng đã phát tín hiệu. ASUS và Acer dự b
 
 Hệ quả trực tiếp là phân khúc từ 10 triệu đồng trở xuống gần như không còn máy mới trên kệ. Nhóm khách hàng chịu thiệt nhất chính là sinh viên và người mua máy đầu tiên, những người trước đây vẫn có nhiều lựa chọn trong tầm giá này. Thay vào đó, khoảng 20 triệu đồng đang trở thành phân khúc chủ đạo, đáp ứng nhu cầu học tập và làm việc của phần lớn người dùng nhưng đòi hỏi ngân sách cao hơn hẳn so với một năm trước.
 
+<div class="art-video-label">VIDEO · Phí bản quyền Windows tăng, laptop dưới 10 triệu biến mất</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/pcWylwTX_BI" title="Laptop dưới 10 triệu biến mất, giờ có thêm khoản phí nữa" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Tóm tắt 56 giây: theo nguồn trong ngành, phí bản quyền Windows thu của các hãng lắp máy tăng 7 tới 10% từ tháng 7/2026 (Microsoft chưa xác nhận), nhưng thủ phạm chính vẫn là RAM và SSD, giá laptop tại Việt Nam đã tăng 50 tới 80% từ tháng 11/2025. Nguồn: kênh YouTube TechVision</p>
+
 Phía nhà bán lẻ, phản ứng có phần trái chiều. Đại diện FPT Shop cho biết nguồn cung laptop nhìn chung vẫn được các nhà sản xuất duy trì tương đối ổn định và hệ thống này cố giữ mặt bằng giá hợp lý dù chi phí RAM, bộ nhớ tăng mạnh. Trong khi đó, phía Thế Giới Di Động ghi nhận nhiều sản phẩm đời cũ đã không còn sẵn hàng, tức lựa chọn giá tốt còn lại chủ yếu là hàng tồn và sẽ hết dần theo thời gian.
 
 <figure>

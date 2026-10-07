@@ -122,6 +122,12 @@ Người đang dùng Chromebook không bị bỏ rơi ngay. Ngày 28/9 Google ch
 
 Để hình dung, quy đổi theo tỷ giá bán của Vietcombank ngày 30/09/2026 (26.160 đồng mỗi USD): Acer Googlebook 14 giá 899 USD tương đương khoảng **23,5 triệu đồng**, Dell XPS Googlebook khoảng **26,1 triệu**, Lenovo Googlebook 15 khoảng **28,7 triệu**, còn Asus và HP Googlebook 14 khoảng **34 triệu**. Đó là giá trần trụi, chưa cộng thuế bán hàng tại Mỹ, phí vận chuyển và lời của người bán xách tay.
 
+<div class="art-video-label">VIDEO · Googlebook giao hàng: 5 máy, giá từ 899 USD</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/2A3Zt6Zc91U" title="Googlebook giao hàng: laptop Android của Google từ 899 USD, 5 hãng" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 4/10: Acer Googlebook 14 rẻ nhất 899 USD (khoảng 23,5 triệu đồng), bản Asus và HP đắt nhất 1.299 USD, cả 5 máy chung nền 16GB RAM và 512GB, Việt Nam chưa có tên trong đợt giao đầu tiên. Nguồn: kênh YouTube TechVision</p>
+
 Mốc so sánh thực tế ở cùng tầm tiền là máy đang bán chính hãng trong nước. **MacBook Air M5** 13 inch 16GB/512GB niêm yết **35,99 triệu đồng**, CellphoneS bán **33,09 triệu**; bản 15 inch 16GB/512GB niêm yết **41,99 triệu**, bán **38,99 triệu** (giá đọc trên cellphones.com.vn ngày 04/10/2026). Nghĩa là Acer hay Dell bản Googlebook, nếu về theo đường xách tay, vẫn có thể rẻ hơn MacBook Air vài triệu đồng, nhưng hai máy 1.299 USD thì sau thuế phí sẽ ngang hoặc đắt hơn một chiếc MacBook Air có bảo hành chính hãng. Với người mua laptop trong quý 4 năm nay tại Việt Nam, Googlebook vì vậy chưa phải lựa chọn cần cân nhắc.
 
 Điểm đáng theo dõi trong trung hạn là **mức sàn 16GB RAM**. Nếu Google giữ được chuẩn này qua các đợt máy sau, nó tạo áp lực lên nhóm laptop Windows tầm trung, nơi bản 8GB vẫn còn bán nhiều. Áp lực đó sẽ tới Việt Nam ngay cả khi Googlebook không bán ở đây, vì các hãng đặt cấu hình theo mặt bằng toàn cầu. Bối cảnh cạnh tranh giữa các dòng chip laptop năm nay, gồm cả Panther Lake và Snapdragon mà Googlebook dùng, được đặt cạnh nhau trong bài [Chip laptop 2026: Panther Lake, Snapdragon X2 Elite và AMD](/articles/chip-laptop-2026-panther-lake-vs-snapdragon-x2-elite-vs-amd.html).

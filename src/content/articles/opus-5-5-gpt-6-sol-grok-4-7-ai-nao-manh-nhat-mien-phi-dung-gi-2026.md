@@ -72,6 +72,12 @@ Có một điểm cần đọc kỹ. Những con số trên được đo qua API
 
 Chênh lệch giữa bảng điểm tự công bố và đo độc lập cũng đáng chú ý. Bảng của chính xAI ghi Grok 4.7 đạt 37,6% trên Terminal-Bench 4.0, bài thi dùng máy tính để làm việc lập trình. Theo The Decoder, đo độc lập trên cùng bài thi chỉ ra **26%**, trong khi GPT-6 Astra đạt 60% và Claude Fable 5.1 đạt 55%. Đây là lý do bài này ưu tiên bảng chấm chung thay vì đặt các thông cáo cạnh nhau.
 
+<div class="art-video-label">VIDEO · Opus 5.5, GPT-6 Sol, Grok 4.7: điểm trên bảng chấm độc lập</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/yC4x_BeawVA" title="Opus 5.5, GPT-6 Sol, Grok 4.7: AI nào mạnh nhất?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Ba mô hình ra trong 48 giờ (21-22/9/2026). Trên Artificial Analysis Intelligence Index, Claude Opus 5.5 đạt 58 điểm, GPT-6 Sol 48, Grok 4.7 46, kèm những gì người dùng gói miễn phí được dùng. Nguồn: kênh YouTube TechVision</p>
+
 ## Claude Opus 5.5: đứng đầu nhưng chỉ ở gói trả phí
 
 Theo trang công bố của Anthropic, Opus 5.5 rẻ hơn thế hệ trước ở cả giá API lẫn chi phí chạy thực tế. Giá đầu vào giảm từ 5 USD xuống **4 USD** mỗi triệu token, đầu ra từ 25 USD xuống **20 USD**. Tính trên toàn bộ khối lượng công việc, hãng cho biết chi phí thấp hơn khoảng **40%** so với Opus 5, còn tốc độ sinh chữ nhanh hơn khoảng 30%.

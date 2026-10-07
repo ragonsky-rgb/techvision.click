@@ -84,6 +84,12 @@ Ngày 9/9, VnExpress ghi nhận iPhone 17 Pro Max bản thấp nhất từng bá
 
 So tại cùng hai chuỗi, iPhone 18 Pro Max 256GB đắt hơn iPhone 17 Pro Max 256GB đúng **7.400.000đ**. Giá của Thế Giới Di Động không đặt chung vào phép so này vì mức giảm hiển thị dưới dạng khuyến mại và phiếu mua hàng, không phải một giá bán duy nhất.
 
+<div class="art-video-label">VIDEO · iPhone 17 Pro Max giá quay về sau khi iPhone 18 lên kệ</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/k3x-OfUdkDk" title="iPhone 17 Pro Max giá quay về: mua mới, mua cũ hay lên iPhone 18?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 24/9: trước sự kiện máy từng giảm còn 33,6 tới 34 triệu, nay CellphoneS và FPT Shop bán 34.590.000đ, vẫn rẻ hơn iPhone 18 Pro khoảng 4,4 triệu, máy cũ ở Thế Giới Di Động từ 31.630.000đ. Nguồn: kênh YouTube TechVision</p>
+
 ## Giá iPhone 17 Pro Max đã đi xuống tới đâu
 
 Theo ghi nhận của VnExpress và CafeF ngày **9/9/2026**, iPhone 17 Pro Max máy mới chính hãng dao động quanh **33,6 tới 34 triệu đồng**, tức giảm khoảng 500.000 đồng so với đầu tháng 9. Đặt cạnh mức niêm yết **38 triệu đồng** khi máy ra mắt hồi tháng 9/2025, tổng mức giảm sau một năm vào khoảng **4 triệu đồng**.

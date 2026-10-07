@@ -82,6 +82,12 @@ Khác biệt đó chỉ có nghĩa với một nhóm công việc cụ thể. Ng
 
 Phía OpenAI, gói Go ra mắt tại Việt Nam cùng 15 thị trường châu Á khác với giá 120.000 đồng cộng 12.000 đồng thuế giá trị gia tăng, tổng 132.000 đồng mỗi tháng, và đây là gói trả phí rẻ nhất. Theo trang giá ChatGPT của OpenAI đọc ngày 30/9/2026, gói Plus có giá 522.500 đồng mỗi tháng, là ngưỡng thấp nhất chạm tới Astra, còn gói Pro có giá từ 2.849.000 đồng mỗi tháng. Gói Pro hiện có hai mức (tương ứng 100 USD và 200 USD ở Mỹ), và đây là gói mở Astra ngay trong khung chat dưới tên GPT-6 Pro. Phía Google, Google AI Plus 132.000 đồng, Google AI Pro 489.000 đồng và Google AI Ultra từ 2.250.000 đồng mỗi tháng cho hạn mức gấp nhiều lần, theo bảng giá FPT Shop tổng hợp. Mua qua App Store hoặc Google Play, giá có thể lệch đôi chút so với trang web tùy nền tảng.
 
+<div class="art-video-label">VIDEO · OpenAI ra mắt dot, trợ lý nằm sẵn trong gói ChatGPT Pro</div>
+<div class="art-video-wrap vertical">
+  <iframe src="https://www.youtube.com/embed/jQWt7Vf2z9c" title="OpenAI ra mắt dot: trợ lý ChatGPT làm việc 24/7, giá ở Việt Nam bao nhiêu?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="art-video-caption">Video ngày 30/9: dot ra mắt ngày 29/9, là trợ lý luôn bật trong ChatGPT, có máy tính đám mây riêng, chạy GPT-6 Astra và kết nối hơn 4.000 ứng dụng. Dot đầu tiên nằm sẵn trong gói Pro (từ 2.849.000đ mỗi tháng tại Việt Nam) và Business Premium, không tốn thêm phí. Nguồn: kênh YouTube TechVision</p>
+
 Nhìn theo bảng giá, thị trường đang hình thành hai nấc rõ rệt. Nấc khoảng 130.000 đồng dành cho người dùng phổ thông, đủ để bỏ quảng cáo chờ đợi và tăng hạn mức hỏi đáp. Nấc khoảng 500.000 đồng mở cửa các tính năng làm việc nhiều bước và, với ChatGPT, mô hình mạnh nhất trong chế độ Work và Codex. Nấc trên 2 triệu đồng dành cho người cần hạn mức rất cao hoặc muốn dùng mô hình mạnh nhất ngay trong khung chat. Ai đang cân nhắc giữa hai bên có thể tham khảo thêm bối cảnh cạnh tranh trong bài [Gemini đạt 1 tỷ người dùng](/articles/gemini-1-ty-nguoi-dung-google-lat-nguoc-the-co-truoc-chatgpt-2026.html).
 
 <figure>
