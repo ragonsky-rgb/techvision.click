@@ -71,6 +71,8 @@ Câu có hai năm (1977 và 1981) nở từ 5,8 lên **7,7 giây**. Clip Flow xu
 | HiLight | `Hai Lai` | |
 | OPPO | `Ốp pồ` | anh Long chốt 25/09/2026 (bản 15/09 ghi "Óp pô"); để nguyên "OPPO" là SAI, video OPPO 25/09 đã dính |
 | Pixel, Pro, RAM, CEO | để nguyên | tên đã quen, đọc đúng sẵn |
+| nút sườn (iPhone) | `nút nguồn` | 07/10/2026: "nút sườn" bị nghe thành "nút xương" 2/2 bản; "nút nguồn" đúng nút và đọc rõ |
+| ARM (chip) | để nguyên `ARM` | đọc thành "Am", đúng cách người Việt nói |
 | Pad (Xiaomi Pad 9) | `Pát` | 06/10/2026: để nguyên "Pad chín" thì Whisper nghe Paz/Part/BAT/39 ở 4/8 câu; "Pát chín" rõ |
 | 9.720mAh | `chín nghìn, bảy trăm hai mươi mili ampe giờ` | không có dấu phẩy thì giọng nuốt "nghìn" (nghe "97 2") |
 | Snapdragon | `Snáp đra gơn` | anh Long nghe 06/10/2026: để nguyên chữ thì "đọc chưa rõ"; `Snáp đra gơn` Whisper ra đúng "Snapdragon" 2/2, còn `Xnáp đờ ra gông` ra "XNABD Dragon" |

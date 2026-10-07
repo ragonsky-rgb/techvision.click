@@ -23,7 +23,8 @@ Hết video dựng sẵn sau 05/10, nên lịch video mới kéo sớm lên 1 ng
 | T4 07/10 | Worlds 2026: khai mạc 15/10 nhưng ở Việt Nam là 1h sáng 16/10 | A | worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau (06/10) | Play-in 1h sáng 16-19/10, chung kết 2h sáng 15/11, TSW vào thẳng vòng Thụy Sĩ |
 | T5 08/10 | Amazon Kuiper được cấp phép: chưa phải internet vệ tinh để mua | A | amazon-kuiper-cap-phep-viet-nam-khac-gi-starlink (05/10) | Giấy phép 23/9/2026 là mạng dùng riêng để thử nghiệm; gần 400 vệ tinh / mục tiêu hơn 3.200 |
 | T6 09/10 | Xiaomi Pad 9: 11,44 triệu quy đổi, nên đợi? | B | xiaomi-pad-9-va-pad-9-pro-ra-mat-gia-quy-doi-bao-gio-ve-viet-nam (09/10) | Pad 9 từ 2.999 tệ (~11,44 triệu), Pad 9 Pro từ 3.799 tệ (~14,49 triệu), chưa có giá chính hãng VN |
-| T7-CN | Dự phòng / Đổi bếp tập 2 nếu anh có cảnh quay | | | |
+| T7 10/10 | Surface Pro 12 về VN 38,99 triệu, chưa gồm bàn phím (thêm 07/10) | A | surface-pro-12-laptop-13-snapdragon-x2-plus-ban-13-10-2026 (08/10) | 16GB/256GB 38,99 triệu hàng nhập, đời trước 26,9 triệu, pin 15,5 giờ là số phát video |
+| CN 11/10 | iPhone Duo đặt trước 19h 16/10: nên mua, đợi hay bỏ qua? (thêm 07/10) | B (ĐỢI) | iphone-duo-dat-truoc-16-10-gia-viet-nam-co-nen-mua (01/10) | từ 64,999 triệu, 2TB 103,999 triệu, bỏ Face ID, bút cuối năm mới dùng |
 
 Media: trợ lý con gom 12-20 ảnh/clip thật mỗi video, ra manifest + sheet. Mỗi video giao kèm gói đăng 3 nền tảng + UTM `utm_campaign=video-<slug>`.
 
