@@ -2,7 +2,7 @@
 
 > Trạng thái: **DỰNG XONG 07/10/2026** trên Mac, kiểu linh vật TV nhỏ (ảnh/clip thật TO), giọng **OmniVoice** (long-ref-20s), intro A 1,5s, 45,4 giây, -13,9 LUFS / đỉnh -3,5 dBTP.
 > File: `00 - VIDEO XONG/2026-10-12 TechVision - windows-11-24h2-ban-va-cuoi.mp4` (26 MB, CRF 16) + `_ban-nhe-10MB/` (9 MB). Thumbnail: `out/series/win1012-thumb-ngang.jpg` / `-doc.jpg` (A, gạch 24H2, tiêu đề "Bản Windows này hết vá 13/10").
-> **CHƯA ĐĂNG** nền tảng nào: chờ anh Long nói "đăng".
+> **Facebook Reels ĐÃ HẸN 12/10/2026 19:00** (video_id 1413736466964569, https://www.facebook.com/reel/1413736466964569, anh Long nói "đăng" 07/10). YouTube API chưa được duyệt (thư 05/10: đang xét) nên hẹn qua Chrome: **YouTube Shorts ĐÃ HẸN 12/10/2026 19:00** (https://youtube.com/shorts/XPbIEQaf67Y). **TikTok @longtechvision ĐÃ HẸN 12/10/2026 19:00** (07/10, anh Long kéo file lần 2 sau khi Chrome mất kết nối, em điền chú thích + giờ).
 > Trang dựng: `techvision-video-kit/mascot/pages/win1012.html` (sinh từ `out/win1012/page.json` bằng `scripts/mascot_page.py`). Giọng + tiếng: `scripts/build_win.py` (nhạc Future House 134, -19 dB).
 
 - Series A "Đừng bị con số đánh lừa": máy đang chạy "Windows 11" vẫn có thể hết bản vá, con số quyết định là phiên bản **24H2** (gạch đỏ ở cảnh 1).
@@ -62,13 +62,13 @@ Máy chạy Windows 11 chưa chắc còn được vá ⚠️ Bản 24H2 Home và
 ```
 Link bio: https://techvision.click/articles/windows-11-26h2-co-gi-moi-cach-cap-nhat-may-nao-nhan-2026.html?utm_source=tiktok&utm_medium=social&utm_campaign=video-windows-11-24h2-ban-va-cuoi
 
-**YouTube Shorts**
+**YouTube Shorts** (mô tả YouTube CẤM ký tự `<` `>`, dùng `›`)
 
 Tiêu đề: `Windows 11 24H2 nhận bản vá cuối 13/10: kiểm tra máy trong 10 giây #Shorts`
 
 Mô tả:
 ```
-Theo trang vòng đời sản phẩm của Microsoft, Windows 11 phiên bản 24H2 bản Home và Pro kết thúc hỗ trợ ngày 14/10/2026 theo giờ Mỹ, nghĩa là bản vá ngày 13/10/2026 là bản cuối. Máy vẫn chạy Windows 11 nhưng sẽ không còn nhận bản vá bảo mật. Kiểm tra: Cài đặt > Hệ thống > Giới thiệu, xem dòng Phiên bản. Nếu là 24H2, vào Windows Update, bật nhận bản cập nhật sớm để lên 26H2 (Windows 11 2026 Update, phát hành 29/9/2026): gói kích hoạt tải nhỏ, khởi động lại một lần, không cài lại máy. 26H2 cho đặt taskbar ở cạnh trên, trái, phải, tắt hẳn kết quả web trong Search, và được hỗ trợ 24 tháng tới tháng 10/2028. Nhớ sao lưu dữ liệu trước khi cập nhật.
+Theo trang vòng đời sản phẩm của Microsoft, Windows 11 phiên bản 24H2 bản Home và Pro kết thúc hỗ trợ ngày 14/10/2026 theo giờ Mỹ, nghĩa là bản vá ngày 13/10/2026 là bản cuối. Máy vẫn chạy Windows 11 nhưng sẽ không còn nhận bản vá bảo mật. Kiểm tra: Cài đặt › Hệ thống › Giới thiệu, xem dòng Phiên bản. Nếu là 24H2, vào Windows Update, bật nhận bản cập nhật sớm để lên 26H2 (Windows 11 2026 Update, phát hành 29/9/2026): gói kích hoạt tải nhỏ, khởi động lại một lần, không cài lại máy. 26H2 cho đặt taskbar ở cạnh trên, trái, phải, tắt hẳn kết quả web trong Search, và được hỗ trợ 24 tháng tới tháng 10/2028. Nhớ sao lưu dữ liệu trước khi cập nhật.
 
 Cách cập nhật từng bước và cách hoãn nếu chưa muốn:
 https://techvision.click/articles/windows-11-26h2-co-gi-moi-cach-cap-nhat-may-nao-nhan-2026.html?utm_source=youtube&utm_medium=social&utm_campaign=video-windows-11-24h2-ban-va-cuoi
