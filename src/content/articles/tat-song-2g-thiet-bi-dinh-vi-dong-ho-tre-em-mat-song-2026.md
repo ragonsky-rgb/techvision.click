@@ -7,8 +7,6 @@ category: "Viễn thông"
 type: "huong-dan"
 datePublished: "2026-10-07T15:00:00+07:00"
 dateModified: "2026-10-07T15:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Từ 0 giờ ngày 16/9/2026, sóng 2G ngừng phát trên toàn quốc, trừ Trường Sa, Hoàng Sa và các nhà giàn DK. Phần lớn thông tin trước đó tập trung vào điện thoại cơ bản, nhưng nhóm chịu ảnh hưởng âm thầm hơn là những món cắm SIM mà chủ nhân gần như không bao giờ để ý: hộp định vị dưới yên xe máy, đồng hồ định vị trẻ em đời cũ, thiết bị báo động và cảm biến giám sát từ xa. Bài này chỉ cách kiểm tra từng loại và giá bản 4G đang bán tại Việt Nam."
 heroImage: "https://techvision.click/images/tat-song-2g-thiet-bi-dinh-vi-dong-ho-tre-em-mat-song-2026/tat-song-2g-tram-phat-song.jpg"
 heroAlt: "Tram phat song di dong voi bieu tuong cam 2G minh hoa viec tat song 2G tai Viet Nam"

@@ -10,7 +10,7 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 282
+- **Số bài viết:** 283
 - **Cập nhật:** 2026-10-07 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Tắt sóng 2G: thiết bị định vị, đồng hồ trẻ em nào mất sóng](https://techvision.click/articles/tat-song-2g-thiet-bi-dinh-vi-dong-ho-tre-em-mat-song-2026.html)
 - [Xiaomi UltraThin 5000 trên tay: pin hít 6mm, giá 1,39 triệu](https://techvision.click/articles/xiaomi-ultrathin-magnetic-power-bank-5000-tren-tay-gia-viet-nam.html)
 - [Worlds 2026: lịch thi đấu giờ Việt Nam, xem ở đâu](https://techvision.click/articles/worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau.html)
 - [Amazon Kuiper được cấp phép tại Việt Nam, khác gì Starlink](https://techvision.click/articles/amazon-kuiper-cap-phep-viet-nam-khac-gi-starlink.html)
@@ -44,7 +45,6 @@
 - [Snapdragon 8 Elite Gen 6 và Extreme Gen 6: chip 2nm 5GHz](https://techvision.click/articles/snapdragon-summit-2026-hai-chip-8-elite-gen-6-va-gen-6-pro.html)
 - [25 kịch bản lừa đảo mạng 2026: nhận biết và cách phòng](https://techvision.click/articles/25-kich-ban-lua-dao-mang-2026-cong-an-canh-bao-cach-phong.html)
 - [Internet Việt Nam vào top 10 thế giới: nhanh cỡ nào?](https://techvision.click/articles/internet-viet-nam-top-10-the-gioi-2026-toc-do-di-dong-co-dinh.html)
-- [Định danh tài khoản mạng xã hội 28/9: ai phải liên kết VNeID](https://techvision.click/articles/dinh-danh-tai-khoan-mang-xa-hoi-28-9-2026-lien-ket-vneid.html)
 
 ## Smartphone (72 bài)
 
@@ -328,8 +328,9 @@
 - [Samsung Galaxy Glasses: kính AI Gemini ra mắt 22/7, chưa có giá](https://techvision.click/articles/samsung-galaxy-glasses-july-2026.html)
 - [Xiaomi Band 10 Pro: AMOLED cong, pin 21 ngày](https://techvision.click/articles/xiaomi-band-10-pro.html)
 
-## Viễn thông (5 bài)
+## Viễn thông (6 bài)
 
+- [Tắt sóng 2G: thiết bị định vị, đồng hồ trẻ em nào mất sóng](https://techvision.click/articles/tat-song-2g-thiet-bi-dinh-vi-dong-ho-tre-em-mat-song-2026.html)
 - [Cách bật VoLTE trước ngày tắt sóng 2G 15/9/2026](https://techvision.click/articles/cach-bat-volte-truoc-ngay-tat-song-2g-15-9-2026.html)
 - [Tắt sóng 2G từ 15/9/2026: ai bị ảnh hưởng, cần làm gì](https://techvision.click/articles/tat-song-2g-15-9-2026-ai-bi-anh-huong-can-lam-gi.html)
 - [Pottel là gì: Vietnam Post thành mạng di động ảo thứ 6](https://techvision.click/articles/pottel-vietnam-post-mang-di-dong-ao-thu-6-sim-du-lich-2026.html)
