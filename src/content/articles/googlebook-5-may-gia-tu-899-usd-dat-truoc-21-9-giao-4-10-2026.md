@@ -7,8 +7,6 @@ category: "Laptop"
 type: "tin-tuc"
 datePublished: "2026-10-08T08:30:00+07:00"
 dateModified: "2026-10-08T08:30:00+07:00"
-scheduled: true
-noindex: true
 deck: "Googlebook đã qua giai đoạn đặt trước và theo lịch Google công bố thì lên kệ tại Mỹ từ 4/10/2026. Bảng giá cuối cùng của 5 máy khác khá nhiều so với con số các báo đưa hôm mở đặt trước: Dell XPS Googlebook còn 999 USD và Lenovo Googlebook 15 còn 1.099 USD. Bài này tổng hợp giá chính thức từng máy theo trang so sánh của Google, cấu hình nền 16GB RAM kèm 512GB mà cả 5 máy dùng chung, và vì sao người mua ở Việt Nam chưa cần tính tới Googlebook trong quý 4."
 heroImage: "https://techvision.click/images/googlebook-5-may-gia-tu-899-usd-dat-truoc-21-9-giao-4-10-2026/acer-googlebook-14-man-hinh-googlebook-os.jpg"
 heroAlt: "Acer Googlebook 14 dat tren ban hien thi man hinh chinh Googlebook OS voi cac o widget"

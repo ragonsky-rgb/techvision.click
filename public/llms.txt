@@ -10,8 +10,8 @@
 - **Tác giả:** Nguyễn Tấn Thiên Long
 - **Email:** longnguyenreview@gmail.com
 - **Loại nội dung:** Tin tức công nghệ, phân tích, tổng hợp - phi thương mại, phi quảng cáo
-- **Số bài viết:** 283
-- **Cập nhật:** 2026-10-07 (sinh tự động bởi scripts/build-llms.mjs)
+- **Số bài viết:** 284
+- **Cập nhật:** 2026-10-08 (sinh tự động bởi scripts/build-llms.mjs)
 
 ## Trang chính
 
@@ -25,6 +25,7 @@
 
 ## Bài viết mới nhất
 
+- [Googlebook lên kệ từ 4/10: giá 5 máy từ 899 tới 1.299 USD](https://techvision.click/articles/googlebook-5-may-gia-tu-899-usd-dat-truoc-21-9-giao-4-10-2026.html)
 - [Tắt sóng 2G: thiết bị định vị, đồng hồ trẻ em nào mất sóng](https://techvision.click/articles/tat-song-2g-thiet-bi-dinh-vi-dong-ho-tre-em-mat-song-2026.html)
 - [Xiaomi UltraThin 5000 trên tay: pin hít 6mm, giá 1,39 triệu](https://techvision.click/articles/xiaomi-ultrathin-magnetic-power-bank-5000-tren-tay-gia-viet-nam.html)
 - [Worlds 2026: lịch thi đấu giờ Việt Nam, xem ở đâu](https://techvision.click/articles/worlds-2026-lich-thi-dau-gio-viet-nam-xem-o-dau.html)
@@ -44,7 +45,6 @@
 - [Intel Nova Lake: 52 nhân, socket LGA1954, bao giờ bán?](https://techvision.click/articles/intel-nova-lake-core-ultra-400-52-nhan-lga1954-bao-gio-ban.html)
 - [Snapdragon 8 Elite Gen 6 và Extreme Gen 6: chip 2nm 5GHz](https://techvision.click/articles/snapdragon-summit-2026-hai-chip-8-elite-gen-6-va-gen-6-pro.html)
 - [25 kịch bản lừa đảo mạng 2026: nhận biết và cách phòng](https://techvision.click/articles/25-kich-ban-lua-dao-mang-2026-cong-an-canh-bao-cach-phong.html)
-- [Internet Việt Nam vào top 10 thế giới: nhanh cỡ nào?](https://techvision.click/articles/internet-viet-nam-top-10-the-gioi-2026-toc-do-di-dong-co-dinh.html)
 
 ## Smartphone (72 bài)
 
@@ -257,8 +257,9 @@
 - [WWDC 2026 (8/6): Siri mới chạy Google Gemini, preview iOS 27](https://techvision.click/articles/wwdc-2026-siri-google-gemini-ios-27-preview.html)
 - [iPhone sẽ tự khóa khi bị giật khỏi tay: tính năng mới](https://techvision.click/articles/apple-iphone-tu-khoa-khi-bi-giat-chong-trom-2026.html)
 
-## Laptop (24 bài)
+## Laptop (25 bài)
 
+- [Googlebook lên kệ từ 4/10: giá 5 máy từ 899 tới 1.299 USD](https://techvision.click/articles/googlebook-5-may-gia-tu-899-usd-dat-truoc-21-9-giao-4-10-2026.html)
 - [Googlebook ra mắt 15/9: Android lên laptop, thay Chromebook](https://techvision.click/articles/googlebook-aluminium-os-ra-mat-15-9-2026-android-len-laptop.html)
 - [Nâng cấp RAM, SSD cho laptop cũ 2026: giá bao nhiêu, có đáng?](https://techvision.click/articles/nang-cap-ram-ssd-laptop-cu-2026-gia-linh-kien-viet-nam.html)
 - [Lenovo Yoga Pro 7a về Việt Nam: giá 69,99 triệu đồng](https://techvision.click/articles/lenovo-yoga-pro-7a-ra-mat-viet-nam-gia-69-99-trieu-2026.html)
