@@ -5,8 +5,8 @@
 > **Anh Long duyệt "đăng sớm, tin hot" 08/10.** Hẹn 09/10/2026 12:00 cả 3 nền tảng (19:00 cùng ngày đã có video Xiaomi Pad 9): Facebook qua `fb_reel.py`, YouTube + TikTok qua Chrome (API YouTube chưa được duyệt).
 > Trang dựng: `techvision-video-kit/mascot/pages/slu1013.html` (sinh từ `out/slu1013/page.json` bằng `scripts/mascot_page.py`). Giọng + tiếng: `scripts/build_slu.py` (nhạc Tropical 126, -19 dB).
 
-- Ban đầu xếp T3 13/10 (thay video iPhone 18 X/A đang tạm dừng); anh Long bảo đăng sớm vì tin nóng nên kéo lên 09/10 12:00. Bài web cũng kéo từ 09/10 15:00 lên 09/10 05:00 (08/10 đã đủ 2 bài, giữ trần 2 bài/ngày; bot thả bài chạy mỗi giờ nhưng hay trễ 1-3 giờ nên chừa 7 giờ trước giờ video).
-- Bài web ăn theo: https://techvision.click/articles/surface-laptop-ultra-rtx-spark-gia-viet-nam-2026.html (hẹn lên 09/10/2026 05:00, kéo sớm từ 15:00).
+- Ban đầu xếp T3 13/10 (thay video iPhone 18 X/A đang tạm dừng); anh Long bảo đăng sớm vì tin nóng nên kéo lên 09/10 12:00. Bài web phát hành tay 08/10 20:20 (anh Long: "cứ đăng bài tối nay đi", chấp nhận ngày 08/10 có 3 bài).
+- Bài web ăn theo: https://techvision.click/articles/surface-laptop-ultra-rtx-spark-gia-viet-nam-2026.html (phát hành 08/10/2026 20:20).
 - Luật một sản phẩm: video chỉ nói Surface Laptop Ultra. KHÔNG nhắc MacBook (các so sánh MacBook là số hãng, để trong bài), KHÔNG nhắc Dev Box (ảnh sân khấu 07 đã cắt bỏ nửa có giá Dev Box -> m21).
 
 ## Số liệu (đọc tận gốc 08/10/2026)

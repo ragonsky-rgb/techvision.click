@@ -7,8 +7,6 @@ category: "Laptop"
 type: "tin-tuc"
 datePublished: "2026-10-08T15:00:00+07:00"
 dateModified: "2026-10-08T15:00:00+07:00"
-scheduled: true
-noindex: true
 deck: "Microsoft đưa chip Snapdragon X2 Plus xuống hai máy Surface nhỏ nhất trong dòng, bán từ 13/10/2026. Cấu hình khởi điểm lên 16GB RAM vì Microsoft bỏ hẳn bản 8GB, và giá khởi điểm vì vậy vượt mốc 1.100 USD. Ở Việt Nam, cửa hàng nhập khẩu đã báo giá Surface Pro 12 inch đời mới từ 38,99 triệu đồng, cao hơn đời cũ khoảng 12 triệu, và đó là con số người mua trong nước cần nhìn trước tiên."
 heroImage: "https://techvision.click/images/surface-pro-12-laptop-13-snapdragon-x2-plus-ban-13-10-2026/surface-pro-12-inch-x2-plus-mau-tim.jpg"
 heroAlt: "Surface Pro 12 inch mau tim kem but Slim Pen va chuot Surface Mouse moi"
