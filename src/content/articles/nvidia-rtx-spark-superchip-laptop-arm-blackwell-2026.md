@@ -7,7 +7,7 @@ keywords: "NVIDIA RTX Spark, superchip laptop, Grace Blackwell, Surface Laptop U
 category: "Laptop"
 type: "tin-tuc"
 datePublished: "2026-07-05T18:40:00+07:00"
-dateModified: "2026-10-09T15:00:00+07:00"
+dateModified: "2026-10-09T05:00:00+07:00"
 deck: "NVIDIA và Microsoft vừa công bố RTX Spark, một superchip laptop chạy Windows on Arm kết hợp CPU Grace 20 nhân với GPU Blackwell, chia sẻ tới 128GB RAM hợp nhất qua NVLink-C2C, mở đầu thế hệ laptop AI mới dự kiến bán ra từ mùa thu 2026."
 heroImage: "https://i.ytimg.com/vi/BxNeG_CblFc/maxresdefault.jpg"
 heroAlt: "NVIDIA RTX Spark superchip laptop ARM Blackwell 2026"

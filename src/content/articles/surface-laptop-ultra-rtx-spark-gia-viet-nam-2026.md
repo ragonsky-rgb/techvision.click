@@ -5,8 +5,8 @@ description: "Surface Laptop Ultra chip NVIDIA RTX Spark giá 2.599,99 tới 5.8
 keywords: "surface laptop ultra, surface laptop ultra giá, surface laptop ultra giá việt nam, nvidia rtx spark, rtx spark n1x, laptop windows arm, surface laptop ultra vs macbook pro"
 category: "Laptop"
 type: "tin-tuc"
-datePublished: "2026-10-09T15:00:00+07:00"
-dateModified: "2026-10-09T15:00:00+07:00"
+datePublished: "2026-10-09T05:00:00+07:00"
+dateModified: "2026-10-09T05:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Microsoft mở đặt trước Surface Laptop Ultra ngày 7/10/2026 tại San Francisco, máy giao từ 16/10. Đây là Surface đắt nhất từ trước tới nay, chạy chip NVIDIA RTX Spark trên nền Windows on Arm, giá từ 2.599,99 USD cho bản 18 lõi CPU và lên tới 5.899,99 USD cho bản 128GB RAM. Ở Việt Nam chưa có giá chính hãng, cửa hàng nhập khẩu mới đưa đủ 8 cấu hình lên trang nhưng chưa báo giá bằng tiền đồng."
