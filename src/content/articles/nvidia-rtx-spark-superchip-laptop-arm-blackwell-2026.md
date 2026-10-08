@@ -7,7 +7,7 @@ keywords: "NVIDIA RTX Spark, superchip laptop, Grace Blackwell, Surface Laptop U
 category: "Laptop"
 type: "tin-tuc"
 datePublished: "2026-07-05T18:40:00+07:00"
-dateModified: "2026-07-05T18:40:00+07:00"
+dateModified: "2026-10-09T15:00:00+07:00"
 deck: "NVIDIA và Microsoft vừa công bố RTX Spark, một superchip laptop chạy Windows on Arm kết hợp CPU Grace 20 nhân với GPU Blackwell, chia sẻ tới 128GB RAM hợp nhất qua NVLink-C2C, mở đầu thế hệ laptop AI mới dự kiến bán ra từ mùa thu 2026."
 heroImage: "https://i.ytimg.com/vi/BxNeG_CblFc/maxresdefault.jpg"
 heroAlt: "NVIDIA RTX Spark superchip laptop ARM Blackwell 2026"
@@ -41,6 +41,8 @@ related:
   - { href: "/articles/laptop-snapdragon-x2-elite-2026-surface-moi-npu-80-tops-pin-trau.html", cat: "Laptop", title: "Laptop Snapdragon X2 Elite 2026: NPU 80 TOPS, pin trâu" }
 featured: true
 ---
+
+<div class="art-callout">💡 <strong>Cập nhật 09/10/2026:</strong> Microsoft đã công bố giá và ngày bán Surface Laptop Ultra chạy RTX Spark: từ 2.599,99 USD, giao từ 16/10/2026. Giá từng cấu hình, quy đổi tiền đồng và các điểm cần biết khi mua ở Việt Nam có trong bài <a href="/articles/surface-laptop-ultra-rtx-spark-gia-viet-nam-2026.html">Surface Laptop Ultra giá từ 2.599 USD, quy đổi khoảng 68 triệu</a>.</div>
 
 NVIDIA vừa cùng Microsoft công bố RTX Spark, một superchip hoàn toàn mới dành cho laptop và mini-PC chạy Windows on Arm, đánh dấu bước tiến mới trong chiến lược tích hợp sâu giữa CPU và GPU của NVIDIA vốn trước đây chỉ xuất hiện trên các hệ thống trung tâm dữ liệu cỡ lớn. Sản phẩm được công bố tại Computex 2026, với sự xuất hiện của CEO Jensen Huang giới thiệu trực tiếp trên sân khấu tại Đài Bắc.
 
