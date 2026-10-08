@@ -1,11 +1,11 @@
-# Video: Surface Laptop Ultra quy đổi ~68 triệu: nên mua, đợi hay bỏ qua? (series B, ĐỢI, đăng sớm T5 09/10/2026 12:00)
+# Video: Surface Laptop Ultra quy đổi ~68 triệu: nên mua, đợi hay bỏ qua? (series B, ĐỢI, đăng sớm tối T5 08/10/2026 21:00)
 
-> Trạng thái: **DỰNG XONG 08/10/2026** trên Mac, kiểu linh vật TV nhỏ (ảnh/clip thật TO), giọng **OmniVoice** (long-ref-20s), series B kết luận **ĐỢI**. Thời lượng/âm lượng: xem mục Kiểm tra.
-> File: `00 - VIDEO XONG/2026-10-13 TechVision - surface-laptop-ultra-nen-doi.mp4` + `_ban-nhe-10MB/`. Thumbnail: `out/series/slu1013-thumb-ngang.jpg` / `-doc.jpg` (B, nhãn ĐỢI).
-> **Anh Long duyệt "đăng sớm, tin hot" 08/10.** Hẹn 09/10/2026 12:00 cả 3 nền tảng (19:00 cùng ngày đã có video Xiaomi Pad 9): Facebook qua `fb_reel.py`, YouTube + TikTok qua Chrome (API YouTube chưa được duyệt).
+> Trạng thái: **DỰNG XONG 08/10/2026** trên Mac, kiểu linh vật TV nhỏ (ảnh/clip thật TO), giọng **OmniVoice** (long-ref-20s), series B kết luận **ĐỢI**. 47,3 giây, -13,9 LUFS / đỉnh -3,2 dBTP.
+> File: `00 - VIDEO XONG/2026-10-08 TechVision - surface-laptop-ultra-nen-doi.mp4` (38 MB, CRF 16) + `_ban-nhe-10MB/`. Thumbnail: `out/series/slu1013-thumb-ngang.jpg` / `-doc.jpg` (B, nhãn ĐỢI).
+> **Anh Long duyệt "đăng sớm, tin hot" 08/10.** Hẹn 08/10/2026 21:00 cả 3 nền tảng (19:00 hôm nay là video Kuiper, 09/10 19:00 là Xiaomi Pad 9): Facebook qua `fb_reel.py`, YouTube + TikTok qua Chrome (API YouTube chưa được duyệt).
 > Trang dựng: `techvision-video-kit/mascot/pages/slu1013.html` (sinh từ `out/slu1013/page.json` bằng `scripts/mascot_page.py`). Giọng + tiếng: `scripts/build_slu.py` (nhạc Tropical 126, -19 dB).
 
-- Ban đầu xếp T3 13/10 (thay video iPhone 18 X/A đang tạm dừng); anh Long bảo đăng sớm vì tin nóng nên kéo lên 09/10 12:00. Bài web phát hành tay 08/10 20:20 (anh Long: "cứ đăng bài tối nay đi", chấp nhận ngày 08/10 có 3 bài).
+- Ban đầu xếp T3 13/10 (thay video iPhone 18 X/A đang tạm dừng); anh Long bảo đăng sớm vì tin nóng nên kéo lên tối 08/10 21:00. Bài web phát hành tay 08/10 20:20 (anh Long: "cứ đăng bài tối nay đi", chấp nhận ngày 08/10 có 3 bài).
 - Bài web ăn theo: https://techvision.click/articles/surface-laptop-ultra-rtx-spark-gia-viet-nam-2026.html (phát hành 08/10/2026 20:20).
 - Luật một sản phẩm: video chỉ nói Surface Laptop Ultra. KHÔNG nhắc MacBook (các so sánh MacBook là số hãng, để trong bài), KHÔNG nhắc Dev Box (ảnh sân khấu 07 đã cắt bỏ nửa có giá Dev Box -> m21).
 
@@ -25,10 +25,10 @@
 ## Kịch bản (8 câu)
 
 1. Surface Laptop Ultra quy đổi khoảng 68 triệu đồng, nhưng anh chị khoan hãy đặt hàng.
-2. Ngày 7/10, Microsoft mở đặt trước, giao từ 16/10, giá khởi điểm 2.599 USD ở Mỹ, chưa gồm thuế.
+2. Ngày 7/10, Microsoft mở đặt trước, giao từ 16/10, giá khởi điểm gần 2.600 USD ở Mỹ, chưa gồm thuế.
 3. Máy dùng chip mới của NVIDIA, tối đa 20 lõi xử lý và 128GB RAM, màn 15 inch, tần số quét 120Hz.
 4. Đầu sạc USB-C tự hút vào máy, cổng vẫn dùng như USB-C thường, và ổ lưu trữ tháo ra thay được.
-5. Nhưng bản rẻ nhất chỉ có 18 lõi, 24GB RAM, 512GB lưu trữ; bản 128GB lên tới 5.899 USD, khoảng 154 triệu.
+5. Nhưng bản rẻ nhất chỉ có 18 lõi, 24GB RAM, 512GB lưu trữ; còn bản 128GB lên tới gần 5.900 USD, khoảng 154 triệu.
 6. Microsoft chưa bán chính hãng ở Việt Nam, hàng nhập khẩu chưa báo giá, và máy chạy chip Arm nên phải kiểm phần mềm, game trước khi mua.
 7. Vậy nên mua, đợi hay bỏ qua? Em chọn đợi bài đo thật và giá Việt Nam.
 8. Bảng giá cả 8 cấu hình, em để chi tiết trong bài trên TechVision.
@@ -50,7 +50,8 @@ Lời đọc cho OmniVoice: `techvision-video-kit/out/slu1013/script_voice.txt` 
 
 ## Kiểm tra
 
-(điền sau khi dựng: thời lượng, LUFS, Whisper)
+Whisper soát bản thành phẩm 8/8 câu đạt (08/10). Giá đọc nguyên số ("hai nghìn năm trăm chín mươi chín đô", "năm nghìn tám trăm chín mươi chín đô") hỏng ở CẢ hai bản thu: Whisper nghe "2 năm 99", "58,99", "599 đô". Đổi thành "gần hai nghìn sáu trăm đô" / "gần năm nghìn chín trăm đô" thì sạch. Trên hình vẫn ghi đúng 2.599 USD. Bài học: giá USD 4 chữ số lẻ nên đọc tròn "gần X trăm".
+Gpu_guard: GPU cao nhất 70%, không phải dừng.
 
 ## Gói đăng
 
