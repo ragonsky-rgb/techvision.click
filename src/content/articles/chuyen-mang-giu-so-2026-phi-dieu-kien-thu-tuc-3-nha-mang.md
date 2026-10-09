@@ -10,9 +10,9 @@ dateModified: "2026-10-14T15:00:00+07:00"
 noindex: true
 scheduled: true
 deck: "Chuyển mạng giữ số là quyền của người dùng di động Việt Nam, và từ ngày 10/8/2025 quyền này được quy định lại bằng Thông tư 09/2025/TT-BKHCN của Bộ Khoa học và Công nghệ, thay cho Thông tư 35/2017. Nhiều hướng dẫn trên mạng vẫn chép quy định cũ, như nhắn xác nhận trong 24 giờ hay phải cam kết ở lại 90 ngày. Bài này đối chiếu thẳng với văn bản mới: điều kiện, thủ tục, cú pháp tin nhắn, mức phí thật, và những việc phải làm ngay sau khi chuyển xong."
-heroImage: "https://i.ytimg.com/vi/lmuoUBIQx7A/maxresdefault.jpg"
-heroAlt: "Hướng dẫn chuyển mạng giữ số giữa các nhà mạng Viettel, MobiFone, VinaPhone"
-heroCaption: "Thủ tục chuyển mạng làm với nhà mạng bạn muốn chuyển đến, trực tiếp hoặc qua ứng dụng. Nguồn: YouTube (Thế Giới Di Động)"
+heroImage: "https://techvision.click/images/chuyen-mang-giu-so-2026-phi-dieu-kien-thu-tuc-3-nha-mang/the-sim-dien-thoai-can-canh.jpg"
+heroAlt: "Cận cảnh thẻ SIM điện thoại màu xanh trên nền tối, minh họa chuyển mạng giữ số"
+heroCaption: "Thủ tục chuyển mạng làm với nhà mạng bạn muốn chuyển đến, trực tiếp hoặc qua ứng dụng. Ảnh: Pexels / Pascal"
 ogImage: "https://techvision.click/uploads/og-article/chuyen-mang-giu-so-2026-phi-dieu-kien-thu-tuc-3-nha-mang.jpg"
 tldr: "Chuyển mạng giữ số hiện làm theo <strong>Thông tư 09/2025/TT-BKHCN</strong>, hiệu lực từ <strong>10/8/2025</strong>. Điều kiện chính: thuê bao <strong>đang hoạt động hai chiều</strong>, <strong>thông tin khớp</strong> với nhà mạng cũ, số đã kích hoạt tối thiểu <strong>90 ngày</strong> với lần chuyển đầu và <strong>60 ngày</strong> từ lần thứ hai. Thuê bao trả sau phải trả hết cước các kỳ trước, cước phát sinh trong kỳ <strong>không quá 500.000 đồng</strong> và không dùng chuyển vùng quốc tế trong 60 ngày. Đăng ký được <strong>trực tuyến qua ứng dụng</strong> hoặc tại điểm giao dịch của nhà mạng chuyển đến, sau đó nhắn <strong>YCCM gửi 1441 trong vòng 4 giờ</strong>, quá hạn thì yêu cầu bị hủy. Tổng chi phí phổ biến là <strong>50.000 đồng trả trước, 60.000 đồng trả sau</strong>, riêng phí chuyển mạng của VinaPhone là <strong>15.000 đồng</strong> chưa gồm SIM và hòa mạng."
 tags: ["VienThong", "SIM", "Viettel", "MobiFone", "2026"]
@@ -30,7 +30,7 @@ stats:
   - { num: "1-2 ngày", label: "Thời gian chuyển mạng ở ba nhà mạng lớn theo Bộ Khoa học và Công nghệ" }
 faq:
   - q: "Chuyển mạng giữ số mất bao nhiêu tiền?"
-    a: "Mức phổ biến là 50.000 đồng với thuê bao trả trước và 60.000 đồng với thuê bao trả sau, đã gồm phí SIM và hòa mạng. VNPT VinaPhone công bố tách rõ: phí chuyển mạng chỉ 15.000 đồng, cộng 10.000 đồng tiền SIM và 25.000 đồng (trả trước) hoặc 35.000 đồng (trả sau) phí hòa mạng. Theo Thông tư 09/2025/TT-BKHCN, nếu chuyển mạng không thành công mà thuê bao không vi phạm điều kiện chuyển mạng thì phí đã trả phải được hoàn lại. Hãy hỏi rõ tổng số tiền tại quầy hoặc trên ứng dụng trước khi xác nhận."
+    a: "Theo bảng phí VinaPhone công bố, tổng là 50.000 đồng với thuê bao trả trước và 60.000 đồng với thuê bao trả sau, đã gồm phí SIM và hòa mạng. VNPT VinaPhone công bố tách rõ: phí chuyển mạng chỉ 15.000 đồng, cộng 10.000 đồng tiền SIM và 25.000 đồng (trả trước) hoặc 35.000 đồng (trả sau) phí hòa mạng. Theo Thông tư 09/2025/TT-BKHCN, nếu chuyển mạng không thành công mà thuê bao không vi phạm điều kiện chuyển mạng thì giá dịch vụ chuyển mạng đã trả phải được hoàn lại. Hãy hỏi rõ tổng số tiền tại quầy hoặc trên ứng dụng trước khi xác nhận."
   - q: "Điều kiện để được chuyển mạng giữ số là gì?"
     a: "Theo Điều 5 Thông tư 09/2025/TT-BKHCN: thuê bao đang hoạt động hai chiều; thông tin đăng ký (số và loại giấy tờ) trùng khớp với nhà mạng đang dùng; số đã kích hoạt tối thiểu 90 ngày nếu chuyển lần đầu, 60 ngày nếu chuyển từ lần thứ hai. Thuê bao trả sau phải trả hết cước các kỳ trước, cước phát sinh trong kỳ không quá 500.000 đồng và không dùng chuyển vùng quốc tế trong 60 ngày trước khi đăng ký. Ngoài ra số không bị tranh chấp, không đang trong một giao dịch chuyển mạng khác và không vi phạm hợp đồng với nhà mạng cũ."
   - q: "Thủ tục làm ở đâu và mất bao lâu?"
@@ -60,7 +60,7 @@ Chuyển mạng giữ số là quyền đã có từ lâu của người dùng d
     <tr><td>Tin nhắn xác nhận</td><td>YCCM gửi 1441, trong vòng 4 giờ sau khi đăng ký xong</td></tr>
     <tr><td>Tin nhắn hủy</td><td>HUYCM gửi 1441, trước khi có lịch chuyển mạng</td></tr>
     <tr><td>Chi phí phổ biến</td><td>50.000 đồng trả trước, 60.000 đồng trả sau, gồm SIM và hòa mạng</td></tr>
-    <tr><td>Thời gian xử lý</td><td>Khoảng 1 tới 2 ngày làm việc ở ba nhà mạng lớn</td></tr>
+    <tr><td>Thời gian xử lý</td><td>Khoảng 1 tới 2 ngày làm việc ở ba nhà mạng lớn (theo Bộ Khoa học và Công nghệ)</td></tr>
   </table>
 </div>
 
@@ -87,8 +87,8 @@ Chuyển mạng giữ số là quyền đã có từ lâu của người dùng d
 Khi đăng ký, bạn xuất trình giấy tờ tùy thân (bản gốc, bản sao chứng thực hoặc bản điện tử có giá trị như bản gốc), điền phiếu đăng ký và nộp phí. Với cách làm tại quầy, bạn nhận luôn SIM của nhà mạng mới. SIM này chưa dùng được ngay, nó chỉ hoạt động khi quá trình chuyển hoàn tất.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/uDr4VD35jt8/maxresdefault.jpg" alt="Các bước chuyển sang mạng Viettel giữ nguyên số theo hướng dẫn của nhà mạng" loading="lazy" width="1280" height="720">
-  <figcaption>Nhà mạng chuyển đến là nơi tiếp nhận hồ sơ và giao SIM mới. Nguồn: YouTube (Viettel Telecom)</figcaption>
+  <img decoding="async" src="https://techvision.click/images/chuyen-mang-giu-so-2026-phi-dieu-kien-thu-tuc-3-nha-mang/diem-giao-dich-nha-mang-tren-pho.jpg" alt="Điểm giao dịch của nhà mạng Viettel có biển 5G trên một góc phố ở Việt Nam" loading="lazy" width="1067" height="1600">
+  <figcaption>Nhà mạng chuyển đến là nơi tiếp nhận hồ sơ và giao SIM mới. Ảnh: Unsplash / Nguyen Minh</figcaption>
 </figure>
 
 Bước tiếp theo là bước khiến hồ sơ tự hết hiệu lực nếu quên. Theo Thông tư 09/2025, trong vòng **4 giờ** kể từ lúc hoàn tất đăng ký, bạn phải nhắn tin từ chính số điện thoại đang chuyển với cú pháp **YCCM** gửi **1441**. Quá thời hạn này mà Trung tâm chuyển mạng không nhận được tin nhắn hợp lệ, yêu cầu sẽ bị hủy và bạn phải làm lại. Nhiều hướng dẫn cũ trên mạng vẫn ghi 24 giờ, đừng dựa vào con số đó. Nếu đổi ý, cú pháp hủy là **HUYCM** gửi **1441**, dùng được cho tới trước khi bạn nhận tin nhắn báo lịch chuyển mạng.
@@ -97,14 +97,14 @@ Sau đó nhà mạng cũ kiểm tra điều kiện và trả lời đồng ý ho
 
 ## Phí thật là bao nhiêu
 
-Con số hay được nhắc là 60.000 đồng, nhưng cần hiểu đúng đó là tổng chi phí trọn gói phổ biến cho thuê bao trả sau, còn trả trước là 50.000 đồng. VNPT VinaPhone là nhà mạng công bố tách bạch nhất: phí chuyển mạng chỉ 15.000 đồng, cộng 10.000 đồng tiền SIM trắng và 25.000 đồng (trả trước) hoặc 35.000 đồng (trả sau) phí hòa mạng. Viettel và MobiFone áp mức trọn gói tương đương, nhưng thường kèm gói cước ưu đãi cho khách chuyển đến, nên tổng tiền phải trả ngày đầu có thể cao hơn nếu bạn đăng ký gói luôn.
+Con số hay được nhắc là 60.000 đồng, nhưng cần hiểu đúng đó là tổng chi phí trọn gói phổ biến cho thuê bao trả sau, còn trả trước là 50.000 đồng. VNPT VinaPhone là nhà mạng công bố tách bạch nhất: phí chuyển mạng chỉ 15.000 đồng, cộng 10.000 đồng tiền SIM trắng và 25.000 đồng (trả trước) hoặc 35.000 đồng (trả sau) phí hòa mạng. Viettel và MobiFone không công bố biểu phí tách bạch trên trang chuyển mạng khi TechVision kiểm ngày 9/10/2026, nên hãy hỏi rõ tổng tiền tại quầy hoặc trên ứng dụng, nhất là khi được mời đăng ký kèm gói cước.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/6vFoLGTdikc/maxresdefault.jpg" alt="Bản tin truyền hình về các bước chuyển đổi nhà mạng giữ nguyên số với mức phí 60.000 đồng" loading="lazy" width="1280" height="720">
-  <figcaption>Mức 60.000 đồng đã quen thuộc từ ngày dịch vụ ra đời, nay là tổng chi phí trọn gói phổ biến cho thuê bao trả sau. Nguồn: YouTube (VTV24)</figcaption>
+  <img decoding="async" src="https://techvision.click/images/chuyen-mang-giu-so-2026-phi-dieu-kien-thu-tuc-3-nha-mang/vnpt-vinaphone-bang-phi-chuyen-mang-giu-so.jpg" alt="Bảng phí chuyển mạng giữ số của VinaPhone: 15.000 đồng phí chuyển mạng, 10.000 đồng SIM, phí hòa mạng 25.000 hoặc 35.000 đồng" loading="lazy" width="1220" height="615">
+  <figcaption>VinaPhone công bố tách từng khoản: tổng 50.000 đồng với trả trước và 60.000 đồng với trả sau. Ảnh chụp màn hình: digishop.vnpt.vn</figcaption>
 </figure>
 
-Một quy định có lợi cho người dùng trong thông tư mới: nếu chuyển mạng không thành công mà bạn không vi phạm điều kiện nào, phí đã trả phải được hoàn lại. Vì vậy hãy giữ biên nhận hoặc ảnh chụp màn hình giao dịch trên ứng dụng cho tới khi số đã sang mạng mới.
+Một quy định có lợi cho người dùng trong thông tư mới: nếu chuyển mạng không thành công mà bạn không vi phạm điều kiện nào, giá dịch vụ chuyển mạng bạn đã trả phải được hoàn lại; thông tư không nói rõ phần tiền SIM và phí hòa mạng. Vì vậy hãy giữ biên nhận hoặc ảnh chụp màn hình giao dịch trên ứng dụng cho tới khi số đã sang mạng mới.
 
 ## Ba việc phải làm ngay sau khi chuyển xong
 
@@ -119,8 +119,8 @@ Thứ ba, kiểm tra cấu hình mạng trên máy. Sau khi đổi nhà mạng, 
 Câu hỏi thật sự không phải làm thế nào mà là có nên. Ba lý do đáng để chuyển: vùng phủ sóng ở nơi bạn sống và làm việc kém, giá gói cước dữ liệu chênh lệch rõ với nhu cầu thực tế, hoặc bạn cần một dịch vụ mà nhà mạng hiện tại không có. Trong đó lý do sóng là lý do đáng tin nhất, vì nó đo được: mượn máy của người dùng nhà mạng bạn định chuyển tới, thử ở đúng chỗ bạn làm việc và đúng chỗ bạn ngủ.
 
 <figure>
-  <img decoding="async" src="https://i.ytimg.com/vi/aBrbvX8exKw/maxresdefault.jpg" alt="Phóng sự truyền hình về việc nhà mạng tìm cách giữ chân khách hàng muốn chuyển mạng" loading="lazy" width="1280" height="720">
-  <figcaption>Những năm đầu, nhiều người phản ánh bị nhà mạng cũ gây khó khi muốn đi. Quy định mới buộc nhà mạng nêu rõ lý do khi từ chối. Nguồn: YouTube (VTV24)</figcaption>
+  <img decoding="async" src="https://techvision.click/images/chuyen-mang-giu-so-2026-phi-dieu-kien-thu-tuc-3-nha-mang/nguoi-dung-dien-thoai-sau-chuyen-mang.jpg" alt="Người đàn ông đội mũ ngồi trước quán ăn ở Việt Nam, đang xem điện thoại" loading="lazy" width="1055" height="1600">
+  <figcaption>Lý do đáng tin nhất để chuyển mạng là sóng ở nơi bạn sống và làm việc. Quy định mới buộc nhà mạng cũ nêu rõ lý do khi từ chối. Ảnh: Pexels / Tuan Vy</figcaption>
 </figure>
 
 Ngược lại, lý do khuyến mãi hòa mạng mới thường là lý do yếu. Ưu đãi chỉ tính trong vài tháng đầu, trong khi bạn phải trả phí chuyển và chờ đủ 60 ngày mới được chuyển tiếp nếu không hài lòng. Nếu tính ra số tiền tiết kiệm thực tế chỉ vài chục nghìn mỗi tháng, phần lợi có thể không bù được thời gian và rủi ro gián đoạn liên lạc.
