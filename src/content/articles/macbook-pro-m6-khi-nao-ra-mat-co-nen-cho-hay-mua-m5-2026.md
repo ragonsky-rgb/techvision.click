@@ -1,7 +1,7 @@
 ---
 slug: "macbook-pro-m6-khi-nao-ra-mat-co-nen-cho-hay-mua-m5-2026"
 title: "MacBook Pro M6 khi nào ra mắt, có nên chờ hay mua M5?"
-description: "Chip M6 2nm đã bán trong Mac mini từ 24,999 triệu. MacBook Pro 14 inch M6 được đồn ra tháng 10/2026, không có bản M6 Pro, M6 Max. Ai nên chờ, ai nên mua M5."
+description: "Chip M6 2nm đã bán trong Mac mini từ 24,999 triệu. MacBook Pro 14 inch M6 được đồn ra khoảng 27/10/2026, không có bản M6 Pro, M6 Max. Ai nên chờ, ai nên mua M5."
 keywords: "MacBook Pro M6 khi nào ra mắt, chip M6 2nm, có nên chờ MacBook Pro M6, MacBook Pro M5 giá Việt Nam, M6 Pro M6 Max, Mac mini M6 giá"
 category: "Laptop"
 type: "tin-tuc"
@@ -9,12 +9,12 @@ datePublished: "2026-10-14T09:00:00+07:00"
 dateModified: "2026-10-14T09:00:00+07:00"
 noindex: true
 scheduled: true
-deck: "Apple đã công bố chip M6 từ ngày 25/8/2026 và cho nó lên kệ trước tiên trong Mac mini, nhưng chiếc máy mà phần đông người dùng chờ đợi là MacBook Pro thì tính tới 30/9/2026 vẫn chưa có. Theo Bloomberg, máy sẽ là bản 14 inch cấu hình gốc, dự kiến ra trong tháng 10, và đời này không có M6 Pro hay M6 Max. Đó là dữ kiện quyết định câu trả lời nên chờ hay mua ngay, nhất là khi MacBook Pro M5 tại Việt Nam đang niêm yết từ 54,999 triệu đồng."
+deck: "Apple đã công bố chip M6 từ ngày 25/8/2026 và cho nó lên kệ trước tiên trong Mac mini, nhưng chiếc máy mà phần đông người dùng chờ đợi là MacBook Pro thì tính tới 9/10/2026 vẫn chưa có. Theo Bloomberg (8/10), máy sẽ là bản 14 inch cấu hình gốc, dự kiến ra mắt khoảng 27/10/2026 qua video trực tuyến, và đời này không có M6 Pro hay M6 Max. Đó là dữ kiện quyết định câu trả lời nên chờ hay mua ngay, nhất là khi MacBook Pro M5 tại Việt Nam đang niêm yết từ 54,999 triệu đồng."
 heroImage: "https://techvision.click/images/macbook-pro-m6-khi-nao-ra-mat-co-nen-cho-hay-mua-m5-2026/macbook-pro-14-m5.jpg"
 heroAlt: "MacBook Pro 14 inch chip M5 mở nắp trên nền đen"
-heroCaption: "MacBook Pro 14 inch chip M5, bản mà đời M6 được đồn sẽ thay thế với thiết kế giữ nguyên. Ảnh: Apple"
+heroCaption: "MacBook Pro 14 inch chip M5, bản cấu hình gốc mà đời M6 được đồn sẽ thay thế. Ảnh: Apple"
 ogImage: "https://techvision.click/uploads/og-article/macbook-pro-m6-khi-nao-ra-mat-co-nen-cho-hay-mua-m5-2026.jpg"
-tldr: "Apple công bố <strong>M6</strong> ngày <strong>25/8/2026</strong>, con chip <strong>2 nanomet</strong> đầu tiên của hãng: CPU 12 lõi (2 lõi siêu tốc, 4 lõi hiệu năng, 6 lõi tiết kiệm), GPU 12 lõi, băng thông bộ nhớ <strong>170GB/s</strong>, bộ nhớ tối đa <strong>32GB</strong>, đa nhân nhanh hơn M5 tới <strong>1,2 lần</strong>. Chip này đã bán trong <strong>Mac mini</strong>, giá Việt Nam từ <strong>24,999 triệu đồng</strong>. Theo Mark Gurman (Bloomberg), <strong>MacBook Pro 14 inch M6</strong> dự kiến ra trong <strong>tháng 10/2026</strong>, giữ nguyên thiết kế, và Apple <strong>bỏ qua M6 Pro, M6 Max</strong>. Bản cao cấp thiết kế lại với <strong>màn OLED cảm ứng</strong> được đồn vẫn dùng <strong>M5 Pro, M5 Max</strong>. Tại Việt Nam, MacBook Pro 14 inch M5 đang niêm yết từ <strong>54,999 triệu đồng</strong> trên Apple Store trực tuyến. Mọi mốc về máy mới là tin đồn, Apple chưa xác nhận."
+tldr: "Apple công bố <strong>M6</strong> ngày <strong>25/8/2026</strong>, con chip <strong>2 nanomet</strong> đầu tiên của hãng: CPU 12 lõi (2 lõi siêu tốc, 4 lõi hiệu năng, 6 lõi tiết kiệm), GPU 12 lõi, băng thông bộ nhớ <strong>170GB/s</strong>, bộ nhớ tối đa <strong>32GB</strong>, đa nhân nhanh hơn M5 tới <strong>1,2 lần</strong>. Chip này đã bán trong <strong>Mac mini</strong>, giá Việt Nam từ <strong>24,999 triệu đồng</strong>. Theo Mark Gurman (Bloomberg), <strong>MacBook Pro 14 inch M6</strong> dự kiến ra mắt khoảng <strong>27/10/2026</strong> (tin ngày 8/10), và Apple <strong>bỏ qua M6 Pro, M6 Max</strong>. Bản cao cấp thiết kế lại với <strong>màn OLED cảm ứng</strong> được đồn ra cùng đợt nhưng vẫn dùng <strong>M5 Pro, M5 Max</strong>. Tại Việt Nam, MacBook Pro 14 inch M5 đang niêm yết từ <strong>54,999 triệu đồng</strong> trên Apple Store trực tuyến. Mọi mốc về máy mới là tin đồn, Apple chưa xác nhận."
 tags: ["Apple", "MacBook", "AppleSilicon", "Laptop"]
 about: ["Apple M6", "MacBook Pro", "Apple silicon", "Mac mini", "Apple M5"]
 authorBio: "Founder LongTechVision. Theo dõi thị trường máy tính và chip xử lý, tư vấn cấu hình cho người dùng Việt Nam nhiều năm."
@@ -27,16 +27,16 @@ stats:
   - { num: "32GB", label: "Bộ nhớ thống nhất tối đa mà M6 tiêu chuẩn hỗ trợ" }
   - { num: "24,999 triệu", label: "Giá khởi điểm Mac mini M6 tại Việt Nam, máy đầu tiên dùng chip này" }
   - { num: "54,999 triệu", label: "Giá MacBook Pro 14 inch M5 trên Apple Store trực tuyến Việt Nam" }
-  - { num: "Tháng 10", label: "Thời điểm MacBook Pro 14 inch M6 được Bloomberg dự đoán ra mắt, chưa xác nhận" }
+  - { num: "~27/10", label: "Ngày Bloomberg (8/10/2026) dự đoán MacBook Pro 14 inch M6 ra mắt, Apple chưa xác nhận" }
 faq:
   - q: "MacBook Pro M6 ra mắt khi nào?"
-    a: "Apple chưa công bố ngày. Mark Gurman của Bloomberg cho biết Apple đang chuẩn bị MacBook Pro 14 inch cấu hình gốc chạy M6 và dự kiến ra trong tháng 10/2026, đúng khoảng một năm sau bản M5. Tính tới 28/9/2026, MacRumors ghi nhận Apple vẫn chưa gửi thư mời sự kiện nào cho tháng 10, và máy hoàn toàn có thể ra bằng thông cáo báo chí. Điều chắc chắn duy nhất là con chip M6 đã tồn tại và đã bán trong Mac mini từ cuối tháng 8/2026."
+    a: "Apple chưa công bố ngày. Mark Gurman của Bloomberg cho biết Apple đang chuẩn bị MacBook Pro 14 inch cấu hình gốc chạy M6 và dự kiến ra trong tháng 10/2026, đúng khoảng một năm sau bản M5. Ngày 8/10/2026, Bloomberg cho biết đợt ra mắt sẽ vào khoảng thứ Ba 27/10/2026, dưới dạng video trực tuyến, cùng iMac M6 và MacBook Pro màn OLED cảm ứng. Lời mời Apple gửi cho ngày 13/10 là đợt đồ nhà thông minh, không có Mac. Điều chắc chắn duy nhất là con chip M6 đã tồn tại và đã bán trong Mac mini từ cuối tháng 8/2026."
   - q: "M6 mạnh hơn M5 bao nhiêu?"
     a: "Theo Apple, M6 có CPU 12 lõi gồm 2 lõi siêu tốc, 4 lõi hiệu năng và 6 lõi tiết kiệm, nhiều hơn M5 hai lõi; hiệu năng đa nhân nhanh hơn M5 tới 1,2 lần. GPU 12 lõi, mỗi lõi có Neural Accelerator, cho sức tính AI đỉnh cao hơn M5 gần 30%. Băng thông bộ nhớ 170GB/s, cao hơn M5 10%, và bộ nhớ tối đa 32GB. Với công việc văn phòng thường ngày, khác biệt so với M5 gần như không cảm nhận được; với biên dịch mã nguồn, dựng video hay chạy mô hình AI cục bộ thì khác biệt rõ hơn."
   - q: "Vì sao chưa có M6 Pro và M6 Max?"
-    a: "Theo Bloomberg, Apple bỏ qua bản Pro và Max của thế hệ M6. Chỉ MacBook Pro cấu hình gốc lên M6, còn chip cấp Pro tiếp theo sẽ là M7 Pro và M7 Max vào năm 2027. Nếu điều này đúng, MacBook Pro đời M6 không phải bản nâng cấp dành cho người đang dùng máy cấu hình cao. Cần nhấn mạnh đây vẫn là tin đồn, Apple không xác nhận lộ trình chip trước khi ra mắt."
+    a: "Theo Bloomberg, Apple bỏ qua bản Pro và Max của thế hệ M6. Chỉ MacBook Pro cấu hình gốc lên M6, còn chip cấp Pro tiếp theo sẽ là M7 Pro và M7 Max, dự kiến vào cuối năm 2027. Nếu điều này đúng, MacBook Pro đời M6 không phải bản nâng cấp dành cho người đang dùng máy cấu hình cao. Cần nhấn mạnh đây vẫn là tin đồn, Apple không xác nhận lộ trình chip trước khi ra mắt."
   - q: "MacBook Pro M6 có màn hình OLED không?"
-    a: "Bản 14 inch M6 được đồn giữ nguyên thiết kế hiện tại, tức vẫn là màn Liquid Retina XDR, không cảm ứng và không mỏng hơn. Màn OLED cảm ứng, Dynamic Island và thân mỏng hơn được đồn thuộc về một dòng MacBook Pro cao cấp thiết kế lại, dùng M5 Pro và M5 Max, có thể ra trong khoảng cuối năm 2026 tới đầu năm 2027. Vì vậy nếu bạn chờ một chiếc MacBook Pro trông khác hẳn thì bản M6 không phải máy đó."
+    a: "Các nguồn tin chỉ mô tả bản 14 inch M6 là bản nâng cấp chip cho dòng cấu hình gốc, nên nhiều khả năng vẫn là màn Liquid Retina XDR, không cảm ứng; Apple chưa xác nhận. Màn OLED cảm ứng và Dynamic Island thuộc về một dòng MacBook Pro cao cấp thiết kế lại, dùng M5 Pro và M5 Max, được Bloomberg (8/10/2026) đồn ra cùng đợt khoảng 27/10/2026, và theo Mark Gurman sẽ không mỏng hơn đáng kể. Vì vậy nếu bạn chờ một chiếc MacBook Pro trông khác hẳn thì bản M6 không phải máy đó."
   - q: "Đang cần máy ngay thì nên mua gì?"
     a: "Nếu công việc là văn phòng, lập trình web, viết lách hoặc học tập, MacBook Air M5 (từ 35,999 triệu đồng) hoặc MacBook Pro 14 inch M5 (từ 54,999 triệu đồng trên Apple Store trực tuyến Việt Nam) đã dư dùng, và chờ thêm vài tuần không đổi được gì đáng kể. Nếu bạn dựng video độ phân giải cao, làm đồ họa 3D hoặc chạy mô hình AI cục bộ, hãy nhìn vào bản M5 Pro (từ 68,999 triệu) và M5 Max (từ 112,999 triệu) chứ đừng chờ M6, vì theo tin đồn hiện tại M6 không có bản cao hơn để chọn."
 related:
@@ -46,17 +46,17 @@ related:
 featured: true
 ---
 
-Ngày 25/8/2026, Apple công bố M6, con chip đầu tiên của hãng sản xuất trên tiến trình 2 nanomet, và đưa nó lên kệ ngay trong Mac mini thế hệ mới với giá tại Việt Nam khởi điểm từ 24,999 triệu đồng. Nhưng chiếc máy mà phần lớn người dùng thật sự quan tâm, MacBook Pro, thì tính tới ngày 30/9/2026 vẫn chưa xuất hiện. Câu hỏi lặp đi lặp lại trong các nhóm người dùng Mac tại Việt Nam vì thế chỉ có một: chờ hay mua luôn máy đang bán.
+Ngày 25/8/2026, Apple công bố M6, con chip đầu tiên của hãng sản xuất trên tiến trình 2 nanomet, và đưa nó lên kệ ngay trong Mac mini thế hệ mới với giá tại Việt Nam khởi điểm từ 24,999 triệu đồng. Nhưng chiếc máy mà phần lớn người dùng thật sự quan tâm, MacBook Pro, thì tính tới ngày 9/10/2026 vẫn chưa xuất hiện. Câu hỏi lặp đi lặp lại trong các nhóm người dùng Mac tại Việt Nam vì thế chỉ có một: chờ hay mua luôn máy đang bán.
 
 <div class="spec-box">
-  <div class="spec-box-title">📋 Những gì đã xác nhận và những gì mới là tin đồn (tới 30/9/2026)</div>
+  <div class="spec-box-title">📋 Những gì đã xác nhận và những gì mới là tin đồn (tới 9/10/2026)</div>
   <table>
     <tr><td>Chip M6, tiến trình 2nm, CPU 12 lõi, GPU 12 lõi</td><td>Đã xác nhận, Apple công bố 25/8/2026</td></tr>
     <tr><td>Băng thông 170GB/s, RAM tối đa 32GB</td><td>Đã xác nhận</td></tr>
     <tr><td>Máy đầu tiên dùng M6</td><td>Mac mini, niêm yết từ 24.999.000đ trên Apple Store trực tuyến Việt Nam</td></tr>
-    <tr><td>MacBook Pro 14 inch M5 đang bán</td><td>Từ 54.999.000đ; bản M5 Pro từ 68.999.000đ (giá đọc 30/9/2026)</td></tr>
-    <tr><td>MacBook Pro 14 inch M6 ra tháng 10/2026</td><td>Tin từ Bloomberg, chưa xác nhận</td></tr>
-    <tr><td>Không có M6 Pro và M6 Max</td><td>Tin từ Bloomberg, bản cấp Pro kế tiếp là M7 năm 2027</td></tr>
+    <tr><td>MacBook Pro 14 inch M5 đang bán</td><td>Từ 54.999.000đ; bản M5 Pro từ 68.999.000đ (giá đọc lại 9/10/2026)</td></tr>
+    <tr><td>MacBook Pro 14 inch M6 ra khoảng 27/10/2026</td><td>Tin từ Bloomberg (8/10), chưa xác nhận</td></tr>
+    <tr><td>Không có M6 Pro và M6 Max</td><td>Tin từ Bloomberg, bản cấp Pro kế tiếp là M7, dự kiến cuối 2027</td></tr>
     <tr><td>Bản M6 giữ thiết kế nhôm, màn Liquid Retina XDR</td><td>Tin đồn, chưa xác nhận</td></tr>
     <tr><td>MacBook Pro OLED cảm ứng, thân mỏng hơn</td><td>Tin đồn, dùng M5 Pro và M5 Max, cuối 2026 tới đầu 2027</td></tr>
   </table>
@@ -77,9 +77,9 @@ Chi tiết đầy đủ về đợt công bố này, bao gồm cả chip M5 Ultr
 
 ## Phần còn là tin đồn: lịch ra mắt và cấu trúc dòng sản phẩm
 
-Nguồn đáng tin nhất tới lúc này là Mark Gurman của Bloomberg, được MacRumors dẫn lại ngày 25/8/2026: Apple đang chuẩn bị MacBook Pro 14 inch cấu hình gốc chạy M6, dự kiến ra trong tháng 10, đúng khoảng một năm sau bản M5. Cùng đợt có iMac 24 inch lên M6 với màu mới. Tính tới 28/9/2026, MacRumors ghi nhận Apple chưa gửi thư mời sự kiện nào cho tháng 10, nên máy cũng có thể ra bằng thông cáo báo chí như nhiều đợt nâng cấp chip trước đây.
+Nguồn đáng tin nhất tới lúc này là Mark Gurman của Bloomberg, được MacRumors dẫn lại ngày 25/8/2026: Apple đang chuẩn bị MacBook Pro 14 inch cấu hình gốc chạy M6, dự kiến ra trong tháng 10, đúng khoảng một năm sau bản M5. Cùng đợt có iMac 24 inch lên M6 với màu mới. Ngày 8/10/2026, Bloomberg cập nhật mốc cụ thể hơn: Apple sẽ ra mắt máy vào khoảng thứ Ba 27/10/2026 bằng một video trực tuyến, cùng iMac M6 và MacBook Pro màn OLED cảm ứng. Lời mời Apple gửi cho ngày 13/10 là đợt đồ nhà thông minh, không có Mac.
 
-Chi tiết quan trọng hơn là Apple bỏ qua M6 Pro và M6 Max. Theo 9to5Mac tổng hợp ngày 27/8, chỉ MacBook Pro cấu hình gốc lên M6, còn chip cấp Pro tiếp theo sẽ là M7 Pro và M7 Max vào năm 2027. Nếu đúng, dòng MacBook Pro đời M6 chỉ có một mức chip, và người đang dùng máy cấu hình cao sẽ không tìm được bản nâng cấp tương xứng ở đời này.
+Chi tiết quan trọng hơn là Apple bỏ qua M6 Pro và M6 Max. Theo 9to5Mac tổng hợp ngày 27/8, chỉ MacBook Pro cấu hình gốc lên M6, còn chip cấp Pro tiếp theo sẽ là M7 Pro và M7 Max, dự kiến cuối năm 2027 theo Bloomberg. Nếu đúng, dòng MacBook Pro đời M6 chỉ có một mức chip, và người đang dùng máy cấu hình cao sẽ không tìm được bản nâng cấp tương xứng ở đời này.
 
 <div class="art-video-label">VIDEO · Apple giới thiệu Mac mini với chip M6</div>
 <div class="art-video-wrap">
@@ -87,7 +87,7 @@ Chi tiết quan trọng hơn là Apple bỏ qua M6 Pro và M6 Max. Theo 9to5Mac 
 </div>
 <p class="art-video-caption">Chip M6 lên Mac mini trước, MacBook Pro được đồn nhận chip này trong tháng 10. Nguồn: YouTube (Apple)</p>
 
-Về thiết kế, bản 14 inch M6 được đồn giữ nguyên khung nhôm, màn hình Liquid Retina XDR, bàn phím và hệ thống cổng như hiện tại. Những thay đổi lớn như màn OLED cảm ứng, Dynamic Island và thân mỏng hơn được đồn thuộc về một dòng MacBook Pro cao cấp thiết kế lại, dùng M5 Pro và M5 Max, có thể xuất hiện trong khoảng cuối năm 2026 tới đầu năm 2027. Với người đang chờ một chiếc MacBook Pro trông khác hẳn, đây là thông tin đáng lưu ý nhất: chiếc máy mới về ngoại hình sẽ không mang chip mới nhất, còn chiếc mang chip mới nhất sẽ không có ngoại hình mới.
+Về thiết kế, các nguồn tin chỉ nói bản 14 inch M6 là bản nâng cấp chip cho dòng cấu hình gốc, nên nhiều khả năng giữ khung nhôm, màn hình Liquid Retina XDR, bàn phím và hệ thống cổng như hiện tại (Apple chưa xác nhận). Những thay đổi lớn như màn OLED cảm ứng, Dynamic Island và thân mỏng hơn được đồn thuộc về một dòng MacBook Pro cao cấp thiết kế lại, dùng M5 Pro và M5 Max, được Bloomberg đồn ra cùng đợt khoảng 27/10/2026. Với người đang chờ một chiếc MacBook Pro trông khác hẳn, đây là thông tin đáng lưu ý nhất: chiếc máy mới về ngoại hình sẽ không mang chip mới nhất, còn chiếc mang chip mới nhất sẽ không có ngoại hình mới.
 
 ## Ai nên chờ, ai nên mua ngay
 
@@ -124,5 +124,5 @@ Có một biến số nằm ngoài Apple nhưng ảnh hưởng trực tiếp t�
 Nói cách khác, phép tính chờ hay mua không chỉ là so cấu hình. Nó còn là so giữa mức giá bạn trả hôm nay với mức giá có thể cao hơn vài tháng sau, cộng thêm phần giá trị sử dụng bạn mất trong thời gian chờ. Bối cảnh đầy đủ về đợt tăng giá linh kiện này nằm trong bài [giá RAM, SSD tăng vọt 2026](/articles/gia-ram-ssd-tang-vot-2026-co-nen-mua-laptop-pc-luc-nay.html).
 
 <div class="art-callout">
-  💡 <strong>Lưu ý:</strong> Thông tin trong bài cập nhật tới ngày 30/9/2026. Mốc ra mắt MacBook Pro M6, việc không có M6 Pro và M6 Max, cũng như dòng MacBook Pro OLED, đều là tin từ Bloomberg và giới theo dõi Apple, chưa được Apple xác nhận. Phần đã xác nhận chỉ gồm thông số chip M6 và các máy đang bán. Giá Việt Nam trong bài là giá niêm yết trên Apple Store trực tuyến; đại lý thường bán thấp hơn và có ưu đãi riêng.
+  💡 <strong>Lưu ý:</strong> Thông tin trong bài cập nhật tới ngày 9/10/2026. Mốc ra mắt MacBook Pro M6, việc không có M6 Pro và M6 Max, cũng như dòng MacBook Pro OLED, đều là tin từ Bloomberg và giới theo dõi Apple, chưa được Apple xác nhận. Phần đã xác nhận chỉ gồm thông số chip M6 và các máy đang bán. Giá Việt Nam trong bài là giá niêm yết trên Apple Store trực tuyến; đại lý thường bán thấp hơn và có ưu đãi riêng.
 </div>
