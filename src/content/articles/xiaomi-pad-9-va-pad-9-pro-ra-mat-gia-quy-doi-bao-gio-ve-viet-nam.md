@@ -7,8 +7,6 @@ category: "Công nghệ"
 type: "tin-tuc"
 datePublished: "2026-10-09T09:00:00+07:00"
 dateModified: "2026-10-09T09:00:00+07:00"
-noindex: true
-scheduled: true
 deck: "Xiaomi khép lại dải máy tính bảng năm nay bằng Pad 9 và Pad 9 Pro, ra mắt tối 23/9/2026 tại Trung Quốc, sau khi Pad 9 Pro Max lên sàn từ ngày 7/9. Điểm chung của cả ba là màn 144Hz độ phân giải cao và pin lớn hơn mặt bằng. Bài này đặt bảng giá Trung Quốc cạnh giá Pad 8 và Pad 8 Pro đang bán chính hãng tại Việt Nam để ước lượng vùng giá khi máy về, và so với các máy tính bảng cùng tầm đang có ở đại lý."
 heroImage: "https://techvision.click/images/xiaomi-pad-9-va-pad-9-pro-ra-mat-gia-quy-doi-bao-gio-ve-viet-nam/xiaomi-pad-9-bon-mau.jpg"
 heroAlt: "Bon mau may tinh bang Xiaomi Pad 9 xam bac hong va xanh dat canh nhau"
