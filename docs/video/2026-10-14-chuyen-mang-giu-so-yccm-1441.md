@@ -2,7 +2,7 @@
 
 > Trạng thái: **DỰNG XONG 09/10/2026** trên Mac. Video đầu tiên dùng **linh vật TV vẽ bằng Google Flow** thay cho TV 3D (anh Long dặn "làm video tiếp theo sử dụng linh vật gen qua flow thử"). Giọng **OmniVoice** (long-ref-20s). 39,7 giây, -13,9 LUFS.
 > File: `00 - VIDEO XONG/2026-10-14 TechVision - chuyen-mang-giu-so-yccm-1441.mp4` + `_ban-nhe-10MB/`.
-> **CHƯA ĐĂNG.** Chờ anh Long nói "đăng": Facebook qua `fb_reel.py` (hẹn 14/10 19:00), YouTube + TikTok qua Chrome (nhớ kiểm handle @longtechvision + ô "Ai xem được" = Mọi người).
+> **Facebook ĐÃ ĐĂNG 09/10/2026** (anh Long nói "đăng lên facebook luôn"): https://www.facebook.com/reel/2275102386365399 (video_id 2275102386365399, qua bản quyền OK). **YouTube + TikTok CHƯA ĐĂNG**, chờ anh nói "đăng" (qua Chrome (nhớ kiểm handle @longtechvision + ô "Ai xem được" = Mọi người).
 > Trang dựng: `techvision-video-kit/mascot/pages/cms1014.html` (sinh từ `out/cms1014/page.json`, khối `flow_mascot`). Giọng + tiếng: `scripts/build_cms.py` (nhạc Tropical 126 bản 2, -19 dB).
 
 - Bài web ăn theo: https://techvision.click/articles/chuyen-mang-giu-so-2026-phi-dieu-kien-thu-tuc-3-nha-mang.html (hẹn 14/10/2026 15:00).
