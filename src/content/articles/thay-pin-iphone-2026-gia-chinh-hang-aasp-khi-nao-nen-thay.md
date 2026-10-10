@@ -14,7 +14,7 @@ heroImage: "https://i.ytimg.com/vi/kR98JZ5RJpk/maxresdefault.jpg"
 heroAlt: "Kỹ thuật viên thay pin iPhone theo quy trình chuẩn của Apple"
 heroCaption: "Thay pin theo quy trình của Apple giữ được lớp keo chống nước và mục tình trạng pin trong iOS. Nguồn: YouTube (Vật Vờ Studio)"
 ogImage: "https://techvision.click/uploads/og-article/thay-pin-iphone-2026-gia-chinh-hang-aasp-khi-nao-nen-thay.jpg"
-tldr: "Giá thay pin iPhone chính hãng tại các trung tâm bảo hành ủy quyền Apple ở Việt Nam hiện nằm trong khoảng <strong>1,3 tới 2,3 triệu đồng</strong> tùy đời máy, đã gồm VAT và công thay. Nhóm iPhone 16 và 17 nằm ở nửa trên của khoảng này, quanh <strong>1,9 tới 2,3 triệu đồng</strong> theo bảng giá TopCare, trung tâm bảo hành ủy quyền Apple (giá đọc ngày 30/09/2026). Mốc kỹ thuật để quyết định là <strong>dung lượng tối đa dưới 80%</strong>, ngưỡng Apple xem là pin đã hết vòng đời thiết kế. Apple công bố pin của <strong>iPhone 15 và các đời sau giữ được 80% sau 1.000 chu kỳ sạc</strong>, gấp đôi mức 500 chu kỳ của các đời trước. Pin thay chính hãng được Apple bảo hành <strong>90 ngày</strong>. Nếu máy còn <strong>AppleCare+</strong> và pin dưới 80%, Apple thay pin không thu phí, nên hãy kiểm tra bảo hành trước khi trả tiền."
+tldr: "Giá thay pin iPhone chính hãng tại các trung tâm bảo hành ủy quyền Apple ở Việt Nam hiện nằm trong khoảng <strong>1,3 tới 2,3 triệu đồng</strong> tùy đời máy, đã gồm VAT và công thay. Nhóm iPhone 16 và 17 nằm ở nửa trên của khoảng này, quanh <strong>1,9 tới 2,3 triệu đồng</strong> theo bảng giá TopCare, trung tâm bảo hành ủy quyền Apple (giá đọc ngày 30/09/2026). Mốc kỹ thuật để quyết định là <strong>dung lượng tối đa dưới 80%</strong>, ngưỡng Apple xem là pin đã hết vòng đời thiết kế. Trang hỗ trợ của Apple ghi pin của <strong>dòng iPhone 15 giữ được 80% sau 1.000 chu kỳ sạc</strong>, gấp đôi mức 500 chu kỳ của iPhone 14 trở về trước (trang này chưa ghi con số riêng cho iPhone 16 và 17). Pin thay chính hãng được Apple bảo hành <strong>90 ngày</strong>. Nếu máy còn <strong>AppleCare+</strong> và pin dưới 80%, Apple thay pin không thu phí, nên hãy kiểm tra bảo hành trước khi trả tiền."
 tags: ["Apple", "iPhone", "Pin", "BaoHanh", "2026"]
 about: ["iPhone", "Apple", "AppleCare+", "Pin Lithium-ion"]
 authorBio: "Founder LongTechVision. Theo dõi chi phí sử dụng và bảo hành thiết bị Apple tại Việt Nam."
@@ -26,7 +26,7 @@ stats:
   - { num: "1,9 triệu", label: "Giá TopCare cho iPhone 14, 15, 16, 16 Plus và 17" }
   - { num: "2,3 triệu", label: "Giá TopCare cho iPhone 16 Pro, 17 Pro, 17 Pro Max và iPhone Air" }
   - { num: "80%", label: "Ngưỡng dung lượng tối đa Apple xem là pin hết vòng đời thiết kế" }
-  - { num: "1.000 chu kỳ", label: "Số chu kỳ pin iPhone 15 trở lên giữ được 80%, theo Apple" }
+  - { num: "1.000 chu kỳ", label: "Số chu kỳ pin dòng iPhone 15 giữ được 80%, theo Apple" }
   - { num: "0 đồng", label: "Chi phí thay pin nếu máy còn AppleCare+ và pin dưới 80%" }
 faq:
   - q: "Thay pin iPhone chính hãng ở Việt Nam giá bao nhiêu?"
@@ -34,7 +34,7 @@ faq:
   - q: "Dung lượng pin còn bao nhiêu thì nên thay?"
     a: "Mốc tham chiếu là 80%. Đây là ngưỡng Apple dùng để định nghĩa vòng đời thiết kế của pin, và cũng là lúc iOS bắt đầu hiển thị khuyến nghị bảo dưỡng. Tuy vậy con số không phải tất cả. Nếu pin còn 82% mà máy sập nguồn khi trời lạnh hoặc khi mở camera, đó là dấu hiệu cần thay sớm hơn. Ngược lại, pin 78% mà bạn vẫn đủ dùng hết ngày và không gặp sự cố thì chưa cần gấp."
   - q: "Pin của iPhone đời mới có bền hơn không?"
-    a: "Có, và mức chênh đáng kể. Apple công bố pin trên iPhone 15 và các đời sau giữ được 80% dung lượng sau 1.000 chu kỳ sạc, gấp đôi con số 500 chu kỳ của các đời trước đó. Một chu kỳ tính bằng việc dùng hết 100% dung lượng, không phải mỗi lần cắm sạc, nên với người sạc mỗi ngày thì 1.000 chu kỳ tương ứng khoảng ba năm sử dụng trở lên. Đây là lý do nhiều máy đời mới chưa cần thay pin dù đã qua hai năm."
+    a: "Có, và mức chênh đáng kể. Trang hỗ trợ của Apple ghi pin trên dòng iPhone 15 giữ được 80% dung lượng sau 1.000 chu kỳ sạc, gấp đôi con số 500 chu kỳ của iPhone 14 trở về trước. Trang này chưa ghi con số riêng cho iPhone 16 và 17. Một chu kỳ tính bằng việc dùng hết 100% dung lượng, không phải mỗi lần cắm sạc, nên với người sạc mỗi ngày thì 1.000 chu kỳ tương ứng khoảng ba năm sử dụng trở lên. Đây là lý do nhiều máy đời mới chưa cần thay pin dù đã qua hai năm."
   - q: "Pin ngoài rẻ hơn nhiều, có nên dùng không?"
     a: "Pin không phải hàng Apple có giá thấp hơn rõ, nhưng đi kèm ba đánh đổi. Thứ nhất, iOS có thể hiện thông báo không xác minh được pin chính hãng và ẩn luôn mục tình trạng pin, tức bạn mất công cụ theo dõi. Thứ hai, dung lượng thực tế và tuổi thọ thường thấp hơn công bố. Thứ ba, nếu máy còn bảo hành Apple, việc thay linh kiện không chính hãng có thể ảnh hưởng tới quyền bảo hành cho các hư hỏng liên quan. Với máy còn dùng lâu, phần chênh lệch giá thường không đáng để đánh đổi."
   - q: "Thay pin hay đổi máy thì hợp lý hơn?"
@@ -77,7 +77,7 @@ Nhưng con số đó không phải toàn bộ câu chuyện. Thực tế có hai
   <figcaption>Pin chai vì hóa học của lithium-ion, không phải vì máy cũ. Máy sập nguồn khi mở camera là dấu hiệu nặng hơn con số dung lượng tối đa. Nguồn: YouTube (Vật Vờ Studio)</figcaption>
 </figure>
 
-Một điểm nhiều người hiểu sai là cách tính chu kỳ sạc. Một chu kỳ không phải một lần cắm sạc, mà là tổng lượng điện tương đương 100% dung lượng. Nếu mỗi ngày bạn dùng 50% rồi sạc lại, hai ngày mới hết một chu kỳ. Apple công bố pin trên **iPhone 15 và các đời sau giữ 80% dung lượng sau 1.000 chu kỳ**, gấp đôi mức 500 chu kỳ của các đời trước. Với người dùng bình thường, con số đó tương ứng khoảng ba năm trở lên, và đây là lý do nhiều máy đời mới chưa cần thay pin dù đã qua hai năm sử dụng.
+Một điểm nhiều người hiểu sai là cách tính chu kỳ sạc. Một chu kỳ không phải một lần cắm sạc, mà là tổng lượng điện tương đương 100% dung lượng. Nếu mỗi ngày bạn dùng 50% rồi sạc lại, hai ngày mới hết một chu kỳ. Trang hỗ trợ của Apple ghi pin trên **dòng iPhone 15 giữ 80% dung lượng sau 1.000 chu kỳ**, gấp đôi mức 500 chu kỳ của các đời trước. Với người dùng bình thường, con số đó tương ứng khoảng ba năm trở lên, và đây là lý do nhiều máy đời mới chưa cần thay pin dù đã qua hai năm sử dụng.
 
 ## Pin chính hãng, pin OEM và pin dựng khác nhau ở đâu
 
