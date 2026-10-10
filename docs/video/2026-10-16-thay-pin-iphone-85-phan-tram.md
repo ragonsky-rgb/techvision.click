@@ -1,6 +1,6 @@
 # Video: Pin iPhone còn 85% chưa cần thay, mốc thật là 80% (series A, đăng T6 16/10/2026 19:00)
 
-> Trạng thái: **CHƯA ĐĂNG**. DỰNG XONG 10/10/2026 trên Mac. Giọng **OmniVoice** (long-ref-20s, tua 1,2x). Linh vật **dùng lại clip Flow đã tách nền** của cms1014 + mbp1015 (0 tín dụng). Bố cục **media phủ kín khung dọc**, vùng an toàn mới 10/10. 37,0 giây (gồm intro series A 1,5 giây), -13,9 LUFS.
+> Trạng thái: **ĐÃ HẸN ĐỦ 3 NỀN TẢNG 16/10 19:00** (10/10): Facebook https://www.facebook.com/reel/2674932502944080 , YouTube (API) https://youtu.be/ixUNpbfF4Co , TikTok @longtechvision Mọi người (file gốc 26,73 MB). DỰNG XONG 10/10/2026 trên Mac. Giọng **OmniVoice** (long-ref-20s, tua 1,2x). Linh vật **dùng lại clip Flow đã tách nền** của cms1014 + mbp1015 (0 tín dụng). Bố cục **media phủ kín khung dọc**, vùng an toàn mới 10/10. 37,0 giây (gồm intro series A 1,5 giây), -13,9 LUFS.
 > File: `00 - VIDEO XONG/2026-10-16 TechVision - thay-pin-iphone-85-phan-tram.mp4` + `_ban-nhe-10MB/` + ảnh bìa `2026-10-16 TechVision - thay-pin-iphone-85-phan-tram - thumb-ngang.jpg`, `... - thumb-doc.jpg`.
 > Trang dựng: `techvision-video-kit/mascot/pages/pin1016.html` (sinh từ `out/pin1016/page.json`). Giọng + tiếng: `scripts/build_pin.py` (nhạc Pop 120, -19 dB).
 
